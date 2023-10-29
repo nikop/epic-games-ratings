@@ -14360,9 +14360,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894373,
-  "EOS_Completed": 2729,
-  "EOS_NewPlayers": 1146,
+  "EOS_Progressed": 894382,
+  "EOS_Completed": 2730,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36115,6 +36115,11 @@
       "Time": "2023-10-29T08:03:47.1552245+00:00",
       "NumProgressed": 894373,
       "NumCompleted": 2729
+    },
+    {
+      "Time": "2023-10-29T09:04:59.6518177+00:00",
+      "NumProgressed": 894382,
+      "NumCompleted": 2730
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36143,7 +36148,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "Cyberjunkie",
@@ -36207,7 +36212,7 @@
       "Name": "Gunslinger",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "HandyMan",
@@ -36215,7 +36220,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "IAmMaxTac",
@@ -36223,7 +36228,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -36247,7 +36252,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "MaxPain",
@@ -36271,7 +36276,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "NoMansLand",
@@ -36295,7 +36300,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "Roleplayer",
@@ -36367,7 +36372,7 @@
       "Name": "The Lovers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "TheStar",
@@ -36399,7 +36404,7 @@
       "Name": "The World",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "ThisIsPacifica",
@@ -36415,7 +36420,7 @@
       "Name": "The Jungle",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "TrueSoldier",
@@ -36447,7 +36452,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "VForVendetta",
@@ -36646,21 +36651,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894373,
-      "Completed": 2729
+      "Progressed": 894382,
+      "Completed": 2730
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22996,
+      "Progressed": 23005,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-29T07:57:20.4472852+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:03:47.1552239+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:04:59.6518168+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:57:20.4472863+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:03:47.1553656+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:57:46.8264568+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:04:59.6520504+00:00"
 }

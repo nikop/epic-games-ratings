@@ -8,9 +8,9 @@
 | Complete Level 1-1 | 64.00% | ~65 |
 | Immortal | 56.00% | ~57 |
 | Complete Level 1-2 | 47.00% | ~48 |
+| Scraping by | 34.00% | ~35 |
 | Engineer-mage hybrid | 34.00% | ~35 |
-| Scraping by | 33.00% | ~34 |
-| Complete Level 1-3 | 30.00% | ~31 |
+| Complete Level 1-3 | 31.00% | ~32 |
 | Defeat the warrior boss | 25.00% | ~26 |
 | Get out of my way | 22.00% | ~22 |
 | Redecorator | 21.00% | ~21 |
@@ -31,7 +31,7 @@
 | Should have left me alone | 9.00% | ~9 |
 | Drink up | 9.00% | ~9 |
 | Complete Level 3-3 | 8.00% | ~8 |
-| Mage specialist | 7.00% | ~7 |
+| Mage specialist | 8.00% | ~8 |
 | Defeat the mage boss | 6.00% | ~6 |
 | Remote retrieved | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |

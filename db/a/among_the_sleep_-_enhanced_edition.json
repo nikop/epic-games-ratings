@@ -3,12 +3,12 @@
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
   "Ranking_Rating": 824,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 541,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -482,9 +482,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90653,
+  "EOS_Progressed": 90654,
   "EOS_Completed": 409,
-  "EOS_NewPlayers": 949,
+  "EOS_NewPlayers": 946,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -21757,6 +21757,11 @@
       "Time": "2023-10-29T08:05:07.9757024+00:00",
       "NumProgressed": 90653,
       "NumCompleted": 409
+    },
+    {
+      "Time": "2023-10-29T09:06:52.5863525+00:00",
+      "NumProgressed": 90654,
+      "NumCompleted": 409
     }
   ],
   "TotalAchievements": 10,
@@ -21847,15 +21852,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 90653,
+      "Progressed": 90654,
       "Completed": 409
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-16T14:00:05.3174253+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:05:07.9757019+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:06:52.5863518+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:12.3761265+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:59:40.5211397+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:05:07.9758074+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:00:43.7034023+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:06:52.5865079+00:00"
 }

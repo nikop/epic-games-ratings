@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1253,9 +1253,9 @@
       "ID": "ENDING_7",
       "SetID": "8eejhlh",
       "Name": "The Frenzy",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 185
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1341,9 +1341,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 272
     }
   ],
   "AchievementSets": [
@@ -1358,8 +1358,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:04:34.4826457+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:06:06.0798629+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:59:14.9440399+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:04:34.4826627+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:00:04.1088321+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:06:06.0798879+00:00"
 }

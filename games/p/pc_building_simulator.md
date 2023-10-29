@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,751,215 |
-| Easy to forget | 46.00% | ~1,643,998 |
-| Back in the black | 39.00% | ~1,393,825 |
-| That's what I'm talking about | 29.00% | ~1,036,434 |
-| The Best of Both Worlds | 25.00% | ~893,477 |
-| Get your wings | 20.00% | ~714,782 |
-| Double trouble | 16.00% | ~571,825 |
-| Smashing it | 11.00% | ~393,130 |
-| But can it run Crysis? | 9.00% | ~321,652 |
-| My favourite feature... | 9.00% | ~321,652 |
-| From humble beginnings... | 7.00% | ~250,174 |
-| Customer satisfaction | 7.00% | ~250,174 |
-| Keeping things neat | 4.00% | ~142,956 |
-| Seems you're pretty good at this | 4.00% | ~142,956 |
-| Bending over backwards | 4.00% | ~142,956 |
-| Triple threat | 3.00% | ~107,217 |
-| You rock at this! | 3.00% | ~107,217 |
-| Your music sucks | 3.00% | ~107,217 |
-| I'm broke, Uncle! | 2.00% | ~71,478 |
-| Maybe you should try something else? | 2.00% | ~71,478 |
-| Taking care of business | 2.00% | ~71,478 |
-| Things are under control | 2.00% | ~71,478 |
-| Perfection | 2.00% | ~71,478 |
-| Calling in Sick | 2.00% | ~71,478 |
+| You need to plug it in... | 49.00% | ~1,751,229 |
+| Easy to forget | 46.00% | ~1,644,011 |
+| Back in the black | 39.00% | ~1,393,835 |
+| That's what I'm talking about | 29.00% | ~1,036,441 |
+| The Best of Both Worlds | 25.00% | ~893,484 |
+| Get your wings | 20.00% | ~714,787 |
+| Double trouble | 16.00% | ~571,830 |
+| Smashing it | 11.00% | ~393,133 |
+| But can it run Crysis? | 9.00% | ~321,654 |
+| My favourite feature... | 9.00% | ~321,654 |
+| From humble beginnings... | 7.00% | ~250,176 |
+| Customer satisfaction | 7.00% | ~250,176 |
+| Keeping things neat | 4.00% | ~142,957 |
+| Seems you're pretty good at this | 4.00% | ~142,957 |
+| Bending over backwards | 4.00% | ~142,957 |
+| Triple threat | 3.00% | ~107,218 |
+| You rock at this! | 3.00% | ~107,218 |
+| Your music sucks | 3.00% | ~107,218 |
+| I'm broke, Uncle! | 2.00% | ~71,479 |
+| Maybe you should try something else? | 2.00% | ~71,479 |
+| Taking care of business | 2.00% | ~71,479 |
+| Things are under control | 2.00% | ~71,479 |
+| Perfection | 2.00% | ~71,479 |
+| Calling in Sick | 2.00% | ~71,479 |
 | Overvolted | 1.00% | ~35,739 |
 | If you fail the first time... | 1.00% | ~35,739 |
 | Amazonian | 1.00% | ~35,739 |
@@ -38,9 +38,9 @@ Number of Ratings: 12,155  (23.09.2022)
 | Majority Shareholder | 1.00% | ~35,739 |
 | Owner | 1.00% | ~35,739 |
 | Show off | 0.90% | ~32,165 |
-| Work ethic 101 | 0.70% | ~25,017 |
-| Building momentum | 0.60% | ~21,443 |
-| Lead by example | 0.60% | ~21,443 |
+| Work ethic 101 | 0.70% | ~25,018 |
+| Building momentum | 0.60% | ~21,444 |
+| Lead by example | 0.60% | ~21,444 |
 | Treat yourself - RAM | 0.50% | ~17,870 |
 | Mr big business | 0.40% | ~14,296 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,722 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,574 |
 | Treat yourself - GPU | 0.10% | ~3,574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573,909 (Ranked 5)  
+Progressed: 3,573,936 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,14 +251,14 @@ Completed: 36 (0.00%) (Ranked 331)
 | 2023-10-26 | 3,573,129 | 36 |
 | 2023-10-27 | 3,573,429 | 36 |
 | 2023-10-28 | 3,573,806 | 36 |
-| 2023-10-29 | 3,573,909 | 36 |
+| 2023-10-29 | 3,573,936 | 36 |
 ## Awards
-Max (Great for Beginners): 1,091  (Ranked 142)  
-Sum: 8,086 (Ranked 102)  
+Max (Great for Beginners): 1,093  (Ranked 142)  
+Sum: 8,088 (Ranked 102)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,091 |
+| This game is Great for Beginners | 1,093 |
 | This game is Educational | 1,004 |
 | This game is Extremely Fun | 1,001 |
 | This game is Relaxing | 989 |
@@ -510,4 +510,4 @@ Diff (max vs sum): 40
 | 2023-10-26 | 4.65 | - | 1,090 | 8,079 |
 | 2023-10-27 | 4.65 | - | 1,091 | 8,083 |
 | 2023-10-28 | 4.65 | - | 1,091 | 8,084 |
-| 2023-10-29 | 4.65 | - | 1,091 | 8,086 |
+| 2023-10-29 | 4.65 | - | 1,093 | 8,088 |

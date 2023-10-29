@@ -6,46 +6,46 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,252 |
-| Overkill | 34.00% | ~5,734 |
-| Vaccine Incoming | 33.00% | ~5,565 |
-| A normal day in Gloomhaven | 33.00% | ~5,565 |
-| Spread the plague | 30.00% | ~5,060 |
-| Get over here! | 24.00% | ~4,048 |
-| Just when I thought I was out... | 19.00% | ~3,204 |
-| Precious! | 17.00% | ~2,867 |
-| Mine... All Mine... | 17.00% | ~2,867 |
-| Light of my life | 15.00% | ~2,530 |
-| Anatomy Lesson | 15.00% | ~2,530 |
-| Grizzled veteran | 14.00% | ~2,361 |
-| You activated my trap card! | 13.00% | ~2,192 |
-| Obstacle race | 13.00% | ~2,192 |
-| Augmented rat | 12.00% | ~2,024 |
-| Doom and gloom | 11.00% | ~1,855 |
-| Who's the Boss? | 9.00% | ~1,518 |
-| Dungeon Veteran | 8.00% | ~1,349 |
-| Pack leader | 8.00% | ~1,349 |
-| Pain is your friend | 8.00% | ~1,349 |
-| Black death | 8.00% | ~1,349 |
-| Play it again, Sam | 8.00% | ~1,349 |
-| Quad damage | 6.00% | ~1,012 |
-| Power Up! | 5.00% | ~843 |
-| The Pro from Dover | 5.00% | ~843 |
-| Pretty lights! | 5.00% | ~843 |
-| Now you see me... | 5.00% | ~843 |
+| I'm not dead yet | 43.00% | ~7,257 |
+| Overkill | 34.00% | ~5,738 |
+| Vaccine Incoming | 33.00% | ~5,569 |
+| A normal day in Gloomhaven | 33.00% | ~5,569 |
+| Spread the plague | 30.00% | ~5,063 |
+| Get over here! | 24.00% | ~4,050 |
+| Just when I thought I was out... | 19.00% | ~3,207 |
+| Precious! | 17.00% | ~2,869 |
+| Mine... All Mine... | 17.00% | ~2,869 |
+| Light of my life | 15.00% | ~2,532 |
+| Anatomy Lesson | 15.00% | ~2,532 |
+| Grizzled veteran | 14.00% | ~2,363 |
+| You activated my trap card! | 13.00% | ~2,194 |
+| Obstacle race | 13.00% | ~2,194 |
+| Augmented rat | 12.00% | ~2,025 |
+| Doom and gloom | 11.00% | ~1,856 |
+| Who's the Boss? | 9.00% | ~1,519 |
+| Dungeon Veteran | 8.00% | ~1,350 |
+| Pack leader | 8.00% | ~1,350 |
+| Pain is your friend | 8.00% | ~1,350 |
+| Black death | 8.00% | ~1,350 |
+| Play it again, Sam | 8.00% | ~1,350 |
+| Quad damage | 6.00% | ~1,013 |
+| Power Up! | 5.00% | ~844 |
+| The Pro from Dover | 5.00% | ~844 |
+| Pretty lights! | 5.00% | ~844 |
+| Now you see me... | 5.00% | ~844 |
 | Caught off guard | 4.00% | ~675 |
 | I hate portals | 3.00% | ~506 |
 | Merchant of doom | 3.00% | ~506 |
 | Grin and bear it | 3.00% | ~506 |
-| From Gloom, only greed and death emerges | 2.00% | ~337 |
-| The Rat King | 2.00% | ~337 |
-| How to train your Drake | 2.00% | ~337 |
-| Down the hatch | 2.00% | ~337 |
-| An eye for an eye | 2.00% | ~337 |
-| The Cephalophore | 2.00% | ~337 |
-| Master Assassin | 2.00% | ~337 |
-| The Sniper | 2.00% | ~337 |
-| An axe to grind | 2.00% | ~337 |
+| From Gloom, only greed and death emerges | 2.00% | ~338 |
+| The Rat King | 2.00% | ~338 |
+| How to train your Drake | 2.00% | ~338 |
+| Down the hatch | 2.00% | ~338 |
+| An eye for an eye | 2.00% | ~338 |
+| The Cephalophore | 2.00% | ~338 |
+| Master Assassin | 2.00% | ~338 |
+| The Sniper | 2.00% | ~338 |
+| An axe to grind | 2.00% | ~338 |
 | Add a bit of colour | 1.00% | ~169 |
 | Captain hooked | 0.90% | ~152 |
 | New Blood | 0.90% | ~152 |
@@ -53,7 +53,7 @@ Number of Ratings: 68  (23.09.2022)
 | Spoiler police! | 0.80% | ~135 |
 | The Pacifist | 0.50% | ~84 |
 | Born Support | 0.50% | ~84 |
-| A tough job | 0.40% | ~67 |
+| A tough job | 0.40% | ~68 |
 | The evil that men do | 0.30% | ~51 |
 | MacReady Steady.. Go! | 0.30% | ~51 |
 | Pull out the big guns | 0.30% | ~51 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,865 (Ranked 137)  
+Progressed: 16,877 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.01%) (Ranked 310)
 | 2023-10-26 | 16,260 | 1 |
 | 2023-10-27 | 16,501 | 1 |
 | 2023-10-28 | 16,804 | 1 |
-| 2023-10-29 | 16,865 | 1 |
+| 2023-10-29 | 16,877 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,321 (Ranked 98)  

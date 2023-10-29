@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_COMPLETIONIST",
@@ -332,9 +332,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
@@ -460,9 +460,9 @@
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_MAGE",
       "SetID": "cfld5bl",
       "Name": "Mage specialist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_WARRIOR",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:04:49.3179476+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:06:27.2185918+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:15.5161044+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:58:54.9228652+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:04:49.3180456+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:59:39.3683443+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:06:27.2186324+00:00"
 }

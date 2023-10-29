@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 478,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1295,10 +1295,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 560,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2023-10-29T09:00:29.5047314+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 580,
+      "NumberOfAwardsMax": 365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 560,
+  "NumberOfAwards": 580,
   "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1355,11 +1361,17 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 28
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 13287,
+  "EOS_Progressed": 13288,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13347,6 +13359,11 @@
       "Time": "2023-10-29T06:07:46.1051476+00:00",
       "NumProgressed": 13287,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-29T09:08:20.0864339+00:00",
+      "NumProgressed": 13288,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13358,7 +13375,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10895
+      "UsersEstimate": 10896
     },
     {
       "ID": "ACH02",
@@ -13406,7 +13423,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "ACH08",
@@ -13414,7 +13431,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6776
+      "UsersEstimate": 6777
     },
     {
       "ID": "ACH09",
@@ -13550,7 +13567,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH26",
@@ -13637,16 +13654,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13287,
+      "Progressed": 13288,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-28T04:59:25.6368793+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:06:10.7774194+00:00",
+  "LastChanged": "2023-10-29T09:00:29.5047311+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:08:20.0864329+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:59:30.3762437+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:06:10.7774934+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:00:29.5047316+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:08:20.0866682+00:00"
 }

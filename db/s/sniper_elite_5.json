@@ -3,12 +3,12 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 634,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 530,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -7585,9 +7585,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 531
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -8128,8 +8128,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:05:54.3962961+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:07:57.2974307+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:59:11.8340402+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:05:54.3963842+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:59:59.3419946+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:07:57.2975629+00:00"
 }

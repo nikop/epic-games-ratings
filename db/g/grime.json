@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1273,9 +1273,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155317,
+  "EOS_Progressed": 155328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1456,
+  "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13498,6 +13498,11 @@
       "Time": "2023-10-29T08:04:53.7878416+00:00",
       "NumProgressed": 155317,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T09:06:33.4051408+00:00",
+      "NumProgressed": 155328,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13557,7 +13562,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -13581,7 +13586,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -13781,7 +13786,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -13876,21 +13881,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154900,
+      "Progressed": 154911,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155317,
+      "Progressed": 155328,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T21:02:39.1758873+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:04:53.7878412+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:06:33.4051398+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T07:57:11.9060685+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:04:53.7879373+00:00"
+  "LastUpdate_Ratings": "2023-10-29T08:57:36.1294065+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:06:33.4052707+00:00"
 }

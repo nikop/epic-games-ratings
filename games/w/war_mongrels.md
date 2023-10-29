@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.33 (Ranked 800)  
+Rating: 4.33 (Ranked 801)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,10 +43,10 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter XII | 7.00% | ~39 |
 | Collectibles of Chapter VII | 6.00% | ~34 |
 | The Good Samaritan | 6.00% | ~34 |
+| It Will Rain | 6.00% | ~34 |
 | Not Spill a Drop | 6.00% | ~34 |
 | Collectibles of Chapter VIII | 5.00% | ~28 |
 | Collectibles of Chapter XI | 5.00% | ~28 |
-| It Will Rain | 5.00% | ~28 |
 | Collectibles of Chapter X | 4.00% | ~22 |
 | Collectibles of Chapter VI | 3.00% | ~17 |
 | Collectibles of Chapter IX | 3.00% | ~17 |

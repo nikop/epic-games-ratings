@@ -6,10 +6,10 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,140 |
-| Powergamer | 27.00% | ~67,635 |
-| Write that down | 25.00% | ~62,625 |
-| Barely scratched the surface | 25.00% | ~62,625 |
+| I will finish what you started | 28.00% | ~70,141 |
+| Powergamer | 27.00% | ~67,636 |
+| Write that down | 25.00% | ~62,626 |
+| Barely scratched the surface | 25.00% | ~62,626 |
 | Guns, lots of guns | 13.00% | ~32,565 |
 | Collector | 12.00% | ~30,060 |
 | Elementary! | 9.00% | ~22,545 |
@@ -46,9 +46,9 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~2,004 |
 | Let's try another | 0.80% | ~2,004 |
 | Home run | 0.80% | ~2,004 |
-| I have the high ground | 0.70% | ~1,753 |
-| Enjoy these little moments | 0.50% | ~1,252 |
-| Who wouldn't love a troll? | 0.50% | ~1,252 |
+| I have the high ground | 0.70% | ~1,754 |
+| Enjoy these little moments | 0.50% | ~1,253 |
+| Who wouldn't love a troll? | 0.50% | ~1,253 |
 | Irondec | 0.40% | ~1,002 |
 | LET ME OUT! | 0.40% | ~1,002 |
 | Un-bear-able | 0.40% | ~1,002 |
@@ -57,9 +57,9 @@ Number of Ratings: 33  (23.09.2022)
 | Aren't you overthinking? | 0.20% | ~501 |
 | Take the red pill | 0.20% | ~501 |
 | This is the way | 0.20% | ~501 |
-| Memory 5 | 0.10% | ~250 |
+| Memory 5 | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,500 (Ranked 55)  
+Progressed: 250,503 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 7 (0.00%) (Ranked 331)
 | 2023-10-26 | 250,263 | 7 |
 | 2023-10-27 | 250,355 | 7 |
 | 2023-10-28 | 250,469 | 7 |
-| 2023-10-29 | 250,500 | 7 |
+| 2023-10-29 | 250,503 | 7 |
 ## Awards
 Max (Character Customization): 86  (Ranked 372)  
 Sum: 86 (Ranked 445)  

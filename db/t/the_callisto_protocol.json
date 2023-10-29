@@ -6,9 +6,9 @@
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1385,7 +1385,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16335,
+  "EOS_Progressed": 16336,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 2,
@@ -8435,6 +8435,11 @@
       "Time": "2023-10-29T01:48:24.6406166+00:00",
       "NumProgressed": 16335,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-29T09:04:26.483768+00:00",
+      "NumProgressed": 16336,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8478,7 +8483,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8821,13 +8826,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16335,
+      "Progressed": 16336,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4261,
+      "Progressed": 4262,
       "Completed": 29
     }
   ],
@@ -8835,8 +8840,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T04:01:18.0419391+00:00",
-  "LastChanged_Achievements": "2023-10-29T08:03:23.2680988+00:00",
+  "LastChanged_Achievements": "2023-10-29T09:04:26.4837674+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-29T08:00:53.741401+00:00",
-  "LastUpdate_Achievements": "2023-10-29T08:03:23.2681678+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:02:33.8173968+00:00",
+  "LastUpdate_Achievements": "2023-10-29T09:04:26.4838604+00:00"
 }

@@ -24,17 +24,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.50% | ~4,472 |
 | Two Heads, One Bullet | 0.50% | ~4,472 |
 | Legend of The Afterlife | 0.50% | ~4,472 |
-| Bushido and Chill | 0.40% | ~3,577 |
-| Gunslinger | 0.40% | ~3,577 |
-| Master Crafter | 0.40% | ~3,577 |
-| I Am The Law | 0.40% | ~3,577 |
-| Christmas Tree Attack | 0.40% | ~3,577 |
-| Breathtaking | 0.40% | ~3,577 |
-| Life of the Road | 0.40% | ~3,577 |
-| The Lovers | 0.40% | ~3,577 |
-| The World | 0.40% | ~3,577 |
-| The Jungle | 0.40% | ~3,577 |
-| Judy vs Night City | 0.40% | ~3,577 |
+| Bushido and Chill | 0.40% | ~3,578 |
+| Gunslinger | 0.40% | ~3,578 |
+| Master Crafter | 0.40% | ~3,578 |
+| I Am The Law | 0.40% | ~3,578 |
+| Christmas Tree Attack | 0.40% | ~3,578 |
+| Breathtaking | 0.40% | ~3,578 |
+| Life of the Road | 0.40% | ~3,578 |
+| The Lovers | 0.40% | ~3,578 |
+| The World | 0.40% | ~3,578 |
+| The Jungle | 0.40% | ~3,578 |
+| Judy vs Night City | 0.40% | ~3,578 |
 | Spin Doctor | 0.40% | ~92 |
 | To Bad Decisions! | 0.30% | ~2,683 |
 | To Protect and Serve | 0.30% | ~2,683 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,373 (Ranked 15)  
-Completed: 2,729 (0.31%) (Ranked 211)  
+Progressed: 894,382 (Ranked 15)  
+Completed: 2,730 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,7 +264,7 @@ Completed: 2,729 (0.31%) (Ranked 211)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,373 | 2,729 |
+| 2023-10-29 | 894,382 | 2,730 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 332,827 (Ranked 10)  

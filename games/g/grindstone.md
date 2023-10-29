@@ -6,22 +6,22 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,069 |
-| The Journey Begins | 98.00% | ~5,069 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,034 |
-| There is No Escape | 71.00% | ~3,672 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,258 |
+| Quinceañera Time | 98.00% | ~5,070 |
+| The Journey Begins | 98.00% | ~5,070 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,035 |
+| There is No Escape | 71.00% | ~3,673 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,259 |
 | Royal Flush | 62.00% | ~3,207 |
-| Timber! | 60.00% | ~3,103 |
-| Survive the Bombsequences | 59.00% | ~3,051 |
+| Timber! | 60.00% | ~3,104 |
+| Survive the Bombsequences | 59.00% | ~3,052 |
 | Killed 20 Jerks | 54.00% | ~2,793 |
 | Death Defied | 54.00% | ~2,793 |
 | Fortunate Soul | 50.00% | ~2,586 |
 | Jerk-Slayer | 43.00% | ~2,224 |
 | Employee of the Month | 37.00% | ~1,914 |
 | I Believe I Can Fly | 37.00% | ~1,914 |
-| Bone Collector | 35.00% | ~1,810 |
-| Fe-Festival | 35.00% | ~1,810 |
+| Bone Collector | 35.00% | ~1,811 |
+| Fe-Festival | 35.00% | ~1,811 |
 | Top of the Food Chain | 32.00% | ~1,655 |
 | Humerus Achievement | 32.00% | ~1,655 |
 | Pardon my Slob | 32.00% | ~1,655 |
@@ -41,8 +41,8 @@ Number of Ratings: 63  (23.09.2022)
 | Ultimate Jerk | 13.00% | ~672 |
 | Hot Potato | 11.00% | ~569 |
 | Off the Beaten Path | 10.00% | ~517 |
-| It's Been a Blast | 9.00% | ~465 |
-| For Rock and Stone! | 9.00% | ~465 |
+| It's Been a Blast | 9.00% | ~466 |
+| For Rock and Stone! | 9.00% | ~466 |
 | Don't Get Too Greedy | 7.00% | ~362 |
 | You're In a Cult, Call Your Dad | 6.00% | ~310 |
 | Survived The Slaughter | 5.00% | ~259 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,172 (Ranked 181)  
+Progressed: 5,173 (Ranked 181)  
 Completed: 30 (0.58%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 30 (0.58%) (Ranked 178)
 | 2023-10-25 | 5,168 | 30 |
 | 2023-10-26 | 5,170 | 30 |
 | 2023-10-28 | 5,172 | 30 |
+| 2023-10-29 | 5,173 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

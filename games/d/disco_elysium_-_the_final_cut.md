@@ -6,12 +6,12 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,458 |
+| Goodest Of The Good Cops | 28.00% | ~36,459 |
 | Biggest Communism Builder | 24.00% | ~31,250 |
-| The World's Most Laughable Centrist | 21.00% | ~27,343 |
-| Il Coppo Del'Arte! | 18.00% | ~23,437 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,833 |
-| Hyperstellar Law Official | 16.00% | ~20,833 |
+| The World's Most Laughable Centrist | 21.00% | ~27,344 |
+| Il Coppo Del'Arte! | 18.00% | ~23,438 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,834 |
+| Hyperstellar Law Official | 16.00% | ~20,834 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,229 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,229 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,927 |
@@ -19,7 +19,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | The Figurines Won't Win Her Back | 10.00% | ~13,021 |
 | Unbelievably Boring **** | 9.00% | ~11,719 |
 | Enemy Of The Physical Realm | 8.00% | ~10,417 |
-| Hardie's Heroes | 6.00% | ~7,812 |
+| Hardie's Heroes | 6.00% | ~7,813 |
 | The Lawbringer | 4.00% | ~5,208 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,208 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,906 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,207 (Ranked 79)  
+Progressed: 130,210 (Ranked 79)  
 Completed: 28 (0.02%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,11 +239,11 @@ Completed: 28 (0.02%) (Ranked 302)
 | 2023-10-26 | 130,121 | 28 |
 | 2023-10-27 | 130,150 | 28 |
 | 2023-10-28 | 130,198 | 28 |
-| 2023-10-29 | 130,207 | 28 |
+| 2023-10-29 | 130,210 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
-Sum: 1,111 (Ranked 243)  
-Diff (max vs sum): -69  
+Sum: 1,111 (Ranked 244)  
+Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 734 |

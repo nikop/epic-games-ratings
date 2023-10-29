@@ -29,10 +29,10 @@ Rating: 4.46 (Ranked 634)
 | Brains of the Operation | 15.00% | ~569 |
 | No Stone Unturned | 14.00% | ~531 |
 | Opposing Force | 14.00% | ~531 |
+| Enemy at the Gates | 14.00% | ~531 |
 | Fields of Glory | 14.00% | ~531 |
 | Skirmisher | 14.00% | ~531 |
 | Die Nussknacker Sweet! | 14.00% | ~531 |
-| Enemy at the Gates | 13.00% | ~493 |
 | Set Europe Ablaze | 13.00% | ~493 |
 | Precision Is Key | 10.00% | ~379 |
 | My Little Friend | 10.00% | ~379 |
@@ -269,8 +269,8 @@ Completed: 11 (0.29%) (Ranked 219)
 | 2023-10-28 | 3,790 | 11 |
 | 2023-10-29 | 3,794 | 11 |
 ## Awards
-Max (Great for Beginners): 21  (Ranked 529)  
-Sum: 21 (Ranked 530)  
+Max (Great for Beginners): 21  (Ranked 530)  
+Sum: 21 (Ranked 531)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
