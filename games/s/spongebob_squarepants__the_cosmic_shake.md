@@ -4,38 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dress Up | 85.00% | ~17 |
-| Bamboozled | 80.00% | ~16 |
-| Sponge out of Harm's Way | 80.00% | ~16 |
-| Wanted Sponge | 80.00% | ~16 |
-| Deputy | 75.00% | ~15 |
-| Is it a plane? Is it a pizza? | 75.00% | ~15 |
-| Stunning Performance | 75.00% | ~15 |
-| The Way of the Sponge | 65.00% | ~13 |
-| Movie Star | 65.00% | ~13 |
-| Boxing Champion | 60.00% | ~12 |
-| Red and Shiny | 60.00% | ~12 |
-| ScaredyPants | 60.00% | ~12 |
-| First Mate | 60.00% | ~12 |
-| BounceBob | 50.00% | ~10 |
-| Bubble the Trouble | 50.00% | ~10 |
-| King of the Castle | 50.00% | ~10 |
-| Ugh Ugaha! | 50.00% | ~10 |
-| SpongeBob JellyPants | 45.00% | ~9 |
-| Local Hero | 40.00% | ~8 |
-| Ride Rider | 40.00% | ~8 |
-| Sponginator | 35.00% | ~7 |
-| Friendly Fire | 30.00% | ~6 |
-| Splash Zone | 30.00% | ~6 |
-| King of Bubbles | 25.00% | ~5 |
-| Jaws with Flaws | 25.00% | ~5 |
-| Music Enthusiast | 25.00% | ~5 |
-| Tentacle Dodger | 25.00% | ~5 |
-| Jellyfish Hunter | 20.00% | ~4 |
-| Spring Cleaning | 20.00% | ~4 |
-| Knight in shining PJs | 15.00% | ~3 |
-| Deck Scrubber | 15.00% | ~3 |
-| Volley King | 15.00% | ~3 |
+| Dress Up | 86.00% | ~18 |
+| Bamboozled | 81.00% | ~17 |
+| Sponge out of Harm's Way | 81.00% | ~17 |
+| Wanted Sponge | 81.00% | ~17 |
+| Deputy | 76.00% | ~16 |
+| Is it a plane? Is it a pizza? | 76.00% | ~16 |
+| Stunning Performance | 76.00% | ~16 |
+| The Way of the Sponge | 67.00% | ~14 |
+| Movie Star | 67.00% | ~14 |
+| Boxing Champion | 62.00% | ~13 |
+| Red and Shiny | 62.00% | ~13 |
+| ScaredyPants | 62.00% | ~13 |
+| First Mate | 62.00% | ~13 |
+| Bubble the Trouble | 52.00% | ~11 |
+| King of the Castle | 52.00% | ~11 |
+| Ugh Ugaha! | 52.00% | ~11 |
+| BounceBob | 48.00% | ~10 |
+| SpongeBob JellyPants | 48.00% | ~10 |
+| Local Hero | 43.00% | ~9 |
+| Ride Rider | 43.00% | ~9 |
+| Sponginator | 38.00% | ~8 |
+| Splash Zone | 33.00% | ~7 |
+| Friendly Fire | 29.00% | ~6 |
+| Jaws with Flaws | 29.00% | ~6 |
+| Music Enthusiast | 29.00% | ~6 |
+| King of Bubbles | 24.00% | ~5 |
+| Jellyfish Hunter | 24.00% | ~5 |
+| Tentacle Dodger | 24.00% | ~5 |
+| Spring Cleaning | 19.00% | ~4 |
+| Knight in shining PJs | 14.00% | ~3 |
+| Deck Scrubber | 14.00% | ~3 |
+| SpongeLock HolmesPants | 14.00% | ~3 |
+| Volley King | 14.00% | ~3 |
 | One Sponge to Rule Them All | 10.00% | ~2 |
 | Beach Spinster | 10.00% | ~2 |
 | Wanna see me do it again? | 10.00% | ~2 |
@@ -46,18 +47,17 @@
 | Kah-Rah-Tay King | 10.00% | ~2 |
 | Dehydrated | 10.00% | ~2 |
 | The Good, the Bad and the Krabby | 10.00% | ~2 |
-| SpongeLock HolmesPants | 10.00% | ~2 |
 | Wrath-tub | 10.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 509)  
-Completed: 3 (15.00%) (Ranked 22)  
+Progressed: 21 (Ranked 507)  
+Completed: 3 (14.29%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-26 | 3 | 1 |
 | 2023-10-27 | 11 | 3 |
 | 2023-10-28 | 17 | 3 |
-| 2023-10-29 | 20 | 3 |
+| 2023-10-29 | 21 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4293,7 +4293,7 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 89409,
+  "EOS_Progressed": 89410,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
@@ -23433,6 +23433,11 @@
       "Time": "2023-10-29T02:27:08.7041906+00:00",
       "NumProgressed": 89409,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-29T06:08:56.4762936+00:00",
+      "NumProgressed": 89410,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 41,
@@ -23714,9 +23719,9 @@
       "ID": "ACH_0452",
       "SetID": "3kam13l",
       "Name": "Dragonslayer",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 805
     },
     {
       "ID": "ACH_0460",
@@ -23771,13 +23776,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89409,
+      "Progressed": 89410,
       "Completed": 53
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17756,
+      "Progressed": 17757,
       "Completed": 15555
     }
   ],
@@ -23785,8 +23790,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-28T19:00:12.4921528+00:00",
-  "LastChanged_Achievements": "2023-10-29T05:08:32.1189225+00:00",
+  "LastChanged_Achievements": "2023-10-29T06:08:56.4762929+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.3098014+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:59:40.8463283+00:00",
-  "LastUpdate_Achievements": "2023-10-29T05:08:32.1190708+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:00:58.7626061+00:00",
+  "LastUpdate_Achievements": "2023-10-29T06:08:56.4765458+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.28 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,909 |
-| Copacetic Coordination | 16.00% | ~55,968 |
-| Fronting the Money | 15.00% | ~52,470 |
-| The Dawn of Automation | 14.00% | ~48,972 |
-| Extraordinary Logistics | 14.00% | ~48,972 |
-| Dirty Money | 13.00% | ~45,474 |
-| Family First | 13.00% | ~45,474 |
-| Cleaning House | 12.00% | ~41,976 |
-| Room in the Back | 12.00% | ~41,976 |
-| Beating the Heat | 11.00% | ~38,478 |
-| Booze Baron | 11.00% | ~38,478 |
+| Corner Clout | 46.00% | ~160,910 |
+| Copacetic Coordination | 16.00% | ~55,969 |
+| Fronting the Money | 15.00% | ~52,471 |
+| The Dawn of Automation | 14.00% | ~48,973 |
+| Extraordinary Logistics | 14.00% | ~48,973 |
+| Dirty Money | 13.00% | ~45,475 |
+| Family First | 13.00% | ~45,475 |
+| Cleaning House | 12.00% | ~41,977 |
+| Room in the Back | 12.00% | ~41,977 |
+| Beating the Heat | 11.00% | ~38,479 |
+| Booze Baron | 11.00% | ~38,479 |
 | Friends on the Force | 10.00% | ~34,980 |
 | Neighborhood Watch | 10.00% | ~34,980 |
 | Core Corps | 8.00% | ~27,984 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 840)
 | High Pillow | 0.10% | ~350 |
 | Station Master | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,803 (Ranked 44)  
+Progressed: 349,805 (Ranked 44)  
 Completed: 7 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,14 +278,14 @@ Completed: 7 (0.00%) (Ranked 330)
 | 2023-10-26 | 349,465 | 7 |
 | 2023-10-27 | 349,599 | 7 |
 | 2023-10-28 | 349,762 | 7 |
-| 2023-10-29 | 349,803 | 7 |
+| 2023-10-29 | 349,805 | 7 |
 ## Awards
-Max (Great for Beginners): 40  (Ranked 448)  
-Sum: 182 (Ranked 404)  
-Diff (max vs sum): 44  
+Max (Great for Beginners): 41  (Ranked 446)  
+Sum: 183 (Ranked 403)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 40 |
+| This game is Great for Beginners | 41 |
 | This game is Highly Recommended | 34 |
 | This game is Relaxing | 32 |
 | This game is Extremely Fun | 28 |
@@ -386,3 +386,4 @@ Diff (max vs sum): 44
 | 2023-10-25 | 4.28 | 39 | 180 |
 | 2023-10-26 | 4.28 | 39 | 181 |
 | 2023-10-27 | 4.28 | 40 | 182 |
+| 2023-10-29 | 4.28 | 41 | 183 |

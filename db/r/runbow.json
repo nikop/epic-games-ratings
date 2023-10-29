@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250749,
+  "EOS_Progressed": 250750,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17642,6 +17642,11 @@
       "Time": "2023-10-29T05:08:35.9020126+00:00",
       "NumProgressed": 250749,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-29T06:09:01.8800797+00:00",
+      "NumProgressed": 250750,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17661,7 +17666,7 @@
       "Name": "A Winner Is You",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "andYoureOkay",
@@ -17677,7 +17682,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52657
+      "UsersEstimate": 52658
     },
     {
       "ID": "blotbuster",
@@ -17709,7 +17714,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42627
+      "UsersEstimate": 42628
     },
     {
       "ID": "cantBeKeptDown",
@@ -17781,7 +17786,7 @@
       "Name": "Final Nightmare",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "hangingTen",
@@ -17821,7 +17826,7 @@
       "Name": "I\u0027m Here All Night",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "inTheZone",
@@ -17829,7 +17834,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132897
+      "UsersEstimate": 132898
     },
     {
       "ID": "indegestible",
@@ -17861,7 +17866,7 @@
       "Name": "Just A Bit",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "lazyLaser",
@@ -17893,7 +17898,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125374
+      "UsersEstimate": 125375
     },
     {
       "ID": "notScared",
@@ -17933,7 +17938,7 @@
       "Name": "Ride The Wave",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "shooCat",
@@ -17973,7 +17978,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32597
+      "UsersEstimate": 32598
     },
     {
       "ID": "treeMedalist",
@@ -17981,7 +17986,7 @@
       "Name": "Tree Medalist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "trueCompletionist",
@@ -17997,7 +18002,7 @@
       "Name": "Tubular, Dude",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "whatATrip",
@@ -18005,7 +18010,7 @@
       "Name": "What A Trip",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "youJuanAGo",
@@ -18020,7 +18025,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250749,
+      "Progressed": 250750,
       "Completed": 6
     }
   ],
@@ -18028,8 +18033,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-29T05:08:35.9020121+00:00",
+  "LastChanged_Achievements": "2023-10-29T06:09:01.8800792+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:47.9413553+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:59:04.8379731+00:00",
-  "LastUpdate_Achievements": "2023-10-29T05:08:35.902145+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:00:01.2907+00:00",
+  "LastUpdate_Achievements": "2023-10-29T06:09:01.880256+00:00"
 }

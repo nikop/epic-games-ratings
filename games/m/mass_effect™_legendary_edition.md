@@ -26,7 +26,7 @@
 | Paramour I | 49.00% | ~411 |
 | Colonial Savior | 49.00% | ~411 |
 | Scientist | 49.00% | ~411 |
-| Merciless | 47.00% | ~394 |
+| Merciless | 48.00% | ~403 |
 | Krogan Ally | 45.00% | ~378 |
 | Missing in Action | 45.00% | ~378 |
 | Very Elusive | 45.00% | ~378 |
@@ -92,11 +92,11 @@
 | Problem Solver | 21.00% | ~176 |
 | Pyromaniac | 20.00% | ~168 |
 | Under Pressure | 20.00% | ~168 |
+| Last Resort | 20.00% | ~168 |
 | No One Left Behind | 20.00% | ~168 |
 | Saboteur | 20.00% | ~168 |
 | Last Witness | 20.00% | ~168 |
 | Fact Finder | 20.00% | ~168 |
-| Last Resort | 19.00% | ~159 |
 | Well Connected | 19.00% | ~159 |
 | Executioner | 18.00% | ~151 |
 | Electronics Specialist | 17.00% | ~143 |

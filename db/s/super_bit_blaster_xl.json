@@ -4,8 +4,8 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -971,8 +971,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-10-29T05:04:55.7247473+00:00",
+  "LastChanged_Achievements": "2023-10-29T06:05:57.5799663+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:09.0792601+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:57:20.0923702+00:00",
-  "LastUpdate_Achievements": "2023-10-29T05:04:55.7247641+00:00"
+  "LastUpdate_Ratings": "2023-10-29T05:57:20.0327995+00:00",
+  "LastUpdate_Achievements": "2023-10-29T06:05:57.5799832+00:00"
 }

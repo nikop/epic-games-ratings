@@ -10,11 +10,11 @@ Number of Ratings: 1,611  (23.09.2022)
 | Biggest Communism Builder | 24.00% | ~31,249 |
 | The World's Most Laughable Centrist | 21.00% | ~27,343 |
 | Il Coppo Del'Arte! | 18.00% | ~23,437 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,832 |
-| Hyperstellar Law Official | 16.00% | ~20,832 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,228 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,228 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,926 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,833 |
+| Hyperstellar Law Official | 16.00% | ~20,833 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,229 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,229 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,927 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,322 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,020 |
 | Unbelievably Boring **** | 9.00% | ~11,718 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,203 (Ranked 79)  
+Progressed: 130,204 (Ranked 79)  
 Completed: 28 (0.02%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 28 (0.02%) (Ranked 301)
 | 2023-10-26 | 130,121 | 28 |
 | 2023-10-27 | 130,150 | 28 |
 | 2023-10-28 | 130,198 | 28 |
-| 2023-10-29 | 130,203 | 28 |
+| 2023-10-29 | 130,204 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
-Sum: 1,110 (Ranked 243)  
+Sum: 1,111 (Ranked 243)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
@@ -250,7 +250,7 @@ Diff (max vs sum): -69
 | This game has Amazing Storytelling | 49 |
 | This game is Educational | 45 |
 | This game is Highly Recommended | 44 |
-| This game has Quickly Understood Controls | 42 |
+| This game has Quickly Understood Controls | 43 |
 | This game has Unique Visuals | 37 |
 | This game is Relaxing | 36 |
 | This game has Amazing Characters | 36 |
@@ -404,3 +404,4 @@ Diff (max vs sum): -69
 | 2023-10-20 | 4.87 | - | 734 | 1,108 |
 | 2023-10-24 | 4.87 | - | 734 | 1,109 |
 | 2023-10-26 | 4.87 | - | 734 | 1,110 |
+| 2023-10-29 | 4.87 | - | 734 | 1,111 |

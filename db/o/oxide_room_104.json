@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1244,9 +1244,9 @@
       "ID": "ACH_SPADE",
       "SetID": "511e31d",
       "Name": "He who seeks, finds!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_THEGARDEN",
@@ -1283,8 +1283,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-29T05:06:03.5466068+00:00",
+  "LastChanged_Achievements": "2023-10-29T06:07:34.083278+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.0797978+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:02:59.9573923+00:00",
-  "LastUpdate_Achievements": "2023-10-29T05:06:03.5466363+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:03:00.9752427+00:00",
+  "LastUpdate_Achievements": "2023-10-29T06:07:34.083308+00:00"
 }

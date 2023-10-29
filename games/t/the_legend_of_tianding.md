@@ -10,8 +10,8 @@
 | Eat the Rich | 58.00% | ~7 |
 | Killing Machine | 50.00% | ~6 |
 | Divine Retribution | 50.00% | ~6 |
+| Dispel Rumors | 50.00% | ~6 |
 | Final Showdown | 42.00% | ~5 |
-| Dispel Rumors | 42.00% | ~5 |
 | The End of an Outlaw | 42.00% | ~5 |
 | Captain Mustache | 42.00% | ~5 |
 | Steal Her Away | 33.00% | ~4 |

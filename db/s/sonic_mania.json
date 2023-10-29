@@ -2,13 +2,13 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
-  "Ranking_Rating": 103,
+  "Ranking_Rating": 102,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-06-24T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T18:52:05+00:00",
@@ -1747,6 +1747,6 @@
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
   "LastChanged": "2023-10-28T15:57:26.092943+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:16.2223084+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:57:41.8972954+00:00",
-  "LastUpdate_Achievements": "2023-10-29T05:03:35.8446848+00:00"
+  "LastUpdate_Ratings": "2023-10-29T05:57:55.7195216+00:00",
+  "LastUpdate_Achievements": "2023-10-29T06:04:03.2010628+00:00"
 }

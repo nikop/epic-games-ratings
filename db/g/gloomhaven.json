@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2279,9 +2279,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 16846,
+  "EOS_Progressed": 16848,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1691,
+  "EOS_NewPlayers": 1684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7154,6 +7154,11 @@
       "Time": "2023-10-29T05:04:01.1157308+00:00",
       "NumProgressed": 16846,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T06:04:39.3349512+00:00",
+      "NumProgressed": 16848,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7342,7 +7347,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "Achievement_Trophy24",
@@ -7350,7 +7355,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7244
+      "UsersEstimate": 7245
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7382,7 +7387,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5559
+      "UsersEstimate": 5560
     },
     {
       "ID": "Achievement_Trophy29",
@@ -7406,7 +7411,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5559
+      "UsersEstimate": 5560
     },
     {
       "ID": "Achievement_Trophy32",
@@ -7454,7 +7459,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "Achievement_Trophy38",
@@ -7653,7 +7658,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 16846,
+      "Progressed": 16848,
       "Completed": 1
     }
   ],
@@ -7661,8 +7666,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-28T22:00:46.9871751+00:00",
-  "LastChanged_Achievements": "2023-10-29T05:04:01.1157303+00:00",
+  "LastChanged_Achievements": "2023-10-29T06:04:39.3349507+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:00:29.0776492+00:00",
-  "LastUpdate_Achievements": "2023-10-29T05:04:01.1158371+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:02:03.8525911+00:00",
+  "LastUpdate_Achievements": "2023-10-29T06:04:39.3350724+00:00"
 }
