@@ -158,9 +158,9 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ClarifyRumors",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:07:58.2316758+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:06:20.0514328+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.9200727+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:05:35.3896156+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:07:58.2316967+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:03:05.8038505+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:06:20.0514586+00:00"
 }

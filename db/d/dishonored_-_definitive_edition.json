@@ -2,12 +2,12 @@
   "ID": "766e1b59c32c447093add5efbc1a4858",
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
-  "Ranking_Rating": 140,
+  "Ranking_Rating": 141,
   "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 708,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -2011,6 +2011,6 @@
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
   "LastChanged": "2023-10-28T19:57:34.3411055+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:30.1695767+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:00:10.067578+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:08:52.9890232+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:58:05.7154862+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:07:26.6697831+00:00"
 }

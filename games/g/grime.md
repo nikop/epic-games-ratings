@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 3.00% | ~4,661 |
 | Imprint | 3.00% | ~4,661 |
-| The Hunt | 2.00% | ~3,107 |
-| Weeper | 2.00% | ~3,107 |
-| Ravenous | 2.00% | ~3,107 |
+| The Hunt | 2.00% | ~3,108 |
+| Weeper | 2.00% | ~3,108 |
+| Ravenous | 2.00% | ~3,108 |
 | Harmless | 1.00% | ~1,554 |
 | Silenced Whispers | 1.00% | ~1,554 |
 | Devourer | 1.00% | ~1,554 |
@@ -28,12 +28,12 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.60% | ~932 |
 | Predator | 0.60% | ~932 |
 | Hunt Down | 0.50% | ~777 |
-| Breath | 0.40% | ~621 |
-| Artisan | 0.40% | ~621 |
-| Hush | 0.40% | ~621 |
-| Inevitable | 0.40% | ~621 |
-| All-Seeing | 0.40% | ~621 |
-| Breathsmith | 0.40% | ~621 |
+| All-Seeing | 0.50% | ~777 |
+| Breath | 0.40% | ~622 |
+| Artisan | 0.40% | ~622 |
+| Hush | 0.40% | ~622 |
+| Inevitable | 0.40% | ~622 |
+| Breathsmith | 0.40% | ~622 |
 | Dream | 0.40% | ~620 |
 | Bloodhunter | 0.30% | ~466 |
 | Unwrap the Gift | 0.30% | ~466 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,364 (Ranked 75)  
+Progressed: 155,380 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 1 (0.00%) (Ranked 331)
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
 | 2023-10-28 | 155,248 | 1 |
-| 2023-10-29 | 155,364 | 1 |
+| 2023-10-29 | 155,380 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 423)  
 Sum: 327 (Ranked 350)  

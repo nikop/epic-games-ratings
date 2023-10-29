@@ -1159,9 +1159,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -1183,9 +1183,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -1199,9 +1199,9 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_16_PromiseYohan",
@@ -1366,8 +1366,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:06:33.3516418+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:04:17.0737028+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:01:45.2269153+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:06:33.3516689+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:00:08.209663+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:04:17.0737349+00:00"
 }

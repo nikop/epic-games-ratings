@@ -3,11 +3,11 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-10-25T11:09:04.8754544+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T14:09:06.2141612+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1057,9 +1062,9 @@
       "ID": "ALLAESTHETICS",
       "SetID": "3dh70f3",
       "Name": "Fashion Racer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "ALLCHASSIS",
@@ -1195,7 +1200,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "CAREERCLASSA",
@@ -1211,7 +1216,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1321,9 +1326,9 @@
       "ID": "JOIN50ONLINE",
       "SetID": "3dh70f3",
       "Name": "Familiar Face",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "JOINONEFRIEND",
@@ -1355,15 +1360,15 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 185
     },
     {
       "ID": "ONEMODULE",
@@ -1411,15 +1416,15 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TENPLATINUM",
       "SetID": "3dh70f3",
       "Name": "Better than half the studio...",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "WIN50ONLINE",
@@ -1433,9 +1438,9 @@
       "ID": "WINBEAT",
       "SetID": "3dh70f3",
       "Name": "Beat you to it!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "WINGRANDSLAM",
@@ -1474,7 +1479,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 0
     }
   ],
@@ -1482,8 +1487,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:11:12.0062488+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:09:06.2141606+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:53.4109+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:01:39.4760352+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:11:12.0063081+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:00:01.6428248+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:09:06.2142465+00:00"
 }

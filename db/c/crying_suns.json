@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469896,
+  "EOS_Progressed": 469900,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20721,6 +20721,11 @@
       "Time": "2023-10-29T13:11:38.1114602+00:00",
       "NumProgressed": 469896,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-29T14:09:37.636549+00:00",
+      "NumProgressed": 469900,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20732,7 +20737,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70484
+      "UsersEstimate": 70485
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -20740,7 +20745,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70484
+      "UsersEstimate": 70485
     },
     {
       "ID": "achievement_first_death",
@@ -20748,7 +20753,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112775
+      "UsersEstimate": 112776
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20756,7 +20761,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103377
+      "UsersEstimate": 103378
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20764,7 +20769,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70484
+      "UsersEstimate": 70485
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -20820,7 +20825,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310131
+      "UsersEstimate": 310134
     },
     {
       "ID": "achievement_story_landa",
@@ -20852,7 +20857,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117474
+      "UsersEstimate": 117475
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20900,7 +20905,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70484
+      "UsersEstimate": 70485
     },
     {
       "ID": "achievement_story_neon_child",
@@ -20908,7 +20913,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93979
+      "UsersEstimate": 93980
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -20916,7 +20921,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159765
+      "UsersEstimate": 159766
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21156,7 +21161,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206754
+      "UsersEstimate": 206756
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21164,7 +21169,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140969
+      "UsersEstimate": 140970
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21188,7 +21193,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183259
+      "UsersEstimate": 183261
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21196,7 +21201,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2349
+      "UsersEstimate": 2350
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -21244,7 +21249,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103377
+      "UsersEstimate": 103378
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21284,7 +21289,7 @@
       "Name": "Soldiers of Fortune",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
@@ -21363,21 +21368,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13830,
+      "Progressed": 13834,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469896,
+      "Progressed": 469900,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:11:38.1114591+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:09:37.6365486+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:01:30.5014593+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:11:38.1116826+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:59:50.5814509+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:09:37.6367438+00:00"
 }

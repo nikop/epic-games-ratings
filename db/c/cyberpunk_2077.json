@@ -14366,9 +14366,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894420,
+  "EOS_Progressed": 894430,
   "EOS_Completed": 2732,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1135,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36146,6 +36146,11 @@
       "Time": "2023-10-29T13:06:22.0456849+00:00",
       "NumProgressed": 894420,
       "NumCompleted": 2732
+    },
+    {
+      "Time": "2023-10-29T14:04:03.6905855+00:00",
+      "NumProgressed": 894430,
+      "NumCompleted": 2732
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36292,9 +36297,9 @@
       "ID": "MustBeTheRats",
       "SetID": "47clieb",
       "Name": "Must Be Rats",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 1789
     },
     {
       "ID": "NeverFadeAway",
@@ -36628,9 +36633,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 161
     },
     {
       "ID": "KingOfTheCups",
@@ -36677,21 +36682,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894420,
+      "Progressed": 894430,
       "Completed": 2732
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23043,
+      "Progressed": 23053,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-29T11:57:32.4022796+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:06:22.0456839+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:04:03.6905786+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:59:42.4445259+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:06:22.0458773+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:57:35.1810154+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:04:03.6908273+00:00"
 }

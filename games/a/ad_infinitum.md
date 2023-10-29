@@ -13,10 +13,10 @@
 | Hope | 31.00% | ~18 |
 | Rage | 29.00% | ~17 |
 | Path of Pain | 22.00% | ~13 |
+| Mayhem | 17.00% | ~10 |
 | Reflections | 17.00% | ~10 |
 | The shining | 17.00% | ~10 |
 | Clarity | 16.00% | ~9 |
-| Mayhem | 16.00% | ~9 |
 | Health | 14.00% | ~8 |
 | An act of courage | 10.00% | ~6 |
 | Lost | 10.00% | ~6 |
@@ -27,10 +27,10 @@
 | An act of compassion | 5.00% | ~3 |
 | An act of mercy | 5.00% | ~3 |
 | Ad Infinitum | 3.00% | ~2 |
+| All knowing | 2.00% | ~1 |
 | Corruption | 2.00% | ~1 |
 | Despair | 2.00% | ~1 |
 | Pain | 2.00% | ~1 |
-| All knowing | 0.00% | ~0 |
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

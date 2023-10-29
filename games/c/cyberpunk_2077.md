@@ -12,12 +12,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.70% | ~6,261 |
 | True Soldier | 0.70% | ~6,261 |
 | All the President's Men | 0.70% | ~161 |
+| Arachnophobia | 0.70% | ~161 |
 | Right Back At Ya | 0.60% | ~5,367 |
 | Stanislavski's Method | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
 | The High Priestess | 0.60% | ~5,367 |
 | Relic Ruler | 0.60% | ~138 |
-| Arachnophobia | 0.60% | ~138 |
 | The Quick and the Dead | 0.50% | ~4,472 |
 | The Hermit | 0.50% | ~4,472 |
 | The Wheel of Fortune | 0.50% | ~4,472 |
@@ -44,6 +44,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.30% | ~2,683 |
 | King of Wands | 0.30% | ~69 |
 | City Lights | 0.20% | ~1,789 |
+| Must Be Rats | 0.20% | ~1,789 |
 | The Devil | 0.20% | ~1,789 |
 | The Star | 0.20% | ~1,789 |
 | The Sun | 0.20% | ~1,789 |
@@ -56,7 +57,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.10% | ~894 |
 | Frequent Flyer | 0.10% | ~894 |
 | Little Tokyo | 0.10% | ~894 |
-| Must Be Rats | 0.10% | ~894 |
 | The Wasteland | 0.10% | ~894 |
 | Daemon In The Shell | 0.10% | ~894 |
 | Greetings from Pacifica! | 0.10% | ~894 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,420 (Ranked 15)  
+Progressed: 894,430 (Ranked 15)  
 Completed: 2,732 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,732 (0.31%) (Ranked 211)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,420 | 2,732 |
+| 2023-10-29 | 894,430 | 2,732 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 332,992 (Ranked 10)  

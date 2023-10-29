@@ -3,11 +3,11 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 684,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1543,
+  "EOS_Progressed": 1544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3637,6 +3637,11 @@
       "Time": "2023-10-29T13:11:10.1175224+00:00",
       "NumProgressed": 1543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T14:09:04.0552321+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3664,7 +3669,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3688,7 +3693,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CHAIN_KILLER",
@@ -3696,7 +3701,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "CHAIN_REACTION",
@@ -3712,7 +3717,7 @@
       "Name": "Chaos Theory",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "COMMANDO",
@@ -3744,7 +3749,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DEAD_DD",
@@ -3808,7 +3813,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "EXPERIENCED",
@@ -3856,7 +3861,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "GIANT_KILLER",
@@ -3864,7 +3869,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "GOAL",
@@ -3888,7 +3893,7 @@
       "Name": "Hold The Line",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "IM_THE_LAW",
@@ -3896,7 +3901,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "INFILTRATOR",
@@ -3910,9 +3915,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 818
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3952,7 +3957,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "RECYCLER",
@@ -3984,7 +3989,7 @@
       "Name": "Sensei",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4006,9 +4011,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 371
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4016,7 +4021,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4040,7 +4045,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "WIPE_OUT",
@@ -4055,7 +4060,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1543,
+      "Progressed": 1544,
       "Completed": 0
     }
   ],
@@ -4063,8 +4068,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:11:10.1175211+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:09:04.0552317+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:00:38.3203167+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:11:10.1175935+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:58:42.8609318+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:09:04.0553093+00:00"
 }

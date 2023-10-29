@@ -6,14 +6,14 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,900 |
-| Peak Performance | 54.00% | ~3,829 |
-| You Shall Not Pass | 54.00% | ~3,829 |
+| Tutti Eroi! | 55.00% | ~3,901 |
+| Peak Performance | 54.00% | ~3,830 |
+| You Shall Not Pass | 54.00% | ~3,830 |
 | Avanti Savoia! | 48.00% | ~3,404 |
 | Mamma Mia! | 38.00% | ~2,695 |
 | Conrad von Hotzensocks | 36.00% | ~2,553 |
 | Gabriele D'Annunzio | 34.00% | ~2,411 |
-| Silver Lining | 30.00% | ~2,127 |
+| Silver Lining | 30.00% | ~2,128 |
 | Aurelio Baruzzi | 24.00% | ~1,702 |
 | Decimation | 22.00% | ~1,560 |
 | Donatello | 22.00% | ~1,560 |
@@ -21,7 +21,7 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 22.00% | ~1,560 |
 | Insubordination | 20.00% | ~1,418 |
 | Ragazzi del '99 | 19.00% | ~1,347 |
-| The Lion of the Isonzo | 18.00% | ~1,276 |
+| The Lion of the Isonzo | 18.00% | ~1,277 |
 | Luigi Cadorna | 15.00% | ~1,064 |
 | Dirty Dozen | 14.00% | ~993 |
 | Shaken, Not Stirred | 14.00% | ~993 |
@@ -36,8 +36,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Show Must Go On | 9.00% | ~638 |
 | Tosca | 9.00% | ~638 |
 | 12th Bottle of the Isonzo | 7.00% | ~496 |
-| Cercatore d'Oro | 6.00% | ~425 |
-| The Enlightment | 6.00% | ~425 |
+| Cercatore d'Oro | 6.00% | ~426 |
+| The Enlightment | 6.00% | ~426 |
 | Generalissimo | 5.00% | ~355 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~284 |
 | Seeing Red | 4.00% | ~284 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,091 (Ranked 169)  
+Progressed: 7,092 (Ranked 169)  
 Completed: 9 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 9 (0.13%) (Ranked 249)
 | 2023-10-26 | 7,083 | 9 |
 | 2023-10-27 | 7,085 | 9 |
 | 2023-10-28 | 7,089 | 9 |
-| 2023-10-29 | 7,091 | 9 |
+| 2023-10-29 | 7,092 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 460)  
 Sum: 271 (Ranked 367)  

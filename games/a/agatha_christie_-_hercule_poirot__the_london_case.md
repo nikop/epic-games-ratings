@@ -25,7 +25,7 @@
 | Ms. Camilla B. Culsham | 23.00% | ~6 |
 | Irene Court-Smyth | 23.00% | ~6 |
 | The Apartment | 23.00% | ~6 |
-| A rude awakening | 15.00% | ~4 |
+| A rude awakening | 19.00% | ~5 |
 | Nathaniel Dryden | 15.00% | ~4 |
 | Well-acquainted | 12.00% | ~3 |
 | Truth from within | 12.00% | ~3 |

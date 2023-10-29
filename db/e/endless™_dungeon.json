@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1081,9 +1081,9 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1185,17 +1185,17 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1232,8 +1232,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:06:11.948712+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:03:51.6841657+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:03:25.5141256+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:06:11.9487493+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:02:02.2428454+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:03:51.6842007+00:00"
 }

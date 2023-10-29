@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7681,8 +7681,8 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233138,
-  "EOS_Completed": 2397,
+  "EOS_Progressed": 233143,
+  "EOS_Completed": 2398,
   "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
@@ -29126,6 +29126,11 @@
       "Time": "2023-10-29T13:07:41.9398574+00:00",
       "NumProgressed": 233138,
       "NumCompleted": 2397
+    },
+    {
+      "Time": "2023-10-29T14:06:01.035415+00:00",
+      "NumProgressed": 233143,
+      "NumCompleted": 2398
     }
   ],
   "TotalAchievements": 528,
@@ -33319,9 +33324,9 @@
       "ID": "objective_completed_1411",
       "SetID": "415jc5c",
       "Name": "Entrance of the Gladiators",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1415",
@@ -33360,21 +33365,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199412,
+      "Progressed": 199417,
       "Completed": 3702
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233138,
-      "Completed": 2397
+      "Progressed": 233143,
+      "Completed": 2398
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-29T11:58:02.6436328+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:07:41.9398567+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:06:01.0354145+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:00:04.6529951+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:07:41.942892+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:57:59.4981538+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:06:01.0382751+00:00"
 }

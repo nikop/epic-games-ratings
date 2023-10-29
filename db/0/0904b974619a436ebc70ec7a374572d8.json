@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -122,17 +122,17 @@
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_picklock16",
@@ -226,9 +226,9 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_picklock5",
@@ -280,8 +280,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:11:06.3969046+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:08:59.3376288+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.5344119+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:02:33.5093122+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:11:06.3969241+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:00:58.4705332+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:08:59.3376495+00:00"
 }

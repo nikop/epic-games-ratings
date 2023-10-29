@@ -1281,9 +1281,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_9",
@@ -1303,8 +1303,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:06:07.7296344+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:03:46.2018348+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:59:36.9349786+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:06:07.7296867+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:57:25.6123927+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:03:46.2019026+00:00"
 }

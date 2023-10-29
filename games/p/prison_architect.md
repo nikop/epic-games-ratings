@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~47,136 |
-| Get Busy Living | 16.00% | ~30,167 |
-| Samuel Norton | 9.00% | ~16,969 |
-| Spare The Rod | 5.00% | ~9,427 |
-| Don't Put Me In The Dark | 3.00% | ~5,656 |
-| Wait and Hope | 3.00% | ~5,656 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,656 |
+| Stone Walls | 25.00% | ~47,141 |
+| Get Busy Living | 16.00% | ~30,170 |
+| Samuel Norton | 9.00% | ~16,971 |
+| Spare The Rod | 5.00% | ~9,428 |
+| Don't Put Me In The Dark | 3.00% | ~5,657 |
+| Wait and Hope | 3.00% | ~5,657 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,657 |
 | Throw The Book At Them | 2.00% | ~3,771 |
 | Iron Bars | 2.00% | ~3,771 |
-| D.B. Cooper | 1.00% | ~1,885 |
+| D.B. Cooper | 1.00% | ~1,886 |
 | Reformation | 0.60% | ~1,131 |
 | Crowd Control | 0.50% | ~943 |
 | Freedom | 0.40% | ~754 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~189 |
 | ... It's What You Can Prove | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188,546 (Ranked 72)  
+Progressed: 188,563 (Ranked 72)  
 Completed: 8 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 8 (0.00%) (Ranked 331)
 | 2023-10-26 | 187,566 | 8 |
 | 2023-10-27 | 187,899 | 8 |
 | 2023-10-28 | 188,331 | 8 |
-| 2023-10-29 | 188,546 | 8 |
+| 2023-10-29 | 188,563 | 8 |
 ## Awards
 Max (Extremely Fun): 546  (Ranked 200)  
-Sum: 4,695 (Ranked 142)  
+Sum: 4,696 (Ranked 142)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -226,7 +226,7 @@ Diff (max vs sum): 58
 | This game is Great for Beginners | 544 |
 | This game is Highly Recommended | 515 |
 | This game has Quickly Understood Controls | 506 |
-| This game is Relaxing | 490 |
+| This game is Relaxing | 491 |
 | This game has Amazing Storytelling | 458 |
 | This game has Diverse Characters | 456 |
 | This game is Educational | 444 |
@@ -515,4 +515,4 @@ Diff (max vs sum): 58
 | 2023-10-26 | 4.61 | - | 542 | 4,670 |
 | 2023-10-27 | 4.61 | - | 543 | 4,681 |
 | 2023-10-28 | 4.61 | - | 544 | 4,692 |
-| 2023-10-29 | 4.61 | - | 546 | 4,695 |
+| 2023-10-29 | 4.61 | - | 546 | 4,696 |

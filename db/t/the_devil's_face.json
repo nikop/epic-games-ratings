@@ -2179,9 +2179,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2243,9 +2243,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2259,17 +2259,17 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "296pn27",
       "Name": "Holy Nails",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -2282,8 +2282,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:08:05.457533+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:06:28.764728+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:02:03.4826482+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:08:05.4575614+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:00:25.207132+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:06:28.7647575+00:00"
 }

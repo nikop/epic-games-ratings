@@ -20,7 +20,7 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 11.00% | ~629 |
 | Happy Ending? | 10.00% | ~572 |
 | Of Seals And Men | 10.00% | ~572 |
-| Shackadelic | 9.00% | ~515 |
+| Shackadelic | 10.00% | ~572 |
 | Double Trouble | 8.00% | ~457 |
 | Firestarter | 8.00% | ~457 |
 | I Owe You Nothing | 7.00% | ~400 |

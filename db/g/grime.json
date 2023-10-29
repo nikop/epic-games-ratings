@@ -1273,9 +1273,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155364,
+  "EOS_Progressed": 155380,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1433,
+  "EOS_NewPlayers": 1430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13523,6 +13523,11 @@
       "Time": "2023-10-29T13:07:28.021735+00:00",
       "NumProgressed": 155364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T14:05:43.5664167+00:00",
+      "NumProgressed": 155380,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13582,7 +13587,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -13590,7 +13595,7 @@
       "Name": "Breath",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -13606,7 +13611,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -13622,7 +13627,7 @@
       "Name": "Artisan",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -13662,7 +13667,7 @@
       "Name": "Hush",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -13702,7 +13707,7 @@
       "Name": "Inevitable",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -13740,9 +13745,9 @@
       "ID": "MISC_ACTIVATEALLBEACONS",
       "SetID": "ccc0dlh",
       "Name": "All-Seeing",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 621
+      "UsersEstimate": 777
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -13782,7 +13787,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -13806,7 +13811,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -13901,21 +13906,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154947,
+      "Progressed": 154963,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155364,
+      "Progressed": 155380,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T21:02:39.1758873+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:07:28.0217344+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:05:43.5664162+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:59:35.0790119+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:07:28.0218533+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:57:24.4283485+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:05:43.5665843+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,131 |
-| Jeef Skeejj | 44.00% | ~206,754 |
-| Careful planning | 39.00% | ~183,259 |
-| Second Coming | 34.00% | ~159,765 |
-| Jeef Skagg | 30.00% | ~140,969 |
-| Mother | 25.00% | ~117,474 |
-| In space, no one can hear you scream | 24.00% | ~112,775 |
-| Chapter I: Echoes | 22.00% | ~103,377 |
-| Excelsior Rule | 22.00% | ~103,377 |
-| Things persisted in not being what they seemed | 20.00% | ~93,979 |
-| Knightmare Frames | 15.00% | ~70,484 |
-| May His passing cleanse the world | 15.00% | ~70,484 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,484 |
-| Pope Zenon | 15.00% | ~70,484 |
+| The Shutdown | 66.00% | ~310,134 |
+| Jeef Skeejj | 44.00% | ~206,756 |
+| Careful planning | 39.00% | ~183,261 |
+| Second Coming | 34.00% | ~159,766 |
+| Jeef Skagg | 30.00% | ~140,970 |
+| Mother | 25.00% | ~117,475 |
+| In space, no one can hear you scream | 24.00% | ~112,776 |
+| Chapter I: Echoes | 22.00% | ~103,378 |
+| Excelsior Rule | 22.00% | ~103,378 |
+| Things persisted in not being what they seemed | 20.00% | ~93,980 |
+| Knightmare Frames | 15.00% | ~70,485 |
+| May His passing cleanse the world | 15.00% | ~70,485 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,485 |
+| Pope Zenon | 15.00% | ~70,485 |
 | Tetsuo | 11.00% | ~51,689 |
 | Plan for the worst | 11.00% | ~51,689 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,990 |
@@ -57,9 +57,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | A Frozen Lady | 1.00% | ~4,699 |
 | Void Rule | 1.00% | ~4,699 |
 | Excelsior Mastery | 0.90% | ~4,229 |
-| The greatest admiral of all time | 0.50% | ~2,349 |
+| The greatest admiral of all time | 0.50% | ~2,350 |
 | Hand of the Emperor | 0.50% | ~69 |
-| Soldiers of Fortune | 0.30% | ~41 |
+| Soldiers of Fortune | 0.30% | ~42 |
 | Liberator | 0.10% | ~470 |
 | The Art of War | 0.10% | ~470 |
 | Geno Mastery | 0.10% | ~470 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~14 |
 | Kronos Rule | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,896 (Ranked 40)  
+Progressed: 469,900 (Ranked 40)  
 Completed: 19 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 19 (0.00%) (Ranked 331)
 | 2023-10-26 | 469,716 | 19 |
 | 2023-10-27 | 469,781 | 19 |
 | 2023-10-28 | 469,856 | 19 |
-| 2023-10-29 | 469,896 | 19 |
+| 2023-10-29 | 469,900 | 19 |
 ## Awards
 Max (Character Customization): 221  (Ranked 272)  
 Sum: 243 (Ranked 377)  

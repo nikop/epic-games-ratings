@@ -3,11 +3,11 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 923,
-  "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 351,
+  "Ranking_Popularity": 383,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -829,18 +829,24 @@
       "Rating": 4.16,
       "NumberOfAwards": 315,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2023-10-29T13:58:20.2533675+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 315,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has a Competitive Community",
@@ -891,9 +897,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65061,
+  "EOS_Progressed": 65066,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7111,6 +7117,11 @@
       "Time": "2023-10-29T13:06:28.6814+00:00",
       "NumProgressed": 65061,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-29T14:04:11.6026032+00:00",
+      "NumProgressed": 65066,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7123,7 +7134,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20820
+      "UsersEstimate": 20821
     },
     {
       "ID": "10",
@@ -7187,7 +7198,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11060
+      "UsersEstimate": 11061
     },
     {
       "ID": "3",
@@ -7195,7 +7206,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8458
+      "UsersEstimate": 8459
     },
     {
       "ID": "4",
@@ -7203,7 +7214,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6506
+      "UsersEstimate": 6507
     },
     {
       "ID": "5",
@@ -7250,16 +7261,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65061,
+      "Progressed": 65066,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-28T11:57:54.1124642+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:06:28.6813995+00:00",
+  "LastChanged": "2023-10-29T13:58:20.2533672+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:04:11.6026026+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:00:22.5368429+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:06:28.6814541+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:58:20.253368+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:04:11.6027066+00:00"
 }

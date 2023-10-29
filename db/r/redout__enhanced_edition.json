@@ -3,8 +3,8 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 579,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 113,
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234555,
+  "EOS_Progressed": 234557,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20542,6 +20542,11 @@
       "Time": "2023-10-29T13:05:50.0328224+00:00",
       "NumProgressed": 234555,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-29T14:03:24.8181716+00:00",
+      "NumProgressed": 234557,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -20569,7 +20574,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65675
+      "UsersEstimate": 65676
     },
     {
       "ID": "CENTAUR",
@@ -20577,7 +20582,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18764
+      "UsersEstimate": 18765
     },
     {
       "ID": "CHALLENGER",
@@ -20617,7 +20622,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18764
+      "UsersEstimate": 18765
     },
     {
       "ID": "FLAWLESS",
@@ -20689,7 +20694,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77403
+      "UsersEstimate": 77404
     },
     {
       "ID": "NOBUNAGA",
@@ -20777,7 +20782,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51602
+      "UsersEstimate": 51603
     },
     {
       "ID": "TACTICIAN",
@@ -20801,7 +20806,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51602
+      "UsersEstimate": 51603
     },
     {
       "ID": "TUNINGMANIAC",
@@ -20824,15 +20829,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234555,
+      "Progressed": 234557,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:05:50.0328215+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:03:24.8181712+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.1893781+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:00:38.6882132+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:05:50.0330128+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:58:43.34884+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:03:24.8183542+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 478,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 156,
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18724,
+  "EOS_Progressed": 18725,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12432,6 +12432,11 @@
       "Time": "2023-10-29T13:09:16.1560226+00:00",
       "NumProgressed": 18724,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-29T14:08:24.1517585+00:00",
+      "NumProgressed": 18725,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12443,7 +12448,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5617
+      "UsersEstimate": 5618
     },
     {
       "ID": "0002",
@@ -12467,7 +12472,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "0005",
@@ -12627,7 +12632,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4119
+      "UsersEstimate": 4120
     },
     {
       "ID": "0025",
@@ -12730,7 +12735,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18724,
+      "Progressed": 18725,
       "Completed": 4
     }
   ],
@@ -12738,8 +12743,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-27T01:40:48.3215851+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:09:16.156022+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:08:24.1517582+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:02:38.0253125+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:09:16.1561309+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:01:04.5458257+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:08:24.1518675+00:00"
 }

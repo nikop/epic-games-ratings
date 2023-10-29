@@ -17,10 +17,10 @@
 | Paw patrol member | 38.00% | ~13 |
 | Robot Out of Control | 38.00% | ~13 |
 | Master of the Rope | 35.00% | ~12 |
-| Training Day | 32.00% | ~11 |
+| Training Day | 35.00% | ~12 |
 | The Fastest | 32.00% | ~11 |
 | Never Miss | 32.00% | ~11 |
-| In the Air | 26.00% | ~9 |
+| In the Air | 29.00% | ~10 |
 | Don’t Miss Any | 26.00% | ~9 |
 | Adventure Bay’s Citizen | 26.00% | ~9 |
 | Animal Sighting | 24.00% | ~8 |

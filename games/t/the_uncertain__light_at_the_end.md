@@ -17,7 +17,7 @@ Rating: 3.82 (Ranked 1,011)
 | F is for Feline | 12.00% | ~66 |
 | A Trip to Remember | 12.00% | ~66 |
 | U Mad Bro? | 11.00% | ~61 |
-| Short Circuit | 10.00% | ~55 |
+| Short Circuit | 11.00% | ~61 |
 | A Stealthy Outlook | 7.00% | ~39 |
 | Catch You Later | 6.00% | ~33 |
 | Between the Covers | 5.00% | ~28 |

@@ -263,9 +263,9 @@
       "ID": "ach21",
       "SetID": "baneh2j",
       "Name": "Delicious",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach22",
@@ -311,9 +311,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 77,
+      "Percentage": 80,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach28",
@@ -335,9 +335,9 @@
       "ID": "ach3",
       "SetID": "baneh2j",
       "Name": "Trandy",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach30",
@@ -367,17 +367,17 @@
       "ID": "ach5",
       "SetID": "baneh2j",
       "Name": "Size doesn\u0027t matter",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ach7",
@@ -414,8 +414,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:07:39.2109124+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:05:57.2852295+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:02:11.2516077+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:07:39.2109365+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:00:33.5621387+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:05:57.2852586+00:00"
 }

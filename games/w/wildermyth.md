@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 103)  
+Rating: 4.78 (Ranked 102)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,9 +23,9 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 0.30% | ~4 |
 | Echoes Die | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |
+| A Mythic Menagerie | 0.20% | ~3 |
 | Empty the Caves | 0.20% | ~3 |
 | Bonebreakers | 0.20% | ~3 |
-| A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
@@ -212,9 +212,9 @@ Completed: 6 (0.41%) (Ranked 199)
 | 2023-10-28 | 1,445 | 6 |
 | 2023-10-29 | 1,446 | 6 |
 ## Awards
-Max (Character Customization): 28  (Ranked 494)  
-Sum: 28 (Ranked 506)  
-Diff (max vs sum): -12  
+Max (Character Customization): 28  (Ranked 496)  
+Sum: 28 (Ranked 507)  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 28 |

@@ -2,7 +2,7 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 124,
@@ -244,17 +244,17 @@
       "ID": "LEVEL_240_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 240 pieces",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_240_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 240 pieces",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_240_005",
@@ -332,9 +332,9 @@
       "ID": "LEVEL_540_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 540 pieces",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_540_003",
@@ -348,9 +348,9 @@
       "ID": "LEVEL_540_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 540 pieces",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_540_005",
@@ -364,9 +364,9 @@
       "ID": "LEVEL_540_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 540 pieces",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:07:10.8412053+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:05:22.7655829+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:02:59.0777156+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:07:10.8412323+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:01:26.8806182+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:05:22.7656086+00:00"
 }

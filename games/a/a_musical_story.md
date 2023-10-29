@@ -23,7 +23,7 @@
 | Fuel | 31.00% | ~33 |
 | Alone Together | 30.00% | ~32 |
 | Threatening Nature | 29.00% | ~30 |
-| Flat Tire | 27.00% | ~28 |
+| Flat Tire | 28.00% | ~29 |
 | The Clash | 24.00% | ~25 |
 | TV Dreams | 24.00% | ~25 |
 | Dreamers | 20.00% | ~21 |

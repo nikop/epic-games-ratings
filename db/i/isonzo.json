@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7091,
+  "EOS_Progressed": 7092,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6334,6 +6334,11 @@
       "Time": "2023-10-29T10:08:13.6176902+00:00",
       "NumProgressed": 7091,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-29T14:07:31.0497861+00:00",
+      "NumProgressed": 7092,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6377,7 +6382,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -6537,7 +6542,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6593,7 +6598,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -6625,7 +6630,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -6641,7 +6646,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -6673,7 +6678,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6697,14 +6702,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7091,
+      "Progressed": 7092,
       "Completed": 9
     }
   ],
@@ -6712,8 +6717,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-10-29T04:58:39.1460571+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:08:56.9197196+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:07:31.0497855+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.4558053+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:01:09.4574874+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:08:56.9197911+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:59:20.862613+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:07:31.0498593+00:00"
 }

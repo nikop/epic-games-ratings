@@ -2,9 +2,9 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 151,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Rating": 152,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 136,
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6536,
+  "EOS_Progressed": 6537,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -4556,6 +4556,11 @@
       "Time": "2023-10-29T12:09:49.7083781+00:00",
       "NumProgressed": 6536,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-10-29T14:09:26.7116845+00:00",
+      "NumProgressed": 6537,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4568,7 +4573,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5621
+      "UsersEstimate": 5622
     },
     {
       "ID": "achievement_01_02",
@@ -4592,7 +4597,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "achievement_01_05",
@@ -4608,7 +4613,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "achievement_01_07",
@@ -4624,7 +4629,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4771
+      "UsersEstimate": 4772
     },
     {
       "ID": "achievement_01_09",
@@ -4632,7 +4637,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2810
+      "UsersEstimate": 2811
     },
     {
       "ID": "achievement_01_10",
@@ -4640,7 +4645,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "achievement_02_01",
@@ -4648,7 +4653,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "achievement_02_02",
@@ -4696,7 +4701,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "achievement_02_08",
@@ -4808,7 +4813,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "achievement_04_03",
@@ -4816,7 +4821,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3334
     },
     {
       "ID": "achievement_04_04",
@@ -4864,14 +4869,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6536,
+      "Progressed": 6537,
       "Completed": 32
     }
   ],
@@ -4879,8 +4884,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:11:29.0003204+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:09:26.711684+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:00:02.6977305+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:11:29.0003783+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:57:56.7566684+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:09:26.7117737+00:00"
 }

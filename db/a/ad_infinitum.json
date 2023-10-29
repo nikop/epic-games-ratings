@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "ACH_ALLKNOWING",
       "SetID": "88d7anj",
       "Name": "All knowing",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ARTCRITIC",
@@ -443,9 +443,9 @@
       "ID": "ACH_MAYHEM",
       "SetID": "88d7anj",
       "Name": "Mayhem",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_MORGENGRAUEN",
@@ -554,8 +554,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:08:13.3766617+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:06:38.4588246+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:18.0534224+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:01:04.7083255+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:08:13.3766861+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:59:15.2294418+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:06:38.4588518+00:00"
 }

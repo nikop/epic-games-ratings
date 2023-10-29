@@ -3,11 +3,11 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 541,
+  "Ranking_Popularity": 542,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19193,
+  "EOS_Progressed": 19194,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15627,6 +15627,11 @@
       "Time": "2023-10-29T13:08:02.231513+00:00",
       "NumProgressed": 19193,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-29T14:06:24.8839354+00:00",
+      "NumProgressed": 19194,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15694,7 +15699,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10172
+      "UsersEstimate": 10173
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -15749,15 +15754,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19193,
+      "Progressed": 19194,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-22T20:58:17.9975571+00:00",
-  "LastChanged_Achievements": "2023-10-29T13:08:02.2315126+00:00",
+  "LastChanged_Achievements": "2023-10-29T14:06:24.883935+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:47.9713426+00:00",
-  "LastUpdate_Ratings": "2023-10-29T13:02:59.6524642+00:00",
-  "LastUpdate_Achievements": "2023-10-29T13:08:02.2316277+00:00"
+  "LastUpdate_Ratings": "2023-10-29T14:01:27.2925286+00:00",
+  "LastUpdate_Achievements": "2023-10-29T14:06:24.8840864+00:00"
 }
