@@ -621,6 +621,7 @@
 | [Super Bit Blaster XL](../games/s/super_bit_blaster_xl.md) | 17 | 1,000 |
 | [Super Hydorah](../games/0/0a17427d84184578bd1bc06a2f410a58.md) | 21 | 1,000 |
 | [Super Smash Asteroids](../games/s/super_smash_asteroids.md) | 39 | 1,000 |
+| [Supfly Delivery Simulator](../games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 9 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
 | [Supraland Six Inches Under](../games/s/supraland_six_inches_under.md) | 53 | 1,000 |
 | [Survive on Raft](../games/s/survive_on_raft.md) | 36 | 1,000 |

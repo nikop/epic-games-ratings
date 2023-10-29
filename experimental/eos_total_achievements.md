@@ -741,6 +741,7 @@
 | [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [ALAN-13 Reformation](../games/f/f514ca89c14c49858748fd9569d35d52.md) | 9 | 1,000 |
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |
+| [Supfly Delivery Simulator](../games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 9 | 1,000 |
 | [Switchball HD](../games/s/switchball_hd.md) | 9 | 1,000 |
 | [The Forest Quartet](../games/a/a3100205e194489088c7625c8c5c1596.md) | 9 | 1,000 |
 | [Without Escape](../games/w/without_escape.md) | 9 | 1,000 |
