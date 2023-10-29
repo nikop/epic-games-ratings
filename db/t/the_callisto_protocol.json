@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1391,9 +1391,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16343,
+  "EOS_Progressed": 16344,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8471,6 +8471,11 @@
       "Time": "2023-10-29T20:03:42.6236383+00:00",
       "NumProgressed": 16343,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-29T21:04:21.0609734+00:00",
+      "NumProgressed": 16344,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8658,7 +8663,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "SHARE_PHOTO",
@@ -8834,7 +8839,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -8857,13 +8862,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16343,
+      "Progressed": 16344,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4269,
+      "Progressed": 4270,
       "Completed": 29
     }
   ],
@@ -8871,8 +8876,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T10:02:50.4728628+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:03:42.6236379+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:04:21.060973+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:57:10.1931873+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:03:42.6237255+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:57:30.4054717+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:04:21.0610614+00:00"
 }

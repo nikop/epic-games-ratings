@@ -6,25 +6,25 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~25,906 |
-| Quick Understanding of Block Extrusion | 68.00% | ~23,488 |
-| Nature or Nurture | 51.00% | ~17,616 |
-| Power Glove | 49.00% | ~16,925 |
-| Forgotten Memories | 42.00% | ~14,507 |
-| Cogs in the Machine | 34.00% | ~11,744 |
-| Mission Success | 20.00% | ~6,908 |
-| There's No Place Like Home | 20.00% | ~6,908 |
-| Green Cube Killer | 17.00% | ~5,872 |
-| Infinity Loop | 14.00% | ~4,836 |
-| Path to Salvation | 14.00% | ~4,836 |
-| Descendants | 12.00% | ~4,145 |
-| The Flawed Teacher | 10.00% | ~3,454 |
-| To Infinity and Beyond | 5.00% | ~1,727 |
-| The Truthful Enemy | 4.00% | ~1,382 |
+| Lost in Space | 75.00% | ~25,925 |
+| Quick Understanding of Block Extrusion | 68.00% | ~23,506 |
+| Nature or Nurture | 51.00% | ~17,629 |
+| Power Glove | 49.00% | ~16,938 |
+| Forgotten Memories | 42.00% | ~14,518 |
+| Cogs in the Machine | 35.00% | ~12,098 |
+| Mission Success | 20.00% | ~6,913 |
+| There's No Place Like Home | 20.00% | ~6,913 |
+| Green Cube Killer | 17.00% | ~5,876 |
+| Infinity Loop | 14.00% | ~4,839 |
+| Path to Salvation | 14.00% | ~4,839 |
+| Descendants | 12.00% | ~4,148 |
+| The Flawed Teacher | 10.00% | ~3,457 |
+| To Infinity and Beyond | 5.00% | ~1,728 |
+| The Truthful Enemy | 4.00% | ~1,383 |
 | Laser Sharp | 2.00% | ~691 |
-| Bronze collector | 1.00% | ~345 |
-| Home Stretch | 1.00% | ~345 |
-| Get me out of here | 1.00% | ~345 |
+| Bronze collector | 1.00% | ~346 |
+| Home Stretch | 1.00% | ~346 |
+| Get me out of here | 1.00% | ~346 |
 | True collector | 0.90% | ~311 |
 | Gold collector | 0.90% | ~311 |
 | Silver collector | 0.90% | ~311 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.70% | ~242 |
 | QUBE Master | 0.60% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,541 (Ranked 120)  
+Progressed: 34,567 (Ranked 120)  
 Completed: 99 (0.29%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 99 (0.29%) (Ranked 220)
 | 2023-10-26 | 33,016 | 82 |
 | 2023-10-27 | 33,492 | 85 |
 | 2023-10-28 | 34,089 | 92 |
-| 2023-10-29 | 34,541 | 99 |
+| 2023-10-29 | 34,567 | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

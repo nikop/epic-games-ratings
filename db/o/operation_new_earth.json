@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1712,
+  "EOS_Progressed": 1713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6384,6 +6384,11 @@
       "Time": "2023-10-29T18:05:48.4632656+00:00",
       "NumProgressed": 1712,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T21:06:49.8675585+00:00",
+      "NumProgressed": 1713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6427,7 +6432,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -6515,7 +6520,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6571,7 +6576,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6579,7 +6584,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6698,7 +6703,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1712,
+      "Progressed": 1713,
       "Completed": 1
     }
   ],
@@ -6706,8 +6711,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:05:29.1717597+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:06:49.867558+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:02:45.7176943+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:05:29.1718311+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:02:44.047102+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:06:49.8676401+00:00"
 }

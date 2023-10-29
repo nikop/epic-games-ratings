@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7693,10 +7693,10 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233185,
-  "EOS_Completed": 2399,
-  "EOS_NewPlayers": 603,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 233191,
+  "EOS_Completed": 2400,
+  "EOS_NewPlayers": 605,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -29173,6 +29173,11 @@
       "Time": "2023-10-29T20:05:28.5632861+00:00",
       "NumProgressed": 233185,
       "NumCompleted": 2399
+    },
+    {
+      "Time": "2023-10-29T21:06:49.4579019+00:00",
+      "NumProgressed": 233191,
+      "NumCompleted": 2400
     }
   ],
   "TotalAchievements": 528,
@@ -29886,9 +29891,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1169",
@@ -33407,21 +33412,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199459,
+      "Progressed": 199465,
       "Completed": 3704
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233185,
-      "Completed": 2399
+      "Progressed": 233191,
+      "Completed": 2400
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-29T18:57:44.1831273+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:05:28.5632856+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:06:49.4579013+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:57:56.6716413+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:05:28.5663118+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:58:23.9270236+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:06:49.4613505+00:00"
 }

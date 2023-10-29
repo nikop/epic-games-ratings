@@ -71,7 +71,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4705,
+  "EOS_Progressed": 4706,
   "EOS_Completed": 41,
   "EOS_NewPlayers": 3099,
   "EOS_NewCompleters": 32,
@@ -1491,6 +1491,11 @@
       "Time": "2023-10-29T20:04:27.4076418+00:00",
       "NumProgressed": 4705,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-10-29T21:05:15.4732907+00:00",
+      "NumProgressed": 4706,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -1503,7 +1508,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1511,7 +1516,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1575,7 +1580,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -1597,9 +1602,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7opfcp",
       "Name": "I Love How Tough You Are",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3341
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1639,7 +1644,7 @@
       "Name": "Love Actually",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -1655,7 +1660,7 @@
       "Name": "Still Single",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -1687,7 +1692,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -1695,7 +1700,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -1759,7 +1764,7 @@
       "Name": "Are You Alright?",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -1838,7 +1843,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 4705,
+      "Progressed": 4706,
       "Completed": 41
     }
   ],
@@ -1846,8 +1851,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-10-29T13:59:46.9412554+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:04:27.4076414+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:05:15.4732901+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:21.9852903+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:59:29.9189639+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:04:27.4076868+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:00:19.502577+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:05:15.4733361+00:00"
 }

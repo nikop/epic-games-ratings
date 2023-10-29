@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7411,
+  "EOS_Progressed": 7412,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -5333,6 +5333,11 @@
       "Time": "2023-10-29T17:06:29.9862795+00:00",
       "NumProgressed": 7411,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-29T21:07:21.5365235+00:00",
+      "NumProgressed": 7412,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5392,7 +5397,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5432,7 +5437,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "AK_ON_TOWN",
@@ -5456,7 +5461,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -5496,7 +5501,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4150
+      "UsersEstimate": 4151
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5544,7 +5549,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5559,15 +5564,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7411,
+      "Progressed": 7412,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:05:55.0254815+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:07:21.536523+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.4853848+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:02:40.9489662+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:05:55.0255336+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:02:39.172004+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:07:21.536577+00:00"
 }

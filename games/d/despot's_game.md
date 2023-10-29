@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 85.00% | ~368 |
+| Good start! | 86.00% | ~372 |
 | Vanquisher of Robots | 76.00% | ~329 |
 | Party | 49.00% | ~212 |
 | Impossible Cube | 47.00% | ~204 |

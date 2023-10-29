@@ -15,9 +15,9 @@ Rating: 4.63 (Ranked 343)
 | Story Teller | 57.00% | ~756 |
 | True Believer | 57.00% | ~756 |
 | Raise the Stakes | 56.00% | ~743 |
-| Surgeon | 52.00% | ~690 |
-| Exterminator | 52.00% | ~690 |
-| Greenhouse Effect | 52.00% | ~690 |
+| Surgeon | 53.00% | ~703 |
+| Exterminator | 53.00% | ~703 |
+| Greenhouse Effect | 53.00% | ~703 |
 | Freeze | 51.00% | ~676 |
 | Full Arsenal | 46.00% | ~610 |
 | S.O.S. | 46.00% | ~610 |

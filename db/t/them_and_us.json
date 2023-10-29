@@ -1407,9 +1407,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "ETUA_OutRage",
@@ -1584,8 +1584,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:06:46.1520822+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:07:47.0129013+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:57:27.9176607+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:06:46.1521263+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:57:51.4695655+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:07:47.0129481+00:00"
 }

@@ -19,9 +19,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
 | The Hermit | 0.60% | ~5,367 |
+| The Wheel of Fortune | 0.60% | ~5,367 |
 | Legend of The Afterlife | 0.60% | ~5,367 |
 | The Quick and the Dead | 0.50% | ~4,472 |
-| The Wheel of Fortune | 0.50% | ~4,472 |
+| Life of the Road | 0.50% | ~4,472 |
+| The Lovers | 0.50% | ~4,472 |
 | True Warrior | 0.50% | ~4,472 |
 | Two Heads, One Bullet | 0.50% | ~4,472 |
 | Spin Doctor | 0.50% | ~116 |
@@ -31,8 +33,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.40% | ~3,578 |
 | Christmas Tree Attack | 0.40% | ~3,578 |
 | Breathtaking | 0.40% | ~3,578 |
-| Life of the Road | 0.40% | ~3,578 |
-| The Lovers | 0.40% | ~3,578 |
 | The World | 0.40% | ~3,578 |
 | The Jungle | 0.40% | ~3,578 |
 | Judy vs Night City | 0.40% | ~3,578 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,490 (Ranked 15)  
+Progressed: 894,496 (Ranked 15)  
 Completed: 2,733 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,733 (0.31%) (Ranked 212)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,490 | 2,733 |
+| 2023-10-29 | 894,496 | 2,733 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
 Sum: 333,638 (Ranked 10)  

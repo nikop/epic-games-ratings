@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -209,7 +209,7 @@
   "Tags": [],
   "EOS_Progressed": 5480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6933,9 +6933,9 @@
       "ID": "ACH_SURVIVE_20_DAYS",
       "SetID": "5nj1ea3",
       "Name": "Survivalist",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4932
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -6990,8 +6990,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:07:08.6711339+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:08:15.1938773+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:07.0845931+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:00:01.8721565+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:07:08.6712322+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:00:54.7827868+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:08:15.1939908+00:00"
 }

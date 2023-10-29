@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2855,
+  "EOS_Progressed": 2857,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -3881,6 +3881,11 @@
       "Time": "2023-10-29T12:07:28.3452174+00:00",
       "NumProgressed": 2855,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-29T21:07:45.1928368+00:00",
+      "NumProgressed": 2857,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3932,7 +3937,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "SLIDERS",
@@ -3956,7 +3961,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -3964,7 +3969,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "THE_END",
@@ -3988,14 +3993,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2855,
+      "Progressed": 2857,
       "Completed": 6
     }
   ],
@@ -4003,8 +4008,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:06:44.6833087+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:07:45.1928363+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.0919863+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:00:21.5249651+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:06:44.6833411+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:01:24.98234+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:07:45.1928716+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-10-29T20:03:55.5304016+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T21:04:36.7363012+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1050,9 +1055,9 @@
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -1076,7 +1081,7 @@
       "Name": "Team Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1092,7 +1097,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1156,7 +1161,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1210,17 +1215,17 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 91
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1251,14 +1256,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:03:55.5304012+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:04:36.7363006+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:02:44.605369+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:03:55.5304292+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:02:42.527418+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:04:36.7363347+00:00"
 }

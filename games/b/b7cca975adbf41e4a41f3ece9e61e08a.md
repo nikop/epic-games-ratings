@@ -5,14 +5,14 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~4,329 |
-| I Challenge You To Save More Money! | 86.00% | ~4,046 |
-| I Love How Tough You Are | 70.00% | ~3,294 |
-| Wanna Come To My Place For Dinner? | 63.00% | ~2,964 |
+| Last Night...Did We... | 92.00% | ~4,330 |
+| I Challenge You To Save More Money! | 86.00% | ~4,047 |
+| I Love How Tough You Are | 71.00% | ~3,341 |
+| Wanna Come To My Place For Dinner? | 63.00% | ~2,965 |
 | What I Want Is You | 57.00% | ~2,682 |
 | To Be Or Not To Be | 53.00% | ~2,494 |
-| Are You Alright? | 45.00% | ~2,117 |
-| Love Actually | 44.00% | ~2,070 |
+| Are You Alright? | 45.00% | ~2,118 |
+| Love Actually | 44.00% | ~2,071 |
 | Drama King | 38.00% | ~1,788 |
 | You're Really Something Else | 34.00% | ~1,600 |
 | Go Clean up In Your Own Way | 33.00% | ~1,553 |
@@ -22,8 +22,8 @@ Rating: 4.76 (Ranked 118)
 | Worthless Speech | 31.00% | ~1,459 |
 | Absolutely Elegant | 30.00% | ~1,412 |
 | FIRST LOVE | 30.00% | ~1,412 |
-| Still Single | 29.00% | ~1,364 |
-| Go Get Some Fries On The Pier | 27.00% | ~1,270 |
+| Still Single | 29.00% | ~1,365 |
+| Go Get Some Fries On The Pier | 27.00% | ~1,271 |
 | David | 25.00% | ~1,176 |
 | Days Of Innocence | 24.00% | ~1,129 |
 | All I Have Is Money | 22.00% | ~1,035 |
@@ -36,7 +36,7 @@ Rating: 4.76 (Ranked 118)
 | Doesn't Matter I'll Handle It | 12.00% | ~565 |
 | Love You Three Thousand | 12.00% | ~565 |
 | Can You Do This Or Not? | 12.00% | ~565 |
-| New Yoga Pose Unlocked | 9.00% | ~423 |
+| New Yoga Pose Unlocked | 9.00% | ~424 |
 | The Flash | 8.00% | ~376 |
 | My Dear Love! | 7.00% | ~329 |
 | Life Is A Rollercoaster | 7.00% | ~329 |
@@ -48,7 +48,7 @@ Rating: 4.76 (Ranked 118)
 | Limerence | 1.00% | ~47 |
 | Hurrah! | 0.90% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,705 (Ranked 183)  
+Progressed: 4,706 (Ranked 183)  
 Completed: 41 (0.87%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 41 (0.87%) (Ranked 160)
 | 2023-10-26 | 3,196 | 19 |
 | 2023-10-27 | 3,680 | 26 |
 | 2023-10-28 | 4,238 | 31 |
-| 2023-10-29 | 4,705 | 41 |
+| 2023-10-29 | 4,706 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 122,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -446,6 +446,11 @@
       "Time": "2023-10-07T03:10:15.9294133+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T21:05:17.790229+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -591,7 +596,7 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -647,7 +652,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
       "UsersEstimate": 36
     },
@@ -776,7 +781,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
@@ -784,8 +789,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:04:29.2571247+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:05:17.7902283+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:03.4277697+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:58:57.9377343+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:04:29.2571557+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:59:40.1933943+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:05:17.790284+00:00"
 }

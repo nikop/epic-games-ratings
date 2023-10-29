@@ -11,12 +11,12 @@
 | A new World ahead | 29.00% | ~32 |
 | Can't touch this | 28.00% | ~31 |
 | Don't Cry Wolf | 23.00% | ~25 |
+| Expert | 18.00% | ~20 |
 | Freezing Cold | 17.00% | ~19 |
-| Expert | 17.00% | ~19 |
 | Searing Heat | 15.00% | ~16 |
 | Nothing but the Truth | 14.00% | ~15 |
+| The Power of the Mountains | 14.00% | ~15 |
 | The Golden Flash | 13.00% | ~14 |
-| The Power of the Mountains | 13.00% | ~14 |
 | Locked and Loaded | 11.00% | ~12 |
 | Changing the World | 11.00% | ~12 |
 | The A-Team | 10.00% | ~11 |

@@ -1933,9 +1933,9 @@
       "ID": "PORTRAIT_3",
       "SetID": "2fge00i",
       "Name": "Portrait 3",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 258
     },
     {
       "ID": "PORTRAIT_4",
@@ -1965,9 +1965,9 @@
       "ID": "PORTRAIT_7",
       "SetID": "2fge00i",
       "Name": "Portrait 7",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "PORTRAIT_8",
@@ -1996,8 +1996,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:06:38.4744419+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:07:37.5457513+00:00",
   "LastUpdate_AppInfo": "2023-10-26T13:57:13.9475616+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:00:39.8140442+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:06:38.4744655+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:01:52.4963679+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:07:37.5457815+00:00"
 }

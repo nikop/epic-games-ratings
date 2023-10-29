@@ -171,6 +171,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
+| Event Level High | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
 | Run, Pheidippides, Run! | 0.20% | ~30 |
 | Nenikekamen | 0.20% | ~30 |
@@ -221,7 +222,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Elephant in Elephantine | 0.10% | ~15 |
 | Ethnic Diversity | 0.10% | ~15 |
 | Et tu Brutus? | 0.10% | ~15 |
-| Event Level High | 0.10% | ~15 |
 | Battle of the Fertile Crescent | 0.10% | ~15 |
 | Game of the Week | 0.10% | ~15 |
 | That Also Works | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,032 (Ranked 143)  
+Progressed: 15,033 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,032 | 5 |
+| 2023-10-29 | 15,033 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

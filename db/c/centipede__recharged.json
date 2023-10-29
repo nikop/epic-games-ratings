@@ -6,9 +6,9 @@
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 134,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18167,
+  "EOS_Progressed": 18168,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 1,
@@ -14972,6 +14972,11 @@
       "Time": "2023-10-29T20:04:56.9229737+00:00",
       "NumProgressed": 18167,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-29T21:05:51.1288412+00:00",
+      "NumProgressed": 18168,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -14999,7 +15004,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -15055,7 +15060,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7630
+      "UsersEstimate": 7631
     },
     {
       "ID": "Mirrors",
@@ -15110,15 +15115,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18167,
+      "Progressed": 18168,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:04:56.9229733+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:05:51.1288408+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:59:22.273986+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:04:56.9230865+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:00:08.8880288+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:05:51.1289441+00:00"
 }

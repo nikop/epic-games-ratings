@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -2175,9 +2175,9 @@
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2295,8 +2295,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-27T20:57:37.4699394+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:08:38.1057133+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:09:07.9281933+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.8317085+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:58:21.5679825+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:08:38.1057891+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:58:53.1608496+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:09:07.9282694+00:00"
 }

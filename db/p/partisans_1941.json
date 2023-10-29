@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1515,
+  "EOS_Progressed": 1516,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3174,6 +3174,11 @@
       "Time": "2023-10-29T18:07:03.0133008+00:00",
       "NumProgressed": 1515,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T21:08:16.9490389+00:00",
+      "NumProgressed": 1516,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3265,7 +3270,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Everyone_is_here",
@@ -3273,7 +3278,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Experienced_strategist",
@@ -3297,7 +3302,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "Hard_Serpent",
@@ -3377,7 +3382,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "Scout",
@@ -3401,7 +3406,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "We_were_not_here",
@@ -3424,15 +3429,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1515,
+      "Progressed": 1516,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:07:10.2176942+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:08:16.9490383+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:59:09.5934676+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:07:10.217736+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:59:54.6698164+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:08:16.9490798+00:00"
 }

@@ -14,12 +14,12 @@ Rating: 4.60 (Ranked 404)
 | Call it Even | 0.70% | ~101 |
 | Captain Drummer | 0.70% | ~101 |
 | Celebrations are in Order | 0.70% | ~101 |
+| Stogie for Fogey | 0.60% | ~87 |
 | Spore Taste | 0.60% | ~87 |
 | Heal Thy Medic | 0.60% | ~87 |
 | Khan's Revenge | 0.60% | ~87 |
 | Impossible Objects | 0.60% | ~87 |
 | Data Archivist | 0.50% | ~72 |
-| Stogie for Fogey | 0.50% | ~72 |
 | Thorston Mayer | 0.40% | ~58 |
 | Doctor Approved | 0.30% | ~43 |
 | Bottoms up! | 0.30% | ~43 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 404)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,455 (Ranked 145)  
+Progressed: 14,457 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 28 (0.19%) (Ranked 237)
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
 | 2023-10-28 | 14,430 | 28 |
-| 2023-10-29 | 14,455 | 28 |
+| 2023-10-29 | 14,457 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

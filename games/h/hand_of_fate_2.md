@@ -1,26 +1,26 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 495)  
+Rating: 4.55 (Ranked 494)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,038 |
-| Apprentice | 58.00% | ~385,086 |
+| The Fool | 72.00% | ~478,040 |
+| Apprentice | 58.00% | ~385,088 |
 | Close Shave | 25.00% | ~165,986 |
 | Mercenary | 23.00% | ~152,707 |
 | Ninja | 23.00% | ~152,707 |
-| Northern Scourge | 17.00% | ~112,870 |
+| Northern Scourge | 17.00% | ~112,871 |
 | Thief Bane | 14.00% | ~92,952 |
 | Master of Arms | 12.00% | ~79,673 |
 | Gambler | 10.00% | ~66,394 |
 | Dice Master | 10.00% | ~66,394 |
 | Swordsman | 9.00% | ~59,755 |
-| Knight | 8.00% | ~53,115 |
-| Cure for Corruption | 8.00% | ~53,115 |
-| Focused | 8.00% | ~53,115 |
-| Flurry of Fury | 8.00% | ~53,115 |
+| Knight | 8.00% | ~53,116 |
+| Cure for Corruption | 8.00% | ~53,116 |
+| Focused | 8.00% | ~53,116 |
+| Flurry of Fury | 8.00% | ~53,116 |
 | Long Shot | 7.00% | ~46,476 |
 | Devil Dice | 7.00% | ~46,476 |
 | Broken Heart | 7.00% | ~46,476 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,639 |
 | Champion | 1.00% | ~6,639 |
 | Final Death | 1.00% | ~6,639 |
-| Thomas' Bane | 0.90% | ~5,975 |
+| Thomas' Bane | 0.90% | ~5,976 |
 | Ally | 0.80% | ~5,312 |
 | Gamester | 0.70% | ~4,648 |
 | Hero | 0.60% | ~3,984 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,942 (Ranked 26)  
+Progressed: 663,945 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 171 (0.03%) (Ranked 298)
 | 2023-10-26 | 663,822 | 171 |
 | 2023-10-27 | 663,860 | 171 |
 | 2023-10-28 | 663,899 | 171 |
-| 2023-10-29 | 663,942 | 171 |
+| 2023-10-29 | 663,945 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 464)  
 Sum: 188 (Ranked 399)  

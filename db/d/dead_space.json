@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -685,7 +685,7 @@
   ],
   "EOS_Progressed": 1326,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4268,9 +4268,9 @@
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_33",
@@ -4364,9 +4364,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_44",
@@ -4412,9 +4412,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 703
     },
     {
       "ID": "achievement_7",
@@ -4453,8 +4453,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:03:47.0711595+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:04:26.2767918+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:01:10.8582926+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:03:47.071225+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:02:29.0518165+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:04:26.2768686+00:00"
 }

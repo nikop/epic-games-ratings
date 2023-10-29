@@ -1285,9 +1285,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155450,
+  "EOS_Progressed": 155461,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1417,
+  "EOS_NewPlayers": 1418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13570,6 +13570,11 @@
       "Time": "2023-10-29T20:05:11.3876996+00:00",
       "NumProgressed": 155450,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T21:06:28.2705891+00:00",
+      "NumProgressed": 155461,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13717,15 +13722,15 @@
       "Name": "Harmless",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1399
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -13773,7 +13778,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -13781,7 +13786,7 @@
       "Name": "Devourer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -13837,7 +13842,7 @@
       "Name": "Yank",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -13845,7 +13850,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13948,21 +13953,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155033,
+      "Progressed": 155044,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155450,
+      "Progressed": 155461,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-29T19:57:23.2354602+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:05:11.3876992+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:06:28.2705885+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:57:23.2354608+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:05:11.388129+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:57:46.3935773+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:06:28.2707187+00:00"
 }

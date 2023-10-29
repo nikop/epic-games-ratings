@@ -271,13 +271,13 @@ Completed: 2 (0.10%) (Ranked 260)
 | 2023-10-29 | 2,081 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 484)  
-Sum: 78 (Ranked 451)  
-Diff (max vs sum): 33  
+Sum: 79 (Ranked 450)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 30 |
 | This game is Great for Quick Sessions | 27 |
-| This game has Diverse Characters | 21 |
+| This game has Diverse Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -334,4 +334,4 @@ Diff (max vs sum): 33
 | 2023-10-23 | 4.08 | 29 | 76 |
 | 2023-10-25 | 4.08 | 30 | 77 |
 | 2023-10-27 | 4.09 | 30 | 77 |
-| 2023-10-29 | 4.10 | 30 | 78 |
+| 2023-10-29 | 4.10 | 30 | 79 |

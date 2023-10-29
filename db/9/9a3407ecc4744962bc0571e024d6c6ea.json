@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 895,
+  "EOS_Progressed": 896,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2169,6 +2169,11 @@
       "Time": "2023-10-29T13:10:59.8324357+00:00",
       "NumProgressed": 895,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-29T21:09:29.491403+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2189,7 +2194,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "BoxingClever",
@@ -2197,7 +2202,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Cartographer",
@@ -2261,7 +2266,7 @@
       "Name": "Lights Out",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2269,15 +2274,15 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 483
+      "UsersEstimate": 475
     },
     {
       "ID": "Outpatient",
@@ -2293,7 +2298,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "SkeletonCrew",
@@ -2317,7 +2322,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "TragedyDocumented",
@@ -2340,14 +2345,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 895,
+      "Progressed": 896,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:08:55.762956+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:09:29.4914021+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:25.725396+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:59:31.3654794+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:08:55.762984+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:00:21.4946823+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:09:29.4914345+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2279,
+  "EOS_Progressed": 2280,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1791,6 +1791,11 @@
       "Time": "2023-10-28T23:08:33.4208922+00:00",
       "NumProgressed": 2279,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-29T21:09:08.8257459+00:00",
+      "NumProgressed": 2280,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1850,7 +1855,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "defeat_enemies",
@@ -1858,7 +1863,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1874,7 +1879,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "piercing_beam",
@@ -1890,7 +1895,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "reach_high_heat",
@@ -1906,7 +1911,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1953,7 +1958,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2279,
+      "Progressed": 2280,
       "Completed": 9
     }
   ],
@@ -1961,8 +1966,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-10-25T03:58:44.4118872+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:08:38.87462+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:09:08.825745+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:58.4417453+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:59:51.9611816+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:08:38.8746443+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:00:42.3003611+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:09:08.8257764+00:00"
 }

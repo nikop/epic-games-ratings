@@ -8,13 +8,13 @@ Rating: 4.64 (Ranked 327)
 | Read Between The Lines | 66.00% | ~506 |
 | To Hell In A Handcart | 66.00% | ~506 |
 | High Profile | 59.00% | ~453 |
-| Whispers In The Dark | 56.00% | ~430 |
+| Whispers In The Dark | 57.00% | ~437 |
 | Fond Memories | 54.00% | ~414 |
 | A Method To His Madness | 53.00% | ~407 |
 | History Check | 52.00% | ~399 |
 | The New World | 49.00% | ~376 |
+| Gaze Into The Abyss | 48.00% | ~368 |
 | Lock, Stock, And Barrel | 47.00% | ~360 |
-| Gaze Into The Abyss | 47.00% | ~360 |
 | Open Sesame | 47.00% | ~360 |
 | Sticky Fingers | 47.00% | ~360 |
 | Knives Out | 47.00% | ~360 |

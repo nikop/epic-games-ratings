@@ -16,10 +16,10 @@
 | Scholar | 13.00% | ~43 |
 | The darkness | 13.00% | ~43 |
 | One last step | 13.00% | ~43 |
+| In this together | 12.00% | ~40 |
 | A good beginning | 12.00% | ~40 |
 | Half the way | 12.00% | ~40 |
 | Champollion | 12.00% | ~40 |
-| In this together | 11.00% | ~37 |
 | Feels like springtime | 11.00% | ~37 |
 | Alchemists Express | 10.00% | ~33 |
 | Open door | 9.00% | ~30 |

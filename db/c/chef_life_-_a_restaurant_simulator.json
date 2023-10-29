@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2867,6 +2867,11 @@
       "Time": "2023-10-29T17:07:22.4940196+00:00",
       "NumProgressed": 654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T21:08:13.4017605+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3054,7 +3059,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Packing20",
@@ -3062,7 +3067,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "PerfectGrade25",
@@ -3197,7 +3202,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 0
     }
   ],
@@ -3205,8 +3210,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:07:07.2758624+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:08:13.4017602+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:54.8056823+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:58:33.228851+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:07:07.2759156+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:59:08.1198075+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:08:13.401812+00:00"
 }

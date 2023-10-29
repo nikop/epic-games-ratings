@@ -35,7 +35,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 16.00% | ~89 |
 | Collectibles of Chapter IV | 16.00% | ~89 |
 | Helping Hand | 16.00% | ~89 |
-| Without a Second Thought | 15.00% | ~84 |
+| Without a Second Thought | 16.00% | ~89 |
 | Collectibles of Chapter V | 11.00% | ~61 |
 | Tiptoe Around | 10.00% | ~56 |
 | Such is War! | 9.00% | ~50 |

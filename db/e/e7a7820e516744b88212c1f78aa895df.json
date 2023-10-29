@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -946,9 +946,9 @@
       "ID": "achScout1",
       "SetID": "7ji07dj",
       "Name": "You\u0027re Hired!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "achScoutMaxStar",
@@ -970,9 +970,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "achSponsor10",
@@ -1121,8 +1121,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:08:49.3839979+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:09:21.7692384+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:22.4854686+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:58:06.4930584+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:08:49.3840247+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:58:35.7874828+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:09:21.7692695+00:00"
 }

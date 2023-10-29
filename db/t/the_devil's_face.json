@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 502,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2169,6 +2169,11 @@
       "Time": "2023-10-29T18:06:09.1474865+00:00",
       "NumProgressed": 500,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-29T21:07:13.8609456+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2178,9 +2183,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 206
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2188,7 +2193,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2228,7 +2233,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2291,14 +2296,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 502,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:05:48.8290789+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:07:13.8609449+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:00:06.0635852+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:05:48.829103+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:01:03.0628803+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:07:13.8609717+00:00"
 }

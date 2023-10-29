@@ -22,8 +22,8 @@ Rating: 4.46 (Ranked 635)
 | Explosive Efficiency | 19.00% | ~721 |
 | Gunslinger | 18.00% | ~683 |
 | Just a Flesh Wound | 17.00% | ~645 |
+| Der Geist | 17.00% | ~645 |
 | Climbing the Ladder | 16.00% | ~608 |
-| Der Geist | 16.00% | ~608 |
 | Close Quarters | 16.00% | ~608 |
 | Snake in the Grass | 15.00% | ~570 |
 | Brains of the Operation | 15.00% | ~570 |

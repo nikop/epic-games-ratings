@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -356,9 +356,9 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "lessons_never_learnt",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:08:42.1235109+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:09:12.8263521+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-10-29T20:00:57.1893356+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:08:42.123535+00:00"
+  "LastUpdate_Ratings": "2023-10-29T21:02:12.51585+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:09:12.8263768+00:00"
 }

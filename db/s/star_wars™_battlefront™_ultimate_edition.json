@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 914,
+  "EOS_Progressed": 915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2584,6 +2584,11 @@
       "Time": "2023-10-29T20:09:15.2091429+00:00",
       "NumProgressed": 914,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T21:09:52.5407378+00:00",
+      "NumProgressed": 915,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2650,9 +2655,9 @@
       "ID": "achievement_16",
       "SetID": "271ol84",
       "Name": "I\u0027ve been waiting for you",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_17",
@@ -2700,7 +2705,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_22",
@@ -2772,7 +2777,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_30",
@@ -2796,7 +2801,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_33",
@@ -2812,7 +2817,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_35",
@@ -2820,7 +2825,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "achievement_36",
@@ -2834,17 +2839,17 @@
       "ID": "achievement_37",
       "SetID": "271ol84",
       "Name": "Off to a good start",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_39",
@@ -2868,7 +2873,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "achievement_41",
@@ -3099,13 +3104,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 914,
+      "Progressed": 915,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 914,
+      "Progressed": 915,
       "Completed": 1
     }
   ],
@@ -3113,8 +3118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-29T20:09:15.2091422+00:00",
+  "LastChanged_Achievements": "2023-10-29T21:09:52.5407372+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:58:22.2700212+00:00",
-  "LastUpdate_Achievements": "2023-10-29T20:09:15.2092289+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:58:53.9966156+00:00",
+  "LastUpdate_Achievements": "2023-10-29T21:09:52.5408255+00:00"
 }
