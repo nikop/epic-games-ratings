@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 3.00% | ~4,658 |
-| Imprint | 3.00% | ~4,658 |
+| Taste | 3.00% | ~4,659 |
+| Imprint | 3.00% | ~4,659 |
 | The Hunt | 2.00% | ~3,106 |
 | Weeper | 2.00% | ~3,106 |
 | Ravenous | 2.00% | ~3,106 |
@@ -34,7 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.40% | ~621 |
 | All-Seeing | 0.40% | ~621 |
 | Breathsmith | 0.40% | ~621 |
-| Dream | 0.40% | ~619 |
+| Dream | 0.40% | ~620 |
 | Bloodhunter | 0.30% | ~466 |
 | Unwrap the Gift | 0.30% | ~466 |
 | Passage | 0.30% | ~466 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,283 (Ranked 75)  
+Progressed: 155,294 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 1 (0.00%) (Ranked 330)
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
 | 2023-10-28 | 155,248 | 1 |
-| 2023-10-29 | 155,283 | 1 |
+| 2023-10-29 | 155,294 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 423)  
 Sum: 327 (Ranked 349)  

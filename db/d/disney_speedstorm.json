@@ -4,11 +4,11 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 700,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 10,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -577,10 +577,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 354,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2023-10-29T03:59:36.334873+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 357,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 354,
+  "NumberOfAwards": 357,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -588,7 +594,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 40
+      "Count": 43
     },
     {
       "Text": "This game is Great for Beginners",
@@ -657,9 +663,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 263975,
+  "EOS_Progressed": 264091,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 18967,
+  "EOS_NewPlayers": 18935,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9537,6 +9543,11 @@
       "Time": "2023-10-29T03:06:01.4215671+00:00",
       "NumProgressed": 263975,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-10-29T04:05:13.5327699+00:00",
+      "NumProgressed": 264091,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 24,
@@ -9556,7 +9567,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5282
     },
     {
       "ID": "11",
@@ -9588,7 +9599,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7919
+      "UsersEstimate": 7923
     },
     {
       "ID": "15",
@@ -9644,7 +9655,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5282
     },
     {
       "ID": "21",
@@ -9668,7 +9679,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "24",
@@ -9676,7 +9687,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "3",
@@ -9692,7 +9703,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "5",
@@ -9700,7 +9711,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13199
+      "UsersEstimate": 13205
     },
     {
       "ID": "6",
@@ -9708,7 +9719,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5282
     },
     {
       "ID": "7",
@@ -9739,16 +9750,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 263975,
+      "Progressed": 264091,
       "Completed": 245
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-10-29T03:00:40.0014627+00:00",
-  "LastChanged_Achievements": "2023-10-29T03:06:01.4215664+00:00",
+  "LastChanged": "2023-10-29T03:59:36.3348729+00:00",
+  "LastChanged_Achievements": "2023-10-29T04:05:13.5327693+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.6526844+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:00:40.0014636+00:00",
-  "LastUpdate_Achievements": "2023-10-29T03:06:01.4216613+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:59:36.3348739+00:00",
+  "LastUpdate_Achievements": "2023-10-29T04:05:13.5328358+00:00"
 }

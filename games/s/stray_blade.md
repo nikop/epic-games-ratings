@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 87.00% | ~92 |
-| Tinkerer | 70.00% | ~74 |
-| Welcome to the Club | 39.00% | ~41 |
-| Apprentice | 38.00% | ~40 |
+| Self-Defence | 86.00% | ~93 |
+| Tinkerer | 69.00% | ~75 |
+| Welcome to the Club | 39.00% | ~42 |
+| Apprentice | 38.00% | ~41 |
 | A new World ahead | 29.00% | ~31 |
 | Can't touch this | 28.00% | ~30 |
-| Don't Cry Wolf | 24.00% | ~25 |
+| Don't Cry Wolf | 23.00% | ~25 |
 | Expert | 18.00% | ~19 |
 | Freezing Cold | 17.00% | ~18 |
 | Searing Heat | 15.00% | ~16 |
@@ -21,12 +21,12 @@
 | Changing the World | 11.00% | ~12 |
 | Witch | 9.00% | ~10 |
 | The A-Team | 9.00% | ~10 |
-| Mirror, Mirror on the Wall | 8.00% | ~8 |
-| Defeat Tezuth | 8.00% | ~8 |
-| Defeat Uskol | 8.00% | ~8 |
-| Through Dangers Untold | 8.00% | ~8 |
-| Finally! | 8.00% | ~8 |
-| Craftsmen | 7.00% | ~7 |
+| Defeat Tezuth | 8.00% | ~9 |
+| Mirror, Mirror on the Wall | 7.00% | ~8 |
+| Defeat Uskol | 7.00% | ~8 |
+| Through Dangers Untold | 7.00% | ~8 |
+| Finally! | 7.00% | ~8 |
+| Craftsmen | 6.00% | ~6 |
 | A Deceiving Gift | 6.00% | ~6 |
 | Defeat Ingla | 5.00% | ~5 |
 | Bringing guns to a sword fight | 5.00% | ~5 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 397)  
+Progressed: 108 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 0 (0.00%) (Ranked 330)
 | 2023-10-26 | 103 | 0 |
 | 2023-10-27 | 105 | 0 |
 | 2023-10-28 | 106 | 0 |
+| 2023-10-29 | 108 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -276,9 +276,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "earn_all_trophies",
@@ -316,9 +316,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "find_one_photo",
@@ -340,9 +340,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "finished_it",
@@ -492,9 +492,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "something_important",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-29T03:08:04.9367576+00:00",
+  "LastChanged_Achievements": "2023-10-29T04:06:42.481754+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:03:46.1366734+00:00",
-  "LastUpdate_Achievements": "2023-10-29T03:08:04.9368428+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:03:34.7430771+00:00",
+  "LastUpdate_Achievements": "2023-10-29T04:06:42.4818075+00:00"
 }

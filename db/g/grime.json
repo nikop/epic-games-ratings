@@ -1273,9 +1273,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155283,
+  "EOS_Progressed": 155294,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13473,6 +13473,11 @@
       "Time": "2023-10-29T03:06:12.124228+00:00",
       "NumProgressed": 155283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T04:05:21.3131173+00:00",
+      "NumProgressed": 155294,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13548,7 +13553,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13700,7 +13705,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4658
+      "UsersEstimate": 4659
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13780,7 +13785,7 @@
       "Name": "Dream",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "QUEST_CODA",
@@ -13851,21 +13856,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154866,
+      "Progressed": 154877,
       "Completed": 1179
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155283,
+      "Progressed": 155294,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-28T21:02:39.1758873+00:00",
-  "LastChanged_Achievements": "2023-10-29T03:06:12.1242272+00:00",
+  "LastChanged_Achievements": "2023-10-29T04:05:21.3131167+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:57:27.7413364+00:00",
-  "LastUpdate_Achievements": "2023-10-29T03:06:12.124351+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:57:24.8299809+00:00",
+  "LastUpdate_Achievements": "2023-10-29T04:05:21.3132381+00:00"
 }

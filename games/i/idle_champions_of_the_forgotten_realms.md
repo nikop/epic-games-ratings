@@ -9,8 +9,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.90% | ~2,098 |
 | Beast Intentions | 0.40% | ~932 |
 | The Cursed Farmer | 0.40% | ~932 |
-| Foul Play | 0.40% | ~797 |
-| Spelljammers in Training | 0.40% | ~797 |
+| Foul Play | 0.40% | ~798 |
+| Spelljammers in Training | 0.40% | ~798 |
 | The Ring of Regeneration | 0.30% | ~699 |
 | The Mad Wizard | 0.30% | ~699 |
 | The Jungles of Doomspace | 0.30% | ~598 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.20% | ~466 |
 | Mad Cow Disease | 0.20% | ~466 |
 | The Dead Three | 0.20% | ~466 |
+| The Darkness Runs Deeper | 0.20% | ~466 |
 | Difficult Terrain | 0.20% | ~466 |
 | Resolve Amongst Chaos | 0.20% | ~466 |
 | Into The Fire | 0.20% | ~399 |
@@ -331,7 +332,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~233 |
 | The Tallest of Kobolds | 0.10% | ~199 |
 | Patience is Key | 0.10% | ~233 |
-| The Darkness Runs Deeper | 0.10% | ~233 |
 | Troublesome Prisoner | 0.10% | ~233 |
 | Dark Doppelgangers | 0.10% | ~233 |
 | Faerûn's Most Wanted | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,097 (Ranked 61)  
+Progressed: 233,102 (Ranked 61)  
 Completed: 2,395 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -727,7 +727,7 @@ Completed: 2,395 (1.03%) (Ranked 149)
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
-| 2023-10-29 | 233,097 | 2,395 |
+| 2023-10-29 | 233,102 | 2,395 |
 ## Awards
 Max (Great for Beginners): 5,461  (Ranked 69)  
 Sum: 32,249 (Ranked 41)  

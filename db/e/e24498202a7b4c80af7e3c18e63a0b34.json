@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6529,
+  "EOS_Progressed": 6530,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -4531,6 +4531,11 @@
       "Time": "2023-10-29T02:28:04.7547898+00:00",
       "NumProgressed": 6529,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-10-29T04:09:29.8926622+00:00",
+      "NumProgressed": 6530,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4543,7 +4548,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5615
+      "UsersEstimate": 5616
     },
     {
       "ID": "achievement_01_02",
@@ -4559,7 +4564,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "achievement_01_04",
@@ -4567,7 +4572,7 @@
       "Name": "Bzzzt",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "achievement_01_05",
@@ -4583,7 +4588,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "achievement_01_07",
@@ -4599,7 +4604,7 @@
       "Name": "Trophy Collector",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "achievement_01_09",
@@ -4607,7 +4612,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "achievement_01_10",
@@ -4623,7 +4628,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "achievement_02_02",
@@ -4775,7 +4780,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "achievement_04_02",
@@ -4807,7 +4812,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "achievement_04_06",
@@ -4823,7 +4828,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "achievement_04_08",
@@ -4846,7 +4851,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6529,
+      "Progressed": 6530,
       "Completed": 31
     }
   ],
@@ -4854,8 +4859,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-10-29T03:10:06.2375345+00:00",
+  "LastChanged_Achievements": "2023-10-29T04:09:29.8926613+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:58:03.8928003+00:00",
-  "LastUpdate_Achievements": "2023-10-29T03:10:06.2376021+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:57:52.5536656+00:00",
+  "LastUpdate_Achievements": "2023-10-29T04:09:29.8927207+00:00"
 }

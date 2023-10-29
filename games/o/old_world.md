@@ -120,6 +120,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
 | Ready | 0.60% | ~90 |
+| Clerics | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
 | One True Faith | 0.60% | ~90 |
@@ -135,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.50% | ~75 |
 | Devout | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
-| Clerics | 0.50% | ~75 |
 | Cao'an | 0.50% | ~75 |
 | Adur Burzen-Mihr | 0.50% | ~75 |
 | Learn to Play 5 | 0.50% | ~75 |
@@ -165,6 +165,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
+| Prosperous Kmt | 0.30% | ~45 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
@@ -179,7 +180,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
-| Prosperous Kmt | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |

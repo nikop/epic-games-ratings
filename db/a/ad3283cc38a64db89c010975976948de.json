@@ -2,7 +2,7 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 121,
@@ -199,17 +199,17 @@
       "ID": "LEVEL_135_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 135 pieces",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_135_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 135 pieces",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_135_006",
@@ -374,8 +374,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-29T03:05:47.8573103+00:00",
+  "LastChanged_Achievements": "2023-10-29T04:05:03.8936875+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:02:13.4697883+00:00",
-  "LastUpdate_Achievements": "2023-10-29T03:05:47.857339+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:00:46.547111+00:00",
+  "LastUpdate_Achievements": "2023-10-29T04:05:03.8937133+00:00"
 }

@@ -16,6 +16,7 @@
 | Crimson rivers | 17.00% | ~1 |
 | Berkanan Borgia | 17.00% | ~1 |
 | Power of Inquisition | 17.00% | ~1 |
+| The best apprentice | 17.00% | ~1 |
 | The champion of the arena | 17.00% | ~1 |
 | Surpass the teacher | 17.00% | ~1 |
 | Vene, vidi, vici | 17.00% | ~1 |
@@ -35,7 +36,6 @@
 | Overplay the rogue | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
-| The best apprentice | 0.00% | ~0 |
 | Stronger than Gellian steel | 0.00% | ~0 |
 | First among Frisians | 0.00% | ~0 |
 | Defeat the bear | 0.00% | ~0 |
