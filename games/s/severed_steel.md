@@ -5,17 +5,17 @@ Rating: 4.69 (Ranked 227)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~203,806 |
-| 50 HEADSHOTS | 28.00% | ~190,219 |
-| SCIENCE AND INDUSTRY | 27.00% | ~183,425 |
-| FINISHED CHAPTER 1 | 26.00% | ~176,632 |
-| FINISHED CHAPTER 2 | 19.00% | ~129,077 |
-| 200 HEADSHOTS | 17.00% | ~115,490 |
-| FINISHED CHAPTER 3 | 16.00% | ~108,696 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,109 |
-| FINISH CHAPTER 5 | 12.00% | ~81,522 |
-| FINISH CHAPTER 6 | 10.00% | ~67,935 |
-| CATHARTIC ESCAPISM | 10.00% | ~67,935 |
+| 100 KILLS | 30.00% | ~203,808 |
+| 50 HEADSHOTS | 28.00% | ~190,221 |
+| SCIENCE AND INDUSTRY | 27.00% | ~183,427 |
+| FINISHED CHAPTER 1 | 26.00% | ~176,634 |
+| FINISHED CHAPTER 2 | 19.00% | ~129,079 |
+| 200 HEADSHOTS | 17.00% | ~115,491 |
+| FINISHED CHAPTER 3 | 16.00% | ~108,698 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,111 |
+| FINISH CHAPTER 5 | 12.00% | ~81,523 |
+| FINISH CHAPTER 6 | 10.00% | ~67,936 |
+| CATHARTIC ESCAPISM | 10.00% | ~67,936 |
 | 1000 KILLS | 9.00% | ~61,142 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~27,174 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,587 |
@@ -24,7 +24,7 @@ Rating: 4.69 (Ranked 227)
 | TIME PARADOX | 1.00% | ~6,794 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,114 |
 | OUT OF ORDER | 0.90% | ~6,114 |
-| PARTYHARD | 0.70% | ~4,755 |
+| PARTYHARD | 0.70% | ~4,756 |
 | NEW GAME PLUS | 0.60% | ~4,076 |
 | FIREFIGHT LEVEL 40 | 0.50% | ~3,397 |
 | CHURCH | 0.40% | ~2,717 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 227)
 | THE GAMBLER | 0.10% | ~679 |
 | WARRIOR IN A GARDEN | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,352 (Ranked 23)  
+Progressed: 679,361 (Ranked 23)  
 Completed: 80 (0.01%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 80 (0.01%) (Ranked 309)
 | 2023-10-26 | 678,554 | 79 |
 | 2023-10-27 | 678,884 | 80 |
 | 2023-10-28 | 679,311 | 80 |
-| 2023-10-29 | 679,352 | 80 |
+| 2023-10-29 | 679,361 | 80 |
 ## Awards
 Max (Great Boss Battles): 369  (Ranked 228)  
 Sum: 369 (Ranked 338)  

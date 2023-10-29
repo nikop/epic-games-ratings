@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.30% | ~598 |
 | The Arena of Blood | 0.30% | ~598 |
 | Maddening | 0.20% | ~466 |
+| The Witchlight Carnival | 0.20% | ~399 |
 | The Prince of a Thousand Enemies | 0.20% | ~399 |
 | The Castle of a Thousand Vecnas | 0.20% | ~399 |
 | The Sanctum of the Sword | 0.20% | ~399 |
@@ -66,7 +67,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~199 |
 | An Unexpected Geist | 0.10% | ~199 |
 | Back to Nature | 0.10% | ~199 |
-| The Witchlight Carnival | 0.10% | ~199 |
 | A Monarch Among Us | 0.10% | ~199 |
 | A Dragon Against Us | 0.10% | ~199 |
 | A Familiar Behind Us | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,095 (Ranked 61)  
+Progressed: 233,096 (Ranked 61)  
 Completed: 2,395 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -727,7 +727,7 @@ Completed: 2,395 (1.03%) (Ranked 149)
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
-| 2023-10-29 | 233,095 | 2,395 |
+| 2023-10-29 | 233,096 | 2,395 |
 ## Awards
 Max (Great for Beginners): 5,461  (Ranked 69)  
 Sum: 32,249 (Ranked 41)  

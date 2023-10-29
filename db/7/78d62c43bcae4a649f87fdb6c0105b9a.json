@@ -193,9 +193,9 @@
       "ID": "hotel",
       "SetID": "40o2ndb",
       "Name": "Very clean, would recommend!",
-      "Percentage": 58,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "insane",
@@ -257,9 +257,9 @@
       "ID": "world1",
       "SetID": "40o2ndb",
       "Name": "Hasta la vista, Meowitch!",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "world1insane",
@@ -352,8 +352,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:49:39.7302274+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:23:45.7213071+00:00",
   "LastUpdate_AppInfo": "2023-10-22T20:57:04.8346005+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:45:47.7621124+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:49:39.7302457+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:20:31.5720869+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:23:45.7213264+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3963,9 +3963,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 76528,
+  "EOS_Progressed": 76530,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25573,6 +25573,11 @@
       "Time": "2023-10-29T01:53:38.8673913+00:00",
       "NumProgressed": 76528,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-29T02:27:04.9287771+00:00",
+      "NumProgressed": 76530,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25688,7 +25693,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24489
+      "UsersEstimate": 24490
     },
     {
       "ID": "complete_mission_1",
@@ -25696,7 +25701,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 35968
+      "UsersEstimate": 35969
     },
     {
       "ID": "customize_a_vehicle",
@@ -25712,7 +25717,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28315
+      "UsersEstimate": 28316
     },
     {
       "ID": "cutting_edge_materials",
@@ -25768,7 +25773,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14540
+      "UsersEstimate": 14541
     },
     {
       "ID": "empire_tier_4",
@@ -25776,7 +25781,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9183
+      "UsersEstimate": 9184
     },
     {
       "ID": "empire_tier_5",
@@ -25792,7 +25797,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25254
+      "UsersEstimate": 25255
     },
     {
       "ID": "fully_complete_a_building",
@@ -25800,7 +25805,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17601
+      "UsersEstimate": 17602
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -25832,7 +25837,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27550
+      "UsersEstimate": 27551
     },
     {
       "ID": "hit_max_level",
@@ -25840,7 +25845,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12244
+      "UsersEstimate": 12245
     },
     {
       "ID": "infinite_boost_refill",
@@ -25880,7 +25885,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26785
+      "UsersEstimate": 26786
     },
     {
       "ID": "one_third_purple",
@@ -25968,7 +25973,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32142
+      "UsersEstimate": 32143
     },
     {
       "ID": "whole_map_purple",
@@ -26007,13 +26012,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76528,
+      "Progressed": 76530,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48165,
+      "Progressed": 48167,
       "Completed": 4208
     }
   ],
@@ -26021,8 +26026,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-29T01:48:04.1128928+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:53:38.8673904+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:27:04.9287763+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:48:04.1128934+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:53:38.8675714+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:21:23.3486911+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:27:04.9289749+00:00"
 }

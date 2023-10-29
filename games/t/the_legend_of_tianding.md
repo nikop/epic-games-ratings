@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 75.00% | ~9 |
+| Hero Arrives | 83.00% | ~10 |
 | Death Battle | 58.00% | ~7 |
 | Phantom Kunoichi | 58.00% | ~7 |
 | Eat the Rich | 58.00% | ~7 |

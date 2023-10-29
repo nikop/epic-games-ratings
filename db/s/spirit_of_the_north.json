@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72672,
+  "EOS_Progressed": 72673,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -21387,6 +21387,11 @@
       "Time": "2023-10-29T01:53:36.1180245+00:00",
       "NumProgressed": 72672,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-29T02:27:01.1398998+00:00",
+      "NumProgressed": 72673,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -21414,7 +21419,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49417
+      "UsersEstimate": 49418
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21478,7 +21483,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38516
+      "UsersEstimate": 38517
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -21518,7 +21523,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6540
+      "UsersEstimate": 6541
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -21589,7 +21594,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72672,
+      "Progressed": 72673,
       "Completed": 379
     }
   ],
@@ -21597,8 +21602,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:53:36.1180239+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:27:01.1398991+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:48:01.5721996+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:53:36.1181709+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:21:19.4960348+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:27:01.1401032+00:00"
 }

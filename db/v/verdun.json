@@ -3,8 +3,8 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 530,
-  "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 276,
+  "Ranking_Popularity": 345,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 101,
@@ -1659,12 +1659,18 @@
       "Rating": 4.53,
       "NumberOfAwards": 777,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-10-29T02:18:33.645112+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 901,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 777,
-  "NumberOfAwardsMax": 97,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 901,
+  "NumberOfAwardsMax": 106,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -1676,13 +1682,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 85
+      "Count": 88
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1694,13 +1700,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 87
+      "Count": 91
     },
     {
       "Text": "This game is Relaxing",
@@ -1712,7 +1718,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1724,25 +1730,25 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 71
+      "Count": 74
     },
     {
       "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 88
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 106
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 67
+      "Count": 71
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game is Educational",
@@ -1753,7 +1759,7 @@
   ],
   "EOS_Progressed": 61956,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23259,9 +23265,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2023-09-19T10:59:28.3016701+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:50:48.2735804+00:00",
+  "LastChanged": "2023-10-29T02:18:33.6451118+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:25:21.1541628+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:01.325984+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:44:24.9743977+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:50:48.2737678+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:18:33.6451125+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:25:21.1543204+00:00"
 }

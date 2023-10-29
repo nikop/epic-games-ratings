@@ -499,9 +499,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 608529,
+  "EOS_Progressed": 608530,
   "EOS_Completed": 538,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 842,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -21904,6 +21904,11 @@
       "Time": "2023-10-29T01:53:44.2176703+00:00",
       "NumProgressed": 608529,
       "NumCompleted": 538
+    },
+    {
+      "Time": "2023-10-29T02:27:12.4706678+00:00",
+      "NumProgressed": 608530,
+      "NumCompleted": 538
     }
   ],
   "TotalAchievements": 28,
@@ -22035,7 +22040,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 304264
+      "UsersEstimate": 304265
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -22043,7 +22048,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 565932
+      "UsersEstimate": 565933
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22075,7 +22080,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 401629
+      "UsersEstimate": 401630
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -22091,7 +22096,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 322520
+      "UsersEstimate": 322521
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -22138,15 +22143,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 608529,
+      "Progressed": 608530,
       "Completed": 538
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-10-24T11:00:57.0724389+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:53:44.2176693+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:27:12.4706668+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:08.120773+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:43:30.1372374+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:53:44.2178234+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:17:21.546789+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:27:12.4708478+00:00"
 }

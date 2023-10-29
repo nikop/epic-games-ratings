@@ -6,28 +6,28 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~35,968 |
-| To The Nines | 42.00% | ~32,142 |
-| Optimized | 37.00% | ~28,315 |
-| Performance Review | 36.00% | ~27,550 |
-| Making a Name | 35.00% | ~26,785 |
+| First F#@!ing Day | 47.00% | ~35,969 |
+| To The Nines | 42.00% | ~32,143 |
+| Optimized | 37.00% | ~28,316 |
+| Performance Review | 36.00% | ~27,551 |
+| Making a Name | 35.00% | ~26,786 |
 | Tune Up | 34.00% | ~26,020 |
-| Landlord | 33.00% | ~25,254 |
-| Wet Work | 32.00% | ~24,489 |
+| Landlord | 33.00% | ~25,255 |
+| Wet Work | 32.00% | ~24,490 |
 | The Side Job | 31.00% | ~23,724 |
 | Wrecking Ball | 28.00% | ~21,428 |
 | Food for Thought | 27.00% | ~20,663 |
 | Finders Keepers | 25.00% | ~19,132 |
 | A Young Empire | 25.00% | ~19,132 |
-| Work Ethic | 23.00% | ~17,601 |
+| Work Ethic | 23.00% | ~17,602 |
 | Picking Fights | 20.00% | ~15,306 |
-| Power Players | 19.00% | ~14,540 |
+| Power Players | 19.00% | ~14,541 |
 | Quality Time | 18.00% | ~13,775 |
 | Showdown | 17.00% | ~13,010 |
 | Et tu? | 17.00% | ~13,010 |
-| Took It to The Limit | 16.00% | ~12,244 |
+| Took It to The Limit | 16.00% | ~12,245 |
 | Kitted Out | 14.00% | ~10,714 |
-| Masters of Santo Ileso | 12.00% | ~9,183 |
+| Masters of Santo Ileso | 12.00% | ~9,184 |
 | Hijacked | 11.00% | ~8,418 |
 | The Spins | 10.00% | ~7,653 |
 | The Mechanic | 10.00% | ~7,653 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~153 |
 | Fiesta Time | 0.20% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,528 (Ranked 96)  
+Progressed: 76,530 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 51 (0.07%) (Ranked 275)
 | 2023-10-26 | 76,266 | 51 |
 | 2023-10-27 | 76,386 | 51 |
 | 2023-10-28 | 76,513 | 51 |
-| 2023-10-29 | 76,528 | 51 |
+| 2023-10-29 | 76,530 | 51 |
 ## Awards
 Max (Extremely Fun): 1,074  (Ranked 144)  
 Sum: 8,716 (Ranked 97)  

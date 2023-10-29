@@ -10,7 +10,7 @@ Number of Ratings: 68  (23.09.2022)
 | Overkill | 34.00% | ~5,719 |
 | Vaccine Incoming | 33.00% | ~5,551 |
 | A normal day in Gloomhaven | 33.00% | ~5,551 |
-| Spread the plague | 30.00% | ~5,046 |
+| Spread the plague | 30.00% | ~5,047 |
 | Get over here! | 24.00% | ~4,037 |
 | Just when I thought I was out... | 19.00% | ~3,196 |
 | Precious! | 17.00% | ~2,860 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,821 (Ranked 137)  
+Progressed: 16,822 (Ranked 137)  
 Completed: 1 (0.01%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.01%) (Ranked 309)
 | 2023-10-26 | 16,260 | 1 |
 | 2023-10-27 | 16,501 | 1 |
 | 2023-10-28 | 16,804 | 1 |
-| 2023-10-29 | 16,821 | 1 |
+| 2023-10-29 | 16,822 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,321 (Ranked 98)  

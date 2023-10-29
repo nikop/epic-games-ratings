@@ -260,23 +260,23 @@ Completed: 4 (0.01%) (Ranked 309)
 | 2023-10-28 | 61,945 | 4 |
 | 2023-10-29 | 61,956 | 4 |
 ## Awards
-Max (Highly Recommended): 97  (Ranked 357)  
-Sum: 777 (Ranked 276)  
-Diff (max vs sum): 81  
+Max (Great for Beginners): 106  (Ranked 345)  
+Sum: 901 (Ranked 265)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 97 |
+| This game is Great for Beginners | 106 |
+| This game is Highly Recommended | 98 |
 | This game is Extremely Fun | 92 |
-| This game is Great for Beginners | 88 |
-| This game has Diverse Characters | 87 |
-| This game has Quickly Understood Controls | 85 |
+| This game has Diverse Characters | 91 |
+| This game has Quickly Understood Controls | 88 |
 | This game is Educational | 76 |
 | This game is Relaxing | 75 |
-| This game has Competitive Players | 73 |
-| This game has Amazing Characters | 71 |
-| This game has Realistic Visuals | 71 |
-| This game has a Competitive Community | 67 |
-| This game has Amazing Storytelling | 59 |
+| This game has Competitive Players | 74 |
+| This game has Amazing Characters | 74 |
+| This game has Realistic Visuals | 72 |
+| This game has a Competitive Community | 71 |
+| This game has Amazing Storytelling | 60 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -418,3 +418,4 @@ Diff (max vs sum): 81
 | 2023-09-15 | 4.53 | - | 97 | 774 |
 | 2023-09-17 | 4.53 | - | 97 | 776 |
 | 2023-09-19 | 4.53 | - | 97 | 777 |
+| 2023-10-29 | 4.53 | - | 106 | 901 |

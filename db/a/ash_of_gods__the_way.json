@@ -253,9 +253,9 @@
       "ID": "special3",
       "SetID": "c64if4d",
       "Name": "Deadly strike",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "special4",
@@ -486,8 +486,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:51:29.7025525+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:26:11.5336345+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.7362932+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:42:42.2867737+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:51:29.7025967+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:16:14.6243436+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:26:11.5337251+00:00"
 }

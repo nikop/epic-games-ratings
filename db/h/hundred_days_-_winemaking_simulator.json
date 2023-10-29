@@ -1027,9 +1027,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 9998,
+  "EOS_Progressed": 10003,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8077,6 +8077,11 @@
       "Time": "2023-10-29T01:50:59.5628639+00:00",
       "NumProgressed": 9998,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-29T02:25:31.4629317+00:00",
+      "NumProgressed": 10003,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8137,7 +8142,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3901
     },
     {
       "ID": "a_19",
@@ -8231,9 +8236,9 @@
       "ID": "a_30",
       "SetID": "daiie3o",
       "Name": "King of red wines",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 20
     },
     {
       "ID": "a_31",
@@ -8336,7 +8341,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 9998,
+      "Progressed": 10003,
       "Completed": 9
     }
   ],
@@ -8344,8 +8349,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-20T16:59:38.2228858+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:50:59.5628626+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:25:31.4629311+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:47:56.1941087+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:50:59.5629331+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:21:11.0443118+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:25:31.4630331+00:00"
 }

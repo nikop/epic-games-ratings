@@ -3857,9 +3857,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75217,
+  "EOS_Progressed": 75218,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1011,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20542,6 +20542,11 @@
       "Time": "2023-10-29T01:51:01.333357+00:00",
       "NumProgressed": 75217,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-29T02:25:32.8228983+00:00",
+      "NumProgressed": 75218,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -20673,7 +20678,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10530
+      "UsersEstimate": 10531
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -20801,7 +20806,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10530
+      "UsersEstimate": 10531
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -20873,7 +20878,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15043
+      "UsersEstimate": 15044
     },
     {
       "ID": "HARLEY_4",
@@ -20921,7 +20926,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15043
+      "UsersEstimate": 15044
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -20969,7 +20974,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15043
+      "UsersEstimate": 15044
     },
     {
       "ID": "MYSTERY_05",
@@ -20993,7 +20998,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10530
+      "UsersEstimate": 10531
     },
     {
       "ID": "MYSTERY_08",
@@ -21040,13 +21045,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75217,
+      "Progressed": 75218,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45497,
+      "Progressed": 45498,
       "Completed": 2670
     }
   ],
@@ -21054,8 +21059,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-28T21:58:57.1475929+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:51:01.3333564+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:25:32.8228974+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:44:02.4578351+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:51:01.3335158+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:18:05.4013692+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:25:32.8230999+00:00"
 }

@@ -26,9 +26,9 @@ Number of Ratings: 836  (23.09.2022)
 | Finders, Keepers | 26.00% | ~2,582 |
 | Top Notch | 25.00% | ~2,482 |
 | Great Leader | 23.00% | ~2,284 |
+| Ice Lakes | 23.00% | ~2,284 |
 | Mentor | 23.00% | ~2,284 |
 | Merchant | 22.00% | ~2,185 |
-| Ice Lakes | 22.00% | ~2,185 |
 | Real Survivor | 22.00% | ~2,185 |
 | Rocket Surgeon | 20.00% | ~1,986 |
 | War Never Changes | 19.00% | ~1,887 |
@@ -260,9 +260,9 @@ Completed: 0 (0.00%) (Ranked 330)
 | 2023-10-28 | 9,927 | 0 |
 | 2023-10-29 | 9,930 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 346)  
+Max (Extremely Fun): 103  (Ranked 347)  
 Sum: 717 (Ranked 288)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

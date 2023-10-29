@@ -810,9 +810,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 225887,
+  "EOS_Progressed": 225889,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21755,6 +21755,11 @@
       "Time": "2023-10-29T01:54:07.5288753+00:00",
       "NumProgressed": 225887,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-29T02:27:47.1165226+00:00",
+      "NumProgressed": 225889,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21790,7 +21795,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9036
     },
     {
       "ID": "ACH_BASE_13",
@@ -21934,7 +21939,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9036
     },
     {
       "ID": "ACH_BASE_30",
@@ -22014,7 +22019,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27106
+      "UsersEstimate": 27107
     },
     {
       "ID": "ACH_BASE_8",
@@ -22022,7 +22027,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9036
     },
     {
       "ID": "ACH_BASE_9",
@@ -22037,7 +22042,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225887,
+      "Progressed": 225889,
       "Completed": 5
     }
   ],
@@ -22045,8 +22050,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-28T15:00:51.349538+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:54:07.5288747+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:27:47.1165217+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:45:06.6081953+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:54:07.5290369+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:19:33.6934563+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:27:47.1168009+00:00"
 }

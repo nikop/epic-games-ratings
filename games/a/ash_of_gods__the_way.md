@@ -19,6 +19,7 @@
 | The champion of the arena | 17.00% | ~1 |
 | Surpass the teacher | 17.00% | ~1 |
 | Vene, vidi, vici | 17.00% | ~1 |
+| Deadly strike | 17.00% | ~1 |
 | A solo player | 17.00% | ~1 |
 | Punish the Punisher | 17.00% | ~1 |
 | Protect the Healer! | 17.00% | ~1 |
@@ -42,7 +43,6 @@
 | Rage | 0.00% | ~0 |
 | The power of persuasion | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
-| Deadly strike | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
 | By someone else's hands | 0.00% | ~0 |

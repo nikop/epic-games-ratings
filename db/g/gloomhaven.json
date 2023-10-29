@@ -2279,9 +2279,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 16821,
+  "EOS_Progressed": 16822,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1705,
+  "EOS_NewPlayers": 1697,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-10-29T01:48:58.1138471+00:00",
       "NumProgressed": 16821,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T02:22:46.3295204+00:00",
+      "NumProgressed": 16822,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7378,7 +7383,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7633,7 +7638,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 16821,
+      "Progressed": 16822,
       "Completed": 1
     }
   ],
@@ -7641,8 +7646,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-28T22:00:46.9871751+00:00",
-  "LastChanged_Achievements": "2023-10-29T01:48:58.1138463+00:00",
+  "LastChanged_Achievements": "2023-10-29T02:22:46.3295194+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-10-29T01:45:34.1647372+00:00",
-  "LastUpdate_Achievements": "2023-10-29T01:48:58.1139346+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:20:11.7644551+00:00",
+  "LastUpdate_Achievements": "2023-10-29T02:22:46.3296077+00:00"
 }

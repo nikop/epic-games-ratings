@@ -43,11 +43,11 @@ Rating: 4.48 (Ranked 614)
 | This is to go, even Further Beyond! | 2.00% | ~23 |
 | Gitting Gud | 2.00% | ~23 |
 | [Sweats profusely] | 2.00% | ~23 |
+| Redout Champion | 2.00% | ~23 |
 | Great Start | 2.00% | ~23 |
 | Fashion Racer | 1.00% | ~12 |
 | S-uper! | 1.00% | ~12 |
 | Put a sign on it | 1.00% | ~12 |
-| Redout Champion | 1.00% | ~12 |
 | Everything is better with friends | 1.00% | ~12 |
 | Familiar Face | 1.00% | ~12 |
 | Eat dust my friend | 1.00% | ~12 |

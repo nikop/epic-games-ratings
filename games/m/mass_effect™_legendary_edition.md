@@ -73,8 +73,8 @@
 | Suicide Mission | 29.00% | ~243 |
 | Against All Odds | 29.00% | ~243 |
 | Mobilizer | 29.00% | ~243 |
+| Untouchable | 28.00% | ~234 |
 | First Aid Specialist | 28.00% | ~234 |
-| Untouchable | 27.00% | ~226 |
 | Giant Killer | 27.00% | ~226 |
 | A House Divided | 27.00% | ~226 |
 | World Shaker | 27.00% | ~226 |
