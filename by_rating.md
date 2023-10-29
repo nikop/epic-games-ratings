@@ -962,7 +962,7 @@
 | 956 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 0 | 540 |
 | 956 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 291 |
 | 956 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 540 |
-| 963 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 555 | 199 |
+| 963 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 556 | 199 |
 | 964 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,461 | 69 |
 | 964 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 540 |
 | 964 | [Pinball FX](games/p/pinball_fx.md) | 4.06 | 197 | 282 |
@@ -982,7 +982,7 @@
 | 977 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 540 |
 | 977 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 4.00 | 0 | 540 |
 | 982 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 373 | 227 |
-| 982 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,804 | 73 |
+| 982 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,807 | 73 |
 | 982 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 540 |
 | 982 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 540 |
 | 986 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.98 | 0 | 540 |
