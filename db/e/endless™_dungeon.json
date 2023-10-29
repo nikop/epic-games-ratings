@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 904,
+  "EOS_Progressed": 905,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-10-29T17:04:02.3484067+00:00",
       "NumProgressed": 904,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T18:04:12.8044765+00:00",
+      "NumProgressed": 905,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1035,9 +1040,9 @@
       "ID": "ACHIEVEMENT_BLUR_BOSS",
       "SetID": "9991201",
       "Name": "Unblurred Lines",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -1059,9 +1064,9 @@
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
       "SetID": "9991201",
       "Name": "Team Builder",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1077,7 +1082,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1141,7 +1146,7 @@
       "Name": "Hoarder",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1195,17 +1200,17 @@
       "ID": "ACHIEVEMENT_SCORE_WIN1WIN",
       "SetID": "9991201",
       "Name": "Effective Efficiency",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 109
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 99
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1236,14 +1241,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 904,
+      "Progressed": 905,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:04:02.3484061+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:04:12.8044759+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:02:34.5875269+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:04:02.3484353+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:01:49.2847928+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:04:12.804504+00:00"
 }

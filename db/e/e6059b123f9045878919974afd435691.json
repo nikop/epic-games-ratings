@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2474,6 +2474,11 @@
       "Time": "2023-10-29T12:08:28.5308157+00:00",
       "NumProgressed": 981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T18:07:15.1472891+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2485,7 +2490,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2493,7 +2498,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2525,7 +2530,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2557,7 +2562,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2731,9 +2736,9 @@
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 157
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2773,7 +2778,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2813,7 +2818,7 @@
       "Name": "End the Infestation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2861,7 +2866,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2933,7 +2938,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3012,14 +3017,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:08:22.8228576+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:07:15.1472885+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:57:46.1130865+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:08:22.8230108+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:58:04.8122793+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:07:15.1473728+00:00"
 }

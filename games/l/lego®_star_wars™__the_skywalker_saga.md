@@ -18,7 +18,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | Attack of the Clones | 47.00% | ~24,393 |
 | Revenge of the Sith | 40.00% | ~20,760 |
 | The Empire Strikes Back | 38.00% | ~19,722 |
-| ''A fine addition to my collection'' | 37.00% | ~19,203 |
+| ''A fine addition to my collection'' | 38.00% | ~19,722 |
 | Return of the Jedi | 32.00% | ~16,608 |
 | The Force Awakens | 27.00% | ~14,013 |
 | The Last Jedi | 23.00% | ~11,937 |

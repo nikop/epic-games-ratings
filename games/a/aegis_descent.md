@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~391 |
-| Scavenger | 74.00% | ~308 |
+| Clean Sweep | 94.00% | ~392 |
+| Scavenger | 74.00% | ~309 |
 | Line of Duty | 72.00% | ~300 |
-| Gunner | 56.00% | ~233 |
-| DocKing | 46.00% | ~191 |
+| Gunner | 56.00% | ~234 |
+| DocKing | 46.00% | ~192 |
 | What-A-Shot | 44.00% | ~183 |
 | Batteries Included | 38.00% | ~158 |
 | Death from Above | 35.00% | ~146 |
@@ -17,12 +17,12 @@
 | Extra Ammo | 19.00% | ~79 |
 | Splash Damage | 19.00% | ~79 |
 | Hazardous Duty | 17.00% | ~71 |
-| Perky | 15.00% | ~62 |
+| Perky | 15.00% | ~63 |
 | Perk King | 11.00% | ~46 |
 | Salvage | 11.00% | ~46 |
 | Shocking | 11.00% | ~46 |
 | Sixty Seconds | 10.00% | ~42 |
-| Perfect Timing | 9.00% | ~37 |
+| Perfect Timing | 9.00% | ~38 |
 | Killer Elite | 6.00% | ~25 |
 | OP | 5.00% | ~21 |
 | Bumper Car | 4.00% | ~17 |
@@ -30,7 +30,7 @@
 | Early Bird | 4.00% | ~17 |
 | First Victory | 4.00% | ~17 |
 | Thirty Birds... | 4.00% | ~17 |
-| Swiss Cheese | 3.00% | ~12 |
+| Swiss Cheese | 3.00% | ~13 |
 | Mister Fix It | 2.00% | ~8 |
 | Shell Shock | 2.00% | ~8 |
 | Hornet Lock On | 2.00% | ~8 |
@@ -49,7 +49,7 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 416 (Ranked 306)  
+Progressed: 417 (Ranked 305)  
 Completed: 1 (0.24%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 1 (0.24%) (Ranked 224)
 | 2023-10-25 | 414 | 1 |
 | 2023-10-26 | 415 | 1 |
 | 2023-10-28 | 416 | 1 |
+| 2023-10-29 | 417 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

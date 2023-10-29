@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4221,9 +4221,9 @@
       "ID": "glitter_of_gold_2",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 2",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "glitter_of_gold_3",
@@ -4269,9 +4269,9 @@
       "ID": "invincible_2",
       "SetID": "53c1p3k",
       "Name": "Invincible 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "invincible_3",
@@ -4508,8 +4508,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:09:40.7197196+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:09:30.0933004+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.0122242+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:59:27.5399131+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:09:40.7198499+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:59:25.1406635+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:09:30.0933886+00:00"
 }

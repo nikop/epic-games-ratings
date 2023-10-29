@@ -6,26 +6,26 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~5,576 |
-| Worker Specialization | 77.00% | ~5,505 |
-| First Contact | 72.00% | ~5,147 |
-| Win a Battle | 65.00% | ~4,647 |
-| Anomaly Researcher | 61.00% | ~4,361 |
-| Unleash My Power | 61.00% | ~4,361 |
-| Own 30 Planets | 33.00% | ~2,359 |
+| Colonize a Planet | 78.00% | ~5,577 |
+| Worker Specialization | 77.00% | ~5,506 |
+| First Contact | 72.00% | ~5,148 |
+| Win a Battle | 65.00% | ~4,648 |
+| Anomaly Researcher | 61.00% | ~4,362 |
+| Unleash My Power | 61.00% | ~4,362 |
+| Own 30 Planets | 33.00% | ~2,360 |
 | Xenocide | 31.00% | ~2,216 |
 | Design a Civilization | 31.00% | ~2,216 |
 | Commodity Trader | 30.00% | ~2,145 |
-| Design a Ship | 27.00% | ~1,930 |
+| Design a Ship | 27.00% | ~1,931 |
 | Commodity Seller | 24.00% | ~1,716 |
-| Prestige Victory! | 13.00% | ~929 |
+| Prestige Victory! | 13.00% | ~930 |
 | Galactic War | 10.00% | ~715 |
-| Trading Partner | 9.00% | ~643 |
+| Trading Partner | 9.00% | ~644 |
 | Fleet Victory | 8.00% | ~572 |
-| Win as Terrans | 7.00% | ~500 |
+| Win as Terrans | 7.00% | ~501 |
 | Gain an Ally | 6.00% | ~429 |
 | Win with a Custom Faction | 6.00% | ~429 |
-| War with the Unknown | 5.00% | ~357 |
+| War with the Unknown | 5.00% | ~358 |
 | Conquest Victory! | 4.00% | ~286 |
 | Win Quickly | 4.00% | ~286 |
 | Pirate Cleansing | 3.00% | ~214 |
@@ -34,9 +34,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Altarians | 2.00% | ~143 |
 | Win as the Yor | 2.00% | ~143 |
 | Influence Victory! | 2.00% | ~143 |
-| Win as Arceans | 1.00% | ~71 |
-| Win as the Baratak | 1.00% | ~71 |
-| Win as the Mimot | 1.00% | ~71 |
+| Win as Arceans | 1.00% | ~72 |
+| Win as the Baratak | 1.00% | ~72 |
+| Win as the Mimot | 1.00% | ~72 |
 | Win as Festron | 0.90% | ~64 |
 | Win as the Navigators | 0.90% | ~64 |
 | Win as Torians | 0.80% | ~57 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,149 (Ranked 168)  
+Progressed: 7,150 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,11 +271,11 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 7,099 | 0 |
 | 2023-10-27 | 7,117 | 0 |
 | 2023-10-28 | 7,140 | 0 |
-| 2023-10-29 | 7,149 | 0 |
+| 2023-10-29 | 7,150 | 0 |
 ## Awards
-Max (Diverse Characters): 94  (Ranked 363)  
+Max (Diverse Characters): 94  (Ranked 364)  
 Sum: 681 (Ranked 293)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

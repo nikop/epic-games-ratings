@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,411 |
+| Stylish | 5.00% | ~1,412 |
 | Advancement | 4.00% | ~1,129 |
 | Meticulously Efficient | 4.00% | ~1,129 |
 | Clutch Capture | 3.00% | ~847 |
@@ -16,20 +16,20 @@ Rating: 4.50 (Ranked 578)
 | Swift Rift Removers | 3.00% | ~847 |
 | Teamwork | 3.00% | ~847 |
 | Vaporous Expansion | 3.00% | ~847 |
-| Animated | 2.00% | ~564 |
-| Back Off | 2.00% | ~564 |
-| Cultured | 2.00% | ~564 |
-| Daily Dose | 2.00% | ~564 |
-| Ectoplasmic Entity | 2.00% | ~564 |
-| Ghostbuster In Training | 2.00% | ~564 |
-| Icing on the Cake | 2.00% | ~564 |
-| Pesky Jerks | 2.00% | ~564 |
-| Right back at ya | 2.00% | ~564 |
-| Side Hustle | 2.00% | ~564 |
-| Summoner | 2.00% | ~564 |
-| There you are! | 2.00% | ~564 |
-| Welcome to the Crew | 2.00% | ~564 |
-| Whoopsie | 2.00% | ~564 |
+| Animated | 2.00% | ~565 |
+| Back Off | 2.00% | ~565 |
+| Cultured | 2.00% | ~565 |
+| Daily Dose | 2.00% | ~565 |
+| Ectoplasmic Entity | 2.00% | ~565 |
+| Ghostbuster In Training | 2.00% | ~565 |
+| Icing on the Cake | 2.00% | ~565 |
+| Pesky Jerks | 2.00% | ~565 |
+| Right back at ya | 2.00% | ~565 |
+| Side Hustle | 2.00% | ~565 |
+| Summoner | 2.00% | ~565 |
+| There you are! | 2.00% | ~565 |
+| Welcome to the Crew | 2.00% | ~565 |
+| Whoopsie | 2.00% | ~565 |
 | We have the best insurance | 1.00% | ~282 |
 | Collector | 1.00% | ~282 |
 | Escape Artist | 1.00% | ~282 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,220 (Ranked 123)  
+Progressed: 28,235 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
-| 2023-10-29 | 28,220 | 65 |
+| 2023-10-29 | 28,235 | 65 |
 ## Awards
 Max (Great for Beginners): 293  (Ranked 245)  
 Sum: 2,594 (Ranked 181)  

@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -563,9 +563,9 @@
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EpicACHV_2",
@@ -579,9 +579,9 @@
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EpicACHV_4",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:07:20.4567347+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:06:57.6505186+00:00",
   "LastUpdate_AppInfo": "2023-10-25T09:57:17.7979571+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:00:42.5159201+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:07:20.4567514+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:00:31.4745503+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:06:57.6505359+00:00"
 }

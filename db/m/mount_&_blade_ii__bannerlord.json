@@ -8334,7 +8334,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64129,
+  "EOS_Progressed": 64131,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
@@ -28624,6 +28624,11 @@
       "Time": "2023-10-29T17:08:59.5224271+00:00",
       "NumProgressed": 64129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T18:08:55.7715155+00:00",
+      "NumProgressed": 64131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28635,7 +28640,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7695
+      "UsersEstimate": 7696
     },
     {
       "ID": "Apple of my eye",
@@ -28691,7 +28696,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "Crackshot",
@@ -28707,7 +28712,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "Duelist",
@@ -28867,7 +28872,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25010
+      "UsersEstimate": 25011
     },
     {
       "ID": "Lawmaker",
@@ -28915,7 +28920,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3206
+      "UsersEstimate": 3207
     },
     {
       "ID": "Real Estate",
@@ -29042,15 +29047,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64129,
+      "Progressed": 64131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-29T14:58:12.4291484+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:08:59.5224246+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:08:55.7715144+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:58:02.2212962+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:08:59.5227199+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:58:14.7566044+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:08:55.7716944+00:00"
 }

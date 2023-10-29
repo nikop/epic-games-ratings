@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37284,
+  "EOS_Progressed": 37291,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -16908,6 +16908,11 @@
       "Time": "2023-10-29T17:06:42.7211007+00:00",
       "NumProgressed": 37284,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-10-29T18:06:26.209264+00:00",
+      "NumProgressed": 37291,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 14,
@@ -16919,7 +16924,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "150stars",
@@ -16935,7 +16940,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9696
     },
     {
       "ID": "allItems",
@@ -16991,7 +16996,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "firstBunny",
@@ -16999,7 +17004,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8948
+      "UsersEstimate": 8950
     },
     {
       "ID": "firstItem",
@@ -17007,7 +17012,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28709
+      "UsersEstimate": 28714
     },
     {
       "ID": "roots",
@@ -17015,7 +17020,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "secretItem",
@@ -17030,15 +17035,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37284,
+      "Progressed": 37291,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:06:42.7210999+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:06:26.2092635+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:56.7109243+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:00:03.5277106+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:06:42.7212353+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:00:00.6285696+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:06:26.2093741+00:00"
 }

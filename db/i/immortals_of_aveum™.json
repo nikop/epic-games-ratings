@@ -5,9 +5,9 @@
   "Ranking_Rating": 987,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 107,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -577,6 +577,11 @@
       "Time": "2023-10-29T16:06:41.9962497+00:00",
       "NumProgressed": 105,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T18:06:45.5929353+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -587,7 +592,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 96
     },
@@ -603,7 +608,7 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -611,9 +616,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_13",
@@ -653,7 +658,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_18",
@@ -675,7 +680,7 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 90,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 94
     },
@@ -731,7 +736,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 83,
+      "Percentage": 81,
       "XP": 15,
       "UsersEstimate": 87
     },
@@ -763,7 +768,7 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 10,
       "UsersEstimate": 71
     },
@@ -771,17 +776,17 @@
       "ID": "achievement_41",
       "SetID": "18al4io",
       "Name": "Armaments Azure",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_43",
@@ -795,7 +800,7 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -813,13 +818,13 @@
       "Name": "Periapt Viridian",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 88,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 92
     },
@@ -827,7 +832,7 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 39
     },
@@ -835,7 +840,7 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -875,7 +880,7 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -883,7 +888,7 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -939,7 +944,7 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -947,7 +952,7 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -964,7 +969,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 107,
       "Completed": 1
     }
   ],
@@ -972,8 +977,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:07:06.0241406+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:06:45.5929348+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:58:15.222645+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:07:06.024223+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:58:23.9894085+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:06:45.5929802+00:00"
 }

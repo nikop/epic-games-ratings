@@ -6,13 +6,13 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.90% | ~2,098 |
+| A Brief Tour of the Realms | 0.90% | ~2,099 |
 | Foul Play | 0.50% | ~997 |
 | Beast Intentions | 0.40% | ~933 |
 | The Cursed Farmer | 0.40% | ~933 |
 | Spelljammers in Training | 0.40% | ~798 |
-| The Ring of Regeneration | 0.30% | ~699 |
-| The Mad Wizard | 0.30% | ~699 |
+| The Ring of Regeneration | 0.30% | ~700 |
+| The Mad Wizard | 0.30% | ~700 |
 | The Jungles of Doomspace | 0.30% | ~598 |
 | The Arena of Blood | 0.30% | ~598 |
 | Maddening | 0.20% | ~466 |
@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~466 |
 | Are Ya Chicken? | 0.20% | ~466 |
 | Mad Cow Disease | 0.20% | ~466 |
+| A Tale of Two Cities | 0.20% | ~466 |
 | The Dead Three | 0.20% | ~466 |
 | The Darkness Runs Deeper | 0.20% | ~466 |
 | Difficult Terrain | 0.20% | ~466 |
@@ -310,7 +311,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dino Nightmare | 0.10% | ~233 |
 | A Familiar Friend | 0.10% | ~199 |
 | Exploring Port Nyanzaru | 0.10% | ~233 |
-| A Tale of Two Cities | 0.10% | ~233 |
 | A Tale of Two Fiends | 0.10% | ~233 |
 | A Tale of Two Champions | 0.10% | ~233 |
 | A Tale of Two Years | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~199 |
 | All's Well That Ends Well | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,165 (Ranked 61)  
+Progressed: 233,170 (Ranked 61)  
 Completed: 2,398 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -727,7 +727,7 @@ Completed: 2,398 (1.03%) (Ranked 149)
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
-| 2023-10-29 | 233,165 | 2,398 |
+| 2023-10-29 | 233,170 | 2,398 |
 ## Awards
 Max (Great for Beginners): 5,461  (Ranked 69)  
 Sum: 32,258 (Ranked 41)  

@@ -1,7 +1,7 @@
 # Superliminal
 [Store](https://store.epicgames.com/en-US/p/superliminal)  
 [View Rawdata](../../db/s/superliminal.json)  
-Rating: 4.81 (Ranked 75)  
+Rating: 4.82 (Ranked 62)  
 Number of Ratings: 37  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -42,3 +42,4 @@ Number of Ratings: 37  (23.09.2022)
 | 2023-04-23 | 4.79 | - | 0 | 0 |
 | 2023-07-12 | 4.80 | - | 0 | 0 |
 | 2023-08-15 | 4.81 | - | 0 | 0 |
+| 2023-10-29 | 4.82 | - | 0 | 0 |

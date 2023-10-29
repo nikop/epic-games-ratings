@@ -6,7 +6,7 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,532 |
+| Sponsored by Argon | 4.00% | ~5,533 |
 | Basic in Bulk | 3.00% | ~4,149 |
 | Tinkle of Coins | 3.00% | ~4,149 |
 | Titan's First Steps | 3.00% | ~4,149 |
@@ -41,36 +41,36 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,383 |
 | Did we pack lunch? | 1.00% | ~1,383 |
 | Arcane Industries | 1.00% | ~1,383 |
+| Tax not Included | 0.90% | ~1,245 |
 | Fated Encounters | 0.90% | ~1,245 |
 | Power of Love | 0.90% | ~1,245 |
 | Royal Ransom | 0.90% | ~1,245 |
 | Magical Harmony | 0.90% | ~1,245 |
-| Tax not Included | 0.80% | ~1,106 |
-| Big Game Hunting | 0.80% | ~1,106 |
-| For the Hoard! | 0.80% | ~1,106 |
-| Scrapbooker | 0.80% | ~1,106 |
-| Flying off the Shelves | 0.80% | ~1,106 |
-| This Power Level...! | 0.80% | ~1,106 |
-| Hidden Potential | 0.80% | ~1,106 |
-| Expansion in Session | 0.80% | ~1,106 |
-| Trash to Treasure | 0.80% | ~1,106 |
-| Seasoned Journeyman | 0.80% | ~1,106 |
-| Black Friday Special | 0.80% | ~1,106 |
-| Special Ingredient | 0.80% | ~1,106 |
-| Complete Monopoly | 0.80% | ~1,106 |
+| The King's Caprice | 0.80% | ~1,107 |
+| Big Game Hunting | 0.80% | ~1,107 |
+| For the Hoard! | 0.80% | ~1,107 |
+| Scrapbooker | 0.80% | ~1,107 |
+| Flying off the Shelves | 0.80% | ~1,107 |
+| This Power Level...! | 0.80% | ~1,107 |
+| Hidden Potential | 0.80% | ~1,107 |
+| Expansion in Session | 0.80% | ~1,107 |
+| Trash to Treasure | 0.80% | ~1,107 |
+| Mammonite | 0.80% | ~1,107 |
+| Seasoned Journeyman | 0.80% | ~1,107 |
+| Black Friday Special | 0.80% | ~1,107 |
+| Special Ingredient | 0.80% | ~1,107 |
+| Complete Monopoly | 0.80% | ~1,107 |
 | A Notch Above the Rest | 0.70% | ~968 |
 | Cream of the Crop | 0.70% | ~968 |
 | Proud Paladin | 0.70% | ~968 |
 | Above the Norm | 0.70% | ~968 |
 | A Ronin Reborn | 0.70% | ~968 |
-| The King's Caprice | 0.70% | ~968 |
 | Locally Sourced | 0.70% | ~968 |
 | Master of Transmutation | 0.70% | ~968 |
 | Supercharged | 0.70% | ~968 |
 | Cranked up to 11 | 0.70% | ~968 |
 | Fit for a King | 0.70% | ~968 |
 | By Your Powers Combined... | 0.70% | ~968 |
-| Mammonite | 0.70% | ~968 |
 | Wealth Beyond Measure | 0.70% | ~968 |
 | Fat Cat Tag Team | 0.70% | ~968 |
 | Necromancer Queen | 0.70% | ~968 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,311 (Ranked 77)  
+Progressed: 138,316 (Ranked 77)  
 Completed: 174 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,17 +311,17 @@ Completed: 174 (0.13%) (Ranked 249)
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
-| 2023-10-29 | 138,311 | 174 |
+| 2023-10-29 | 138,316 | 174 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
-Sum: 27,464 (Ranked 51)  
+Sum: 27,465 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,807 |
 | This game is Relaxing | 4,032 |
 | This game has Quickly Understood Controls | 4,020 |
-| This game has Diverse Characters | 3,927 |
+| This game has Diverse Characters | 3,928 |
 | This game is Highly Recommended | 3,769 |
 | This game has Easy Combat | 3,715 |
 | This game has Playful Visuals | 3,194 |
@@ -601,4 +601,4 @@ Diff (max vs sum): 22
 | 2023-10-26 | 3.99 | - | 4,801 | 27,451 |
 | 2023-10-27 | 3.99 | - | 4,804 | 27,456 |
 | 2023-10-28 | 3.99 | - | 4,804 | 27,461 |
-| 2023-10-29 | 3.99 | - | 4,807 | 27,464 |
+| 2023-10-29 | 3.99 | - | 4,807 | 27,465 |

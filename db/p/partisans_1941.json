@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1514,
+  "EOS_Progressed": 1515,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3169,6 +3169,11 @@
       "Time": "2023-10-29T15:07:27.9656118+00:00",
       "NumProgressed": 1514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T18:07:03.0133008+00:00",
+      "NumProgressed": 1515,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3308,7 +3313,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "High_noon",
@@ -3332,7 +3337,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "KillAllM2",
@@ -3419,15 +3424,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1514,
+      "Progressed": 1515,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:07:27.0452764+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:07:03.0133004+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:59:19.2335288+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:07:27.0453195+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:59:19.3643789+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:07:03.0133408+00:00"
 }

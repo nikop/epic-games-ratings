@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199205,
+  "EOS_Progressed": 199208,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 0,
@@ -20787,6 +20787,11 @@
       "Time": "2023-10-29T17:03:59.0130728+00:00",
       "NumProgressed": 199205,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-29T18:04:10.0847854+00:00",
+      "NumProgressed": 199208,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -20798,7 +20803,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15936
+      "UsersEstimate": 15937
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -20806,7 +20811,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141436
+      "UsersEstimate": 141438
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -20925,7 +20930,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199205,
+      "Progressed": 199208,
       "Completed": 4
     }
   ],
@@ -20933,8 +20938,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:03:59.0130718+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:04:10.0847847+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.8845341+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:01:16.719137+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:03:59.0133166+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:01:04.6259666+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:04:10.0849199+00:00"
 }

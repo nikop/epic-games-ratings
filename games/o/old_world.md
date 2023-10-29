@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 4.00% | ~601 |
 | Able | 3.00% | ~451 |
 | Architect | 3.00% | ~451 |
+| Good | 3.00% | ~451 |
 | Intrepid | 3.00% | ~451 |
 | Mason | 3.00% | ~451 |
 | Strong | 3.00% | ~451 |
@@ -21,7 +22,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~301 |
 | Fountainhead | 2.00% | ~301 |
 | Glorious | 2.00% | ~301 |
-| Good | 2.00% | ~301 |
 | Just | 2.00% | ~301 |
 | Keystone | 2.00% | ~301 |
 | Learned | 2.00% | ~301 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
 | Carthage - Ox Hide | 0.40% | ~60 |
+| Old | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Cataphract Archer | 0.40% | ~60 |
@@ -152,7 +153,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.40% | ~60 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
-| Old | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Magnificent Difficulty | 0.30% | ~45 |
 | The Eternal Treaty | 0.30% | ~45 |
@@ -181,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
+| Alexander the Great | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
 | Lighthouse in Alexandria | 0.10% | ~15 |
 | Musaeum in Alexandria | 0.10% | ~15 |
@@ -337,7 +338,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic History Repeats | 0.10% | ~15 |
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
-| Alexander the Great | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,026 (Ranked 142)  
+Progressed: 15,027 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 297)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,026 | 5 |
+| 2023-10-29 | 15,027 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

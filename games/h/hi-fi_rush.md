@@ -5,9 +5,9 @@ Rating: 4.86 (Ranked 28)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 16.00% | ~670 |
-| Feeling the beat! | 16.00% | ~670 |
-| You can pet the cat! | 15.00% | ~628 |
+| Start with a bang! | 16.00% | ~671 |
+| Feeling the beat! | 16.00% | ~671 |
+| You can pet the cat! | 15.00% | ~629 |
 | Who put gears in there? | 14.00% | ~587 |
 | Cream of the Crop | 13.00% | ~545 |
 | Thanks for the free chip, Peppermint! | 13.00% | ~545 |
@@ -30,7 +30,7 @@ Rating: 4.86 (Ranked 28)
 | NOW we got a kickass hideout! | 8.00% | ~217 |
 | Who's the boss now? | 7.00% | ~293 |
 | Perfecter Parry-er! | 7.00% | ~293 |
-| I have to read these things? | 6.00% | ~251 |
+| I have to read these things? | 6.00% | ~252 |
 | Well that was a rush! | 5.00% | ~210 |
 | That's a lot of junk metal… | 5.00% | ~210 |
 | There's such a thing as TOO helpful | 5.00% | ~210 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,190 (Ranked 186)  
+Progressed: 4,192 (Ranked 186)  
 Completed: 8 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 8 (0.19%) (Ranked 236)
 | 2023-10-26 | 4,175 | 8 |
 | 2023-10-27 | 4,178 | 8 |
 | 2023-10-28 | 4,187 | 8 |
-| 2023-10-29 | 4,190 | 8 |
+| 2023-10-29 | 4,192 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 771,
+  "Ranking_Rating": 770,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 652,
+  "EOS_Progressed": 653,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -2109,6 +2109,11 @@
       "Time": "2023-10-29T12:03:35.2058441+00:00",
       "NumProgressed": 652,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-29T18:03:48.7988001+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2142,9 +2147,9 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 294
     },
     {
       "ID": "female-conqueror",
@@ -2168,7 +2173,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "kill-lieutenants",
@@ -2184,7 +2189,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "play-at-night",
@@ -2206,9 +2211,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 294
     },
     {
       "ID": "rename-lieutenant",
@@ -2232,7 +2237,7 @@
       "Name": "Spread",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "send-smuggling",
@@ -2248,7 +2253,7 @@
       "Name": "Pampered Life",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "upgrade-building",
@@ -2271,15 +2276,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 652,
+      "Progressed": 653,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:03:33.5783552+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:03:48.7987996+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.4884211+00:00",
-  "LastUpdate_Ratings": "2023-10-29T17:00:47.401325+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:03:33.5783881+00:00"
+  "LastUpdate_Ratings": "2023-10-29T18:00:36.5978179+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:03:48.7988274+00:00"
 }

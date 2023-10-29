@@ -5,18 +5,18 @@ Rating: 4.48 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,834 |
-| Keep 'Em Coming | 74.00% | ~2,589 |
-| Snatched Out | 74.00% | ~2,589 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,344 |
-| Call Me Snake | 63.00% | ~2,204 |
-| Something Lurks Under The Hills | 61.00% | ~2,134 |
-| This Was No Papercut | 60.00% | ~2,099 |
-| People Person | 57.00% | ~1,994 |
-| The Shrink Hates Me | 57.00% | ~1,994 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,854 |
-| First Steps Into Madness | 53.00% | ~1,854 |
-| Colonial Barrels | 51.00% | ~1,784 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,835 |
+| Keep 'Em Coming | 74.00% | ~2,590 |
+| Snatched Out | 74.00% | ~2,590 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,345 |
+| Call Me Snake | 63.00% | ~2,205 |
+| Something Lurks Under The Hills | 61.00% | ~2,135 |
+| This Was No Papercut | 60.00% | ~2,100 |
+| People Person | 57.00% | ~1,995 |
+| The Shrink Hates Me | 57.00% | ~1,995 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,855 |
+| First Steps Into Madness | 53.00% | ~1,855 |
+| Colonial Barrels | 51.00% | ~1,785 |
 | Harper's Hell | 46.00% | ~1,610 |
 | Making a Stand | 45.00% | ~1,575 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,470 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 614)
 | This Ain't No Picnic | 0.70% | ~24 |
 | Chalk It Up To Experience | 0.70% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,499 (Ranked 195)  
+Progressed: 3,500 (Ranked 195)  
 Completed: 3 (0.09%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,11 +179,11 @@ Completed: 3 (0.09%) (Ranked 265)
 | 2023-10-25 | 3,493 | 3 |
 | 2023-10-27 | 3,495 | 3 |
 | 2023-10-28 | 3,497 | 3 |
-| 2023-10-29 | 3,499 | 3 |
+| 2023-10-29 | 3,500 | 3 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 474)  
-Sum: 33 (Ranked 496)  
-Diff (max vs sum): -22  
+Sum: 33 (Ranked 497)  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 33 |

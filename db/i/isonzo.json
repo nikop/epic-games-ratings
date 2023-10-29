@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -861,7 +861,7 @@
   ],
   "EOS_Progressed": 7092,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6484,9 +6484,9 @@
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
       "SetID": "akchbl3",
       "Name": "I Have the High Ground",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 780
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -6717,8 +6717,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-10-29T04:58:39.1460571+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:07:25.7483638+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:07:02.0239195+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.4558053+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:59:16.7848641+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:07:25.7484869+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:59:17.8135503+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:07:02.0239934+00:00"
 }

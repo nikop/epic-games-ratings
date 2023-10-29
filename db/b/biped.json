@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6786,
+  "EOS_Progressed": 6788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12069,6 +12069,11 @@
       "Time": "2023-10-29T17:06:45.4650419+00:00",
       "NumProgressed": 6786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T18:06:28.5641904+00:00",
+      "NumProgressed": 6788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12080,7 +12085,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "10",
@@ -12136,7 +12141,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "3",
@@ -12152,7 +12157,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "5",
@@ -12199,7 +12204,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6786,
+      "Progressed": 6788,
       "Completed": 0
     }
   ],
@@ -12207,8 +12212,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:06:45.4650412+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:06:28.5641899+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:15.5003147+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:59:21.0282399+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:06:45.4651301+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:59:20.4015055+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:06:28.5642757+00:00"
 }

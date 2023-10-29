@@ -31,8 +31,8 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 13.00% | ~922 |
 | The Devil's Paintbrush | 12.00% | ~851 |
 | Dante's Inferno | 11.00% | ~780 |
+| I Have the High Ground | 11.00% | ~780 |
 | Millenial | 11.00% | ~780 |
-| I Have the High Ground | 10.00% | ~709 |
 | The Show Must Go On | 9.00% | ~638 |
 | Tosca | 9.00% | ~638 |
 | 12th Bottle of the Isonzo | 7.00% | ~496 |

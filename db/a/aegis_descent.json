@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 306,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -375,6 +375,11 @@
       "Time": "2023-10-28T13:08:57.6487231+00:00",
       "NumProgressed": 416,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T18:03:55.1944174+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -426,7 +431,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -458,7 +463,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Award_EarlyBird",
@@ -498,7 +503,7 @@
       "Name": "Gunner",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Award_HalfwayThere",
@@ -594,7 +599,7 @@
       "Name": "Perfect Timing",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Award_PerkKing",
@@ -610,7 +615,7 @@
       "Name": "Perky",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Award_PowerUp",
@@ -634,7 +639,7 @@
       "Name": "Scavenger",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "Award_ShellShock",
@@ -690,7 +695,7 @@
       "Name": "Swiss Cheese",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Award_TheCannoneer",
@@ -737,7 +742,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 1
     }
   ],
@@ -745,8 +750,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-10-29T17:03:41.0304169+00:00",
+  "LastChanged_Achievements": "2023-10-29T18:03:55.194417+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:32.3851262+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:58:08.0905414+00:00",
-  "LastUpdate_Achievements": "2023-10-29T17:03:41.0304869+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:58:18.9702944+00:00",
+  "LastUpdate_Achievements": "2023-10-29T18:03:55.1944549+00:00"
 }
