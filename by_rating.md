@@ -31,7 +31,7 @@
 | 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 137 | 317 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 306 |
 | 28 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.86 | 20 | 533 |
-| 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 40 | 448 |
+| 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 40 | 449 |
 | 28 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 540 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 342 | 234 |
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,838 | 31 |
@@ -91,7 +91,6 @@
 | 82 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 353 |
 | 82 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 506 |
 | 82 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 540 |
-| 92 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.79 | 0 | 540 |
 | 92 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,552 | 125 |
 | 92 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 582 | 193 |
 | 92 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 162 | 303 |
@@ -102,15 +101,16 @@
 | 92 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 397 | 223 |
 | 92 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 540 |
 | 92 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 443 |
-| 103 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 540 |
-| 103 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 52 | 413 |
-| 103 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,457 | 38 |
-| 103 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 540 |
-| 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,434 | 104 |
-| 103 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,687 | 121 |
-| 103 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 540 |
-| 103 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 960 | 155 |
-| 103 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 493 |
+| 102 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 0 | 540 |
+| 102 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 540 |
+| 102 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 52 | 413 |
+| 102 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,457 | 38 |
+| 102 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 540 |
+| 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,434 | 104 |
+| 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,687 | 121 |
+| 102 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 540 |
+| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 960 | 155 |
+| 102 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 493 |
 | 112 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,797 | 53 |
 | 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,677 | 49 |
 | 112 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 540 |
@@ -154,7 +154,7 @@
 | 151 | [Diabotical](games/d/diabotical.md) | 4.74 | 285 | 251 |
 | 151 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 540 |
 | 151 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 830 | 163 |
-| 151 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 17,588 | 23 |
+| 151 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 17,740 | 23 |
 | 151 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 540 |
 | 151 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 723 | 176 |
 | 151 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 540 |
@@ -518,7 +518,7 @@
 | 495 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 540 |
 | 495 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,331 | 135 |
 | 518 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 510 |
-| 518 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,518 | 126 |
+| 518 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,522 | 126 |
 | 518 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,701 | 56 |
 | 518 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 460 |
 | 518 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 540 |
@@ -572,7 +572,7 @@
 | 558 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.51 | 0 | 540 |
 | 558 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.51 | 0 | 540 |
 | 558 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 540 |
-| 558 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 770 | 170 |
+| 558 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 772 | 170 |
 | 558 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 66 | 400 |
 | 558 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 540 |
 | 558 | [Voidtrain](games/v/voidtrain.md) | 4.51 | 43 | 440 |
@@ -841,7 +841,7 @@
 | 832 | [Steelrising](games/s/steelrising.md) | 4.29 | 37 | 458 |
 | 840 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 540 |
 | 840 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 540 |
-| 840 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 40 | 448 |
+| 840 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 41 | 446 |
 | 840 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.28 | 33 | 474 |
 | 840 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 540 |
 | 840 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 299 |
