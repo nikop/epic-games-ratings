@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1967,9 +1967,9 @@
       "ID": "ACH_COLL_CH04",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter IV",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_COLL_CH05",
@@ -2295,8 +2295,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-27T20:57:37.4699394+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:09:12.3182055+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:08:48.0718545+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.8317085+00:00",
-  "LastUpdate_Ratings": "2023-10-29T08:58:41.3424408+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:09:12.3182726+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:58:49.8174457+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:08:48.0719675+00:00"
 }

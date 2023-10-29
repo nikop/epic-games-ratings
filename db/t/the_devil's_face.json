@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -2206,9 +2206,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2277,8 +2277,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:07:25.4965502+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:06:59.9095924+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:00:40.7174668+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:07:25.4965797+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:00:54.0864205+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:06:59.9096329+00:00"
 }

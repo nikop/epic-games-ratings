@@ -14360,9 +14360,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894382,
+  "EOS_Progressed": 894388,
   "EOS_Completed": 2730,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36120,6 +36120,11 @@
       "Time": "2023-10-29T09:04:59.6518177+00:00",
       "NumProgressed": 894382,
       "NumCompleted": 2730
+    },
+    {
+      "Time": "2023-10-29T10:04:32.3040231+00:00",
+      "NumProgressed": 894388,
+      "NumCompleted": 2730
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36162,9 +36167,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4472
+      "UsersEstimate": 5366
     },
     {
       "ID": "FollowingTheRiver",
@@ -36460,7 +36465,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26831
+      "UsersEstimate": 26832
     },
     {
       "ID": "YipMan",
@@ -36651,21 +36656,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894382,
+      "Progressed": 894388,
       "Completed": 2730
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23005,
+      "Progressed": 23011,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-29T07:57:20.4472852+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:04:59.6518168+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:04:32.3040223+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T08:57:46.8264568+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:04:59.6520504+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:57:48.4848437+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:04:32.3043613+00:00"
 }

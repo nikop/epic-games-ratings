@@ -2859,9 +2859,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 28171,
+  "EOS_Progressed": 28176,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1110,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16914,6 +16914,11 @@
       "Time": "2023-10-29T09:04:49.2940609+00:00",
       "NumProgressed": 28171,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-29T10:04:22.1196414+00:00",
+      "NumProgressed": 28176,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -16933,7 +16938,7 @@
       "Name": "Animated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Back_Off",
@@ -16941,7 +16946,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Best_Insurance",
@@ -16963,9 +16968,9 @@
       "ID": "Clutch_Capture",
       "SetID": "819popo",
       "Name": "Clutch Capture",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 845
     },
     {
       "ID": "Collect_Spores",
@@ -16989,7 +16994,7 @@
       "Name": "Cultured",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Daily_Dose",
@@ -16997,7 +17002,7 @@
       "Name": "Daily Dose",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Diabolical",
@@ -17029,7 +17034,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Efficient",
@@ -17069,7 +17074,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Ghost_Expert",
@@ -17085,7 +17090,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Legions",
@@ -17173,7 +17178,7 @@
       "Name": "Right back at ya",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Rivalry",
@@ -17197,7 +17202,7 @@
       "Name": "Side Hustle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Skilled",
@@ -17237,7 +17242,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Surprise",
@@ -17285,7 +17290,7 @@
       "Name": "There you are!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Tobins_Prodigy",
@@ -17317,7 +17322,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "Whoopsie",
@@ -17325,14 +17330,14 @@
       "Name": "Whoopsie",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 28171,
+      "Progressed": 28176,
       "Completed": 65
     }
   ],
@@ -17340,8 +17345,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-29T04:00:00.863125+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:04:49.2940602+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:04:22.1196407+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:00:54.4755921+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:04:49.2942532+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:01:08.0432268+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:04:22.1198058+00:00"
 }

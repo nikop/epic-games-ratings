@@ -21,8 +21,8 @@ Rating: 3.51 (Ranked 1,026)
 | Wounded Whispers | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Heart Attack | 0.90% | ~16 |
-| Neighborhood Revitalization | 0.70% | ~12 |
-| Radio Silence | 0.70% | ~12 |
+| Neighborhood Revitalization | 0.80% | ~14 |
+| Radio Silence | 0.80% | ~14 |
 | Bad Wiring | 0.60% | ~11 |
 | Bell-ringer | 0.60% | ~11 |
 | From the Shadows | 0.60% | ~11 |

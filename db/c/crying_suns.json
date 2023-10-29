@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469884,
+  "EOS_Progressed": 469889,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20701,6 +20701,11 @@
       "Time": "2023-10-29T09:10:33.2303167+00:00",
       "NumProgressed": 469884,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-29T10:10:09.0014942+00:00",
+      "NumProgressed": 469889,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20728,7 +20733,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112772
+      "UsersEstimate": 112773
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20736,7 +20741,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103374
+      "UsersEstimate": 103376
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20752,7 +20757,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46988
+      "UsersEstimate": 46989
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20800,7 +20805,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310123
+      "UsersEstimate": 310127
     },
     {
       "ID": "achievement_story_landa",
@@ -20832,7 +20837,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117471
+      "UsersEstimate": 117472
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20864,7 +20869,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51687
+      "UsersEstimate": 51688
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -20888,7 +20893,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93977
+      "UsersEstimate": 93978
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -20896,7 +20901,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159761
+      "UsersEstimate": 159762
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21136,7 +21141,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206749
+      "UsersEstimate": 206751
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21144,7 +21149,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140965
+      "UsersEstimate": 140967
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21160,7 +21165,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51687
+      "UsersEstimate": 51688
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -21168,7 +21173,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183255
+      "UsersEstimate": 183257
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21224,7 +21229,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103374
+      "UsersEstimate": 103376
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21343,21 +21348,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13818,
+      "Progressed": 13823,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469884,
+      "Progressed": 469889,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:10:33.2303161+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:10:09.0014933+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:00:02.3796349+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:10:33.2306127+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:00:12.3020976+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:10:09.0017741+00:00"
 }

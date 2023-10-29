@@ -7,17 +7,17 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 73.00% | ~7,250 |
-| Leader | 61.00% | ~6,058 |
-| Explorer | 53.00% | ~5,263 |
-| Healer | 52.00% | ~5,164 |
+| Leader | 61.00% | ~6,059 |
+| Explorer | 53.00% | ~5,264 |
+| Healer | 52.00% | ~5,165 |
 | Aspiring Inventor | 44.00% | ~4,370 |
 | Adventurer | 42.00% | ~4,171 |
 | Famous Healer | 38.00% | ~3,774 |
 | Local Leader | 35.00% | ~3,476 |
 | Famous Explorer | 34.00% | ~3,377 |
 | New Opportunities | 34.00% | ~3,377 |
-| Energized | 33.00% | ~3,277 |
-| The Long Haul | 33.00% | ~3,277 |
+| Energized | 33.00% | ~3,278 |
+| The Long Haul | 33.00% | ~3,278 |
 | Survivor | 32.00% | ~3,178 |
 | The Great Healer | 31.00% | ~3,079 |
 | Legendary Explorer | 28.00% | ~2,781 |
@@ -43,8 +43,8 @@ Number of Ratings: 836  (23.09.2022)
 | It's a Finnish Thing | 10.00% | ~993 |
 | Sky Burial | 10.00% | ~993 |
 | Trader | 9.00% | ~894 |
-| Bread and Circuses | 8.00% | ~794 |
-| Tailored to fit | 8.00% | ~794 |
+| Bread and Circuses | 8.00% | ~795 |
+| Tailored to fit | 8.00% | ~795 |
 | New Eden | 7.00% | ~695 |
 | Really Friendly | 6.00% | ~596 |
 | Amped Up | 6.00% | ~596 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,931 (Ranked 155)  
+Progressed: 9,932 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,15 +258,15 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 9,881 | 0 |
 | 2023-10-27 | 9,902 | 0 |
 | 2023-10-28 | 9,927 | 0 |
-| 2023-10-29 | 9,931 | 0 |
+| 2023-10-29 | 9,932 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 347)  
-Sum: 717 (Ranked 288)  
+Sum: 718 (Ranked 288)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
-| This game is Great for Beginners | 96 |
+| This game is Great for Beginners | 97 |
 | This game has Amazing Storytelling | 88 |
 | This game is Relaxing | 84 |
 | This game has Quickly Understood Controls | 83 |
@@ -411,3 +411,4 @@ Diff (max vs sum): 59
 | 2023-10-26 | 4.48 | - | 103 | 715 |
 | 2023-10-27 | 4.48 | - | 103 | 716 |
 | 2023-10-28 | 4.48 | - | 103 | 717 |
+| 2023-10-29 | 4.48 | - | 103 | 718 |

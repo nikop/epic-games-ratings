@@ -18,8 +18,8 @@ Rating: 4.86 (Ranked 28)
 | I play my own way! | 10.00% | ~419 |
 | Z-shielding's got nothing on us! | 10.00% | ~419 |
 | Uh, they were broken when I got here | 10.00% | ~419 |
+| Kissing the sky! | 10.00% | ~419 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~377 |
-| Kissing the sky! | 9.00% | ~377 |
 | I look cool. But I can look COOLER. | 9.00% | ~377 |
 | The Negotiator | 8.00% | ~335 |
 | Headliner | 8.00% | ~335 |

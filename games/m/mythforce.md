@@ -6,19 +6,19 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 24.00% | ~1,086 |
-| Debuff Dogpile | 23.00% | ~1,041 |
-| Hit 'Em Where It Hurts | 23.00% | ~1,041 |
-| Perk Shard Punch Card | 23.00% | ~1,041 |
-| That'll Leave a Mark | 23.00% | ~1,041 |
-| Mushroom Madness! | 21.00% | ~950 |
-| First Strike | 18.00% | ~814 |
-| Spending Spree | 18.00% | ~814 |
-| Horder Better Faster Stronger | 17.00% | ~769 |
+| Faceroll the Bones | 24.00% | ~1,087 |
+| Debuff Dogpile | 23.00% | ~1,042 |
+| Hit 'Em Where It Hurts | 23.00% | ~1,042 |
+| Perk Shard Punch Card | 23.00% | ~1,042 |
+| That'll Leave a Mark | 23.00% | ~1,042 |
+| Mushroom Madness! | 21.00% | ~951 |
+| First Strike | 18.00% | ~815 |
+| Spending Spree | 18.00% | ~815 |
+| Horder Better Faster Stronger | 17.00% | ~770 |
 | Ten Steps from the Grave | 15.00% | ~679 |
 | Everything Must Go! | 14.00% | ~634 |
-| Next Time on MythForce... | 13.00% | ~588 |
-| Cold-Blooded Critters | 10.00% | ~452 |
+| Next Time on MythForce... | 13.00% | ~589 |
+| Cold-Blooded Critters | 10.00% | ~453 |
 | Death Becomes You | 8.00% | ~362 |
 | Flawless Victory | 6.00% | ~272 |
 | The Harder They Fall | 6.00% | ~272 |
@@ -26,11 +26,11 @@ Number of Ratings: 285  (23.09.2022)
 | Deadication | 4.00% | ~181 |
 | We've Got a Kaiju on the Field | 3.00% | ~136 |
 | Season Finale | 3.00% | ~136 |
-| The Fourth Gate | 2.00% | ~90 |
+| The Fourth Gate | 2.00% | ~91 |
 | Vexed Her | 0.40% | ~18 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,525 (Ranked 183)  
+Progressed: 4,529 (Ranked 183)  
 Completed: 3 (0.07%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 3 (0.07%) (Ranked 275)
 | 2023-10-26 | 4,466 | 3 |
 | 2023-10-27 | 4,489 | 3 |
 | 2023-10-28 | 4,516 | 3 |
-| 2023-10-29 | 4,525 | 3 |
+| 2023-10-29 | 4,529 | 3 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 469)  
 Sum: 285 (Ranked 362)  

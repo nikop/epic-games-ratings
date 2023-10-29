@@ -40,10 +40,10 @@
 | Roughneck | 1.00% | ~5 |
 | Rune Master | 1.00% | ~5 |
 | Weapon Master | 1.00% | ~5 |
+| Necromancer | 0.60% | ~3 |
 | Art Collector | 0.40% | ~2 |
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
-| Necromancer | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 474 (Ranked 290)  
 Completed: 1 (0.21%) (Ranked 230)  

@@ -2,10 +2,10 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.85,
+  "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1370,6 +1370,11 @@
       "Time": "2023-10-29T08:05:18.6358721+00:00",
       "NumProgressed": 473,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-29T10:06:41.4184815+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1382,7 +1387,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_eou1",
@@ -1390,7 +1395,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_eou2",
@@ -1485,14 +1490,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:07:07.3350708+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:06:41.4184807+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:01:50.1778547+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:07:07.3350923+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:02:05.6132542+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:06:41.418513+00:00"
 }

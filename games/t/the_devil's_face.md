@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The gateway to the underworld | 40.00% | ~198 |
 | Is it merely a dream? | 39.00% | ~193 |
-| The path to enlightenment | 24.00% | ~119 |
+| The path to enlightenment | 25.00% | ~124 |
 | Our efforts are finally yielding progress | 23.00% | ~114 |
 | This looks really bad | 21.00% | ~104 |
 | Unholy lands | 18.00% | ~89 |

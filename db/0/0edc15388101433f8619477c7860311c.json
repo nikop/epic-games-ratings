@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -306,9 +306,9 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ProtectedPower",
@@ -377,8 +377,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:09:47.8628841+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:09:24.0073906+00:00",
   "LastUpdate_AppInfo": "2023-10-23T07:57:12.2998016+00:00",
-  "LastUpdate_Ratings": "2023-10-29T08:59:29.0415358+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:09:47.8629044+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:59:37.0678936+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:09:24.0074077+00:00"
 }

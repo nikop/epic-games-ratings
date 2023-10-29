@@ -6,13 +6,13 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~960,796 |
-| I Need a Bigger Garage | 63.00% | ~672,557 |
-| Pump my Ride | 47.00% | ~501,749 |
-| Ghostbuster | 33.00% | ~352,292 |
-| Call Roadside Assistance | 18.00% | ~192,159 |
-| That Was Close | 18.00% | ~192,159 |
-| Quickie | 11.00% | ~117,431 |
+| The First of Many | 90.00% | ~960,804 |
+| I Need a Bigger Garage | 63.00% | ~672,563 |
+| Pump my Ride | 47.00% | ~501,753 |
+| Ghostbuster | 33.00% | ~352,295 |
+| Call Roadside Assistance | 18.00% | ~192,161 |
+| That Was Close | 18.00% | ~192,161 |
+| Quickie | 11.00% | ~117,432 |
 | California Dreamer | 7.00% | ~74,729 |
 | Can't Touch This | 5.00% | ~53,378 |
 | Carménère Taster | 4.00% | ~42,702 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,068 |
 | Look Mom, No Hands! | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,067,551 (Ranked 13)  
+Progressed: 1,067,560 (Ranked 13)  
 Completed: 471 (0.04%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 471 (0.04%) (Ranked 290)
 | 2023-10-26 | 1,066,344 | 467 |
 | 2023-10-27 | 1,066,790 | 469 |
 | 2023-10-28 | 1,067,343 | 471 |
-| 2023-10-29 | 1,067,551 | 471 |
+| 2023-10-29 | 1,067,560 | 471 |
 ## Awards
 Max (Great for Beginners): 161  (Ranked 304)  
-Sum: 1,348 (Ranked 232)  
+Sum: 1,349 (Ranked 232)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -247,7 +247,7 @@ Diff (max vs sum): 72
 | This game has Quickly Understood Controls | 141 |
 | This game is Great for Quick Sessions | 135 |
 | This game is Relaxing | 133 |
-| This game is Highly Recommended | 131 |
+| This game is Highly Recommended | 132 |
 | This game has Competitive Players | 122 |
 | This game has Playful Visuals | 122 |
 | This game is Extremely Fun | 118 |
@@ -485,3 +485,4 @@ Diff (max vs sum): 72
 | 2023-10-24 | 4.54 | - | 161 | 1,344 |
 | 2023-10-25 | 4.55 | - | 161 | 1,346 |
 | 2023-10-26 | 4.55 | - | 161 | 1,348 |
+| 2023-10-29 | 4.55 | - | 161 | 1,349 |

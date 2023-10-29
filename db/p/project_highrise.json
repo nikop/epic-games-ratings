@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -920,6 +920,11 @@
       "Time": "2023-10-27T12:06:02.0811022+00:00",
       "NumProgressed": 343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T10:06:56.8145976+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -931,7 +936,7 @@
       "Name": "First 100 Days",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_ada",
@@ -979,7 +984,7 @@
       "Name": "Artfully Done",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_art_large",
@@ -1139,7 +1144,7 @@
       "Name": "Proper Walls",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_drones",
@@ -1259,7 +1264,7 @@
       "Name": "Water Features",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_grime",
@@ -1267,7 +1272,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ach_grime_1",
@@ -1281,9 +1286,9 @@
       "ID": "ach_grime_2",
       "SetID": "b8gh1fi",
       "Name": "Rehab Expert",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_happy",
@@ -1331,7 +1336,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ach_office_2",
@@ -1339,7 +1344,7 @@
       "Name": "Meet Me at HQ",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_plaza",
@@ -1355,7 +1360,7 @@
       "Name": "People Mover",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_pop_2",
@@ -1393,9 +1398,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_profit_1",
@@ -1441,9 +1446,9 @@
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_restaurants_3",
@@ -1457,9 +1462,9 @@
       "ID": "ach_restaurants_4",
       "SetID": "b8gh1fi",
       "Name": "Potent Potables",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_restaurants_5",
@@ -1515,7 +1520,7 @@
       "Name": "Revenue Royalty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_revs_3",
@@ -1531,7 +1536,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_scenarios_2",
@@ -1569,9 +1574,9 @@
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_util_cable",
@@ -1634,7 +1639,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
@@ -1642,8 +1647,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:07:22.344252+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:06:56.8145971+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.606123+00:00",
-  "LastUpdate_Ratings": "2023-10-29T08:58:06.831777+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:07:22.3443988+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:58:12.458605+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:06:56.8147117+00:00"
 }

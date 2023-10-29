@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3155,9 +3155,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17107,
+  "EOS_Progressed": 17109,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12740,6 +12740,11 @@
       "Time": "2023-10-29T07:04:06.0402343+00:00",
       "NumProgressed": 17107,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-29T10:04:12.7819288+00:00",
+      "NumProgressed": 17109,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -12839,7 +12844,7 @@
       "Name": "First Real Expedition",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "WinHard",
@@ -12847,7 +12852,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "WinImpossible",
@@ -12885,9 +12890,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 855
     },
     {
       "ID": "WinNearCrystals",
@@ -12949,9 +12954,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 684
     },
     {
       "ID": "WinNearMonastery",
@@ -13015,7 +13020,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "WinOnCursed",
@@ -13031,7 +13036,7 @@
       "Name": "The Marshlands",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "WinOnMoorlands",
@@ -13039,7 +13044,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "WinPrestige10",
@@ -13087,7 +13092,7 @@
       "Name": "Taking Action",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "WinWithResolve",
@@ -13127,7 +13132,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "WinWithoutOrders",
@@ -13150,15 +13155,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17107,
+      "Progressed": 17109,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-27T16:59:34.9515228+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:04:40.0685048+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:04:12.781928+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.3582421+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:01:04.1689037+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:04:40.0686452+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:01:18.8200652+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:04:12.782111+00:00"
 }

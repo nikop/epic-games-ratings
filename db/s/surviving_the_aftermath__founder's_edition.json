@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1276,10 +1276,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 717,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-29T10:00:51.473021+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 718,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 717,
+  "NumberOfAwards": 718,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1329,7 +1335,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1344,7 +1350,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9931,
+  "EOS_Progressed": 9932,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -15834,6 +15840,11 @@
       "Time": "2023-10-29T09:08:54.4055408+00:00",
       "NumProgressed": 9931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T10:08:30.1118241+00:00",
+      "NumProgressed": 9932,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15845,7 +15856,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6058
+      "UsersEstimate": 6059
     },
     {
       "ID": "10",
@@ -15877,7 +15888,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "14",
@@ -15925,7 +15936,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "2",
@@ -15997,7 +16008,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "28",
@@ -16117,7 +16128,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "41",
@@ -16173,7 +16184,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "48",
@@ -16269,7 +16280,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "59",
@@ -16316,15 +16327,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9931,
+      "Progressed": 9932,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-10-28T18:03:49.6613835+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:08:54.4055402+00:00",
+  "LastChanged": "2023-10-29T10:00:51.4730208+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:08:30.1118234+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:00:38.4079823+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:08:54.4057096+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:00:51.4730214+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:08:30.1120855+00:00"
 }

@@ -6,13 +6,14 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No Deaths | 7.00% | ~1,197 |
-| First Real Expedition | 6.00% | ~1,026 |
-| Overcoming Difficulty | 6.00% | ~1,026 |
-| Coral Forest | 6.00% | ~1,026 |
-| The Marshlands | 6.00% | ~1,026 |
-| The Scarlet Orchard | 6.00% | ~1,026 |
-| Taking Action | 6.00% | ~1,026 |
+| No Deaths | 7.00% | ~1,198 |
+| First Real Expedition | 6.00% | ~1,027 |
+| Overcoming Difficulty | 6.00% | ~1,027 |
+| Coral Forest | 6.00% | ~1,027 |
+| The Marshlands | 6.00% | ~1,027 |
+| The Scarlet Orchard | 6.00% | ~1,027 |
+| Taking Action | 6.00% | ~1,027 |
+| Ancient Battleground | 5.00% | ~855 |
 | Fertile Meadows | 5.00% | ~855 |
 | Royal Outpost | 5.00% | ~855 |
 | A Real Challenge | 5.00% | ~855 |
@@ -20,10 +21,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 4.00% | ~684 |
 | Bandit Camp | 4.00% | ~684 |
 | Barren Lands | 4.00% | ~684 |
-| Ancient Battleground | 4.00% | ~684 |
 | Sparkdew Crystals | 4.00% | ~684 |
 | Haunted Forest | 4.00% | ~684 |
 | Levitating Monument | 4.00% | ~684 |
+| Flooded Mines | 4.00% | ~684 |
 | Monastery of the Holy Flame | 4.00% | ~684 |
 | Lost Colonies | 4.00% | ~684 |
 | Statue of the Forefathers | 4.00% | ~684 |
@@ -36,7 +37,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 3.00% | ~513 |
 | Fishmen Ritual Site | 3.00% | ~513 |
 | Forbidden Lands | 3.00% | ~513 |
-| Flooded Mines | 3.00% | ~513 |
 | Forsaken Gods Temple | 3.00% | ~513 |
 | Corrosive Torrent | 3.00% | ~513 |
 | Like a Machine | 3.00% | ~513 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~51 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,107 (Ranked 135)  
+Progressed: 17,109 (Ranked 135)  
 Completed: 52 (0.30%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 52 (0.30%) (Ranked 215)
 | 2023-10-26 | 17,081 | 52 |
 | 2023-10-27 | 17,093 | 52 |
 | 2023-10-28 | 17,102 | 52 |
-| 2023-10-29 | 17,107 | 52 |
+| 2023-10-29 | 17,109 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 214)  
 Sum: 3,201 (Ranked 170)  

@@ -36,13 +36,13 @@ Rating: 4.64 (Ranked 327)
 | Playing Favorites | 0.30% | ~73 |
 | Mods Please Ban | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |
+| Carried Stan's Load To Completion | 0.20% | ~49 |
 | Give Away All Your Money | 0.20% | ~3 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
 | Seeing All The Sights | 0.10% | ~24 |
-| Carried Stan's Load To Completion | 0.10% | ~24 |
 | That's B.A.L.L., Folks | 0.10% | ~2 |
 | Cardbored | 0.10% | ~2 |
 | See Salt | 0.10% | ~2 |

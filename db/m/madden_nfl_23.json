@@ -769,7 +769,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3059,
+  "EOS_Progressed": 3060,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
@@ -4254,6 +4254,11 @@
       "Time": "2023-10-29T04:06:58.1674462+00:00",
       "NumProgressed": 3059,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T10:08:23.4981438+00:00",
+      "NumProgressed": 3060,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4266,7 +4271,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_10",
@@ -4274,7 +4279,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "achievement_11",
@@ -4290,7 +4295,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_13",
@@ -4298,7 +4303,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "achievement_14",
@@ -4322,7 +4327,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "achievement_17",
@@ -4410,7 +4415,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_8",
@@ -4418,7 +4423,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_9",
@@ -4433,7 +4438,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3059,
+      "Progressed": 3060,
       "Completed": 0
     }
   ],
@@ -4441,8 +4446,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-28T23:02:39.1539263+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:08:48.0320371+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:08:23.4981433+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:03:22.9438922+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:08:48.0320854+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:03:01.4993609+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:08:23.498182+00:00"
 }

@@ -17,11 +17,13 @@ Rating: 4.57 (Ranked 463)
 | Field hand | 56.00% | ~10 |
 | Ladies' man | 56.00% | ~10 |
 | Ferocious wild boars | 44.00% | ~8 |
+| Beast slayer | 33.00% | ~6 |
 | Idiot | 33.00% | ~6 |
 | Fence | 33.00% | ~6 |
 | Sidelined | 33.00% | ~6 |
 | Wise man | 28.00% | ~5 |
-| Beast slayer | 28.00% | ~5 |
+| Ogre friend | 28.00% | ~5 |
+| Hard worker | 28.00% | ~5 |
 | Workaholic | 28.00% | ~5 |
 | The fourth triplet | 28.00% | ~5 |
 | Family man | 22.00% | ~4 |
@@ -31,8 +33,6 @@ Rating: 4.57 (Ranked 463)
 | Freedom fighter | 22.00% | ~4 |
 | Defender | 22.00% | ~4 |
 | Pandora's box | 22.00% | ~4 |
-| Ogre friend | 22.00% | ~4 |
-| Hard worker | 22.00% | ~4 |
 | Moneybags | 22.00% | ~4 |
 | King of the handymen | 22.00% | ~4 |
 | Master detective | 22.00% | ~4 |

@@ -2,7 +2,7 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 245,
+  "Ranking_Rating": 246,
   "Ranking_Popularity": 161,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 113,
@@ -2262,9 +2262,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43736,
+  "EOS_Progressed": 43737,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8117,6 +8117,11 @@
       "Time": "2023-10-28T22:06:04.4002178+00:00",
       "NumProgressed": 43736,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-29T10:07:30.8446389+00:00",
+      "NumProgressed": 43737,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8128,7 +8133,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27116
+      "UsersEstimate": 27117
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8336,7 +8341,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14870
+      "UsersEstimate": 14871
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -8400,7 +8405,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10059
+      "UsersEstimate": 10060
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -8416,7 +8421,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16182
+      "UsersEstimate": 16183
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -8424,7 +8429,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18369
+      "UsersEstimate": 18370
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -8432,7 +8437,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22305
+      "UsersEstimate": 22306
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -8448,7 +8453,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16182
+      "UsersEstimate": 16183
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -8456,7 +8461,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30178
+      "UsersEstimate": 30179
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8520,7 +8525,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19681
+      "UsersEstimate": 19682
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -8568,7 +8573,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14870
+      "UsersEstimate": 14871
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -8624,7 +8629,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10059
+      "UsersEstimate": 10060
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -8632,7 +8637,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6560
+      "UsersEstimate": 6561
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -8640,7 +8645,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7872
+      "UsersEstimate": 7873
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -8655,15 +8660,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43736,
+      "Progressed": 43737,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-29T08:03:04.0959362+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:07:55.7532148+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:07:30.8446381+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:33.435612+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:03:55.2193323+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:07:55.7533332+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:03:28.2167238+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:07:30.8447754+00:00"
 }

@@ -19,8 +19,8 @@
 | The Golden Flash | 12.00% | ~13 |
 | Locked and Loaded | 11.00% | ~12 |
 | Changing the World | 11.00% | ~12 |
+| The A-Team | 10.00% | ~11 |
 | Witch | 9.00% | ~10 |
-| The A-Team | 9.00% | ~10 |
 | Defeat Tezuth | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
 | Defeat Uskol | 7.00% | ~8 |

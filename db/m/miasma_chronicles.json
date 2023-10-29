@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3622,6 +3622,11 @@
       "Time": "2023-10-29T09:09:53.7300713+00:00",
       "NumProgressed": 1539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T10:09:29.6968361+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3649,7 +3654,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3737,7 +3742,7 @@
       "Name": "Ganglord",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "DEAD_DICK",
@@ -3793,7 +3798,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "EXPERIENCED",
@@ -3801,7 +3806,7 @@
       "Name": "Experienced",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "FIRESTARTER",
@@ -3817,7 +3822,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3841,7 +3846,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "GIANT_KILLER",
@@ -3865,7 +3870,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3889,15 +3894,15 @@
       "Name": "Infiltrator",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 801
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3921,7 +3926,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -3937,7 +3942,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "RECYCLER",
@@ -3945,7 +3950,7 @@
       "Name": "Recycler",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "RUTHLESS",
@@ -3953,7 +3958,7 @@
       "Name": "Ruthless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "SAVIOR",
@@ -4040,7 +4045,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1540,
       "Completed": 0
     }
   ],
@@ -4048,8 +4053,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:09:53.7300706+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:09:29.6968354+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-29T08:58:53.9740823+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:09:53.7301488+00:00"
+  "LastUpdate_Ratings": "2023-10-29T09:59:01.9386509+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:09:29.6969019+00:00"
 }

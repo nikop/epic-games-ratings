@@ -52,13 +52,13 @@
 | Catharsis | 34.00% | ~286 |
 | Ghost of the Father | 34.00% | ~286 |
 | The Prodigal | 34.00% | ~286 |
+| Shopaholic | 34.00% | ~286 |
 | Archivist | 33.00% | ~278 |
 | Battlemaster | 33.00% | ~278 |
 | The Cure | 33.00% | ~278 |
 | Big Game Hunter | 33.00% | ~278 |
 | Revenge! | 33.00% | ~278 |
 | Heart of Darkness | 33.00% | ~278 |
-| Shopaholic | 33.00% | ~278 |
 | Fade Away | 32.00% | ~269 |
 | Agent | 32.00% | ~269 |
 | Driven | 32.00% | ~269 |
@@ -87,7 +87,7 @@
 | Arbiter | 23.00% | ~194 |
 | Lost and Found | 23.00% | ~194 |
 | Paramour II | 22.00% | ~185 |
-| Party Crasher | 21.00% | ~177 |
+| Party Crasher | 22.00% | ~185 |
 | Hard Target | 21.00% | ~177 |
 | Problem Solver | 21.00% | ~177 |
 | Pyromaniac | 20.00% | ~168 |

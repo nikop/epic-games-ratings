@@ -663,9 +663,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 264419,
+  "EOS_Progressed": 264488,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 18785,
+  "EOS_NewPlayers": 18759,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9573,6 +9573,11 @@
       "Time": "2023-10-29T09:06:22.9209773+00:00",
       "NumProgressed": 264419,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-10-29T10:05:56.6402782+00:00",
+      "NumProgressed": 264488,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 24,
@@ -9592,7 +9597,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5290
     },
     {
       "ID": "11",
@@ -9624,7 +9629,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7935
     },
     {
       "ID": "15",
@@ -9680,7 +9685,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5290
     },
     {
       "ID": "21",
@@ -9704,7 +9709,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "24",
@@ -9712,7 +9717,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "3",
@@ -9728,7 +9733,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "5",
@@ -9736,7 +9741,7 @@
       "Name": "ROOKIE",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13224
     },
     {
       "ID": "6",
@@ -9744,7 +9749,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5290
     },
     {
       "ID": "7",
@@ -9775,7 +9780,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 264419,
+      "Progressed": 264488,
       "Completed": 245
     }
   ],
@@ -9783,8 +9788,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-29T03:59:36.3348729+00:00",
-  "LastChanged_Achievements": "2023-10-29T09:06:22.9209767+00:00",
+  "LastChanged_Achievements": "2023-10-29T10:05:56.6402775+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.6526844+00:00",
-  "LastUpdate_Ratings": "2023-10-29T09:00:24.9450779+00:00",
-  "LastUpdate_Achievements": "2023-10-29T09:06:22.9210713+00:00"
+  "LastUpdate_Ratings": "2023-10-29T10:00:37.2267784+00:00",
+  "LastUpdate_Achievements": "2023-10-29T10:05:56.6403542+00:00"
 }
