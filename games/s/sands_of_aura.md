@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Setting Sail | 81.00% | ~25 |
-| A Small Thirsty Thing | 13.00% | ~4 |
+| A Small Thirsty Thing | 16.00% | ~5 |
 | Spirit Within | 13.00% | ~4 |
 | Dousing a Venerable Flame | 10.00% | ~3 |
 | A Sandwyrm's Hoard | 10.00% | ~3 |
@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 483)  
-Completed: 0 (0.00%) (Ranked 330)  
+Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

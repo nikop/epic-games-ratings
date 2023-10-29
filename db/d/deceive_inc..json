@@ -6,9 +6,9 @@
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18721,
+  "EOS_Progressed": 18723,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12422,6 +12422,11 @@
       "Time": "2023-10-29T03:08:47.2956835+00:00",
       "NumProgressed": 18721,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-29T07:08:48.9744059+00:00",
+      "NumProgressed": 18723,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12433,7 +12438,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5616
+      "UsersEstimate": 5617
     },
     {
       "ID": "0002",
@@ -12521,7 +12526,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "0013",
@@ -12537,7 +12542,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "0015",
@@ -12641,7 +12646,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "0028",
@@ -12673,7 +12678,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "0032",
@@ -12681,7 +12686,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "0033",
@@ -12689,7 +12694,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "0034",
@@ -12705,7 +12710,7 @@
       "Name": "Chairman of Deceive Inc.",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "0036",
@@ -12720,7 +12725,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18721,
+      "Progressed": 18723,
       "Completed": 4
     }
   ],
@@ -12728,8 +12733,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-27T01:40:48.3215851+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:08:34.9297629+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:08:48.9744056+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:01:23.6931078+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:08:34.9299183+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:00:36.9524317+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:08:48.9745165+00:00"
 }

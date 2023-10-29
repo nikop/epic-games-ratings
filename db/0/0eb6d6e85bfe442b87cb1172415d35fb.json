@@ -3,9 +3,9 @@
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 470,
-  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "DoABarrelRoll",
       "SetID": "d11cl5p",
       "Name": "Do a barrel roll!",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FiveThousand",
@@ -354,9 +354,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "OrACEO",
@@ -474,9 +474,9 @@
       "ID": "ThereAndBackAgain",
       "SetID": "d11cl5p",
       "Name": "There and back again",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TravelToExecutiveBathroomIsland",
@@ -513,8 +513,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:04:10.0689194+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:04:08.4378492+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:26.9590759+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:02:15.3466091+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:04:10.0689481+00:00"
+  "LastUpdate_Ratings": "2023-10-29T07:01:13.1254906+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:04:08.4378823+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 483,
-  "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -337,9 +337,9 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -658,8 +658,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:04:02.6172515+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:04:03.0431675+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.7042066+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:57:46.6132671+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:04:02.6173082+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:57:54.2332716+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:04:03.0432293+00:00"
 }

@@ -48,6 +48,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Star | 0.20% | ~1,789 |
 | The Sun | 0.20% | ~1,789 |
 | It's Elementary | 0.20% | ~1,789 |
+| The APB is Not Enough | 0.20% | ~46 |
 | Judgement Day | 0.20% | ~46 |
 | King of Pentacles | 0.20% | ~46 |
 | King of Swords | 0.20% | ~46 |
@@ -59,7 +60,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wasteland | 0.10% | ~894 |
 | Daemon In The Shell | 0.10% | ~894 |
 | Greetings from Pacifica! | 0.10% | ~894 |
-| The APB is Not Enough | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,360 (Ranked 15)  
+Progressed: 894,366 (Ranked 15)  
 Completed: 2,728 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,728 (0.31%) (Ranked 211)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,360 | 2,728 |
+| 2023-10-29 | 894,366 | 2,728 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
 Sum: 332,446 (Ranked 10)  

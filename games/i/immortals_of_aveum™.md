@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 986)  
+Rating: 3.98 (Ranked 987)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,7 @@ Rating: 3.98 (Ranked 986)
 | Beggars Would Ride | 34.00% | ~35 |
 | Control is an Illusion | 33.00% | ~34 |
 | Socialite | 33.00% | ~34 |
-| The Means to Save It | 25.00% | ~26 |
+| The Means to Save It | 26.00% | ~27 |
 | Resilience to Sin | 22.00% | ~23 |
 | A Familiar Nest | 21.00% | ~22 |
 | Periapt Alizarin | 21.00% | ~22 |
@@ -28,8 +28,8 @@ Rating: 3.98 (Ranked 986)
 | Recruit | 16.00% | ~16 |
 | Good Boy | 13.00% | ~13 |
 | Lights Army | 11.00% | ~11 |
+| Periapt Viridian | 11.00% | ~11 |
 | Periapt Cerulean | 10.00% | ~10 |
-| Periapt Viridian | 10.00% | ~10 |
 | Shroudfane Explorer | 10.00% | ~10 |
 | Armaments Azure | 8.00% | ~8 |
 | Armaments Gules | 8.00% | ~8 |
@@ -41,17 +41,17 @@ Rating: 3.98 (Ranked 986)
 | Master of Carmine | 4.00% | ~4 |
 | Shroudfane Surveyor | 4.00% | ~4 |
 | Treasure Hunter | 4.00% | ~4 |
+| Grand Magnus | 3.00% | ~3 |
 | Master of Ultramarine | 3.00% | ~3 |
 | Master of Malachite | 3.00% | ~3 |
 | Backtracker | 3.00% | ~3 |
-| Grand Magnus | 2.00% | ~2 |
+| Family Business | 2.00% | ~2 |
+| Diplomat | 2.00% | ~2 |
+| Petite Bourgeoisie | 2.00% | ~2 |
+| Witch-Taker | 2.00% | ~2 |
+| Out of Time | 2.00% | ~2 |
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
-| Family Business | 1.00% | ~1 |
-| Diplomat | 1.00% | ~1 |
-| Petite Bourgeoisie | 1.00% | ~1 |
-| Witch-Taker | 1.00% | ~1 |
-| Out of Time | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 103 (Ranked 403)  
 Completed: 1 (0.97%) (Ranked 152)  

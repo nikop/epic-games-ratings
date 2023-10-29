@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.32,
+  "EOS_Completed_Percentage": 2.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -559,6 +559,11 @@
       "Time": "2023-10-29T05:06:29.9360477+00:00",
       "NumProgressed": 259,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-29T07:07:02.7386046+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -642,7 +647,7 @@
       "Name": "So it goes",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -761,13 +766,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 6
     }
   ],
@@ -775,8 +780,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:08:11.5305404+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:07:02.7386036+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.9161826+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:57:26.5676023+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:08:11.5305795+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:57:35.2904841+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:07:02.7386316+00:00"
 }

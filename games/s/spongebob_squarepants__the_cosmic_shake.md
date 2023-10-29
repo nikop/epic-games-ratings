@@ -17,10 +17,10 @@
 | Red and Shiny | 62.00% | ~13 |
 | ScaredyPants | 62.00% | ~13 |
 | First Mate | 62.00% | ~13 |
+| BounceBob | 52.00% | ~11 |
 | Bubble the Trouble | 52.00% | ~11 |
 | King of the Castle | 52.00% | ~11 |
 | Ugh Ugaha! | 52.00% | ~11 |
-| BounceBob | 48.00% | ~10 |
 | SpongeBob JellyPants | 48.00% | ~10 |
 | Local Hero | 43.00% | ~9 |
 | Ride Rider | 43.00% | ~9 |

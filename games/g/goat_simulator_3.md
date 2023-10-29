@@ -5,15 +5,15 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~226,633 |
-| Private Club | 74.00% | ~184,295 |
+| Forgotten Sorority | 91.00% | ~226,634 |
+| Private Club | 74.00% | ~184,296 |
 | Rogue Guild | 65.00% | ~161,881 |
 | I Watched the Intro | 57.00% | ~141,957 |
 | Covert Consortium | 55.00% | ~136,976 |
 | Goat Queen | 53.00% | ~131,995 |
 | Reach the Stratosphere | 50.00% | ~124,524 |
-| Synchronization Complete | 47.00% | ~117,052 |
-| Secret Society | 45.00% | ~112,071 |
+| Synchronization Complete | 47.00% | ~117,053 |
+| Secret Society | 45.00% | ~112,072 |
 | Shadow Syndicate | 38.00% | ~94,638 |
 | What a Waste of Money | 33.00% | ~82,186 |
 | New Goat Order | 30.00% | ~74,714 |
@@ -23,7 +23,7 @@ Rating: 4.84 (Ranked 48)
 | Raider of the Lost Parking Garage | 26.00% | ~64,752 |
 | Welcome to Earth | 25.00% | ~62,262 |
 | Into the Matrix | 19.00% | ~47,319 |
-| Egg Simulator | 18.00% | ~44,828 |
+| Egg Simulator | 18.00% | ~44,829 |
 | Where is It? | 17.00% | ~42,338 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,357 |
 | Black Market | 14.00% | ~34,867 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,494 |
 | G.O.A.T | 0.30% | ~747 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,047 (Ranked 56)  
+Progressed: 249,048 (Ranked 56)  
 Completed: 865 (0.35%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,10 +237,10 @@ Completed: 865 (0.35%) (Ranked 208)
 | 2023-10-26 | 248,758 | 864 |
 | 2023-10-27 | 248,873 | 864 |
 | 2023-10-28 | 249,036 | 864 |
-| 2023-10-29 | 249,047 | 865 |
+| 2023-10-29 | 249,048 | 865 |
 ## Awards
 Max (Great for Beginners): 430  (Ranked 218)  
-Sum: 3,674 (Ranked 159)  
+Sum: 3,676 (Ranked 159)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -251,7 +251,7 @@ Diff (max vs sum): 59
 | This game is Extremely Fun | 361 |
 | This game has a Silly Community | 353 |
 | This game has Amazing Storytelling | 351 |
-| This game is Relaxing | 348 |
+| This game is Relaxing | 350 |
 | This game has Quickly Understood Controls | 342 |
 | This game has Easy Combat | 319 |
 | This game is Educational | 263 |
@@ -473,3 +473,4 @@ Diff (max vs sum): 59
 | 2023-10-26 | 4.84 | 428 | 3,656 |
 | 2023-10-27 | 4.84 | 428 | 3,664 |
 | 2023-10-28 | 4.84 | 430 | 3,674 |
+| 2023-10-29 | 4.84 | 430 | 3,676 |

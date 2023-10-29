@@ -5,16 +5,16 @@ Rating: 4.23 (Ranked 876)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~358,639 |
-| Well educated | 37.00% | ~276,451 |
-| City Planner | 19.00% | ~141,961 |
-| Deforester | 17.00% | ~127,018 |
-| Big Hauling | 16.00% | ~119,546 |
-| Apprentice Manufacturer | 13.00% | ~97,131 |
-| Exporter | 13.00% | ~97,131 |
-| I would drive 500 tiles... | 12.00% | ~89,660 |
-| Landscaper | 12.00% | ~89,660 |
-| Railwayman | 8.00% | ~59,773 |
+| Entrepreneur | 48.00% | ~358,644 |
+| Well educated | 37.00% | ~276,454 |
+| City Planner | 19.00% | ~141,963 |
+| Deforester | 17.00% | ~127,020 |
+| Big Hauling | 16.00% | ~119,548 |
+| Apprentice Manufacturer | 13.00% | ~97,133 |
+| Exporter | 13.00% | ~97,133 |
+| I would drive 500 tiles... | 12.00% | ~89,661 |
+| Landscaper | 12.00% | ~89,661 |
+| Railwayman | 8.00% | ~59,774 |
 | Penniless | 6.00% | ~44,830 |
 | Massive Gains | 6.00% | ~44,830 |
 | Salesman | 3.00% | ~22,415 |
@@ -23,8 +23,8 @@ Rating: 4.23 (Ranked 876)
 | Captain | 0.80% | ~5,977 |
 | Billionaire | 0.70% | ~5,230 |
 | Vroom Vroom | 0.40% | ~2,989 |
-| Excavator | 0.30% | ~2,241 |
-| Loan Ranger | 0.30% | ~2,241 |
+| Excavator | 0.30% | ~2,242 |
+| Loan Ranger | 0.30% | ~2,242 |
 | [2130] Nature Lover | 0.10% | ~747 |
 | [2130] No Quarter Given | 0.10% | ~747 |
 | [2130] Dumpster Diving | 0.10% | ~747 |
@@ -33,8 +33,8 @@ Rating: 4.23 (Ranked 876)
 | Master Builder | 0.10% | ~747 |
 | Hard working | 0.10% | ~747 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747,165 (Ranked 18)  
-Completed: 4 (0.00%) (Ranked 330)  
+Progressed: 747,174 (Ranked 18)  
+Completed: 4 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 4 (0.00%) (Ranked 330)
 | 2023-10-26 | 746,472 | 4 |
 | 2023-10-27 | 746,737 | 4 |
 | 2023-10-28 | 747,089 | 4 |
-| 2023-10-29 | 747,165 | 4 |
+| 2023-10-29 | 747,174 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

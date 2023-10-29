@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~121 |
 | The Routine | 80.00% | ~106 |
-| Mother | 78.00% | ~104 |
-| Failure | 76.00% | ~101 |
+| Mother | 79.00% | ~105 |
+| Failure | 77.00% | ~102 |
 | Replace Fuse | 65.00% | ~86 |
 | Alarm | 64.00% | ~85 |
 | Air Filtration | 61.00% | ~81 |
@@ -33,7 +33,7 @@
 | The Missing Piece | 6.00% | ~8 |
 | Friends | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 379)  
+Progressed: 133 (Ranked 380)  
 Completed: 5 (3.76%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |

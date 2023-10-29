@@ -5,7 +5,7 @@ Rating: 4.28 (Ranked 840)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~160,910 |
+| Corner Clout | 46.00% | ~160,912 |
 | Copacetic Coordination | 16.00% | ~55,969 |
 | Fronting the Money | 15.00% | ~52,471 |
 | The Dawn of Automation | 14.00% | ~48,973 |
@@ -16,19 +16,19 @@ Rating: 4.28 (Ranked 840)
 | Room in the Back | 12.00% | ~41,977 |
 | Beating the Heat | 11.00% | ~38,479 |
 | Booze Baron | 11.00% | ~38,479 |
-| Friends on the Force | 10.00% | ~34,980 |
-| Neighborhood Watch | 10.00% | ~34,980 |
-| Core Corps | 8.00% | ~27,984 |
-| Sizeable Stash | 8.00% | ~27,984 |
-| Street Fighter | 7.00% | ~24,486 |
-| Friendly Gestures | 7.00% | ~24,486 |
-| People Person | 7.00% | ~24,486 |
-| Liquor Lord | 6.00% | ~20,988 |
-| Safety in Numbers | 6.00% | ~20,988 |
-| Moving Experiences | 6.00% | ~20,988 |
-| Wise Head | 6.00% | ~20,988 |
-| Show ‘em the Sugar | 6.00% | ~20,988 |
-| Killing Them Softly | 6.00% | ~20,988 |
+| Friends on the Force | 10.00% | ~34,981 |
+| Neighborhood Watch | 10.00% | ~34,981 |
+| Core Corps | 8.00% | ~27,985 |
+| Sizeable Stash | 8.00% | ~27,985 |
+| Street Fighter | 7.00% | ~24,487 |
+| Friendly Gestures | 7.00% | ~24,487 |
+| People Person | 7.00% | ~24,487 |
+| Liquor Lord | 6.00% | ~20,989 |
+| Safety in Numbers | 6.00% | ~20,989 |
+| Moving Experiences | 6.00% | ~20,989 |
+| Wise Head | 6.00% | ~20,989 |
+| Show ‘em the Sugar | 6.00% | ~20,989 |
+| Killing Them Softly | 6.00% | ~20,989 |
 | Street Knowledge | 5.00% | ~17,490 |
 | Oh Captain | 5.00% | ~17,490 |
 | Branching Out | 5.00% | ~17,490 |
@@ -86,8 +86,8 @@ Rating: 4.28 (Ranked 840)
 | High Pillow | 0.10% | ~350 |
 | Station Master | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,805 (Ranked 44)  
-Completed: 7 (0.00%) (Ranked 330)  
+Progressed: 349,809 (Ranked 44)  
+Completed: 7 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 7 (0.00%) (Ranked 330)
 | 2023-10-26 | 349,465 | 7 |
 | 2023-10-27 | 349,599 | 7 |
 | 2023-10-28 | 349,762 | 7 |
-| 2023-10-29 | 349,805 | 7 |
+| 2023-10-29 | 349,809 | 7 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 446)  
 Sum: 183 (Ranked 403)  

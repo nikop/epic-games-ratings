@@ -14,22 +14,22 @@
 | First aid | 62.00% | ~139 |
 | Soundtrack | 61.00% | ~137 |
 | Antidote | 54.00% | ~121 |
-| Pick the right door | 25.00% | ~56 |
+| Pick the right door | 26.00% | ~58 |
 | The third floor | 19.00% | ~43 |
+| On the right path | 17.00% | ~38 |
 | One-way | 17.00% | ~38 |
-| On the right path | 16.00% | ~36 |
 | It can't be true | 16.00% | ~36 |
+| I'm close now | 13.00% | ~29 |
+| Failed attempt | 13.00% | ~29 |
+| The real escape | 13.00% | ~29 |
+| Good choice | 13.00% | ~29 |
+| Take the long way round | 13.00% | ~29 |
 | He who seeks, finds! | 13.00% | ~29 |
-| I'm close now | 12.00% | ~27 |
-| Failed attempt | 12.00% | ~27 |
-| The real escape | 12.00% | ~27 |
-| Good choice | 12.00% | ~27 |
-| Take the long way round | 12.00% | ~27 |
 | Nightmare in the kitchen | 11.00% | ~25 |
 | Born again | 8.00% | ~18 |
+| The experiment | 7.00% | ~16 |
 | 373 | 6.00% | ~13 |
-| The experiment | 6.00% | ~13 |
-| Matthew's revenge | 5.00% | ~11 |
+| Matthew's revenge | 6.00% | ~13 |
 | Eva's diary | 2.00% | ~4 |
 | Horror book | 2.00% | ~4 |
 | A dark past | 2.00% | ~4 |

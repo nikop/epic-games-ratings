@@ -5,10 +5,10 @@ Rating: 4.46 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,744 |
+| Meeting Resistance | 46.00% | ~1,745 |
 | Confirming Suspicions | 41.00% | ~1,555 |
 | The Kraken Wakes | 37.00% | ~1,403 |
-| It's Starting to Crack | 34.00% | ~1,289 |
+| It's Starting to Crack | 34.00% | ~1,290 |
 | Change the Channel | 31.00% | ~1,176 |
 | Lord of War | 30.00% | ~1,138 |
 | Taking it back | 29.00% | ~1,100 |
@@ -19,7 +19,7 @@ Rating: 4.46 (Ranked 634)
 | Organ Grinder | 23.00% | ~872 |
 | As Quiet as a Mouse | 23.00% | ~872 |
 | Sharpshooter | 22.00% | ~834 |
-| Explosive Efficiency | 19.00% | ~720 |
+| Explosive Efficiency | 19.00% | ~721 |
 | Gunslinger | 18.00% | ~683 |
 | Just a Flesh Wound | 17.00% | ~645 |
 | Climbing the Ladder | 16.00% | ~607 |
@@ -29,10 +29,10 @@ Rating: 4.46 (Ranked 634)
 | Brains of the Operation | 15.00% | ~569 |
 | No Stone Unturned | 14.00% | ~531 |
 | Opposing Force | 14.00% | ~531 |
-| Enemy at the Gates | 14.00% | ~531 |
 | Fields of Glory | 14.00% | ~531 |
 | Skirmisher | 14.00% | ~531 |
 | Die Nussknacker Sweet! | 14.00% | ~531 |
+| Enemy at the Gates | 13.00% | ~493 |
 | Set Europe Ablaze | 13.00% | ~493 |
 | Precision Is Key | 10.00% | ~379 |
 | My Little Friend | 10.00% | ~379 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,792 (Ranked 187)  
+Progressed: 3,793 (Ranked 187)  
 Completed: 11 (0.29%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 11 (0.29%) (Ranked 219)
 | 2023-10-26 | 3,780 | 11 |
 | 2023-10-27 | 3,786 | 11 |
 | 2023-10-28 | 3,790 | 11 |
-| 2023-10-29 | 3,792 | 11 |
+| 2023-10-29 | 3,793 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 529)  
 Sum: 21 (Ranked 530)  

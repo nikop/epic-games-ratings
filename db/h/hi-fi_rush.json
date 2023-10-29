@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4189,
+  "EOS_Progressed": 4190,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7184,6 +7184,11 @@
       "Time": "2023-10-29T01:49:44.5995414+00:00",
       "NumProgressed": 4189,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-29T07:05:16.7930055+00:00",
+      "NumProgressed": 4190,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7259,7 +7264,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Ach010",
@@ -7459,7 +7464,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Ach035",
@@ -7473,9 +7478,9 @@
       "ID": "Ach036",
       "SetID": "12n4k20",
       "Name": "Kissing the sky!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 377
     },
     {
       "ID": "Ach037",
@@ -7547,7 +7552,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Ach046",
@@ -7563,7 +7568,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Ach048",
@@ -7762,13 +7767,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4189,
+      "Progressed": 4190,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2710,
+      "Progressed": 2711,
       "Completed": 1930
     }
   ],
@@ -7776,8 +7781,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:05:44.9060237+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:05:16.793005+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:07.0872325+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:58:59.6075513+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:05:44.9061832+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:58:52.8169588+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:05:16.793132+00:00"
 }

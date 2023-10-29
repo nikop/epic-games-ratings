@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4625,10 +4625,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3674,
       "NumberOfAwardsMax": 430
+    },
+    {
+      "Time": "2023-10-29T06:57:27.7728826+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3676,
+      "NumberOfAwardsMax": 430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3674,
+  "NumberOfAwards": 3676,
   "NumberOfAwardsMax": 430,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4636,7 +4642,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 348
+      "Count": 350
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4699,7 +4705,7 @@
       "Count": 319
     }
   ],
-  "EOS_Progressed": 249047,
+  "EOS_Progressed": 249048,
   "EOS_Completed": 865,
   "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 5,
@@ -25594,6 +25600,11 @@
       "Time": "2023-10-29T06:09:40.2980464+00:00",
       "NumProgressed": 249047,
       "NumCompleted": 865
+    },
+    {
+      "Time": "2023-10-29T07:09:37.6756961+00:00",
+      "NumProgressed": 249048,
+      "NumCompleted": 865
     }
   ],
   "TotalAchievements": 39,
@@ -25669,7 +25680,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 226633
+      "UsersEstimate": 226634
     },
     {
       "ID": "AchievementClownID",
@@ -25701,7 +25712,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44828
+      "UsersEstimate": 44829
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -25765,7 +25776,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112071
+      "UsersEstimate": 112072
     },
     {
       "ID": "AchievementIntroID",
@@ -25837,7 +25848,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 184295
+      "UsersEstimate": 184296
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -25885,7 +25896,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117052
+      "UsersEstimate": 117053
     },
     {
       "ID": "AchievementTrinketID",
@@ -25916,16 +25927,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 249047,
+      "Progressed": 249048,
       "Completed": 865
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-10-28T19:57:06.033659+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:09:40.2980459+00:00",
+  "LastChanged": "2023-10-29T06:57:27.7728825+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:09:37.6756957+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.9944721+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:57:17.3753101+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:09:40.2983041+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:57:27.7728834+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:09:37.6758724+00:00"
 }

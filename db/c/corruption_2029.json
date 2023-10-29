@@ -2,13 +2,13 @@
   "ID": "3102f48ad7bd409ab6e34f2ad697e961",
   "Name": "CORRUPTION 2029",
   "ProductSlug": "corruption-2029",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 708,
-  "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_Completed": 331,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-02-07T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.98,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2022-10-10T12:30:41.721074+00:00",
@@ -117,6 +117,12 @@
       "Rating": 3.98,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-29T06:59:43.8844229+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -135,8 +141,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:05.407172+00:00",
   "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
-  "LastChanged": "2023-10-04T04:58:00.167218+00:00",
+  "LastChanged": "2023-10-29T06:59:43.8844227+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:56.4575369+00:00",
-  "LastUpdate_Ratings": "2023-10-29T06:00:15.2340467+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:07:24.6411215+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:59:43.8844234+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:06:28.9763108+00:00"
 }

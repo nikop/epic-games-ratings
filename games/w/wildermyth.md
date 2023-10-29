@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 102)  
+Rating: 4.78 (Ranked 103)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | Bears are Scary | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
+| No Time for Clawmonsters | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
 | Storied Past | 0.00% | ~0 |
@@ -61,7 +62,6 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 | Lochias's Hunger | 0.00% | ~0 |
-| No Time for Clawmonsters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,445 (Ranked 230)  
 Completed: 6 (0.42%) (Ranked 199)  

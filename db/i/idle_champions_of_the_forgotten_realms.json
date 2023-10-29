@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7669,7 +7669,7 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233104,
+  "EOS_Progressed": 233106,
   "EOS_Completed": 2396,
   "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 19,
@@ -29079,6 +29079,11 @@
       "Time": "2023-10-29T06:06:15.2256943+00:00",
       "NumProgressed": 233104,
       "NumCompleted": 2396
+    },
+    {
+      "Time": "2023-10-29T07:05:39.6619254+00:00",
+      "NumProgressed": 233106,
+      "NumCompleted": 2396
     }
   ],
   "TotalAchievements": 528,
@@ -33280,9 +33285,9 @@
       "ID": "objective_completed_1415",
       "SetID": "415jc5c",
       "Name": "Foul Play",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 997
     },
     {
       "ID": "objective_completed_1416",
@@ -33313,21 +33318,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199378,
+      "Progressed": 199380,
       "Completed": 3696
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233104,
+      "Progressed": 233106,
       "Completed": 2396
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-28T07:57:33.0279022+00:00",
-  "LastChanged_Achievements": "2023-10-29T06:06:15.2256939+00:00",
+  "LastChanged_Achievements": "2023-10-29T07:05:39.6619249+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T05:57:52.914338+00:00",
-  "LastUpdate_Achievements": "2023-10-29T06:06:15.2293214+00:00"
+  "LastUpdate_Ratings": "2023-10-29T06:57:59.1451751+00:00",
+  "LastUpdate_Achievements": "2023-10-29T07:05:39.6649043+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,116 |
-| Jeef Skeejj | 44.00% | ~206,744 |
-| Careful planning | 39.00% | ~183,250 |
-| Second Coming | 34.00% | ~159,757 |
-| Jeef Skagg | 30.00% | ~140,962 |
-| Mother | 25.00% | ~117,468 |
-| In space, no one can hear you scream | 24.00% | ~112,770 |
-| Chapter I: Echoes | 22.00% | ~103,372 |
-| Excelsior Rule | 22.00% | ~103,372 |
-| Things persisted in not being what they seemed | 20.00% | ~93,975 |
-| Knightmare Frames | 15.00% | ~70,481 |
-| May His passing cleanse the world | 15.00% | ~70,481 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,481 |
-| Pope Zenon | 15.00% | ~70,481 |
-| Tetsuo | 11.00% | ~51,686 |
-| Plan for the worst | 11.00% | ~51,686 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,987 |
+| The Shutdown | 66.00% | ~310,119 |
+| Jeef Skeejj | 44.00% | ~206,746 |
+| Careful planning | 39.00% | ~183,252 |
+| Second Coming | 34.00% | ~159,759 |
+| Jeef Skagg | 30.00% | ~140,963 |
+| Mother | 25.00% | ~117,470 |
+| In space, no one can hear you scream | 24.00% | ~112,771 |
+| Chapter I: Echoes | 22.00% | ~103,373 |
+| Excelsior Rule | 22.00% | ~103,373 |
+| Things persisted in not being what they seemed | 20.00% | ~93,976 |
+| Knightmare Frames | 15.00% | ~70,482 |
+| May His passing cleanse the world | 15.00% | ~70,482 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,482 |
+| Pope Zenon | 15.00% | ~70,482 |
+| Tetsuo | 11.00% | ~51,687 |
+| Plan for the worst | 11.00% | ~51,687 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,988 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,590 |
 | Through the mirror | 8.00% | ~37,590 |
 | General Vivar | 8.00% | ~37,590 |
@@ -31,27 +31,27 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~32,891 |
 | The Survivalists | 7.00% | ~32,891 |
 | The Tech Specialist | 7.00% | ~32,891 |
-| Chapter V: Memories of None | 6.00% | ~28,192 |
-| Meet your maker | 6.00% | ~28,192 |
-| The Impersonator | 6.00% | ~28,192 |
-| The Kid | 6.00% | ~28,192 |
-| The Evangelist | 6.00% | ~28,192 |
-| The Inquisitor | 6.00% | ~28,192 |
-| The Ace Pilot | 6.00% | ~28,192 |
-| The Tech Med | 6.00% | ~28,192 |
-| The Mech Soldier | 6.00% | ~28,192 |
-| The lucky charm | 6.00% | ~28,192 |
-| The Anonymous | 6.00% | ~28,192 |
-| The Smuggler | 6.00% | ~28,192 |
-| The Crazy Repairman | 6.00% | ~28,192 |
-| The Weasel | 6.00% | ~28,192 |
+| Chapter V: Memories of None | 6.00% | ~28,193 |
+| Meet your maker | 6.00% | ~28,193 |
+| The Impersonator | 6.00% | ~28,193 |
+| The Kid | 6.00% | ~28,193 |
+| The Evangelist | 6.00% | ~28,193 |
+| The Inquisitor | 6.00% | ~28,193 |
+| The Ace Pilot | 6.00% | ~28,193 |
+| The Tech Med | 6.00% | ~28,193 |
+| The Mech Soldier | 6.00% | ~28,193 |
+| The lucky charm | 6.00% | ~28,193 |
+| The Anonymous | 6.00% | ~28,193 |
+| The Smuggler | 6.00% | ~28,193 |
+| The Crazy Repairman | 6.00% | ~28,193 |
+| The Weasel | 6.00% | ~28,193 |
 | Kill the Doctor | 5.00% | ~23,494 |
 | Forsaken | 5.00% | ~23,494 |
 | Mercy | 5.00% | ~23,494 |
 | Jericho Rule | 5.00% | ~23,494 |
 | Geno Rule | 3.00% | ~14,096 |
 | Hammer Rule | 3.00% | ~14,096 |
-| Survivor | 2.00% | ~9,397 |
+| Survivor | 2.00% | ~9,398 |
 | A Rock in the Dark | 1.00% | ~4,699 |
 | Emperor of Misery | 1.00% | ~4,699 |
 | A Frozen Lady | 1.00% | ~4,699 |
@@ -86,8 +86,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~14 |
 | Kronos Rule | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 469,873 (Ranked 40)  
-Completed: 19 (0.00%) (Ranked 330)  
+Progressed: 469,878 (Ranked 40)  
+Completed: 19 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 19 (0.00%) (Ranked 330)
 | 2023-10-26 | 469,716 | 19 |
 | 2023-10-27 | 469,781 | 19 |
 | 2023-10-28 | 469,856 | 19 |
-| 2023-10-29 | 469,873 | 19 |
+| 2023-10-29 | 469,878 | 19 |
 ## Awards
 Max (Character Customization): 221  (Ranked 272)  
 Sum: 243 (Ranked 377)  
