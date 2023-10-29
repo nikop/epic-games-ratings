@@ -27,10 +27,10 @@ Rating: 3.51 (Ranked 1,026)
 | Sic Transit Umbra | 0.60% | ~11 |
 | Bell-ringer | 0.60% | ~11 |
 | From the Shadows | 0.60% | ~11 |
+| Helping Hand | 0.60% | ~11 |
 | Good Morning | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Harvest’s End | 0.50% | ~9 |
-| Helping Hand | 0.50% | ~9 |
 | Silence Is Golden | 0.40% | ~7 |
 | Contingency Plans | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |

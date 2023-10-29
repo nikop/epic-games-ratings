@@ -4,11 +4,11 @@
   "ProductSlug": "salt-and-sacrifice",
   "Ranking_Rating": 819,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 208,
+  "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -1643,10 +1643,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 1949,
       "NumberOfAwardsMax": 972
+    },
+    {
+      "Time": "2023-10-29T20:01:08.5693854+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 1950,
+      "NumberOfAwardsMax": 972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1949,
+  "NumberOfAwards": 1950,
   "NumberOfAwardsMax": 972,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1690,7 +1696,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1719,7 +1725,7 @@
   ],
   "EOS_Progressed": 66835,
   "EOS_Completed": 1236,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -12872,9 +12878,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2023-10-24T21:00:50.1598873+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:03:11.5580303+00:00",
+  "LastChanged": "2023-10-29T20:01:08.5693852+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:03:35.1091307+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.3127956+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:00:55.8626807+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:03:11.558161+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:01:08.5693858+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:03:35.1092505+00:00"
 }

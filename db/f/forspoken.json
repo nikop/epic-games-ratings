@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42357,
+  "EOS_Progressed": 42359,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11521,6 +11521,11 @@
       "Time": "2023-10-29T19:05:01.7477751+00:00",
       "NumProgressed": 42357,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-29T20:05:05.5825583+00:00",
+      "NumProgressed": 42359,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11724,7 +11729,7 @@
       "Name": "Leapfrogger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -11796,7 +11801,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "MAGIC_TANTA",
@@ -11820,7 +11825,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -11844,7 +11849,7 @@
       "Name": "Hell of a Run",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -11860,7 +11865,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -11884,7 +11889,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "STAYING_AIR",
@@ -11955,22 +11960,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42357,
+      "Progressed": 42359,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7194,
-      "Completed": 7194
+      "Progressed": 7196,
+      "Completed": 7196
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-10-22T16:00:04.8217247+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:05:01.7477745+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:05:05.5825578+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.7285192+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:57:27.8502371+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:05:01.7479036+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:57:36.9342592+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:05:05.5826795+00:00"
 }

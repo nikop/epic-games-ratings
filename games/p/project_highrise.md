@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 60.00% | ~206 |
-| Starting Skyward | 55.00% | ~189 |
-| Grime is Not Good | 49.00% | ~169 |
-| Floor Galore | 42.00% | ~144 |
-| Dinner Dash | 42.00% | ~144 |
+| In the Black | 60.00% | ~207 |
+| Starting Skyward | 55.00% | ~190 |
+| Grime is Not Good | 48.00% | ~166 |
+| Floor Galore | 42.00% | ~145 |
 | Campaign Launch | 41.00% | ~141 |
-| Need a Consult | 39.00% | ~134 |
+| Dinner Dash | 41.00% | ~141 |
+| Need a Consult | 39.00% | ~135 |
 | It's Technical | 38.00% | ~131 |
-| Upgrade Unlock | 37.00% | ~127 |
-| Delegate Maintenance | 35.00% | ~120 |
+| Upgrade Unlock | 37.00% | ~128 |
+| Delegate Maintenance | 35.00% | ~121 |
 | Proper Walls | 33.00% | ~114 |
 | Destination Destiny | 32.00% | ~110 |
 | Happy Tenants | 27.00% | ~93 |
-| Potent Potables | 26.00% | ~89 |
-| Smooth Service | 26.00% | ~89 |
+| Potent Potables | 26.00% | ~90 |
+| Smooth Service | 26.00% | ~90 |
 | Your Prestige is Rising | 25.00% | ~86 |
 | Retail Revenue | 25.00% | ~86 |
 | Don't Feel a Loan | 23.00% | ~79 |
@@ -28,12 +28,12 @@
 | Emporium Empire | 21.00% | ~72 |
 | Leveled Up Shops | 21.00% | ~72 |
 | Get Electrified | 21.00% | ~72 |
-| Rehab Expert | 19.00% | ~65 |
-| Tasty Profits | 19.00% | ~65 |
-| We Don't Need No Education | 19.00% | ~65 |
+| Rehab Expert | 19.00% | ~66 |
+| Tasty Profits | 19.00% | ~66 |
+| We Don't Need No Education | 19.00% | ~66 |
 | Established Fame | 18.00% | ~62 |
-| Under One Roof | 17.00% | ~58 |
-| Cashflow Chief | 17.00% | ~58 |
+| Under One Roof | 17.00% | ~59 |
+| Cashflow Chief | 17.00% | ~59 |
 | Starred Dining | 16.00% | ~55 |
 | Smooth Operator | 14.00% | ~48 |
 | Boutique Benefits | 14.00% | ~48 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344 (Ranked 313)  
+Progressed: 345 (Ranked 313)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-01 | 341 | 0 |
 | 2023-10-24 | 342 | 0 |
 | 2023-10-27 | 343 | 0 |
-| 2023-10-29 | 344 | 0 |
+| 2023-10-29 | 345 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14292,10 +14292,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 333523,
       "NumberOfAwardsMax": 102677
+    },
+    {
+      "Time": "2023-10-29T19:57:32.8169562+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 333638,
+      "NumberOfAwardsMax": 102677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 333523,
+  "NumberOfAwards": 333638,
   "NumberOfAwardsMax": 102677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14369,12 +14375,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 11869
+      "Count": 11984
     }
   ],
-  "EOS_Progressed": 894484,
+  "EOS_Progressed": 894490,
   "EOS_Completed": 2733,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36182,6 +36188,11 @@
       "Time": "2023-10-29T19:03:41.5255731+00:00",
       "NumProgressed": 894484,
       "NumCompleted": 2733
+    },
+    {
+      "Time": "2023-10-29T20:04:05.1360486+00:00",
+      "NumProgressed": 894490,
+      "NumCompleted": 2733
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36424,9 +36435,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5367
+      "UsersEstimate": 6261
     },
     {
       "ID": "TheLovers",
@@ -36536,9 +36547,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 4472
+      "UsersEstimate": 5367
     },
     {
       "ID": "All the President\u0027s Men",
@@ -36713,21 +36724,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894484,
+      "Progressed": 894490,
       "Completed": 2733
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23107,
+      "Progressed": 23113,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-29T15:57:41.0110508+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:03:41.5255725+00:00",
+  "LastChanged": "2023-10-29T19:57:32.816956+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:04:05.1360482+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:57:24.6624152+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:03:41.5257792+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:57:32.8169568+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:04:05.1362469+00:00"
 }

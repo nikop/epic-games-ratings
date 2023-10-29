@@ -10,12 +10,12 @@
 | The Preacher's fate | 16.00% | ~53 |
 | A new dawn | 14.00% | ~47 |
 | I did it | 13.00% | ~43 |
+| Peace walker | 13.00% | ~43 |
 | Cable guy | 13.00% | ~43 |
 | True G3M4R | 13.00% | ~43 |
 | Scholar | 13.00% | ~43 |
 | The darkness | 13.00% | ~43 |
 | One last step | 13.00% | ~43 |
-| Peace walker | 12.00% | ~40 |
 | A good beginning | 12.00% | ~40 |
 | Half the way | 12.00% | ~40 |
 | Champollion | 12.00% | ~40 |
@@ -30,7 +30,7 @@
 | For its own good | 6.00% | ~20 |
 | Fashion victim | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 316)  
+Progressed: 333 (Ranked 317)  
 Completed: 22 (6.61%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

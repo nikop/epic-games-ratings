@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-10-29T18:05:32.860931+00:00",
       "NumProgressed": 215,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-29T20:05:13.4914629+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -339,9 +344,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "book_em_danny",
@@ -421,7 +426,7 @@
       "Name": "Patient Listener",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "play_it_again_sam",
@@ -437,7 +442,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "poetent",
@@ -469,7 +474,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "the_big_sleep",
@@ -483,9 +488,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "voyeur",
@@ -508,7 +513,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 2
     }
   ],
@@ -516,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:05:09.6143362+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:05:13.4914624+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.5381847+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:59:10.0803962+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:05:09.614356+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:59:23.1284901+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:05:13.4914795+00:00"
 }

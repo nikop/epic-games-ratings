@@ -5,7 +5,7 @@
   "Ranking_Rating": 270,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 139,
-  "Ranking_EOS_Progress": 67,
+  "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 82,
@@ -1796,11 +1796,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 4810,
       "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2023-10-29T19:57:54.9948554+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4811,
+      "NumberOfAwardsMax": 569
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4810,
-  "NumberOfAwardsMax": 568,
+  "NumberOfAwards": 4811,
+  "NumberOfAwardsMax": 569,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1837,7 +1843,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 568
+      "Count": 569
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1870,9 +1876,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210764,
+  "EOS_Progressed": 210768,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1370,
+  "EOS_NewPlayers": 1350,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23780,6 +23786,11 @@
       "Time": "2023-10-29T19:05:37.5154065+00:00",
       "NumProgressed": 210764,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-29T20:05:41.7813385+00:00",
+      "NumProgressed": 210768,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23791,7 +23802,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21077
     },
     {
       "ID": "AtheistOx",
@@ -23879,7 +23890,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "HighFiveTheMoon",
@@ -23895,7 +23906,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "ItsRainingMen",
@@ -23911,7 +23922,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "Mercyful",
@@ -24079,7 +24090,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21077
     },
     {
       "ID": "TimeParadox",
@@ -24135,22 +24146,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210764,
+      "Progressed": 210768,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-10-28T15:57:21.1785447+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:05:37.515406+00:00",
+  "LastChanged": "2023-10-29T19:57:54.9948552+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:05:41.7813379+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:57:42.8641725+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:05:37.5156036+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:57:54.9948558+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:05:41.7815175+00:00"
 }

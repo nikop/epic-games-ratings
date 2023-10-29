@@ -2,10 +2,10 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -1657,6 +1657,6 @@
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
   "LastChanged_Achievements": "2023-10-29T19:07:35.0120043+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:22.4972305+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:00:08.7410261+00:00",
+  "LastUpdate_Ratings": "2023-10-29T20:00:23.370241+00:00",
   "LastUpdate_Achievements": "2023-10-29T19:07:35.0120374+00:00"
 }

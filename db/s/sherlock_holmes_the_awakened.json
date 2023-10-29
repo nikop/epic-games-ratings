@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 767,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
@@ -2890,6 +2890,11 @@
       "Time": "2023-10-29T18:06:40.6001567+00:00",
       "NumProgressed": 766,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-29T20:06:49.0908861+00:00",
+      "NumProgressed": 767,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2917,7 +2922,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "MQ02_2",
@@ -2939,9 +2944,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 437
+      "UsersEstimate": 430
     },
     {
       "ID": "MQ03_1",
@@ -2955,9 +2960,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 360
     },
     {
       "ID": "MQ03_3",
@@ -2965,7 +2970,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "MQ03_4",
@@ -2979,9 +2984,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 398
+      "UsersEstimate": 407
     },
     {
       "ID": "MQ04_1",
@@ -2997,7 +3002,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "MQ04_3",
@@ -3005,7 +3010,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "MQ05_1",
@@ -3021,7 +3026,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "MQ05_3",
@@ -3061,7 +3066,7 @@
       "Name": "Land, Ho!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "MQ06_4",
@@ -3083,9 +3088,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 345
+      "UsersEstimate": 337
     },
     {
       "ID": "MQ08_1",
@@ -3109,7 +3114,7 @@
       "Name": "Fhtagn!",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "PLTN",
@@ -3124,7 +3129,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 767,
       "Completed": 26
     }
   ],
@@ -3132,8 +3137,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:06:15.6449567+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:06:49.0908857+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:00:48.40157+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:06:15.6449941+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:01:03.3210291+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:06:49.0909265+00:00"
 }

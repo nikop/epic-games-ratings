@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 61.00% | ~17 |
-| Wanderer | 54.00% | ~15 |
+| Wanderer | 57.00% | ~16 |
 | Do what you have to | 39.00% | ~11 |
 | A piece of the story | 39.00% | ~11 |
 | Finished it | 36.00% | ~10 |
@@ -14,7 +14,7 @@
 | Scraps of love | 25.00% | ~7 |
 | Sign of weakness | 25.00% | ~7 |
 | It's covered up for a reason | 21.00% | ~6 |
-| First steps | 14.00% | ~4 |
+| First steps | 18.00% | ~5 |
 | Playtime | 14.00% | ~4 |
 | The tragedy unfolds | 14.00% | ~4 |
 | Tough conversation | 14.00% | ~4 |

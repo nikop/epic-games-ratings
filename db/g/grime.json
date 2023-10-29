@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 439,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1217,6 +1217,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 329,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-10-29T19:57:23.2354604+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 329,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
@@ -1279,9 +1285,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155437,
+  "EOS_Progressed": 155450,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1420,
+  "EOS_NewPlayers": 1417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13559,6 +13565,11 @@
       "Time": "2023-10-29T19:05:07.5109733+00:00",
       "NumProgressed": 155437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T20:05:11.3876996+00:00",
+      "NumProgressed": 155450,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13634,7 +13645,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13714,7 +13725,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -13722,7 +13733,7 @@
       "Name": "Jawstag",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -13754,7 +13765,7 @@
       "Name": "Watcher",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -13786,7 +13797,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13937,21 +13948,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155020,
+      "Progressed": 155033,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155437,
+      "Progressed": 155450,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-29T15:57:32.0395525+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:05:07.5109726+00:00",
+  "LastChanged": "2023-10-29T19:57:23.2354602+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:05:11.3876992+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:57:17.420459+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:05:07.5111153+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:57:23.2354608+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:05:11.388129+00:00"
 }

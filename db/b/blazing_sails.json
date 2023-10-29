@@ -2,13 +2,13 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1007,
-  "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 281,
+  "Ranking_Rating": 1006,
+  "Ranking_Popularity": 320,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.86,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -621,12 +621,18 @@
       "Rating": 3.85,
       "NumberOfAwards": 742,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2023-10-29T20:00:29.811722+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 775,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 742,
-  "NumberOfAwardsMax": 115,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 775,
+  "NumberOfAwardsMax": 130,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -656,7 +662,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 112
+      "Count": 130
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -680,7 +686,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 85
+      "Count": 100
     },
     {
       "Text": "This game has a Competitive Community",
@@ -701,8 +707,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-29T18:00:41.3158939+00:00",
+  "LastChanged": "2023-10-29T20:00:29.8117219+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:29.5059424+00:00",
-  "LastUpdate_Ratings": "2023-10-29T19:00:15.7589713+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:07:53.3185431+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:00:29.8117224+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:08:45.1761476+00:00"
 }

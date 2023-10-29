@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 565,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -801,9 +801,9 @@
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 203
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1018,8 +1018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:07:52.5720756+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:08:44.5725837+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:37.7430888+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:59:11.1818063+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:07:52.5721206+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:59:25.1681757+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:08:44.5726126+00:00"
 }

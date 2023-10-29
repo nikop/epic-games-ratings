@@ -10,6 +10,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 1.00% | ~8,945 |
 | Ten out of Ten | 0.80% | ~7,156 |
 | Full Body Conversion | 0.70% | ~6,261 |
+| The High Priestess | 0.70% | ~6,261 |
 | True Soldier | 0.70% | ~6,261 |
 | Relic Ruler | 0.70% | ~162 |
 | All the President's Men | 0.70% | ~162 |
@@ -18,12 +19,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
 | The Hermit | 0.60% | ~5,367 |
-| The High Priestess | 0.60% | ~5,367 |
+| Legend of The Afterlife | 0.60% | ~5,367 |
 | The Quick and the Dead | 0.50% | ~4,472 |
 | The Wheel of Fortune | 0.50% | ~4,472 |
 | True Warrior | 0.50% | ~4,472 |
 | Two Heads, One Bullet | 0.50% | ~4,472 |
-| Legend of The Afterlife | 0.50% | ~4,472 |
 | Spin Doctor | 0.50% | ~116 |
 | Bushido and Chill | 0.40% | ~3,578 |
 | Gunslinger | 0.40% | ~3,578 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,484 (Ranked 15)  
+Progressed: 894,490 (Ranked 15)  
 Completed: 2,733 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 2,733 (0.31%) (Ranked 212)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,484 | 2,733 |
+| 2023-10-29 | 894,490 | 2,733 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
-Sum: 333,523 (Ranked 10)  
+Sum: 333,638 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 17,872 |
 | This game is Relaxing | 17,282 |
 | This game has Quickly Understood Controls | 17,184 |
-| This game has a Creative Community | 11,869 |
+| This game has a Creative Community | 11,984 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -568,4 +568,4 @@ Diff (max vs sum): -1
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
-| 2023-10-29 | 4.64 | - | 102,677 | 333,523 |
+| 2023-10-29 | 4.64 | - | 102,677 | 333,638 |

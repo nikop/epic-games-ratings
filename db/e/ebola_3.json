@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1189,9 +1189,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "achBett",
@@ -1365,9 +1365,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "achLizun",
@@ -1574,8 +1574,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:06:10.7542028+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:06:44.5080649+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:14.8419976+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:57:16.7134728+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:06:10.7542649+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:57:20.2935611+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:06:44.508118+00:00"
 }

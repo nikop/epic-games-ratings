@@ -4,8 +4,8 @@
   "ProductSlug": "monsters-of-mican-02e3ee",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-27T12:00:00+00:00",
     "PcReleaseDate": "2023-10-27T12:00:00+00:00",
@@ -223,8 +223,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:03:30.1011692+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:03:53.7198941+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:21.9513911+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:59:46.2409814+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:03:30.1011836+00:00"
+  "LastUpdate_Ratings": "2023-10-29T20:00:01.2651961+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:03:53.7199077+00:00"
 }

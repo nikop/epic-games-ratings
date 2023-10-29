@@ -11,7 +11,7 @@
 | Now you know | 53.00% | ~299 |
 | Short circuit | 53.00% | ~299 |
 | Curious | 42.00% | ~237 |
-| Everybody lies | 35.00% | ~198 |
+| Everybody lies | 36.00% | ~203 |
 | Trick or Treat? | 23.00% | ~130 |
 | There is another way | 22.00% | ~124 |
 | Sysadmin | 21.00% | ~119 |

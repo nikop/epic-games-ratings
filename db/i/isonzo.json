@@ -4,11 +4,11 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 478,
   "Ranking_Popularity": 460,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7092,
+  "EOS_Progressed": 7093,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6339,6 +6339,11 @@
       "Time": "2023-10-29T14:07:31.0497861+00:00",
       "NumProgressed": 7092,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-29T20:07:10.2757483+00:00",
+      "NumProgressed": 7093,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6350,7 +6355,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -6366,7 +6371,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3404
+      "UsersEstimate": 3405
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6462,7 +6467,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -6478,7 +6483,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -6558,7 +6563,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6709,7 +6714,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7092,
+      "Progressed": 7093,
       "Completed": 9
     }
   ],
@@ -6717,8 +6722,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-10-29T04:58:39.1460571+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:06:37.1664201+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:07:10.2757479+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.4558053+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:58:57.6009898+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:06:37.1665321+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:59:08.4599892+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:07:10.2758225+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8334,9 +8334,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64133,
+  "EOS_Progressed": 64135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28634,6 +28634,11 @@
       "Time": "2023-10-29T19:08:29.2706391+00:00",
       "NumProgressed": 64133,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T20:09:00.3887556+00:00",
+      "NumProgressed": 64135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28653,7 +28658,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10261
+      "UsersEstimate": 10262
     },
     {
       "ID": "Bannerlord",
@@ -28725,7 +28730,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "Dynasty",
@@ -28733,7 +28738,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "Entrepreneur",
@@ -28773,7 +28778,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8337
+      "UsersEstimate": 8338
     },
     {
       "ID": "Great Granny",
@@ -28813,7 +28818,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10261
+      "UsersEstimate": 10262
     },
     {
       "ID": "I spit on your grave",
@@ -28821,7 +28826,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "Jack of All Trades",
@@ -28869,7 +28874,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21164
+      "UsersEstimate": 21165
     },
     {
       "ID": "Lawbringer",
@@ -28877,7 +28882,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25012
+      "UsersEstimate": 25013
     },
     {
       "ID": "Lawmaker",
@@ -28989,7 +28994,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "The king is pleased",
@@ -28997,7 +29002,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12185
+      "UsersEstimate": 12186
     },
     {
       "ID": "This Is Our Land",
@@ -29005,7 +29010,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8337
+      "UsersEstimate": 8338
     },
     {
       "ID": "This is Sparta",
@@ -29045,22 +29050,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64133,
+      "Progressed": 64135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-29T14:58:12.4291484+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:08:29.2706386+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:09:00.3887549+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:57:49.3391577+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:08:29.2708995+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:58:02.8618774+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:09:00.389021+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 4.00% | ~601 |
 | Settler | 4.00% | ~601 |
+| Friendly Family | 4.00% | ~601 |
 | Play a Single Player Game | 4.00% | ~601 |
 | Able | 3.00% | ~451 |
 | Architect | 3.00% | ~451 |
@@ -15,7 +16,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 3.00% | ~451 |
 | Mason | 3.00% | ~451 |
 | Strong | 3.00% | ~451 |
-| Friendly Family | 3.00% | ~451 |
 | Hanging Gardens | 3.00% | ~451 |
 | Ambitious | 2.00% | ~301 |
 | Brilliant | 2.00% | ~301 |
@@ -134,6 +134,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.60% | ~90 |
 | Bad Heir Day | 0.50% | ~75 |
 | Ishtar Gate in Babylon | 0.50% | ~75 |
+| Carthage - Ox Hide | 0.50% | ~75 |
 | Devout | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Cao'an | 0.50% | ~75 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
-| Carthage - Ox Hide | 0.40% | ~60 |
 | Old | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,031 (Ranked 142)  
+Progressed: 15,032 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,031 | 5 |
+| 2023-10-29 | 15,032 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

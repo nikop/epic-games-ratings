@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469924,
+  "EOS_Progressed": 469927,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20751,6 +20751,11 @@
       "Time": "2023-10-29T19:09:02.8905902+00:00",
       "NumProgressed": 469924,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-29T20:09:34.7239374+00:00",
+      "NumProgressed": 469927,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20786,7 +20791,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103383
+      "UsersEstimate": 103384
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20802,7 +20807,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46992
+      "UsersEstimate": 46993
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20818,7 +20823,7 @@
       "Name": "Chapter V: Memories of None",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_story_ending_earth",
@@ -20850,7 +20855,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310150
+      "UsersEstimate": 310152
     },
     {
       "ID": "achievement_story_landa",
@@ -20882,7 +20887,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117481
+      "UsersEstimate": 117482
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -20890,7 +20895,7 @@
       "Name": "Meet your maker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -20946,7 +20951,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159774
+      "UsersEstimate": 159775
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -20970,7 +20975,7 @@
       "Name": "The Impersonator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -20978,7 +20983,7 @@
       "Name": "The Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_church_1",
@@ -20986,7 +20991,7 @@
       "Name": "The Evangelist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -20994,7 +20999,7 @@
       "Name": "The Inquisitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -21010,7 +21015,7 @@
       "Name": "The Ace Pilot",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -21018,7 +21023,7 @@
       "Name": "The Tech Med",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -21026,7 +21031,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -21034,7 +21039,7 @@
       "Name": "The lucky charm",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -21042,7 +21047,7 @@
       "Name": "The Anonymous",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -21050,7 +21055,7 @@
       "Name": "The Smuggler",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -21058,7 +21063,7 @@
       "Name": "The Crazy Repairman",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -21066,7 +21071,7 @@
       "Name": "The Weasel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 28195
+      "UsersEstimate": 28196
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
@@ -21186,7 +21191,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206767
+      "UsersEstimate": 206768
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21194,7 +21199,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140977
+      "UsersEstimate": 140978
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21202,7 +21207,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9398
+      "UsersEstimate": 9399
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -21218,7 +21223,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183270
+      "UsersEstimate": 183272
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21274,7 +21279,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103383
+      "UsersEstimate": 103384
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21393,21 +21398,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13858,
+      "Progressed": 13861,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469924,
+      "Progressed": 469927,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-29T19:09:02.8905899+00:00",
+  "LastChanged_Achievements": "2023-10-29T20:09:34.7239368+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-29T18:59:16.8736418+00:00",
-  "LastUpdate_Achievements": "2023-10-29T19:09:02.890804+00:00"
+  "LastUpdate_Ratings": "2023-10-29T19:59:33.6201858+00:00",
+  "LastUpdate_Achievements": "2023-10-29T20:09:34.7241353+00:00"
 }

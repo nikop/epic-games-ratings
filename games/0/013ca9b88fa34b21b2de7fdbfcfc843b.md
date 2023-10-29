@@ -5,23 +5,23 @@ Rating: 4.61 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,275 |
-| A Thorny Situation | 70.00% | ~5,128 |
-| ... And Spit Back Out | 60.00% | ~4,396 |
-| Break-Net Speed | 48.00% | ~3,516 |
-| Bramble Breaker | 46.00% | ~3,370 |
-| Miner 49er | 43.00% | ~3,150 |
-| Humble Collector | 42.00% | ~3,077 |
-| Calm Sailing | 36.00% | ~2,637 |
-| Open the Gate! | 33.00% | ~2,418 |
-| Mist Walker | 31.00% | ~2,271 |
-| Lumberjack | 26.00% | ~1,905 |
-| Oui, Chef! | 23.00% | ~1,685 |
+| Azoria Beckons | 72.00% | ~5,277 |
+| A Thorny Situation | 70.00% | ~5,130 |
+| ... And Spit Back Out | 60.00% | ~4,397 |
+| Break-Net Speed | 49.00% | ~3,591 |
+| Bramble Breaker | 46.00% | ~3,371 |
+| Miner 49er | 43.00% | ~3,151 |
+| Humble Collector | 42.00% | ~3,078 |
+| Calm Sailing | 36.00% | ~2,638 |
+| Open the Gate! | 33.00% | ~2,419 |
+| Mist Walker | 31.00% | ~2,272 |
+| Lumberjack | 26.00% | ~1,906 |
+| Oui, Chef! | 23.00% | ~1,686 |
 | Clear the Air | 18.00% | ~1,319 |
-| Botanical Breakthrough | 17.00% | ~1,245 |
-| Search for the Hairy Grell | 13.00% | ~952 |
-| Beach Comber | 13.00% | ~952 |
-| Higher Tax Bracket | 13.00% | ~952 |
+| Botanical Breakthrough | 17.00% | ~1,246 |
+| Search for the Hairy Grell | 13.00% | ~953 |
+| Beach Comber | 13.00% | ~953 |
+| Higher Tax Bracket | 13.00% | ~953 |
 | Flaming Hot Completos | 8.00% | ~586 |
 | Got to Catch Them All | 8.00% | ~586 |
 | Rumble in the Jumble | 8.00% | ~586 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 379)
 | Very Skilled | 0.20% | ~15 |
 | Workaholic | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,326 (Ranked 167)  
+Progressed: 7,329 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-26 | 7,198 | 0 |
 | 2023-10-27 | 7,234 | 0 |
 | 2023-10-28 | 7,276 | 0 |
-| 2023-10-29 | 7,326 | 0 |
+| 2023-10-29 | 7,329 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
