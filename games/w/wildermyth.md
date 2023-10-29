@@ -15,14 +15,14 @@ Number of Ratings: 45  (23.09.2022)
 | This Too Shall Pass | 0.80% | ~12 |
 | Daybreak | 0.80% | ~12 |
 | Let Me Get My Chisel | 0.40% | ~6 |
+| War Endured | 0.40% | ~6 |
+| Core Failure | 0.40% | ~6 |
 | Completing the Look | 0.30% | ~4 |
 | Who's Counting? | 0.30% | ~4 |
 | Thematic Divergence | 0.30% | ~4 |
 | Pyrrhic Victory | 0.30% | ~4 |
-| War Endured | 0.30% | ~4 |
 | Echoes Die | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |
-| Core Failure | 0.30% | ~4 |
 | Empty the Caves | 0.20% | ~3 |
 | A Mythic Menagerie | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |

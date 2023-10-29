@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3790,
+  "EOS_Progressed": 3791,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7516,6 +7516,11 @@
       "Time": "2023-10-28T15:07:04.6431106+00:00",
       "NumProgressed": 3790,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-29T01:50:59.3935903+00:00",
+      "NumProgressed": 3791,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7527,7 +7532,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7605,9 +7610,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1782
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7751,7 +7756,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7759,7 +7764,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7775,7 +7780,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7783,7 +7788,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7791,7 +7796,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7903,7 +7908,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7919,7 +7924,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7999,7 +8004,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8094,13 +8099,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3741,
+      "Progressed": 3742,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3790,
+      "Progressed": 3791,
       "Completed": 11
     }
   ],
@@ -8108,8 +8113,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:05:28.0205479+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:50:59.3935898+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:58:42.655206+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:05:28.0206625+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:44:02.1410435+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:50:59.3937084+00:00"
 }

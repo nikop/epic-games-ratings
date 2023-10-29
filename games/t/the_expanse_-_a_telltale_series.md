@@ -14,11 +14,11 @@ Rating: 4.60 (Ranked 404)
 | Spore Taste | 0.50% | ~72 |
 | Martian Music | 0.50% | ~72 |
 | Drone Dodger | 0.50% | ~72 |
+| Heal Thy Medic | 0.50% | ~72 |
 | Call it Even | 0.50% | ~72 |
 | Impossible Objects | 0.50% | ~72 |
 | Data Archivist | 0.40% | ~58 |
 | Stogie for Fogey | 0.40% | ~58 |
-| Heal Thy Medic | 0.40% | ~58 |
 | Khan's Revenge | 0.40% | ~58 |
 | Doctor Approved | 0.30% | ~43 |
 | Thorston Mayer | 0.30% | ~43 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 404)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,430 (Ranked 145)  
+Progressed: 14,433 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 28 (0.19%) (Ranked 236)
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
 | 2023-10-28 | 14,430 | 28 |
+| 2023-10-29 | 14,433 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

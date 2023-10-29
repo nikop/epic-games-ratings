@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1535,
+  "EOS_Progressed": 1536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3602,6 +3602,11 @@
       "Time": "2023-10-28T21:09:01.1738662+00:00",
       "NumProgressed": 1535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T01:54:01.4778724+00:00",
+      "NumProgressed": 1536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3621,7 +3626,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -3629,7 +3634,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3675,9 +3680,9 @@
       "ID": "CHAOS_THEORY",
       "SetID": "9a4jnji",
       "Name": "Chaos Theory",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 230
     },
     {
       "ID": "COMMANDO",
@@ -3733,7 +3738,7 @@
       "Name": "Jarhead",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -3741,7 +3746,7 @@
       "Name": "Dressed To Kill",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "DR_JONES",
@@ -3757,7 +3762,7 @@
       "Name": "Editor Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "ENDGAME",
@@ -3765,7 +3770,7 @@
       "Name": "Endgame",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "EXORCIST",
@@ -3773,7 +3778,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "EXPERIENCED",
@@ -3781,7 +3786,7 @@
       "Name": "Experienced",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "FIRESTARTER",
@@ -3789,7 +3794,7 @@
       "Name": "Firestarter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3797,7 +3802,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3821,7 +3826,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "GIANT_KILLER",
@@ -3845,7 +3850,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3861,7 +3866,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "INFILTRATOR",
@@ -3901,7 +3906,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -3917,7 +3922,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "RECYCLER",
@@ -3941,7 +3946,7 @@
       "Name": "Savior",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "SENSEI",
@@ -3997,7 +4002,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "THE_WATCHERS",
@@ -4013,14 +4018,14 @@
       "Name": "Wipe Out",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1535,
+      "Progressed": 1536,
       "Completed": 0
     }
   ],
@@ -4028,8 +4033,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:08:47.7811451+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:54:01.4778714+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:57:57.8877098+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:08:47.7812093+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:43:14.470921+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:54:01.4779394+00:00"
 }

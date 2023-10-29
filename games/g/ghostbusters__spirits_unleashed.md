@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,406 |
+| Stylish | 5.00% | ~1,407 |
 | Advancement | 4.00% | ~1,125 |
 | Meticulously Efficient | 4.00% | ~1,125 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~844 |
@@ -15,19 +15,19 @@ Rating: 4.50 (Ranked 579)
 | Swift Rift Removers | 3.00% | ~844 |
 | Teamwork | 3.00% | ~844 |
 | Vaporous Expansion | 3.00% | ~844 |
-| Animated | 2.00% | ~562 |
-| Back Off | 2.00% | ~562 |
-| Clutch Capture | 2.00% | ~562 |
-| Cultured | 2.00% | ~562 |
-| Daily Dose | 2.00% | ~562 |
-| Ectoplasmic Entity | 2.00% | ~562 |
-| Ghostbuster In Training | 2.00% | ~562 |
-| Icing on the Cake | 2.00% | ~562 |
-| Right back at ya | 2.00% | ~562 |
-| Side Hustle | 2.00% | ~562 |
-| Summoner | 2.00% | ~562 |
-| There you are! | 2.00% | ~562 |
-| Whoopsie | 2.00% | ~562 |
+| Animated | 2.00% | ~563 |
+| Back Off | 2.00% | ~563 |
+| Clutch Capture | 2.00% | ~563 |
+| Cultured | 2.00% | ~563 |
+| Daily Dose | 2.00% | ~563 |
+| Ectoplasmic Entity | 2.00% | ~563 |
+| Ghostbuster In Training | 2.00% | ~563 |
+| Icing on the Cake | 2.00% | ~563 |
+| Right back at ya | 2.00% | ~563 |
+| Side Hustle | 2.00% | ~563 |
+| Summoner | 2.00% | ~563 |
+| There you are! | 2.00% | ~563 |
+| Whoopsie | 2.00% | ~563 |
 | We have the best insurance | 1.00% | ~281 |
 | Collector | 1.00% | ~281 |
 | Escape Artist | 1.00% | ~281 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 579)
 | Fragile Panes | 0.60% | ~169 |
 | Liability | 0.60% | ~169 |
 | Surprise! | 0.60% | ~169 |
-| Therapeutic | 0.40% | ~112 |
+| Therapeutic | 0.40% | ~113 |
 | Master Collector | 0.30% | ~84 |
 | Rift Seeker | 0.30% | ~84 |
 | Ghost Expert | 0.20% | ~56 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,120 (Ranked 123)  
+Progressed: 28,133 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,14 +249,14 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
-| 2023-10-29 | 28,120 | 65 |
+| 2023-10-29 | 28,133 | 65 |
 ## Awards
-Max (Great for Beginners): 288  (Ranked 248)  
-Sum: 2,585 (Ranked 181)  
-Diff (max vs sum): 67  
+Max (Great for Beginners): 293  (Ranked 245)  
+Sum: 2,590 (Ranked 181)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 288 |
+| This game is Great for Beginners | 293 |
 | This game is Great for Quick Sessions | 282 |
 | This game has Diverse Characters | 260 |
 | This game has Amazing Storytelling | 260 |
@@ -466,3 +466,4 @@ Diff (max vs sum): 67
 | 2023-10-26 | 4.50 | 286 | 2,560 |
 | 2023-10-27 | 4.50 | 288 | 2,572 |
 | 2023-10-28 | 4.50 | 288 | 2,585 |
+| 2023-10-29 | 4.50 | 293 | 2,590 |

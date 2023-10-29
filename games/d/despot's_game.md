@@ -5,26 +5,26 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 85.00% | ~367 |
-| Vanquisher of Robots | 76.00% | ~328 |
+| Good start! | 85.00% | ~368 |
+| Vanquisher of Robots | 76.00% | ~329 |
 | Party | 49.00% | ~212 |
-| Impossible Cube | 47.00% | ~203 |
-| Knowledge is Power | 45.00% | ~194 |
+| Impossible Cube | 47.00% | ~204 |
+| Knowledge is Power | 45.00% | ~195 |
 | No Mercy | 43.00% | ~186 |
 | Through the Darkness | 43.00% | ~186 |
-| The Return of a Rat | 42.00% | ~181 |
+| The Return of a Rat | 42.00% | ~182 |
 | Fat of the Earth | 36.00% | ~156 |
-| Last Man Standing | 32.00% | ~138 |
+| Last Man Standing | 32.00% | ~139 |
 | He's Seen It All | 28.00% | ~121 |
 | Great Hero | 28.00% | ~121 |
 | Catch Jonathan_tostar | 27.00% | ~117 |
 | Rookie | 27.00% | ~117 |
-| Campaigning | 26.00% | ~112 |
-| Assemble a Meganewbie | 26.00% | ~112 |
+| Campaigning | 26.00% | ~113 |
+| Assemble a Meganewbie | 26.00% | ~113 |
 | Frugal | 22.00% | ~95 |
 | Feed a God | 22.00% | ~95 |
-| To the Moon and Back | 20.00% | ~86 |
-| Great Flight | 19.00% | ~82 |
+| To the Moon and Back | 20.00% | ~87 |
+| Great Flight | 18.00% | ~78 |
 | Holy Vengeance | 16.00% | ~69 |
 | Honorary Cultist | 13.00% | ~56 |
 | Brain and Brawn | 12.00% | ~52 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 579)
 | Vet | 0.90% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 302)  
+Progressed: 433 (Ranked 302)  
 Completed: 1 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 1 (0.23%) (Ranked 226)
 | 2023-10-07 | 430 | 1 |
 | 2023-10-18 | 431 | 1 |
 | 2023-10-25 | 432 | 1 |
+| 2023-10-29 | 433 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

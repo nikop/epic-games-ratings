@@ -15,9 +15,9 @@ Number of Ratings: 111  (23.09.2022)
 | Plastic Surgeon | 10.00% | ~304 |
 | The flip trick crown jewel | 10.00% | ~304 |
 | The hard way | 10.00% | ~304 |
+| Upfront shredder | 10.00% | ~304 |
 | Good vibes | 9.00% | ~274 |
 | Keep the dream alive | 9.00% | ~274 |
-| Upfront shredder | 9.00% | ~274 |
 | Bottom ply killer | 7.00% | ~213 |
 | Fashionista | 7.00% | ~213 |
 | Finally he zips it | 7.00% | ~213 |

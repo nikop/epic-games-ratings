@@ -6,7 +6,7 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -14250,10 +14250,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 331609,
       "NumberOfAwardsMax": 102340
+    },
+    {
+      "Time": "2023-10-29T01:42:22.2685133+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 331767,
+      "NumberOfAwardsMax": 102340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 331609,
+  "NumberOfAwards": 331767,
   "NumberOfAwardsMax": 102340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14309,7 +14315,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 17026
+      "Count": 17184
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14330,11 +14336,11 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894324,
-  "EOS_Completed": 2727,
+  "EOS_Progressed": 894332,
+  "EOS_Completed": 2728,
   "EOS_NewPlayers": 1150,
-  "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_NewCompleters": 33,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:44.711689+00:00",
@@ -36045,6 +36051,11 @@
       "Time": "2023-10-29T00:03:23.3446375+00:00",
       "NumProgressed": 894324,
       "NumCompleted": 2727
+    },
+    {
+      "Time": "2023-10-29T01:48:48.2809118+00:00",
+      "NumProgressed": 894332,
+      "NumCompleted": 2728
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36351,9 +36362,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5366
+      "UsersEstimate": 6260
     },
     {
       "ID": "TrueWarrior",
@@ -36576,21 +36587,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894324,
-      "Completed": 2727
+      "Progressed": 894332,
+      "Completed": 2728
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22947,
+      "Progressed": 22955,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-28T21:57:01.8036594+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:03:23.3446365+00:00",
+  "LastChanged": "2023-10-29T01:42:22.2685131+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:48:48.2809108+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:57:07.6865743+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:03:23.3448859+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:42:22.2685141+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:48:48.2811065+00:00"
 }

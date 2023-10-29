@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 479,
-  "Ranking_Popularity": 230,
+  "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 203,
@@ -1357,9 +1357,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 13284,
+  "EOS_Progressed": 13286,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13337,6 +13337,11 @@
       "Time": "2023-10-28T20:05:54.626946+00:00",
       "NumProgressed": 13284,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-29T01:51:17.201935+00:00",
+      "NumProgressed": 13286,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13348,7 +13353,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10893
+      "UsersEstimate": 10895
     },
     {
       "ID": "ACH02",
@@ -13404,7 +13409,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6775
+      "UsersEstimate": 6776
     },
     {
       "ID": "ACH09",
@@ -13428,7 +13433,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH12",
@@ -13468,7 +13473,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACH17",
@@ -13627,7 +13632,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13284,
+      "Progressed": 13286,
       "Completed": 50
     }
   ],
@@ -13635,8 +13640,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-28T04:59:25.6368793+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:05:43.6282301+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:51:17.2019336+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:59:02.4931543+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:05:43.6283285+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:44:26.6175789+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:51:17.2020355+00:00"
 }

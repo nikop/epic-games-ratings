@@ -24,12 +24,12 @@
 | The seer | 41.00% | ~13 |
 | Welcome to Hellville | 41.00% | ~13 |
 | The artist | 38.00% | ~12 |
+| You've awakened the beast | 34.00% | ~11 |
+| Hate is... addictive | 34.00% | ~11 |
 | You had one wish left | 34.00% | ~11 |
-| You've awakened the beast | 31.00% | ~10 |
-| Hate is... addictive | 31.00% | ~10 |
 | Blessed antennas | 31.00% | ~10 |
+| The bully | 25.00% | ~8 |
 | The beast in the Oval Office | 22.00% | ~7 |
-| The bully | 22.00% | ~7 |
 | Pulp! The Beyond | 22.00% | ~7 |
 | The barbarian invasions | 22.00% | ~7 |
 | America had no Faith | 22.00% | ~7 |

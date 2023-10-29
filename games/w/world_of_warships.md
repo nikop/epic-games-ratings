@@ -6,38 +6,38 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 81.00% | ~36,812 |
-| Initial Capital | 69.00% | ~31,358 |
-| Moneybags | 47.00% | ~21,360 |
-| Junior Supply Officer | 47.00% | ~21,360 |
-| Naval Warfare. Arson | 35.00% | ~15,906 |
-| Naval Warfare. Ramming | 34.00% | ~15,452 |
-| Amateur | 33.00% | ~14,998 |
-| Naval Constructor | 33.00% | ~14,998 |
-| Naval Warfare. Tactics | 32.00% | ~14,543 |
-| Naval Warfare. Weaponry Basics | 25.00% | ~11,362 |
-| Naval Warfare. Flooding | 21.00% | ~9,544 |
-| Naval Warfare. Lucky Shot | 21.00% | ~9,544 |
-| Business Magnate | 18.00% | ~8,180 |
-| Battle Hero | 17.00% | ~7,726 |
-| Smooth Supply | 15.00% | ~6,817 |
-| Warrior | 14.00% | ~6,363 |
-| Supply Officer | 14.00% | ~6,363 |
-| Veteran | 8.00% | ~3,636 |
-| Legend of the Seas | 4.00% | ~1,818 |
-| Chief Naval Architect | 4.00% | ~1,818 |
-| Shield | 4.00% | ~1,818 |
-| Important Missions | 3.00% | ~1,363 |
-| Bane of the Oceans | 2.00% | ~909 |
-| Senior Supply Officer | 2.00% | ~909 |
-| "Science of Victory" | 2.00% | ~909 |
-| Weather Beaten | 2.00% | ~909 |
-| Special Orders | 2.00% | ~909 |
-| Guardian | 2.00% | ~909 |
-| Protector | 2.00% | ~909 |
-| Exterminator | 2.00% | ~909 |
-| American Cruisers | 2.00% | ~909 |
-| Old-Timer | 1.00% | ~454 |
+| Junior Naval Designer | 81.00% | ~36,849 |
+| Initial Capital | 69.00% | ~31,390 |
+| Moneybags | 47.00% | ~21,382 |
+| Junior Supply Officer | 47.00% | ~21,382 |
+| Naval Warfare. Arson | 35.00% | ~15,923 |
+| Naval Warfare. Ramming | 34.00% | ~15,468 |
+| Amateur | 33.00% | ~15,013 |
+| Naval Constructor | 33.00% | ~15,013 |
+| Naval Warfare. Tactics | 32.00% | ~14,558 |
+| Naval Warfare. Weaponry Basics | 25.00% | ~11,373 |
+| Naval Warfare. Flooding | 21.00% | ~9,554 |
+| Naval Warfare. Lucky Shot | 21.00% | ~9,554 |
+| Business Magnate | 18.00% | ~8,189 |
+| Battle Hero | 17.00% | ~7,734 |
+| Smooth Supply | 15.00% | ~6,824 |
+| Warrior | 14.00% | ~6,369 |
+| Supply Officer | 14.00% | ~6,369 |
+| Veteran | 8.00% | ~3,639 |
+| Legend of the Seas | 4.00% | ~1,820 |
+| Chief Naval Architect | 4.00% | ~1,820 |
+| Shield | 4.00% | ~1,820 |
+| Important Missions | 3.00% | ~1,365 |
+| Bane of the Oceans | 2.00% | ~910 |
+| Senior Supply Officer | 2.00% | ~910 |
+| "Science of Victory" | 2.00% | ~910 |
+| Weather Beaten | 2.00% | ~910 |
+| Special Orders | 2.00% | ~910 |
+| Guardian | 2.00% | ~910 |
+| Protector | 2.00% | ~910 |
+| Exterminator | 2.00% | ~910 |
+| American Cruisers | 2.00% | ~910 |
+| Old-Timer | 1.00% | ~455 |
 | Secret Instructions | 0.80% | ~364 |
 | Raider | 0.80% | ~364 |
 | Experienced One | 0.60% | ~273 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~45 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,447 (Ranked 110)  
+Progressed: 45,493 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,10 +128,10 @@ Completed: 0 (0.00%) (Ranked 330)
 | 2023-10-26 | 44,106 | 0 |
 | 2023-10-27 | 44,725 | 0 |
 | 2023-10-28 | 45,425 | 0 |
-| 2023-10-29 | 45,447 | 0 |
+| 2023-10-29 | 45,493 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,463  (Ranked 131)  
-Sum: 12,230 (Ranked 81)  
+Sum: 12,236 (Ranked 81)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 1,421 |
 | This game is Extremely Fun | 1,406 |
 | This game has Realistic Visuals | 1,280 |
-| This game has Amazing Storytelling | 1,204 |
+| This game has Amazing Storytelling | 1,210 |
 | This game has a Competitive Community | 1,134 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
@@ -438,3 +438,4 @@ Diff (max vs sum): 50
 | 2023-10-26 | 4.41 | - | 1,453 | 12,169 |
 | 2023-10-27 | 4.41 | - | 1,460 | 12,195 |
 | 2023-10-28 | 4.41 | - | 1,463 | 12,230 |
+| 2023-10-29 | 4.41 | - | 1,463 | 12,236 |

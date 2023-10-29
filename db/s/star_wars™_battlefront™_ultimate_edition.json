@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 121,
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 891,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -2524,6 +2524,11 @@
       "Time": "2023-10-28T23:09:26.3621475+00:00",
       "NumProgressed": 890,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T01:54:10.2722715+00:00",
+      "NumProgressed": 891,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2630,17 +2635,17 @@
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_21",
       "SetID": "271ol84",
       "Name": "Tell Jabba that I\u0027ve got his money",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_22",
@@ -2680,7 +2685,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_27",
@@ -2760,7 +2765,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "achievement_36",
@@ -2776,7 +2781,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "achievement_38",
@@ -2824,7 +2829,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_43",
@@ -2888,7 +2893,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_50",
@@ -3039,13 +3044,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 890,
+      "Progressed": 891,
       "Completed": 1
     }
   ],
@@ -3053,8 +3058,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:08:56.3304677+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:54:10.2722709+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:57:49.914818+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:08:56.3305505+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:43:05.4139897+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:54:10.2723586+00:00"
 }

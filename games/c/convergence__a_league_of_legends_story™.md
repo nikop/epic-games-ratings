@@ -15,9 +15,9 @@ Rating: 4.62 (Ranked 359)
 | Time Flies | 21.00% | ~192 |
 | The Harder They Fall | 21.00% | ~192 |
 | No, Thanks! | 21.00% | ~192 |
+| Breaking Down Barriers | 21.00% | ~192 |
 | The Prince in Heels | 21.00% | ~192 |
 | Immaculate Aim | 21.00% | ~192 |
-| Breaking Down Barriers | 20.00% | ~183 |
 | The Wicked Twins | 20.00% | ~183 |
 | Honest Mistake | 20.00% | ~183 |
 | Fast Learner | 20.00% | ~183 |
@@ -33,9 +33,9 @@ Rating: 4.62 (Ranked 359)
 | Cartographer | 15.00% | ~137 |
 | Treasure Trove | 14.00% | ~128 |
 | Whiz Kid | 14.00% | ~128 |
+| Good Neighbor | 13.00% | ~119 |
 | Chaincrawler Explorer | 12.00% | ~110 |
 | Family Memories | 12.00% | ~110 |
-| Good Neighbor | 12.00% | ~110 |
 | Syron for Hope | 11.00% | ~100 |
 | Ask Questions Later | 11.00% | ~100 |
 | Fairgrounds Explorer | 10.00% | ~91 |

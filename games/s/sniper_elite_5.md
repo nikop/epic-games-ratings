@@ -5,15 +5,15 @@ Rating: 4.46 (Ranked 634)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,743 |
+| Meeting Resistance | 47.00% | ~1,782 |
 | Confirming Suspicions | 41.00% | ~1,554 |
-| The Kraken Wakes | 37.00% | ~1,402 |
+| The Kraken Wakes | 37.00% | ~1,403 |
 | It's Starting to Crack | 34.00% | ~1,289 |
 | Change the Channel | 31.00% | ~1,175 |
 | Lord of War | 30.00% | ~1,137 |
 | Taking it back | 29.00% | ~1,099 |
-| Resourceful | 27.00% | ~1,023 |
-| Target America | 27.00% | ~1,023 |
+| Resourceful | 27.00% | ~1,024 |
+| Target America | 27.00% | ~1,024 |
 | The Kraken Sleeps | 25.00% | ~948 |
 | Liberté | 23.00% | ~872 |
 | Organ Grinder | 23.00% | ~872 |
@@ -22,11 +22,11 @@ Rating: 4.46 (Ranked 634)
 | Explosive Efficiency | 19.00% | ~720 |
 | Gunslinger | 18.00% | ~682 |
 | Just a Flesh Wound | 17.00% | ~644 |
-| Climbing the Ladder | 16.00% | ~606 |
-| Der Geist | 16.00% | ~606 |
-| Close Quarters | 16.00% | ~606 |
-| Snake in the Grass | 15.00% | ~568 |
-| Brains of the Operation | 15.00% | ~568 |
+| Climbing the Ladder | 16.00% | ~607 |
+| Der Geist | 16.00% | ~607 |
+| Close Quarters | 16.00% | ~607 |
+| Snake in the Grass | 15.00% | ~569 |
+| Brains of the Operation | 15.00% | ~569 |
 | No Stone Unturned | 14.00% | ~531 |
 | Opposing Force | 14.00% | ~531 |
 | Enemy at the Gates | 14.00% | ~531 |
@@ -38,7 +38,7 @@ Rating: 4.46 (Ranked 634)
 | My Little Friend | 10.00% | ~379 |
 | Rigged to Blow | 9.00% | ~341 |
 | Herr Today, Gone Tomorrow | 7.00% | ~262 |
-| Operation Foxley | 6.00% | ~224 |
+| Operation Foxley | 6.00% | ~225 |
 | The Long Game | 5.00% | ~190 |
 | Tinkerer | 5.00% | ~190 |
 | It'll Buff Right Out | 5.00% | ~190 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 634)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,790 (Ranked 187)  
+Progressed: 3,791 (Ranked 187)  
 Completed: 11 (0.29%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 11 (0.29%) (Ranked 219)
 | 2023-10-26 | 3,780 | 11 |
 | 2023-10-27 | 3,786 | 11 |
 | 2023-10-28 | 3,790 | 11 |
+| 2023-10-29 | 3,791 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 529)  
 Sum: 21 (Ranked 530)  

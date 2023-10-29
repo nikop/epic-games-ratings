@@ -6,19 +6,19 @@
 | ---- | ---------- | ----- |
 | Meissa's Savior | 37.00% | ~24 |
 | Purification Pioneer | 35.00% | ~23 |
-| Noctuan Champion | 34.00% | ~22 |
+| Noctuan Champion | 35.00% | ~23 |
 | Dicesmithing Time! | 32.00% | ~21 |
 | Endless Tricks | 32.00% | ~21 |
 | Mechanical Buddy | 32.00% | ~21 |
 | Sanctuary Guardian | 31.00% | ~20 |
 | Wild's Keeper | 31.00% | ~20 |
+| Mind Illuminator | 29.00% | ~19 |
 | Apian Champion | 29.00% | ~19 |
 | Eridanian Champion | 29.00% | ~19 |
 | Lacertian Champion | 29.00% | ~19 |
-| Mind Illuminator | 28.00% | ~18 |
+| Anomaly Destroyer | 25.00% | ~16 |
 | Stellar Dismantler | 25.00% | ~16 |
 | Behenian Champion | 25.00% | ~16 |
-| Anomaly Destroyer | 23.00% | ~15 |
 | Loyal Partner | 22.00% | ~14 |
 | Aquarian Champion | 22.00% | ~14 |
 | Heart Gate | 18.00% | ~12 |

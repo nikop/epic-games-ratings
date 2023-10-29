@@ -10,9 +10,9 @@
 | Demolition expert | 40.00% | ~54 |
 | I didn't do it! | 40.00% | ~54 |
 | Wooooooow! | 38.00% | ~52 |
+| Open up wide | 36.00% | ~49 |
 | Keep away from children | 36.00% | ~49 |
 | Artistic fool | 35.00% | ~48 |
-| Open up wide | 35.00% | ~48 |
 | Let the boot talk | 32.00% | ~44 |
 | Chapter II | 27.00% | ~37 |
 | Shadow on the wall | 25.00% | ~34 |

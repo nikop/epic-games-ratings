@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 121,
@@ -709,9 +709,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -749,9 +749,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FISH",
@@ -1093,9 +1093,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -1444,8 +1444,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:04:07.7108036+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:49:32.8415056+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-29T00:00:34.6269532+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:04:07.7109131+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:47:39.116004+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:49:32.8416114+00:00"
 }

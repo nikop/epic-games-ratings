@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 700)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,181 |
-| IT MAKES BOOM! | 3.00% | ~7,909 |
-| EXTRA BOOST | 2.00% | ~5,273 |
-| PROTECTED | 2.00% | ~5,273 |
-| PRO | 2.00% | ~5,273 |
-| A TIGER'S FEAR | 1.00% | ~2,636 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,636 |
-| AGGRESSIVE RACER | 1.00% | ~2,636 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,318 |
-| ACE SPEEDSTER | 0.50% | ~1,318 |
+| ROOKIE | 5.00% | ~13,192 |
+| IT MAKES BOOM! | 3.00% | ~7,915 |
+| EXTRA BOOST | 2.00% | ~5,277 |
+| PROTECTED | 2.00% | ~5,277 |
+| PRO | 2.00% | ~5,277 |
+| A TIGER'S FEAR | 1.00% | ~2,638 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,638 |
+| AGGRESSIVE RACER | 1.00% | ~2,638 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,319 |
+| ACE SPEEDSTER | 0.50% | ~1,319 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,055 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,055 |
-| TRAINING HARD | 0.30% | ~791 |
-| EXPERIENCED CREW | 0.30% | ~791 |
-| RELEASE THE KRAKEN | 0.30% | ~791 |
-| BE OUR GUEST | 0.30% | ~791 |
-| ACE BRAWLER | 0.30% | ~791 |
-| ACE DEFENDER | 0.30% | ~791 |
-| FRIENDLY | 0.30% | ~791 |
-| MASTER | 0.30% | ~791 |
-| LEGENDARY HERO | 0.30% | ~791 |
-| PERFECTLY POISED | 0.20% | ~527 |
-| ACE TRICKSTER | 0.20% | ~527 |
+| TRAINING HARD | 0.30% | ~792 |
+| EXPERIENCED CREW | 0.30% | ~792 |
+| RELEASE THE KRAKEN | 0.30% | ~792 |
+| BE OUR GUEST | 0.30% | ~792 |
+| ACE BRAWLER | 0.30% | ~792 |
+| ACE DEFENDER | 0.30% | ~792 |
+| FRIENDLY | 0.30% | ~792 |
+| MASTER | 0.30% | ~792 |
+| LEGENDARY HERO | 0.30% | ~792 |
+| PERFECTLY POISED | 0.20% | ~528 |
+| ACE TRICKSTER | 0.20% | ~528 |
 | FRAMED! | 0.10% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263,629 (Ranked 52)  
+Progressed: 263,849 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 245 (0.09%) (Ranked 264)
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
-| 2023-10-29 | 263,629 | 245 |
+| 2023-10-29 | 263,849 | 245 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 439)  
-Sum: 352 (Ranked 343)  
+Sum: 353 (Ranked 343)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
@@ -231,8 +231,8 @@ Diff (max vs sum): 96
 | This game has Amazing Characters | 31 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Storytelling | 27 |
+| This game has Quickly Understood Controls | 27 |
 | This game has a Competitive Community | 27 |
-| This game has Quickly Understood Controls | 26 |
 | This game has Competitive Players | 26 |
 | This game has Playful Visuals | 23 |
 | This game is Extremely Fun | 20 |
@@ -268,3 +268,4 @@ Diff (max vs sum): 96
 | 2023-10-26 | 4.42 | 43 | 270 |
 | 2023-10-27 | 4.42 | 44 | 347 |
 | 2023-10-28 | 4.42 | 44 | 352 |
+| 2023-10-29 | 4.42 | 44 | 353 |

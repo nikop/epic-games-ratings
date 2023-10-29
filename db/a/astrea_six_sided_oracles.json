@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -352,9 +352,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AnomalyMaster",
@@ -704,9 +704,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -1104,9 +1104,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NoctuanHero",
@@ -1135,8 +1135,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:05:21.7879345+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:50:49.5317317+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.6564177+00:00",
-  "LastUpdate_Ratings": "2023-10-29T00:00:36.013185+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:05:21.7880329+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:47:39.765792+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:50:49.5318517+00:00"
 }

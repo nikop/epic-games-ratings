@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1119,7 +1119,7 @@
   ],
   "EOS_Progressed": 3043,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5903,9 +5903,9 @@
       "ID": "ACH_UPFRONT-SHREDDER",
       "SetID": "72olkc5",
       "Name": "Upfront shredder",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -5943,8 +5943,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-28T11:59:35.0868703+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:08:24.162044+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:53:37.6115601+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.1163993+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:58:56.1889851+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:08:24.1621031+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:44:21.632237+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:53:37.611627+00:00"
 }

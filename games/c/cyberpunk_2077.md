@@ -9,11 +9,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 3.00% | ~26,830 |
 | Gun Fu | 0.90% | ~8,049 |
 | Ten out of Ten | 0.80% | ~7,155 |
+| True Soldier | 0.70% | ~6,260 |
 | Full Body Conversion | 0.60% | ~5,366 |
 | Stanislavski's Method | 0.60% | ~5,366 |
 | Rough Landing | 0.60% | ~5,366 |
 | The High Priestess | 0.60% | ~5,366 |
-| True Soldier | 0.60% | ~5,366 |
 | All the President's Men | 0.60% | ~138 |
 | Arachnophobia | 0.60% | ~138 |
 | Right Back At Ya | 0.50% | ~4,472 |
@@ -72,8 +72,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,324 (Ranked 15)  
-Completed: 2,727 (0.30%) (Ranked 214)  
+Progressed: 894,332 (Ranked 15)  
+Completed: 2,728 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,10 +264,10 @@ Completed: 2,727 (0.30%) (Ranked 214)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,324 | 2,727 |
+| 2023-10-29 | 894,332 | 2,728 |
 ## Awards
 Max (Character Customization): 102,340  (Ranked 9)  
-Sum: 331,609 (Ranked 10)  
+Sum: 331,767 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -279,8 +279,8 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 18,153 |
 | This game is Extremely Fun | 17,917 |
 | This game has Amazing Characters | 17,702 |
+| This game has Quickly Understood Controls | 17,184 |
 | This game is Relaxing | 17,098 |
-| This game has Quickly Understood Controls | 17,026 |
 | This game has a Creative Community | 11,869 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -568,3 +568,4 @@ Diff (max vs sum): -1
 | 2023-10-26 | 4.64 | - | 101,755 | 327,659 |
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
+| 2023-10-29 | 4.64 | - | 102,340 | 331,767 |

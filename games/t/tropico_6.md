@@ -13,8 +13,8 @@ Number of Ratings: 398  (23.09.2022)
 | Number 18 | 24.00% | ~1,372 |
 | We Don't Have Time For That | 19.00% | ~1,086 |
 | The Governator | 17.00% | ~972 |
+| Caribbean Comrade | 16.00% | ~914 |
 | The Legend of Langostino | 16.00% | ~914 |
-| Caribbean Comrade | 15.00% | ~857 |
 | The Dreamer of Dreams | 15.00% | ~857 |
 | Go Sovereigns! | 11.00% | ~629 |
 | For Science! | 11.00% | ~629 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~51 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,715 (Ranked 176)  
+Progressed: 5,715 (Ranked 177)  
 Completed: 2 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |

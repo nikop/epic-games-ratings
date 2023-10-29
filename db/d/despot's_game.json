@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 433,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -448,6 +448,11 @@
       "Time": "2023-10-25T22:04:43.5706671+00:00",
       "NumProgressed": 432,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T01:49:32.566938+00:00",
+      "NumProgressed": 433,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -539,15 +544,15 @@
       "Name": "Impossible Cube",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "finished-quest-flight",
       "SetID": "799afm0",
       "Name": "Great Flight",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "finished-quest-monster",
@@ -555,7 +560,7 @@
       "Name": "Campaigning",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "finished-quest-nurgle",
@@ -571,7 +576,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "finished-quest-rat",
@@ -579,7 +584,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "finished-quest-reaper",
@@ -595,7 +600,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "finished-quest-secret",
@@ -603,7 +608,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "finished-quest-sword",
@@ -635,7 +640,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "save-zombie",
@@ -675,7 +680,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "win-first-level",
@@ -683,7 +688,7 @@
       "Name": "Good start!",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "win-koth-fights1",
@@ -738,7 +743,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 433,
       "Completed": 1
     }
   ],
@@ -746,8 +751,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:04:07.4431683+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:49:32.5669374+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:01.0718902+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:58:05.3624604+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:04:07.4431976+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:43:23.0252985+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:49:32.5669668+00:00"
 }

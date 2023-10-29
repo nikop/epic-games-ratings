@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~399 |
 | The Sanctum of the Sword | 0.20% | ~399 |
 | Were-verpowered | 0.20% | ~466 |
+| Vecna Out! | 0.20% | ~399 |
 | A Persistent Buzzing | 0.20% | ~466 |
 | Terror in the Dark | 0.20% | ~466 |
 | A Mysterious Summons | 0.20% | ~466 |
@@ -158,7 +159,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Destroyer | 0.10% | ~199 |
 | Checkmate | 0.10% | ~199 |
 | Pin and Skewer | 0.10% | ~199 |
-| Vecna Out! | 0.10% | ~199 |
 | Bully for Vecna | 0.10% | ~199 |
 | Who Lurks Below? | 0.10% | ~199 |
 | Clowning Around | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,091 (Ranked 61)  
+Progressed: 233,095 (Ranked 61)  
 Completed: 2,395 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -727,7 +727,7 @@ Completed: 2,395 (1.03%) (Ranked 149)
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
-| 2023-10-29 | 233,091 | 2,395 |
+| 2023-10-29 | 233,095 | 2,395 |
 ## Awards
 Max (Great for Beginners): 5,461  (Ranked 69)  
 Sum: 32,249 (Ranked 41)  

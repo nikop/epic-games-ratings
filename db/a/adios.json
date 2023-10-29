@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76971,
+  "EOS_Progressed": 76974,
   "EOS_Completed": 808,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -21497,6 +21497,11 @@
       "Time": "2023-10-29T00:04:12.929749+00:00",
       "NumProgressed": 76971,
       "NumCompleted": 808
+    },
+    {
+      "Time": "2023-10-29T01:49:38.2624274+00:00",
+      "NumProgressed": 76974,
+      "NumCompleted": 808
     }
   ],
   "TotalAchievements": 25,
@@ -21580,7 +21585,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15394
+      "UsersEstimate": 15395
     },
     {
       "ID": "Hearty",
@@ -21596,7 +21601,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6927
+      "UsersEstimate": 6928
     },
     {
       "ID": "Magnetic Miracles",
@@ -21612,7 +21617,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16164
+      "UsersEstimate": 16165
     },
     {
       "ID": "Meaty",
@@ -21628,7 +21633,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14624
+      "UsersEstimate": 14625
     },
     {
       "ID": "Nice Try",
@@ -21636,7 +21641,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12315
+      "UsersEstimate": 12316
     },
     {
       "ID": "Nothing Left to Say",
@@ -21660,7 +21665,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10006
+      "UsersEstimate": 10007
     },
     {
       "ID": "Sniper",
@@ -21707,7 +21712,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 76971,
+      "Progressed": 76974,
       "Completed": 808
     }
   ],
@@ -21715,8 +21720,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-29T00:04:12.9297484+00:00",
+  "LastChanged_Achievements": "2023-10-29T01:49:38.2624268+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.5305099+00:00",
-  "LastUpdate_Ratings": "2023-10-29T00:00:12.7589684+00:00",
-  "LastUpdate_Achievements": "2023-10-29T00:04:12.929893+00:00"
+  "LastUpdate_Ratings": "2023-10-29T01:45:36.4663038+00:00",
+  "LastUpdate_Achievements": "2023-10-29T01:49:38.2625728+00:00"
 }
