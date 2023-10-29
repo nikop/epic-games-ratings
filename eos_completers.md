@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.65% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.42% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.40% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.33% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -21,8 +21,8 @@
 | 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 20 | [Island Cities](games/i/island_cities.md) | 17.00% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
-| 22 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 14.29% |
-| 23 | [Remains](games/r/remains.md) | 13.21% |
+| 22 | [Remains](games/r/remains.md) | 13.21% |
+| 23 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 13.04% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 25 | [Seven Doors](games/s/seven_doors.md) | 12.50% |
 | 26 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.32% |
@@ -73,15 +73,15 @@
 | 71 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.67% |
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 73 | [ZZT!](games/z/zzt!.md) | 4.52% |
-| 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.41% |
+| 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.49% |
 | 75 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.33% |
 | 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.11% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.01% |
 | 79 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 80 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 81 | [The Bunker](games/t/the_bunker.md) | 3.76% |
-| 82 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.75% |
+| 81 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.75% |
+| 82 | [The Bunker](games/t/the_bunker.md) | 3.73% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.72% |
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
@@ -162,8 +162,8 @@
 | 160 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 160 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 163 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.78% |
-| 163 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.78% |
+| 163 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.80% |
+| 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.78% |
 | 165 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
@@ -198,7 +198,7 @@
 | 195 | [It Takes Two](games/i/it_takes_two.md) | 0.45% |
 | 195 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.45% |
 | 198 | [Tchia](games/t/tchia.md) | 0.44% |
-| 199 | [Wildermyth](games/w/wildermyth.md) | 0.42% |
+| 199 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
 | 200 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 200 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 200 | [Train Valley](games/t/train_valley.md) | 0.39% |
