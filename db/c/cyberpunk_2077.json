@@ -14268,10 +14268,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 332253,
       "NumberOfAwardsMax": 102340
+    },
+    {
+      "Time": "2023-10-29T04:57:21.9609011+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 332446,
+      "NumberOfAwardsMax": 102340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332253,
+  "NumberOfAwards": 332446,
   "NumberOfAwardsMax": 102340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14315,7 +14321,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 18153
+      "Count": 18346
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14348,9 +14354,9 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894346,
+  "EOS_Progressed": 894349,
   "EOS_Completed": 2728,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36083,6 +36089,11 @@
       "Time": "2023-10-29T04:04:13.7630049+00:00",
       "NumProgressed": 894346,
       "NumCompleted": 2728
+    },
+    {
+      "Time": "2023-10-29T05:03:51.8010527+00:00",
+      "NumProgressed": 894349,
+      "NumCompleted": 2728
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36189,9 +36200,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2683
+      "UsersEstimate": 3577
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -36614,21 +36625,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894346,
+      "Progressed": 894349,
       "Completed": 2728
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 22969,
+      "Progressed": 22972,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-29T03:57:33.8070235+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:04:13.7630039+00:00",
+  "LastChanged": "2023-10-29T04:57:21.960901+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:03:51.8010521+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:57:33.8070241+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:04:13.7632053+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:57:21.9609016+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:03:51.8012645+00:00"
 }

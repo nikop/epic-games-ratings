@@ -8,12 +8,12 @@
 | First Love | 42.00% | ~768 |
 | Clean Race | 41.00% | ~749 |
 | Hear That Roar! | 38.00% | ~695 |
-| Rivals to the End | 28.00% | ~512 |
+| Rivals to the End | 29.00% | ~530 |
 | Bitter Rivalry | 26.00% | ~475 |
 | We're Going to Need a Bigger Garage | 24.00% | ~439 |
 | Champagne Spray | 24.00% | ~439 |
+| I Want One Too! | 19.00% | ~347 |
 | Restored and Ready | 18.00% | ~329 |
-| I Want One Too! | 18.00% | ~329 |
 | Legendary!!! | 18.00% | ~329 |
 | Quick Pit Stop | 18.00% | ~329 |
 | I'm Here Too! | 17.00% | ~311 |
@@ -21,8 +21,8 @@
 | We've Just Begun | 10.00% | ~183 |
 | Stamina Star | 8.00% | ~146 |
 | Is It the Right Size? | 8.00% | ~146 |
+| Evangelist | 6.00% | ~110 |
 | Make It Your Own! | 5.00% | ~91 |
-| Evangelist | 5.00% | ~91 |
 | I Make the Rules! | 4.00% | ~73 |
 | Spoilt for Choice | 3.00% | ~55 |
 | Cherry Blossom and Temples | 3.00% | ~55 |

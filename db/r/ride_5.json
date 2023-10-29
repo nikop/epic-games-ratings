@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3928,9 +3928,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 347
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4072,9 +4072,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "c7hf6a4",
       "Name": "Evangelist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 110
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -4224,9 +4224,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 530
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4271,8 +4271,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:09:33.1752114+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:09:12.8622927+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:57:38.4299055+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:09:33.1752723+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:57:25.2919766+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:09:12.8623608+00:00"
 }

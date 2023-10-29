@@ -522,9 +522,9 @@
       "ID": "17",
       "SetID": "39djiaj",
       "Name": "True Story!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "18",
@@ -546,9 +546,9 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "20",
@@ -785,8 +785,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:06:54.0489546+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:06:27.6246317+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:28.9364056+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:03:27.5322683+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:06:54.0489915+00:00"
+  "LastUpdate_Ratings": "2023-10-29T05:03:08.0202784+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:06:27.6246673+00:00"
 }

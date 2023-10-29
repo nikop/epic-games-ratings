@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 44,
@@ -712,9 +712,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 349798,
+  "EOS_Progressed": 349803,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22382,6 +22382,11 @@
       "Time": "2023-10-29T04:04:21.0190789+00:00",
       "NumProgressed": 349798,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-29T05:03:58.6414487+00:00",
+      "NumProgressed": 349803,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -22601,7 +22606,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 160907
+      "UsersEstimate": 160909
     },
     {
       "ID": "ach028",
@@ -23032,7 +23037,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 349798,
+      "Progressed": 349803,
       "Completed": 7
     }
   ],
@@ -23040,8 +23045,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-27T15:57:33.2811651+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:04:21.0190783+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:03:58.6414482+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:35.1846079+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:58:09.0008129+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:04:21.0193175+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:57:53.8061344+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:03:58.6416721+00:00"
 }

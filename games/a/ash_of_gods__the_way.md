@@ -6,11 +6,12 @@
 | ---- | ---------- | ----- |
 | First success | 133.00% | ~8 |
 | Suicide squad | 83.00% | ~5 |
+| Train hard, fight easy | 50.00% | ~3 |
+| Royal blessing | 50.00% | ~3 |
+| Under cover | 50.00% | ~3 |
 | First blood | 50.00% | ~3 |
+| Surpass the teacher | 33.00% | ~2 |
 | By own strength | 33.00% | ~2 |
-| Train hard, fight easy | 33.00% | ~2 |
-| Royal blessing | 33.00% | ~2 |
-| Under cover | 33.00% | ~2 |
 | A hidden snake | 33.00% | ~2 |
 | Blood and sand | 33.00% | ~2 |
 | Crimson rivers | 17.00% | ~1 |
@@ -18,7 +19,6 @@
 | Power of Inquisition | 17.00% | ~1 |
 | The best apprentice | 17.00% | ~1 |
 | The champion of the arena | 17.00% | ~1 |
-| Surpass the teacher | 17.00% | ~1 |
 | Vene, vidi, vici | 17.00% | ~1 |
 | Deadly strike | 17.00% | ~1 |
 | A solo player | 17.00% | ~1 |

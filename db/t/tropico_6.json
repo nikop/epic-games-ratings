@@ -3,7 +3,7 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 307,
-  "Ranking_Popularity": 351,
+  "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 296,
@@ -1323,9 +1323,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5716,
+  "EOS_Progressed": 5717,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11948,6 +11948,11 @@
       "Time": "2023-10-29T02:28:01.1285766+00:00",
       "NumProgressed": 5716,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-29T05:09:06.8508092+00:00",
+      "NumProgressed": 5717,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -11991,7 +11996,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -12013,9 +12018,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 915
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -12031,7 +12036,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -12055,7 +12060,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2572
+      "UsersEstimate": 2573
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12071,7 +12076,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -12095,7 +12100,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -12119,7 +12124,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4287
+      "UsersEstimate": 4288
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12167,7 +12172,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -12175,7 +12180,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -12223,7 +12228,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -12278,15 +12283,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5716,
+      "Progressed": 5717,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:09:27.2029122+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:09:06.8508087+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:00:48.486902+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:09:27.2030174+00:00"
+  "LastUpdate_Ratings": "2023-10-29T05:00:25.3509364+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:09:06.850894+00:00"
 }

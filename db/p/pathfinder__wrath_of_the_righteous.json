@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4031,9 +4031,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11892,
+  "EOS_Progressed": 11895,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14656,6 +14656,11 @@
       "Time": "2023-10-29T03:05:30.1507213+00:00",
       "NumProgressed": 11892,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T05:04:28.0575506+00:00",
+      "NumProgressed": 11895,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14667,7 +14672,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "02_BurningCity",
@@ -14691,7 +14696,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -15539,7 +15544,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -15547,7 +15552,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -15555,7 +15560,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -15594,21 +15599,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10674,
+      "Progressed": 10677,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11892,
+      "Progressed": 11895,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-28T23:02:55.2016849+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:04:51.4086836+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:04:28.0575501+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:03:15.5225753+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:04:51.4089695+00:00"
+  "LastUpdate_Ratings": "2023-10-29T05:02:59.6654279+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:04:28.0577859+00:00"
 }

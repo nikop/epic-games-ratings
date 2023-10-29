@@ -8,13 +8,13 @@
 | Accessory Unlocked | 82.00% | ~79 |
 | Butter Fingers | 76.00% | ~73 |
 | Character Unlocked | 75.00% | ~72 |
-| Homer | 74.00% | ~71 |
+| Homer | 75.00% | ~72 |
 | Have a good trip! | 72.00% | ~69 |
 | Kickball Unlocked | 70.00% | ~67 |
 | Settle Down | 70.00% | ~67 |
 | Stay Hydrated | 64.00% | ~61 |
 | First Win | 63.00% | ~60 |
-| True Story! | 43.00% | ~41 |
+| True Story! | 44.00% | ~42 |
 | Bedroom Secret Spot | 40.00% | ~38 |
 | Kick It | 32.00% | ~31 |
 | Classroom Secret Spot | 30.00% | ~29 |

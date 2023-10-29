@@ -7,18 +7,18 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~38,008 |
-| I read Shakespeare and stuff | 64.00% | ~32,433 |
+| I read Shakespeare and stuff | 64.00% | ~32,434 |
 | Just a sprinkle | 63.00% | ~31,927 |
-| I'm stumped | 61.00% | ~30,913 |
-| Plant get enough | 60.00% | ~30,406 |
+| I'm stumped | 61.00% | ~30,914 |
+| Plant get enough | 60.00% | ~30,407 |
 | This is just my weekend vehicle | 58.00% | ~29,393 |
 | It's just the beginning | 58.00% | ~29,393 |
 | Hard work pays off | 53.00% | ~26,859 |
-| It's never too late to farm | 50.00% | ~25,338 |
+| It's never too late to farm | 50.00% | ~25,339 |
 | All out of Land | 44.00% | ~22,298 |
 | Field Trip | 44.00% | ~22,298 |
 | I like to switch it up | 40.00% | ~20,271 |
-| Help me to help you | 38.00% | ~19,257 |
+| Help me to help you | 38.00% | ~19,258 |
 | Ultimutt Pawesomeness | 28.00% | ~14,190 |
 | Van Gogh | 26.00% | ~13,176 |
 | You wood not believe it | 22.00% | ~11,149 |
@@ -31,8 +31,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | That's a wrap | 15.00% | ~7,602 |
 | Fix me up | 13.00% | ~6,588 |
 | Rock on | 12.00% | ~6,081 |
-| Highly cultivated | 11.00% | ~5,574 |
-| It's sow easy | 11.00% | ~5,574 |
+| Highly cultivated | 11.00% | ~5,575 |
+| It's sow easy | 11.00% | ~5,575 |
 | Giddy-up! | 10.00% | ~5,068 |
 | Cowherd | 7.00% | ~3,547 |
 | Fluffyness | 6.00% | ~3,041 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~203 |
 | Raisin the stakes | 0.30% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,677 (Ranked 107)  
+Progressed: 50,678 (Ranked 107)  
 Completed: 6 (0.01%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 6 (0.01%) (Ranked 309)
 | 2023-10-26 | 50,540 | 6 |
 | 2023-10-27 | 50,603 | 6 |
 | 2023-10-28 | 50,669 | 6 |
-| 2023-10-29 | 50,677 | 6 |
+| 2023-10-29 | 50,678 | 6 |
 ## Awards
 Max (Great for Beginners): 5,301  (Ranked 70)  
 Sum: 41,776 (Ranked 33)  

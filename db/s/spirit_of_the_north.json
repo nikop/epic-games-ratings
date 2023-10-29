@@ -327,9 +327,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72677,
+  "EOS_Progressed": 72678,
   "EOS_Completed": 379,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -21402,6 +21402,11 @@
       "Time": "2023-10-29T04:07:25.5288242+00:00",
       "NumProgressed": 72677,
       "NumCompleted": 379
+    },
+    {
+      "Time": "2023-10-29T05:08:27.9107296+00:00",
+      "NumProgressed": 72678,
+      "NumCompleted": 379
     }
   ],
   "TotalAchievements": 24,
@@ -21429,7 +21434,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49420
+      "UsersEstimate": 49421
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21469,7 +21474,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21076
+      "UsersEstimate": 21077
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -21565,7 +21570,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 7994
+      "UsersEstimate": 7995
     },
     {
       "ID": "SPIRIT_FORM",
@@ -21604,7 +21609,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72677,
+      "Progressed": 72678,
       "Completed": 379
     }
   ],
@@ -21612,8 +21617,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:07:25.5288236+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:08:27.9107291+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-10-29T04:03:21.1801842+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:07:25.528978+00:00"
+  "LastUpdate_Ratings": "2023-10-29T05:03:03.7069425+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:08:27.910876+00:00"
 }

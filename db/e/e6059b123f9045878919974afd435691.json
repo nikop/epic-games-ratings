@@ -2593,9 +2593,9 @@
       "ID": "BURN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Burnt Smell",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 225
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2721,9 +2721,9 @@
       "ID": "FREE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "I\u0027ll Save You!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 166
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2753,9 +2753,9 @@
       "ID": "KILLR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Breaking Twigs",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 518
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2897,9 +2897,9 @@
       "ID": "NOTE_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Buy A Book",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 156
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -2913,9 +2913,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 127
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -3008,8 +3008,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:07:07.3609695+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:06:40.832551+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:57:46.3008916+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:07:07.3610584+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:57:32.2512325+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:06:40.8326379+00:00"
 }

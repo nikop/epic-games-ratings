@@ -1870,9 +1870,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210578,
+  "EOS_Progressed": 210580,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1350,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23705,6 +23705,11 @@
       "Time": "2023-10-29T04:05:51.1410894+00:00",
       "NumProgressed": 210578,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-29T05:05:26.2656467+00:00",
+      "NumProgressed": 210580,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23788,7 +23793,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25269
+      "UsersEstimate": 25270
     },
     {
       "ID": "HappyLittleAccidents",
@@ -23804,7 +23809,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14740
+      "UsersEstimate": 14741
     },
     {
       "ID": "HighFiveTheMoon",
@@ -23820,7 +23825,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14740
+      "UsersEstimate": 14741
     },
     {
       "ID": "ItsRainingMen",
@@ -23836,7 +23841,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14740
+      "UsersEstimate": 14741
     },
     {
       "ID": "Mercyful",
@@ -24060,22 +24065,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14740
+      "UsersEstimate": 14741
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210578,
+      "Progressed": 210580,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-28T15:57:21.1785447+00:00",
-  "LastChanged_Achievements": "2023-10-29T04:05:51.1410886+00:00",
+  "LastChanged_Achievements": "2023-10-29T05:05:26.2656462+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-10-29T03:57:52.4310885+00:00",
-  "LastUpdate_Achievements": "2023-10-29T04:05:51.1412573+00:00"
+  "LastUpdate_Ratings": "2023-10-29T04:57:38.6228509+00:00",
+  "LastUpdate_Achievements": "2023-10-29T05:05:26.2658142+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,531 |
-| Basic in Bulk | 3.00% | ~4,148 |
-| Tinkle of Coins | 3.00% | ~4,148 |
-| Titan's First Steps | 3.00% | ~4,148 |
+| Basic in Bulk | 3.00% | ~4,149 |
+| Tinkle of Coins | 3.00% | ~4,149 |
+| Titan's First Steps | 3.00% | ~4,149 |
 | One Easy Payment | 2.00% | ~2,766 |
 | Some Assembly Required | 2.00% | ~2,766 |
 | Disintermediation | 2.00% | ~2,766 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,283 (Ranked 77)  
+Progressed: 138,284 (Ranked 77)  
 Completed: 173 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 173 (0.13%) (Ranked 249)
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
-| 2023-10-29 | 138,283 | 173 |
+| 2023-10-29 | 138,284 | 173 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
 Sum: 27,464 (Ranked 51)  
