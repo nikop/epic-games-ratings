@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.65% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.47% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.45% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.33% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -113,7 +113,7 @@
 | 111 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 112 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 113 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.38% |
+| 114 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 115 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
 | 116 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.31% |
 | 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.21% |
@@ -162,7 +162,7 @@
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.85% |
 | 161 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 162 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 163 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.80% |
+| 163 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.79% |
 | 164 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.78% |
 | 165 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
@@ -174,8 +174,8 @@
 | 171 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 173 | [Eternights](games/e/eternights.md) | 0.61% |
 | 173 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 173 | [The Devil's Face](games/t/the_devil's_face.md) | 0.61% |
-| 176 | [Haven](games/h/haven.md) | 0.60% |
+| 175 | [Haven](games/h/haven.md) | 0.60% |
+| 175 | [The Devil's Face](games/t/the_devil's_face.md) | 0.60% |
 | 177 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 178 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 178 | [Grindstone](games/g/grindstone.md) | 0.58% |
