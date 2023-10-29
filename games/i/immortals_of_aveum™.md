@@ -14,7 +14,7 @@ Rating: 3.98 (Ranked 987)
 | Thrada-Kul | 56.00% | ~60 |
 | Gravity-Challenged Rocks | 45.00% | ~49 |
 | All the Major Food Groups | 38.00% | ~41 |
-| Soldier | 36.00% | ~39 |
+| Soldier | 37.00% | ~40 |
 | Socialite | 32.00% | ~35 |
 | Beggars Would Ride | 32.00% | ~35 |
 | Control is an Illusion | 31.00% | ~33 |
@@ -41,10 +41,10 @@ Rating: 3.98 (Ranked 987)
 | Master of Carmine | 4.00% | ~4 |
 | Shroudfane Surveyor | 4.00% | ~4 |
 | Treasure Hunter | 4.00% | ~4 |
+| Backtracker | 4.00% | ~4 |
 | Grand Magnus | 3.00% | ~3 |
 | Master of Ultramarine | 3.00% | ~3 |
 | Master of Malachite | 3.00% | ~3 |
-| Backtracker | 3.00% | ~3 |
 | Family Business | 2.00% | ~2 |
 | Diplomat | 2.00% | ~2 |
 | Petite Bourgeoisie | 2.00% | ~2 |

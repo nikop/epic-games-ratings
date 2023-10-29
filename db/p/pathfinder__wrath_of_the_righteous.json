@@ -4031,9 +4031,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11917,
+  "EOS_Progressed": 11919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14731,6 +14731,11 @@
       "Time": "2023-10-29T22:06:06.8061748+00:00",
       "NumProgressed": 11917,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T23:05:56.8083622+00:00",
+      "NumProgressed": 11919,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14742,7 +14747,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "02_BurningCity",
@@ -14766,7 +14771,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14878,7 +14883,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "19_EqualToAroden",
@@ -15669,21 +15674,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10699,
+      "Progressed": 10701,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11917,
+      "Progressed": 11919,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-28T23:02:55.2016849+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:06:06.8061743+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:05:56.8083614+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:57:29.9526018+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:06:06.8064061+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:57:36.3959438+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:05:56.8086051+00:00"
 }

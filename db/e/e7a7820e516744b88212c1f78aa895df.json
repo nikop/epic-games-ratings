@@ -2,9 +2,9 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -885,6 +885,11 @@
       "Time": "2023-10-29T22:09:32.3358552+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T23:09:22.3652979+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -921,7 +926,7 @@
       "Name": "Firing on All Cylinders",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achMaxEngineAll",
@@ -953,7 +958,7 @@
       "Name": "You\u0027re Hired!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achScoutMaxStar",
@@ -1009,7 +1014,7 @@
       "Name": "Executive Approval",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achUnlockAddon",
@@ -1120,14 +1125,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:09:32.3358547+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:09:22.3652971+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:22.4854686+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:58:39.129267+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:09:32.3358804+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:58:43.5985395+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:09:22.3653262+00:00"
 }

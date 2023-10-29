@@ -301,17 +301,17 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "4",
@@ -372,8 +372,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:04:09.188499+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:04:00.5529629+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:18.4814176+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:03:57.2560901+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:04:09.1885395+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:03:49.686436+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:04:00.5529934+00:00"
 }

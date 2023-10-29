@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2977,9 +2977,9 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 80761,
+  "EOS_Progressed": 80763,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 781,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -24317,6 +24317,11 @@
       "Time": "2023-10-29T22:08:04.8775435+00:00",
       "NumProgressed": 80761,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-10-29T23:07:55.1375992+00:00",
+      "NumProgressed": 80763,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 30,
@@ -24344,7 +24349,7 @@
       "Name": "Terraformer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -24392,7 +24397,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7268
+      "UsersEstimate": 7269
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -24416,7 +24421,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22613
+      "UsersEstimate": 22614
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -24488,7 +24493,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9691
+      "UsersEstimate": 9692
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -24504,7 +24509,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 29074
+      "UsersEstimate": 29075
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -24528,7 +24533,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9691
+      "UsersEstimate": 9692
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -24544,7 +24549,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9691
+      "UsersEstimate": 9692
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -24567,15 +24572,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80761,
+      "Progressed": 80763,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-29T10:00:59.9123084+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:08:04.877543+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:07:55.1375982+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.4679734+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:01:26.522438+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:08:04.8777199+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:01:23.7811684+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:07:55.1378384+00:00"
 }

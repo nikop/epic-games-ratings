@@ -9,9 +9,9 @@ Rating: 4.60 (Ranked 405)
 | Bosmang | 1.00% | ~145 |
 | Drug Gifter | 0.90% | ~130 |
 | The Pit and the Pirates | 0.80% | ~116 |
+| Drone Dodger | 0.80% | ~116 |
 | Celebrations are in Order | 0.80% | ~116 |
 | Martian Music | 0.70% | ~101 |
-| Drone Dodger | 0.70% | ~101 |
 | Call it Even | 0.70% | ~101 |
 | Captain Drummer | 0.70% | ~101 |
 | Impossible Objects | 0.70% | ~101 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 405)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,460 (Ranked 145)  
+Progressed: 14,463 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 28 (0.19%) (Ranked 237)
 | 2023-10-26 | 14,358 | 27 |
 | 2023-10-27 | 14,391 | 27 |
 | 2023-10-28 | 14,430 | 28 |
-| 2023-10-29 | 14,460 | 28 |
+| 2023-10-29 | 14,463 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

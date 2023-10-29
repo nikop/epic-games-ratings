@@ -4,7 +4,7 @@
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 889,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 277,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 107,
@@ -1290,9 +1290,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27179,
+  "EOS_Progressed": 27184,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 515,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -21955,6 +21955,11 @@
       "Time": "2023-10-29T22:09:49.9836682+00:00",
       "NumProgressed": 27179,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-29T23:09:39.5117972+00:00",
+      "NumProgressed": 27184,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 22,
@@ -22030,7 +22035,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "1024",
@@ -22038,7 +22043,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "1025",
@@ -22062,7 +22067,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "1028",
@@ -22070,7 +22075,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4893
     },
     {
       "ID": "1029",
@@ -22078,7 +22083,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "1030",
@@ -22086,7 +22091,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5437
     },
     {
       "ID": "1031",
@@ -22094,7 +22099,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "1032",
@@ -22102,7 +22107,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10874
     },
     {
       "ID": "1033",
@@ -22110,7 +22115,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "1034",
@@ -22126,7 +22131,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3533
+      "UsersEstimate": 3534
     },
     {
       "ID": "1036",
@@ -22134,22 +22139,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27179,
+      "Progressed": 27184,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:09:49.9836677+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:09:39.5117964+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:03:55.6738934+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:09:49.9838112+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:03:46.9311833+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:09:39.5120037+00:00"
 }

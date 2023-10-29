@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 3.00% | ~451 |
 | Intrepid | 3.00% | ~451 |
 | Mason | 3.00% | ~451 |
+| Pioneer | 3.00% | ~451 |
 | Strong | 3.00% | ~451 |
 | Hanging Gardens | 3.00% | ~451 |
 | Ambitious | 2.00% | ~301 |
@@ -27,7 +28,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 2.00% | ~301 |
 | Magnificent | 2.00% | ~301 |
 | Noble | 2.00% | ~301 |
-| Pioneer | 2.00% | ~301 |
 | Warrior | 2.00% | ~301 |
 | Wise | 2.00% | ~301 |
 | Developing Cities | 2.00% | ~301 |
@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 2.00% | ~301 |
 | Ishtar Gate | 2.00% | ~301 |
 | Lighthouse | 2.00% | ~301 |
+| Musaeum | 2.00% | ~301 |
 | Oracle | 2.00% | ~301 |
 | Pyramids | 2.00% | ~301 |
 | Learn to Play 1 | 2.00% | ~301 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 1.00% | ~150 |
 | Colossus | 1.00% | ~150 |
 | Mausoleum | 1.00% | ~150 |
-| Musaeum | 1.00% | ~150 |
 | Necropolis | 1.00% | ~150 |
 | Learn to Play 2 | 1.00% | ~150 |
 | Learn to Play 3 | 1.00% | ~150 |
@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.80% | ~120 |
 | Pantheon | 0.80% | ~120 |
 | Via Recta Souk | 0.80% | ~120 |
+| Learn to Play 4 | 0.80% | ~120 |
 | Economic Reform | 0.80% | ~120 |
 | Military Prestige | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
 | Church of the Holy Sepulchre | 0.70% | ~105 |
-| Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
 | One True Faith | 0.70% | ~105 |
 | Industrial Progress | 0.70% | ~105 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,035 (Ranked 143)  
+Progressed: 15,036 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,035 | 5 |
+| 2023-10-29 | 15,036 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 3.00% | ~4,664 |
 | Imprint | 3.00% | ~4,664 |
-| The Hunt | 2.00% | ~3,109 |
-| Weeper | 2.00% | ~3,109 |
-| Ravenous | 2.00% | ~3,109 |
+| The Hunt | 2.00% | ~3,110 |
+| Weeper | 2.00% | ~3,110 |
+| Ravenous | 2.00% | ~3,110 |
 | Harmless | 1.00% | ~1,555 |
 | Silenced Whispers | 1.00% | ~1,555 |
 | Devourer | 1.00% | ~1,555 |
@@ -18,7 +18,7 @@ Number of Ratings: 46  (23.09.2022)
 | Sharpened Vessel | 1.00% | ~1,555 |
 | Jawcrab | 0.90% | ~1,399 |
 | Feast | 0.90% | ~1,399 |
-| Scion | 0.80% | ~1,240 |
+| Scion | 0.80% | ~1,241 |
 | Jawstag | 0.80% | ~1,244 |
 | Watcher | 0.80% | ~1,244 |
 | Shapely | 0.70% | ~1,088 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,469 (Ranked 75)  
+Progressed: 155,483 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,10 +222,10 @@ Completed: 1 (0.00%) (Ranked 332)
 | 2023-10-26 | 154,811 | 1 |
 | 2023-10-27 | 154,992 | 1 |
 | 2023-10-28 | 155,248 | 1 |
-| 2023-10-29 | 155,469 | 1 |
+| 2023-10-29 | 155,483 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 424)  
-Sum: 329 (Ranked 350)  
+Sum: 330 (Ranked 350)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -234,7 +234,7 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 46 |
 | This game has Challenging Combat | 42 |
 | This game is Extremely Fun | 42 |
-| This game has Amazing Storytelling | 37 |
+| This game has Amazing Storytelling | 38 |
 | This game has a Creative Community | 33 |
 | This game has Amazing Characters | 32 |
 | This game has Diverse Characters | 20 |
@@ -366,4 +366,4 @@ Diff (max vs sum): 74
 | 2023-10-25 | 4.59 | - | 48 | 317 |
 | 2023-10-26 | 4.59 | - | 49 | 320 |
 | 2023-10-28 | 4.59 | - | 49 | 327 |
-| 2023-10-29 | 4.59 | - | 49 | 329 |
+| 2023-10-29 | 4.59 | - | 49 | 330 |

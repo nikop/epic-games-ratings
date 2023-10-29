@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~14,337 |
-| A Better Idea | 25.00% | ~3,773 |
-| Safety in the Storm | 24.00% | ~3,622 |
-| Begin the Ceremony | 21.00% | ~3,169 |
-| Mission Accomplished | 19.00% | ~2,867 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,264 |
-| A Starfighter of Your Own | 14.00% | ~2,113 |
-| Asset Secured | 13.00% | ~1,962 |
-| Unkillable | 8.00% | ~1,207 |
-| Together, Vanguard | 7.00% | ~1,056 |
+| Fracture at Fostar Haven | 95.00% | ~14,352 |
+| A Better Idea | 25.00% | ~3,777 |
+| Safety in the Storm | 24.00% | ~3,626 |
+| Begin the Ceremony | 21.00% | ~3,172 |
+| Mission Accomplished | 19.00% | ~2,870 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,266 |
+| A Starfighter of Your Own | 14.00% | ~2,115 |
+| Asset Secured | 13.00% | ~1,964 |
+| Unkillable | 8.00% | ~1,209 |
+| Together, Vanguard | 7.00% | ~1,057 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~906 |
 | Sound Strategy | 6.00% | ~906 |
 | Stomped | 6.00% | ~906 |
@@ -35,8 +35,8 @@
 | Found Your Place | 0.80% | ~121 |
 | Denied | 0.80% | ~121 |
 | Unstoppable Ace | 0.60% | ~91 |
-| Seasoned Star Pilot | 0.50% | ~75 |
-| Special Modifications | 0.50% | ~75 |
+| Seasoned Star Pilot | 0.50% | ~76 |
+| Special Modifications | 0.50% | ~76 |
 | Heavy Hitter | 0.40% | ~60 |
 | The Trap is Set | 0.40% | ~60 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~60 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~15 |
 | The Galaxy's Finest (Ace) | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,092 (Ranked 142)  
+Progressed: 15,107 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.01%) (Ranked 312)
 | 2023-10-26 | 13,910 | 1 |
 | 2023-10-27 | 14,238 | 1 |
 | 2023-10-28 | 14,703 | 1 |
-| 2023-10-29 | 15,092 | 1 |
+| 2023-10-29 | 15,107 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

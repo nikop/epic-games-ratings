@@ -1223,10 +1223,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 329,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-10-29T22:57:45.5138416+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329,
+  "NumberOfAwards": 330,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1276,7 +1282,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1285,9 +1291,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155469,
+  "EOS_Progressed": 155483,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1422,
+  "EOS_NewPlayers": 1426,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13580,6 +13586,11 @@
       "Time": "2023-10-29T22:06:46.7416126+00:00",
       "NumProgressed": 155469,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T23:06:36.6790203+00:00",
+      "NumProgressed": 155483,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13639,7 +13650,7 @@
       "Name": "The Hunt",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -13663,7 +13674,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -13695,7 +13706,7 @@
       "Name": "Scion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -13863,7 +13874,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -13958,21 +13969,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155052,
+      "Progressed": 155066,
       "Completed": 1181
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155469,
+      "Progressed": 155483,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-29T19:57:23.2354602+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:06:46.7416119+00:00",
+  "LastChanged": "2023-10-29T22:57:45.5138415+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:06:36.67902+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:57:42.9392961+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:06:46.7417265+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:57:45.5138421+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:06:36.6792707+00:00"
 }

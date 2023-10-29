@@ -2,9 +2,9 @@
   "ID": "713b2cabb53446a780d078f7af74d27b",
   "Name": "IncrediMarble",
   "ProductSlug": "incredimarble-bd44f1",
-  "Ranking_EOS_Progress": 709,
+  "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T18:00:00.2326661+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:57:21.6824538+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:06:04.3869265+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:57:23.7784559+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:05:54.2541325+00:00"
 }

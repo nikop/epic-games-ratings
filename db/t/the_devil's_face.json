@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2179,6 +2179,11 @@
       "Time": "2023-10-29T22:07:39.2165903+00:00",
       "NumProgressed": 503,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-29T23:07:29.2114192+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2190,7 +2195,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2198,7 +2203,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2228,9 +2233,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "296pn27",
       "Name": "Humility",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -2301,14 +2306,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:07:39.2165897+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:07:29.2114183+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:01:19.2573351+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:07:39.216616+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:01:18.1465226+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:07:29.2114641+00:00"
 }

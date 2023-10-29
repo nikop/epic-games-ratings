@@ -12,12 +12,12 @@ Number of Ratings: 98  (23.09.2022)
 | Heroes Never Die | 37.00% | ~561 |
 | Mosquito bite | 35.00% | ~531 |
 | Spice It Up | 32.00% | ~485 |
-| Bomberman | 27.00% | ~409 |
+| Bomberman | 27.00% | ~410 |
 | Agent 47 | 26.00% | ~394 |
 | You're Gonna Go Far, Kid | 26.00% | ~394 |
 | Death to the Oppressor! | 19.00% | ~288 |
 | The Gang's All Here | 16.00% | ~243 |
-| Your Answer | 15.00% | ~227 |
+| Your Answer | 15.00% | ~228 |
 | One by One | 14.00% | ~212 |
 | The Big Bertha | 12.00% | ~182 |
 | Game Over | 11.00% | ~167 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,516 (Ranked 228)  
+Progressed: 1,517 (Ranked 228)  
 Completed: 1 (0.07%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.07%) (Ranked 276)
 | 2023-10-26 | 1,504 | 1 |
 | 2023-10-27 | 1,507 | 1 |
 | 2023-10-28 | 1,509 | 1 |
-| 2023-10-29 | 1,516 | 1 |
+| 2023-10-29 | 1,517 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

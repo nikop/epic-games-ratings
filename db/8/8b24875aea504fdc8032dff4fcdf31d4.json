@@ -2,9 +2,9 @@
   "ID": "8b24875aea504fdc8032dff4fcdf31d4",
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -117,6 +117,11 @@
       "Time": "2023-10-29T03:05:35.8327753+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T23:06:01.5629726+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -158,7 +163,7 @@
       "ID": "ACH_ALLWEAPONS",
       "SetID": "73kff7",
       "Name": "Armed to the teeth",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -166,7 +171,7 @@
       "ID": "ACH_CARKEY",
       "SetID": "73kff7",
       "Name": "Drive carefully",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -174,15 +179,15 @@
       "ID": "ACH_CATCHTHUG1",
       "SetID": "73kff7",
       "Name": "But why are you running?",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_CATCHTHUG2",
       "SetID": "73kff7",
       "Name": "But why are you hiding?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -190,7 +195,7 @@
       "ID": "ACH_CEMETERY",
       "SetID": "73kff7",
       "Name": "A place to rest",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -198,7 +203,7 @@
       "ID": "ACH_CITYGATES",
       "SetID": "73kff7",
       "Name": "The city is yours",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -222,9 +227,9 @@
       "ID": "ACH_ELIZABETHSREST",
       "SetID": "73kff7",
       "Name": "Jumping in line",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_EXPLOREMOTHERSHIP",
@@ -238,9 +243,9 @@
       "ID": "ACH_FINDLUCIANO",
       "SetID": "73kff7",
       "Name": "Among rats and a foul stench",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_GAMECOMPLETED",
@@ -256,7 +261,7 @@
       "Name": "A drink, solitude and my memories",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_KILLSTOCKII",
@@ -278,9 +283,9 @@
       "ID": "ACH_LEAVETIMOTHYS",
       "SetID": "73kff7",
       "Name": "I should have paid attention",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_POLICESTATION",
@@ -310,22 +315,22 @@
       "ID": "ACH_SAVEELIZABETH",
       "SetID": "73kff7",
       "Name": "Being nice",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "73kff7",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:06:11.252396+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:06:01.5629718+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:17.11376+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:03:19.7569382+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:06:11.2524151+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:03:15.4614787+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:06:01.5629882+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~300,262 |
-| Full garage | 60.00% | ~246,791 |
-| To the eyeballs! | 51.00% | ~209,772 |
-| Individual delivery | 46.00% | ~189,206 |
-| Non-Stop | 45.00% | ~185,093 |
-| Juggler | 36.00% | ~148,074 |
-| Forgot something | 35.00% | ~143,961 |
-| Close call! | 30.00% | ~123,395 |
-| Get out my way | 28.00% | ~115,169 |
-| Common cause | 26.00% | ~106,943 |
-| Critical care | 26.00% | ~106,943 |
-| Mega-railroad | 23.00% | ~94,603 |
-| Upgrade complete | 23.00% | ~94,603 |
-| Just in time! | 18.00% | ~74,037 |
-| Builder | 17.00% | ~69,924 |
-| Long Haul | 17.00% | ~69,812 |
-| Steam Age | 16.00% | ~65,811 |
-| Multilevel road | 15.00% | ~61,698 |
-| Bridgemania | 14.00% | ~57,585 |
-| Need to think | 14.00% | ~57,585 |
-| The Tortoise | 12.00% | ~49,358 |
-| Beginner | 11.00% | ~45,245 |
-| Without a lunch break | 11.00% | ~45,245 |
-| One way | 10.00% | ~41,132 |
-| Relocation | 10.00% | ~41,132 |
+| Dealmaker | 73.00% | ~300,269 |
+| Full garage | 60.00% | ~246,796 |
+| To the eyeballs! | 51.00% | ~209,777 |
+| Individual delivery | 46.00% | ~189,210 |
+| Non-Stop | 45.00% | ~185,097 |
+| Juggler | 36.00% | ~148,078 |
+| Forgot something | 35.00% | ~143,964 |
+| Close call! | 30.00% | ~123,398 |
+| Get out my way | 28.00% | ~115,172 |
+| Common cause | 26.00% | ~106,945 |
+| Critical care | 26.00% | ~106,945 |
+| Mega-railroad | 23.00% | ~94,605 |
+| Upgrade complete | 23.00% | ~94,605 |
+| Just in time! | 18.00% | ~74,039 |
+| Builder | 17.00% | ~69,926 |
+| Long Haul | 17.00% | ~69,814 |
+| Steam Age | 16.00% | ~65,812 |
+| Multilevel road | 15.00% | ~61,699 |
+| Bridgemania | 14.00% | ~57,586 |
+| Need to think | 14.00% | ~57,586 |
+| The Tortoise | 12.00% | ~49,359 |
+| Beginner | 11.00% | ~45,246 |
+| Without a lunch break | 11.00% | ~45,246 |
+| One way | 10.00% | ~41,133 |
+| Relocation | 10.00% | ~41,133 |
 | Industrial Age | 9.00% | ~37,019 |
-| Just One More Valley | 9.00% | ~36,959 |
-| Prick of conscience | 8.00% | ~32,905 |
-| Missed it! | 7.00% | ~28,792 |
-| At the last moment! | 6.00% | ~24,679 |
-| Overseer | 6.00% | ~24,679 |
+| Just One More Valley | 9.00% | ~36,960 |
+| Prick of conscience | 8.00% | ~32,906 |
+| Missed it! | 7.00% | ~28,793 |
+| At the last moment! | 6.00% | ~24,680 |
+| Overseer | 6.00% | ~24,680 |
 | Highlander | 5.00% | ~20,566 |
 | Jewelry accuracy | 5.00% | ~20,566 |
 | Stargazer | 5.00% | ~20,566 |
@@ -49,13 +49,13 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~12,340 |
 | Sabotage | 3.00% | ~12,340 |
 | Test Batch | 3.00% | ~12,320 |
-| Astronomer | 2.00% | ~8,226 |
-| Innovator | 2.00% | ~8,226 |
-| Lucky vandal | 2.00% | ~8,226 |
-| The Hare | 2.00% | ~8,226 |
-| Vandal | 2.00% | ~8,226 |
-| Will work | 2.00% | ~8,226 |
-| Woodcutter | 2.00% | ~8,226 |
+| Astronomer | 2.00% | ~8,227 |
+| Innovator | 2.00% | ~8,227 |
+| Lucky vandal | 2.00% | ~8,227 |
+| The Hare | 2.00% | ~8,227 |
+| Vandal | 2.00% | ~8,227 |
+| Will work | 2.00% | ~8,227 |
+| Woodcutter | 2.00% | ~8,227 |
 | Occupied! | 2.00% | ~8,213 |
 | Achiever | 1.00% | ~4,113 |
 | Metro builder | 1.00% | ~4,113 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~411 |
 | World Zapper | 0.10% | ~411 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411,318 (Ranked 43)  
+Progressed: 411,327 (Ranked 43)  
 Completed: 19 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,10 +250,10 @@ Completed: 19 (0.00%) (Ranked 332)
 | 2023-10-26 | 410,175 | 19 |
 | 2023-10-27 | 410,509 | 19 |
 | 2023-10-28 | 410,907 | 19 |
-| 2023-10-29 | 411,318 | 19 |
+| 2023-10-29 | 411,327 | 19 |
 ## Awards
 Max (Challenging Puzzles): 822  (Ranked 166)  
-Sum: 1,661 (Ranked 216)  
+Sum: 1,662 (Ranked 216)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): -50
 | This game has Challenging Combat | 73 |
 | This game has a Creative Community | 60 |
 | This game has Amazing Storytelling | 58 |
-| This game has Amazing Characters | 44 |
+| This game has Amazing Characters | 45 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -430,4 +430,4 @@ Diff (max vs sum): -50
 | 2023-10-26 | 4.44 | - | 812 | 1,638 |
 | 2023-10-27 | 4.44 | - | 815 | 1,646 |
 | 2023-10-28 | 4.44 | - | 815 | 1,650 |
-| 2023-10-29 | 4.44 | - | 822 | 1,661 |
+| 2023-10-29 | 4.44 | - | 822 | 1,662 |

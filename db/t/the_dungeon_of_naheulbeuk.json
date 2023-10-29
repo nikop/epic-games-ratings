@@ -1257,9 +1257,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233945,
+  "EOS_Progressed": 233955,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16597,6 +16597,11 @@
       "Time": "2023-10-29T22:08:22.252442+00:00",
       "NumProgressed": 233945,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-29T23:08:12.4714356+00:00",
+      "NumProgressed": 233955,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16640,7 +16645,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "BookCollection",
@@ -16656,7 +16661,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11697
+      "UsersEstimate": 11698
     },
     {
       "ID": "Chapter2",
@@ -16672,7 +16677,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "Chapter4",
@@ -16752,7 +16757,7 @@
       "Name": "Res Judicata",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "CompanionPriestress",
@@ -16960,7 +16965,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -17024,7 +17029,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "DwarfInsultWin",
@@ -17032,7 +17037,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "DwarfLevel2",
@@ -17048,7 +17053,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -17056,7 +17061,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79541
+      "UsersEstimate": 79545
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17080,7 +17085,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     },
     {
       "ID": "EndGameCursed",
@@ -17104,7 +17109,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16376
+      "UsersEstimate": 16377
     },
     {
       "ID": "FollowBraztok",
@@ -17128,7 +17133,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "KillDungeonLich",
@@ -17136,7 +17141,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "KillGolbargh",
@@ -17224,7 +17229,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "RangerEpic",
@@ -17296,7 +17301,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "WizardResistBurn",
@@ -17304,28 +17309,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7018
+      "UsersEstimate": 7019
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233945,
+      "Progressed": 233955,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233945,
+      "Progressed": 233955,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-29T20:59:38.5969149+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:08:22.2524413+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:08:12.471435+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:59:49.5531048+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:08:22.2527232+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:59:44.0011498+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:08:12.471731+00:00"
 }

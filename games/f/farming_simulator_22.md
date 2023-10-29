@@ -1,34 +1,34 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 227)  
+Rating: 4.69 (Ranked 228)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,057 |
-| I read Shakespeare and stuff | 64.00% | ~32,476 |
-| Just a sprinkle | 63.00% | ~31,968 |
-| I'm stumped | 61.00% | ~30,953 |
-| Plant get enough | 60.00% | ~30,446 |
-| This is just my weekend vehicle | 58.00% | ~29,431 |
-| It's just the beginning | 58.00% | ~29,431 |
-| Hard work pays off | 53.00% | ~26,894 |
+| Own use | 75.00% | ~38,059 |
+| I read Shakespeare and stuff | 64.00% | ~32,477 |
+| Just a sprinkle | 63.00% | ~31,969 |
+| I'm stumped | 61.00% | ~30,954 |
+| Plant get enough | 60.00% | ~30,447 |
+| This is just my weekend vehicle | 58.00% | ~29,432 |
+| It's just the beginning | 58.00% | ~29,432 |
+| Hard work pays off | 53.00% | ~26,895 |
 | It's never too late to farm | 50.00% | ~25,372 |
-| All out of Land | 45.00% | ~22,834 |
-| Field Trip | 44.00% | ~22,327 |
-| I like to switch it up | 40.00% | ~20,297 |
-| Help me to help you | 38.00% | ~19,282 |
-| Ultimutt Pawesomeness | 28.00% | ~14,208 |
-| Van Gogh | 26.00% | ~13,193 |
-| You wood not believe it | 22.00% | ~11,163 |
-| Vehicle fleet | 22.00% | ~11,163 |
+| All out of Land | 45.00% | ~22,835 |
+| Field Trip | 44.00% | ~22,328 |
+| I like to switch it up | 40.00% | ~20,298 |
+| Help me to help you | 38.00% | ~19,283 |
+| Ultimutt Pawesomeness | 28.00% | ~14,209 |
+| Van Gogh | 26.00% | ~13,194 |
+| You wood not believe it | 22.00% | ~11,164 |
+| Vehicle fleet | 22.00% | ~11,164 |
 | The plot thickens | 16.00% | ~8,119 |
 | Large-scale supplier | 16.00% | ~8,119 |
 | Well-Oiled Machine | 16.00% | ~8,119 |
 | Long haul | 16.00% | ~8,119 |
-| Clucky Streak | 15.00% | ~7,611 |
-| That's a wrap | 15.00% | ~7,611 |
+| Clucky Streak | 15.00% | ~7,612 |
+| That's a wrap | 15.00% | ~7,612 |
 | Fix me up | 13.00% | ~6,597 |
 | Rock on | 12.00% | ~6,089 |
 | Highly cultivated | 11.00% | ~5,582 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~203 |
 | Raisin the stakes | 0.30% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,743 (Ranked 107)  
+Progressed: 50,745 (Ranked 107)  
 Completed: 6 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 6 (0.01%) (Ranked 312)
 | 2023-10-26 | 50,540 | 6 |
 | 2023-10-27 | 50,603 | 6 |
 | 2023-10-28 | 50,669 | 6 |
-| 2023-10-29 | 50,743 | 6 |
+| 2023-10-29 | 50,745 | 6 |
 ## Awards
 Max (Great for Beginners): 5,315  (Ranked 70)  
-Sum: 41,812 (Ranked 33)  
+Sum: 41,818 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -258,7 +258,7 @@ Diff (max vs sum): 37
 | This game is Extremely Fun | 4,105 |
 | This game has Amazing Storytelling | 3,985 |
 | This game has Amazing Characters | 3,638 |
-| This game has a Creative Community | 3,539 |
+| This game has a Creative Community | 3,545 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
 ## Ratings History
@@ -549,4 +549,4 @@ Diff (max vs sum): 37
 | 2023-10-26 | 4.68 | - | 5,281 | 41,692 |
 | 2023-10-27 | 4.68 | - | 5,290 | 41,727 |
 | 2023-10-28 | 4.68 | - | 5,301 | 41,764 |
-| 2023-10-29 | 4.69 | - | 5,315 | 41,812 |
+| 2023-10-29 | 4.69 | - | 5,315 | 41,818 |

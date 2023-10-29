@@ -2,9 +2,9 @@
   "ID": "e9232f2161dd47bd8d3ed6218f562013",
   "Name": "Polygon Survival",
   "ProductSlug": "polygon-survival-2374fc",
-  "Ranking_EOS_Progress": 709,
+  "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-14T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-14T20:02:53.6351663+00:00",
   "LastUpdate_AppInfo": "2023-10-29T20:57:19.2614473+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:59:01.9325337+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:05:23.8117379+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:59:06.3523029+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:05:14.4514283+00:00"
 }

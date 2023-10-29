@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -359,6 +359,11 @@
       "Time": "2023-10-29T19:07:53.0587079+00:00",
       "NumProgressed": 129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T23:09:15.8431356+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -393,9 +398,9 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -403,7 +408,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -425,9 +430,9 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -441,9 +446,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -467,7 +472,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "TIME_ORWELL",
@@ -481,9 +486,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -530,14 +535,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:09:25.882274+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:09:15.8431348+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:02:37.6690104+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:09:25.8822934+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:02:31.9364877+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:09:15.8431592+00:00"
 }

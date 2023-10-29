@@ -12,17 +12,17 @@
 | I did it | 13.00% | ~43 |
 | Peace walker | 13.00% | ~43 |
 | Cable guy | 13.00% | ~43 |
+| A good beginning | 13.00% | ~43 |
+| Half the way | 13.00% | ~43 |
 | True G3M4R | 13.00% | ~43 |
 | Scholar | 13.00% | ~43 |
 | The darkness | 13.00% | ~43 |
 | One last step | 13.00% | ~43 |
 | In this together | 12.00% | ~40 |
-| A good beginning | 12.00% | ~40 |
-| Half the way | 12.00% | ~40 |
 | Champollion | 12.00% | ~40 |
 | Feels like springtime | 11.00% | ~37 |
-| Alchemists Express | 10.00% | ~33 |
-| Open door | 9.00% | ~30 |
+| Alchemists Express | 11.00% | ~37 |
+| Open door | 10.00% | ~33 |
 | Free at last | 8.00% | ~27 |
 | A Link to the Past | 8.00% | ~27 |
 | Rascal | 7.00% | ~23 |

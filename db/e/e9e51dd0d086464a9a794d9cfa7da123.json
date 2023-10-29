@@ -2,7 +2,7 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 121,
@@ -130,9 +130,9 @@
       "ID": "CK",
       "SetID": "2621k8c",
       "Name": "Conversation Killer",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLC",
@@ -306,9 +306,9 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HBACAAD",
@@ -778,9 +778,9 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TMOL",
@@ -872,8 +872,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-10-29T22:10:35.4922599+00:00",
+  "LastChanged_Achievements": "2023-10-29T23:10:24.8363944+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.8244833+00:00",
-  "LastUpdate_Ratings": "2023-10-29T21:59:18.8768211+00:00",
-  "LastUpdate_Achievements": "2023-10-29T22:10:35.4923784+00:00"
+  "LastUpdate_Ratings": "2023-10-29T22:59:19.068966+00:00",
+  "LastUpdate_Achievements": "2023-10-29T23:10:24.8365151+00:00"
 }
