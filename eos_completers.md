@@ -2,9 +2,9 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.93% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.79% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.61% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 41.57% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.59% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -18,9 +18,9 @@
 | 15 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 20.00% |
 | 15 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 20.00% |
 | 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
-| 19 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 17.65% |
-| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 21 | [Island Cities](games/i/island_cities.md) | 17.00% |
+| 19 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 20 | [Island Cities](games/i/island_cities.md) | 17.00% |
+| 21 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 16.67% |
 | 22 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
 | 23 | [Remains](games/r/remains.md) | 13.21% |
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
@@ -104,8 +104,8 @@
 | 102 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 103 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 103 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.67% |
-| 105 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.65% |
-| 106 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.63% |
+| 105 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.63% |
+| 105 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.63% |
 | 107 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 108 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 109 | [Bloodshore](games/b/bloodshore.md) | 2.51% |
@@ -156,8 +156,8 @@
 | 154 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 154 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.95% |
 | 156 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
-| 157 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.91% |
 | 157 | [Hades](games/h/hades.md) | 0.91% |
+| 158 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
 | 159 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 159 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.85% |
 | 161 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
@@ -168,7 +168,7 @@
 | 166 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 167 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 168 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
-| 169 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.65% |
+| 169 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.64% |
 | 170 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.63% |
 | 171 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 171 | [Eternights](games/e/eternights.md) | 0.62% |
@@ -182,10 +182,10 @@
 | 180 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 181 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 182 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 182 | [Dead Space](games/d/dead_space.md) | 0.55% |
 | 182 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.55% |
-| 185 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 185 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.53% |
+| 184 | [Dead Space](games/d/dead_space.md) | 0.54% |
+| 184 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.54% |
+| 186 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 187 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 188 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
 | 188 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
@@ -211,13 +211,13 @@
 | 208 | [Them and Us](games/t/them_and_us.md) | 0.35% |
 | 210 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 211 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.31% |
+| 211 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 211 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
 | 211 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 214 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
-| 214 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 214 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
-| 214 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 214 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 215 | [Against the Storm](games/a/against_the_storm.md) | 0.30% |
+| 215 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 215 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
+| 215 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 219 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 219 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 221 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
