@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 43.00% | ~788 |
-| Eat My Dust | 43.00% | ~788 |
-| Clean Race | 41.00% | ~751 |
-| Hear That Roar! | 38.00% | ~696 |
-| Rivals to the End | 29.00% | ~531 |
-| Bitter Rivalry | 26.00% | ~476 |
+| First Love | 43.00% | ~789 |
+| Eat My Dust | 43.00% | ~789 |
+| Clean Race | 41.00% | ~752 |
+| Hear That Roar! | 38.00% | ~697 |
+| Rivals to the End | 29.00% | ~532 |
+| Bitter Rivalry | 26.00% | ~477 |
 | We're Going to Need a Bigger Garage | 24.00% | ~440 |
 | Champagne Spray | 24.00% | ~440 |
 | I Want One Too! | 19.00% | ~348 |
 | Restored and Ready | 18.00% | ~330 |
 | Legendary!!! | 18.00% | ~330 |
 | Quick Pit Stop | 18.00% | ~330 |
-| I'm Here Too! | 17.00% | ~311 |
+| I'm Here Too! | 17.00% | ~312 |
 | Go-Faster Stripes | 16.00% | ~293 |
 | We've Just Begun | 10.00% | ~183 |
 | Stamina Star | 8.00% | ~147 |
@@ -41,20 +41,20 @@
 | Exhausted but Happy | 0.70% | ~13 |
 | In Search of Perfection | 0.60% | ~11 |
 | Globe-trotter | 0.40% | ~7 |
-| Maximum Endurance | 0.30% | ~5 |
+| Maximum Endurance | 0.30% | ~6 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
 | At the Top | 0.20% | ~4 |
 | There's a Great View up Here | 0.20% | ~4 |
 | Absolute Champion | 0.20% | ~4 |
+| Breathtaking Views | 0.10% | ~2 |
 | Beyond the Limiter | 0.10% | ~2 |
 | Endless | 0.10% | ~2 |
 | Dream Chaser | 0.00% | ~0 |
-| Breathtaking Views | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,832 (Ranked 218)  
+Progressed: 1,834 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 0 (0.00%) (Ranked 331)
 | 2023-10-26 | 1,766 | 0 |
 | 2023-10-27 | 1,789 | 0 |
 | 2023-10-28 | 1,818 | 0 |
-| 2023-10-29 | 1,832 | 0 |
+| 2023-10-29 | 1,834 | 0 |

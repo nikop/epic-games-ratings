@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2149,6 +2149,11 @@
       "Time": "2023-10-29T08:05:31.8120798+00:00",
       "NumProgressed": 496,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-29T13:08:05.4575338+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 14,
@@ -2160,7 +2165,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2168,7 +2173,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2271,14 +2276,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:06:51.357726+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:08:05.457533+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:00:39.1838415+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:06:51.3577514+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:02:03.4826482+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:08:05.4575614+00:00"
 }

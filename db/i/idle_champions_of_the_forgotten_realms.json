@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7681,10 +7681,10 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233130,
-  "EOS_Completed": 2396,
-  "EOS_NewPlayers": 593,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 233138,
+  "EOS_Completed": 2397,
+  "EOS_NewPlayers": 591,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -29121,6 +29121,11 @@
       "Time": "2023-10-29T12:06:17.2829728+00:00",
       "NumProgressed": 233130,
       "NumCompleted": 2396
+    },
+    {
+      "Time": "2023-10-29T13:07:41.9398574+00:00",
+      "NumProgressed": 233138,
+      "NumCompleted": 2397
     }
   ],
   "TotalAchievements": 528,
@@ -29266,9 +29271,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1061",
@@ -29298,9 +29303,9 @@
       "ID": "objective_completed_1065",
       "SetID": "415jc5c",
       "Name": "Hither of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1066",
@@ -30354,9 +30359,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_17",
@@ -31674,9 +31679,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 466
     },
     {
       "ID": "objective_completed_60",
@@ -33355,21 +33360,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199404,
+      "Progressed": 199412,
       "Completed": 3702
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233130,
-      "Completed": 2396
+      "Progressed": 233138,
+      "Completed": 2397
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-29T11:58:02.6436328+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:06:17.282972+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:07:41.9398567+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:58:02.6436334+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:06:17.2864459+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:00:04.6529951+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:07:41.942892+00:00"
 }

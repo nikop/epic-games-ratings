@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 564,
+  "EOS_Progressed": 565,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-10-29T10:08:58.3252245+00:00",
       "NumProgressed": 564,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-10-29T13:10:48.1380457+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -756,9 +761,9 @@
       "ID": "ANNOYING",
       "SetID": "2iigf77",
       "Name": "Annoying",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 107
     },
     {
       "ID": "BLADE_RUNNER",
@@ -798,7 +803,7 @@
       "Name": "Everybody lies",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -868,9 +873,9 @@
       "ID": "I_CAN_DO_A_THING_OR_TWO",
       "SetID": "2iigf77",
       "Name": "I can do a thing or two",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 345
     },
     {
       "ID": "LUCKY_DOG",
@@ -966,7 +971,7 @@
       "Name": "Sysadmin",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1005,7 +1010,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 564,
+      "Progressed": 565,
       "Completed": 18
     }
   ],
@@ -1013,8 +1018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:08:51.0285072+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:10:48.138045+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:37.7430888+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:59:48.0071291+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:08:51.0285397+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:01:24.4657121+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:10:48.1380758+00:00"
 }

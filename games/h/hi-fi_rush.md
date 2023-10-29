@@ -50,7 +50,7 @@ Rating: 4.86 (Ranked 28)
 | You ever parry a volcano? | 1.00% | ~42 |
 | New bad guys? No problem! | 1.00% | ~27 |
 | OK, well THEY came after ME! | 0.70% | ~29 |
-| Easy Listening | 0.50% | ~21 |
+| Easy Listening | 0.60% | ~25 |
 | Choose your own adventure | 0.50% | ~14 |
 | Problem solved... wait, what? | 0.40% | ~17 |
 | Now this is how you fight like a team! | 0.40% | ~17 |

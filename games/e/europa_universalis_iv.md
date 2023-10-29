@@ -6,26 +6,26 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,685 |
-| Until death do us apart | 4.00% | ~17,685 |
-| Victorious! | 4.00% | ~17,685 |
-| That's a Grand Navy | 3.00% | ~13,264 |
-| That is mine! | 3.00% | ~13,264 |
-| Brothers in Arms | 2.00% | ~8,843 |
-| Cold War | 2.00% | ~8,843 |
-| For the Glory | 2.00% | ~8,843 |
-| Seriously?! | 2.00% | ~8,843 |
-| Defender of the Faith | 1.00% | ~4,421 |
-| It's all about luck | 1.00% | ~4,421 |
-| It's all about the money | 1.00% | ~4,421 |
-| Respected | 1.00% | ~4,421 |
-| The Princess is in this Castle | 1.00% | ~4,421 |
-| True Catholic | 1.00% | ~4,421 |
-| Truly Divine Ruler | 1.00% | ~4,421 |
-| Blockader | 0.90% | ~3,979 |
-| Double the Love | 0.80% | ~3,537 |
-| Royal Authority | 0.80% | ~3,537 |
-| Total Control | 0.80% | ~3,537 |
+| That's a Grand Army | 4.00% | ~17,688 |
+| Until death do us apart | 4.00% | ~17,688 |
+| Victorious! | 4.00% | ~17,688 |
+| That's a Grand Navy | 3.00% | ~13,266 |
+| That is mine! | 3.00% | ~13,266 |
+| Brothers in Arms | 2.00% | ~8,844 |
+| Cold War | 2.00% | ~8,844 |
+| For the Glory | 2.00% | ~8,844 |
+| Seriously?! | 2.00% | ~8,844 |
+| Defender of the Faith | 1.00% | ~4,422 |
+| It's all about luck | 1.00% | ~4,422 |
+| It's all about the money | 1.00% | ~4,422 |
+| Respected | 1.00% | ~4,422 |
+| The Princess is in this Castle | 1.00% | ~4,422 |
+| True Catholic | 1.00% | ~4,422 |
+| Truly Divine Ruler | 1.00% | ~4,422 |
+| Blockader | 0.90% | ~3,980 |
+| Double the Love | 0.80% | ~3,538 |
+| Royal Authority | 0.80% | ~3,538 |
+| Total Control | 0.80% | ~3,538 |
 | My armies are invincible! | 0.70% | ~3,095 |
 | Agressive Expander | 0.60% | ~2,653 |
 | Azur semé de lis or | 0.50% | ~2,211 |
@@ -40,12 +40,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.40% | ~1,769 |
 | The Five Colonies | 0.40% | ~1,769 |
 | Trustworthy | 0.40% | ~1,769 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,326 |
-| Down Under | 0.30% | ~1,326 |
-| Electable! | 0.30% | ~1,326 |
-| A Golden Empire | 0.30% | ~1,326 |
-| Market Control | 0.30% | ~1,326 |
-| Populists in Government | 0.30% | ~1,326 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,327 |
+| Down Under | 0.30% | ~1,327 |
+| Electable! | 0.30% | ~1,327 |
+| A Golden Empire | 0.30% | ~1,327 |
+| Market Control | 0.30% | ~1,327 |
+| Populists in Government | 0.30% | ~1,327 |
 | Absolutely | 0.20% | ~884 |
 | All belongs to Mother Russia | 0.20% | ~884 |
 | At every continent | 0.20% | ~884 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442,136 (Ranked 41)  
+Progressed: 442,199 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1 (0.00%) (Ranked 331)
 | 2023-10-26 | 440,025 | 1 |
 | 2023-10-27 | 440,786 | 1 |
 | 2023-10-28 | 441,735 | 1 |
-| 2023-10-29 | 442,136 | 1 |
+| 2023-10-29 | 442,199 | 1 |
 ## Awards
 Max (Educational): 6,718  (Ranked 56)  
 Sum: 55,293 (Ranked 24)  

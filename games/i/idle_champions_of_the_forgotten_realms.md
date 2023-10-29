@@ -17,6 +17,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Arena of Blood | 0.30% | ~598 |
 | Maddening | 0.20% | ~466 |
 | The Witchlight Carnival | 0.20% | ~399 |
+| Thieves of the Coven | 0.20% | ~399 |
+| Hither of the Feywild | 0.20% | ~399 |
 | The Prince of a Thousand Enemies | 0.20% | ~399 |
 | Heatwave | 0.20% | ~399 |
 | The Castle of a Thousand Vecnas | 0.20% | ~399 |
@@ -27,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.20% | ~466 |
 | Terror in the Dark | 0.20% | ~466 |
 | A Mysterious Summons | 0.20% | ~466 |
+| Building Trust | 0.20% | ~466 |
 | Unearthed Evil | 0.20% | ~466 |
 | The Crumbling Temple | 0.20% | ~466 |
 | Seeking Allies | 0.20% | ~466 |
@@ -35,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~466 |
 | The Darkness Runs Deeper | 0.20% | ~466 |
 | Difficult Terrain | 0.20% | ~466 |
+| The Contagious Curse | 0.20% | ~466 |
 | Elturel Has Fallen | 0.20% | ~466 |
 | Resolve Amongst Chaos | 0.20% | ~466 |
 | Into The Fire | 0.20% | ~399 |
@@ -74,11 +78,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.10% | ~199 |
 | A Dragon Against Us | 0.10% | ~199 |
 | A Familiar Behind Us | 0.10% | ~199 |
-| Thieves of the Coven | 0.10% | ~199 |
 | Sticky Fingers | 0.10% | ~199 |
 | Patron Party | 0.10% | ~199 |
 | Go Fourth | 0.10% | ~199 |
-| Hither of the Feywild | 0.10% | ~199 |
 | Don't Breathe the Marsh Gas | 0.10% | ~199 |
 | Don't Blast the Brigands | 0.10% | ~199 |
 | Don't Squeeze the Spiders | 0.10% | ~199 |
@@ -199,7 +201,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.10% | ~233 |
 | Force Grey Unleashed | 0.10% | ~233 |
 | Vajra's Guards | 0.10% | ~233 |
-| Building Trust | 0.10% | ~233 |
 | March of the Undead | 0.10% | ~233 |
 | Wisdom Check | 0.10% | ~233 |
 | Sleuth It Out | 0.10% | ~233 |
@@ -354,7 +355,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~233 |
 | The Nimble Grove | 0.10% | ~233 |
 | The Misty Grove | 0.10% | ~199 |
-| The Contagious Curse | 0.10% | ~233 |
 | Dinosaur Racing | 0.10% | ~233 |
 | Everything is Awful | 0.10% | ~233 |
 | Earthquake! | 0.10% | ~199 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.10% | ~199 |
 | Entrance of the Gladiators | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,130 (Ranked 61)  
-Completed: 2,396 (1.03%) (Ranked 149)  
+Progressed: 233,138 (Ranked 61)  
+Completed: 2,397 (1.03%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -727,7 +727,7 @@ Completed: 2,396 (1.03%) (Ranked 149)
 | 2023-10-26 | 232,891 | 2,388 |
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
-| 2023-10-29 | 233,130 | 2,396 |
+| 2023-10-29 | 233,138 | 2,397 |
 ## Awards
 Max (Great for Beginners): 5,461  (Ranked 69)  
 Sum: 32,256 (Ranked 41)  

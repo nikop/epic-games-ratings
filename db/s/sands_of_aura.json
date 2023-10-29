@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -179,6 +179,11 @@
     {
       "Time": "2023-10-29T11:03:54.4709866+00:00",
       "NumProgressed": 32,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T13:06:05.2654732+00:00",
+      "NumProgressed": 33,
       "NumCompleted": 0
     }
   ],
@@ -342,7 +347,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -590,15 +595,15 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -655,7 +660,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
@@ -663,8 +668,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:03:59.7625963+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:06:05.2654727+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.7042066+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:57:57.2946115+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:03:59.7626646+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:00:01.0408817+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:06:05.2655301+00:00"
 }

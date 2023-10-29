@@ -2,7 +2,7 @@
   "ID": "80d6afef34fc4d3ea8a72c7820743fb8",
   "Name": "Power Vacuum",
   "ProductSlug": "power-vacuum-3b662e",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 124,
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -91,6 +91,11 @@
     {
       "Time": "2023-09-22T09:08:55.5615881+00:00",
       "NumProgressed": 13,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T13:08:37.8747558+00:00",
+      "NumProgressed": 14,
       "NumCompleted": 0
     }
   ],
@@ -270,13 +275,13 @@
     {
       "ID": "4pdi6j1",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-30T09:00:58.4633941+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:07:40.2966306+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:08:37.8747552+00:00",
   "LastUpdate_AppInfo": "2023-10-24T20:57:15.496133+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:01:21.2237075+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:07:40.2966504+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:02:33.8670118+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:08:37.874772+00:00"
 }

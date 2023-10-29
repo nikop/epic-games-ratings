@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 307,
+  "Ranking_Rating": 308,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 142,
@@ -1950,9 +1950,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15019,
+  "EOS_Progressed": 15021,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14935,6 +14935,11 @@
       "Time": "2023-10-29T12:07:19.0306301+00:00",
       "NumProgressed": 15019,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-29T13:08:24.9371992+00:00",
+      "NumProgressed": 15021,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16312,9 +16317,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -16616,9 +16621,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -16992,9 +16997,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -17681,21 +17686,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15019,
+      "Progressed": 15021,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15019,
+      "Progressed": 15021,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:07:19.0306293+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:08:24.9371986+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:58:17.6502054+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:07:19.0320933+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:00:14.2664493+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:08:24.9384969+00:00"
 }

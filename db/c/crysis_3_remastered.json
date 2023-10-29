@@ -2,7 +2,7 @@
   "ID": "f541519f3d21457ba7dcf5b57f1014b2",
   "Name": "Crysis 3 Remastered",
   "ProductSlug": "crysis-3-remastered",
-  "Ranking_Rating": 307,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 708,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 494,
   "RatingHistory": [
     {
@@ -547,6 +547,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2023-10-29T13:01:29.9770935+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
@@ -572,8 +578,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
-  "LastChanged": "2023-10-13T11:57:13.2848643+00:00",
+  "LastChanged": "2023-10-29T13:01:29.9770933+00:00",
   "LastUpdate_AppInfo": "2023-10-28T09:57:17.5384903+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:59:57.2451137+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:04:26.1568605+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:01:29.9770939+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:06:23.7685677+00:00"
 }

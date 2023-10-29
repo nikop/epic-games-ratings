@@ -2,9 +2,9 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 549,
+  "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -238,9 +238,9 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OmamoriExpert",
@@ -270,9 +270,9 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Survivor",
@@ -327,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:06:41.1801378+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:07:58.2316758+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.9200727+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:03:15.6713121+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:06:41.1801605+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:05:35.3896156+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:07:58.2316967+00:00"
 }

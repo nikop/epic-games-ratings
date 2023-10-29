@@ -2,7 +2,7 @@
   "ID": "7793682d55cc49469f13879ea241460e",
   "Name": "Loretta",
   "ProductSlug": "loretta-0099a6",
-  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 124,
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.6808915+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.2290524+00:00",
   "LastChanged": "2023-03-31T05:58:45.6808915+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:08:59.2115606+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:10:53.7871812+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.0973458+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:01:42.634126+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:08:59.2116036+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:02:52.5708281+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:10:53.7871986+00:00"
 }

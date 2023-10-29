@@ -3155,9 +3155,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 17110,
+  "EOS_Progressed": 17112,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12750,6 +12750,11 @@
       "Time": "2023-10-29T11:03:57.9072033+00:00",
       "NumProgressed": 17110,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-29T13:06:07.9929439+00:00",
+      "NumProgressed": 17112,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -13111,9 +13116,9 @@
       "ID": "WinWithRuins",
       "SetID": "cfbk359",
       "Name": "Ruins",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 68
     },
     {
       "ID": "WinWithTimedOrders",
@@ -13160,15 +13165,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17110,
+      "Progressed": 17112,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-27T16:59:34.9515228+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:04:03.7576082+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:06:07.9929433+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.3582421+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:01:05.8404883+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:04:03.7577314+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:02:22.0629701+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:06:07.9930565+00:00"
 }

@@ -1,44 +1,44 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 518)  
+Rating: 4.54 (Ranked 519)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,366 |
-| Welcome To Hell-A | 5.00% | ~35,366 |
-| Git Gutte! | 4.00% | ~28,293 |
-| Break A Leg | 4.00% | ~28,293 |
-| Coup de Grâce | 4.00% | ~28,293 |
-| Hazardous Materials | 4.00% | ~28,293 |
-| Friends Like These | 4.00% | ~28,293 |
-| Apex Predator | 4.00% | ~28,293 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,293 |
-| Dr. Reed, I Presume? | 3.00% | ~21,220 |
-| Bookworm | 3.00% | ~21,220 |
-| But Doctor, I am Butcho | 3.00% | ~21,220 |
-| Slayer Squad | 3.00% | ~21,220 |
-| Can't Handle the Truth | 3.00% | ~21,220 |
-| Like Riding a Bike | 3.00% | ~21,220 |
-| Zombologist | 3.00% | ~21,220 |
-| A Patton Emerges | 3.00% | ~21,220 |
-| I Am the Resurrection | 3.00% | ~21,220 |
-| Stacking the Deck | 3.00% | ~21,220 |
-| Our True Nature | 3.00% | ~21,220 |
-| This is My Weapon | 3.00% | ~21,220 |
-| Making Your Mark | 2.00% | ~14,146 |
-| Anger Management | 2.00% | ~14,146 |
-| Perks of the Job | 2.00% | ~14,146 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,146 |
-| Ooh, Shiny! | 2.00% | ~14,146 |
-| Humanity Distilled | 2.00% | ~14,146 |
-| Down with the Sickness | 2.00% | ~14,146 |
-| Max Headroom | 2.00% | ~14,146 |
-| Smorgasbord | 1.00% | ~7,073 |
-| Internet Famous | 1.00% | ~7,073 |
-| Jumbo Keyring | 1.00% | ~7,073 |
-| Go, Bobcats! | 1.00% | ~7,073 |
-| Rising Star | 1.00% | ~7,073 |
+| Hotel California | 5.00% | ~35,369 |
+| Welcome To Hell-A | 5.00% | ~35,369 |
+| Git Gutte! | 4.00% | ~28,295 |
+| Break A Leg | 4.00% | ~28,295 |
+| Coup de Grâce | 4.00% | ~28,295 |
+| Hazardous Materials | 4.00% | ~28,295 |
+| Friends Like These | 4.00% | ~28,295 |
+| Apex Predator | 4.00% | ~28,295 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,295 |
+| Dr. Reed, I Presume? | 3.00% | ~21,221 |
+| Bookworm | 3.00% | ~21,221 |
+| But Doctor, I am Butcho | 3.00% | ~21,221 |
+| Slayer Squad | 3.00% | ~21,221 |
+| Can't Handle the Truth | 3.00% | ~21,221 |
+| Like Riding a Bike | 3.00% | ~21,221 |
+| Zombologist | 3.00% | ~21,221 |
+| A Patton Emerges | 3.00% | ~21,221 |
+| I Am the Resurrection | 3.00% | ~21,221 |
+| Stacking the Deck | 3.00% | ~21,221 |
+| Our True Nature | 3.00% | ~21,221 |
+| This is My Weapon | 3.00% | ~21,221 |
+| Making Your Mark | 2.00% | ~14,147 |
+| Anger Management | 2.00% | ~14,147 |
+| Perks of the Job | 2.00% | ~14,147 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~14,147 |
+| Ooh, Shiny! | 2.00% | ~14,147 |
+| Humanity Distilled | 2.00% | ~14,147 |
+| Down with the Sickness | 2.00% | ~14,147 |
+| Max Headroom | 2.00% | ~14,147 |
+| Smorgasbord | 1.00% | ~7,074 |
+| Internet Famous | 1.00% | ~7,074 |
+| Jumbo Keyring | 1.00% | ~7,074 |
+| Go, Bobcats! | 1.00% | ~7,074 |
+| Rising Star | 1.00% | ~7,074 |
 | Not Even My Final Form | 0.90% | ~6,366 |
 | Make it So | 0.80% | ~5,659 |
 | On Safari | 0.80% | ~5,659 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 518)
 | Donk! | 0.20% | ~1,415 |
 | Bucket List | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 707,323 (Ranked 22)  
+Progressed: 707,372 (Ranked 22)  
 Completed: 2,276 (0.32%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,21 +243,21 @@ Completed: 2,276 (0.32%) (Ranked 210)
 | 2023-10-26 | 704,831 | 2,269 |
 | 2023-10-27 | 705,683 | 2,275 |
 | 2023-10-28 | 706,850 | 2,276 |
-| 2023-10-29 | 707,323 | 2,276 |
+| 2023-10-29 | 707,372 | 2,276 |
 ## Awards
 Max (Great Boss Battles): 6,730  (Ranked 55)  
-Sum: 10,127 (Ranked 90)  
+Sum: 10,134 (Ranked 90)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,730 |
 | This game is Great for Beginners | 491 |
 | This game has Diverse Characters | 478 |
-| This game has Quickly Understood Controls | 445 |
+| This game has Quickly Understood Controls | 449 |
 | This game is Relaxing | 431 |
 | This game has Amazing Storytelling | 408 |
 | This game is Highly Recommended | 395 |
-| This game is Extremely Fun | 380 |
+| This game is Extremely Fun | 383 |
 | This game has Amazing Characters | 369 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -453,4 +453,4 @@ Diff (max vs sum): -35
 | 2023-10-26 | 4.54 | 6,651 | 9,992 |
 | 2023-10-27 | 4.54 | 6,671 | 10,038 |
 | 2023-10-28 | 4.54 | 6,701 | 10,088 |
-| 2023-10-29 | 4.54 | 6,730 | 10,127 |
+| 2023-10-29 | 4.54 | 6,730 | 10,134 |

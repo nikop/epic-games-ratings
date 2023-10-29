@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.78,
+  "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1460,6 +1460,11 @@
       "Time": "2023-10-29T12:08:52.8516851+00:00",
       "NumProgressed": 450,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-29T13:10:49.354105+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1480,7 +1485,7 @@
       "Name": "Holey Moley",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_11",
@@ -1488,23 +1493,23 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_14",
@@ -1512,7 +1517,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_15",
@@ -1528,7 +1533,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_17",
@@ -1536,7 +1541,7 @@
       "Name": "Clean Sheet",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_18",
@@ -1544,7 +1549,7 @@
       "Name": "Perfect Round",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_2",
@@ -1590,9 +1595,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_8",
@@ -1600,7 +1605,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 60,
       "XP": 35,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_9",
@@ -1608,20 +1613,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:08:52.8516844+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:10:49.3541037+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:00:47.3676229+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:08:52.8517084+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:02:10.139557+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:10:49.3541303+00:00"
 }

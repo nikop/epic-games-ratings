@@ -7,7 +7,7 @@ Rating: 4.60 (Ranked 404)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 2.00% | ~289 |
 | Drug Gifter | 0.90% | ~130 |
-| Bosmang | 0.80% | ~116 |
+| Bosmang | 0.90% | ~130 |
 | The Pit and the Pirates | 0.70% | ~101 |
 | Celebrations are in Order | 0.70% | ~101 |
 | Martian Music | 0.60% | ~87 |

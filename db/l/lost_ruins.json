@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1242,9 +1242,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "TheTrio",
@@ -1307,8 +1307,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:10:02.0656828+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:11:37.6912253+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:04.3503541+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:00:28.6465269+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:10:02.0657252+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:01:54.950243+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:11:37.6912666+00:00"
 }

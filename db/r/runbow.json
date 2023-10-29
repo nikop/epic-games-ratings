@@ -2,12 +2,12 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 541,
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250758,
+  "EOS_Progressed": 250760,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17667,6 +17667,11 @@
       "Time": "2023-10-29T12:09:00.0615234+00:00",
       "NumProgressed": 250758,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-29T13:10:54.4195989+00:00",
+      "NumProgressed": 250760,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17702,7 +17707,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52659
+      "UsersEstimate": 52660
     },
     {
       "ID": "blotbuster",
@@ -17726,7 +17731,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15045
+      "UsersEstimate": 15046
     },
     {
       "ID": "canYouDigIt",
@@ -17774,7 +17779,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45136
+      "UsersEstimate": 45137
     },
     {
       "ID": "curator",
@@ -17854,7 +17859,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132902
+      "UsersEstimate": 132903
     },
     {
       "ID": "indegestible",
@@ -17878,7 +17883,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65197
+      "UsersEstimate": 65198
     },
     {
       "ID": "justABit",
@@ -17918,7 +17923,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125379
+      "UsersEstimate": 125380
     },
     {
       "ID": "notScared",
@@ -18038,14 +18043,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40121
+      "UsersEstimate": 40122
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250758,
+      "Progressed": 250760,
       "Completed": 6
     }
   ],
@@ -18053,8 +18058,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:09:00.0615226+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:10:54.4195983+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:47.9413553+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:00:03.549241+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:09:00.0616692+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:01:33.9592581+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:10:54.4197442+00:00"
 }

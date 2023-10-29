@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.65,
+  "EOS_Completed_Percentage": 6.63,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1555,6 +1555,11 @@
       "Time": "2023-10-28T21:05:25.2207482+00:00",
       "NumProgressed": 331,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-29T13:07:44.7686935+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1574,7 +1579,7 @@
       "Name": "In this together",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "META_ALL_LINK",
@@ -1622,7 +1627,7 @@
       "Name": "Free at last",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1654,7 +1659,7 @@
       "Name": "A Link to the Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1702,7 +1707,7 @@
       "Name": "Champollion",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1740,9 +1745,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "PROGRESS_N4",
@@ -1765,14 +1770,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:06:22.1205722+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:07:44.7686929+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-29T11:59:18.058277+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:06:22.1206128+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:01:03.0696311+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:07:44.7687238+00:00"
 }

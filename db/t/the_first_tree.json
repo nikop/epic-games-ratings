@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37271,
+  "EOS_Progressed": 37273,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -16883,6 +16883,11 @@
       "Time": "2023-10-29T12:07:14.8968015+00:00",
       "NumProgressed": 37271,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-10-29T13:08:21.7139246+00:00",
+      "NumProgressed": 37273,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 14,
@@ -16910,7 +16915,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9690
+      "UsersEstimate": 9691
     },
     {
       "ID": "allItems",
@@ -16942,7 +16947,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3354
+      "UsersEstimate": 3355
     },
     {
       "ID": "completionist",
@@ -16974,7 +16979,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8945
+      "UsersEstimate": 8946
     },
     {
       "ID": "firstItem",
@@ -16982,7 +16987,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28699
+      "UsersEstimate": 28700
     },
     {
       "ID": "roots",
@@ -17005,15 +17010,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37271,
+      "Progressed": 37273,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-10-29T12:07:14.8968008+00:00",
+  "LastChanged_Achievements": "2023-10-29T13:08:21.7139241+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:56.7109243+00:00",
-  "LastUpdate_Ratings": "2023-10-29T12:00:16.6834168+00:00",
-  "LastUpdate_Achievements": "2023-10-29T12:07:14.8969469+00:00"
+  "LastUpdate_Ratings": "2023-10-29T13:01:44.4678793+00:00",
+  "LastUpdate_Achievements": "2023-10-29T13:08:21.7140457+00:00"
 }

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 307)  
+Rating: 4.65 (Ranked 308)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 3.00% | ~451 |
 | Strong | 3.00% | ~451 |
 | Friendly Family | 3.00% | ~451 |
+| Hanging Gardens | 3.00% | ~451 |
 | Ambitious | 2.00% | ~300 |
 | Brilliant | 2.00% | ~300 |
 | Enlightened | 2.00% | ~300 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~300 |
 | Furious Family | 2.00% | ~300 |
 | Great Ziggurat | 2.00% | ~300 |
-| Hanging Gardens | 2.00% | ~300 |
 | Ishtar Gate | 2.00% | ~300 |
 | Lighthouse | 2.00% | ~300 |
 | Oracle | 2.00% | ~300 |
@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
 | Redemption | 0.80% | ~120 |
+| Cimmerian Archer | 0.80% | ~120 |
 | Legionary | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
@@ -113,17 +114,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
+| One True Faith | 0.70% | ~105 |
 | Dualism | 0.70% | ~105 |
 | Revelation | 0.70% | ~105 |
 | Veneration | 0.70% | ~105 |
-| Cimmerian Archer | 0.70% | ~105 |
 | Mounted Lancer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
 | Ready | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
-| One True Faith | 0.60% | ~90 |
 | Assyrian Paganism | 0.60% | ~90 |
 | Hittite Paganism | 0.60% | ~90 |
 | Industrial Progress | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,019 (Ranked 142)  
+Progressed: 15,021 (Ranked 142)  
 Completed: 5 (0.03%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,019 | 5 |
+| 2023-10-29 | 15,021 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  
