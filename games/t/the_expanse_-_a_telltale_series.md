@@ -9,12 +9,12 @@ Rating: 4.60 (Ranked 404)
 | Drug Gifter | 0.80% | ~115 |
 | Bosmang | 0.70% | ~101 |
 | The Pit and the Pirates | 0.60% | ~87 |
+| Captain Drummer | 0.60% | ~87 |
 | Celebrations are in Order | 0.60% | ~87 |
 | Spore Taste | 0.50% | ~72 |
 | Martian Music | 0.50% | ~72 |
 | Drone Dodger | 0.50% | ~72 |
 | Call it Even | 0.50% | ~72 |
-| Captain Drummer | 0.50% | ~72 |
 | Impossible Objects | 0.50% | ~72 |
 | Data Archivist | 0.40% | ~58 |
 | Stogie for Fogey | 0.40% | ~58 |

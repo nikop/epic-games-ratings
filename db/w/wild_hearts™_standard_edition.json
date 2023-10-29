@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1210,9 +1210,9 @@
       "ID": "achievement_45",
       "SetID": "2cpn27e",
       "Name": "Helpful Heart",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_46",
@@ -1288,8 +1288,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:03:48.179794+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:03:09.9746943+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:57:10.3944982+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:03:48.1798573+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:57:02.0884317+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:03:09.9747431+00:00"
 }

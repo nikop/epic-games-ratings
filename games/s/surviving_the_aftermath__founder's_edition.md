@@ -26,9 +26,9 @@ Number of Ratings: 836  (23.09.2022)
 | Finders, Keepers | 26.00% | ~2,581 |
 | Top Notch | 25.00% | ~2,482 |
 | Great Leader | 23.00% | ~2,283 |
+| Ice Lakes | 23.00% | ~2,283 |
 | Mentor | 23.00% | ~2,283 |
 | Merchant | 22.00% | ~2,184 |
-| Ice Lakes | 22.00% | ~2,184 |
 | Real Survivor | 22.00% | ~2,184 |
 | Rocket Surgeon | 20.00% | ~1,985 |
 | War Never Changes | 19.00% | ~1,886 |
@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,927 (Ranked 155)  
-Completed: 0 (0.00%) (Ranked 329)  
+Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

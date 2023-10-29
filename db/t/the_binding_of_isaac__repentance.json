@@ -3,11 +3,11 @@
   "Name": "The Binding of Isaac: Repentance",
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 6,
-  "Ranking_Popularity": 112,
+  "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 708,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-03-31T07:00:00+00:00",
@@ -4861,6 +4861,6 @@
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
   "LastChanged": "2023-10-28T22:00:43.6685033+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:51.4480662+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:01:48.4412642+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:07:45.2083332+00:00"
+  "LastUpdate_Ratings": "2023-10-29T00:00:07.47251+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:05:55.457975+00:00"
 }

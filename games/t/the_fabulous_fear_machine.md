@@ -20,10 +20,10 @@
 | Diagnosis: fear | 47.00% | ~15 |
 | Ambition is... blind | 47.00% | ~15 |
 | You have two wishes left | 47.00% | ~15 |
+| Et in arcadia ego | 41.00% | ~13 |
 | The seer | 41.00% | ~13 |
-| Et in arcadia ego | 38.00% | ~12 |
+| Welcome to Hellville | 41.00% | ~13 |
 | The artist | 38.00% | ~12 |
-| Welcome to Hellville | 38.00% | ~12 |
 | You had one wish left | 34.00% | ~11 |
 | You've awakened the beast | 31.00% | ~10 |
 | Hate is... addictive | 31.00% | ~10 |
@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 481)  
-Completed: 0 (0.00%) (Ranked 329)  
+Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

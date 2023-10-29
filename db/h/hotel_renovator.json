@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1089,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
@@ -2029,6 +2029,11 @@
       "Time": "2023-10-26T21:04:38.1060451+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-10-29T00:04:13.8147601+00:00",
+      "NumProgressed": 1089,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -2064,7 +2069,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2104,7 +2109,7 @@
       "Name": "No need to call anyone",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -2136,7 +2141,7 @@
       "Name": "No pressure",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2144,7 +2149,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2168,7 +2173,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2192,7 +2197,7 @@
       "Name": "Good start",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_STAR_2",
@@ -2208,7 +2213,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_STAR_4",
@@ -2248,14 +2253,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1089,
       "Completed": 16
     }
   ],
@@ -2263,8 +2268,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-10-21T14:59:13.9477211+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:05:18.6886891+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:04:13.8147589+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:29.2346589+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:02:41.1850627+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:05:18.6887754+00:00"
+  "LastUpdate_Ratings": "2023-10-29T00:00:43.1369935+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:04:13.8147901+00:00"
 }

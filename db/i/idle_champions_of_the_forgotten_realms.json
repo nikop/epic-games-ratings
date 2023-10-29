@@ -7669,9 +7669,9 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233088,
+  "EOS_Progressed": 233091,
   "EOS_Completed": 2395,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29044,6 +29044,11 @@
       "Time": "2023-10-28T23:05:52.6688915+00:00",
       "NumProgressed": 233088,
       "NumCompleted": 2395
+    },
+    {
+      "Time": "2023-10-29T00:04:38.0678267+00:00",
+      "NumProgressed": 233091,
+      "NumCompleted": 2395
     }
   ],
   "TotalAchievements": 528,
@@ -29861,9 +29866,9 @@
       "ID": "objective_completed_1188",
       "SetID": "415jc5c",
       "Name": "The Castle of a Thousand Vecnas",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1189",
@@ -33278,21 +33283,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199362,
+      "Progressed": 199365,
       "Completed": 3692
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233088,
+      "Progressed": 233091,
       "Completed": 2395
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-28T07:57:33.0279022+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:05:52.668891+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:04:38.0678262+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:57:45.4979465+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:05:52.6727698+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:57:25.7364331+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:04:38.0707148+00:00"
 }

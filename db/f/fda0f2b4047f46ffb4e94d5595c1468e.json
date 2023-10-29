@@ -6,8 +6,8 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1839,9 +1839,9 @@
       "Count": 291
     }
   ],
-  "EOS_Progressed": 8129,
+  "EOS_Progressed": 8130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6079,6 +6079,11 @@
       "Time": "2023-10-28T23:07:20.7834023+00:00",
       "NumProgressed": 8129,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T00:05:39.0336179+00:00",
+      "NumProgressed": 8130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6131,7 +6136,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "ach07",
@@ -6139,7 +6144,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "ach08",
@@ -6155,7 +6160,7 @@
       "Name": "Kontender",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ach10",
@@ -6219,7 +6224,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "ach18",
@@ -6299,7 +6304,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "ach28",
@@ -6323,7 +6328,7 @@
       "Name": "Juggernaut",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ach31",
@@ -6331,7 +6336,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "ach32",
@@ -6419,7 +6424,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "ach43",
@@ -6483,14 +6488,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8129,
+      "Progressed": 8130,
       "Completed": 0
     }
   ],
@@ -6498,8 +6503,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-28T21:00:23.2033455+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:07:20.7834017+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:05:39.0336174+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:01:08.579653+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:07:20.7834836+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:59:37.0366735+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:05:39.0336856+00:00"
 }

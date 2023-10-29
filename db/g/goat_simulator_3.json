@@ -4699,9 +4699,9 @@
       "Count": 319
     }
   ],
-  "EOS_Progressed": 249036,
+  "EOS_Progressed": 249037,
   "EOS_Completed": 864,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -25569,6 +25569,11 @@
       "Time": "2023-10-28T23:09:30.4248603+00:00",
       "NumProgressed": 249036,
       "NumCompleted": 864
+    },
+    {
+      "Time": "2023-10-29T00:08:59.1846373+00:00",
+      "NumProgressed": 249037,
+      "NumCompleted": 864
     }
   ],
   "TotalAchievements": 39,
@@ -25636,7 +25641,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64749
+      "UsersEstimate": 64750
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -25644,7 +25649,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 226623
+      "UsersEstimate": 226624
     },
     {
       "ID": "AchievementClownID",
@@ -25676,7 +25681,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44826
+      "UsersEstimate": 44827
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -25708,7 +25713,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 131989
+      "UsersEstimate": 131990
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -25724,7 +25729,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37355
+      "UsersEstimate": 37356
     },
     {
       "ID": "AchievementInstinctID",
@@ -25740,7 +25745,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112066
+      "UsersEstimate": 112067
     },
     {
       "ID": "AchievementIntroID",
@@ -25876,7 +25881,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 161873
+      "UsersEstimate": 161874
     },
     {
       "ID": "AchievementWhaleID",
@@ -25891,7 +25896,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 249036,
+      "Progressed": 249037,
       "Completed": 864
     }
   ],
@@ -25899,8 +25904,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-28T19:57:06.033659+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:09:30.4248597+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:08:59.1846367+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.9944721+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:57:13.7178072+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:09:30.4250597+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:57:04.2141527+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:08:59.18479+00:00"
 }

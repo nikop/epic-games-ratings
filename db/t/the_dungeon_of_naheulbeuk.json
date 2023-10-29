@@ -6,9 +6,9 @@
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1245,9 +1245,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233691,
+  "EOS_Progressed": 233702,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1419,
+  "EOS_NewPlayers": 1422,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16475,6 +16475,11 @@
       "Time": "2023-10-28T23:07:15.9242942+00:00",
       "NumProgressed": 233691,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-29T00:05:35.6506348+00:00",
+      "NumProgressed": 233702,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16502,7 +16507,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "BarbarianEpic",
@@ -16886,7 +16891,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14021
+      "UsersEstimate": 14022
     },
     {
       "ID": "DwarfElf15Support",
@@ -16934,7 +16939,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79455
+      "UsersEstimate": 79459
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16982,7 +16987,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16359
     },
     {
       "ID": "FollowBraztok",
@@ -16998,7 +17003,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "InsultLoose",
@@ -17054,7 +17059,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "Poster",
@@ -17189,21 +17194,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233691,
+      "Progressed": 233702,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233691,
+      "Progressed": 233702,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-28T20:58:37.4883873+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:07:15.9242936+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:05:35.6506345+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:59:04.7870102+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:07:15.9245314+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:58:16.6290255+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:05:35.650826+00:00"
 }

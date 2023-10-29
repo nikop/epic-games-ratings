@@ -6,7 +6,7 @@
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 33,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -871,9 +871,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 534143,
+  "EOS_Progressed": 534145,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1617,
+  "EOS_NewPlayers": 1606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22436,6 +22436,11 @@
       "Time": "2023-10-28T23:06:17.5890117+00:00",
       "NumProgressed": 534143,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-29T00:04:54.9414262+00:00",
+      "NumProgressed": 534145,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -22543,7 +22548,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 208316
+      "UsersEstimate": 208317
     },
     {
       "ID": "DeadlyAssassin",
@@ -22551,7 +22556,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80121
+      "UsersEstimate": 80122
     },
     {
       "ID": "DogEatDog",
@@ -22647,7 +22652,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42731
+      "UsersEstimate": 42732
     },
     {
       "ID": "OnTheButton",
@@ -22695,7 +22700,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 405949
+      "UsersEstimate": 405950
     },
     {
       "ID": "ProPlayer",
@@ -22767,7 +22772,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42731
+      "UsersEstimate": 42732
     },
     {
       "ID": "ThreeWay",
@@ -22791,7 +22796,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 42731
+      "UsersEstimate": 42732
     },
     {
       "ID": "WHIP",
@@ -22806,7 +22811,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 534143,
+      "Progressed": 534145,
       "Completed": 2
     }
   ],
@@ -22814,8 +22819,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-28T22:59:19.1426851+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:06:17.5890111+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:04:54.9414256+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.2616116+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:59:19.1426856+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:06:17.5891908+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:58:27.3779867+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:04:54.9415714+00:00"
 }

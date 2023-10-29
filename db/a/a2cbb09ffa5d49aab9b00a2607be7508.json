@@ -3,8 +3,8 @@
   "Name": "Ascent of Ashes",
   "ProductSlug": "ascent-of-ashes-b0df4c",
   "Ranking_EOS_Progress": 708,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-26T10:57:22.3957628+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:57:41.9615448+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:05:47.909111+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:57:23.597424+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:04:34.1133792+00:00"
 }

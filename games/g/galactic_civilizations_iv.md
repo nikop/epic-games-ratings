@@ -11,7 +11,7 @@ Number of Ratings: 429  (23.09.2022)
 | First Contact | 72.00% | ~5,141 |
 | Win a Battle | 65.00% | ~4,641 |
 | Anomaly Researcher | 61.00% | ~4,355 |
-| Unleash My Power | 60.00% | ~4,284 |
+| Unleash My Power | 61.00% | ~4,355 |
 | Own 30 Planets | 33.00% | ~2,356 |
 | Xenocide | 31.00% | ~2,213 |
 | Design a Civilization | 31.00% | ~2,213 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,140 (Ranked 168)  
-Completed: 0 (0.00%) (Ranked 329)  
+Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

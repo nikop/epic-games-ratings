@@ -2,12 +2,12 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "ProductSlug": "killing-floor-2",
-  "Ranking_Rating": 683,
+  "Ranking_Rating": 684,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 708,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -10432,6 +10432,6 @@
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
   "LastChanged": "2023-10-28T20:59:32.8885774+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:57.1254438+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:00:10.5244273+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:09:31.92268+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:58:56.0602751+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:09:00.2911094+00:00"
 }

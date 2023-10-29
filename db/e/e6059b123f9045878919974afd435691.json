@@ -3,7 +3,7 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -2471,9 +2471,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 457
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2663,9 +2663,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 321
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2695,9 +2695,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 107
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2783,9 +2783,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 311
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2998,8 +2998,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:08:11.3412538+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:06:13.5326098+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:57:35.7528107+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:08:11.3413529+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:57:18.9980806+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:06:13.5326941+00:00"
 }

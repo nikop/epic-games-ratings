@@ -6,7 +6,7 @@
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 38,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -7998,10 +7998,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50928,
       "NumberOfAwardsMax": 6464
+    },
+    {
+      "Time": "2023-10-28T23:59:57.727585+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50929,
+      "NumberOfAwardsMax": 6464
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50928,
+  "NumberOfAwards": 50929,
   "NumberOfAwardsMax": 6464,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8033,7 +8039,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5881
+      "Count": 5882
     },
     {
       "Text": "This game is Educational",
@@ -8072,7 +8078,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 475089,
+  "EOS_Progressed": 475090,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
@@ -27682,6 +27688,11 @@
       "Time": "2023-10-28T22:03:23.1102888+00:00",
       "NumProgressed": 475089,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-29T00:03:09.0712847+00:00",
+      "NumProgressed": 475090,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -27813,7 +27824,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 114021
+      "UsersEstimate": 114022
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -27837,7 +27848,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71263
+      "UsersEstimate": 71264
     },
     {
       "ID": "achievement_big_win",
@@ -27877,7 +27888,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237544
+      "UsersEstimate": 237545
     },
     {
       "ID": "achievement_club_world_cup",
@@ -27917,7 +27928,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66512
+      "UsersEstimate": 66513
     },
     {
       "ID": "achievement_fine_player",
@@ -27925,7 +27936,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199537
+      "UsersEstimate": 199538
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -27933,7 +27944,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114021
+      "UsersEstimate": 114022
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -28013,7 +28024,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194786
+      "UsersEstimate": 194787
     },
     {
       "ID": "achievement_head_to_head",
@@ -28061,7 +28072,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 114021
+      "UsersEstimate": 114022
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -28069,7 +28080,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109270
+      "UsersEstimate": 109271
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -28077,7 +28088,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 114021
+      "UsersEstimate": 114022
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -28117,7 +28128,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166281
+      "UsersEstimate": 166282
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -28125,7 +28136,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152028
+      "UsersEstimate": 152029
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -28197,7 +28208,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152028
+      "UsersEstimate": 152029
     },
     {
       "ID": "achievement_rushed_signing",
@@ -28245,7 +28256,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237544
+      "UsersEstimate": 237545
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -28253,7 +28264,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109270
+      "UsersEstimate": 109271
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -28293,7 +28304,7 @@
       "Name": "Comeback King!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66512
+      "UsersEstimate": 66513
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -28309,7 +28320,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71263
+      "UsersEstimate": 71264
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -28325,7 +28336,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237544
+      "UsersEstimate": 237545
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -28476,15 +28487,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 475089,
+      "Progressed": 475090,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-10-28T17:01:22.9223126+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:03:47.0083936+00:00",
+  "LastChanged": "2023-10-28T23:59:57.7275849+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:03:09.0712841+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:45.9172625+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:01:34.5819076+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:03:47.0086876+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:59:57.7275857+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:03:09.0714922+00:00"
 }

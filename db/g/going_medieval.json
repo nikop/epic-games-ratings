@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1281,12 +1281,18 @@
       "Rating": 4.6,
       "NumberOfAwards": 998,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-10-28T23:58:27.8631685+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 999,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 998,
+  "NumberOfAwards": 999,
   "NumberOfAwardsMax": 123,
-  "MaxAwardTitle": "Relaxing",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -1322,7 +1328,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1361,9 +1367,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6381,
+  "EOS_Progressed": 6382,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11581,6 +11587,11 @@
       "Time": "2023-10-28T22:03:58.5699176+00:00",
       "NumProgressed": 6381,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-29T00:03:40.7323421+00:00",
+      "NumProgressed": 6382,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11600,7 +11611,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -11624,7 +11635,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -11640,7 +11651,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4594
+      "UsersEstimate": 4595
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -11656,7 +11667,7 @@
       "Name": "Deerly Departed",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "HUNT_DEER_5",
@@ -11736,7 +11747,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -11752,7 +11763,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -11776,7 +11787,7 @@
       "Name": "Winter Is Here",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -11800,7 +11811,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -11808,7 +11819,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -11824,7 +11835,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -11832,22 +11843,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6381,
+      "Progressed": 6382,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-10-26T04:58:03.0442071+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:04:30.9900495+00:00",
+  "LastChanged": "2023-10-28T23:58:27.8631683+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:03:40.7323416+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.7294804+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:59:19.9448954+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:04:30.9901367+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:58:27.8631688+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:03:40.7324256+00:00"
 }

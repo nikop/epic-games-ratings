@@ -1,40 +1,40 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.42 (Ranked 699)  
+Rating: 4.42 (Ranked 700)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 75.00% | ~117,202 |
-| Delving Onward | 55.00% | ~85,948 |
-| Suit Up | 48.00% | ~75,010 |
-| Miner's Helper | 48.00% | ~75,010 |
-| To the Mountain's Roots | 21.00% | ~32,817 |
-| Line of Azog, Ended | 15.00% | ~23,440 |
-| Covered Head to Toe | 13.00% | ~20,315 |
-| Remains To Be Seen | 8.00% | ~12,502 |
-| Risk a Little Real Light | 5.00% | ~7,814 |
-| Westgate Weaponcraft | 3.00% | ~4,688 |
-| Deeps Weaponcraft | 1.00% | ~1,563 |
-| False King, Deposed | 1.00% | ~1,563 |
-| Caradhras The Cruel | 1.00% | ~1,563 |
-| A Memory of this Place | 1.00% | ~1,563 |
-| Battering Ram | 0.90% | ~1,406 |
-| Eregion Weaponcraft | 0.80% | ~1,250 |
-| Baruk Khazâd! | 0.70% | ~1,094 |
-| Master of All Trades | 0.70% | ~1,094 |
-| Decked Out | 0.60% | ~938 |
-| Shadow's Bane | 0.30% | ~469 |
-| Darkness Is Passing | 0.20% | ~313 |
-| Guarded from Despair | 0.10% | ~156 |
-| Hard-headed | 0.10% | ~156 |
-| Shielded | 0.10% | ~156 |
-| True-silver | 0.10% | ~156 |
-| Dimrill Weaponcraft | 0.10% | ~156 |
+| Speak Friend | 76.00% | ~119,255 |
+| Delving Onward | 55.00% | ~86,303 |
+| Suit Up | 48.00% | ~75,319 |
+| Miner's Helper | 48.00% | ~75,319 |
+| To the Mountain's Roots | 22.00% | ~34,521 |
+| Line of Azog, Ended | 15.00% | ~23,537 |
+| Covered Head to Toe | 13.00% | ~20,399 |
+| Remains To Be Seen | 8.00% | ~12,553 |
+| Risk a Little Real Light | 5.00% | ~7,846 |
+| Westgate Weaponcraft | 3.00% | ~4,707 |
+| Battering Ram | 1.00% | ~1,569 |
+| Deeps Weaponcraft | 1.00% | ~1,569 |
+| False King, Deposed | 1.00% | ~1,569 |
+| Caradhras The Cruel | 1.00% | ~1,569 |
+| A Memory of this Place | 1.00% | ~1,569 |
+| Eregion Weaponcraft | 0.80% | ~1,255 |
+| Baruk Khazâd! | 0.70% | ~1,098 |
+| Master of All Trades | 0.70% | ~1,098 |
+| Decked Out | 0.60% | ~941 |
+| Shadow's Bane | 0.30% | ~471 |
+| Darkness Is Passing | 0.20% | ~314 |
+| Guarded from Despair | 0.10% | ~157 |
+| Hard-headed | 0.10% | ~157 |
+| Shielded | 0.10% | ~157 |
+| True-silver | 0.10% | ~157 |
+| Dimrill Weaponcraft | 0.10% | ~157 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,270 (Ranked 74)  
-Completed: 0 (0.00%) (Ranked 329)  
+Progressed: 156,914 (Ranked 74)  
+Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -43,6 +43,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-26 | 114,492 | 0 |
 | 2023-10-27 | 135,952 | 0 |
 | 2023-10-28 | 156,270 | 0 |
+| 2023-10-29 | 156,914 | 0 |
 ## Awards
 Max (Extremely Fun): 41  (Ranked 446)  
 Sum: 186 (Ranked 400)  

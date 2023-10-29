@@ -41,10 +41,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,383 |
 | Did we pack lunch? | 1.00% | ~1,383 |
 | Arcane Industries | 1.00% | ~1,383 |
-| Fated Encounters | 0.90% | ~1,244 |
-| Power of Love | 0.90% | ~1,244 |
-| Royal Ransom | 0.90% | ~1,244 |
-| Magical Harmony | 0.90% | ~1,244 |
+| Fated Encounters | 0.90% | ~1,245 |
+| Power of Love | 0.90% | ~1,245 |
+| Royal Ransom | 0.90% | ~1,245 |
+| Magical Harmony | 0.90% | ~1,245 |
 | Tax not Included | 0.80% | ~1,106 |
 | Big Game Hunting | 0.80% | ~1,106 |
 | For the Hoard! | 0.80% | ~1,106 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,276 (Ranked 77)  
+Progressed: 138,279 (Ranked 77)  
 Completed: 173 (0.13%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,6 +311,7 @@ Completed: 173 (0.13%) (Ranked 249)
 | 2023-10-26 | 138,177 | 172 |
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
+| 2023-10-29 | 138,279 | 173 |
 ## Awards
 Max (Great for Beginners): 4,804  (Ranked 73)  
 Sum: 27,461 (Ranked 51)  

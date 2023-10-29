@@ -57,8 +57,8 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 497)  
-Completed: 0 (0.00%) (Ranked 329)  
+Progressed: 25 (Ranked 498)  
+Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

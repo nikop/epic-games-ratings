@@ -6,7 +6,7 @@
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 329,
+  "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -467,7 +467,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229151,
+  "EOS_Progressed": 229157,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1457,
   "EOS_NewCompleters": 0,
@@ -11617,6 +11617,11 @@
       "Time": "2023-10-28T23:09:17.75968+00:00",
       "NumProgressed": 229151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T00:08:50.07192+00:00",
+      "NumProgressed": 229157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -11685,7 +11690,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48122
+      "UsersEstimate": 48123
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -11885,7 +11890,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57288
+      "UsersEstimate": 57289
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -11900,7 +11905,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229151,
+      "Progressed": 229157,
       "Completed": 0
     }
   ],
@@ -11908,8 +11913,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-23T13:04:07.7383802+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:09:17.7596794+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:08:50.0719193+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-10-28T23:01:57.0312377+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:09:17.759798+00:00"
+  "LastUpdate_Ratings": "2023-10-29T00:00:14.7366586+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:08:50.0720129+00:00"
 }

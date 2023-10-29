@@ -113,9 +113,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88574,
+  "EOS_Progressed": 88586,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 2957,
+  "EOS_NewPlayers": 2950,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -4583,6 +4583,11 @@
       "Time": "2023-10-28T23:05:29.7255251+00:00",
       "NumProgressed": 88574,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2023-10-29T00:04:21.3729717+00:00",
+      "NumProgressed": 88586,
+      "NumCompleted": 210
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -4595,7 +4600,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 79717
+      "UsersEstimate": 79727
     },
     {
       "ID": "JB_is_Playing",
@@ -4603,7 +4608,7 @@
       "Name": "JB is Playing",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 18601
+      "UsersEstimate": 18603
     },
     {
       "ID": "JBs_House_Discovered",
@@ -4611,7 +4616,7 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 21258
+      "UsersEstimate": 21261
     },
     {
       "ID": "Kirk_is_Playing",
@@ -4619,7 +4624,7 @@
       "Name": "Kirk is Playing",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 36315
+      "UsersEstimate": 36320
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -4627,7 +4632,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 58459
+      "UsersEstimate": 58467
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -4635,7 +4640,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 80602
+      "UsersEstimate": 80613
     },
     {
       "ID": "Lights_On",
@@ -4651,7 +4656,7 @@
       "Name": "Sebastian\u0027s House Discovered",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 15058
+      "UsersEstimate": 15060
     },
     {
       "ID": "The_Band_is_Back_Together",
@@ -4659,14 +4664,14 @@
       "Name": "The Band is Back Together",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 5314
+      "UsersEstimate": 5315
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 88574,
+      "Progressed": 88586,
       "Completed": 210
     }
   ],
@@ -4674,8 +4679,8 @@
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2023-10-23T10:03:25.38729+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:05:29.7255247+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:04:21.3729711+00:00",
   "LastUpdate_AppInfo": "2023-10-26T17:57:10.5912198+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:59:54.5988258+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:05:29.7255606+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:58:45.839282+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:04:21.3730063+00:00"
 }

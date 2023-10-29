@@ -19,12 +19,12 @@ Number of Ratings: 5,603  (23.09.2022)
 | God of the Arena | 13.00% | ~8,332 |
 | This Is Our Land | 13.00% | ~8,332 |
 | Against all odds | 12.00% | ~7,691 |
-| Duelist | 10.00% | ~6,409 |
-| Dynasty | 10.00% | ~6,409 |
-| I spit on your grave | 10.00% | ~6,409 |
-| Swordbearer | 10.00% | ~6,409 |
-| What have the Romans ever done for us? | 10.00% | ~6,409 |
-| Butterlord | 9.00% | ~5,768 |
+| Duelist | 10.00% | ~6,410 |
+| Dynasty | 10.00% | ~6,410 |
+| I spit on your grave | 10.00% | ~6,410 |
+| Swordbearer | 10.00% | ~6,410 |
+| What have the Romans ever done for us? | 10.00% | ~6,410 |
+| Butterlord | 9.00% | ~5,769 |
 | Know your enemy | 7.00% | ~4,487 |
 | Mastery | 7.00% | ~4,487 |
 | Crowdfunded | 5.00% | ~3,205 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,094 (Ranked 102)  
-Completed: 0 (0.00%) (Ranked 329)  
+Progressed: 64,095 (Ranked 102)  
+Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,6 +250,7 @@ Completed: 0 (0.00%) (Ranked 329)
 | 2023-10-26 | 63,985 | 0 |
 | 2023-10-27 | 64,025 | 0 |
 | 2023-10-28 | 64,094 | 0 |
+| 2023-10-29 | 64,095 | 0 |
 ## Awards
 Max (Character Customization): 7,296  (Ranked 52)  
 Sum: 15,042 (Ranked 66)  

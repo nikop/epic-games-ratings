@@ -3,8 +3,8 @@
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -356,9 +356,9 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "20",
@@ -659,8 +659,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-10-28T23:06:02.8123478+00:00",
+  "LastChanged_Achievements": "2023-10-29T00:04:44.5146799+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:05.0582229+00:00",
-  "LastUpdate_Ratings": "2023-10-28T22:58:53.0373424+00:00",
-  "LastUpdate_Achievements": "2023-10-28T23:06:02.8123982+00:00"
+  "LastUpdate_Ratings": "2023-10-28T23:58:10.1991315+00:00",
+  "LastUpdate_Achievements": "2023-10-29T00:04:44.5147233+00:00"
 }
