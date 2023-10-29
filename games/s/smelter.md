@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | What took you so long? | 90.00% | ~37 |
-| Welcome to the Rumbly Lands! | 85.00% | ~35 |
-| Time to Bash Some Heads! | 80.00% | ~33 |
-| Shiny! | 71.00% | ~29 |
-| Deep in the Mounds | 66.00% | ~27 |
+| Welcome to the Rumbly Lands! | 88.00% | ~36 |
+| Time to Bash Some Heads! | 83.00% | ~34 |
+| Shiny! | 73.00% | ~30 |
+| Deep in the Mounds | 68.00% | ~28 |
 | Smeltastic! | 39.00% | ~16 |
 | Locked Away | 34.00% | ~14 |
 | A Little Renovating | 34.00% | ~14 |

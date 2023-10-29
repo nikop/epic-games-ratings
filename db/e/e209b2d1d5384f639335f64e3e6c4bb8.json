@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315365,
+  "EOS_Progressed": 315378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3273,
+  "EOS_NewPlayers": 3277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8129,6 +8129,11 @@
       "Time": "2023-10-29T02:24:46.5835184+00:00",
       "NumProgressed": 315365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T03:06:50.9902245+00:00",
+      "NumProgressed": 315378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -8165,7 +8170,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 138761
+      "UsersEstimate": 138766
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -8173,7 +8178,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 100917
+      "UsersEstimate": 100921
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -8181,7 +8186,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 66227
+      "UsersEstimate": 66229
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -8189,7 +8194,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 47305
+      "UsersEstimate": 47307
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -8197,7 +8202,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37844
+      "UsersEstimate": 37845
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -8205,7 +8210,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31536
+      "UsersEstimate": 31538
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -8213,7 +8218,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 28383
+      "UsersEstimate": 28384
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -8221,7 +8226,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25229
+      "UsersEstimate": 25230
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -8229,7 +8234,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25229
+      "UsersEstimate": 25230
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -8261,7 +8266,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18922
+      "UsersEstimate": 18923
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -8517,20 +8522,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 160836
+      "UsersEstimate": 160843
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 315365,
+      "Progressed": 315378,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 315354,
+      "Progressed": 315367,
       "Completed": 0
     }
   ],
@@ -8538,8 +8543,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-28T13:02:23.169966+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:24:46.5835175+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:06:50.9902234+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.0909695+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:20:14.935383+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:24:46.5835947+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:02:26.9895038+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:06:50.9903226+00:00"
 }

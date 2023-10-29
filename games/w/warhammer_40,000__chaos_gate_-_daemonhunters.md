@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 330)
 | 2023-10-28 | 3,279 | 0 |
 ## Awards
 Max (Character Customization): 222  (Ranked 270)  
-Sum: 480 (Ranked 321)  
+Sum: 481 (Ranked 321)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -262,7 +262,7 @@ Diff (max vs sum): -51
 | This game has Competitive Players | 29 |
 | This game has Challenging Combat | 29 |
 | This game has Diverse Characters | 28 |
-| This game is Relaxing | 24 |
+| This game is Relaxing | 25 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -373,4 +373,4 @@ Diff (max vs sum): -51
 | 2023-09-05 | 4.58 | - | 220 | 474 |
 | 2023-09-18 | 4.59 | - | 220 | 474 |
 | 2023-09-24 | 4.58 | - | 220 | 474 |
-| 2023-10-29 | 4.58 | - | 222 | 480 |
+| 2023-10-29 | 4.58 | - | 222 | 481 |

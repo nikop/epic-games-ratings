@@ -265,17 +265,17 @@
       "ID": "SMELTER_GURABI_FORGE",
       "SetID": "1g58k92",
       "Name": "Time to Bash Some Heads!",
-      "Percentage": 80,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SMELTER_GURABI_RUNE",
       "SetID": "1g58k92",
       "Name": "Deep in the Mounds",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "SMELTER_GURABI_UPGRADES",
@@ -345,9 +345,9 @@
       "ID": "SMELTER_NEW_CHALLENGER",
       "SetID": "1g58k92",
       "Name": "Shiny!",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SMELTER_NUTORO_CHALLENGES",
@@ -481,9 +481,9 @@
       "ID": "SMELTER_WELCOME_TO_RUMBLYLANDS",
       "SetID": "1g58k92",
       "Name": "Welcome to the Rumbly Lands!",
-      "Percentage": 85,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SMELTER_XELADO",
@@ -530,8 +530,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:24:19.5867598+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:06:24.2159571+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.8660764+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:16:59.0174777+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:24:19.5868402+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:58:55.5905227+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:06:24.2159968+00:00"
 }

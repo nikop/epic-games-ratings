@@ -244,9 +244,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "decrypt_one_myth",
@@ -436,9 +436,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "playtime",
@@ -587,8 +587,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:26:00.7789851+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:08:04.9367576+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:21:36.5702227+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:26:00.7790402+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:03:46.1366734+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:08:04.9368428+00:00"
 }

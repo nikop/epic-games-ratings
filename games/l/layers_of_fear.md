@@ -7,11 +7,11 @@
 | Something important | 60.00% | ~15 |
 | Wanderer | 52.00% | ~13 |
 | Finished it | 36.00% | ~9 |
+| A piece of the story | 36.00% | ~9 |
 | Do what you have to | 32.00% | ~8 |
-| A piece of the story | 32.00% | ~8 |
 | Refuse to look | 24.00% | ~6 |
+| It's covered up for a reason | 20.00% | ~5 |
 | The artist’s impression | 20.00% | ~5 |
-| It's covered up for a reason | 16.00% | ~4 |
 | Scraps of love | 16.00% | ~4 |
 | First steps | 16.00% | ~4 |
 | Playtime | 16.00% | ~4 |

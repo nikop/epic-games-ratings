@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 43.00% | ~785 |
-| First Love | 42.00% | ~766 |
-| Clean Race | 40.00% | ~730 |
+| Eat My Dust | 43.00% | ~786 |
+| First Love | 42.00% | ~767 |
+| Clean Race | 40.00% | ~731 |
 | Hear That Roar! | 38.00% | ~694 |
-| Rivals to the End | 28.00% | ~511 |
-| Bitter Rivalry | 26.00% | ~474 |
+| Rivals to the End | 28.00% | ~512 |
+| Bitter Rivalry | 26.00% | ~475 |
 | We're Going to Need a Bigger Garage | 24.00% | ~438 |
 | Champagne Spray | 24.00% | ~438 |
-| Restored and Ready | 18.00% | ~328 |
-| I Want One Too! | 18.00% | ~328 |
-| Legendary!!! | 18.00% | ~328 |
-| Quick Pit Stop | 18.00% | ~328 |
-| I'm Here Too! | 17.00% | ~310 |
+| Restored and Ready | 18.00% | ~329 |
+| I Want One Too! | 18.00% | ~329 |
+| Legendary!!! | 18.00% | ~329 |
+| Quick Pit Stop | 18.00% | ~329 |
+| I'm Here Too! | 17.00% | ~311 |
 | Go-Faster Stripes | 16.00% | ~292 |
-| We've Just Begun | 10.00% | ~182 |
+| We've Just Begun | 10.00% | ~183 |
 | Stamina Star | 8.00% | ~146 |
 | Is It the Right Size? | 8.00% | ~146 |
 | Make It Your Own! | 5.00% | ~91 |
@@ -30,11 +30,11 @@
 | The Road to Liberty | 3.00% | ~55 |
 | Romantic Races | 3.00% | ~55 |
 | Rounding Off | 3.00% | ~55 |
-| Iconic! | 2.00% | ~36 |
-| Back in Blighty | 2.00% | ~36 |
-| Still Here | 2.00% | ~36 |
-| My Work Here Is Done | 2.00% | ~36 |
-| Overtaking the Master | 2.00% | ~36 |
+| Iconic! | 2.00% | ~37 |
+| Back in Blighty | 2.00% | ~37 |
+| Still Here | 2.00% | ~37 |
+| My Work Here Is Done | 2.00% | ~37 |
+| Overtaking the Master | 2.00% | ~37 |
 | I'll Be the Best! | 1.00% | ~18 |
 | Next Level | 1.00% | ~18 |
 | I Don't Stop | 1.00% | ~18 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,825 (Ranked 218)  
+Progressed: 1,827 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,4 +112,4 @@ Completed: 0 (0.00%) (Ranked 330)
 | 2023-10-26 | 1,766 | 0 |
 | 2023-10-27 | 1,789 | 0 |
 | 2023-10-28 | 1,818 | 0 |
-| 2023-10-29 | 1,825 | 0 |
+| 2023-10-29 | 1,827 | 0 |

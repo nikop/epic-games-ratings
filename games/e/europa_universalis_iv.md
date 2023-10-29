@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,673 |
-| Until death do us apart | 4.00% | ~17,673 |
-| Victorious! | 4.00% | ~17,673 |
+| That's a Grand Army | 4.00% | ~17,674 |
+| Until death do us apart | 4.00% | ~17,674 |
+| Victorious! | 4.00% | ~17,674 |
 | That's a Grand Navy | 3.00% | ~13,255 |
 | That is mine! | 3.00% | ~13,255 |
-| Brothers in Arms | 2.00% | ~8,836 |
-| Cold War | 2.00% | ~8,836 |
-| For the Glory | 2.00% | ~8,836 |
-| Seriously?! | 2.00% | ~8,836 |
+| Brothers in Arms | 2.00% | ~8,837 |
+| Cold War | 2.00% | ~8,837 |
+| For the Glory | 2.00% | ~8,837 |
+| Seriously?! | 2.00% | ~8,837 |
 | Defender of the Faith | 1.00% | ~4,418 |
 | It's all about luck | 1.00% | ~4,418 |
 | It's all about the money | 1.00% | ~4,418 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,418 |
 | True Catholic | 1.00% | ~4,418 |
 | Truly Divine Ruler | 1.00% | ~4,418 |
-| Blockader | 0.90% | ~3,976 |
+| Blockader | 0.90% | ~3,977 |
 | Double the Love | 0.80% | ~3,535 |
 | Royal Authority | 0.80% | ~3,535 |
 | Total Control | 0.80% | ~3,535 |
@@ -40,12 +40,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.40% | ~1,767 |
 | The Five Colonies | 0.40% | ~1,767 |
 | Trustworthy | 0.40% | ~1,767 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,325 |
-| Down Under | 0.30% | ~1,325 |
-| Electable! | 0.30% | ~1,325 |
-| A Golden Empire | 0.30% | ~1,325 |
-| Market Control | 0.30% | ~1,325 |
-| Populists in Government | 0.30% | ~1,325 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,326 |
+| Down Under | 0.30% | ~1,326 |
+| Electable! | 0.30% | ~1,326 |
+| A Golden Empire | 0.30% | ~1,326 |
+| Market Control | 0.30% | ~1,326 |
+| Populists in Government | 0.30% | ~1,326 |
 | Absolutely | 0.20% | ~884 |
 | All belongs to Mother Russia | 0.20% | ~884 |
 | At every continent | 0.20% | ~884 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441,820 (Ranked 41)  
+Progressed: 441,840 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 1 (0.00%) (Ranked 330)
 | 2023-10-26 | 440,025 | 1 |
 | 2023-10-27 | 440,786 | 1 |
 | 2023-10-28 | 441,735 | 1 |
-| 2023-10-29 | 441,820 | 1 |
+| 2023-10-29 | 441,840 | 1 |
 ## Awards
 Max (Educational): 6,718  (Ranked 55)  
 Sum: 55,220 (Ranked 24)  

@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2800,
+  "EOS_Progressed": 2801,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7004,6 +7004,11 @@
       "Time": "2023-10-28T23:09:07.5236268+00:00",
       "NumProgressed": 2800,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T03:09:33.4953077+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7101,9 +7106,9 @@
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 56
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -7119,7 +7124,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "GUARD_MAKER",
@@ -7165,9 +7170,9 @@
       "ID": "REGICIDE_MASTER",
       "SetID": "8lhbnh7",
       "Name": "Assassin",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "SMARTER_THAN_A_BEAR",
@@ -7190,14 +7195,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2800,
+      "Progressed": 2801,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:27:32.050016+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:09:33.4953068+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.0297636+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:18:04.6307333+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:27:32.0500777+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:00:13.2811055+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:09:33.4953673+00:00"
 }

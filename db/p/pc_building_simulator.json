@@ -4937,10 +4937,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 8084,
       "NumberOfAwardsMax": 1091
+    },
+    {
+      "Time": "2023-10-29T03:00:49.0105666+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 8085,
+      "NumberOfAwardsMax": 1091
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8084,
+  "NumberOfAwards": 8085,
   "NumberOfAwardsMax": 1091,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4990,7 +4996,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 824
+      "Count": 825
     },
     {
       "Text": "This game has a Creative Community",
@@ -5005,9 +5011,9 @@
       "Count": 668
     }
   ],
-  "EOS_Progressed": 3573842,
+  "EOS_Progressed": 3573848,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26875,6 +26881,11 @@
       "Time": "2023-10-29T02:26:14.6159789+00:00",
       "NumProgressed": 3573842,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-10-29T03:08:18.8415444+00:00",
+      "NumProgressed": 3573848,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 52,
@@ -26894,7 +26905,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 893460
+      "UsersEstimate": 893462
     },
     {
       "ID": "BRICK",
@@ -26926,7 +26937,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 571815
+      "UsersEstimate": 571816
     },
     {
       "ID": "BUILD_2",
@@ -26950,7 +26961,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1393798
+      "UsersEstimate": 1393801
     },
     {
       "ID": "CASH_2",
@@ -27014,7 +27025,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 714768
+      "UsersEstimate": 714770
     },
     {
       "ID": "HBPC_TIME",
@@ -27046,7 +27057,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1036414
+      "UsersEstimate": 1036416
     },
     {
       "ID": "JOBS_2",
@@ -27126,7 +27137,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1751183
+      "UsersEstimate": 1751186
     },
     {
       "ID": "NO_PASTE",
@@ -27134,7 +27145,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1643967
+      "UsersEstimate": 1643970
     },
     {
       "ID": "OPC_BM_1",
@@ -27301,15 +27312,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3573842,
+      "Progressed": 3573848,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
-  "LastChanged": "2023-10-28T02:59:17.4239015+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:26:14.6159781+00:00",
+  "LastChanged": "2023-10-29T03:00:49.0105662+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:08:18.8415437+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:05.7585275+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:18:39.5278974+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:26:14.6162221+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:00:49.0105673+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:08:18.8417129+00:00"
 }

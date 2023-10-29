@@ -1245,9 +1245,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233715,
+  "EOS_Progressed": 233721,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1422,
+  "EOS_NewPlayers": 1424,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16485,6 +16485,11 @@
       "Time": "2023-10-29T01:51:08.8358682+00:00",
       "NumProgressed": 233715,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-29T03:07:47.2241599+00:00",
+      "NumProgressed": 233721,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16944,7 +16949,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79463
+      "UsersEstimate": 79465
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -16968,7 +16973,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7011
+      "UsersEstimate": 7012
     },
     {
       "ID": "EndGameCursed",
@@ -17192,28 +17197,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7011
+      "UsersEstimate": 7012
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233715,
+      "Progressed": 233721,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233715,
+      "Progressed": 233721,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-28T20:58:37.4883873+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:25:42.6942358+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:07:47.2241591+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:17:27.1671994+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:25:42.6944849+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:59:28.8530611+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:07:47.2243564+00:00"
 }

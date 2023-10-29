@@ -5,18 +5,18 @@ Rating: 4.70 (Ranked 211)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 95.00% | ~3,320 |
+| Getting on the Step | 95.00% | ~3,321 |
 | On the Top Step | 90.00% | ~3,146 |
-| Setting up for Success | 79.00% | ~2,761 |
-| Team Orders | 77.00% | ~2,691 |
-| Engineer | 57.00% | ~1,992 |
-| Familiar Faces | 51.00% | ~1,782 |
+| Setting up for Success | 79.00% | ~2,762 |
+| Team Orders | 77.00% | ~2,692 |
+| Engineer | 57.00% | ~1,993 |
+| Familiar Faces | 51.00% | ~1,783 |
 | Going the Extra Mile | 45.00% | ~1,573 |
 | Sharing the Love | 44.00% | ~1,538 |
 | Hitting a Season | 42.00% | ~1,468 |
-| Challenge Yourself | 36.00% | ~1,258 |
-| A Dozen Pieces | 35.00% | ~1,223 |
-| Making History | 34.00% | ~1,188 |
+| Challenge Yourself | 36.00% | ~1,259 |
+| A Dozen Pieces | 34.00% | ~1,189 |
+| Making History | 34.00% | ~1,189 |
 | Network Success | 27.00% | ~944 |
 | Writing a new Chapter | 27.00% | ~944 |
 | Spring Cleaning | 25.00% | ~874 |
@@ -34,9 +34,9 @@ Rating: 4.70 (Ranked 211)
 | All in a Weekend's Work | 13.00% | ~454 |
 | Spinning Around | 13.00% | ~454 |
 | Recycle | 13.00% | ~454 |
-| Switcheroo | 12.00% | ~419 |
-| Friendly Competition | 11.00% | ~384 |
-| Tinkerer | 11.00% | ~384 |
+| Switcheroo | 12.00% | ~420 |
+| Friendly Competition | 11.00% | ~385 |
+| Tinkerer | 11.00% | ~385 |
 | Undisputed Winner | 10.00% | ~350 |
 | For all Those Back at the Factory | 7.00% | ~245 |
 | Living up to Expectations | 7.00% | ~245 |
@@ -55,7 +55,7 @@ Rating: 4.70 (Ranked 211)
 | Elite Racer | 0.10% | ~3 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,495 (Ranked 195)  
+Progressed: 3,496 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 330)
 | 2023-10-26 | 3,415 | 0 |
 | 2023-10-27 | 3,438 | 0 |
 | 2023-10-28 | 3,482 | 0 |
-| 2023-10-29 | 3,495 | 0 |
+| 2023-10-29 | 3,496 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

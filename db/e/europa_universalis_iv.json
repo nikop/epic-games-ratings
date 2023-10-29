@@ -11319,9 +11319,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 441820,
+  "EOS_Progressed": 441840,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5176,
+  "EOS_NewPlayers": 5174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33164,6 +33164,11 @@
       "Time": "2023-10-29T02:22:28.3574648+00:00",
       "NumProgressed": 441820,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T03:04:34.3220919+00:00",
+      "NumProgressed": 441840,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33335,7 +33340,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -33567,7 +33572,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -33615,7 +33620,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -33695,7 +33700,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "achievement_colonial_management",
@@ -33847,7 +33852,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -33887,7 +33892,7 @@
       "Name": "Electable!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -34007,7 +34012,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "achievement_forever_golden",
@@ -34135,7 +34140,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "achievement_golden_horn",
@@ -34175,7 +34180,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17674
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34671,7 +34676,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "achievement_marshy_march",
@@ -34983,7 +34988,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "achievement_prester_john",
@@ -35175,7 +35180,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -35839,7 +35844,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17674
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -35871,7 +35876,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17673
+      "UsersEstimate": 17674
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36006,21 +36011,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 441820,
+      "Progressed": 441840,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 441820,
+      "Progressed": 441840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-28T18:01:49.9870349+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:22:28.3574641+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:04:34.3220902+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:16:53.1828578+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:22:28.3589162+00:00"
+  "LastUpdate_Ratings": "2023-10-29T02:58:49.5657951+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:04:34.3235921+00:00"
 }

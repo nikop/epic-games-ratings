@@ -6,13 +6,13 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,751,183 |
-| Easy to forget | 46.00% | ~1,643,967 |
-| Back in the black | 39.00% | ~1,393,798 |
-| That's what I'm talking about | 29.00% | ~1,036,414 |
-| The Best of Both Worlds | 25.00% | ~893,460 |
-| Get your wings | 20.00% | ~714,768 |
-| Double trouble | 16.00% | ~571,815 |
+| You need to plug it in... | 49.00% | ~1,751,186 |
+| Easy to forget | 46.00% | ~1,643,970 |
+| Back in the black | 39.00% | ~1,393,801 |
+| That's what I'm talking about | 29.00% | ~1,036,416 |
+| The Best of Both Worlds | 25.00% | ~893,462 |
+| Get your wings | 20.00% | ~714,770 |
+| Double trouble | 16.00% | ~571,816 |
 | Smashing it | 11.00% | ~393,123 |
 | But can it run Crysis? | 9.00% | ~321,646 |
 | My favourite feature... | 9.00% | ~321,646 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,574 |
 | Treat yourself - GPU | 0.10% | ~3,574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573,842 (Ranked 5)  
+Progressed: 3,573,848 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 36 (0.00%) (Ranked 330)
 | 2023-10-26 | 3,573,129 | 36 |
 | 2023-10-27 | 3,573,429 | 36 |
 | 2023-10-28 | 3,573,806 | 36 |
-| 2023-10-29 | 3,573,842 | 36 |
+| 2023-10-29 | 3,573,848 | 36 |
 ## Awards
 Max (Great for Beginners): 1,091  (Ranked 141)  
-Sum: 8,084 (Ranked 102)  
+Sum: 8,085 (Ranked 102)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): 39
 | This game is Relaxing | 989 |
 | This game has Quickly Understood Controls | 949 |
 | This game is Highly Recommended | 901 |
-| This game has Amazing Storytelling | 824 |
+| This game has Amazing Storytelling | 825 |
 | This game has Amazing Characters | 668 |
 | This game has Obsessive Gameplay | 664 |
 | This game has a Creative Community | 657 |
@@ -510,3 +510,4 @@ Diff (max vs sum): 39
 | 2023-10-26 | 4.65 | - | 1,090 | 8,079 |
 | 2023-10-27 | 4.65 | - | 1,091 | 8,083 |
 | 2023-10-28 | 4.65 | - | 1,091 | 8,084 |
+| 2023-10-29 | 4.65 | - | 1,091 | 8,085 |

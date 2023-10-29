@@ -5,14 +5,14 @@ Rating: 4.42 (Ranked 700)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,195 |
-| IT MAKES BOOM! | 3.00% | ~7,917 |
-| EXTRA BOOST | 2.00% | ~5,278 |
-| PROTECTED | 2.00% | ~5,278 |
-| PRO | 2.00% | ~5,278 |
-| A TIGER'S FEAR | 1.00% | ~2,639 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,639 |
-| AGGRESSIVE RACER | 1.00% | ~2,639 |
+| ROOKIE | 5.00% | ~13,199 |
+| IT MAKES BOOM! | 3.00% | ~7,919 |
+| EXTRA BOOST | 2.00% | ~5,280 |
+| PROTECTED | 2.00% | ~5,280 |
+| PRO | 2.00% | ~5,280 |
+| A TIGER'S FEAR | 1.00% | ~2,640 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,640 |
+| AGGRESSIVE RACER | 1.00% | ~2,640 |
 | IT'S A LONG WAY TO THE TOP | 0.50% | ~1,320 |
 | ACE SPEEDSTER | 0.50% | ~1,320 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,056 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 700)
 | ACE TRICKSTER | 0.20% | ~528 |
 | FRAMED! | 0.10% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263,904 (Ranked 52)  
+Progressed: 263,975 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 245 (0.09%) (Ranked 264)
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
-| 2023-10-29 | 263,904 | 245 |
+| 2023-10-29 | 263,975 | 245 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 439)  
-Sum: 353 (Ranked 343)  
+Sum: 354 (Ranked 343)  
 Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): 96
 | This game has Amazing Storytelling | 27 |
 | This game has Quickly Understood Controls | 27 |
 | This game has a Competitive Community | 27 |
-| This game has Competitive Players | 26 |
+| This game has Competitive Players | 27 |
 | This game has Playful Visuals | 23 |
 | This game is Extremely Fun | 20 |
 | This game is Relaxing | 20 |
@@ -268,4 +268,4 @@ Diff (max vs sum): 96
 | 2023-10-26 | 4.42 | 43 | 270 |
 | 2023-10-27 | 4.42 | 44 | 347 |
 | 2023-10-28 | 4.42 | 44 | 352 |
-| 2023-10-29 | 4.42 | 44 | 353 |
+| 2023-10-29 | 4.42 | 44 | 354 |

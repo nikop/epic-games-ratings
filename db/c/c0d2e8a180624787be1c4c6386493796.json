@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -653,9 +653,9 @@
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
       "SetID": "caeik3h",
       "Name": "Smashing Pumpkins",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_ROCKETRIDERS",
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:27:18.1051257+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:09:22.21775+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:18:58.2574445+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:27:18.1052503+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:01:06.8017323+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:09:22.2178281+00:00"
 }

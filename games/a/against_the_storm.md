@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~51 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,103 (Ranked 135)  
+Progressed: 17,104 (Ranked 135)  
 Completed: 52 (0.30%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 52 (0.30%) (Ranked 215)
 | 2023-10-26 | 17,081 | 52 |
 | 2023-10-27 | 17,093 | 52 |
 | 2023-10-28 | 17,102 | 52 |
-| 2023-10-29 | 17,103 | 52 |
+| 2023-10-29 | 17,104 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 214)  
 Sum: 3,201 (Ranked 170)  

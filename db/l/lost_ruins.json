@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
@@ -964,6 +964,11 @@
       "Time": "2023-10-29T01:54:29.4624904+00:00",
       "NumProgressed": 473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T03:10:18.9874193+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1111,7 +1116,7 @@
       "Name": "Lumberjack",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Marksman",
@@ -1159,7 +1164,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Pyromancer",
@@ -1239,7 +1244,7 @@
       "Name": "The Fallen",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "TheTrio",
@@ -1294,7 +1299,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 1
     }
   ],
@@ -1302,8 +1307,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-10-29T02:28:17.7705071+00:00",
+  "LastChanged_Achievements": "2023-10-29T03:10:18.9874186+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:04.3503541+00:00",
-  "LastUpdate_Ratings": "2023-10-29T02:18:37.1547685+00:00",
-  "LastUpdate_Achievements": "2023-10-29T02:28:17.7705476+00:00"
+  "LastUpdate_Ratings": "2023-10-29T03:00:46.5220103+00:00",
+  "LastUpdate_Achievements": "2023-10-29T03:10:18.9875098+00:00"
 }
