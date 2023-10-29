@@ -12,44 +12,45 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 3.00% | ~451 |
 | Architect | 3.00% | ~451 |
 | Intrepid | 3.00% | ~451 |
+| Mason | 3.00% | ~451 |
 | Strong | 3.00% | ~451 |
 | Friendly Family | 3.00% | ~451 |
 | Hanging Gardens | 3.00% | ~451 |
-| Ambitious | 2.00% | ~300 |
-| Brilliant | 2.00% | ~300 |
-| Enlightened | 2.00% | ~300 |
-| Fountainhead | 2.00% | ~300 |
-| Glorious | 2.00% | ~300 |
-| Good | 2.00% | ~300 |
-| Just | 2.00% | ~300 |
-| Keystone | 2.00% | ~300 |
-| Learned | 2.00% | ~300 |
-| Magnificent | 2.00% | ~300 |
-| Mason | 2.00% | ~300 |
-| Noble | 2.00% | ~300 |
-| Pioneer | 2.00% | ~300 |
-| Warrior | 2.00% | ~300 |
-| Wise | 2.00% | ~300 |
-| Developing Cities | 2.00% | ~300 |
-| Strong Cities | 2.00% | ~300 |
-| Able Difficulty | 2.00% | ~300 |
-| Furious Family | 2.00% | ~300 |
-| Great Ziggurat | 2.00% | ~300 |
-| Ishtar Gate | 2.00% | ~300 |
-| Lighthouse | 2.00% | ~300 |
-| Oracle | 2.00% | ~300 |
-| Pyramids | 2.00% | ~300 |
-| Learn to Play 1 | 2.00% | ~300 |
-| Christianity | 2.00% | ~300 |
-| Judaism | 2.00% | ~300 |
-| Babylonian Paganism | 2.00% | ~300 |
-| Carthaginian Paganism | 2.00% | ~300 |
-| Greek Paganism | 2.00% | ~300 |
-| Roman Paganism | 2.00% | ~300 |
-| Zoroastrianism | 2.00% | ~300 |
-| Naming Landmarks | 2.00% | ~300 |
-| Trade Caravan | 2.00% | ~300 |
-| Kushite Paganism | 2.00% | ~300 |
+| Ambitious | 2.00% | ~301 |
+| Brilliant | 2.00% | ~301 |
+| Enlightened | 2.00% | ~301 |
+| Fountainhead | 2.00% | ~301 |
+| Glorious | 2.00% | ~301 |
+| Good | 2.00% | ~301 |
+| Just | 2.00% | ~301 |
+| Keystone | 2.00% | ~301 |
+| Learned | 2.00% | ~301 |
+| Magnificent | 2.00% | ~301 |
+| Noble | 2.00% | ~301 |
+| Pioneer | 2.00% | ~301 |
+| Warrior | 2.00% | ~301 |
+| Wise | 2.00% | ~301 |
+| Developing Cities | 2.00% | ~301 |
+| Strong Cities | 2.00% | ~301 |
+| Able Difficulty | 2.00% | ~301 |
+| Furious Family | 2.00% | ~301 |
+| Great Ziggurat | 2.00% | ~301 |
+| Ishtar Gate | 2.00% | ~301 |
+| Lighthouse | 2.00% | ~301 |
+| Oracle | 2.00% | ~301 |
+| Pyramids | 2.00% | ~301 |
+| Learn to Play 1 | 2.00% | ~301 |
+| Christianity | 2.00% | ~301 |
+| Judaism | 2.00% | ~301 |
+| Babylonian Paganism | 2.00% | ~301 |
+| Carthaginian Paganism | 2.00% | ~301 |
+| Egyptian Paganism | 2.00% | ~301 |
+| Greek Paganism | 2.00% | ~301 |
+| Roman Paganism | 2.00% | ~301 |
+| Zoroastrianism | 2.00% | ~301 |
+| Naming Landmarks | 2.00% | ~301 |
+| Trade Caravan | 2.00% | ~301 |
+| Kushite Paganism | 2.00% | ~301 |
 | Regicide | 1.00% | ~150 |
 | Hanging Gardens in Babylon | 1.00% | ~150 |
 | Beloved | 1.00% | ~150 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 1.00% | ~150 |
 | Greece | 1.00% | ~150 |
 | Manichaeism | 1.00% | ~150 |
-| Egyptian Paganism | 1.00% | ~150 |
 | Mythology | 1.00% | ~150 |
 | Points Victory | 1.00% | ~150 |
 | Win a Single Player Game | 1.00% | ~150 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
 | Traders | 0.80% | ~120 |
+| Hittite Iron | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
 | Pantheon | 0.80% | ~120 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.70% | ~105 |
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
-| Hittite Iron | 0.70% | ~105 |
 | Church of the Holy Sepulchre | 0.70% | ~105 |
 | Learn to Play 4 | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.30% | ~45 |
 | The Eternal Treaty | 0.30% | ~45 |
 | Assyria | 0.30% | ~45 |
+| Hatti | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
 | Play a Network Game | 0.30% | ~45 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
-| Hatti | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,024 (Ranked 142)  
-Completed: 5 (0.03%) (Ranked 296)  
+Progressed: 15,026 (Ranked 142)  
+Completed: 5 (0.03%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -541,7 +541,7 @@ Completed: 5 (0.03%) (Ranked 296)
 | 2023-10-26 | 14,968 | 5 |
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
-| 2023-10-29 | 15,024 | 5 |
+| 2023-10-29 | 15,026 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

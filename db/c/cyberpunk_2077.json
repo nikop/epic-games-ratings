@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14372,10 +14372,10 @@
       "Count": 11869
     }
   ],
-  "EOS_Progressed": 894451,
+  "EOS_Progressed": 894464,
   "EOS_Completed": 2733,
-  "EOS_NewPlayers": 1130,
-  "EOS_NewCompleters": 36,
+  "EOS_NewPlayers": 1123,
+  "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36167,6 +36167,11 @@
       "Time": "2023-10-29T16:04:19.3886173+00:00",
       "NumProgressed": 894451,
       "NumCompleted": 2733
+    },
+    {
+      "Time": "2023-10-29T17:04:14.3886007+00:00",
+      "NumProgressed": 894464,
+      "NumCompleted": 2733
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36619,7 +36624,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "UltimateSurvivor",
@@ -36698,21 +36703,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894451,
+      "Progressed": 894464,
       "Completed": 2733
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23074,
+      "Progressed": 23087,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-29T15:57:41.0110508+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:04:19.3886171+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:04:14.3885998+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:57:41.0110514+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:04:19.3887995+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:28.2489974+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:04:14.3888231+00:00"
 }

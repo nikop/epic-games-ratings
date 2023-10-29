@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -1303,9 +1303,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -1454,8 +1454,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:05:04.9160805+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:05:10.0556479+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:57:19.6777901+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:05:04.9161927+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:03.4755988+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:05:10.0558058+00:00"
 }

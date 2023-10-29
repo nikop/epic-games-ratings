@@ -15,13 +15,13 @@ Rating: 4.47 (Ranked 627)
 | Cat Person | 27.00% | ~836 |
 | Climber | 25.00% | ~774 |
 | Hidden Secrets | 25.00% | ~774 |
-| Mad Scientist | 24.00% | ~743 |
-| Reunion | 24.00% | ~743 |
-| Imprisonment | 23.00% | ~712 |
-| Dog Person | 20.00% | ~619 |
+| Mad Scientist | 24.00% | ~744 |
+| Reunion | 24.00% | ~744 |
+| Imprisonment | 23.00% | ~713 |
+| Dog Person | 20.00% | ~620 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,097 (Ranked 200)  
-Completed: 125 (4.04%) (Ranked 78)  
+Progressed: 3,098 (Ranked 200)  
+Completed: 125 (4.03%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,7 +207,7 @@ Completed: 125 (4.04%) (Ranked 78)
 | 2023-10-26 | 3,063 | 123 |
 | 2023-10-27 | 3,075 | 123 |
 | 2023-10-28 | 3,087 | 124 |
-| 2023-10-29 | 3,097 | 125 |
+| 2023-10-29 | 3,098 | 125 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

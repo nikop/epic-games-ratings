@@ -2,10 +2,10 @@
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 278,
-  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 122,
@@ -1701,6 +1701,6 @@
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
   "LastChanged": "2023-10-28T15:03:17.7496425+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.1029557+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:57:31.4049383+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:03:33.6652989+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:18.6777843+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:03:44.140395+00:00"
 }

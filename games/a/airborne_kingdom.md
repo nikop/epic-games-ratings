@@ -6,25 +6,25 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,149 |
-| A Grove Replanted | 53.00% | ~3,927 |
-| Fields Watered | 41.00% | ~3,038 |
-| Seekers Found | 41.00% | ~3,038 |
-| Settling the Skies | 41.00% | ~3,038 |
+| A Small Community | 56.00% | ~4,150 |
+| A Grove Replanted | 53.00% | ~3,928 |
+| Fields Watered | 41.00% | ~3,039 |
+| Seekers Found | 41.00% | ~3,039 |
+| Settling the Skies | 41.00% | ~3,039 |
 | Wind Powered | 40.00% | ~2,964 |
-| It Takes a Village | 34.00% | ~2,519 |
+| It Takes a Village | 34.00% | ~2,520 |
 | On the Town | 28.00% | ~2,075 |
-| Daylight Found | 26.00% | ~1,926 |
-| Irons Scorched | 25.00% | ~1,852 |
-| Islands Connected | 25.00% | ~1,852 |
-| Harp Tuned | 23.00% | ~1,704 |
-| Pyre Ignited | 23.00% | ~1,704 |
-| Travelers Returned | 23.00% | ~1,704 |
+| Daylight Found | 26.00% | ~1,927 |
+| Irons Scorched | 25.00% | ~1,853 |
+| Islands Connected | 25.00% | ~1,853 |
+| Harp Tuned | 23.00% | ~1,705 |
+| Pyre Ignited | 23.00% | ~1,705 |
+| Travelers Returned | 23.00% | ~1,705 |
 | Hopes Hoisted | 22.00% | ~1,630 |
 | Knowledge Shared | 20.00% | ~1,482 |
 | Relic Finder | 20.00% | ~1,482 |
 | Worthy of the Title | 19.00% | ~1,408 |
-| A Peaceful Respite | 14.00% | ~1,037 |
+| A Peaceful Respite | 14.00% | ~1,038 |
 | A Learned Scholar | 13.00% | ~963 |
 | Prophecy Fulfilled | 13.00% | ~963 |
 | A Wanderer’s Guide | 11.00% | ~815 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~148 |
 | A True Challenge | 2.00% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,409 (Ranked 166)  
+Progressed: 7,411 (Ranked 166)  
 Completed: 55 (0.74%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 55 (0.74%) (Ranked 165)
 | 2023-10-26 | 7,398 | 55 |
 | 2023-10-27 | 7,401 | 55 |
 | 2023-10-28 | 7,406 | 55 |
-| 2023-10-29 | 7,409 | 55 |
+| 2023-10-29 | 7,411 | 55 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

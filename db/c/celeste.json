@@ -4,8 +4,8 @@
   "ProductSlug": "celeste",
   "Ranking_Rating": 4,
   "Ranking_Popularity": 122,
-  "Ranking_PopularitySum": 167,
-  "Ranking_EOS_Progress": 708,
+  "Ranking_PopularitySum": 166,
+  "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 122,
@@ -3877,10 +3877,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 3263,
       "NumberOfAwardsMax": 1671
+    },
+    {
+      "Time": "2023-10-29T16:57:17.4948577+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 3265,
+      "NumberOfAwardsMax": 1671
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3263,
+  "NumberOfAwards": 3265,
   "NumberOfAwardsMax": 1671,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3906,7 +3912,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 210
+      "Count": 212
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3962,8 +3968,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-10-28T22:02:35.0221562+00:00",
+  "LastChanged": "2023-10-29T16:57:17.4948576+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:13.3461108+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:57:30.2394944+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:05:41.9107426+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:17.4948581+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:05:54.1302732+00:00"
 }

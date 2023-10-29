@@ -17,7 +17,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
 | The High Priestess | 0.60% | ~5,367 |
-| Relic Ruler | 0.60% | ~138 |
+| Relic Ruler | 0.60% | ~139 |
 | The Quick and the Dead | 0.50% | ~4,472 |
 | The Hermit | 0.50% | ~4,472 |
 | The Wheel of Fortune | 0.50% | ~4,472 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,451 (Ranked 15)  
+Progressed: 894,464 (Ranked 15)  
 Completed: 2,733 (0.31%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,733 (0.31%) (Ranked 211)
 | 2023-10-26 | 893,949 | 2,714 |
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
-| 2023-10-29 | 894,451 | 2,733 |
+| 2023-10-29 | 894,464 | 2,733 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
 Sum: 333,523 (Ranked 10)  

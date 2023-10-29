@@ -5,12 +5,12 @@ Rating: 3.98 (Ranked 987)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~94 |
-| Battlefields Have Memories | 89.00% | ~93 |
+| Unforeseen | 91.00% | ~96 |
+| Battlefields Have Memories | 90.00% | ~94 |
 | Enlisted | 88.00% | ~92 |
-| Maybe Engage a Little | 82.00% | ~86 |
+| Maybe Engage a Little | 83.00% | ~87 |
 | No More Names | 68.00% | ~71 |
-| Initiate | 59.00% | ~62 |
+| Initiate | 60.00% | ~63 |
 | Thrada-Kul | 55.00% | ~58 |
 | Gravity-Challenged Rocks | 46.00% | ~48 |
 | All the Major Food Groups | 39.00% | ~41 |

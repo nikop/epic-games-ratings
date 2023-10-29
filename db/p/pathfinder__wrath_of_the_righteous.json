@@ -2,12 +2,12 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4031,9 +4031,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11910,
+  "EOS_Progressed": 11911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14701,6 +14701,11 @@
       "Time": "2023-10-29T16:04:57.1823538+00:00",
       "NumProgressed": 11910,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T17:05:00.4522681+00:00",
+      "NumProgressed": 11911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14848,7 +14853,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "19_EqualToAroden",
@@ -14960,7 +14965,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15639,21 +15644,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10692,
+      "Progressed": 10693,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11910,
+      "Progressed": 11911,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-28T23:02:55.2016849+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:04:57.1823533+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:05:00.4522674+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:57:23.4960603+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:04:57.1825864+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:09.33127+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:05:00.4525248+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -732,6 +732,11 @@
       "Time": "2023-10-29T01:53:52.8784816+00:00",
       "NumProgressed": 156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T17:08:56.3732499+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -887,13 +892,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:08:51.5757042+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:08:56.3732492+00:00",
   "LastUpdate_AppInfo": "2023-10-22T20:57:04.9270849+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:01:14.9494176+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:08:51.5757216+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:02:27.7865358+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:08:56.3732696+00:00"
 }

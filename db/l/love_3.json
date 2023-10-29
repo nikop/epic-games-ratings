@@ -2,7 +2,7 @@
   "ID": "9dd57a83fbae44f5b0fee00cf941be7d",
   "Name": "LOVE 3",
   "ProductSlug": "love-3-c2516f",
-  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 122,
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "FirstSeenAchievements": "2023-05-25T21:04:32.3599326+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:06:21.4231583+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:06:41.1110372+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:39.2382625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:00:40.1434685+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:06:21.4231618+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:01:16.8804866+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:06:41.1110406+00:00"
 }

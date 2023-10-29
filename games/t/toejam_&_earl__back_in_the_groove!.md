@@ -11,8 +11,8 @@ Rating: 4.33 (Ranked 801)
 | Thrill Seeker | 6.00% | ~3,453 |
 | Flying Present Catcher | 5.00% | ~2,878 |
 | Sunflower Master | 5.00% | ~2,878 |
-| Hi Fiver | 3.00% | ~1,726 |
-| A Timely Splash | 3.00% | ~1,726 |
+| Hi Fiver | 3.00% | ~1,727 |
+| A Timely Splash | 3.00% | ~1,727 |
 | Backer Visitor | 2.00% | ~1,151 |
 | Hate That Randomizer | 2.00% | ~1,151 |
 | Feet on Funkotron | 2.00% | ~1,151 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 801)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,550 (Ranked 105)  
+Progressed: 57,551 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 6 (0.01%) (Ranked 311)
 | 2023-10-26 | 57,506 | 6 |
 | 2023-10-27 | 57,517 | 6 |
 | 2023-10-28 | 57,541 | 6 |
-| 2023-10-29 | 57,550 | 6 |
+| 2023-10-29 | 57,551 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

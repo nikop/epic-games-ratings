@@ -2305,9 +2305,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 591
     },
     {
       "ID": "AC08",
@@ -2457,9 +2457,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 394
     },
     {
       "ID": "AC27",
@@ -2626,8 +2626,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:09:07.9697352+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:09:16.435366+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:56.0879289+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:01:15.5744647+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:09:07.9698616+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:02:30.4502726+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:09:16.4354271+00:00"
 }

@@ -1279,9 +1279,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155396,
+  "EOS_Progressed": 155412,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1411,
+  "EOS_NewPlayers": 1417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13544,6 +13544,11 @@
       "Time": "2023-10-29T16:05:26.5572092+00:00",
       "NumProgressed": 155396,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-29T17:05:36.2236731+00:00",
+      "NumProgressed": 155412,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13817,9 +13822,9 @@
       "ID": "MISC_REACHHIGHLEVEL",
       "SetID": "ccc0dlh",
       "Name": "Sharpened Vessel",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1554
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -13922,21 +13927,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 154979,
+      "Progressed": 154995,
       "Completed": 1180
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155396,
+      "Progressed": 155412,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-29T15:57:32.0395525+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:05:26.557209+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:05:36.2236724+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:57:32.0395529+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:05:26.5573212+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:19.3115482+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:05:36.2238074+00:00"
 }

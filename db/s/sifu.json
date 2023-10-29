@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7323,9 +7323,9 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 716033,
+  "EOS_Progressed": 716034,
   "EOS_Completed": 12926,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24273,6 +24273,11 @@
       "Time": "2023-10-29T16:04:23.9252077+00:00",
       "NumProgressed": 716033,
       "NumCompleted": 12926
+    },
+    {
+      "Time": "2023-10-29T17:04:19.8595357+00:00",
+      "NumProgressed": 716034,
+      "NumCompleted": 12926
     }
   ],
   "TotalAchievements": 60,
@@ -24763,21 +24768,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25334,
+      "Progressed": 25335,
       "Completed": 10726
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716033,
+      "Progressed": 716034,
       "Completed": 12926
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-29T13:58:59.9152415+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:04:23.9252074+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:04:19.8595347+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2233354+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:58:49.5113508+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:04:23.9253634+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:58:56.3521464+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:04:19.8597308+00:00"
 }

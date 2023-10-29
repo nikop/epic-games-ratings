@@ -5,17 +5,17 @@ Rating: 4.50 (Ranked 578)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,410 |
-| Advancement | 4.00% | ~1,128 |
-| Meticulously Efficient | 4.00% | ~1,128 |
-| Clutch Capture | 3.00% | ~846 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~846 |
-| Discovery | 3.00% | ~846 |
-| Fully Upgraded | 3.00% | ~846 |
-| Solo Capture | 3.00% | ~846 |
-| Swift Rift Removers | 3.00% | ~846 |
-| Teamwork | 3.00% | ~846 |
-| Vaporous Expansion | 3.00% | ~846 |
+| Stylish | 5.00% | ~1,411 |
+| Advancement | 4.00% | ~1,129 |
+| Meticulously Efficient | 4.00% | ~1,129 |
+| Clutch Capture | 3.00% | ~847 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~847 |
+| Discovery | 3.00% | ~847 |
+| Fully Upgraded | 3.00% | ~847 |
+| Solo Capture | 3.00% | ~847 |
+| Swift Rift Removers | 3.00% | ~847 |
+| Teamwork | 3.00% | ~847 |
+| Vaporous Expansion | 3.00% | ~847 |
 | Animated | 2.00% | ~564 |
 | Back Off | 2.00% | ~564 |
 | Cultured | 2.00% | ~564 |
@@ -23,6 +23,7 @@ Rating: 4.50 (Ranked 578)
 | Ectoplasmic Entity | 2.00% | ~564 |
 | Ghostbuster In Training | 2.00% | ~564 |
 | Icing on the Cake | 2.00% | ~564 |
+| Pesky Jerks | 2.00% | ~564 |
 | Right back at ya | 2.00% | ~564 |
 | Side Hustle | 2.00% | ~564 |
 | Summoner | 2.00% | ~564 |
@@ -33,7 +34,6 @@ Rating: 4.50 (Ranked 578)
 | Collector | 1.00% | ~282 |
 | Escape Artist | 1.00% | ~282 |
 | Legions | 1.00% | ~282 |
-| Pesky Jerks | 1.00% | ~282 |
 | Rift Destroyer | 1.00% | ~282 |
 | Seasoned | 1.00% | ~282 |
 | Skilled | 1.00% | ~282 |
@@ -43,9 +43,9 @@ Rating: 4.50 (Ranked 578)
 | Diabolical | 0.90% | ~254 |
 | Reckless | 0.90% | ~254 |
 | Rivalry | 0.80% | ~226 |
+| Surprise! | 0.70% | ~198 |
 | Fragile Panes | 0.60% | ~169 |
 | Liability | 0.60% | ~169 |
-| Surprise! | 0.60% | ~169 |
 | Therapeutic | 0.40% | ~113 |
 | Master Collector | 0.30% | ~85 |
 | Rift Seeker | 0.30% | ~85 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~28 |
 | Ultimate Defense | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,206 (Ranked 123)  
+Progressed: 28,220 (Ranked 123)  
 Completed: 65 (0.23%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 65 (0.23%) (Ranked 226)
 | 2023-10-26 | 27,791 | 65 |
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
-| 2023-10-29 | 28,206 | 65 |
+| 2023-10-29 | 28,220 | 65 |
 ## Awards
 Max (Great for Beginners): 293  (Ranked 245)  
 Sum: 2,594 (Ranked 181)  

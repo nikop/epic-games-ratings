@@ -5,16 +5,16 @@ Rating: 4.42 (Ranked 700)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 5.00% | ~13,260 |
-| IT MAKES BOOM! | 3.00% | ~7,956 |
-| EXTRA BOOST | 2.00% | ~5,304 |
-| PROTECTED | 2.00% | ~5,304 |
-| PRO | 2.00% | ~5,304 |
-| A TIGER'S FEAR | 1.00% | ~2,652 |
-| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,652 |
-| AGGRESSIVE RACER | 1.00% | ~2,652 |
-| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,326 |
-| ACE SPEEDSTER | 0.50% | ~1,326 |
+| ROOKIE | 5.00% | ~13,268 |
+| IT MAKES BOOM! | 3.00% | ~7,961 |
+| EXTRA BOOST | 2.00% | ~5,307 |
+| PROTECTED | 2.00% | ~5,307 |
+| PRO | 2.00% | ~5,307 |
+| A TIGER'S FEAR | 1.00% | ~2,654 |
+| HERE ARE SOME BARE NECESSITIES | 1.00% | ~2,654 |
+| AGGRESSIVE RACER | 1.00% | ~2,654 |
+| IT'S A LONG WAY TO THE TOP | 0.50% | ~1,327 |
+| ACE SPEEDSTER | 0.50% | ~1,327 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,061 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,061 |
 | TRAINING HARD | 0.30% | ~796 |
@@ -26,11 +26,11 @@ Rating: 4.42 (Ranked 700)
 | FRIENDLY | 0.30% | ~796 |
 | MASTER | 0.30% | ~796 |
 | LEGENDARY HERO | 0.30% | ~796 |
-| PERFECTLY POISED | 0.20% | ~530 |
-| ACE TRICKSTER | 0.20% | ~530 |
+| PERFECTLY POISED | 0.20% | ~531 |
+| ACE TRICKSTER | 0.20% | ~531 |
 | FRAMED! | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,203 (Ranked 52)  
+Progressed: 265,358 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,16 +218,16 @@ Completed: 245 (0.09%) (Ranked 265)
 | 2023-10-26 | 257,665 | 241 |
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
-| 2023-10-29 | 265,203 | 245 |
+| 2023-10-29 | 265,358 | 245 |
 ## Awards
-Max (Great for Quick Sessions): 44  (Ranked 440)  
-Sum: 359 (Ranked 342)  
+Max (Great for Beginners): 44  (Ranked 440)  
+Sum: 363 (Ranked 342)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 44 |
 | This game is Great for Quick Sessions | 44 |
 | This game has Diverse Characters | 43 |
-| This game is Great for Beginners | 40 |
 | This game has Amazing Characters | 33 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Storytelling | 27 |
@@ -268,4 +268,4 @@ Diff (max vs sum): 98
 | 2023-10-26 | 4.42 | 43 | 270 |
 | 2023-10-27 | 4.42 | 44 | 347 |
 | 2023-10-28 | 4.42 | 44 | 352 |
-| 2023-10-29 | 4.42 | 44 | 359 |
+| 2023-10-29 | 4.42 | 44 | 363 |

@@ -19,7 +19,7 @@
 | Look After the Pence... | 73.00% | ~126 |
 | Drunken Master | 73.00% | ~126 |
 | V.I.P. Cemetery | 71.00% | ~123 |
-| Woodcutter | 70.00% | ~121 |
+| Woodcutter | 71.00% | ~123 |
 | Architect of Darkness | 70.00% | ~121 |
 | Top of the World | 69.00% | ~119 |
 | Takeover | 69.00% | ~119 |

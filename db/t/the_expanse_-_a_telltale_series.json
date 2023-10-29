@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14448,
+  "EOS_Progressed": 14449,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9879,6 +9879,11 @@
       "Time": "2023-10-29T16:04:11.4774375+00:00",
       "NumProgressed": 14448,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-29T17:04:04.9626446+00:00",
+      "NumProgressed": 14449,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9953,9 +9958,9 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "18",
@@ -9969,9 +9974,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "2",
@@ -10033,9 +10038,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "27",
@@ -10170,13 +10175,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14448,
+      "Progressed": 14449,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 286
     }
   ],
@@ -10184,8 +10189,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:04:11.477437+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:04:04.9626438+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:58:01.2231362+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:04:11.477548+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:55.3490009+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:04:04.9627957+00:00"
 }

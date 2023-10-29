@@ -1257,9 +1257,9 @@
       "ID": "ENDING_5",
       "SetID": "8eejhlh",
       "Name": "The Delivery",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 263
     },
     {
       "ID": "ENDING_6",
@@ -1321,9 +1321,9 @@
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1361,9 +1361,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 275
     }
   ],
   "AchievementSets": [
@@ -1378,8 +1378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:05:07.3151362+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:05:12.9518001+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:59:32.8653331+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:05:07.3151572+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:59:48.767691+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:05:12.9518347+00:00"
 }

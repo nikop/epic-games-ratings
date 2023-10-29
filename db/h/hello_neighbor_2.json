@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -435,11 +435,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3097,
+  "EOS_Progressed": 3098,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.04,
+  "EOS_Completed_Percentage": 4.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -4200,6 +4200,11 @@
       "Time": "2023-10-29T16:06:39.5674164+00:00",
       "NumProgressed": 3097,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-10-29T17:07:02.9705379+00:00",
+      "NumProgressed": 3098,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -4243,7 +4248,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -4275,7 +4280,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4283,7 +4288,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_REUNION",
@@ -4291,7 +4296,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -4322,7 +4327,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3097,
+      "Progressed": 3098,
       "Completed": 125
     }
   ],
@@ -4330,8 +4335,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:06:39.5674159+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:07:02.970537+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:00:47.0243163+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:06:39.5674952+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:01:23.7626892+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:07:02.9705778+00:00"
 }

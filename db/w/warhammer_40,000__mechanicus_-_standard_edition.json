@@ -816,9 +816,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 225950,
+  "EOS_Progressed": 225954,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21831,6 +21831,11 @@
       "Time": "2023-10-29T16:09:06.3395578+00:00",
       "NumProgressed": 225950,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-29T17:09:14.3891413+00:00",
+      "NumProgressed": 225954,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21842,7 +21847,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42930
+      "UsersEstimate": 42931
     },
     {
       "ID": "ACH_BASE_10",
@@ -21850,7 +21855,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58747
+      "UsersEstimate": 58748
     },
     {
       "ID": "ACH_BASE_11",
@@ -21930,7 +21935,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "ACH_BASE_21",
@@ -22066,7 +22071,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "ACH_BASE_5",
@@ -22113,7 +22118,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 225950,
+      "Progressed": 225954,
       "Completed": 5
     }
   ],
@@ -22121,8 +22126,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-29T16:00:33.809943+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:09:06.3395574+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:09:14.3891406+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:00:33.809944+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:09:06.3397122+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:01:04.4128249+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:09:14.3893276+00:00"
 }

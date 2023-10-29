@@ -2,7 +2,7 @@
   "ID": "0ba4cb8e4f6a49fc87836ef2c35e0d21",
   "Name": "Unbound: Worlds Apart",
   "ProductSlug": "unbound-worlds-apart",
-  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 122,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:06.8125635+00:00",
   "LastChanged": "2023-03-31T05:57:06.8125636+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:42.1543188+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:00:43.8669713+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:08:24.0955351+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:01:19.772324+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:08:24.180848+00:00"
 }

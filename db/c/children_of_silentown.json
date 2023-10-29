@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -437,9 +437,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "Friend",
@@ -525,17 +525,17 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 172
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "Trinket",
@@ -582,8 +582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:08:25.0818456+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:08:25.3827263+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6099095+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:00:56.3943986+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:08:25.0818676+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:01:37.4468172+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:08:25.382754+00:00"
 }

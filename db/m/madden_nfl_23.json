@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -769,9 +769,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3063,
+  "EOS_Progressed": 3065,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4274,6 +4274,11 @@
       "Time": "2023-10-29T16:07:05.0551916+00:00",
       "NumProgressed": 3063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-29T17:08:14.1105483+00:00",
+      "NumProgressed": 3065,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4294,7 +4299,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "achievement_11",
@@ -4310,7 +4315,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "achievement_13",
@@ -4318,7 +4323,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "achievement_14",
@@ -4326,7 +4331,7 @@
       "Name": "Dealmaker",
       "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "achievement_15",
@@ -4334,7 +4339,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "achievement_16",
@@ -4453,7 +4458,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3063,
+      "Progressed": 3065,
       "Completed": 0
     }
   ],
@@ -4461,8 +4466,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-28T23:02:39.1539263+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:07:05.0551913+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:08:14.1105471+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:02:47.6971896+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:07:05.0552288+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:02:45.2361296+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:08:14.1106126+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2bfd5ca43ef443739ada168e017e1b78",
   "Name": "Cardpocalypse Standard Edition",
   "ProductSlug": "cardpocalypse",
-  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 421,
   "Ranking_EOS_NewCompleters": 122,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.4282024+00:00",
   "LastChanged": "2023-03-31T05:57:47.4282025+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.9158196+00:00",
-  "LastUpdate_Ratings": "2023-10-29T15:58:03.6496001+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:09:23.2870386+00:00"
+  "LastUpdate_Ratings": "2023-10-29T16:57:58.042774+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:09:34.3297893+00:00"
 }

@@ -11,7 +11,7 @@ Rating: 4.75 (Ranked 141)
 | Body and Soul | 11.00% | ~841 |
 | Globe Trotter | 11.00% | ~841 |
 | Ahem Ahem | 10.00% | ~764 |
-| Audiophile | 8.00% | ~611 |
+| Audiophile | 8.00% | ~612 |
 | Clay Pigeon | 7.00% | ~535 |
 | Historian | 6.00% | ~459 |
 | Iconoclast | 6.00% | ~459 |
@@ -27,7 +27,7 @@ Rating: 4.75 (Ranked 141)
 | Ça de Wizz! | 1.00% | ~76 |
 | Thing | 1.00% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,643 (Ranked 164)  
+Progressed: 7,644 (Ranked 164)  
 Completed: 34 (0.44%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 34 (0.44%) (Ranked 197)
 | 2023-10-26 | 7,631 | 34 |
 | 2023-10-27 | 7,636 | 34 |
 | 2023-10-28 | 7,640 | 34 |
-| 2023-10-29 | 7,643 | 34 |
+| 2023-10-29 | 7,644 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

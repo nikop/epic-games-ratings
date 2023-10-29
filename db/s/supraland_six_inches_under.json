@@ -2,13 +2,13 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 119,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 25,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -2538,8 +2538,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-10-03T15:58:07.9846198+00:00",
-  "LastChanged_Achievements": "2023-10-29T16:08:18.6815165+00:00",
+  "LastChanged_Achievements": "2023-10-29T17:08:17.7006116+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.3425545+00:00",
-  "LastUpdate_Ratings": "2023-10-29T16:00:05.3263741+00:00",
-  "LastUpdate_Achievements": "2023-10-29T16:08:18.6815777+00:00"
+  "LastUpdate_Ratings": "2023-10-29T17:00:31.6572261+00:00",
+  "LastUpdate_Achievements": "2023-10-29T17:08:17.7007197+00:00"
 }

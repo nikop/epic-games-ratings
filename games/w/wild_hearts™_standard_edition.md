@@ -11,8 +11,8 @@
 | Man-Machine Master | 73.00% | ~141 |
 | Mountain Splitter | 70.00% | ~135 |
 | Fusion Conjuror | 69.00% | ~133 |
-| Memory Rouser | 67.00% | ~129 |
-| Charmed by the Hunt | 66.00% | ~127 |
+| Memory Rouser | 68.00% | ~131 |
+| Charmed by the Hunt | 67.00% | ~129 |
 | Subsistence Skills | 64.00% | ~124 |
 | Kemono Hunter | 62.00% | ~120 |
 | Expert Conjuror | 61.00% | ~118 |
