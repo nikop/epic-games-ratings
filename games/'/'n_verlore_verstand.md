@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Start of a Journey | 87.00% | ~46 |
 | A thing of beauty | 83.00% | ~44 |
-| Escape the Maze | 53.00% | ~28 |
+| Escape the Maze | 55.00% | ~29 |
 | Brace the cold | 38.00% | ~20 |
 | A Long Walk | 36.00% | ~19 |
 | Dont mind the heat | 13.00% | ~7 |

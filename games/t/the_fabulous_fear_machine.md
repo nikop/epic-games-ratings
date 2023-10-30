@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You had one wish left | 6.00% | ~2 |
+| You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
+| Blessed antennas | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
-| You have two wishes left | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
-| Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |

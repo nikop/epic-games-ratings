@@ -19,10 +19,10 @@ Rating: 4.62 (Ranked 360)
 | The Wicked Twins | 21.00% | ~192 |
 | The Prince in Heels | 21.00% | ~192 |
 | Immaculate Aim | 21.00% | ~192 |
+| The Betrayer | 20.00% | ~183 |
 | Honest Mistake | 20.00% | ~183 |
 | Fast Learner | 20.00% | ~183 |
 | Like Clockwork | 19.00% | ~173 |
-| The Betrayer | 19.00% | ~173 |
 | Golem Chaser | 19.00% | ~173 |
 | Check Your Pulse | 19.00% | ~173 |
 | Right On Time | 18.00% | ~164 |

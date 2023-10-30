@@ -5,9 +5,9 @@ Rating: 4.41 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First blood | 66.00% | ~19,088 |
-| Head popping I | 4.00% | ~1,157 |
-| It's a piece of cake | 1.00% | ~289 |
+| First blood | 66.00% | ~19,108 |
+| Head popping I | 4.00% | ~1,158 |
+| It's a piece of cake | 1.00% | ~290 |
 | Hang in there | 0.50% | ~145 |
 | Rifle Master | 0.50% | ~145 |
 | Head popping II | 0.20% | ~58 |
@@ -20,8 +20,8 @@ Rating: 4.41 (Ranked 711)
 | Grenade Master | 0.00% | ~0 |
 | Sword Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,921 (Ranked 121)  
-Completed: 11,759 (40.66%) (Ranked 6)  
+Progressed: 28,951 (Ranked 121)  
+Completed: 11,759 (40.62%) (Ranked 6)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 11,759 (40.66%) (Ranked 6)
 | 2023-10-27 | 27,783 | 11,759 |
 | 2023-10-28 | 28,245 | 11,759 |
 | 2023-10-29 | 28,659 | 11,759 |
-| 2023-10-30 | 28,921 | 11,759 |
+| 2023-10-30 | 28,951 | 11,759 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

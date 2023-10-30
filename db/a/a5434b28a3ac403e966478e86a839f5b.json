@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -1405,6 +1405,11 @@
       "Time": "2023-10-30T19:07:24.70684+00:00",
       "NumProgressed": 480,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T20:08:00.0022107+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1425,7 +1430,7 @@
       "Name": "Establish Communications",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_eou2",
@@ -1465,7 +1470,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_eou7",
@@ -1520,14 +1525,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-30T19:07:24.7068395+00:00",
+  "LastChanged_Achievements": "2023-10-30T20:08:00.0022101+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-10-30T19:02:46.738392+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:07:24.7068547+00:00"
+  "LastUpdate_Ratings": "2023-10-30T20:03:09.1530319+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:08:00.002235+00:00"
 }

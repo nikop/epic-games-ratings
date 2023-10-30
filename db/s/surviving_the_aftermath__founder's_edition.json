@@ -1282,10 +1282,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 718,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-30T20:01:44.1689281+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 719,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 718,
+  "NumberOfAwards": 719,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1329,7 +1335,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1350,9 +1356,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9969,
+  "EOS_Progressed": 9970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15945,6 +15951,11 @@
       "Time": "2023-10-30T19:08:55.7669906+00:00",
       "NumProgressed": 9969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T20:09:33.720573+00:00",
+      "NumProgressed": 9970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15956,7 +15967,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "10",
@@ -15996,7 +16007,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "15",
@@ -16004,7 +16015,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "16",
@@ -16044,7 +16055,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "20",
@@ -16052,7 +16063,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "21",
@@ -16060,7 +16071,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "22",
@@ -16068,7 +16079,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7278
     },
     {
       "ID": "23",
@@ -16076,7 +16087,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "24",
@@ -16092,7 +16103,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "26",
@@ -16204,7 +16215,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "39",
@@ -16220,7 +16231,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "40",
@@ -16316,7 +16327,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "51",
@@ -16427,15 +16438,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9969,
+      "Progressed": 9970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-10-29T10:00:51.4730208+00:00",
-  "LastChanged_Achievements": "2023-10-30T19:08:55.7669901+00:00",
+  "LastChanged": "2023-10-30T20:01:44.1689279+00:00",
+  "LastChanged_Achievements": "2023-10-30T20:09:33.7205724+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-10-30T19:01:25.9885727+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:08:55.7671015+00:00"
+  "LastUpdate_Ratings": "2023-10-30T20:01:44.1689285+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:09:33.7207482+00:00"
 }

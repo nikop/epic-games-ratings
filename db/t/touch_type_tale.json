@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3747,
+  "EOS_Progressed": 3748,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4377,6 +4377,11 @@
       "Time": "2023-10-30T08:08:51.6030059+00:00",
       "NumProgressed": 3747,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-30T20:09:41.8318086+00:00",
+      "NumProgressed": 3748,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4436,7 +4441,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3297
+      "UsersEstimate": 3298
     },
     {
       "ID": "campaign10",
@@ -4540,7 +4545,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "campaign4",
@@ -4548,7 +4553,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1611
+      "UsersEstimate": 1612
     },
     {
       "ID": "campaign5",
@@ -4604,7 +4609,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "scenario3",
@@ -4651,7 +4656,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3747,
+      "Progressed": 3748,
       "Completed": 11
     }
   ],
@@ -4659,8 +4664,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-10-30T19:09:03.7380074+00:00",
+  "LastChanged_Achievements": "2023-10-30T20:09:41.8318073+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:10.4675772+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:57:52.4129678+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:09:03.7380474+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:57:55.3148666+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:09:41.8318681+00:00"
 }

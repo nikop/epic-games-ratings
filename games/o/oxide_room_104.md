@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | What's going on here? | 88.00% | ~204 |
 | Brute force | 81.00% | ~188 |
+| Room 104 | 79.00% | ~183 |
 | Nimble fingers | 78.00% | ~181 |
-| Room 104 | 78.00% | ~181 |
 | Face to face | 78.00% | ~181 |
 | Now or never | 75.00% | ~174 |
 | Let's play a game… | 74.00% | ~172 |
@@ -19,12 +19,12 @@
 | One-way | 17.00% | ~39 |
 | On the right path | 16.00% | ~37 |
 | It can't be true | 16.00% | ~37 |
+| He who seeks, finds! | 13.00% | ~30 |
 | I'm close now | 12.00% | ~28 |
 | Failed attempt | 12.00% | ~28 |
 | The real escape | 12.00% | ~28 |
 | Good choice | 12.00% | ~28 |
 | Take the long way round | 12.00% | ~28 |
-| He who seeks, finds! | 12.00% | ~28 |
 | Nightmare in the kitchen | 11.00% | ~26 |
 | Born again | 8.00% | ~19 |
 | 373 | 6.00% | ~14 |

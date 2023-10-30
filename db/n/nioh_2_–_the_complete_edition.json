@@ -2,12 +2,12 @@
   "ID": "6acf92329bc449068201ee9a3f399a13",
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "ProductSlug": "nioh-2-the-complete-edition",
-  "Ranking_Rating": 83,
+  "Ranking_Rating": 84,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-09-23T14:56:18+00:00",
@@ -4199,6 +4199,6 @@
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
   "LastChanged": "2023-10-30T14:00:18.2236131+00:00",
   "LastUpdate_AppInfo": "2023-10-28T09:57:17.9243584+00:00",
-  "LastUpdate_Ratings": "2023-10-30T19:00:44.2437361+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:09:25.1798739+00:00"
+  "LastUpdate_Ratings": "2023-10-30T20:01:02.0545859+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:10:04.121118+00:00"
 }

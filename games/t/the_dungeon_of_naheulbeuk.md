@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,587 |
-| Alt+F4 | 7.00% | ~16,385 |
+| Sowwy! | 34.00% | ~79,591 |
+| Alt+F4 | 7.00% | ~16,386 |
 | Where's that freaking Dwarf? | 6.00% | ~14,045 |
 | Déjà vu | 5.00% | ~11,704 |
-| A beer, two curses, three companions | 4.00% | ~9,363 |
-| Sock! SOCK! | 4.00% | ~9,363 |
-| GG EZ | 4.00% | ~9,363 |
-| Speedrun | 4.00% | ~9,363 |
-| Way of the Wimp | 3.00% | ~7,022 |
-| The plot thickens... At the tavern | 3.00% | ~7,022 |
-| DM intervention | 3.00% | ~7,022 |
-| Fireproof Wizardess | 3.00% | ~7,022 |
+| A beer, two curses, three companions | 4.00% | ~9,364 |
+| Sock! SOCK! | 4.00% | ~9,364 |
+| GG EZ | 4.00% | ~9,364 |
+| Speedrun | 4.00% | ~9,364 |
+| Way of the Wimp | 3.00% | ~7,023 |
+| The plot thickens... At the tavern | 3.00% | ~7,023 |
+| DM intervention | 3.00% | ~7,023 |
+| Fireproof Wizardess | 3.00% | ~7,023 |
 | Livin' in a dwarven paradise | 2.00% | ~4,682 |
 | Shiny and Crôm | 2.00% | ~4,682 |
 | The demons' feast | 2.00% | ~4,682 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.90% | ~2,107 |
 | In Navalu's footsteps | 0.80% | ~1,873 |
 | Lëgal Legend | 0.70% | ~1,639 |
-| We come in peace | 0.60% | ~1,404 |
+| We come in peace | 0.60% | ~1,405 |
 | Holistic Adventuring Party | 0.50% | ~1,170 |
 | An old poacher makes the best gamekeeper | 0.50% | ~1,170 |
 | Law and Order | 0.50% | ~1,170 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,078 (Ranked 61)  
+Progressed: 234,090 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 7 (0.00%) (Ranked 333)
 | 2023-10-27 | 233,450 | 7 |
 | 2023-10-28 | 233,691 | 7 |
 | 2023-10-29 | 233,955 | 7 |
-| 2023-10-30 | 234,078 | 7 |
+| 2023-10-30 | 234,090 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 269)  
 Sum: 447 (Ranked 327)  

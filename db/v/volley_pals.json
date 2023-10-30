@@ -4,7 +4,7 @@
   "ProductSlug": "volley-pals-0120b4",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -775,8 +775,8 @@
   ],
   "FirstSeen": "2023-09-02T02:13:34.6238392+00:00",
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-10-30T19:06:37.0873186+00:00",
+  "LastChanged_Achievements": "2023-10-30T20:07:10.4137973+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:27.5517219+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:57:14.6256332+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:06:37.0873294+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:57:17.1793743+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:07:10.4138114+00:00"
 }

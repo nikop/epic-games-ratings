@@ -4,7 +4,7 @@
   "ProductSlug": "white-shadows-64e014",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-04-08T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.2657568+00:00",
   "LastChanged": "2023-03-31T05:57:32.2657569+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:28.606122+00:00",
-  "LastUpdate_Ratings": "2023-10-30T19:03:35.9670348+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:08:59.2482853+00:00"
+  "LastUpdate_Ratings": "2023-10-30T20:04:00.9600782+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:09:37.0172425+00:00"
 }

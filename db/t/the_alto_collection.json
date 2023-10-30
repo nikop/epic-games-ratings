@@ -802,7 +802,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44506,
+  "EOS_Progressed": 44509,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 0,
@@ -22572,6 +22572,11 @@
       "Time": "2023-10-30T19:05:51.3926469+00:00",
       "NumProgressed": 44506,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T20:06:23.1939506+00:00",
+      "NumProgressed": 44509,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22663,7 +22668,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "journeyer",
@@ -22703,7 +22708,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "novice",
@@ -22735,7 +22740,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "playerPaz",
@@ -22855,7 +22860,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "vandal",
@@ -22879,7 +22884,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "windswept",
@@ -22894,15 +22899,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44506,
+      "Progressed": 44509,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-10-30T19:05:51.3926465+00:00",
+  "LastChanged_Achievements": "2023-10-30T20:06:23.1939498+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:58:28.7707578+00:00",
-  "LastUpdate_Achievements": "2023-10-30T19:05:51.3927757+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:58:33.6082167+00:00",
+  "LastUpdate_Achievements": "2023-10-30T20:06:23.1941502+00:00"
 }
