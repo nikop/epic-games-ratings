@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.73% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.80% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.79% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 13.21% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 24 | [Seven Doors](games/s/seven_doors.md) | 12.50% |
-| 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.36% |
+| 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.61% |
 | 27 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 28 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -92,8 +92,8 @@
 | 90 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 91 | [Doodle God](games/d/doodle_god.md) | 3.25% |
 | 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.19% |
-| 93 | [The Complex](games/t/the_complex.md) | 3.13% |
-| 94 | [Without Escape](games/w/without_escape.md) | 3.12% |
+| 93 | [The Complex](games/t/the_complex.md) | 3.12% |
+| 93 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 95 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.10% |
 | 96 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
 | 97 | [HordeCore](games/h/hordecore.md) | 3.06% |
@@ -114,10 +114,10 @@
 | 112 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
 | 113 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
-| 115 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
-| 116 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
-| 117 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.30% |
-| 118 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.20% |
+| 115 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.37% |
+| 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
+| 117 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
+| 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.30% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.00% |
 | 120 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 120 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.96% |
@@ -159,7 +159,7 @@
 | 156 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 158 | [Hades](games/h/hades.md) | 0.91% |
 | 159 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.87% |
+| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.89% |
 | 161 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 162 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
@@ -709,4 +709,4 @@
 | 332 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 332 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 332 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,483 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,485 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
