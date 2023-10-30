@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.97% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.96% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.07% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -78,7 +78,7 @@
 | 76 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.34% |
 | 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
-| 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.03% |
+| 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
 | 80 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 82 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.75% |
@@ -106,7 +106,7 @@
 | 104 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
 | 106 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
-| 107 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.59% |
+| 107 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.58% |
 | 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 109 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -185,12 +185,12 @@
 | 183 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 183 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.55% |
 | 183 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.55% |
-| 186 | [Dead Space](games/d/dead_space.md) | 0.53% |
 | 186 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 188 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 187 | [Dead Space](games/d/dead_space.md) | 0.52% |
+| 187 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 189 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
+| 189 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.50% |
 | 189 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
-| 191 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.49% |
 | 192 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 193 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 194 | [It Takes Two](games/i/it_takes_two.md) | 0.46% |

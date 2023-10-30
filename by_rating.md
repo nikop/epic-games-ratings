@@ -69,7 +69,7 @@
 | 62 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 470 |
 | 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 816 | 167 |
 | 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,739 | 54 |
-| 62 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 422 | 221 |
+| 62 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 423 | 221 |
 | 62 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 542 |
 | 62 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 542 |
 | 62 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.82 | 0 | 542 |
@@ -136,7 +136,7 @@
 | 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 542 |
 | 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,762 | 36 |
 | 118 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 103 | 347 |
-| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 50 | 420 |
+| 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 50 | 421 |
 | 118 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 447 |
 | 118 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 542 |
 | 118 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 393 | 225 |
@@ -607,7 +607,7 @@
 | 600 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 542 |
 | 600 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 277 | 253 |
 | 600 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 542 |
-| 600 | [Maneater](games/m/maneater.md) | 4.49 | 13,762 | 29 |
+| 600 | [Maneater](games/m/maneater.md) | 4.49 | 13,767 | 29 |
 | 600 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 354 |
 | 600 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 470 |
 | 600 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 542 |
@@ -637,7 +637,7 @@
 | 628 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 542 |
 | 636 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 542 |
 | 636 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 542 |
-| 636 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 50 | 420 |
+| 636 | [ATOM RPG](games/a/atom_rpg.md) | 4.46 | 51 | 419 |
 | 636 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,666 | 89 |
 | 636 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 542 |
 | 636 | [Chorus](games/c/chorus.md) | 4.46 | 34 | 470 |
@@ -789,7 +789,7 @@
 | 784 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 542 |
 | 784 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 205 | 279 |
 | 784 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 542 |
-| 784 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 50 | 420 |
+| 784 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 50 | 421 |
 | 791 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 500 |
 | 791 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 123 | 328 |
 | 791 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 103 | 347 |
@@ -876,18 +876,18 @@
 | 869 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 542 |
 | 869 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 542 |
 | 876 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 542 |
+| 876 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 185 | 288 |
 | 876 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 152 |
 | 876 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 542 |
 | 876 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 542 |
 | 876 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 542 |
 | 876 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 0 | 542 |
-| 882 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 185 | 288 |
-| 882 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 542 |
-| 882 | [OVERPASS™](games/o/overpass™.md) | 4.22 | 0 | 542 |
-| 882 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 542 |
-| 882 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 542 |
-| 882 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 219 | 274 |
-| 882 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.22 | 41 | 447 |
+| 883 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 542 |
+| 883 | [OVERPASS™](games/o/overpass™.md) | 4.22 | 0 | 542 |
+| 883 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 542 |
+| 883 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 542 |
+| 883 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 219 | 274 |
+| 883 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.22 | 41 | 447 |
 | 889 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 328 |
 | 889 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 478 |
 | 889 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 542 |
@@ -904,7 +904,7 @@
 | 896 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 524 |
 | 896 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 542 |
 | 896 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 0 | 542 |
-| 905 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 420 |
+| 905 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 421 |
 | 905 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 542 |
 | 905 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.19 | 26 | 508 |
 | 905 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 542 |

@@ -28,7 +28,7 @@
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,564 | 4.58 | 440 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,515 | 4.60 | 405 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,901 | 4.60 | 405 |
-| 29 | [Maneater](games/m/maneater.md) | 13,762 | 4.49 | 600 |
+| 29 | [Maneater](games/m/maneater.md) | 13,767 | 4.49 | 600 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,442 | 4.43 | 684 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,879 | 4.86 | 28 |
 | 32 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,734 | 4.36 | 770 |
@@ -220,7 +220,7 @@
 | 218 | [Warface](games/w/warface.md) | 431 | 3.90 | 1,004 |
 | 219 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 427 | 4.73 | 170 |
 | 220 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 425 | 4.50 | 578 |
-| 221 | [Slime Rancher](games/s/slime_rancher.md) | 422 | 4.82 | 62 |
+| 221 | [Slime Rancher](games/s/slime_rancher.md) | 423 | 4.82 | 62 |
 | 222 | [For The King](games/f/for_the_king.md) | 401 | 4.70 | 211 |
 | 223 | [Nuclear Throne](games/n/nuclear_throne.md) | 397 | 4.79 | 92 |
 | 224 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 394 | 4.62 | 359 |
@@ -274,7 +274,7 @@
 | 272 | [Crying Suns](games/c/crying_suns.md) | 221 | 4.50 | 578 |
 | 273 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 220 | 4.60 | 405 |
 | 274 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 219 | 4.84 | 48 |
-| 274 | [Stranded Deep](games/s/stranded_deep.md) | 219 | 4.22 | 882 |
+| 274 | [Stranded Deep](games/s/stranded_deep.md) | 219 | 4.22 | 883 |
 | 276 | [Sunless Sea](games/s/sunless_sea.md) | 215 | 4.58 | 440 |
 | 277 | [HITMAN](games/h/hitman.md) | 212 | 4.64 | 327 |
 | 278 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 209 | 4.55 | 494 |
@@ -287,7 +287,7 @@
 | 285 | [Crashlands](games/c/crashlands.md) | 195 | 4.66 | 288 |
 | 285 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 195 | 4.52 | 545 |
 | 287 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 359 |
-| 288 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 185 | 4.22 | 882 |
+| 288 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 185 | 4.23 | 876 |
 | 288 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 185 | 4.63 | 343 |
 | 290 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 184 | 4.65 | 308 |
 | 291 | [The Witness](games/t/the_witness.md) | 183 | 4.70 | 211 |
@@ -418,11 +418,11 @@
 | 414 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 52 | 4.71 | 193 |
 | 414 | [Poker Club](games/p/poker_club.md) | 52 | 3.82 | 1,011 |
 | 414 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 52 | 4.37 | 761 |
+| 419 | [ATOM RPG](games/a/atom_rpg.md) | 51 | 4.46 | 636 |
 | 419 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 51 | 4.81 | 76 |
-| 420 | [ATOM RPG](games/a/atom_rpg.md) | 50 | 4.46 | 636 |
-| 420 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 905 |
-| 420 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 50 | 4.35 | 784 |
-| 420 | [The Riftbreaker](games/t/the_riftbreaker.md) | 50 | 4.76 | 118 |
+| 421 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 905 |
+| 421 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 50 | 4.35 | 784 |
+| 421 | [The Riftbreaker](games/t/the_riftbreaker.md) | 50 | 4.76 | 118 |
 | 424 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 49 | 4.43 | 684 |
 | 424 | [Expeditions: Rome](games/e/expeditions__rome.md) | 49 | 4.67 | 270 |
 | 424 | [GRIME](games/g/grime.md) | 49 | 4.58 | 440 |
@@ -449,7 +449,7 @@
 | 447 | [Bugsnax](games/b/bugsnax.md) | 41 | 4.86 | 28 |
 | 447 | [City of Gangsters](games/c/city_of_gangsters.md) | 41 | 4.28 | 839 |
 | 447 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 118 |
-| 447 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 41 | 4.22 | 882 |
+| 447 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 41 | 4.22 | 883 |
 | 451 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 39 | 4.58 | 440 |
 | 451 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 182 |
 | 451 | [Witchfire](games/w/witchfire.md) | 39 | 4.62 | 359 |
