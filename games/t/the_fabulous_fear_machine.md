@@ -7,12 +7,14 @@
 | You had one wish left | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
+| You've awakened the beast | 3.00% | ~1 |
+| Hate is... addictive | 3.00% | ~1 |
 | Blessed antennas | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
+| The bully | 3.00% | ~1 |
+| Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
-| You've awakened the beast | 0.00% | ~0 |
-| Hate is... addictive | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
@@ -22,7 +24,6 @@
 | A rival with no options | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
-| The bully | 0.00% | ~0 |
 | The scholar | 0.00% | ~0 |
 | The adventurer | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
@@ -46,13 +47,12 @@
 | ECO mode | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
-| Troy is burning! | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 | The happy farmer girl | 0.00% | ~0 |
 | Diagnosis: fear | 0.00% | ~0 |
 | Ambition is... blind | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 482)  
+Progressed: 33 (Ranked 483)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |

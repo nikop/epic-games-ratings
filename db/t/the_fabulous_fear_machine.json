@@ -2,10 +2,10 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 385,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -202,17 +202,17 @@
       "ID": "10",
       "SetID": "d37idgg",
       "Name": "You\u0027ve awakened the beast",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "11",
       "SetID": "d37idgg",
       "Name": "Hate is... addictive",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "12",
@@ -322,9 +322,9 @@
       "ID": "24",
       "SetID": "d37idgg",
       "Name": "The bully",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "25",
@@ -514,9 +514,9 @@
       "ID": "46",
       "SetID": "d37idgg",
       "Name": "Troy is burning!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "47",
@@ -577,8 +577,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:10:24.974967+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:09:15.1006186+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.6423238+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:58:34.3783528+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:10:24.9750077+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:58:21.5236255+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:09:15.1006496+00:00"
 }

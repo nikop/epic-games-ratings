@@ -2,13 +2,13 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 711,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 6,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-10-20T10:59:47.6628887+00:00",
@@ -71,17 +71,23 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-30T21:59:19.4666953+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28967,
+  "EOS_Progressed": 28977,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2436,
+  "EOS_NewPlayers": 2428,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 40.59,
+  "EOS_Completed_Percentage": 40.58,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -7442,6 +7448,11 @@
       "Time": "2023-10-30T21:05:42.2948282+00:00",
       "NumProgressed": 28967,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-10-30T22:04:23.0182035+00:00",
+      "NumProgressed": 28977,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -7462,7 +7473,7 @@
       "Name": "First blood",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 19118
+      "UsersEstimate": 19125
     },
     {
       "ID": "grenadeKills",
@@ -7565,16 +7576,16 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 28967,
+      "Progressed": 28977,
       "Completed": 11759
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged": "2023-10-29T21:59:50.2269431+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:05:42.2948274+00:00",
+  "LastChanged": "2023-10-30T21:59:19.4666951+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:04:23.0182031+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.7155354+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:59:59.8049194+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:05:42.2949017+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:59:19.4666958+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:04:23.0182452+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8370,9 +8370,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64189,
+  "EOS_Progressed": 64191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28785,6 +28785,11 @@
       "Time": "2023-10-30T21:09:56.8505912+00:00",
       "NumProgressed": 64189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T22:08:55.2788292+00:00",
+      "NumProgressed": 64191,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28804,7 +28809,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10270
+      "UsersEstimate": 10271
     },
     {
       "ID": "Bannerlord",
@@ -28812,7 +28817,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14763
+      "UsersEstimate": 14764
     },
     {
       "ID": "Best served cold",
@@ -28852,7 +28857,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "Crackshot",
@@ -28868,7 +28873,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "Duelist",
@@ -28956,7 +28961,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14763
+      "UsersEstimate": 14764
     },
     {
       "ID": "I can do it",
@@ -28964,7 +28969,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10270
+      "UsersEstimate": 10271
     },
     {
       "ID": "I spit on your grave",
@@ -29020,7 +29025,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21182
+      "UsersEstimate": 21183
     },
     {
       "ID": "Lawbringer",
@@ -29036,7 +29041,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14763
+      "UsersEstimate": 14764
     },
     {
       "ID": "Long live the Empire",
@@ -29076,7 +29081,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "Real Estate",
@@ -29172,7 +29177,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14763
+      "UsersEstimate": 14764
     },
     {
       "ID": "Undercover",
@@ -29203,15 +29208,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64189,
+      "Progressed": 64191,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-30T19:58:44.9665704+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:09:56.8505902+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:08:55.2788287+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:58:41.4191864+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:09:56.8508768+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:58:25.9892682+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:08:55.2789637+00:00"
 }

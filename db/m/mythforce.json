@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4552,
+  "EOS_Progressed": 4553,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8394,6 +8394,11 @@
       "Time": "2023-10-30T20:10:50.4088641+00:00",
       "NumProgressed": 4552,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-30T22:09:21.2431718+00:00",
+      "NumProgressed": 4553,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8462,7 +8467,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8558,7 +8563,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8589,15 +8594,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4552,
+      "Progressed": 4553,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:10:33.2947192+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:09:21.2431714+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:59:47.5326783+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:10:33.294785+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:59:13.3123096+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:09:21.2432203+00:00"
 }

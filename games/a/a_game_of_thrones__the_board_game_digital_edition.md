@@ -6,15 +6,15 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~10,897 |
-| Battering Crew | 20.00% | ~5,448 |
+| Conqueror | 40.00% | ~10,899 |
+| Battering Crew | 20.00% | ~5,449 |
 | The Kingsroad | 18.00% | ~4,904 |
-| Well Stocked | 14.00% | ~3,814 |
-| Royal Fleet | 13.00% | ~3,541 |
+| Well Stocked | 14.00% | ~3,815 |
+| Royal Fleet | 13.00% | ~3,542 |
 | The Kraken’s Grasp | 9.00% | ~2,452 |
-| Daggers in the Dark | 8.00% | ~2,179 |
-| Alliance | 8.00% | ~2,179 |
-| A Long Journey | 8.00% | ~2,179 |
+| Daggers in the Dark | 8.00% | ~2,180 |
+| Alliance | 8.00% | ~2,180 |
+| A Long Journey | 8.00% | ~2,180 |
 | Winter is Coming | 7.00% | ~1,907 |
 | Oathkeeper | 7.00% | ~1,907 |
 | Influential | 7.00% | ~1,907 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~545 |
 | War of the Five Kings | 1.00% | ~272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,242 (Ranked 124)  
+Progressed: 27,247 (Ranked 124)  
 Completed: 74 (0.27%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,18 +222,18 @@ Completed: 74 (0.27%) (Ranked 224)
 | 2023-10-27 | 26,998 | 73 |
 | 2023-10-28 | 27,087 | 73 |
 | 2023-10-29 | 27,184 | 73 |
-| 2023-10-30 | 27,242 | 74 |
+| 2023-10-30 | 27,247 | 74 |
 ## Awards
-Max (Quickly Understood Controls): 123  (Ranked 329)  
-Sum: 790 (Ranked 278)  
+Max (Quickly Understood Controls): 124  (Ranked 328)  
+Sum: 792 (Ranked 277)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 123 |
+| This game has Quickly Understood Controls | 124 |
 | This game is Highly Recommended | 111 |
 | This game is Extremely Fun | 110 |
 | This game has Competitive Players | 100 |
-| This game is Relaxing | 95 |
+| This game is Relaxing | 96 |
 | This game has Amazing Storytelling | 92 |
 | This game has Amazing Characters | 85 |
 | This game has a Competitive Community | 74 |
@@ -326,3 +326,4 @@ Diff (max vs sum): 51
 | 2023-09-03 | 4.21 | - | 123 | 786 |
 | 2023-10-21 | 4.21 | - | 123 | 789 |
 | 2023-10-27 | 4.21 | - | 123 | 790 |
+| 2023-10-30 | 4.21 | - | 124 | 792 |

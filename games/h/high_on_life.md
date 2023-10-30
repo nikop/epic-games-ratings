@@ -27,7 +27,7 @@ Rating: 4.64 (Ranked 328)
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |
 | We Came, We Chainsaw, We Conquered | 0.90% | ~15 |
 | Eatin' Good in the Neighborhood | 0.80% | ~195 |
-| Eye Scream, You Scream | 0.70% | ~171 |
+| Eye Scream, You Scream | 0.80% | ~195 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.40% | ~98 |
 | Fall In Love With A Parasite | 0.40% | ~7 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 328)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,399 (Ranked 125)  
+Progressed: 24,400 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 13 (0.05%) (Ranked 288)
 | 2023-10-27 | 24,371 | 13 |
 | 2023-10-28 | 24,379 | 13 |
 | 2023-10-29 | 24,391 | 13 |
-| 2023-10-30 | 24,399 | 13 |
+| 2023-10-30 | 24,400 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

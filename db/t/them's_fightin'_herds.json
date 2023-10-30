@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -271,7 +271,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231693,
+  "EOS_Progressed": 231694,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
@@ -20131,6 +20131,11 @@
       "Time": "2023-10-30T21:07:01.4662139+00:00",
       "NumProgressed": 231693,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T22:05:18.5192796+00:00",
+      "NumProgressed": 231694,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20206,7 +20211,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83409
+      "UsersEstimate": 83410
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -20302,7 +20307,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50972
+      "UsersEstimate": 50973
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -20365,7 +20370,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231693,
+      "Progressed": 231694,
       "Completed": 5
     }
   ],
@@ -20373,8 +20378,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:07:01.466179+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:05:18.5192793+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.2502965+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:03:16.0552264+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:07:01.4663755+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:02:38.3780621+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:05:18.5193864+00:00"
 }

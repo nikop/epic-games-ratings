@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~856 |
-| Off to a good start | 69.00% | ~649 |
+| New Recruit | 91.00% | ~857 |
+| Off to a good start | 69.00% | ~650 |
 | Do... or do not. There is no try | 51.00% | ~480 |
 | A good blaster at your side | 33.00% | ~311 |
 | I suggest a new strategy | 20.00% | ~188 |
 | Scrap collector | 19.00% | ~179 |
-| Great shot, kid! | 18.00% | ~169 |
+| Great shot, kid! | 18.00% | ~170 |
 | All right, I'll give it a try | 17.00% | ~160 |
-| Together we can rule the galaxy | 16.00% | ~151 |
 | Shoot first | 16.00% | ~151 |
 | The power of the Force | 15.00% | ~141 |
+| Together we can rule the galaxy | 15.00% | ~141 |
 | Collector | 14.00% | ~132 |
 | Best star-pilot in the galaxy | 11.00% | ~104 |
 | Survivor | 11.00% | ~104 |
@@ -25,9 +25,9 @@
 | "Gonk? Gonk!" | 7.00% | ~66 |
 | Impressive. Most impressive. | 7.00% | ~66 |
 | Judge me by my size, do you? | 7.00% | ~66 |
-| Distinguished | 6.00% | ~56 |
-| A tremor in the Force | 6.00% | ~56 |
-| Support the troops | 6.00% | ~56 |
+| Distinguished | 6.00% | ~57 |
+| A tremor in the Force | 6.00% | ~57 |
+| Support the troops | 6.00% | ~57 |
 | Not bad for a little furball | 5.00% | ~47 |
 | When 900 years old you reach... | 4.00% | ~38 |
 | On the ball | 4.00% | ~38 |
@@ -56,7 +56,7 @@
 | Do we take prisoners? | 1.00% | ~9 |
 | When surrounded by war... | 1.00% | ~9 |
 | Stop that Droid | 1.00% | ~9 |
-| Walker defender | 0.90% | ~8 |
+| Walker defender | 0.80% | ~8 |
 | I’ll take that bet | 0.70% | ~7 |
 | Stay on target | 0.40% | ~4 |
 | in a galaxy far, far away.... | 0.40% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 249)  
+Progressed: 942 (Ranked 249)  
 Completed: 1 (0.11%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.11%) (Ranked 257)
 | 2023-10-27 | 869 | 1 |
 | 2023-10-28 | 890 | 1 |
 | 2023-10-29 | 918 | 1 |
-| 2023-10-30 | 941 | 1 |
+| 2023-10-30 | 942 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

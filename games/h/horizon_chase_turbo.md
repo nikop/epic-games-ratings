@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~961,378 |
-| I Need a Bigger Garage | 63.00% | ~672,965 |
-| Pump my Ride | 47.00% | ~502,053 |
-| Ghostbuster | 34.00% | ~363,187 |
-| Call Roadside Assistance | 18.00% | ~192,276 |
-| That Was Close | 18.00% | ~192,276 |
-| Quickie | 11.00% | ~117,502 |
-| California Dreamer | 7.00% | ~74,774 |
-| Can't Touch This | 5.00% | ~53,410 |
-| Carménère Taster | 4.00% | ~42,728 |
-| Comeback | 4.00% | ~42,728 |
+| The First of Many | 90.00% | ~961,392 |
+| I Need a Bigger Garage | 63.00% | ~672,974 |
+| Pump my Ride | 47.00% | ~502,060 |
+| Ghostbuster | 34.00% | ~363,192 |
+| Call Roadside Assistance | 18.00% | ~192,278 |
+| That Was Close | 18.00% | ~192,278 |
+| Quickie | 11.00% | ~117,503 |
+| California Dreamer | 7.00% | ~74,775 |
+| Can't Touch This | 5.00% | ~53,411 |
+| Carménère Taster | 4.00% | ~42,729 |
+| Comeback | 4.00% | ~42,729 |
 | Driver from Ipanema | 3.00% | ~32,046 |
 | Supersonic | 3.00% | ~32,046 |
 | Marathonist | 3.00% | ~32,046 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,068 |
 | Look Mom, No Hands! | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,198 (Ranked 13)  
+Progressed: 1,068,213 (Ranked 13)  
 Completed: 472 (0.04%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,14 +237,14 @@ Completed: 472 (0.04%) (Ranked 293)
 | 2023-10-27 | 1,066,790 | 469 |
 | 2023-10-28 | 1,067,343 | 471 |
 | 2023-10-29 | 1,067,869 | 471 |
-| 2023-10-30 | 1,068,198 | 472 |
+| 2023-10-30 | 1,068,213 | 472 |
 ## Awards
-Max (Great for Beginners): 161  (Ranked 304)  
-Sum: 1,351 (Ranked 233)  
+Max (Great for Beginners): 162  (Ranked 304)  
+Sum: 1,352 (Ranked 233)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 161 |
+| This game is Great for Beginners | 162 |
 | This game has Quickly Understood Controls | 142 |
 | This game is Great for Quick Sessions | 136 |
 | This game is Relaxing | 133 |
@@ -487,3 +487,4 @@ Diff (max vs sum): 71
 | 2023-10-25 | 4.55 | - | 161 | 1,346 |
 | 2023-10-26 | 4.55 | - | 161 | 1,348 |
 | 2023-10-29 | 4.55 | - | 161 | 1,351 |
+| 2023-10-30 | 4.55 | - | 162 | 1,352 |

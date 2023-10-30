@@ -2,10 +2,10 @@
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -459,8 +459,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:06:16.9096659+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:04:47.1402265+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:38.6739104+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:58:58.2730079+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:06:16.9096931+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:58:38.8941885+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:04:47.140246+00:00"
 }

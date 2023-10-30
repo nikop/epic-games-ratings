@@ -5,10 +5,10 @@
   "Ranking_Rating": 479,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 307,
-  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1375,9 +1375,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13304,
+  "EOS_Progressed": 13305,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13425,6 +13425,11 @@
       "Time": "2023-10-30T18:07:26.8981123+00:00",
       "NumProgressed": 13304,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-30T22:07:11.4487084+00:00",
+      "NumProgressed": 13305,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13436,7 +13441,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10909
+      "UsersEstimate": 10910
     },
     {
       "ID": "ACH02",
@@ -13492,7 +13497,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6785
+      "UsersEstimate": 6786
     },
     {
       "ID": "ACH09",
@@ -13540,7 +13545,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACH15",
@@ -13715,7 +13720,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13304,
+      "Progressed": 13305,
       "Completed": 50
     }
   ],
@@ -13723,8 +13728,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-30T16:00:39.3230667+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:08:55.8340302+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:07:11.448708+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:01:19.7099402+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:08:55.8341466+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:00:19.0410124+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:07:11.4487829+00:00"
 }

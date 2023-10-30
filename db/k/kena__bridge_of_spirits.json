@@ -4,11 +4,11 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 212,
   "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 216,
+  "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1421,9 +1421,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428730,
+  "EOS_Progressed": 428731,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14146,6 +14146,11 @@
       "Time": "2023-10-30T20:10:37.8487002+00:00",
       "NumProgressed": 428730,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-10-30T22:09:12.1773492+00:00",
+      "NumProgressed": 428731,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 41,
@@ -14173,7 +14178,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257238
+      "UsersEstimate": 257239
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -14189,7 +14194,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107182
+      "UsersEstimate": 107183
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -14237,7 +14242,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257238
+      "UsersEstimate": 257239
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -14269,7 +14274,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132906
+      "UsersEstimate": 132907
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -14293,7 +14298,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201503
+      "UsersEstimate": 201504
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -14357,7 +14362,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300111
+      "UsersEstimate": 300112
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -14373,7 +14378,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342984
+      "UsersEstimate": 342985
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -14429,7 +14434,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120044
+      "UsersEstimate": 120045
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -14453,7 +14458,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145768
+      "UsersEstimate": 145769
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -14469,7 +14474,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132906
+      "UsersEstimate": 132907
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -14484,15 +14489,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428730,
+      "Progressed": 428731,
       "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-29T12:00:00.5518931+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:10:20.8207722+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:09:12.1773488+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.8781165+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:00:51.1299699+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:10:20.8208827+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:59:55.8205107+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:09:12.1774363+00:00"
 }

@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 0.90% | ~135 |
 | Economic Reform | 0.90% | ~135 |
 | Legionary | 0.90% | ~135 |
+| The Clergy | 0.90% | ~135 |
 | Subjugator | 0.80% | ~120 |
 | Landowners | 0.80% | ~120 |
 | Hittite Iron | 0.80% | ~120 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
-| The Clergy | 0.80% | ~120 |
 | Capable | 0.70% | ~105 |
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,053 (Ranked 143)  
+Progressed: 15,054 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,053 | 5 |
+| 2023-10-30 | 15,054 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

@@ -13,7 +13,7 @@
 | Arms Mechanic | 60.00% | ~63 |
 | Flower Thief | 58.00% | ~61 |
 | Apostle of Flame | 56.00% | ~59 |
-| Beginner Cook | 54.00% | ~57 |
+| Beginner Cook | 55.00% | ~58 |
 | Beginner Artificer | 54.00% | ~57 |
 | Seal Breaker | 49.00% | ~51 |
 | Handyman | 47.00% | ~49 |

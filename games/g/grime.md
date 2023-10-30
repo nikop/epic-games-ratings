@@ -21,7 +21,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawstag | 0.90% | ~1,401 |
 | Feast | 0.90% | ~1,401 |
 | Watcher | 0.80% | ~1,245 |
-| Shapely | 0.70% | ~1,089 |
+| Shapely | 0.70% | ~1,090 |
 | Glare | 0.70% | ~1,087 |
 | Assimilation | 0.60% | ~934 |
 | Host | 0.60% | ~931 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,635 (Ranked 75)  
+Progressed: 155,647 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-27 | 154,992 | 1 |
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
-| 2023-10-30 | 155,635 | 1 |
+| 2023-10-30 | 155,647 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 425)  
 Sum: 330 (Ranked 351)  

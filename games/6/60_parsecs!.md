@@ -15,7 +15,7 @@
 | Crafty | 48.00% | ~370 |
 | All Seats Taken | 39.00% | ~300 |
 | For Science! | 35.00% | ~270 |
-| Meet the Petersons | 31.00% | ~239 |
+| Meet the Petersons | 32.00% | ~246 |
 | Stay Cool | 30.00% | ~231 |
 | KIA | 27.00% | ~208 |
 | Mutiny in making | 24.00% | ~185 |

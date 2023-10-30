@@ -11,9 +11,9 @@ Rating: 4.60 (Ranked 406)
 | Bosmang | 1.00% | ~145 |
 | Drone Dodger | 0.90% | ~130 |
 | Call it Even | 0.90% | ~130 |
+| Captain Drummer | 0.90% | ~130 |
 | Celebrations are in Order | 0.90% | ~130 |
 | Martian Music | 0.80% | ~116 |
-| Captain Drummer | 0.80% | ~116 |
 | Impossible Objects | 0.80% | ~116 |
 | Data Archivist | 0.70% | ~101 |
 | Stogie for Fogey | 0.70% | ~101 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 406)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,490 (Ranked 145)  
+Progressed: 14,492 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 28 (0.19%) (Ranked 238)
 | 2023-10-27 | 14,391 | 27 |
 | 2023-10-28 | 14,430 | 28 |
 | 2023-10-29 | 14,463 | 28 |
-| 2023-10-30 | 14,490 | 28 |
+| 2023-10-30 | 14,492 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 889,
-  "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 278,
+  "Ranking_Popularity": 328,
+  "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1228,11 +1228,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 790,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2023-10-30T22:03:13.8738501+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 792,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 790,
-  "NumberOfAwardsMax": 123,
+  "NumberOfAwards": 792,
+  "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1269,7 +1275,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1281,7 +1287,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1290,9 +1296,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27242,
+  "EOS_Progressed": 27247,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22055,6 +22061,11 @@
       "Time": "2023-10-30T21:09:58.0335352+00:00",
       "NumProgressed": 27242,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-30T22:08:56.1599739+00:00",
+      "NumProgressed": 27247,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22138,7 +22149,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "1025",
@@ -22178,7 +22189,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "1030",
@@ -22186,7 +22197,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "1031",
@@ -22194,7 +22205,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3814
+      "UsersEstimate": 3815
     },
     {
       "ID": "1032",
@@ -22202,7 +22213,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10897
+      "UsersEstimate": 10899
     },
     {
       "ID": "1033",
@@ -22226,7 +22237,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "1036",
@@ -22234,22 +22245,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27242,
+      "Progressed": 27247,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-10-27T03:03:03.8417039+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:09:58.0335342+00:00",
+  "LastChanged": "2023-10-30T22:03:13.87385+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:08:56.1599734+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:03:59.2624129+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:09:58.0337265+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:03:13.8738504+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:08:56.160087+00:00"
 }

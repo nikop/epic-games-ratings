@@ -8,7 +8,7 @@ Rating: 4.64 (Ranked 328)
 | Read Between The Lines | 66.00% | ~511 |
 | To Hell In A Handcart | 66.00% | ~511 |
 | High Profile | 59.00% | ~457 |
-| Whispers In The Dark | 56.00% | ~433 |
+| Whispers In The Dark | 57.00% | ~441 |
 | Fond Memories | 54.00% | ~418 |
 | History Check | 52.00% | ~402 |
 | A Method To His Madness | 52.00% | ~402 |
@@ -27,7 +27,7 @@ Rating: 4.64 (Ranked 328)
 | Up In Flames | 42.00% | ~325 |
 | Going Once... | 39.00% | ~302 |
 | Let Me Be Frank | 37.00% | ~286 |
-| Brain Food | 35.00% | ~271 |
+| Brain Food | 36.00% | ~279 |
 | No Stone Unturned | 35.00% | ~271 |
 | Read It And Weep | 21.00% | ~163 |
 | Curiosity Killed The Cat | 19.00% | ~147 |

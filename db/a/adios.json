@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,10 +117,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77128,
-  "EOS_Completed": 812,
-  "EOS_NewPlayers": 582,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 77130,
+  "EOS_Completed": 813,
+  "EOS_NewPlayers": 575,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
@@ -21717,6 +21717,11 @@
       "Time": "2023-10-30T21:06:48.7785045+00:00",
       "NumProgressed": 77128,
       "NumCompleted": 812
+    },
+    {
+      "Time": "2023-10-30T22:05:09.3858773+00:00",
+      "NumProgressed": 77130,
+      "NumCompleted": 813
     }
   ],
   "TotalAchievements": 25,
@@ -21760,7 +21765,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16968
+      "UsersEstimate": 16969
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -21848,7 +21853,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14654
+      "UsersEstimate": 14655
     },
     {
       "ID": "Nice Try",
@@ -21856,7 +21861,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12340
+      "UsersEstimate": 12341
     },
     {
       "ID": "Nothing Left to Say",
@@ -21927,16 +21932,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77128,
-      "Completed": 812
+      "Progressed": 77130,
+      "Completed": 813
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:06:48.7785036+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:05:09.385877+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.5305099+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:03:07.9884591+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:06:48.7786782+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:01:51.8187158+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:05:09.3859951+00:00"
 }

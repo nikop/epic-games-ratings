@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 86.00% | ~32 |
-| Cutie Poro | 73.00% | ~27 |
+| Cutie Poro | 76.00% | ~28 |
 | Better On Ice | 70.00% | ~26 |
 | Notai Notes | 70.00% | ~26 |
 | He's Famous! | 68.00% | ~25 |
 | True Legends | 68.00% | ~25 |
 | I Broke It | 68.00% | ~25 |
 | Blue Dreams | 65.00% | ~24 |
-| Krugmazing | 62.00% | ~23 |
+| Krugmazing | 65.00% | ~24 |
 | Never Gets Old | 62.00% | ~23 |
 | The Fire Below the Mountain | 62.00% | ~23 |
 | On The Rocks | 59.00% | ~22 |
-| No Bites | 51.00% | ~19 |
-| Iceborn | 51.00% | ~19 |
+| No Bites | 54.00% | ~20 |
+| Iceborn | 54.00% | ~20 |
+| Rhythm Of Willump | 51.00% | ~19 |
 | Boom Things | 49.00% | ~18 |
-| Rhythm Of Willump | 49.00% | ~18 |
 | Moneyball | 49.00% | ~18 |
 | The Pied Piper Of Freljord | 49.00% | ~18 |
 | Vertical Power | 49.00% | ~18 |

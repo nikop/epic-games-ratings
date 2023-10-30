@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112798,
+  "EOS_Progressed": 112805,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16241,6 +16241,11 @@
       "Time": "2023-10-30T21:08:37.4544848+00:00",
       "NumProgressed": 112798,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-30T22:06:57.7161765+00:00",
+      "NumProgressed": 112805,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -16260,7 +16265,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86854
+      "UsersEstimate": 86860
     },
     {
       "ID": "EAwards_10",
@@ -16268,7 +16273,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12408
+      "UsersEstimate": 12409
     },
     {
       "ID": "EAwards_11",
@@ -16276,7 +16281,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29327
+      "UsersEstimate": 29329
     },
     {
       "ID": "EAwards_12",
@@ -16284,7 +16289,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16920
+      "UsersEstimate": 16921
     },
     {
       "ID": "EAwards_13",
@@ -16324,7 +16329,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41735
+      "UsersEstimate": 41738
     },
     {
       "ID": "EAwards_18",
@@ -16348,7 +16353,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54143
+      "UsersEstimate": 54146
     },
     {
       "ID": "EAwards_20",
@@ -16396,7 +16401,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21432
+      "UsersEstimate": 21433
     },
     {
       "ID": "EAwards_26",
@@ -16404,7 +16409,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12408
+      "UsersEstimate": 12409
     },
     {
       "ID": "EAwards_27",
@@ -16436,7 +16441,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21432
+      "UsersEstimate": 21433
     },
     {
       "ID": "EAwards_30",
@@ -16524,7 +16529,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13536
+      "UsersEstimate": 13537
     },
     {
       "ID": "EAwards_40",
@@ -16620,7 +16625,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13536
+      "UsersEstimate": 13537
     },
     {
       "ID": "EAwards_8",
@@ -16628,7 +16633,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13536
+      "UsersEstimate": 13537
     },
     {
       "ID": "EAwards_9",
@@ -16643,7 +16648,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112798,
+      "Progressed": 112805,
       "Completed": 47
     }
   ],
@@ -16651,8 +16656,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:08:37.454484+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:06:57.716176+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:08.5071847+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:02:27.6027636+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:08:37.4546246+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:01:24.4483519+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:06:57.7162846+00:00"
 }

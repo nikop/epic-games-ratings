@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
     "PcReleaseDate": "2021-03-25T11:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17190,
+  "EOS_Progressed": 17191,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 1519,
   "EOS_NewCompleters": 8,
@@ -4738,6 +4738,11 @@
       "Time": "2023-10-30T21:06:01.8319829+00:00",
       "NumProgressed": 17190,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-10-30T22:04:36.7413194+00:00",
+      "NumProgressed": 17191,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -4774,7 +4779,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 9798
+      "UsersEstimate": 9799
     },
     {
       "ID": "achievement_13",
@@ -4822,7 +4827,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "achievement_19",
@@ -4854,7 +4859,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 14955
+      "UsersEstimate": 14956
     },
     {
       "ID": "achievement_4",
@@ -4862,7 +4867,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 15127
+      "UsersEstimate": 15128
     },
     {
       "ID": "achievement_5",
@@ -4886,7 +4891,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 13580
+      "UsersEstimate": 13581
     },
     {
       "ID": "achievement_8",
@@ -4909,13 +4914,13 @@
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 17190,
+      "Progressed": 17191,
       "Completed": 79
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:06:01.8319823+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:04:36.7413192+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:20.7066091+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:02:09.8995612+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:06:01.8320229+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:01:03.6098689+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:04:36.7413516+00:00"
 }

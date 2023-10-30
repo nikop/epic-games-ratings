@@ -4,8 +4,8 @@
   "ProductSlug": "starsim-4a2dc7",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-24T22:56:57.1772168+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:03:53.0462127+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:07:33.9006982+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:03:07.064382+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:06:11.6474339+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 46,
   "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2333,9 +2333,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -2380,8 +2380,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:06:02.3482511+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:04:37.1567665+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:56.6154191+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:03:33.7458243+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:06:02.3483325+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:02:53.2437185+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:04:37.1568036+00:00"
 }

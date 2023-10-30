@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7160,
+  "EOS_Progressed": 7162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7965,6 +7965,11 @@
       "Time": "2023-10-30T16:07:45.3181549+00:00",
       "NumProgressed": 7160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T22:03:20.4184876+00:00",
+      "NumProgressed": 7162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8008,7 +8013,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8016,7 +8021,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "Control_All_Relics",
@@ -8078,9 +8083,9 @@
       "ID": "First_Planet_Colonized",
       "SetID": "4h07amh",
       "Name": "Colonize a Planet",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5515
     },
     {
       "ID": "First_Race_Met",
@@ -8088,7 +8093,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5157
     },
     {
       "ID": "First_Ship_Designed",
@@ -8096,7 +8101,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "First_Stream_Travel",
@@ -8112,7 +8117,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5513
+      "UsersEstimate": 5515
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8168,7 +8173,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Level_5_Ship",
@@ -8280,7 +8285,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8296,7 +8301,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8464,7 +8469,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4654
+      "UsersEstimate": 4655
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8551,15 +8556,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7160,
+      "Progressed": 7162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:04:13.6785263+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:03:20.4184872+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:59:16.7211246+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:04:13.6787494+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:58:49.5320894+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:03:20.4185884+00:00"
 }

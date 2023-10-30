@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1297,9 +1297,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155635,
+  "EOS_Progressed": 155647,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1398,
+  "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13707,6 +13707,11 @@
       "Time": "2023-10-30T21:07:12.5380949+00:00",
       "NumProgressed": 155635,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T22:05:26.6432269+00:00",
+      "NumProgressed": 155647,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13814,7 +13819,7 @@
       "Name": "Shapely",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -14085,21 +14090,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155218,
+      "Progressed": 155230,
       "Completed": 1181
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155635,
+      "Progressed": 155647,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-30T03:57:21.0160161+00:00",
-  "LastChanged_Achievements": "2023-10-30T21:07:12.5380941+00:00",
+  "LastChanged_Achievements": "2023-10-30T22:05:26.6432265+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:57:54.5407815+00:00",
-  "LastUpdate_Achievements": "2023-10-30T21:07:12.5382133+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:57:50.0285735+00:00",
+  "LastUpdate_Achievements": "2023-10-30T22:05:26.6433155+00:00"
 }

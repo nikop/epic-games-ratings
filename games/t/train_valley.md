@@ -6,24 +6,24 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~403 |
-| Close call! | 72.00% | ~372 |
+| Getting started | 78.00% | ~404 |
+| Close call! | 72.00% | ~373 |
 | Builder | 52.00% | ~269 |
 | Pangs of conscience | 45.00% | ~233 |
-| Living it large! | 44.00% | ~227 |
-| Collector | 43.00% | ~222 |
-| Need to think | 42.00% | ~217 |
+| Living it large! | 44.00% | ~228 |
+| Collector | 42.00% | ~218 |
+| Need to think | 42.00% | ~218 |
 | Completely nuts! | 40.00% | ~207 |
 | Just in time! | 33.00% | ~171 |
-| Europe | 31.00% | ~160 |
+| Europe | 31.00% | ~161 |
 | It's no coincidence. | 30.00% | ~155 |
 | Madness! | 30.00% | ~155 |
-| Philatelist | 26.00% | ~134 |
-| Let's roll! | 26.00% | ~134 |
-| Ouroboros | 25.00% | ~129 |
+| Philatelist | 26.00% | ~135 |
+| Let's roll! | 26.00% | ~135 |
+| Ouroboros | 25.00% | ~130 |
 | Non Stop! | 24.00% | ~124 |
 | Foreman | 21.00% | ~109 |
-| Russia | 20.00% | ~103 |
+| Russia | 19.00% | ~98 |
 | Missed it! | 19.00% | ~98 |
 | America | 18.00% | ~93 |
 | Sabotage | 16.00% | ~83 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517 (Ranked 285)  
+Progressed: 518 (Ranked 285)  
 Completed: 2 (0.39%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 2 (0.39%) (Ranked 202)
 | 2023-10-15 | 515 | 2 |
 | 2023-10-17 | 516 | 2 |
 | 2023-10-24 | 517 | 2 |
+| 2023-10-30 | 518 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

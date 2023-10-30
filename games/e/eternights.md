@@ -11,7 +11,7 @@
 | Master Craftsman | 51.00% | ~177 |
 | First wall | 50.00% | ~174 |
 | Piggyback Expert | 48.00% | ~167 |
-| Second wall | 37.00% | ~128 |
+| Second wall | 38.00% | ~132 |
 | Expert Scavenger | 35.00% | ~121 |
 | Their Rock | 31.00% | ~108 |
 | Yuna's Promise | 29.00% | ~101 |

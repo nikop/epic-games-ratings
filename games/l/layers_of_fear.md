@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 58.00% | ~18 |
-| Wanderer | 55.00% | ~17 |
-| A piece of the story | 45.00% | ~14 |
-| Do what you have to | 39.00% | ~12 |
-| Finished it | 32.00% | ~10 |
-| The artist’s impression | 29.00% | ~9 |
-| Refuse to look | 26.00% | ~8 |
-| It's covered up for a reason | 23.00% | ~7 |
-| Scraps of love | 23.00% | ~7 |
-| Sign of weakness | 23.00% | ~7 |
+| Something important | 59.00% | ~19 |
+| Wanderer | 56.00% | ~18 |
+| A piece of the story | 47.00% | ~15 |
+| Do what you have to | 41.00% | ~13 |
+| Finished it | 34.00% | ~11 |
+| The artist’s impression | 31.00% | ~10 |
+| Refuse to look | 25.00% | ~8 |
+| Scraps of love | 25.00% | ~8 |
+| Sign of weakness | 25.00% | ~8 |
+| It's covered up for a reason | 22.00% | ~7 |
 | First steps | 16.00% | ~5 |
 | Playtime | 16.00% | ~5 |
 | Tough conversation | 16.00% | ~5 |
 | Breaking free | 13.00% | ~4 |
 | Face your fears | 13.00% | ~4 |
 | The tragedy unfolds | 13.00% | ~4 |
-| A Slice of Life | 10.00% | ~3 |
-| Debut | 10.00% | ~3 |
-| The art of movement | 10.00% | ~3 |
+| A Slice of Life | 9.00% | ~3 |
+| Debut | 9.00% | ~3 |
+| The art of movement | 9.00% | ~3 |
+| Whispers long forgotten | 9.00% | ~3 |
 | A new way | 6.00% | ~2 |
 | Another perspective | 6.00% | ~2 |
 | Sound Bite | 6.00% | ~2 |
 | Lights! Camera! Action! | 6.00% | ~2 |
 | Fisherman | 6.00% | ~2 |
 | True Reflection | 6.00% | ~2 |
-| Whispers long forgotten | 6.00% | ~2 |
 | Something to think about | 3.00% | ~1 |
 | We Are Not Alone | 3.00% | ~1 |
 | The Perfect Storm | 3.00% | ~1 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 487)  
+Progressed: 32 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 20 | 0 |
 | 2023-10-28 | 25 | 0 |
 | 2023-10-29 | 28 | 0 |
-| 2023-10-30 | 31 | 0 |
+| 2023-10-30 | 32 | 0 |

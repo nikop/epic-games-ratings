@@ -9,7 +9,7 @@ Number of Ratings: 125  (23.09.2022)
 | Unforgiven | 88.00% | ~1,726 |
 | Self-Improvement | 71.00% | ~1,392 |
 | Perky | 65.00% | ~1,275 |
-| Let’s Ride | 59.00% | ~1,157 |
+| Let’s Ride | 60.00% | ~1,177 |
 | Welcome to the Weird West | 57.00% | ~1,118 |
 | Dead or Alive | 56.00% | ~1,098 |
 | Full House | 37.00% | ~726 |

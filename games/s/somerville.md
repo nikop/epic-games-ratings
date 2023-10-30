@@ -17,7 +17,7 @@ Rating: 4.22 (Ranked 884)
 | Family First | 0.30% | ~5 |
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,648 (Ranked 223)  
+Progressed: 1,649 (Ranked 223)  
 Completed: 28 (1.70%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 28 (1.70%) (Ranked 128)
 | 2023-10-18 | 1,646 | 28 |
 | 2023-10-27 | 1,647 | 28 |
 | 2023-10-29 | 1,648 | 28 |
+| 2023-10-30 | 1,649 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
