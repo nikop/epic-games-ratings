@@ -359,7 +359,7 @@ await File.WriteAllTextAsync(
 
 await File.WriteAllTextAsync(
     Path.Combine(path, "eos_new_players.md"),
-    eosNewPlayersTable.FormatTable(items.Where(x => x.EOS_NewPlayers > 0).OrderByDescending(x => x.EOS_NewPlayers).ThenBy(x => x.Name))
+    eosNewPlayersTable.FormatTable(items.Where(x => x.EOS_NewPlayers != 0).OrderByDescending(x => x.EOS_NewPlayers).ThenBy(x => x.Name))
 );
 
 await File.WriteAllTextAsync(
