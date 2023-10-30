@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.92% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.91% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.07% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -24,7 +24,7 @@
 | 22 | [Remains](games/r/remains.md) | 13.21% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 24 | [Seven Doors](games/s/seven_doors.md) | 12.50% |
-| 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.31% |
+| 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.36% |
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
 | 27 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 28 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
@@ -246,9 +246,9 @@
 | 242 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 245 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 245 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 247 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.15% |
 | 247 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 249 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 248 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
+| 248 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.14% |
 | 250 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
 | 250 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 250 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
@@ -275,18 +275,18 @@
 | 266 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 274 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 274 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.08% |
+| 276 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.07% |
 | 276 | [MythForce](games/m/mythforce.md) | 0.07% |
 | 276 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
 | 276 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 276 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 276 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 281 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.06% |
-| 281 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 281 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
-| 281 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
-| 281 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 281 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
-| 281 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 282 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 282 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
+| 282 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
+| 282 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 282 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
+| 282 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 288 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 288 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 288 | [High On Life](games/h/high_on_life.md) | 0.05% |
