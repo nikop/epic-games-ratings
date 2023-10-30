@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 785,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 154,
@@ -1033,9 +1033,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 10208,
+  "EOS_Progressed": 10213,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8258,6 +8258,11 @@
       "Time": "2023-10-30T12:07:57.8610481+00:00",
       "NumProgressed": 10208,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-30T13:13:35.0229034+00:00",
+      "NumProgressed": 10213,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8318,7 +8323,7 @@
       "Name": "Bye Bye",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3983
     },
     {
       "ID": "a_19",
@@ -8334,7 +8339,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "a_20",
@@ -8342,7 +8347,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "a_21",
@@ -8350,7 +8355,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "a_22",
@@ -8358,7 +8363,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "a_23",
@@ -8374,7 +8379,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "a_26",
@@ -8517,7 +8522,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 10208,
+      "Progressed": 10213,
       "Completed": 10
     }
   ],
@@ -8525,8 +8530,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-30T07:57:31.9713035+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:07:57.8610476+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:13:35.0229009+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:57:39.9322978+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:07:57.861123+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:02:23.879692+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:13:35.0229846+00:00"
 }

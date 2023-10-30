@@ -8,7 +8,7 @@ Rating: 4.74 (Ranked 152)
 | A New Journey | 66.00% | ~519 |
 | The Adventure Begins | 52.00% | ~409 |
 | Swabbie | 42.00% | ~330 |
-| With Great Power… | 40.00% | ~314 |
+| With Great Power… | 41.00% | ~322 |
 | This Belongs in a Museum | 37.00% | ~291 |
 | The Gambit Has Begun | 34.00% | ~267 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~236 |

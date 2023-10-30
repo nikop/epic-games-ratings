@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,435 |
-| Advancement | 4.00% | ~1,148 |
-| Meticulously Efficient | 4.00% | ~1,148 |
-| Clutch Capture | 3.00% | ~861 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~861 |
-| Cultured | 3.00% | ~861 |
-| Discovery | 3.00% | ~861 |
-| Fully Upgraded | 3.00% | ~861 |
-| Solo Capture | 3.00% | ~861 |
-| Swift Rift Removers | 3.00% | ~861 |
-| Teamwork | 3.00% | ~861 |
-| There you are! | 3.00% | ~861 |
-| Vaporous Expansion | 3.00% | ~861 |
-| Whoopsie | 3.00% | ~861 |
+| Stylish | 5.00% | ~1,436 |
+| Advancement | 4.00% | ~1,149 |
+| Meticulously Efficient | 4.00% | ~1,149 |
+| Clutch Capture | 3.00% | ~862 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~862 |
+| Cultured | 3.00% | ~862 |
+| Discovery | 3.00% | ~862 |
+| Fully Upgraded | 3.00% | ~862 |
+| Solo Capture | 3.00% | ~862 |
+| Swift Rift Removers | 3.00% | ~862 |
+| Teamwork | 3.00% | ~862 |
+| There you are! | 3.00% | ~862 |
+| Vaporous Expansion | 3.00% | ~862 |
+| Whoopsie | 3.00% | ~862 |
 | Animated | 2.00% | ~574 |
 | Back Off | 2.00% | ~574 |
 | Daily Dose | 2.00% | ~574 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,709 (Ranked 122)  
+Progressed: 28,722 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,709 | 65 |
+| 2023-10-30 | 28,722 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,613 (Ranked 180)  

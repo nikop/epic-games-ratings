@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14340,10 +14340,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 334895,
       "NumberOfAwardsMax": 102677
+    },
+    {
+      "Time": "2023-10-30T13:02:54.7037603+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 335022,
+      "NumberOfAwardsMax": 102677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 334895,
+  "NumberOfAwards": 335022,
   "NumberOfAwardsMax": 102677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14411,7 +14417,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 18082
+      "Count": 18209
     },
     {
       "Text": "This game has a Creative Community",
@@ -14420,10 +14426,10 @@
       "Count": 11984
     }
   ],
-  "EOS_Progressed": 894571,
+  "EOS_Progressed": 894579,
   "EOS_Completed": 2734,
-  "EOS_NewPlayers": 1119,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 1117,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36315,6 +36321,11 @@
       "Time": "2023-10-30T12:05:17.9202783+00:00",
       "NumProgressed": 894571,
       "NumCompleted": 2734
+    },
+    {
+      "Time": "2023-10-30T13:10:37.2505093+00:00",
+      "NumProgressed": 894579,
+      "NumCompleted": 2734
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36453,9 +36464,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4473
+      "UsersEstimate": 5367
     },
     {
       "ID": "MustBeTheRats",
@@ -36541,9 +36552,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2684
+      "UsersEstimate": 3578
     },
     {
       "ID": "TheHermit",
@@ -36621,9 +36632,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 6262
+      "UsersEstimate": 7157
     },
     {
       "ID": "TrueWarrior",
@@ -36846,21 +36857,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894571,
+      "Progressed": 894579,
       "Completed": 2734
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23194,
+      "Progressed": 23202,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-30T08:57:29.8999701+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:05:17.9202777+00:00",
+  "LastChanged": "2023-10-30T13:02:54.7037601+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:10:37.2505084+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:58:06.7496251+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:05:17.9204824+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:02:54.7037607+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:10:37.250721+00:00"
 }

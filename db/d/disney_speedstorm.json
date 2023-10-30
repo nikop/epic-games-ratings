@@ -3,12 +3,12 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 700,
-  "Ranking_Popularity": 441,
+  "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 10,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -693,9 +693,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 267059,
+  "EOS_Progressed": 267122,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 18000,
+  "EOS_NewPlayers": 18004,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9738,6 +9738,11 @@
       "Time": "2023-10-30T12:06:32.445104+00:00",
       "NumProgressed": 267059,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-10-30T13:12:01.2688457+00:00",
+      "NumProgressed": 267122,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 24,
@@ -9749,7 +9754,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "10",
@@ -9757,7 +9762,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "11",
@@ -9789,7 +9794,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8014
     },
     {
       "ID": "15",
@@ -9837,7 +9842,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "20",
@@ -9845,7 +9850,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "21",
@@ -9901,7 +9906,7 @@
       "Name": "ROOKIE",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16024
+      "UsersEstimate": 16027
     },
     {
       "ID": "6",
@@ -9909,7 +9914,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "7",
@@ -9940,7 +9945,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 267059,
+      "Progressed": 267122,
       "Completed": 245
     }
   ],
@@ -9948,8 +9953,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-10-30T12:01:11.5634369+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:06:32.4451031+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:12:01.2688447+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.6526844+00:00",
-  "LastUpdate_Ratings": "2023-10-30T12:01:11.5634375+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:06:32.4451859+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:06:20.6458231+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:12:01.268934+00:00"
 }

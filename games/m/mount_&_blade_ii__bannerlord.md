@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~25,021 |
+| Lawbringer | 39.00% | ~25,022 |
 | Landlord | 33.00% | ~21,172 |
 | Bannerlord | 23.00% | ~14,756 |
 | Horde breaker | 23.00% | ~14,756 |
@@ -16,8 +16,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 17.00% | ~10,907 |
 | Apple of my eye | 16.00% | ~10,265 |
 | I can do it | 16.00% | ~10,265 |
-| God of the Arena | 13.00% | ~8,340 |
-| This Is Our Land | 13.00% | ~8,340 |
+| God of the Arena | 13.00% | ~8,341 |
+| This Is Our Land | 13.00% | ~8,341 |
 | Against all odds | 12.00% | ~7,699 |
 | Duelist | 10.00% | ~6,416 |
 | Dynasty | 10.00% | ~6,416 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,157 (Ranked 102)  
+Progressed: 64,158 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 64,025 | 0 |
 | 2023-10-28 | 64,094 | 0 |
 | 2023-10-29 | 64,140 | 0 |
-| 2023-10-30 | 64,157 | 0 |
+| 2023-10-30 | 64,158 | 0 |
 ## Awards
 Max (Character Customization): 7,301  (Ranked 52)  
-Sum: 15,054 (Ranked 66)  
+Sum: 15,057 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -262,12 +262,12 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,027 |
 | This game has Diverse Characters | 981 |
 | This game is Highly Recommended | 910 |
-| This game is Extremely Fun | 859 |
+| This game is Extremely Fun | 860 |
 | This game has Amazing Storytelling | 847 |
 | This game has Amazing Characters | 846 |
 | This game is Relaxing | 844 |
 | This game has Quickly Understood Controls | 819 |
-| This game has a Creative Community | 620 |
+| This game has a Creative Community | 622 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -561,4 +561,4 @@ Diff (max vs sum): -14
 | 2023-10-27 | 4.74 | - | 7,283 | 15,021 |
 | 2023-10-28 | 4.74 | - | 7,296 | 15,042 |
 | 2023-10-29 | 4.74 | - | 7,301 | 15,049 |
-| 2023-10-30 | 4.74 | - | 7,301 | 15,054 |
+| 2023-10-30 | 4.74 | - | 7,301 | 15,057 |

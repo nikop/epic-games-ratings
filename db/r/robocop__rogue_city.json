@@ -4,8 +4,8 @@
   "ProductSlug": "robocop-rogue-city",
   "Ranking_EOS_Progress": 600,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-11-02T08:00:00+00:00",
     "PcReleaseDate": "2023-11-02T08:00:00+00:00",
@@ -130,9 +130,9 @@
       "ID": "Ql01station",
       "SetID": "80nhi4a",
       "Name": "Night Has Just Begun",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ql04soot",
@@ -234,25 +234,25 @@
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ShootingRangeGold",
       "SetID": "80nhi4a",
       "Name": "SuperCop",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SkillBranchMax",
@@ -272,8 +272,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:08:51.8759957+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:14:12.6468323+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:03.6424693+00:00",
-  "LastUpdate_Ratings": "2023-10-30T12:00:27.6449734+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:08:51.8760165+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:05:36.996308+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:14:12.6468545+00:00"
 }

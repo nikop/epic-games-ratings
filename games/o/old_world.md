@@ -88,12 +88,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
 | Statesmen | 0.90% | ~135 |
+| Traders | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
 | Economic Reform | 0.90% | ~135 |
 | Subjugator | 0.80% | ~120 |
 | Landowners | 0.80% | ~120 |
-| Traders | 0.80% | ~120 |
 | Hittite Iron | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Temple of Solomon | 0.80% | ~120 |
@@ -167,6 +167,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
 | Prosperous Kmt | 0.30% | ~45 |
+| Gold Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
@@ -198,7 +199,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.10% | ~15 |
 | Hagia Sophia in Byzantion | 0.10% | ~15 |
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
-| Gold Victory (Carthage 1) | 0.10% | ~15 |
 | Bronze Victory (Carthage 2) | 0.10% | ~15 |
 | Epic Victory (Carthage 2) | 0.10% | ~15 |
 | Gold Victory (Carthage 2) | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,046 (Ranked 143)  
+Progressed: 15,047 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,046 | 5 |
+| 2023-10-30 | 15,047 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

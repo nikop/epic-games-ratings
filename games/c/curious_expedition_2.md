@@ -8,14 +8,14 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 62.00% | ~205 |
 | Cartographer | 55.00% | ~182 |
-| A Strange Artefact | 50.00% | ~166 |
+| A Strange Artefact | 51.00% | ~169 |
 | Insomnia | 46.00% | ~152 |
 | Lost & Found & Lost Again | 40.00% | ~132 |
 | From Whence we Came | 40.00% | ~132 |
 | Fire and Flood | 38.00% | ~126 |
 | Spooky! | 36.00% | ~119 |
 | Shennong Herbalist | 33.00% | ~109 |
-| Treasure Hunt | 32.00% | ~106 |
+| Treasure Hunt | 33.00% | ~109 |
 | Good Mama | 31.00% | ~103 |
 | O Captain My Captain | 30.00% | ~99 |
 | Taxonomist | 27.00% | ~89 |

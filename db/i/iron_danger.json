@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
@@ -639,6 +639,11 @@
       "Time": "2023-10-27T05:04:09.688315+00:00",
       "NumProgressed": 283,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T13:12:04.738621+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -698,7 +703,7 @@
       "Name": "Avian Veterinarian",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_GROUSE_KILLED",
@@ -706,7 +711,7 @@
       "Name": "Bird Butcherer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_HEALER_MET",
@@ -770,7 +775,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_SHARD_2",
@@ -778,7 +783,7 @@
       "Name": "Second Shard",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_SHARD_3",
@@ -833,7 +838,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 4
     }
   ],
@@ -841,8 +846,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:06:35.5276753+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:12:04.7386202+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.6998262+00:00",
-  "LastUpdate_Ratings": "2023-10-30T12:01:37.4049352+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:06:35.5276979+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:06:45.7588985+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:12:04.7386458+00:00"
 }

@@ -201,7 +201,7 @@
   "Tags": [],
   "EOS_Progressed": 14480,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10086,9 +10086,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "23",
@@ -10269,8 +10269,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:05:07.6886909+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:10:25.6864136+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:58:36.3398373+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:05:07.6887878+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:03:32.7907896+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:10:25.6865192+00:00"
 }

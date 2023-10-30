@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469948,
+  "EOS_Progressed": 469949,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20816,6 +20816,11 @@
       "Time": "2023-10-30T12:10:19.1665383+00:00",
       "NumProgressed": 469948,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-30T13:15:51.9062143+00:00",
+      "NumProgressed": 469949,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21011,7 +21016,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159782
+      "UsersEstimate": 159783
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21251,7 +21256,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206777
+      "UsersEstimate": 206778
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21259,7 +21264,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140984
+      "UsersEstimate": 140985
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21458,21 +21463,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13882,
+      "Progressed": 13883,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469948,
+      "Progressed": 469949,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:10:19.1665376+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:15:51.9062133+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-30T12:00:46.1926762+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:10:19.1667612+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:05:53.2489529+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:15:51.9064859+00:00"
 }

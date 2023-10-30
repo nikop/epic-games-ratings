@@ -24,7 +24,7 @@
 | Architect of Darkness | 70.00% | ~121 |
 | Top of the World | 69.00% | ~119 |
 | Sharpshooter | 69.00% | ~119 |
-| The Apotheosis of War | 67.00% | ~116 |
+| The Apotheosis of War | 68.00% | ~118 |
 | Stasis Alcatraz | 67.00% | ~116 |
 | Tastes Like Chicken | 63.00% | ~109 |
 | Brilliant: Holy Mountain | 62.00% | ~107 |

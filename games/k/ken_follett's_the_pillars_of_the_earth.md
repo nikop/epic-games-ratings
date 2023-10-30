@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,420 |
 | Man of politics | 34.00% | ~5,457 |
-| Friends of sorts | 33.00% | ~5,296 |
-| Yet another secret | 33.00% | ~5,296 |
+| Friends of sorts | 33.00% | ~5,297 |
+| Yet another secret | 33.00% | ~5,297 |
 | Let there be darkness | 32.00% | ~5,136 |
 | End of Book One | 30.00% | ~4,815 |
 | Garden of Eden | 24.00% | ~3,852 |
@@ -20,27 +20,27 @@ Number of Ratings: 368  (23.09.2022)
 | Negotiation skills | 18.00% | ~2,889 |
 | Workers' union | 18.00% | ~2,889 |
 | End of Book Two | 18.00% | ~2,889 |
-| Everything's in order | 17.00% | ~2,728 |
+| Everything's in order | 17.00% | ~2,729 |
 | Twist of Fate | 14.00% | ~2,247 |
 | Jack was here! | 14.00% | ~2,247 |
-| Exterminator | 13.00% | ~2,086 |
+| Exterminator | 13.00% | ~2,087 |
 | Whodunnit | 12.00% | ~1,926 |
 | Good midwife | 11.00% | ~1,766 |
 | First profit | 11.00% | ~1,766 |
 | Friar Tuck | 10.00% | ~1,605 |
 | Team player | 10.00% | ~1,605 |
-| Skilled merchant | 9.00% | ~1,444 |
-| Nothing but make-believe | 9.00% | ~1,444 |
-| Brother Marcus | 9.00% | ~1,444 |
-| The oath | 9.00% | ~1,444 |
-| The truth revealed | 9.00% | ~1,444 |
-| The End. | 9.00% | ~1,444 |
+| Skilled merchant | 9.00% | ~1,445 |
+| Nothing but make-believe | 9.00% | ~1,445 |
+| Brother Marcus | 9.00% | ~1,445 |
+| The oath | 9.00% | ~1,445 |
+| The truth revealed | 9.00% | ~1,445 |
+| The End. | 9.00% | ~1,445 |
 | A cry for help | 8.00% | ~1,284 |
 | Silentium est aureum | 7.00% | ~1,124 |
 | Rebel without a cause | 6.00% | ~963 |
-| Staring contest champion | 5.00% | ~802 |
-| Lone wolf | 5.00% | ~802 |
-| Vox Populi | 5.00% | ~802 |
+| Staring contest champion | 5.00% | ~803 |
+| Lone wolf | 5.00% | ~803 |
+| Vox Populi | 5.00% | ~803 |
 | Revenge | 4.00% | ~642 |
 | Self-defense | 4.00% | ~642 |
 | Countess Aliena | 4.00% | ~642 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~482 |
 | Boy of mystery | 2.00% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,050 (Ranked 141)  
+Progressed: 16,051 (Ranked 141)  
 Completed: 114 (0.71%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 114 (0.71%) (Ranked 168)
 | 2023-10-27 | 16,000 | 114 |
 | 2023-10-28 | 16,014 | 114 |
 | 2023-10-29 | 16,042 | 114 |
-| 2023-10-30 | 16,050 | 114 |
+| 2023-10-30 | 16,051 | 114 |
 ## Awards
 Max (Easy Puzzles): 154  (Ranked 307)  
 Sum: 197 (Ranked 395)  

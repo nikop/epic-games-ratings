@@ -2,13 +2,13 @@
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 495,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -841,8 +841,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:10:00.399044+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:15:30.7467752+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.725617+00:00",
-  "LastUpdate_Ratings": "2023-10-30T12:03:02.4752172+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:10:00.3990772+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:08:11.5162947+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:15:30.7468072+00:00"
 }

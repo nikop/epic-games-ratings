@@ -9,19 +9,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 3.00% | ~26,837 |
 | Gun Fu | 1.00% | ~8,946 |
 | Ten out of Ten | 0.80% | ~7,157 |
+| True Soldier | 0.80% | ~7,157 |
 | Full Body Conversion | 0.70% | ~6,262 |
 | Stanislavski's Method | 0.70% | ~6,262 |
 | The High Priestess | 0.70% | ~6,262 |
-| True Soldier | 0.70% | ~6,262 |
 | Relic Ruler | 0.70% | ~162 |
 | All the President's Men | 0.70% | ~162 |
 | Arachnophobia | 0.70% | ~162 |
 | Right Back At Ya | 0.60% | ~5,367 |
+| The Quick and the Dead | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
 | The Hermit | 0.60% | ~5,367 |
 | The Wheel of Fortune | 0.60% | ~5,367 |
 | Legend of The Afterlife | 0.60% | ~5,367 |
-| The Quick and the Dead | 0.50% | ~4,473 |
 | Life of the Road | 0.50% | ~4,473 |
 | The Lovers | 0.50% | ~4,473 |
 | True Warrior | 0.50% | ~4,473 |
@@ -34,6 +34,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.40% | ~3,578 |
 | Christmas Tree Attack | 0.40% | ~3,578 |
 | Breathtaking | 0.40% | ~3,578 |
+| The Fool | 0.40% | ~3,578 |
 | The World | 0.40% | ~3,578 |
 | The Jungle | 0.40% | ~3,578 |
 | Judy vs Night City | 0.40% | ~3,578 |
@@ -42,7 +43,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.30% | ~2,684 |
 | Mean Streets | 0.30% | ~2,684 |
 | Temperance | 0.30% | ~2,684 |
-| The Fool | 0.30% | ~2,684 |
 | City Lights | 0.20% | ~1,789 |
 | Must Be Rats | 0.20% | ~1,789 |
 | The Devil | 0.20% | ~1,789 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,571 (Ranked 15)  
+Progressed: 894,579 (Ranked 15)  
 Completed: 2,734 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 2,734 (0.31%) (Ranked 212)
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
-| 2023-10-30 | 894,571 | 2,734 |
+| 2023-10-30 | 894,579 | 2,734 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
-Sum: 334,895 (Ranked 10)  
+Sum: 335,022 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -278,7 +278,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 19,243 |
 | This game is Highly Recommended | 18,508 |
 | This game has Amazing Storytelling | 18,349 |
-| This game is Extremely Fun | 18,082 |
+| This game is Extremely Fun | 18,209 |
 | This game has Amazing Characters | 18,037 |
 | This game is Relaxing | 17,414 |
 | This game has Quickly Understood Controls | 17,345 |
@@ -570,4 +570,4 @@ Diff (max vs sum): -1
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
 | 2023-10-29 | 4.64 | - | 102,677 | 333,788 |
-| 2023-10-30 | 4.64 | - | 102,677 | 334,895 |
+| 2023-10-30 | 4.64 | - | 102,677 | 335,022 |

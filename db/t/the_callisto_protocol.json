@@ -1391,9 +1391,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16348,
+  "EOS_Progressed": 16351,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8496,6 +8496,11 @@
       "Time": "2023-10-30T11:04:27.2441716+00:00",
       "NumProgressed": 16348,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-30T13:10:05.3313551+00:00",
+      "NumProgressed": 16351,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8539,7 +8544,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8611,7 +8616,7 @@
       "Name": "Get a Grip",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8627,7 +8632,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -8651,7 +8656,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8659,7 +8664,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -8675,7 +8680,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "PRINT_WEAPON",
@@ -8707,7 +8712,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STORY_HABITAT",
@@ -8715,7 +8720,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STORY_HANGAR",
@@ -8723,7 +8728,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STORY_MINETOWN",
@@ -8739,7 +8744,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -8747,7 +8752,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STORY_TOWER",
@@ -8755,7 +8760,7 @@
       "Name": "Full Circle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "STORY_TUNNELS",
@@ -8763,7 +8768,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "DISMEMBER_100",
@@ -8851,7 +8856,7 @@
       "Name": "One Last Job",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "KILL_BIOBOT",
@@ -8882,13 +8887,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16348,
+      "Progressed": 16351,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4274,
+      "Progressed": 4277,
       "Completed": 29
     }
   ],
@@ -8896,8 +8901,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T10:02:50.4728628+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:04:48.9967737+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:10:05.3313541+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:57:37.6169368+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:04:48.9968678+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:02:20.3055884+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:10:05.3314545+00:00"
 }

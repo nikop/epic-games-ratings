@@ -5,22 +5,22 @@ Rating: 4.19 (Ranked 905)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 9.00% | ~1,471 |
+| Get a Grip | 9.00% | ~1,472 |
 | Paper Jams | 8.00% | ~1,308 |
-| Flesh Wound | 7.00% | ~1,144 |
+| Flesh Wound | 7.00% | ~1,145 |
 | Chew 'Em Up | 6.00% | ~981 |
 | Float Like A Butterfly | 6.00% | ~981 |
 | The Outer Way | 6.00% | ~981 |
-| Two Heads Are Better Than One | 5.00% | ~817 |
-| Workplace Hazard | 5.00% | ~817 |
-| Reforged | 5.00% | ~817 |
-| If the SHU Fits... | 5.00% | ~817 |
-| Without A Paddle | 5.00% | ~817 |
-| In the Pipe, Five by Five | 5.00% | ~817 |
-| Desperate Times | 5.00% | ~817 |
-| Crash Site | 5.00% | ~817 |
-| Full Circle | 5.00% | ~817 |
-| Power Up | 5.00% | ~817 |
+| Two Heads Are Better Than One | 5.00% | ~818 |
+| Workplace Hazard | 5.00% | ~818 |
+| Reforged | 5.00% | ~818 |
+| If the SHU Fits... | 5.00% | ~818 |
+| Without A Paddle | 5.00% | ~818 |
+| In the Pipe, Five by Five | 5.00% | ~818 |
+| Desperate Times | 5.00% | ~818 |
+| Crash Site | 5.00% | ~818 |
+| Full Circle | 5.00% | ~818 |
+| Power Up | 5.00% | ~818 |
 | Keep Fighting | 5.00% | ~214 |
 | Giving Back | 4.00% | ~654 |
 | You Need a Gun | 4.00% | ~654 |
@@ -28,9 +28,9 @@ Rating: 4.19 (Ranked 905)
 | Terminated | 4.00% | ~654 |
 | What Lies Beneath | 4.00% | ~654 |
 | It's Time | 4.00% | ~171 |
-| The Commonality | 3.00% | ~490 |
+| The Commonality | 3.00% | ~491 |
 | In Striking Distance | 2.00% | ~327 |
-| One Last Job | 2.00% | ~85 |
+| One Last Job | 2.00% | ~86 |
 | This Isn't About Escape | 1.00% | ~43 |
 | Big Spender | 0.90% | ~38 |
 | Armed to the Teeth | 0.80% | ~34 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,348 (Ranked 140)  
+Progressed: 16,351 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 78 (0.48%) (Ranked 192)
 | 2023-10-27 | 16,311 | 77 |
 | 2023-10-28 | 16,332 | 78 |
 | 2023-10-29 | 16,345 | 78 |
-| 2023-10-30 | 16,348 | 78 |
+| 2023-10-30 | 16,351 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 379)  
 Sum: 462 (Ranked 325)  

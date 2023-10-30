@@ -3,9 +3,9 @@
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 417,
-  "EOS_Completed": 10,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.4,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.64,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1394,6 +1394,11 @@
       "Time": "2023-10-29T14:05:46.0539463+00:00",
       "NumProgressed": 417,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-30T13:12:13.9627933+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1597,13 +1602,13 @@
       "ID": "ap7g2g4",
       "IsBase": true,
       "Progressed": 417,
-      "Completed": 10
+      "Completed": 11
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:06:43.3861159+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:12:13.9627924+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:18.5294883+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:57:56.4956014+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:06:43.3861455+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:02:45.2548625+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:12:13.9628232+00:00"
 }

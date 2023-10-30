@@ -10,10 +10,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Foul Play | 0.50% | ~998 |
 | Beast Intentions | 0.40% | ~933 |
 | The Cursed Farmer | 0.40% | ~933 |
+| The Jungles of Doomspace | 0.40% | ~798 |
 | Spelljammers in Training | 0.40% | ~798 |
 | The Ring of Regeneration | 0.30% | ~700 |
 | The Mad Wizard | 0.30% | ~700 |
-| The Jungles of Doomspace | 0.30% | ~599 |
 | The Arena of Blood | 0.30% | ~599 |
 | Maddening | 0.20% | ~466 |
 | The Witchlight Carnival | 0.20% | ~399 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~399 |
 | The Prince of a Thousand Enemies | 0.20% | ~399 |
 | Downfall | 0.20% | ~399 |
+| Slack-jawed Lorna | 0.20% | ~399 |
 | Overwhelmed with Knowledge | 0.20% | ~399 |
 | Vecna Loots! | 0.20% | ~399 |
 | Return to the Tomb | 0.20% | ~399 |
@@ -107,7 +108,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Second Third Out | 0.10% | ~200 |
 | Third Third Out | 0.10% | ~200 |
 | The Silken Swamp | 0.10% | ~233 |
-| Slack-jawed Lorna | 0.10% | ~200 |
 | I'm Sure I Saw It Move! | 0.10% | ~200 |
 | End of the Line | 0.10% | ~200 |
 | A Steadfast Love | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,233 (Ranked 61)  
-Completed: 2,406 (1.03%) (Ranked 150)  
+Progressed: 233,236 (Ranked 61)  
+Completed: 2,407 (1.03%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -728,7 +728,7 @@ Completed: 2,406 (1.03%) (Ranked 150)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
-| 2023-10-30 | 233,233 | 2,406 |
+| 2023-10-30 | 233,236 | 2,407 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
 Sum: 32,270 (Ranked 41)  

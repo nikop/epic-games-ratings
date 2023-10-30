@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7355,
+  "EOS_Progressed": 7356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5663,6 +5663,11 @@
       "Time": "2023-10-30T12:09:44.9764927+00:00",
       "NumProgressed": 7355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T13:15:12.506865+00:00",
+      "NumProgressed": 7356,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5683,7 +5688,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5148
+      "UsersEstimate": 5149
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5763,7 +5768,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -5811,7 +5816,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -5827,7 +5832,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5851,7 +5856,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5899,7 +5904,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -5954,7 +5959,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7355,
+      "Progressed": 7356,
       "Completed": 0
     }
   ],
@@ -5962,8 +5967,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-10-30T12:09:44.9764922+00:00",
+  "LastChanged_Achievements": "2023-10-30T13:15:12.5068631+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-30T12:00:39.8717168+00:00",
-  "LastUpdate_Achievements": "2023-10-30T12:09:44.9765568+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:05:47.1097401+00:00",
+  "LastUpdate_Achievements": "2023-10-30T13:15:12.5069633+00:00"
 }

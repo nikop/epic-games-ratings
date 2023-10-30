@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.35 (Ranked 784)  
+Rating: 4.35 (Ranked 785)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,16 +21,16 @@ Rating: 4.35 (Ranked 784)
 | The Major | 47.00% | ~208 |
 | Comtesse Margaux de Vos | 45.00% | ~199 |
 | Curious and Beautiful | 44.00% | ~194 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~190 |
-| The Interrogations | 43.00% | ~190 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~194 |
+| The Interrogations | 44.00% | ~194 |
 | Well-acquainted | 41.00% | ~181 |
-| Zakariya Demir | 40.00% | ~177 |
+| Zakariya Demir | 41.00% | ~181 |
 | Well-read | 39.00% | ~172 |
 | Cassandra Van den Bosch | 37.00% | ~164 |
 | The Secret | 37.00% | ~164 |
 | Gedeon Demir | 35.00% | ~155 |
 | Rehana Piette | 34.00% | ~150 |
-| Instinct is Marvellous | 32.00% | ~141 |
+| Instinct is Marvellous | 33.00% | ~146 |
 | Ernesto da Silva | 32.00% | ~141 |
 | Inge Frank | 31.00% | ~137 |
 | The Search | 30.00% | ~133 |
@@ -38,7 +38,7 @@ Rating: 4.35 (Ranked 784)
 | The Family | 27.00% | ~119 |
 | Well-travelled | 26.00% | ~115 |
 | Thinking of Everything | 26.00% | ~115 |
-| Exquisite Artwork | 25.00% | ~110 |
+| Exquisite Artwork | 26.00% | ~115 |
 | Archibald Sterling | 25.00% | ~110 |
 | Viscount Edwin Van den Bosch | 25.00% | ~110 |
 | Well-prepared | 20.00% | ~88 |
