@@ -2,10 +2,10 @@
   "ID": "84675ff3b0cd4f26bf1f655da1b6265f",
   "Name": "Outbreak The Nightmare Chronicles Reinvestigated",
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -144,8 +144,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:03:29.3261545+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:03:10.8139802+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:16.3625569+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:02:37.3159194+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:03:29.3261619+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:01:14.1425692+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:03:10.8139871+00:00"
 }

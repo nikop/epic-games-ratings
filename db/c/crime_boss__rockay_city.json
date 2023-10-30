@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4299,9 +4299,9 @@
       "Count": 471
     }
   ],
-  "EOS_Progressed": 89437,
+  "EOS_Progressed": 89438,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23519,6 +23519,11 @@
       "Time": "2023-10-30T02:26:35.2930913+00:00",
       "NumProgressed": 89437,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-30T04:08:27.7039178+00:00",
+      "NumProgressed": 89438,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 41,
@@ -23746,7 +23751,7 @@
       "Name": "Case Closed",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_0420",
@@ -23754,7 +23759,7 @@
       "Name": "King of the Hill",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_0430",
@@ -23818,7 +23823,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_1010",
@@ -23857,13 +23862,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89437,
+      "Progressed": 89438,
       "Completed": 53
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17784,
+      "Progressed": 17785,
       "Completed": 15556
     }
   ],
@@ -23871,8 +23876,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-29T11:00:38.7610319+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:08:18.5527206+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:08:27.7039173+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.3098014+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:01:07.4083091+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:08:18.5529101+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:00:03.6098475+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:08:27.7040699+00:00"
 }

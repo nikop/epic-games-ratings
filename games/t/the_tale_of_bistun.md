@@ -34,7 +34,7 @@
 | The Blight's Blight | 46.00% | ~11 |
 | For Whom the Bell Tolls | 46.00% | ~11 |
 | Here I Am | 46.00% | ~11 |
-| Break The Cycle | 38.00% | ~9 |
+| Break The Cycle | 42.00% | ~10 |
 | Continue The Cycle | 33.00% | ~8 |
 | Talent And Dedication | 25.00% | ~6 |
 | Read, Read, Read | 21.00% | ~5 |
@@ -44,7 +44,7 @@
 | Merely Inquisitive | 21.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 502)  
-Completed: 4 (16.67%) (Ranked 20)  
+Completed: 5 (20.83%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,7 +64,7 @@ Completed: 4 (16.67%) (Ranked 20)
 | 2023-07-10 | 21 | 4 |
 | 2023-08-04 | 22 | 4 |
 | 2023-09-08 | 23 | 4 |
-| 2023-10-30 | 24 | 4 |
+| 2023-10-30 | 24 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

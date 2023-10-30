@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 405)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~472 |
+| Secret Technique | 9.00% | ~473 |
 | Realm Estate | 7.00% | ~368 |
 | A Wonderful Discovery | 7.00% | ~368 |
 | Walls Cannot Stop Us | 7.00% | ~368 |
@@ -21,13 +21,13 @@ Rating: 4.60 (Ranked 405)
 | My Final Form | 6.00% | ~315 |
 | In a Liege of Your Own | 6.00% | ~315 |
 | Mighty Hoard | 6.00% | ~315 |
-| Valley of Wonders | 5.00% | ~262 |
-| Digging for Treasure | 5.00% | ~262 |
-| Fiery Friend | 5.00% | ~262 |
-| Against the Odds | 5.00% | ~262 |
-| Impenetrable Fortress | 5.00% | ~262 |
-| Here be Dragons | 5.00% | ~262 |
-| Blood of the Dragon | 5.00% | ~262 |
+| Valley of Wonders | 5.00% | ~263 |
+| Digging for Treasure | 5.00% | ~263 |
+| Fiery Friend | 5.00% | ~263 |
+| Against the Odds | 5.00% | ~263 |
+| Impenetrable Fortress | 5.00% | ~263 |
+| Here be Dragons | 5.00% | ~263 |
+| Blood of the Dragon | 5.00% | ~263 |
 | Return of the Wizard King | 4.00% | ~210 |
 | Arch Mage | 4.00% | ~210 |
 | Enchanted Archipelago | 4.00% | ~210 |
@@ -46,17 +46,17 @@ Rating: 4.60 (Ranked 405)
 | Grexolis | 2.00% | ~105 |
 | One for All, All for One | 2.00% | ~105 |
 | Duality | 2.00% | ~105 |
-| Manufactured War | 1.00% | ~52 |
+| Manufactured War | 1.00% | ~53 |
 | Snap Out of It! | 0.90% | ~47 |
 | Betrayal Most Foul | 0.70% | ~37 |
 | I Want to Break Free | 0.30% | ~16 |
-| The Grey Wizard | 0.20% | ~10 |
-| Returning Circle | 0.20% | ~10 |
-| I'll Fight You All | 0.20% | ~10 |
-| Draconic Connoisseur | 0.20% | ~10 |
+| The Grey Wizard | 0.20% | ~11 |
+| Returning Circle | 0.20% | ~11 |
+| I'll Fight You All | 0.20% | ~11 |
+| Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,250 (Ranked 180)  
+Progressed: 5,251 (Ranked 180)  
 Completed: 6 (0.11%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 6 (0.11%) (Ranked 256)
 | 2023-10-27 | 5,245 | 6 |
 | 2023-10-28 | 5,249 | 6 |
 | 2023-10-29 | 5,250 | 6 |
+| 2023-10-30 | 5,251 | 6 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 500)  
 Sum: 27 (Ranked 510)  

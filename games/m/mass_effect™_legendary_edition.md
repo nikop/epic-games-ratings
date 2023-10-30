@@ -88,11 +88,11 @@
 | Savior | 23.00% | ~196 |
 | Paramour II | 23.00% | ~196 |
 | Party Crasher | 22.00% | ~188 |
+| Hard Target | 21.00% | ~179 |
 | Problem Solver | 21.00% | ~179 |
 | Pyromaniac | 20.00% | ~171 |
 | Under Pressure | 20.00% | ~171 |
 | No One Left Behind | 20.00% | ~171 |
-| Hard Target | 20.00% | ~171 |
 | Saboteur | 20.00% | ~171 |
 | Last Witness | 20.00% | ~171 |
 | Fact Finder | 20.00% | ~171 |
@@ -105,9 +105,9 @@
 | Master and Commander | 17.00% | ~145 |
 | Throw Mastery | 16.00% | ~137 |
 | Legend | 16.00% | ~137 |
+| Combined Arms | 14.00% | ~120 |
 | Mail Slot | 14.00% | ~120 |
 | Long Service Medal | 14.00% | ~120 |
-| Combined Arms | 13.00% | ~111 |
 | Bruiser | 13.00% | ~111 |
 | Always Prepared | 11.00% | ~94 |
 | Paramour III | 11.00% | ~94 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 455,
+  "EOS_Progressed": 456,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.76,
+  "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1485,6 +1485,11 @@
       "Time": "2023-10-30T02:26:34.0299199+00:00",
       "NumProgressed": 455,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-30T04:08:26.6207486+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1497,7 +1502,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_10",
@@ -1505,15 +1510,15 @@
       "Name": "Holey Moley",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_12",
@@ -1521,7 +1526,7 @@
       "Name": "From Way Downtown",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "achievement_13",
@@ -1537,7 +1542,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_15",
@@ -1553,7 +1558,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "achievement_17",
@@ -1561,7 +1566,7 @@
       "Name": "Clean Sheet",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "achievement_18",
@@ -1577,7 +1582,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_3",
@@ -1585,7 +1590,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_4",
@@ -1593,7 +1598,7 @@
       "Name": "From Many, One",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "achievement_5",
@@ -1617,7 +1622,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_8",
@@ -1625,7 +1630,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_9",
@@ -1640,13 +1645,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 455,
+      "Progressed": 456,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:08:17.2662273+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:08:26.6207481+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:00:55.8803865+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:08:17.2662593+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:59:55.4065524+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:08:26.6207732+00:00"
 }

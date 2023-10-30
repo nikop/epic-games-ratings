@@ -49,7 +49,7 @@
 | Rock Star | 22.00% | ~8 |
 | Sneaky Notai | 19.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 473)  
+Progressed: 37 (Ranked 474)  
 Completed: 3 (8.11%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |

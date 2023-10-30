@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16046,
+  "EOS_Progressed": 16047,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13007,6 +13007,11 @@
       "Time": "2023-10-30T01:49:02.569933+00:00",
       "NumProgressed": 16046,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-30T04:04:44.1724913+00:00",
+      "NumProgressed": 16047,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13058,7 +13063,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "tpote_achievement_15",
@@ -13074,7 +13079,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "tpote_achievement_17",
@@ -13106,7 +13111,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5295
+      "UsersEstimate": 5296
     },
     {
       "ID": "tpote_achievement_20",
@@ -13218,7 +13223,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "tpote_achievement_33",
@@ -13282,7 +13287,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6418
+      "UsersEstimate": 6419
     },
     {
       "ID": "tpote_achievement_40",
@@ -13328,9 +13333,9 @@
       "ID": "tpote_achievement_8",
       "SetID": "3jcf6c3",
       "Name": "Help an old friend",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3370
     },
     {
       "ID": "tpote_achievement_9",
@@ -13345,15 +13350,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16046,
+      "Progressed": 16047,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:05:45.1948163+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:04:44.1724907+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:01:53.480202+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:05:45.1949401+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:00:37.6877336+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:04:44.172633+00:00"
 }

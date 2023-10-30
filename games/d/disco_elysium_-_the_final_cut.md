@@ -15,15 +15,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,235 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,235 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,932 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,327 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,328 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,025 |
 | Unbelievably Boring **** | 9.00% | ~11,722 |
 | Enemy Of The Physical Realm | 8.00% | ~10,420 |
 | Hardie's Heroes | 6.00% | ~7,815 |
 | The Lawbringer | 4.00% | ~5,210 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,210 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,907 |
-| Bother Kim After Hours | 3.00% | ~3,907 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,908 |
+| Bother Kim After Hours | 3.00% | ~3,908 |
 | Baddest Of the Bad Cops | 2.00% | ~2,605 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,605 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,605 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,172 |
 | Baddest Brow in Town | 0.80% | ~1,042 |
 | Networthy Individual | 0.70% | ~912 |
-| Leopard Mindset | 0.60% | ~781 |
+| Leopard Mindset | 0.60% | ~782 |
 | Modus: Mullen | 0.30% | ~391 |
 | Palerunner | 0.30% | ~391 |
 | Cause a ****storm | 0.20% | ~260 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,249 (Ranked 79)  
+Progressed: 130,250 (Ranked 79)  
 Completed: 28 (0.02%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 28 (0.02%) (Ranked 305)
 | 2023-10-27 | 130,150 | 28 |
 | 2023-10-28 | 130,198 | 28 |
 | 2023-10-29 | 130,245 | 28 |
-| 2023-10-30 | 130,249 | 28 |
+| 2023-10-30 | 130,250 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
 Sum: 1,111 (Ranked 245)  

@@ -9,23 +9,23 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 75.00% | ~4,804 |
 | Having A Field Day | 75.00% | ~4,804 |
 | Reap What You Sow | 72.00% | ~4,612 |
-| The First Day | 69.00% | ~4,419 |
-| Green Thumb | 67.00% | ~4,291 |
-| Novice Researcher | 67.00% | ~4,291 |
-| Home Cooked Meal | 59.00% | ~3,779 |
+| The First Day | 69.00% | ~4,420 |
+| Green Thumb | 67.00% | ~4,292 |
+| Novice Researcher | 67.00% | ~4,292 |
+| Home Cooked Meal | 59.00% | ~3,780 |
 | Onward | 57.00% | ~3,651 |
 | The First Week | 55.00% | ~3,523 |
 | Beam Me Up | 52.00% | ~3,331 |
 | Studious Researcher | 52.00% | ~3,331 |
 | Putting Food on the Table | 51.00% | ~3,267 |
-| Adept Researcher | 45.00% | ~2,882 |
-| Retribution | 42.00% | ~2,690 |
-| Feast or Famine | 42.00% | ~2,690 |
-| ...And Don’t Come Back! | 42.00% | ~2,690 |
+| Adept Researcher | 45.00% | ~2,883 |
+| Retribution | 42.00% | ~2,691 |
+| Feast or Famine | 42.00% | ~2,691 |
+| ...And Don’t Come Back! | 42.00% | ~2,691 |
 | Fit For A King | 32.00% | ~2,050 |
 | Heating Up | 31.00% | ~1,986 |
 | Luminary Researcher | 31.00% | ~1,986 |
-| Winter Is Coming | 28.00% | ~1,793 |
+| Winter Is Coming | 28.00% | ~1,794 |
 | Winter Is Here | 24.00% | ~1,537 |
 | Disassembled | 22.00% | ~1,409 |
 | Oh Deer! | 22.00% | ~1,409 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~128 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,405 (Ranked 173)  
+Progressed: 6,406 (Ranked 173)  
 Completed: 14 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 14 (0.22%) (Ranked 230)
 | 2023-10-27 | 6,370 | 14 |
 | 2023-10-28 | 6,381 | 14 |
 | 2023-10-29 | 6,403 | 14 |
-| 2023-10-30 | 6,405 | 14 |
+| 2023-10-30 | 6,406 | 14 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 328)  
 Sum: 999 (Ranked 252)  

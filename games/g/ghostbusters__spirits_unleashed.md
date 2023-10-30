@@ -1,35 +1,35 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 578)  
+Rating: 4.50 (Ranked 579)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,428 |
-| Advancement | 4.00% | ~1,143 |
-| Meticulously Efficient | 4.00% | ~1,143 |
-| Clutch Capture | 3.00% | ~857 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~857 |
-| Cultured | 3.00% | ~857 |
-| Discovery | 3.00% | ~857 |
-| Fully Upgraded | 3.00% | ~857 |
-| Solo Capture | 3.00% | ~857 |
-| Swift Rift Removers | 3.00% | ~857 |
-| Teamwork | 3.00% | ~857 |
-| There you are! | 3.00% | ~857 |
-| Vaporous Expansion | 3.00% | ~857 |
-| Whoopsie | 3.00% | ~857 |
-| Animated | 2.00% | ~571 |
-| Back Off | 2.00% | ~571 |
-| Daily Dose | 2.00% | ~571 |
-| Ectoplasmic Entity | 2.00% | ~571 |
-| Ghostbuster In Training | 2.00% | ~571 |
-| Icing on the Cake | 2.00% | ~571 |
-| Pesky Jerks | 2.00% | ~571 |
-| Right back at ya | 2.00% | ~571 |
-| Side Hustle | 2.00% | ~571 |
-| Summoner | 2.00% | ~571 |
-| Welcome to the Crew | 2.00% | ~571 |
+| Stylish | 5.00% | ~1,430 |
+| Advancement | 4.00% | ~1,144 |
+| Meticulously Efficient | 4.00% | ~1,144 |
+| Clutch Capture | 3.00% | ~858 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~858 |
+| Cultured | 3.00% | ~858 |
+| Discovery | 3.00% | ~858 |
+| Fully Upgraded | 3.00% | ~858 |
+| Solo Capture | 3.00% | ~858 |
+| Swift Rift Removers | 3.00% | ~858 |
+| Teamwork | 3.00% | ~858 |
+| There you are! | 3.00% | ~858 |
+| Vaporous Expansion | 3.00% | ~858 |
+| Whoopsie | 3.00% | ~858 |
+| Animated | 2.00% | ~572 |
+| Back Off | 2.00% | ~572 |
+| Daily Dose | 2.00% | ~572 |
+| Ectoplasmic Entity | 2.00% | ~572 |
+| Ghostbuster In Training | 2.00% | ~572 |
+| Icing on the Cake | 2.00% | ~572 |
+| Pesky Jerks | 2.00% | ~572 |
+| Right back at ya | 2.00% | ~572 |
+| Side Hustle | 2.00% | ~572 |
+| Summoner | 2.00% | ~572 |
+| Welcome to the Crew | 2.00% | ~572 |
 | We have the best insurance | 1.00% | ~286 |
 | Collector | 1.00% | ~286 |
 | Escape Artist | 1.00% | ~286 |
@@ -45,7 +45,7 @@ Rating: 4.50 (Ranked 578)
 | Rivalry | 0.80% | ~229 |
 | Liability | 0.70% | ~200 |
 | Surprise! | 0.70% | ~200 |
-| Fragile Panes | 0.60% | ~171 |
+| Fragile Panes | 0.60% | ~172 |
 | Rift Seeker | 0.40% | ~114 |
 | Therapeutic | 0.40% | ~114 |
 | Master Collector | 0.30% | ~86 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 578)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,563 (Ranked 122)  
+Progressed: 28,598 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,563 | 65 |
+| 2023-10-30 | 28,598 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,610 (Ranked 180)  

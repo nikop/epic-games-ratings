@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 441,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 58,
@@ -3238,9 +3238,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238788,
+  "EOS_Progressed": 238789,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23228,6 +23228,11 @@
       "Time": "2023-10-30T03:09:16.2242423+00:00",
       "NumProgressed": 238788,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-30T04:09:14.4475347+00:00",
+      "NumProgressed": 238789,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 122,
@@ -23271,7 +23276,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 229236
+      "UsersEstimate": 229237
     },
     {
       "ID": "CURSE1HP",
@@ -23279,7 +23284,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95515
+      "UsersEstimate": 95516
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -23351,7 +23356,7 @@
       "Name": "A Rough Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31042
+      "UsersEstimate": 31043
     },
     {
       "ID": "DEPTH6",
@@ -23359,7 +23364,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 174315
+      "UsersEstimate": 174316
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -23415,7 +23420,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 136109
+      "UsersEstimate": 136110
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -23423,7 +23428,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138497
+      "UsersEstimate": 138498
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -23671,7 +23676,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 95515
+      "UsersEstimate": 95516
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -23735,7 +23740,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109842
+      "UsersEstimate": 109843
     },
     {
       "ID": "KILLPARANOIA",
@@ -23743,7 +23748,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 93127
+      "UsersEstimate": 93128
     },
     {
       "ID": "KILLREFLECT10",
@@ -23767,7 +23772,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 109842
+      "UsersEstimate": 109843
     },
     {
       "ID": "KILLSPITTER",
@@ -23823,7 +23828,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 136109
+      "UsersEstimate": 136110
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -23831,7 +23836,7 @@
       "Name": "Chain Reaction",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 31042
+      "UsersEstimate": 31043
     },
     {
       "ID": "MULTIKILL30",
@@ -23887,7 +23892,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 155212
+      "UsersEstimate": 155213
     },
     {
       "ID": "PETRIFY50",
@@ -23983,7 +23988,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 212521
+      "UsersEstimate": 212522
     },
     {
       "ID": "SPECIALROOMS10",
@@ -24023,7 +24028,7 @@
       "Name": "Flesh Wound",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 71636
+      "UsersEstimate": 71637
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -24214,22 +24219,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238788,
+      "Progressed": 238789,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 268,
-      "Completed": 268
+      "Progressed": 269,
+      "Completed": 269
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-30T03:03:05.6950798+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:09:16.2242414+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:09:14.4475343+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:03:05.6950814+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:09:16.2245155+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:02:51.7760265+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:09:14.4478186+00:00"
 }

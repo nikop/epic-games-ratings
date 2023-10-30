@@ -2,10 +2,10 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 421,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
     "PcReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -306,8 +306,8 @@
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:04:31.850895+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:04:01.4089205+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:17.8537665+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:58:50.8920865+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:04:31.8509121+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:58:15.1310799+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:04:01.4089358+00:00"
 }

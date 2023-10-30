@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 96564,
+  "EOS_Progressed": 96565,
   "EOS_Completed": 976,
-  "EOS_NewPlayers": 1086,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -22397,6 +22397,11 @@
       "Time": "2023-10-30T02:26:34.8805056+00:00",
       "NumProgressed": 96564,
       "NumCompleted": 976
+    },
+    {
+      "Time": "2023-10-30T04:08:27.3378628+00:00",
+      "NumProgressed": 96565,
+      "NumCompleted": 976
     }
   ],
   "TotalAchievements": 56,
@@ -22408,7 +22413,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 30900
+      "UsersEstimate": 30901
     },
     {
       "ID": "ach_001_game_complete",
@@ -22440,7 +22445,7 @@
       "Name": "Amateur Historian",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "ach_005_machinist_mask",
@@ -22456,7 +22461,7 @@
       "Name": "The Beetle Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "ach_007_climbers_mask",
@@ -22480,7 +22485,7 @@
       "Name": "The Guard Mask",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "ach_010_scrapper_mask",
@@ -22648,7 +22653,7 @@
       "Name": "Smoked Out",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "ach_031_enter_hercules_beetle_nest",
@@ -22664,7 +22669,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23175
+      "UsersEstimate": 23176
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -22680,7 +22685,7 @@
       "Name": "A Hard Place",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6759
+      "UsersEstimate": 6760
     },
     {
       "ID": "ach_035_collect_bike_parts_1",
@@ -22736,7 +22741,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23175
+      "UsersEstimate": 23176
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -22782,9 +22787,9 @@
       "ID": "ach_047_drive_long_distance",
       "SetID": "585ckk9",
       "Name": "Dune Rider",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8691
+      "UsersEstimate": 7725
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -22855,15 +22860,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 96564,
+      "Progressed": 96565,
       "Completed": 976
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-25T15:57:21.7620587+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:08:18.103526+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:08:27.3378625+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.5624523+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:59:34.7507409+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:08:18.1037561+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:58:48.4646488+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:08:27.3380868+00:00"
 }

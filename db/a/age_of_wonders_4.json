@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5250,
+  "EOS_Progressed": 5251,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6517,6 +6517,11 @@
       "Time": "2023-10-29T11:05:11.0221036+00:00",
       "NumProgressed": 5250,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-30T04:03:01.7536663+00:00",
+      "NumProgressed": 5251,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6528,7 +6533,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "10",
@@ -6656,7 +6661,7 @@
       "Name": "Secret Technique",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "25",
@@ -6680,7 +6685,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "28",
@@ -6760,7 +6765,7 @@
       "Name": "Fiery Friend",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "37",
@@ -6768,7 +6773,7 @@
       "Name": "Against the Odds",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "38",
@@ -6776,7 +6781,7 @@
       "Name": "Manufactured War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "39",
@@ -6784,7 +6789,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "4",
@@ -6824,7 +6829,7 @@
       "Name": "The Grey Wizard",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "44",
@@ -6856,7 +6861,7 @@
       "Name": "Returning Circle",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "8",
@@ -6872,7 +6877,7 @@
       "Name": "I\u0027ll Fight You All",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "45",
@@ -6880,7 +6885,7 @@
       "Name": "Here be Dragons",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "46",
@@ -6904,7 +6909,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "49",
@@ -6920,20 +6925,20 @@
       "Name": "Draconic Connoisseur",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5250,
+      "Progressed": 5251,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5250,
+      "Progressed": 5251,
       "Completed": 6
     }
   ],
@@ -6941,8 +6946,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-28T02:59:13.786898+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:23:10.1180788+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:03:01.7536649+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:02.1376773+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:00:34.5605173+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:23:10.118168+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:59:40.2904782+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:03:01.7569127+00:00"
 }

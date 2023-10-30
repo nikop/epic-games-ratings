@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7567,
+  "EOS_Progressed": 7569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5312,6 +5312,11 @@
       "Time": "2023-10-30T03:09:16.0650649+00:00",
       "NumProgressed": 7567,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T04:09:14.2963369+00:00",
+      "NumProgressed": 7569,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5380,7 +5385,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "DHUpgraded1",
@@ -5436,7 +5441,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "GamesPlayed1",
@@ -5516,7 +5521,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "HAUpgraded1",
@@ -5532,7 +5537,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "HSPurchased1",
@@ -5732,7 +5737,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "NeutralKills200",
@@ -5884,7 +5889,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "TSUPurchased1",
@@ -5915,7 +5920,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7567,
+      "Progressed": 7569,
       "Completed": 1
     }
   ],
@@ -5923,8 +5928,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:09:16.0650641+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:09:14.2963364+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:02:42.4045806+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:09:16.065186+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:01:16.8201552+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:09:14.2964515+00:00"
 }

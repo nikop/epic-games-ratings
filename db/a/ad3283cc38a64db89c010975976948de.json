@@ -2,10 +2,10 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -180,9 +180,9 @@
       "ID": "LEVEL_135_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 135 pieces",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_135_002",
@@ -276,9 +276,9 @@
       "ID": "LEVEL_375_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 375 pieces",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_375_002",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-30T03:05:40.3056246+00:00",
+  "LastChanged_Achievements": "2023-10-30T04:04:40.0706685+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:02:03.4551957+00:00",
-  "LastUpdate_Achievements": "2023-10-30T03:05:40.3056516+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:00:44.1606285+00:00",
+  "LastUpdate_Achievements": "2023-10-30T04:04:40.0706927+00:00"
 }

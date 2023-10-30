@@ -6,36 +6,36 @@
 | ---- | ---------- | ----- |
 | MLG 360 no scope kill! | 93.00% | ~100 |
 | Are you ready to rumble? | 93.00% | ~100 |
-| Tastes just like chicken! | 92.00% | ~98 |
-| That's what cheese said! | 86.00% | ~92 |
-| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~90 |
-| I like you...but I have to kill you... | 84.00% | ~90 |
-| Not so hip anymore! | 83.00% | ~89 |
-| Nerd | 83.00% | ~89 |
+| Tastes just like chicken! | 92.00% | ~99 |
+| That's what cheese said! | 86.00% | ~93 |
+| AHHHHHH.....I'M ON FIRE!!! | 84.00% | ~91 |
+| I like you...but I have to kill you... | 84.00% | ~91 |
+| Not so hip anymore! | 83.00% | ~90 |
+| Nerd | 83.00% | ~90 |
 | Blurry depth perception | 81.00% | ~87 |
 | Up and down | 79.00% | ~85 |
-| Rolling, Rolling, Rolling | 74.00% | ~79 |
+| Rolling, Rolling, Rolling | 73.00% | ~79 |
 | Fire-fighter! | 66.00% | ~71 |
-| Oh, you're up to no gouda! | 63.00% | ~67 |
-| Meat grinder | 60.00% | ~64 |
-| Make Love not War-Craft a Mistlefoe | 59.00% | ~63 |
+| Oh, you're up to no gouda! | 62.00% | ~67 |
+| Meat grinder | 59.00% | ~64 |
+| Make Love not War-Craft a Mistlefoe | 58.00% | ~63 |
 | You're not going to blow me up! | 54.00% | ~58 |
 | Mushroom soup of the day | 51.00% | ~55 |
-| Honk honk! | 50.00% | ~54 |
-| Butcher | 50.00% | ~54 |
-| Spare Ribs | 50.00% | ~54 |
-| Cockadoodledoo! | 50.00% | ~54 |
-| Thats disgusting! | 47.00% | ~50 |
-| My pants squeak when I walk | 44.00% | ~47 |
+| Honk honk! | 49.00% | ~53 |
+| Butcher | 49.00% | ~53 |
+| Spare Ribs | 49.00% | ~53 |
+| Cockadoodledoo! | 49.00% | ~53 |
+| Thats disgusting! | 46.00% | ~50 |
+| My pants squeak when I walk | 44.00% | ~48 |
 | Self assessed tax return | 42.00% | ~45 |
 | Surprise!! | 41.00% | ~44 |
 | Haemochromatosis | 40.00% | ~43 |
 | Make America Grate Again | 36.00% | ~39 |
-| Pasta Bolognese | 36.00% | ~39 |
-| You can't stop me, bro! | 34.00% | ~36 |
-| You are no match for me, Billy! | 33.00% | ~35 |
-| Catch the bus with me! | 33.00% | ~35 |
-| Karaoke king | 32.00% | ~34 |
+| Pasta Bolognese | 35.00% | ~38 |
+| You can't stop me, bro! | 33.00% | ~36 |
+| You are no match for me, Billy! | 32.00% | ~35 |
+| Catch the bus with me! | 32.00% | ~35 |
+| Karaoke king | 31.00% | ~33 |
 | Meatballs, coming up! | 30.00% | ~32 |
 | I'm going to get a concussion | 30.00% | ~32 |
 | Another one bites the iron | 29.00% | ~31 |
@@ -60,8 +60,8 @@
 | Ancient Ruins of Moist Overhangs | 8.00% | ~9 |
 | I drink, but I'm not a drunk! | 8.00% | ~9 |
 | Scrambled Eggs | 8.00% | ~9 |
-| I want to throw up! | 7.00% | ~7 |
-| My name is Whoopass, SIR Whoopass! | 7.00% | ~7 |
+| I want to throw up! | 7.00% | ~8 |
+| My name is Whoopass, SIR Whoopass! | 7.00% | ~8 |
 | Ancient Ruins of Misplaced Belongings | 5.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 5.00% | ~5 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~5 |
@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 398)  
+Progressed: 108 (Ranked 395)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,3 +130,4 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-09 | 105 | 0 |
 | 2023-10-16 | 106 | 0 |
 | 2023-10-22 | 107 | 0 |
+| 2023-10-30 | 108 | 0 |

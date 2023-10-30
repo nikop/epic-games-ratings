@@ -7,11 +7,11 @@ Number of Ratings: 43  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~32,832 |
-| Just The Two of Us | 32.00% | ~30,900 |
+| Just The Two of Us | 32.00% | ~30,901 |
 | Up On High | 25.00% | ~24,141 |
 | Under The Hood | 25.00% | ~24,141 |
-| Got Your Nose | 24.00% | ~23,175 |
-| The Gift of Gab | 24.00% | ~23,175 |
+| Got Your Nose | 24.00% | ~23,176 |
+| The Gift of Gab | 24.00% | ~23,176 |
 | Wrapping Up | 22.00% | ~21,244 |
 | More Than A Box Of Sand | 18.00% | ~17,382 |
 | The Dunboyne | 17.00% | ~16,416 |
@@ -38,18 +38,18 @@ Number of Ratings: 43  (23.09.2022)
 | Trellick's Pillar | 9.00% | ~8,691 |
 | Centre Of Brunswick | 9.00% | ~8,691 |
 | Bike Collector | 9.00% | ~8,691 |
-| Dune Rider | 9.00% | ~8,691 |
 | Not That Kind Of Gliding | 9.00% | ~8,691 |
 | The Scrapper Mask | 8.00% | ~7,725 |
 | Shadow Of Neave | 8.00% | ~7,725 |
 | Fragile Goods | 8.00% | ~7,725 |
 | Glider on the Storm | 8.00% | ~7,725 |
 | Squeeze One Out | 8.00% | ~7,725 |
-| Amateur Historian | 7.00% | ~6,759 |
-| The Beetle Mask | 7.00% | ~6,759 |
-| The Guard Mask | 7.00% | ~6,759 |
-| Smoked Out | 7.00% | ~6,759 |
-| A Hard Place | 7.00% | ~6,759 |
+| Dune Rider | 8.00% | ~7,725 |
+| Amateur Historian | 7.00% | ~6,760 |
+| The Beetle Mask | 7.00% | ~6,760 |
+| The Guard Mask | 7.00% | ~6,760 |
+| Smoked Out | 7.00% | ~6,760 |
+| A Hard Place | 7.00% | ~6,760 |
 | The Climber Mask | 6.00% | ~5,794 |
 | The Merchant Mask | 6.00% | ~5,794 |
 | Honorary Chum | 6.00% | ~5,794 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,897 |
 | Vivacious Vivarium | 2.00% | ~1,931 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,564 (Ranked 87)  
+Progressed: 96,565 (Ranked 87)  
 Completed: 976 (1.01%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 976 (1.01%) (Ranked 151)
 | 2023-10-27 | 96,155 | 973 |
 | 2023-10-28 | 96,361 | 975 |
 | 2023-10-29 | 96,544 | 976 |
-| 2023-10-30 | 96,564 | 976 |
+| 2023-10-30 | 96,565 | 976 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 512)  
 Sum: 91 (Ranked 441)  
