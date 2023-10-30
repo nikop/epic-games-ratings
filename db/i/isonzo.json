@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7094,
+  "EOS_Progressed": 7095,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6349,6 +6349,11 @@
       "Time": "2023-10-29T22:08:51.8820037+00:00",
       "NumProgressed": 7094,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-30T02:25:35.6134074+00:00",
+      "NumProgressed": 7095,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6376,7 +6381,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6664,7 +6669,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -6680,7 +6685,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -6719,7 +6724,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7094,
+      "Progressed": 7095,
       "Completed": 9
     }
   ],
@@ -6727,8 +6732,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-10-29T04:58:39.1460571+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:51:35.0312226+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:25:35.6134071+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.4558053+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:43:06.6526739+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:51:35.0312971+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:17:29.3090571+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:25:35.6134779+00:00"
 }

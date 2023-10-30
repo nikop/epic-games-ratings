@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 463)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,268 (Ranked 198)  
+Progressed: 3,268 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |

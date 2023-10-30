@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127295,
+  "EOS_Progressed": 127296,
   "EOS_Completed": 1089,
-  "EOS_NewPlayers": 1215,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -22105,6 +22105,11 @@
       "Time": "2023-10-30T01:48:00.4125671+00:00",
       "NumProgressed": 127295,
       "NumCompleted": 1089
+    },
+    {
+      "Time": "2023-10-30T02:22:05.9915929+00:00",
+      "NumProgressed": 127296,
+      "NumCompleted": 1089
     }
   ],
   "TotalAchievements": 34,
@@ -22172,7 +22177,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 101836
+      "UsersEstimate": 101837
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -22188,7 +22193,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 71285
+      "UsersEstimate": 71286
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -22228,7 +22233,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 38188
+      "UsersEstimate": 38189
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -22244,7 +22249,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 38188
+      "UsersEstimate": 38189
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -22387,7 +22392,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 127295,
+      "Progressed": 127296,
       "Completed": 1089
     }
   ],
@@ -22395,8 +22400,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:48:00.4125668+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:22:05.9915925+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:36.8190277+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:43:24.533695+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:48:00.4127229+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:17:43.2635817+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:22:05.9917518+00:00"
 }

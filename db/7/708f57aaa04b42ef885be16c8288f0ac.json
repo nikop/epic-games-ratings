@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3268,
+  "EOS_Progressed": 3273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2152,
+  "EOS_NewPlayers": 2157,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1312,6 +1312,11 @@
       "Time": "2023-10-30T01:52:47.0512433+00:00",
       "NumProgressed": 3268,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T02:26:42.4413723+00:00",
+      "NumProgressed": 3273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1332,7 +1337,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "BeLikeWater",
@@ -1364,7 +1369,7 @@
       "Name": "Connection Lost",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Eavesdropper",
@@ -1396,7 +1401,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1490,17 +1495,17 @@
       "ID": "OneStarMan",
       "SetID": "acc6ea0",
       "Name": "One-Star Man",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ScorchSquad",
       "SetID": "acc6ea0",
       "Name": "Scorch Squaaad!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "TheFloorIsLava",
@@ -1516,7 +1521,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "TheQuarterback",
@@ -1524,7 +1529,7 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ThisIsDharma",
@@ -1532,7 +1537,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1595,14 +1600,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3268,
+      "Progressed": 3273,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:52:47.051241+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:26:42.4413715+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:44:30.3962686+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:52:47.0512777+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:18:54.5665254+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:26:42.4414053+00:00"
 }

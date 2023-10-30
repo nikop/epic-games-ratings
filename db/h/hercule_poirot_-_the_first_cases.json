@@ -796,9 +796,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_032",
@@ -981,8 +981,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:52:20.79529+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:25:41.8761213+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:21.2089448+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:41:47.9527998+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:52:20.7953357+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:16:02.3665014+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:25:41.8761626+00:00"
 }

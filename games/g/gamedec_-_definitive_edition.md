@@ -16,7 +16,7 @@ Number of Ratings: 33  (23.09.2022)
 | Griever | 8.00% | ~20,047 |
 | Pumpkin Jack | 8.00% | ~20,047 |
 | Wake up! | 8.00% | ~20,047 |
-| It's honest work | 7.00% | ~17,541 |
+| It's honest work | 7.00% | ~17,542 |
 | Me smart | 6.00% | ~15,036 |
 | Trash compactor | 6.00% | ~15,036 |
 | Good listener | 5.00% | ~12,530 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~501 |
 | Memory 5 | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,592 (Ranked 55)  
+Progressed: 250,593 (Ranked 55)  
 Completed: 7 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.00%) (Ranked 332)
 | 2023-10-27 | 250,355 | 7 |
 | 2023-10-28 | 250,469 | 7 |
 | 2023-10-29 | 250,585 | 7 |
-| 2023-10-30 | 250,592 | 7 |
+| 2023-10-30 | 250,593 | 7 |
 ## Awards
 Max (Character Customization): 87  (Ranked 371)  
 Sum: 87 (Ranked 444)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663957,
+  "EOS_Progressed": 663959,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19228,6 +19228,11 @@
       "Time": "2023-10-30T01:49:41.2098947+00:00",
       "NumProgressed": 663957,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-30T02:24:21.7592036+00:00",
+      "NumProgressed": 663959,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19239,7 +19244,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478049
+      "UsersEstimate": 478050
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -19247,7 +19252,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385095
+      "UsersEstimate": 385096
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -19255,7 +19260,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152710
+      "UsersEstimate": 152711
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -19263,7 +19268,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39837
+      "UsersEstimate": 39838
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -19375,7 +19380,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152710
+      "UsersEstimate": 152711
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -19399,7 +19404,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39837
+      "UsersEstimate": 39838
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -19503,7 +19508,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165989
+      "UsersEstimate": 165990
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -19622,15 +19627,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663957,
+      "Progressed": 663959,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:49:41.2098941+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:24:21.759203+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.5060191+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:42:20.1654235+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:49:41.2100511+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:16:38.1655865+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:24:21.7593579+00:00"
 }

@@ -127,17 +127,17 @@
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_picklock16",
@@ -285,8 +285,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:52:56.8153383+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:26:53.5575823+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.5344119+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:44:38.1025394+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:52:56.8153586+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:19:06.3154041+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:26:53.5575999+00:00"
 }

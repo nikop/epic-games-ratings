@@ -5,12 +5,12 @@ Rating: 4.39 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~101,836 |
-| 74 miles East of Otaheité | 56.00% | ~71,285 |
+| A Family Heirloom | 80.00% | ~101,837 |
+| 74 miles East of Otaheité | 56.00% | ~71,286 |
 | Interesting... | 42.00% | ~53,464 |
 | The Everhart Expedition | 39.00% | ~49,645 |
-| The Vanishing of the Lady Shannon | 30.00% | ~38,188 |
-| Seaside Serenade | 30.00% | ~38,188 |
+| The Vanishing of the Lady Shannon | 30.00% | ~38,189 |
+| Seaside Serenade | 30.00% | ~38,189 |
 | Halfway there | 29.00% | ~36,916 |
 | A brigantine, a brig and a barque | 28.00% | ~35,643 |
 | 506 East Hampden Avenue | 28.00% | ~35,643 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 740)
 | Gently down the stream... | 1.00% | ~1,273 |
 | Meta-reference | 1.00% | ~1,273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,295 (Ranked 80)  
+Progressed: 127,296 (Ranked 80)  
 Completed: 1,089 (0.86%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 1,089 (0.86%) (Ranked 161)
 | 2023-10-27 | 126,819 | 1,080 |
 | 2023-10-28 | 127,019 | 1,083 |
 | 2023-10-29 | 127,284 | 1,089 |
-| 2023-10-30 | 127,295 | 1,089 |
+| 2023-10-30 | 127,296 | 1,089 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

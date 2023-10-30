@@ -2,7 +2,7 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 120,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 919,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1025,6 +1025,11 @@
       "Time": "2023-10-30T01:47:59.2783641+00:00",
       "NumProgressed": 917,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T02:22:04.6403238+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1069,7 +1074,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1085,7 +1090,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1101,7 +1106,7 @@
       "Name": "Team Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1117,7 +1122,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1125,7 +1130,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1133,7 +1138,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1181,7 +1186,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1276,14 +1281,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 919,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:47:59.2783636+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:22:04.640323+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:03:06.3344514+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:47:59.2783947+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:15:10.6793978+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:22:04.6403526+00:00"
 }

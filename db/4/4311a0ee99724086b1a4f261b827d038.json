@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -485,9 +485,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229410,
+  "EOS_Progressed": 229418,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1413,
+  "EOS_NewPlayers": 1418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11765,6 +11765,11 @@
       "Time": "2023-10-30T01:53:03.2665375+00:00",
       "NumProgressed": 229410,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T02:27:01.277303+00:00",
+      "NumProgressed": 229418,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -11825,7 +11830,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -11833,7 +11838,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48176
+      "UsersEstimate": 48178
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -11841,7 +11846,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20647
+      "UsersEstimate": 20648
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -11849,7 +11854,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11470
+      "UsersEstimate": 11471
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -11857,7 +11862,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9176
+      "UsersEstimate": 9177
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -11873,7 +11878,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -11881,7 +11886,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6882
+      "UsersEstimate": 6883
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -11937,7 +11942,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -11961,7 +11966,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29823
+      "UsersEstimate": 29824
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -12009,7 +12014,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -12033,7 +12038,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57352
+      "UsersEstimate": 57354
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -12048,7 +12053,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229410,
+      "Progressed": 229418,
       "Completed": 0
     }
   ],
@@ -12056,8 +12061,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-29T21:02:28.2702844+00:00",
-  "LastChanged_Achievements": "2023-10-30T01:53:03.2665372+00:00",
+  "LastChanged_Achievements": "2023-10-30T02:27:01.2773023+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-10-30T01:45:16.9285164+00:00",
-  "LastUpdate_Achievements": "2023-10-30T01:53:03.2666355+00:00"
+  "LastUpdate_Ratings": "2023-10-30T02:19:51.1492134+00:00",
+  "LastUpdate_Achievements": "2023-10-30T02:27:01.2773998+00:00"
 }

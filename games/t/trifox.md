@@ -22,14 +22,14 @@
 | Defeat the engineer boss | 15.00% | ~15 |
 | Well-off | 14.00% | ~14 |
 | Too many crates | 14.00% | ~14 |
-| Complete Level 3-1 | 13.00% | ~13 |
+| Complete Level 3-1 | 14.00% | ~14 |
 | Baby steps | 12.00% | ~12 |
 | Complete Level 3-2 | 11.00% | ~11 |
 | Engineer-warrior hybrid | 11.00% | ~11 |
 | Party popper | 11.00% | ~11 |
+| Drink up | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
 | Should have left me alone | 9.00% | ~9 |
-| Drink up | 9.00% | ~9 |
 | Complete Level 3-3 | 8.00% | ~8 |
 | Mage specialist | 8.00% | ~8 |
 | Defeat the mage boss | 6.00% | ~6 |

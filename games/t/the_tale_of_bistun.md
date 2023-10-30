@@ -11,7 +11,7 @@
 | Carving A Memory | 75.00% | ~18 |
 | A Friend In Need | 71.00% | ~17 |
 | A Stranger's Diary | 71.00% | ~17 |
-| It Feels Better Than It Sounds | 67.00% | ~16 |
+| It Feels Better Than It Sounds | 71.00% | ~17 |
 | Stand By Nature | 67.00% | ~16 |
 | Skilled Hands | 63.00% | ~15 |
 | Master Smithy | 63.00% | ~15 |
@@ -26,21 +26,21 @@
 | Shoo! Shoo! | 58.00% | ~14 |
 | At One With Nature | 58.00% | ~14 |
 | Prison Break | 54.00% | ~13 |
+| Nature's Savior | 54.00% | ~13 |
+| Hammer It Home | 54.00% | ~13 |
 | I Pick You | 50.00% | ~12 |
 | Accomplished Smithy | 50.00% | ~12 |
 | The Ultimate Sacrifice | 50.00% | ~12 |
-| Nature's Savior | 50.00% | ~12 |
-| Hammer It Home | 50.00% | ~12 |
 | The Blight's Blight | 46.00% | ~11 |
 | For Whom the Bell Tolls | 42.00% | ~10 |
 | Here I Am | 42.00% | ~10 |
 | Break The Cycle | 38.00% | ~9 |
 | Continue The Cycle | 29.00% | ~7 |
-| Talent And Dedication | 21.00% | ~5 |
+| Talent And Dedication | 25.00% | ~6 |
+| Read, Read, Read | 21.00% | ~5 |
+| Ledge-walker | 21.00% | ~5 |
+| Prolific Artist | 21.00% | ~5 |
 | Merely Inquisitive | 21.00% | ~5 |
-| Read, Read, Read | 17.00% | ~4 |
-| Ledge-walker | 17.00% | ~4 |
-| Prolific Artist | 17.00% | ~4 |
 | Slip and Slide | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 502)  
