@@ -6,16 +6,16 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~113,382 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~86,560 |
-| A Clear Conscience | 69.00% | ~84,122 |
-| Unleash Hell | 68.00% | ~82,903 |
-| Unfulfilled Desires | 68.00% | ~82,903 |
+| A Place to Lay Your Head | 93.00% | ~113,383 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~86,561 |
+| A Clear Conscience | 69.00% | ~84,123 |
+| Unleash Hell | 68.00% | ~82,904 |
+| Unfulfilled Desires | 68.00% | ~82,904 |
 | Funny Guy | 67.00% | ~81,684 |
 | Unshackled | 67.00% | ~81,684 |
 | Long Live the King | 66.00% | ~80,465 |
-| Resurrection | 62.00% | ~75,588 |
-| Wyrdly Reconstructed | 62.00% | ~75,588 |
+| Resurrection | 62.00% | ~75,589 |
+| Wyrdly Reconstructed | 62.00% | ~75,589 |
 | Boxcar Kid | 60.00% | ~73,150 |
 | Rush Hour | 60.00% | ~73,150 |
 | To Grandmother's House | 60.00% | ~73,150 |
@@ -28,7 +28,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Harvest Festival | 37.00% | ~45,109 |
 | Merry Time | 36.00% | ~43,890 |
 | Hot Air | 36.00% | ~43,890 |
-| Creep and Sleep | 33.00% | ~40,232 |
+| Creep and Sleep | 33.00% | ~40,233 |
 | Overdue Notice | 32.00% | ~39,013 |
 | Whale | 32.00% | ~39,013 |
 | Banishment | 31.00% | ~37,794 |
@@ -39,25 +39,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | Meat and Greet | 23.00% | ~28,041 |
 | Spelunker | 22.00% | ~26,822 |
 | Road Trip | 22.00% | ~26,822 |
-| Eyes Up | 21.00% | ~25,602 |
+| Eyes Up | 21.00% | ~25,603 |
 | It Rings a Bell | 20.00% | ~24,383 |
 | Escape from the Black Hole | 18.00% | ~21,945 |
 | Dissector | 17.00% | ~20,726 |
 | It Happens | 17.00% | ~20,726 |
 | This Belongs in a Museum | 16.00% | ~19,507 |
 | Handled | 16.00% | ~19,507 |
-| Catch and Decease | 15.00% | ~18,287 |
+| Catch and Decease | 15.00% | ~18,288 |
 | Deprogramming | 14.00% | ~17,068 |
 | Not Today! | 13.00% | ~15,849 |
 | Shrine of Reflection | 12.00% | ~14,630 |
 | When You Want Something Done Right | 11.00% | ~13,411 |
 | Body of Work | 10.00% | ~12,192 |
-| Utopia | 9.00% | ~10,972 |
+| Utopia | 9.00% | ~10,973 |
 | Hat Trick | 7.00% | ~8,534 |
 | Ichthyophobic | 6.00% | ~7,315 |
 | No More Mouths to Feed | 6.00% | ~7,315 |
 | The World As It Was | 4.00% | ~4,877 |
-| Triage | 3.00% | ~3,657 |
+| Triage | 3.00% | ~3,658 |
 | A Life Well Lived | 2.00% | ~2,438 |
 | Clearing the Ledger | 2.00% | ~2,438 |
 | Pub Crawl | 2.00% | ~2,438 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~122 |
 | No Gravestone Left Unturned | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,916 (Ranked 82)  
+Progressed: 121,917 (Ranked 82)  
 Completed: 1 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1 (0.00%) (Ranked 332)
 | 2023-10-27 | 121,662 | 1 |
 | 2023-10-28 | 121,769 | 1 |
 | 2023-10-29 | 121,883 | 1 |
-| 2023-10-30 | 121,916 | 1 |
+| 2023-10-30 | 121,917 | 1 |
 ## Awards
 Max (Character Customization): 7,480  (Ranked 51)  
 Sum: 19,632 (Ranked 59)  

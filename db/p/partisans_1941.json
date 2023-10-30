@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1518,
+  "EOS_Progressed": 1519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3189,6 +3189,11 @@
       "Time": "2023-10-30T03:07:48.0990342+00:00",
       "NumProgressed": 1518,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T12:08:50.4627678+00:00",
+      "NumProgressed": 1519,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3248,7 +3253,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Defense_Common",
@@ -3272,7 +3277,7 @@
       "Name": "Lock, Stock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "E1M1",
@@ -3312,7 +3317,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "Hard_Serpent",
@@ -3392,7 +3397,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Scout",
@@ -3439,15 +3444,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1518,
+      "Progressed": 1519,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:08:12.3253638+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:08:50.4627673+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:00:07.6883178+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:08:12.3253933+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:00:14.236367+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:08:50.4628117+00:00"
 }

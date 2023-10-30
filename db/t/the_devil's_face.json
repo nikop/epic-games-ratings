@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 508,
+  "EOS_Progressed": 509,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -2204,6 +2204,11 @@
       "Time": "2023-10-30T10:07:08.9721014+00:00",
       "NumProgressed": 508,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T12:07:29.9615958+00:00",
+      "NumProgressed": 509,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 14,
@@ -2215,7 +2220,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2223,7 +2228,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2231,7 +2236,7 @@
       "Name": "The crucifixion",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2261,9 +2266,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2287,7 +2292,7 @@
       "Name": "Unholy lands",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2319,21 +2324,21 @@
       "Name": "Flagellation",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 508,
+      "Progressed": 509,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:07:10.4373423+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:07:29.9615941+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:01:17.7638102+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:07:10.4373615+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:01:27.9235956+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:07:29.9616216+00:00"
 }

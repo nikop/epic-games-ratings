@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.90% | ~2,099 |
+| A Brief Tour of the Realms | 1.00% | ~2,332 |
 | Foul Play | 0.50% | ~998 |
 | Beast Intentions | 0.40% | ~933 |
 | The Cursed Farmer | 0.40% | ~933 |
@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.20% | ~399 |
 | Return to the Tomb | 0.20% | ~399 |
 | Heatwave | 0.20% | ~399 |
+| The Dread Domain of Tovag | 0.20% | ~399 |
 | The Castle of a Thousand Vecnas | 0.20% | ~399 |
 | The Sanctum of the Sword | 0.20% | ~399 |
 | Get Back In The Castle | 0.20% | ~399 |
@@ -160,7 +161,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.10% | ~200 |
 | To Avernus in a Handbasket | 0.10% | ~200 |
 | Hands Off! | 0.10% | ~200 |
-| The Dread Domain of Tovag | 0.10% | ~200 |
 | Weak Doesn't Mean Feeble | 0.10% | ~200 |
 | Frail Doesn't Mean Broken | 0.10% | ~200 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,231 (Ranked 61)  
+Progressed: 233,233 (Ranked 61)  
 Completed: 2,406 (1.03%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -728,15 +728,15 @@ Completed: 2,406 (1.03%) (Ranked 150)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
-| 2023-10-30 | 233,231 | 2,406 |
+| 2023-10-30 | 233,233 | 2,406 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
-Sum: 32,266 (Ranked 41)  
+Sum: 32,270 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,462 |
-| This game has Diverse Characters | 5,450 |
+| This game has Diverse Characters | 5,454 |
 | This game has Quickly Understood Controls | 4,802 |
 | This game is Relaxing | 4,689 |
 | This game has Amazing Characters | 4,186 |
@@ -1022,4 +1022,4 @@ Diff (max vs sum): 28
 | 2023-10-27 | 4.06 | - | 5,456 | 32,243 |
 | 2023-10-28 | 4.06 | - | 5,461 | 32,249 |
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
-| 2023-10-30 | 4.06 | - | 5,462 | 32,266 |
+| 2023-10-30 | 4.06 | - | 5,462 | 32,270 |

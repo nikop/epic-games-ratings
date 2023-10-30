@@ -27,10 +27,10 @@
 | Tear of Freedom | 41.00% | ~15 |
 | My Darkest Day | 38.00% | ~14 |
 | Snowy Poro | 38.00% | ~14 |
+| A Tragic Reminder | 35.00% | ~13 |
 | 3000 Year Blackout | 35.00% | ~13 |
 | The Relentless Storm | 35.00% | ~13 |
 | The Finisher | 35.00% | ~13 |
-| A Tragic Reminder | 32.00% | ~12 |
 | Family | 32.00% | ~12 |
 | Biggest Snowball Ever | 32.00% | ~12 |
 | Bullseye | 32.00% | ~12 |

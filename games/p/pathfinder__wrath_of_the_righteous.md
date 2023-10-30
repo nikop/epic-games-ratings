@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,101 |
+| Devoured by Darkness | 26.00% | ~3,102 |
 | A Spark | 18.00% | ~2,147 |
 | Burning City | 17.00% | ~2,028 |
 | Defender's Heart | 15.00% | ~1,789 |
@@ -53,9 +53,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.90% | ~107 |
 | End of Eternal Guard | 0.90% | ~107 |
 | Truly Profane Gift | 0.90% | ~107 |
-| Masterful Charge | 0.70% | ~83 |
-| Playful Mood | 0.70% | ~83 |
-| Dreadful Dragon | 0.70% | ~83 |
+| Masterful Charge | 0.70% | ~84 |
+| Playful Mood | 0.70% | ~84 |
+| Dreadful Dragon | 0.70% | ~84 |
 | Prelate's Nemesis | 0.50% | ~60 |
 | Ashes to Ashes | 0.40% | ~48 |
 | Masterful Dispel | 0.30% | ~36 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,928 (Ranked 150)  
+Progressed: 11,929 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,14 +316,14 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 11,841 | 0 |
 | 2023-10-28 | 11,886 | 0 |
 | 2023-10-29 | 11,919 | 0 |
-| 2023-10-30 | 11,928 | 0 |
+| 2023-10-30 | 11,929 | 0 |
 ## Awards
-Max (Character Customization): 1,730  (Ranked 120)  
-Sum: 7,008 (Ranked 119)  
+Max (Character Customization): 1,731  (Ranked 120)  
+Sum: 7,009 (Ranked 119)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,730 |
+| This game has Inclusive Character Customization | 1,731 |
 | This game is Extremely Fun | 653 |
 | This game is Highly Recommended | 641 |
 | This game has Amazing Characters | 638 |
@@ -584,3 +584,4 @@ Diff (max vs sum): 1
 | 2023-10-26 | 4.76 | - | 1,728 | 7,002 |
 | 2023-10-27 | 4.76 | - | 1,729 | 7,006 |
 | 2023-10-28 | 4.76 | - | 1,730 | 7,008 |
+| 2023-10-30 | 4.76 | - | 1,731 | 7,009 |

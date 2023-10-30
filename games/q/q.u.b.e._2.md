@@ -6,25 +6,25 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~26,054 |
-| Quick Understanding of Block Extrusion | 68.00% | ~23,623 |
-| Nature or Nurture | 51.00% | ~17,717 |
-| Power Glove | 49.00% | ~17,022 |
-| Forgotten Memories | 42.00% | ~14,590 |
-| Cogs in the Machine | 35.00% | ~12,159 |
-| Mission Success | 20.00% | ~6,948 |
-| There's No Place Like Home | 20.00% | ~6,948 |
-| Green Cube Killer | 17.00% | ~5,906 |
-| Infinity Loop | 14.00% | ~4,863 |
-| Path to Salvation | 14.00% | ~4,863 |
-| Descendants | 12.00% | ~4,169 |
-| The Flawed Teacher | 10.00% | ~3,474 |
-| To Infinity and Beyond | 5.00% | ~1,737 |
+| Lost in Space | 75.00% | ~26,062 |
+| Quick Understanding of Block Extrusion | 68.00% | ~23,630 |
+| Nature or Nurture | 51.00% | ~17,722 |
+| Power Glove | 49.00% | ~17,028 |
+| Forgotten Memories | 42.00% | ~14,595 |
+| Cogs in the Machine | 35.00% | ~12,162 |
+| Mission Success | 20.00% | ~6,950 |
+| There's No Place Like Home | 20.00% | ~6,950 |
+| Green Cube Killer | 17.00% | ~5,908 |
+| Infinity Loop | 14.00% | ~4,865 |
+| Path to Salvation | 14.00% | ~4,865 |
+| Descendants | 12.00% | ~4,170 |
+| The Flawed Teacher | 10.00% | ~3,475 |
+| To Infinity and Beyond | 5.00% | ~1,738 |
 | The Truthful Enemy | 4.00% | ~1,390 |
 | Laser Sharp | 2.00% | ~695 |
-| Bronze collector | 1.00% | ~347 |
-| Home Stretch | 1.00% | ~347 |
-| Get me out of here | 1.00% | ~347 |
+| Bronze collector | 1.00% | ~348 |
+| Home Stretch | 1.00% | ~348 |
+| Get me out of here | 1.00% | ~348 |
 | True collector | 0.90% | ~313 |
 | Gold collector | 0.90% | ~313 |
 | Silver collector | 0.90% | ~313 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.70% | ~243 |
 | Expert Collector | 0.70% | ~243 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,739 (Ranked 120)  
+Progressed: 34,750 (Ranked 120)  
 Completed: 101 (0.29%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 101 (0.29%) (Ranked 220)
 | 2023-10-27 | 33,492 | 85 |
 | 2023-10-28 | 34,089 | 92 |
 | 2023-10-29 | 34,610 | 101 |
-| 2023-10-30 | 34,739 | 101 |
+| 2023-10-30 | 34,750 | 101 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

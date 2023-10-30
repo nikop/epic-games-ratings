@@ -3,11 +3,11 @@
   "Name": "Steelrising",
   "ProductSlug": "steelrising",
   "Ranking_Rating": 830,
-  "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 710,
+  "Ranking_Popularity": 456,
+  "Ranking_PopularitySum": 490,
+  "Ranking_EOS_Progress": 711,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-08T16:00:00+00:00",
@@ -316,18 +316,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 37,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-10-30T12:01:09.80236+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 38,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 37
+      "Count": 38
     }
   ],
   "EOS_Progressed": 0,
@@ -342,8 +348,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-08T17:01:22.0375531+00:00",
   "FirstSeenRating": "2022-09-10T17:30:37.2290833+00:00",
-  "LastChanged": "2023-09-29T11:03:12.3118018+00:00",
+  "LastChanged": "2023-10-30T12:01:09.8023598+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:59.1047973+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:00:59.3775185+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:07:31.2647545+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:01:09.8023606+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:07:50.4560401+00:00"
 }

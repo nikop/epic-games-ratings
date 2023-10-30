@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -4262,9 +4262,9 @@
       "ID": "ACH_CASE_CLOSED",
       "SetID": "4kfb9pd",
       "Name": "Case Closed",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4375,8 +4375,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:07:53.2087946+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:08:11.9859911+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:02:18.2982235+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:07:53.208822+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:02:34.7344858+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:08:11.9860278+00:00"
 }

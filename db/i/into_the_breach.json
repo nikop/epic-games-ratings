@@ -4,10 +4,10 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 48,
   "Ranking_Popularity": 216,
-  "Ranking_PopularitySum": 149,
-  "Ranking_EOS_Progress": 710,
+  "Ranking_PopularitySum": 150,
+  "Ranking_EOS_Progress": 711,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2019-12-19T16:00:00+00:00",
@@ -3646,10 +3646,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4051,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2023-10-30T11:59:36.2577306+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4052,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4051,
+  "NumberOfAwards": 4052,
   "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3663,7 +3669,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 413
+      "Count": 414
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3743,8 +3749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2023-10-28T15:58:19.1556623+00:00",
+  "LastChanged": "2023-10-30T11:59:36.2577304+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:00.0990402+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:59:28.4767723+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:08:44.4716327+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:59:36.2577311+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:09:21.6701193+00:00"
 }

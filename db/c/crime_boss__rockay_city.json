@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -23601,9 +23601,9 @@
       "ID": "ACH_0015",
       "SetID": "3kam13l",
       "Name": "Legend Looter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_0016",
@@ -23904,8 +23904,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-10-30T10:01:14.856494+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:08:44.0205291+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:09:21.3148774+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.3098014+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:01:37.2038118+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:08:44.0206478+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:01:49.8897407+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:09:21.3150448+00:00"
 }

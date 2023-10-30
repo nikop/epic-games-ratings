@@ -17,10 +17,10 @@ Rating: 3.38 (Ranked 1,027)
 | Infantry Reporting | 10.00% | ~172 |
 | Keeping Busy | 9.00% | ~155 |
 | Stocking Up | 9.00% | ~155 |
-| Fighting for Survival | 8.00% | ~137 |
-| Silver Competitor | 8.00% | ~137 |
-| Captain | 8.00% | ~137 |
-| Factory Expansion | 8.00% | ~137 |
+| Fighting for Survival | 8.00% | ~138 |
+| Silver Competitor | 8.00% | ~138 |
+| Captain | 8.00% | ~138 |
+| Factory Expansion | 8.00% | ~138 |
 | Exterminator | 7.00% | ~120 |
 | Brothers in Arms | 6.00% | ~103 |
 | Know The Enemy | 5.00% | ~86 |
@@ -44,7 +44,7 @@ Rating: 3.38 (Ranked 1,027)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,718 (Ranked 221)  
+Progressed: 1,719 (Ranked 221)  
 Completed: 1 (0.06%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 1 (0.06%) (Ranked 282)
 | 2023-10-27 | 1,692 | 1 |
 | 2023-10-28 | 1,705 | 1 |
 | 2023-10-29 | 1,714 | 1 |
-| 2023-10-30 | 1,718 | 1 |
+| 2023-10-30 | 1,719 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

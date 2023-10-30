@@ -17,7 +17,7 @@
 | Nothing but the Truth | 14.00% | ~15 |
 | The Power of the Mountains | 14.00% | ~15 |
 | The Golden Flash | 13.00% | ~14 |
-| Locked and Loaded | 11.00% | ~12 |
+| Locked and Loaded | 12.00% | ~13 |
 | Changing the World | 11.00% | ~12 |
 | The A-Team | 10.00% | ~11 |
 | Defeat Tezuth | 9.00% | ~10 |

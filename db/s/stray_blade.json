@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -660,9 +660,9 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
@@ -931,8 +931,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:09:50.3542565+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:10:15.0660502+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.6225511+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:02:51.4057566+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:09:50.3542876+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:03:13.183091+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:10:15.0660927+00:00"
 }

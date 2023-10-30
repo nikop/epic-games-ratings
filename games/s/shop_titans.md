@@ -8,8 +8,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,534 |
 | Titan's First Steps | 4.00% | ~5,534 |
-| Basic in Bulk | 3.00% | ~4,150 |
-| Tinkle of Coins | 3.00% | ~4,150 |
+| Basic in Bulk | 3.00% | ~4,151 |
+| Tinkle of Coins | 3.00% | ~4,151 |
 | One Easy Payment | 2.00% | ~2,767 |
 | Some Assembly Required | 2.00% | ~2,767 |
 | Disintermediation | 2.00% | ~2,767 |
@@ -21,26 +21,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 2.00% | ~2,767 |
 | Capitalism Ho! | 2.00% | ~2,767 |
 | Own the Means of Production | 2.00% | ~2,767 |
-| The Daily Grind | 1.00% | ~1,383 |
-| On the Path to Greatness | 1.00% | ~1,383 |
-| Ascended | 1.00% | ~1,383 |
-| Research & Development | 1.00% | ~1,383 |
-| Vanity, Verily | 1.00% | ~1,383 |
-| Bounty Hunters | 1.00% | ~1,383 |
-| Blank Page Syndrome | 1.00% | ~1,383 |
-| Demand for Supplies | 1.00% | ~1,383 |
-| Flooding the Market | 1.00% | ~1,383 |
-| Where it Hurts | 1.00% | ~1,383 |
-| Efficient Floor Space | 1.00% | ~1,383 |
-| Flawless Fusion | 1.00% | ~1,383 |
-| Gem Expert | 1.00% | ~1,383 |
-| Gild-Gotten Goods | 1.00% | ~1,383 |
-| Helping Hand | 1.00% | ~1,383 |
-| Accomplished Merchant | 1.00% | ~1,383 |
-| Dungeon Imports | 1.00% | ~1,383 |
-| Natural 20 | 1.00% | ~1,383 |
-| Did we pack lunch? | 1.00% | ~1,383 |
-| Arcane Industries | 1.00% | ~1,383 |
+| The Daily Grind | 1.00% | ~1,384 |
+| On the Path to Greatness | 1.00% | ~1,384 |
+| Ascended | 1.00% | ~1,384 |
+| Research & Development | 1.00% | ~1,384 |
+| Vanity, Verily | 1.00% | ~1,384 |
+| Bounty Hunters | 1.00% | ~1,384 |
+| Blank Page Syndrome | 1.00% | ~1,384 |
+| Demand for Supplies | 1.00% | ~1,384 |
+| Flooding the Market | 1.00% | ~1,384 |
+| Where it Hurts | 1.00% | ~1,384 |
+| Efficient Floor Space | 1.00% | ~1,384 |
+| Flawless Fusion | 1.00% | ~1,384 |
+| Gem Expert | 1.00% | ~1,384 |
+| Gild-Gotten Goods | 1.00% | ~1,384 |
+| Helping Hand | 1.00% | ~1,384 |
+| Accomplished Merchant | 1.00% | ~1,384 |
+| Dungeon Imports | 1.00% | ~1,384 |
+| Natural 20 | 1.00% | ~1,384 |
+| Did we pack lunch? | 1.00% | ~1,384 |
+| Arcane Industries | 1.00% | ~1,384 |
 | Tax not Included | 0.90% | ~1,245 |
 | Fated Encounters | 0.90% | ~1,245 |
 | Power of Love | 0.90% | ~1,245 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,348 (Ranked 77)  
+Progressed: 138,352 (Ranked 77)  
 Completed: 175 (0.13%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 175 (0.13%) (Ranked 250)
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
-| 2023-10-30 | 138,348 | 175 |
+| 2023-10-30 | 138,352 | 175 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
 Sum: 27,466 (Ranked 51)  

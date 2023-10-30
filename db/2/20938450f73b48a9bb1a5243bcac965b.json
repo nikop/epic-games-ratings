@@ -2,9 +2,9 @@
   "ID": "20938450f73b48a9bb1a5243bcac965b",
   "Name": "DINOSAURS: Mission Dino Camp",
   "ProductSlug": "dinosaurs-mision-dino-camp-acded6",
-  "Ranking_EOS_Progress": 710,
+  "Ranking_EOS_Progress": 711,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T00:00:00+00:00",
@@ -28,9 +28,179 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-30T12:08:54.7725609+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllBetter",
+      "SetID": "97iepbn",
+      "Name": "All better!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BigExplorer",
+      "SetID": "97iepbn",
+      "Name": "Big explorer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BookOfMemories",
+      "SetID": "97iepbn",
+      "Name": "Book of memories",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ClinkClonk",
+      "SetID": "97iepbn",
+      "Name": "Clink! Clonk!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EasierToClimb",
+      "SetID": "97iepbn",
+      "Name": "Easier to climb!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EasierToCross",
+      "SetID": "97iepbn",
+      "Name": "Easier to cross!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishMission1",
+      "SetID": "97iepbn",
+      "Name": "Day 1 done!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishMission2",
+      "SetID": "97iepbn",
+      "Name": "Day 2 through!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishMission3",
+      "SetID": "97iepbn",
+      "Name": "Day 3, behind me!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishMission4",
+      "SetID": "97iepbn",
+      "Name": "Day 4 no more!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishMission5",
+      "SetID": "97iepbn",
+      "Name": "Day 5, still alive!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishMission6",
+      "SetID": "97iepbn",
+      "Name": "Day 6, things are fixed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FirstPlace",
+      "SetID": "97iepbn",
+      "Name": "First place!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HitTheRoad",
+      "SetID": "97iepbn",
+      "Name": "Hit the road, Jack!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MasterExplorer",
+      "SetID": "97iepbn",
+      "Name": "Master explorer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MysterySolved",
+      "SetID": "97iepbn",
+      "Name": "Mystery solved",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NewRide",
+      "SetID": "97iepbn",
+      "Name": "New ride!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OnNomNom",
+      "SetID": "97iepbn",
+      "Name": "Om nom nom!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RibbonRescue",
+      "SetID": "97iepbn",
+      "Name": "Ribbon rescue",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Snap",
+      "SetID": "97iepbn",
+      "Name": "Snap!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheForthBro",
+      "SetID": "97iepbn",
+      "Name": "The fourth bro!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "97iepbn",
@@ -40,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T10:07:51.842628+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:08:16.7745072+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:08:54.7725583+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:13.4007745+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:02:43.1718321+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:08:16.77451+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:03:03.6069883+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:08:54.8139683+00:00"
 }

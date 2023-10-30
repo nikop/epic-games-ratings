@@ -8260,10 +8260,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15053,
       "NumberOfAwardsMax": 7301
+    },
+    {
+      "Time": "2023-10-30T11:58:41.461439+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15054,
+      "NumberOfAwardsMax": 7301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15053,
+  "NumberOfAwards": 15054,
   "NumberOfAwardsMax": 7301,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8277,7 +8283,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 909
+      "Count": 910
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8340,9 +8346,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64155,
+  "EOS_Progressed": 64157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28705,6 +28711,11 @@
       "Time": "2023-10-30T11:09:01.2059123+00:00",
       "NumProgressed": 64155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T12:09:38.1276006+00:00",
+      "NumProgressed": 64157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28908,7 +28919,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10906
+      "UsersEstimate": 10907
     },
     {
       "ID": "Kingslayer",
@@ -28940,7 +28951,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21171
+      "UsersEstimate": 21172
     },
     {
       "ID": "Lawbringer",
@@ -28948,7 +28959,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25020
+      "UsersEstimate": 25021
     },
     {
       "ID": "Lawmaker",
@@ -29068,7 +29079,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12189
+      "UsersEstimate": 12190
     },
     {
       "ID": "This Is Our Land",
@@ -29123,15 +29134,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64155,
+      "Progressed": 64157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-10-30T06:58:17.5225354+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:09:01.2059115+00:00",
+  "LastChanged": "2023-10-30T11:58:41.4614369+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:09:38.1276+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:58:38.217807+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:09:01.2060411+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:58:41.4614403+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:09:38.1277826+00:00"
 }

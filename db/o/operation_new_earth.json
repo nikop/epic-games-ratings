@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1718,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6414,6 +6414,11 @@
       "Time": "2023-10-30T10:06:45.6236771+00:00",
       "NumProgressed": 1718,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T12:07:03.9321136+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6441,7 +6446,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6489,7 +6494,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -6561,7 +6566,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -6673,7 +6678,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -6728,7 +6733,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1718,
+      "Progressed": 1719,
       "Completed": 1
     }
   ],
@@ -6736,8 +6741,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:06:45.5945144+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:07:03.9321125+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:57:22.040844+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:06:45.5945654+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:57:21.3683254+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:07:03.9321906+00:00"
 }

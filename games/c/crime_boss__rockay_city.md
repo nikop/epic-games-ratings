@@ -22,10 +22,10 @@ Rating: 3.94 (Ranked 995)
 | Track Star | 0.60% | ~537 |
 | Headhunter | 0.60% | ~537 |
 | True Player | 0.60% | ~537 |
+| Legend Looter | 0.40% | ~358 |
 | I Like Trains | 0.40% | ~358 |
 | Freebooter | 0.40% | ~358 |
 | Moneybags | 0.40% | ~358 |
-| Legend Looter | 0.30% | ~268 |
 | Imports and Exports | 0.30% | ~268 |
 | Savvy Seeker | 0.30% | ~268 |
 | Foo Finder | 0.30% | ~268 |

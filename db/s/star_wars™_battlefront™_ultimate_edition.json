@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 926,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2624,6 +2624,11 @@
       "Time": "2023-10-30T11:09:21.7835159+00:00",
       "NumProgressed": 924,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T12:09:57.2384139+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2652,7 +2657,7 @@
       "Name": "Hold the line!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_12",
@@ -2676,7 +2681,7 @@
       "Name": "Playing the objective",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_15",
@@ -2684,7 +2689,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_16",
@@ -2732,7 +2737,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_21",
@@ -2740,7 +2745,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_22",
@@ -2748,7 +2753,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_23",
@@ -2772,7 +2777,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_26",
@@ -2852,7 +2857,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_35",
@@ -2860,7 +2865,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "achievement_36",
@@ -2876,7 +2881,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_38",
@@ -2892,7 +2897,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_4",
@@ -2908,7 +2913,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_41",
@@ -2940,7 +2945,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "achievement_45",
@@ -2948,7 +2953,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_46",
@@ -3004,7 +3009,7 @@
       "Name": "You have your moments",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_52",
@@ -3012,7 +3017,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_53",
@@ -3044,7 +3049,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_57",
@@ -3060,7 +3065,7 @@
       "Name": "Alternative solution",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_59",
@@ -3068,7 +3073,7 @@
       "Name": "Onwards!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_6",
@@ -3076,7 +3081,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_60",
@@ -3092,7 +3097,7 @@
       "Name": "The circle is now complete",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_62",
@@ -3139,13 +3144,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 926,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 924,
+      "Progressed": 926,
       "Completed": 1
     }
   ],
@@ -3153,8 +3158,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:09:21.7835154+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:09:57.2384134+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:59:03.6754886+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:09:21.7835802+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:59:12.574012+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:09:57.2385047+00:00"
 }

@@ -87,12 +87,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
+| Statesmen | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
 | Economic Reform | 0.90% | ~135 |
 | Subjugator | 0.80% | ~120 |
 | Landowners | 0.80% | ~120 |
-| Statesmen | 0.80% | ~120 |
 | Traders | 0.80% | ~120 |
 | Hittite Iron | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |

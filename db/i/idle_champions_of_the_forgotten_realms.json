@@ -7649,10 +7649,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32266,
       "NumberOfAwardsMax": 5462
+    },
+    {
+      "Time": "2023-10-30T11:58:36.2226836+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32270,
+      "NumberOfAwardsMax": 5462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32266,
+  "NumberOfAwards": 32270,
   "NumberOfAwardsMax": 5462,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7666,7 +7672,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5450
+      "Count": 5454
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7699,9 +7705,9 @@
       "Count": 3497
     }
   ],
-  "EOS_Progressed": 233231,
+  "EOS_Progressed": 233233,
   "EOS_Completed": 2406,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29254,6 +29260,11 @@
       "Time": "2023-10-30T11:06:52.5943198+00:00",
       "NumProgressed": 233231,
       "NumCompleted": 2406
+    },
+    {
+      "Time": "2023-10-30T12:07:10.6105795+00:00",
+      "NumProgressed": 233233,
+      "NumCompleted": 2406
     }
   ],
   "TotalAchievements": 528,
@@ -29263,9 +29274,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2332
     },
     {
       "ID": "objective_completed_10",
@@ -30047,9 +30058,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1184",
@@ -33488,21 +33499,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199505,
+      "Progressed": 199507,
       "Completed": 3712
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233231,
+      "Progressed": 233233,
       "Completed": 2406
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-30T04:58:29.4953465+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:06:52.5943193+00:00",
+  "LastChanged": "2023-10-30T11:58:36.2226828+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:07:10.6105786+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:58:31.9037369+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:06:52.5969378+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:58:36.2226847+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:07:10.6139796+00:00"
 }

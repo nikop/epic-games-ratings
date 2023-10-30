@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,715 |
-| Until death do us apart | 4.00% | ~17,715 |
-| Victorious! | 4.00% | ~17,715 |
-| That's a Grand Navy | 3.00% | ~13,286 |
-| That is mine! | 3.00% | ~13,286 |
+| That's a Grand Army | 4.00% | ~17,716 |
+| Until death do us apart | 4.00% | ~17,716 |
+| Victorious! | 4.00% | ~17,716 |
+| That's a Grand Navy | 3.00% | ~13,287 |
+| That is mine! | 3.00% | ~13,287 |
 | Brothers in Arms | 2.00% | ~8,858 |
 | Cold War | 2.00% | ~8,858 |
 | For the Glory | 2.00% | ~8,858 |
@@ -28,10 +28,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.80% | ~3,543 |
 | My armies are invincible! | 0.70% | ~3,100 |
 | Agressive Expander | 0.60% | ~2,657 |
-| Azur semé de lis or | 0.50% | ~2,214 |
-| City of Cities | 0.50% | ~2,214 |
-| Combined Arms | 0.50% | ~2,214 |
-| This navy can take it all | 0.50% | ~2,214 |
+| Azur semé de lis or | 0.50% | ~2,215 |
+| City of Cities | 0.50% | ~2,215 |
+| Combined Arms | 0.50% | ~2,215 |
+| This navy can take it all | 0.50% | ~2,215 |
 | Bright Spark | 0.40% | ~1,772 |
 | The Emperors new clothes | 0.40% | ~1,772 |
 | Factionalism | 0.40% | ~1,772 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442,879 (Ranked 41)  
+Progressed: 442,907 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,11 +554,11 @@ Completed: 1 (0.00%) (Ranked 332)
 | 2023-10-27 | 440,786 | 1 |
 | 2023-10-28 | 441,735 | 1 |
 | 2023-10-29 | 442,673 | 1 |
-| 2023-10-30 | 442,879 | 1 |
+| 2023-10-30 | 442,907 | 1 |
 ## Awards
-Max (Educational): 6,736  (Ranked 55)  
+Max (Educational): 6,736  (Ranked 56)  
 Sum: 55,408 (Ranked 24)  
-Diff (max vs sum): 31  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,736 |

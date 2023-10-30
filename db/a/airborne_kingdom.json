@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7416,
+  "EOS_Progressed": 7417,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -5358,6 +5358,11 @@
       "Time": "2023-10-30T09:05:36.8416078+00:00",
       "NumProgressed": 7416,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-30T12:07:38.3766466+00:00",
+      "NumProgressed": 7417,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5369,7 +5374,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -5401,7 +5406,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5465,7 +5470,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5521,7 +5526,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4153
+      "UsersEstimate": 4154
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5537,7 +5542,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5569,7 +5574,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5584,15 +5589,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7416,
+      "Progressed": 7417,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:07:18.9338592+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:07:38.3766461+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.4853848+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:03:00.0853947+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:07:18.9339007+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:03:19.7031459+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:07:38.3767007+00:00"
 }

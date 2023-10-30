@@ -42,10 +42,10 @@ Rating: 4.62 (Ranked 359)
 | Sump Explorer | 10.00% | ~91 |
 | Theater Explorer | 10.00% | ~91 |
 | Cultivair Explorer | 9.00% | ~82 |
+| Entresol Explorer | 9.00% | ~82 |
 | Factorywood Explorer | 9.00% | ~82 |
 | Corin Goes Home | 8.00% | ~73 |
 | Sartorialist | 8.00% | ~73 |
-| Entresol Explorer | 8.00% | ~73 |
 | Golem Hunter | 7.00% | ~64 |
 | Clovemary for Remembering | 5.00% | ~46 |
 | Hexlock for Protection | 5.00% | ~46 |

@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -854,9 +854,9 @@
       "ID": "GSS_ACH_06_FUEL_01",
       "SetID": "5fn8ia4",
       "Name": "Fueled it good!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GSS_ACH_07_FUEL_02",
@@ -910,9 +910,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -950,9 +950,9 @@
       "ID": "GSS_ACH_18_ALIENS",
       "SetID": "5fn8ia4",
       "Name": "ALIENS!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "GSS_ACH_19_RUDY",
@@ -966,17 +966,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -998,9 +998,9 @@
       "ID": "GSS_ACH_25_DENNIS",
       "SetID": "5fn8ia4",
       "Name": "Pranks? Nope!",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
@@ -1014,9 +1014,9 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
@@ -1038,9 +1038,9 @@
       "ID": "GSS_ACH_30_TRASH_01",
       "SetID": "5fn8ia4",
       "Name": "Cleaning Up",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GSS_ACH_31_TRASH_02",
@@ -1158,9 +1158,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -1469,8 +1469,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:05:57.1302293+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:06:16.0613942+00:00",
   "LastUpdate_AppInfo": "2023-10-23T14:56:53.0682366+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:57:36.6924409+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:05:57.1303169+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:57:35.4401582+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:06:16.061504+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -685,7 +685,7 @@
   ],
   "EOS_Progressed": 1340,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4313,9 +4313,9 @@
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 710
     },
     {
       "ID": "achievement_33",
@@ -4498,8 +4498,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-30T11:04:33.5035806+00:00",
+  "LastChanged_Achievements": "2023-10-30T12:04:55.2827877+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-30T11:02:47.0771747+00:00",
-  "LastUpdate_Achievements": "2023-10-30T11:04:33.5036653+00:00"
+  "LastUpdate_Ratings": "2023-10-30T12:03:08.42498+00:00",
+  "LastUpdate_Achievements": "2023-10-30T12:04:55.2828564+00:00"
 }
