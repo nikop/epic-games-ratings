@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -57,7 +57,7 @@
   "Tags": [],
   "EOS_Progressed": 513,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2363,9 +2363,9 @@
       "ID": "COMPLETE_ANY_HISTORIC BATTLE",
       "SetID": "6kcl14p",
       "Name": "From the Pages of History",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -2444,8 +2444,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-10-06T21:57:45.6051235+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:04:31.4348887+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:05:01.1205589+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.2892261+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:58:45.3358384+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:04:31.4349138+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:59:06.8610391+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:05:01.1205885+00:00"
 }

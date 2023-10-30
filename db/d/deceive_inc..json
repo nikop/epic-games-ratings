@@ -277,7 +277,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18734,
+  "EOS_Progressed": 18735,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -12462,6 +12462,11 @@
       "Time": "2023-10-30T01:52:28.6539687+00:00",
       "NumProgressed": 18734,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T08:08:49.8921153+00:00",
+      "NumProgressed": 18735,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12561,7 +12566,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "0013",
@@ -12569,7 +12574,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "0014",
@@ -12577,7 +12582,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "0015",
@@ -12601,7 +12606,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "0018",
@@ -12625,7 +12630,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "0021",
@@ -12657,7 +12662,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "0025",
@@ -12697,7 +12702,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "0030",
@@ -12760,7 +12765,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18734,
+      "Progressed": 18735,
       "Completed": 4
     }
   ],
@@ -12768,8 +12773,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-27T01:40:48.3215851+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:08:40.1848572+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:08:49.8921149+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-10-30T07:01:14.0983912+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:08:40.1849604+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:01:47.1749525+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:08:49.8922544+00:00"
 }

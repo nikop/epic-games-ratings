@@ -4,7 +4,7 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 211,
   "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 215,
+  "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 157,
@@ -1423,7 +1423,7 @@
   ],
   "EOS_Progressed": 428721,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14451,8 +14451,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-29T12:00:00.5518931+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:09:30.2123863+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:09:48.274327+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.8781165+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:59:59.0919593+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:09:30.2124963+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:00:27.2584796+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:09:48.2744594+00:00"
 }

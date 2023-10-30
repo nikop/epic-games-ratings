@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7351,
+  "EOS_Progressed": 7352,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5648,6 +5648,11 @@
       "Time": "2023-10-30T07:09:17.1108728+00:00",
       "NumProgressed": 7351,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T08:09:33.2050894+00:00",
+      "NumProgressed": 7352,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5676,7 +5681,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -5748,7 +5753,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -5796,7 +5801,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3087
+      "UsersEstimate": 3088
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -5836,7 +5841,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3381
+      "UsersEstimate": 3382
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5939,7 +5944,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7351,
+      "Progressed": 7352,
       "Completed": 0
     }
   ],
@@ -5947,8 +5952,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:09:17.1108723+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:09:33.2050889+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:59:51.4698383+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:09:17.1109266+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:00:16.6018717+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:09:33.2051972+00:00"
 }

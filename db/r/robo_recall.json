@@ -4,7 +4,7 @@
   "ProductSlug": "robo-recall",
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:58:36.4091149+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:59:47.032529+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:03:50.9233961+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:00:11.9372924+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:03:54.4753337+00:00"
 }

@@ -1757,9 +1757,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 62076,
+  "EOS_Progressed": 62077,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22907,6 +22907,11 @@
       "Time": "2023-10-30T05:07:14.287673+00:00",
       "NumProgressed": 62076,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T08:07:44.8316345+00:00",
+      "NumProgressed": 62077,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -23174,7 +23179,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19864
+      "UsersEstimate": 19865
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -23182,7 +23187,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24830
+      "UsersEstimate": 24831
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -23206,7 +23211,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 39108
+      "UsersEstimate": 39109
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -23286,7 +23291,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 48419
+      "UsersEstimate": 48420
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -23389,15 +23394,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 62076,
+      "Progressed": 62077,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-10-29T02:18:33.6451118+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:06:53.152283+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:07:44.8316339+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:01.325984+00:00",
-  "LastUpdate_Ratings": "2023-10-30T07:00:22.392164+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:06:53.152465+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:00:49.4747874+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:07:44.8319095+00:00"
 }

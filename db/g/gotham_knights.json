@@ -3801,10 +3801,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4876,
       "NumberOfAwardsMax": 2886
+    },
+    {
+      "Time": "2023-10-30T08:00:20.4609854+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4877,
+      "NumberOfAwardsMax": 2886
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4876,
+  "NumberOfAwards": 4877,
   "NumberOfAwardsMax": 2886,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3830,7 +3836,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 250
+      "Count": 251
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3869,9 +3875,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75398,
+  "EOS_Progressed": 75399,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 926,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20704,6 +20710,11 @@
       "Time": "2023-10-30T07:07:03.1642481+00:00",
       "NumProgressed": 75398,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-30T08:07:56.3861678+00:00",
+      "NumProgressed": 75399,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -20939,7 +20950,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21111
+      "UsersEstimate": 21112
     },
     {
       "ID": "FREEZE_1_5",
@@ -21019,7 +21030,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26389
+      "UsersEstimate": 26390
     },
     {
       "ID": "HARLEY_2",
@@ -21091,7 +21102,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20357
+      "UsersEstimate": 20358
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -21107,7 +21118,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25635
+      "UsersEstimate": 25636
     },
     {
       "ID": "MYSTERY_02",
@@ -21202,22 +21213,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75398,
+      "Progressed": 75399,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45678,
+      "Progressed": 45679,
       "Completed": 2670
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-10-29T23:00:31.5528685+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:07:03.1642475+00:00",
+  "LastChanged": "2023-10-30T08:00:20.4609852+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:07:56.3861666+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:59:55.4361031+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:07:03.1644114+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:00:20.460986+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:07:56.3863284+00:00"
 }

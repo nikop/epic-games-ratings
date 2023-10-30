@@ -13,7 +13,7 @@
 | Divine Retribution | 50.00% | ~6 |
 | Dispel Rumors | 50.00% | ~6 |
 | The End of an Outlaw | 50.00% | ~6 |
-| Captain Mustache | 42.00% | ~5 |
+| Captain Mustache | 50.00% | ~6 |
 | Urban Explorer | 33.00% | ~4 |
 | Steal Her Away | 33.00% | ~4 |
 | Sewer Rat | 33.00% | ~4 |

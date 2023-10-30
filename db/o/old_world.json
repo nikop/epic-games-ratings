@@ -3,11 +3,11 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 308,
-  "Ranking_Popularity": 268,
+  "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1950,9 +1950,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15042,
+  "EOS_Progressed": 15043,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15010,6 +15010,11 @@
       "Time": "2023-10-30T07:07:02.3389423+00:00",
       "NumProgressed": 15042,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T08:07:55.459234+00:00",
+      "NumProgressed": 15043,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16043,9 +16048,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
       "SetID": "9201eeb",
       "Name": "Like a Lion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_30",
@@ -17756,21 +17761,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15042,
+      "Progressed": 15043,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15042,
+      "Progressed": 15043,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:07:02.3389418+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:07:55.4592333+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:58:24.8271872+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:07:02.3401036+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:58:41.644933+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:07:55.4605333+00:00"
 }

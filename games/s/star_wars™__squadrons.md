@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~14,423 |
-| A Better Idea | 25.00% | ~3,796 |
-| Safety in the Storm | 24.00% | ~3,644 |
-| Begin the Ceremony | 21.00% | ~3,188 |
-| Mission Accomplished | 19.00% | ~2,885 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,277 |
-| A Starfighter of Your Own | 14.00% | ~2,125 |
+| Fracture at Fostar Haven | 95.00% | ~14,428 |
+| A Better Idea | 25.00% | ~3,797 |
+| Safety in the Storm | 24.00% | ~3,645 |
+| Begin the Ceremony | 21.00% | ~3,189 |
+| Mission Accomplished | 19.00% | ~2,886 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,278 |
+| A Starfighter of Your Own | 14.00% | ~2,126 |
 | Asset Secured | 13.00% | ~1,974 |
 | Unkillable | 8.00% | ~1,215 |
 | Together, Vanguard | 7.00% | ~1,063 |
@@ -24,10 +24,10 @@
 | Back From the Brink | 4.00% | ~607 |
 | Temporary Guardian | 4.00% | ~607 |
 | Baited | 4.00% | ~607 |
-| Stronger Together | 3.00% | ~455 |
-| Squadron Hunter | 3.00% | ~455 |
-| Punch It | 3.00% | ~455 |
-| Combat Pilot | 3.00% | ~455 |
+| Stronger Together | 3.00% | ~456 |
+| Squadron Hunter | 3.00% | ~456 |
+| Punch It | 3.00% | ~456 |
+| Combat Pilot | 3.00% | ~456 |
 | Stun 'Em | 2.00% | ~304 |
 | Dressed for the Job You Want | 2.00% | ~304 |
 | I Have You Now | 1.00% | ~152 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~15 |
 | The Galaxy's Finest (Ace) | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,182 (Ranked 142)  
+Progressed: 15,187 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.01%) (Ranked 312)
 | 2023-10-27 | 14,238 | 1 |
 | 2023-10-28 | 14,703 | 1 |
 | 2023-10-29 | 15,107 | 1 |
-| 2023-10-30 | 15,182 | 1 |
+| 2023-10-30 | 15,187 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,11 +13,11 @@
 | Curious | 42.00% | ~237 |
 | Everybody lies | 36.00% | ~203 |
 | Trick or Treat? | 23.00% | ~130 |
+| Sysadmin | 22.00% | ~124 |
 | There is another way | 22.00% | ~124 |
-| Sysadmin | 21.00% | ~119 |
+| Annoying | 20.00% | ~113 |
 | Every little helps | 20.00% | ~113 |
 | The Walking Robot Among Us | 20.00% | ~113 |
-| Annoying | 19.00% | ~107 |
 | Hacker | 19.00% | ~107 |
 | He is just a child | 19.00% | ~107 |
 | Uncertain | 18.00% | ~102 |

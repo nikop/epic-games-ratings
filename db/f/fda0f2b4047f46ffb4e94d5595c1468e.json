@@ -1813,10 +1813,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4047,
       "NumberOfAwardsMax": 1364
+    },
+    {
+      "Time": "2023-10-30T08:01:41.8556675+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4050,
+      "NumberOfAwardsMax": 1364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4047,
+  "NumberOfAwards": 4050,
   "NumberOfAwardsMax": 1364,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1872,7 +1878,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 252
+      "Count": 255
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1893,9 +1899,9 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 8176,
+  "EOS_Progressed": 8177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6248,6 +6254,11 @@
       "Time": "2023-10-30T06:08:22.1746279+00:00",
       "NumProgressed": 8176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T08:08:11.1620022+00:00",
+      "NumProgressed": 8177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6300,7 +6311,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6132
+      "UsersEstimate": 6133
     },
     {
       "ID": "ach07",
@@ -6324,7 +6335,7 @@
       "Name": "Kontender",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ach10",
@@ -6428,7 +6439,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ach23",
@@ -6452,7 +6463,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "ach26",
@@ -6468,7 +6479,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "ach28",
@@ -6492,7 +6503,7 @@
       "Name": "Juggernaut",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ach31",
@@ -6500,7 +6511,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "ach32",
@@ -6548,7 +6559,7 @@
       "Name": "ABACABB",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 4660
+      "UsersEstimate": 4661
     },
     {
       "ID": "ach38",
@@ -6556,7 +6567,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3597
+      "UsersEstimate": 3598
     },
     {
       "ID": "ach39",
@@ -6564,7 +6575,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "ach40",
@@ -6596,7 +6607,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3597
+      "UsersEstimate": 3598
     },
     {
       "ID": "ach44",
@@ -6659,16 +6670,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8176,
+      "Progressed": 8177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-30T01:44:40.1810968+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:07:16.5716176+00:00",
+  "LastChanged": "2023-10-30T08:01:41.8556673+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:08:11.1620016+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-30T07:01:10.3329614+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:07:16.5716879+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:01:41.8556679+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:08:11.1620786+00:00"
 }

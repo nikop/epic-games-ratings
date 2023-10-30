@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150518,
+  "EOS_Progressed": 150519,
   "EOS_Completed": 314,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16273,6 +16273,11 @@
       "Time": "2023-10-30T07:03:29.9378234+00:00",
       "NumProgressed": 150518,
       "NumCompleted": 314
+    },
+    {
+      "Time": "2023-10-30T08:03:30.2034547+00:00",
+      "NumProgressed": 150519,
+      "NumCompleted": 314
     }
   ],
   "TotalAchievements": 31,
@@ -16388,7 +16393,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12041
+      "UsersEstimate": 12042
     },
     {
       "ID": "EAwards_21",
@@ -16468,7 +16473,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28598
+      "UsersEstimate": 28599
     },
     {
       "ID": "EAwards_30",
@@ -16531,7 +16536,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150518,
+      "Progressed": 150519,
       "Completed": 314
     }
   ],
@@ -16539,8 +16544,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:03:29.9378227+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:03:30.2034541+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:57:52.3545212+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:03:29.9379741+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:57:58.5680661+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:03:30.2036235+00:00"
 }

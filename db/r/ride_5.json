@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1863,
+  "EOS_Progressed": 1864,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3937,6 +3937,11 @@
       "Time": "2023-10-30T01:53:22.4376573+00:00",
       "NumProgressed": 1863,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T08:10:03.3874335+00:00",
+      "NumProgressed": 1864,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3947,9 +3952,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 783
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3981,7 +3986,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4037,7 +4042,7 @@
       "Name": "Legendary!!!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4053,7 +4058,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4237,7 +4242,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4245,7 +4250,7 @@
       "Name": "Eat My Dust",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4301,7 +4306,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4340,14 +4345,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1863,
+      "Progressed": 1864,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:09:43.4163853+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:10:03.3874332+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:57:55.3369942+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:09:43.4164536+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:58:02.4883714+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:10:03.387588+00:00"
 }

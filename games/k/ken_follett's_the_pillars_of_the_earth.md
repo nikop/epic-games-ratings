@@ -15,7 +15,7 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~3,852 |
 | Full house | 24.00% | ~3,852 |
 | Wannabe knight | 23.00% | ~3,691 |
-| Help an old friend | 21.00% | ~3,370 |
+| Help an old friend | 22.00% | ~3,531 |
 | Two of us | 20.00% | ~3,210 |
 | Negotiation skills | 18.00% | ~2,889 |
 | Workers' union | 18.00% | ~2,889 |

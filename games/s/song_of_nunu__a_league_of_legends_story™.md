@@ -33,17 +33,17 @@
 | A Tragic Reminder | 32.00% | ~12 |
 | Bullseye | 32.00% | ~12 |
 | Yummy | 32.00% | ~12 |
+| So Close | 30.00% | ~11 |
 | Family | 30.00% | ~11 |
 | Biggest Snowball Ever | 30.00% | ~11 |
 | Boosted! | 30.00% | ~11 |
 | Deadliest and Biggest Snowball Ever! | 30.00% | ~11 |
-| So Close | 27.00% | ~10 |
 | You Get Used To It | 27.00% | ~10 |
 | Freeze The Ice Witch | 27.00% | ~10 |
 | It Is Not Over | 27.00% | ~10 |
+| Braum's Poro Ranch | 24.00% | ~9 |
 | Handy Yeti | 24.00% | ~9 |
 | We Are Speed | 24.00% | ~9 |
-| Braum's Poro Ranch | 22.00% | ~8 |
 | It Was Him | 22.00% | ~8 |
 | One From The Heart | 22.00% | ~8 |
 | Rock Star | 22.00% | ~8 |

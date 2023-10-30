@@ -176,6 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.20% | ~30 |
 | Nenikekamen | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
+| Like a Lion | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
@@ -229,7 +230,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
 | The Turning Point | 0.10% | ~15 |
-| Like a Lion | 0.10% | ~15 |
 | Still Fighting | 0.10% | ~15 |
 | They Shall Not Pass | 0.10% | ~15 |
 | THIS IS SPARTA!! | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,042 (Ranked 143)  
+Progressed: 15,043 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,11 +542,11 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,042 | 5 |
+| 2023-10-30 | 15,043 | 5 |
 ## Awards
-Max (Relaxing): 225  (Ranked 268)  
+Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 225 |

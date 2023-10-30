@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 590,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -1261,9 +1261,9 @@
       "ID": "ENDING_3",
       "SetID": "8eejhlh",
       "Name": "The Ploy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "ENDING_4",
@@ -1398,8 +1398,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:05:27.0889973+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:06:06.1485576+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:59:58.6396007+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:05:27.089021+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:00:26.7010366+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:06:06.1485847+00:00"
 }

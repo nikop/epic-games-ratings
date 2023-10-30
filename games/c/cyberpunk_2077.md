@@ -42,7 +42,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Mean Streets | 0.30% | ~2,684 |
 | Temperance | 0.30% | ~2,684 |
 | The Fool | 0.30% | ~2,684 |
-| King of Wands | 0.30% | ~69 |
+| King of Wands | 0.30% | ~70 |
 | City Lights | 0.20% | ~1,789 |
 | Must Be Rats | 0.20% | ~1,789 |
 | The Devil | 0.20% | ~1,789 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,543 (Ranked 15)  
+Progressed: 894,545 (Ranked 15)  
 Completed: 2,733 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 2,733 (0.31%) (Ranked 212)
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
-| 2023-10-30 | 894,543 | 2,733 |
+| 2023-10-30 | 894,545 | 2,733 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
-Sum: 334,597 (Ranked 10)  
+Sum: 334,729 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -280,8 +280,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 18,349 |
 | This game is Extremely Fun | 18,082 |
 | This game has Amazing Characters | 18,037 |
+| This game is Relaxing | 17,414 |
 | This game has Quickly Understood Controls | 17,345 |
-| This game is Relaxing | 17,282 |
 | This game has a Creative Community | 11,984 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -570,4 +570,4 @@ Diff (max vs sum): -1
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
 | 2023-10-29 | 4.64 | - | 102,677 | 333,788 |
-| 2023-10-30 | 4.64 | - | 102,677 | 334,597 |
+| 2023-10-30 | 4.64 | - | 102,677 | 334,729 |

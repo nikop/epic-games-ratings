@@ -14328,10 +14328,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 334597,
       "NumberOfAwardsMax": 102677
+    },
+    {
+      "Time": "2023-10-30T07:57:56.8778003+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 334729,
+      "NumberOfAwardsMax": 102677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 334597,
+  "NumberOfAwards": 334729,
   "NumberOfAwardsMax": 102677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14357,7 +14363,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 17282
+      "Count": 17414
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14408,9 +14414,9 @@
       "Count": 11984
     }
   ],
-  "EOS_Progressed": 894543,
+  "EOS_Progressed": 894545,
   "EOS_Completed": 2733,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1120,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36278,6 +36284,11 @@
       "Time": "2023-10-30T07:04:31.1472926+00:00",
       "NumProgressed": 894543,
       "NumCompleted": 2733
+    },
+    {
+      "Time": "2023-10-30T08:05:00.865647+00:00",
+      "NumProgressed": 894545,
+      "NumCompleted": 2733
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36794,7 +36805,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TheTower",
@@ -36809,21 +36820,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894543,
+      "Progressed": 894545,
       "Completed": 2733
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23166,
+      "Progressed": 23168,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-30T04:58:01.6235661+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:04:31.1472922+00:00",
+  "LastChanged": "2023-10-30T07:57:56.8778001+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:05:00.8656464+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:57:50.7491969+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:04:31.1474792+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:57:56.8778009+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:05:00.8658535+00:00"
 }

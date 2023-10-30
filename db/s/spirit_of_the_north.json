@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72796,
+  "EOS_Progressed": 72797,
   "EOS_Completed": 382,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -21538,6 +21538,11 @@
       "Time": "2023-10-30T07:08:48.0534062+00:00",
       "NumProgressed": 72796,
       "NumCompleted": 382
+    },
+    {
+      "Time": "2023-10-30T08:08:59.1784189+00:00",
+      "NumProgressed": 72797,
+      "NumCompleted": 382
     }
   ],
   "TotalAchievements": 24,
@@ -21565,7 +21570,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49501
+      "UsersEstimate": 49502
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21717,7 +21722,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10919
+      "UsersEstimate": 10920
     },
     {
       "ID": "WEIGHTLESS",
@@ -21733,14 +21738,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11647
+      "UsersEstimate": 11648
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72796,
+      "Progressed": 72797,
       "Completed": 382
     }
   ],
@@ -21748,8 +21753,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:08:48.0534056+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:08:59.1784185+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-10-30T07:03:04.3233325+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:08:48.0535606+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:03:02.3529838+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:08:59.178562+00:00"
 }

@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~466 |
 | Are Ya Chicken? | 0.20% | ~466 |
 | Mad Cow Disease | 0.20% | ~466 |
+| Exploring Port Nyanzaru | 0.20% | ~466 |
 | A Tale of Two Cities | 0.20% | ~466 |
 | The Dead Three | 0.20% | ~466 |
 | The Darkness Runs Deeper | 0.20% | ~466 |
@@ -311,7 +312,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~233 |
 | Dino Nightmare | 0.10% | ~233 |
 | A Familiar Friend | 0.10% | ~199 |
-| Exploring Port Nyanzaru | 0.10% | ~233 |
 | A Tale of Two Fiends | 0.10% | ~233 |
 | A Tale of Two Champions | 0.10% | ~233 |
 | A Tale of Two Years | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~199 |
 | All's Well That Ends Well | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,219 (Ranked 61)  
+Progressed: 233,222 (Ranked 61)  
 Completed: 2,404 (1.03%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -728,7 +728,7 @@ Completed: 2,404 (1.03%) (Ranked 150)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
-| 2023-10-30 | 233,219 | 2,404 |
+| 2023-10-30 | 233,222 | 2,404 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
 Sum: 32,266 (Ranked 41)  

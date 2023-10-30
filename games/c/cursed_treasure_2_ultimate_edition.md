@@ -20,9 +20,9 @@
 | Drunken Master | 73.00% | ~126 |
 | V.I.P. Cemetery | 71.00% | ~123 |
 | Woodcutter | 71.00% | ~123 |
+| Takeover | 70.00% | ~121 |
 | Architect of Darkness | 70.00% | ~121 |
 | Top of the World | 69.00% | ~119 |
-| Takeover | 69.00% | ~119 |
 | Sharpshooter | 69.00% | ~119 |
 | The Apotheosis of War | 67.00% | ~116 |
 | Stasis Alcatraz | 67.00% | ~116 |
@@ -47,7 +47,7 @@
 | Starry: The Coreland | 38.00% | ~66 |
 | Father of Nation | 35.00% | ~61 |
 | Brilliant: Wasteland | 34.00% | ~59 |
-| Dwarven Countdown | 30.00% | ~52 |
+| Dwarven Countdown | 31.00% | ~54 |
 | Starry: Wasteland | 29.00% | ~50 |
 | Deadman's Chest | 28.00% | ~48 |
 | Monument Keeper | 28.00% | ~48 |

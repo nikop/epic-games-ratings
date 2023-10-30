@@ -4,10 +4,10 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 494,
   "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -441,10 +441,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-10-30T08:02:30.3889665+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 103,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 102,
+  "NumberOfAwards": 103,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -464,7 +470,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",
@@ -485,9 +491,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229441,
+  "EOS_Progressed": 229442,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1419,
+  "EOS_NewPlayers": 1413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11795,6 +11801,11 @@
       "Time": "2023-10-30T07:09:20.1788476+00:00",
       "NumProgressed": 229441,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T08:09:36.6310192+00:00",
+      "NumProgressed": 229442,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12078,16 +12089,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229441,
+      "Progressed": 229442,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-10-29T21:02:28.2702844+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:09:20.1788471+00:00",
+  "LastChanged": "2023-10-30T08:02:30.3889663+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:09:36.6310189+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-10-30T07:01:55.2987588+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:09:20.1789427+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:02:30.388967+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:09:36.6311272+00:00"
 }

@@ -498,9 +498,9 @@
       "ID": "KR4_ACHIEVEMENT_KERMIT",
       "SetID": "caeik3h",
       "Name": "None Of My Business",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-30T07:09:02.8266045+00:00",
+  "LastChanged_Achievements": "2023-10-30T08:09:16.508394+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-30T07:00:40.8819743+00:00",
-  "LastUpdate_Achievements": "2023-10-30T07:09:02.8267081+00:00"
+  "LastUpdate_Ratings": "2023-10-30T08:01:10.5547317+00:00",
+  "LastUpdate_Achievements": "2023-10-30T08:09:16.5084755+00:00"
 }
