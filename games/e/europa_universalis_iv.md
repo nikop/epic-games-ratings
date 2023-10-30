@@ -6,28 +6,28 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,730 |
-| Until death do us apart | 4.00% | ~17,730 |
-| Victorious! | 4.00% | ~17,730 |
-| That's a Grand Navy | 3.00% | ~13,297 |
-| That is mine! | 3.00% | ~13,297 |
-| Brothers in Arms | 2.00% | ~8,865 |
-| Cold War | 2.00% | ~8,865 |
-| For the Glory | 2.00% | ~8,865 |
-| Seriously?! | 2.00% | ~8,865 |
-| Defender of the Faith | 1.00% | ~4,432 |
-| It's all about luck | 1.00% | ~4,432 |
-| It's all about the money | 1.00% | ~4,432 |
-| Respected | 1.00% | ~4,432 |
-| The Princess is in this Castle | 1.00% | ~4,432 |
-| True Catholic | 1.00% | ~4,432 |
-| Truly Divine Ruler | 1.00% | ~4,432 |
-| Blockader | 0.90% | ~3,989 |
+| That's a Grand Army | 4.00% | ~17,731 |
+| Until death do us apart | 4.00% | ~17,731 |
+| Victorious! | 4.00% | ~17,731 |
+| That's a Grand Navy | 3.00% | ~13,298 |
+| That is mine! | 3.00% | ~13,298 |
+| Brothers in Arms | 2.00% | ~8,866 |
+| Cold War | 2.00% | ~8,866 |
+| For the Glory | 2.00% | ~8,866 |
+| Seriously?! | 2.00% | ~8,866 |
+| Defender of the Faith | 1.00% | ~4,433 |
+| It's all about luck | 1.00% | ~4,433 |
+| It's all about the money | 1.00% | ~4,433 |
+| Respected | 1.00% | ~4,433 |
+| The Princess is in this Castle | 1.00% | ~4,433 |
+| True Catholic | 1.00% | ~4,433 |
+| Truly Divine Ruler | 1.00% | ~4,433 |
+| Blockader | 0.90% | ~3,990 |
 | Double the Love | 0.80% | ~3,546 |
 | Royal Authority | 0.80% | ~3,546 |
 | Total Control | 0.80% | ~3,546 |
 | My armies are invincible! | 0.70% | ~3,103 |
-| Agressive Expander | 0.60% | ~2,659 |
+| Agressive Expander | 0.60% | ~2,660 |
 | Azur semé de lis or | 0.50% | ~2,216 |
 | City of Cities | 0.50% | ~2,216 |
 | Combined Arms | 0.50% | ~2,216 |
@@ -46,23 +46,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 0.30% | ~1,330 |
 | Market Control | 0.30% | ~1,330 |
 | Populists in Government | 0.30% | ~1,330 |
-| Absolutely | 0.20% | ~886 |
-| All belongs to Mother Russia | 0.20% | ~886 |
-| At every continent | 0.20% | ~886 |
-| Early-Modern Warfare | 0.20% | ~886 |
-| Grand Coalition | 0.20% | ~886 |
-| In the Name of the Father | 0.20% | ~886 |
-| Italian Ambition | 0.20% | ~886 |
-| Just a Little Patience | 0.20% | ~886 |
-| One Family to Rule them All | 0.20% | ~886 |
-| One Night in Paris | 0.20% | ~886 |
-| Ruina Imperii | 0.20% | ~886 |
-| The pen is mightier than the sword | 0.20% | ~886 |
-| This is My Faith | 0.20% | ~886 |
-| Time Bandit | 0.20% | ~886 |
-| Traditional Player | 0.20% | ~886 |
-| Trophy Hunter | 0.20% | ~886 |
-| Voting Streak | 0.20% | ~886 |
+| Absolutely | 0.20% | ~887 |
+| All belongs to Mother Russia | 0.20% | ~887 |
+| At every continent | 0.20% | ~887 |
+| Early-Modern Warfare | 0.20% | ~887 |
+| Grand Coalition | 0.20% | ~887 |
+| In the Name of the Father | 0.20% | ~887 |
+| Italian Ambition | 0.20% | ~887 |
+| Just a Little Patience | 0.20% | ~887 |
+| One Family to Rule them All | 0.20% | ~887 |
+| One Night in Paris | 0.20% | ~887 |
+| Ruina Imperii | 0.20% | ~887 |
+| The pen is mightier than the sword | 0.20% | ~887 |
+| This is My Faith | 0.20% | ~887 |
+| Time Bandit | 0.20% | ~887 |
+| Traditional Player | 0.20% | ~887 |
+| Trophy Hunter | 0.20% | ~887 |
+| Voting Streak | 0.20% | ~887 |
 | The 52 Garhs | 0.10% | ~443 |
 | I don't like sand | 0.10% | ~443 |
 | A Blessed Nation | 0.10% | ~443 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443,239 (Ranked 41)  
+Progressed: 443,283 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-27 | 440,786 | 1 |
 | 2023-10-28 | 441,735 | 1 |
 | 2023-10-29 | 442,673 | 1 |
-| 2023-10-30 | 443,239 | 1 |
+| 2023-10-30 | 443,283 | 1 |
 ## Awards
 Max (Educational): 6,749  (Ranked 55)  
 Sum: 55,471 (Ranked 24)  

@@ -5,15 +5,15 @@ Rating: 4.41 (Ranked 711)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,063 |
-| IT MAKES BOOM! | 3.00% | ~8,032 |
-| EXTRA BOOST | 2.00% | ~5,354 |
-| PROTECTED | 2.00% | ~5,354 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,354 |
-| PRO | 2.00% | ~5,354 |
-| A TIGER'S FEAR | 1.00% | ~2,677 |
-| AGGRESSIVE RACER | 1.00% | ~2,677 |
-| IT'S A LONG WAY TO THE TOP | 0.60% | ~1,606 |
+| ROOKIE | 6.00% | ~16,069 |
+| IT MAKES BOOM! | 3.00% | ~8,035 |
+| EXTRA BOOST | 2.00% | ~5,356 |
+| PROTECTED | 2.00% | ~5,356 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,356 |
+| PRO | 2.00% | ~5,356 |
+| A TIGER'S FEAR | 1.00% | ~2,678 |
+| AGGRESSIVE RACER | 1.00% | ~2,678 |
+| IT'S A LONG WAY TO THE TOP | 0.60% | ~1,607 |
 | ACE SPEEDSTER | 0.50% | ~1,339 |
 | RELEASE THE KRAKEN | 0.40% | ~1,071 |
 | BE OUR GUEST | 0.40% | ~1,071 |
@@ -26,11 +26,11 @@ Rating: 4.41 (Ranked 711)
 | ACE DEFENDER | 0.30% | ~803 |
 | FRIENDLY | 0.30% | ~803 |
 | MASTER | 0.30% | ~803 |
-| PERFECTLY POISED | 0.20% | ~535 |
-| ACE TRICKSTER | 0.20% | ~535 |
+| PERFECTLY POISED | 0.20% | ~536 |
+| ACE TRICKSTER | 0.20% | ~536 |
 | FRAMED! | 0.10% | ~268 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,722 (Ranked 52)  
+Progressed: 267,822 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,15 +219,15 @@ Completed: 245 (0.09%) (Ranked 268)
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
 | 2023-10-29 | 266,267 | 245 |
-| 2023-10-30 | 267,722 | 245 |
+| 2023-10-30 | 267,822 | 245 |
 ## Awards
-Max (Diverse Characters): 45  (Ranked 437)  
-Sum: 359 (Ranked 344)  
-Diff (max vs sum): 93  
+Max (Great for Beginners): 46  (Ranked 434)  
+Sum: 361 (Ranked 343)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 46 |
 | This game has Diverse Characters | 45 |
-| This game is Great for Beginners | 44 |
 | This game is Great for Quick Sessions | 44 |
 | This game has Amazing Characters | 33 |
 | This game has Amazing Storytelling | 30 |
@@ -270,4 +270,4 @@ Diff (max vs sum): 93
 | 2023-10-27 | 4.42 | 44 | 347 |
 | 2023-10-28 | 4.42 | 44 | 352 |
 | 2023-10-29 | 4.42 | 44 | 363 |
-| 2023-10-30 | 4.42 | 45 | 359 |
+| 2023-10-30 | 4.42 | 46 | 361 |

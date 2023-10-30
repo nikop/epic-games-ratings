@@ -9,6 +9,8 @@
 | Master trainee | 3.00% | ~1 |
 | Blessed antennas | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
+| Et in arcadia ego | 3.00% | ~1 |
+| Welcome to Hellville | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
@@ -18,7 +20,6 @@
 | Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |
-| Et in arcadia ego | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | The happy farmer girl | 0.00% | ~0 |
 | Diagnosis: fear | 0.00% | ~0 |
 | Ambition is... blind | 0.00% | ~0 |
-| Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 333)  

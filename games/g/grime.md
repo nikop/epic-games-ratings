@@ -9,8 +9,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~4,669 |
 | Taste | 3.00% | ~4,669 |
 | Imprint | 3.00% | ~4,669 |
-| Weeper | 2.00% | ~3,112 |
-| Ravenous | 2.00% | ~3,112 |
+| Weeper | 2.00% | ~3,113 |
+| Ravenous | 2.00% | ~3,113 |
 | Harmless | 1.00% | ~1,556 |
 | Silenced Whispers | 1.00% | ~1,556 |
 | Devourer | 1.00% | ~1,556 |
@@ -22,24 +22,25 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.90% | ~1,401 |
 | Watcher | 0.80% | ~1,245 |
 | Shapely | 0.70% | ~1,089 |
-| Glare | 0.70% | ~1,086 |
+| Glare | 0.70% | ~1,087 |
 | Assimilation | 0.60% | ~934 |
 | Host | 0.60% | ~931 |
 | Celebration | 0.60% | ~934 |
 | Predator | 0.60% | ~934 |
 | Hunt Down | 0.50% | ~778 |
 | All-Seeing | 0.50% | ~778 |
-| Breath | 0.40% | ~622 |
-| Artisan | 0.40% | ~622 |
-| Hush | 0.40% | ~622 |
-| Inevitable | 0.40% | ~622 |
-| Breathsmith | 0.40% | ~622 |
+| Breath | 0.40% | ~623 |
+| Artisan | 0.40% | ~623 |
+| Hush | 0.40% | ~623 |
+| Inevitable | 0.40% | ~623 |
+| Breathsmith | 0.40% | ~623 |
 | Dream | 0.40% | ~621 |
 | Bloodhunter | 0.30% | ~467 |
 | Unwrap the Gift | 0.30% | ~467 |
 | Passage | 0.30% | ~467 |
 | Zygote | 0.20% | ~310 |
 | Kinship | 0.20% | ~311 |
+| Weakness | 0.20% | ~311 |
 | Kin | 0.20% | ~310 |
 | Listen | 0.20% | ~310 |
 | Proportions | 0.20% | ~311 |
@@ -47,13 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.10% | ~156 |
 | Skinmaker | 0.10% | ~156 |
 | Instruments | 0.10% | ~156 |
-| Weakness | 0.10% | ~156 |
 | Generous | 0.10% | ~156 |
 | The Nightmare | 0.10% | ~155 |
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,624 (Ranked 75)  
+Progressed: 155,635 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-27 | 154,992 | 1 |
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
-| 2023-10-30 | 155,624 | 1 |
+| 2023-10-30 | 155,635 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 425)  
 Sum: 330 (Ranked 351)  

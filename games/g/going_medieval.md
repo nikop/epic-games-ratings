@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,810 |
-| Having A Field Day | 75.00% | ~4,810 |
-| Reap What You Sow | 72.00% | ~4,618 |
+| Get A Room | 75.00% | ~4,811 |
+| Having A Field Day | 75.00% | ~4,811 |
+| Reap What You Sow | 72.00% | ~4,619 |
 | The First Day | 69.00% | ~4,426 |
-| Green Thumb | 67.00% | ~4,297 |
-| Novice Researcher | 67.00% | ~4,297 |
-| Home Cooked Meal | 59.00% | ~3,784 |
-| Onward | 57.00% | ~3,656 |
+| Green Thumb | 67.00% | ~4,298 |
+| Novice Researcher | 67.00% | ~4,298 |
+| Home Cooked Meal | 59.00% | ~3,785 |
+| Onward | 57.00% | ~3,657 |
 | The First Week | 55.00% | ~3,528 |
-| Beam Me Up | 52.00% | ~3,335 |
-| Studious Researcher | 52.00% | ~3,335 |
-| Putting Food on the Table | 51.00% | ~3,271 |
-| Adept Researcher | 45.00% | ~2,886 |
+| Beam Me Up | 52.00% | ~3,336 |
+| Studious Researcher | 52.00% | ~3,336 |
+| Putting Food on the Table | 51.00% | ~3,272 |
+| Adept Researcher | 45.00% | ~2,887 |
 | Retribution | 42.00% | ~2,694 |
 | Feast or Famine | 42.00% | ~2,694 |
 | ...And Don’t Come Back! | 42.00% | ~2,694 |
-| Fit For A King | 31.00% | ~1,988 |
-| Heating Up | 31.00% | ~1,988 |
-| Luminary Researcher | 31.00% | ~1,988 |
+| Fit For A King | 31.00% | ~1,989 |
+| Heating Up | 31.00% | ~1,989 |
+| Luminary Researcher | 31.00% | ~1,989 |
 | Winter Is Coming | 28.00% | ~1,796 |
-| Winter Is Here | 24.00% | ~1,539 |
+| Winter Is Here | 24.00% | ~1,540 |
 | Disassembled | 22.00% | ~1,411 |
 | Oh Deer! | 22.00% | ~1,411 |
 | A Party Now | 21.00% | ~1,347 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~128 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,414 (Ranked 174)  
+Progressed: 6,415 (Ranked 174)  
 Completed: 14 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,11 +210,11 @@ Completed: 14 (0.22%) (Ranked 230)
 | 2023-10-27 | 6,370 | 14 |
 | 2023-10-28 | 6,381 | 14 |
 | 2023-10-29 | 6,403 | 14 |
-| 2023-10-30 | 6,414 | 14 |
+| 2023-10-30 | 6,415 | 14 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 329)  
-Sum: 999 (Ranked 252)  
-Diff (max vs sum): 77  
+Sum: 999 (Ranked 253)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 123 |

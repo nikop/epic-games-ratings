@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
 | Economic Reform | 0.90% | ~135 |
+| Legionary | 0.90% | ~135 |
 | Subjugator | 0.80% | ~120 |
 | Landowners | 0.80% | ~120 |
 | Hittite Iron | 0.80% | ~120 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.80% | ~120 |
 | Revelation | 0.80% | ~120 |
 | Cimmerian Archer | 0.80% | ~120 |
-| Legionary | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | The Clergy | 0.80% | ~120 |
@@ -141,13 +141,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.50% | ~75 |
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
+| Cataphract Archer | 0.50% | ~75 |
 | All Nations | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
 | Old | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
 | Ten Crowns | 0.40% | ~60 |
-| Cataphract Archer | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Greater Kmt Unified | 0.40% | ~60 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,052 (Ranked 143)  
+Progressed: 15,053 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,052 | 5 |
+| 2023-10-30 | 15,053 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

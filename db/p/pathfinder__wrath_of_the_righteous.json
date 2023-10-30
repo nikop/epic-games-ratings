@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4045,7 +4045,7 @@
   ],
   "EOS_Progressed": 11940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14996,9 +14996,9 @@
       "ID": "24_Legacy",
       "SetID": "989of5o",
       "Name": "The Legacy",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 597
     },
     {
       "ID": "25_MasterfulDispell",
@@ -15754,8 +15754,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-30T13:02:26.5642789+00:00",
-  "LastChanged_Achievements": "2023-10-30T20:06:50.4511525+00:00",
+  "LastChanged_Achievements": "2023-10-30T21:06:35.4570906+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-30T19:57:43.6275175+00:00",
-  "LastUpdate_Achievements": "2023-10-30T20:06:50.4514268+00:00"
+  "LastUpdate_Ratings": "2023-10-30T20:57:44.2580613+00:00",
+  "LastUpdate_Achievements": "2023-10-30T21:06:35.4574873+00:00"
 }

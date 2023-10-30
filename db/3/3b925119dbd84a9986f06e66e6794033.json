@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -538,9 +538,9 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -561,8 +561,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-30T20:09:51.9942006+00:00",
+  "LastChanged_Achievements": "2023-10-30T21:09:35.0298542+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:03:12.3130955+00:00",
-  "LastUpdate_Achievements": "2023-10-30T20:09:51.9942185+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:02:51.8826811+00:00",
+  "LastUpdate_Achievements": "2023-10-30T21:09:35.029872+00:00"
 }

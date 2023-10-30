@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1950,9 +1950,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15052,
+  "EOS_Progressed": 15053,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15050,6 +15050,11 @@
       "Time": "2023-10-30T19:08:16.7386012+00:00",
       "NumProgressed": 15052,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T21:08:37.6567995+00:00",
+      "NumProgressed": 15053,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17099,9 +17104,9 @@
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cataphract Archer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
@@ -17131,9 +17136,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -17796,21 +17801,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15052,
+      "Progressed": 15053,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15052,
+      "Progressed": 15053,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-30T20:08:53.589999+00:00",
+  "LastChanged_Achievements": "2023-10-30T21:08:37.6567989+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-30T19:58:53.9329369+00:00",
-  "LastUpdate_Achievements": "2023-10-30T20:08:53.5915088+00:00"
+  "LastUpdate_Ratings": "2023-10-30T20:58:51.9459558+00:00",
+  "LastUpdate_Achievements": "2023-10-30T21:08:37.6580761+00:00"
 }

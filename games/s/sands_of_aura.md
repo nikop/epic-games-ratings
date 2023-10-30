@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 80.00% | ~32 |
-| A Small Thirsty Thing | 18.00% | ~7 |
+| Setting Sail | 80.00% | ~33 |
+| A Small Thirsty Thing | 17.00% | ~7 |
 | Spirit Within | 10.00% | ~4 |
-| Dousing a Venerable Flame | 8.00% | ~3 |
-| A Sandwyrm's Hoard | 8.00% | ~3 |
-| Advanced Armaments | 8.00% | ~3 |
+| Dousing a Venerable Flame | 7.00% | ~3 |
+| A Sandwyrm's Hoard | 7.00% | ~3 |
+| Advanced Armaments | 7.00% | ~3 |
 | Leisis Bless You | 5.00% | ~2 |
-| Rain Must Fall | 3.00% | ~1 |
-| Overboard | 3.00% | ~1 |
-| Sommelier | 3.00% | ~1 |
-| Bladesmith | 3.00% | ~1 |
-| Smotherly Love | 3.00% | ~1 |
-| Let Me Solo Them | 3.00% | ~1 |
-| Explorer | 3.00% | ~1 |
-| The River Styx | 3.00% | ~1 |
-| The Guardian of Fire | 3.00% | ~1 |
-| Sovereignty of Irons | 3.00% | ~1 |
-| Transformative Nature | 3.00% | ~1 |
-| Champion of Starspire | 3.00% | ~1 |
+| Rain Must Fall | 2.00% | ~1 |
+| Overboard | 2.00% | ~1 |
+| Sommelier | 2.00% | ~1 |
+| Bladesmith | 2.00% | ~1 |
+| Smotherly Love | 2.00% | ~1 |
+| Let Me Solo Them | 2.00% | ~1 |
+| Explorer | 2.00% | ~1 |
+| The River Styx | 2.00% | ~1 |
+| The Guardian of Fire | 2.00% | ~1 |
+| Sovereignty of Irons | 2.00% | ~1 |
+| Transformative Nature | 2.00% | ~1 |
+| Champion of Starspire | 2.00% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 469)  
+Progressed: 41 (Ranked 468)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 17 | 0 |
 | 2023-10-28 | 29 | 0 |
 | 2023-10-29 | 36 | 0 |
-| 2023-10-30 | 40 | 0 |
+| 2023-10-30 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

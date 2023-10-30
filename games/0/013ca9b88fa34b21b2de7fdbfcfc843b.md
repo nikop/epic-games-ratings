@@ -14,7 +14,7 @@ Rating: 4.61 (Ranked 380)
 | Humble Collector | 42.00% | ~3,093 |
 | Calm Sailing | 36.00% | ~2,651 |
 | Open the Gate! | 33.00% | ~2,430 |
-| Mist Walker | 31.00% | ~2,283 |
+| Mist Walker | 32.00% | ~2,356 |
 | Lumberjack | 26.00% | ~1,915 |
 | Oui, Chef! | 23.00% | ~1,694 |
 | Clear the Air | 18.00% | ~1,326 |

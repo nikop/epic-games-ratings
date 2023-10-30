@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -165,7 +165,7 @@
   "Tags": [],
   "EOS_Progressed": 7364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5858,9 +5858,9 @@
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2356
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -5987,8 +5987,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-10-30T20:10:22.1413276+00:00",
+  "LastChanged_Achievements": "2023-10-30T21:10:04.8827552+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-30T20:00:51.9654535+00:00",
-  "LastUpdate_Achievements": "2023-10-30T20:10:22.1413981+00:00"
+  "LastUpdate_Ratings": "2023-10-30T21:00:40.2390632+00:00",
+  "LastUpdate_Achievements": "2023-10-30T21:10:04.8828256+00:00"
 }
