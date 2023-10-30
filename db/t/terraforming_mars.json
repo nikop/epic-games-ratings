@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2977,7 +2977,7 @@
       "Count": 247
     }
   ],
-  "EOS_Progressed": 80782,
+  "EOS_Progressed": 80783,
   "EOS_Completed": 149,
   "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 5,
@@ -24352,6 +24352,11 @@
       "Time": "2023-10-30T05:07:17.5187567+00:00",
       "NumProgressed": 80782,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-10-30T06:07:59.5276114+00:00",
+      "NumProgressed": 80783,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 30,
@@ -24411,7 +24416,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11309
+      "UsersEstimate": 11310
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -24443,7 +24448,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29889
+      "UsersEstimate": 29890
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -24459,7 +24464,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25850
+      "UsersEstimate": 25851
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -24499,7 +24504,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21003
+      "UsersEstimate": 21004
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -24602,15 +24607,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80782,
+      "Progressed": 80783,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-29T10:00:59.9123084+00:00",
-  "LastChanged_Achievements": "2023-10-30T05:07:17.518756+00:00",
+  "LastChanged_Achievements": "2023-10-30T06:07:59.5276108+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.4679734+00:00",
-  "LastUpdate_Ratings": "2023-10-30T05:00:54.2478231+00:00",
-  "LastUpdate_Achievements": "2023-10-30T05:07:17.5189174+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:01:21.2435611+00:00",
+  "LastUpdate_Achievements": "2023-10-30T06:07:59.5277697+00:00"
 }

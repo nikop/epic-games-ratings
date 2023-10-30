@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1257,9 +1257,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233982,
+  "EOS_Progressed": 233987,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1401,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16632,6 +16632,11 @@
       "Time": "2023-10-30T05:07:32.8579133+00:00",
       "NumProgressed": 233982,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-30T06:08:17.3400305+00:00",
+      "NumProgressed": 233987,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16675,7 +16680,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7020
     },
     {
       "ID": "BookCollection",
@@ -16707,7 +16712,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7020
     },
     {
       "ID": "Chapter4",
@@ -17091,7 +17096,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79554
+      "UsersEstimate": 79556
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17115,7 +17120,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7020
     },
     {
       "ID": "EndGameCursed",
@@ -17339,28 +17344,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7019
+      "UsersEstimate": 7020
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233982,
+      "Progressed": 233987,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233982,
+      "Progressed": 233987,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-29T20:59:38.5969149+00:00",
-  "LastChanged_Achievements": "2023-10-30T05:07:32.8579127+00:00",
+  "LastChanged_Achievements": "2023-10-30T06:08:17.34003+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:59:35.3751009+00:00",
-  "LastUpdate_Achievements": "2023-10-30T05:07:32.8581101+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:59:46.9312848+00:00",
+  "LastUpdate_Achievements": "2023-10-30T06:08:17.3402314+00:00"
 }

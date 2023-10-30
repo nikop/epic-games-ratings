@@ -6,8 +6,8 @@
   "Ranking_Popularity": 543,
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1715,
+  "EOS_Progressed": 1716,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6399,6 +6399,11 @@
       "Time": "2023-10-30T00:06:57.5808126+00:00",
       "NumProgressed": 1715,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T06:07:06.9970796+00:00",
+      "NumProgressed": 1716,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6488,9 +6493,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_headquarters_15",
@@ -6616,9 +6621,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6713,7 +6718,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1715,
+      "Progressed": 1716,
       "Completed": 1
     }
   ],
@@ -6721,8 +6726,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-30T05:06:32.0799059+00:00",
+  "LastChanged_Achievements": "2023-10-30T06:07:06.9970791+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-30T05:02:25.7626981+00:00",
-  "LastUpdate_Achievements": "2023-10-30T05:06:32.0799751+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:03:13.3510198+00:00",
+  "LastUpdate_Achievements": "2023-10-30T06:07:06.9971609+00:00"
 }

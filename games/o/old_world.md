@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
 | Old World Order | 0.40% | ~60 |
+| Ten Crowns | 0.40% | ~60 |
 | Cataphract Archer | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.30% | ~45 |
 | Play a Network Game | 0.30% | ~45 |
 | Capturing Cities | 0.30% | ~45 |
-| Ten Crowns | 0.30% | ~45 |
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,040 (Ranked 143)  
+Progressed: 15,041 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,040 | 5 |
+| 2023-10-30 | 15,041 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 268)  
 Sum: 1,857 (Ranked 211)  

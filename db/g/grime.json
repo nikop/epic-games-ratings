@@ -1297,9 +1297,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155514,
+  "EOS_Progressed": 155519,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1413,
+  "EOS_NewPlayers": 1415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13627,6 +13627,11 @@
       "Time": "2023-10-30T05:06:11.0989516+00:00",
       "NumProgressed": 155514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T06:06:42.1632396+00:00",
+      "NumProgressed": 155519,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13684,9 +13689,9 @@
       "ID": "ACQUIRE_HUNTPOINT",
       "SetID": "ccc0dlh",
       "Name": "The Hunt",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3110
+      "UsersEstimate": 4666
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -13702,7 +13707,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4666
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13854,7 +13859,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4666
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14005,21 +14010,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155097,
+      "Progressed": 155102,
       "Completed": 1181
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155514,
+      "Progressed": 155519,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-30T03:57:21.0160161+00:00",
-  "LastChanged_Achievements": "2023-10-30T05:06:11.0989508+00:00",
+  "LastChanged_Achievements": "2023-10-30T06:06:42.1632387+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:57:52.4869485+00:00",
-  "LastUpdate_Achievements": "2023-10-30T05:06:11.0990704+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:57:52.0774831+00:00",
+  "LastUpdate_Achievements": "2023-10-30T06:06:42.1634422+00:00"
 }

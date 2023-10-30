@@ -26,10 +26,10 @@ Rating: 4.57 (Ranked 463)
 | Please Make it Stop! | 8.00% | ~261 |
 | Sightseeing | 7.00% | ~229 |
 | Convenient Transport | 7.00% | ~229 |
+| From the Past | 7.00% | ~229 |
 | Access Granted | 6.00% | ~196 |
 | Necessary Enhancement | 6.00% | ~196 |
 | All in Good Health | 6.00% | ~196 |
-| From the Past | 6.00% | ~196 |
 | Oats | 5.00% | ~163 |
 | What They Hide From Us | 5.00% | ~163 |
 | BRAWL! | 5.00% | ~163 |
@@ -37,6 +37,7 @@ Rating: 4.57 (Ranked 463)
 | ...  in a finite world | 4.00% | ~131 |
 | Sustainable Energy | 4.00% | ~131 |
 | In Dolos We Trust | 4.00% | ~131 |
+| Praise the Hull! | 3.00% | ~98 |
 | Delivery! | 3.00% | ~98 |
 | Pedal to the Metal | 3.00% | ~98 |
 | Drill-dozer | 3.00% | ~98 |
@@ -45,7 +46,6 @@ Rating: 4.57 (Ranked 463)
 | Mutual Loyalty | 2.00% | ~65 |
 | Tiqqun Contender | 2.00% | ~65 |
 | Catastrophe Avoided | 2.00% | ~65 |
-| Praise the Hull! | 2.00% | ~65 |
 | Space Greenhouse | 2.00% | ~65 |
 | Tiqqun Unchained | 2.00% | ~65 |
 | Better Him Than Me | 1.00% | ~33 |

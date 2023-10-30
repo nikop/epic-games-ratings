@@ -1,38 +1,38 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 118)  
+Rating: 4.76 (Ranked 119)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,960 |
-| First Class Student | 14.00% | ~41,962 |
+| First Class Student | 14.00% | ~41,963 |
 | Troll with the Punches | 13.00% | ~38,965 |
 | A Keen Sense of Spell | 12.00% | ~35,968 |
 | That's a Keeper | 12.00% | ~35,968 |
-| Grappling with a Graphorn | 11.00% | ~32,970 |
-| The One Who Mastered Memories | 11.00% | ~32,970 |
-| The Hallowed Hero | 11.00% | ~32,970 |
-| The Defender of Dragons | 11.00% | ~32,970 |
-| Loom for Improvement | 11.00% | ~32,970 |
-| A Talent for Spending | 11.00% | ~32,970 |
-| Coasting Along | 11.00% | ~32,970 |
+| Grappling with a Graphorn | 11.00% | ~32,971 |
+| The One Who Mastered Memories | 11.00% | ~32,971 |
+| The Hallowed Hero | 11.00% | ~32,971 |
+| The Defender of Dragons | 11.00% | ~32,971 |
+| Loom for Improvement | 11.00% | ~32,971 |
+| A Talent for Spending | 11.00% | ~32,971 |
+| Coasting Along | 11.00% | ~32,971 |
 | The Hero of Hogwarts | 10.00% | ~29,973 |
 | Challenge Accepted | 10.00% | ~29,973 |
 | Followed the Butterflies | 10.00% | ~29,973 |
 | The Spell Master | 9.00% | ~26,976 |
 | Rising From the Ashes | 9.00% | ~26,976 |
-| The Avenging Gazelle | 8.00% | ~23,978 |
-| Beast Friends | 8.00% | ~23,978 |
-| A Sallow Grave | 8.00% | ~23,978 |
-| Flight the Good Flight | 8.00% | ~23,978 |
+| The Avenging Gazelle | 8.00% | ~23,979 |
+| Beast Friends | 8.00% | ~23,979 |
+| A Sallow Grave | 8.00% | ~23,979 |
+| Flight the Good Flight | 8.00% | ~23,979 |
 | The Seeker of Knowledge | 6.00% | ~17,984 |
 | The Root of the Problem | 6.00% | ~17,984 |
 | Third Time's a Charm | 6.00% | ~17,984 |
 | Raising Expectations | 6.00% | ~17,984 |
-| The Toast of the Town | 5.00% | ~14,986 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,986 |
-| The Ends Petrify the Means | 5.00% | ~14,986 |
+| The Toast of the Town | 5.00% | ~14,987 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,987 |
+| The Ends Petrify the Means | 5.00% | ~14,987 |
 | Going Through the Potions | 4.00% | ~11,989 |
 | Room with a View | 4.00% | ~11,989 |
 | The Intrepid Explorer | 4.00% | ~11,989 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,098 |
 | Collector's Edition | 0.30% | ~899 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,730 (Ranked 48)  
+Progressed: 299,733 (Ranked 48)  
 Completed: 498 (0.17%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,16 +244,16 @@ Completed: 498 (0.17%) (Ranked 242)
 | 2023-10-27 | 299,185 | 496 |
 | 2023-10-28 | 299,440 | 496 |
 | 2023-10-29 | 299,675 | 497 |
-| 2023-10-30 | 299,730 | 498 |
+| 2023-10-30 | 299,733 | 498 |
 ## Awards
 Max (Character Customization): 23,891  (Ranked 17)  
-Sum: 46,979 (Ranked 30)  
+Sum: 46,984 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,891 |
 | This game has Great Boss Battles | 12,022 |
-| This game is Great for Beginners | 1,238 |
+| This game is Great for Beginners | 1,243 |
 | This game has Diverse Characters | 1,199 |
 | This game has Amazing Storytelling | 1,199 |
 | This game is Extremely Fun | 1,186 |
@@ -486,4 +486,4 @@ Diff (max vs sum): -13
 | 2023-10-27 | 4.76 | 23,830 | 46,785 |
 | 2023-10-28 | 4.76 | 23,858 | 46,877 |
 | 2023-10-29 | 4.76 | 23,891 | 46,974 |
-| 2023-10-30 | 4.76 | 23,891 | 46,979 |
+| 2023-10-30 | 4.76 | 23,891 | 46,984 |

@@ -32,7 +32,7 @@ Rating: 4.43 (Ranked 684)
 | Endgame | 27.00% | ~420 |
 | Savior | 27.00% | ~420 |
 | There Can Be Only One! | 25.00% | ~388 |
-| Silent but Violent | 23.00% | ~357 |
+| Silent but Violent | 24.00% | ~373 |
 | Chain Killer | 22.00% | ~342 |
 | The Watchers | 21.00% | ~326 |
 | Commando | 16.00% | ~249 |

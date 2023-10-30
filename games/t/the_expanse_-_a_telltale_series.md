@@ -20,9 +20,9 @@ Rating: 4.60 (Ranked 405)
 | Data Archivist | 0.60% | ~87 |
 | Stogie for Fogey | 0.60% | ~87 |
 | Khan's Revenge | 0.60% | ~87 |
+| Doctor Approved | 0.40% | ~58 |
 | Bottoms up! | 0.40% | ~58 |
 | Thorston Mayer | 0.40% | ~58 |
-| Doctor Approved | 0.30% | ~43 |
 | Miraculous Maya | 0.30% | ~43 |
 | Data Logger | 0.20% | ~29 |
 | No Belter Left Behind | 0.20% | ~29 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 405)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,472 (Ranked 145)  
+Progressed: 14,473 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 28 (0.19%) (Ranked 237)
 | 2023-10-27 | 14,391 | 27 |
 | 2023-10-28 | 14,430 | 28 |
 | 2023-10-29 | 14,463 | 28 |
-| 2023-10-30 | 14,472 | 28 |
+| 2023-10-30 | 14,473 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

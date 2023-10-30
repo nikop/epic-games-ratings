@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,431 |
+| Stylish | 5.00% | ~1,432 |
 | Advancement | 4.00% | ~1,145 |
 | Meticulously Efficient | 4.00% | ~1,145 |
 | Clutch Capture | 3.00% | ~859 |
@@ -19,18 +19,18 @@ Rating: 4.50 (Ranked 579)
 | There you are! | 3.00% | ~859 |
 | Vaporous Expansion | 3.00% | ~859 |
 | Whoopsie | 3.00% | ~859 |
-| Animated | 2.00% | ~572 |
-| Back Off | 2.00% | ~572 |
-| Daily Dose | 2.00% | ~572 |
-| Ectoplasmic Entity | 2.00% | ~572 |
-| Ghostbuster In Training | 2.00% | ~572 |
-| Icing on the Cake | 2.00% | ~572 |
-| Legions | 2.00% | ~572 |
-| Pesky Jerks | 2.00% | ~572 |
-| Right back at ya | 2.00% | ~572 |
-| Side Hustle | 2.00% | ~572 |
-| Summoner | 2.00% | ~572 |
-| Welcome to the Crew | 2.00% | ~572 |
+| Animated | 2.00% | ~573 |
+| Back Off | 2.00% | ~573 |
+| Daily Dose | 2.00% | ~573 |
+| Ectoplasmic Entity | 2.00% | ~573 |
+| Ghostbuster In Training | 2.00% | ~573 |
+| Icing on the Cake | 2.00% | ~573 |
+| Legions | 2.00% | ~573 |
+| Pesky Jerks | 2.00% | ~573 |
+| Right back at ya | 2.00% | ~573 |
+| Side Hustle | 2.00% | ~573 |
+| Summoner | 2.00% | ~573 |
+| Welcome to the Crew | 2.00% | ~573 |
 | We have the best insurance | 1.00% | ~286 |
 | Collector | 1.00% | ~286 |
 | Escape Artist | 1.00% | ~286 |
@@ -46,8 +46,8 @@ Rating: 4.50 (Ranked 579)
 | Liability | 0.70% | ~200 |
 | Surprise! | 0.70% | ~200 |
 | Fragile Panes | 0.60% | ~172 |
-| Rift Seeker | 0.40% | ~114 |
-| Therapeutic | 0.40% | ~114 |
+| Rift Seeker | 0.40% | ~115 |
+| Therapeutic | 0.40% | ~115 |
 | Master Collector | 0.30% | ~86 |
 | Ghost Expert | 0.20% | ~57 |
 | Catostrophic Destroyer | 0.10% | ~29 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,621 (Ranked 122)  
+Progressed: 28,635 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,621 | 65 |
+| 2023-10-30 | 28,635 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,613 (Ranked 180)  

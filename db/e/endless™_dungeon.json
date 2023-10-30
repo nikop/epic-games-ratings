@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 920,
+  "EOS_Progressed": 921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1035,6 +1035,11 @@
       "Time": "2023-10-30T05:04:40.8347687+00:00",
       "NumProgressed": 920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T06:04:56.503264+00:00",
+      "NumProgressed": 921,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1103,7 +1108,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1127,7 +1132,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1191,7 +1196,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1286,14 +1291,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 920,
+      "Progressed": 921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-30T05:04:40.8347682+00:00",
+  "LastChanged_Achievements": "2023-10-30T06:04:56.5032633+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:57:25.0782977+00:00",
-  "LastUpdate_Achievements": "2023-10-30T05:04:40.8347981+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:57:23.7916707+00:00",
+  "LastUpdate_Achievements": "2023-10-30T06:04:56.5033112+00:00"
 }

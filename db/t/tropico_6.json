@@ -1323,9 +1323,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5727,
+  "EOS_Progressed": 5728,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -11998,6 +11998,11 @@
       "Time": "2023-10-30T04:09:03.1439002+00:00",
       "NumProgressed": 5727,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-30T06:10:08.6789046+00:00",
+      "NumProgressed": 5728,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12105,7 +12110,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2578
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12121,7 +12126,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -12129,7 +12134,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -12169,7 +12174,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4295
+      "UsersEstimate": 4296
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12328,15 +12333,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5727,
+      "Progressed": 5728,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-10-30T05:09:49.092593+00:00",
+  "LastChanged_Achievements": "2023-10-30T06:10:08.678904+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-10-30T05:01:57.0689141+00:00",
-  "LastUpdate_Achievements": "2023-10-30T05:09:49.0926966+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:02:40.9015078+00:00",
+  "LastUpdate_Achievements": "2023-10-30T06:10:08.6790046+00:00"
 }
