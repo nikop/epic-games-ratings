@@ -3,8 +3,8 @@
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 1002,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 140,
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7571,
+  "EOS_Progressed": 7575,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5322,6 +5322,11 @@
       "Time": "2023-10-30T05:10:02.5787706+00:00",
       "NumProgressed": 7571,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T07:09:50.8296318+00:00",
+      "NumProgressed": 7575,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5334,7 +5339,7 @@
       "Name": "Upgraded Amplify Ability Damage to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ARUpgraded1",
@@ -5350,7 +5355,7 @@
       "Name": "Eliminated the Arachnid Terror",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "BDPurchased1",
@@ -5366,7 +5371,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "CEUpgraded1",
@@ -5382,7 +5387,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "CreditsSpent50000",
@@ -5454,7 +5459,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "GamesPlayed10",
@@ -5462,7 +5467,7 @@
       "Name": "Played 10 Matches",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "GamesPlayed100",
@@ -5478,7 +5483,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "GamesWon10",
@@ -5518,7 +5523,7 @@
       "Name": "Purchased Haste Aura",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "HASPurchased1",
@@ -5550,7 +5555,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "HSUPurchased1",
@@ -5566,7 +5571,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -5574,7 +5579,7 @@
       "Name": "Upgraded the Healing Gun to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "IGPurchased1",
@@ -5582,7 +5587,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "IHBUpgraded1",
@@ -5598,7 +5603,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "InhibitorKills3",
@@ -5702,7 +5707,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "MaxTowersKilled6",
@@ -5710,7 +5715,7 @@
       "Name": "Destroyed 6 Towers in a single match",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MinionKills200",
@@ -5766,7 +5771,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "PlayerKills100",
@@ -5854,7 +5859,7 @@
       "Name": "Upgraded Sphere of Vitality to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "SPurchased1",
@@ -5910,7 +5915,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "WCUpgraded1",
@@ -5925,7 +5930,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7571,
+      "Progressed": 7575,
       "Completed": 1
     }
   ],
@@ -5933,8 +5938,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:10:24.1929892+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:50.8296314+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:03:18.1684105+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:10:24.1931049+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:02:54.8857776+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:50.8297466+00:00"
 }

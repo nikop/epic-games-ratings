@@ -3,8 +3,8 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 830,
-  "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 444,
+  "Ranking_Popularity": 372,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 97,
@@ -471,9 +471,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 250602,
+  "EOS_Progressed": 250605,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22041,6 +22041,11 @@
       "Time": "2023-10-30T06:07:28.110581+00:00",
       "NumProgressed": 250602,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-30T07:06:29.3833375+00:00",
+      "NumProgressed": 250605,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22092,7 +22097,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30072
+      "UsersEstimate": 30073
     },
     {
       "ID": "ACH_ENJOY",
@@ -22116,7 +22121,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32578
+      "UsersEstimate": 32579
     },
     {
       "ID": "ACH_HATTRICK",
@@ -22268,7 +22273,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62650
+      "UsersEstimate": 62651
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -22372,7 +22377,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62650
+      "UsersEstimate": 62651
     },
     {
       "ID": "ACH_SOREAD",
@@ -22467,7 +22472,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250602,
+      "Progressed": 250605,
       "Completed": 7
     }
   ],
@@ -22475,8 +22480,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-29T16:59:35.8422965+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:07:28.1105805+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:06:29.3833372+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:00:20.0544141+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:07:28.1107683+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:59:46.4253037+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:06:29.3834938+00:00"
 }

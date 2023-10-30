@@ -5,7 +5,7 @@ Rating: 4.42 (Ranked 700)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,010 |
+| ROOKIE | 6.00% | ~16,011 |
 | IT MAKES BOOM! | 3.00% | ~8,005 |
 | EXTRA BOOST | 2.00% | ~5,337 |
 | PROTECTED | 2.00% | ~5,337 |
@@ -17,20 +17,20 @@ Rating: 4.42 (Ranked 700)
 | ACE SPEEDSTER | 0.50% | ~1,334 |
 | DEFEAT OUR CHAMPION | 0.40% | ~1,067 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,067 |
-| TRAINING HARD | 0.30% | ~800 |
-| EXPERIENCED CREW | 0.30% | ~800 |
-| RELEASE THE KRAKEN | 0.30% | ~800 |
-| BE OUR GUEST | 0.30% | ~800 |
-| ACE BRAWLER | 0.30% | ~800 |
-| ACE DEFENDER | 0.30% | ~800 |
-| FRIENDLY | 0.30% | ~800 |
-| MASTER | 0.30% | ~800 |
-| LEGENDARY HERO | 0.30% | ~800 |
+| TRAINING HARD | 0.30% | ~801 |
+| EXPERIENCED CREW | 0.30% | ~801 |
+| RELEASE THE KRAKEN | 0.30% | ~801 |
+| BE OUR GUEST | 0.30% | ~801 |
+| ACE BRAWLER | 0.30% | ~801 |
+| ACE DEFENDER | 0.30% | ~801 |
+| FRIENDLY | 0.30% | ~801 |
+| MASTER | 0.30% | ~801 |
+| LEGENDARY HERO | 0.30% | ~801 |
 | PERFECTLY POISED | 0.20% | ~534 |
 | ACE TRICKSTER | 0.20% | ~534 |
 | FRAMED! | 0.10% | ~267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266,826 (Ranked 52)  
+Progressed: 266,844 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,11 +219,11 @@ Completed: 245 (0.09%) (Ranked 266)
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
 | 2023-10-29 | 266,267 | 245 |
-| 2023-10-30 | 266,826 | 245 |
+| 2023-10-30 | 266,844 | 245 |
 ## Awards
-Max (Great for Beginners): 44  (Ranked 440)  
+Max (Great for Beginners): 44  (Ranked 441)  
 Sum: 346 (Ranked 346)  
-Diff (max vs sum): 94  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 44 |

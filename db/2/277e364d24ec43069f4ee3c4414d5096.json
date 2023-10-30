@@ -3,8 +3,8 @@
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
   "Ranking_Rating": 379,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 98,
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112750,
+  "EOS_Progressed": 112751,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16171,6 +16171,11 @@
       "Time": "2023-10-30T06:08:09.1569826+00:00",
       "NumProgressed": 112750,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-30T07:07:04.6881538+00:00",
+      "NumProgressed": 112751,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -16198,7 +16203,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12402
+      "UsersEstimate": 12403
     },
     {
       "ID": "EAwards_11",
@@ -16214,7 +16219,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16912
+      "UsersEstimate": 16913
     },
     {
       "ID": "EAwards_13",
@@ -16326,7 +16331,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21422
+      "UsersEstimate": 21423
     },
     {
       "ID": "EAwards_26",
@@ -16334,7 +16339,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12402
+      "UsersEstimate": 12403
     },
     {
       "ID": "EAwards_27",
@@ -16350,7 +16355,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "EAwards_29",
@@ -16358,7 +16363,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "EAwards_3",
@@ -16366,7 +16371,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21422
+      "UsersEstimate": 21423
     },
     {
       "ID": "EAwards_30",
@@ -16573,7 +16578,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112750,
+      "Progressed": 112751,
       "Completed": 47
     }
   ],
@@ -16581,8 +16586,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:08:09.1569821+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:07:04.6881533+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:08.5071847+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:02:10.0420459+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:08:09.1571451+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:18.1156249+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:07:04.6882959+00:00"
 }

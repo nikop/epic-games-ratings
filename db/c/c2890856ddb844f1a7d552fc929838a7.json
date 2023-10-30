@@ -3,11 +3,11 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -161,7 +161,7 @@
   ],
   "EOS_Progressed": 938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2449,9 +2449,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 488
     },
     {
       "ID": "AC26",
@@ -2626,8 +2626,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:09:56.1945477+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:26.4809392+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:56.0879289+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:03:06.4935014+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:09:56.1946382+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:02:44.910824+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:26.4809914+00:00"
 }

@@ -77,9 +77,9 @@
 | Untouchable | 27.00% | ~231 |
 | Giant Killer | 27.00% | ~231 |
 | A House Divided | 27.00% | ~231 |
+| World Shaker | 27.00% | ~231 |
 | Eye of the Hurricane | 26.00% | ~222 |
 | Weapon Specialist | 26.00% | ~222 |
-| World Shaker | 26.00% | ~222 |
 | Liberator | 26.00% | ~222 |
 | Tunnel Rat | 25.00% | ~214 |
 | Pathfinder | 24.00% | ~205 |

@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 11.62,
+  "EOS_Completed_Percentage": 11.61,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2724,6 +2724,11 @@
       "Time": "2023-10-25T21:09:26.7810312+00:00",
       "NumProgressed": 757,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-10-30T07:09:48.3477747+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 30,
@@ -2735,7 +2740,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "LEVEL_002",
@@ -2743,7 +2748,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "LEVEL_003",
@@ -2751,7 +2756,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "LEVEL_004",
@@ -2759,7 +2764,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "LEVEL_005",
@@ -2767,7 +2772,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "LEVEL_006",
@@ -2807,7 +2812,7 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_011",
@@ -2815,7 +2820,7 @@
       "Name": "This island of mine",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_012",
@@ -2895,7 +2900,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_022",
@@ -2949,9 +2954,9 @@
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 76
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_029",
@@ -2974,14 +2979,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 88
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:10:21.5100822+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:48.3477743+00:00",
   "LastUpdate_AppInfo": "2023-10-24T02:13:53.206933+00:00",
-  "LastUpdate_Ratings": "2023-10-30T05:58:36.4980018+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:10:21.5101244+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:58:13.8935896+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:48.3478194+00:00"
 }

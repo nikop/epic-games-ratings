@@ -1,30 +1,30 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.41 (Ranked 711)  
+Rating: 4.40 (Ranked 729)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 79.00% | ~137,856 |
-| Delving Onward | 60.00% | ~104,701 |
-| Miner's Helper | 53.00% | ~92,486 |
-| Suit Up | 51.00% | ~88,996 |
-| To the Mountain's Roots | 28.00% | ~48,860 |
-| Line of Azog, Ended | 19.00% | ~33,155 |
-| Covered Head to Toe | 16.00% | ~27,920 |
-| Remains To Be Seen | 12.00% | ~20,940 |
-| Risk a Little Real Light | 9.00% | ~15,705 |
-| Westgate Weaponcraft | 4.00% | ~6,980 |
-| Battering Ram | 2.00% | ~3,490 |
-| Deeps Weaponcraft | 2.00% | ~3,490 |
-| False King, Deposed | 2.00% | ~3,490 |
-| Caradhras The Cruel | 2.00% | ~3,490 |
-| A Memory of this Place | 2.00% | ~3,490 |
-| Baruk Khazâd! | 1.00% | ~1,745 |
-| Decked Out | 1.00% | ~1,745 |
-| Eregion Weaponcraft | 1.00% | ~1,745 |
-| Master of All Trades | 1.00% | ~1,745 |
-| Shadow's Bane | 0.60% | ~1,047 |
+| Speak Friend | 79.00% | ~137,952 |
+| Delving Onward | 61.00% | ~106,520 |
+| Miner's Helper | 53.00% | ~92,550 |
+| Suit Up | 51.00% | ~89,058 |
+| To the Mountain's Roots | 29.00% | ~50,641 |
+| Line of Azog, Ended | 19.00% | ~33,178 |
+| Covered Head to Toe | 16.00% | ~27,940 |
+| Remains To Be Seen | 12.00% | ~20,955 |
+| Risk a Little Real Light | 9.00% | ~15,716 |
+| Westgate Weaponcraft | 4.00% | ~6,985 |
+| Battering Ram | 2.00% | ~3,492 |
+| Deeps Weaponcraft | 2.00% | ~3,492 |
+| False King, Deposed | 2.00% | ~3,492 |
+| Caradhras The Cruel | 2.00% | ~3,492 |
+| A Memory of this Place | 2.00% | ~3,492 |
+| Baruk Khazâd! | 1.00% | ~1,746 |
+| Decked Out | 1.00% | ~1,746 |
+| Eregion Weaponcraft | 1.00% | ~1,746 |
+| Master of All Trades | 1.00% | ~1,746 |
+| Shadow's Bane | 0.60% | ~1,048 |
 | Darkness Is Passing | 0.50% | ~873 |
 | Guarded from Despair | 0.20% | ~349 |
 | True-silver | 0.20% | ~349 |
@@ -33,7 +33,7 @@ Rating: 4.41 (Ranked 711)
 | Shielded | 0.10% | ~175 |
 | We're Gonna Need More Mugs | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174,501 (Ranked 73)  
+Progressed: 174,623 (Ranked 73)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,11 +44,11 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 135,952 | 0 |
 | 2023-10-28 | 156,270 | 0 |
 | 2023-10-29 | 171,957 | 0 |
-| 2023-10-30 | 174,501 | 0 |
+| 2023-10-30 | 174,623 | 0 |
 ## Awards
-Max (Highly Recommended): 53  (Ranked 413)  
+Max (Highly Recommended): 53  (Ranked 414)  
 Sum: 320 (Ranked 351)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 53 |

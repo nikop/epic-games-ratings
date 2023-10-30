@@ -4,7 +4,7 @@
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -370,6 +370,11 @@
       "Time": "2023-10-30T00:04:37.9790377+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T07:04:12.7142316+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -381,7 +386,7 @@
       "Name": "Animal Lover",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "axe_of_kindness",
@@ -419,9 +424,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "dodgy_geezer",
@@ -437,7 +442,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "easy_listening",
@@ -620,7 +625,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
@@ -628,8 +633,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:04:49.0073165+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:04:12.7142312+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:24.4706837+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:03:31.6832057+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:04:49.0073467+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:03:04.0039896+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:04:12.7142531+00:00"
 }

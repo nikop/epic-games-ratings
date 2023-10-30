@@ -53,7 +53,7 @@ Rating: 3.98 (Ranked 987)
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 395)  
+Progressed: 108 (Ranked 396)  
 Completed: 1 (0.93%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |

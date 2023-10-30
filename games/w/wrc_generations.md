@@ -3,8 +3,8 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.44 (Ranked 669)  
 ## Awards
-Max (Great for Beginners): 24  (Ranked 516)  
-Sum: 24 (Ranked 520)  
+Max (Great for Beginners): 24  (Ranked 517)  
+Sum: 24 (Ranked 521)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |

@@ -3,11 +3,11 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -1262,9 +1262,9 @@
       "ID": "CAREERTRIALSS",
       "SetID": "3dh70f3",
       "Name": "[Sweats profusely]",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 35
     },
     {
       "ID": "CHAMPION",
@@ -1487,8 +1487,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:09:48.5015024+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:19.8546946+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:53.4109+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:00:46.6994606+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:09:48.5015582+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:00:10.9888413+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:19.8547481+00:00"
 }

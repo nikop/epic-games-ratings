@@ -1,41 +1,41 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 558)  
+Rating: 4.51 (Ranked 559)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~49,015 |
-| Zealous | 4.00% | ~39,212 |
-| Not half bad | 4.00% | ~39,212 |
-| Skillful | 4.00% | ~39,212 |
-| Make Some Noise | 4.00% | ~39,212 |
-| No one left behind | 3.00% | ~29,409 |
-| Medic | 3.00% | ~29,409 |
-| Handyman | 3.00% | ~29,409 |
-| Apt Survivor | 3.00% | ~29,409 |
-| Survival Treasures | 3.00% | ~29,409 |
-| I | 3.00% | ~29,409 |
-| Sorted | 3.00% | ~29,409 |
-| Resurgence | 3.00% | ~29,409 |
-| The Grand Sacrifice | 2.00% | ~19,606 |
-| Agonizing Escape | 2.00% | ~19,606 |
-| Backdoor Escape | 2.00% | ~19,606 |
-| I've got your back | 2.00% | ~19,606 |
-| Perfect Escape | 2.00% | ~19,606 |
-| Perfect Killing | 2.00% | ~19,606 |
-| Bloody Millionaire | 2.00% | ~19,606 |
-| Apt Killer | 2.00% | ~19,606 |
-| Risk it all | 2.00% | ~19,606 |
-| II | 2.00% | ~19,606 |
-| Engineer | 2.00% | ~19,606 |
-| Wounded Healer | 2.00% | ~19,606 |
-| Healthy Obsession | 2.00% | ~19,606 |
-| Close Shave | 2.00% | ~19,606 |
-| Preemptive Strike | 2.00% | ~19,606 |
-| Humanitarian | 2.00% | ~19,606 |
-| Second Act | 2.00% | ~19,606 |
+| It wakes | 5.00% | ~49,017 |
+| Zealous | 4.00% | ~39,214 |
+| Not half bad | 4.00% | ~39,214 |
+| Skillful | 4.00% | ~39,214 |
+| Make Some Noise | 4.00% | ~39,214 |
+| No one left behind | 3.00% | ~29,410 |
+| Medic | 3.00% | ~29,410 |
+| Handyman | 3.00% | ~29,410 |
+| Apt Survivor | 3.00% | ~29,410 |
+| Survival Treasures | 3.00% | ~29,410 |
+| I | 3.00% | ~29,410 |
+| Sorted | 3.00% | ~29,410 |
+| Resurgence | 3.00% | ~29,410 |
+| The Grand Sacrifice | 2.00% | ~19,607 |
+| Agonizing Escape | 2.00% | ~19,607 |
+| Backdoor Escape | 2.00% | ~19,607 |
+| I've got your back | 2.00% | ~19,607 |
+| Perfect Escape | 2.00% | ~19,607 |
+| Perfect Killing | 2.00% | ~19,607 |
+| Bloody Millionaire | 2.00% | ~19,607 |
+| Apt Killer | 2.00% | ~19,607 |
+| Risk it all | 2.00% | ~19,607 |
+| II | 2.00% | ~19,607 |
+| Engineer | 2.00% | ~19,607 |
+| Wounded Healer | 2.00% | ~19,607 |
+| Healthy Obsession | 2.00% | ~19,607 |
+| Close Shave | 2.00% | ~19,607 |
+| Preemptive Strike | 2.00% | ~19,607 |
+| Humanitarian | 2.00% | ~19,607 |
+| Second Act | 2.00% | ~19,607 |
 | Blood on your hands | 1.00% | ~9,803 |
 | Escape Artist | 1.00% | ~9,803 |
 | Made it out alive! | 1.00% | ~9,803 |
@@ -73,13 +73,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ancestor's Rite | 0.90% | ~8,823 |
 | Outrun Evil | 0.90% | ~8,823 |
 | Grim Pilgrimage | 0.90% | ~8,823 |
-| A bite for the Entity | 0.80% | ~7,842 |
-| Blood on your face | 0.80% | ~7,842 |
-| Leapfrog | 0.80% | ~7,842 |
-| Serial Killer | 0.80% | ~7,842 |
-| Selfless Survival | 0.80% | ~7,842 |
-| Outrun the Overlap | 0.80% | ~7,842 |
-| Extraterrestrial | 0.80% | ~7,842 |
+| A bite for the Entity | 0.80% | ~7,843 |
+| Blood on your face | 0.80% | ~7,843 |
+| Leapfrog | 0.80% | ~7,843 |
+| Serial Killer | 0.80% | ~7,843 |
+| Selfless Survival | 0.80% | ~7,843 |
+| Outrun the Overlap | 0.80% | ~7,843 |
+| Extraterrestrial | 0.80% | ~7,843 |
 | Jump Scares | 0.70% | ~6,862 |
 | Hemophobia | 0.70% | ~6,862 |
 | Happy Holidays | 0.70% | ~6,862 |
@@ -96,12 +96,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.60% | ~5,882 |
 | Outrage | 0.60% | ~5,882 |
 | High Speed Pursuit | 0.60% | ~5,882 |
-| Whiffing to Success | 0.50% | ~4,901 |
-| Heavy Burden | 0.50% | ~4,901 |
-| I See You | 0.50% | ~4,901 |
-| Punch Drunk | 0.50% | ~4,901 |
-| Prowler | 0.50% | ~4,901 |
-| Triage | 0.50% | ~4,901 |
+| Whiffing to Success | 0.50% | ~4,902 |
+| Heavy Burden | 0.50% | ~4,902 |
+| I See You | 0.50% | ~4,902 |
+| Punch Drunk | 0.50% | ~4,902 |
+| Prowler | 0.50% | ~4,902 |
+| Triage | 0.50% | ~4,902 |
 | Blood in your mouth | 0.40% | ~3,921 |
 | Looter | 0.40% | ~3,921 |
 | Death of Ignorance | 0.40% | ~3,921 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~980 |
 | Adept Ripley | 0.10% | ~980 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,294 (Ranked 14)  
+Progressed: 980,339 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -429,7 +429,7 @@ Completed: 52 (0.01%) (Ranked 312)
 | 2023-10-27 | 972,989 | 52 |
 | 2023-10-28 | 976,261 | 52 |
 | 2023-10-29 | 979,683 | 52 |
-| 2023-10-30 | 980,294 | 52 |
+| 2023-10-30 | 980,339 | 52 |
 ## Awards
 Max (Diverse Characters): 34,962  (Ranked 15)  
 Sum: 269,040 (Ranked 13)  

@@ -3,8 +3,8 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 941,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 147,
@@ -471,7 +471,7 @@
   "Tags": [],
   "EOS_Progressed": 2932,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3800,9 +3800,9 @@
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 733
+      "UsersEstimate": 762
     },
     {
       "ID": "achievement_7",
@@ -3841,8 +3841,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:06:27.290743+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:05:37.0657433+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:01:51.9468881+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:06:27.2908132+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:05.8060507+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:05:37.065772+00:00"
 }

@@ -7,14 +7,14 @@ Number of Ratings: 56  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | light attack | 96.00% | ~9,885 |
-| keep it tidy | 77.00% | ~7,929 |
+| keep it tidy | 78.00% | ~8,032 |
 | podium | 72.00% | ~7,414 |
 | medium attack | 60.00% | ~6,178 |
 | brail | 57.00% | ~5,869 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,428 |
 | grocery-getter | 40.00% | ~4,119 |
+| rwd only | 27.00% | ~2,780 |
 | food tour: pasta | 27.00% | ~2,780 |
-| rwd only | 26.00% | ~2,677 |
 | to finish first, first you must finish | 21.00% | ~2,162 |
 | autopilot | 21.00% | ~2,162 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,162 |

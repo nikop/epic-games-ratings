@@ -2,9 +2,9 @@
   "ID": "protea",
   "Name": "Industries of Titan",
   "ProductSlug": "industries-of-titan",
-  "Ranking_Rating": 558,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Rating": 559,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 423,
@@ -406,6 +406,6 @@
   "FirstSeen": "2022-07-22T20:25:16.5099101+00:00",
   "LastChanged": "2023-09-18T23:02:23.5203846+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:10.2722025+00:00",
-  "LastUpdate_Ratings": "2023-10-30T05:57:59.4188106+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:07:58.2374243+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:57:46.6749802+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:06:55.2247542+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3294,
+  "EOS_Progressed": 3295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2156,
+  "EOS_NewPlayers": 2150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1337,6 +1337,11 @@
       "Time": "2023-10-30T06:09:26.4580961+00:00",
       "NumProgressed": 3294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T07:09:00.8790159+00:00",
+      "NumProgressed": 3295,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1491,9 +1496,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 329
+      "UsersEstimate": 362
     },
     {
       "ID": "NoMoreTotems",
@@ -1515,9 +1520,9 @@
       "ID": "OneStarMan",
       "SetID": "acc6ea0",
       "Name": "One-Star Man",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "ScorchSquad",
@@ -1541,7 +1546,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "TheQuarterback",
@@ -1620,14 +1625,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3294,
+      "Progressed": 3295,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:09:26.4580955+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:00.8790154+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:01:43.3497164+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:09:26.4581307+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:00:58.2073643+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:00.8790501+00:00"
 }

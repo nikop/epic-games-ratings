@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 79.00% | ~85 |
-| Gear Up | 68.00% | ~73 |
-| A Grand Show | 68.00% | ~73 |
+| Iceberg Theory | 78.00% | ~85 |
+| Gear Up | 67.00% | ~73 |
+| A Grand Show | 67.00% | ~73 |
 | Freshen Up | 58.00% | ~63 |
-| GG EZ | 56.00% | ~60 |
-| Hydrophobia | 41.00% | ~44 |
+| GG EZ | 55.00% | ~60 |
+| Hydrophobia | 40.00% | ~44 |
 | Ka-Ching! | 32.00% | ~35 |
-| Stop Right There | 29.00% | ~31 |
+| Stop Right There | 28.00% | ~31 |
 | Get to the Point | 27.00% | ~29 |
-| Mr. Want It All | 18.00% | ~19 |
+| Mr. Want It All | 17.00% | ~19 |
 | Toe to Toe | 16.00% | ~17 |
 | Phew! | 16.00% | ~17 |
 | The Hidden Secret | 15.00% | ~16 |
@@ -22,15 +22,15 @@
 | The Fortress Conqueror | 10.00% | ~11 |
 | Grand Escape | 10.00% | ~11 |
 | Keep it Up, rookie! | 7.00% | ~8 |
-| The Deep Frozen Conqueror | 6.00% | ~6 |
-| The Infinite Train Conqueror | 6.00% | ~6 |
-| The Paradox Coordinate Conqueror | 6.00% | ~6 |
-| The Inactivated Frozen Conqueror | 6.00% | ~6 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~6 |
-| he Ultra Fortress Conqueror | 6.00% | ~6 |
-| Antaeus | 6.00% | ~6 |
-| Hell of a Fight | 6.00% | ~6 |
-| Decapitation Strike | 6.00% | ~6 |
+| The Deep Frozen Conqueror | 6.00% | ~7 |
+| The Infinite Train Conqueror | 6.00% | ~7 |
+| The Paradox Coordinate Conqueror | 6.00% | ~7 |
+| The Inactivated Frozen Conqueror | 6.00% | ~7 |
+| The Hypergravitational Abyss Conqueror | 6.00% | ~7 |
+| he Ultra Fortress Conqueror | 6.00% | ~7 |
+| Antaeus | 6.00% | ~7 |
+| Hell of a Fight | 6.00% | ~7 |
+| Decapitation Strike | 6.00% | ~7 |
 | The Sunken City Conqueror | 5.00% | ~5 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~5 |
 | Death Bringer Conqueror | 5.00% | ~5 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.90% | ~1 |
 | Super Alloy Ranger! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 395)  
-Completed: 1 (0.93%) (Ranked 155)  
+Progressed: 109 (Ranked 394)  
+Completed: 1 (0.92%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,7 +116,7 @@ Completed: 1 (0.93%) (Ranked 155)
 | 2023-10-27 | 104 | 1 |
 | 2023-10-28 | 105 | 1 |
 | 2023-10-29 | 107 | 1 |
-| 2023-10-30 | 108 | 1 |
+| 2023-10-30 | 109 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

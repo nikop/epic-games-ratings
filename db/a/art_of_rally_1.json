@@ -3,8 +3,8 @@
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 262,
@@ -1890,9 +1890,9 @@
       "ID": "ACH_COMPLETE_GROUP3",
       "SetID": "9002fpg",
       "Name": "rwd only",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2780
     },
     {
       "ID": "ACH_COMPLETE_GROUP4",
@@ -1938,9 +1938,9 @@
       "ID": "ACH_COMPLETE_NO_DAMAGE",
       "SetID": "9002fpg",
       "Name": "keep it tidy",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 7929
+      "UsersEstimate": 8032
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2130,8 +2130,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:05:58.7546971+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:05:12.7774427+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.7319401+00:00",
-  "LastUpdate_Ratings": "2023-10-30T05:59:23.3682138+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:05:58.7547431+00:00"
+  "LastUpdate_Ratings": "2023-10-30T06:58:54.5942495+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:05:12.7774874+00:00"
 }

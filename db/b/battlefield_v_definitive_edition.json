@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16670,
+  "EOS_Progressed": 16672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1141,
+  "EOS_NewPlayers": 1138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4698,6 +4698,11 @@
       "Time": "2023-10-30T06:09:32.7219441+00:00",
       "NumProgressed": 16670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T07:09:06.3002127+00:00",
+      "NumProgressed": 16672,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -4742,7 +4747,7 @@
       "Name": "Grim Reaper",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 12502
+      "UsersEstimate": 12504
     },
     {
       "ID": "achievement_14",
@@ -4750,7 +4755,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "achievement_15",
@@ -4758,7 +4763,7 @@
       "Name": "Combat Engineer",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 9002
+      "UsersEstimate": 9003
     },
     {
       "ID": "achievement_16",
@@ -4766,7 +4771,7 @@
       "Name": "Heads Down",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 12336
+      "UsersEstimate": 12337
     },
     {
       "ID": "achievement_17",
@@ -4782,7 +4787,7 @@
       "Name": "Eager Beaver",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "achievement_19",
@@ -4806,7 +4811,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15505
     },
     {
       "ID": "achievement_21",
@@ -4814,7 +4819,7 @@
       "Name": "Not On My Watch",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 11836
+      "UsersEstimate": 11837
     },
     {
       "ID": "achievement_3",
@@ -4846,7 +4851,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "achievement_7",
@@ -4862,7 +4867,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 12336
+      "UsersEstimate": 12337
     },
     {
       "ID": "achievement_9",
@@ -4877,13 +4882,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 16670,
+      "Progressed": 16672,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:09:32.7219435+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:06.3002122+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:45.5338578+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:02:31.1802355+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:09:32.7220218+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:34.8672459+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:06.3002556+00:00"
 }

@@ -38,11 +38,11 @@ Rating: 4.48 (Ranked 614)
 | A-mazing! | 3.00% | ~35 |
 | To infinity and gravity! | 3.00% | ~35 |
 | One giant drive for mankind | 3.00% | ~35 |
+| [Sweats profusely] | 3.00% | ~35 |
 | It's like a party! | 3.00% | ~35 |
 | Healthy competition | 3.00% | ~35 |
 | This is to go, even Further Beyond! | 2.00% | ~23 |
 | Gitting Gud | 2.00% | ~23 |
-| [Sweats profusely] | 2.00% | ~23 |
 | Redout Champion | 2.00% | ~23 |
 | Great Start | 2.00% | ~23 |
 | S-uper! | 1.00% | ~12 |

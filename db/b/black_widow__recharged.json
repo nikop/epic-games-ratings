@@ -3,8 +3,8 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 138,
@@ -167,7 +167,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19228,
+  "EOS_Progressed": 19229,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
@@ -15702,6 +15702,11 @@
       "Time": "2023-10-30T06:07:29.4527272+00:00",
       "NumProgressed": 19228,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-30T07:06:30.461027+00:00",
+      "NumProgressed": 19229,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15713,7 +15718,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 14998
+      "UsersEstimate": 14999
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -15745,7 +15750,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3653
+      "UsersEstimate": 3654
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -15753,7 +15758,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -15824,15 +15829,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19228,
+      "Progressed": 19229,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-22T20:58:17.9975571+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:07:29.4527264+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:06:30.4610267+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:47.9713426+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:02:38.1469509+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:07:29.4528555+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:41.4737834+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:06:30.461123+00:00"
 }

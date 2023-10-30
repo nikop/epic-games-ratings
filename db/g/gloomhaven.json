@@ -2285,9 +2285,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 17152,
+  "EOS_Progressed": 17153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1670,
+  "EOS_NewPlayers": 1661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7285,6 +7285,11 @@
       "Time": "2023-10-30T06:05:24.3036419+00:00",
       "NumProgressed": 17152,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T07:04:43.1994981+00:00",
+      "NumProgressed": 17153,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7481,7 +7486,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7376
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7784,7 +7789,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 17152,
+      "Progressed": 17153,
       "Completed": 1
     }
   ],
@@ -7792,8 +7797,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-29T16:01:01.5858207+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:05:24.3036412+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:04:43.1994976+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:02:49.0091065+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:05:24.3037527+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:49.315479+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:04:43.1995855+00:00"
 }

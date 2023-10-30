@@ -10,14 +10,14 @@ Number of Ratings: 9,133  (23.09.2022)
 | Cavalier | 25.00% | ~201,628 |
 | Fatso | 23.00% | ~185,498 |
 | Awakening | 21.00% | ~169,368 |
-| Ranger | 20.00% | ~161,302 |
-| Scrooge | 20.00% | ~161,302 |
+| Ranger | 20.00% | ~161,303 |
+| Scrooge | 20.00% | ~161,303 |
 | Anorectic | 16.00% | ~129,042 |
 | Bookworm | 15.00% | ~120,977 |
 | Firestarter | 15.00% | ~120,977 |
 | Insomniac | 13.00% | ~104,847 |
-| Buddy | 12.00% | ~96,781 |
-| Thief | 12.00% | ~96,781 |
+| Buddy | 12.00% | ~96,782 |
+| Thief | 12.00% | ~96,782 |
 | Sinner | 11.00% | ~88,716 |
 | Traveller | 11.00% | ~88,716 |
 | Convict | 10.00% | ~80,651 |
@@ -28,9 +28,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bad Trip | 5.00% | ~40,326 |
 | Monk | 5.00% | ~40,326 |
 | Serial Killer | 5.00% | ~40,326 |
-| Bastard | 4.00% | ~32,260 |
-| Hunter | 4.00% | ~32,260 |
-| Plague Doctor | 4.00% | ~32,260 |
+| Bastard | 4.00% | ~32,261 |
+| Hunter | 4.00% | ~32,261 |
+| Plague Doctor | 4.00% | ~32,261 |
 | Bard | 3.00% | ~24,195 |
 | Conqueror | 3.00% | ~24,195 |
 | Ginger in a Pickle | 3.00% | ~24,195 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~807 |
 | Wingman | 0.10% | ~807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,512 (Ranked 17)  
+Progressed: 806,513 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,17 +282,17 @@ Completed: 51 (0.01%) (Ranked 312)
 | 2023-10-27 | 806,215 | 51 |
 | 2023-10-28 | 806,357 | 51 |
 | 2023-10-29 | 806,494 | 51 |
-| 2023-10-30 | 806,512 | 51 |
+| 2023-10-30 | 806,513 | 51 |
 ## Awards
 Max (Character Customization): 7,558  (Ranked 50)  
-Sum: 28,113 (Ranked 49)  
+Sum: 28,115 (Ranked 49)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,558 |
 | This game has Great Boss Battles | 5,547 |
 | This game has Challenging Combat | 1,766 |
-| This game has Diverse Characters | 1,713 |
+| This game has Diverse Characters | 1,715 |
 | This game has Amazing Storytelling | 1,712 |
 | This game is Highly Recommended | 1,685 |
 | This game is Extremely Fun | 1,684 |
@@ -580,4 +580,4 @@ Diff (max vs sum): 1
 | 2023-10-27 | 4.71 | - | 7,553 | 28,097 |
 | 2023-10-28 | 4.71 | - | 7,553 | 28,099 |
 | 2023-10-29 | 4.71 | - | 7,554 | 28,104 |
-| 2023-10-30 | 4.71 | - | 7,558 | 28,113 |
+| 2023-10-30 | 4.71 | - | 7,558 | 28,115 |

@@ -3093,9 +3093,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 245838,
+  "EOS_Progressed": 245839,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 2253,
+  "EOS_NewPlayers": 2249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24303,6 +24303,11 @@
       "Time": "2023-10-30T06:04:57.3297888+00:00",
       "NumProgressed": 245838,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-10-30T07:04:20.1609383+00:00",
+      "NumProgressed": 245839,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 59,
@@ -24314,7 +24319,7 @@
       "Name": "Showpiece",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22125
+      "UsersEstimate": 22126
     },
     {
       "ID": "BUILD_unlimited_power",
@@ -24394,7 +24399,7 @@
       "Name": "Grand Designs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 130294
+      "UsersEstimate": 130295
     },
     {
       "ID": "CUSTOMIZE_just_how_you_like_it",
@@ -24426,7 +24431,7 @@
       "Name": "Mix and Match",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73751
+      "UsersEstimate": 73752
     },
     {
       "ID": "CUSTOMIZE_pimp_my_rig",
@@ -24490,7 +24495,7 @@
       "Name": "Very Imported PC",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73751
+      "UsersEstimate": 73752
     },
     {
       "ID": "JOBS_old_hand",
@@ -24498,7 +24503,7 @@
       "Name": "Workaholic",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 54084
+      "UsersEstimate": 54085
     },
     {
       "ID": "JOBS_on_the_job",
@@ -24506,7 +24511,7 @@
       "Name": "On the Job",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 145044
+      "UsersEstimate": 145045
     },
     {
       "ID": "JOBS_pc_og",
@@ -24562,7 +24567,7 @@
       "Name": "Tinker",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 125377
+      "UsersEstimate": 125378
     },
     {
       "ID": "LIGHTING_moar_rgb",
@@ -24578,7 +24583,7 @@
       "Name": "Shine On",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 149961
+      "UsersEstimate": 149962
     },
     {
       "ID": "OCCT_stabiliser",
@@ -24618,7 +24623,7 @@
       "Name": "On the Bench",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 86043
+      "UsersEstimate": 86044
     },
     {
       "ID": "SCORE_bench_warmer",
@@ -24626,7 +24631,7 @@
       "Name": "Bench Press",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 22125
+      "UsersEstimate": 22126
     },
     {
       "ID": "SCORE_on_the_bench",
@@ -24634,7 +24639,7 @@
       "Name": "Bench Warmer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 54084
+      "UsersEstimate": 54085
     },
     {
       "ID": "SELL_foot_in_the_door",
@@ -24642,7 +24647,7 @@
       "Name": "Foot in the Door",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73751
+      "UsersEstimate": 73752
     },
     {
       "ID": "SELL_gift_of_the_gab",
@@ -24754,7 +24759,7 @@
       "Name": "Hot Stuff",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 118002
+      "UsersEstimate": 118003
     },
     {
       "ID": "UNLOCK_room_for_expansion",
@@ -24770,7 +24775,7 @@
       "Name": "Chill Out",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 137669
+      "UsersEstimate": 137670
     },
     {
       "ID": "WATERCOOL_supercool",
@@ -24785,7 +24790,7 @@
     {
       "ID": "9b9e43a",
       "IsBase": true,
-      "Progressed": 245838,
+      "Progressed": 245839,
       "Completed": 150
     }
   ],
@@ -24793,8 +24798,8 @@
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
   "LastChanged": "2023-10-29T18:00:50.0724906+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:04:57.3297882+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:04:20.1609379+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:32.6278447+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:01:56.6630596+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:04:57.3300086+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:09.0161331+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:04:20.1611216+00:00"
 }

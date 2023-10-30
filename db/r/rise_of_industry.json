@@ -3,8 +3,8 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 876,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 54,
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 747537,
+  "EOS_Progressed": 747539,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2002,
+  "EOS_NewPlayers": 2001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22263,6 +22263,11 @@
       "Time": "2023-10-30T06:09:25.6471151+00:00",
       "NumProgressed": 747537,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T07:09:00.2517744+00:00",
+      "NumProgressed": 747539,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -22346,7 +22351,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 127081
+      "UsersEstimate": 127082
     },
     {
       "ID": "ach_free_cam_mode",
@@ -22378,7 +22383,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 89704
+      "UsersEstimate": 89705
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -22402,7 +22407,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 358818
+      "UsersEstimate": 358819
     },
     {
       "ID": "ach_produced",
@@ -22474,7 +22479,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 89704
+      "UsersEstimate": 89705
     },
     {
       "ID": "ach_warehouse_clients",
@@ -22489,7 +22494,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 747537,
+      "Progressed": 747539,
       "Completed": 4
     }
   ],
@@ -22497,8 +22502,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-29T03:00:20.3271488+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:09:25.6471144+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:09:00.2517738+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:46.7983751+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:00:37.7631319+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:09:25.6473018+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:00:00.4266282+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:09:00.2519288+00:00"
 }

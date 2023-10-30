@@ -2,9 +2,9 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 730,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Rating": 729,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 36,
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315979,
+  "EOS_Progressed": 315986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3219,
+  "EOS_NewPlayers": 3220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8269,6 +8269,11 @@
       "Time": "2023-10-30T06:07:21.4318862+00:00",
       "NumProgressed": 315979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T07:06:23.5432519+00:00",
+      "NumProgressed": 315986,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -8305,7 +8310,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 139031
+      "UsersEstimate": 139034
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -8313,7 +8318,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 101113
+      "UsersEstimate": 101116
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -8321,7 +8326,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 66356
+      "UsersEstimate": 66357
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -8329,7 +8334,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 47397
+      "UsersEstimate": 47398
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -8337,7 +8342,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37917
+      "UsersEstimate": 37918
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -8345,7 +8350,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31598
+      "UsersEstimate": 31599
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -8353,7 +8358,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 28438
+      "UsersEstimate": 28439
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -8361,7 +8366,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25278
+      "UsersEstimate": 25279
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -8369,7 +8374,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25278
+      "UsersEstimate": 25279
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -8657,20 +8662,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 161149
+      "UsersEstimate": 161153
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 315979,
+      "Progressed": 315986,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 315968,
+      "Progressed": 315975,
       "Completed": 0
     }
   ],
@@ -8678,8 +8683,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-28T13:02:23.169966+00:00",
-  "LastChanged_Achievements": "2023-10-30T06:07:21.4318856+00:00",
+  "LastChanged_Achievements": "2023-10-30T07:06:23.5432513+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.0909695+00:00",
-  "LastUpdate_Ratings": "2023-10-30T06:02:52.6343827+00:00",
-  "LastUpdate_Achievements": "2023-10-30T06:07:21.432048+00:00"
+  "LastUpdate_Ratings": "2023-10-30T07:01:52.7662971+00:00",
+  "LastUpdate_Achievements": "2023-10-30T07:06:23.5433424+00:00"
 }

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
 Rating: 4.45 (Ranked 653)  
 ## Awards
-Max (Relaxing): 113  (Ranked 337)  
+Max (Relaxing): 113  (Ranked 338)  
 Sum: 796 (Ranked 276)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 113 |

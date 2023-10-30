@@ -6,22 +6,22 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~621,229 |
-| Death From Above | 45.00% | ~607,724 |
-| Master of the Household | 38.00% | ~513,189 |
-| Death of the Party | 36.00% | ~486,179 |
-| NEXUS-47 | 33.00% | ~445,664 |
-| The Last Tango | 31.00% | ~418,654 |
-| Nightmare Fuel | 30.00% | ~405,149 |
-| The Result of Previous Training | 28.00% | ~378,139 |
-| Tools of the Trade | 28.00% | ~378,139 |
-| Cleared for Field Duty | 27.00% | ~364,634 |
-| Seizing the Opportunity | 26.00% | ~351,129 |
-| Bullet Train | 21.00% | ~283,605 |
-| Stylish Assassin | 20.00% | ~270,100 |
-| Silent Assassin | 14.00% | ~189,070 |
-| Rise Up | 12.00% | ~162,060 |
-| Evil Wine Club | 11.00% | ~148,555 |
+| Unseen Assassin | 46.00% | ~621,232 |
+| Death From Above | 45.00% | ~607,727 |
+| Master of the Household | 38.00% | ~513,192 |
+| Death of the Party | 36.00% | ~486,182 |
+| NEXUS-47 | 33.00% | ~445,667 |
+| The Last Tango | 31.00% | ~418,657 |
+| Nightmare Fuel | 30.00% | ~405,152 |
+| The Result of Previous Training | 28.00% | ~378,141 |
+| Tools of the Trade | 28.00% | ~378,141 |
+| Cleared for Field Duty | 27.00% | ~364,636 |
+| Seizing the Opportunity | 26.00% | ~351,131 |
+| Bullet Train | 21.00% | ~283,606 |
+| Stylish Assassin | 20.00% | ~270,101 |
+| Silent Assassin | 14.00% | ~189,071 |
+| Rise Up | 12.00% | ~162,061 |
+| Evil Wine Club | 11.00% | ~148,556 |
 | Console Cowboy | 10.00% | ~135,050 |
 | Last Stop | 10.00% | ~135,050 |
 | A New Profile | 9.00% | ~121,545 |
@@ -52,9 +52,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | Bird Art | 2.00% | ~27,010 |
 | Top of the Class | 1.00% | ~13,505 |
 | Ripe for the Picking | 1.00% | ~13,505 |
-| The Creative Assassin | 0.70% | ~9,453 |
+| The Creative Assassin | 0.70% | ~9,454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,350,498 (Ranked 9)  
+Progressed: 1,350,505 (Ranked 9)  
 Completed: 2,168 (0.16%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 2,168 (0.16%) (Ranked 245)
 | 2023-10-27 | 1,349,562 | 2,164 |
 | 2023-10-28 | 1,349,982 | 2,167 |
 | 2023-10-29 | 1,350,437 | 2,167 |
-| 2023-10-30 | 1,350,498 | 2,168 |
+| 2023-10-30 | 1,350,505 | 2,168 |
 ## Awards
 Max (Diverse Characters): 10,457  (Ranked 38)  
 Sum: 72,843 (Ranked 21)  

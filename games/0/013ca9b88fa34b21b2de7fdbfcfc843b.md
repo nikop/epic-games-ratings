@@ -5,43 +5,43 @@ Rating: 4.61 (Ranked 379)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,291 |
-| A Thorny Situation | 70.00% | ~5,144 |
-| ... And Spit Back Out | 60.00% | ~4,409 |
-| Break-Net Speed | 49.00% | ~3,601 |
+| Azoria Beckons | 72.00% | ~5,293 |
+| A Thorny Situation | 70.00% | ~5,146 |
+| ... And Spit Back Out | 60.00% | ~4,411 |
+| Break-Net Speed | 49.00% | ~3,602 |
 | Bramble Breaker | 46.00% | ~3,381 |
-| Miner 49er | 43.00% | ~3,160 |
+| Miner 49er | 43.00% | ~3,161 |
 | Humble Collector | 42.00% | ~3,087 |
 | Calm Sailing | 36.00% | ~2,646 |
-| Open the Gate! | 33.00% | ~2,425 |
-| Mist Walker | 31.00% | ~2,278 |
+| Open the Gate! | 33.00% | ~2,426 |
+| Mist Walker | 31.00% | ~2,279 |
 | Lumberjack | 26.00% | ~1,911 |
-| Oui, Chef! | 23.00% | ~1,690 |
+| Oui, Chef! | 23.00% | ~1,691 |
 | Clear the Air | 18.00% | ~1,323 |
-| Botanical Breakthrough | 17.00% | ~1,249 |
-| Search for the Hairy Grell | 13.00% | ~955 |
-| Beach Comber | 13.00% | ~955 |
-| Higher Tax Bracket | 13.00% | ~955 |
+| Botanical Breakthrough | 17.00% | ~1,250 |
+| Search for the Hairy Grell | 13.00% | ~956 |
+| Beach Comber | 13.00% | ~956 |
+| Higher Tax Bracket | 13.00% | ~956 |
 | Flaming Hot Completos | 8.00% | ~588 |
 | Got to Catch Them All | 8.00% | ~588 |
 | Rumble in the Jumble | 8.00% | ~588 |
 | Skilled | 8.00% | ~588 |
-| Fae Farmer | 7.00% | ~514 |
-| Fanatical Farmer | 7.00% | ~514 |
+| Fae Farmer | 7.00% | ~515 |
+| Fanatical Farmer | 7.00% | ~515 |
 | Scattered Scroll Scrounger | 6.00% | ~441 |
 | Azorian Anniversary | 6.00% | ~441 |
-| I Now Pronounce You... | 5.00% | ~367 |
+| I Now Pronounce You... | 5.00% | ~368 |
 | Chatty Neighbor | 4.00% | ~294 |
-| Right Tool For the Job | 3.00% | ~220 |
-| House Proud | 3.00% | ~220 |
+| Right Tool For the Job | 3.00% | ~221 |
+| House Proud | 3.00% | ~221 |
 | Captain of Cozy | 2.00% | ~147 |
-| Angling Authority | 1.00% | ~73 |
+| Angling Authority | 1.00% | ~74 |
 | Cloverfield Island | 0.20% | ~15 |
 | Workaholic | 0.10% | ~7 |
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,349 (Ranked 167)  
+Progressed: 7,351 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 7,234 | 0 |
 | 2023-10-28 | 7,276 | 0 |
 | 2023-10-29 | 7,340 | 0 |
-| 2023-10-30 | 7,349 | 0 |
+| 2023-10-30 | 7,351 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
