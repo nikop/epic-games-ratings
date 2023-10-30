@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Night Has Just Begun | 50.00% | ~2 |
+| There Can Only Be One | 25.00% | ~1 |
 | No stone unturned | 25.00% | ~1 |
 | Dead-On | 25.00% | ~1 |
 | SuperCop | 25.00% | ~1 |
@@ -17,7 +18,6 @@
 | Nukem! | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |
 | Strikeout! | 0.00% | ~0 |
-| There Can Only Be One | 0.00% | ~0 |
 | All Adds Up | 0.00% | ~0 |
 | Dead or Alive | 0.00% | ~0 |
 | Twenty Seconds to Comply | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Zip This Up | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 602)  
+Progressed: 4 (Ranked 603)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |

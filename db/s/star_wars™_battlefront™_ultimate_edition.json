@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 932,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2639,6 +2639,11 @@
       "Time": "2023-10-30T14:09:53.1960088+00:00",
       "NumProgressed": 930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T16:09:39.8839261+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2683,7 +2688,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_14",
@@ -2875,7 +2880,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 839
     },
     {
       "ID": "achievement_36",
@@ -2891,7 +2896,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "achievement_38",
@@ -2899,7 +2904,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_39",
@@ -2923,7 +2928,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_41",
@@ -2939,7 +2944,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_43",
@@ -2953,9 +2958,9 @@
       "ID": "achievement_44",
       "SetID": "cemm4l8",
       "Name": "A good blaster at your side",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_45",
@@ -3091,7 +3096,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_60",
@@ -3154,13 +3159,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 932,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 930,
+      "Progressed": 932,
       "Completed": 1
     }
   ],
@@ -3168,8 +3173,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:09:18.9320617+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:09:39.8839256+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:58:43.6455405+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:09:18.9321473+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:58:52.6338637+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:09:39.8840122+00:00"
 }

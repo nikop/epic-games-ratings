@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -685,7 +685,7 @@
   ],
   "EOS_Progressed": 1344,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4123,9 +4123,9 @@
       "ID": "achievement_1",
       "SetID": "222fo9l",
       "Name": "Welcome Aboard",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1156
     },
     {
       "ID": "achievement_10",
@@ -4147,9 +4147,9 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 484
+      "UsersEstimate": 497
     },
     {
       "ID": "achievement_13",
@@ -4508,8 +4508,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:04:09.3700969+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:04:37.444642+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:01:29.4583781+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:04:09.3701648+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:02:12.0630943+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:04:37.4447072+00:00"
 }

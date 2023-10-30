@@ -62,29 +62,29 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.80% | ~1,107 |
 | Special Ingredient | 0.80% | ~1,107 |
 | Complete Monopoly | 0.80% | ~1,107 |
-| Cream of the Crop | 0.70% | ~968 |
-| Proud Paladin | 0.70% | ~968 |
-| Above the Norm | 0.70% | ~968 |
-| A Ronin Reborn | 0.70% | ~968 |
-| Master of Transmutation | 0.70% | ~968 |
-| Supercharged | 0.70% | ~968 |
-| Ritualist | 0.70% | ~968 |
-| Cranked up to 11 | 0.70% | ~968 |
-| Fit for a King | 0.70% | ~968 |
-| By Your Powers Combined... | 0.70% | ~968 |
-| Wealth Beyond Measure | 0.70% | ~968 |
-| Fat Cat Tag Team | 0.70% | ~968 |
-| Necromancer Queen | 0.70% | ~968 |
-| Master Merchant | 0.70% | ~968 |
-| Miracle Alchemist | 0.70% | ~968 |
-| Laden with Loot | 0.70% | ~968 |
-| Scourge of the Seas | 0.70% | ~968 |
-| Attrition Mission | 0.70% | ~968 |
-| Glittering Collection | 0.70% | ~968 |
-| Moment of Respite | 0.70% | ~968 |
-| Master Recycler | 0.70% | ~968 |
-| Exotic Commodities | 0.70% | ~968 |
-| King's Blade | 0.70% | ~968 |
+| Cream of the Crop | 0.70% | ~969 |
+| Proud Paladin | 0.70% | ~969 |
+| Above the Norm | 0.70% | ~969 |
+| A Ronin Reborn | 0.70% | ~969 |
+| Master of Transmutation | 0.70% | ~969 |
+| Supercharged | 0.70% | ~969 |
+| Ritualist | 0.70% | ~969 |
+| Cranked up to 11 | 0.70% | ~969 |
+| Fit for a King | 0.70% | ~969 |
+| By Your Powers Combined... | 0.70% | ~969 |
+| Wealth Beyond Measure | 0.70% | ~969 |
+| Fat Cat Tag Team | 0.70% | ~969 |
+| Necromancer Queen | 0.70% | ~969 |
+| Master Merchant | 0.70% | ~969 |
+| Miracle Alchemist | 0.70% | ~969 |
+| Laden with Loot | 0.70% | ~969 |
+| Scourge of the Seas | 0.70% | ~969 |
+| Attrition Mission | 0.70% | ~969 |
+| Glittering Collection | 0.70% | ~969 |
+| Moment of Respite | 0.70% | ~969 |
+| Master Recycler | 0.70% | ~969 |
+| Exotic Commodities | 0.70% | ~969 |
+| King's Blade | 0.70% | ~969 |
 | Top of the World | 0.60% | ~830 |
 | Constellated | 0.60% | ~830 |
 | Thirst for Knowledge | 0.60% | ~830 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,357 (Ranked 77)  
+Progressed: 138,359 (Ranked 77)  
 Completed: 176 (0.13%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 176 (0.13%) (Ranked 251)
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
-| 2023-10-30 | 138,357 | 176 |
+| 2023-10-30 | 138,359 | 176 |
 ## Awards
 Max (Great for Beginners): 4,811  (Ranked 73)  
 Sum: 27,470 (Ranked 51)  

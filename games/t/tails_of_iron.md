@@ -6,28 +6,28 @@ Rating: 4.55 (Ranked 495)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 81.00% | ~1,601 |
-| Become King | 74.00% | ~1,462 |
-| Ranged Weapon | 63.00% | ~1,245 |
-| Defeat 25 Frogs | 63.00% | ~1,245 |
+| Become King | 74.00% | ~1,463 |
+| Ranged Weapon | 63.00% | ~1,246 |
+| Defeat 25 Frogs | 63.00% | ~1,246 |
 | Collect Monster Parts | 59.00% | ~1,166 |
-| Two Handed Weapon | 57.00% | ~1,126 |
-| Defeat 25 Grubs | 54.00% | ~1,067 |
-| Rescue Redgi's Brothers | 53.00% | ~1,047 |
-| Collect Iron Ore | 49.00% | ~968 |
-| Defeat 25 Mozis | 48.00% | ~948 |
-| Kitchen Ready To Cook | 48.00% | ~948 |
+| Two Handed Weapon | 58.00% | ~1,147 |
+| Defeat 25 Grubs | 54.00% | ~1,068 |
+| Rescue Redgi's Brothers | 53.00% | ~1,048 |
+| Collect Iron Ore | 49.00% | ~969 |
+| Defeat 25 Mozis | 48.00% | ~949 |
+| Kitchen Ready To Cook | 48.00% | ~949 |
 | Collect Gold | 47.00% | ~929 |
 | Smithy Ready to Craft | 46.00% | ~909 |
-| Fix the Travellers Wagon | 45.00% | ~889 |
+| Fix the Travellers Wagon | 45.00% | ~890 |
 | Complete Elder Faction | 42.00% | ~830 |
 | End of the Mozis | 39.00% | ~771 |
 | Throne Room Fit For A King | 39.00% | ~771 |
 | Meet the Creatures from the Deep | 37.00% | ~731 |
 | Return Power To The Depths | 37.00% | ~731 |
 | Defeat Ratnor Rodentson | 31.00% | ~613 |
-| Return the Statues | 28.00% | ~553 |
+| Return the Statues | 28.00% | ~554 |
 | Defeat Rattus Augustail | 27.00% | ~534 |
-| Complete the Chefs Book | 26.00% | ~514 |
+| Complete the Chefs Book | 25.00% | ~494 |
 | Complete Ranger Faction | 22.00% | ~435 |
 | Defeat Avor Warden of the Northern Wastes | 21.00% | ~415 |
 | Discover the mystery of the Kings Chambers | 20.00% | ~395 |
@@ -36,7 +36,7 @@ Rating: 4.55 (Ranked 495)
 | King of Kings | 8.00% | ~158 |
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,976 (Ranked 215)  
+Progressed: 1,977 (Ranked 215)  
 Completed: 9 (0.46%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 9 (0.46%) (Ranked 195)
 | 2023-10-25 | 1,973 | 9 |
 | 2023-10-26 | 1,974 | 9 |
 | 2023-10-29 | 1,976 | 9 |
+| 2023-10-30 | 1,977 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

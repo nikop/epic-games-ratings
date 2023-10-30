@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -802,7 +802,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44485,
+  "EOS_Progressed": 44492,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 0,
@@ -22552,6 +22552,11 @@
       "Time": "2023-10-30T15:04:46.692696+00:00",
       "NumProgressed": 44485,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T16:05:24.4853779+00:00",
+      "NumProgressed": 44492,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22587,7 +22592,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4894
     },
     {
       "ID": "distance500000",
@@ -22603,7 +22608,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12011
+      "UsersEstimate": 12013
     },
     {
       "ID": "goals180",
@@ -22619,7 +22624,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4448
+      "UsersEstimate": 4449
     },
     {
       "ID": "goals75",
@@ -22643,7 +22648,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "journeyer",
@@ -22675,7 +22680,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "nomad",
@@ -22683,7 +22688,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7562
+      "UsersEstimate": 7564
     },
     {
       "ID": "novice",
@@ -22691,7 +22696,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7118
+      "UsersEstimate": 7119
     },
     {
       "ID": "playerFelipe",
@@ -22755,7 +22760,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "proximityFly1000",
@@ -22771,7 +22776,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11566
+      "UsersEstimate": 11568
     },
     {
       "ID": "sandboarder",
@@ -22787,7 +22792,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4893
+      "UsersEstimate": 4894
     },
     {
       "ID": "ultimate",
@@ -22819,7 +22824,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "unlockmaya",
@@ -22827,7 +22832,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "unlockpaz",
@@ -22851,7 +22856,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "wanderer",
@@ -22874,15 +22879,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44485,
+      "Progressed": 44492,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:04:46.6926955+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:05:24.4853774+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:58:12.4809345+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:04:46.6928715+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:58:19.6396281+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:05:24.485567+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 987,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -592,6 +592,11 @@
       "Time": "2023-10-30T10:07:50.9897917+00:00",
       "NumProgressed": 109,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T16:07:52.106151+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -602,7 +607,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 99
     },
@@ -620,7 +625,7 @@
       "Name": "The Means to Save It",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_12",
@@ -690,7 +695,7 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 97
     },
@@ -746,7 +751,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 15,
       "UsersEstimate": 90
     },
@@ -764,7 +769,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_38",
@@ -778,7 +783,7 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 74
     },
@@ -804,7 +809,7 @@
       "Name": "Armaments Vert",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_44",
@@ -834,7 +839,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 95
     },
@@ -842,7 +847,7 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 40
     },
@@ -852,15 +857,15 @@
       "Name": "Initiate",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_50",
       "SetID": "18al4io",
       "Name": "Veteran",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_54",
@@ -898,7 +903,7 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -956,13 +961,13 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -979,7 +984,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 1
     }
   ],
@@ -987,8 +992,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:07:03.8077394+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:07:52.1061505+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:58:34.9744901+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:07:03.8077848+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:58:42.2655899+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:07:52.1061969+00:00"
 }

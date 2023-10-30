@@ -6,25 +6,25 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,583 |
-| He's Signed! | 50.00% | ~237,583 |
-| First Victory | 50.00% | ~237,583 |
+| Clean Sheet | 50.00% | ~237,584 |
+| He's Signed! | 50.00% | ~237,584 |
+| First Victory | 50.00% | ~237,584 |
 | He's Sold! | 48.00% | ~228,080 |
 | I'm The Boss! | 42.00% | ~199,570 |
 | Hat-trick | 41.00% | ~194,818 |
 | Scoring Streak | 38.00% | ~180,563 |
-| Unbeatable! | 37.00% | ~175,811 |
-| Thumping | 37.00% | ~175,811 |
+| Unbeatable! | 37.00% | ~175,812 |
+| Thumping | 37.00% | ~175,812 |
 | Superb Dressing Room Atmosphere | 35.00% | ~166,308 |
 | Total Support | 32.00% | ~152,053 |
 | Record Signing | 32.00% | ~152,053 |
-| He's a Natural | 31.00% | ~147,301 |
-| Millionaire's Club | 31.00% | ~147,301 |
+| He's a Natural | 31.00% | ~147,302 |
+| Millionaire's Club | 31.00% | ~147,302 |
 | Team Performance | 30.00% | ~142,550 |
 | Parked The Bus | 29.00% | ~137,798 |
 | Shrewd Spender | 29.00% | ~137,798 |
 | Star Man | 29.00% | ~137,798 |
-| Attack! | 28.00% | ~133,046 |
+| Attack! | 28.00% | ~133,047 |
 | You're On Fire | 27.00% | ~128,295 |
 | Tremendous Trio | 27.00% | ~128,295 |
 | Record Sale | 27.00% | ~128,295 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~475 |
 | Shoestring Budget | 0.10% | ~475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,166 (Ranked 38)  
+Progressed: 475,167 (Ranked 38)  
 Completed: 22 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 22 (0.00%) (Ranked 333)
 | 2023-10-27 | 475,033 | 22 |
 | 2023-10-28 | 475,089 | 22 |
 | 2023-10-29 | 475,146 | 22 |
-| 2023-10-30 | 475,166 | 22 |
+| 2023-10-30 | 475,167 | 22 |
 ## Awards
 Max (Relaxing): 6,465  (Ranked 59)  
 Sum: 50,933 (Ranked 27)  

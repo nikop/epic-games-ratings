@@ -6,23 +6,23 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 62.00% | ~205 |
-| Cartographer | 55.00% | ~182 |
+| The Adventure Begins | 62.00% | ~206 |
+| Cartographer | 55.00% | ~183 |
 | A Strange Artefact | 51.00% | ~169 |
-| Insomnia | 46.00% | ~152 |
-| Lost & Found & Lost Again | 40.00% | ~132 |
-| From Whence we Came | 40.00% | ~132 |
+| Insomnia | 46.00% | ~153 |
+| Lost & Found & Lost Again | 40.00% | ~133 |
+| From Whence we Came | 40.00% | ~133 |
 | Fire and Flood | 38.00% | ~126 |
-| Spooky! | 36.00% | ~119 |
-| Shennong Herbalist | 33.00% | ~109 |
-| Treasure Hunt | 33.00% | ~109 |
+| Spooky! | 36.00% | ~120 |
+| Shennong Herbalist | 33.00% | ~110 |
+| Treasure Hunt | 33.00% | ~110 |
 | Good Mama | 31.00% | ~103 |
-| O Captain My Captain | 30.00% | ~99 |
-| Taxonomist | 27.00% | ~89 |
-| Plunderer | 27.00% | ~89 |
-| Traveller | 24.00% | ~79 |
-| Nahua Seeker | 24.00% | ~79 |
-| Uncertain Loyalties | 24.00% | ~79 |
+| O Captain My Captain | 30.00% | ~100 |
+| Taxonomist | 27.00% | ~90 |
+| Plunderer | 27.00% | ~90 |
+| Traveller | 24.00% | ~80 |
+| Uncertain Loyalties | 24.00% | ~80 |
+| Nahua Seeker | 23.00% | ~76 |
 | Roll to Save | 22.00% | ~73 |
 | Veteran Explorer | 20.00% | ~66 |
 | Red Flag Pirate | 18.00% | ~60 |
@@ -31,22 +31,22 @@ Number of Ratings: 20  (23.09.2022)
 | A Gentle Beast | 16.00% | ~53 |
 | For the Club! | 15.00% | ~50 |
 | Practical Palaeontology | 15.00% | ~50 |
-| Dapper | 15.00% | ~50 |
 | The New Director | 14.00% | ~46 |
 | Adventurer | 14.00% | ~46 |
+| Dapper | 14.00% | ~46 |
 | The Director is Dead | 13.00% | ~43 |
 | And Here Is Your Statue | 13.00% | ~43 |
 | Discovery | 13.00% | ~43 |
 | Plays Well With Others | 13.00% | ~43 |
 | Very Classy | 12.00% | ~40 |
-| Under the Table | 11.00% | ~36 |
+| Under the Table | 11.00% | ~37 |
 | It's Complicated | 10.00% | ~33 |
 | Cold Blood, Warm Heart | 9.00% | ~30 |
 | Errand Runner | 9.00% | ~30 |
-| SCHMETTERLING | 8.00% | ~26 |
-| No Laughing Matter | 8.00% | ~26 |
-| The Great Library | 8.00% | ~26 |
-| Level Up | 8.00% | ~26 |
+| SCHMETTERLING | 8.00% | ~27 |
+| No Laughing Matter | 8.00% | ~27 |
+| The Great Library | 8.00% | ~27 |
+| Level Up | 8.00% | ~27 |
 | Zookeeper | 6.00% | ~20 |
 | The Workshop | 6.00% | ~20 |
 | Islander Understanding | 5.00% | ~17 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 318)  
+Progressed: 332 (Ranked 318)  
 Completed: 1 (0.30%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 1 (0.30%) (Ranked 217)
 | 2023-10-25 | 328 | 1 |
 | 2023-10-26 | 330 | 1 |
 | 2023-10-28 | 331 | 1 |
+| 2023-10-30 | 332 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 79.00% | ~31 |
+| Setting Sail | 82.00% | ~32 |
 | A Small Thirsty Thing | 18.00% | ~7 |
 | Spirit Within | 10.00% | ~4 |
 | Dousing a Venerable Flame | 8.00% | ~3 |

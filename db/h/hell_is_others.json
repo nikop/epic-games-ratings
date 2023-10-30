@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1159,7 +1159,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257883,
+  "EOS_Progressed": 257884,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
@@ -20099,6 +20099,11 @@
       "Time": "2023-10-30T15:06:20.1250814+00:00",
       "NumProgressed": 257883,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-30T16:06:58.3930032+00:00",
+      "NumProgressed": 257884,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20222,7 +20227,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "CreditLevel3",
@@ -20382,7 +20387,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7736
+      "UsersEstimate": 7737
     },
     {
       "ID": "KillOtherWithMine",
@@ -20557,7 +20562,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257883,
+      "Progressed": 257884,
       "Completed": 3
     }
   ],
@@ -20565,8 +20570,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-30T00:03:12.5174707+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:06:20.1250807+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:06:58.3930027+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:07.0523364+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:03:03.709762+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:06:20.1252551+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:03:13.2498443+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:06:58.393187+00:00"
 }

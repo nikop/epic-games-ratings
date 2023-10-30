@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2022-05-26T23:00:00+00:00",
@@ -120,17 +120,17 @@
       "ID": "0",
       "SetID": "1kmik7f",
       "Name": "An Adorable Thief",
-      "Percentage": 84,
+      "Percentage": 87,
       "XP": 75,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "1",
       "SetID": "1kmik7f",
       "Name": "Unicycling 101",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 75,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "10",
@@ -233,8 +233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:08:53.7505769+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:09:08.5820721+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:30.9268925+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:59:34.843797+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:08:53.750589+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:59:52.9900082+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:09:08.582083+00:00"
 }

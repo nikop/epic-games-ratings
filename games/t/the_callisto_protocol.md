@@ -32,7 +32,7 @@ Rating: 4.19 (Ranked 905)
 | In Striking Distance | 2.00% | ~327 |
 | One Last Job | 2.00% | ~86 |
 | This Isn't About Escape | 1.00% | ~43 |
-| Big Spender | 0.90% | ~38 |
+| Big Spender | 0.90% | ~39 |
 | Armed to the Teeth | 0.80% | ~34 |
 | Grim Reaper | 0.70% | ~114 |
 | Parole Denied | 0.70% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 905)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,351 (Ranked 140)  
+Progressed: 16,352 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 78 (0.48%) (Ranked 193)
 | 2023-10-27 | 16,311 | 77 |
 | 2023-10-28 | 16,332 | 78 |
 | 2023-10-29 | 16,345 | 78 |
-| 2023-10-30 | 16,351 | 78 |
+| 2023-10-30 | 16,352 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 379)  
 Sum: 462 (Ranked 325)  

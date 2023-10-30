@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 64.00% | ~18 |
-| Wanderer | 57.00% | ~16 |
-| A piece of the story | 43.00% | ~12 |
-| Do what you have to | 39.00% | ~11 |
-| Finished it | 36.00% | ~10 |
-| Refuse to look | 29.00% | ~8 |
-| The artist’s impression | 29.00% | ~8 |
-| It's covered up for a reason | 25.00% | ~7 |
-| Scraps of love | 25.00% | ~7 |
-| Sign of weakness | 25.00% | ~7 |
-| First steps | 18.00% | ~5 |
-| Playtime | 18.00% | ~5 |
-| Tough conversation | 18.00% | ~5 |
+| Something important | 62.00% | ~18 |
+| Wanderer | 55.00% | ~16 |
+| A piece of the story | 41.00% | ~12 |
+| Do what you have to | 38.00% | ~11 |
+| Finished it | 34.00% | ~10 |
+| Refuse to look | 28.00% | ~8 |
+| The artist’s impression | 28.00% | ~8 |
+| It's covered up for a reason | 24.00% | ~7 |
+| Scraps of love | 24.00% | ~7 |
+| Sign of weakness | 24.00% | ~7 |
+| First steps | 17.00% | ~5 |
+| Playtime | 17.00% | ~5 |
+| Tough conversation | 17.00% | ~5 |
 | Breaking free | 14.00% | ~4 |
 | The tragedy unfolds | 14.00% | ~4 |
-| Face your fears | 11.00% | ~3 |
-| A Slice of Life | 11.00% | ~3 |
-| Debut | 11.00% | ~3 |
-| The art of movement | 11.00% | ~3 |
+| Face your fears | 10.00% | ~3 |
+| A Slice of Life | 10.00% | ~3 |
+| Debut | 10.00% | ~3 |
+| The art of movement | 10.00% | ~3 |
 | A new way | 7.00% | ~2 |
 | Another perspective | 7.00% | ~2 |
 | Sound Bite | 7.00% | ~2 |
@@ -30,9 +30,9 @@
 | Fisherman | 7.00% | ~2 |
 | True Reflection | 7.00% | ~2 |
 | Whispers long forgotten | 7.00% | ~2 |
-| Something to think about | 4.00% | ~1 |
-| We Are Not Alone | 4.00% | ~1 |
-| The Perfect Storm | 4.00% | ~1 |
+| Something to think about | 3.00% | ~1 |
+| We Are Not Alone | 3.00% | ~1 |
+| The Perfect Storm | 3.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 489)  
+Progressed: 29 (Ranked 489)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 20 | 0 |
 | 2023-10-28 | 25 | 0 |
 | 2023-10-29 | 28 | 0 |
+| 2023-10-30 | 29 | 0 |

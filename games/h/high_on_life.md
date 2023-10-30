@@ -28,7 +28,7 @@ Rating: 4.64 (Ranked 327)
 | We Came, We Chainsaw, We Conquered | 0.90% | ~15 |
 | Eatin' Good in the Neighborhood | 0.80% | ~195 |
 | Eye Scream, You Scream | 0.70% | ~171 |
-| Mux Ado About Shipping | 0.60% | ~10 |
+| Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.40% | ~98 |
 | Fall In Love With A Parasite | 0.40% | ~7 |
 | Sequel-Bait | 0.30% | ~73 |

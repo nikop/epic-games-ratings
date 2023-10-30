@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "DP",
       "SetID": "2621k8c",
       "Name": "Decision Paralysis",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DW",
@@ -311,9 +311,9 @@
       "ID": "HAB",
       "SetID": "2621k8c",
       "Name": "Healthy and beautiful",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HBACAAD",
@@ -343,9 +343,9 @@
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Harsh",
@@ -439,9 +439,9 @@
       "ID": "LP",
       "SetID": "2621k8c",
       "Name": "Lazy person",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LTW",
@@ -519,9 +519,9 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Mistress",
@@ -591,9 +591,9 @@
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Phantasmagoria",
@@ -615,9 +615,9 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Rationality",
@@ -767,9 +767,9 @@
       "ID": "TAAM",
       "SetID": "2621k8c",
       "Name": "Timid as a mouse",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THOASOK",
@@ -783,9 +783,9 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TMOL",
@@ -877,8 +877,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:09:36.2320924+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:10:01.5868046+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.8244833+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:58:51.7608388+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:09:36.232212+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:59:04.6113557+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:10:01.5869279+00:00"
 }

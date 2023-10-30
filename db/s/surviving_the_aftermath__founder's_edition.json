@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1350,9 +1350,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9963,
+  "EOS_Progressed": 9965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15930,6 +15930,11 @@
       "Time": "2023-10-30T15:08:32.9289128+00:00",
       "NumProgressed": 9963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T16:08:14.5211288+00:00",
+      "NumProgressed": 9965,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15941,7 +15946,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6079
     },
     {
       "ID": "10",
@@ -15973,7 +15978,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "14",
@@ -15981,7 +15986,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "15",
@@ -15997,7 +16002,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "17",
@@ -16021,7 +16026,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5181
+      "UsersEstimate": 5182
     },
     {
       "ID": "2",
@@ -16029,7 +16034,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "20",
@@ -16037,7 +16042,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "21",
@@ -16053,7 +16058,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7273
+      "UsersEstimate": 7274
     },
     {
       "ID": "23",
@@ -16061,7 +16066,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "24",
@@ -16117,7 +16122,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "30",
@@ -16189,7 +16194,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     },
     {
       "ID": "39",
@@ -16221,7 +16226,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "42",
@@ -16261,7 +16266,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2591
     },
     {
       "ID": "47",
@@ -16285,7 +16290,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "5",
@@ -16301,7 +16306,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "51",
@@ -16389,7 +16394,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3188
+      "UsersEstimate": 3189
     },
     {
       "ID": "8",
@@ -16412,15 +16417,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9963,
+      "Progressed": 9965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-29T10:00:51.4730208+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:08:32.9289119+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:08:14.5211283+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:00:25.6105034+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:08:32.929081+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:00:47.0503522+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:08:14.5212756+00:00"
 }

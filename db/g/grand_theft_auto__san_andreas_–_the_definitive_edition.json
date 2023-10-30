@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 478,
-  "Ranking_Popularity": 231,
+  "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1301,18 +1301,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 580,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2023-10-30T16:00:39.3230668+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 582,
+      "NumberOfAwardsMax": 367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 580,
-  "NumberOfAwardsMax": 365,
+  "NumberOfAwards": 582,
+  "NumberOfAwardsMax": 367,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 365
+      "Count": 367
     },
     {
       "Text": "This game is Relaxing",
@@ -13711,9 +13717,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-29T09:00:29.5047311+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:07:07.3902581+00:00",
+  "LastChanged": "2023-10-30T16:00:39.3230667+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:07:56.4597255+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:00:12.8707738+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:07:07.3903736+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:00:39.3230673+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:07:56.4598184+00:00"
 }

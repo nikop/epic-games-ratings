@@ -32,7 +32,7 @@ Rating: 4.27 (Ranked 845)
 | Metropolis | 0.60% | ~7 |
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
-| The Great Winter | 0.40% | ~5 |
+| The Great Winter | 0.50% | ~6 |
 | Red Tape | 0.40% | ~5 |
 | It's spreading | 0.30% | ~3 |
 | The Incarnate | 0.30% | ~3 |

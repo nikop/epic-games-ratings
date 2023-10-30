@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -3661,9 +3661,9 @@
       "ID": "Reviewer",
       "SetID": "1e89b4i",
       "Name": "Reviewer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ScenarioAmateur",
@@ -3685,9 +3685,9 @@
       "ID": "Ten",
       "SetID": "1e89b4i",
       "Name": "Ten!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 188
     },
     {
       "ID": "TimeForManagement",
@@ -3716,8 +3716,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:09:04.4919986+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:09:21.714229+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:01:10.810163+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:09:04.4920536+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:01:45.6827523+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:09:21.7142807+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "LEVEL_240_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 240 pieces",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_240_004",
@@ -292,9 +292,9 @@
       "ID": "LEVEL_375_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 375 pieces",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_375_004",
@@ -316,9 +316,9 @@
       "ID": "LEVEL_375_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 375 pieces",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_540_001",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:05:15.7175788+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:06:00.0688325+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:01:18.2685609+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:05:15.7176048+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:01:54.950306+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:06:00.0688608+00:00"
 }

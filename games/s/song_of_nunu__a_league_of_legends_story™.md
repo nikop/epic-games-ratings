@@ -20,13 +20,13 @@
 | Iceborn | 49.00% | ~18 |
 | Moneyball | 49.00% | ~18 |
 | The Pied Piper Of Freljord | 49.00% | ~18 |
+| Vertical Power | 49.00% | ~18 |
 | Boom Things | 46.00% | ~17 |
 | Rhythm Of Willump | 46.00% | ~17 |
-| Vertical Power | 46.00% | ~17 |
+| Tear of Freedom | 43.00% | ~16 |
 | Snowball Fightn't | 43.00% | ~16 |
-| Tear of Freedom | 41.00% | ~15 |
+| My Darkest Day | 41.00% | ~15 |
 | 3000 Year Blackout | 41.00% | ~15 |
-| My Darkest Day | 38.00% | ~14 |
 | A Tragic Reminder | 38.00% | ~14 |
 | Snowy Poro | 38.00% | ~14 |
 | The Relentless Storm | 38.00% | ~14 |
@@ -43,10 +43,10 @@
 | Yummy | 32.00% | ~12 |
 | We Are Speed | 27.00% | ~10 |
 | Braum's Poro Ranch | 24.00% | ~9 |
+| It Was Him | 24.00% | ~9 |
 | One From The Heart | 24.00% | ~9 |
 | Handy Yeti | 24.00% | ~9 |
 | Sneaky Notai | 22.00% | ~8 |
-| It Was Him | 22.00% | ~8 |
 | Rock Star | 22.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37 (Ranked 474)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -1290,9 +1290,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 226
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1330,9 +1330,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 148
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1519,8 +1519,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:06:36.2104605+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:07:18.7049879+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:58:17.3933811+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:06:36.2105055+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:58:25.1339258+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:07:18.7050681+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -2073,9 +2073,9 @@
       "ID": "CHALLENGE_GREATWINTER",
       "SetID": "6ohhfoc",
       "Name": "The Great Winter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHALLENGE_ITALY",
@@ -2410,8 +2410,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-10-30T15:05:30.4373259+00:00",
+  "LastChanged_Achievements": "2023-10-30T16:06:18.425616+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:09.081157+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:58:22.8821148+00:00",
-  "LastUpdate_Achievements": "2023-10-30T15:05:30.4373777+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:58:30.1586389+00:00",
+  "LastUpdate_Achievements": "2023-10-30T16:06:18.425671+00:00"
 }

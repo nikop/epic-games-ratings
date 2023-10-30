@@ -6,7 +6,7 @@ Rating: 4.63 (Ranked 343)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 94.00% | ~1,263 |
-| Welcome Aboard | 85.00% | ~1,142 |
+| Welcome Aboard | 86.00% | ~1,156 |
 | Lab Rat | 75.00% | ~1,008 |
 | All Systems Go | 66.00% | ~887 |
 | Brute Force | 66.00% | ~887 |
@@ -27,10 +27,10 @@ Rating: 4.63 (Ranked 343)
 | Wreckage | 41.00% | ~551 |
 | Keeper of the Faith | 39.00% | ~524 |
 | Betrayed | 38.00% | ~511 |
+| Exodus | 37.00% | ~497 |
 | Legend Teller | 37.00% | ~497 |
 | There's Always Peng! | 37.00% | ~497 |
 | Mindless Prey | 37.00% | ~497 |
-| Exodus | 36.00% | ~484 |
 | Front Toward Enemy | 34.00% | ~457 |
 | A Cut Above | 33.00% | ~444 |
 | Set A Benchmark | 29.00% | ~390 |
