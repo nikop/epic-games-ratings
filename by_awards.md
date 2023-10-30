@@ -10,14 +10,14 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,695 | 4.69 | 229 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 102,927 | 4.64 | 328 |
 | 10 | [VALORANT](games/v/valorant.md) | 78,045 | 4.52 | 546 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,816 | 4.58 | 442 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,848 | 4.58 | 442 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,917 | 4.61 | 380 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,782 | 4.74 | 153 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,812 | 4.49 | 601 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,039 | 4.51 | 559 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,107 | 4.64 | 328 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,909 | 4.76 | 121 |
-| 18 | [Dauntless](games/d/dauntless.md) | 23,273 | 4.53 | 530 |
+| 18 | [Dauntless](games/d/dauntless.md) | 23,302 | 4.53 | 530 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,599 | 4.26 | 856 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,084 | 4.57 | 464 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,637 | 4.89 | 10 |
@@ -67,7 +67,7 @@
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,938 | 4.66 | 289 |
 | 66 | [Prey](games/p/prey.md) | 5,753 | 4.62 | 360 |
 | 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,600 | 4.85 | 43 |
-| 68 | [Rogue Company](games/r/rogue_company.md) | 5,595 | 4.31 | 820 |
+| 68 | [Rogue Company](games/r/rogue_company.md) | 5,599 | 4.31 | 820 |
 | 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,462 | 4.06 | 965 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,331 | 4.69 | 229 |
 | 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,141 | 4.69 | 229 |
@@ -94,7 +94,7 @@
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,370 | 4.76 | 121 |
 | 93 | [Hades](games/h/hades.md) | 3,338 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,333 | 4.57 | 464 |
-| 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,096 | 4.49 | 601 |
+| 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,103 | 4.49 | 601 |
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,009 | 4.34 | 793 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,941 | 4.50 | 580 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,886 | 4.18 | 915 |
@@ -142,7 +142,7 @@
 | 140 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 1,143 | 4.53 | 530 |
 | 141 | [EVE Online](games/e/eve_online.md) | 1,113 | 4.25 | 864 |
 | 142 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,093 | 4.65 | 309 |
-| 143 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,091 | 4.61 | 380 |
+| 142 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,093 | 4.61 | 380 |
 | 144 | [Saints Row](games/s/saints_row.md) | 1,075 | 3.79 | 1,019 |
 | 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,063 | 4.79 | 93 |
 | 146 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,045 | 4.40 | 731 |

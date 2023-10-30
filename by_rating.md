@@ -399,7 +399,7 @@
 | 380 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,323 | 39 |
 | 380 | [Returnal™](games/r/returnal™.md) | 4.61 | 87 | 372 |
 | 380 | [RiME](games/r/rime.md) | 4.61 | 0 | 544 |
-| 380 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,091 | 143 |
+| 380 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,093 | 142 |
 | 380 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 544 |
 | 380 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 292 | 246 |
 | 380 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 0 | 544 |
@@ -443,7 +443,7 @@
 | 426 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.59 | 20 | 536 |
 | 442 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 438 |
 | 442 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 544 |
-| 442 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 62,816 | 11 |
+| 442 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 62,848 | 11 |
 | 442 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 180 | 293 |
 | 442 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,737 | 40 |
 | 442 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 262 | 259 |
@@ -531,7 +531,7 @@
 | 519 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 79 | 380 |
 | 530 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 544 |
 | 530 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 544 |
-| 530 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,273 | 18 |
+| 530 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,302 | 18 |
 | 530 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 525 |
 | 530 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 467 |
 | 530 | [Everything](games/e/everything.md) | 4.53 | 0 | 544 |
@@ -613,7 +613,7 @@
 | 601 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 355 |
 | 601 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 473 |
 | 601 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 544 |
-| 601 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 3,096 | 95 |
+| 601 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 3,103 | 95 |
 | 601 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 458 |
 | 616 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.48 | 33 | 478 |
 | 616 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 544 |
@@ -821,7 +821,7 @@
 | 814 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 544 |
 | 820 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 544 |
 | 820 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 369 | 229 |
-| 820 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,595 | 68 |
+| 820 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,599 | 68 |
 | 820 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 972 | 153 |
 | 824 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.30 | 0 | 544 |
 | 824 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.30 | 0 | 544 |
