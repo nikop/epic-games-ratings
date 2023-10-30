@@ -242,12 +242,12 @@ Completed: 53 (0.06%) (Ranked 282)
 | 2023-10-29 | 89,434 | 53 |
 | 2023-10-30 | 89,439 | 53 |
 ## Awards
-Max (Diverse Characters): 512  (Ranked 205)  
-Sum: 2,905 (Ranked 175)  
-Diff (max vs sum): 30  
+Max (Diverse Characters): 517  (Ranked 204)  
+Sum: 2,910 (Ranked 175)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 512 |
+| This game has Diverse Characters | 517 |
 | This game has Quickly Understood Controls | 488 |
 | This game is Highly Recommended | 487 |
 | This game has Challenging Combat | 478 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 30
 | 2023-10-27 | 3.94 | 512 | 2,895 |
 | 2023-10-28 | 3.94 | 512 | 2,898 |
 | 2023-10-29 | 3.94 | 512 | 2,900 |
-| 2023-10-30 | 3.94 | 512 | 2,905 |
+| 2023-10-30 | 3.94 | 517 | 2,910 |

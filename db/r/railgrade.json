@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 3482,
+  "Ranking_EOS_NewPlayers": 3483,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -591,9 +591,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18688,
+  "EOS_Progressed": 18687,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": -92,
+  "EOS_NewPlayers": -91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8761,6 +8761,11 @@
       "Time": "2023-10-30T08:04:06.2184285+00:00",
       "NumProgressed": 18688,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-10-30T10:04:36.6969688+00:00",
+      "NumProgressed": 18687,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 37,
@@ -8772,7 +8777,7 @@
       "Name": "High Flier",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 748
+      "UsersEstimate": 747
     },
     {
       "ID": "ach.020.helper",
@@ -8804,7 +8809,7 @@
       "Name": "Builder",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 16259
+      "UsersEstimate": 16258
     },
     {
       "ID": "ach.060.goingdistance",
@@ -8860,7 +8865,7 @@
       "Name": "Simplification",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6541
+      "UsersEstimate": 6540
     },
     {
       "ID": "ach.130.minimalist",
@@ -8868,7 +8873,7 @@
       "Name": "Minimalist",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 17567
+      "UsersEstimate": 17566
     },
     {
       "ID": "ach.140.legacy",
@@ -8876,7 +8881,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 102,
       "XP": 60,
-      "UsersEstimate": 19062
+      "UsersEstimate": 19061
     },
     {
       "ID": "ach.150.pocket",
@@ -8884,7 +8889,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12708
+      "UsersEstimate": 12707
     },
     {
       "ID": "ach.160.box",
@@ -8892,7 +8897,7 @@
       "Name": "Box of Trains",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6541
+      "UsersEstimate": 6540
     },
     {
       "ID": "ach.170.room",
@@ -8908,7 +8913,7 @@
       "Name": "Inspector",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 11587
+      "UsersEstimate": 11586
     },
     {
       "ID": "ach.190.scenic",
@@ -8916,7 +8921,7 @@
       "Name": "The scenic route",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5419
     },
     {
       "ID": "ach.200.light",
@@ -8932,7 +8937,7 @@
       "Name": "Oil Baron",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8223
+      "UsersEstimate": 8222
     },
     {
       "ID": "ach.220.hot",
@@ -8956,7 +8961,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8223
+      "UsersEstimate": 8222
     },
     {
       "ID": "ach.250.downfall",
@@ -8964,7 +8969,7 @@
       "Name": "Before the Downfall",
       "Percentage": 97,
       "XP": 60,
-      "UsersEstimate": 18127
+      "UsersEstimate": 18126
     },
     {
       "ID": "ach.260.investor",
@@ -9067,7 +9072,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18688,
+      "Progressed": 18687,
       "Completed": 32
     }
   ],
@@ -9075,8 +9080,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:03:24.8542798+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:04:36.6969681+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:10.9481725+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:57:29.7720294+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:03:24.8543599+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:58:03.9830997+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:04:36.6970274+00:00"
 }

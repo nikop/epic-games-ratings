@@ -6,8 +6,8 @@
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3975,9 +3975,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 76672,
+  "EOS_Progressed": 76674,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25740,6 +25740,11 @@
       "Time": "2023-10-30T09:03:17.3658072+00:00",
       "NumProgressed": 76672,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-30T10:04:27.5962655+00:00",
+      "NumProgressed": 76674,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25839,7 +25844,7 @@
       "Name": "Showdown",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "complete_first_side_hustle",
@@ -25847,7 +25852,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23768
+      "UsersEstimate": 23769
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -25855,7 +25860,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24535
+      "UsersEstimate": 24536
     },
     {
       "ID": "complete_mission_1",
@@ -25863,7 +25868,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36036
+      "UsersEstimate": 36037
     },
     {
       "ID": "customize_a_vehicle",
@@ -25871,7 +25876,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26068
+      "UsersEstimate": 26069
     },
     {
       "ID": "customize_a_weapon",
@@ -25991,7 +25996,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "get_fired",
@@ -25999,7 +26004,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27602
+      "UsersEstimate": 27603
     },
     {
       "ID": "hit_max_level",
@@ -26023,7 +26028,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15334
+      "UsersEstimate": 15335
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -26031,7 +26036,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21468
+      "UsersEstimate": 21469
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26047,7 +26052,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26835
+      "UsersEstimate": 26836
     },
     {
       "ID": "one_third_purple",
@@ -26103,7 +26108,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20701
+      "UsersEstimate": 20702
     },
     {
       "ID": "two_thirds_purple",
@@ -26135,7 +26140,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32202
+      "UsersEstimate": 32203
     },
     {
       "ID": "whole_map_purple",
@@ -26167,20 +26172,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76672,
+      "Progressed": 76674,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48309,
+      "Progressed": 48311,
       "Completed": 4219
     }
   ],
@@ -26188,8 +26193,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-30T05:03:33.7694751+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:03:17.3658064+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:04:27.5962646+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:02:43.8873241+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:03:17.3660312+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:03:37.2772728+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:04:27.5964068+00:00"
 }

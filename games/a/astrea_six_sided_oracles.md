@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 36.00% | ~24 |
-| Purification Pioneer | 35.00% | ~23 |
+| Meissa's Savior | 38.00% | ~25 |
+| Purification Pioneer | 36.00% | ~24 |
 | Noctuan Champion | 35.00% | ~23 |
 | Endless Tricks | 33.00% | ~22 |
 | Dicesmithing Time! | 32.00% | ~21 |

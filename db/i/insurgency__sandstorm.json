@@ -3886,9 +3886,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 471590,
+  "EOS_Progressed": 471611,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6242,
+  "EOS_NewPlayers": 6255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25796,6 +25796,11 @@
       "Time": "2023-10-30T09:04:30.722476+00:00",
       "NumProgressed": 471590,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-30T10:05:56.2448033+00:00",
+      "NumProgressed": 471611,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -26071,7 +26076,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23580
+      "UsersEstimate": 23581
     },
     {
       "ID": "ACH_WET_FEET",
@@ -26086,15 +26091,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 471590,
+      "Progressed": 471611,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-10-30T08:59:00.5242079+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:04:30.7224754+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:05:56.2448029+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:31.5084647+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:59:00.5242086+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:04:30.722643+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:00:04.4741549+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:05:56.2449237+00:00"
 }

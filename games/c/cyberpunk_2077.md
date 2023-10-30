@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,836 |
-| Gun Fu | 1.00% | ~8,945 |
+| V for Vendetta | 3.00% | ~26,837 |
+| Gun Fu | 1.00% | ~8,946 |
 | Ten out of Ten | 0.80% | ~7,156 |
 | Full Body Conversion | 0.70% | ~6,262 |
 | Stanislavski's Method | 0.70% | ~6,262 |
@@ -28,6 +28,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.50% | ~4,473 |
 | Spin Doctor | 0.50% | ~116 |
 | Bushido and Chill | 0.40% | ~3,578 |
+| To Protect and Serve | 0.40% | ~3,578 |
 | Gunslinger | 0.40% | ~3,578 |
 | Master Crafter | 0.40% | ~3,578 |
 | I Am The Law | 0.40% | ~3,578 |
@@ -37,7 +38,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.40% | ~3,578 |
 | Judy vs Night City | 0.40% | ~3,578 |
 | To Bad Decisions! | 0.30% | ~2,684 |
-| To Protect and Serve | 0.30% | ~2,684 |
 | The Wandering Fool | 0.30% | ~2,684 |
 | Mean Streets | 0.30% | ~2,684 |
 | Temperance | 0.30% | ~2,684 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,547 (Ranked 15)  
+Progressed: 894,556 (Ranked 15)  
 Completed: 2,734 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 2,734 (0.31%) (Ranked 212)
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
-| 2023-10-30 | 894,547 | 2,734 |
+| 2023-10-30 | 894,556 | 2,734 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
 Sum: 334,895 (Ranked 10)  

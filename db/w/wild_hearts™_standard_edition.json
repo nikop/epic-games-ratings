@@ -1024,9 +1024,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_21",
@@ -1318,8 +1318,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:03:35.1472337+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:04:49.574349+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:57:24.3010982+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:03:35.1472919+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:57:52.9647483+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:04:49.574387+00:00"
 }

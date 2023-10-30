@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,433 |
+| Stylish | 5.00% | ~1,434 |
 | Advancement | 4.00% | ~1,147 |
 | Meticulously Efficient | 4.00% | ~1,147 |
 | Clutch Capture | 3.00% | ~860 |
@@ -19,18 +19,18 @@ Rating: 4.50 (Ranked 579)
 | There you are! | 3.00% | ~860 |
 | Vaporous Expansion | 3.00% | ~860 |
 | Whoopsie | 3.00% | ~860 |
-| Animated | 2.00% | ~573 |
-| Back Off | 2.00% | ~573 |
-| Daily Dose | 2.00% | ~573 |
-| Ectoplasmic Entity | 2.00% | ~573 |
-| Ghostbuster In Training | 2.00% | ~573 |
-| Icing on the Cake | 2.00% | ~573 |
-| Legions | 2.00% | ~573 |
-| Pesky Jerks | 2.00% | ~573 |
-| Right back at ya | 2.00% | ~573 |
-| Side Hustle | 2.00% | ~573 |
-| Summoner | 2.00% | ~573 |
-| Welcome to the Crew | 2.00% | ~573 |
+| Animated | 2.00% | ~574 |
+| Back Off | 2.00% | ~574 |
+| Daily Dose | 2.00% | ~574 |
+| Ectoplasmic Entity | 2.00% | ~574 |
+| Ghostbuster In Training | 2.00% | ~574 |
+| Icing on the Cake | 2.00% | ~574 |
+| Legions | 2.00% | ~574 |
+| Pesky Jerks | 2.00% | ~574 |
+| Right back at ya | 2.00% | ~574 |
+| Side Hustle | 2.00% | ~574 |
+| Summoner | 2.00% | ~574 |
+| Welcome to the Crew | 2.00% | ~574 |
 | We have the best insurance | 1.00% | ~287 |
 | Collector | 1.00% | ~287 |
 | Escape Artist | 1.00% | ~287 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,665 (Ranked 122)  
+Progressed: 28,679 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,665 | 65 |
+| 2023-10-30 | 28,679 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,613 (Ranked 180)  

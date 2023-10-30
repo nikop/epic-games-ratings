@@ -14420,9 +14420,9 @@
       "Count": 11984
     }
   ],
-  "EOS_Progressed": 894547,
+  "EOS_Progressed": 894556,
   "EOS_Completed": 2734,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36300,6 +36300,11 @@
       "Time": "2023-10-30T09:03:49.5886068+00:00",
       "NumProgressed": 894547,
       "NumCompleted": 2734
+    },
+    {
+      "Time": "2023-10-30T10:05:06.3561528+00:00",
+      "NumProgressed": 894556,
+      "NumCompleted": 2734
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36350,9 +36355,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2684
+      "UsersEstimate": 3578
     },
     {
       "ID": "Fortuneteller",
@@ -36384,7 +36389,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8945
+      "UsersEstimate": 8946
     },
     {
       "ID": "Gunslinger",
@@ -36640,7 +36645,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26836
+      "UsersEstimate": 26837
     },
     {
       "ID": "YipMan",
@@ -36831,21 +36836,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894547,
+      "Progressed": 894556,
       "Completed": 2734
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23170,
+      "Progressed": 23179,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-30T08:57:29.8999701+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:03:49.588606+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:05:06.3561524+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:57:29.8999707+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:03:49.588881+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:58:04.2947967+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:05:06.356296+00:00"
 }

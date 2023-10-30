@@ -14,20 +14,20 @@
 | Settle Down | 70.00% | ~68 |
 | Stay Hydrated | 64.00% | ~62 |
 | First Win | 63.00% | ~61 |
-| True Story! | 43.00% | ~42 |
+| True Story! | 44.00% | ~43 |
 | Bedroom Secret Spot | 41.00% | ~40 |
 | Kick It | 33.00% | ~32 |
 | At least everyone still had fun | 31.00% | ~30 |
 | Classroom Secret Spot | 30.00% | ~29 |
 | Spooky | 28.00% | ~27 |
 | Grand Slam! | 27.00% | ~26 |
+| Save some water for the fishies | 24.00% | ~23 |
 | Bathroom Secret Spot | 24.00% | ~23 |
 | Angry Dad | 24.00% | ~23 |
-| Save some water for the fishies | 23.00% | ~22 |
 | Living Room Secret Spot | 22.00% | ~21 |
 | Have Mercy | 22.00% | ~21 |
-| Angry Mom | 20.00% | ~19 |
-| Hi Hungry, I'm Dad | 19.00% | ~18 |
+| Angry Mom | 21.00% | ~20 |
+| Hi Hungry, I'm Dad | 20.00% | ~19 |
 | Just how we drew it up | 12.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |

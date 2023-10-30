@@ -39,8 +39,8 @@
 | Deadliest and Biggest Snowball Ever! | 32.00% | ~12 |
 | So Close | 30.00% | ~11 |
 | Freeze The Ice Witch | 30.00% | ~11 |
+| It Is Not Over | 30.00% | ~11 |
 | You Get Used To It | 27.00% | ~10 |
-| It Is Not Over | 27.00% | ~10 |
 | We Are Speed | 27.00% | ~10 |
 | Braum's Poro Ranch | 24.00% | ~9 |
 | One From The Heart | 24.00% | ~9 |

@@ -5407,9 +5407,9 @@
       "ID": "ACH_KILL_XENOS",
       "SetID": "816efe",
       "Name": "Cleaning Lethe, One Nest At A Time",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2380
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5656,8 +5656,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-22T19:59:31.4254153+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:05:08.7254057+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:06:42.7698211+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.9783069+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:57:41.9792229+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:05:08.7254771+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:58:19.5963058+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:06:42.7698723+00:00"
 }

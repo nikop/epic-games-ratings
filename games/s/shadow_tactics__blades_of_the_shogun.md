@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,300 |
+| Genin | 12.00% | ~25,301 |
 | A thief's beginning | 10.00% | ~21,084 |
 | Thorough | 10.00% | ~21,084 |
-| Disguised | 9.00% | ~18,975 |
-| Rollin' | 9.00% | ~18,975 |
-| Tanuki Time | 9.00% | ~18,975 |
-| Rescue Takuma | 8.00% | ~16,867 |
-| Stoned Ox | 8.00% | ~16,867 |
+| Disguised | 9.00% | ~18,976 |
+| Rollin' | 9.00% | ~18,976 |
+| Tanuki Time | 9.00% | ~18,976 |
+| Rescue Takuma | 8.00% | ~16,868 |
+| Stoned Ox | 8.00% | ~16,868 |
 | Happy Planning | 7.00% | ~14,759 |
 | Ice Ice Yuki | 7.00% | ~14,759 |
 | Jonin | 7.00% | ~14,759 |
 | Yabu | 7.00% | ~14,759 |
-| Chunin | 6.00% | ~12,650 |
-| Flying Rocks | 6.00% | ~12,650 |
-| Mugen Unchained | 6.00% | ~12,650 |
-| Warzone | 6.00% | ~12,650 |
+| Chunin | 6.00% | ~12,651 |
+| Flying Rocks | 6.00% | ~12,651 |
+| Mugen Unchained | 6.00% | ~12,651 |
+| Warzone | 6.00% | ~12,651 |
 | Okkoto | 5.00% | ~10,542 |
 | Prisoners | 5.00% | ~10,542 |
 | Too Early | 5.00% | ~10,542 |
-| Gear up | 4.00% | ~8,433 |
-| Happy little accidents | 4.00% | ~8,433 |
-| Still Rollin' | 4.00% | ~8,433 |
+| Gear up | 4.00% | ~8,434 |
+| Happy little accidents | 4.00% | ~8,434 |
+| Still Rollin' | 4.00% | ~8,434 |
 | It's raining men | 3.00% | ~6,325 |
 | Noboru | 3.00% | ~6,325 |
 | Stoned | 3.00% | ~6,325 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~211 |
 | Release the Kraken | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,837 (Ranked 69)  
+Progressed: 210,844 (Ranked 69)  
 Completed: 92 (0.04%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 92 (0.04%) (Ranked 292)
 | 2023-10-27 | 210,326 | 92 |
 | 2023-10-28 | 210,542 | 92 |
 | 2023-10-29 | 210,793 | 92 |
-| 2023-10-30 | 210,837 | 92 |
+| 2023-10-30 | 210,844 | 92 |
 ## Awards
 Max (Great for Beginners): 569  (Ranked 197)  
 Sum: 4,811 (Ranked 139)  

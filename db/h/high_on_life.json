@@ -6,7 +6,7 @@
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_Completed": 287,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24396,
+  "EOS_Progressed": 24397,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -6256,6 +6256,11 @@
       "Time": "2023-10-30T04:06:15.1541159+00:00",
       "NumProgressed": 24396,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-10-30T10:07:48.1150981+00:00",
+      "NumProgressed": 24397,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6465,9 +6470,9 @@
       "ID": "ACH_MOPLET_BOSS",
       "SetID": "cdkbb11",
       "Name": "Gunning For Your Job",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -6569,9 +6574,9 @@
       "ID": "ACH_KNIFEY_EXECUTE_BLOAT",
       "SetID": "7fgbhpb",
       "Name": "We Came, We Chainsaw, We Conquered",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_MAKE_A_WISH",
@@ -6618,13 +6623,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24396,
+      "Progressed": 24397,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1689,
+      "Progressed": 1690,
       "Completed": 1375
     }
   ],
@@ -6632,8 +6637,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:06:02.9487279+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:07:48.1150977+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:16.0229367+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:57:34.5645667+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:06:02.9488398+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:58:10.1124858+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:07:48.1151584+00:00"
 }

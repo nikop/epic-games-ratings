@@ -527,9 +527,9 @@
       "ID": "17",
       "SetID": "39djiaj",
       "Name": "True Story!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "18",
@@ -623,9 +623,9 @@
       "ID": "28",
       "SetID": "39djiaj",
       "Name": "Hi Hungry, I\u0027m Dad",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "29",
@@ -655,9 +655,9 @@
       "ID": "31",
       "SetID": "39djiaj",
       "Name": "Save some water for the fishies",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "32",
@@ -719,9 +719,9 @@
       "ID": "4",
       "SetID": "39djiaj",
       "Name": "Angry Mom",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "40",
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:08:00.160168+00:00",
+  "LastChanged_Achievements": "2023-10-30T10:08:07.5309828+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:28.9364056+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:02:44.7743399+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:08:00.1602048+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:03:37.7492585+00:00",
+  "LastUpdate_Achievements": "2023-10-30T10:08:07.5310109+00:00"
 }

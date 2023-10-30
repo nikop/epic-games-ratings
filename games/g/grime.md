@@ -34,7 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.40% | ~622 |
 | Inevitable | 0.40% | ~622 |
 | Breathsmith | 0.40% | ~622 |
-| Dream | 0.40% | ~620 |
+| Dream | 0.40% | ~621 |
 | Bloodhunter | 0.30% | ~467 |
 | Unwrap the Gift | 0.30% | ~467 |
 | Passage | 0.30% | ~467 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,535 (Ranked 75)  
+Progressed: 155,544 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 1 (0.00%) (Ranked 332)
 | 2023-10-27 | 154,992 | 1 |
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
-| 2023-10-30 | 155,535 | 1 |
+| 2023-10-30 | 155,544 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 425)  
 Sum: 330 (Ranked 351)  
