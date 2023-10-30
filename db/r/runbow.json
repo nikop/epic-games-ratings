@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250786,
+  "EOS_Progressed": 250788,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
@@ -17722,6 +17722,11 @@
       "Time": "2023-10-30T00:09:20.3154675+00:00",
       "NumProgressed": 250786,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-30T01:52:44.7093009+00:00",
+      "NumProgressed": 250788,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17829,7 +17834,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45141
+      "UsersEstimate": 45142
     },
     {
       "ID": "curator",
@@ -17837,7 +17842,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50157
+      "UsersEstimate": 50158
     },
     {
       "ID": "didYourTime",
@@ -17909,7 +17914,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132917
+      "UsersEstimate": 132918
     },
     {
       "ID": "indegestible",
@@ -17933,7 +17938,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65204
+      "UsersEstimate": 65205
     },
     {
       "ID": "justABit",
@@ -17973,7 +17978,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125393
+      "UsersEstimate": 125394
     },
     {
       "ID": "notScared",
@@ -18100,7 +18105,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250786,
+      "Progressed": 250788,
       "Completed": 6
     }
   ],
@@ -18108,8 +18113,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:09:20.3154668+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:52:44.7093004+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:47.9413553+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:00:37.7218402+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:09:20.3157284+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:43:35.9193846+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:52:44.7094677+00:00"
 }

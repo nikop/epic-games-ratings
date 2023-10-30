@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 635,
+  "Ranking_Rating": 636,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 127,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23056,
+  "EOS_Progressed": 23057,
   "EOS_Completed": 447,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -21093,6 +21093,11 @@
       "Time": "2023-10-30T00:04:33.8674919+00:00",
       "NumProgressed": 23056,
       "NumCompleted": 447
+    },
+    {
+      "Time": "2023-10-30T01:47:50.8928979+00:00",
+      "NumProgressed": 23057,
+      "NumCompleted": 447
     }
   ],
   "TotalAchievements": 20,
@@ -21168,7 +21173,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3458
+      "UsersEstimate": 3459
     },
     {
       "ID": "FOUND_ERIN",
@@ -21224,7 +21229,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17753
+      "UsersEstimate": 17754
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21263,15 +21268,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23056,
+      "Progressed": 23057,
       "Completed": 447
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:04:33.8674915+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:47:50.8928974+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:03:30.4184021+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:04:33.8676879+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:47:08.0392701+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:47:50.8930386+00:00"
 }

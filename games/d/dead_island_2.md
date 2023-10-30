@@ -1,57 +1,57 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 519)  
+Rating: 4.54 (Ranked 518)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,402 |
-| Welcome To Hell-A | 5.00% | ~35,402 |
-| Git Gutte! | 4.00% | ~28,322 |
-| Break A Leg | 4.00% | ~28,322 |
-| Coup de Grâce | 4.00% | ~28,322 |
-| Hazardous Materials | 4.00% | ~28,322 |
-| Friends Like These | 4.00% | ~28,322 |
-| Apex Predator | 4.00% | ~28,322 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,322 |
-| Dr. Reed, I Presume? | 3.00% | ~21,241 |
-| Bookworm | 3.00% | ~21,241 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,241 |
-| But Doctor, I am Butcho | 3.00% | ~21,241 |
-| Slayer Squad | 3.00% | ~21,241 |
-| Can't Handle the Truth | 3.00% | ~21,241 |
-| Like Riding a Bike | 3.00% | ~21,241 |
-| Zombologist | 3.00% | ~21,241 |
-| A Patton Emerges | 3.00% | ~21,241 |
-| I Am the Resurrection | 3.00% | ~21,241 |
-| Stacking the Deck | 3.00% | ~21,241 |
-| Our True Nature | 3.00% | ~21,241 |
-| This is My Weapon | 3.00% | ~21,241 |
-| Making Your Mark | 2.00% | ~14,161 |
-| Anger Management | 2.00% | ~14,161 |
-| Perks of the Job | 2.00% | ~14,161 |
-| Ooh, Shiny! | 2.00% | ~14,161 |
-| Humanity Distilled | 2.00% | ~14,161 |
-| Down with the Sickness | 2.00% | ~14,161 |
-| Max Headroom | 2.00% | ~14,161 |
-| Smorgasbord | 1.00% | ~7,080 |
-| Internet Famous | 1.00% | ~7,080 |
-| Jumbo Keyring | 1.00% | ~7,080 |
-| Go, Bobcats! | 1.00% | ~7,080 |
-| Rising Star | 1.00% | ~7,080 |
-| On Safari | 0.90% | ~6,372 |
-| Not Even My Final Form | 0.90% | ~6,372 |
-| Make it So | 0.80% | ~5,664 |
-| Variety is the Spice of Death | 0.80% | ~5,664 |
-| LA Influential | 0.60% | ~4,248 |
-| Gore Horse | 0.60% | ~4,248 |
-| Sharpest Tool in the Box | 0.60% | ~4,248 |
+| Hotel California | 5.00% | ~35,404 |
+| Welcome To Hell-A | 5.00% | ~35,404 |
+| Git Gutte! | 4.00% | ~28,324 |
+| Break A Leg | 4.00% | ~28,324 |
+| Coup de Grâce | 4.00% | ~28,324 |
+| Hazardous Materials | 4.00% | ~28,324 |
+| Friends Like These | 4.00% | ~28,324 |
+| Apex Predator | 4.00% | ~28,324 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,324 |
+| Dr. Reed, I Presume? | 3.00% | ~21,243 |
+| Bookworm | 3.00% | ~21,243 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,243 |
+| But Doctor, I am Butcho | 3.00% | ~21,243 |
+| Slayer Squad | 3.00% | ~21,243 |
+| Can't Handle the Truth | 3.00% | ~21,243 |
+| Like Riding a Bike | 3.00% | ~21,243 |
+| Zombologist | 3.00% | ~21,243 |
+| A Patton Emerges | 3.00% | ~21,243 |
+| I Am the Resurrection | 3.00% | ~21,243 |
+| Stacking the Deck | 3.00% | ~21,243 |
+| Our True Nature | 3.00% | ~21,243 |
+| This is My Weapon | 3.00% | ~21,243 |
+| Making Your Mark | 2.00% | ~14,162 |
+| Anger Management | 2.00% | ~14,162 |
+| Perks of the Job | 2.00% | ~14,162 |
+| Ooh, Shiny! | 2.00% | ~14,162 |
+| Humanity Distilled | 2.00% | ~14,162 |
+| Down with the Sickness | 2.00% | ~14,162 |
+| Max Headroom | 2.00% | ~14,162 |
+| Smorgasbord | 1.00% | ~7,081 |
+| Internet Famous | 1.00% | ~7,081 |
+| Jumbo Keyring | 1.00% | ~7,081 |
+| Go, Bobcats! | 1.00% | ~7,081 |
+| Rising Star | 1.00% | ~7,081 |
+| On Safari | 0.90% | ~6,373 |
+| Not Even My Final Form | 0.90% | ~6,373 |
+| Make it So | 0.80% | ~5,665 |
+| Variety is the Spice of Death | 0.80% | ~5,665 |
+| LA Influential | 0.60% | ~4,249 |
+| Gore Horse | 0.60% | ~4,249 |
+| Sharpest Tool in the Box | 0.60% | ~4,249 |
 | Sole Survivor | 0.50% | ~3,540 |
 | Survival Skills | 0.40% | ~2,832 |
 | Donk! | 0.20% | ~1,416 |
 | Bucket List | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,048 (Ranked 22)  
+Progressed: 708,090 (Ranked 22)  
 Completed: 2,280 (0.32%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,280 (0.32%) (Ranked 211)
 | 2023-10-27 | 705,683 | 2,275 |
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
-| 2023-10-30 | 708,048 | 2,280 |
+| 2023-10-30 | 708,090 | 2,280 |
 ## Awards
 Max (Great Boss Battles): 6,730  (Ranked 56)  
 Sum: 10,135 (Ranked 90)  

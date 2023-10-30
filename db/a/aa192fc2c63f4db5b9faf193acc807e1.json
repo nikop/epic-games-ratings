@@ -2,9 +2,9 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.56,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -109,6 +109,11 @@
       "Time": "2023-10-29T23:10:10.5536975+00:00",
       "NumProgressed": 18,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T01:53:18.441962+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -127,7 +132,7 @@
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -135,7 +140,7 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 75,
       "UsersEstimate": 6
     },
@@ -143,7 +148,7 @@
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 80,
       "UsersEstimate": 3
     },
@@ -159,15 +164,15 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -175,7 +180,7 @@
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 80,
       "UsersEstimate": 3
     },
@@ -183,7 +188,7 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -191,7 +196,7 @@
       "ID": "creepytaleach6",
       "SetID": "bnif31p",
       "Name": "Dead together",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -207,7 +212,7 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 75,
       "UsersEstimate": 6
     },
@@ -215,7 +220,7 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 75,
       "UsersEstimate": 4
     }
@@ -224,14 +229,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:10:07.8370232+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:53:18.4419615+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.1412888+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:02:11.6408096+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:10:07.8370394+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:44:46.7347397+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:53:18.4419745+00:00"
 }

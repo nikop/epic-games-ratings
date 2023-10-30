@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2918,
+  "EOS_Progressed": 2925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3634,6 +3634,11 @@
       "Time": "2023-10-30T00:06:17.8767056+00:00",
       "NumProgressed": 2918,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T01:49:04.9593893+00:00",
+      "NumProgressed": 2925,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3654,7 +3659,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 992
+      "UsersEstimate": 995
     },
     {
       "ID": "achievement_11",
@@ -3662,7 +3667,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 671
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_12",
@@ -3670,7 +3675,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 788
+      "UsersEstimate": 790
     },
     {
       "ID": "achievement_13",
@@ -3678,7 +3683,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 934
+      "UsersEstimate": 936
     },
     {
       "ID": "achievement_14",
@@ -3686,7 +3691,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_15",
@@ -3742,7 +3747,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1667
     },
     {
       "ID": "achievement_21",
@@ -3750,7 +3755,7 @@
       "Name": "Clean The Pile",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_3",
@@ -3758,7 +3763,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_4",
@@ -3774,15 +3779,15 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "achievement_6",
       "SetID": "aiin7da",
       "Name": "Roster Reshuffle",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 730
+      "UsersEstimate": 760
     },
     {
       "ID": "achievement_7",
@@ -3798,7 +3803,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 846
+      "UsersEstimate": 848
     },
     {
       "ID": "achievement_9",
@@ -3806,14 +3811,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2918,
+      "Progressed": 2925,
       "Completed": 0
     }
   ],
@@ -3821,8 +3826,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:06:17.8767049+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:49:04.9593888+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:01:52.2398636+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:06:17.8767625+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:44:35.845967+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:49:04.9594277+00:00"
 }

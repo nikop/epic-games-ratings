@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16045,
+  "EOS_Progressed": 16046,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13002,6 +13002,11 @@
       "Time": "2023-10-30T00:06:14.3928441+00:00",
       "NumProgressed": 16045,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-30T01:49:02.569933+00:00",
+      "NumProgressed": 16046,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13029,7 +13034,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3691
     },
     {
       "ID": "tpote_achievement_12",
@@ -13085,7 +13090,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "tpote_achievement_19",
@@ -13173,7 +13178,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "tpote_achievement_29",
@@ -13189,7 +13194,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "tpote_achievement_30",
@@ -13197,7 +13202,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "tpote_achievement_31",
@@ -13333,22 +13338,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5455
+      "UsersEstimate": 5456
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16045,
+      "Progressed": 16046,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:06:14.3928433+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:49:02.5699326+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:02:23.6829486+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:06:14.3930394+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:44:56.8726878+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:49:02.5700455+00:00"
 }

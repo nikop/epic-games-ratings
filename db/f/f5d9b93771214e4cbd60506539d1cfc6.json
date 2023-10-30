@@ -2,13 +2,13 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 518,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -16511,6 +16511,6 @@
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
   "LastChanged_Achievements": "2023-10-30T00:08:27.4343065+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:57:53.1652098+00:00",
+  "LastUpdate_Ratings": "2023-10-30T01:41:35.043839+00:00",
   "LastUpdate_Achievements": "2023-10-30T00:08:27.4344836+00:00"
 }

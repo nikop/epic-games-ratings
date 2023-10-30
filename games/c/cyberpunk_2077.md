@@ -10,13 +10,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 1.00% | ~8,945 |
 | Ten out of Ten | 0.80% | ~7,156 |
 | Full Body Conversion | 0.70% | ~6,262 |
+| Stanislavski's Method | 0.70% | ~6,262 |
 | The High Priestess | 0.70% | ~6,262 |
 | True Soldier | 0.70% | ~6,262 |
 | Relic Ruler | 0.70% | ~162 |
 | All the President's Men | 0.70% | ~162 |
 | Arachnophobia | 0.70% | ~162 |
 | Right Back At Ya | 0.60% | ~5,367 |
-| Stanislavski's Method | 0.60% | ~5,367 |
 | Rough Landing | 0.60% | ~5,367 |
 | The Hermit | 0.60% | ~5,367 |
 | The Wheel of Fortune | 0.60% | ~5,367 |
@@ -72,7 +72,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,519 (Ranked 15)  
+Progressed: 894,525 (Ranked 15)  
 Completed: 2,733 (0.31%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 2,733 (0.31%) (Ranked 212)
 | 2023-10-27 | 894,108 | 2,720 |
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
-| 2023-10-30 | 894,519 | 2,733 |
+| 2023-10-30 | 894,525 | 2,733 |
 ## Awards
 Max (Character Customization): 102,677  (Ranked 9)  
-Sum: 333,788 (Ranked 10)  
+Sum: 333,949 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -280,8 +280,8 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 18,346 |
 | This game is Extremely Fun | 18,082 |
 | This game has Amazing Characters | 17,872 |
+| This game has Quickly Understood Controls | 17,345 |
 | This game is Relaxing | 17,282 |
-| This game has Quickly Understood Controls | 17,184 |
 | This game has a Creative Community | 11,984 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -570,3 +570,4 @@ Diff (max vs sum): -1
 | 2023-10-27 | 4.64 | - | 102,038 | 329,659 |
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
 | 2023-10-29 | 4.64 | - | 102,677 | 333,788 |
+| 2023-10-30 | 4.64 | - | 102,677 | 333,949 |

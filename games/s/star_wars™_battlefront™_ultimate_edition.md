@@ -8,8 +8,8 @@
 | Off to a good start | 69.00% | ~634 |
 | Do... or do not. There is no try | 51.00% | ~469 |
 | A good blaster at your side | 34.00% | ~312 |
+| Scrap collector | 20.00% | ~184 |
 | I suggest a new strategy | 20.00% | ~184 |
-| Scrap collector | 19.00% | ~175 |
 | Great shot, kid! | 18.00% | ~165 |
 | All right, I'll give it a try | 17.00% | ~156 |
 | Shoot first | 16.00% | ~147 |

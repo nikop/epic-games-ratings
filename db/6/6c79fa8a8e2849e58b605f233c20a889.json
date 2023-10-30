@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7070,9 +7070,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 757
+      "UsersEstimate": 785
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7221,8 +7221,8 @@
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:09:35.6182219+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:52:55.6677865+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.0297636+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:00:27.0847515+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:09:35.6183022+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:43:29.6814924+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:52:55.6678458+00:00"
 }

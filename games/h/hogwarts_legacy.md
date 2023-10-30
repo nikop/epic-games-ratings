@@ -5,34 +5,34 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,953 |
-| First Class Student | 14.00% | ~41,956 |
-| Troll with the Punches | 13.00% | ~38,959 |
-| A Keen Sense of Spell | 12.00% | ~35,963 |
-| That's a Keeper | 12.00% | ~35,963 |
-| Grappling with a Graphorn | 11.00% | ~32,966 |
-| The One Who Mastered Memories | 11.00% | ~32,966 |
-| The Hallowed Hero | 11.00% | ~32,966 |
-| The Defender of Dragons | 11.00% | ~32,966 |
-| Loom for Improvement | 11.00% | ~32,966 |
-| A Talent for Spending | 11.00% | ~32,966 |
-| Coasting Along | 11.00% | ~32,966 |
-| The Hero of Hogwarts | 10.00% | ~29,969 |
-| Challenge Accepted | 10.00% | ~29,969 |
-| Followed the Butterflies | 10.00% | ~29,969 |
-| The Spell Master | 9.00% | ~26,972 |
-| Rising From the Ashes | 9.00% | ~26,972 |
-| The Avenging Gazelle | 8.00% | ~23,975 |
-| Beast Friends | 8.00% | ~23,975 |
-| A Sallow Grave | 8.00% | ~23,975 |
-| Flight the Good Flight | 8.00% | ~23,975 |
-| The Seeker of Knowledge | 6.00% | ~17,981 |
-| The Root of the Problem | 6.00% | ~17,981 |
-| Third Time's a Charm | 6.00% | ~17,981 |
-| Raising Expectations | 6.00% | ~17,981 |
-| The Toast of the Town | 5.00% | ~14,984 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,984 |
-| The Ends Petrify the Means | 5.00% | ~14,984 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,956 |
+| First Class Student | 14.00% | ~41,959 |
+| Troll with the Punches | 13.00% | ~38,962 |
+| A Keen Sense of Spell | 12.00% | ~35,965 |
+| That's a Keeper | 12.00% | ~35,965 |
+| Grappling with a Graphorn | 11.00% | ~32,968 |
+| The One Who Mastered Memories | 11.00% | ~32,968 |
+| The Hallowed Hero | 11.00% | ~32,968 |
+| The Defender of Dragons | 11.00% | ~32,968 |
+| Loom for Improvement | 11.00% | ~32,968 |
+| A Talent for Spending | 11.00% | ~32,968 |
+| Coasting Along | 11.00% | ~32,968 |
+| The Hero of Hogwarts | 10.00% | ~29,971 |
+| Challenge Accepted | 10.00% | ~29,971 |
+| Followed the Butterflies | 10.00% | ~29,971 |
+| The Spell Master | 9.00% | ~26,974 |
+| Rising From the Ashes | 9.00% | ~26,974 |
+| The Avenging Gazelle | 8.00% | ~23,977 |
+| Beast Friends | 8.00% | ~23,977 |
+| A Sallow Grave | 8.00% | ~23,977 |
+| Flight the Good Flight | 8.00% | ~23,977 |
+| The Seeker of Knowledge | 6.00% | ~17,983 |
+| The Root of the Problem | 6.00% | ~17,983 |
+| Third Time's a Charm | 6.00% | ~17,983 |
+| Raising Expectations | 6.00% | ~17,983 |
+| The Toast of the Town | 5.00% | ~14,985 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,985 |
+| The Ends Petrify the Means | 5.00% | ~14,985 |
 | Going Through the Potions | 4.00% | ~11,988 |
 | Room with a View | 4.00% | ~11,988 |
 | The Intrepid Explorer | 4.00% | ~11,988 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 118)
 | The Nature of the Beast | 0.70% | ~2,098 |
 | Collector's Edition | 0.30% | ~899 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,688 (Ranked 48)  
+Progressed: 299,709 (Ranked 48)  
 Completed: 497 (0.17%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,10 +244,10 @@ Completed: 497 (0.17%) (Ranked 242)
 | 2023-10-27 | 299,185 | 496 |
 | 2023-10-28 | 299,440 | 496 |
 | 2023-10-29 | 299,675 | 497 |
-| 2023-10-30 | 299,688 | 497 |
+| 2023-10-30 | 299,709 | 497 |
 ## Awards
 Max (Character Customization): 23,891  (Ranked 17)  
-Sum: 46,974 (Ranked 30)  
+Sum: 46,979 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -258,7 +258,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 1,199 |
 | This game is Extremely Fun | 1,186 |
 | This game is Relaxing | 1,176 |
-| This game has Amazing Characters | 1,154 |
+| This game has Amazing Characters | 1,159 |
 | This game is Highly Recommended | 1,117 |
 | This game has Quickly Understood Controls | 1,061 |
 | This game has Beautiful Visuals | 980 |
@@ -486,3 +486,4 @@ Diff (max vs sum): -13
 | 2023-10-27 | 4.76 | 23,830 | 46,785 |
 | 2023-10-28 | 4.76 | 23,858 | 46,877 |
 | 2023-10-29 | 4.76 | 23,891 | 46,974 |
+| 2023-10-30 | 4.76 | 23,891 | 46,979 |

@@ -4,8 +4,8 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "LEVEL_240_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 240 pieces",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_240_006",
@@ -284,9 +284,9 @@
       "ID": "LEVEL_375_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 375 pieces",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_375_003",
@@ -300,9 +300,9 @@
       "ID": "LEVEL_375_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 375 pieces",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_375_005",
@@ -379,8 +379,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:06:08.523842+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:48:58.5150384+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:14.6557241+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:02:32.2827384+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:06:08.5238796+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:45:02.1560048+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:48:58.515062+00:00"
 }

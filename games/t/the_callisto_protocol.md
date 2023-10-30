@@ -19,14 +19,14 @@ Rating: 4.19 (Ranked 905)
 | In the Pipe, Five by Five | 5.00% | ~817 |
 | Desperate Times | 5.00% | ~817 |
 | Crash Site | 5.00% | ~817 |
+| Full Circle | 5.00% | ~817 |
+| Power Up | 5.00% | ~817 |
 | Keep Fighting | 5.00% | ~214 |
 | Giving Back | 4.00% | ~654 |
 | You Need a Gun | 4.00% | ~654 |
 | I Do Belong Here | 4.00% | ~654 |
 | Terminated | 4.00% | ~654 |
 | What Lies Beneath | 4.00% | ~654 |
-| Full Circle | 4.00% | ~654 |
-| Power Up | 4.00% | ~654 |
 | It's Time | 4.00% | ~171 |
 | The Commonality | 3.00% | ~490 |
 | In Striking Distance | 2.00% | ~327 |

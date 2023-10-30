@@ -4,8 +4,8 @@
   "ProductSlug": "queens-wish-2-the-tormentor-cbac44",
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-24T12:00:00+00:00",
     "PcReleaseDate": "2022-08-24T11:00:00+00:00",
@@ -45,5 +45,5 @@
   "LastChanged": "2023-03-31T05:58:48.4030804+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.1169692+00:00",
   "LastUpdate_Ratings": "2023-10-30T00:03:06.5155586+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:05:18.8701629+00:00"
+  "LastUpdate_Achievements": "2023-10-30T01:48:23.3749671+00:00"
 }

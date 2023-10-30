@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14304,10 +14304,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 333788,
       "NumberOfAwardsMax": 102677
+    },
+    {
+      "Time": "2023-10-30T01:41:33.8510839+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 333949,
+      "NumberOfAwardsMax": 102677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 333788,
+  "NumberOfAwards": 333949,
   "NumberOfAwardsMax": 102677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14363,7 +14369,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 17184
+      "Count": 17345
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14384,10 +14390,10 @@
       "Count": 11984
     }
   ],
-  "EOS_Progressed": 894519,
+  "EOS_Progressed": 894525,
   "EOS_Completed": 2733,
-  "EOS_NewPlayers": 1119,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 1124,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36219,6 +36225,11 @@
       "Time": "2023-10-30T00:04:59.2424992+00:00",
       "NumProgressed": 894519,
       "NumCompleted": 2733
+    },
+    {
+      "Time": "2023-10-30T01:48:08.9545228+00:00",
+      "NumProgressed": 894525,
+      "NumCompleted": 2733
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36405,9 +36416,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5367
+      "UsersEstimate": 6262
     },
     {
       "ID": "Specialist",
@@ -36750,21 +36761,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894519,
+      "Progressed": 894525,
       "Completed": 2733
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23142,
+      "Progressed": 23148,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-29T21:57:56.0339304+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:04:59.2424986+00:00",
+  "LastChanged": "2023-10-30T01:41:33.8510835+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:48:08.9545224+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:57:51.2926823+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:04:59.242704+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:41:33.8510845+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:48:08.9547174+00:00"
 }

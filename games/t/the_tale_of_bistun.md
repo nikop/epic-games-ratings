@@ -8,40 +8,40 @@
 | First Blood | 88.00% | ~21 |
 | These Blades Are Made For Swinging | 83.00% | ~20 |
 | Unearth A Qanat | 79.00% | ~19 |
+| Carving A Memory | 75.00% | ~18 |
 | A Friend In Need | 71.00% | ~17 |
 | A Stranger's Diary | 71.00% | ~17 |
-| Carving A Memory | 71.00% | ~17 |
 | It Feels Better Than It Sounds | 67.00% | ~16 |
 | Stand By Nature | 67.00% | ~16 |
-| Skilled Hands | 58.00% | ~14 |
-| Master Smithy | 58.00% | ~14 |
-| The Milk Canal | 58.00% | ~14 |
-| Fledgling Smithy | 58.00% | ~14 |
-| Close Encounter | 54.00% | ~13 |
-| The Depths Of Darkness | 54.00% | ~13 |
-| One With The Blades | 54.00% | ~13 |
-| Heart of Oblivion | 54.00% | ~13 |
-| Anahita's Greatest Mistake | 54.00% | ~13 |
-| Heart's Desire | 54.00% | ~13 |
-| Shoo! Shoo! | 54.00% | ~13 |
-| At One With Nature | 54.00% | ~13 |
-| Prison Break | 50.00% | ~12 |
+| Skilled Hands | 63.00% | ~15 |
+| Master Smithy | 63.00% | ~15 |
+| The Milk Canal | 63.00% | ~15 |
+| Fledgling Smithy | 63.00% | ~15 |
+| Close Encounter | 58.00% | ~14 |
+| The Depths Of Darkness | 58.00% | ~14 |
+| One With The Blades | 58.00% | ~14 |
+| Heart of Oblivion | 58.00% | ~14 |
+| Anahita's Greatest Mistake | 58.00% | ~14 |
+| Heart's Desire | 58.00% | ~14 |
+| Shoo! Shoo! | 58.00% | ~14 |
+| At One With Nature | 58.00% | ~14 |
+| Prison Break | 54.00% | ~13 |
+| I Pick You | 50.00% | ~12 |
+| Accomplished Smithy | 50.00% | ~12 |
+| The Ultimate Sacrifice | 50.00% | ~12 |
 | Nature's Savior | 50.00% | ~12 |
 | Hammer It Home | 50.00% | ~12 |
-| I Pick You | 46.00% | ~11 |
-| Accomplished Smithy | 46.00% | ~11 |
-| The Ultimate Sacrifice | 46.00% | ~11 |
-| The Blight's Blight | 42.00% | ~10 |
+| The Blight's Blight | 46.00% | ~11 |
 | For Whom the Bell Tolls | 42.00% | ~10 |
 | Here I Am | 42.00% | ~10 |
 | Break The Cycle | 38.00% | ~9 |
 | Continue The Cycle | 29.00% | ~7 |
 | Talent And Dedication | 21.00% | ~5 |
+| Merely Inquisitive | 21.00% | ~5 |
 | Read, Read, Read | 17.00% | ~4 |
 | Ledge-walker | 17.00% | ~4 |
 | Prolific Artist | 17.00% | ~4 |
 | Slip and Slide | 17.00% | ~4 |
-| Merely Inquisitive | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 502)  
 Completed: 4 (16.67%) (Ranked 20)  

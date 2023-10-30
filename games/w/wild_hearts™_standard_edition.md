@@ -16,11 +16,11 @@
 | Subsistence Skills | 64.00% | ~124 |
 | Kemono Hunter | 63.00% | ~122 |
 | Expert Conjuror | 61.00% | ~118 |
-| Distance Devourer | 57.00% | ~110 |
-| Master of the Skies | 55.00% | ~106 |
+| Distance Devourer | 58.00% | ~112 |
+| Master of the Skies | 56.00% | ~108 |
+| Helpful Heart | 56.00% | ~108 |
 | Flawless Crystal | 55.00% | ~106 |
 | Bonds of Enmity | 55.00% | ~106 |
-| Helpful Heart | 55.00% | ~106 |
 | Counter Specialist | 52.00% | ~100 |
 | Axer of Auspice | 47.00% | ~91 |
 | Fair Means or Foul | 45.00% | ~87 |

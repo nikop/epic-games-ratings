@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2577,
+  "EOS_Progressed": 2578,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.89,
+  "EOS_Completed_Percentage": 8.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6856,6 +6856,11 @@
       "Time": "2023-10-29T22:10:08.9672866+00:00",
       "NumProgressed": 2577,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2023-10-30T01:53:09.534488+00:00",
+      "NumProgressed": 2578,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 12,
@@ -6899,7 +6904,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "Jakob",
@@ -6931,7 +6936,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -6962,7 +6967,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2577,
+      "Progressed": 2578,
       "Completed": 229
     }
   ],
@@ -6970,8 +6975,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-10-30T00:09:55.448895+00:00",
+  "LastChanged_Achievements": "2023-10-30T01:53:09.5344875+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2761666+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:59:35.6352503+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:09:55.448948+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:42:47.369592+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:53:09.5345403+00:00"
 }

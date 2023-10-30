@@ -2,13 +2,13 @@
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 518,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-09-14T15:00:00+00:00",
@@ -880,6 +880,6 @@
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
   "LastChanged": "2023-10-23T19:02:01.7468294+00:00",
   "LastUpdate_AppInfo": "2023-10-28T09:57:17.7832934+00:00",
-  "LastUpdate_Ratings": "2023-10-30T00:00:09.7728032+00:00",
-  "LastUpdate_Achievements": "2023-10-30T00:04:01.5967714+00:00"
+  "LastUpdate_Ratings": "2023-10-30T01:43:11.2481875+00:00",
+  "LastUpdate_Achievements": "2023-10-30T01:47:28.1801163+00:00"
 }
