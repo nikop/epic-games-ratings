@@ -28,6 +28,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 4.00% | ~685 |
 | Lost Colonies | 4.00% | ~685 |
 | Statue of the Forefathers | 4.00% | ~685 |
+| Corrosive Torrent | 4.00% | ~685 |
 | Watchtower | 4.00% | ~685 |
 | Cursed Lands | 4.00% | ~685 |
 | Trade Baron | 4.00% | ~685 |
@@ -38,7 +39,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fishmen Ritual Site | 3.00% | ~514 |
 | Forbidden Lands | 3.00% | ~514 |
 | Forsaken Gods Temple | 3.00% | ~514 |
-| Corrosive Torrent | 3.00% | ~514 |
 | Like a Machine | 3.00% | ~514 |
 | Defying the Crown | 3.00% | ~514 |
 | Into the Forest | 3.00% | ~514 |

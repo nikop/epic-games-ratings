@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "ACHIEVEMENT002",
       "SetID": "dejhjd5",
       "Name": "Partners?",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -785,8 +785,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-10-09T03:01:40.7583334+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:03:36.8651148+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:03:16.7574004+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.8085821+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:58:57.2613234+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:03:36.8651543+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:39.5134295+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:03:16.7574369+00:00"
 }

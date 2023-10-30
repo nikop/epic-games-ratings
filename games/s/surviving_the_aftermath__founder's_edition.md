@@ -1,37 +1,37 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 615)  
+Rating: 4.48 (Ranked 616)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,274 |
+| First Step | 73.00% | ~7,275 |
 | Leader | 61.00% | ~6,079 |
-| Explorer | 53.00% | ~5,281 |
+| Explorer | 53.00% | ~5,282 |
 | Healer | 52.00% | ~5,182 |
 | Aspiring Inventor | 44.00% | ~4,385 |
-| Adventurer | 42.00% | ~4,185 |
+| Adventurer | 42.00% | ~4,186 |
 | Famous Healer | 38.00% | ~3,787 |
 | Local Leader | 35.00% | ~3,488 |
 | Famous Explorer | 34.00% | ~3,388 |
 | New Opportunities | 34.00% | ~3,388 |
-| Energized | 33.00% | ~3,288 |
-| The Long Haul | 33.00% | ~3,288 |
+| Energized | 33.00% | ~3,289 |
+| The Long Haul | 33.00% | ~3,289 |
 | Survivor | 32.00% | ~3,189 |
 | The Great Healer | 31.00% | ~3,089 |
 | Legendary Explorer | 28.00% | ~2,790 |
 | Cleaner | 28.00% | ~2,790 |
 | Catastrofan | 28.00% | ~2,790 |
 | Finders, Keepers | 26.00% | ~2,591 |
-| Top Notch | 25.00% | ~2,491 |
+| Top Notch | 25.00% | ~2,492 |
 | Great Leader | 23.00% | ~2,292 |
 | Mentor | 23.00% | ~2,292 |
-| Merchant | 22.00% | ~2,192 |
-| Ice Lakes | 22.00% | ~2,192 |
-| Real Survivor | 22.00% | ~2,192 |
+| Merchant | 22.00% | ~2,193 |
+| Ice Lakes | 22.00% | ~2,193 |
+| Real Survivor | 22.00% | ~2,193 |
 | Rocket Surgeon | 20.00% | ~1,993 |
-| War Never Changes | 19.00% | ~1,893 |
+| War Never Changes | 19.00% | ~1,894 |
 | Friendly | 17.00% | ~1,694 |
 | Big Game Hunter | 17.00% | ~1,694 |
 | Around the World | 17.00% | ~1,694 |
@@ -39,9 +39,9 @@ Number of Ratings: 836  (23.09.2022)
 | Bookworm | 15.00% | ~1,495 |
 | Famous Adventurer | 14.00% | ~1,395 |
 | Prepared for Anything | 14.00% | ~1,395 |
-| Big Catastrofan | 13.00% | ~1,295 |
-| It's a Finnish Thing | 10.00% | ~996 |
-| Sky Burial | 10.00% | ~996 |
+| Big Catastrofan | 13.00% | ~1,296 |
+| It's a Finnish Thing | 10.00% | ~997 |
+| Sky Burial | 10.00% | ~997 |
 | Trader | 9.00% | ~897 |
 | Bread and Circuses | 8.00% | ~797 |
 | Tailored to fit | 8.00% | ~797 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,965 (Ranked 155)  
+Progressed: 9,966 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 9,902 | 0 |
 | 2023-10-28 | 9,927 | 0 |
 | 2023-10-29 | 9,948 | 0 |
-| 2023-10-30 | 9,965 | 0 |
+| 2023-10-30 | 9,966 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 348)  
 Sum: 718 (Ranked 289)  

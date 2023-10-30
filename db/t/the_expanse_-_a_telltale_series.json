@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14482,
+  "EOS_Progressed": 14485,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
@@ -9974,6 +9974,11 @@
       "Time": "2023-10-30T17:04:26.5680959+00:00",
       "NumProgressed": 14482,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-30T18:03:57.2545818+00:00",
+      "NumProgressed": 14485,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10018,7 +10023,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "14",
@@ -10032,9 +10037,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "16",
@@ -10080,17 +10085,17 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 130
     },
     {
       "ID": "22",
@@ -10128,9 +10133,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 130
     },
     {
       "ID": "27",
@@ -10265,13 +10270,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14482,
+      "Progressed": 14485,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 436,
+      "Progressed": 439,
       "Completed": 286
     }
   ],
@@ -10279,8 +10284,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:04:26.5680953+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:03:57.2545813+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:58:13.4265608+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:04:26.568174+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:00.7121612+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:03:57.2546478+00:00"
 }

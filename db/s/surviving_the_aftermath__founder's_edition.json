@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1350,7 +1350,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9965,
+  "EOS_Progressed": 9966,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -15935,6 +15935,11 @@
       "Time": "2023-10-30T16:08:14.5211288+00:00",
       "NumProgressed": 9965,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T18:07:42.2616924+00:00",
+      "NumProgressed": 9966,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15978,7 +15983,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "14",
@@ -16002,7 +16007,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4185
+      "UsersEstimate": 4186
     },
     {
       "ID": "17",
@@ -16058,7 +16063,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7274
+      "UsersEstimate": 7275
     },
     {
       "ID": "23",
@@ -16074,7 +16079,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "25",
@@ -16098,7 +16103,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "28",
@@ -16106,7 +16111,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "29",
@@ -16162,7 +16167,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "35",
@@ -16170,7 +16175,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "36",
@@ -16274,7 +16279,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "48",
@@ -16298,7 +16303,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "50",
@@ -16314,7 +16319,7 @@
       "Name": "Sky Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "52",
@@ -16338,7 +16343,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "55",
@@ -16402,7 +16407,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2192
+      "UsersEstimate": 2193
     },
     {
       "ID": "9",
@@ -16417,15 +16422,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9965,
+      "Progressed": 9966,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-29T10:00:51.4730208+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:08:27.0092853+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:07:42.2616919+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:00:39.8958236+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:08:27.0094367+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:00:13.3466144+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:07:42.261813+00:00"
 }

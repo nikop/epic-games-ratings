@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 770)  
+Rating: 4.36 (Ranked 771)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 101  (23.09.2022)
 | Take-Off | 80.00% | ~524 |
 | Hokey-Pokey | 71.00% | ~465 |
 | Camellos | 57.00% | ~373 |
+| Didn't Miss A Single One | 46.00% | ~301 |
 | Bad Trip | 46.00% | ~301 |
-| Didn't Miss A Single One | 45.00% | ~295 |
 | Spread | 41.00% | ~269 |
 | That was base | 40.00% | ~262 |
 | Safe Pair of Hands | 38.00% | ~249 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Iron Lady | 0.60% | ~4 |
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 655 (Ranked 271)  
+Progressed: 655 (Ranked 272)  
 Completed: 2 (0.31%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

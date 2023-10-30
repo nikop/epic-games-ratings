@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 906,
-  "Ranking_Popularity": 379,
+  "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 193,
@@ -1393,7 +1393,7 @@
   ],
   "EOS_Progressed": 16353,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8704,9 +8704,9 @@
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -8911,8 +8911,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T10:02:50.4728628+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:04:08.9763646+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:03:42.974101+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:57:21.8833084+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:04:08.9764405+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:57:17.2251284+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:03:42.9741649+00:00"
 }

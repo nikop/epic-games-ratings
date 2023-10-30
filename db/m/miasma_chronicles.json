@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3869,9 +3869,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 498
     },
     {
       "ID": "FIRESTARTER",
@@ -4029,9 +4029,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 405
+      "UsersEstimate": 420
     },
     {
       "ID": "SENSEI",
@@ -4118,8 +4118,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:09:09.74761+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:08:47.4347827+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:58:57.0889582+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:09:09.7476807+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:39.4669152+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:08:47.4348324+00:00"
 }

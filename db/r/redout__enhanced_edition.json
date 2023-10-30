@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 60,
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234618,
+  "EOS_Progressed": 234620,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20647,6 +20647,11 @@
       "Time": "2023-10-30T17:03:58.0432985+00:00",
       "NumProgressed": 234618,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-10-30T18:03:34.0261691+00:00",
+      "NumProgressed": 234620,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -20674,7 +20679,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65693
+      "UsersEstimate": 65694
     },
     {
       "ID": "CENTAUR",
@@ -20682,7 +20687,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18769
+      "UsersEstimate": 18770
     },
     {
       "ID": "CHALLENGER",
@@ -20722,7 +20727,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18769
+      "UsersEstimate": 18770
     },
     {
       "ID": "FLAWLESS",
@@ -20794,7 +20799,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 77424
+      "UsersEstimate": 77425
     },
     {
       "ID": "NOBUNAGA",
@@ -20922,22 +20927,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96193
+      "UsersEstimate": 96194
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234618,
+      "Progressed": 234620,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:03:58.0432979+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:03:34.0261685+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.1893781+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:58:58.6994555+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:03:58.0434492+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:40.3725318+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:03:34.026285+00:00"
 }

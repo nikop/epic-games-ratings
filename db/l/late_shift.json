@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 592,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -1327,9 +1327,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 408
+      "UsersEstimate": 414
     },
     {
       "ID": "GOOD_KARMA",
@@ -1408,8 +1408,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:05:33.3618036+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:05:12.6691314+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:00:05.3020243+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:05:33.3618231+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:59:43.9519622+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:05:12.6691492+00:00"
 }

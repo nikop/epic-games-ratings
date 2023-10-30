@@ -4,11 +4,11 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.86,
+  "Rating": 3.87,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -645,10 +645,16 @@
       "Rating": 3.86,
       "NumberOfAwards": 966,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2023-10-30T18:00:42.062526+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 982,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 966,
+  "NumberOfAwards": 982,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -656,7 +662,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 109
+      "Count": 125
     },
     {
       "Text": "This game is Relaxing",
@@ -725,8 +731,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-10-30T13:07:14.4474297+00:00",
+  "LastChanged": "2023-10-30T18:00:42.0625258+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:29.5059424+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:01:13.3378065+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:08:43.6720794+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:00:42.0625265+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:08:25.3129888+00:00"
 }

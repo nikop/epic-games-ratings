@@ -37,8 +37,8 @@ Rating: 4.19 (Ranked 906)
 | Grim Reaper | 0.70% | ~114 |
 | Parole Denied | 0.70% | ~30 |
 | Information Overload | 0.70% | ~30 |
+| Mugshot | 0.60% | ~98 |
 | Quick Pick | 0.60% | ~26 |
-| Mugshot | 0.50% | ~82 |
 | Instigator | 0.50% | ~21 |
 | Subject Alpha | 0.30% | ~13 |
 | Don't Let It Mellow | 0.30% | ~13 |
@@ -241,9 +241,9 @@ Completed: 78 (0.48%) (Ranked 193)
 | 2023-10-29 | 16,345 | 78 |
 | 2023-10-30 | 16,353 | 78 |
 ## Awards
-Max (Highly Recommended): 79  (Ranked 379)  
+Max (Highly Recommended): 79  (Ranked 380)  
 Sum: 462 (Ranked 325)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 79 |

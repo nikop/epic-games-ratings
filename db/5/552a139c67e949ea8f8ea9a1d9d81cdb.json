@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 567,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1157,6 +1157,11 @@
       "Time": "2023-10-30T17:07:00.9389851+00:00",
       "NumProgressed": 709,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T18:06:16.5099815+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1169,15 +1174,15 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 263
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1199,9 +1204,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "5k00jcd",
       "Name": "Like lightning!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 36
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1231,9 +1236,9 @@
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "5k00jcd",
       "Name": "Masterful!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 36
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -1247,9 +1252,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -1273,7 +1278,7 @@
       "Name": "Shapeshifter",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1303,9 +1308,9 @@
       "ID": "ML_ACHIEVEMENT_18",
       "SetID": "5k00jcd",
       "Name": "International license",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 50
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -1409,7 +1414,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1425,15 +1430,15 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
       "SetID": "5k00jcd",
       "Name": "Beyond the limit",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 192
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1512,20 +1517,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 377,
-      "Completed": 377
+      "Progressed": 378,
+      "Completed": 378
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:07:00.9389848+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:06:16.509981+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:58:14.2193863+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:07:00.9390243+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:03.5657133+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:06:16.5100138+00:00"
 }

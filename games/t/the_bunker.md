@@ -13,7 +13,7 @@
 | Air Filtration | 62.00% | ~84 |
 | Broken | 60.00% | ~82 |
 | Radiation | 59.00% | ~80 |
-| Descent | 57.00% | ~78 |
+| Descent | 58.00% | ~79 |
 | Awakenings | 57.00% | ~78 |
 | Cold Storage | 57.00% | ~78 |
 | Sam | 57.00% | ~78 |
@@ -23,7 +23,7 @@
 | Churchill | 49.00% | ~67 |
 | Engineer | 49.00% | ~67 |
 | Soldier | 49.00% | ~67 |
-| Press Play | 37.00% | ~50 |
+| Press Play | 38.00% | ~52 |
 | General | 29.00% | ~39 |
 | Bookworm | 24.00% | ~33 |
 | Floppy Disk Finder | 15.00% | ~20 |

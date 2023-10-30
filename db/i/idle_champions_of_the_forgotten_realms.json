@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7705,9 +7705,9 @@
       "Count": 3497
     }
   ],
-  "EOS_Progressed": 233252,
+  "EOS_Progressed": 233258,
   "EOS_Completed": 2408,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29290,6 +29290,11 @@
       "Time": "2023-10-30T17:06:36.53512+00:00",
       "NumProgressed": 233252,
       "NumCompleted": 2408
+    },
+    {
+      "Time": "2023-10-30T18:05:57.024844+00:00",
+      "NumProgressed": 233258,
+      "NumCompleted": 2408
     }
   ],
   "TotalAchievements": 528,
@@ -33499,9 +33504,9 @@
       "ID": "objective_completed_1416",
       "SetID": "415jc5c",
       "Name": "Fowl Play",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 599
     },
     {
       "ID": "objective_completed_1420",
@@ -33524,21 +33529,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199526,
+      "Progressed": 199532,
       "Completed": 3712
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233252,
+      "Progressed": 233258,
       "Completed": 2408
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-30T11:58:36.2226828+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:06:36.5351195+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:05:57.0248435+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:58:12.9735993+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:06:36.5382756+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:00.5605622+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:05:57.0273321+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -66,11 +66,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.45,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -376,6 +376,11 @@
       "Time": "2023-10-22T14:05:14.51681+00:00",
       "NumProgressed": 327,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-30T18:03:21.1202822+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -411,7 +416,7 @@
       "Name": "Cowardice",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_04",
@@ -459,7 +464,7 @@
       "Name": "Grau Hill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_10",
@@ -481,9 +486,9 @@
       "ID": "achievement_12",
       "SetID": "7881h0d",
       "Name": "Lord Wesley",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_13",
@@ -491,7 +496,7 @@
       "Name": "One step down",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_14",
@@ -507,7 +512,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_16",
@@ -538,7 +543,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 8
     }
   ],
@@ -546,8 +551,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:03:42.2650687+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:03:21.1202817+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:13.2861384+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:59:05.6791129+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:03:42.2650829+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:58:48.7140021+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:03:21.120295+00:00"
 }

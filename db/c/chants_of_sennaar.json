@@ -1574,9 +1574,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "END_GOOD",
@@ -1686,9 +1686,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1750,9 +1750,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "PROGRESS_N4",
@@ -1781,8 +1781,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-30T17:06:26.1036958+00:00",
+  "LastChanged_Achievements": "2023-10-30T18:05:47.8567129+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:59:29.0260913+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:06:26.1037197+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:59:09.6614317+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:05:47.856733+00:00"
 }

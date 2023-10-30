@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,103 |
-| A Spark | 18.00% | ~2,148 |
-| Burning City | 17.00% | ~2,029 |
-| Defender's Heart | 15.00% | ~1,790 |
+| Devoured by Darkness | 26.00% | ~3,104 |
+| A Spark | 18.00% | ~2,149 |
+| Burning City | 17.00% | ~2,030 |
+| Defender's Heart | 15.00% | ~1,791 |
 | Mythic Choices | 14.00% | ~1,671 |
 | Banner over the Citadel | 13.00% | ~1,552 |
-| Queen's Gratitude | 12.00% | ~1,432 |
+| Queen's Gratitude | 12.00% | ~1,433 |
 | Fifth Crusade | 8.00% | ~955 |
 | Embrace of the Abyss | 6.00% | ~716 |
 | Path of the Angel | 6.00% | ~716 |
@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~597 |
 | All Paths Open | 5.00% | ~597 |
 | Next-Door Play | 5.00% | ~597 |
-| Heart of the Fallen Land | 4.00% | ~477 |
-| The Legacy | 4.00% | ~477 |
-| Divide and Rule | 4.00% | ~477 |
-| Mythic Reinforcements | 4.00% | ~477 |
-| A Flame | 4.00% | ~477 |
-| Get the Toad | 4.00% | ~477 |
+| Heart of the Fallen Land | 4.00% | ~478 |
+| The Legacy | 4.00% | ~478 |
+| Divide and Rule | 4.00% | ~478 |
+| Mythic Reinforcements | 4.00% | ~478 |
+| A Flame | 4.00% | ~478 |
+| Get the Toad | 4.00% | ~478 |
 | Path of the Trickster | 3.00% | ~358 |
 | Heroic Victory | 3.00% | ~358 |
 | Core of the Riddle | 3.00% | ~358 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,935 (Ranked 150)  
+Progressed: 11,939 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 11,841 | 0 |
 | 2023-10-28 | 11,886 | 0 |
 | 2023-10-29 | 11,919 | 0 |
-| 2023-10-30 | 11,935 | 0 |
+| 2023-10-30 | 11,939 | 0 |
 ## Awards
 Max (Character Customization): 1,731  (Ranked 120)  
 Sum: 7,010 (Ranked 119)  

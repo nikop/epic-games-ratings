@@ -3,12 +3,12 @@
   "Name": "Carcassonne",
   "ProductSlug": "carcassonne",
   "Ranking_Rating": 289,
-  "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 312,
+  "Ranking_Popularity": 378,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2020-02-06T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -750,42 +750,48 @@
       "Rating": 4.66,
       "NumberOfAwards": 533,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2023-10-30T17:59:58.0369318+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 542,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 533,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 542,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 79
+      "Count": 81
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -809,13 +815,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
@@ -835,8 +841,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2023-09-22T19:56:56.5868978+00:00",
+  "LastChanged": "2023-10-30T17:59:58.0369316+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:57.4815579+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:00:22.8368728+00:00",
-  "LastUpdate_Achievements": "2023-10-30T17:08:33.1026456+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:59:58.0369321+00:00",
+  "LastUpdate_Achievements": "2023-10-30T18:07:47.0822518+00:00"
 }

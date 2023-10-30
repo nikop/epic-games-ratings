@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 44.00% | ~824 |
-| First Love | 42.00% | ~786 |
+| First Love | 43.00% | ~805 |
 | Clean Race | 41.00% | ~768 |
 | Hear That Roar! | 38.00% | ~711 |
 | Rivals to the End | 29.00% | ~543 |

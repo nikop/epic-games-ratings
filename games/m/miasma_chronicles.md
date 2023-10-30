@@ -26,11 +26,11 @@ Rating: 4.43 (Ranked 685)
 | Jarhead | 35.00% | ~545 |
 | Ganglord | 34.00% | ~529 |
 | Infiltrator | 34.00% | ~529 |
+| Experienced | 32.00% | ~498 |
 | Pushing Daisy | 32.00% | ~498 |
-| Experienced | 31.00% | ~483 |
 | Hold The Line | 31.00% | ~483 |
 | Endgame | 27.00% | ~420 |
-| Savior | 26.00% | ~405 |
+| Savior | 27.00% | ~420 |
 | There Can Be Only One! | 25.00% | ~389 |
 | Silent but Violent | 24.00% | ~374 |
 | Chain Killer | 22.00% | ~343 |
