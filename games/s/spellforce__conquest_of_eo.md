@@ -19,8 +19,8 @@
 | The Circle | 56.00% | ~5 |
 | Get out of here! | 56.00% | ~5 |
 | Alchemist's Apprentice | 44.00% | ~4 |
+| Slave to the rhythm | 44.00% | ~4 |
 | Break Free | 44.00% | ~4 |
-| Slave to the rhythm | 33.00% | ~3 |
 | Sevenkeeps Seat of Kings | 33.00% | ~3 |
 | Friend of Gillyshire | 33.00% | ~3 |
 | Friend of Sevenkeeps | 33.00% | ~3 |

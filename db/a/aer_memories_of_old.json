@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23102,
+  "EOS_Progressed": 23103,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -21193,6 +21193,11 @@
       "Time": "2023-10-30T22:04:03.2143424+00:00",
       "NumProgressed": 23102,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-10-30T23:05:30.068392+00:00",
+      "NumProgressed": 23103,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21204,7 +21209,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -21356,22 +21361,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23102,
+      "Progressed": 23103,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:04:03.2143417+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:05:30.0683911+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:03:02.784035+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:04:03.2144521+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:04:00.1398189+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:05:30.0685562+00:00"
 }

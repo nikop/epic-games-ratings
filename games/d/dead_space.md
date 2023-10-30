@@ -27,10 +27,10 @@ Rating: 4.63 (Ranked 344)
 | Wreckage | 41.00% | ~554 |
 | Keeper of the Faith | 39.00% | ~527 |
 | Betrayed | 38.00% | ~514 |
+| Exodus | 37.00% | ~500 |
 | Legend Teller | 37.00% | ~500 |
 | There's Always Peng! | 37.00% | ~500 |
 | Mindless Prey | 37.00% | ~500 |
-| Exodus | 36.00% | ~487 |
 | Front Toward Enemy | 34.00% | ~460 |
 | A Cut Above | 33.00% | ~446 |
 | Set A Benchmark | 29.00% | ~392 |
@@ -54,7 +54,7 @@ Rating: 4.63 (Ranked 344)
 | One Gun | 2.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,352 (Ranked 231)  
-Completed: 7 (0.52%) (Ranked 188)  
+Completed: 7 (0.52%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

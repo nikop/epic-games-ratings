@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 98.00% | ~195 |
 | Hidden History | 83.00% | ~165 |
+| Budding Conjuror | 79.00% | ~157 |
 | Commencing of Quests | 78.00% | ~155 |
-| Budding Conjuror | 78.00% | ~155 |
 | Man-Machine Master | 71.00% | ~141 |
 | Mountain Splitter | 68.00% | ~135 |
 | Fusion Conjuror | 67.00% | ~133 |
 | Memory Rouser | 67.00% | ~133 |
+| Subsistence Skills | 65.00% | ~129 |
 | Charmed by the Hunt | 65.00% | ~129 |
-| Subsistence Skills | 64.00% | ~127 |
 | Kemono Hunter | 61.00% | ~121 |
 | Expert Conjuror | 59.00% | ~117 |
 | Distance Devourer | 56.00% | ~111 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 199 (Ranked 357)  
-Completed: 5 (2.51%) (Ranked 111)  
+Completed: 5 (2.51%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

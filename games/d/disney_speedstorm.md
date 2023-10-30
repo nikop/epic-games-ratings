@@ -5,14 +5,14 @@ Rating: 4.41 (Ranked 712)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,075 |
-| IT MAKES BOOM! | 3.00% | ~8,038 |
-| EXTRA BOOST | 2.00% | ~5,358 |
-| PROTECTED | 2.00% | ~5,358 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,358 |
-| PRO | 2.00% | ~5,358 |
-| A TIGER'S FEAR | 1.00% | ~2,679 |
-| AGGRESSIVE RACER | 1.00% | ~2,679 |
+| ROOKIE | 6.00% | ~16,081 |
+| IT MAKES BOOM! | 3.00% | ~8,040 |
+| EXTRA BOOST | 2.00% | ~5,360 |
+| PROTECTED | 2.00% | ~5,360 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,360 |
+| PRO | 2.00% | ~5,360 |
+| A TIGER'S FEAR | 1.00% | ~2,680 |
+| AGGRESSIVE RACER | 1.00% | ~2,680 |
 | IT'S A LONG WAY TO THE TOP | 0.60% | ~1,608 |
 | ACE SPEEDSTER | 0.50% | ~1,340 |
 | RELEASE THE KRAKEN | 0.40% | ~1,072 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 712)
 | ACE TRICKSTER | 0.20% | ~536 |
 | FRAMED! | 0.10% | ~268 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,920 (Ranked 52)  
+Progressed: 268,010 (Ranked 52)  
 Completed: 245 (0.09%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,16 +219,16 @@ Completed: 245 (0.09%) (Ranked 268)
 | 2023-10-27 | 260,530 | 242 |
 | 2023-10-28 | 263,489 | 245 |
 | 2023-10-29 | 266,267 | 245 |
-| 2023-10-30 | 267,920 | 245 |
+| 2023-10-30 | 268,010 | 245 |
 ## Awards
 Max (Great for Beginners): 46  (Ranked 434)  
-Sum: 361 (Ranked 343)  
+Sum: 365 (Ranked 343)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 46 |
 | This game has Diverse Characters | 45 |
-| This game is Great for Quick Sessions | 44 |
+| This game is Great for Quick Sessions | 45 |
 | This game has Amazing Characters | 33 |
 | This game has Amazing Storytelling | 30 |
 | This game is Highly Recommended | 30 |
@@ -236,7 +236,7 @@ Diff (max vs sum): 91
 | This game has Competitive Players | 28 |
 | This game has Playful Visuals | 28 |
 | This game has Quickly Understood Controls | 27 |
-| This game is Extremely Fun | 20 |
+| This game is Extremely Fun | 23 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -270,4 +270,4 @@ Diff (max vs sum): 91
 | 2023-10-27 | 4.42 | 44 | 347 |
 | 2023-10-28 | 4.42 | 44 | 352 |
 | 2023-10-29 | 4.42 | 44 | 363 |
-| 2023-10-30 | 4.42 | 46 | 361 |
+| 2023-10-30 | 4.42 | 46 | 365 |

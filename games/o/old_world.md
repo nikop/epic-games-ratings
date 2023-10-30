@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 2.00% | ~301 |
 | Christianity | 2.00% | ~301 |
 | Judaism | 2.00% | ~301 |
+| Manichaeism | 2.00% | ~301 |
 | Babylonian Paganism | 2.00% | ~301 |
 | Carthaginian Paganism | 2.00% | ~301 |
 | Egyptian Paganism | 2.00% | ~301 |
@@ -78,13 +79,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 1.00% | ~151 |
 | Greece | 1.00% | ~151 |
 | Power to the People | 1.00% | ~151 |
-| Manichaeism | 1.00% | ~151 |
 | Persian Paganism | 1.00% | ~151 |
 | Mythology | 1.00% | ~151 |
 | Points Victory | 1.00% | ~151 |
 | Win a Single Player Game | 1.00% | ~151 |
 | Kushite Pyramids | 1.00% | ~151 |
 | Invincible | 0.90% | ~135 |
+| Subjugator | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
 | Statesmen | 0.90% | ~135 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.90% | ~135 |
 | Legionary | 0.90% | ~135 |
 | The Clergy | 0.90% | ~135 |
-| Subjugator | 0.80% | ~120 |
 | Landowners | 0.80% | ~120 |
 | Hittite Iron | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
@@ -218,6 +218,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Holy | 0.10% | ~15 |
+| Rebuilder | 0.10% | ~15 |
 | White Death | 0.10% | ~15 |
 | Council of Madness | 0.10% | ~15 |
 | Oracle in Delphi | 0.10% | ~15 |
@@ -339,7 +340,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
 | Liberator | 0.00% | ~0 |
-| Rebuilder | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,054 (Ranked 143)  
+Progressed: 15,055 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,054 | 5 |
+| 2023-10-30 | 15,055 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~467 |
 | A Tale of Two Fiends | 0.20% | ~467 |
 | The Dead Three | 0.20% | ~467 |
+| Slow and Steady | 0.20% | ~467 |
 | The Darkness Runs Deeper | 0.20% | ~467 |
 | Difficult Terrain | 0.20% | ~467 |
 | The Contagious Curse | 0.20% | ~467 |
@@ -318,7 +319,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Friend | 0.10% | ~200 |
 | A Tale of Two Champions | 0.10% | ~233 |
 | A Tale of Two Years | 0.10% | ~200 |
-| Slow and Steady | 0.10% | ~233 |
 | A Hero's Entourage | 0.10% | ~233 |
 | Sneak Attack | 0.10% | ~200 |
 | Flying Monkey Skulls of Doom | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,272 (Ranked 62)  
+Progressed: 233,274 (Ranked 62)  
 Completed: 2,408 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -728,7 +728,7 @@ Completed: 2,408 (1.03%) (Ranked 151)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
-| 2023-10-30 | 233,272 | 2,408 |
+| 2023-10-30 | 233,274 | 2,408 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
 Sum: 32,270 (Ranked 41)  

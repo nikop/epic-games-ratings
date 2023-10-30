@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3250,9 +3250,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238852,
+  "EOS_Progressed": 238853,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23325,6 +23325,11 @@
       "Time": "2023-10-30T22:09:29.3947887+00:00",
       "NumProgressed": 238852,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-30T23:11:01.9878733+00:00",
+      "NumProgressed": 238853,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 122,
@@ -23368,7 +23373,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 229298
+      "UsersEstimate": 229299
     },
     {
       "ID": "CURSE1HP",
@@ -23456,7 +23461,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 174362
+      "UsersEstimate": 174363
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -23488,7 +23493,7 @@
       "Name": "R.I.P",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 88375
+      "UsersEstimate": 88376
     },
     {
       "ID": "DIEBOSS",
@@ -23496,7 +23501,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47770
+      "UsersEstimate": 47771
     },
     {
       "ID": "DIEHARD",
@@ -23520,7 +23525,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138534
+      "UsersEstimate": 138535
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -23544,7 +23549,7 @@
       "Name": "Well Prepared",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47770
+      "UsersEstimate": 47771
     },
     {
       "ID": "ENDINGCHOICE",
@@ -23592,7 +23597,7 @@
       "Name": "Just Chilling",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47770
+      "UsersEstimate": 47771
     },
     {
       "ID": "FREEZE20TIMES",
@@ -23608,7 +23613,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83598
+      "UsersEstimate": 83599
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -23824,7 +23829,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 128980
+      "UsersEstimate": 128981
     },
     {
       "ID": "KILLNICEDOG",
@@ -23840,7 +23845,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 93152
+      "UsersEstimate": 93153
     },
     {
       "ID": "KILLREFLECT10",
@@ -23968,7 +23973,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 107483
+      "UsersEstimate": 107484
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -24080,7 +24085,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 212578
+      "UsersEstimate": 212579
     },
     {
       "ID": "SPECIALROOMS10",
@@ -24088,7 +24093,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 148088
+      "UsersEstimate": 148089
     },
     {
       "ID": "SPEEDRUN10",
@@ -24104,7 +24109,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 102706
+      "UsersEstimate": 102707
     },
     {
       "ID": "STEALTH100",
@@ -24152,7 +24157,7 @@
       "Name": "An Offering",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 148088
+      "UsersEstimate": 148089
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -24311,22 +24316,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238852,
+      "Progressed": 238853,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 332,
-      "Completed": 332
+      "Progressed": 333,
+      "Completed": 333
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-30T22:03:06.6207707+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:09:29.3947884+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:11:01.9878724+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:03:06.6207712+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:09:29.3950215+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:04:08.4205954+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:11:01.9881735+00:00"
 }

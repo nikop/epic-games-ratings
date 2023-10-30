@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 120,
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 944,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2664,6 +2664,11 @@
       "Time": "2023-10-30T22:09:11.2424541+00:00",
       "NumProgressed": 942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T23:10:37.4348078+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2708,7 +2713,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_14",
@@ -2748,15 +2753,15 @@
       "Name": "The power of the Force",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_19",
       "SetID": "271ol84",
       "Name": "When 900 years old you reach...",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 38
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_2",
@@ -2820,7 +2825,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_27",
@@ -2900,7 +2905,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 859
     },
     {
       "ID": "achievement_36",
@@ -2916,7 +2921,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "achievement_38",
@@ -2940,7 +2945,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_40",
@@ -2948,7 +2953,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_41",
@@ -2980,7 +2985,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_45",
@@ -3179,13 +3184,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 944,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 942,
+      "Progressed": 944,
       "Completed": 1
     }
   ],
@@ -3193,8 +3198,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:09:11.2424537+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:10:37.4348073+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:58:45.5720627+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:09:11.2425185+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:59:14.9999224+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:10:37.4348816+00:00"
 }

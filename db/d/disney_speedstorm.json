@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -631,10 +631,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 361,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-10-30T23:01:23.0163257+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 361,
+  "NumberOfAwards": 365,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -654,7 +660,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -696,7 +702,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 23
     },
     {
       "Text": "This game has Playful Visuals",
@@ -711,9 +717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 267920,
+  "EOS_Progressed": 268010,
   "EOS_Completed": 245,
-  "EOS_NewPlayers": 17695,
+  "EOS_NewPlayers": 17573,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9806,6 +9812,11 @@
       "Time": "2023-10-30T22:05:19.4055385+00:00",
       "NumProgressed": 267920,
       "NumCompleted": 245
+    },
+    {
+      "Time": "2023-10-30T23:07:18.261883+00:00",
+      "NumProgressed": 268010,
+      "NumCompleted": 245
     }
   ],
   "TotalAchievements": 24,
@@ -9825,7 +9836,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5360
     },
     {
       "ID": "11",
@@ -9857,7 +9868,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8038
+      "UsersEstimate": 8040
     },
     {
       "ID": "15",
@@ -9913,7 +9924,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5360
     },
     {
       "ID": "21",
@@ -9937,7 +9948,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "24",
@@ -9945,7 +9956,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5360
     },
     {
       "ID": "3",
@@ -9961,7 +9972,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "5",
@@ -9969,7 +9980,7 @@
       "Name": "ROOKIE",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16075
+      "UsersEstimate": 16081
     },
     {
       "ID": "6",
@@ -9977,7 +9988,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5358
+      "UsersEstimate": 5360
     },
     {
       "ID": "7",
@@ -10008,16 +10019,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 267920,
+      "Progressed": 268010,
       "Completed": 245
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-10-30T21:01:14.027525+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:05:19.4055376+00:00",
+  "LastChanged": "2023-10-30T23:01:23.0163255+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:07:18.2618824+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.6526844+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:00:17.2374005+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:05:19.4055942+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:01:23.0163263+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:07:18.2620013+00:00"
 }

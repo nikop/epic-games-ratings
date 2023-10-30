@@ -34,7 +34,7 @@
 | Axel jump in space! | 6.00% | ~46 |
 | Extreme Makeover | 5.00% | ~38 |
 | The Improvinator | 4.00% | ~31 |
-| The Last Supper | 3.00% | ~23 |
+| The Last Supper | 4.00% | ~31 |
 | 2018: A Soup Odyssey | 3.00% | ~23 |
 | Bovine Domain | 2.00% | ~15 |
 | That's No Moon! | 2.00% | ~15 |

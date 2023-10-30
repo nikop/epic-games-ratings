@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 482,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -1410,6 +1410,11 @@
       "Time": "2023-10-30T20:08:00.0022107+00:00",
       "NumProgressed": 481,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T23:07:59.8491458+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1462,7 +1467,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_eou6",
@@ -1486,7 +1491,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_mg2",
@@ -1525,14 +1530,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 482,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:06:19.0157833+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:07:59.8491449+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:01:37.7117175+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:06:19.0157972+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:03:08.7520898+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:07:59.8491662+00:00"
 }

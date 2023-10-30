@@ -3,8 +3,8 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 199,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
@@ -1039,9 +1039,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_21",
@@ -1303,9 +1303,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_8",
@@ -1333,8 +1333,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:04:07.676115+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:05:36.2333151+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:57:51.105589+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:04:07.6761535+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:57:59.9168591+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:05:36.2333735+00:00"
 }

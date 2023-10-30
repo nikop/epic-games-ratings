@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -363,9 +363,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3501,
+  "EOS_Progressed": 3502,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5283,6 +5283,11 @@
       "Time": "2023-10-30T14:06:34.7594633+00:00",
       "NumProgressed": 3501,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-30T23:07:49.4552635+00:00",
+      "NumProgressed": 3502,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5342,7 +5347,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -5446,7 +5451,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -5470,7 +5475,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -5502,7 +5507,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5510,7 +5515,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5518,7 +5523,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5526,7 +5531,7 @@
       "Name": "Living Nightmare",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_MISSION_07",
@@ -5534,7 +5539,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ACH_MISSION_08",
@@ -5542,7 +5547,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_MISSION_09",
@@ -5550,7 +5555,7 @@
       "Name": "The Passenger",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ACH_MISSION_10",
@@ -5558,7 +5563,7 @@
       "Name": "The Spire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH_MISSION_11",
@@ -5598,7 +5603,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5622,7 +5627,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5630,7 +5635,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -5638,7 +5643,7 @@
       "Name": "The More The Merrier",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -5653,7 +5658,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3501,
+      "Progressed": 3502,
       "Completed": 3
     }
   ],
@@ -5661,8 +5666,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-10-22T19:59:31.4254153+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:06:11.6506791+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:07:49.455263+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.9783069+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:58:15.1001415+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:06:11.6507291+00:00"
+  "LastUpdate_Ratings": "2023-10-30T22:58:32.7536661+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:07:49.4553288+00:00"
 }

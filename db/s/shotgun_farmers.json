@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1910,9 +1910,9 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_waves_40",
@@ -2037,8 +2037,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:08:19.8834528+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:09:23.0129874+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:32.5794774+00:00",
-  "LastUpdate_Ratings": "2023-10-30T21:59:38.3979648+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:08:19.8835165+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:00:33.2221586+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:09:23.0130961+00:00"
 }

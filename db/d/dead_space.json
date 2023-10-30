@@ -6,7 +6,7 @@
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -4172,9 +4172,9 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 487
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_13",
@@ -4533,8 +4533,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-30T22:04:03.8932714+00:00",
+  "LastChanged_Achievements": "2023-10-30T23:05:31.0649811+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:01:54.1984988+00:00",
-  "LastUpdate_Achievements": "2023-10-30T22:04:03.8933195+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:03:29.1300994+00:00",
+  "LastUpdate_Achievements": "2023-10-30T23:05:31.0650679+00:00"
 }

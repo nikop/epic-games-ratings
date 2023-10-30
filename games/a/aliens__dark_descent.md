@@ -5,7 +5,7 @@ Rating: 4.48 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,871 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,872 |
 | Keep 'Em Coming | 74.00% | ~2,591 |
 | Snatched Out | 74.00% | ~2,591 |
 | Cleaning Lethe, One Nest At A Time | 68.00% | ~2,381 |
@@ -17,20 +17,20 @@ Rating: 4.48 (Ranked 616)
 | Use The Bumper, That's What It's For | 53.00% | ~1,856 |
 | First Steps Into Madness | 53.00% | ~1,856 |
 | Colonial Barrels | 51.00% | ~1,786 |
-| Harper's Hell | 46.00% | ~1,610 |
-| Making a Stand | 45.00% | ~1,575 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,470 |
-| Where It All Begun | 41.00% | ~1,435 |
-| Recouped Investment | 39.00% | ~1,365 |
-| The More The Merrier | 35.00% | ~1,225 |
-| Omelette Du Fromage | 34.00% | ~1,190 |
-| Living Nightmare | 34.00% | ~1,190 |
-| The Darwin Era Was Here | 31.00% | ~1,085 |
-| Deep Into Insanity | 29.00% | ~1,015 |
-| The Passenger | 29.00% | ~1,015 |
-| Come on, You Wanna Live Forever? | 28.00% | ~980 |
-| The Spire | 26.00% | ~910 |
-| El Riesgo Siempre Vive | 25.00% | ~875 |
+| Harper's Hell | 46.00% | ~1,611 |
+| Making a Stand | 45.00% | ~1,576 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,471 |
+| Where It All Begun | 41.00% | ~1,436 |
+| Recouped Investment | 39.00% | ~1,366 |
+| The More The Merrier | 35.00% | ~1,226 |
+| Omelette Du Fromage | 34.00% | ~1,191 |
+| Living Nightmare | 34.00% | ~1,191 |
+| The Darwin Era Was Here | 31.00% | ~1,086 |
+| Deep Into Insanity | 29.00% | ~1,016 |
+| The Passenger | 29.00% | ~1,016 |
+| Come on, You Wanna Live Forever? | 28.00% | ~981 |
+| The Spire | 26.00% | ~911 |
+| El Riesgo Siempre Vive | 25.00% | ~876 |
 | Stuff Of Nightmares | 23.00% | ~805 |
 | Excavating The Truth | 23.00% | ~805 |
 | Abysmal Horrors | 22.00% | ~770 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 616)
 | This Ain't No Picnic | 0.70% | ~25 |
 | Chalk It Up To Experience | 0.70% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,501 (Ranked 195)  
+Progressed: 3,502 (Ranked 195)  
 Completed: 3 (0.09%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 3 (0.09%) (Ranked 268)
 | 2023-10-27 | 3,495 | 3 |
 | 2023-10-28 | 3,497 | 3 |
 | 2023-10-29 | 3,500 | 3 |
-| 2023-10-30 | 3,501 | 3 |
+| 2023-10-30 | 3,502 | 3 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 478)  
 Sum: 33 (Ranked 500)  
