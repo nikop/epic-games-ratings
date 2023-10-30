@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,436 |
-| Advancement | 4.00% | ~1,149 |
-| Meticulously Efficient | 4.00% | ~1,149 |
+| Stylish | 5.00% | ~1,437 |
+| Advancement | 4.00% | ~1,150 |
+| Meticulously Efficient | 4.00% | ~1,150 |
 | Clutch Capture | 3.00% | ~862 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~862 |
 | Cultured | 3.00% | ~862 |
@@ -19,18 +19,18 @@ Rating: 4.50 (Ranked 579)
 | There you are! | 3.00% | ~862 |
 | Vaporous Expansion | 3.00% | ~862 |
 | Whoopsie | 3.00% | ~862 |
-| Animated | 2.00% | ~574 |
-| Back Off | 2.00% | ~574 |
-| Daily Dose | 2.00% | ~574 |
-| Ectoplasmic Entity | 2.00% | ~574 |
-| Ghostbuster In Training | 2.00% | ~574 |
-| Icing on the Cake | 2.00% | ~574 |
-| Legions | 2.00% | ~574 |
-| Pesky Jerks | 2.00% | ~574 |
-| Right back at ya | 2.00% | ~574 |
-| Side Hustle | 2.00% | ~574 |
-| Summoner | 2.00% | ~574 |
-| Welcome to the Crew | 2.00% | ~574 |
+| Animated | 2.00% | ~575 |
+| Back Off | 2.00% | ~575 |
+| Daily Dose | 2.00% | ~575 |
+| Ectoplasmic Entity | 2.00% | ~575 |
+| Ghostbuster In Training | 2.00% | ~575 |
+| Icing on the Cake | 2.00% | ~575 |
+| Legions | 2.00% | ~575 |
+| Pesky Jerks | 2.00% | ~575 |
+| Right back at ya | 2.00% | ~575 |
+| Side Hustle | 2.00% | ~575 |
+| Summoner | 2.00% | ~575 |
+| Welcome to the Crew | 2.00% | ~575 |
 | We have the best insurance | 1.00% | ~287 |
 | Collector | 1.00% | ~287 |
 | Escape Artist | 1.00% | ~287 |
@@ -40,8 +40,8 @@ Rating: 4.50 (Ranked 579)
 | Stunner | 1.00% | ~287 |
 | Terrifying | 1.00% | ~287 |
 | Tobin's Prodigy | 1.00% | ~287 |
-| Diabolical | 0.90% | ~258 |
-| Reckless | 0.90% | ~258 |
+| Diabolical | 0.90% | ~259 |
+| Reckless | 0.90% | ~259 |
 | Rivalry | 0.80% | ~230 |
 | Liability | 0.70% | ~201 |
 | Surprise! | 0.70% | ~201 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,722 (Ranked 122)  
+Progressed: 28,746 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 65 (0.23%) (Ranked 227)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,722 | 65 |
+| 2023-10-30 | 28,746 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,613 (Ranked 180)  

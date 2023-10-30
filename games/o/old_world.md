@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~301 |
 | Fountainhead | 2.00% | ~301 |
 | Glorious | 2.00% | ~301 |
+| Great | 2.00% | ~301 |
 | Just | 2.00% | ~301 |
 | Keystone | 2.00% | ~301 |
 | Learned | 2.00% | ~301 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~150 |
 | Drillmaster | 1.00% | ~150 |
 | Conqueror | 1.00% | ~150 |
-| Great | 1.00% | ~150 |
 | Intercessor | 1.00% | ~150 |
 | Lion | 1.00% | ~150 |
 | Mighty | 1.00% | ~150 |
@@ -179,6 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~30 |
 | Like a Lion | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
+| Medo-Babylonian Conquest | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
@@ -267,7 +268,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 3 - Good | 0.10% | ~15 |
 | Learn By Playing 4 - Strong | 0.10% | ~15 |
 | Macedonian Wars | 0.10% | ~15 |
-| Medo-Babylonian Conquest | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,047 (Ranked 143)  
+Progressed: 15,048 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,047 | 5 |
+| 2023-10-30 | 15,048 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

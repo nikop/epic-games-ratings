@@ -219,9 +219,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "EV_ACH08",
@@ -267,9 +267,9 @@
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EV_ACH14",
@@ -323,9 +323,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "EV_ACH21",
@@ -387,9 +387,9 @@
       "ID": "EV_ACH28",
       "SetID": "6jeac23",
       "Name": "The Pied Piper Of Freljord",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EV_ACH29",
@@ -529,8 +529,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:15:20.1282994+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:09:47.043053+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.241403+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:03:21.7816271+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:15:20.1283408+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:58:13.1469452+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:09:47.0431071+00:00"
 }

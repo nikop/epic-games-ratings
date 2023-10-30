@@ -6713,11 +6713,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27466,
       "NumberOfAwardsMax": 4807
+    },
+    {
+      "Time": "2023-10-30T13:59:50.2475386+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27470,
+      "NumberOfAwardsMax": 4811
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27466,
-  "NumberOfAwardsMax": 4807,
+  "NumberOfAwards": 27470,
+  "NumberOfAwardsMax": 4811,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6736,7 +6742,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4807
+      "Count": 4811
     },
     {
       "Text": "This game has Easy Combat",
@@ -6769,7 +6775,7 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138355,
+  "EOS_Progressed": 138356,
   "EOS_Completed": 176,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 4,
@@ -26479,6 +26485,11 @@
       "Time": "2023-10-30T13:12:04.9152435+00:00",
       "NumProgressed": 138355,
       "NumCompleted": 176
+    },
+    {
+      "Time": "2023-10-30T14:06:11.0038102+00:00",
+      "NumProgressed": 138356,
+      "NumCompleted": 176
     }
   ],
   "TotalAchievements": 112,
@@ -27385,15 +27396,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138355,
+      "Progressed": 138356,
       "Completed": 176
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-30T02:59:46.0692335+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:12:04.9152424+00:00",
+  "LastChanged": "2023-10-30T13:59:50.2475383+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:06:11.0038095+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:05:25.077099+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:12:04.9155604+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:59:50.2475391+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:06:11.0041+00:00"
 }

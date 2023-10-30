@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3359,6 +3359,11 @@
       "Time": "2023-10-30T13:15:05.4649541+00:00",
       "NumProgressed": 893,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T14:09:35.5385624+00:00",
+      "NumProgressed": 894,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3386,7 +3391,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "BigPlane",
@@ -3570,7 +3575,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "NoTimeForModernization",
@@ -3705,14 +3710,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 894,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:15:05.4649529+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:09:35.5385619+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:07:46.0998333+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:15:05.4650201+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:02:00.0646783+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:09:35.5386172+00:00"
 }

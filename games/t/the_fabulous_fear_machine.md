@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You have three wishes left | 81.00% | ~26 |
-| Master trainee | 78.00% | ~25 |
-| Jung's dream | 72.00% | ~23 |
-| The battle of Great Britain | 63.00% | ~20 |
-| Giant | 59.00% | ~19 |
-| Pulp! Where Monsters Dwell | 53.00% | ~17 |
-| A continent with chemistry | 53.00% | ~17 |
-| The happy farmer girl | 53.00% | ~17 |
-| Pulp! Out of this World | 50.00% | ~16 |
-| Pulp! Adventures into the Unknown | 50.00% | ~16 |
-| A rival with no options | 47.00% | ~15 |
-| Pulp! Terror Tales in the Night | 47.00% | ~15 |
-| Kirlian's best disciple | 47.00% | ~15 |
-| Diagnosis: fear | 47.00% | ~15 |
-| Ambition is... blind | 47.00% | ~15 |
-| You have two wishes left | 47.00% | ~15 |
-| Et in arcadia ego | 41.00% | ~13 |
-| The seer | 41.00% | ~13 |
-| Welcome to Hellville | 41.00% | ~13 |
-| The artist | 38.00% | ~12 |
-| You've awakened the beast | 34.00% | ~11 |
-| Hate is... addictive | 34.00% | ~11 |
-| You had one wish left | 34.00% | ~11 |
-| Blessed antennas | 31.00% | ~10 |
-| The bully | 25.00% | ~8 |
-| The beast in the Oval Office | 22.00% | ~7 |
-| Pulp! The Beyond | 22.00% | ~7 |
-| The barbarian invasions | 22.00% | ~7 |
-| America had no Faith | 22.00% | ~7 |
-| Blood Red Island | 19.00% | ~6 |
-| Bread and bocaua | 19.00% | ~6 |
-| Fanatacism is... poisonous | 19.00% | ~6 |
-| The adventurer | 19.00% | ~6 |
-| Pulp! True Adventures | 19.00% | ~6 |
-| The scholar | 16.00% | ~5 |
-| Pulp! Tales from the Crypt | 13.00% | ~4 |
-| ECO mode | 13.00% | ~4 |
+| You have three wishes left | 82.00% | ~27 |
+| Master trainee | 79.00% | ~26 |
+| Jung's dream | 73.00% | ~24 |
+| Giant | 61.00% | ~20 |
+| The battle of Great Britain | 61.00% | ~20 |
+| Pulp! Where Monsters Dwell | 52.00% | ~17 |
+| A continent with chemistry | 52.00% | ~17 |
+| The happy farmer girl | 52.00% | ~17 |
+| A rival with no options | 48.00% | ~16 |
+| Pulp! Out of this World | 48.00% | ~16 |
+| Pulp! Adventures into the Unknown | 48.00% | ~16 |
+| Pulp! Terror Tales in the Night | 45.00% | ~15 |
+| Kirlian's best disciple | 45.00% | ~15 |
+| Diagnosis: fear | 45.00% | ~15 |
+| Ambition is... blind | 45.00% | ~15 |
+| You have two wishes left | 45.00% | ~15 |
+| Et in arcadia ego | 39.00% | ~13 |
+| The seer | 39.00% | ~13 |
+| Welcome to Hellville | 39.00% | ~13 |
+| The artist | 36.00% | ~12 |
+| You've awakened the beast | 33.00% | ~11 |
+| Hate is... addictive | 33.00% | ~11 |
+| You had one wish left | 33.00% | ~11 |
+| Blessed antennas | 30.00% | ~10 |
+| The bully | 24.00% | ~8 |
+| The beast in the Oval Office | 21.00% | ~7 |
+| Pulp! The Beyond | 21.00% | ~7 |
+| The barbarian invasions | 21.00% | ~7 |
+| America had no Faith | 21.00% | ~7 |
+| Blood Red Island | 18.00% | ~6 |
+| Bread and bocaua | 18.00% | ~6 |
+| Fanatacism is... poisonous | 18.00% | ~6 |
+| The adventurer | 18.00% | ~6 |
+| Pulp! True Adventures | 18.00% | ~6 |
+| The scholar | 15.00% | ~5 |
+| Pulp! Tales from the Crypt | 12.00% | ~4 |
+| ECO mode | 12.00% | ~4 |
 | Vaccine fans | 9.00% | ~3 |
 | A new Hindenburg | 6.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~1 |
@@ -52,7 +52,7 @@
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 483)  
+Progressed: 33 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,3 +72,4 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-17 | 30 | 0 |
 | 2023-10-21 | 31 | 0 |
 | 2023-10-26 | 32 | 0 |
+| 2023-10-30 | 33 | 0 |

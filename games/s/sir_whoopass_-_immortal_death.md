@@ -12,20 +12,20 @@
 | I like you...but I have to kill you... | 84.00% | ~92 |
 | Not so hip anymore! | 83.00% | ~90 |
 | Nerd | 83.00% | ~90 |
-| Blurry depth perception | 80.00% | ~87 |
+| Blurry depth perception | 81.00% | ~88 |
 | Up and down | 78.00% | ~85 |
-| Rolling, Rolling, Rolling | 72.00% | ~78 |
-| Fire-fighter! | 65.00% | ~71 |
-| Oh, you're up to no gouda! | 61.00% | ~66 |
+| Rolling, Rolling, Rolling | 73.00% | ~80 |
+| Fire-fighter! | 66.00% | ~72 |
+| Oh, you're up to no gouda! | 62.00% | ~68 |
+| Make Love not War-Craft a Mistlefoe | 59.00% | ~64 |
 | Meat grinder | 59.00% | ~64 |
-| Make Love not War-Craft a Mistlefoe | 58.00% | ~63 |
-| You're not going to blow me up! | 53.00% | ~58 |
+| You're not going to blow me up! | 54.00% | ~59 |
 | Mushroom soup of the day | 50.00% | ~54 |
+| Cockadoodledoo! | 50.00% | ~54 |
 | Honk honk! | 49.00% | ~53 |
 | Butcher | 49.00% | ~53 |
 | Spare Ribs | 49.00% | ~53 |
-| Cockadoodledoo! | 49.00% | ~53 |
-| Thats disgusting! | 46.00% | ~50 |
+| Thats disgusting! | 47.00% | ~51 |
 | My pants squeak when I walk | 43.00% | ~47 |
 | Self assessed tax return | 41.00% | ~45 |
 | Surprise!! | 40.00% | ~44 |

@@ -41,12 +41,12 @@ Rating: 4.35 (Ranked 785)
 | Exquisite Artwork | 26.00% | ~115 |
 | Archibald Sterling | 25.00% | ~110 |
 | Viscount Edwin Van den Bosch | 25.00% | ~110 |
-| Well-prepared | 20.00% | ~88 |
+| Well-prepared | 21.00% | ~93 |
 | The Truth | 20.00% | ~88 |
 | Sunken Secrets | 18.00% | ~80 |
 | What Else Did I Miss? | 18.00% | ~80 |
 | I Like an Audience | 18.00% | ~80 |
-| The Denouement | 16.00% | ~71 |
+| The Denouement | 17.00% | ~75 |
 | Probably the Greatest Detective in the World | 12.00% | ~53 |
 | Take a Break | 11.00% | ~49 |
 | Room with a View | 7.00% | ~31 |

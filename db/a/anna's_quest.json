@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -469,9 +469,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "aq_achievement_36",
@@ -566,8 +566,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:15:36.8354223+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:10:01.4161307+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.9708486+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:08:03.7831063+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:15:36.83546+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:02:14.8448036+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:10:01.4161653+00:00"
 }

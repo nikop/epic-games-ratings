@@ -5,10 +5,10 @@
   "Ranking_Rating": 62,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 136,
+  "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3161,9 +3161,9 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 17118,
+  "EOS_Progressed": 17120,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -12791,6 +12791,11 @@
       "Time": "2023-10-30T13:10:18.0221666+00:00",
       "NumProgressed": 17118,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-10-30T14:04:41.8441885+00:00",
+      "NumProgressed": 17120,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 50,
@@ -13152,9 +13157,9 @@
       "ID": "WinWithRuins",
       "SetID": "cfbk359",
       "Name": "Ruins",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 86
     },
     {
       "ID": "WinWithTimedOrders",
@@ -13201,15 +13206,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17118,
+      "Progressed": 17120,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-10-30T09:00:00.2736178+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:10:18.0221656+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:04:41.8441879+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.3582421+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:07:04.7839441+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:10:18.0223065+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:01:21.5256054+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:04:41.8442989+00:00"
 }

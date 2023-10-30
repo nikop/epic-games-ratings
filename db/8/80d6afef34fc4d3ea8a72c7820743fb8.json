@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-04T04:00:00+00:00",
     "PcReleaseDate": "2023-07-04T04:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 14,
   "EOS_Completed": 0,
@@ -218,9 +220,9 @@
       "ID": "suzerain2",
       "SetID": "4pdi6j1",
       "Name": "Suzerain II",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "suzerain3",
@@ -279,9 +281,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-10-30T14:01:37.4822774+00:00",
   "FirstSeenAchievements": "2023-05-30T09:00:58.4633941+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:13:49.4244433+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:08:00.5317758+00:00",
   "LastUpdate_AppInfo": "2023-10-24T20:57:15.496133+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:07:21.2777107+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:13:49.4244625+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:01:37.4822815+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:08:00.5317911+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3974,6 +3974,11 @@
       "Time": "2023-10-30T03:09:15.1483692+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T14:10:14.6118548+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3985,7 +3990,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "adventurous_2",
@@ -4153,7 +4158,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "elemental_stones_2",
@@ -4207,9 +4212,9 @@
       "ID": "from_day_to_day_2",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 2",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "from_day_to_day_3",
@@ -4512,14 +4517,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:15:51.6031013+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:10:14.611854+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.0122242+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:05:34.2917925+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:15:51.6031972+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:59:58.0427714+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:10:14.61195+00:00"
 }

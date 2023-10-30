@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -612,9 +612,9 @@
       "ID": "ACH_010",
       "SetID": "72imik0",
       "Name": "The Denouement",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_011",
@@ -756,9 +756,9 @@
       "ID": "ACH_027",
       "SetID": "72imik0",
       "Name": "Well-prepared",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_028",
@@ -981,8 +981,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-10-30T13:14:19.612163+00:00",
+  "LastChanged_Achievements": "2023-10-30T14:08:26.1598749+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:21.2089448+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:03:16.4511312+00:00",
-  "LastUpdate_Achievements": "2023-10-30T13:14:19.6122176+00:00"
+  "LastUpdate_Ratings": "2023-10-30T13:58:09.8247796+00:00",
+  "LastUpdate_Achievements": "2023-10-30T14:08:26.1599203+00:00"
 }
