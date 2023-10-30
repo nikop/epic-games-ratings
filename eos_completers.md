@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.95% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.94% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.07% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -14,12 +14,12 @@
 | 11 | [Overloop](games/o/overloop.md) | 25.00% |
 | 13 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.22% |
-| 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 15 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 20.00% |
-| 15 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 20.00% |
-| 18 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
-| 19 | [Island Cities](games/i/island_cities.md) | 17.11% |
-| 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 16.67% |
+| 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
+| 16 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 16 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 20.00% |
+| 16 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 20.00% |
+| 19 | [Doodle Devil](games/d/doodle_devil.md) | 19.05% |
+| 20 | [Island Cities](games/i/island_cities.md) | 17.11% |
 | 21 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
 | 22 | [Remains](games/r/remains.md) | 13.21% |
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
@@ -106,8 +106,8 @@
 | 104 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
 | 106 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
-| 107 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.58% |
-| 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
+| 107 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
+| 107 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.56% |
 | 109 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
@@ -125,7 +125,7 @@
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
-| 126 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.76% |
+| 126 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.75% |
 | 127 | [Night Book](games/n/night_book.md) | 1.70% |
 | 127 | [Somerville](games/s/somerville.md) | 1.70% |
 | 129 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.68% |
@@ -146,9 +146,9 @@
 | 144 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
 | 145 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 146 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 147 | [Adios](games/a/adios.md) | 1.05% |
-| 147 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 147 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 147 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.06% |
+| 148 | [Adios](games/a/adios.md) | 1.05% |
+| 148 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 150 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 151 | [Sable](games/s/sable.md) | 1.01% |
 | 152 | [Trifox](games/t/trifox.md) | 0.98% |
