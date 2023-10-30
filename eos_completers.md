@@ -4,9 +4,9 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.91% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.90% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.07% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 9 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.25% |
@@ -25,7 +25,7 @@
 | 23 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 24 | [Seven Doors](games/s/seven_doors.md) | 12.50% |
 | 25 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.36% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.62% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.61% |
 | 27 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 28 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 28 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
@@ -63,9 +63,9 @@
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.75% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
-| 64 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.26% |
 | 64 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.26% |
-| 66 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
+| 65 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 5.00% |
+| 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 67 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 68 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
 | 69 | [JARS](games/j/jars.md) | 4.76% |
@@ -155,8 +155,8 @@
 | 153 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 155 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.93% |
-| 155 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.93% |
 | 155 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
+| 157 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 158 | [Hades](games/h/hades.md) | 0.91% |
 | 159 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
 | 160 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
