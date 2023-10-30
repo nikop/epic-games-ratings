@@ -1,11 +1,11 @@
 # Star Atlas
 [Store](https://store.epicgames.com/en-US/p/star-atlas-bead34)  
 [View Rawdata](../../db/s/star_atlas.json)  
-Rating: 4.80 (Ranked 83)  
+Rating: 4.80 (Ranked 84)  
 ## Awards
 Max (Character Customization): 26  (Ranked 509)  
-Sum: 26 (Ranked 517)  
-Diff (max vs sum): -8  
+Sum: 26 (Ranked 518)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 26 |

@@ -2,7 +2,7 @@
   "ID": "a8f1b444a68b4d82803dd7f5374bcd42",
   "Name": "Metamorphosis",
   "ProductSlug": "metamorphosis-547d51",
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -250,8 +250,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-30T12:03:31.3783643+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:07:12.1645089+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:06:54.4166884+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:06.3804791+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:01:25.970939+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:07:12.1645298+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:01:18.1766016+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:06:54.4167073+00:00"
 }

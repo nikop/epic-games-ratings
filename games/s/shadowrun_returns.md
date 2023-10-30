@@ -1,12 +1,12 @@
 # Shadowrun Returns
 [Store](https://store.epicgames.com/en-US/p/shadowrun-returns)  
 [View Rawdata](../../db/s/shadowrun_returns.json)  
-Rating: 4.42 (Ranked 700)  
+Rating: 4.42 (Ranked 701)  
 Number of Ratings: 324  (23.09.2022)  
 ## Awards
 Max (Character Customization): 70  (Ranked 396)  
-Sum: 70 (Ranked 461)  
-Diff (max vs sum): -65  
+Sum: 70 (Ranked 462)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 70 |

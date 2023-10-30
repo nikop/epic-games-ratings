@@ -1,16 +1,16 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.74 (Ranked 152)  
+Rating: 4.74 (Ranked 153)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 66.00% | ~519 |
 | The Adventure Begins | 52.00% | ~409 |
-| Swabbie | 42.00% | ~330 |
-| With Great Power… | 41.00% | ~322 |
+| Swabbie | 42.00% | ~331 |
+| With Great Power… | 41.00% | ~323 |
 | This Belongs in a Museum | 37.00% | ~291 |
-| The Gambit Has Begun | 34.00% | ~267 |
+| The Gambit Has Begun | 34.00% | ~268 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~236 |
 | Powder Monkey | 30.00% | ~236 |
 | Mirror Mirror on the Wall | 29.00% | ~228 |
@@ -18,12 +18,12 @@ Rating: 4.74 (Ranked 152)
 | Buccaneer | 24.00% | ~189 |
 | Fishy Fish | 22.00% | ~173 |
 | All Good Things | 21.00% | ~165 |
-| Seadog | 18.00% | ~141 |
-| Persistent Parasite | 18.00% | ~141 |
+| Seadog | 18.00% | ~142 |
+| Persistent Parasite | 18.00% | ~142 |
 | Jaded Judge | 13.00% | ~102 |
 | Privateer | 12.00% | ~94 |
 | Rustic Recipe | 12.00% | ~94 |
-| Tobacco Travesty | 11.00% | ~86 |
+| Tobacco Travesty | 11.00% | ~87 |
 | Accursed Artifacts | 10.00% | ~79 |
 | Lyrical Longing | 10.00% | ~79 |
 | Corsair | 7.00% | ~55 |
@@ -32,8 +32,8 @@ Rating: 4.74 (Ranked 152)
 | Marauder | 4.00% | ~31 |
 | Welcome Back Jester | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 259)  
-Completed: 27 (3.44%) (Ranked 88)  
+Progressed: 787 (Ranked 259)  
+Completed: 27 (3.43%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 27 (3.44%) (Ranked 88)
 | 2023-10-27 | 774 | 26 |
 | 2023-10-28 | 782 | 26 |
 | 2023-10-29 | 786 | 27 |
+| 2023-10-30 | 787 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

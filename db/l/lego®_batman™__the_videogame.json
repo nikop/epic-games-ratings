@@ -2,10 +2,10 @@
   "ID": "843c8ce683474448bb104a9651e8f325",
   "Name": "LEGO\u00AE Batman\u2122: The Videogame",
   "ProductSlug": "lego-batman",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 396,
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -706,6 +706,6 @@
   "FirstSeen": "2022-07-22T20:23:55.8648477+00:00",
   "LastChanged": "2023-10-28T18:59:16.9455831+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:03.9785328+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:08.5810862+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:04:16.1899013+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:00:00.5153246+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:03:53.3818862+00:00"
 }

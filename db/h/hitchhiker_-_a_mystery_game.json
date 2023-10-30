@@ -2,7 +2,7 @@
   "ID": "154f1c07994047baacd05f40a6672c02",
   "Name": "Hitchhiker - A Mystery Game",
   "ProductSlug": "hitchhiker-a-mystery-game",
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.4568183+00:00",
   "LastChanged": "2023-03-31T05:58:21.4568185+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:29.3050505+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:03:30.3493616+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:05:55.6290538+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:03:04.137537+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:05:31.1507039+00:00"
 }

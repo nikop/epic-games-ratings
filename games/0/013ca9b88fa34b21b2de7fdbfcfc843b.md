@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.61 (Ranked 379)  
+Rating: 4.61 (Ranked 380)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,10 +22,10 @@ Rating: 4.61 (Ranked 379)
 | Search for the Hairy Grell | 13.00% | ~957 |
 | Beach Comber | 13.00% | ~957 |
 | Higher Tax Bracket | 13.00% | ~957 |
+| Skilled | 9.00% | ~663 |
 | Flaming Hot Completos | 8.00% | ~589 |
 | Got to Catch Them All | 8.00% | ~589 |
 | Rumble in the Jumble | 8.00% | ~589 |
-| Skilled | 8.00% | ~589 |
 | Fae Farmer | 7.00% | ~515 |
 | Fanatical Farmer | 7.00% | ~515 |
 | Scattered Scroll Scrounger | 6.00% | ~442 |

@@ -2,13 +2,13 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 153,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6564,
+  "EOS_Progressed": 6565,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4651,6 +4651,11 @@
       "Time": "2023-10-30T16:09:51.5850009+00:00",
       "NumProgressed": 6564,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-30T17:09:33.5062914+00:00",
+      "NumProgressed": 6565,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4663,7 +4668,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5645
+      "UsersEstimate": 5646
     },
     {
       "ID": "achievement_01_02",
@@ -4679,7 +4684,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4135
+      "UsersEstimate": 4136
     },
     {
       "ID": "achievement_01_04",
@@ -4695,7 +4700,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "achievement_01_06",
@@ -4711,7 +4716,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "achievement_01_08",
@@ -4831,7 +4836,7 @@
       "Name": "Italy - Check!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_03_05",
@@ -4927,7 +4932,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "achievement_04_06",
@@ -4943,7 +4948,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "achievement_04_08",
@@ -4951,7 +4956,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5579
+      "UsersEstimate": 5580
     },
     {
       "ID": "achievement_04_09",
@@ -4966,7 +4971,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6564,
+      "Progressed": 6565,
       "Completed": 33
     }
   ],
@@ -4974,8 +4979,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:09:51.5850005+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:09:33.5062907+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:58:23.6772273+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:51.5850786+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:58:11.7624861+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:09:33.5063492+00:00"
 }

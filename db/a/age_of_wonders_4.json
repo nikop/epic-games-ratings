@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 405,
-  "Ranking_Popularity": 500,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Rating": 406,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5251,
+  "EOS_Progressed": 5252,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6522,6 +6522,11 @@
       "Time": "2023-10-30T04:03:01.7536663+00:00",
       "NumProgressed": 5251,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-30T17:03:33.2241199+00:00",
+      "NumProgressed": 5252,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6932,13 +6937,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5251,
+      "Progressed": 5252,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5251,
+      "Progressed": 5252,
       "Completed": 6
     }
   ],
@@ -6946,8 +6951,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-28T02:59:13.786898+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:03:56.0394789+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:03:33.2241193+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:02.1376773+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:37.2996781+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:03:56.0395773+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:00:26.2669278+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:03:33.2241945+00:00"
 }

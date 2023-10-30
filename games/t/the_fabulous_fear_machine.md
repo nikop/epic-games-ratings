@@ -12,18 +12,18 @@
 | Pulp! Where Monsters Dwell | 55.00% | ~18 |
 | A continent with chemistry | 55.00% | ~18 |
 | The happy farmer girl | 55.00% | ~18 |
+| Pulp! Out of this World | 52.00% | ~17 |
+| Pulp! Adventures into the Unknown | 52.00% | ~17 |
 | A rival with no options | 48.00% | ~16 |
 | Pulp! Terror Tales in the Night | 48.00% | ~16 |
-| Pulp! Out of this World | 48.00% | ~16 |
-| Pulp! Adventures into the Unknown | 48.00% | ~16 |
 | Kirlian's best disciple | 48.00% | ~16 |
-| Diagnosis: fear | 45.00% | ~15 |
-| Ambition is... blind | 45.00% | ~15 |
+| Diagnosis: fear | 48.00% | ~16 |
+| Ambition is... blind | 48.00% | ~16 |
 | You have two wishes left | 45.00% | ~15 |
 | The seer | 42.00% | ~14 |
 | Et in arcadia ego | 39.00% | ~13 |
+| The artist | 39.00% | ~13 |
 | Welcome to Hellville | 39.00% | ~13 |
-| The artist | 36.00% | ~12 |
 | You've awakened the beast | 33.00% | ~11 |
 | Hate is... addictive | 33.00% | ~11 |
 | You had one wish left | 33.00% | ~11 |
@@ -41,7 +41,7 @@
 | The scholar | 15.00% | ~5 |
 | Pulp! Tales from the Crypt | 12.00% | ~4 |
 | ECO mode | 12.00% | ~4 |
-| Vaccine fans | 9.00% | ~3 |
+| Vaccine fans | 12.00% | ~4 |
 | A new Hindenburg | 6.00% | ~2 |
 | Pulp! Heart Throbs | 3.00% | ~1 |
 | Pulp! Skeleton Hand | 3.00% | ~1 |

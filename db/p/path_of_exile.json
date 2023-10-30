@@ -2,10 +2,10 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 380,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 93,
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -5672,6 +5672,6 @@
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
   "LastChanged": "2023-10-30T14:00:24.852883+00:00",
   "LastUpdate_AppInfo": "2023-10-28T09:57:17.9508856+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:19.7573582+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:05.8723038+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:00:11.0188515+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:08:48.2262963+00:00"
 }

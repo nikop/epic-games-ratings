@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1870,
+  "EOS_Progressed": 1872,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3962,6 +3962,11 @@
       "Time": "2023-10-30T15:09:30.4836315+00:00",
       "NumProgressed": 1870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T17:09:36.6520804+00:00",
+      "NumProgressed": 1872,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -3974,7 +3979,7 @@
       "Name": "First Love",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -3990,7 +3995,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4030,7 +4035,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4062,7 +4067,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4182,7 +4187,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4204,9 +4209,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "c7hf6a4",
       "Name": "Globe-trotter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -4262,7 +4267,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4270,7 +4275,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4326,7 +4331,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4365,14 +4370,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1870,
+      "Progressed": 1872,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:09:54.7173542+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:09:36.6520798+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:58:01.9826241+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:54.7174209+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:57:52.5084548+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:09:36.6521431+00:00"
 }

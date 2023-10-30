@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 99,
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67716,
+  "EOS_Progressed": 67718,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13721,6 +13721,11 @@
       "Time": "2023-10-30T15:05:02.0714279+00:00",
       "NumProgressed": 67716,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-30T17:05:19.4740252+00:00",
+      "NumProgressed": 67718,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -13884,14 +13889,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67716,
+      "Progressed": 67718,
       "Completed": 17
     }
   ],
@@ -13899,8 +13904,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:05:43.7700529+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:05:19.4740246+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:57:36.8449637+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:05:43.770199+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:57:26.4377117+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:05:19.4741141+00:00"
 }

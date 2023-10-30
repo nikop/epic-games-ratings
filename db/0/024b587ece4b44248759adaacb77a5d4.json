@@ -2,7 +2,7 @@
   "ID": "024b587ece4b44248759adaacb77a5d4",
   "Name": "Liberte",
   "ProductSlug": "liberte-96a5e5",
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-12T21:58:24.2083387+00:00",
   "LastUpdate_AppInfo": "2023-10-23T20:57:11.802769+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:53.3340456+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:07:23.8703355+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:00:45.4559032+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:07:05.9623871+00:00"
 }

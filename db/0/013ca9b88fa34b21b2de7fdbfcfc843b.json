@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 380,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 167,
@@ -165,7 +165,7 @@
   "Tags": [],
   "EOS_Progressed": 7362,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5965,9 +5965,9 @@
       "ID": "UPGRADE_ONESKILLMAX",
       "SetID": "9eia0f5",
       "Name": "Skilled",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 663
     }
   ],
   "AchievementSets": [
@@ -5982,8 +5982,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:09:27.5215115+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:09:09.5909234+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:07.309289+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:27.5215831+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:59:59.2751995+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:09:09.5909868+00:00"
 }

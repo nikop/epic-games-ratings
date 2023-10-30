@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 405,
+  "Ranking_Rating": 406,
   "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 174,
@@ -1369,7 +1369,7 @@
   ],
   "EOS_Progressed": 6412,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11962,8 +11962,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-28T23:58:27.8631683+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:05:20.6368186+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:04:56.6390237+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.7294804+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:59:48.1349522+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:05:20.6369417+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:59:40.0365888+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:04:56.6391054+00:00"
 }

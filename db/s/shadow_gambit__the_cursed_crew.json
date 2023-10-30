@@ -2,13 +2,13 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 153,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.44,
+  "EOS_Completed_Percentage": 3.43,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2427,6 +2427,11 @@
       "Time": "2023-10-29T19:08:54.47272+00:00",
       "NumProgressed": 786,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-30T17:09:33.3469039+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2471,7 +2476,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2495,7 +2500,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "_09_Completion_20",
@@ -2519,7 +2524,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "_12_Completion_50",
@@ -2567,7 +2572,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2583,7 +2588,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2599,7 +2604,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2646,7 +2651,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 27
     }
   ],
@@ -2654,8 +2659,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:09:51.5575827+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:09:33.3469033+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:59:01.0738292+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:51.5576164+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:58:53.8712409+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:09:33.3469355+00:00"
 }

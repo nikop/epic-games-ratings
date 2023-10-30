@@ -1,31 +1,31 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 987)  
+Rating: 3.98 (Ranked 988)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~99 |
-| Battlefields Have Memories | 88.00% | ~97 |
+| Unforeseen | 91.00% | ~101 |
+| Battlefields Have Memories | 87.00% | ~97 |
 | Enlisted | 86.00% | ~95 |
-| Maybe Engage a Little | 82.00% | ~90 |
+| Maybe Engage a Little | 81.00% | ~90 |
 | No More Names | 67.00% | ~74 |
-| Initiate | 61.00% | ~67 |
+| Initiate | 60.00% | ~67 |
 | Thrada-Kul | 55.00% | ~61 |
-| Gravity-Challenged Rocks | 45.00% | ~50 |
+| Gravity-Challenged Rocks | 44.00% | ~49 |
 | All the Major Food Groups | 37.00% | ~41 |
 | Soldier | 36.00% | ~40 |
-| Socialite | 33.00% | ~36 |
-| Beggars Would Ride | 32.00% | ~35 |
+| Socialite | 32.00% | ~36 |
+| Beggars Would Ride | 32.00% | ~36 |
 | Control is an Illusion | 31.00% | ~34 |
-| The Means to Save It | 25.00% | ~28 |
+| The Means to Save It | 24.00% | ~27 |
 | Resilience to Sin | 21.00% | ~23 |
 | A Familiar Nest | 20.00% | ~22 |
 | Periapt Alizarin | 20.00% | ~22 |
 | Armsman | 19.00% | ~21 |
 | Geas Aristeya | 18.00% | ~20 |
-| A Perfect Cycle | 15.00% | ~16 |
-| Recruit | 15.00% | ~16 |
+| A Perfect Cycle | 14.00% | ~16 |
+| Recruit | 14.00% | ~16 |
 | Good Boy | 12.00% | ~13 |
 | Lights Army | 10.00% | ~11 |
 | Periapt Viridian | 10.00% | ~11 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 987)
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 392)  
-Completed: 1 (0.91%) (Ranked 159)  
+Progressed: 111 (Ranked 391)  
+Completed: 1 (0.90%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 1 (0.91%) (Ranked 159)
 | 2023-10-27 | 99 | 1 |
 | 2023-10-28 | 101 | 1 |
 | 2023-10-29 | 108 | 1 |
-| 2023-10-30 | 110 | 1 |
+| 2023-10-30 | 111 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

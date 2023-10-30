@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -3988,8 +3988,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:04:40.4133569+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:04:17.2628697+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.3656873+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:56.876827+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:04:40.4134438+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:00:49.1280598+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:04:17.2629403+00:00"
 }

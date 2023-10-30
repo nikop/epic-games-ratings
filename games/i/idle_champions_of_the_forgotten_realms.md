@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 964)  
+Rating: 4.06 (Ranked 965)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,332 |
+| A Brief Tour of the Realms | 1.00% | ~2,333 |
 | Foul Play | 0.50% | ~998 |
 | Beast Intentions | 0.40% | ~933 |
 | The Cursed Farmer | 0.40% | ~933 |
@@ -15,7 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~700 |
 | The Mad Wizard | 0.30% | ~700 |
 | The Arena of Blood | 0.30% | ~599 |
-| Maddening | 0.20% | ~466 |
+| Maddening | 0.20% | ~467 |
 | The Witchlight Carnival | 0.20% | ~399 |
 | Thieves of the Coven | 0.20% | ~399 |
 | Hither of the Feywild | 0.20% | ~399 |
@@ -31,27 +31,27 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~399 |
 | The Sanctum of the Sword | 0.20% | ~399 |
 | Get Back In The Castle | 0.20% | ~399 |
-| Were-verpowered | 0.20% | ~466 |
+| Were-verpowered | 0.20% | ~467 |
 | Checkmate | 0.20% | ~399 |
 | Vecna Out! | 0.20% | ~399 |
-| A Persistent Buzzing | 0.20% | ~466 |
-| Terror in the Dark | 0.20% | ~466 |
-| A Mysterious Summons | 0.20% | ~466 |
-| Building Trust | 0.20% | ~466 |
-| Unearthed Evil | 0.20% | ~466 |
-| The Crumbling Temple | 0.20% | ~466 |
-| Seeking Allies | 0.20% | ~466 |
-| Are Ya Chicken? | 0.20% | ~466 |
-| Useless Allies | 0.20% | ~466 |
-| Mad Cow Disease | 0.20% | ~466 |
-| Exploring Port Nyanzaru | 0.20% | ~466 |
-| A Tale of Two Cities | 0.20% | ~466 |
-| The Dead Three | 0.20% | ~466 |
-| The Darkness Runs Deeper | 0.20% | ~466 |
-| Difficult Terrain | 0.20% | ~466 |
-| The Contagious Curse | 0.20% | ~466 |
-| Elturel Has Fallen | 0.20% | ~466 |
-| Resolve Amongst Chaos | 0.20% | ~466 |
+| A Persistent Buzzing | 0.20% | ~467 |
+| Terror in the Dark | 0.20% | ~467 |
+| A Mysterious Summons | 0.20% | ~467 |
+| Building Trust | 0.20% | ~467 |
+| Unearthed Evil | 0.20% | ~467 |
+| The Crumbling Temple | 0.20% | ~467 |
+| Seeking Allies | 0.20% | ~467 |
+| Are Ya Chicken? | 0.20% | ~467 |
+| Useless Allies | 0.20% | ~467 |
+| Mad Cow Disease | 0.20% | ~467 |
+| Exploring Port Nyanzaru | 0.20% | ~467 |
+| A Tale of Two Cities | 0.20% | ~467 |
+| The Dead Three | 0.20% | ~467 |
+| The Darkness Runs Deeper | 0.20% | ~467 |
+| Difficult Terrain | 0.20% | ~467 |
+| The Contagious Curse | 0.20% | ~467 |
+| Elturel Has Fallen | 0.20% | ~467 |
+| Resolve Amongst Chaos | 0.20% | ~467 |
 | Into The Fire | 0.20% | ~399 |
 | Dreamscape | 0.20% | ~399 |
 | The Path of Dreams | 0.20% | ~399 |
@@ -60,14 +60,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tiamat's Army | 0.20% | ~399 |
 | Questlines | 0.20% | ~399 |
 | Bel's Forge | 0.20% | ~399 |
-| Friendly Imps | 0.20% | ~466 |
+| Friendly Imps | 0.20% | ~467 |
 | The Sibriex | 0.20% | ~399 |
 | Wrecked Flying Fortress | 0.20% | ~399 |
 | The Bleeding Citadel | 0.20% | ~399 |
 | Idyllglen | 0.20% | ~399 |
 | The Battle of High Hall Tower | 0.20% | ~399 |
 | Elturel's Last Stand | 0.20% | ~399 |
-| Pure Energy | 0.20% | ~466 |
+| Pure Energy | 0.20% | ~467 |
 | Rocky Reception | 0.20% | ~399 |
 | Rock and Roll | 0.20% | ~399 |
 | The Hunt for The Last Breath | 0.20% | ~399 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,249 (Ranked 62)  
+Progressed: 233,252 (Ranked 62)  
 Completed: 2,408 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -728,7 +728,7 @@ Completed: 2,408 (1.03%) (Ranked 151)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
-| 2023-10-30 | 233,249 | 2,408 |
+| 2023-10-30 | 233,252 | 2,408 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
 Sum: 32,270 (Ranked 41)  

@@ -2,6 +2,9 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
+  "Ranking_Rating": 76,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 53,
@@ -17,14 +20,22 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.81,
+  "RatingHistory": [
+    {
+      "Time": "2023-10-30T17:01:05.4334371+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3382,
+  "EOS_Progressed": 3391,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2159,
+  "EOS_NewPlayers": 2153,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1387,6 +1398,11 @@
       "Time": "2023-10-30T16:09:10.4674027+00:00",
       "NumProgressed": 3382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T17:08:52.9007997+00:00",
+      "NumProgressed": 3391,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1407,7 +1423,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 509
     },
     {
       "ID": "BeLikeWater",
@@ -1471,7 +1487,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 678
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1479,7 +1495,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "GarbageMan",
@@ -1543,7 +1559,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "NoMoreTotems",
@@ -1551,7 +1567,7 @@
       "Name": "No More Totems",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1567,7 +1583,7 @@
       "Name": "One-Star Man",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ScorchSquad",
@@ -1591,7 +1607,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "TheQuarterback",
@@ -1599,15 +1615,15 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 543
     },
     {
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 203
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1623,7 +1639,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -1639,7 +1655,7 @@
       "Name": "Digestive Issues",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -1655,7 +1671,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "k01101110",
@@ -1663,21 +1679,23 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3382,
+      "Progressed": 3391,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
+  "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:09:10.4674018+00:00",
+  "LastChanged": "2023-10-30T17:01:05.433437+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:08:52.9007993+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:01:14.0989208+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:10.4674376+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:01:05.433438+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:08:52.900829+00:00"
 }

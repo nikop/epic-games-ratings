@@ -1,17 +1,17 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 120)  
+Rating: 4.76 (Ranked 121)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,102 |
+| Devoured by Darkness | 26.00% | ~3,103 |
 | A Spark | 18.00% | ~2,148 |
-| Burning City | 17.00% | ~2,028 |
+| Burning City | 17.00% | ~2,029 |
 | Defender's Heart | 15.00% | ~1,790 |
-| Mythic Choices | 14.00% | ~1,670 |
-| Banner over the Citadel | 13.00% | ~1,551 |
+| Mythic Choices | 14.00% | ~1,671 |
+| Banner over the Citadel | 13.00% | ~1,552 |
 | Queen's Gratitude | 12.00% | ~1,432 |
 | Fifth Crusade | 8.00% | ~955 |
 | Embrace of the Abyss | 6.00% | ~716 |
@@ -19,12 +19,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Demonic and Divine | 6.00% | ~716 |
 | Path of the Azata | 5.00% | ~597 |
 | Transformation | 5.00% | ~597 |
-| The Legacy | 5.00% | ~597 |
 | Great Upstart | 5.00% | ~597 |
 | Voice from Your Dreams | 5.00% | ~597 |
 | All Paths Open | 5.00% | ~597 |
 | Next-Door Play | 5.00% | ~597 |
 | Heart of the Fallen Land | 4.00% | ~477 |
+| The Legacy | 4.00% | ~477 |
 | Divide and Rule | 4.00% | ~477 |
 | Mythic Reinforcements | 4.00% | ~477 |
 | A Flame | 4.00% | ~477 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~358 |
 | Core of the Riddle | 3.00% | ~358 |
 | Hey, I Know You! | 3.00% | ~358 |
-| The Lady of the Forest | 3.00% | ~321 |
-| Beware Still Water | 3.00% | ~321 |
+| The Lady of the Forest | 3.00% | ~322 |
+| Beware Still Water | 3.00% | ~322 |
 | Path of the Demon | 2.00% | ~239 |
 | Path of the Aeon | 2.00% | ~239 |
 | Path of the Lich | 2.00% | ~239 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,932 (Ranked 150)  
+Progressed: 11,935 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 11,841 | 0 |
 | 2023-10-28 | 11,886 | 0 |
 | 2023-10-29 | 11,919 | 0 |
-| 2023-10-30 | 11,932 | 0 |
+| 2023-10-30 | 11,935 | 0 |
 ## Awards
 Max (Character Customization): 1,731  (Ranked 120)  
 Sum: 7,010 (Ranked 119)  

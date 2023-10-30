@@ -2,10 +2,10 @@
   "ID": "f0cfd875f9c4471ab4ead52048f98160",
   "Name": "Beholder 3",
   "ProductSlug": "beholder-3-d23253",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -112,6 +112,6 @@
   "FirstSeenRating": "2022-09-17T20:02:51.8327527+00:00",
   "LastChanged": "2023-08-26T20:58:59.6977181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:44.283689+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:58:51.8826853+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:07:24.04725+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:58:42.4496106+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:07:06.158938+00:00"
 }

@@ -1,24 +1,24 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 579)  
+Rating: 4.50 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,440 |
-| Advancement | 4.00% | ~1,152 |
-| Meticulously Efficient | 4.00% | ~1,152 |
-| Clutch Capture | 3.00% | ~864 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~864 |
-| Cultured | 3.00% | ~864 |
-| Discovery | 3.00% | ~864 |
-| Fully Upgraded | 3.00% | ~864 |
-| Solo Capture | 3.00% | ~864 |
-| Swift Rift Removers | 3.00% | ~864 |
-| Teamwork | 3.00% | ~864 |
-| There you are! | 3.00% | ~864 |
-| Vaporous Expansion | 3.00% | ~864 |
-| Whoopsie | 3.00% | ~864 |
+| Stylish | 5.00% | ~1,441 |
+| Advancement | 4.00% | ~1,153 |
+| Meticulously Efficient | 4.00% | ~1,153 |
+| Clutch Capture | 3.00% | ~865 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~865 |
+| Cultured | 3.00% | ~865 |
+| Discovery | 3.00% | ~865 |
+| Fully Upgraded | 3.00% | ~865 |
+| Solo Capture | 3.00% | ~865 |
+| Swift Rift Removers | 3.00% | ~865 |
+| Teamwork | 3.00% | ~865 |
+| There you are! | 3.00% | ~865 |
+| Vaporous Expansion | 3.00% | ~865 |
+| Whoopsie | 3.00% | ~865 |
 | Animated | 2.00% | ~576 |
 | Back Off | 2.00% | ~576 |
 | Daily Dose | 2.00% | ~576 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 579)
 | Tobin's Prodigy | 1.00% | ~288 |
 | Diabolical | 0.90% | ~259 |
 | Reckless | 0.90% | ~259 |
-| Rivalry | 0.80% | ~230 |
+| Rivalry | 0.80% | ~231 |
 | Liability | 0.70% | ~202 |
 | Surprise! | 0.70% | ~202 |
 | Fragile Panes | 0.60% | ~173 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,796 (Ranked 122)  
+Progressed: 28,822 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 65 (0.23%) (Ranked 228)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,796 | 65 |
+| 2023-10-30 | 28,822 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,613 (Ranked 180)  

@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 579,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469954,
+  "EOS_Progressed": 469955,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20836,6 +20836,11 @@
       "Time": "2023-10-30T16:10:01.3731222+00:00",
       "NumProgressed": 469954,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-30T17:09:43.2392279+00:00",
+      "NumProgressed": 469955,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20887,7 +20892,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46995
+      "UsersEstimate": 46996
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -20967,7 +20972,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117488
+      "UsersEstimate": 117489
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -21031,7 +21036,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159784
+      "UsersEstimate": 159785
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21478,21 +21483,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13888,
+      "Progressed": 13889,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469954,
+      "Progressed": 469955,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:10:01.3731217+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:09:43.2392273+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:00:12.9004392+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:10:01.3733562+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:00:03.5683308+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:09:43.2394186+00:00"
 }

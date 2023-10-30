@@ -1,11 +1,11 @@
 # Wargame: Red Dragon
 [Store](https://store.epicgames.com/en-US/p/wargame-red-dragon)  
 [View Rawdata](../../db/w/wargame__red_dragon.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 2,918  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,016  (Ranked 151)  
-Sum: 7,989 (Ranked 103)  
+Sum: 7,991 (Ranked 103)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 48
 | This game has Challenging Combat | 948 |
 | This game is Extremely Fun | 930 |
 | This game is Educational | 919 |
-| This game has Competitive Players | 878 |
+| This game has Competitive Players | 880 |
 | This game has Amazing Storytelling | 844 |
 | This game has Realistic Visuals | 812 |
 | This game has a Competitive Community | 776 |
@@ -287,4 +287,4 @@ Diff (max vs sum): 48
 | 2023-10-27 | 4.69 | - | 1,012 | 7,978 |
 | 2023-10-28 | 4.69 | - | 1,013 | 7,982 |
 | 2023-10-29 | 4.69 | - | 1,016 | 7,988 |
-| 2023-10-30 | 4.69 | - | 1,016 | 7,989 |
+| 2023-10-30 | 4.69 | - | 1,016 | 7,991 |

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:04:41.8441897+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:04:18.6836684+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:58:17.8194121+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:04:41.8442827+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:58:06.697136+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:04:18.683701+00:00"
 }

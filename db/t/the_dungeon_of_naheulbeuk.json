@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 441,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 61,
@@ -1257,9 +1257,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 234046,
+  "EOS_Progressed": 234059,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1386,
+  "EOS_NewPlayers": 1385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16687,6 +16687,11 @@
       "Time": "2023-10-30T16:07:47.5669173+00:00",
       "NumProgressed": 234046,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-30T17:07:59.6997833+00:00",
+      "NumProgressed": 234059,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16730,7 +16735,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7021
+      "UsersEstimate": 7022
     },
     {
       "ID": "BookCollection",
@@ -16746,7 +16751,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11702
+      "UsersEstimate": 11703
     },
     {
       "ID": "Chapter2",
@@ -16762,7 +16767,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7021
+      "UsersEstimate": 7022
     },
     {
       "ID": "Chapter4",
@@ -16842,7 +16847,7 @@
       "Name": "Res Judicata",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "CompanionPriestress",
@@ -17050,7 +17055,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -17098,7 +17103,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14043
+      "UsersEstimate": 14044
     },
     {
       "ID": "DwarfElf15Support",
@@ -17114,7 +17119,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "DwarfInsultWin",
@@ -17122,7 +17127,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "DwarfLevel2",
@@ -17138,7 +17143,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -17146,7 +17151,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79576
+      "UsersEstimate": 79580
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17170,7 +17175,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7021
+      "UsersEstimate": 7022
     },
     {
       "ID": "EndGameCursed",
@@ -17194,7 +17199,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16383
+      "UsersEstimate": 16384
     },
     {
       "ID": "FollowBraztok",
@@ -17218,7 +17223,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "KillDungeonLich",
@@ -17226,7 +17231,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "KillGolbargh",
@@ -17250,7 +17255,7 @@
       "Name": "Gargantua",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2106
+      "UsersEstimate": 2107
     },
     {
       "ID": "Orktobearfest",
@@ -17314,7 +17319,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "RangerEpic",
@@ -17386,7 +17391,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2340
+      "UsersEstimate": 2341
     },
     {
       "ID": "WizardResistBurn",
@@ -17394,28 +17399,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7021
+      "UsersEstimate": 7022
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 234046,
+      "Progressed": 234059,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 234046,
+      "Progressed": 234059,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-29T20:59:38.5969149+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:07:47.5669168+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:07:59.6997828+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:59:32.5795806+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:07:47.5671113+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:59:22.8527957+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:07:59.6999898+00:00"
 }

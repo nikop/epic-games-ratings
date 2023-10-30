@@ -1,34 +1,34 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 211)  
+Rating: 4.70 (Ranked 212)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,291 |
+| Found a Friend | 95.00% | ~407,292 |
 | Haikyo | 80.00% | ~342,982 |
-| Good as New | 72.00% | ~308,683 |
-| Into the Woods | 70.00% | ~300,109 |
-| Hunter in the Forest | 60.00% | ~257,236 |
-| Rot Commander | 60.00% | ~257,236 |
-| Taro's Fear | 56.00% | ~240,087 |
+| Good as New | 72.00% | ~308,684 |
+| Into the Woods | 70.00% | ~300,110 |
+| Hunter in the Forest | 60.00% | ~257,237 |
+| Rot Commander | 60.00% | ~257,237 |
+| Taro's Fear | 56.00% | ~240,088 |
 | Between the Eyes | 47.00% | ~201,502 |
-| Taro's Love | 46.00% | ~197,214 |
+| Taro's Love | 46.00% | ~197,215 |
 | Taro's Regret | 43.00% | ~184,353 |
-| Spirit Guide | 42.00% | ~180,065 |
+| Spirit Guide | 42.00% | ~180,066 |
 | Harness Your Power | 39.00% | ~167,204 |
 | The Open Range | 37.00% | ~158,629 |
-| Adira's Love | 34.00% | ~145,767 |
+| Adira's Love | 34.00% | ~145,768 |
 | Adira's Fear | 33.00% | ~141,480 |
-| Weigh Them Down | 31.00% | ~132,905 |
-| Adira's Regret | 31.00% | ~132,905 |
+| Weigh Them Down | 31.00% | ~132,906 |
+| Adira's Regret | 31.00% | ~132,906 |
 | A Heavy Hammer | 30.00% | ~128,618 |
 | Crossing Over | 29.00% | ~124,331 |
 | Quick Draw | 29.00% | ~124,331 |
 | Toshi's Fear | 28.00% | ~120,044 |
-| Toshi's Regret | 27.00% | ~115,756 |
-| Toshi's Love | 27.00% | ~115,756 |
+| Toshi's Regret | 27.00% | ~115,757 |
+| Toshi's Love | 27.00% | ~115,757 |
 | A Leader Walks Alone | 26.00% | ~111,469 |
 | Bow Master | 26.00% | ~111,469 |
 | The Lonely Path | 26.00% | ~111,469 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,859 |
 | Master Spirit Guide | 0.30% | ~1,286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,727 (Ranked 42)  
+Progressed: 428,728 (Ranked 42)  
 Completed: 543 (0.13%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 543 (0.13%) (Ranked 251)
 | 2023-10-27 | 428,676 | 543 |
 | 2023-10-28 | 428,694 | 543 |
 | 2023-10-29 | 428,718 | 543 |
-| 2023-10-30 | 428,727 | 543 |
+| 2023-10-30 | 428,728 | 543 |
 ## Awards
 Max (Great Boss Battles): 1,335  (Ranked 134)  
 Sum: 1,694 (Ranked 216)  

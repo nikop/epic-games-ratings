@@ -2,7 +2,7 @@
   "ID": "c00afd85d8854cefa9e5581366adc40f",
   "Name": "Redout: Space Assault",
   "ProductSlug": "redout-space-assault",
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.4314652+00:00",
   "LastChanged": "2023-03-31T05:58:32.4314653+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.0723838+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:03:25.3140175+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:06:22.2427955+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:03:00.9616107+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:05:57.7452226+00:00"
 }

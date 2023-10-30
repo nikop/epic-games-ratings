@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 77,
@@ -6777,7 +6777,7 @@
   ],
   "EOS_Progressed": 138359,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27413,8 +27413,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-30T13:59:50.2475383+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:06:15.3065322+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:05:50.8587146+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:59:48.4579975+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:06:15.3068048+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:59:40.5519864+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:05:50.8589769+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1012,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
+  "EOS_Progressed": 556,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -853,6 +853,11 @@
       "Time": "2023-10-29T18:05:51.54487+00:00",
       "NumProgressed": 555,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-30T17:06:30.9849908+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -950,9 +955,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 284
     },
     {
       "ID": "Hitman",
@@ -984,7 +989,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Leisurely_Strol",
@@ -1014,9 +1019,9 @@
       "ID": "Missing_Shot",
       "SetID": "ek310c",
       "Name": "You Had One Job...",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 22
     },
     {
       "ID": "Neighbor",
@@ -1054,9 +1059,9 @@
       "ID": "Park",
       "SetID": "ek310c",
       "Name": "Catch You Later",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "Party",
@@ -1095,7 +1100,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 555,
+      "Progressed": 556,
       "Completed": 6
     }
   ],
@@ -1103,8 +1108,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:06:48.9553005+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:06:30.9849902+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:44.8805574+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:03:42.9010921+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:06:48.9553289+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:03:19.3693112+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:06:30.9850152+00:00"
 }

@@ -1,20 +1,20 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,723 |
-| Until death do us apart | 4.00% | ~17,723 |
-| Victorious! | 4.00% | ~17,723 |
-| That's a Grand Navy | 3.00% | ~13,292 |
-| That is mine! | 3.00% | ~13,292 |
-| Brothers in Arms | 2.00% | ~8,861 |
-| Cold War | 2.00% | ~8,861 |
-| For the Glory | 2.00% | ~8,861 |
-| Seriously?! | 2.00% | ~8,861 |
+| That's a Grand Army | 4.00% | ~17,724 |
+| Until death do us apart | 4.00% | ~17,724 |
+| Victorious! | 4.00% | ~17,724 |
+| That's a Grand Navy | 3.00% | ~13,293 |
+| That is mine! | 3.00% | ~13,293 |
+| Brothers in Arms | 2.00% | ~8,862 |
+| Cold War | 2.00% | ~8,862 |
+| For the Glory | 2.00% | ~8,862 |
+| Seriously?! | 2.00% | ~8,862 |
 | Defender of the Faith | 1.00% | ~4,431 |
 | It's all about luck | 1.00% | ~4,431 |
 | It's all about the money | 1.00% | ~4,431 |
@@ -26,12 +26,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,545 |
 | Royal Authority | 0.80% | ~3,545 |
 | Total Control | 0.80% | ~3,545 |
-| My armies are invincible! | 0.70% | ~3,101 |
-| Agressive Expander | 0.60% | ~2,658 |
-| Azur semé de lis or | 0.50% | ~2,215 |
-| City of Cities | 0.50% | ~2,215 |
-| Combined Arms | 0.50% | ~2,215 |
-| This navy can take it all | 0.50% | ~2,215 |
+| My armies are invincible! | 0.70% | ~3,102 |
+| Agressive Expander | 0.60% | ~2,659 |
+| Azur semé de lis or | 0.50% | ~2,216 |
+| City of Cities | 0.50% | ~2,216 |
+| Combined Arms | 0.50% | ~2,216 |
+| This navy can take it all | 0.50% | ~2,216 |
 | Bright Spark | 0.40% | ~1,772 |
 | The Emperors new clothes | 0.40% | ~1,772 |
 | Factionalism | 0.40% | ~1,772 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443,068 (Ranked 41)  
+Progressed: 443,106 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,14 +554,14 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-27 | 440,786 | 1 |
 | 2023-10-28 | 441,735 | 1 |
 | 2023-10-29 | 442,673 | 1 |
-| 2023-10-30 | 443,068 | 1 |
+| 2023-10-30 | 443,106 | 1 |
 ## Awards
-Max (Educational): 6,736  (Ranked 56)  
-Sum: 55,435 (Ranked 24)  
-Diff (max vs sum): 32  
+Max (Educational): 6,749  (Ranked 55)  
+Sum: 55,448 (Ranked 24)  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,736 |
+| This game is Educational | 6,749 |
 | This game has Diverse Characters | 6,443 |
 | This game is Highly Recommended | 6,427 |
 | This game has Challenging Combat | 6,377 |
@@ -860,4 +860,4 @@ Diff (max vs sum): 32
 | 2023-10-27 | 4.69 | - | 6,700 | 55,068 |
 | 2023-10-28 | 4.69 | - | 6,718 | 55,220 |
 | 2023-10-29 | 4.69 | - | 6,736 | 55,365 |
-| 2023-10-30 | 4.69 | - | 6,736 | 55,435 |
+| 2023-10-30 | 4.69 | - | 6,749 | 55,448 |

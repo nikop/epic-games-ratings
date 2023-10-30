@@ -1,13 +1,13 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
-Rating: 3.92 (Ranked 1,001)  
+Rating: 3.92 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Earth Shattering | 50.00% | ~256 |
+| La Der des Ders | 18.00% | ~92 |
 | Das Ist Endgültig! | 18.00% | ~92 |
-| La Der des Ders | 17.00% | ~87 |
 | From the Pages of History | 9.00% | ~46 |
 | The Chemists' War | 6.00% | ~31 |
 | War with Friends | 3.00% | ~15 |

@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 684,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 65,
@@ -828,9 +828,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 226031,
+  "EOS_Progressed": 226035,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21958,6 +21958,11 @@
       "Time": "2023-10-30T16:09:34.7020431+00:00",
       "NumProgressed": 226031,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T17:09:16.8329269+00:00",
+      "NumProgressed": 226035,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21969,7 +21974,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42946
+      "UsersEstimate": 42947
     },
     {
       "ID": "ACH_BASE_10",
@@ -21977,7 +21982,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58768
+      "UsersEstimate": 58769
     },
     {
       "ID": "ACH_BASE_11",
@@ -22017,7 +22022,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22603
+      "UsersEstimate": 22604
     },
     {
       "ID": "ACH_BASE_17",
@@ -22240,7 +22245,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226031,
+      "Progressed": 226035,
       "Completed": 5
     }
   ],
@@ -22248,8 +22253,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-10-30T15:00:58.724534+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:09:34.7020426+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:09:16.8329263+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:01:31.7805491+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:09:34.7022224+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:01:23.3299423+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:09:16.8330681+00:00"
 }

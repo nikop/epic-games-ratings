@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 84.00% | ~31 |
+| Cutie Poro | 73.00% | ~27 |
 | Better On Ice | 70.00% | ~26 |
-| Cutie Poro | 70.00% | ~26 |
 | Notai Notes | 68.00% | ~25 |
 | Blue Dreams | 65.00% | ~24 |
 | He's Famous! | 65.00% | ~24 |
 | True Legends | 65.00% | ~24 |
 | I Broke It | 65.00% | ~24 |
+| Never Gets Old | 62.00% | ~23 |
 | Krugmazing | 59.00% | ~22 |
-| Never Gets Old | 59.00% | ~22 |
 | The Fire Below the Mountain | 59.00% | ~22 |
 | On The Rocks | 54.00% | ~20 |
 | No Bites | 51.00% | ~19 |
@@ -23,16 +23,16 @@
 | Vertical Power | 49.00% | ~18 |
 | Boom Things | 46.00% | ~17 |
 | Rhythm Of Willump | 46.00% | ~17 |
+| My Darkest Day | 43.00% | ~16 |
 | Tear of Freedom | 43.00% | ~16 |
 | Snowball Fightn't | 43.00% | ~16 |
-| My Darkest Day | 41.00% | ~15 |
 | 3000 Year Blackout | 41.00% | ~15 |
 | A Tragic Reminder | 38.00% | ~14 |
 | Snowy Poro | 38.00% | ~14 |
+| Bullseye | 38.00% | ~14 |
 | The Relentless Storm | 38.00% | ~14 |
 | Family | 35.00% | ~13 |
 | Biggest Snowball Ever | 35.00% | ~13 |
-| Bullseye | 35.00% | ~13 |
 | The Finisher | 35.00% | ~13 |
 | Boosted! | 35.00% | ~13 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~13 |
@@ -41,8 +41,8 @@
 | Freeze The Ice Witch | 32.00% | ~12 |
 | It Is Not Over | 32.00% | ~12 |
 | Yummy | 32.00% | ~12 |
+| Braum's Poro Ranch | 27.00% | ~10 |
 | We Are Speed | 27.00% | ~10 |
-| Braum's Poro Ranch | 24.00% | ~9 |
 | It Was Him | 24.00% | ~9 |
 | One From The Heart | 24.00% | ~9 |
 | Handy Yeti | 24.00% | ~9 |

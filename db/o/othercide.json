@@ -2,10 +2,10 @@
   "ID": "325bbb62ea0d490793fd3d274ea74818",
   "Name": "Othercide",
   "ProductSlug": "othercide-19bfa0",
-  "Ranking_Rating": 700,
+  "Ranking_Rating": 701,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -234,8 +234,8 @@
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.6694223+00:00",
   "LastChanged": "2023-09-27T15:58:11.5808365+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:08:14.6833685+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:08:27.2043167+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:22.2792469+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:59:43.9090219+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:08:14.6833728+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:59:35.4795888+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:08:27.2043203+00:00"
 }

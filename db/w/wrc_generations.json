@@ -2,10 +2,10 @@
   "ID": "a30d60ca7a8d4fd2ad6e531c59854e5e",
   "Name": "WRC Generations",
   "ProductSlug": "wrc-11-fia-world-rally-championship-f0749b",
-  "Ranking_Rating": 669,
+  "Ranking_Rating": 670,
   "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 521,
-  "Ranking_EOS_Progress": 711,
+  "Ranking_PopularitySum": 483,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -374,10 +374,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-10-30T17:02:48.7506744+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
+  "NumberOfAwards": 44,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -386,6 +392,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 24
+    },
+    {
+      "Text": "This game has Realistic Visuals",
+      "Prefix": "This game has",
+      "Type": "Realistic Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -400,8 +412,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-03T15:34:05.2921082+00:00",
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
-  "LastChanged": "2023-10-24T14:00:30.6110934+00:00",
+  "LastChanged": "2023-10-30T17:02:48.7506742+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:27.756628+00:00",
-  "LastUpdate_Ratings": "2023-10-30T16:03:13.278113+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:04:22.2940167+00:00"
+  "LastUpdate_Ratings": "2023-10-30T17:02:48.7506747+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:03:59.4977535+00:00"
 }

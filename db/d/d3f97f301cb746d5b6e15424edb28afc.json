@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -918,9 +918,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -1469,8 +1469,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-30T16:05:56.6736679+00:00",
+  "LastChanged_Achievements": "2023-10-30T17:05:32.1903106+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:57:28.7015247+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:05:56.6737817+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:57:19.8419525+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:05:32.1904343+00:00"
 }

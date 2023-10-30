@@ -7,12 +7,12 @@
 | Last Goodbye | 91.00% | ~124 |
 | The Routine | 81.00% | ~110 |
 | Mother | 79.00% | ~107 |
-| Failure | 76.00% | ~103 |
-| Replace Fuse | 65.00% | ~88 |
-| Alarm | 64.00% | ~87 |
-| Air Filtration | 61.00% | ~83 |
+| Failure | 77.00% | ~105 |
+| Replace Fuse | 66.00% | ~90 |
+| Alarm | 65.00% | ~88 |
+| Air Filtration | 62.00% | ~84 |
 | Broken | 60.00% | ~82 |
-| Radiation | 58.00% | ~79 |
+| Radiation | 59.00% | ~80 |
 | Descent | 57.00% | ~78 |
 | Awakenings | 57.00% | ~78 |
 | Cold Storage | 57.00% | ~78 |

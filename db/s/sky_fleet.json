@@ -1,7 +1,7 @@
 {
   "ID": "f3522c43250443d7b5a6150fb0beee71",
   "Name": "Sky Fleet",
-  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 123,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.8211024+00:00",
   "LastChanged": "2023-03-31T05:58:25.8211025+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:48.0227413+00:00",
-  "LastUpdate_Ratings": "2023-10-30T15:58:50.0688256+00:00",
-  "LastUpdate_Achievements": "2023-10-30T16:07:17.0661452+00:00"
+  "LastUpdate_Ratings": "2023-10-30T16:58:39.9864398+00:00",
+  "LastUpdate_Achievements": "2023-10-30T17:06:59.3126592+00:00"
 }
