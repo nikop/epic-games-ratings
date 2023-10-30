@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.73% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.75% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.72% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -45,7 +45,7 @@
 | 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.11% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
-| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.75% |
+| 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.74% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 47 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.69% |
@@ -87,7 +87,7 @@
 | 85 | [The Bunker](games/t/the_bunker.md) | 3.68% |
 | 86 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.44% |
+| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.43% |
 | 89 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.39% |
 | 90 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
 | 91 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
@@ -155,18 +155,18 @@
 | 153 | [Trifox](games/t/trifox.md) | 0.98% |
 | 154 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 154 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 156 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.94% |
-| 157 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
+| 156 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.93% |
+| 156 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
 | 158 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 159 | [Hades](games/h/hades.md) | 0.91% |
-| 159 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.91% |
-| 161 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
+| 160 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
+| 160 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.90% |
 | 162 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 163 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 165 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 166 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.78% |
 | 166 | [The Devil's Face](games/t/the_devil's_face.md) | 0.78% |
+| 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.77% |
 | 168 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 169 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 170 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
@@ -552,6 +552,7 @@
 | 333 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 0.00% |
 | 333 | [One Hand Clapping](games/o/one_hand_clapping.md) | 0.00% |
 | 333 | [One Military Camp](games/o/one_military_camp.md) | 0.00% |
+| 333 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 0.00% |
 | 333 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 0.00% |
 | 333 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 0.00% |
 | 333 | [Outbreak Epidemic Viral Terror](games/e/ef23a06e26f1497a8a39ff8d70e66833.md) | 0.00% |
