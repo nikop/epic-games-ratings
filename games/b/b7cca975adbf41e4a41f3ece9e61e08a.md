@@ -5,51 +5,51 @@ Rating: 4.81 (Ranked 76)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 92.00% | ~4,552 |
-| I Challenge You To Save More Money! | 86.00% | ~4,255 |
-| I Love How Tough You Are | 71.00% | ~3,513 |
-| Wanna Come To My Place For Dinner? | 63.00% | ~3,117 |
-| What I Want Is You | 57.00% | ~2,820 |
-| To Be Or Not To Be | 53.00% | ~2,622 |
-| Are You Alright? | 46.00% | ~2,276 |
-| Love Actually | 44.00% | ~2,177 |
-| Drama King | 38.00% | ~1,880 |
-| You're Really Something Else | 34.00% | ~1,682 |
-| Happy Family | 33.00% | ~1,633 |
-| Go Clean up In Your Own Way | 33.00% | ~1,633 |
-| ONE PUNCH | 32.00% | ~1,583 |
-| Drama CP: Reel to Real | 32.00% | ~1,583 |
-| FIRST LOVE | 31.00% | ~1,534 |
-| Worthless Speech | 31.00% | ~1,534 |
-| Absolutely Elegant | 30.00% | ~1,484 |
-| Still Single | 29.00% | ~1,435 |
-| Go Get Some Fries On The Pier | 27.00% | ~1,336 |
-| David | 25.00% | ~1,237 |
-| Days Of Innocence | 24.00% | ~1,188 |
-| All I Have Is Money | 22.00% | ~1,089 |
-| Lover In Dark Alley | 22.00% | ~1,089 |
-| A Slap In The Face! | 22.00% | ~1,089 |
-| That's So You | 21.00% | ~1,039 |
-| SALUTE | 21.00% | ~1,039 |
-| Let Me Be Your Toy Boy | 20.00% | ~990 |
-| Off We Sail Tonight | 19.00% | ~940 |
-| Love You Three Thousand | 13.00% | ~643 |
-| Can You Do This Or Not? | 13.00% | ~643 |
-| Doesn't Matter I'll Handle It | 12.00% | ~594 |
-| The Flash | 9.00% | ~445 |
-| New Yoga Pose Unlocked | 9.00% | ~445 |
-| My Dear Love! | 7.00% | ~346 |
-| Life Is A Rollercoaster | 7.00% | ~346 |
-| Boys Need To Protect Themselves | 7.00% | ~346 |
-| Counting Sheep? | 7.00% | ~346 |
-| This Ain't Right In Many Ways... | 7.00% | ~346 |
-| Stubborn Noob | 6.00% | ~297 |
-| Tall; Grande; Venti | 1.00% | ~49 |
-| Limerence | 1.00% | ~49 |
+| Last Night...Did We... | 92.00% | ~4,583 |
+| I Challenge You To Save More Money! | 86.00% | ~4,285 |
+| I Love How Tough You Are | 71.00% | ~3,537 |
+| Wanna Come To My Place For Dinner? | 63.00% | ~3,139 |
+| What I Want Is You | 57.00% | ~2,840 |
+| To Be Or Not To Be | 54.00% | ~2,690 |
+| Are You Alright? | 46.00% | ~2,292 |
+| Love Actually | 44.00% | ~2,192 |
+| Drama King | 38.00% | ~1,893 |
+| You're Really Something Else | 34.00% | ~1,694 |
+| Happy Family | 33.00% | ~1,644 |
+| ONE PUNCH | 33.00% | ~1,644 |
+| Go Clean up In Your Own Way | 33.00% | ~1,644 |
+| Drama CP: Reel to Real | 32.00% | ~1,594 |
+| FIRST LOVE | 31.00% | ~1,544 |
+| Worthless Speech | 31.00% | ~1,544 |
+| Absolutely Elegant | 30.00% | ~1,495 |
+| Still Single | 29.00% | ~1,445 |
+| Go Get Some Fries On The Pier | 27.00% | ~1,345 |
+| David | 26.00% | ~1,295 |
+| Days Of Innocence | 25.00% | ~1,246 |
+| All I Have Is Money | 22.00% | ~1,096 |
+| Lover In Dark Alley | 22.00% | ~1,096 |
+| A Slap In The Face! | 22.00% | ~1,096 |
+| That's So You | 21.00% | ~1,046 |
+| SALUTE | 21.00% | ~1,046 |
+| Let Me Be Your Toy Boy | 20.00% | ~996 |
+| Off We Sail Tonight | 19.00% | ~947 |
+| Love You Three Thousand | 13.00% | ~648 |
+| Can You Do This Or Not? | 13.00% | ~648 |
+| Doesn't Matter I'll Handle It | 12.00% | ~598 |
+| The Flash | 9.00% | ~448 |
+| New Yoga Pose Unlocked | 9.00% | ~448 |
+| My Dear Love! | 7.00% | ~349 |
+| Life Is A Rollercoaster | 7.00% | ~349 |
+| Boys Need To Protect Themselves | 7.00% | ~349 |
+| Counting Sheep? | 7.00% | ~349 |
+| This Ain't Right In Many Ways... | 7.00% | ~349 |
+| Stubborn Noob | 6.00% | ~299 |
+| Tall; Grande; Venti | 1.00% | ~50 |
+| Limerence | 1.00% | ~50 |
 | Hurrah! | 0.90% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,948 (Ranked 182)  
-Completed: 44 (0.89%) (Ranked 160)  
+Progressed: 4,982 (Ranked 182)  
+Completed: 44 (0.88%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 44 (0.89%) (Ranked 160)
 | 2023-10-27 | 3,680 | 26 |
 | 2023-10-28 | 4,238 | 31 |
 | 2023-10-29 | 4,711 | 41 |
-| 2023-10-30 | 4,948 | 44 |
+| 2023-10-30 | 4,982 | 44 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

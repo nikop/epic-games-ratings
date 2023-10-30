@@ -82,7 +82,7 @@ Rating: 4.10 (Ranked 950)
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,082 (Ranked 213)  
-Completed: 2 (0.10%) (Ranked 260)  
+Completed: 2 (0.10%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

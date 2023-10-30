@@ -4,11 +4,11 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 405,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 711,
-  "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -6997,10 +6997,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 3968,
       "NumberOfAwardsMax": 528
+    },
+    {
+      "Time": "2023-10-30T14:59:59.8976285+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3973,
+      "NumberOfAwardsMax": 528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3968,
+  "NumberOfAwards": 3973,
   "NumberOfAwardsMax": 528,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7032,7 +7038,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 510
+      "Count": 515
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7076,8 +7082,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-10-30T14:00:27.5810863+00:00",
+  "LastChanged": "2023-10-30T14:59:59.8976284+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:52.5786606+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:00:27.5810872+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:04:34.8635521+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:59:59.8976288+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:04:08.0358596+00:00"
 }

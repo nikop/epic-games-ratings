@@ -6,9 +6,9 @@
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1950,9 +1950,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15048,
+  "EOS_Progressed": 15050,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15040,6 +15040,11 @@
       "Time": "2023-10-30T14:07:51.1571994+00:00",
       "NumProgressed": 15048,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T15:06:52.822577+00:00",
+      "NumProgressed": 15050,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15379,7 +15384,7 @@
       "Name": "Able",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -15403,7 +15408,7 @@
       "Name": "Architect",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -15507,7 +15512,7 @@
       "Name": "Good",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -15539,7 +15544,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -15603,7 +15608,7 @@
       "Name": "Mason",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -15617,9 +15622,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -15643,7 +15648,7 @@
       "Name": "Pioneer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -15683,7 +15688,7 @@
       "Name": "Strong",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -16419,7 +16424,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -17786,21 +17791,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15048,
+      "Progressed": 15050,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15048,
+      "Progressed": 15050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:07:51.1571987+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:06:52.8225765+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:58:37.086594+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:07:51.1585346+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:58:30.55632+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:06:52.8237412+00:00"
 }

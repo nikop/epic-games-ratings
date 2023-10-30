@@ -23,7 +23,7 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 34.00% | ~190 |
 | Opportunities | 33.00% | ~184 |
 | The Horror | 31.00% | ~173 |
-| The Difference | 28.00% | ~157 |
+| The Difference | 29.00% | ~162 |
 | Vengeance | 27.00% | ~151 |
 | Collectibles of Chapter II | 24.00% | ~134 |
 | Broken Hopes | 24.00% | ~134 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 559 (Ranked 281)  
-Completed: 0 (0.00%) (Ranked 332)  
+Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

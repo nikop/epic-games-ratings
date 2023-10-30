@@ -6,9 +6,9 @@
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 26,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663969,
+  "EOS_Progressed": 663970,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19263,6 +19263,11 @@
       "Time": "2023-10-30T14:06:47.1988845+00:00",
       "NumProgressed": 663969,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-30T15:06:17.2188455+00:00",
+      "NumProgressed": 663970,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19282,7 +19287,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385102
+      "UsersEstimate": 385103
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -19657,15 +19662,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663969,
+      "Progressed": 663970,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:06:47.1988837+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:06:17.2188447+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.5060191+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:58:54.99095+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:06:47.1990693+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:58:43.4223859+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:06:17.2190116+00:00"
 }

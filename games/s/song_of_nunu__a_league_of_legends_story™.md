@@ -36,21 +36,21 @@
 | The Finisher | 35.00% | ~13 |
 | Boosted! | 35.00% | ~13 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~13 |
+| So Close | 32.00% | ~12 |
+| You Get Used To It | 32.00% | ~12 |
 | Freeze The Ice Witch | 32.00% | ~12 |
 | It Is Not Over | 32.00% | ~12 |
 | Yummy | 32.00% | ~12 |
-| So Close | 30.00% | ~11 |
-| You Get Used To It | 30.00% | ~11 |
 | We Are Speed | 27.00% | ~10 |
 | Braum's Poro Ranch | 24.00% | ~9 |
 | One From The Heart | 24.00% | ~9 |
 | Handy Yeti | 24.00% | ~9 |
+| Sneaky Notai | 22.00% | ~8 |
 | It Was Him | 22.00% | ~8 |
 | Rock Star | 22.00% | ~8 |
-| Sneaky Notai | 19.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37 (Ranked 474)  
-Completed: 3 (8.11%) (Ranked 43)  
+Completed: 3 (8.11%) (Ranked 44)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

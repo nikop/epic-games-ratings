@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 405)
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,480 (Ranked 145)  
-Completed: 28 (0.19%) (Ranked 237)  
+Completed: 28 (0.19%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

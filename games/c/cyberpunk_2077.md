@@ -73,7 +73,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 894,580 (Ranked 15)  
-Completed: 2,734 (0.31%) (Ranked 212)  
+Completed: 2,734 (0.31%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

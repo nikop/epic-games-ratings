@@ -3,9 +3,9 @@
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -1691,9 +1691,9 @@
       "ID": "ACH_GET_MONEY",
       "SetID": "al4k4nh",
       "Name": "Wealthy electrician",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_GET_POINTS_IN_ELETRIS",
@@ -1794,8 +1794,8 @@
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:06:37.1658744+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:06:09.1350811+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:16.5911384+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:57:25.8645479+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:06:37.1659047+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:57:31.724973+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:06:09.1351107+00:00"
 }

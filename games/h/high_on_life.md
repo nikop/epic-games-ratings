@@ -12,6 +12,7 @@ Rating: 4.64 (Ranked 327)
 | First Bounty Down | 2.00% | ~488 |
 | G3 Graduation | 2.00% | ~488 |
 | Cold-Blooded Driller | 2.00% | ~488 |
+| Who's The Boss? | 2.00% | ~488 |
 | Creature Feature | 1.00% | ~244 |
 | Lezduit! | 1.00% | ~244 |
 | RIP Davey Glutes | 1.00% | ~244 |
@@ -19,7 +20,6 @@ Rating: 4.64 (Ranked 327)
 | Legendary Bounty Hunter | 1.00% | ~244 |
 | Hardest Battle In The Game | 1.00% | ~244 |
 | Self-Actualization | 1.00% | ~244 |
-| Who's The Boss? | 1.00% | ~244 |
 | Fallout Doesn't Let You Do This | 1.00% | ~244 |
 | Don't Knife The Hand That Feeds | 1.00% | ~244 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
@@ -50,8 +50,8 @@ Rating: 4.64 (Ranked 327)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,397 (Ranked 125)  
-Completed: 13 (0.05%) (Ranked 287)  
+Progressed: 24,398 (Ranked 125)  
+Completed: 13 (0.05%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,7 +242,7 @@ Completed: 13 (0.05%) (Ranked 287)
 | 2023-10-27 | 24,371 | 13 |
 | 2023-10-28 | 24,379 | 13 |
 | 2023-10-29 | 24,391 | 13 |
-| 2023-10-30 | 24,397 | 13 |
+| 2023-10-30 | 24,398 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

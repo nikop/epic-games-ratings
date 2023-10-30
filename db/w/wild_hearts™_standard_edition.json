@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 357,
-  "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1013,9 +1013,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_2",
@@ -1323,8 +1323,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:04:41.0818352+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:04:13.2218625+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:57:47.0573205+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:04:41.0818891+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:57:48.7560292+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:04:13.2219125+00:00"
 }

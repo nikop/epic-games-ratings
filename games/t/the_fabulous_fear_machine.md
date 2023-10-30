@@ -7,15 +7,15 @@
 | You have three wishes left | 82.00% | ~27 |
 | Master trainee | 79.00% | ~26 |
 | Jung's dream | 73.00% | ~24 |
+| The battle of Great Britain | 64.00% | ~21 |
 | Giant | 61.00% | ~20 |
-| The battle of Great Britain | 61.00% | ~20 |
-| Pulp! Where Monsters Dwell | 52.00% | ~17 |
-| A continent with chemistry | 52.00% | ~17 |
+| Pulp! Where Monsters Dwell | 55.00% | ~18 |
+| A continent with chemistry | 55.00% | ~18 |
 | The happy farmer girl | 52.00% | ~17 |
 | A rival with no options | 48.00% | ~16 |
+| Pulp! Terror Tales in the Night | 48.00% | ~16 |
 | Pulp! Out of this World | 48.00% | ~16 |
 | Pulp! Adventures into the Unknown | 48.00% | ~16 |
-| Pulp! Terror Tales in the Night | 45.00% | ~15 |
 | Kirlian's best disciple | 45.00% | ~15 |
 | Diagnosis: fear | 45.00% | ~15 |
 | Ambition is... blind | 45.00% | ~15 |
@@ -53,7 +53,7 @@
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 482)  
-Completed: 0 (0.00%) (Ranked 332)  
+Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

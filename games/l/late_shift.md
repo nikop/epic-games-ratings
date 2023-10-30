@@ -10,7 +10,7 @@
 | Star-Crossed Lovers | 47.00% | ~278 |
 | The Delivery | 45.00% | ~266 |
 | Shill Bidder | 42.00% | ~249 |
-| The Frenzy | 31.00% | ~184 |
+| The Frenzy | 32.00% | ~189 |
 | Good Karma | 31.00% | ~184 |
 | Office Clerk | 30.00% | ~178 |
 | The Bribe | 27.00% | ~160 |
@@ -26,7 +26,7 @@
 | Expert Storyteller | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 592 (Ranked 276)  
-Completed: 8 (1.35%) (Ranked 138)  
+Completed: 8 (1.35%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

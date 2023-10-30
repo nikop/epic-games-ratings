@@ -6,9 +6,9 @@
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -754,10 +754,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2176,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-10-30T15:00:58.7245341+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2177,
+      "NumberOfAwardsMax": 288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2176,
+  "NumberOfAwards": 2177,
   "NumberOfAwardsMax": 288,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -777,7 +783,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 276
+      "Count": 277
     },
     {
       "Text": "This game is Highly Recommended",
@@ -822,9 +828,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 226019,
+  "EOS_Progressed": 226024,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21942,6 +21948,11 @@
       "Time": "2023-10-30T14:09:48.011956+00:00",
       "NumProgressed": 226019,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T15:09:14.830941+00:00",
+      "NumProgressed": 226024,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -21953,7 +21964,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42944
+      "UsersEstimate": 42945
     },
     {
       "ID": "ACH_BASE_10",
@@ -21961,7 +21972,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58765
+      "UsersEstimate": 58766
     },
     {
       "ID": "ACH_BASE_11",
@@ -22201,7 +22212,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27122
+      "UsersEstimate": 27123
     },
     {
       "ID": "ACH_BASE_8",
@@ -22224,16 +22235,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226019,
+      "Progressed": 226024,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-30T06:02:03.6796569+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:09:48.0119553+00:00",
+  "LastChanged": "2023-10-30T15:00:58.724534+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:09:14.8309405+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:01:42.4206983+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:09:48.0122277+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:00:58.7245343+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:09:14.8311034+00:00"
 }

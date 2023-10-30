@@ -3,9 +3,9 @@
   "Name": "Falling Out",
   "ProductSlug": "falling-out-cb0814",
   "Ranking_EOS_Progress": 711,
-  "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-14T09:00:00+00:00",
     "PcReleaseDate": "2022-10-06T08:00:00+00:00",
@@ -54,6 +54,6 @@
   "LastChanged": "2023-03-31T19:58:16.3857048+00:00",
   "LastChanged_Achievements": "2023-10-30T14:08:21.8594282+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:56.3768016+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:59:08.9921615+00:00",
+  "LastUpdate_Ratings": "2023-10-30T14:58:55.405352+00:00",
   "LastUpdate_Achievements": "2023-10-30T14:08:21.8594305+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8352,9 +8352,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64164,
+  "EOS_Progressed": 64165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28732,6 +28732,11 @@
       "Time": "2023-10-30T14:09:34.7265595+00:00",
       "NumProgressed": 64164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T15:09:03.7586068+00:00",
+      "NumProgressed": 64165,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28951,7 +28956,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4491
+      "UsersEstimate": 4492
     },
     {
       "ID": "Lance-a-lot",
@@ -28999,7 +29004,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4491
+      "UsersEstimate": 4492
     },
     {
       "ID": "Minor Clan",
@@ -29150,15 +29155,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64164,
+      "Progressed": 64165,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-30T13:03:38.503014+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:09:34.7265589+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:09:03.7586061+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:58:28.3682563+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:09:34.7267354+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:58:22.6156963+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:09:03.7588109+00:00"
 }

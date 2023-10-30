@@ -6,9 +6,9 @@
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199251,
+  "EOS_Progressed": 199254,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20882,6 +20882,11 @@
       "Time": "2023-10-30T14:04:42.2101657+00:00",
       "NumProgressed": 199251,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-30T15:04:14.1040444+00:00",
+      "NumProgressed": 199254,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -20901,7 +20906,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141468
+      "UsersEstimate": 141470
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -20925,7 +20930,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35865
+      "UsersEstimate": 35866
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -21020,7 +21025,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199251,
+      "Progressed": 199254,
       "Completed": 4
     }
   ],
@@ -21028,8 +21033,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:04:42.2101651+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:04:14.1040439+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.8845341+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:01:49.925391+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:04:42.2104187+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:01:04.6053977+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:04:14.1041962+00:00"
 }

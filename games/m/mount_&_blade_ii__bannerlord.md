@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,416 |
 | What have the Romans ever done for us? | 10.00% | ~6,416 |
 | Butterlord | 9.00% | ~5,775 |
-| Know your enemy | 7.00% | ~4,491 |
-| Mastery | 7.00% | ~4,491 |
+| Know your enemy | 7.00% | ~4,492 |
+| Mastery | 7.00% | ~4,492 |
 | Crowdfunded | 5.00% | ~3,208 |
 | Crush your enemies | 5.00% | ~3,208 |
 | My way | 5.00% | ~3,208 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,164 (Ranked 102)  
-Completed: 0 (0.00%) (Ranked 332)  
+Progressed: 64,165 (Ranked 102)  
+Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 64,025 | 0 |
 | 2023-10-28 | 64,094 | 0 |
 | 2023-10-29 | 64,140 | 0 |
-| 2023-10-30 | 64,164 | 0 |
+| 2023-10-30 | 64,165 | 0 |
 ## Awards
 Max (Character Customization): 7,301  (Ranked 52)  
 Sum: 15,057 (Ranked 66)  

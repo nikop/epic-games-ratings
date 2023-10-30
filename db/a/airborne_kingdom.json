@@ -6,9 +6,9 @@
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7417,
+  "EOS_Progressed": 7418,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -5363,6 +5363,11 @@
       "Time": "2023-10-30T12:07:38.3766466+00:00",
       "NumProgressed": 7417,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-10-30T15:06:34.6545287+00:00",
+      "NumProgressed": 7418,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 27,
@@ -5382,7 +5387,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -5406,7 +5411,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5454,7 +5459,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5478,7 +5483,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -5502,7 +5507,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -5589,15 +5594,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7417,
+      "Progressed": 7418,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:07:29.806916+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:06:34.654528+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.4853848+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:02:36.7090443+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:07:29.8069695+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:02:58.8100958+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:06:34.6545821+00:00"
 }

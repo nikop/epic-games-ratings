@@ -23,8 +23,8 @@
 | The collector | 0.00% | ~0 |
 | Cheese, I have tricked Glitch so many time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 601)  
-Completed: 0 (0.00%) (Ranked 332)  
+Progressed: 4 (Ranked 602)  
+Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

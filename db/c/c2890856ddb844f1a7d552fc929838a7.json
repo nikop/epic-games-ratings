@@ -6,9 +6,9 @@
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 249,
-  "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2326,9 +2326,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 554
+      "UsersEstimate": 563
     },
     {
       "ID": "AC10",
@@ -2542,9 +2542,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 329
     },
     {
       "ID": "AC37",
@@ -2631,8 +2631,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:09:50.9264521+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:09:17.2151163+00:00",
   "LastUpdate_AppInfo": "2023-10-24T22:56:56.0879289+00:00",
   "LastUpdate_Ratings": "2023-10-30T14:02:34.4056516+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:09:50.9265079+00:00"
+  "LastUpdate_Achievements": "2023-10-30T15:09:17.2151689+00:00"
 }

@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~345 |
-| Buckle up | 59.00% | ~333 |
-| Quick charge | 59.00% | ~333 |
-| Hands up! | 53.00% | ~299 |
-| Now you know | 53.00% | ~299 |
-| Short circuit | 53.00% | ~299 |
-| Curious | 42.00% | ~237 |
-| Everybody lies | 36.00% | ~203 |
+| I can do a thing or two | 60.00% | ~340 |
+| Buckle up | 59.00% | ~334 |
+| Quick charge | 59.00% | ~334 |
+| Hands up! | 53.00% | ~300 |
+| Now you know | 53.00% | ~300 |
+| Short circuit | 53.00% | ~300 |
+| Curious | 42.00% | ~238 |
+| Everybody lies | 36.00% | ~204 |
 | Trick or Treat? | 23.00% | ~130 |
-| Sysadmin | 22.00% | ~124 |
-| There is another way | 22.00% | ~124 |
+| Sysadmin | 22.00% | ~125 |
+| There is another way | 22.00% | ~125 |
 | Annoying | 20.00% | ~113 |
 | Every little helps | 20.00% | ~113 |
 | The Walking Robot Among Us | 20.00% | ~113 |
-| Hacker | 19.00% | ~107 |
-| He is just a child | 19.00% | ~107 |
+| Hacker | 19.00% | ~108 |
+| He is just a child | 19.00% | ~108 |
 | Uncertain | 18.00% | ~102 |
 | Goody | 17.00% | ~96 |
-| Ace | 16.00% | ~90 |
-| Concrete painting | 16.00% | ~90 |
-| Found it! | 16.00% | ~90 |
-| Hipster | 16.00% | ~90 |
-| Not what it seems | 16.00% | ~90 |
-| Please oh pleeease! | 16.00% | ~90 |
+| Ace | 16.00% | ~91 |
+| Concrete painting | 16.00% | ~91 |
+| Found it! | 16.00% | ~91 |
+| Hipster | 16.00% | ~91 |
+| Not what it seems | 16.00% | ~91 |
+| Please oh pleeease! | 16.00% | ~91 |
 | That's much better! | 15.00% | ~85 |
-| Not as clumsy or random | 13.00% | ~73 |
-| Blade Runner | 10.00% | ~56 |
+| Not as clumsy or random | 13.00% | ~74 |
+| Blade Runner | 10.00% | ~57 |
 | Perfect hearing | 9.00% | ~51 |
 | Meticulous | 8.00% | ~45 |
 | Lucky dog | 5.00% | ~28 |
 | Accurate | 5.00% | ~28 |
 | Silent | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 565 (Ranked 280)  
-Completed: 18 (3.19%) (Ranked 92)  
+Progressed: 566 (Ranked 280)  
+Completed: 18 (3.18%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,6 +144,7 @@ Completed: 18 (3.19%) (Ranked 92)
 | 2023-10-27 | 562 | 18 |
 | 2023-10-28 | 563 | 18 |
 | 2023-10-29 | 565 | 18 |
+| 2023-10-30 | 566 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 711,
-  "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -12734,10 +12734,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 50433,
       "NumberOfAwardsMax": 19637
+    },
+    {
+      "Time": "2023-10-30T15:00:06.9024973+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 50444,
+      "NumberOfAwardsMax": 19637
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 50433,
+  "NumberOfAwards": 50444,
   "NumberOfAwardsMax": 19637,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12799,7 +12805,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3152
+      "Count": 3163
     },
     {
       "Text": "This game is Relaxing",
@@ -12825,8 +12831,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-10-30T12:01:09.0758297+00:00",
+  "LastChanged": "2023-10-30T15:00:06.902497+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:57.3011745+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:00:35.9788507+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:08:11.1965098+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:00:06.9024978+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:07:09.2160412+00:00"
 }

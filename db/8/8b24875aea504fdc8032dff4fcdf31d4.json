@@ -3,9 +3,9 @@
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 509,
-  "Ranking_EOS_Completed": 332,
+  "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
     "PcReleaseDate": "2021-07-21T22:00:00+00:00",
@@ -334,8 +334,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:05:46.8543646+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:05:07.549151+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:17.11376+00:00",
-  "LastUpdate_Ratings": "2023-10-30T14:02:41.7611978+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:05:46.8543847+00:00"
+  "LastUpdate_Ratings": "2023-10-30T15:03:03.5756267+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:05:07.5491704+00:00"
 }

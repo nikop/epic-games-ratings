@@ -4,11 +4,11 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 700,
   "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 392,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 711,
-  "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -643,10 +643,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2023-10-30T14:58:10.3201609+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202,
+  "NumberOfAwards": 203,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -696,7 +702,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -719,9 +725,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-10-26T18:01:18.6008068+00:00",
-  "LastChanged_Achievements": "2023-10-30T14:09:39.2051213+00:00",
+  "LastChanged": "2023-10-30T14:58:10.3201607+00:00",
+  "LastChanged_Achievements": "2023-10-30T15:09:07.5056462+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:14.9618945+00:00",
-  "LastUpdate_Ratings": "2023-10-30T13:58:14.5648137+00:00",
-  "LastUpdate_Achievements": "2023-10-30T14:09:39.2051256+00:00"
+  "LastUpdate_Ratings": "2023-10-30T14:58:10.3201612+00:00",
+  "LastUpdate_Achievements": "2023-10-30T15:09:07.5056517+00:00"
 }

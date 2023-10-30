@@ -21,7 +21,7 @@
 | Flawless Crystal | 55.00% | ~108 |
 | Bonds of Enmity | 55.00% | ~108 |
 | Helpful Heart | 55.00% | ~108 |
-| Counter Specialist | 51.00% | ~100 |
+| Counter Specialist | 52.00% | ~102 |
 | Axer of Auspice | 46.00% | ~91 |
 | Fair Means or Foul | 45.00% | ~89 |
 | Single Minded | 43.00% | ~85 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 197 (Ranked 357)  
-Completed: 5 (2.54%) (Ranked 109)  
+Completed: 5 (2.54%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
