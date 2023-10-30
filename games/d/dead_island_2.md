@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 518)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,407 |
-| Welcome To Hell-A | 5.00% | ~35,407 |
-| Git Gutte! | 4.00% | ~28,326 |
-| Break A Leg | 4.00% | ~28,326 |
-| Coup de Grâce | 4.00% | ~28,326 |
-| Hazardous Materials | 4.00% | ~28,326 |
-| Friends Like These | 4.00% | ~28,326 |
-| Apex Predator | 4.00% | ~28,326 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,326 |
-| Dr. Reed, I Presume? | 3.00% | ~21,244 |
-| Bookworm | 3.00% | ~21,244 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,244 |
-| But Doctor, I am Butcho | 3.00% | ~21,244 |
-| Slayer Squad | 3.00% | ~21,244 |
-| Can't Handle the Truth | 3.00% | ~21,244 |
-| Like Riding a Bike | 3.00% | ~21,244 |
-| Zombologist | 3.00% | ~21,244 |
-| A Patton Emerges | 3.00% | ~21,244 |
-| I Am the Resurrection | 3.00% | ~21,244 |
-| Stacking the Deck | 3.00% | ~21,244 |
-| Our True Nature | 3.00% | ~21,244 |
-| This is My Weapon | 3.00% | ~21,244 |
+| Hotel California | 5.00% | ~35,408 |
+| Welcome To Hell-A | 5.00% | ~35,408 |
+| Git Gutte! | 4.00% | ~28,327 |
+| Break A Leg | 4.00% | ~28,327 |
+| Coup de Grâce | 4.00% | ~28,327 |
+| Hazardous Materials | 4.00% | ~28,327 |
+| Friends Like These | 4.00% | ~28,327 |
+| Apex Predator | 4.00% | ~28,327 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,327 |
+| Dr. Reed, I Presume? | 3.00% | ~21,245 |
+| Bookworm | 3.00% | ~21,245 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,245 |
+| But Doctor, I am Butcho | 3.00% | ~21,245 |
+| Slayer Squad | 3.00% | ~21,245 |
+| Can't Handle the Truth | 3.00% | ~21,245 |
+| Like Riding a Bike | 3.00% | ~21,245 |
+| Zombologist | 3.00% | ~21,245 |
+| A Patton Emerges | 3.00% | ~21,245 |
+| I Am the Resurrection | 3.00% | ~21,245 |
+| Stacking the Deck | 3.00% | ~21,245 |
+| Our True Nature | 3.00% | ~21,245 |
+| This is My Weapon | 3.00% | ~21,245 |
 | Making Your Mark | 2.00% | ~14,163 |
 | Anger Management | 2.00% | ~14,163 |
 | Perks of the Job | 2.00% | ~14,163 |
@@ -34,11 +34,11 @@ Rating: 4.54 (Ranked 518)
 | Humanity Distilled | 2.00% | ~14,163 |
 | Down with the Sickness | 2.00% | ~14,163 |
 | Max Headroom | 2.00% | ~14,163 |
-| Smorgasbord | 1.00% | ~7,081 |
-| Internet Famous | 1.00% | ~7,081 |
-| Jumbo Keyring | 1.00% | ~7,081 |
-| Go, Bobcats! | 1.00% | ~7,081 |
-| Rising Star | 1.00% | ~7,081 |
+| Smorgasbord | 1.00% | ~7,082 |
+| Internet Famous | 1.00% | ~7,082 |
+| Jumbo Keyring | 1.00% | ~7,082 |
+| Go, Bobcats! | 1.00% | ~7,082 |
+| Rising Star | 1.00% | ~7,082 |
 | On Safari | 0.90% | ~6,373 |
 | Not Even My Final Form | 0.90% | ~6,373 |
 | Make it So | 0.80% | ~5,665 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 518)
 | Donk! | 0.20% | ~1,416 |
 | Bucket List | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,141 (Ranked 22)  
+Progressed: 708,163 (Ranked 22)  
 Completed: 2,282 (0.32%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,282 (0.32%) (Ranked 211)
 | 2023-10-27 | 705,683 | 2,275 |
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
-| 2023-10-30 | 708,141 | 2,282 |
+| 2023-10-30 | 708,163 | 2,282 |
 ## Awards
 Max (Great Boss Battles): 6,730  (Ranked 56)  
 Sum: 10,135 (Ranked 90)  

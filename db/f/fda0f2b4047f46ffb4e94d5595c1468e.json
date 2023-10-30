@@ -1893,9 +1893,9 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 8173,
+  "EOS_Progressed": 8174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6238,6 +6238,11 @@
       "Time": "2023-10-30T04:06:16.6041693+00:00",
       "NumProgressed": 8173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T05:07:36.9708713+00:00",
+      "NumProgressed": 8174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6274,7 +6279,7 @@
       "Name": "What Just Happened??",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ach05",
@@ -6298,7 +6303,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4496
     },
     {
       "ID": "ach08",
@@ -6346,7 +6351,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach14",
@@ -6370,7 +6375,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ach17",
@@ -6434,7 +6439,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3841
+      "UsersEstimate": 3842
     },
     {
       "ID": "ach25",
@@ -6458,7 +6463,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "ach28",
@@ -6490,7 +6495,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "ach32",
@@ -6528,9 +6533,9 @@
       "ID": "ach36",
       "SetID": "47in8n6",
       "Name": "The Mighty Have Fallen",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 245
     },
     {
       "ID": "ach37",
@@ -6546,7 +6551,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "ach39",
@@ -6554,7 +6559,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "ach40",
@@ -6578,7 +6583,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "ach43",
@@ -6586,7 +6591,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "ach44",
@@ -6618,7 +6623,7 @@
       "Name": "Big Spender",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ach48",
@@ -6626,7 +6631,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ach49",
@@ -6642,14 +6647,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8173,
+      "Progressed": 8174,
       "Completed": 0
     }
   ],
@@ -6657,8 +6662,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-30T01:44:40.1810968+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:06:16.6041687+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:07:36.9708705+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:00:21.2396602+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:06:16.6042384+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:01:23.4929597+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:07:36.9709331+00:00"
 }

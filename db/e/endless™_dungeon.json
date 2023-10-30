@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1030,6 +1030,11 @@
       "Time": "2023-10-30T02:22:04.6403238+00:00",
       "NumProgressed": 919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T05:04:40.8347687+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1122,7 +1127,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1138,7 +1143,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1152,9 +1157,9 @@
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1242,7 +1247,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -1281,14 +1286,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:03:43.40263+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:04:40.8347682+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:56:59.1029825+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:03:43.402687+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:57:25.0782977+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:04:40.8347981+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,030 |
-| To The Nines | 42.00% | ~32,197 |
-| Optimized | 37.00% | ~28,364 |
+| First F#@!ing Day | 47.00% | ~36,031 |
+| To The Nines | 42.00% | ~32,198 |
+| Optimized | 37.00% | ~28,365 |
 | Performance Review | 36.00% | ~27,598 |
-| Making a Name | 35.00% | ~26,831 |
-| Tune Up | 34.00% | ~26,064 |
+| Making a Name | 35.00% | ~26,832 |
+| Tune Up | 34.00% | ~26,065 |
 | Landlord | 33.00% | ~25,298 |
-| Wet Work | 32.00% | ~24,531 |
+| Wet Work | 32.00% | ~24,532 |
 | The Side Job | 31.00% | ~23,765 |
 | Wrecking Ball | 28.00% | ~21,465 |
-| Food for Thought | 27.00% | ~20,698 |
-| Finders Keepers | 25.00% | ~19,165 |
-| A Young Empire | 25.00% | ~19,165 |
+| Food for Thought | 27.00% | ~20,699 |
+| Finders Keepers | 25.00% | ~19,166 |
+| A Young Empire | 25.00% | ~19,166 |
 | Work Ethic | 23.00% | ~17,632 |
 | Picking Fights | 20.00% | ~15,332 |
-| Power Players | 19.00% | ~14,565 |
+| Power Players | 19.00% | ~14,566 |
 | Quality Time | 18.00% | ~13,799 |
-| Showdown | 17.00% | ~13,032 |
-| Et tu? | 17.00% | ~13,032 |
+| Showdown | 17.00% | ~13,033 |
+| Et tu? | 17.00% | ~13,033 |
 | Took It to The Limit | 16.00% | ~12,266 |
-| Kitted Out | 14.00% | ~10,732 |
+| Kitted Out | 14.00% | ~10,733 |
 | Masters of Santo Ileso | 12.00% | ~9,199 |
 | Hijacked | 11.00% | ~8,433 |
 | The Spins | 10.00% | ~7,666 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~153 |
 | Fiesta Time | 0.20% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,660 (Ranked 96)  
+Progressed: 76,662 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 51 (0.07%) (Ranked 276)
 | 2023-10-27 | 76,386 | 51 |
 | 2023-10-28 | 76,513 | 51 |
 | 2023-10-29 | 76,639 | 51 |
-| 2023-10-30 | 76,660 | 51 |
+| 2023-10-30 | 76,662 | 51 |
 ## Awards
 Max (Extremely Fun): 1,074  (Ranked 144)  
-Sum: 8,717 (Ranked 97)  
+Sum: 8,718 (Ranked 97)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 47
 | This game has Diverse Characters | 1,004 |
 | This game has Amazing Characters | 994 |
 | This game is Relaxing | 987 |
-| This game has Amazing Storytelling | 975 |
+| This game has Amazing Storytelling | 976 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 611 |
 ## Ratings History
@@ -483,3 +483,4 @@ Diff (max vs sum): 47
 | 2023-10-27 | 3.79 | - | 1,072 | 8,706 |
 | 2023-10-28 | 3.79 | - | 1,074 | 8,711 |
 | 2023-10-29 | 3.79 | - | 1,074 | 8,717 |
+| 2023-10-30 | 3.79 | - | 1,074 | 8,718 |

@@ -2285,9 +2285,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 17146,
+  "EOS_Progressed": 17149,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1676,
+  "EOS_NewPlayers": 1671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7275,6 +7275,11 @@
       "Time": "2023-10-30T04:04:02.7515459+00:00",
       "NumProgressed": 17146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T05:05:04.6310283+00:00",
+      "NumProgressed": 17149,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7463,7 +7468,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "Achievement_Trophy24",
@@ -7471,7 +7476,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7373
+      "UsersEstimate": 7374
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7487,7 +7492,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5830
+      "UsersEstimate": 5831
     },
     {
       "ID": "Achievement_Trophy27",
@@ -7503,7 +7508,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "Achievement_Trophy29",
@@ -7519,7 +7524,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7527,7 +7532,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5658
+      "UsersEstimate": 5659
     },
     {
       "ID": "Achievement_Trophy32",
@@ -7557,9 +7562,9 @@
       "ID": "Achievement_Trophy35",
       "SetID": "724h0m0",
       "Name": "The Pro from Dover",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 857
     },
     {
       "ID": "Achievement_Trophy36",
@@ -7575,7 +7580,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "Achievement_Trophy38",
@@ -7774,7 +7779,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 17146,
+      "Progressed": 17149,
       "Completed": 1
     }
   ],
@@ -7782,8 +7787,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-29T16:01:01.5858207+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:04:02.751545+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:05:04.6310278+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:00:54.5466315+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:04:02.7516252+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:02:01.9762736+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:05:04.6311178+00:00"
 }

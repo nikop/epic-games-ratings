@@ -1149,9 +1149,9 @@
       "Count": 138
     }
   ],
-  "EOS_Progressed": 49110,
+  "EOS_Progressed": 49111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1910,
+  "EOS_NewPlayers": 1904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5704,6 +5704,11 @@
       "Time": "2023-10-30T04:03:43.6753043+00:00",
       "NumProgressed": 49110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T05:04:41.2715479+00:00",
+      "NumProgressed": 49111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -5748,7 +5753,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 25537
+      "UsersEstimate": 25538
     },
     {
       "ID": "achievement_14",
@@ -5756,7 +5761,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 24555
+      "UsersEstimate": 24556
     },
     {
       "ID": "achievement_15",
@@ -5772,7 +5777,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 20626
+      "UsersEstimate": 20627
     },
     {
       "ID": "achievement_17",
@@ -5780,7 +5785,7 @@
       "Name": "One Moment Please!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 29957
+      "UsersEstimate": 29958
     },
     {
       "ID": "achievement_18",
@@ -5812,7 +5817,7 @@
       "Name": "Record Breaker",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 6875
+      "UsersEstimate": 6876
     },
     {
       "ID": "achievement_21",
@@ -5836,7 +5841,7 @@
       "Name": "Graduation Day",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24555
+      "UsersEstimate": 24556
     },
     {
       "ID": "achievement_24",
@@ -5876,7 +5881,7 @@
       "Name": "First of Many",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 7366
+      "UsersEstimate": 7367
     },
     {
       "ID": "achievement_29",
@@ -5908,7 +5913,7 @@
       "Name": "Dazzling Personality",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6875
+      "UsersEstimate": 6876
     },
     {
       "ID": "achievement_32",
@@ -6012,7 +6017,7 @@
       "Name": "Intuition and Execution",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 17188
+      "UsersEstimate": 17189
     },
     {
       "ID": "achievement_8",
@@ -6020,7 +6025,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 36341
+      "UsersEstimate": 36342
     },
     {
       "ID": "achievement_9",
@@ -6035,7 +6040,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 49110,
+      "Progressed": 49111,
       "Completed": 0
     }
   ],
@@ -6043,8 +6048,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-10-29T23:02:49.1679154+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:03:43.6753038+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:04:41.2715475+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:08.8192491+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:00:58.811775+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:03:43.6753964+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:02:06.0732562+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:04:41.2716112+00:00"
 }

@@ -1876,9 +1876,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210818,
+  "EOS_Progressed": 210821,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23831,6 +23831,11 @@
       "Time": "2023-10-30T04:05:36.1677116+00:00",
       "NumProgressed": 210818,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-30T05:06:47.2257886+00:00",
+      "NumProgressed": 210821,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23914,7 +23919,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25298
+      "UsersEstimate": 25299
     },
     {
       "ID": "HappyLittleAccidents",
@@ -24058,7 +24063,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16865
+      "UsersEstimate": 16866
     },
     {
       "ID": "Rollin",
@@ -24090,7 +24095,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16865
+      "UsersEstimate": 16866
     },
     {
       "ID": "TanukiTime",
@@ -24193,15 +24198,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210818,
+      "Progressed": 210821,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-29T19:57:54.9948552+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:05:36.167711+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:06:47.2257881+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:57:47.6548427+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:05:36.1678985+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:58:27.7656273+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:06:47.225967+00:00"
 }

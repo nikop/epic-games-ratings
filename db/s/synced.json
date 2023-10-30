@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -903,9 +903,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65166,
+  "EOS_Progressed": 65168,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7193,6 +7193,11 @@
       "Time": "2023-10-30T04:03:59.3779588+00:00",
       "NumProgressed": 65166,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-30T05:05:00.4763554+00:00",
+      "NumProgressed": 65168,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7205,7 +7210,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20853
+      "UsersEstimate": 20854
     },
     {
       "ID": "10",
@@ -7237,7 +7242,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "14",
@@ -7253,7 +7258,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "16",
@@ -7261,7 +7266,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "2",
@@ -7269,7 +7274,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11078
+      "UsersEstimate": 11079
     },
     {
       "ID": "3",
@@ -7309,7 +7314,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "8",
@@ -7317,7 +7322,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "9",
@@ -7325,14 +7330,14 @@
       "Name": "Past Master",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65166,
+      "Progressed": 65168,
       "Completed": 26
     }
   ],
@@ -7340,8 +7345,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-29T14:58:29.1090175+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:03:59.3779583+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:05:00.476355+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:58:06.7252506+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:03:59.3780372+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:58:51.5226943+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:05:00.4764091+00:00"
 }

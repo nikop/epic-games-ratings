@@ -241,13 +241,13 @@ Completed: 866 (0.35%) (Ranked 209)
 | 2023-10-30 | 249,160 | 866 |
 ## Awards
 Max (Great for Beginners): 433  (Ranked 217)  
-Sum: 3,685 (Ranked 159)  
+Sum: 3,686 (Ranked 159)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 433 |
 | This game has Diverse Characters | 427 |
-| This game is Highly Recommended | 382 |
+| This game is Highly Recommended | 383 |
 | This game has Amazing Characters | 364 |
 | This game is Extremely Fun | 361 |
 | This game has a Silly Community | 355 |
@@ -475,3 +475,4 @@ Diff (max vs sum): 58
 | 2023-10-27 | 4.84 | 428 | 3,664 |
 | 2023-10-28 | 4.84 | 430 | 3,674 |
 | 2023-10-29 | 4.84 | 433 | 3,685 |
+| 2023-10-30 | 4.84 | 433 | 3,686 |

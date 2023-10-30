@@ -8807,9 +8807,9 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -8886,8 +8886,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T10:02:50.4728628+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:03:30.090417+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:04:25.5832393+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:57:08.3776317+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:03:30.0905001+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:57:35.8957191+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:04:25.5833255+00:00"
 }

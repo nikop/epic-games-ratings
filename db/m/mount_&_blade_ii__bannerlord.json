@@ -8334,9 +8334,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64146,
+  "EOS_Progressed": 64149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28669,6 +28669,11 @@
       "Time": "2023-10-30T03:08:35.0785833+00:00",
       "NumProgressed": 64146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T05:09:22.1033305+00:00",
+      "NumProgressed": 64149,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -28688,7 +28693,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10263
+      "UsersEstimate": 10264
     },
     {
       "ID": "Bannerlord",
@@ -28848,7 +28853,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10263
+      "UsersEstimate": 10264
     },
     {
       "ID": "I spit on your grave",
@@ -28904,7 +28909,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21168
+      "UsersEstimate": 21169
     },
     {
       "ID": "Lawbringer",
@@ -28912,7 +28917,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25017
+      "UsersEstimate": 25018
     },
     {
       "ID": "Lawmaker",
@@ -29087,15 +29092,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64146,
+      "Progressed": 64149,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-10-29T14:58:12.4291484+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:08:41.184824+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:09:22.1033295+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:57:54.6595738+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:08:41.1849986+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:58:34.3847434+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:09:22.1035009+00:00"
 }

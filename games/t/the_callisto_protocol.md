@@ -32,8 +32,8 @@ Rating: 4.19 (Ranked 905)
 | In Striking Distance | 2.00% | ~327 |
 | One Last Job | 2.00% | ~85 |
 | This Isn't About Escape | 1.00% | ~43 |
+| Big Spender | 0.90% | ~38 |
 | Armed to the Teeth | 0.80% | ~34 |
-| Big Spender | 0.80% | ~34 |
 | Grim Reaper | 0.70% | ~114 |
 | Parole Denied | 0.70% | ~30 |
 | Information Overload | 0.70% | ~30 |

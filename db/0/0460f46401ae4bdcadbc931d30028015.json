@@ -3,8 +3,8 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 941,
-  "Ranking_Popularity": 542,
-  "Ranking_PopularitySum": 542,
+  "Ranking_Popularity": 543,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 332,
   "Ranking_EOS_NewPlayers": 147,
@@ -469,7 +469,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2931,
+  "EOS_Progressed": 2932,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -3649,6 +3649,11 @@
       "Time": "2023-10-30T04:04:46.5472782+00:00",
       "NumProgressed": 2931,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T05:05:58.4816611+00:00",
+      "NumProgressed": 2932,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3685,7 +3690,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "achievement_13",
@@ -3701,7 +3706,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_15",
@@ -3749,7 +3754,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_20",
@@ -3828,7 +3833,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2931,
+      "Progressed": 2932,
       "Completed": 0
     }
   ],
@@ -3836,8 +3841,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:04:46.5472778+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:05:58.4816602+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-30T04:00:17.8020985+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:04:46.5473173+00:00"
+  "LastUpdate_Ratings": "2023-10-30T05:01:19.0476712+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:05:58.4816999+00:00"
 }

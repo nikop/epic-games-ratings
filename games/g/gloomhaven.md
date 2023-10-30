@@ -6,18 +6,18 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,373 |
-| Overkill | 34.00% | ~5,830 |
-| Vaccine Incoming | 33.00% | ~5,658 |
-| A normal day in Gloomhaven | 33.00% | ~5,658 |
-| Spread the plague | 30.00% | ~5,144 |
-| Get over here! | 25.00% | ~4,286 |
+| I'm not dead yet | 43.00% | ~7,374 |
+| Overkill | 34.00% | ~5,831 |
+| Vaccine Incoming | 33.00% | ~5,659 |
+| A normal day in Gloomhaven | 33.00% | ~5,659 |
+| Spread the plague | 30.00% | ~5,145 |
+| Get over here! | 25.00% | ~4,287 |
 | Just when I thought I was out... | 19.00% | ~3,258 |
 | Precious! | 17.00% | ~2,915 |
 | Mine... All Mine... | 17.00% | ~2,915 |
 | Light of my life | 15.00% | ~2,572 |
 | Anatomy Lesson | 15.00% | ~2,572 |
-| Grizzled veteran | 14.00% | ~2,400 |
+| Grizzled veteran | 14.00% | ~2,401 |
 | You activated my trap card! | 13.00% | ~2,229 |
 | Obstacle race | 13.00% | ~2,229 |
 | Augmented rat | 12.00% | ~2,058 |
@@ -30,10 +30,10 @@ Number of Ratings: 68  (23.09.2022)
 | Play it again, Sam | 8.00% | ~1,372 |
 | Quad damage | 6.00% | ~1,029 |
 | Power Up! | 5.00% | ~857 |
+| The Pro from Dover | 5.00% | ~857 |
 | Pretty lights! | 5.00% | ~857 |
 | Now you see me... | 5.00% | ~857 |
 | Caught off guard | 4.00% | ~686 |
-| The Pro from Dover | 4.00% | ~686 |
 | I hate portals | 3.00% | ~514 |
 | Merchant of doom | 3.00% | ~514 |
 | An eye for an eye | 3.00% | ~514 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,146 (Ranked 135)  
+Progressed: 17,149 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 1 (0.01%) (Ranked 312)
 | 2023-10-27 | 16,501 | 1 |
 | 2023-10-28 | 16,804 | 1 |
 | 2023-10-29 | 17,093 | 1 |
-| 2023-10-30 | 17,146 | 1 |
+| 2023-10-30 | 17,149 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,323 (Ranked 98)  

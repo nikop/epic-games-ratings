@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~49,008 |
-| Zealous | 4.00% | ~39,207 |
-| Not half bad | 4.00% | ~39,207 |
-| Skillful | 4.00% | ~39,207 |
-| Make Some Noise | 4.00% | ~39,207 |
-| No one left behind | 3.00% | ~29,405 |
-| Medic | 3.00% | ~29,405 |
-| Handyman | 3.00% | ~29,405 |
-| Apt Survivor | 3.00% | ~29,405 |
-| Survival Treasures | 3.00% | ~29,405 |
-| I | 3.00% | ~29,405 |
-| Sorted | 3.00% | ~29,405 |
-| Resurgence | 3.00% | ~29,405 |
-| The Grand Sacrifice | 2.00% | ~19,603 |
-| Agonizing Escape | 2.00% | ~19,603 |
-| Backdoor Escape | 2.00% | ~19,603 |
-| I've got your back | 2.00% | ~19,603 |
-| Perfect Escape | 2.00% | ~19,603 |
-| Perfect Killing | 2.00% | ~19,603 |
-| Bloody Millionaire | 2.00% | ~19,603 |
-| Apt Killer | 2.00% | ~19,603 |
-| Risk it all | 2.00% | ~19,603 |
-| II | 2.00% | ~19,603 |
-| Engineer | 2.00% | ~19,603 |
-| Wounded Healer | 2.00% | ~19,603 |
-| Healthy Obsession | 2.00% | ~19,603 |
-| Close Shave | 2.00% | ~19,603 |
-| Preemptive Strike | 2.00% | ~19,603 |
-| Humanitarian | 2.00% | ~19,603 |
-| Second Act | 2.00% | ~19,603 |
+| It wakes | 5.00% | ~49,012 |
+| Zealous | 4.00% | ~39,209 |
+| Not half bad | 4.00% | ~39,209 |
+| Skillful | 4.00% | ~39,209 |
+| Make Some Noise | 4.00% | ~39,209 |
+| No one left behind | 3.00% | ~29,407 |
+| Medic | 3.00% | ~29,407 |
+| Handyman | 3.00% | ~29,407 |
+| Apt Survivor | 3.00% | ~29,407 |
+| Survival Treasures | 3.00% | ~29,407 |
+| I | 3.00% | ~29,407 |
+| Sorted | 3.00% | ~29,407 |
+| Resurgence | 3.00% | ~29,407 |
+| The Grand Sacrifice | 2.00% | ~19,605 |
+| Agonizing Escape | 2.00% | ~19,605 |
+| Backdoor Escape | 2.00% | ~19,605 |
+| I've got your back | 2.00% | ~19,605 |
+| Perfect Escape | 2.00% | ~19,605 |
+| Perfect Killing | 2.00% | ~19,605 |
+| Bloody Millionaire | 2.00% | ~19,605 |
+| Apt Killer | 2.00% | ~19,605 |
+| Risk it all | 2.00% | ~19,605 |
+| II | 2.00% | ~19,605 |
+| Engineer | 2.00% | ~19,605 |
+| Wounded Healer | 2.00% | ~19,605 |
+| Healthy Obsession | 2.00% | ~19,605 |
+| Close Shave | 2.00% | ~19,605 |
+| Preemptive Strike | 2.00% | ~19,605 |
+| Humanitarian | 2.00% | ~19,605 |
+| Second Act | 2.00% | ~19,605 |
 | Blood on your hands | 1.00% | ~9,802 |
 | Escape Artist | 1.00% | ~9,802 |
 | Made it out alive! | 1.00% | ~9,802 |
@@ -65,32 +65,32 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~9,802 |
 | One More Step | 1.00% | ~9,802 |
 | MU/TH/UR Dearest | 1.00% | ~9,802 |
-| Gifts for the Fog | 0.90% | ~8,821 |
-| Shock Therapy | 0.90% | ~8,821 |
-| Cottage Owner | 0.90% | ~8,821 |
-| Escaping the Nightmare | 0.90% | ~8,821 |
-| Campbell's Chapel Legacy | 0.90% | ~8,821 |
-| Ancestor's Rite | 0.90% | ~8,821 |
-| Outrun Evil | 0.90% | ~8,821 |
-| Grim Pilgrimage | 0.90% | ~8,821 |
-| A bite for the Entity | 0.80% | ~7,841 |
-| Blood on your face | 0.80% | ~7,841 |
-| Leapfrog | 0.80% | ~7,841 |
-| Serial Killer | 0.80% | ~7,841 |
-| Selfless Survival | 0.80% | ~7,841 |
-| Outrun the Overlap | 0.80% | ~7,841 |
-| Extraterrestrial | 0.80% | ~7,841 |
-| Jump Scares | 0.70% | ~6,861 |
-| Hemophobia | 0.70% | ~6,861 |
-| Happy Holidays | 0.70% | ~6,861 |
-| Game Over | 0.70% | ~6,861 |
-| Devoted Gatekeeping | 0.70% | ~6,861 |
-| Shrine Apparatus | 0.70% | ~6,861 |
-| Broken Bodies | 0.70% | ~6,861 |
-| End of Days | 0.70% | ~6,861 |
-| Insult and Injury | 0.70% | ~6,861 |
-| Complete the Evolution | 0.70% | ~6,861 |
-| Kitted Out | 0.70% | ~6,861 |
+| Gifts for the Fog | 0.90% | ~8,822 |
+| Shock Therapy | 0.90% | ~8,822 |
+| Cottage Owner | 0.90% | ~8,822 |
+| Escaping the Nightmare | 0.90% | ~8,822 |
+| Campbell's Chapel Legacy | 0.90% | ~8,822 |
+| Ancestor's Rite | 0.90% | ~8,822 |
+| Outrun Evil | 0.90% | ~8,822 |
+| Grim Pilgrimage | 0.90% | ~8,822 |
+| A bite for the Entity | 0.80% | ~7,842 |
+| Blood on your face | 0.80% | ~7,842 |
+| Leapfrog | 0.80% | ~7,842 |
+| Serial Killer | 0.80% | ~7,842 |
+| Selfless Survival | 0.80% | ~7,842 |
+| Outrun the Overlap | 0.80% | ~7,842 |
+| Extraterrestrial | 0.80% | ~7,842 |
+| Jump Scares | 0.70% | ~6,862 |
+| Hemophobia | 0.70% | ~6,862 |
+| Happy Holidays | 0.70% | ~6,862 |
+| Game Over | 0.70% | ~6,862 |
+| Devoted Gatekeeping | 0.70% | ~6,862 |
+| Shrine Apparatus | 0.70% | ~6,862 |
+| Broken Bodies | 0.70% | ~6,862 |
+| End of Days | 0.70% | ~6,862 |
+| Insult and Injury | 0.70% | ~6,862 |
+| Complete the Evolution | 0.70% | ~6,862 |
+| Kitted Out | 0.70% | ~6,862 |
 | Deep Cleansing | 0.60% | ~5,881 |
 | Texas BBQ | 0.60% | ~5,881 |
 | Party Crasher | 0.60% | ~5,881 |
@@ -107,14 +107,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Death of Ignorance | 0.40% | ~3,921 |
 | Power Moves | 0.40% | ~3,921 |
 | Hack the Mainframe | 0.40% | ~3,921 |
-| A feast for the Entity | 0.30% | ~2,940 |
-| Mad House | 0.30% | ~2,940 |
-| Deranged Pursuit | 0.30% | ~2,940 |
-| Denied! | 0.30% | ~2,940 |
-| Viral Video | 0.30% | ~2,940 |
-| Ghost in the Machine | 0.30% | ~2,940 |
-| From the Deep | 0.30% | ~2,940 |
-| Disarm and Dismember | 0.30% | ~2,940 |
+| A feast for the Entity | 0.30% | ~2,941 |
+| Mad House | 0.30% | ~2,941 |
+| Deranged Pursuit | 0.30% | ~2,941 |
+| Denied! | 0.30% | ~2,941 |
+| Viral Video | 0.30% | ~2,941 |
+| Ghost in the Machine | 0.30% | ~2,941 |
+| From the Deep | 0.30% | ~2,941 |
+| Disarm and Dismember | 0.30% | ~2,941 |
 | In the void she walks | 0.20% | ~1,960 |
 | Milk 'n' Cookies | 0.20% | ~1,960 |
 | Dismantle | 0.20% | ~1,960 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~980 |
 | Adept Ripley | 0.10% | ~980 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,164 (Ranked 14)  
+Progressed: 980,235 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -429,7 +429,7 @@ Completed: 52 (0.01%) (Ranked 312)
 | 2023-10-27 | 972,989 | 52 |
 | 2023-10-28 | 976,261 | 52 |
 | 2023-10-29 | 979,683 | 52 |
-| 2023-10-30 | 980,164 | 52 |
+| 2023-10-30 | 980,235 | 52 |
 ## Awards
 Max (Diverse Characters): 34,962  (Ranked 15)  
 Sum: 269,040 (Ranked 13)  

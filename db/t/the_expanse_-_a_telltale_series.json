@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 405,
-  "Ranking_Popularity": 542,
-  "Ranking_PopularitySum": 542,
+  "Ranking_Popularity": 543,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 134,
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14471,
+  "EOS_Progressed": 14472,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9929,6 +9929,11 @@
       "Time": "2023-10-30T04:03:45.2847732+00:00",
       "NumProgressed": 14471,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-30T05:04:43.1525323+00:00",
+      "NumProgressed": 14472,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10059,9 +10064,9 @@
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "24",
@@ -10123,9 +10128,9 @@
       "ID": "30",
       "SetID": "458bbdk",
       "Name": "No Belter Left Behind",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "4",
@@ -10147,9 +10152,9 @@
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 130
     },
     {
       "ID": "7",
@@ -10220,13 +10225,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14471,
+      "Progressed": 14472,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 286
     }
   ],
@@ -10234,8 +10239,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-10-30T04:03:45.2847725+00:00",
+  "LastChanged_Achievements": "2023-10-30T05:04:43.1525314+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-30T03:57:50.6868847+00:00",
-  "LastUpdate_Achievements": "2023-10-30T04:03:45.2848664+00:00"
+  "LastUpdate_Ratings": "2023-10-30T04:58:29.8285034+00:00",
+  "LastUpdate_Achievements": "2023-10-30T05:04:43.1526257+00:00"
 }
