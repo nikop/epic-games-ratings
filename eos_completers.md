@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.88% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.86% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -92,7 +92,7 @@
 | 90 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 91 | [Doodle God](games/d/doodle_god.md) | 3.25% |
 | 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.19% |
-| 93 | [The Complex](games/t/the_complex.md) | 3.14% |
+| 93 | [The Complex](games/t/the_complex.md) | 3.13% |
 | 94 | [Without Escape](games/w/without_escape.md) | 3.12% |
 | 95 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.10% |
 | 96 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
@@ -137,9 +137,9 @@
 | 135 | [Iron Danger](games/i/iron_danger.md) | 1.41% |
 | 136 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 137 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.36% |
-| 137 | [Late Shift](games/l/late_shift.md) | 1.36% |
-| 139 | [Chorus](games/c/chorus.md) | 1.35% |
-| 139 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
+| 138 | [Chorus](games/c/chorus.md) | 1.35% |
+| 138 | [Late Shift](games/l/late_shift.md) | 1.35% |
+| 138 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
 | 141 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
 | 142 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 143 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
@@ -154,9 +154,9 @@
 | 152 | [Trifox](games/t/trifox.md) | 0.98% |
 | 153 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 153 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 155 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.93% |
 | 155 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
-| 157 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
+| 156 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.92% |
+| 156 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 158 | [Hades](games/h/hades.md) | 0.91% |
 | 159 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
 | 160 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
@@ -273,24 +273,24 @@
 | 266 | [Riverbond](games/r/riverbond.md) | 0.09% |
 | 266 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 266 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 274 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.08% |
 | 274 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 274 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.08% |
-| 276 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.07% |
-| 276 | [MythForce](games/m/mythforce.md) | 0.07% |
-| 276 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
-| 276 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 276 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 276 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 277 | [MythForce](games/m/mythforce.md) | 0.07% |
+| 277 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 277 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 277 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 277 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 282 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 282 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 282 | [Operation New Earth](games/o/operation_new_earth.md) | 0.06% |
 | 282 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
 | 282 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.06% |
 | 282 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 288 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 288 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
-| 288 | [High On Life](games/h/high_on_life.md) | 0.05% |
-| 288 | [House Party](games/h/house_party.md) | 0.05% |
+| 287 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 287 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 287 | [High On Life](games/h/high_on_life.md) | 0.05% |
+| 287 | [House Party](games/h/house_party.md) | 0.05% |
+| 287 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 292 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.04% |
 | 292 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.04% |
 | 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.04% |
@@ -708,4 +708,4 @@
 | 332 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 332 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 332 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,482 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,483 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

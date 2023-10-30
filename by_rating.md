@@ -182,7 +182,7 @@
 | 170 | [Townscaper](games/t/townscaper.md) | 4.73 | 0 | 544 |
 | 170 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.73 | 683 | 185 |
 | 182 | [Barony](games/b/barony.md) | 4.72 | 89 | 369 |
-| 182 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 514 | 204 |
+| 182 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 514 | 205 |
 | 182 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 39 | 452 |
 | 182 | [Outlast 2](games/o/outlast_2.md) | 4.72 | 0 | 544 |
 | 182 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.72 | 247 | 264 |
@@ -213,7 +213,7 @@
 | 211 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,595 | 78 |
 | 211 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.70 | 20 | 536 |
 | 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 437 | 214 |
-| 211 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,716 | 47 |
+| 211 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,733 | 47 |
 | 211 | [For The King](games/f/for_the_king.md) | 4.70 | 401 | 222 |
 | 211 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,335 | 134 |
 | 211 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 139 | 316 |
@@ -556,7 +556,7 @@
 | 545 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 544 |
 | 545 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 544 |
 | 545 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.52 | 0 | 544 |
-| 545 | [VALORANT](games/v/valorant.md) | 4.52 | 77,855 | 10 |
+| 545 | [VALORANT](games/v/valorant.md) | 4.52 | 78,045 | 10 |
 | 545 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 544 |
 | 559 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 122 | 332 |
 | 559 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,144 | 83 |
@@ -832,7 +832,7 @@
 | 830 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 544 |
 | 830 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 544 |
 | 830 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 544 |
-| 830 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,887,321 | 1 |
+| 830 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,888,888 | 1 |
 | 830 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 87 | 372 |
 | 830 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 752 | 173 |
 | 830 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 153 | 308 |
@@ -841,19 +841,19 @@
 | 839 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 544 |
 | 839 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 544 |
 | 839 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 41 | 448 |
-| 839 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 544 |
 | 839 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.28 | 35 | 465 |
 | 839 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 0 | 544 |
 | 839 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 299 |
-| 846 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 544 |
-| 846 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 544 |
-| 846 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,831 | 85 |
-| 846 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 536 |
-| 846 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 544 |
-| 846 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,626 | 101 |
-| 846 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 544 |
-| 846 | [Scrapnaut](games/s/scrapnaut.md) | 4.27 | 0 | 544 |
-| 846 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 544 |
+| 845 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 544 |
+| 845 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 544 |
+| 845 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,831 | 85 |
+| 845 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 544 |
+| 845 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 536 |
+| 845 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 544 |
+| 845 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,626 | 101 |
+| 845 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 544 |
+| 845 | [Scrapnaut](games/s/scrapnaut.md) | 4.27 | 0 | 544 |
+| 845 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 544 |
 | 855 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 544 |
 | 855 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,574 | 19 |
 | 855 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 544 |
@@ -995,7 +995,7 @@
 | 993 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 436 |
 | 993 | [Ironcast](games/i/ironcast.md) | 3.95 | 0 | 544 |
 | 995 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 3.94 | 0 | 544 |
-| 995 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 512 | 205 |
+| 995 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 517 | 204 |
 | 995 | [Patron](games/p/patron.md) | 3.94 | 0 | 544 |
 | 998 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 489 |
 | 998 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 544 |

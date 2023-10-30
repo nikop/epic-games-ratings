@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,887,321 | 4.29 | 830 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,888,888 | 4.29 | 830 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 597,187 | 4.48 | 614 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 311,771 | 4.68 | 247 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 250,527 | 4.68 | 247 |
@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,834 | 4.51 | 559 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,641 | 4.69 | 228 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 102,677 | 4.64 | 327 |
-| 10 | [VALORANT](games/v/valorant.md) | 77,855 | 4.52 | 545 |
+| 10 | [VALORANT](games/v/valorant.md) | 78,045 | 4.52 | 545 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,816 | 4.58 | 441 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,917 | 4.61 | 379 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,712 | 4.74 | 152 |
@@ -46,7 +46,7 @@
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,377 | 4.48 | 614 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,104 | 4.57 | 463 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,990 | 4.85 | 43 |
-| 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,716 | 4.70 | 211 |
+| 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,733 | 4.70 | 211 |
 | 48 | [DEATH STRANDING](games/d/death_stranding.md) | 7,713 | 4.77 | 110 |
 | 48 | [Supraland](games/s/supraland.md) | 7,713 | 4.61 | 379 |
 | 50 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,558 | 4.71 | 193 |
@@ -84,7 +84,7 @@
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,236 | 4.57 | 463 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,144 | 4.51 | 559 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,002 | 4.68 | 247 |
-| 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,831 | 4.27 | 846 |
+| 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,831 | 4.27 | 845 |
 | 86 | [Trackmania](games/t/trackmania.md) | 3,808 | 4.66 | 288 |
 | 87 | [Paladins](games/p/paladins.md) | 3,766 | 4.33 | 801 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,754 | 4.68 | 247 |
@@ -100,7 +100,7 @@
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,886 | 4.18 | 914 |
 | 99 | [Among Us](games/a/among_us.md) | 2,785 | 4.57 | 463 |
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,667 | 4.61 | 379 |
-| 101 | [RAGE 2](games/r/rage_2.md) | 2,626 | 4.27 | 846 |
+| 101 | [RAGE 2](games/r/rage_2.md) | 2,626 | 4.27 | 845 |
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 950 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,497 | 4.80 | 82 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,434 | 4.78 | 103 |
@@ -203,8 +203,8 @@
 | 201 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 532 | 4.86 | 28 |
 | 202 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 528 | 4.60 | 405 |
 | 203 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 518 |
-| 204 | [Ghostrunner](games/g/ghostrunner.md) | 514 | 4.72 | 182 |
-| 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 512 | 3.94 | 995 |
+| 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 517 | 3.94 | 995 |
+| 205 | [Ghostrunner](games/g/ghostrunner.md) | 514 | 4.72 | 182 |
 | 206 | [Surviving Mars](games/s/surviving_mars.md) | 499 | 4.60 | 405 |
 | 207 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 478 | 4.40 | 729 |
 | 208 | [Second Extinction™](games/s/second_extinction™.md) | 476 | 4.05 | 969 |
@@ -539,7 +539,7 @@
 | 536 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 20 | 4.12 | 945 |
 | 536 | [F1® 23](games/f/f1®_23_standard_edition.md) | 20 | 4.70 | 211 |
 | 536 | [Figment](games/f/figment.md) | 20 | 4.46 | 636 |
-| 536 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.27 | 846 |
+| 536 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.27 | 845 |
 | 536 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 628 |
 | 536 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 20 | 4.36 | 770 |
 | 536 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 20 | 4.59 | 425 |
