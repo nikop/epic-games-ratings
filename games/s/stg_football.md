@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/stg_football.json)  
 Rating: 4.43 (Ranked 685)  
 ## Awards
-Max (Great for Beginners): 45  (Ranked 436)  
-Sum: 377 (Ranked 335)  
+Max (Great for Beginners): 45  (Ranked 437)  
+Sum: 377 (Ranked 336)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |

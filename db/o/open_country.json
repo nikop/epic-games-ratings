@@ -2,7 +2,7 @@
   "ID": "dd7c9906a9604b68af4ffe0405f51af5",
   "Name": "Open Country",
   "ProductSlug": "open-country",
-  "Ranking_EOS_Progress": 712,
+  "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 121,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.9999735+00:00",
   "LastChanged": "2023-03-31T05:57:55.9999736+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:41.5885024+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:59:40.6871829+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:03:24.9422744+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:00:39.2646515+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:04:29.0480876+00:00"
 }

@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18182,
+  "EOS_Progressed": 18183,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15017,6 +15017,11 @@
       "Time": "2023-10-30T18:05:16.7081184+00:00",
       "NumProgressed": 18182,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-30T19:06:34.4385953+00:00",
+      "NumProgressed": 18183,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15044,7 +15049,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -15100,7 +15105,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "Mirrors",
@@ -15124,7 +15129,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 9091
+      "UsersEstimate": 9092
     },
     {
       "ID": "Sole_Survivor",
@@ -15132,7 +15137,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6727
+      "UsersEstimate": 6728
     },
     {
       "ID": "Still_Burning",
@@ -15155,15 +15160,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18182,
+      "Progressed": 18183,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:05:16.7081182+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:06:34.4385946+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:59:29.8911553+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:05:16.7082012+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:00:27.1179399+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:06:34.4386959+00:00"
 }

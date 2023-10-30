@@ -4,8 +4,8 @@
   "ProductSlug": "jotun",
   "Ranking_Rating": 711,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 440,
-  "Ranking_EOS_Progress": 712,
+  "Ranking_PopularitySum": 441,
+  "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 121,
@@ -499,6 +499,6 @@
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
   "LastChanged": "2023-07-24T23:59:00.9125988+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:09.4226389+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:58:09.783547+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:05:47.5543031+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:58:44.1674546+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:07:15.3756342+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.48 (Ranked 616)
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,871 |
 | Keep 'Em Coming | 74.00% | ~2,591 |
 | Snatched Out | 74.00% | ~2,591 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,346 |
+| Cleaning Lethe, One Nest At A Time | 68.00% | ~2,381 |
 | Call Me Snake | 63.00% | ~2,206 |
 | Something Lurks Under The Hills | 61.00% | ~2,136 |
 | This Was No Papercut | 60.00% | ~2,101 |
@@ -52,7 +52,7 @@ Rating: 4.48 (Ranked 616)
 | Chalk It Up To Experience | 0.70% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,501 (Ranked 195)  
-Completed: 3 (0.09%) (Ranked 267)  
+Completed: 3 (0.09%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,9 +182,9 @@ Completed: 3 (0.09%) (Ranked 267)
 | 2023-10-29 | 3,500 | 3 |
 | 2023-10-30 | 3,501 | 3 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 477)  
+Max (Great Boss Battles): 33  (Ranked 478)  
 Sum: 33 (Ranked 500)  
-Diff (max vs sum): -23  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 33 |

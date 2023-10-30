@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dress Up | 84.00% | ~27 |
+| Dress Up | 88.00% | ~28 |
 | Bamboozled | 81.00% | ~26 |
 | Sponge out of Harm's Way | 81.00% | ~26 |
 | Deputy | 78.00% | ~25 |
@@ -50,7 +50,7 @@
 | Wrath-tub | 6.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 484)  
-Completed: 3 (9.38%) (Ranked 40)  
+Completed: 3 (9.38%) (Ranked 41)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

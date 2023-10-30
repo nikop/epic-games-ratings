@@ -3,11 +3,11 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 921,
-  "Ranking_Popularity": 462,
+  "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -853,9 +853,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6165,
+  "EOS_Progressed": 6166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8968,6 +8968,11 @@
       "Time": "2023-10-30T18:08:37.6239288+00:00",
       "NumProgressed": 6165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T19:09:29.5452019+00:00",
+      "NumProgressed": 6166,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8979,7 +8984,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4870
+      "UsersEstimate": 4871
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8987,7 +8992,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -8995,7 +9000,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -9011,7 +9016,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -9019,7 +9024,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3699
+      "UsersEstimate": 3700
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -9027,7 +9032,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9035,7 +9040,7 @@
       "Name": "Scaling up",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9051,7 +9056,7 @@
       "Name": "License to Gill",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -9147,7 +9152,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -9258,13 +9263,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6165,
+      "Progressed": 6166,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5537,
+      "Progressed": 5538,
       "Completed": 113
     }
   ],
@@ -9272,8 +9277,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:08:37.6239282+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:09:29.5452013+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:01:16.945287+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:08:37.6239896+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:02:48.421923+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:09:29.5452604+00:00"
 }

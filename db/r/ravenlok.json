@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3428,8 +3428,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:05:30.5692461+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:06:52.5891711+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:11.9123322+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:57:43.9847123+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:05:30.5692916+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:58:09.9764804+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:06:52.5892193+00:00"
 }

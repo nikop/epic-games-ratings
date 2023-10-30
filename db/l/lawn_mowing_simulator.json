@@ -4,10 +4,10 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 957,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 257,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2152,9 +2152,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 676839,
+  "EOS_Progressed": 676862,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1760,
+  "EOS_NewPlayers": 1763,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24122,6 +24122,11 @@
       "Time": "2023-10-30T18:09:08.4667235+00:00",
       "NumProgressed": 676839,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-30T19:10:10.5080181+00:00",
+      "NumProgressed": 676862,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -24133,7 +24138,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 541471
+      "UsersEstimate": 541490
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -24221,7 +24226,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 243662
+      "UsersEstimate": 243670
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -24245,7 +24250,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20305
+      "UsersEstimate": 20306
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -24253,7 +24258,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20305
+      "UsersEstimate": 20306
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -24373,7 +24378,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 209820
+      "UsersEstimate": 209827
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -24405,7 +24410,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 40610
+      "UsersEstimate": 40612
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -24437,7 +24442,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101526
+      "UsersEstimate": 101529
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -24493,7 +24498,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47379
+      "UsersEstimate": 47380
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -24509,7 +24514,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20305
+      "UsersEstimate": 20306
     },
     {
       "ID": "RP_ESTEEMED",
@@ -24533,7 +24538,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 121831
+      "UsersEstimate": 121835
     },
     {
       "ID": "RP_TRUSTED",
@@ -24549,7 +24554,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 60916
+      "UsersEstimate": 60918
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -24564,15 +24569,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 676839,
+      "Progressed": 676862,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-24T17:02:01.5697717+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:09:08.466723+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:10:10.5080172+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.0357675+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:59:00.9227124+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:09:08.4668645+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:59:52.6968042+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:10:10.5081611+00:00"
 }

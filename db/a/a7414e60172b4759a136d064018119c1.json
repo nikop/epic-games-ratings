@@ -2,7 +2,7 @@
   "ID": "a7414e60172b4759a136d064018119c1",
   "Name": "Sea of Dreams",
   "ProductSlug": "sea-of-dreams-32035a",
-  "Ranking_EOS_Progress": 712,
+  "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 121,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T00:03:29.5796334+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:03:28.4126038+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:04:34.1481694+00:00",
   "LastUpdate_AppInfo": "2023-10-24T23:57:15.938554+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:57:40.855723+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:03:28.4126061+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:58:04.1612225+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:04:34.1481726+00:00"
 }

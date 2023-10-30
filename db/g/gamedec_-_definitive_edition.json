@@ -4,7 +4,7 @@
   "ProductSlug": "gamedec",
   "Ranking_Rating": 831,
   "Ranking_Popularity": 372,
-  "Ranking_PopularitySum": 445,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 97,
@@ -471,9 +471,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 250645,
+  "EOS_Progressed": 250649,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22101,6 +22101,11 @@
       "Time": "2023-10-30T18:06:03.9084879+00:00",
       "NumProgressed": 250645,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-30T19:07:37.6091099+00:00",
+      "NumProgressed": 250649,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22112,7 +22117,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67674
+      "UsersEstimate": 67675
     },
     {
       "ID": "ACH_AON",
@@ -22152,7 +22157,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30077
+      "UsersEstimate": 30078
     },
     {
       "ID": "ACH_ENJOY",
@@ -22256,7 +22261,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70181
+      "UsersEstimate": 70182
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -22328,7 +22333,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62661
+      "UsersEstimate": 62662
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -22432,7 +22437,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62661
+      "UsersEstimate": 62662
     },
     {
       "ID": "ACH_SOREAD",
@@ -22527,7 +22532,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250645,
+      "Progressed": 250649,
       "Completed": 7
     }
   ],
@@ -22535,8 +22540,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-29T16:59:35.8422965+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:06:03.9084871+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:07:37.6091094+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:59:30.8663336+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:06:03.9086281+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:00:29.3206888+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:07:37.6092457+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| You had one wish left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
-| You had one wish left | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
 | You have two wishes left | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |

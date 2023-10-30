@@ -3,7 +3,7 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 496,
-  "Ranking_Popularity": 466,
+  "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 299,
@@ -913,9 +913,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 663980,
+  "EOS_Progressed": 663981,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19283,6 +19283,11 @@
       "Time": "2023-10-30T18:05:56.7859368+00:00",
       "NumProgressed": 663980,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-10-30T19:07:27.3369063+00:00",
+      "NumProgressed": 663981,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19302,7 +19307,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385108
+      "UsersEstimate": 385109
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -19310,7 +19315,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152715
+      "UsersEstimate": 152716
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -19430,7 +19435,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152715
+      "UsersEstimate": 152716
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -19677,15 +19682,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 663980,
+      "Progressed": 663981,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-22T09:59:27.5437543+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:05:56.7859363+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:07:27.3369058+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.5060191+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:58:27.4081358+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:05:56.7860528+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:59:07.6998225+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:07:27.3370432+00:00"
 }

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~746 |
-| Friendzone | 80.00% | ~615 |
-| Space Colonization | 80.00% | ~615 |
-| Hello World | 75.00% | ~577 |
-| Space Engineer | 64.00% | ~492 |
-| Tinkerer | 63.00% | ~484 |
-| Dust to Dust | 58.00% | ~446 |
-| Across The Stars | 48.00% | ~369 |
-| Crafty | 48.00% | ~369 |
+| Don't Panic! | 97.00% | ~747 |
+| Space Colonization | 81.00% | ~624 |
+| Friendzone | 80.00% | ~616 |
+| Hello World | 75.00% | ~578 |
+| Space Engineer | 64.00% | ~493 |
+| Tinkerer | 63.00% | ~485 |
+| Dust to Dust | 58.00% | ~447 |
+| Across The Stars | 48.00% | ~370 |
+| Crafty | 48.00% | ~370 |
 | All Seats Taken | 39.00% | ~300 |
-| For Science! | 35.00% | ~269 |
-| Meet the Petersons | 31.00% | ~238 |
+| For Science! | 35.00% | ~270 |
+| Meet the Petersons | 31.00% | ~239 |
 | Stay Cool | 30.00% | ~231 |
 | KIA | 27.00% | ~208 |
 | Mutiny in making | 24.00% | ~185 |
@@ -29,9 +29,9 @@
 | Fix-It Felix | 8.00% | ~62 |
 | Intergalactic Breakup | 8.00% | ~62 |
 | Second Life | 8.00% | ~62 |
-| Axel jump in space! | 7.00% | ~54 |
 | First of April | 7.00% | ~54 |
 | Flawless Maegangement | 7.00% | ~54 |
+| Axel jump in space! | 6.00% | ~46 |
 | Extreme Makeover | 5.00% | ~38 |
 | The Improvinator | 4.00% | ~31 |
 | The Last Supper | 3.00% | ~23 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 261)  
+Progressed: 770 (Ranked 261)  
 Completed: 1 (0.13%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 1 (0.13%) (Ranked 251)
 | 2023-10-24 | 767 | 1 |
 | 2023-10-25 | 768 | 1 |
 | 2023-10-27 | 769 | 1 |
+| 2023-10-30 | 770 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

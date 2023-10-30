@@ -3,11 +3,11 @@
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
   "Ranking_Rating": 121,
-  "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 436,
+  "Ranking_Popularity": 349,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2348,9 +2348,9 @@
       "ID": "MagnetRepel",
       "SetID": "5lok9mm",
       "Name": "Magnet Repel",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2039
     },
     {
       "ID": "Map",
@@ -2548,8 +2548,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-10-03T15:58:07.9846198+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:03:19.071237+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:04:20.9673953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.3425545+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:00:22.9707535+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:03:19.0712828+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:01:38.287536+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:04:20.9674417+00:00"
 }

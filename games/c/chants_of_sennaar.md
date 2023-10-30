@@ -11,11 +11,11 @@
 | A new dawn | 15.00% | ~50 |
 | I did it | 14.00% | ~47 |
 | True G3M4R | 14.00% | ~47 |
+| Scholar | 14.00% | ~47 |
 | Peace walker | 13.00% | ~43 |
 | Cable guy | 13.00% | ~43 |
 | A good beginning | 13.00% | ~43 |
 | Half the way | 13.00% | ~43 |
-| Scholar | 13.00% | ~43 |
 | The darkness | 13.00% | ~43 |
 | One last step | 13.00% | ~43 |
 | In this together | 12.00% | ~40 |

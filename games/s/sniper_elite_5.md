@@ -5,15 +5,15 @@ Rating: 4.46 (Ranked 638)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,785 |
-| Confirming Suspicions | 41.00% | ~1,557 |
-| The Kraken Wakes | 37.00% | ~1,405 |
-| It's Starting to Crack | 34.00% | ~1,291 |
-| Change the Channel | 31.00% | ~1,177 |
-| Lord of War | 30.00% | ~1,139 |
-| Taking it back | 29.00% | ~1,101 |
-| Resourceful | 27.00% | ~1,025 |
-| Target America | 26.00% | ~987 |
+| Meeting Resistance | 47.00% | ~1,786 |
+| Confirming Suspicions | 41.00% | ~1,558 |
+| The Kraken Wakes | 37.00% | ~1,406 |
+| It's Starting to Crack | 34.00% | ~1,292 |
+| Change the Channel | 31.00% | ~1,178 |
+| Lord of War | 30.00% | ~1,140 |
+| Taking it back | 29.00% | ~1,102 |
+| Resourceful | 27.00% | ~1,026 |
+| Target America | 27.00% | ~1,026 |
 | The Kraken Sleeps | 25.00% | ~950 |
 | Liberté | 23.00% | ~874 |
 | Organ Grinder | 23.00% | ~874 |
@@ -66,9 +66,9 @@ Rating: 4.46 (Ranked 638)
 | Sink or Swim | 2.00% | ~75 |
 | Best of the Best | 1.00% | ~38 |
 | Sight Beyond Sights | 1.00% | ~38 |
-| From Führer Away | 1.00% | ~37 |
-| Alpha | 1.00% | ~37 |
-| Das Familienjuwel | 1.00% | ~37 |
+| From Führer Away | 1.00% | ~38 |
+| Alpha | 1.00% | ~38 |
+| Das Familienjuwel | 1.00% | ~38 |
 | Master of Secondaries | 0.90% | ~34 |
 | Master of Rifles | 0.90% | ~34 |
 | Operation Overlord | 0.80% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 638)
 | Stroll in the Woods | 0.60% | ~22 |
 | Going Overboard | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,798 (Ranked 187)  
+Progressed: 3,799 (Ranked 187)  
 Completed: 11 (0.29%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 11 (0.29%) (Ranked 221)
 | 2023-10-27 | 3,786 | 11 |
 | 2023-10-28 | 3,790 | 11 |
 | 2023-10-29 | 3,797 | 11 |
-| 2023-10-30 | 3,798 | 11 |
+| 2023-10-30 | 3,799 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 532)  
 Sum: 21 (Ranked 533)  

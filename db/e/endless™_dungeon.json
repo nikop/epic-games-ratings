@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 931,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
@@ -1080,6 +1080,11 @@
       "Time": "2023-10-30T18:03:55.3609482+00:00",
       "NumProgressed": 930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T19:05:11.0725817+00:00",
+      "NumProgressed": 931,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1164,7 +1169,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -1172,7 +1177,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1331,14 +1336,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:03:55.3609477+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:05:11.0725813+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:57:08.0325897+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:03:55.3609704+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:57:19.960517+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:05:11.0726047+00:00"
 }

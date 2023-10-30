@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4255,10 +4255,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2910,
       "NumberOfAwardsMax": 517
+    },
+    {
+      "Time": "2023-10-30T19:01:49.1664277+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2911,
+      "NumberOfAwardsMax": 517
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2910,
+  "NumberOfAwards": 2911,
   "NumberOfAwardsMax": 517,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4278,7 +4284,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 466
+      "Count": 467
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4317,9 +4323,9 @@
       "Count": 474
     }
   ],
-  "EOS_Progressed": 89444,
+  "EOS_Progressed": 89445,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -23567,6 +23573,11 @@
       "Time": "2023-10-30T17:08:46.524211+00:00",
       "NumProgressed": 89444,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-10-30T19:09:16.6523344+00:00",
+      "NumProgressed": 89445,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 41,
@@ -23905,22 +23916,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89444,
+      "Progressed": 89445,
       "Completed": 53
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17791,
+      "Progressed": 17792,
       "Completed": 15556
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-10-30T10:01:14.856494+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:08:28.1425844+00:00",
+  "LastChanged": "2023-10-30T19:01:49.1664276+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:09:16.6523338+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.3098014+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:00:32.5198143+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:08:28.1427002+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:01:49.1664281+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:09:16.6524478+00:00"
 }

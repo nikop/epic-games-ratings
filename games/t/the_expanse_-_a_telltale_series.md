@@ -6,9 +6,9 @@ Rating: 4.60 (Ranked 406)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 3.00% | ~435 |
+| The Pit and the Pirates | 1.00% | ~145 |
 | Drug Gifter | 1.00% | ~145 |
 | Bosmang | 1.00% | ~145 |
-| The Pit and the Pirates | 0.90% | ~130 |
 | Drone Dodger | 0.90% | ~130 |
 | Call it Even | 0.90% | ~130 |
 | Celebrations are in Order | 0.90% | ~130 |

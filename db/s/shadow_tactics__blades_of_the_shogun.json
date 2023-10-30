@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 270,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 69,
@@ -1882,9 +1882,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210942,
+  "EOS_Progressed": 210947,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23907,6 +23907,11 @@
       "Time": "2023-10-30T18:06:01.0476215+00:00",
       "NumProgressed": 210942,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-30T19:07:33.6926825+00:00",
+      "NumProgressed": 210947,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23918,7 +23923,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21094
+      "UsersEstimate": 21095
     },
     {
       "ID": "AtheistOx",
@@ -23990,7 +23995,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25313
+      "UsersEstimate": 25314
     },
     {
       "ID": "HappyLittleAccidents",
@@ -24134,7 +24139,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16875
+      "UsersEstimate": 16876
     },
     {
       "ID": "Rollin",
@@ -24166,7 +24171,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16875
+      "UsersEstimate": 16876
     },
     {
       "ID": "TanukiTime",
@@ -24206,7 +24211,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21094
+      "UsersEstimate": 21095
     },
     {
       "ID": "TimeParadox",
@@ -24246,7 +24251,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "WinnerWinner",
@@ -24269,15 +24274,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210942,
+      "Progressed": 210947,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-30T13:58:18.7475866+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:06:01.047621+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:07:33.6926819+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:57:58.6408437+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:06:01.0477541+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:58:29.1799026+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:07:33.6928123+00:00"
 }

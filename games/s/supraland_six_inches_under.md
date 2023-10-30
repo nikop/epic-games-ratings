@@ -21,7 +21,7 @@ Number of Ratings: 209  (23.09.2022)
 | Surprise | 93.00% | ~2,131 |
 | Magnet | 91.00% | ~2,085 |
 | Industrial Area | 90.00% | ~2,062 |
-| Magnet Repel | 88.00% | ~2,016 |
+| Magnet Repel | 89.00% | ~2,039 |
 | You feel middle classy | 87.00% | ~1,993 |
 | Boomeraxe | 87.00% | ~1,993 |
 | Iron Pickaxe | 87.00% | ~1,993 |
@@ -231,8 +231,8 @@ Completed: 283 (12.35%) (Ranked 26)
 | 2023-10-29 | 2,290 | 282 |
 | 2023-10-30 | 2,291 | 283 |
 ## Awards
-Max (Challenging Puzzles): 103  (Ranked 348)  
-Sum: 103 (Ranked 436)  
+Max (Challenging Puzzles): 103  (Ranked 349)  
+Sum: 103 (Ranked 437)  
 Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |

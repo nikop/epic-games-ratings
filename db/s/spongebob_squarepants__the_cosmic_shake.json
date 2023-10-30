@@ -3,7 +3,7 @@
   "Name": "SpongeBob SquarePants: The Cosmic Shake",
   "ProductSlug": "spongebob-squarepants-the-cosmic-shake",
   "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 40,
+  "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 63,
   "Store": {
@@ -254,9 +254,9 @@
       "ID": "DressUp",
       "SetID": "3h7f1mh",
       "Name": "Dress Up",
-      "Percentage": 84,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "FashionHunter",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6900209+00:00",
   "FirstSeenAchievements": "2023-10-19T10:03:36.1362523+00:00",
   "LastChanged": "2023-03-31T05:57:06.6900211+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:07:40.2258204+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:08:52.7460251+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:40.1889126+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:58:24.167154+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:07:40.2258727+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:59:01.7125018+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:08:52.7460542+00:00"
 }

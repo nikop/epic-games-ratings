@@ -7,10 +7,10 @@ Number of Ratings: 780  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~478,066 |
-| Apprentice | 58.00% | ~385,108 |
+| Apprentice | 58.00% | ~385,109 |
 | Close Shave | 25.00% | ~165,995 |
-| Mercenary | 23.00% | ~152,715 |
-| Ninja | 23.00% | ~152,715 |
+| Mercenary | 23.00% | ~152,716 |
+| Ninja | 23.00% | ~152,716 |
 | Northern Scourge | 17.00% | ~112,877 |
 | Thief Bane | 14.00% | ~92,957 |
 | Master of Arms | 12.00% | ~79,678 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,980 (Ranked 26)  
+Progressed: 663,981 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,11 +248,11 @@ Completed: 171 (0.03%) (Ranked 299)
 | 2023-10-27 | 663,860 | 171 |
 | 2023-10-28 | 663,899 | 171 |
 | 2023-10-29 | 663,953 | 171 |
-| 2023-10-30 | 663,980 | 171 |
+| 2023-10-30 | 663,981 | 171 |
 ## Awards
-Max (Amazing Storytelling): 35  (Ranked 466)  
+Max (Amazing Storytelling): 35  (Ranked 467)  
 Sum: 188 (Ranked 399)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

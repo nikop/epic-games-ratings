@@ -6,36 +6,36 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 40.00% | ~6,422 |
-| Man of politics | 34.00% | ~5,458 |
-| Friends of sorts | 33.00% | ~5,298 |
-| Yet another secret | 33.00% | ~5,298 |
-| Let there be darkness | 32.00% | ~5,137 |
-| End of Book One | 30.00% | ~4,816 |
-| Garden of Eden | 24.00% | ~3,853 |
-| Full house | 24.00% | ~3,853 |
-| Wannabe knight | 23.00% | ~3,692 |
-| Help an old friend | 21.00% | ~3,371 |
+| Tattletale | 40.00% | ~6,423 |
+| Man of politics | 34.00% | ~5,459 |
+| Friends of sorts | 33.00% | ~5,299 |
+| Yet another secret | 33.00% | ~5,299 |
+| Let there be darkness | 32.00% | ~5,138 |
+| End of Book One | 30.00% | ~4,817 |
+| Garden of Eden | 24.00% | ~3,854 |
+| Full house | 24.00% | ~3,854 |
+| Wannabe knight | 23.00% | ~3,693 |
+| Help an old friend | 21.00% | ~3,372 |
 | Two of us | 20.00% | ~3,211 |
 | Negotiation skills | 18.00% | ~2,890 |
 | Workers' union | 18.00% | ~2,890 |
 | End of Book Two | 18.00% | ~2,890 |
-| Everything's in order | 17.00% | ~2,729 |
+| Everything's in order | 17.00% | ~2,730 |
 | Twist of Fate | 14.00% | ~2,248 |
 | Jack was here! | 14.00% | ~2,248 |
 | Exterminator | 13.00% | ~2,087 |
-| Whodunnit | 12.00% | ~1,926 |
+| Whodunnit | 12.00% | ~1,927 |
 | Good midwife | 11.00% | ~1,766 |
 | First profit | 11.00% | ~1,766 |
-| Friar Tuck | 10.00% | ~1,605 |
-| Team player | 10.00% | ~1,605 |
+| Friar Tuck | 10.00% | ~1,606 |
+| Team player | 10.00% | ~1,606 |
 | Skilled merchant | 9.00% | ~1,445 |
 | Nothing but make-believe | 9.00% | ~1,445 |
 | Brother Marcus | 9.00% | ~1,445 |
 | The oath | 9.00% | ~1,445 |
 | The truth revealed | 9.00% | ~1,445 |
 | The End. | 9.00% | ~1,445 |
-| A cry for help | 8.00% | ~1,284 |
+| A cry for help | 8.00% | ~1,285 |
 | Silentium est aureum | 7.00% | ~1,124 |
 | Rebel without a cause | 6.00% | ~963 |
 | Staring contest champion | 5.00% | ~803 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~482 |
 | Boy of mystery | 2.00% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,054 (Ranked 141)  
+Progressed: 16,057 (Ranked 141)  
 Completed: 114 (0.71%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 114 (0.71%) (Ranked 169)
 | 2023-10-27 | 16,000 | 114 |
 | 2023-10-28 | 16,014 | 114 |
 | 2023-10-29 | 16,042 | 114 |
-| 2023-10-30 | 16,054 | 114 |
+| 2023-10-30 | 16,057 | 114 |
 ## Awards
 Max (Easy Puzzles): 154  (Ranked 307)  
 Sum: 197 (Ranked 395)  

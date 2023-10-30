@@ -54,36 +54,36 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 2.00% | ~301 |
 | Trade Caravan | 2.00% | ~301 |
 | Kushite Paganism | 2.00% | ~301 |
-| Regicide | 1.00% | ~150 |
-| Hanging Gardens in Babylon | 1.00% | ~150 |
-| Beloved | 1.00% | ~150 |
-| Drillmaster | 1.00% | ~150 |
-| Conqueror | 1.00% | ~150 |
-| Intercessor | 1.00% | ~150 |
-| Lion | 1.00% | ~150 |
-| Mighty | 1.00% | ~150 |
-| Valiant | 1.00% | ~150 |
-| Victorious | 1.00% | ~150 |
-| Legendary Cities | 1.00% | ~150 |
-| Good Difficulty | 1.00% | ~150 |
-| Just Difficulty | 1.00% | ~150 |
-| Artisans | 1.00% | ~150 |
-| Champions | 1.00% | ~150 |
-| Sages | 1.00% | ~150 |
-| Acropolis | 1.00% | ~150 |
-| Apadana | 1.00% | ~150 |
-| Mausoleum | 1.00% | ~150 |
-| Necropolis | 1.00% | ~150 |
-| Learn to Play 2 | 1.00% | ~150 |
-| Learn to Play 3 | 1.00% | ~150 |
-| Greece | 1.00% | ~150 |
-| Power to the People | 1.00% | ~150 |
-| Manichaeism | 1.00% | ~150 |
-| Persian Paganism | 1.00% | ~150 |
-| Mythology | 1.00% | ~150 |
-| Points Victory | 1.00% | ~150 |
-| Win a Single Player Game | 1.00% | ~150 |
-| Kushite Pyramids | 1.00% | ~150 |
+| Regicide | 1.00% | ~151 |
+| Hanging Gardens in Babylon | 1.00% | ~151 |
+| Beloved | 1.00% | ~151 |
+| Drillmaster | 1.00% | ~151 |
+| Conqueror | 1.00% | ~151 |
+| Intercessor | 1.00% | ~151 |
+| Lion | 1.00% | ~151 |
+| Mighty | 1.00% | ~151 |
+| Valiant | 1.00% | ~151 |
+| Victorious | 1.00% | ~151 |
+| Legendary Cities | 1.00% | ~151 |
+| Good Difficulty | 1.00% | ~151 |
+| Just Difficulty | 1.00% | ~151 |
+| Artisans | 1.00% | ~151 |
+| Champions | 1.00% | ~151 |
+| Sages | 1.00% | ~151 |
+| Acropolis | 1.00% | ~151 |
+| Apadana | 1.00% | ~151 |
+| Mausoleum | 1.00% | ~151 |
+| Necropolis | 1.00% | ~151 |
+| Learn to Play 2 | 1.00% | ~151 |
+| Learn to Play 3 | 1.00% | ~151 |
+| Greece | 1.00% | ~151 |
+| Power to the People | 1.00% | ~151 |
+| Manichaeism | 1.00% | ~151 |
+| Persian Paganism | 1.00% | ~151 |
+| Mythology | 1.00% | ~151 |
+| Points Victory | 1.00% | ~151 |
+| Win a Single Player Game | 1.00% | ~151 |
+| Kushite Pyramids | 1.00% | ~151 |
 | Invincible | 0.90% | ~135 |
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,050 (Ranked 143)  
+Progressed: 15,052 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,050 | 5 |
+| 2023-10-30 | 15,052 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

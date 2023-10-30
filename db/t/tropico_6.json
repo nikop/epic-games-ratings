@@ -1323,9 +1323,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5730,
+  "EOS_Progressed": 5731,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12013,6 +12013,11 @@
       "Time": "2023-10-30T18:09:04.9865075+00:00",
       "NumProgressed": 5730,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-30T19:10:05.7912984+00:00",
+      "NumProgressed": 5731,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12072,7 +12077,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -12088,7 +12093,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -12120,7 +12125,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12280,7 +12285,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12312,7 +12317,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -12320,7 +12325,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -12343,15 +12348,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5730,
+      "Progressed": 5731,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:09:04.9865071+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:10:05.7912978+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:01:20.3180678+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:09:04.9865807+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:02:53.1548659+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:10:05.791372+00:00"
 }

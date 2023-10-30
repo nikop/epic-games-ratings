@@ -5,7 +5,7 @@
   "Ranking_Rating": 16,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 7,
-  "Ranking_EOS_Progress": 712,
+  "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 121,
@@ -15563,10 +15563,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 494719,
       "NumberOfAwardsMax": 192401
+    },
+    {
+      "Time": "2023-10-30T18:59:22.1252601+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 494768,
+      "NumberOfAwardsMax": 192401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 494719,
+  "NumberOfAwards": 494768,
   "NumberOfAwardsMax": 192401,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -15628,7 +15634,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21303
+      "Count": 21352
     },
     {
       "Text": "This game is Relaxing",
@@ -15666,8 +15672,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-10-30T17:58:37.3504721+00:00",
+  "LastChanged": "2023-10-30T18:59:22.12526+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:49.3401618+00:00",
-  "LastUpdate_Ratings": "2023-10-30T17:58:37.3504727+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:08:30.8480262+00:00"
+  "LastUpdate_Ratings": "2023-10-30T18:59:22.1252605+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:09:20.3736413+00:00"
 }

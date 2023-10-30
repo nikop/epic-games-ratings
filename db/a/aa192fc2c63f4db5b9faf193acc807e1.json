@@ -2,9 +2,9 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 509,
-  "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 23,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -124,6 +124,11 @@
       "Time": "2023-10-30T15:09:26.3458163+00:00",
       "NumProgressed": 21,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T19:10:06.0218433+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -134,7 +139,7 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -142,7 +147,7 @@
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -150,7 +155,7 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -158,7 +163,7 @@
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -166,7 +171,7 @@
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
       "UsersEstimate": 3
     },
@@ -174,7 +179,7 @@
       "ID": "creepytaleach2",
       "SetID": "bnif31p",
       "Name": "Naivety",
-      "Percentage": 29,
+      "Percentage": 26,
       "XP": 75,
       "UsersEstimate": 6
     },
@@ -182,7 +187,7 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 75,
       "UsersEstimate": 8
     },
@@ -190,7 +195,7 @@
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 80,
       "UsersEstimate": 4
     },
@@ -198,7 +203,7 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 75,
       "UsersEstimate": 8
     },
@@ -206,7 +211,7 @@
       "ID": "creepytaleach6",
       "SetID": "bnif31p",
       "Name": "Dead together",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -214,7 +219,7 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 80,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -230,7 +235,7 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 75,
       "UsersEstimate": 5
     }
@@ -239,14 +244,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 23,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:09:05.1606325+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:10:06.0218424+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.1412888+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:00:56.3344163+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:09:05.1606424+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:02:25.595873+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:10:06.0218516+00:00"
 }

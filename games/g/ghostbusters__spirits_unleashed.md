@@ -5,49 +5,49 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,442 |
-| Advancement | 4.00% | ~1,154 |
-| Meticulously Efficient | 4.00% | ~1,154 |
-| Clutch Capture | 3.00% | ~865 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~865 |
-| Cultured | 3.00% | ~865 |
-| Discovery | 3.00% | ~865 |
-| Fully Upgraded | 3.00% | ~865 |
-| Solo Capture | 3.00% | ~865 |
-| Swift Rift Removers | 3.00% | ~865 |
-| Teamwork | 3.00% | ~865 |
-| There you are! | 3.00% | ~865 |
-| Vaporous Expansion | 3.00% | ~865 |
-| Whoopsie | 3.00% | ~865 |
-| Animated | 2.00% | ~577 |
-| Back Off | 2.00% | ~577 |
-| Daily Dose | 2.00% | ~577 |
-| Ectoplasmic Entity | 2.00% | ~577 |
-| Ghostbuster In Training | 2.00% | ~577 |
-| Icing on the Cake | 2.00% | ~577 |
-| Legions | 2.00% | ~577 |
-| Pesky Jerks | 2.00% | ~577 |
-| Right back at ya | 2.00% | ~577 |
-| Side Hustle | 2.00% | ~577 |
-| Summoner | 2.00% | ~577 |
-| Welcome to the Crew | 2.00% | ~577 |
-| We have the best insurance | 1.00% | ~288 |
-| Collector | 1.00% | ~288 |
-| Escape Artist | 1.00% | ~288 |
-| Rift Destroyer | 1.00% | ~288 |
-| Seasoned | 1.00% | ~288 |
-| Skilled | 1.00% | ~288 |
-| Stunner | 1.00% | ~288 |
-| Terrifying | 1.00% | ~288 |
-| Tobin's Prodigy | 1.00% | ~288 |
+| Stylish | 5.00% | ~1,444 |
+| Advancement | 4.00% | ~1,155 |
+| Meticulously Efficient | 4.00% | ~1,155 |
+| Clutch Capture | 3.00% | ~866 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~866 |
+| Cultured | 3.00% | ~866 |
+| Discovery | 3.00% | ~866 |
+| Fully Upgraded | 3.00% | ~866 |
+| Solo Capture | 3.00% | ~866 |
+| Swift Rift Removers | 3.00% | ~866 |
+| Teamwork | 3.00% | ~866 |
+| There you are! | 3.00% | ~866 |
+| Vaporous Expansion | 3.00% | ~866 |
+| Whoopsie | 3.00% | ~866 |
+| Animated | 2.00% | ~578 |
+| Back Off | 2.00% | ~578 |
+| Daily Dose | 2.00% | ~578 |
+| Ectoplasmic Entity | 2.00% | ~578 |
+| Ghostbuster In Training | 2.00% | ~578 |
+| Icing on the Cake | 2.00% | ~578 |
+| Legions | 2.00% | ~578 |
+| Pesky Jerks | 2.00% | ~578 |
+| Right back at ya | 2.00% | ~578 |
+| Side Hustle | 2.00% | ~578 |
+| Summoner | 2.00% | ~578 |
+| Welcome to the Crew | 2.00% | ~578 |
+| We have the best insurance | 1.00% | ~289 |
+| Collector | 1.00% | ~289 |
+| Escape Artist | 1.00% | ~289 |
+| Rift Destroyer | 1.00% | ~289 |
+| Seasoned | 1.00% | ~289 |
+| Skilled | 1.00% | ~289 |
+| Stunner | 1.00% | ~289 |
+| Terrifying | 1.00% | ~289 |
+| Tobin's Prodigy | 1.00% | ~289 |
 | Diabolical | 0.90% | ~260 |
 | Reckless | 0.90% | ~260 |
 | Rivalry | 0.80% | ~231 |
 | Liability | 0.70% | ~202 |
 | Surprise! | 0.70% | ~202 |
 | Fragile Panes | 0.60% | ~173 |
-| Rift Seeker | 0.40% | ~115 |
-| Therapeutic | 0.40% | ~115 |
+| Rift Seeker | 0.40% | ~116 |
+| Therapeutic | 0.40% | ~116 |
 | Master Collector | 0.30% | ~87 |
 | Ghost Expert | 0.20% | ~58 |
 | Catostrophic Destroyer | 0.10% | ~29 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,846 (Ranked 122)  
+Progressed: 28,877 (Ranked 122)  
 Completed: 65 (0.23%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,17 +250,17 @@ Completed: 65 (0.23%) (Ranked 228)
 | 2023-10-27 | 27,926 | 65 |
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
-| 2023-10-30 | 28,846 | 65 |
+| 2023-10-30 | 28,877 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
-Sum: 2,613 (Ranked 180)  
+Sum: 2,616 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 297 |
 | This game is Great for Quick Sessions | 285 |
+| This game has Amazing Storytelling | 266 |
 | This game has Diverse Characters | 263 |
-| This game has Amazing Storytelling | 263 |
 | This game is Extremely Fun | 257 |
 | This game has Competitive Players | 256 |
 | This game is Highly Recommended | 255 |
@@ -468,4 +468,4 @@ Diff (max vs sum): 64
 | 2023-10-27 | 4.50 | 288 | 2,572 |
 | 2023-10-28 | 4.50 | 288 | 2,585 |
 | 2023-10-29 | 4.50 | 293 | 2,603 |
-| 2023-10-30 | 4.50 | 297 | 2,613 |
+| 2023-10-30 | 4.50 | 297 | 2,616 |

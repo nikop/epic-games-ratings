@@ -4,7 +4,7 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -105,9 +105,9 @@
       "ID": "ach_picklock10",
       "SetID": "753ghg2",
       "Name": "Pizza time",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_picklock11",
@@ -295,8 +295,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-10-30T18:08:42.4858891+00:00",
+  "LastChanged_Achievements": "2023-10-30T19:09:36.222964+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.5344119+00:00",
-  "LastUpdate_Ratings": "2023-10-30T18:00:46.6606194+00:00",
-  "LastUpdate_Achievements": "2023-10-30T18:08:42.4859039+00:00"
+  "LastUpdate_Ratings": "2023-10-30T19:02:07.6479415+00:00",
+  "LastUpdate_Achievements": "2023-10-30T19:09:36.2229791+00:00"
 }
