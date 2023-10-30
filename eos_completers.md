@@ -2,9 +2,9 @@
 | - | ---- | --------- |
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
-| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
+| 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.73% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.84% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.82% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -107,7 +107,7 @@
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
 | 106 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 107 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 108 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.55% |
+| 108 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.54% |
 | 109 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
@@ -159,8 +159,8 @@
 | 156 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 158 | [Hades](games/h/hades.md) | 0.91% |
 | 159 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.87% |
-| 161 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 160 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.86% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 162 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 164 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -183,8 +183,8 @@
 | 181 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 182 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 183 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 183 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.55% |
 | 183 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.55% |
+| 185 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.54% |
 | 186 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 187 | [Dead Space](games/d/dead_space.md) | 0.52% |
 | 187 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
@@ -545,6 +545,7 @@
 | 332 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
 | 332 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 0.00% |
 | 332 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 0.00% |
+| 332 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 0.00% |
 | 332 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 0.00% |
 | 332 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 0.00% |
 | 332 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 0.00% |

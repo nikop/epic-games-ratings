@@ -541,6 +541,7 @@
 | [Butchers Don't Surf!](../games/b/butchers_don't_surf!.md) | 21 | 1,000 |
 | [Clash - Artifacts of Chaos](../games/c/clash_-_artifacts_of_chaos.md) | 21 | 1,000 |
 | [CubeGate](../games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 21 | 1,000 |
+| [DINOSAURS: Mission Dino Camp](../games/2/20938450f73b48a9bb1a5243bcac965b.md) | 21 | 1,000 |
 | [Madden NFL 23](../games/m/madden_nfl_23.md) | 21 | 1,000 |
 | [Madden NFL 24](../games/0/0460f46401ae4bdcadbc931d30028015.md) | 21 | 1,000 |
 | [Monmusu Gladiator](../games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 21 | 1,000 |
