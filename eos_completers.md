@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.73% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.82% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.80% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -30,7 +30,7 @@
 | 28 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 28 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
 | 30 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.75% |
-| 31 | [Anna's Quest](games/a/anna's_quest.md) | 10.53% |
+| 31 | [Anna's Quest](games/a/anna's_quest.md) | 10.34% |
 | 32 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
 | 33 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.15% |
 | 34 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 10.11% |
@@ -42,19 +42,19 @@
 | 40 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
 | 41 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.88% |
 | 42 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 43 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 8.33% |
-| 44 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.11% |
-| 45 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.77% |
-| 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
-| 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 43 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 8.11% |
+| 44 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.77% |
+| 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
+| 46 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 46 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 46 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.69% |
 | 49 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
 | 50 | [Sonic Origins](games/s/sonic_origins.md) | 7.56% |
 | 51 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.47% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.37% |
 | 53 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
-| 55 | [Scorn](games/s/scorn.md) | 6.88% |
+| 55 | [Scorn](games/s/scorn.md) | 6.92% |
 | 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
 | 57 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 6.45% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
@@ -88,7 +88,7 @@
 | 86 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.44% |
 | 88 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.39% |
-| 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.37% |
+| 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
 | 90 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 91 | [Doodle God](games/d/doodle_god.md) | 3.25% |
 | 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.19% |
@@ -105,14 +105,14 @@
 | 103 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 104 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
-| 106 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
-| 107 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 108 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.54% |
-| 109 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
-| 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 111 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
-| 112 | [Lamentum](games/l/lamentum.md) | 2.45% |
-| 113 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
+| 106 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.64% |
+| 107 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
+| 108 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
+| 109 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.54% |
+| 110 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
+| 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 112 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
+| 113 | [Lamentum](games/l/lamentum.md) | 2.45% |
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 115 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 116 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.33% |
@@ -159,8 +159,8 @@
 | 156 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 158 | [Hades](games/h/hades.md) | 0.91% |
 | 159 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 160 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
-| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.86% |
+| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.87% |
+| 161 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 162 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 164 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
