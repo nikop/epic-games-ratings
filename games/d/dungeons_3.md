@@ -6,9 +6,9 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~25,128 |
-| The Evilest Evil | 58.00% | ~20,820 |
-| Twistram is devastated | 57.00% | ~20,461 |
+| The Shadow strikes | 70.00% | ~25,129 |
+| The Evilest Evil | 58.00% | ~20,821 |
+| Twistram is devastated | 57.00% | ~20,462 |
 | The Gehenna Stones | 49.00% | ~17,590 |
 | No one has to die today! | 46.00% | ~16,513 |
 | Death and destruction! | 45.00% | ~16,154 |
@@ -30,18 +30,18 @@ Number of Ratings: 1,635  (23.09.2022)
 | Destroy the thing | 26.00% | ~9,333 |
 | Tide Master | 26.00% | ~9,333 |
 | Difficult family relationships | 25.00% | ~8,974 |
-| MASS-O-BOT | 24.00% | ~8,615 |
-| Prepare the grave | 24.00% | ~8,615 |
-| Angel of Fire | 24.00% | ~8,615 |
-| Where there is Light, there is Shadow | 23.00% | ~8,256 |
-| At the foot of Mount Destiny | 22.00% | ~7,897 |
-| The Force disturbed | 21.00% | ~7,538 |
-| The Victorious Evil | 20.00% | ~7,179 |
-| Chorus of damnation | 19.00% | ~6,820 |
-| We don’t have time! | 19.00% | ~6,820 |
-| The Stones’ Power | 18.00% | ~6,461 |
-| Flat as a pancake | 17.00% | ~6,102 |
-| Lifeguard | 17.00% | ~6,102 |
+| MASS-O-BOT | 24.00% | ~8,616 |
+| Prepare the grave | 24.00% | ~8,616 |
+| Angel of Fire | 24.00% | ~8,616 |
+| Where there is Light, there is Shadow | 23.00% | ~8,257 |
+| At the foot of Mount Destiny | 22.00% | ~7,898 |
+| The Force disturbed | 21.00% | ~7,539 |
+| The Victorious Evil | 20.00% | ~7,180 |
+| Chorus of damnation | 19.00% | ~6,821 |
+| We don’t have time! | 19.00% | ~6,821 |
+| The Stones’ Power | 18.00% | ~6,462 |
+| Flat as a pancake | 17.00% | ~6,103 |
+| Lifeguard | 17.00% | ~6,103 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~5,385 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~4,308 |
 | Then let them eat cake! | 12.00% | ~4,308 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~718 |
 | Sacrifices! | 2.00% | ~718 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,897 (Ranked 119)  
+Progressed: 35,898 (Ranked 119)  
 Completed: 293 (0.82%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 293 (0.82%) (Ranked 164)
 | 2023-10-27 | 35,522 | 289 |
 | 2023-10-28 | 35,676 | 292 |
 | 2023-10-29 | 35,857 | 293 |
-| 2023-10-30 | 35,897 | 293 |
+| 2023-10-30 | 35,898 | 293 |
 ## Awards
 Max (Great for Beginners): 366  (Ranked 230)  
 Sum: 2,711 (Ranked 178)  

@@ -9747,9 +9747,9 @@
       "Count": 751
     }
   ],
-  "EOS_Progressed": 299750,
+  "EOS_Progressed": 299753,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1034,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30352,6 +30352,11 @@
       "Time": "2023-10-30T10:09:43.7291286+00:00",
       "NumProgressed": 299750,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-10-30T11:09:14.4611501+00:00",
+      "NumProgressed": 299753,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30363,7 +30368,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44962
+      "UsersEstimate": 44963
     },
     {
       "ID": "PFA_10",
@@ -30371,7 +30376,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_11",
@@ -30379,7 +30384,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_12",
@@ -30387,7 +30392,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_13",
@@ -30419,7 +30424,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_17",
@@ -30491,7 +30496,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_25",
@@ -30523,7 +30528,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "PFA_29",
@@ -30539,7 +30544,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "PFA_30",
@@ -30547,7 +30552,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_31",
@@ -30579,7 +30584,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "PFA_35",
@@ -30619,7 +30624,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32972
+      "UsersEstimate": 32973
     },
     {
       "ID": "PFA_4",
@@ -30722,7 +30727,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299750,
+      "Progressed": 299753,
       "Completed": 498
     }
   ],
@@ -30730,8 +30735,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-30T05:58:59.1395542+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:09:43.7291284+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:09:14.4611496+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:49.2951631+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:09:43.7292504+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:57.1359253+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:09:14.4612626+00:00"
 }

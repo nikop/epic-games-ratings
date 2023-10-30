@@ -14420,9 +14420,9 @@
       "Count": 11984
     }
   ],
-  "EOS_Progressed": 894556,
+  "EOS_Progressed": 894563,
   "EOS_Completed": 2734,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1118,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36305,6 +36305,11 @@
       "Time": "2023-10-30T10:05:06.3561528+00:00",
       "NumProgressed": 894556,
       "NumCompleted": 2734
+    },
+    {
+      "Time": "2023-10-30T11:04:56.7408539+00:00",
+      "NumProgressed": 894563,
+      "NumCompleted": 2734
     }
   ],
   "AchievementsAdded": "2023-10-19T13:11:06.8275195+00:00",
@@ -36501,7 +36506,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7156
+      "UsersEstimate": 7157
     },
     {
       "ID": "Temperance",
@@ -36819,9 +36824,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 93
     },
     {
       "ID": "TheTower",
@@ -36836,21 +36841,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894556,
+      "Progressed": 894563,
       "Completed": 2734
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23179,
+      "Progressed": 23186,
       "Completed": 10164
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-10-30T08:57:29.8999701+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:05:06.3561524+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:04:56.7408534+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:04.2947967+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:05:06.356296+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:04.3653496+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:04:56.7410004+00:00"
 }

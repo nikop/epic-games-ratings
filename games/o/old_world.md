@@ -77,7 +77,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 1.00% | ~150 |
 | Learn to Play 3 | 1.00% | ~150 |
 | Greece | 1.00% | ~150 |
+| Power to the People | 1.00% | ~150 |
 | Manichaeism | 1.00% | ~150 |
+| Persian Paganism | 1.00% | ~150 |
 | Mythology | 1.00% | ~150 |
 | Points Victory | 1.00% | ~150 |
 | Win a Single Player Game | 1.00% | ~150 |
@@ -86,9 +88,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.90% | ~135 |
 | Riders | 0.90% | ~135 |
 | Circus Maximus | 0.90% | ~135 |
-| Power to the People | 0.90% | ~135 |
-| Persian Paganism | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
+| Economic Reform | 0.90% | ~135 |
 | Subjugator | 0.80% | ~120 |
 | Landowners | 0.80% | ~120 |
 | Statesmen | 0.80% | ~120 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.80% | ~120 |
 | Via Recta Souk | 0.80% | ~120 |
 | Learn to Play 4 | 0.80% | ~120 |
-| Economic Reform | 0.80% | ~120 |
 | Military Prestige | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~105 |
 | Mounted Lancer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
+| Devout | 0.60% | ~90 |
 | Ready | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
@@ -135,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.50% | ~75 |
 | Ishtar Gate in Babylon | 0.50% | ~75 |
 | Carthage - Ox Hide | 0.50% | ~75 |
-| Devout | 0.50% | ~75 |
 | Noble Difficulty | 0.50% | ~75 |
 | Cao'an | 0.50% | ~75 |
 | Adur Burzen-Mihr | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,045 (Ranked 143)  
+Progressed: 15,046 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -542,7 +542,7 @@ Completed: 5 (0.03%) (Ranked 298)
 | 2023-10-27 | 14,991 | 5 |
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
-| 2023-10-30 | 15,045 | 5 |
+| 2023-10-30 | 15,046 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

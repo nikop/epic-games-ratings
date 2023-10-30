@@ -5,31 +5,31 @@ Rating: 4.39 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~101,858 |
-| 74 miles East of Otaheité | 56.00% | ~71,301 |
+| A Family Heirloom | 80.00% | ~101,860 |
+| 74 miles East of Otaheité | 56.00% | ~71,302 |
 | Interesting... | 42.00% | ~53,476 |
-| The Everhart Expedition | 39.00% | ~49,656 |
-| The Vanishing of the Lady Shannon | 30.00% | ~38,197 |
-| Seaside Serenade | 30.00% | ~38,197 |
+| The Everhart Expedition | 39.00% | ~49,657 |
+| The Vanishing of the Lady Shannon | 30.00% | ~38,198 |
+| Seaside Serenade | 30.00% | ~38,198 |
 | Halfway there | 29.00% | ~36,924 |
-| A brigantine, a brig and a barque | 28.00% | ~35,650 |
-| 506 East Hampden Avenue | 28.00% | ~35,650 |
-| Weekend at Walakea's | 27.00% | ~34,377 |
-| Quite a Show | 27.00% | ~34,377 |
+| A brigantine, a brig and a barque | 28.00% | ~35,651 |
+| 506 East Hampden Avenue | 28.00% | ~35,651 |
+| Weekend at Walakea's | 27.00% | ~34,378 |
+| Quite a Show | 27.00% | ~34,378 |
 | Dark Water Ride | 24.00% | ~30,558 |
 | Sunken | 24.00% | ~30,558 |
 | Deep Cut | 24.00% | ~30,558 |
-| FHALGOF'N' | 23.00% | ~29,284 |
+| FHALGOF'N' | 23.00% | ~29,285 |
 | Marsh Cannery | 21.00% | ~26,738 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~21,645 |
 | The only thing I have now | 16.00% | ~20,372 |
-| Not Another Boring Slideshow! | 15.00% | ~19,098 |
-| Naacalvision | 15.00% | ~19,098 |
+| Not Another Boring Slideshow! | 15.00% | ~19,099 |
+| Naacalvision | 15.00% | ~19,099 |
 | I'll make a note of that... | 9.00% | ~11,459 |
 | The Norahnomicon | 9.00% | ~11,459 |
 | Play it again, Norah | 7.00% | ~8,913 |
 | Underwater Royalty | 7.00% | ~8,913 |
-| Written in Stone | 6.00% | ~7,639 |
+| Written in Stone | 6.00% | ~7,640 |
 | Fawning Developers | 5.00% | ~6,366 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,093 |
 | Candid Photo | 4.00% | ~5,093 |
@@ -40,8 +40,8 @@ Rating: 4.39 (Ranked 740)
 | Gently down the stream... | 1.00% | ~1,273 |
 | Meta-reference | 1.00% | ~1,273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,323 (Ranked 80)  
-Completed: 1,091 (0.86%) (Ranked 160)  
+Progressed: 127,325 (Ranked 80)  
+Completed: 1,091 (0.86%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,7 +233,7 @@ Completed: 1,091 (0.86%) (Ranked 160)
 | 2023-10-27 | 126,819 | 1,080 |
 | 2023-10-28 | 127,019 | 1,083 |
 | 2023-10-29 | 127,284 | 1,089 |
-| 2023-10-30 | 127,323 | 1,091 |
+| 2023-10-30 | 127,325 | 1,091 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

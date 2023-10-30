@@ -3920,9 +3920,9 @@
       "ID": "GOAL",
       "SetID": "9a4jnji",
       "Name": "Goaaaaal!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "GUN_FOR_HIRE",
@@ -4064,9 +4064,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 622
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4113,8 +4113,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:09:38.3029392+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:09:08.5802503+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:59:11.4222869+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:09:38.3029899+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:59:15.6583294+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:09:08.5802996+00:00"
 }

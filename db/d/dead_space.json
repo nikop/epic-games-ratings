@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -683,9 +683,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4098,6 +4098,11 @@
       "Time": "2023-10-30T09:03:31.3908262+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-30T11:04:33.5035811+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -4118,7 +4123,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_11",
@@ -4158,7 +4163,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_16",
@@ -4198,15 +4203,15 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 777
+      "UsersEstimate": 791
     },
     {
       "ID": "achievement_21",
@@ -4238,7 +4243,7 @@
       "Name": "Eviscerator",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_25",
@@ -4270,7 +4275,7 @@
       "Name": "Story Teller",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achievement_29",
@@ -4278,7 +4283,7 @@
       "Name": "Legend Teller",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_3",
@@ -4302,15 +4307,15 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 697
     },
     {
       "ID": "achievement_33",
@@ -4326,7 +4331,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "achievement_35",
@@ -4342,7 +4347,7 @@
       "Name": "Backbreaker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_37",
@@ -4358,7 +4363,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_39",
@@ -4382,7 +4387,7 @@
       "Name": "There\u0027s Always Peng!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_41",
@@ -4390,7 +4395,7 @@
       "Name": "Full Clearance",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_42",
@@ -4422,15 +4427,15 @@
       "Name": "Mindless Prey",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_46",
       "SetID": "222fo9l",
       "Name": "Marked",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_47",
@@ -4446,7 +4451,7 @@
       "Name": "True Believer",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achievement_6",
@@ -4485,7 +4490,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 7
     }
   ],
@@ -4493,8 +4498,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:04:44.9839969+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:04:33.5035806+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:02:25.5943754+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:04:44.9840505+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:02:47.0771747+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:04:33.5036653+00:00"
 }

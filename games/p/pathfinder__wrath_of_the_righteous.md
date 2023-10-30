@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,927 (Ranked 150)  
+Progressed: 11,928 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 11,841 | 0 |
 | 2023-10-28 | 11,886 | 0 |
 | 2023-10-29 | 11,919 | 0 |
-| 2023-10-30 | 11,927 | 0 |
+| 2023-10-30 | 11,928 | 0 |
 ## Awards
 Max (Character Customization): 1,730  (Ranked 120)  
 Sum: 7,008 (Ranked 119)  

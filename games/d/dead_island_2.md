@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 518)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 5.00% | ~35,413 |
-| Welcome To Hell-A | 5.00% | ~35,413 |
-| Git Gutte! | 4.00% | ~28,330 |
-| Break A Leg | 4.00% | ~28,330 |
-| Coup de Grâce | 4.00% | ~28,330 |
-| Hazardous Materials | 4.00% | ~28,330 |
-| Friends Like These | 4.00% | ~28,330 |
-| Apex Predator | 4.00% | ~28,330 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,330 |
+| Hotel California | 5.00% | ~35,414 |
+| Welcome To Hell-A | 5.00% | ~35,414 |
+| Git Gutte! | 4.00% | ~28,331 |
+| Break A Leg | 4.00% | ~28,331 |
+| Coup de Grâce | 4.00% | ~28,331 |
+| Hazardous Materials | 4.00% | ~28,331 |
+| Friends Like These | 4.00% | ~28,331 |
+| Apex Predator | 4.00% | ~28,331 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,331 |
 | Dr. Reed, I Presume? | 3.00% | ~21,248 |
 | Bookworm | 3.00% | ~21,248 |
 | I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,248 |
@@ -27,20 +27,20 @@ Rating: 4.54 (Ranked 518)
 | Stacking the Deck | 3.00% | ~21,248 |
 | Our True Nature | 3.00% | ~21,248 |
 | This is My Weapon | 3.00% | ~21,248 |
-| Making Your Mark | 2.00% | ~14,165 |
-| Anger Management | 2.00% | ~14,165 |
-| Perks of the Job | 2.00% | ~14,165 |
-| Ooh, Shiny! | 2.00% | ~14,165 |
-| Humanity Distilled | 2.00% | ~14,165 |
-| Down with the Sickness | 2.00% | ~14,165 |
-| Max Headroom | 2.00% | ~14,165 |
+| Making Your Mark | 2.00% | ~14,166 |
+| Anger Management | 2.00% | ~14,166 |
+| Perks of the Job | 2.00% | ~14,166 |
+| Ooh, Shiny! | 2.00% | ~14,166 |
+| Humanity Distilled | 2.00% | ~14,166 |
+| Down with the Sickness | 2.00% | ~14,166 |
+| Max Headroom | 2.00% | ~14,166 |
 | Smorgasbord | 1.00% | ~7,083 |
 | Internet Famous | 1.00% | ~7,083 |
 | Jumbo Keyring | 1.00% | ~7,083 |
 | Go, Bobcats! | 1.00% | ~7,083 |
 | Rising Star | 1.00% | ~7,083 |
-| On Safari | 0.90% | ~6,374 |
-| Not Even My Final Form | 0.90% | ~6,374 |
+| On Safari | 0.90% | ~6,375 |
+| Not Even My Final Form | 0.90% | ~6,375 |
 | Make it So | 0.80% | ~5,666 |
 | Variety is the Spice of Death | 0.80% | ~5,666 |
 | LA Influential | 0.60% | ~4,250 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 518)
 | Donk! | 0.20% | ~1,417 |
 | Bucket List | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,254 (Ranked 22)  
+Progressed: 708,280 (Ranked 22)  
 Completed: 2,283 (0.32%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,283 (0.32%) (Ranked 211)
 | 2023-10-27 | 705,683 | 2,275 |
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
-| 2023-10-30 | 708,254 | 2,283 |
+| 2023-10-30 | 708,280 | 2,283 |
 ## Awards
 Max (Great Boss Battles): 6,730  (Ranked 56)  
 Sum: 10,142 (Ranked 90)  

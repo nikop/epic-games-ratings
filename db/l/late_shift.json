@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 592,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -1225,6 +1225,11 @@
       "Time": "2023-10-30T10:06:02.2139011+00:00",
       "NumProgressed": 591,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-30T11:05:58.4313117+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1236,7 +1241,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1276,7 +1281,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ENDING_5",
@@ -1300,7 +1305,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1330,9 +1335,9 @@
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 184
     },
     {
       "ID": "INTERROGATION",
@@ -1348,7 +1353,7 @@
       "Name": "Office Clerk",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1380,7 +1385,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1395,7 +1400,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 592,
       "Completed": 8
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:06:02.2139003+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:05:58.4313111+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:00:23.1243749+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:06:02.2139183+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:00:39.8150253+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:05:58.4313277+00:00"
 }

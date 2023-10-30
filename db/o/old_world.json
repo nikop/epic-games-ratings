@@ -1950,7 +1950,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15045,
+  "EOS_Progressed": 15046,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -15025,6 +15025,11 @@
       "Time": "2023-10-30T10:07:37.1358311+00:00",
       "NumProgressed": 15045,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-30T11:07:41.4248838+00:00",
+      "NumProgressed": 15046,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15450,9 +15455,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -16794,9 +16799,9 @@
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -16882,9 +16887,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -16970,9 +16975,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -17771,21 +17776,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15045,
+      "Progressed": 15046,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15045,
+      "Progressed": 15046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:07:37.1358307+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:07:41.4248834+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:41.583282+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:07:37.1368305+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:47.9358296+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:07:41.4258868+00:00"
 }

@@ -7,8 +7,8 @@
 | Seeds of War | 80.00% | ~261 |
 | First Blood | 62.00% | ~202 |
 | Triple Kill | 61.00% | ~199 |
-| Aspairagus | 59.00% | ~163 |
-| No Asperascope | 56.00% | ~183 |
+| Aspairagus | 60.00% | ~166 |
+| No Asperascope | 57.00% | ~186 |
 | Survivor | 56.00% | ~155 |
 | Cornivore | 54.00% | ~176 |
 | I Believe I Can Fly | 49.00% | ~160 |
@@ -27,7 +27,7 @@
 | This Is My Boomstick | 17.00% | ~47 |
 | Skin Of Your Teeth | 16.00% | ~52 |
 | Getting Started | 15.00% | ~49 |
-| Eggtraordinary | 14.00% | ~46 |
+| Eggtraordinary | 15.00% | ~49 |
 | Oh My Gourd | 14.00% | ~39 |
 | Summers Here | 12.00% | ~33 |
 | Quit Horsin' Around | 11.00% | ~36 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18180,
+  "EOS_Progressed": 18181,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15007,6 +15007,11 @@
       "Time": "2023-10-30T06:06:22.066636+00:00",
       "NumProgressed": 18180,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-30T11:06:04.0132988+00:00",
+      "NumProgressed": 18181,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15026,7 +15031,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "Deadline",
@@ -15050,7 +15055,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2363
+      "UsersEstimate": 2364
     },
     {
       "ID": "Feel_The_Thunder",
@@ -15066,7 +15071,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5999
+      "UsersEstimate": 6000
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -15082,7 +15087,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -15130,7 +15135,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "The_Reaper",
@@ -15145,15 +15150,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18180,
+      "Progressed": 18181,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:06:07.3521749+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:06:04.0132983+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:00:09.9727945+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:06:07.3522524+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:00:23.0453676+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:06:04.0133722+00:00"
 }

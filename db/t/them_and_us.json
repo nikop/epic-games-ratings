@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -1246,6 +1246,11 @@
       "Time": "2023-10-29T09:08:04.2424466+00:00",
       "NumProgressed": 289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T11:07:46.2837699+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1273,7 +1278,7 @@
       "Name": "Alone with Them",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1465,7 +1470,7 @@
       "Name": "Safe...For now?",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ETUA_StayDead",
@@ -1576,7 +1581,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 1
     }
   ],
@@ -1584,8 +1589,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:07:41.6953978+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:07:46.2837695+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:57:56.1077281+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:07:41.6954289+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:57:57.4020774+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:07:46.2837978+00:00"
 }

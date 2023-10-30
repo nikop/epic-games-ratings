@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,347 (Ranked 77)  
+Progressed: 138,348 (Ranked 77)  
 Completed: 175 (0.13%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 175 (0.13%) (Ranked 250)
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
-| 2023-10-30 | 138,347 | 175 |
+| 2023-10-30 | 138,348 | 175 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
 Sum: 27,466 (Ranked 51)  

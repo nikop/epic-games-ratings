@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -841,10 +841,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 277,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-10-30T10:58:57.2664113+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 278,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 277,
+  "NumberOfAwards": 278,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -864,7 +870,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Unique Visuals",
@@ -903,9 +909,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65181,
+  "EOS_Progressed": 65182,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7218,6 +7224,11 @@
       "Time": "2023-10-30T10:05:13.9744009+00:00",
       "NumProgressed": 65181,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-30T11:05:05.152376+00:00",
+      "NumProgressed": 65182,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7318,7 +7329,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5215
     },
     {
       "ID": "6",
@@ -7357,16 +7368,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65181,
+      "Progressed": 65182,
       "Completed": 26
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-10-29T14:58:29.1090175+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:05:13.9744005+00:00",
+  "LastChanged": "2023-10-30T10:58:57.2664112+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:05:05.1523756+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:49.369485+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:05:13.9744388+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:57.2664118+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:05:05.1524124+00:00"
 }

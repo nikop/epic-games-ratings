@@ -2,12 +2,12 @@
   "ID": "argyle",
   "Name": "Trials Rising Standard Edition",
   "ProductSlug": "trials-rising",
-  "Ranking_Rating": 193,
+  "Ranking_Rating": 182,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2019-02-26T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 81,
   "RatingHistory": [
     {
@@ -309,6 +309,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-30T10:58:25.5268905+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -327,8 +333,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:00.7497016+00:00",
   "FirstSeenRating": "2022-08-06T00:01:51.7192819+00:00",
-  "LastChanged": "2023-09-21T19:59:32.8968709+00:00",
+  "LastChanged": "2023-10-30T10:58:25.5268903+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:13.8747356+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:22.0846375+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:09:56.01758+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:25.5268909+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:09:28.6421391+00:00"
 }

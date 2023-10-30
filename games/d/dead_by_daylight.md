@@ -6,36 +6,36 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~49,028 |
-| Zealous | 4.00% | ~39,223 |
-| Not half bad | 4.00% | ~39,223 |
-| Skillful | 4.00% | ~39,223 |
-| Make Some Noise | 4.00% | ~39,223 |
-| No one left behind | 3.00% | ~29,417 |
-| Medic | 3.00% | ~29,417 |
-| Handyman | 3.00% | ~29,417 |
-| Apt Survivor | 3.00% | ~29,417 |
-| Survival Treasures | 3.00% | ~29,417 |
-| I | 3.00% | ~29,417 |
-| Sorted | 3.00% | ~29,417 |
-| Resurgence | 3.00% | ~29,417 |
-| The Grand Sacrifice | 2.00% | ~19,611 |
-| Agonizing Escape | 2.00% | ~19,611 |
-| Backdoor Escape | 2.00% | ~19,611 |
-| I've got your back | 2.00% | ~19,611 |
-| Perfect Escape | 2.00% | ~19,611 |
-| Perfect Killing | 2.00% | ~19,611 |
-| Bloody Millionaire | 2.00% | ~19,611 |
-| Apt Killer | 2.00% | ~19,611 |
-| Risk it all | 2.00% | ~19,611 |
-| II | 2.00% | ~19,611 |
-| Engineer | 2.00% | ~19,611 |
-| Wounded Healer | 2.00% | ~19,611 |
-| Healthy Obsession | 2.00% | ~19,611 |
-| Close Shave | 2.00% | ~19,611 |
-| Preemptive Strike | 2.00% | ~19,611 |
-| Humanitarian | 2.00% | ~19,611 |
-| Second Act | 2.00% | ~19,611 |
+| It wakes | 5.00% | ~49,032 |
+| Zealous | 4.00% | ~39,226 |
+| Not half bad | 4.00% | ~39,226 |
+| Skillful | 4.00% | ~39,226 |
+| Make Some Noise | 4.00% | ~39,226 |
+| No one left behind | 3.00% | ~29,419 |
+| Medic | 3.00% | ~29,419 |
+| Handyman | 3.00% | ~29,419 |
+| Apt Survivor | 3.00% | ~29,419 |
+| Survival Treasures | 3.00% | ~29,419 |
+| I | 3.00% | ~29,419 |
+| Sorted | 3.00% | ~29,419 |
+| Resurgence | 3.00% | ~29,419 |
+| The Grand Sacrifice | 2.00% | ~19,613 |
+| Agonizing Escape | 2.00% | ~19,613 |
+| Backdoor Escape | 2.00% | ~19,613 |
+| I've got your back | 2.00% | ~19,613 |
+| Perfect Escape | 2.00% | ~19,613 |
+| Perfect Killing | 2.00% | ~19,613 |
+| Bloody Millionaire | 2.00% | ~19,613 |
+| Apt Killer | 2.00% | ~19,613 |
+| Risk it all | 2.00% | ~19,613 |
+| II | 2.00% | ~19,613 |
+| Engineer | 2.00% | ~19,613 |
+| Wounded Healer | 2.00% | ~19,613 |
+| Healthy Obsession | 2.00% | ~19,613 |
+| Close Shave | 2.00% | ~19,613 |
+| Preemptive Strike | 2.00% | ~19,613 |
+| Humanitarian | 2.00% | ~19,613 |
+| Second Act | 2.00% | ~19,613 |
 | Blood on your hands | 1.00% | ~9,806 |
 | Escape Artist | 1.00% | ~9,806 |
 | Made it out alive! | 1.00% | ~9,806 |
@@ -66,13 +66,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~9,806 |
 | One More Step | 1.00% | ~9,806 |
 | MU/TH/UR Dearest | 1.00% | ~9,806 |
-| Gifts for the Fog | 0.90% | ~8,825 |
-| Cottage Owner | 0.90% | ~8,825 |
-| Escaping the Nightmare | 0.90% | ~8,825 |
-| Campbell's Chapel Legacy | 0.90% | ~8,825 |
-| Ancestor's Rite | 0.90% | ~8,825 |
-| Outrun Evil | 0.90% | ~8,825 |
-| Grim Pilgrimage | 0.90% | ~8,825 |
+| Gifts for the Fog | 0.90% | ~8,826 |
+| Cottage Owner | 0.90% | ~8,826 |
+| Escaping the Nightmare | 0.90% | ~8,826 |
+| Campbell's Chapel Legacy | 0.90% | ~8,826 |
+| Ancestor's Rite | 0.90% | ~8,826 |
+| Outrun Evil | 0.90% | ~8,826 |
+| Grim Pilgrimage | 0.90% | ~8,826 |
 | A bite for the Entity | 0.80% | ~7,845 |
 | Blood on your face | 0.80% | ~7,845 |
 | Leapfrog | 0.80% | ~7,845 |
@@ -81,32 +81,32 @@ Number of Ratings: 70,340  (23.09.2022)
 | Selfless Survival | 0.80% | ~7,845 |
 | Outrun the Overlap | 0.80% | ~7,845 |
 | Extraterrestrial | 0.80% | ~7,845 |
-| Jump Scares | 0.70% | ~6,864 |
-| Hemophobia | 0.70% | ~6,864 |
-| Game Over | 0.70% | ~6,864 |
-| Devoted Gatekeeping | 0.70% | ~6,864 |
-| Shrine Apparatus | 0.70% | ~6,864 |
-| Broken Bodies | 0.70% | ~6,864 |
-| End of Days | 0.70% | ~6,864 |
-| Insult and Injury | 0.70% | ~6,864 |
-| Complete the Evolution | 0.70% | ~6,864 |
-| Kitted Out | 0.70% | ~6,864 |
-| Deep Cleansing | 0.60% | ~5,883 |
-| Texas BBQ | 0.60% | ~5,883 |
-| Party Crasher | 0.60% | ~5,883 |
-| Outrage | 0.60% | ~5,883 |
-| High Speed Pursuit | 0.60% | ~5,883 |
+| Jump Scares | 0.70% | ~6,865 |
+| Hemophobia | 0.70% | ~6,865 |
+| Game Over | 0.70% | ~6,865 |
+| Devoted Gatekeeping | 0.70% | ~6,865 |
+| Shrine Apparatus | 0.70% | ~6,865 |
+| Broken Bodies | 0.70% | ~6,865 |
+| End of Days | 0.70% | ~6,865 |
+| Insult and Injury | 0.70% | ~6,865 |
+| Complete the Evolution | 0.70% | ~6,865 |
+| Kitted Out | 0.70% | ~6,865 |
+| Deep Cleansing | 0.60% | ~5,884 |
+| Texas BBQ | 0.60% | ~5,884 |
+| Party Crasher | 0.60% | ~5,884 |
+| Outrage | 0.60% | ~5,884 |
+| High Speed Pursuit | 0.60% | ~5,884 |
 | Whiffing to Success | 0.50% | ~4,903 |
 | Heavy Burden | 0.50% | ~4,903 |
 | I See You | 0.50% | ~4,903 |
 | Punch Drunk | 0.50% | ~4,903 |
 | Prowler | 0.50% | ~4,903 |
 | Triage | 0.50% | ~4,903 |
-| Blood in your mouth | 0.40% | ~3,922 |
-| Looter | 0.40% | ~3,922 |
-| Death of Ignorance | 0.40% | ~3,922 |
-| Power Moves | 0.40% | ~3,922 |
-| Hack the Mainframe | 0.40% | ~3,922 |
+| Blood in your mouth | 0.40% | ~3,923 |
+| Looter | 0.40% | ~3,923 |
+| Death of Ignorance | 0.40% | ~3,923 |
+| Power Moves | 0.40% | ~3,923 |
+| Hack the Mainframe | 0.40% | ~3,923 |
 | A feast for the Entity | 0.30% | ~2,942 |
 | Mad House | 0.30% | ~2,942 |
 | Deranged Pursuit | 0.30% | ~2,942 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~981 |
 | Adept Ripley | 0.10% | ~981 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 980,565 (Ranked 14)  
+Progressed: 980,649 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -429,14 +429,14 @@ Completed: 52 (0.01%) (Ranked 312)
 | 2023-10-27 | 972,989 | 52 |
 | 2023-10-28 | 976,261 | 52 |
 | 2023-10-29 | 979,683 | 52 |
-| 2023-10-30 | 980,565 | 52 |
+| 2023-10-30 | 980,649 | 52 |
 ## Awards
-Max (Diverse Characters): 34,962  (Ranked 15)  
-Sum: 269,090 (Ranked 13)  
+Max (Diverse Characters): 35,039  (Ranked 15)  
+Sum: 269,167 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 34,962 |
+| This game has Diverse Characters | 35,039 |
 | This game is Highly Recommended | 30,773 |
 | This game has Amazing Characters | 30,403 |
 | This game has Competitive Players | 30,306 |
@@ -729,4 +729,4 @@ Diff (max vs sum): 2
 | 2023-10-27 | 4.51 | - | 34,791 | 267,841 |
 | 2023-10-28 | 4.51 | - | 34,896 | 268,401 |
 | 2023-10-29 | 4.51 | - | 34,962 | 268,820 |
-| 2023-10-30 | 4.51 | - | 34,962 | 269,090 |
+| 2023-10-30 | 4.51 | - | 35,039 | 269,167 |

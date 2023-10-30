@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7577,
+  "EOS_Progressed": 7578,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -5332,6 +5332,11 @@
       "Time": "2023-10-30T10:10:11.8871242+00:00",
       "NumProgressed": 7577,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T11:09:55.3922532+00:00",
+      "NumProgressed": 7578,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5456,7 +5461,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "GamesPlayed1",
@@ -5536,7 +5541,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "HAUpgraded1",
@@ -5935,7 +5940,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7577,
+      "Progressed": 7578,
       "Completed": 1
     }
   ],
@@ -5943,8 +5948,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:10:11.8871237+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:09:55.3922526+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:03:22.4035102+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:10:11.8872132+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:03:08.4686269+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:09:55.3923381+00:00"
 }

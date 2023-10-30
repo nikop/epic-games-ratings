@@ -3,11 +3,11 @@
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 288,
-  "Ranking_Popularity": 312,
+  "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -2675,6 +2675,6 @@
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "LastChanged": "2023-10-30T10:01:02.2595228+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:41.4786281+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:01:02.2595241+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:04:42.4389915+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:01:22.097911+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:04:30.5424102+00:00"
 }

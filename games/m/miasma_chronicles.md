@@ -20,8 +20,8 @@ Rating: 4.43 (Ranked 684)
 | Sensei | 43.00% | ~669 |
 | Firestarter | 41.00% | ~638 |
 | The meaning of Kain | 41.00% | ~638 |
+| Technophobe | 40.00% | ~622 |
 | Recycler | 39.00% | ~607 |
-| Technophobe | 39.00% | ~607 |
 | Are you not entertained? | 35.00% | ~545 |
 | Ganglord | 34.00% | ~529 |
 | Jarhead | 34.00% | ~529 |
@@ -54,8 +54,8 @@ Rating: 4.43 (Ranked 684)
 | Shadow Boxin' | 1.00% | ~16 |
 | Fratricide | 0.90% | ~14 |
 | Alpha Editor | 0.80% | ~12 |
+| Goaaaaal! | 0.80% | ~12 |
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
-| Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,556 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 332)  

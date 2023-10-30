@@ -2,12 +2,12 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 193,
+  "Ranking_Rating": 194,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
@@ -1413,6 +1413,6 @@
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
   "LastChanged": "2023-10-28T22:00:23.6851662+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:41.7081305+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:01:54.1453964+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:08:05.7758043+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:02:14.3064785+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:08:12.4975561+00:00"
 }

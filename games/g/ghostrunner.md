@@ -6,31 +6,31 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~16,297 |
-| Sword Runner | 61.00% | ~13,081 |
-| Running out of breath | 54.00% | ~11,580 |
-| Wallrunner | 53.00% | ~11,365 |
-| Homerunner | 45.00% | ~9,650 |
-| Out of order | 44.00% | ~9,435 |
-| I call it luck | 43.00% | ~9,221 |
+| Longrunner | 76.00% | ~16,299 |
+| Sword Runner | 61.00% | ~13,082 |
+| Running out of breath | 54.00% | ~11,581 |
+| Wallrunner | 53.00% | ~11,366 |
+| Homerunner | 45.00% | ~9,651 |
+| Out of order | 44.00% | ~9,436 |
+| I call it luck | 43.00% | ~9,222 |
 | Where are my Keys? | 40.00% | ~8,578 |
-| Back to hell | 36.00% | ~7,720 |
-| Perfection | 32.00% | ~6,862 |
-| Why not both | 30.00% | ~6,433 |
+| Back to hell | 36.00% | ~7,721 |
+| Perfection | 32.00% | ~6,863 |
+| Why not both | 30.00% | ~6,434 |
 | Sword to a gunfight | 29.00% | ~6,219 |
 | Upgrades not mandatory | 29.00% | ~6,219 |
-| Artificial selection | 28.00% | ~6,004 |
+| Artificial selection | 28.00% | ~6,005 |
 | Control freak | 27.00% | ~5,790 |
 | Running Wild | 27.00% | ~5,790 |
-| Finish line | 26.00% | ~5,575 |
+| Finish line | 26.00% | ~5,576 |
 | Unstoppable force | 22.00% | ~4,718 |
 | Wave of mutilation | 22.00% | ~4,718 |
 | Can't Run Can't Hide | 16.00% | ~3,431 |
 | R is for Running | 16.00% | ~3,431 |
 | Dead in the air | 15.00% | ~3,217 |
 | Improvise, adapt, overrun | 13.00% | ~2,788 |
-| Pre-empative strike | 12.00% | ~2,573 |
-| Strike | 12.00% | ~2,573 |
+| Pre-empative strike | 12.00% | ~2,574 |
+| Strike | 12.00% | ~2,574 |
 | More than human | 11.00% | ~2,359 |
 | Triple A | 9.00% | ~1,930 |
 | One Of Those Days | 7.00% | ~1,501 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~86 |
 | Up Close And Personal | 0.40% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,444 (Ranked 128)  
+Progressed: 21,446 (Ranked 128)  
 Completed: 78 (0.36%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 78 (0.36%) (Ranked 207)
 | 2023-10-27 | 21,141 | 78 |
 | 2023-10-28 | 21,275 | 78 |
 | 2023-10-29 | 21,406 | 78 |
-| 2023-10-30 | 21,444 | 78 |
+| 2023-10-30 | 21,446 | 78 |
 ## Awards
 Max (Great Boss Battles): 514  (Ranked 205)  
 Sum: 737 (Ranked 285)  

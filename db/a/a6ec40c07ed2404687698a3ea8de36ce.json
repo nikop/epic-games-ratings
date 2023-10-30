@@ -2,9 +2,9 @@
   "ID": "a6ec40c07ed2404687698a3ea8de36ce",
   "Name": "The Bookwalker: Thief of Tales",
   "ProductSlug": "the-bookwalker-cd43ce",
-  "Ranking_EOS_Progress": 626,
+  "Ranking_EOS_Progress": 613,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-06-22T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-10-21T15:12:12.9953365+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T11:09:52.7259369+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -192,9 +197,9 @@
       "ID": "dialogue_some_items",
       "SetID": "5o7abj2",
       "Name": "Alternate Solution",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fight_blocked_damage",
@@ -345,14 +350,14 @@
     {
       "ID": "5o7abj2",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-24T19:57:11.4257975+00:00",
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:10:09.0972251+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:09:52.7259364+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:15.1983021+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:02:32.3847602+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:10:09.0972484+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:02:54.5321409+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:09:52.7259598+00:00"
 }

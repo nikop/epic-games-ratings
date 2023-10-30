@@ -2557,9 +2557,9 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "BARK_ACHIEVEMENT_1",
@@ -3028,8 +3028,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:08:19.1134013+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:08:26.9721226+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:19.6144585+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:08:19.1134681+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:21.6164865+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:08:26.9721892+00:00"
 }

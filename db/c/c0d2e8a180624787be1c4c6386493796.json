@@ -290,9 +290,9 @@
       "ID": "KR4_ACHIEVEMENT_DARK_SIDE",
       "SetID": "caeik3h",
       "Name": "Join The Dark Side",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
@@ -410,9 +410,9 @@
       "ID": "KR4_ACHIEVEMENT_GUMMY_BEARS",
       "SetID": "caeik3h",
       "Name": "Courageous And Caring",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
@@ -730,9 +730,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
       "SetID": "caeik3h",
       "Name": "Broodmother",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:09:23.9334346+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:08:53.1706412+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-30T10:01:04.6459612+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:09:23.933498+00:00"
+  "LastUpdate_Ratings": "2023-10-30T11:01:24.8427082+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:08:53.1707067+00:00"
 }

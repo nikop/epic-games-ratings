@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14478,
+  "EOS_Progressed": 14479,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -9954,6 +9954,11 @@
       "Time": "2023-10-30T10:04:56.8282216+00:00",
       "NumProgressed": 14478,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-30T11:04:46.204106+00:00",
+      "NumProgressed": 14479,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -9996,9 +10001,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 434
     },
     {
       "ID": "14",
@@ -10245,13 +10250,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14478,
+      "Progressed": 14479,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 432,
+      "Progressed": 433,
       "Completed": 286
     }
   ],
@@ -10259,8 +10264,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-10-30T10:04:56.8282212+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:04:46.2041055+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:28.9304751+00:00",
-  "LastUpdate_Achievements": "2023-10-30T10:04:56.8282868+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:31.9844769+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:04:46.2041711+00:00"
 }

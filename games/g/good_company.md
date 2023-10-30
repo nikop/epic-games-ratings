@@ -46,10 +46,10 @@ Number of Ratings: 75  (23.09.2022)
 | Tycoon | 0.90% | ~50 |
 | Bet On Bots: Safety First | 0.80% | ~44 |
 | Merry-Go-Around: Self-Made | 0.70% | ~39 |
+| Level: Eye In The Sky | 0.60% | ~33 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~33 |
 | Trendsetter | 0.60% | ~33 |
 | Level: Heating-Up | 0.50% | ~28 |
-| Level: Eye In The Sky | 0.50% | ~28 |
 | CEO | 0.50% | ~28 |
 | Campaign: Man vs. Machine | 0.40% | ~22 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~22 |

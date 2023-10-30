@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2023-10-29T23:09:22.3652979+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T11:03:41.7058763+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -980,9 +985,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "achSponsor10",
@@ -1125,14 +1130,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-30T09:08:25.1786769+00:00",
+  "LastChanged_Achievements": "2023-10-30T11:03:41.705875+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:22.4854686+00:00",
-  "LastUpdate_Ratings": "2023-10-30T09:58:39.2642357+00:00",
-  "LastUpdate_Achievements": "2023-10-30T09:08:25.1787068+00:00"
+  "LastUpdate_Ratings": "2023-10-30T10:58:46.483069+00:00",
+  "LastUpdate_Achievements": "2023-10-30T11:03:41.7059337+00:00"
 }

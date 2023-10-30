@@ -15,12 +15,12 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 2.00% | ~69 |
 | Relentless | 2.00% | ~128 |
 | If at First You Don't Succeed... | 2.00% | ~128 |
+| Amy | 1.00% | ~64 |
 | Drunk and Disorderly: Ashley | 1.00% | ~64 |
 | IRL Let's Player | 1.00% | ~64 |
 | Inspector | 1.00% | ~64 |
 | Newcomer: Vickie | 1.00% | ~64 |
 | Social Butterfly | 1.00% | ~64 |
-| Amy | 0.90% | ~58 |
 | The Muse: Madison | 0.90% | ~58 |
 | Amy: Scavenger Hunt | 0.70% | ~45 |
 | It Smells Like Roses | 0.70% | ~24 |
