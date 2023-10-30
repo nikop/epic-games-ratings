@@ -6,23 +6,23 @@ Rating: 4.60 (Ranked 405)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 2.00% | ~289 |
+| Drug Gifter | 1.00% | ~145 |
 | Bosmang | 1.00% | ~145 |
 | The Pit and the Pirates | 0.90% | ~130 |
-| Drug Gifter | 0.90% | ~130 |
+| Celebrations are in Order | 0.90% | ~130 |
 | Martian Music | 0.80% | ~116 |
 | Drone Dodger | 0.80% | ~116 |
 | Call it Even | 0.80% | ~116 |
 | Captain Drummer | 0.80% | ~116 |
-| Celebrations are in Order | 0.80% | ~116 |
+| Spore Taste | 0.70% | ~101 |
 | Impossible Objects | 0.70% | ~101 |
 | Data Archivist | 0.60% | ~87 |
 | Stogie for Fogey | 0.60% | ~87 |
-| Spore Taste | 0.60% | ~87 |
 | Heal Thy Medic | 0.60% | ~87 |
 | Khan's Revenge | 0.60% | ~87 |
+| Bottoms up! | 0.40% | ~58 |
 | Thorston Mayer | 0.40% | ~58 |
 | Doctor Approved | 0.30% | ~43 |
-| Bottoms up! | 0.30% | ~43 |
 | Miraculous Maya | 0.30% | ~43 |
 | Data Logger | 0.20% | ~29 |
 | Data Master | 0.20% | ~29 |

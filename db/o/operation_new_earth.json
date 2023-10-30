@@ -6440,9 +6440,9 @@
       "ID": "ach_gold_rewards_100",
       "SetID": "bm61c2p",
       "Name": "Gold Achiever",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -6721,8 +6721,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:23:52.6963965+00:00",
+  "LastChanged_Achievements": "2023-10-30T03:06:22.0550811+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:20:06.7349115+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:23:52.6964674+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:02:35.8731998+00:00",
+  "LastUpdate_Achievements": "2023-10-30T03:06:22.0551756+00:00"
 }

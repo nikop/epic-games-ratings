@@ -32,16 +32,16 @@
 | Accomplished Smithy | 50.00% | ~12 |
 | The Ultimate Sacrifice | 50.00% | ~12 |
 | The Blight's Blight | 46.00% | ~11 |
-| For Whom the Bell Tolls | 42.00% | ~10 |
-| Here I Am | 42.00% | ~10 |
+| For Whom the Bell Tolls | 46.00% | ~11 |
+| Here I Am | 46.00% | ~11 |
 | Break The Cycle | 38.00% | ~9 |
-| Continue The Cycle | 29.00% | ~7 |
+| Continue The Cycle | 33.00% | ~8 |
 | Talent And Dedication | 25.00% | ~6 |
 | Read, Read, Read | 21.00% | ~5 |
 | Ledge-walker | 21.00% | ~5 |
 | Prolific Artist | 21.00% | ~5 |
+| Slip and Slide | 21.00% | ~5 |
 | Merely Inquisitive | 21.00% | ~5 |
-| Slip and Slide | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 502)  
 Completed: 4 (16.67%) (Ranked 20)  

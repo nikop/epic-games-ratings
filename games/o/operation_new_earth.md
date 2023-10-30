@@ -28,7 +28,7 @@ Rating: 3.38 (Ranked 1,027)
 | Silver Achiever | 5.00% | ~86 |
 | Moving On Up | 5.00% | ~86 |
 | Major | 5.00% | ~86 |
-| Gold Achiever | 3.00% | ~51 |
+| Gold Achiever | 4.00% | ~69 |
 | Colonel | 3.00% | ~51 |
 | Resourceful | 3.00% | ~51 |
 | Control the Skies | 3.00% | ~51 |

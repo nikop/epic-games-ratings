@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112741,
+  "EOS_Progressed": 112742,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16156,6 +16156,11 @@
       "Time": "2023-10-30T02:25:05.4507231+00:00",
       "NumProgressed": 112741,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-10-30T03:07:16.5723137+00:00",
+      "NumProgressed": 112742,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 49,
@@ -16239,7 +16244,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41714
+      "UsersEstimate": 41715
     },
     {
       "ID": "EAwards_18",
@@ -16255,7 +16260,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6764
+      "UsersEstimate": 6765
     },
     {
       "ID": "EAwards_2",
@@ -16287,7 +16292,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6764
+      "UsersEstimate": 6765
     },
     {
       "ID": "EAwards_23",
@@ -16558,7 +16563,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112741,
+      "Progressed": 112742,
       "Completed": 47
     }
   ],
@@ -16566,8 +16571,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:25:05.4507227+00:00",
+  "LastChanged_Achievements": "2023-10-30T03:07:16.5723129+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:08.5071847+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:19:15.704742+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:25:05.4508887+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:01:38.5498568+00:00",
+  "LastUpdate_Achievements": "2023-10-30T03:07:16.5724721+00:00"
 }

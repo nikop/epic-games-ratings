@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~399 |
 | The Prince of a Thousand Enemies | 0.20% | ~399 |
 | Downfall | 0.20% | ~399 |
+| Overwhelmed with Knowledge | 0.20% | ~399 |
 | Vecna Loots! | 0.20% | ~399 |
 | Return to the Tomb | 0.20% | ~399 |
 | Heatwave | 0.20% | ~399 |
@@ -149,7 +150,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~233 |
 | Best Thay Ever | 0.10% | ~199 |
 | Vecna Lives! | 0.10% | ~199 |
-| Overwhelmed with Knowledge | 0.10% | ~199 |
 | A Demi-god's Defender | 0.10% | ~199 |
 | Well Equipped | 0.10% | ~199 |
 | Friends of the Forest | 0.10% | ~233 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~199 |
 | All's Well That Ends Well | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,209 (Ranked 61)  
-Completed: 2,401 (1.03%) (Ranked 150)  
+Progressed: 233,210 (Ranked 61)  
+Completed: 2,402 (1.03%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -728,7 +728,7 @@ Completed: 2,401 (1.03%) (Ranked 150)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
-| 2023-10-30 | 233,209 | 2,401 |
+| 2023-10-30 | 233,210 | 2,402 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
 Sum: 32,259 (Ranked 41)  

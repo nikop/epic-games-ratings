@@ -46,12 +46,12 @@ Rating: 4.54 (Ranked 518)
 | LA Influential | 0.60% | ~4,249 |
 | Gore Horse | 0.60% | ~4,249 |
 | Sharpest Tool in the Box | 0.60% | ~4,249 |
-| Sole Survivor | 0.50% | ~3,540 |
+| Sole Survivor | 0.50% | ~3,541 |
 | Survival Skills | 0.40% | ~2,832 |
 | Donk! | 0.20% | ~1,416 |
 | Bucket List | 0.10% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,098 (Ranked 22)  
+Progressed: 708,107 (Ranked 22)  
 Completed: 2,282 (0.32%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2,282 (0.32%) (Ranked 211)
 | 2023-10-27 | 705,683 | 2,275 |
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
-| 2023-10-30 | 708,098 | 2,282 |
+| 2023-10-30 | 708,107 | 2,282 |
 ## Awards
 Max (Great Boss Battles): 6,730  (Ranked 56)  
 Sum: 10,135 (Ranked 90)  

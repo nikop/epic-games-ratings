@@ -1893,9 +1893,9 @@
       "Count": 297
     }
   ],
-  "EOS_Progressed": 8170,
+  "EOS_Progressed": 8171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6228,6 +6228,11 @@
       "Time": "2023-10-30T01:50:27.8091015+00:00",
       "NumProgressed": 8170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T03:07:28.0295479+00:00",
+      "NumProgressed": 8171,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6256,7 +6261,7 @@
       "Name": "A New Timeline",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "ach04",
@@ -6312,7 +6317,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach11",
@@ -6368,7 +6373,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "ach18",
@@ -6438,9 +6443,9 @@
       "ID": "ach26",
       "SetID": "47in8n6",
       "Name": "Running On Empty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 817
     },
     {
       "ID": "ach27",
@@ -6448,7 +6453,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ach28",
@@ -6480,7 +6485,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "ach32",
@@ -6568,7 +6573,7 @@
       "Name": "Quest Master",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3513
+      "UsersEstimate": 3514
     },
     {
       "ID": "ach43",
@@ -6624,7 +6629,7 @@
       "Name": "Thank You For Being A Fan!!!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ach50",
@@ -6632,14 +6637,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8170,
+      "Progressed": 8171,
       "Completed": 0
     }
   ],
@@ -6647,8 +6652,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-30T01:44:40.1810968+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:25:16.2276905+00:00",
+  "LastChanged_Achievements": "2023-10-30T03:07:28.0295469+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:19:07.9648161+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:25:16.2277623+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:01:27.7466989+00:00",
+  "LastUpdate_Achievements": "2023-10-30T03:07:28.0296346+00:00"
 }

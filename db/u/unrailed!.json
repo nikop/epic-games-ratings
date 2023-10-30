@@ -2753,9 +2753,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 658251,
+  "EOS_Progressed": 658253,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1763,
+  "EOS_NewPlayers": 1761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24613,6 +24613,11 @@
       "Time": "2023-10-30T02:26:40.5576949+00:00",
       "NumProgressed": 658251,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-30T03:08:24.0307738+00:00",
+      "NumProgressed": 658253,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24664,7 +24669,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 118485
+      "UsersEstimate": 118486
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -25039,15 +25044,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 658251,
+      "Progressed": 658253,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-27T05:58:50.7371955+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:26:40.5576944+00:00",
+  "LastChanged_Achievements": "2023-10-30T03:08:24.0307732+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:04.114706+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:17:51.8828689+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:26:40.557878+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:00:11.6177675+00:00",
+  "LastUpdate_Achievements": "2023-10-30T03:08:24.0309665+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,533 |
-| Titan's First Steps | 4.00% | ~5,533 |
+| Sponsored by Argon | 4.00% | ~5,534 |
+| Titan's First Steps | 4.00% | ~5,534 |
 | Basic in Bulk | 3.00% | ~4,150 |
 | Tinkle of Coins | 3.00% | ~4,150 |
 | One Easy Payment | 2.00% | ~2,767 |
@@ -81,6 +81,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.70% | ~968 |
 | Attrition Mission | 0.70% | ~968 |
 | Glittering Collection | 0.70% | ~968 |
+| Moment of Respite | 0.70% | ~968 |
 | Master Recycler | 0.70% | ~968 |
 | Exotic Commodities | 0.70% | ~968 |
 | King's Blade | 0.70% | ~968 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.60% | ~830 |
 | Precision Engineering | 0.60% | ~830 |
 | Treasure Trove | 0.60% | ~830 |
-| Moment of Respite | 0.60% | ~830 |
 | King's Shadow | 0.60% | ~830 |
 | Economy of Scarce | 0.60% | ~830 |
 | Jackpot! | 0.50% | ~692 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,337 (Ranked 77)  
-Completed: 174 (0.13%) (Ranked 250)  
+Progressed: 138,339 (Ranked 77)  
+Completed: 175 (0.13%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,10 +312,10 @@ Completed: 174 (0.13%) (Ranked 250)
 | 2023-10-27 | 138,230 | 172 |
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
-| 2023-10-30 | 138,337 | 174 |
+| 2023-10-30 | 138,339 | 175 |
 ## Awards
 Max (Great for Beginners): 4,807  (Ranked 73)  
-Sum: 27,465 (Ranked 51)  
+Sum: 27,466 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 22
 | This game has Quickly Understood Controls | 4,020 |
 | This game has Diverse Characters | 3,928 |
 | This game is Highly Recommended | 3,769 |
-| This game has Easy Combat | 3,715 |
+| This game has Easy Combat | 3,716 |
 | This game has Playful Visuals | 3,194 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -603,3 +603,4 @@ Diff (max vs sum): 22
 | 2023-10-27 | 3.99 | - | 4,804 | 27,456 |
 | 2023-10-28 | 3.99 | - | 4,804 | 27,461 |
 | 2023-10-29 | 3.99 | - | 4,807 | 27,465 |
+| 2023-10-30 | 3.99 | - | 4,807 | 27,466 |

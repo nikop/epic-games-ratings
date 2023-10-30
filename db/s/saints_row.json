@@ -3969,9 +3969,9 @@
       "Count": 1074
     }
   ],
-  "EOS_Progressed": 76655,
+  "EOS_Progressed": 76657,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 769,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25699,6 +25699,11 @@
       "Time": "2023-10-30T02:21:37.6725961+00:00",
       "NumProgressed": 76655,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-30T03:03:41.6451447+00:00",
+      "NumProgressed": 76657,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25798,7 +25803,7 @@
       "Name": "Showdown",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 13031
+      "UsersEstimate": 13032
     },
     {
       "ID": "complete_first_side_hustle",
@@ -25806,7 +25811,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23763
+      "UsersEstimate": 23764
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -25822,7 +25827,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36028
+      "UsersEstimate": 36029
     },
     {
       "ID": "customize_a_vehicle",
@@ -25838,7 +25843,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28362
+      "UsersEstimate": 28363
     },
     {
       "ID": "cutting_edge_materials",
@@ -25894,7 +25899,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14564
+      "UsersEstimate": 14565
     },
     {
       "ID": "empire_tier_4",
@@ -25918,7 +25923,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25296
+      "UsersEstimate": 25297
     },
     {
       "ID": "fully_complete_a_building",
@@ -25950,7 +25955,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13031
+      "UsersEstimate": 13032
     },
     {
       "ID": "get_fired",
@@ -25958,7 +25963,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27596
+      "UsersEstimate": 27597
     },
     {
       "ID": "hit_max_level",
@@ -25990,7 +25995,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21463
+      "UsersEstimate": 21464
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26006,7 +26011,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26829
+      "UsersEstimate": 26830
     },
     {
       "ID": "one_third_purple",
@@ -26022,7 +26027,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6132
+      "UsersEstimate": 6133
     },
     {
       "ID": "prank_coop_partner",
@@ -26094,7 +26099,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32195
+      "UsersEstimate": 32196
     },
     {
       "ID": "whole_map_purple",
@@ -26110,7 +26115,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3380
+      "UsersEstimate": 3381
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -26133,13 +26138,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76655,
+      "Progressed": 76657,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48292,
+      "Progressed": 48294,
       "Completed": 4218
     }
   ],
@@ -26147,8 +26152,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-29T12:03:07.1166937+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:21:37.6725951+00:00",
+  "LastChanged_Achievements": "2023-10-30T03:03:41.645144+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:21:01.1981132+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:21:37.6727762+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:03:00.7399605+00:00",
+  "LastUpdate_Achievements": "2023-10-30T03:03:41.645319+00:00"
 }

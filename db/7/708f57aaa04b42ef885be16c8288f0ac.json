@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3273,
+  "EOS_Progressed": 3275,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 2157,
   "EOS_NewCompleters": 1,
@@ -1317,6 +1317,11 @@
       "Time": "2023-10-30T02:26:42.4413723+00:00",
       "NumProgressed": 3273,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T03:08:25.8275906+00:00",
+      "NumProgressed": 3275,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1353,7 +1358,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ChewingTheScenery",
@@ -1441,7 +1446,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "JackOfAllTrades",
@@ -1473,7 +1478,7 @@
       "Name": "Nasty!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "NoMoreTotems",
@@ -1513,7 +1518,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TheOldSchoolWay",
@@ -1575,9 +1580,9 @@
       "ID": "YoureStartingToGetIt",
       "SetID": "acc6ea0",
       "Name": "You\u0027re Starting To Get It",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -1600,14 +1605,14 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3273,
+      "Progressed": 3275,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged_Achievements": "2023-10-30T02:26:42.4413715+00:00",
+  "LastChanged_Achievements": "2023-10-30T03:08:25.8275895+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-30T02:18:54.5665254+00:00",
-  "LastUpdate_Achievements": "2023-10-30T02:26:42.4414053+00:00"
+  "LastUpdate_Ratings": "2023-10-30T03:01:13.4159309+00:00",
+  "LastUpdate_Achievements": "2023-10-30T03:08:25.8276262+00:00"
 }
