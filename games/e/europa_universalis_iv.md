@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,712 |
-| Until death do us apart | 4.00% | ~17,712 |
-| Victorious! | 4.00% | ~17,712 |
-| That's a Grand Navy | 3.00% | ~13,284 |
-| That is mine! | 3.00% | ~13,284 |
+| That's a Grand Army | 4.00% | ~17,713 |
+| Until death do us apart | 4.00% | ~17,713 |
+| Victorious! | 4.00% | ~17,713 |
+| That's a Grand Navy | 3.00% | ~13,285 |
+| That is mine! | 3.00% | ~13,285 |
 | Brothers in Arms | 2.00% | ~8,856 |
 | Cold War | 2.00% | ~8,856 |
 | For the Glory | 2.00% | ~8,856 |
@@ -23,9 +23,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,428 |
 | Truly Divine Ruler | 1.00% | ~4,428 |
 | Blockader | 0.90% | ~3,985 |
-| Double the Love | 0.80% | ~3,542 |
-| Royal Authority | 0.80% | ~3,542 |
-| Total Control | 0.80% | ~3,542 |
+| Double the Love | 0.80% | ~3,543 |
+| Royal Authority | 0.80% | ~3,543 |
+| Total Control | 0.80% | ~3,543 |
 | My armies are invincible! | 0.70% | ~3,100 |
 | Agressive Expander | 0.60% | ~2,657 |
 | Azur semé de lis or | 0.50% | ~2,214 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 442,797 (Ranked 41)  
+Progressed: 442,824 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,21 +554,21 @@ Completed: 1 (0.00%) (Ranked 332)
 | 2023-10-27 | 440,786 | 1 |
 | 2023-10-28 | 441,735 | 1 |
 | 2023-10-29 | 442,673 | 1 |
-| 2023-10-30 | 442,797 | 1 |
+| 2023-10-30 | 442,824 | 1 |
 ## Awards
 Max (Educational): 6,736  (Ranked 55)  
-Sum: 55,377 (Ranked 24)  
+Sum: 55,408 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,736 |
+| This game has Diverse Characters | 6,443 |
 | This game is Highly Recommended | 6,427 |
-| This game has Diverse Characters | 6,422 |
 | This game has Challenging Combat | 6,377 |
 | This game is Extremely Fun | 6,352 |
 | This game is Relaxing | 6,196 |
 | This game has Competitive Players | 6,041 |
-| This game has Amazing Storytelling | 5,623 |
+| This game has Amazing Storytelling | 5,633 |
 | This game has Amazing Characters | 5,203 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -860,4 +860,4 @@ Diff (max vs sum): 31
 | 2023-10-27 | 4.69 | - | 6,700 | 55,068 |
 | 2023-10-28 | 4.69 | - | 6,718 | 55,220 |
 | 2023-10-29 | 4.69 | - | 6,736 | 55,365 |
-| 2023-10-30 | 4.69 | - | 6,736 | 55,377 |
+| 2023-10-30 | 4.69 | - | 6,736 | 55,408 |

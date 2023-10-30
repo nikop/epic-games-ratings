@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19229,
+  "EOS_Progressed": 19230,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15707,6 +15707,11 @@
       "Time": "2023-10-30T07:06:30.461027+00:00",
       "NumProgressed": 19229,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-10-30T09:05:27.0162058+00:00",
+      "NumProgressed": 19230,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15774,7 +15779,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10191
+      "UsersEstimate": 10192
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -15782,7 +15787,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -15829,15 +15834,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19229,
+      "Progressed": 19230,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-22T20:58:17.9975571+00:00",
-  "LastChanged_Achievements": "2023-10-30T08:07:18.705732+00:00",
+  "LastChanged_Achievements": "2023-10-30T09:05:27.0162052+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:47.9713426+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:02:13.639961+00:00",
-  "LastUpdate_Achievements": "2023-10-30T08:07:18.7059226+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:00:34.3096121+00:00",
+  "LastUpdate_Achievements": "2023-10-30T09:05:27.0163304+00:00"
 }

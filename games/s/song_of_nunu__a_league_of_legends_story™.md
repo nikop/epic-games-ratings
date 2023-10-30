@@ -31,21 +31,21 @@
 | The Relentless Storm | 35.00% | ~13 |
 | The Finisher | 35.00% | ~13 |
 | A Tragic Reminder | 32.00% | ~12 |
+| Family | 32.00% | ~12 |
+| Biggest Snowball Ever | 32.00% | ~12 |
 | Bullseye | 32.00% | ~12 |
 | Yummy | 32.00% | ~12 |
+| Boosted! | 32.00% | ~12 |
+| Deadliest and Biggest Snowball Ever! | 32.00% | ~12 |
 | So Close | 30.00% | ~11 |
-| Family | 30.00% | ~11 |
-| Biggest Snowball Ever | 30.00% | ~11 |
-| Boosted! | 30.00% | ~11 |
-| Deadliest and Biggest Snowball Ever! | 30.00% | ~11 |
+| Freeze The Ice Witch | 30.00% | ~11 |
 | You Get Used To It | 27.00% | ~10 |
-| Freeze The Ice Witch | 27.00% | ~10 |
 | It Is Not Over | 27.00% | ~10 |
+| We Are Speed | 27.00% | ~10 |
 | Braum's Poro Ranch | 24.00% | ~9 |
+| One From The Heart | 24.00% | ~9 |
 | Handy Yeti | 24.00% | ~9 |
-| We Are Speed | 24.00% | ~9 |
 | It Was Him | 22.00% | ~8 |
-| One From The Heart | 22.00% | ~8 |
 | Rock Star | 22.00% | ~8 |
 | Sneaky Notai | 19.00% | ~7 |
 ## Popularity (Based on EOS Achievements)

@@ -6,21 +6,21 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,152 |
+| A Small Community | 56.00% | ~4,153 |
 | A Grove Replanted | 53.00% | ~3,930 |
-| Fields Watered | 41.00% | ~3,040 |
-| Seekers Found | 41.00% | ~3,040 |
-| Settling the Skies | 41.00% | ~3,040 |
+| Fields Watered | 41.00% | ~3,041 |
+| Seekers Found | 41.00% | ~3,041 |
+| Settling the Skies | 41.00% | ~3,041 |
 | Wind Powered | 40.00% | ~2,966 |
 | It Takes a Village | 34.00% | ~2,521 |
 | On the Town | 28.00% | ~2,076 |
 | Daylight Found | 26.00% | ~1,928 |
 | Irons Scorched | 25.00% | ~1,854 |
 | Islands Connected | 25.00% | ~1,854 |
-| Harp Tuned | 23.00% | ~1,705 |
-| Pyre Ignited | 23.00% | ~1,705 |
-| Travelers Returned | 23.00% | ~1,705 |
-| Hopes Hoisted | 22.00% | ~1,631 |
+| Harp Tuned | 23.00% | ~1,706 |
+| Pyre Ignited | 23.00% | ~1,706 |
+| Travelers Returned | 23.00% | ~1,706 |
+| Hopes Hoisted | 22.00% | ~1,632 |
 | Knowledge Shared | 20.00% | ~1,483 |
 | Relic Finder | 20.00% | ~1,483 |
 | Worthy of the Title | 19.00% | ~1,409 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~148 |
 | A True Challenge | 2.00% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,415 (Ranked 166)  
+Progressed: 7,416 (Ranked 166)  
 Completed: 55 (0.74%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 55 (0.74%) (Ranked 167)
 | 2023-10-27 | 7,401 | 55 |
 | 2023-10-28 | 7,406 | 55 |
 | 2023-10-29 | 7,413 | 55 |
-| 2023-10-30 | 7,415 | 55 |
+| 2023-10-30 | 7,416 | 55 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

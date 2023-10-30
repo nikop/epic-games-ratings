@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315996,
+  "EOS_Progressed": 316006,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3223,
+  "EOS_NewPlayers": 3222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8279,6 +8279,11 @@
       "Time": "2023-10-30T08:07:10.9224581+00:00",
       "NumProgressed": 315996,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T09:05:21.4550767+00:00",
+      "NumProgressed": 316006,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -8315,7 +8320,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 139038
+      "UsersEstimate": 139043
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -8323,7 +8328,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 101119
+      "UsersEstimate": 101122
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -8331,7 +8336,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 66359
+      "UsersEstimate": 66361
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -8339,7 +8344,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 47399
+      "UsersEstimate": 47401
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -8347,7 +8352,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37920
+      "UsersEstimate": 37921
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -8355,7 +8360,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31600
+      "UsersEstimate": 31601
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -8363,7 +8368,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 28440
+      "UsersEstimate": 28441
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -8667,20 +8672,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 161158
+      "UsersEstimate": 161163
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 315996,
+      "Progressed": 316006,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 315985,
+      "Progressed": 315995,
       "Completed": 0
     }
   ],
@@ -8688,8 +8693,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-28T13:02:23.169966+00:00",
-  "LastChanged_Achievements": "2023-10-30T08:07:10.9224573+00:00",
+  "LastChanged_Achievements": "2023-10-30T09:05:21.455076+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.0909695+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:02:27.0025544+00:00",
-  "LastUpdate_Achievements": "2023-10-30T08:07:10.9225617+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:00:44.9483667+00:00",
+  "LastUpdate_Achievements": "2023-10-30T09:05:21.4551821+00:00"
 }

@@ -1,44 +1,44 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.68 (Ranked 247)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,066 |
-| I read Shakespeare and stuff | 64.00% | ~32,483 |
-| Just a sprinkle | 63.00% | ~31,975 |
-| I'm stumped | 61.00% | ~30,960 |
-| Plant get enough | 60.00% | ~30,452 |
-| This is just my weekend vehicle | 58.00% | ~29,437 |
-| It's just the beginning | 58.00% | ~29,437 |
-| Hard work pays off | 53.00% | ~26,900 |
-| It's never too late to farm | 50.00% | ~25,377 |
-| All out of Land | 45.00% | ~22,839 |
-| Field Trip | 44.00% | ~22,332 |
-| I like to switch it up | 40.00% | ~20,302 |
-| Help me to help you | 38.00% | ~19,287 |
-| Ultimutt Pawesomeness | 28.00% | ~14,211 |
-| Van Gogh | 26.00% | ~13,196 |
-| You wood not believe it | 22.00% | ~11,166 |
-| Vehicle fleet | 22.00% | ~11,166 |
-| The plot thickens | 16.00% | ~8,121 |
-| Large-scale supplier | 16.00% | ~8,121 |
-| Well-Oiled Machine | 16.00% | ~8,121 |
-| Long haul | 16.00% | ~8,121 |
-| Clucky Streak | 15.00% | ~7,613 |
-| That's a wrap | 15.00% | ~7,613 |
-| Fix me up | 13.00% | ~6,598 |
-| Rock on | 12.00% | ~6,090 |
-| Highly cultivated | 11.00% | ~5,583 |
-| It's sow easy | 11.00% | ~5,583 |
-| Giddy-up! | 10.00% | ~5,075 |
+| Own use | 75.00% | ~38,070 |
+| I read Shakespeare and stuff | 64.00% | ~32,486 |
+| Just a sprinkle | 63.00% | ~31,979 |
+| I'm stumped | 61.00% | ~30,964 |
+| Plant get enough | 60.00% | ~30,456 |
+| This is just my weekend vehicle | 58.00% | ~29,441 |
+| It's just the beginning | 58.00% | ~29,441 |
+| Hard work pays off | 53.00% | ~26,903 |
+| It's never too late to farm | 50.00% | ~25,380 |
+| All out of Land | 45.00% | ~22,842 |
+| Field Trip | 44.00% | ~22,334 |
+| I like to switch it up | 40.00% | ~20,304 |
+| Help me to help you | 38.00% | ~19,289 |
+| Ultimutt Pawesomeness | 28.00% | ~14,213 |
+| Van Gogh | 26.00% | ~13,198 |
+| You wood not believe it | 22.00% | ~11,167 |
+| Vehicle fleet | 22.00% | ~11,167 |
+| The plot thickens | 16.00% | ~8,122 |
+| Large-scale supplier | 16.00% | ~8,122 |
+| Well-Oiled Machine | 16.00% | ~8,122 |
+| Long haul | 16.00% | ~8,122 |
+| Clucky Streak | 15.00% | ~7,614 |
+| That's a wrap | 15.00% | ~7,614 |
+| Fix me up | 13.00% | ~6,599 |
+| Rock on | 12.00% | ~6,091 |
+| Highly cultivated | 11.00% | ~5,584 |
+| It's sow easy | 11.00% | ~5,584 |
+| Giddy-up! | 10.00% | ~5,076 |
 | Cowherd | 7.00% | ~3,553 |
-| Fluffyness | 6.00% | ~3,045 |
-| Road Trip | 6.00% | ~3,045 |
-| Helper A does not stop … ever | 6.00% | ~3,045 |
-| Bringing in the Honey | 6.00% | ~3,045 |
+| Fluffyness | 6.00% | ~3,046 |
+| Road Trip | 6.00% | ~3,046 |
+| Helper A does not stop … ever | 6.00% | ~3,046 |
+| Bringing in the Honey | 6.00% | ~3,046 |
 | Three little piggies… | 4.00% | ~2,030 |
 | Game on | 4.00% | ~2,030 |
 | Pretty colourful | 0.80% | ~406 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~203 |
 | Raisin the stakes | 0.30% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,754 (Ranked 107)  
+Progressed: 50,760 (Ranked 107)  
 Completed: 6 (0.01%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,22 +243,22 @@ Completed: 6 (0.01%) (Ranked 312)
 | 2023-10-27 | 50,603 | 6 |
 | 2023-10-28 | 50,669 | 6 |
 | 2023-10-29 | 50,745 | 6 |
-| 2023-10-30 | 50,754 | 6 |
+| 2023-10-30 | 50,760 | 6 |
 ## Awards
-Max (Great for Beginners): 5,315  (Ranked 70)  
-Sum: 41,818 (Ranked 33)  
+Max (Great for Beginners): 5,331  (Ranked 70)  
+Sum: 41,849 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,315 |
+| This game is Great for Beginners | 5,331 |
 | This game has Diverse Characters | 4,383 |
 | This game is Educational | 4,279 |
 | This game is Relaxing | 4,221 |
 | This game has Quickly Understood Controls | 4,193 |
-| This game is Highly Recommended | 4,154 |
+| This game is Highly Recommended | 4,162 |
 | This game is Extremely Fun | 4,105 |
 | This game has Amazing Storytelling | 3,985 |
-| This game has Amazing Characters | 3,638 |
+| This game has Amazing Characters | 3,645 |
 | This game has a Creative Community | 3,545 |
 | This game has Obsessive Gameplay | 2,386 |
 | This game has Easy Combat | 1,816 |
@@ -551,3 +551,4 @@ Diff (max vs sum): 37
 | 2023-10-27 | 4.68 | - | 5,290 | 41,727 |
 | 2023-10-28 | 4.68 | - | 5,301 | 41,764 |
 | 2023-10-29 | 4.69 | - | 5,315 | 41,818 |
+| 2023-10-30 | 4.68 | - | 5,331 | 41,849 |

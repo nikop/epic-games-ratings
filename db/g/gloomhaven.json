@@ -2285,9 +2285,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 17158,
+  "EOS_Progressed": 17159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1665,
+  "EOS_NewPlayers": 1655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7295,6 +7295,11 @@
       "Time": "2023-10-30T08:05:15.0269702+00:00",
       "NumProgressed": 17158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T09:03:59.3983646+00:00",
+      "NumProgressed": 17159,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7539,7 +7544,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5147
+      "UsersEstimate": 5148
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7651,7 +7656,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "Achievement_Trophy45",
@@ -7794,7 +7799,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 17158,
+      "Progressed": 17159,
       "Completed": 1
     }
   ],
@@ -7802,8 +7807,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-29T16:01:01.5858207+00:00",
-  "LastChanged_Achievements": "2023-10-30T08:05:15.0269696+00:00",
+  "LastChanged_Achievements": "2023-10-30T09:03:59.398364+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-10-30T08:02:23.8073363+00:00",
-  "LastUpdate_Achievements": "2023-10-30T08:05:15.0271788+00:00"
+  "LastUpdate_Ratings": "2023-10-30T09:00:41.700259+00:00",
+  "LastUpdate_Achievements": "2023-10-30T09:03:59.3984714+00:00"
 }

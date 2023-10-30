@@ -5,36 +5,36 @@ Rating: 4.43 (Ranked 684)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,430 |
-| Ranidaphobia | 77.00% | ~1,197 |
-| Aspiring Editor | 74.00% | ~1,150 |
-| Gun for Hire | 69.00% | ~1,072 |
-| I am the law! | 63.00% | ~979 |
-| Lumberjack | 52.00% | ~808 |
-| Croaked | 48.00% | ~746 |
-| Limp Richard | 48.00% | ~746 |
-| Exorcist | 47.00% | ~730 |
-| From Darkness to Light | 47.00% | ~730 |
-| Editor Adept | 46.00% | ~715 |
-| Giant Killer | 45.00% | ~699 |
-| Sensei | 43.00% | ~668 |
-| Firestarter | 41.00% | ~637 |
-| The meaning of Kain | 41.00% | ~637 |
-| Technophobe | 40.00% | ~622 |
-| Recycler | 39.00% | ~606 |
-| Are you not entertained? | 35.00% | ~544 |
-| Ganglord | 34.00% | ~528 |
-| Jarhead | 34.00% | ~528 |
-| Infiltrator | 34.00% | ~528 |
-| Pushing Daisy | 32.00% | ~497 |
+| First Blood | 91.00% | ~1,416 |
+| Ranidaphobia | 77.00% | ~1,198 |
+| Aspiring Editor | 74.00% | ~1,151 |
+| Gun for Hire | 69.00% | ~1,074 |
+| I am the law! | 63.00% | ~980 |
+| Lumberjack | 52.00% | ~809 |
+| Croaked | 48.00% | ~747 |
+| Limp Richard | 48.00% | ~747 |
+| Exorcist | 47.00% | ~731 |
+| From Darkness to Light | 47.00% | ~731 |
+| Editor Adept | 46.00% | ~716 |
+| Giant Killer | 45.00% | ~700 |
+| Sensei | 43.00% | ~669 |
+| Firestarter | 41.00% | ~638 |
+| The meaning of Kain | 41.00% | ~638 |
+| Recycler | 39.00% | ~607 |
+| Technophobe | 39.00% | ~607 |
+| Are you not entertained? | 35.00% | ~545 |
+| Ganglord | 34.00% | ~529 |
+| Jarhead | 34.00% | ~529 |
+| Infiltrator | 34.00% | ~529 |
+| Pushing Daisy | 32.00% | ~498 |
 | Experienced | 31.00% | ~482 |
 | Hold The Line | 31.00% | ~482 |
 | Endgame | 27.00% | ~420 |
-| Savior | 27.00% | ~420 |
-| There Can Be Only One! | 25.00% | ~388 |
+| Savior | 26.00% | ~405 |
+| There Can Be Only One! | 25.00% | ~389 |
 | Silent but Violent | 24.00% | ~373 |
 | Chain Killer | 22.00% | ~342 |
-| The Watchers | 21.00% | ~326 |
+| The Watchers | 21.00% | ~327 |
 | Commando | 16.00% | ~249 |
 | Dr Jones | 16.00% | ~249 |
 | Newtonian Knockout | 16.00% | ~249 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 684)
 | QA Has Suffered! (Redux) | 0.80% | ~12 |
 | Goaaaaal! | 0.70% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,554 (Ranked 227)  
+Progressed: 1,556 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 1,522 | 0 |
 | 2023-10-28 | 1,535 | 0 |
 | 2023-10-29 | 1,553 | 0 |
-| 2023-10-30 | 1,554 | 0 |
+| 2023-10-30 | 1,556 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

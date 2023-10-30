@@ -7,18 +7,18 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~40,688 |
-| First Steps | 80.00% | ~35,000 |
-| Control the Shadows | 67.00% | ~29,312 |
-| Tools of the Trade | 63.00% | ~27,562 |
-| Apprentice | 60.00% | ~26,250 |
-| Secret Seeker | 57.00% | ~24,937 |
+| First Steps | 80.00% | ~35,001 |
+| Control the Shadows | 67.00% | ~29,313 |
+| Tools of the Trade | 63.00% | ~27,563 |
+| Apprentice | 60.00% | ~26,251 |
+| Secret Seeker | 57.00% | ~24,938 |
 | Forge of Assassins | 55.00% | ~24,063 |
-| Revenant | 52.00% | ~22,750 |
+| Revenant | 52.00% | ~22,751 |
 | I don’t Care! | 45.00% | ~19,688 |
 | Bird of Prey | 37.00% | ~16,188 |
 | Engraved with Power | 32.00% | ~14,000 |
-| Lady | 31.00% | ~13,562 |
-| Fashionable Assassin | 27.00% | ~11,812 |
+| Lady | 31.00% | ~13,563 |
+| Fashionable Assassin | 27.00% | ~11,813 |
 | Apex Predator | 24.00% | ~10,500 |
 | Embers | 22.00% | ~9,625 |
 | Soul Reaver | 22.00% | ~9,625 |
@@ -30,8 +30,8 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,125 |
 | War Engines | 14.00% | ~6,125 |
 | Signature Move | 14.00% | ~6,125 |
-| Ruse | 11.00% | ~4,812 |
-| Master Ninja | 11.00% | ~4,812 |
+| Ruse | 11.00% | ~4,813 |
+| Master Ninja | 11.00% | ~4,813 |
 | Hatching | 10.00% | ~4,375 |
 | Bonds | 9.00% | ~3,938 |
 | Get Over Here | 9.00% | ~3,938 |
@@ -45,13 +45,13 @@ Number of Ratings: 88  (23.09.2022)
 | Left Behind | 4.00% | ~1,750 |
 | Secrets of the Earth | 4.00% | ~1,750 |
 | Heart of Fire | 4.00% | ~1,750 |
-| The Lion’s Den | 3.00% | ~1,312 |
-| Forest Spirits | 3.00% | ~1,312 |
+| The Lion’s Den | 3.00% | ~1,313 |
+| Forest Spirits | 3.00% | ~1,313 |
 | Hot Potato | 2.00% | ~875 |
 | Legacy | 2.00% | ~875 |
 | Anger Management | 1.00% | ~438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,750 (Ranked 112)  
+Progressed: 43,751 (Ranked 112)  
 Completed: 239 (0.55%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 239 (0.55%) (Ranked 183)
 | 2023-10-27 | 43,709 | 239 |
 | 2023-10-28 | 43,730 | 239 |
 | 2023-10-29 | 43,749 | 239 |
-| 2023-10-30 | 43,750 | 239 |
+| 2023-10-30 | 43,751 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
