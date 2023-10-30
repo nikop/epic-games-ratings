@@ -653,7 +653,7 @@
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | - | - | - | - |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | - | - | - |
 | [CyVenge](games/1/1afacdeac732490287b58dc04a7ff100.md) | - | - | - | - |
-| [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 730 | 1,044 | 146 |
+| [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 730 | 1,044 | 147 |
 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 801 | 0 | 542 |
 | [Damn Zombies](games/d/damn_zombies.md) | - | - | - | - |
 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 478 | 52 | 414 |
@@ -950,7 +950,7 @@
 | [Everlasting Guilt](games/e/everlasting_guilt.md) | - | - | 0 | - |
 | [Everything](games/e/everything.md) | 4.53 | 529 | 0 | 542 |
 | [Everything is going to be OK](games/e/everything_is_going_to_be_ok.md) | - | - | 0 | - |
-| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 770 | 12,734 | 32 |
+| [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 770 | 12,736 | 32 |
 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 152 | 0 | 542 |
 | [Evil Wizard](games/6/663ea0c5bcaa43fc8127b466ac781ac5.md) | - | - | 0 | - |
 | [Eville](games/e/eville.md) | - | - | - | - |
@@ -1162,7 +1162,7 @@
 | [Ghost Master](games/g/ghost_master.md) | - | - | 0 | - |
 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 494 | 1,613 | 123 |
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 478 | 0 | 542 |
-| [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 578 | 293 | 245 |
+| [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 578 | 297 | 244 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 653 | 111 | 339 |
 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 182 | 514 | 204 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | - | - | 0 | - |
@@ -1325,7 +1325,7 @@
 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 152 | 0 | 542 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 494 | 161 | 304 |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | - | - | - | - |
-| [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 118 | 4,914 | 72 |
+| [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 118 | 4,931 | 72 |
 | [Horror Ken](games/4/4f747a5a195749208333282fa8ec4d80.md) | - | - | - | - |
 | [Horror Story: Hallowseed](games/h/horror_story__hallowseed.md) | - | - | 0 | - |
 | [HORROR TALES The Wine](games/h/horror_tales_the_wine.md) | - | - | 0 | - |
@@ -1459,8 +1459,8 @@
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 440 | 39 | 451 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
 | [Joyville](games/8/828033f9503242d5aded3a1a0f3d3c91.md) | - | - | 0 | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 359 | 593 | 192 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 152 | 723 | 176 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 846 | 3,831 | 85 |
@@ -1701,7 +1701,7 @@
 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 170 | 624 | 187 |
 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 529 | 1,489 | 129 |
 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 28 | 12,879 | 31 |
-| [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 103 | 1,687 | 121 |
+| [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 103 | 1,697 | 121 |
 | [Mashed](games/m/mashed.md) | - | - | 0 | - |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | - | - | 0 | - |
 | [MASKA](games/1/15ea95c8da3d4aea98fabddd7e1b5454.md) | - | - | 0 | - |
@@ -1854,7 +1854,7 @@
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | - | - | - | - |
 | [NAIRI: Rising Tide](games/n/nairi__rising_tide.md) | - | - | 0 | - |
 | [NAIRI: Tower of Shirin](games/n/nairi__tower_of_shirin.md) | - | - | 0 | - |
-| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 914 | 209,304 | 5 |
+| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 914 | 209,470 | 5 |
 | [Narita Boy](games/n/narita_boy.md) | - | - | 0 | - |
 | [NASA XOSS MarsXR Editor](games/n/nasa_xoss_marsxr_editor.md) | - | - | 0 | - |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 740 | 11,780 | 35 |
@@ -2027,7 +2027,7 @@
 | [Painter Simulator](games/d/d046aae609604a98868576cbcbc30d59.md) | - | - | - | - |
 | [Painting Werther](games/p/painting_werther.md) | - | - | - | - |
 | [Paladin Dream](games/p/paladin_dream.md) | - | - | 0 | - |
-| [Paladins](games/p/paladins.md) | 4.33 | 801 | 3,761 | 87 |
+| [Paladins](games/p/paladins.md) | 4.33 | 801 | 3,766 | 87 |
 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.34 | 791 | 31 | 482 |
 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | - | - | 0 | - |
 | [Pandemic 1993](games/p/pandemic_1993.md) | - | - | - | - |
@@ -2186,7 +2186,7 @@
 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.45 | 653 | 0 | 542 |
 | [Rain World](games/r/rain_world.md) | 4.88 | 16 | 0 | 542 |
 | [Rainbow Billy: The Curse of the Leviathan](games/r/rainbow_billy__the_curse_of_the_leviathan.md) | - | - | 0 | - |
-| [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 3 | 0 | 542 |
+| [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 3 | 0 | 542 |
 | [RAINSWEPT](games/r/rainswept.md) | - | - | 0 | - |
 | [Raji: An Ancient Epic](games/r/raji__an_ancient_epic.md) | - | - | 0 | - |
 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 669 | 56 | 407 |
@@ -2433,8 +2433,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 193 | 0 | 542 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.41 | 711 | 275 | 254 |
@@ -3095,7 +3095,7 @@
 | [Torch Cave](games/3/3c9e5ab8388f4f179a092f070431ebb0.md) | - | - | - | - |
 | [Torch Cave 2: The Trail of Ashes](games/c/c949fe0c9e7f460fb1a549d2d4d3689e.md) | - | - | - | - |
 | [Torchlight](games/t/torchlight.md) | 4.33 | 801 | 22 | 524 |
-| [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 424 | 1,044 | 146 |
+| [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 424 | 1,045 | 146 |
 | [Tormented Souls](games/t/tormented_souls.md) | - | - | 0 | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | - | - | - | - |
 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 141 | 0 | 542 |

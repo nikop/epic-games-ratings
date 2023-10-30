@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 43.87% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.96% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.95% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.07% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -55,8 +55,8 @@
 | 53 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 7.14% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.89% |
-| 56 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 6.67% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
+| 57 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 6.45% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
@@ -77,7 +77,7 @@
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.48% |
 | 76 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.34% |
-| 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
+| 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
 | 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.02% |
 | 80 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
@@ -159,8 +159,8 @@
 | 155 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
 | 158 | [Hades](games/h/hades.md) | 0.91% |
 | 159 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.87% |
-| 161 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 160 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 160 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.86% |
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.84% |
 | 162 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 164 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -170,7 +170,7 @@
 | 168 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 169 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 170 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.66% |
-| 171 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.64% |
+| 171 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.63% |
 | 172 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 172 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 172 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |

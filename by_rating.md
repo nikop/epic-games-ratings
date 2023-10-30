@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | ------------------ |
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 542 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 542 |
-| 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 542 |
+| 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 542 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,674 | 122 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,334 | 93 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 542 |
@@ -106,7 +106,7 @@
 | 103 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 52 | 414 |
 | 103 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,457 | 38 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,434 | 104 |
-| 103 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,687 | 121 |
+| 103 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,697 | 121 |
 | 103 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 960 | 155 |
 | 103 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 496 |
 | 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,848 | 53 |
@@ -125,7 +125,7 @@
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,035 | 148 |
 | 118 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,033 | 150 |
 | 118 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 23,891 | 17 |
-| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,914 | 72 |
+| 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,931 | 72 |
 | 118 | [Journey](games/j/journey.md) | 4.76 | 0 | 542 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 542 |
 | 118 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 542 |
@@ -434,7 +434,7 @@
 | 424 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.59 | 0 | 542 |
 | 424 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.59 | 47 | 431 |
 | 424 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 363 | 233 |
-| 424 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,044 | 146 |
+| 424 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,045 | 146 |
 | 424 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 542 |
 | 424 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 718 | 178 |
 | 424 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 86 | 373 |
@@ -587,7 +587,7 @@
 | 578 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 91 | 367 |
 | 578 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 542 |
 | 578 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.50 | 0 | 542 |
-| 578 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 293 | 245 |
+| 578 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 297 | 244 |
 | 578 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,941 | 97 |
 | 578 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 113 | 337 |
 | 578 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 542 |
@@ -730,7 +730,7 @@
 | 711 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 542 |
 | 711 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,466 | 131 |
 | 730 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 542 |
-| 730 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,044 | 146 |
+| 730 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,044 | 147 |
 | 730 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 542 |
 | 730 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.40 | 0 | 542 |
 | 730 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.40 | 0 | 542 |
@@ -774,7 +774,7 @@
 | 770 | [Core](games/c/core.md) | 4.36 | 760 | 172 |
 | 770 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 299 |
 | 770 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.36 | 0 | 542 |
-| 770 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,734 | 32 |
+| 770 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,736 | 32 |
 | 770 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 542 |
 | 770 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.36 | 79 | 378 |
 | 770 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 542 |
@@ -806,7 +806,7 @@
 | 801 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.33 | 246 | 265 |
 | 801 | [Filament](games/f/filament.md) | 4.33 | 566 | 198 |
 | 801 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.33 | 0 | 542 |
-| 801 | [Paladins](games/p/paladins.md) | 4.33 | 3,761 | 87 |
+| 801 | [Paladins](games/p/paladins.md) | 4.33 | 3,766 | 87 |
 | 801 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 0 | 542 |
 | 801 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 542 |
 | 801 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 524 |
@@ -916,7 +916,7 @@
 | 914 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 542 |
 | 914 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,886 | 98 |
 | 914 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.18 | 103 | 347 |
-| 914 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 209,304 | 5 |
+| 914 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 209,470 | 5 |
 | 914 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 359 |
 | 914 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 542 |
 | 920 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.17 | 36 | 460 |

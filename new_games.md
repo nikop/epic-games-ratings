@@ -7,14 +7,14 @@
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-10-27 | - |  | - | - |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2023-10-27 | - |  | - | - |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 4 | - | - |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 108,323 | 4.76 | 29 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 108,686 | 4.76 | 29 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 19 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 3 | - | - |
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 12 | - | - |
-| [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 32 | - | 0 |
+| [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 33 | - | 0 |
 | [Birch Simulator](games/9/9d986837984c476195398f37ba7446dd.md) | 2023-10-26 | - |  | - | - |
 | [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 2023-10-26 | 8 (1,000 XP) | 4 | - | - |
-| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 3,273 | - | 0 |
+| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 3,275 | - | 0 |
 | [Hamster on Rails](games/f/fd4730080e1b408dac0303a255fcc3dd.md) | 2023-10-26 | - |  | - | - |
 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 2023-10-26 | - |  | - | 0 |
 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 2023-10-26 | - |  | - | 0 |
@@ -22,17 +22,17 @@
 | [Silent Hunter 5: Battle of the Atlantic Gold Edition](games/e/ecd687d6493b470b91aba584bac9bf3d.md) | 2023-10-25 | - |  | - | 0 |
 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 2023-10-25 | 12 (1,000 XP) | 3 | - | 0 |
 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-10-25 | 18 (1,000 XP) | 4 | - | 0 |
-| [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 19 | - | - |
+| [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 20 | - | - |
 | [Griddlers Victorian Picnic](games/8/8cadff7df9a54fbb9d926d4dd36acb2a.md) | 2023-10-24 | - |  | - | - |
 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 2023-10-24 | - |  | 4.34 | 31 |
 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 2023-10-24 | 31 (1,000 XP) | 20 | - | 0 |
-| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 8,384 | - | 0 |
-| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 173,617 | 4.41 | 53 |
+| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 8,403 | - | 0 |
+| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 173,888 | 4.41 | 53 |
 | [Limerick: Cadence Mansion](games/0/0b842808c1644c4ca9119e1f59cc6840.md) | 2023-10-23 | - |  | - | - |
 | [Lyra](games/4/45e261c3baed4237883e63e6bd26b879.md) | 2023-10-23 | - |  | - | - |
 | [Cooking Trip Collectors Edition](games/3/3a095e0619c447ada63288c5adbee466.md) | 2023-10-22 | - |  | - | 0 |
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 2023-10-21 | - |  | - | - |
-| [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 30 | - | 0 |
+| [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 31 | - | 0 |
 | [Dead Signal](games/6/6ba76052ac68423b90bab9a6aeb52e75.md) | 2023-10-20 | - |  | - | 0 |
 | [Farmer's Life](games/6/6bf555a702044de0aab81d9e3e6427e4.md) | 2023-10-20 | - |  | - | 0 |
 | [Beacon's Bluff](games/1/1ca6e9728fe7438baed142359fbb70ed.md) | 2023-10-20 | - |  | - | - |
@@ -51,7 +51,7 @@
 | [Silent Hunter 4: Wolves of the Pacific GOLD EDITION](games/7/7a7320138b504a38b9fb13f48a6f2249.md) | 2023-10-18 | - |  | - | - |
 | [Time Commando](games/b/ba12e8eb6a7f4f2d803a2bd73dd7efde.md) | 2023-10-18 | - |  | - | - |
 | [CyVenge](games/1/1afacdeac732490287b58dc04a7ff100.md) | 2023-10-18 | - |  | - | - |
-| [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 2023-10-18 | 42 (1,000 XP) | 4,735 | 4.76 | 0 |
+| [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 2023-10-18 | 42 (1,000 XP) | 4,745 | 4.76 | 0 |
 | [Slender The Arrival](games/d/d8a044edf03d410b9880dd7a8950da84.md) | 2023-10-18 | - |  | - | 0 |
 | [DC Dual Force](games/4/405e6edbc5eb46f1bbb9dad2994c20fa.md) | 2023-10-18 | - |  | - | 0 |
 | [Wyvia](games/f/f8746c4784114e1b9d000187539201f4.md) | 2023-10-18 | - |  | - | - |
@@ -77,7 +77,7 @@
 | [Polygon Survival](games/e/e9232f2161dd47bd8d3ed6218f562013.md) | 2023-10-14 | - |  | - | 0 |
 | [Silent Hunter 3 Standard Edition](games/a/aec7faa00f9c406bb5427f0e0e0706ba.md) | 2023-10-13 | - |  | - | 0 |
 | [Ancient Battle Rome](games/7/7cc689908d9e4ec28716dc5b8fbd1ae0.md) | 2023-10-13 | - |  | - | 0 |
-| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 63 (1,000 XP) | 1,205 | 4.18 | 103 |
+| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 63 (1,000 XP) | 1,206 | 4.18 | 103 |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-13 | 24 (1,000 XP) | 0 | - | - |
 | [1775 Rebellion](games/d/d155880c8bd146dcbaeac93796be53d6.md) | 2023-10-13 | - |  | - | - |
 | [Tank Battle North Africa](games/3/3e6d17638fed463b9384aa5f98ab6fce.md) | 2023-10-13 | - |  | - | 0 |
