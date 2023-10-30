@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 60,
@@ -1257,9 +1257,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 233955,
+  "EOS_Progressed": 233961,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1406,
+  "EOS_NewPlayers": 1407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16602,6 +16602,11 @@
       "Time": "2023-10-29T23:08:12.4714356+00:00",
       "NumProgressed": 233955,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-30T00:08:08.9899264+00:00",
+      "NumProgressed": 233961,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17013,7 +17018,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14037
+      "UsersEstimate": 14038
     },
     {
       "ID": "DwarfElf15Support",
@@ -17061,7 +17066,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79545
+      "UsersEstimate": 79547
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17316,21 +17321,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 233955,
+      "Progressed": 233961,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 233955,
+      "Progressed": 233961,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-29T20:59:38.5969149+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:08:12.471435+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:08:08.9899259+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:59:44.0011498+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:08:12.471731+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:59:44.7517122+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:08:08.9901377+00:00"
 }

@@ -13,7 +13,7 @@ Rating: 4.24 (Ranked 869)
 | Sleeping With The Fishes | 36.00% | ~755 |
 | Overheated | 30.00% | ~629 |
 | High Performance | 30.00% | ~629 |
-| Powered Up | 28.00% | ~587 |
+| Powered Up | 29.00% | ~608 |
 | Studied The Blade | 25.00% | ~524 |
 | Home Invasion | 23.00% | ~482 |
 | Luminary | 23.00% | ~482 |
@@ -64,7 +64,7 @@ Rating: 4.24 (Ranked 869)
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,096 (Ranked 212)  
-Completed: 13 (0.62%) (Ranked 171)  
+Completed: 13 (0.62%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -853,9 +853,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6157,
+  "EOS_Progressed": 6158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8943,6 +8943,11 @@
       "Time": "2023-10-29T22:09:43.4425825+00:00",
       "NumProgressed": 6157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T00:09:29.9071964+00:00",
+      "NumProgressed": 6158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -8954,7 +8959,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4864
+      "UsersEstimate": 4865
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -8970,7 +8975,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -8994,7 +8999,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 3694
+      "UsersEstimate": 3695
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -9002,15 +9007,15 @@
       "Name": "More Fish in the Sea",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3448
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9018,7 +9023,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -9066,7 +9071,7 @@
       "Name": "Going for Gold",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -9114,7 +9119,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -9122,7 +9127,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -9233,13 +9238,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6157,
+      "Progressed": 6158,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5529,
+      "Progressed": 5530,
       "Completed": 112
     }
   ],
@@ -9247,8 +9252,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:09:33.3107202+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:09:29.9071954+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:02:29.1043792+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:09:33.3108204+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:02:29.1283678+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:09:29.9072948+00:00"
 }

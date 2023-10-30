@@ -7693,9 +7693,9 @@
       "Count": 3490
     }
   ],
-  "EOS_Progressed": 233200,
+  "EOS_Progressed": 233203,
   "EOS_Completed": 2400,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29188,6 +29188,11 @@
       "Time": "2023-10-29T23:07:02.0963067+00:00",
       "NumProgressed": 233200,
       "NumCompleted": 2400
+    },
+    {
+      "Time": "2023-10-30T00:06:59.288293+00:00",
+      "NumProgressed": 233203,
+      "NumCompleted": 2400
     }
   ],
   "TotalAchievements": 528,
@@ -33221,9 +33226,9 @@
       "ID": "objective_completed_1375",
       "SetID": "415jc5c",
       "Name": "Rocky Reception",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1376",
@@ -33422,21 +33427,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199474,
+      "Progressed": 199477,
       "Completed": 3707
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233200,
+      "Progressed": 233203,
       "Completed": 2400
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-29T18:57:44.1831273+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:07:02.0963059+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:06:59.2882922+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:58:28.8432134+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:07:02.1017991+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:58:21.9801261+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:06:59.2919634+00:00"
 }

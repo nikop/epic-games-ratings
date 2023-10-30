@@ -3132,9 +3132,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 290
     },
     {
       "ID": "achievement_79",
@@ -3268,9 +3268,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_94",
@@ -3336,8 +3336,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:07:09.9925568+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:07:06.2755024+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:00:31.9052572+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:07:09.9928244+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:00:28.0122286+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:07:06.2758014+00:00"
 }

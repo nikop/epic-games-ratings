@@ -14,8 +14,8 @@
 | A Little Renovating | 34.00% | ~14 |
 | It's a Sign! | 32.00% | ~13 |
 | Deflect This! | 29.00% | ~12 |
+| My Precious Gems! | 22.00% | ~9 |
 | Just Some Improvements | 22.00% | ~9 |
-| My Precious Gems! | 20.00% | ~8 |
 | A Little Extra Love | 20.00% | ~8 |
 | An Unexpected Visitor | 20.00% | ~8 |
 | Final Announcement | 20.00% | ~8 |

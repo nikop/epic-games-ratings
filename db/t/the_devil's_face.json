@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 504,
-  "EOS_Completed": 3,
+  "EOS_Progressed": 505,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 63,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2184,6 +2184,11 @@
       "Time": "2023-10-29T23:07:29.2114192+00:00",
       "NumProgressed": 504,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-30T00:07:25.7306919+00:00",
+      "NumProgressed": 505,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 14,
@@ -2275,7 +2280,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2306,14 +2311,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 504,
-      "Completed": 3
+      "Progressed": 505,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:07:29.2114183+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:07:25.7306915+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:01:18.1465226+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:07:29.2114641+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:01:15.4846702+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:07:25.7307177+00:00"
 }

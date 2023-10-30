@@ -5,8 +5,8 @@ Rating: 4.39 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,937 |
-| Predator I | 22.00% | ~56,729 |
+| Survivor | 31.00% | ~79,938 |
+| Predator I | 22.00% | ~56,730 |
 | Fixer I | 10.00% | ~25,786 |
 | A week in Century City | 10.00% | ~25,786 |
 | The Wait | 7.00% | ~18,050 |
@@ -14,10 +14,10 @@ Rating: 4.39 (Ranked 740)
 | Cleaning Company | 6.00% | ~15,472 |
 | Well-oiled machine | 5.00% | ~12,893 |
 | Saver I | 5.00% | ~12,893 |
-| The Ascent | 4.00% | ~10,314 |
-| Pacifist | 4.00% | ~10,314 |
-| Vandalism | 4.00% | ~10,314 |
-| Capitalist I | 4.00% | ~10,314 |
+| The Ascent | 4.00% | ~10,315 |
+| Pacifist | 4.00% | ~10,315 |
+| Vandalism | 4.00% | ~10,315 |
+| Capitalist I | 4.00% | ~10,315 |
 | Fixer II | 3.00% | ~7,736 |
 | Adrenaline | 3.00% | ~7,736 |
 | By a hair | 2.00% | ~5,157 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 740)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,861 (Ranked 53)  
+Progressed: 257,864 (Ranked 53)  
 Completed: 3 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,9 +255,10 @@ Completed: 3 (0.00%) (Ranked 332)
 | 2023-10-27 | 257,782 | 3 |
 | 2023-10-28 | 257,816 | 3 |
 | 2023-10-29 | 257,861 | 3 |
+| 2023-10-30 | 257,864 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 431)  
-Sum: 304 (Ranked 353)  
+Sum: 305 (Ranked 353)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +271,7 @@ Diff (max vs sum): 78
 | This game has a Competitive Community | 29 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Competitive Players | 25 |
-| This game is Extremely Fun | 22 |
+| This game is Extremely Fun | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -429,3 +430,4 @@ Diff (max vs sum): 78
 | 2023-10-26 | 4.40 | 47 | 302 |
 | 2023-10-27 | 4.40 | 47 | 304 |
 | 2023-10-28 | 4.39 | 47 | 304 |
+| 2023-10-30 | 4.39 | 47 | 305 |

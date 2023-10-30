@@ -4031,9 +4031,9 @@
       "Count": 390
     }
   ],
-  "EOS_Progressed": 11919,
+  "EOS_Progressed": 11921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14736,6 +14736,11 @@
       "Time": "2023-10-29T23:05:56.8083622+00:00",
       "NumProgressed": 11919,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T00:05:53.0214978+00:00",
+      "NumProgressed": 11921,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14755,7 +14760,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14763,7 +14768,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "04_FithCrusade",
@@ -14947,7 +14952,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "28_GreatUpstart",
@@ -15115,7 +15120,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "49_Flame",
@@ -15674,21 +15679,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10701,
+      "Progressed": 10703,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11919,
+      "Progressed": 11921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-28T23:02:55.2016849+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:05:56.8083614+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:05:53.0214972+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:57:36.3959438+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:05:56.8086051+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:57:30.6461412+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:05:53.0217498+00:00"
 }

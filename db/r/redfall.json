@@ -2488,9 +2488,9 @@
       "ID": "Achievement_017",
       "SetID": "6b34g18",
       "Name": "Bad Wiring",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_018",
@@ -2576,9 +2576,9 @@
       "ID": "Achievement_028",
       "SetID": "6b34g18",
       "Name": "You Clean It Up",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_029",
@@ -2905,8 +2905,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:04:19.6379031+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:04:14.5569362+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:31.9378506+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:58:43.1667131+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:04:19.6379863+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:58:35.3474328+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:04:14.5571004+00:00"
 }

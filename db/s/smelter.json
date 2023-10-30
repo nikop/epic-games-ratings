@@ -129,9 +129,9 @@
       "ID": "SMELTER_BADBOY",
       "SetID": "1g58k92",
       "Name": "My Precious Gems!",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SMELTER_BLUEPRINTS",
@@ -530,8 +530,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:06:50.013167+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:06:46.4591292+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.8660764+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:59:17.3976221+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:06:50.0132278+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:59:11.3075109+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:06:46.4592078+00:00"
 }

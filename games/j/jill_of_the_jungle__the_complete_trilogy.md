@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to the Jungle | 100.00% | ~1,906 |
-| Jill the Bold | 12.00% | ~229 |
+| Jill the Bold | 13.00% | ~248 |
 | Jill the Brave | 10.00% | ~191 |
 | Jill the Courageous | 9.00% | ~172 |
 | Jill the Champion | 8.00% | ~152 |

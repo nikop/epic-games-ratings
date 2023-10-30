@@ -535,9 +535,9 @@
       "ID": "18",
       "SetID": "39djiaj",
       "Name": "Bedroom Secret Spot",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "19",
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:08:44.1132331+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:08:40.6233233+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:28.9364056+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:03:34.6588756+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:08:44.113267+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:03:31.5762895+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:08:40.6233597+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-10-29T19:08:59.3664303+00:00",
       "NumProgressed": 109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-30T00:10:16.9375549+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -583,7 +588,7 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 76
     },
@@ -593,7 +598,7 @@
       "Name": "Defeat Ingla",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
@@ -617,13 +622,13 @@
       "Name": "Bringing guns to a sword fight",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
       "UsersEstimate": 94
     },
@@ -705,7 +710,7 @@
       "Name": "Ancient Powers",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
@@ -841,15 +846,15 @@
       "Name": "But what of the Acreans?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
       "SetID": "7i20me3",
       "Name": "A Deceiving Gift",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
@@ -857,13 +862,13 @@
       "Name": "Unveiling the Truth",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -912,22 +917,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 107,
-      "Completed": 107
+      "Progressed": 108,
+      "Completed": 108
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:10:19.5690877+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:10:16.9375541+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.6225511+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:02:55.8649874+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:10:19.5691432+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:02:55.134334+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:10:16.937601+00:00"
 }

@@ -16,9 +16,9 @@ Rating: 4.62 (Ranked 359)
 | The Harder They Fall | 21.00% | ~192 |
 | No, Thanks! | 21.00% | ~192 |
 | Breaking Down Barriers | 21.00% | ~192 |
+| The Wicked Twins | 21.00% | ~192 |
 | The Prince in Heels | 21.00% | ~192 |
 | Immaculate Aim | 21.00% | ~192 |
-| The Wicked Twins | 20.00% | ~183 |
 | Honest Mistake | 20.00% | ~183 |
 | Fast Learner | 20.00% | ~183 |
 | Like Clockwork | 19.00% | ~173 |
@@ -60,7 +60,7 @@ Rating: 4.62 (Ranked 359)
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 913 (Ranked 252)  
-Completed: 6 (0.66%) (Ranked 169)  
+Completed: 6 (0.66%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

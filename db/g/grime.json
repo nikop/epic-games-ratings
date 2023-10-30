@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 439,
+  "Ranking_Rating": 440,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
@@ -1291,9 +1291,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155483,
+  "EOS_Progressed": 155489,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1426,
+  "EOS_NewPlayers": 1420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13591,6 +13591,11 @@
       "Time": "2023-10-29T23:06:36.6790203+00:00",
       "NumProgressed": 155483,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-30T00:06:32.7542007+00:00",
+      "NumProgressed": 155489,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13666,7 +13671,7 @@
       "Name": "Taste",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -13714,7 +13719,7 @@
       "Name": "Glare",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -13818,7 +13823,7 @@
       "Name": "Imprint",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4664
+      "UsersEstimate": 4665
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -13969,21 +13974,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155066,
+      "Progressed": 155072,
       "Completed": 1181
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155483,
+      "Progressed": 155489,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-29T22:57:45.5138415+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:06:36.67902+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:06:32.7542001+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:57:45.5138421+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:06:36.6792707+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:57:40.3200994+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:06:32.7544019+00:00"
 }

@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.20% | ~399 |
 | Elturel's Last Stand | 0.20% | ~399 |
 | Pure Energy | 0.20% | ~466 |
+| Rocky Reception | 0.20% | ~399 |
 | The Hunt for The Last Breath | 0.20% | ~399 |
 | To Infinity's and Beyond | 0.20% | ~399 |
 | Legends and Lore | 0.20% | ~399 |
@@ -521,7 +522,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Goblin Halls: the Next Generation | 0.10% | ~199 |
 | Bazaar Companions | 0.10% | ~199 |
 | Bahamut's Army | 0.10% | ~199 |
-| Rocky Reception | 0.10% | ~199 |
 | Luigi After Hours | 0.10% | ~199 |
 | Rock and Roll | 0.10% | ~199 |
 | Electric Mayhem | 0.10% | ~199 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~199 |
 | All's Well That Ends Well | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,200 (Ranked 61)  
+Progressed: 233,203 (Ranked 61)  
 Completed: 2,400 (1.03%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -728,6 +728,7 @@ Completed: 2,400 (1.03%) (Ranked 150)
 | 2023-10-27 | 232,977 | 2,389 |
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
+| 2023-10-30 | 233,203 | 2,400 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
 Sum: 32,259 (Ranked 41)  

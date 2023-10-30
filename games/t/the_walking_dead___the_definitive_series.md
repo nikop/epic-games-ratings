@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 28)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 532  (Ranked 201)  
-Sum: 791 (Ranked 277)  
+Sum: 792 (Ranked 277)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -76
 | This game has Amazing Storytelling | 36 |
 | This game is Extremely Fun | 33 |
 | This game is Highly Recommended | 31 |
-| This game is Great for Beginners | 29 |
+| This game is Great for Beginners | 30 |
 | This game has Amazing Characters | 26 |
 | This game has Easy Combat | 23 |
 | This game has Unique Visuals | 22 |
@@ -178,4 +178,4 @@ Diff (max vs sum): -76
 | 2023-10-24 | 4.86 | - | 526 | 783 |
 | 2023-10-25 | 4.86 | - | 529 | 787 |
 | 2023-10-28 | 4.86 | - | 530 | 789 |
-| 2023-10-29 | 4.86 | - | 532 | 791 |
+| 2023-10-29 | 4.86 | - | 532 | 792 |

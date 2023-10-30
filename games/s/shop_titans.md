@@ -7,9 +7,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,533 |
+| Titan's First Steps | 4.00% | ~5,533 |
 | Basic in Bulk | 3.00% | ~4,150 |
 | Tinkle of Coins | 3.00% | ~4,150 |
-| Titan's First Steps | 3.00% | ~4,150 |
 | One Easy Payment | 2.00% | ~2,767 |
 | Some Assembly Required | 2.00% | ~2,767 |
 | Disintermediation | 2.00% | ~2,767 |
@@ -44,6 +44,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.90% | ~1,245 |
 | Fated Encounters | 0.90% | ~1,245 |
 | Power of Love | 0.90% | ~1,245 |
+| Trash to Treasure | 0.90% | ~1,245 |
 | Royal Ransom | 0.90% | ~1,245 |
 | Magical Harmony | 0.90% | ~1,245 |
 | A Notch Above the Rest | 0.80% | ~1,107 |
@@ -55,7 +56,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.80% | ~1,107 |
 | Hidden Potential | 0.80% | ~1,107 |
 | Expansion in Session | 0.80% | ~1,107 |
-| Trash to Treasure | 0.80% | ~1,107 |
 | Mammonite | 0.80% | ~1,107 |
 | Seasoned Journeyman | 0.80% | ~1,107 |
 | Black Friday Special | 0.80% | ~1,107 |

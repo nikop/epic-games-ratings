@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469935,
+  "EOS_Progressed": 469936,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20771,6 +20771,11 @@
       "Time": "2023-10-29T23:10:24.9160927+00:00",
       "NumProgressed": 469935,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-30T00:10:21.991071+00:00",
+      "NumProgressed": 469936,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20798,7 +20803,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112784
+      "UsersEstimate": 112785
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -20870,7 +20875,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310157
+      "UsersEstimate": 310158
     },
     {
       "ID": "achievement_story_landa",
@@ -20918,7 +20923,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32895
+      "UsersEstimate": 32896
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -20926,7 +20931,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32895
+      "UsersEstimate": 32896
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -21022,7 +21027,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32895
+      "UsersEstimate": 32896
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -21206,7 +21211,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206771
+      "UsersEstimate": 206772
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21214,7 +21219,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140980
+      "UsersEstimate": 140981
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21413,21 +21418,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13869,
+      "Progressed": 13870,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469935,
+      "Progressed": 469936,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:10:24.9160923+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:10:21.9910701+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:00:33.4303595+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:10:24.9163218+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:00:31.8932131+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:10:21.9914493+00:00"
 }

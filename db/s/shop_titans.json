@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -26893,9 +26893,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1245
     },
     {
       "ID": "gemsspent",
@@ -27253,9 +27253,9 @@
       "ID": "tutorial",
       "SetID": "anfd17p",
       "Name": "Titan\u0027s First Steps",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4150
+      "UsersEstimate": 5533
     },
     {
       "ID": "twinenchant01",
@@ -27341,8 +27341,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-29T17:59:20.4949029+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:06:29.0210548+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:06:25.1642756+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-29T23:00:04.2195433+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:06:29.0213191+00:00"
+  "LastUpdate_Ratings": "2023-10-30T00:00:06.1266276+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:06:25.1652724+00:00"
 }

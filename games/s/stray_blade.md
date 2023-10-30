@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~94 |
-| Tinkerer | 70.00% | ~76 |
+| Self-Defence | 85.00% | ~94 |
+| Tinkerer | 69.00% | ~76 |
 | Welcome to the Club | 39.00% | ~43 |
-| Apprentice | 38.00% | ~41 |
+| Apprentice | 37.00% | ~41 |
 | A new World ahead | 29.00% | ~32 |
 | Can't touch this | 28.00% | ~31 |
 | Don't Cry Wolf | 23.00% | ~25 |
@@ -27,12 +27,12 @@
 | Defeat Uskol | 7.00% | ~8 |
 | Through Dangers Untold | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
-| A Deceiving Gift | 6.00% | ~7 |
-| Defeat Ingla | 5.00% | ~5 |
-| Bringing guns to a sword fight | 5.00% | ~5 |
-| Ancient Powers | 5.00% | ~5 |
-| But what of the Acreans? | 5.00% | ~5 |
-| Unveiling the Truth | 5.00% | ~5 |
+| Defeat Ingla | 5.00% | ~6 |
+| Bringing guns to a sword fight | 5.00% | ~6 |
+| Ancient Powers | 5.00% | ~6 |
+| But what of the Acreans? | 5.00% | ~6 |
+| A Deceiving Gift | 5.00% | ~6 |
+| Unveiling the Truth | 5.00% | ~6 |
 | Wayseeker | 4.00% | ~4 |
 | Pathfinder | 4.00% | ~4 |
 | The End | 4.00% | ~4 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 393)  
+Progressed: 110 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 332)
 | 2023-10-27 | 105 | 0 |
 | 2023-10-28 | 106 | 0 |
 | 2023-10-29 | 109 | 0 |
+| 2023-10-30 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

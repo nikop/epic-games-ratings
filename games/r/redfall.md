@@ -23,7 +23,7 @@ Rating: 3.51 (Ranked 1,026)
 | Heart Attack | 0.90% | ~16 |
 | Neighborhood Revitalization | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
-| Bad Wiring | 0.60% | ~11 |
+| Bad Wiring | 0.70% | ~12 |
 | Sic Transit Umbra | 0.60% | ~11 |
 | Bell-ringer | 0.60% | ~11 |
 | From the Shadows | 0.60% | ~11 |
@@ -32,9 +32,9 @@ Rating: 3.51 (Ranked 1,026)
 | Right This Way | 0.50% | ~9 |
 | Harvest’s End | 0.50% | ~9 |
 | Silence Is Golden | 0.40% | ~7 |
+| You Clean It Up | 0.40% | ~7 |
 | Contingency Plans | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |
-| You Clean It Up | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
 | Check, Please! | 0.30% | ~5 |
 | Starve the Beast | 0.30% | ~5 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1329,7 +1329,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 21406,
+  "EOS_Progressed": 21408,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 1,
@@ -22269,6 +22269,11 @@
       "Time": "2023-10-29T23:06:42.5610842+00:00",
       "NumProgressed": 21406,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-30T00:06:38.8808535+00:00",
+      "NumProgressed": 21408,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 45,
@@ -22304,7 +22309,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 7920
+      "UsersEstimate": 7921
     },
     {
       "ID": "CantRunCantHide",
@@ -22368,7 +22373,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9633
+      "UsersEstimate": 9634
     },
     {
       "ID": "ICallItLuck",
@@ -22416,7 +22421,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 16269
+      "UsersEstimate": 16270
     },
     {
       "ID": "MoreThanHuman",
@@ -22456,7 +22461,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "OutOfOrder",
@@ -22464,7 +22469,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9419
+      "UsersEstimate": 9420
     },
     {
       "ID": "Perfection",
@@ -22472,7 +22477,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "PreempativeStrike",
@@ -22504,7 +22509,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 11559
+      "UsersEstimate": 11560
     },
     {
       "ID": "RunningWild",
@@ -22552,7 +22557,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13058
+      "UsersEstimate": 13059
     },
     {
       "ID": "SwordToAGunfight",
@@ -22576,7 +22581,7 @@
       "Name": "Unstoppable force",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -22600,7 +22605,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 11345
+      "UsersEstimate": 11346
     },
     {
       "ID": "WaveOfMutilation",
@@ -22608,7 +22613,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "WhereAreMyKeys",
@@ -22616,7 +22621,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8562
+      "UsersEstimate": 8563
     },
     {
       "ID": "WhereHeStood",
@@ -22639,21 +22644,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 21406,
+      "Progressed": 21408,
       "Completed": 50
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 21406,
+      "Progressed": 21408,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-10-28T19:57:22.7850041+00:00",
-  "LastChanged_Achievements": "2023-10-29T23:06:42.5610834+00:00",
+  "LastChanged_Achievements": "2023-10-30T00:06:38.880853+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.5772527+00:00",
-  "LastUpdate_Ratings": "2023-10-29T22:58:17.2403571+00:00",
-  "LastUpdate_Achievements": "2023-10-29T23:06:42.561253+00:00"
+  "LastUpdate_Ratings": "2023-10-29T23:58:09.0995068+00:00",
+  "LastUpdate_Achievements": "2023-10-30T00:06:38.8810244+00:00"
 }

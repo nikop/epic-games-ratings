@@ -5,29 +5,29 @@ Rating: 4.55 (Ranked 494)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 102.00% | ~19,066 |
-| Before the Downfall | 97.00% | ~18,131 |
-| Money like Water | 96.00% | ~17,944 |
+| Trevithick's Legacy | 102.00% | ~19,065 |
+| Before the Downfall | 97.00% | ~18,130 |
+| Money like Water | 96.00% | ~17,943 |
 | Minimalist | 94.00% | ~17,570 |
-| Builder | 87.00% | ~16,262 |
-| Eraser | 73.00% | ~13,645 |
-| Pocket of Trains | 68.00% | ~12,711 |
-| Inspector | 62.00% | ~11,589 |
+| Builder | 87.00% | ~16,261 |
+| Eraser | 73.00% | ~13,644 |
+| Pocket of Trains | 68.00% | ~12,710 |
+| Inspector | 62.00% | ~11,588 |
 | Going the Distance | 57.00% | ~10,654 |
 | Oil Baron | 44.00% | ~8,224 |
 | Loads-a-Money | 44.00% | ~8,224 |
-| Helper of the People | 41.00% | ~7,664 |
+| Helper of the People | 41.00% | ~7,663 |
 | Simplification | 35.00% | ~6,542 |
 | Box of Trains | 35.00% | ~6,542 |
 | Let There be Light | 34.00% | ~6,355 |
 | Hot Water | 32.00% | ~5,981 |
-| Indecisive | 31.00% | ~5,795 |
-| The scenic route | 29.00% | ~5,421 |
+| Indecisive | 31.00% | ~5,794 |
+| The scenic route | 29.00% | ~5,420 |
 | Industrialist | 26.00% | ~4,860 |
 | Perfectionist | 25.00% | ~4,673 |
 | 8K is Enough for Everyone | 24.00% | ~4,486 |
 | Trains over Pipes | 24.00% | ~4,486 |
-| Man of Steel | 17.00% | ~3,178 |
+| Man of Steel | 17.00% | ~3,177 |
 | Room Full of Trains | 13.00% | ~2,430 |
 | Investor | 10.00% | ~1,869 |
 | Multiverse | 8.00% | ~1,495 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 494)
 | Overdeer | 0.60% | ~112 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,692 (Ranked 133)  
+Progressed: 18,691 (Ranked 133)  
 Completed: 32 (0.17%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 32 (0.17%) (Ranked 242)
 | 2023-10-27 | 18,734 | 32 |
 | 2023-10-28 | 18,726 | 32 |
 | 2023-10-29 | 18,709 | 32 |
+| 2023-10-30 | 18,691 | 32 |
 ## Awards
 Max (Quickly Understood Controls): 92  (Ranked 366)  
 Sum: 676 (Ranked 296)  

@@ -53,12 +53,12 @@
 | Catharsis | 34.00% | ~290 |
 | Ghost of the Father | 34.00% | ~290 |
 | The Cure | 34.00% | ~290 |
+| Heart of Darkness | 34.00% | ~290 |
 | Shopaholic | 34.00% | ~290 |
 | Archivist | 33.00% | ~281 |
 | Battlemaster | 33.00% | ~281 |
 | Big Game Hunter | 33.00% | ~281 |
 | Revenge! | 33.00% | ~281 |
-| Heart of Darkness | 33.00% | ~281 |
 | Fade Away | 32.00% | ~273 |
 | Agent | 32.00% | ~273 |
 | Driven | 32.00% | ~273 |
@@ -80,8 +80,8 @@
 | Eye of the Hurricane | 26.00% | ~222 |
 | Weapon Specialist | 26.00% | ~222 |
 | World Shaker | 26.00% | ~222 |
+| Liberator | 26.00% | ~222 |
 | Tunnel Rat | 25.00% | ~213 |
-| Liberator | 25.00% | ~213 |
 | Pathfinder | 24.00% | ~205 |
 | Arbiter | 24.00% | ~205 |
 | Lost and Found | 24.00% | ~205 |
