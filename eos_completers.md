@@ -5,9 +5,9 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.62% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.04% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.66% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.62% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.56% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.31% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.25% |
@@ -40,8 +40,8 @@
 | 37 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 10.00% |
 | 39 | [Smelter](games/s/smelter.md) | 9.76% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 41 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 9.38% |
-| 42 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
+| 41 | [greensheen Production](games/g/greensheen_production.md) | 9.09% |
+| 41 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 9.09% |
 | 43 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
@@ -109,7 +109,7 @@
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.63% |
 | 108 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.54% |
+| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.53% |
 | 111 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.52% |
 | 112 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 113 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
@@ -139,9 +139,9 @@
 | 137 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 138 | [Chorus](games/c/chorus.md) | 1.35% |
 | 138 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
-| 138 | [Late Shift](games/l/late_shift.md) | 1.35% |
 | 138 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
-| 142 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
+| 141 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
+| 141 | [Late Shift](games/l/late_shift.md) | 1.34% |
 | 143 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 144 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.28% |
 | 145 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
@@ -181,8 +181,8 @@
 | 179 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 179 | [Eternights](games/e/eternights.md) | 0.58% |
 | 179 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 179 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.58% |
-| 183 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 182 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.57% |
+| 182 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 184 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.56% |
 | 185 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 186 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.54% |
@@ -228,9 +228,9 @@
 | 226 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 226 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.24% |
 | 228 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
-| 228 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.23% |
 | 228 | [Scrapnaut](games/s/scrapnaut.md) | 0.23% |
-| 231 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 230 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 230 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 232 | [Blanc](games/b/blanc.md) | 0.21% |
 | 232 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 232 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
