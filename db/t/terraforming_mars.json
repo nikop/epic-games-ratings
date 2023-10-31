@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 93,
@@ -2989,9 +2989,9 @@
       "Count": 248
     }
   ],
-  "EOS_Progressed": 80905,
+  "EOS_Progressed": 80906,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 796,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -24494,6 +24494,11 @@
       "Time": "2023-10-31T07:09:27.0474731+00:00",
       "NumProgressed": 80905,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-10-31T08:08:23.6106365+00:00",
+      "NumProgressed": 80906,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 30,
@@ -24569,7 +24574,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7281
+      "UsersEstimate": 7282
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -24593,7 +24598,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22653
+      "UsersEstimate": 22654
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -24609,7 +24614,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8091
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -24641,7 +24646,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21035
+      "UsersEstimate": 21036
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -24713,7 +24718,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 8090
+      "UsersEstimate": 8091
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -24744,15 +24749,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80905,
+      "Progressed": 80906,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-31T01:44:42.6901783+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:09:27.0474727+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:08:23.6106357+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.4679734+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:02:28.8200126+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:09:27.047623+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:01:58.1455011+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:08:23.6107941+00:00"
 }

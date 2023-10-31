@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 230,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 107,
@@ -10730,7 +10730,7 @@
   ],
   "EOS_Progressed": 50817,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28539,8 +28539,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-31T00:01:29.805475+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:08:03.238836+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:07:10.7570112+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:20.3592022+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:02:50.7120439+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:08:03.2389718+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:02:12.8164879+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:07:10.7572396+00:00"
 }

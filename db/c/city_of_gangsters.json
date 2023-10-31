@@ -718,9 +718,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 350131,
+  "EOS_Progressed": 350132,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1028,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22643,6 +22643,11 @@
       "Time": "2023-10-31T07:06:43.3285867+00:00",
       "NumProgressed": 350131,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-31T08:05:35.0215404+00:00",
+      "NumProgressed": 350132,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -22742,7 +22747,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28010
+      "UsersEstimate": 28011
     },
     {
       "ID": "ach013",
@@ -22790,7 +22795,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28010
+      "UsersEstimate": 28011
     },
     {
       "ID": "ach019",
@@ -22862,7 +22867,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 161060
+      "UsersEstimate": 161061
     },
     {
       "ID": "ach028",
@@ -22878,7 +22883,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38514
+      "UsersEstimate": 38515
     },
     {
       "ID": "ach030",
@@ -23054,7 +23059,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38514
+      "UsersEstimate": 38515
     },
     {
       "ID": "ach052",
@@ -23293,7 +23298,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 350131,
+      "Progressed": 350132,
       "Completed": 7
     }
   ],
@@ -23301,8 +23306,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-10-29T05:58:12.6225543+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:06:43.3285864+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:05:35.0215398+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:35.1846079+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:59:16.1865581+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:06:43.328809+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:59:05.7502985+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:05:35.0218091+00:00"
 }

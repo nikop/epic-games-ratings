@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 230,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 16,
@@ -6935,9 +6935,9 @@
       "Count": 1056
     }
   ],
-  "EOS_Progressed": 828615,
+  "EOS_Progressed": 828625,
   "EOS_Completed": 191,
-  "EOS_NewPlayers": 5537,
+  "EOS_NewPlayers": 5530,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -25555,6 +25555,11 @@
       "Time": "2023-10-31T07:09:36.2989035+00:00",
       "NumProgressed": 828615,
       "NumCompleted": 191
+    },
+    {
+      "Time": "2023-10-31T08:08:31.186919+00:00",
+      "NumProgressed": 828625,
+      "NumCompleted": 191
     }
   ],
   "TotalAchievements": 75,
@@ -25566,7 +25571,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 198868
+      "UsersEstimate": 198870
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -25606,7 +25611,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24858
+      "UsersEstimate": 24859
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -25662,7 +25667,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49717
+      "UsersEstimate": 49718
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -25670,7 +25675,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24858
+      "UsersEstimate": 24859
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -25862,7 +25867,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49717
+      "UsersEstimate": 49718
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -25902,7 +25907,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 49717
+      "UsersEstimate": 49718
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -26038,7 +26043,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 49717
+      "UsersEstimate": 49718
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -26046,7 +26051,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 24858
+      "UsersEstimate": 24859
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -26134,7 +26139,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24858
+      "UsersEstimate": 24859
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -26165,13 +26170,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 828615,
+      "Progressed": 828625,
       "Completed": 231
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 828615,
+      "Progressed": 828625,
       "Completed": 191
     }
   ],
@@ -26179,8 +26184,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-10-31T01:40:48.9626118+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:09:36.2989031+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:08:31.186918+00:00",
   "LastUpdate_AppInfo": "2023-10-27T05:57:11.9872334+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:57:39.8270204+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:09:36.2990889+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:57:50.2420571+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:08:31.1871546+00:00"
 }

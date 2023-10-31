@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7594,
+  "EOS_Progressed": 7595,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5387,6 +5387,11 @@
       "Time": "2023-10-31T06:09:55.3497613+00:00",
       "NumProgressed": 7594,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T08:10:25.2426497+00:00",
+      "NumProgressed": 7595,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5447,7 +5452,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "CreditsSpent50000",
@@ -5615,7 +5620,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "HSUPurchased1",
@@ -5663,7 +5668,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "InhibitorKills3",
@@ -5767,7 +5772,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "MaxTowersKilled6",
@@ -5831,7 +5836,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "PlayerKills100",
@@ -5990,7 +5995,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7594,
+      "Progressed": 7595,
       "Completed": 1
     }
   ],
@@ -5998,8 +6003,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:11:19.457914+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:10:25.242649+00:00",
   "LastUpdate_AppInfo": "2023-10-24T13:02:23.4820305+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:04:27.1520675+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:11:19.4580325+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:03:39.6449238+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:10:25.2427776+00:00"
 }

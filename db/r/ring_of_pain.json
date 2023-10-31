@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238871,
+  "EOS_Progressed": 238874,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23366,6 +23366,11 @@
       "Time": "2023-10-31T07:11:19.581695+00:00",
       "NumProgressed": 238871,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T08:10:25.3733392+00:00",
+      "NumProgressed": 238874,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -23423,9 +23428,9 @@
       "ID": "CURSEDPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Consecutive Curses",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DAILY7",
@@ -23455,9 +23460,9 @@
       "ID": "DEAL25DAMAGE",
       "SetID": "5l8oe0h",
       "Name": "Heavy Hitter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -23479,9 +23484,9 @@
       "ID": "DEPTH12HARD",
       "SetID": "5l8oe0h",
       "Name": "A Long Climb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DEPTH12MEDIUM",
@@ -23711,9 +23716,9 @@
       "ID": "HIGHDEFENSE",
       "SetID": "5l8oe0h",
       "Name": "Juggernaut",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HIGHHEALTH",
@@ -23783,17 +23788,17 @@
       "ID": "KILL1000",
       "SetID": "5l8oe0h",
       "Name": "Destroy Your Fears",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILL10000",
       "SetID": "5l8oe0h",
       "Name": "Trail Of Death",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILL10ONETURN",
@@ -23839,9 +23844,9 @@
       "ID": "KILLBOSSHARD",
       "SetID": "5l8oe0h",
       "Name": "Overthrown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILLCOMPULSION",
@@ -23855,9 +23860,9 @@
       "ID": "KILLEDSELFWITHITEMS",
       "SetID": "5l8oe0h",
       "Name": "Poor Choices",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILLFROG",
@@ -24023,9 +24028,9 @@
       "ID": "PASSIVEROOM",
       "SetID": "5l8oe0h",
       "Name": "A Quick Escape",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "PETRIFY50",
@@ -24047,9 +24052,9 @@
       "ID": "POISON300",
       "SetID": "5l8oe0h",
       "Name": "Spreading Plague",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "POISON30TIMES",
@@ -24079,9 +24084,9 @@
       "ID": "POISONSNAKE",
       "SetID": "5l8oe0h",
       "Name": "Antivenom",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "REROLL30TIMES",
@@ -24175,9 +24180,9 @@
       "ID": "TRANSFORM20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Shapeshifting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -24480,13 +24485,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238871,
+      "Progressed": 238874,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 351,
+      "Progressed": 354,
       "Completed": 348
     }
   ],
@@ -24494,8 +24499,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:11:19.5816947+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:10:25.3733385+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:04:51.8440693+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:11:19.5820305+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:03:59.7641053+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:10:25.3737285+00:00"
 }

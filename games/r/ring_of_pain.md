@@ -12,10 +12,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Quick Descent | 0.10% | ~239 |
 | First Steps | 0.10% | ~239 |
 | Nothing To Lose | 0.10% | ~239 |
+| Consecutive Curses | 0.10% | ~239 |
 | Shadow Spreads | 0.10% | ~239 |
 | Challenge Increases | 0.10% | ~239 |
+| Heavy Hitter | 0.10% | ~239 |
 | Max Damage! | 0.10% | ~239 |
 | Delving Deeper | 0.10% | ~239 |
+| A Long Climb | 0.10% | ~239 |
 | A Rough Road | 0.10% | ~239 |
 | Hydrophobe | 0.10% | ~239 |
 | Disposal | 0.10% | ~239 |
@@ -38,16 +41,21 @@ Number of Ratings: 15,086  (23.09.2022)
 | Soul Stash | 0.10% | ~239 |
 | Powerful Potion | 0.10% | ~239 |
 | Berzerker | 0.10% | ~239 |
+| Juggernaut | 0.10% | ~239 |
 | Gigantic | 0.10% | ~239 |
 | Predator | 0.10% | ~239 |
 | Here Comes The Airplane | 0.10% | ~239 |
 | Save Our Souls | 0.10% | ~239 |
 | Resourceful | 0.10% | ~239 |
 | Defeat The Dark | 0.10% | ~239 |
+| Destroy Your Fears | 0.10% | ~239 |
+| Trail Of Death | 0.10% | ~239 |
 | The Bestiary | 0.10% | ~239 |
 | The Boulder | 0.10% | ~239 |
 | Don't Ignore Me! | 0.10% | ~239 |
+| Overthrown | 0.10% | ~239 |
 | All Consuming | 0.10% | ~239 |
+| Poor Choices | 0.10% | ~239 |
 | Goodbye, Frog Friend | 0.10% | ~239 |
 | Heartless | 0.10% | ~239 |
 | What's Yours Is Mine | 0.10% | ~239 |
@@ -62,10 +70,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Mercy | 0.10% | ~239 |
 | Deflection | 0.10% | ~239 |
 | Just Looking Around | 0.10% | ~239 |
+| A Quick Escape | 0.10% | ~239 |
 | Stone Touch | 0.10% | ~239 |
 | Doing Time | 0.10% | ~239 |
+| Spreading Plague | 0.10% | ~239 |
 | Toxic | 0.10% | ~239 |
 | Acid Bath | 0.10% | ~239 |
+| Antivenom | 0.10% | ~239 |
 | Decisions, Decisions | 0.10% | ~239 |
 | Fragile Mortality | 0.10% | ~239 |
 | New Perspectives | 0.10% | ~239 |
@@ -76,6 +87,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.10% | ~239 |
 | Flesh Wound | 0.10% | ~239 |
 | Fire Away! | 0.10% | ~239 |
+| Shapeshifting | 0.10% | ~239 |
 | Defuser | 0.10% | ~239 |
 | An Offering | 0.10% | ~239 |
 | The Long Run | 0.10% | ~239 |
@@ -100,37 +112,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
-| Consecutive Curses | 0.00% | ~0 |
 | A Week Attempt | 0.00% | ~0 |
-| Heavy Hitter | 0.00% | ~0 |
-| A Long Climb | 0.00% | ~0 |
 | Getting A Glimpse | 0.00% | ~0 |
 | Dead Revels | 0.00% | ~0 |
 | A Hard Carry | 0.00% | ~0 |
 | Grave Digger | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Willing the World | 0.00% | ~0 |
-| Juggernaut | 0.00% | ~0 |
 | Power Score | 0.00% | ~0 |
 | Become The Nightmare | 0.00% | ~0 |
-| Destroy Your Fears | 0.00% | ~0 |
-| Trail Of Death | 0.00% | ~0 |
 | Clearing The Room | 0.00% | ~0 |
 | Blizzard | 0.00% | ~0 |
-| Overthrown | 0.00% | ~0 |
-| Poor Choices | 0.00% | ~0 |
 | Not What I Meant | 0.00% | ~0 |
 | Illuminate, Annihilate | 0.00% | ~0 |
 | Path To Enlightenment | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Master of Strategy | 0.00% | ~0 |
 | Good Boys | 0.00% | ~0 |
-| A Quick Escape | 0.00% | ~0 |
-| Spreading Plague | 0.00% | ~0 |
 | Need An Antidote? | 0.00% | ~0 |
-| Antivenom | 0.00% | ~0 |
 | Sprinter | 0.00% | ~0 |
-| Shapeshifting | 0.00% | ~0 |
 | The Tickler | 0.00% | ~0 |
 | Minimalist | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.00% | ~0 |
 | You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,871 (Ranked 59)  
+Progressed: 238,874 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,871 | 286 |
+| 2023-10-31 | 238,874 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

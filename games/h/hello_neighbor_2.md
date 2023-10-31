@@ -6,13 +6,13 @@ Rating: 4.47 (Ranked 630)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Raven Brooks | 77.00% | ~2,405 |
+| Case Closed | 37.00% | ~1,156 |
 | Shovel Night | 37.00% | ~1,156 |
-| Case Closed | 36.00% | ~1,125 |
 | Easy As Pie | 34.00% | ~1,062 |
 | Family Lost | 33.00% | ~1,031 |
 | Treasure Hunt | 31.00% | ~968 |
 | Ancient Curse | 28.00% | ~875 |
-| Cat Person | 26.00% | ~812 |
+| Cat Person | 27.00% | ~843 |
 | Climber | 25.00% | ~781 |
 | Hidden Secrets | 25.00% | ~781 |
 | Mad Scientist | 24.00% | ~750 |

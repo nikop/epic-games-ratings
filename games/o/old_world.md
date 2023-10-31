@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~120 |
 | Double Victory | 0.80% | ~120 |
 | Capable | 0.70% | ~105 |
+| Ready | 0.70% | ~105 |
 | Strong Difficulty | 0.70% | ~105 |
 | Hunters | 0.70% | ~105 |
 | Church of the Holy Sepulchre | 0.70% | ~105 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.70% | ~105 |
 | Ambition Victory | 0.70% | ~105 |
 | Devout | 0.60% | ~90 |
-| Ready | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |

@@ -3987,9 +3987,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 76775,
+  "EOS_Progressed": 76777,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 766,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -25862,6 +25862,11 @@
       "Time": "2023-10-31T07:05:54.7933914+00:00",
       "NumProgressed": 76775,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-31T08:04:55.453001+00:00",
+      "NumProgressed": 76777,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25969,7 +25974,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23800
+      "UsersEstimate": 23801
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -25977,7 +25982,7 @@
       "Name": "Wet Work",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 24568
+      "UsersEstimate": 24569
     },
     {
       "ID": "complete_mission_1",
@@ -25985,7 +25990,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36084
+      "UsersEstimate": 36085
     },
     {
       "ID": "customize_a_vehicle",
@@ -26017,7 +26022,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -26057,7 +26062,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14587
+      "UsersEstimate": 14588
     },
     {
       "ID": "empire_tier_4",
@@ -26089,7 +26094,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17658
+      "UsersEstimate": 17659
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -26121,7 +26126,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27639
+      "UsersEstimate": 27640
     },
     {
       "ID": "hit_max_level",
@@ -26153,7 +26158,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21497
+      "UsersEstimate": 21498
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26169,7 +26174,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26871
+      "UsersEstimate": 26872
     },
     {
       "ID": "one_third_purple",
@@ -26225,7 +26230,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20729
+      "UsersEstimate": 20730
     },
     {
       "ID": "two_thirds_purple",
@@ -26296,13 +26301,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76775,
+      "Progressed": 76777,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48412,
+      "Progressed": 48414,
       "Completed": 4225
     }
   ],
@@ -26310,8 +26315,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-30T22:03:03.3848159+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:05:54.793391+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:04:55.4530003+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:04:43.2836425+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:05:54.7935661+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:03:54.7600829+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:04:55.4531737+00:00"
 }

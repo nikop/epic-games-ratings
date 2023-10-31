@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 76,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150640,
+  "EOS_Progressed": 150641,
   "EOS_Completed": 316,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16393,6 +16393,11 @@
       "Time": "2023-10-31T07:05:31.148671+00:00",
       "NumProgressed": 150640,
       "NumCompleted": 316
+    },
+    {
+      "Time": "2023-10-31T08:04:36.0582572+00:00",
+      "NumProgressed": 150641,
+      "NumCompleted": 316
     }
   ],
   "TotalAchievements": 31,
@@ -16412,7 +16417,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105448
+      "UsersEstimate": 105449
     },
     {
       "ID": "EAwards_10",
@@ -16428,7 +16433,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31634
+      "UsersEstimate": 31635
     },
     {
       "ID": "EAwards_12",
@@ -16516,7 +16521,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16570
+      "UsersEstimate": 16571
     },
     {
       "ID": "EAwards_22",
@@ -16612,7 +16617,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16570
+      "UsersEstimate": 16571
     },
     {
       "ID": "EAwards_6",
@@ -16651,7 +16656,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150640,
+      "Progressed": 150641,
       "Completed": 316
     }
   ],
@@ -16659,8 +16664,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-31T07:05:31.1486707+00:00",
+  "LastChanged_Achievements": "2023-10-31T08:04:36.0582565+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:58:12.9274483+00:00",
-  "LastUpdate_Achievements": "2023-10-31T07:05:31.1487882+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:58:18.656324+00:00",
+  "LastUpdate_Achievements": "2023-10-31T08:04:36.0583895+00:00"
 }

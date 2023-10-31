@@ -11,10 +11,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.40% | ~933 |
 | The Cursed Farmer | 0.40% | ~933 |
 | The Jungles of Doomspace | 0.40% | ~798 |
+| The Arena of Blood | 0.40% | ~798 |
 | Spelljammers in Training | 0.40% | ~798 |
 | The Ring of Regeneration | 0.30% | ~700 |
 | The Mad Wizard | 0.30% | ~700 |
-| The Arena of Blood | 0.30% | ~599 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
 | The Witchlight Carnival | 0.20% | ~399 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,290 (Ranked 62)  
-Completed: 2,410 (1.03%) (Ranked 151)  
+Progressed: 233,293 (Ranked 62)  
+Completed: 2,411 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -729,7 +729,7 @@ Completed: 2,410 (1.03%) (Ranked 151)
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
-| 2023-10-31 | 233,290 | 2,410 |
+| 2023-10-31 | 233,293 | 2,411 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,276 (Ranked 41)  

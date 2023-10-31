@@ -5,29 +5,29 @@ Rating: 4.39 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~759,120 |
-| The ABCs | 43.00% | ~666,167 |
-| Home Run | 41.00% | ~635,182 |
-| Keeps Coming Off | 41.00% | ~635,182 |
-| Guts | 20.00% | ~309,845 |
-| Meat Grinder | 19.00% | ~294,353 |
-| Burning Man | 16.00% | ~247,876 |
-| Lived to Tell the Tale | 12.00% | ~185,907 |
-| Highlander | 10.00% | ~154,922 |
-| Unstoppable | 10.00% | ~154,922 |
-| Just a Scratch | 9.00% | ~139,430 |
+| Justice from the Grave | 49.00% | ~759,126 |
+| The ABCs | 43.00% | ~666,172 |
+| Home Run | 41.00% | ~635,187 |
+| Keeps Coming Off | 41.00% | ~635,187 |
+| Guts | 20.00% | ~309,847 |
+| Meat Grinder | 19.00% | ~294,355 |
+| Burning Man | 16.00% | ~247,878 |
+| Lived to Tell the Tale | 12.00% | ~185,908 |
+| Highlander | 10.00% | ~154,924 |
+| Unstoppable | 10.00% | ~154,924 |
+| Just a Scratch | 9.00% | ~139,431 |
 | Tough Nut to Crack | 6.00% | ~92,954 |
 | Yoink | 6.00% | ~92,954 |
 | Long List of Names | 4.00% | ~61,969 |
 | Pyromaniac | 4.00% | ~61,969 |
 | The Queen of Weapons | 4.00% | ~61,969 |
 | This isn’t Sparta | 3.00% | ~46,477 |
-| Crybaby | 2.00% | ~30,984 |
-| Eagle Eye | 2.00% | ~30,984 |
-| I Know Kung Fu | 2.00% | ~30,984 |
-| Poacher | 2.00% | ~30,984 |
-| Put That Away | 2.00% | ~30,984 |
-| You’re Welcome | 2.00% | ~30,984 |
+| Crybaby | 2.00% | ~30,985 |
+| Eagle Eye | 2.00% | ~30,985 |
+| I Know Kung Fu | 2.00% | ~30,985 |
+| Poacher | 2.00% | ~30,985 |
+| Put That Away | 2.00% | ~30,985 |
+| You’re Welcome | 2.00% | ~30,985 |
 | Chambermaid | 1.00% | ~15,492 |
 | Coming Through | 1.00% | ~15,492 |
 | Training Accident | 0.90% | ~13,943 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 742)
 | That’s No Ordinary Cold | 0.10% | ~1,549 |
 | Stairway to Hell | 0.10% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549,225 (Ranked 7)  
+Progressed: 1,549,237 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 68 (0.00%) (Ranked 333)
 | 2023-10-28 | 1,547,981 | 67 |
 | 2023-10-29 | 1,548,618 | 68 |
 | 2023-10-30 | 1,549,129 | 68 |
-| 2023-10-31 | 1,549,225 | 68 |
+| 2023-10-31 | 1,549,237 | 68 |
 ## Awards
 Max (Diverse Characters): 858  (Ranked 160)  
 Sum: 4,009 (Ranked 151)  

@@ -5,24 +5,24 @@ Rating: 4.39 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~101,955 |
-| 74 miles East of Otaheité | 56.00% | ~71,369 |
-| Interesting... | 42.00% | ~53,526 |
-| The Everhart Expedition | 39.00% | ~49,703 |
-| The Vanishing of the Lady Shannon | 30.00% | ~38,233 |
-| Seaside Serenade | 30.00% | ~38,233 |
-| Halfway there | 29.00% | ~36,959 |
-| A brigantine, a brig and a barque | 28.00% | ~35,684 |
-| 506 East Hampden Avenue | 28.00% | ~35,684 |
-| Weekend at Walakea's | 27.00% | ~34,410 |
-| Quite a Show | 27.00% | ~34,410 |
+| A Family Heirloom | 80.00% | ~101,958 |
+| 74 miles East of Otaheité | 56.00% | ~71,370 |
+| Interesting... | 42.00% | ~53,528 |
+| The Everhart Expedition | 39.00% | ~49,704 |
+| The Vanishing of the Lady Shannon | 30.00% | ~38,234 |
+| Seaside Serenade | 30.00% | ~38,234 |
+| Halfway there | 29.00% | ~36,960 |
+| A brigantine, a brig and a barque | 28.00% | ~35,685 |
+| 506 East Hampden Avenue | 28.00% | ~35,685 |
+| Weekend at Walakea's | 27.00% | ~34,411 |
+| Quite a Show | 27.00% | ~34,411 |
 | Dark Water Ride | 24.00% | ~30,587 |
 | Sunken | 24.00% | ~30,587 |
 | Deep Cut | 24.00% | ~30,587 |
-| FHALGOF'N' | 23.00% | ~29,312 |
-| Marsh Cannery | 21.00% | ~26,763 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,665 |
-| The only thing I have now | 16.00% | ~20,391 |
+| FHALGOF'N' | 23.00% | ~29,313 |
+| Marsh Cannery | 21.00% | ~26,764 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,666 |
+| The only thing I have now | 16.00% | ~20,392 |
 | Not Another Boring Slideshow! | 15.00% | ~19,117 |
 | Naacalvision | 15.00% | ~19,117 |
 | I'll make a note of that... | 9.00% | ~11,470 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 742)
 | Gently down the stream... | 1.00% | ~1,274 |
 | Meta-reference | 1.00% | ~1,274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,444 (Ranked 80)  
+Progressed: 127,447 (Ranked 80)  
 Completed: 1,091 (0.86%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 1,091 (0.86%) (Ranked 162)
 | 2023-10-28 | 127,019 | 1,083 |
 | 2023-10-29 | 127,284 | 1,089 |
 | 2023-10-30 | 127,419 | 1,091 |
-| 2023-10-31 | 127,444 | 1,091 |
+| 2023-10-31 | 127,447 | 1,091 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

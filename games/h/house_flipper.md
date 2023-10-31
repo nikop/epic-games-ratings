@@ -1,17 +1,17 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~20,156 |
-| Strongman | 31.00% | ~6,577 |
-| Alpha Male | 20.00% | ~4,243 |
-| Just Enough | 19.00% | ~4,031 |
+| First money | 95.00% | ~20,158 |
+| Strongman | 31.00% | ~6,578 |
+| Alpha Male | 20.00% | ~4,244 |
+| Just Enough | 19.00% | ~4,032 |
 | Pro-creative | 18.00% | ~3,819 |
-| Worth Every Penny | 14.00% | ~2,970 |
+| Worth Every Penny | 14.00% | ~2,971 |
 | Family man | 13.00% | ~2,758 |
 | Junior Estate Agent | 13.00% | ~2,758 |
 | Mystery | 10.00% | ~2,122 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~127 |
 | Senior Estate Agent | 0.60% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,217 (Ranked 129)  
+Progressed: 21,219 (Ranked 129)  
 Completed: 21 (0.10%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 21 (0.10%) (Ranked 262)
 | 2023-10-28 | 21,207 | 21 |
 | 2023-10-29 | 21,215 | 21 |
 | 2023-10-30 | 21,217 | 21 |
+| 2023-10-31 | 21,219 | 21 |
 ## Awards
 Max (Great for Beginners): 317  (Ranked 241)  
 Sum: 2,234 (Ranked 197)  
