@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,750 | 4.69 | 228 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 103,117 | 4.64 | 329 |
 | 10 | [VALORANT](games/v/valorant.md) | 78,192 | 4.52 | 547 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,848 | 4.58 | 442 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,887 | 4.58 | 442 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,997 | 4.61 | 381 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,850 | 4.74 | 154 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 38,836 | 4.49 | 602 |
@@ -85,7 +85,7 @@
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,144 | 4.51 | 562 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,007 | 4.68 | 249 |
 | 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,834 | 4.27 | 849 |
-| 86 | [Trackmania](games/t/trackmania.md) | 3,816 | 4.66 | 290 |
+| 86 | [Trackmania](games/t/trackmania.md) | 3,825 | 4.66 | 290 |
 | 87 | [Paladins](games/p/paladins.md) | 3,770 | 4.33 | 805 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,761 | 4.68 | 249 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,672 | 4.46 | 639 |
@@ -136,8 +136,8 @@
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,337 | 4.55 | 498 |
 | 135 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,335 | 4.70 | 212 |
 | 136 | [DOOM 64](games/d/doom_64.md) | 1,301 | 4.66 | 290 |
-| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,288 | 4.61 | 381 |
-| 138 | [OUTRIDERS](games/o/outriders.md) | 1,240 | 4.42 | 703 |
+| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,290 | 4.61 | 381 |
+| 138 | [OUTRIDERS](games/o/outriders.md) | 1,241 | 4.42 | 703 |
 | 139 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,211 | 4.69 | 228 |
 | 140 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 1,161 | 4.53 | 533 |
 | 141 | [EVE Online](games/e/eve_online.md) | 1,113 | 4.24 | 869 |
@@ -343,11 +343,11 @@
 | 341 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 111 | 4.50 | 581 |
 | 341 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 111 | 4.70 | 212 |
 | 341 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 111 | 4.45 | 657 |
-| 344 | [Dead Space](games/d/dead_space.md) | 107 | 4.63 | 346 |
-| 344 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 381 |
-| 346 | [Just Die Already](games/j/just_die_already.md) | 106 | 4.52 | 547 |
-| 346 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 106 | 4.19 | 906 |
-| 346 | [Verdun](games/v/verdun.md) | 106 | 4.53 | 533 |
+| 344 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 109 | 4.19 | 906 |
+| 345 | [Dead Space](games/d/dead_space.md) | 107 | 4.63 | 346 |
+| 345 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 381 |
+| 347 | [Just Die Already](games/j/just_die_already.md) | 106 | 4.52 | 547 |
+| 347 | [Verdun](games/v/verdun.md) | 106 | 4.53 | 533 |
 | 349 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 103 | 4.35 | 786 |
 | 349 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,004 |
 | 349 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 103 | 4.76 | 122 |
