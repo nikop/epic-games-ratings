@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 121,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 48,
@@ -9813,9 +9813,9 @@
       "Count": 755
     }
   ],
-  "EOS_Progressed": 299926,
+  "EOS_Progressed": 299931,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30563,6 +30563,11 @@
       "Time": "2023-10-31T15:10:12.1223118+00:00",
       "NumProgressed": 299926,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-10-31T16:09:12.2943507+00:00",
+      "NumProgressed": 299931,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30574,7 +30579,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44989
+      "UsersEstimate": 44990
     },
     {
       "ID": "PFA_10",
@@ -30662,7 +30667,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14996
+      "UsersEstimate": 14997
     },
     {
       "ID": "PFA_20",
@@ -30694,7 +30699,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35991
+      "UsersEstimate": 35992
     },
     {
       "ID": "PFA_24",
@@ -30718,7 +30723,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "PFA_27",
@@ -30838,7 +30843,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14996
+      "UsersEstimate": 14997
     },
     {
       "ID": "PFA_40",
@@ -30854,7 +30859,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14996
+      "UsersEstimate": 14997
     },
     {
       "ID": "PFA_42",
@@ -30878,7 +30883,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26993
+      "UsersEstimate": 26994
     },
     {
       "ID": "PFA_45",
@@ -30910,7 +30915,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38990
+      "UsersEstimate": 38991
     },
     {
       "ID": "PFA_8",
@@ -30918,7 +30923,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35991
+      "UsersEstimate": 35992
     },
     {
       "ID": "PFA_9",
@@ -30926,14 +30931,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26993
+      "UsersEstimate": 26994
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299926,
+      "Progressed": 299931,
       "Completed": 498
     }
   ],
@@ -30941,8 +30946,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-31T07:59:10.6521121+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:10:12.1223113+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:09:12.2943501+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:59:30.8676125+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:10:12.1224779+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:58:51.2901452+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:09:12.2945779+00:00"
 }

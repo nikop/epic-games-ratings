@@ -29,7 +29,7 @@
 | We are the FUR Squadron! | 0.00% | ~0 |
 | Well, I'm doing it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 442)  
+Progressed: 56 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1569,
+  "EOS_Progressed": 1570,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.65,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-10-31T14:03:33.3496783+00:00",
       "NumProgressed": 1569,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-10-31T16:03:39.4629223+00:00",
+      "NumProgressed": 1570,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3131,7 +3136,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3145,9 +3150,9 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3163,22 +3168,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1569,
+      "Progressed": 1570,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:04:35.1445478+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:03:39.4629218+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.9569477+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:01:41.5938298+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:04:35.1445741+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:00:24.5270689+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:03:39.4629514+00:00"
 }

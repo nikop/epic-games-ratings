@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 332,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -712,9 +712,9 @@
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "ach-rob-shrines",
@@ -793,8 +793,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:10:18.296526+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:09:16.4828191+00:00",
   "LastUpdate_AppInfo": "2023-10-28T09:57:19.1361562+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:02:08.0677043+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:10:18.2965967+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:00:42.0156505+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:09:16.4828726+00:00"
 }

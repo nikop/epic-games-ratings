@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 80.00% | ~33 |
-| A Small Thirsty Thing | 20.00% | ~8 |
+| Setting Sail | 79.00% | ~34 |
+| A Small Thirsty Thing | 19.00% | ~8 |
 | Spirit Within | 12.00% | ~5 |
 | Dousing a Venerable Flame | 7.00% | ~3 |
 | A Sandwyrm's Hoard | 7.00% | ~3 |
@@ -63,7 +63,7 @@
 | Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 468)  
+Progressed: 43 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 29 | 0 |
 | 2023-10-29 | 36 | 0 |
 | 2023-10-30 | 41 | 0 |
+| 2023-10-31 | 43 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

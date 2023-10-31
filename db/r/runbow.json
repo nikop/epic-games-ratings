@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250830,
+  "EOS_Progressed": 250831,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17837,6 +17837,11 @@
       "Time": "2023-10-31T14:08:43.0719398+00:00",
       "NumProgressed": 250830,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-31T16:08:51.8481551+00:00",
+      "NumProgressed": 250831,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -17872,7 +17877,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52674
+      "UsersEstimate": 52675
     },
     {
       "ID": "blotbuster",
@@ -17920,7 +17925,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37624
+      "UsersEstimate": 37625
     },
     {
       "ID": "clearCut",
@@ -17944,7 +17949,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45149
+      "UsersEstimate": 45150
     },
     {
       "ID": "curator",
@@ -18088,7 +18093,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125415
+      "UsersEstimate": 125416
     },
     {
       "ID": "notScared",
@@ -18215,7 +18220,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 250830,
+      "Progressed": 250831,
       "Completed": 6
     }
   ],
@@ -18223,8 +18228,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:09:42.3782007+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:08:51.8481546+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:47.9413553+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:01:16.2761253+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:09:42.3783467+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:00:03.5096502+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:08:51.8483484+00:00"
 }

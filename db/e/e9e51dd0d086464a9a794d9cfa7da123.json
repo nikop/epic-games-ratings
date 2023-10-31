@@ -324,9 +324,9 @@
       "ID": "HBACAAD",
       "SetID": "2621k8c",
       "Name": "Having both a cat and a dog",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HE",
@@ -436,9 +436,9 @@
       "ID": "LOAM",
       "SetID": "2621k8c",
       "Name": "Love of a man",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LP",
@@ -476,17 +476,17 @@
       "ID": "LYWEAIR",
       "SetID": "2621k8c",
       "Name": "Love you without expecting anything in return",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MAB",
       "SetID": "2621k8c",
       "Name": "Have a baby",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MB",
@@ -540,9 +540,9 @@
       "ID": "Numb",
       "SetID": "2621k8c",
       "Name": "Numb",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Otaku",
@@ -556,9 +556,9 @@
       "ID": "PL",
       "SetID": "2621k8c",
       "Name": "Perfect Lover",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PLMALBM",
@@ -676,9 +676,9 @@
       "ID": "SOC",
       "SetID": "2621k8c",
       "Name": "Sense of ceremony",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SWA",
@@ -692,9 +692,9 @@
       "ID": "SelflessLove",
       "SetID": "2621k8c",
       "Name": "Selfless Love",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sensitive",
@@ -708,17 +708,17 @@
       "ID": "Shopaholic",
       "SetID": "2621k8c",
       "Name": "Shopaholic",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sisters",
       "SetID": "2621k8c",
       "Name": "Sisters",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sneakerhead",
@@ -764,9 +764,9 @@
       "ID": "Superficial",
       "SetID": "2621k8c",
       "Name": "Superficial",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TAAM",
@@ -796,17 +796,17 @@
       "ID": "TMOL",
       "SetID": "2621k8c",
       "Name": "The meaning of life",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Takeout",
       "SetID": "2621k8c",
       "Name": "Takeout",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Thirsty",
@@ -820,9 +820,9 @@
       "ID": "Underestimate",
       "SetID": "2621k8c",
       "Name": "Underestimate",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Unfeeling",
@@ -852,9 +852,9 @@
       "ID": "VP",
       "SetID": "2621k8c",
       "Name": "Virtual Pet",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WHTEM",
@@ -882,8 +882,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:10:44.0407494+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:09:34.2882001+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.8244833+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:59:52.0277119+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:10:44.0408739+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:59:07.8140065+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:09:34.2883568+00:00"
 }

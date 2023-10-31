@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3219,6 +3219,11 @@
       "Time": "2023-10-31T13:12:52.3641843+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T16:08:29.7334823+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3358,7 +3363,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "High_noon",
@@ -3406,7 +3411,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Miner",
@@ -3414,7 +3419,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "MoskitoBite",
@@ -3422,7 +3427,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "Scout",
@@ -3469,15 +3474,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:09:10.7019436+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:08:29.7334817+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:00:40.7413228+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:09:10.7019897+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:59:37.8227104+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:08:29.7335354+00:00"
 }

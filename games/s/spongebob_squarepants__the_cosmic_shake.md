@@ -10,7 +10,7 @@
 | Deputy | 76.00% | ~28 |
 | Is it a plane? Is it a pizza? | 76.00% | ~28 |
 | Stunning Performance | 76.00% | ~28 |
-| Wanted Sponge | 73.00% | ~27 |
+| Wanted Sponge | 76.00% | ~28 |
 | Movie Star | 65.00% | ~24 |
 | The Way of the Sponge | 62.00% | ~23 |
 | Bubble the Trouble | 59.00% | ~22 |
@@ -49,7 +49,7 @@
 | The Good, the Bad and the Krabby | 8.00% | ~3 |
 | Wrath-tub | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 475)  
+Progressed: 37 (Ranked 476)  
 Completed: 4 (10.81%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |

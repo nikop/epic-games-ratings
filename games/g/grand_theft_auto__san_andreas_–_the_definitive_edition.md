@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,914 |
-| Pay 'n' Spray | 51.00% | ~6,788 |
+| Getting Started | 82.00% | ~10,915 |
+| Pay 'n' Spray | 51.00% | ~6,789 |
 | All Dressed Up for San Fierro | 26.00% | ~3,461 |
 | The American Dream | 20.00% | ~2,662 |
 | School's Out | 19.00% | ~2,529 |
 | Smooth Moves | 17.00% | ~2,263 |
-| What happens in Las Venturas... | 15.00% | ~1,996 |
-| Today Was a Good Day | 15.00% | ~1,996 |
+| What happens in Las Venturas... | 15.00% | ~1,997 |
+| Today Was a Good Day | 15.00% | ~1,997 |
 | Horror of the Santa Maria | 11.00% | ~1,464 |
 | Liberty City State of Mind | 10.00% | ~1,331 |
 | The End of the Line | 8.00% | ~1,065 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 481)
 | ...Here we go again | 0.50% | ~67 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,310 (Ranked 148)  
+Progressed: 13,311 (Ranked 148)  
 Completed: 50 (0.38%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,10 +235,10 @@ Completed: 50 (0.38%) (Ranked 205)
 | 2023-10-28 | 13,284 | 50 |
 | 2023-10-29 | 13,298 | 50 |
 | 2023-10-30 | 13,306 | 50 |
-| 2023-10-31 | 13,310 | 50 |
+| 2023-10-31 | 13,311 | 50 |
 ## Awards
 Max (Great Boss Battles): 367  (Ranked 230)  
-Sum: 583 (Ranked 307)  
+Sum: 584 (Ranked 307)  
 Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
@@ -249,7 +249,7 @@ Diff (max vs sum): -77
 | This game is Highly Recommended | 28 |
 | This game is Great for Beginners | 28 |
 | This game is Extremely Fun | 23 |
-| This game has a Creative Community | 22 |
+| This game has a Creative Community | 23 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -416,4 +416,4 @@ Diff (max vs sum): -77
 | 2023-10-28 | 4.56 | 365 | 560 |
 | 2023-10-29 | 4.56 | 365 | 580 |
 | 2023-10-30 | 4.56 | 367 | 582 |
-| 2023-10-31 | 4.56 | 367 | 583 |
+| 2023-10-31 | 4.56 | 367 | 584 |

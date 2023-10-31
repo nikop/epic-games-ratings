@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -11979,18 +11979,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 28217,
       "NumberOfAwardsMax": 8377
+    },
+    {
+      "Time": "2023-10-31T16:02:56.3748541+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 28238,
+      "NumberOfAwardsMax": 8389
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28217,
-  "NumberOfAwardsMax": 8377,
+  "NumberOfAwards": 28238,
+  "NumberOfAwardsMax": 8389,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8377
+      "Count": 8389
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12002,7 +12008,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1744
+      "Count": 1748
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12056,7 +12062,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1442
+      "Count": 1447
     }
   ],
   "EOS_Progressed": 0,
@@ -12070,8 +12076,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-10-31T15:03:28.815612+00:00",
+  "LastChanged": "2023-10-31T16:02:56.3748539+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:10.6530008+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:03:28.8156129+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:08:32.0032384+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:02:56.3748548+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:06:43.0485683+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 61.00% | ~20 |
-| Wanderer | 58.00% | ~19 |
-| A piece of the story | 45.00% | ~15 |
+| Wanderer | 61.00% | ~20 |
+| A piece of the story | 48.00% | ~16 |
 | Do what you have to | 42.00% | ~14 |
 | The artist’s impression | 33.00% | ~11 |
 | Finished it | 33.00% | ~11 |
@@ -57,7 +57,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 483)  
+Progressed: 33 (Ranked 484)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |

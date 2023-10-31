@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18196,
+  "EOS_Progressed": 18197,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15072,6 +15072,11 @@
       "Time": "2023-10-31T15:07:08.6052319+00:00",
       "NumProgressed": 18196,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-31T16:05:25.5517074+00:00",
+      "NumProgressed": 18197,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15099,7 +15104,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2547
+      "UsersEstimate": 2548
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -15115,7 +15120,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "Feel_The_Thunder",
@@ -15155,7 +15160,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7642
+      "UsersEstimate": 7643
     },
     {
       "ID": "Mirrors",
@@ -15210,15 +15215,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18196,
+      "Progressed": 18197,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:07:08.6052314+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:05:25.5517069+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:00:54.6554151+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:07:08.6053522+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:59:47.7843659+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:05:25.5518454+00:00"
 }

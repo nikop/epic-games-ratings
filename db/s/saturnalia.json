@@ -267,9 +267,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67749,
+  "EOS_Progressed": 67751,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13812,6 +13812,11 @@
       "Time": "2023-10-31T15:06:46.5157029+00:00",
       "NumProgressed": 67749,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-31T16:05:10.1471673+00:00",
+      "NumProgressed": 67751,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -13847,7 +13852,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -13895,7 +13900,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -13935,7 +13940,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -13951,7 +13956,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_STAMINA",
@@ -13975,14 +13980,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67749,
+      "Progressed": 67751,
       "Completed": 17
     }
   ],
@@ -13990,8 +13995,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:06:46.5157024+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:05:10.1471667+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:58:03.7513498+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:06:46.5158195+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:58:00.2870164+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:05:10.1472943+00:00"
 }

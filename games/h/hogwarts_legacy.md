@@ -1,15 +1,15 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 122)  
+Rating: 4.76 (Ranked 121)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~44,989 |
+| The Sort Who Makes an Entrance | 15.00% | ~44,990 |
 | First Class Student | 14.00% | ~41,990 |
-| Troll with the Punches | 13.00% | ~38,990 |
-| A Keen Sense of Spell | 12.00% | ~35,991 |
-| That's a Keeper | 12.00% | ~35,991 |
+| Troll with the Punches | 13.00% | ~38,991 |
+| A Keen Sense of Spell | 12.00% | ~35,992 |
+| That's a Keeper | 12.00% | ~35,992 |
 | Grappling with a Graphorn | 11.00% | ~32,992 |
 | The One Who Mastered Memories | 11.00% | ~32,992 |
 | The Hallowed Hero | 11.00% | ~32,992 |
@@ -20,8 +20,8 @@ Rating: 4.76 (Ranked 122)
 | The Hero of Hogwarts | 10.00% | ~29,993 |
 | Challenge Accepted | 10.00% | ~29,993 |
 | Followed the Butterflies | 10.00% | ~29,993 |
-| The Spell Master | 9.00% | ~26,993 |
-| Rising From the Ashes | 9.00% | ~26,993 |
+| The Spell Master | 9.00% | ~26,994 |
+| Rising From the Ashes | 9.00% | ~26,994 |
 | The Avenging Gazelle | 8.00% | ~23,994 |
 | Beast Friends | 8.00% | ~23,994 |
 | A Sallow Grave | 8.00% | ~23,994 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 122)
 | The Root of the Problem | 6.00% | ~17,996 |
 | Third Time's a Charm | 6.00% | ~17,996 |
 | Raising Expectations | 6.00% | ~17,996 |
-| The Toast of the Town | 5.00% | ~14,996 |
-| The Gryffindor in the Graveyard | 5.00% | ~14,996 |
-| The Ends Petrify the Means | 5.00% | ~14,996 |
+| The Toast of the Town | 5.00% | ~14,997 |
+| The Gryffindor in the Graveyard | 5.00% | ~14,997 |
+| The Ends Petrify the Means | 5.00% | ~14,997 |
 | Going Through the Potions | 4.00% | ~11,997 |
 | Room with a View | 4.00% | ~11,997 |
 | The Intrepid Explorer | 4.00% | ~11,997 |
@@ -48,10 +48,10 @@ Rating: 4.76 (Ranked 122)
 | Merlin's Beard! | 1.00% | ~2,999 |
 | Demiguise Dread | 1.00% | ~2,999 |
 | Spilled Milk | 0.90% | ~2,699 |
-| The Nature of the Beast | 0.70% | ~2,099 |
+| The Nature of the Beast | 0.70% | ~2,100 |
 | Collector's Edition | 0.30% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,926 (Ranked 48)  
+Progressed: 299,931 (Ranked 48)  
 Completed: 498 (0.17%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 498 (0.17%) (Ranked 243)
 | 2023-10-28 | 299,440 | 496 |
 | 2023-10-29 | 299,675 | 497 |
 | 2023-10-30 | 299,853 | 498 |
-| 2023-10-31 | 299,926 | 498 |
+| 2023-10-31 | 299,931 | 498 |
 ## Awards
 Max (Character Customization): 23,909  (Ranked 17)  
 Sum: 47,067 (Ranked 30)  

@@ -4,7 +4,7 @@
   "ProductSlug": "sweet-dreams-alex-7c602d",
   "Ranking_EOS_Progress": 658,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-16T00:00:00+00:00",
@@ -304,8 +304,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T15:07:56.0598739+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:05:18.025654+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:04:08.9158438+00:00",
   "LastUpdate_AppInfo": "2023-10-31T14:57:14.2198557+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:59:58.6497925+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:05:18.0256772+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:59:11.4211984+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:04:08.9158682+00:00"
 }

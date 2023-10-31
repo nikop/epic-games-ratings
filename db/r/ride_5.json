@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1893,
+  "EOS_Progressed": 1898,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4037,6 +4037,11 @@
       "Time": "2023-10-31T15:10:37.3649759+00:00",
       "NumProgressed": 1893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T16:09:29.5462574+00:00",
+      "NumProgressed": 1898,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4049,7 +4054,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 816
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4057,7 +4062,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 721
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4065,7 +4070,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4073,7 +4078,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4081,7 +4086,7 @@
       "Name": "Restored and Ready",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4105,7 +4110,7 @@
       "Name": "I Want One Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4113,7 +4118,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4121,7 +4126,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 456
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4137,7 +4142,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4153,7 +4158,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4225,7 +4230,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4257,7 +4262,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 778
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4305,7 +4310,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4337,7 +4342,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4345,7 +4350,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 835
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4353,7 +4358,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 456
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4401,7 +4406,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4440,14 +4445,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1893,
+      "Progressed": 1898,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:10:37.3649754+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:09:29.5462569+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:58:34.9503922+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:10:37.3650458+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:58:17.6831444+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:09:29.5463493+00:00"
 }

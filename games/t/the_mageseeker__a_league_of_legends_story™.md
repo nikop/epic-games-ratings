@@ -52,9 +52,9 @@ Rating: 4.82 (Ranked 62)
 | Truth is a dark mirror | 12.00% | ~313 |
 | Back to sleep, then... | 12.00% | ~313 |
 | Do you trust me? | 11.00% | ~287 |
+| You can pet the... horse | 11.00% | ~287 |
 | Chains master | 10.00% | ~261 |
 | The great mage rebellion starts now | 10.00% | ~261 |
-| You can pet the... horse | 10.00% | ~261 |
 | Spellcrafting | 10.00% | ~261 |
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |

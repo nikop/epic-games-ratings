@@ -2,12 +2,12 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 121,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
@@ -999,6 +999,6 @@
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
   "LastChanged": "2023-10-31T05:04:45.5897721+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.9352526+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:03:50.0033214+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:07:41.6148506+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:03:10.3312355+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:05:48.1767825+00:00"
 }

@@ -49,7 +49,7 @@
 | Handy Yeti | 24.00% | ~9 |
 | Rock Star | 22.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 475)  
+Progressed: 37 (Ranked 476)  
 Completed: 4 (10.81%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |

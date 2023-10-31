@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -250,9 +250,9 @@
       "ID": "BADGE_BOSS_2_KILL",
       "SetID": "ak6pfjk",
       "Name": "Top of the World",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
@@ -650,9 +650,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:06:22.880497+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:04:54.0074175+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.3625414+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:00:42.6646003+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:06:22.8805442+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:59:40.0555486+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:04:54.007468+00:00"
 }

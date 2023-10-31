@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1313,10 +1313,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 583,
       "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2023-10-31T16:00:23.2172702+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 584,
+      "NumberOfAwardsMax": 367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 583,
+  "NumberOfAwards": 584,
   "NumberOfAwardsMax": 367,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1360,7 +1366,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1381,9 +1387,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13310,
+  "EOS_Progressed": 13311,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13461,6 +13467,11 @@
       "Time": "2023-10-31T15:09:05.5560372+00:00",
       "NumProgressed": 13310,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-31T16:08:26.2513536+00:00",
+      "NumProgressed": 13311,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13472,7 +13483,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10914
+      "UsersEstimate": 10915
     },
     {
       "ID": "ACH02",
@@ -13528,7 +13539,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6788
+      "UsersEstimate": 6789
     },
     {
       "ID": "ACH09",
@@ -13640,7 +13651,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH23",
@@ -13696,7 +13707,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "ACH30",
@@ -13751,16 +13762,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13310,
+      "Progressed": 13311,
       "Completed": 50
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-10-31T07:02:04.8149442+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:09:05.5560367+00:00",
+  "LastChanged": "2023-10-31T16:00:23.21727+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:08:26.2513531+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:01:40.4400416+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:09:05.5561554+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:00:23.2172707+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:08:26.2514972+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 115,
@@ -144,9 +144,9 @@
       "ID": "AC_ALL_CASSETTES",
       "SetID": "16i2akc",
       "Name": "Sound",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -464,9 +464,9 @@
       "ID": "AC_SNIPER_MAX",
       "SetID": "16i2akc",
       "Name": "Crosshair",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_UZI_MAX",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:05:37.7590092+00:00",
-  "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:58:51.7786965+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:05:37.7590436+00:00"
+  "LastChanged_Achievements": "2023-10-31T16:04:22.5169805+00:00",
+  "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
+  "LastUpdate_Ratings": "2023-10-31T15:58:29.0848784+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:04:22.5170189+00:00"
 }

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1435,6 +1435,11 @@
       "Time": "2023-10-31T15:08:00.0376082+00:00",
       "NumProgressed": 486,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T16:06:20.775886+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1471,7 +1476,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_eou4",
@@ -1479,7 +1484,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_eou5",
@@ -1501,9 +1506,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_eou8",
@@ -1511,7 +1516,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_mg2",
@@ -1550,14 +1555,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:08:00.0376078+00:00",
+  "LastChanged_Achievements": "2023-10-31T16:06:20.7758855+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:03:08.616481+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:08:00.0376287+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:01:33.4537966+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:06:20.7759107+00:00"
 }

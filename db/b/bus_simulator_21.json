@@ -4,7 +4,7 @@
   "ProductSlug": "bus-simulator-21",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-16T15:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-17T13:59:43.1546181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:09.3703247+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:00:18.2353674+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:06:14.6225371+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:59:23.3179063+00:00",
+  "LastUpdate_Achievements": "2023-10-31T16:04:48.160987+00:00"
 }

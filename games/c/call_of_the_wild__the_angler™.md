@@ -13,6 +13,7 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 0.10% | ~6 |
 | Going for Gold | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
+| I'm Hooked! | 0.10% | ~6 |
 | No Fin left to give | 0.10% | ~6 |
 | Taylor Made | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
@@ -30,7 +31,6 @@ Number of Ratings: 281  (23.09.2022)
 | Head for Heights | 0.00% | ~0 |
 | Lake Me up Before You Go Go | 0.00% | ~0 |
 | Marathon | 0.00% | ~0 |
-| I'm Hooked! | 0.00% | ~0 |
 | Diamond in the Rough | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Big Fish Small Pond | 0.00% | ~0 |
