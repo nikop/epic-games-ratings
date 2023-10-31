@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-motorfest",
   "Ranking_Rating": 290,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 424,
@@ -1749,10 +1749,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 2470,
       "NumberOfAwardsMax": 351
+    },
+    {
+      "Time": "2023-10-31T13:57:21.5674655+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2476,
+      "NumberOfAwardsMax": 351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2470,
+  "NumberOfAwards": 2476,
   "NumberOfAwardsMax": 351,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1778,7 +1784,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 306
+      "Count": 312
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1835,8 +1841,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2023-10-31T11:57:06.7815401+00:00",
+  "LastChanged": "2023-10-31T13:57:21.5674654+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:02.0435267+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:01:46.2556915+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:13:23.2789975+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:57:21.567466+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:08:53.2599976+00:00"
 }

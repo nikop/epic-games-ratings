@@ -1412,9 +1412,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130310,
+  "EOS_Progressed": 130311,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20597,6 +20597,11 @@
       "Time": "2023-10-31T13:08:24.9174281+00:00",
       "NumProgressed": 130310,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-31T14:03:57.1652531+00:00",
+      "NumProgressed": 130311,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20664,7 +20669,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31274
+      "UsersEstimate": 31275
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20824,7 +20829,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18243
+      "UsersEstimate": 18244
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -20888,7 +20893,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18243
+      "UsersEstimate": 18244
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -20927,15 +20932,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130310,
+      "Progressed": 130311,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-29T06:02:11.366846+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:08:24.9174275+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:03:57.1652525+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:07:16.9751191+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:08:24.9176215+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:02:34.2729339+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:03:57.1654003+00:00"
 }

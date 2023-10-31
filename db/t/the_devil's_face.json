@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -2239,6 +2239,11 @@
       "Time": "2023-10-31T08:08:06.336363+00:00",
       "NumProgressed": 518,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T14:06:52.1937368+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 14,
@@ -2258,7 +2263,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2306,7 +2311,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2338,7 +2343,7 @@
       "Name": "The court",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2361,14 +2366,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:10:42.937027+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:06:52.1937362+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:04:33.4991626+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:10:42.9370688+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:00:40.2401039+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:06:52.1937608+00:00"
 }

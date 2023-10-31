@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.61,
+  "EOS_Completed_Percentage": 6.59,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1565,6 +1565,11 @@
       "Time": "2023-10-29T16:05:44.5599405+00:00",
       "NumProgressed": 333,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-31T14:06:29.4905627+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1574,9 +1579,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "END_GOOD",
@@ -1775,14 +1780,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:10:23.5171703+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:06:29.490562+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:03:36.6777972+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:10:23.5172173+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:59:35.1317508+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:06:29.4905912+00:00"
 }

@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 1.00% | ~1,384 |
 | Flooding the Market | 1.00% | ~1,384 |
 | Where it Hurts | 1.00% | ~1,384 |
+| Power of Love | 1.00% | ~1,384 |
 | Efficient Floor Space | 1.00% | ~1,384 |
 | Flawless Fusion | 1.00% | ~1,384 |
 | Gem Expert | 1.00% | ~1,384 |
@@ -43,7 +44,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 1.00% | ~1,384 |
 | Tax not Included | 0.90% | ~1,246 |
 | Fated Encounters | 0.90% | ~1,246 |
-| Power of Love | 0.90% | ~1,246 |
 | Trash to Treasure | 0.90% | ~1,246 |
 | Royal Ransom | 0.90% | ~1,246 |
 | Magical Harmony | 0.90% | ~1,246 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,390 (Ranked 77)  
-Completed: 178 (0.13%) (Ranked 252)  
+Progressed: 138,391 (Ranked 77)  
+Completed: 178 (0.13%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,17 +313,17 @@ Completed: 178 (0.13%) (Ranked 252)
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
 | 2023-10-30 | 138,369 | 176 |
-| 2023-10-31 | 138,390 | 178 |
+| 2023-10-31 | 138,391 | 178 |
 ## Awards
 Max (Great for Beginners): 4,811  (Ranked 73)  
-Sum: 27,474 (Ranked 51)  
+Sum: 27,476 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,811 |
 | This game is Relaxing | 4,034 |
 | This game has Quickly Understood Controls | 4,021 |
-| This game has Diverse Characters | 3,928 |
+| This game has Diverse Characters | 3,930 |
 | This game is Highly Recommended | 3,769 |
 | This game has Easy Combat | 3,717 |
 | This game has Playful Visuals | 3,194 |
@@ -605,4 +605,4 @@ Diff (max vs sum): 22
 | 2023-10-28 | 3.99 | - | 4,804 | 27,461 |
 | 2023-10-29 | 3.99 | - | 4,807 | 27,465 |
 | 2023-10-30 | 3.99 | - | 4,811 | 27,473 |
-| 2023-10-31 | 3.99 | - | 4,811 | 27,474 |
+| 2023-10-31 | 3.99 | - | 4,811 | 27,476 |

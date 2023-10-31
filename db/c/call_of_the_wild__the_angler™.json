@@ -9101,17 +9101,17 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -9332,8 +9332,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:13:21.0818598+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:08:50.7569605+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:05:28.7647335+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:13:21.0820129+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:01:44.3406942+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:08:50.7570424+00:00"
 }

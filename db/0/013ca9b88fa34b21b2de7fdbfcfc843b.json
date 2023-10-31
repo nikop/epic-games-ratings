@@ -163,9 +163,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7383,
+  "EOS_Progressed": 7384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5733,6 +5733,11 @@
       "Time": "2023-10-31T12:08:39.8582312+00:00",
       "NumProgressed": 7383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T14:09:01.6534776+00:00",
+      "NumProgressed": 7384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5753,7 +5758,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5769,7 +5774,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5903,9 +5908,9 @@
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2363
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -5921,7 +5926,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5993,7 +5998,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -6009,7 +6014,7 @@
       "Name": "House Proud",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -6017,23 +6022,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7383,
+      "Progressed": 7384,
       "Completed": 0
+    },
+    {
+      "ID": "6p01o4j",
+      "IsBase": false,
+      "Progressed": 1,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:13:30.3613587+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:09:01.6534767+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:03:59.7078486+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:13:30.3614645+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:59:59.4225211+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:09:01.653542+00:00"
 }

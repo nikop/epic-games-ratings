@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 998,
+  "EOS_Progressed": 999,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-10-31T06:08:26.6692351+00:00",
       "NumProgressed": 998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T14:08:27.1299523+00:00",
+      "NumProgressed": 999,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2533,7 +2538,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2565,7 +2570,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2725,7 +2730,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2813,7 +2818,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2821,7 +2826,7 @@
       "Name": "Decakill!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2845,7 +2850,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2885,7 +2890,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2917,7 +2922,7 @@
       "Name": "Night Snack",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -2957,7 +2962,7 @@
       "Name": "The Last of Us",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -2973,7 +2978,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3052,14 +3057,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 998,
+      "Progressed": 999,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:13:01.2748472+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:08:27.1299518+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:02:34.0512008+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:13:01.2749936+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:58:15.7475988+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:08:27.1300268+00:00"
 }

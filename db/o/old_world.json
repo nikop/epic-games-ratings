@@ -1956,9 +1956,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15062,
+  "EOS_Progressed": 15063,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15101,6 +15101,11 @@
       "Time": "2023-10-31T11:06:16.8688549+00:00",
       "NumProgressed": 15062,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T14:07:22.7597921+00:00",
+      "NumProgressed": 15063,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15544,7 +15549,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -15736,7 +15741,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -15752,7 +15757,7 @@
       "Name": "Subjugator",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -15976,7 +15981,7 @@
       "Name": "Landowners",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -16024,7 +16029,7 @@
       "Name": "Friendly Family",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -16424,7 +16429,7 @@
       "Name": "Hittite Iron",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -16472,7 +16477,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -16568,7 +16573,7 @@
       "Name": "Pantheon",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -16584,7 +16589,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -16656,7 +16661,7 @@
       "Name": "Learn to Play 4",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -16864,7 +16869,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -17064,15 +17069,15 @@
       "Name": "Military Prestige",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -17088,7 +17093,7 @@
       "Name": "Gnosticism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -17120,7 +17125,7 @@
       "Name": "Revelation",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -17160,7 +17165,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -17192,7 +17197,7 @@
       "Name": "Phalangite",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -17248,7 +17253,7 @@
       "Name": "Double Victory",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -17847,21 +17852,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15062,
+      "Progressed": 15063,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15062,
+      "Progressed": 15063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T09:58:27.8369876+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:11:08.9167359+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:07:22.7597909+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:02:52.6816015+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:11:08.9191301+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:58:37.6716895+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:07:22.7610913+00:00"
 }

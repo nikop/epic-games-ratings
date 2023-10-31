@@ -15,14 +15,14 @@ Rating: 4.16 (Ranked 926)
 | Pulling Your Weight | 3.00% | ~1,958 |
 | Reaping Rivals | 3.00% | ~1,958 |
 | fifteenth Time's the Charm | 1.00% | ~653 |
-| More Power to You | 0.90% | ~587 |
+| More Power to You | 0.90% | ~588 |
 | Memory Keeper | 0.30% | ~196 |
 | Gone Rogue | 0.30% | ~196 |
 | Completely Customizable | 0.30% | ~196 |
 | Runs for Your Money | 0.30% | ~196 |
 | Past Master | 0.30% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,277 (Ranked 101)  
+Progressed: 65,278 (Ranked 101)  
 Completed: 27 (0.04%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 27 (0.04%) (Ranked 293)
 | 2023-10-28 | 64,988 | 26 |
 | 2023-10-29 | 65,145 | 26 |
 | 2023-10-30 | 65,249 | 27 |
-| 2023-10-31 | 65,277 | 27 |
+| 2023-10-31 | 65,278 | 27 |
 ## Awards
 Max (Great for Beginners): 78  (Ranked 384)  
 Sum: 278 (Ranked 364)  

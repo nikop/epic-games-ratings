@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~602 |
-| Settler | 4.00% | ~602 |
-| Friendly Family | 4.00% | ~602 |
-| Play a Single Player Game | 4.00% | ~602 |
+| Explorer | 4.00% | ~603 |
+| Settler | 4.00% | ~603 |
+| Friendly Family | 4.00% | ~603 |
+| Play a Single Player Game | 4.00% | ~603 |
 | Able | 3.00% | ~452 |
 | Architect | 3.00% | ~452 |
 | Good | 3.00% | ~452 |
@@ -97,19 +97,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
-| Subjugator | 0.80% | ~120 |
-| Landowners | 0.80% | ~120 |
-| Hittite Iron | 0.80% | ~120 |
-| Hagia Sophia | 0.80% | ~120 |
-| Pantheon | 0.80% | ~120 |
-| Via Recta Souk | 0.80% | ~120 |
-| Learn to Play 4 | 0.80% | ~120 |
-| Military Prestige | 0.80% | ~120 |
-| Gnosticism | 0.80% | ~120 |
-| Revelation | 0.80% | ~120 |
-| Cimmerian Archer | 0.80% | ~120 |
-| Phalangite | 0.80% | ~120 |
-| Double Victory | 0.80% | ~120 |
+| Subjugator | 0.80% | ~121 |
+| Landowners | 0.80% | ~121 |
+| Hittite Iron | 0.80% | ~121 |
+| Hagia Sophia | 0.80% | ~121 |
+| Pantheon | 0.80% | ~121 |
+| Via Recta Souk | 0.80% | ~121 |
+| Learn to Play 4 | 0.80% | ~121 |
+| Military Prestige | 0.80% | ~121 |
+| Dualism | 0.80% | ~121 |
+| Gnosticism | 0.80% | ~121 |
+| Revelation | 0.80% | ~121 |
+| Cimmerian Archer | 0.80% | ~121 |
+| Phalangite | 0.80% | ~121 |
+| Double Victory | 0.80% | ~121 |
 | Capable | 0.70% | ~105 |
 | Ready | 0.70% | ~105 |
 | Strong Difficulty | 0.70% | ~105 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.70% | ~105 |
 | Assyrian Paganism | 0.70% | ~105 |
 | Industrial Progress | 0.70% | ~105 |
-| Dualism | 0.70% | ~105 |
 | Enlightenment | 0.70% | ~105 |
 | Veneration | 0.70% | ~105 |
 | Mounted Lancer | 0.70% | ~105 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,062 (Ranked 144)  
+Progressed: 15,063 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
-| 2023-10-31 | 15,062 | 5 |
+| 2023-10-31 | 15,063 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,858 (Ranked 211)  

@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1728,
+  "EOS_Progressed": 1730,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6459,6 +6459,11 @@
       "Time": "2023-10-31T12:05:35.0145305+00:00",
       "NumProgressed": 1728,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T14:06:31.2366629+00:00",
+      "NumProgressed": 1730,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6484,9 +6489,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 138
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6582,7 +6587,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6590,7 +6595,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6654,7 +6659,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6773,7 +6778,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1728,
+      "Progressed": 1730,
       "Completed": 1
     }
   ],
@@ -6781,8 +6786,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:10:25.0871117+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:06:31.2366624+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:01:47.9213692+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:10:25.0872326+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:57:23.4563214+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:06:31.2367288+00:00"
 }

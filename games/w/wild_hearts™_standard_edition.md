@@ -33,7 +33,7 @@
 | Reincarnation Cycle Stopper | 35.00% | ~70 |
 | Artful Assister | 34.00% | ~68 |
 | Karakuri Isle | 33.00% | ~66 |
-| Left Arm Leverager | 30.00% | ~60 |
+| Left Arm Leverager | 31.00% | ~62 |
 | Human Believer | 29.00% | ~58 |
 | Unrivaled in Arms | 29.00% | ~58 |
 | Canyon of Karakuri | 28.00% | ~56 |

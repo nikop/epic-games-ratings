@@ -16,7 +16,7 @@
 | On The Rocks | 62.00% | ~23 |
 | Never Gets Old | 62.00% | ~23 |
 | The Fire Below the Mountain | 62.00% | ~23 |
-| No Bites | 54.00% | ~20 |
+| No Bites | 57.00% | ~21 |
 | Iceborn | 54.00% | ~20 |
 | Boom Things | 51.00% | ~19 |
 | Rhythm Of Willump | 51.00% | ~19 |
@@ -26,8 +26,8 @@
 | Snowball Fightn't | 49.00% | ~18 |
 | My Darkest Day | 46.00% | ~17 |
 | Tear of Freedom | 46.00% | ~17 |
+| 3000 Year Blackout | 46.00% | ~17 |
 | A Tragic Reminder | 43.00% | ~16 |
-| 3000 Year Blackout | 43.00% | ~16 |
 | The Relentless Storm | 43.00% | ~16 |
 | Snowy Poro | 41.00% | ~15 |
 | Bullseye | 41.00% | ~15 |

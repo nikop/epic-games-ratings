@@ -469,7 +469,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2967,
+  "EOS_Progressed": 2968,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
@@ -3749,6 +3749,11 @@
       "Time": "2023-10-31T13:09:57.5955706+00:00",
       "NumProgressed": 2967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T14:05:58.2602351+00:00",
+      "NumProgressed": 2968,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3777,7 +3782,7 @@
       "Name": "Big Spender",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_12",
@@ -3793,7 +3798,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_14",
@@ -3857,7 +3862,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "achievement_21",
@@ -3889,7 +3894,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_6",
@@ -3897,7 +3902,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "achievement_7",
@@ -3913,7 +3918,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_9",
@@ -3928,7 +3933,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2967,
+      "Progressed": 2968,
       "Completed": 0
     }
   ],
@@ -3936,8 +3941,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:09:57.5955701+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:05:58.2602345+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:05:00.2765098+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:09:57.5956063+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:01:12.4863169+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:05:58.2602668+00:00"
 }

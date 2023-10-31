@@ -1133,9 +1133,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -1429,9 +1429,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:09:48.9821338+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:05:48.0485919+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:01:58.4645579+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:09:48.9823272+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:57:36.7581147+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:05:48.0487046+00:00"
 }

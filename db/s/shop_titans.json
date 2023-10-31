@@ -6,7 +6,7 @@
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 77,
-  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
@@ -6737,10 +6737,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27474,
       "NumberOfAwardsMax": 4811
+    },
+    {
+      "Time": "2023-10-31T13:59:42.8082366+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27476,
+      "NumberOfAwardsMax": 4811
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27474,
+  "NumberOfAwards": 27476,
   "NumberOfAwardsMax": 4811,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6754,7 +6760,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3928
+      "Count": 3930
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6793,9 +6799,9 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138390,
+  "EOS_Progressed": 138391,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26603,6 +26609,11 @@
       "Time": "2023-10-31T13:10:05.1619355+00:00",
       "NumProgressed": 138390,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-10-31T14:06:07.5372219+00:00",
+      "NumProgressed": 138391,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26972,9 +26983,9 @@
       "ID": "energy02",
       "SetID": "anfd17p",
       "Name": "Power of Love",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1384
     },
     {
       "ID": "energy03",
@@ -27509,15 +27520,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138390,
+      "Progressed": 138391,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-10-31T05:01:01.1732518+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:10:05.1619348+00:00",
+  "LastChanged": "2023-10-31T13:59:42.8082364+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:06:07.5372212+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:03:45.1262967+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:10:05.162532+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:59:42.8082371+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:06:07.5374999+00:00"
 }

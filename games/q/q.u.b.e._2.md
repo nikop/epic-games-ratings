@@ -6,28 +6,28 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~26,306 |
-| Quick Understanding of Block Extrusion | 68.00% | ~23,851 |
-| Nature or Nurture | 51.00% | ~17,888 |
-| Power Glove | 49.00% | ~17,187 |
-| Forgotten Memories | 42.00% | ~14,732 |
-| Cogs in the Machine | 35.00% | ~12,276 |
-| Mission Success | 21.00% | ~7,366 |
-| There's No Place Like Home | 20.00% | ~7,015 |
-| Green Cube Killer | 18.00% | ~6,314 |
-| Path to Salvation | 15.00% | ~5,261 |
-| Infinity Loop | 14.00% | ~4,911 |
-| Descendants | 12.00% | ~4,209 |
-| The Flawed Teacher | 10.00% | ~3,508 |
+| Lost in Space | 75.00% | ~26,317 |
+| Quick Understanding of Block Extrusion | 68.00% | ~23,861 |
+| Nature or Nurture | 51.00% | ~17,895 |
+| Power Glove | 49.00% | ~17,194 |
+| Forgotten Memories | 42.00% | ~14,737 |
+| Cogs in the Machine | 35.00% | ~12,281 |
+| Mission Success | 21.00% | ~7,369 |
+| There's No Place Like Home | 20.00% | ~7,018 |
+| Green Cube Killer | 18.00% | ~6,316 |
+| Path to Salvation | 15.00% | ~5,263 |
+| Infinity Loop | 14.00% | ~4,912 |
+| Descendants | 12.00% | ~4,211 |
+| The Flawed Teacher | 10.00% | ~3,509 |
 | To Infinity and Beyond | 5.00% | ~1,754 |
-| The Truthful Enemy | 4.00% | ~1,403 |
+| The Truthful Enemy | 4.00% | ~1,404 |
 | Laser Sharp | 2.00% | ~702 |
 | Bronze collector | 1.00% | ~351 |
 | Home Stretch | 1.00% | ~351 |
 | Gold collector | 1.00% | ~351 |
+| Silver collector | 1.00% | ~351 |
 | Get me out of here | 1.00% | ~351 |
 | True collector | 0.90% | ~316 |
-| Silver collector | 0.90% | ~316 |
 | Puzzle Master | 0.80% | ~281 |
 | King of the Collectables | 0.70% | ~246 |
 | Competent Collector | 0.70% | ~246 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.70% | ~246 |
 | Expert Collector | 0.70% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,075 (Ranked 120)  
+Progressed: 35,089 (Ranked 120)  
 Completed: 103 (0.29%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 103 (0.29%) (Ranked 221)
 | 2023-10-28 | 34,089 | 92 |
 | 2023-10-29 | 34,610 | 101 |
 | 2023-10-30 | 34,937 | 101 |
-| 2023-10-31 | 35,075 | 103 |
+| 2023-10-31 | 35,089 | 103 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -200,9 +200,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EV_ACH05",
@@ -224,9 +224,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "EV_ACH08",
@@ -534,8 +534,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:13:35.7620323+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:09:08.2058358+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.241403+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:02:36.2638862+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:13:35.7620955+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:58:17.7170893+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:09:08.2058695+00:00"
 }

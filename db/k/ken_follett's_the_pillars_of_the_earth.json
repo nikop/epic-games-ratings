@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 561,
   "Ranking_Popularity": 308,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 153,
@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16067,
+  "EOS_Progressed": 16069,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13092,6 +13092,11 @@
       "Time": "2023-10-31T13:09:55.3916889+00:00",
       "NumProgressed": 16067,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-31T14:05:55.730145+00:00",
+      "NumProgressed": 16069,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13103,7 +13108,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "tpote_achievement_10",
@@ -13119,7 +13124,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3695
+      "UsersEstimate": 3696
     },
     {
       "ID": "tpote_achievement_12",
@@ -13143,7 +13148,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5302
+      "UsersEstimate": 5303
     },
     {
       "ID": "tpote_achievement_15",
@@ -13159,7 +13164,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "tpote_achievement_17",
@@ -13167,7 +13172,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "tpote_achievement_18",
@@ -13191,7 +13196,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5302
+      "UsersEstimate": 5303
     },
     {
       "ID": "tpote_achievement_20",
@@ -13207,7 +13212,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4820
+      "UsersEstimate": 4821
     },
     {
       "ID": "tpote_achievement_22",
@@ -13215,7 +13220,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "tpote_achievement_23",
@@ -13231,7 +13236,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "tpote_achievement_25",
@@ -13279,7 +13284,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "tpote_achievement_30",
@@ -13303,7 +13308,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "tpote_achievement_33",
@@ -13319,7 +13324,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "tpote_achievement_35",
@@ -13367,7 +13372,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6427
+      "UsersEstimate": 6428
     },
     {
       "ID": "tpote_achievement_40",
@@ -13391,7 +13396,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "tpote_achievement_6",
@@ -13399,7 +13404,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "tpote_achievement_7",
@@ -13413,9 +13418,9 @@
       "ID": "tpote_achievement_8",
       "SetID": "3jcf6c3",
       "Name": "Help an old friend",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3374
+      "UsersEstimate": 3535
     },
     {
       "ID": "tpote_achievement_9",
@@ -13430,15 +13435,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16067,
+      "Progressed": 16069,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:09:55.3916883+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:05:55.7301441+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:05:23.876433+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:09:55.3918821+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:01:38.7737169+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:05:55.7302515+00:00"
 }

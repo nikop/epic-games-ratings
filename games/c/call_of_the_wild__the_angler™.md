@@ -10,6 +10,8 @@ Number of Ratings: 281  (23.09.2022)
 | Hey Good Hookin | 0.10% | ~6 |
 | Fish Out of Water | 0.10% | ~6 |
 | Things that go Splash in the Night | 0.10% | ~6 |
+| Goldfish? | 0.10% | ~6 |
+| Going for Gold | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
 | No Fin left to give | 0.10% | ~6 |
 | Taylor Made | 0.10% | ~6 |
@@ -24,8 +26,6 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 0.00% | ~0 |
 | I'm the Captain Now | 0.00% | ~0 |
 | Hook, Line and Sinker | 0.00% | ~0 |
-| Goldfish? | 0.00% | ~0 |
-| Going for Gold | 0.00% | ~0 |
 | School's Out for Summer | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
 | Lake Me up Before You Go Go | 0.00% | ~0 |

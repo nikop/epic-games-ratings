@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1964,
+  "EOS_Progressed": 1965,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-10-31T13:09:49.6003842+00:00",
       "NumProgressed": 1964,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-31T14:05:48.8719978+00:00",
+      "NumProgressed": 1965,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2658,7 +2663,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2714,15 +2719,15 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_LETS_RIDE",
       "SetID": "8j30i9k",
       "Name": "Let\u2019s Ride",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2866,7 +2871,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2946,7 +2951,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2993,15 +2998,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1964,
+      "Progressed": 1965,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-31T13:09:49.6003836+00:00",
+  "LastChanged_Achievements": "2023-10-31T14:05:48.8719972+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:03:29.7324605+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:09:49.6004655+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:59:26.3471177+00:00",
+  "LastUpdate_Achievements": "2023-10-31T14:05:48.8720509+00:00"
 }

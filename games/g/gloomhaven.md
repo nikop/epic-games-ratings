@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,471 |
-| Overkill | 35.00% | ~6,081 |
-| Vaccine Incoming | 33.00% | ~5,734 |
-| A normal day in Gloomhaven | 33.00% | ~5,734 |
-| Spread the plague | 30.00% | ~5,212 |
-| Get over here! | 25.00% | ~4,344 |
-| Just when I thought I was out... | 19.00% | ~3,301 |
-| Precious! | 17.00% | ~2,954 |
-| Mine... All Mine... | 17.00% | ~2,954 |
-| Light of my life | 15.00% | ~2,606 |
-| Anatomy Lesson | 15.00% | ~2,606 |
+| I'm not dead yet | 43.00% | ~7,474 |
+| Overkill | 35.00% | ~6,084 |
+| Vaccine Incoming | 33.00% | ~5,736 |
+| A normal day in Gloomhaven | 33.00% | ~5,736 |
+| Spread the plague | 30.00% | ~5,215 |
+| Get over here! | 25.00% | ~4,346 |
+| Just when I thought I was out... | 19.00% | ~3,303 |
+| Precious! | 17.00% | ~2,955 |
+| Mine... All Mine... | 17.00% | ~2,955 |
+| Light of my life | 15.00% | ~2,607 |
+| Anatomy Lesson | 15.00% | ~2,607 |
 | Grizzled veteran | 14.00% | ~2,433 |
-| You activated my trap card! | 13.00% | ~2,259 |
-| Obstacle race | 13.00% | ~2,259 |
-| Augmented rat | 12.00% | ~2,085 |
-| Doom and gloom | 11.00% | ~1,911 |
+| You activated my trap card! | 13.00% | ~2,260 |
+| Obstacle race | 13.00% | ~2,260 |
+| Augmented rat | 12.00% | ~2,086 |
+| Doom and gloom | 11.00% | ~1,912 |
 | Who's the Boss? | 9.00% | ~1,564 |
-| Dungeon Veteran | 8.00% | ~1,390 |
-| Pack leader | 8.00% | ~1,390 |
-| Pain is your friend | 8.00% | ~1,390 |
-| Black death | 8.00% | ~1,390 |
-| Play it again, Sam | 8.00% | ~1,390 |
-| Quad damage | 6.00% | ~1,042 |
+| Dungeon Veteran | 8.00% | ~1,391 |
+| Pack leader | 8.00% | ~1,391 |
+| Pain is your friend | 8.00% | ~1,391 |
+| Black death | 8.00% | ~1,391 |
+| Play it again, Sam | 8.00% | ~1,391 |
+| Quad damage | 6.00% | ~1,043 |
 | Power Up! | 5.00% | ~869 |
 | The Pro from Dover | 5.00% | ~869 |
 | Pretty lights! | 5.00% | ~869 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,375 (Ranked 135)  
+Progressed: 17,382 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.01%) (Ranked 313)
 | 2023-10-28 | 16,804 | 1 |
 | 2023-10-29 | 17,093 | 1 |
 | 2023-10-30 | 17,315 | 1 |
-| 2023-10-31 | 17,375 | 1 |
+| 2023-10-31 | 17,382 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,323 (Ranked 98)  
