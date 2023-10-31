@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.21% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.53% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.50% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -147,9 +147,9 @@
 | 145 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
 | 146 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 147 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
-| 148 | [Adios](games/a/adios.md) | 1.05% |
-| 148 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 148 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 148 | [Adios](games/a/adios.md) | 1.06% |
+| 149 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 149 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 151 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 152 | [Sable](games/s/sable.md) | 1.01% |
 | 153 | [Trifox](games/t/trifox.md) | 0.98% |
@@ -254,13 +254,13 @@
 | 251 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 251 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 251 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
+| 255 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.12% |
 | 255 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 255 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 257 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
-| 257 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.11% |
-| 257 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
-| 257 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 257 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.11% |
+| 258 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
+| 258 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
+| 258 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
+| 258 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.11% |
 | 262 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 262 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 262 | [House Flipper](games/h/house_flipper.md) | 0.10% |
