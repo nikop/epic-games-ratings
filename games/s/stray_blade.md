@@ -28,6 +28,7 @@
 | Through Dangers Untold | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
 | A Deceiving Gift | 6.00% | ~7 |
+| Unveiling the Truth | 5.00% | ~6 |
 | Defeat Ingla | 4.00% | ~4 |
 | Bringing guns to a sword fight | 4.00% | ~4 |
 | Ancient Powers | 4.00% | ~4 |
@@ -35,7 +36,6 @@
 | Pathfinder | 4.00% | ~4 |
 | The End | 4.00% | ~4 |
 | But what of the Acreans? | 4.00% | ~4 |
-| Unveiling the Truth | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |

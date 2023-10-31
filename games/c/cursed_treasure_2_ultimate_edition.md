@@ -25,7 +25,7 @@
 | Top of the World | 69.00% | ~119 |
 | Sharpshooter | 69.00% | ~119 |
 | The Apotheosis of War | 68.00% | ~118 |
-| Stasis Alcatraz | 67.00% | ~116 |
+| Stasis Alcatraz | 68.00% | ~118 |
 | Tastes Like Chicken | 63.00% | ~109 |
 | Brilliant: Holy Mountain | 62.00% | ~107 |
 | Combo Breaker | 62.00% | ~107 |
@@ -59,7 +59,7 @@
 | Hostile Waters | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 173 (Ranked 363)  
-Completed: 26 (15.03%) (Ranked 22)  
+Completed: 26 (15.03%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

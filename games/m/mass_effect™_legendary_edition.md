@@ -30,7 +30,7 @@
 | Krogan Ally | 45.00% | ~393 |
 | Missing in Action | 45.00% | ~393 |
 | Very Elusive | 45.00% | ~393 |
-| Head Hunter | 44.00% | ~385 |
+| Head Hunter | 45.00% | ~393 |
 | Sentinel Ally | 43.00% | ~376 |
 | Operative | 43.00% | ~376 |
 | Scholar | 43.00% | ~376 |
@@ -51,22 +51,22 @@
 | The Justicar | 34.00% | ~297 |
 | Ghost of the Father | 34.00% | ~297 |
 | The Prodigal | 34.00% | ~297 |
+| Shopaholic | 34.00% | ~297 |
 | Battlemaster | 33.00% | ~288 |
 | Catharsis | 33.00% | ~288 |
 | The Cure | 33.00% | ~288 |
 | Big Game Hunter | 33.00% | ~288 |
 | Revenge! | 33.00% | ~288 |
 | Heart of Darkness | 33.00% | ~288 |
-| Shopaholic | 33.00% | ~288 |
 | Archivist | 32.00% | ~280 |
 | Fade Away | 32.00% | ~280 |
 | Agent | 32.00% | ~280 |
+| Driven | 32.00% | ~280 |
 | Focused | 31.00% | ~271 |
 | Cat's in the Cradle | 31.00% | ~271 |
 | Doppelganger | 31.00% | ~271 |
 | Treason | 31.00% | ~271 |
 | Digital Exorcist | 31.00% | ~271 |
-| Driven | 31.00% | ~271 |
 | Bringer of War | 31.00% | ~271 |
 | Friend or Foe | 30.00% | ~262 |
 | Mission Accomplished | 29.00% | ~253 |

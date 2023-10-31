@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | All Good Kings Must Come to an End | 0.00% | ~0 |
 | Three Square Meals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,169 (Ranked 176)  
+Progressed: 6,170 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 6,152 | 0 |
 | 2023-10-29 | 6,157 | 0 |
 | 2023-10-30 | 6,167 | 0 |
-| 2023-10-31 | 6,169 | 0 |
+| 2023-10-31 | 6,170 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 186 (Ranked 402)  

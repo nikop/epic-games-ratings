@@ -2,13 +2,13 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1381,7 +1381,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13309,
+  "EOS_Progressed": 13310,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -13456,6 +13456,11 @@
       "Time": "2023-10-31T14:08:12.4564011+00:00",
       "NumProgressed": 13309,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-10-31T15:09:05.5560372+00:00",
+      "NumProgressed": 13310,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13467,7 +13472,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10913
+      "UsersEstimate": 10914
     },
     {
       "ID": "ACH02",
@@ -13579,7 +13584,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH16",
@@ -13611,7 +13616,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH20",
@@ -13643,7 +13648,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ACH24",
@@ -13746,7 +13751,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13309,
+      "Progressed": 13310,
       "Completed": 50
     }
   ],
@@ -13754,8 +13759,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-10-31T07:02:04.8149442+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:08:12.4564006+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:09:05.5560367+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:00:29.7468217+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:08:12.4565041+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:01:40.4400416+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:09:05.5561554+00:00"
 }

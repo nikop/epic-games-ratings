@@ -23,10 +23,10 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.80% | ~1,246 |
 | Shapely | 0.70% | ~1,090 |
 | Glare | 0.70% | ~1,087 |
+| Predator | 0.70% | ~1,090 |
 | Assimilation | 0.60% | ~935 |
 | Host | 0.60% | ~932 |
 | Celebration | 0.60% | ~935 |
-| Predator | 0.60% | ~935 |
 | Hunt Down | 0.50% | ~779 |
 | All-Seeing | 0.50% | ~779 |
 | Dream | 0.50% | ~777 |
@@ -36,9 +36,9 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.40% | ~623 |
 | Breathsmith | 0.40% | ~623 |
 | Bloodhunter | 0.30% | ~467 |
+| Zygote | 0.30% | ~466 |
 | Unwrap the Gift | 0.30% | ~467 |
 | Passage | 0.30% | ~467 |
-| Zygote | 0.20% | ~311 |
 | Kinship | 0.20% | ~312 |
 | Weakness | 0.20% | ~312 |
 | Kin | 0.20% | ~311 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,751 (Ranked 75)  
+Progressed: 155,755 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
-| 2023-10-31 | 155,751 | 1 |
+| 2023-10-31 | 155,755 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 423)  
 Sum: 336 (Ranked 350)  

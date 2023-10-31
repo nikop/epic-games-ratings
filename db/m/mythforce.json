@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4565,
+  "EOS_Progressed": 4566,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8444,6 +8444,11 @@
       "Time": "2023-10-31T13:13:51.7837412+00:00",
       "NumProgressed": 4565,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T15:10:34.7134933+00:00",
+      "NumProgressed": 4566,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8456,7 +8461,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8504,7 +8509,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8566,9 +8571,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 1005
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8576,7 +8581,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -8639,15 +8644,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4565,
+      "Progressed": 4566,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:09:26.2909279+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:10:34.7134928+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:59:20.1012258+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:09:26.2909906+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:00:14.191084+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:10:34.7135589+00:00"
 }

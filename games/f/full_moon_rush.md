@@ -11,6 +11,7 @@
 | BOSS 15 | 100.00% | ~1 |
 | BOSS 2 | 100.00% | ~1 |
 | BOSS 7 | 100.00% | ~1 |
+| BOSS 8 | 100.00% | ~1 |
 | BOSS 10 | 0.00% | ~0 |
 | BOSS 13 | 0.00% | ~0 |
 | BOSS 14 | 0.00% | ~0 |
@@ -18,11 +19,10 @@
 | BOSS 4 | 0.00% | ~0 |
 | BOSS 5 | 0.00% | ~0 |
 | BOSS 6 | 0.00% | ~0 |
-| BOSS 8 | 0.00% | ~0 |
 | Boss 9 | 0.00% | ~0 |
 | GAMING GOD | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 657)  
+Progressed: 1 (Ranked 658)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |

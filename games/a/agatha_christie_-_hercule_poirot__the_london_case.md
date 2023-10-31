@@ -9,9 +9,9 @@
 | The Ship | 64.00% | ~18 |
 | Seeking the truth | 61.00% | ~17 |
 | An old friend | 57.00% | ~16 |
-| The Gala | 50.00% | ~14 |
-| A curious gathering | 50.00% | ~14 |
-| Little grey cells | 46.00% | ~13 |
+| The Gala | 54.00% | ~15 |
+| A curious gathering | 54.00% | ~15 |
+| Little grey cells | 50.00% | ~14 |
 | Impossible is possible | 46.00% | ~13 |
 | The Missing Magdalene | 46.00% | ~13 |
 | Arthur Hastings | 46.00% | ~13 |
@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 490)  
+Progressed: 28 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |

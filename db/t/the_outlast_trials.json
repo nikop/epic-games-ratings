@@ -3,12 +3,12 @@
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 290,
-  "Ranking_Popularity": 313,
-  "Ranking_PopularitySum": 254,
+  "Ranking_Popularity": 311,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -2629,11 +2629,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 996,
       "NumberOfAwardsMax": 146
+    },
+    {
+      "Time": "2023-10-31T15:01:57.9533247+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1000,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 996,
-  "NumberOfAwardsMax": 146,
+  "NumberOfAwards": 1000,
+  "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2664,7 +2670,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 146
+      "Count": 150
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2709,8 +2715,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-10-31T07:02:26.4045949+00:00",
+  "LastChanged": "2023-10-31T15:01:57.9533243+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:41.4786281+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:00:46.3660609+00:00",
-  "LastUpdate_Achievements": "2023-10-31T13:08:42.8761263+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:01:57.9533252+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:04:01.9156472+00:00"
 }

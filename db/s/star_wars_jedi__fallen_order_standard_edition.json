@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
     "PcReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15075,
+  "EOS_Progressed": 15086,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 1502,
+  "EOS_NewPlayers": 1494,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -7199,6 +7199,11 @@
       "Time": "2023-10-31T14:06:47.882938+00:00",
       "NumProgressed": 15075,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-10-31T15:08:13.2004336+00:00",
+      "NumProgressed": 15086,
+      "NumCompleted": 157
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -7211,7 +7216,7 @@
       "Name": "Kicking Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_10",
@@ -7219,7 +7224,7 @@
       "Name": "Everything is Connected",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 9196
+      "UsersEstimate": 9202
     },
     {
       "ID": "achievement_11",
@@ -7227,7 +7232,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 6934
+      "UsersEstimate": 6940
     },
     {
       "ID": "achievement_12",
@@ -7235,7 +7240,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 10552
+      "UsersEstimate": 10560
     },
     {
       "ID": "achievement_13",
@@ -7243,7 +7248,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8448
     },
     {
       "ID": "achievement_14",
@@ -7251,7 +7256,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "achievement_15",
@@ -7259,7 +7264,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 7688
+      "UsersEstimate": 7694
     },
     {
       "ID": "achievement_16",
@@ -7267,7 +7272,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 7387
+      "UsersEstimate": 7392
     },
     {
       "ID": "achievement_17",
@@ -7275,7 +7280,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 7085
+      "UsersEstimate": 7090
     },
     {
       "ID": "achievement_18",
@@ -7283,7 +7288,7 @@
       "Name": "Back At You",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 11156
+      "UsersEstimate": 11164
     },
     {
       "ID": "achievement_19",
@@ -7291,7 +7296,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7996
     },
     {
       "ID": "achievement_2",
@@ -7299,7 +7304,7 @@
       "Name": "Collector",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "achievement_20",
@@ -7315,7 +7320,7 @@
       "Name": "Triple Take",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2112
     },
     {
       "ID": "achievement_22",
@@ -7323,7 +7328,7 @@
       "Name": "What Goes Around...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_23",
@@ -7331,7 +7336,7 @@
       "Name": "Big Bang",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "achievement_24",
@@ -7339,7 +7344,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6336
     },
     {
       "ID": "achievement_25",
@@ -7347,7 +7352,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "achievement_26",
@@ -7355,7 +7360,7 @@
       "Name": "Look Out Below",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 6784
+      "UsersEstimate": 6789
     },
     {
       "ID": "achievement_27",
@@ -7371,7 +7376,7 @@
       "Name": "Bank Shot",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 8291
+      "UsersEstimate": 8297
     },
     {
       "ID": "achievement_29",
@@ -7379,7 +7384,7 @@
       "Name": "Blade Master",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5884
     },
     {
       "ID": "achievement_3",
@@ -7387,7 +7392,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3319
     },
     {
       "ID": "achievement_30",
@@ -7395,7 +7400,7 @@
       "Name": "Cal Got Your Tongue?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2112
     },
     {
       "ID": "achievement_31",
@@ -7403,7 +7408,7 @@
       "Name": "Medical Droid",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_32",
@@ -7419,7 +7424,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 5578
+      "UsersEstimate": 5582
     },
     {
       "ID": "achievement_34",
@@ -7427,7 +7432,7 @@
       "Name": "Data Disk",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "achievement_35",
@@ -7435,7 +7440,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 12060
+      "UsersEstimate": 12069
     },
     {
       "ID": "achievement_36",
@@ -7443,7 +7448,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 7688
+      "UsersEstimate": 7694
     },
     {
       "ID": "achievement_37",
@@ -7451,7 +7456,7 @@
       "Name": "Data Collector",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_38",
@@ -7459,7 +7464,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6638
     },
     {
       "ID": "achievement_39",
@@ -7467,7 +7472,7 @@
       "Name": "Echo Location",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3017
     },
     {
       "ID": "achievement_4",
@@ -7475,7 +7480,7 @@
       "Name": "Feel the Force",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "achievement_5",
@@ -7491,7 +7496,7 @@
       "Name": "Trust Only In The Force",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6638
     },
     {
       "ID": "achievement_7",
@@ -7499,7 +7504,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 15075
+      "UsersEstimate": 15086
     },
     {
       "ID": "achievement_8",
@@ -7507,7 +7512,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 14020
+      "UsersEstimate": 14030
     },
     {
       "ID": "achievement_9",
@@ -7515,14 +7520,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 11909
+      "UsersEstimate": 11918
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 15075,
+      "Progressed": 15086,
       "Completed": 157
     }
   ],
@@ -7530,8 +7535,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-10-25T21:00:05.5582178+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:06:47.8829375+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:08:13.2004331+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:44.1681656+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:57:35.9147296+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:06:47.8830101+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:57:56.016538+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:08:13.2005237+00:00"
 }

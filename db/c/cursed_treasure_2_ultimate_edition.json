@@ -3,9 +3,9 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_Completed": 21,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -626,9 +626,9 @@
       "ID": "BADGE_STASIS_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Stasis Alcatraz",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "BADGE_THUNDER_COUNT",
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:05:14.6768183+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:06:22.880497+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.3625414+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:59:42.4559567+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:05:14.6768645+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:00:42.6646003+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:06:22.8805442+00:00"
 }

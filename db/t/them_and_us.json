@@ -2,10 +2,10 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 330,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1251,6 +1251,11 @@
       "Time": "2023-10-30T11:07:46.2837699+00:00",
       "NumProgressed": 290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T15:08:53.3748245+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1278,7 +1283,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1358,7 +1363,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1366,7 +1371,7 @@
       "Name": "Them and Us",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1422,7 +1427,7 @@
       "Name": "OUTRAGE",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ETUA_PTD",
@@ -1446,7 +1451,7 @@
       "Name": "Researcher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -1478,7 +1483,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -1572,16 +1577,16 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 1
     }
   ],
@@ -1589,8 +1594,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:07:21.6474954+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:08:53.3748239+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:57:53.1894242+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:07:21.6475346+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:58:20.7821487+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:08:53.3748711+00:00"
 }

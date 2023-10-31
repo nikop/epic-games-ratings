@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -766,11 +766,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 2178,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-10-31T15:02:46.0903658+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2179,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2178,
-  "NumberOfAwardsMax": 288,
+  "NumberOfAwards": 2179,
+  "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -795,7 +801,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 288
+      "Count": 289
     },
     {
       "Text": "This game has Amazing Characters",
@@ -834,9 +840,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 226104,
+  "EOS_Progressed": 226108,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22074,6 +22080,11 @@
       "Time": "2023-10-31T14:09:08.8934017+00:00",
       "NumProgressed": 226104,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T15:10:13.2337649+00:00",
+      "NumProgressed": 226108,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22085,7 +22096,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42960
+      "UsersEstimate": 42961
     },
     {
       "ID": "ACH_BASE_10",
@@ -22093,7 +22104,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58787
+      "UsersEstimate": 58788
     },
     {
       "ID": "ACH_BASE_11",
@@ -22125,7 +22136,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20349
+      "UsersEstimate": 20350
     },
     {
       "ID": "ACH_BASE_16",
@@ -22133,7 +22144,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22610
+      "UsersEstimate": 22611
     },
     {
       "ID": "ACH_BASE_17",
@@ -22141,7 +22152,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20349
+      "UsersEstimate": 20350
     },
     {
       "ID": "ACH_BASE_18",
@@ -22149,7 +22160,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20349
+      "UsersEstimate": 20350
     },
     {
       "ID": "ACH_BASE_19",
@@ -22333,7 +22344,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27132
+      "UsersEstimate": 27133
     },
     {
       "ID": "ACH_BASE_8",
@@ -22349,23 +22360,23 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20349
+      "UsersEstimate": 20350
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226104,
+      "Progressed": 226108,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-31T01:45:23.4949402+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:09:08.8934009+00:00",
+  "LastChanged": "2023-10-31T15:02:46.0903655+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:10:13.2337644+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:01:22.1749604+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:09:08.8935362+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:02:46.0903662+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:10:13.2339201+00:00"
 }

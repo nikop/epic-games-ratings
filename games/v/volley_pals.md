@@ -16,7 +16,7 @@
 | Custom Court | 31.00% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 124 (Ranked 386)  
-Completed: 36 (29.03%) (Ranked 9)  
+Completed: 36 (29.03%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

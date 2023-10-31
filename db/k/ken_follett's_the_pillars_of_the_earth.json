@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16069,
+  "EOS_Progressed": 16070,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13097,6 +13097,11 @@
       "Time": "2023-10-31T14:05:55.730145+00:00",
       "NumProgressed": 16069,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-31T15:07:11.7130653+00:00",
+      "NumProgressed": 16070,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13132,7 +13137,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "tpote_achievement_13",
@@ -13140,7 +13145,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "tpote_achievement_14",
@@ -13188,7 +13193,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "tpote_achievement_2",
@@ -13260,7 +13265,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "tpote_achievement_28",
@@ -13300,7 +13305,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2892
+      "UsersEstimate": 2893
     },
     {
       "ID": "tpote_achievement_32",
@@ -13348,7 +13353,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "tpote_achievement_38",
@@ -13418,9 +13423,9 @@
       "ID": "tpote_achievement_8",
       "SetID": "3jcf6c3",
       "Name": "Help an old friend",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3375
     },
     {
       "ID": "tpote_achievement_9",
@@ -13428,22 +13433,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5463
+      "UsersEstimate": 5464
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16069,
+      "Progressed": 16070,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:05:55.7301441+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:07:11.7130648+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:01:38.7737169+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:05:55.7302515+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:03:05.2360866+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:07:11.7131937+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1956,9 +1956,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15063,
+  "EOS_Progressed": 15065,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15106,6 +15106,11 @@
       "Time": "2023-10-31T14:07:22.7597921+00:00",
       "NumProgressed": 15063,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T15:08:54.9684808+00:00",
+      "NumProgressed": 15065,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15819,9 +15824,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -16587,9 +16592,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -16723,9 +16728,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -17852,21 +17857,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15063,
+      "Progressed": 15065,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15063,
+      "Progressed": 15065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T09:58:27.8369876+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:07:22.7597909+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:08:54.9684803+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:58:37.6716895+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:07:22.7610913+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:59:18.3673961+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:08:54.9698088+00:00"
 }

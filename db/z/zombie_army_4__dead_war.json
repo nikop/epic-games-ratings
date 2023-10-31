@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2280,7 +2280,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43750,
+  "EOS_Progressed": 43751,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -8185,6 +8185,11 @@
       "Time": "2023-10-31T07:09:30.239006+00:00",
       "NumProgressed": 43750,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-10-31T15:08:47.9680849+00:00",
+      "NumProgressed": 43751,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8196,7 +8201,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27125
+      "UsersEstimate": 27126
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8300,7 +8305,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17062
+      "UsersEstimate": 17063
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -8308,7 +8313,7 @@
       "Name": "People don\u0027t change. We go round in circles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "SE_COMPLETE_HELLBASE",
@@ -8340,7 +8345,7 @@
       "Name": "The blighters got through a second time.",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_HELLBASE",
@@ -8388,7 +8393,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27562
+      "UsersEstimate": 27563
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8436,7 +8441,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8312
+      "UsersEstimate": 8313
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -8460,7 +8465,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13562
+      "UsersEstimate": 13563
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -8468,7 +8473,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -8500,7 +8505,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22312
+      "UsersEstimate": 22313
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -8524,7 +8529,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30187
+      "UsersEstimate": 30188
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8548,7 +8553,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20562
+      "UsersEstimate": 20563
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -8556,7 +8561,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24937
+      "UsersEstimate": 24938
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -8564,7 +8569,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20562
+      "UsersEstimate": 20563
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -8580,7 +8585,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11812
+      "UsersEstimate": 11813
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -8596,7 +8601,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28875
+      "UsersEstimate": 28876
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8652,7 +8657,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28875
+      "UsersEstimate": 28876
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -8668,7 +8673,7 @@
       "Name": "I\u0027m a survivor!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "SE_REACH_WAVE_X_WITH_PISTOL",
@@ -8692,7 +8697,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -8700,7 +8705,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6562
+      "UsersEstimate": 6563
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -8723,15 +8728,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43750,
+      "Progressed": 43751,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-10-30T21:03:56.9666345+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:07:17.1725856+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:08:47.9680845+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:33.435612+00:00",
-  "LastUpdate_Ratings": "2023-10-31T14:02:59.0999799+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:07:17.1726845+00:00"
+  "LastUpdate_Ratings": "2023-10-31T15:03:51.140945+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:08:47.9681863+00:00"
 }

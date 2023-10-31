@@ -25,8 +25,8 @@
 | Postmaster | 8.00% | ~1 |
 | Combat Queen | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 544)  
-Completed: 1 (7.69%) (Ranked 47)  
+Progressed: 13 (Ranked 545)  
+Completed: 1 (7.69%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

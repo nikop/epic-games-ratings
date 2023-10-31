@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1315,9 +1315,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 155751,
+  "EOS_Progressed": 155755,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1387,
+  "EOS_NewPlayers": 1381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13810,6 +13810,11 @@
       "Time": "2023-10-31T14:06:11.0817127+00:00",
       "NumProgressed": 155751,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T15:07:30.0414644+00:00",
+      "NumProgressed": 155755,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13859,9 +13864,9 @@
       "ID": "ACQUIRE_FETALPEARLS",
       "SetID": "72k7oh",
       "Name": "Zygote",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 466
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -14043,9 +14048,9 @@
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 1090
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -14188,21 +14193,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155334,
+      "Progressed": 155338,
       "Completed": 1184
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155751,
+      "Progressed": 155755,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-31T13:57:50.9539881+00:00",
-  "LastChanged_Achievements": "2023-10-31T14:06:11.0817121+00:00",
+  "LastChanged_Achievements": "2023-10-31T15:07:30.041464+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-31T13:57:50.9539886+00:00",
-  "LastUpdate_Achievements": "2023-10-31T14:06:11.0818096+00:00"
+  "LastUpdate_Ratings": "2023-10-31T14:58:17.8973428+00:00",
+  "LastUpdate_Achievements": "2023-10-31T15:07:30.0415798+00:00"
 }
