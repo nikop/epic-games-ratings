@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1234,10 +1234,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 792,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-10-31T21:02:49.8140924+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 793,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 792,
+  "NumberOfAwards": 793,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1281,7 +1287,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game is Relaxing",
@@ -1296,9 +1302,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27305,
+  "EOS_Progressed": 27307,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22166,6 +22172,11 @@
       "Time": "2023-10-31T20:08:26.1274272+00:00",
       "NumProgressed": 27305,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-31T21:08:20.5069482+00:00",
+      "NumProgressed": 27307,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22249,7 +22260,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "1025",
@@ -22273,7 +22284,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "1028",
@@ -22289,7 +22300,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     },
     {
       "ID": "1030",
@@ -22313,7 +22324,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10922
+      "UsersEstimate": 10923
     },
     {
       "ID": "1033",
@@ -22345,22 +22356,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27305,
+      "Progressed": 27307,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-10-30T22:03:13.87385+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:08:26.1274267+00:00",
+  "LastChanged": "2023-10-31T21:02:49.8140922+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:08:20.5069478+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:02:49.4174809+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:08:26.127541+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:02:49.8140928+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:08:20.5070864+00:00"
 }

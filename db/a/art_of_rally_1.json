@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10297,
+  "EOS_Progressed": 10298,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -1769,6 +1769,11 @@
       "Time": "2023-10-29T12:05:12.553024+00:00",
       "NumProgressed": 10297,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-10-31T21:04:56.1109152+00:00",
+      "NumProgressed": 10298,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1788,7 +1793,7 @@
       "Name": "to finish first, first you must finish",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACH_ABSOLUTE_DRIFT",
@@ -1804,7 +1809,7 @@
       "Name": "autopilot",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -1900,7 +1905,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -1988,7 +1993,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5869
+      "UsersEstimate": 5870
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2004,7 +2009,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9885
+      "UsersEstimate": 9886
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2020,7 +2025,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6178
+      "UsersEstimate": 6179
     },
     {
       "ID": "ACH_NIGHT",
@@ -2052,7 +2057,7 @@
       "Name": "you can\u0027t treat a car like a human being. a car requires love",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACH_SIMULATOR",
@@ -2092,7 +2097,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2060
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -2116,22 +2121,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7414
+      "UsersEstimate": 7415
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10297,
+      "Progressed": 10298,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:05:12.3526915+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:04:56.1109147+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.7319401+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:58:59.9153089+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:05:12.3527277+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:58:42.9566506+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:04:56.1109963+00:00"
 }

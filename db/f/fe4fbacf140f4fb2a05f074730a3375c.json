@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -221,9 +221,9 @@
       "ID": "GoldenYouth",
       "SetID": "bl5ebnd",
       "Name": "Golden Youth",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Highway2Hell",
@@ -245,9 +245,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NewLife",
@@ -269,9 +269,9 @@
       "ID": "PetLover",
       "SetID": "bl5ebnd",
       "Name": "Pet Lover",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PortraitMadness",
@@ -332,8 +332,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:08:57.3428195+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:08:47.1630325+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:14.0090609+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:01:27.2100126+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:08:57.3428307+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:02:31.1819711+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:08:47.163046+00:00"
 }

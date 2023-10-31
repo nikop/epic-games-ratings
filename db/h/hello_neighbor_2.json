@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -441,9 +441,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3132,
+  "EOS_Progressed": 3133,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.09,
   "EosHistory": [
@@ -4336,6 +4336,11 @@
       "Time": "2023-10-31T20:02:57.5327499+00:00",
       "NumProgressed": 3132,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-10-31T21:02:57.2536418+00:00",
+      "NumProgressed": 3133,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 14,
@@ -4379,7 +4384,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -4411,7 +4416,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4458,7 +4463,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3132,
+      "Progressed": 3133,
       "Completed": 128
     }
   ],
@@ -4466,8 +4471,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-31T12:00:30.8622608+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:02:57.5327489+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:02:57.2536412+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:01:16.3633587+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:02:57.5332537+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:02:23.0116205+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:02:57.2536799+00:00"
 }

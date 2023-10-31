@@ -10,7 +10,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man I | 12.00% | ~518 |
 | A new beginning | 12.00% | ~518 |
 | Friends from the past | 10.00% | ~432 |
-| I like to build stuff... I | 9.00% | ~388 |
+| I like to build stuff... I | 9.00% | ~389 |
 | Builder I | 8.00% | ~345 |
 | An honorable Governor I | 8.00% | ~345 |
 | Researcher | 8.00% | ~345 |
@@ -37,18 +37,18 @@ Number of Ratings: 37  (23.09.2022)
 | Full-time job III | 4.00% | ~173 |
 | Tax-man IV | 4.00% | ~173 |
 | A time consuming game III | 4.00% | ~173 |
-| Another one bites the dust | 3.00% | ~129 |
-| Bread for the people III | 3.00% | ~129 |
-| I like to build stuff... IV | 3.00% | ~129 |
-| The King's new clothes II | 3.00% | ~129 |
-| Saint Florian | 3.00% | ~129 |
-| My precious... I | 3.00% | ~129 |
-| My precious... II | 3.00% | ~129 |
-| Cosmas and Damian | 3.00% | ~129 |
-| Builder III | 3.00% | ~129 |
-| A time consuming game IV | 3.00% | ~129 |
-| Tools of the trade II | 3.00% | ~129 |
-| Out of the frying pan | 3.00% | ~129 |
+| Another one bites the dust | 3.00% | ~130 |
+| Bread for the people III | 3.00% | ~130 |
+| I like to build stuff... IV | 3.00% | ~130 |
+| The King's new clothes II | 3.00% | ~130 |
+| Saint Florian | 3.00% | ~130 |
+| My precious... I | 3.00% | ~130 |
+| My precious... II | 3.00% | ~130 |
+| Cosmas and Damian | 3.00% | ~130 |
+| Builder III | 3.00% | ~130 |
+| A time consuming game IV | 3.00% | ~130 |
+| Tools of the trade II | 3.00% | ~130 |
+| Out of the frying pan | 3.00% | ~130 |
 | The Art of War | 2.00% | ~86 |
 | Five brews are a schnitzel | 2.00% | ~86 |
 | I like to build stuff... V | 2.00% | ~86 |
@@ -81,6 +81,7 @@ Number of Ratings: 37  (23.09.2022)
 | Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
 | Made my choice | 0.60% | ~26 |
+| An honorable departure | 0.60% | ~26 |
 | I've been everywhere VII | 0.60% | ~26 |
 | Impregnable | 0.60% | ~26 |
 | To serve and protect | 0.60% | ~26 |
@@ -90,7 +91,6 @@ Number of Ratings: 37  (23.09.2022)
 | Little place in the country | 0.50% | ~22 |
 | I've been everywhere VIII | 0.50% | ~22 |
 | I've been everywhere IX | 0.50% | ~22 |
-| An honorable departure | 0.50% | ~22 |
 | It went unnoticed | 0.40% | ~17 |
 | Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,316 (Ranked 185)  
+Progressed: 4,317 (Ranked 185)  
 Completed: 3 (0.07%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 3 (0.07%) (Ranked 278)
 | 2023-10-26 | 4,312 | 3 |
 | 2023-10-28 | 4,313 | 3 |
 | 2023-10-29 | 4,315 | 3 |
-| 2023-10-31 | 4,316 | 3 |
+| 2023-10-31 | 4,317 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

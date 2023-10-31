@@ -81,6 +81,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.10% | ~239 |
 | Chain Reaction | 0.10% | ~239 |
 | C-C-Combo | 0.10% | ~239 |
+| Master of Strategy | 0.10% | ~239 |
 | No Mercy | 0.10% | ~239 |
 | Good Boys | 0.10% | ~239 |
 | Deflection | 0.10% | ~239 |
@@ -91,6 +92,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Spreading Plague | 0.10% | ~239 |
 | Toxic | 0.10% | ~239 |
 | Acid Bath | 0.10% | ~239 |
+| Need An Antidote? | 0.10% | ~239 |
 | Antivenom | 0.10% | ~239 |
 | Decisions, Decisions | 0.10% | ~239 |
 | Fragile Mortality | 0.10% | ~239 |
@@ -111,6 +113,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Masochist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
 | Only The Best | 0.10% | ~239 |
+| Mastermind | 0.10% | ~239 |
 | Ignoring Midgame | 0.10% | ~239 |
 | Quick To Pick | 0.10% | ~239 |
 | Tunnel Vision | 0.10% | ~239 |
@@ -135,17 +138,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
-| Master of Strategy | 0.00% | ~0 |
-| Need An Antidote? | 0.00% | ~0 |
 | Minimalist | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
 | Champion of the Day | 0.00% | ~0 |
 | Down Under | 0.00% | ~0 |
-| Mastermind | 0.00% | ~0 |
 | No Swapsies | 0.00% | ~0 |
 | Martial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,904 (Ranked 59)  
+Progressed: 238,910 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 257)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,904 | 286 |
+| 2023-10-31 | 238,910 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

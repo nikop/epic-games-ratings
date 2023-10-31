@@ -2,9 +2,9 @@
   "ID": "7a78425e9d094942bd44700957de54da",
   "Name": "Lucky Goal",
   "ProductSlug": "luckygoal-201ee6",
-  "Ranking_EOS_Progress": 456,
+  "Ranking_EOS_Progress": 451,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -178,6 +178,11 @@
     {
       "Time": "2023-10-31T15:05:56.4208223+00:00",
       "NumProgressed": 50,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T21:04:21.0482932+00:00",
+      "NumProgressed": 52,
       "NumCompleted": 0
     }
   ],
@@ -422,14 +427,14 @@
     {
       "ID": "7ckmp1f",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T09:59:30.6826297+00:00",
   "FirstSeenAchievements": "2023-09-24T20:02:24.3206608+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:04:32.1026678+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:04:21.0482928+00:00",
   "LastUpdate_AppInfo": "2023-10-29T20:57:19.058062+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:57:58.4687277+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:04:32.1026853+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:57:52.6182568+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:04:21.0483134+00:00"
 }

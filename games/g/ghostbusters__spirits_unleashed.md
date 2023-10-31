@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,755 |
-| Advancement | 4.00% | ~1,170 |
-| Meticulously Efficient | 4.00% | ~1,170 |
+| Stylish | 6.00% | ~1,757 |
+| Advancement | 4.00% | ~1,171 |
+| Meticulously Efficient | 4.00% | ~1,171 |
 | Clutch Capture | 3.00% | ~878 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~878 |
 | Cultured | 3.00% | ~878 |
@@ -19,21 +19,21 @@ Rating: 4.50 (Ranked 581)
 | There you are! | 3.00% | ~878 |
 | Vaporous Expansion | 3.00% | ~878 |
 | Whoopsie | 3.00% | ~878 |
-| Animated | 2.00% | ~585 |
-| Back Off | 2.00% | ~585 |
-| We have the best insurance | 2.00% | ~585 |
-| Daily Dose | 2.00% | ~585 |
-| Ectoplasmic Entity | 2.00% | ~585 |
-| Ghostbuster In Training | 2.00% | ~585 |
-| Icing on the Cake | 2.00% | ~585 |
-| Legions | 2.00% | ~585 |
-| Pesky Jerks | 2.00% | ~585 |
-| Right back at ya | 2.00% | ~585 |
-| Seasoned | 2.00% | ~585 |
-| Side Hustle | 2.00% | ~585 |
-| Stunner | 2.00% | ~585 |
-| Summoner | 2.00% | ~585 |
-| Welcome to the Crew | 2.00% | ~585 |
+| Animated | 2.00% | ~586 |
+| Back Off | 2.00% | ~586 |
+| We have the best insurance | 2.00% | ~586 |
+| Daily Dose | 2.00% | ~586 |
+| Ectoplasmic Entity | 2.00% | ~586 |
+| Ghostbuster In Training | 2.00% | ~586 |
+| Icing on the Cake | 2.00% | ~586 |
+| Legions | 2.00% | ~586 |
+| Pesky Jerks | 2.00% | ~586 |
+| Right back at ya | 2.00% | ~586 |
+| Seasoned | 2.00% | ~586 |
+| Side Hustle | 2.00% | ~586 |
+| Stunner | 2.00% | ~586 |
+| Summoner | 2.00% | ~586 |
+| Welcome to the Crew | 2.00% | ~586 |
 | Collector | 1.00% | ~293 |
 | Escape Artist | 1.00% | ~293 |
 | Reckless | 1.00% | ~293 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 581)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,255 (Ranked 121)  
+Progressed: 29,277 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
-| 2023-10-31 | 29,255 | 65 |
+| 2023-10-31 | 29,277 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,635 (Ranked 180)  

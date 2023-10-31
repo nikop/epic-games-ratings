@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238904,
+  "EOS_Progressed": 238910,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23431,6 +23431,11 @@
       "Time": "2023-10-31T20:09:03.9307973+00:00",
       "NumProgressed": 238904,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T21:08:53.0642889+00:00",
+      "NumProgressed": 238910,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24048,9 +24053,9 @@
       "ID": "NOEPIC",
       "SetID": "5l8oe0h",
       "Name": "Master of Strategy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "NOMERCY",
@@ -24136,9 +24141,9 @@
       "ID": "POISONSELF20",
       "SetID": "5l8oe0h",
       "Name": "Need An Antidote?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "POISONSNAKE",
@@ -24336,9 +24341,9 @@
       "ID": "WINNOEPICLEGENDARY",
       "SetID": "5l8oe0h",
       "Name": "Mastermind",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WINNOEQUIPREPLACEMENTS",
@@ -24545,13 +24550,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238904,
+      "Progressed": 238910,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 384,
+      "Progressed": 390,
       "Completed": 353
     }
   ],
@@ -24559,8 +24564,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:09:03.9307967+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:08:53.0642884+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:02:45.7502691+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:09:03.9310675+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:02:46.7966304+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:08:53.0646633+00:00"
 }

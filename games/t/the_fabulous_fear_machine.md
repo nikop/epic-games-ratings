@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | You had one wish left | 9.00% | ~3 |
 | Blessed antennas | 6.00% | ~2 |
+| The beast in the Oval Office | 6.00% | ~2 |
+| Pulp! The Beyond | 6.00% | ~2 |
+| America had no Faith | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
-| The beast in the Oval Office | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
-| Pulp! The Beyond | 3.00% | ~1 |
-| America had no Faith | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
 | Blood Red Island | 0.00% | ~0 |

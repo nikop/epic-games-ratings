@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "if_the_suit_fits",
       "SetID": "7i36ba9",
       "Name": "If The Suit Fits",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "join_the_legal_team",
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:08:05.0491225+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:08:02.4807055+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:56:57.2066909+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:08:05.049139+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:57:06.3743363+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:08:02.4807276+00:00"
 }

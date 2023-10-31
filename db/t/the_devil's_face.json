@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 525,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 66,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.76,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2259,6 +2259,11 @@
       "Time": "2023-10-31T17:06:44.8806052+00:00",
       "NumProgressed": 525,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T21:05:58.9150854+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2356,9 +2361,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2382,13 +2387,13 @@
       "ID": "296pn27",
       "IsBase": true,
       "Progressed": 525,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:06:24.1508043+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:05:58.915085+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:00:26.9099482+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:06:24.1508252+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:59:54.8813638+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:05:58.9151109+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.55,
+  "EOS_Completed_Percentage": 6.53,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1575,6 +1575,11 @@
       "Time": "2023-10-31T20:06:03.3299873+00:00",
       "NumProgressed": 336,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-31T21:05:40.7077521+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1624,17 +1629,17 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1744,17 +1749,17 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "PROGRESS_N3",
@@ -1762,7 +1767,7 @@
       "Name": "A new dawn",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "PROGRESS_N4",
@@ -1785,14 +1790,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:06:03.3299868+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:05:40.7077515+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:59:24.1659485+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:06:03.3300113+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:59:02.2103394+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:05:40.7077777+00:00"
 }

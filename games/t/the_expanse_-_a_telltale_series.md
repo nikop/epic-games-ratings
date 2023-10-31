@@ -15,10 +15,10 @@ Rating: 4.60 (Ranked 407)
 | Celebrations are in Order | 1.00% | ~145 |
 | Impossible Objects | 1.00% | ~145 |
 | Martian Music | 0.90% | ~131 |
+| Stogie for Fogey | 0.80% | ~116 |
 | Spore Taste | 0.80% | ~116 |
 | Heal Thy Medic | 0.80% | ~116 |
 | Data Archivist | 0.70% | ~102 |
-| Stogie for Fogey | 0.70% | ~102 |
 | Khan's Revenge | 0.70% | ~102 |
 | Thorston Mayer | 0.50% | ~73 |
 | Doctor Approved | 0.40% | ~58 |

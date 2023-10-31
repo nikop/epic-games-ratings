@@ -19,6 +19,7 @@
 | Let Me Solo Them | 2.00% | ~1 |
 | Explorer | 2.00% | ~1 |
 | The River Styx | 2.00% | ~1 |
+| Frigid Winds | 2.00% | ~1 |
 | The Guardian of Fire | 2.00% | ~1 |
 | Sovereignty of Irons | 2.00% | ~1 |
 | Transformative Nature | 2.00% | ~1 |
@@ -43,7 +44,6 @@
 | Divine Guidance | 0.00% | ~0 |
 | Hearld of the Holy Seat | 0.00% | ~0 |
 | A Girl From Husker | 0.00% | ~0 |
-| Frigid Winds | 0.00% | ~0 |
 | Child of Ronkurth | 0.00% | ~0 |
 | Port of Call | 0.00% | ~0 |
 | Unbridled Flame | 0.00% | ~0 |

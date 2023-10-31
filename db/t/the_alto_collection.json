@@ -802,9 +802,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44618,
+  "EOS_Progressed": 44620,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 823,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22697,6 +22697,11 @@
       "Time": "2023-10-31T20:04:55.575544+00:00",
       "NumProgressed": 44618,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T21:04:41.1977316+00:00",
+      "NumProgressed": 44620,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22860,7 +22865,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3569
+      "UsersEstimate": 3570
     },
     {
       "ID": "playerPaz",
@@ -23004,7 +23009,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3569
+      "UsersEstimate": 3570
     },
     {
       "ID": "windswept",
@@ -23019,15 +23024,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44618,
+      "Progressed": 44620,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-10-31T20:04:55.5755431+00:00",
+  "LastChanged_Achievements": "2023-10-31T21:04:41.1977311+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:58:19.9328226+00:00",
-  "LastUpdate_Achievements": "2023-10-31T20:04:55.575669+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:58:10.7625256+00:00",
+  "LastUpdate_Achievements": "2023-10-31T21:04:41.1978931+00:00"
 }

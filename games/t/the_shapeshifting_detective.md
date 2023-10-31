@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Strong Silent Type | 91.00% | ~199 |
 | Play It Again Sam | 90.00% | ~197 |
-| Play Me By The Hour | 69.00% | ~151 |
+| Play Me By The Hour | 70.00% | ~153 |
 | Patient Listener | 47.00% | ~103 |
-| Video Saved The Radio Star | 39.00% | ~85 |
+| Video Saved The Radio Star | 40.00% | ~88 |
 | Hashtag Winning | 38.00% | ~83 |
 | A Woman Scorned | 26.00% | ~57 |
-| Chameleon | 21.00% | ~46 |
-| Look Mum I'm A Detective | 20.00% | ~44 |
+| Chameleon | 22.00% | ~48 |
+| Look Mum I'm A Detective | 21.00% | ~46 |
 | Highlander | 19.00% | ~42 |
 | You Had One Job | 14.00% | ~31 |
 | Book 'em Danny | 12.00% | ~26 |
@@ -27,7 +27,7 @@
 | The Big Sleep | 5.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 219 (Ranked 350)  
-Completed: 2 (0.91%) (Ranked 158)  
+Completed: 2 (0.91%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

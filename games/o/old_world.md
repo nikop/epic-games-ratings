@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 1.00% | ~151 |
 | Power to the People | 1.00% | ~151 |
 | Persian Paganism | 1.00% | ~151 |
+| Building Wonders | 1.00% | ~151 |
 | Mythology | 1.00% | ~151 |
 | Points Victory | 1.00% | ~151 |
 | Win a Single Player Game | 1.00% | ~151 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~136 |
 | Temple of Solomon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
-| Building Wonders | 0.90% | ~136 |
 | Economic Reform | 0.90% | ~136 |
 | Legalism | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
