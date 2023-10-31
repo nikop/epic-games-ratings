@@ -5,9 +5,9 @@
   "Ranking_Rating": 407,
   "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 253,
-  "Ranking_EOS_Progress": 174,
+  "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1367,9 +1367,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6419,
+  "EOS_Progressed": 6420,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11722,6 +11722,11 @@
       "Time": "2023-10-31T03:03:24.1512729+00:00",
       "NumProgressed": 6419,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-10-31T05:05:05.1018539+00:00",
+      "NumProgressed": 6420,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11733,7 +11738,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -11757,7 +11762,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -11773,7 +11778,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -11837,7 +11842,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "KILL_RAIDER",
@@ -11853,7 +11858,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -11885,7 +11890,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -11893,7 +11898,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -11933,7 +11938,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -11980,15 +11985,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6419,
+      "Progressed": 6420,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-28T23:58:27.8631683+00:00",
-  "LastChanged_Achievements": "2023-10-31T04:03:16.1620168+00:00",
+  "LastChanged_Achievements": "2023-10-31T05:05:05.101853+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.7294804+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:59:16.3245777+00:00",
-  "LastUpdate_Achievements": "2023-10-31T04:03:16.1621589+00:00"
+  "LastUpdate_Ratings": "2023-10-31T05:01:00.8298877+00:00",
+  "LastUpdate_Achievements": "2023-10-31T05:05:05.1021109+00:00"
 }

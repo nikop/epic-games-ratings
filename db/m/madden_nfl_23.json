@@ -775,9 +775,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3116,
+  "EOS_Progressed": 3117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4410,6 +4410,11 @@
       "Time": "2023-10-31T04:08:23.9001201+00:00",
       "NumProgressed": 3116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T05:10:01.4172452+00:00",
+      "NumProgressed": 3117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4430,7 +4435,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "achievement_11",
@@ -4454,15 +4459,15 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "achievement_14",
       "SetID": "c8fif6p",
       "Name": "Dealmaker",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_15",
@@ -4478,7 +4483,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "achievement_17",
@@ -4510,7 +4515,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_20",
@@ -4589,7 +4594,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3116,
+      "Progressed": 3117,
       "Completed": 0
     }
   ],
@@ -4597,8 +4602,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-29T18:57:01.6511251+00:00",
-  "LastChanged_Achievements": "2023-10-31T04:08:23.9001197+00:00",
+  "LastChanged_Achievements": "2023-10-31T05:10:01.4172445+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:57:12.2680991+00:00",
-  "LastUpdate_Achievements": "2023-10-31T04:08:23.900153+00:00"
+  "LastUpdate_Ratings": "2023-10-31T04:58:00.2693371+00:00",
+  "LastUpdate_Achievements": "2023-10-31T05:10:01.4173115+00:00"
 }

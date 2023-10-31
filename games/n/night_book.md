@@ -8,7 +8,7 @@
 | No One Is Safe | 65.00% | ~153 |
 | Career Woman | 64.00% | ~150 |
 | He's Off His Meds | 56.00% | ~132 |
-| Personal Life | 49.00% | ~115 |
+| Personal Life | 50.00% | ~118 |
 | Deal Or No Deal | 47.00% | ~110 |
 | Impress Theron | 46.00% | ~108 |
 | On Your Bike | 31.00% | ~73 |
@@ -18,8 +18,8 @@
 | Pearce | 12.00% | ~28 |
 | Use Your Connections | 11.00% | ~26 |
 | The Marriage Is Off | 10.00% | ~24 |
+| Horrific | 7.00% | ~16 |
 | Hopeful | 6.00% | ~14 |
-| Horrific | 6.00% | ~14 |
 | Shady Truth | 6.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 235 (Ranked 344)  

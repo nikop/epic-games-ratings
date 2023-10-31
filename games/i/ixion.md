@@ -5,8 +5,8 @@ Rating: 4.57 (Ranked 465)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~915 |
-| Sputnik 2049 | 25.00% | ~817 |
+| Wakey Wakey | 28.00% | ~916 |
+| Sputnik 2049 | 25.00% | ~818 |
 | Infinite Growth... | 24.00% | ~785 |
 | Without Breaking Some Eggs... | 23.00% | ~752 |
 | Space Society | 17.00% | ~556 |
@@ -30,10 +30,10 @@ Rating: 4.57 (Ranked 465)
 | Access Granted | 6.00% | ~196 |
 | Necessary Enhancement | 6.00% | ~196 |
 | All in Good Health | 6.00% | ~196 |
-| Oats | 5.00% | ~163 |
-| What They Hide From Us | 5.00% | ~163 |
-| BRAWL! | 5.00% | ~163 |
-| What the Ruins Teach Us | 5.00% | ~163 |
+| Oats | 5.00% | ~164 |
+| What They Hide From Us | 5.00% | ~164 |
+| BRAWL! | 5.00% | ~164 |
+| What the Ruins Teach Us | 5.00% | ~164 |
 | ...  in a finite world | 4.00% | ~131 |
 | Sustainable Energy | 4.00% | ~131 |
 | In Dolos We Trust | 4.00% | ~131 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 465)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,269 (Ranked 199)  
+Progressed: 3,270 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-26 | 3,260 | 0 |
 | 2023-10-27 | 3,265 | 0 |
 | 2023-10-28 | 3,268 | 0 |
-| 2023-10-31 | 3,269 | 0 |
+| 2023-10-31 | 3,270 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

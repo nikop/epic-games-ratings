@@ -611,9 +611,9 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SMITH_UPGRADE_1",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-31T04:04:04.5148675+00:00",
+  "LastChanged_Achievements": "2023-10-31T05:06:15.036703+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.7042066+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:57:58.0163072+00:00",
-  "LastUpdate_Achievements": "2023-10-31T04:04:04.5149224+00:00"
+  "LastUpdate_Ratings": "2023-10-31T04:59:07.0167526+00:00",
+  "LastUpdate_Achievements": "2023-10-31T05:06:15.0367788+00:00"
 }

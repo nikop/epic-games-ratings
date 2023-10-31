@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4560,
+  "EOS_Progressed": 4562,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8424,6 +8424,11 @@
       "Time": "2023-10-31T04:09:19.9357158+00:00",
       "NumProgressed": 4560,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T05:11:22.3413833+00:00",
+      "NumProgressed": 4562,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8476,7 +8481,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -8532,7 +8537,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8578,9 +8583,9 @@
       "ID": "MF_Ach_SeasonFinale",
       "SetID": "9b9n573",
       "Name": "Season Finale",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 182
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -8619,15 +8624,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4560,
+      "Progressed": 4562,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-31T04:09:19.9357154+00:00",
+  "LastChanged_Achievements": "2023-10-31T05:11:22.3413825+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:58:53.5699745+00:00",
-  "LastUpdate_Achievements": "2023-10-31T04:09:19.9357695+00:00"
+  "LastUpdate_Ratings": "2023-10-31T05:00:26.9891515+00:00",
+  "LastUpdate_Achievements": "2023-10-31T05:11:22.341493+00:00"
 }

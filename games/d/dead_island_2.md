@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 5.00% | ~35,446 |
-| Hotel California | 5.00% | ~35,446 |
-| Welcome To Hell-A | 5.00% | ~35,446 |
-| Git Gutte! | 4.00% | ~28,357 |
-| Coup de Grâce | 4.00% | ~28,357 |
-| Hazardous Materials | 4.00% | ~28,357 |
-| Friends Like These | 4.00% | ~28,357 |
-| Apex Predator | 4.00% | ~28,357 |
-| Stacking the Deck | 4.00% | ~28,357 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,357 |
+| Break A Leg | 5.00% | ~35,448 |
+| Hotel California | 5.00% | ~35,448 |
+| Welcome To Hell-A | 5.00% | ~35,448 |
+| Git Gutte! | 4.00% | ~28,358 |
+| Coup de Grâce | 4.00% | ~28,358 |
+| Hazardous Materials | 4.00% | ~28,358 |
+| Friends Like These | 4.00% | ~28,358 |
+| Apex Predator | 4.00% | ~28,358 |
+| Stacking the Deck | 4.00% | ~28,358 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,358 |
 | Dr. Reed, I Presume? | 3.00% | ~21,268 |
 | Bookworm | 3.00% | ~21,268 |
 | I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,268 |
@@ -28,22 +28,22 @@ Rating: 4.54 (Ranked 520)
 | I Am the Resurrection | 3.00% | ~21,268 |
 | Our True Nature | 3.00% | ~21,268 |
 | This is My Weapon | 3.00% | ~21,268 |
-| Making Your Mark | 2.00% | ~14,178 |
-| Anger Management | 2.00% | ~14,178 |
-| Perks of the Job | 2.00% | ~14,178 |
-| Humanity Distilled | 2.00% | ~14,178 |
-| Down with the Sickness | 2.00% | ~14,178 |
-| Max Headroom | 2.00% | ~14,178 |
-| Smorgasbord | 1.00% | ~7,089 |
-| Not Even My Final Form | 1.00% | ~7,089 |
-| Internet Famous | 1.00% | ~7,089 |
-| Jumbo Keyring | 1.00% | ~7,089 |
-| Go, Bobcats! | 1.00% | ~7,089 |
-| Rising Star | 1.00% | ~7,089 |
-| On Safari | 0.90% | ~6,380 |
-| Variety is the Spice of Death | 0.90% | ~6,380 |
-| Make it So | 0.80% | ~5,671 |
-| LA Influential | 0.60% | ~4,254 |
+| Making Your Mark | 2.00% | ~14,179 |
+| Anger Management | 2.00% | ~14,179 |
+| Perks of the Job | 2.00% | ~14,179 |
+| Humanity Distilled | 2.00% | ~14,179 |
+| Down with the Sickness | 2.00% | ~14,179 |
+| Max Headroom | 2.00% | ~14,179 |
+| Smorgasbord | 1.00% | ~7,090 |
+| Not Even My Final Form | 1.00% | ~7,090 |
+| Internet Famous | 1.00% | ~7,090 |
+| Jumbo Keyring | 1.00% | ~7,090 |
+| Go, Bobcats! | 1.00% | ~7,090 |
+| Rising Star | 1.00% | ~7,090 |
+| On Safari | 0.90% | ~6,381 |
+| Variety is the Spice of Death | 0.90% | ~6,381 |
+| Make it So | 0.80% | ~5,672 |
+| LA Influential | 0.70% | ~4,963 |
 | Gore Horse | 0.60% | ~4,254 |
 | Sharpest Tool in the Box | 0.60% | ~4,254 |
 | Sole Survivor | 0.50% | ~3,545 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 520)
 | Donk! | 0.20% | ~1,418 |
 | Bucket List | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,923 (Ranked 22)  
-Completed: 2,285 (0.32%) (Ranked 212)  
+Progressed: 708,950 (Ranked 22)  
+Completed: 2,286 (0.32%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,7 +245,7 @@ Completed: 2,285 (0.32%) (Ranked 212)
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
-| 2023-10-31 | 708,923 | 2,285 |
+| 2023-10-31 | 708,950 | 2,286 |
 ## Awards
 Max (Great Boss Battles): 6,756  (Ranked 54)  
 Sum: 10,182 (Ranked 90)  

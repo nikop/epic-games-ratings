@@ -5,36 +5,36 @@ Rating: 4.61 (Ranked 381)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 65.00% | ~159,986 |
-| Shine On | 61.00% | ~150,141 |
-| On the Job | 59.00% | ~145,218 |
-| Get Stuck In | 57.00% | ~140,295 |
-| Room for Expansion | 57.00% | ~140,295 |
-| Chill Out | 56.00% | ~137,834 |
-| Sales Pitch | 55.00% | ~135,373 |
-| Grand Designs | 53.00% | ~130,450 |
-| Tinker | 51.00% | ~125,527 |
-| Hot Stuff | 48.00% | ~118,143 |
-| MOAR RGB | 44.00% | ~108,298 |
-| Dream Theme | 37.00% | ~91,069 |
+| Bootstrapping | 65.00% | ~159,987 |
+| Shine On | 61.00% | ~150,142 |
+| On the Job | 59.00% | ~145,219 |
+| Get Stuck In | 57.00% | ~140,296 |
+| Room for Expansion | 57.00% | ~140,296 |
+| Chill Out | 56.00% | ~137,835 |
+| Sales Pitch | 55.00% | ~135,374 |
+| Grand Designs | 53.00% | ~130,451 |
+| Tinker | 51.00% | ~125,528 |
+| Hot Stuff | 48.00% | ~118,144 |
+| MOAR RGB | 44.00% | ~108,299 |
+| Dream Theme | 37.00% | ~91,070 |
 | Working Hard | 36.00% | ~88,608 |
 | The Customer is King | 36.00% | ~88,608 |
-| On the Bench | 35.00% | ~86,146 |
-| The More the Merrier | 34.00% | ~83,685 |
-| Recycler | 31.00% | ~76,301 |
+| On the Bench | 35.00% | ~86,147 |
+| The More the Merrier | 34.00% | ~83,686 |
+| Recycler | 31.00% | ~76,302 |
 | Mix and Match | 30.00% | ~73,840 |
 | Very Imported PC | 30.00% | ~73,840 |
 | Foot in the Door | 30.00% | ~73,840 |
-| Full Throttle | 29.00% | ~71,378 |
-| Pimp My Rig | 26.00% | ~63,994 |
-| Repair Master | 26.00% | ~63,994 |
-| Local Hero | 23.00% | ~56,610 |
+| Full Throttle | 29.00% | ~71,379 |
+| Pimp My Rig | 26.00% | ~63,995 |
+| Repair Master | 26.00% | ~63,995 |
+| Local Hero | 23.00% | ~56,611 |
 | Bench Warmer | 22.00% | ~54,149 |
 | Broken to Smokin' | 21.00% | ~51,688 |
 | Workaholic | 21.00% | ~51,688 |
-| Thanks Jeff | 20.00% | ~49,226 |
-| Gift of the Gab | 20.00% | ~49,226 |
-| Salvage Squad | 20.00% | ~49,226 |
+| Thanks Jeff | 20.00% | ~49,227 |
+| Gift of the Gab | 20.00% | ~49,227 |
+| Salvage Squad | 20.00% | ~49,227 |
 | On the Ladder | 19.00% | ~46,765 |
 | Cinematic | 19.00% | ~46,765 |
 | Stick With It | 19.00% | ~46,765 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 381)
 | Keep 'Em Coming | 0.30% | ~738 |
 | Export Expert | 0.20% | ~492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,132 (Ranked 58)  
+Progressed: 246,134 (Ranked 58)  
 Completed: 150 (0.06%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 150 (0.06%) (Ranked 283)
 | 2023-10-28 | 245,381 | 150 |
 | 2023-10-29 | 245,770 | 150 |
 | 2023-10-30 | 246,083 | 150 |
-| 2023-10-31 | 246,132 | 150 |
+| 2023-10-31 | 246,134 | 150 |
 ## Awards
 Max (Great for Beginners): 721  (Ranked 178)  
 Sum: 5,136 (Ranked 135)  

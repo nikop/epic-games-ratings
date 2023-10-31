@@ -6,13 +6,13 @@ Rating: 4.53 (Ranked 531)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~4,928 |
-| Greasy Palms | 42.00% | ~4,499 |
-| South American Connection | 26.00% | ~2,785 |
-| Life of the Party | 20.00% | ~2,142 |
+| Greasy Palms | 42.00% | ~4,500 |
+| South American Connection | 26.00% | ~2,786 |
+| Life of the Party | 20.00% | ~2,143 |
 | Tommy Two-Wheels | 16.00% | ~1,714 |
 | Big Heat from Little Havana | 15.00% | ~1,607 |
 | Chauffeur | 15.00% | ~1,607 |
-| Salutations My Little Friend | 11.00% | ~1,178 |
+| Salutations My Little Friend | 11.00% | ~1,179 |
 | Iron-y | 10.00% | ~1,071 |
 | Gun for Hire | 9.00% | ~964 |
 | Mischief Managed | 9.00% | ~964 |
@@ -21,8 +21,8 @@ Rating: 4.53 (Ranked 531)
 | Catch Me if You Can | 6.00% | ~643 |
 | Not my First Time | 5.00% | ~536 |
 | Grand Theft Auto | 5.00% | ~536 |
-| High Quality H2O | 4.00% | ~428 |
-| Pie Guy | 4.00% | ~428 |
+| High Quality H2O | 4.00% | ~429 |
+| Pie Guy | 4.00% | ~429 |
 | Running Rampant | 3.00% | ~321 |
 | Point A to Point B | 3.00% | ~321 |
 | Bull in a China Shop | 3.00% | ~321 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 531)
 | Done it All | 1.00% | ~107 |
 | Kingpin | 0.60% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,712 (Ranked 152)  
+Progressed: 10,714 (Ranked 152)  
 Completed: 63 (0.59%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 63 (0.59%) (Ranked 178)
 | 2023-10-28 | 10,694 | 63 |
 | 2023-10-29 | 10,706 | 63 |
 | 2023-10-30 | 10,710 | 63 |
-| 2023-10-31 | 10,712 | 63 |
+| 2023-10-31 | 10,714 | 63 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 355)  
 Sum: 99 (Ranked 439)  

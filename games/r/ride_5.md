@@ -9,7 +9,7 @@
 | Clean Race | 41.00% | ~772 |
 | Hear That Roar! | 38.00% | ~716 |
 | Rivals to the End | 29.00% | ~546 |
-| Bitter Rivalry | 27.00% | ~508 |
+| Bitter Rivalry | 27.00% | ~509 |
 | We're Going to Need a Bigger Garage | 24.00% | ~452 |
 | Champagne Spray | 24.00% | ~452 |
 | Restored and Ready | 18.00% | ~339 |
@@ -24,12 +24,12 @@
 | Evangelist | 6.00% | ~113 |
 | Make It Your Own! | 5.00% | ~94 |
 | I Make the Rules! | 4.00% | ~75 |
-| Spoilt for Choice | 3.00% | ~56 |
-| Cherry Blossom and Temples | 3.00% | ~56 |
-| La Dolce Vita | 3.00% | ~56 |
-| The Road to Liberty | 3.00% | ~56 |
-| Romantic Races | 3.00% | ~56 |
-| Rounding Off | 3.00% | ~56 |
+| Spoilt for Choice | 3.00% | ~57 |
+| Cherry Blossom and Temples | 3.00% | ~57 |
+| La Dolce Vita | 3.00% | ~57 |
+| The Road to Liberty | 3.00% | ~57 |
+| Romantic Races | 3.00% | ~57 |
+| Rounding Off | 3.00% | ~57 |
 | Iconic! | 2.00% | ~38 |
 | Back in Blighty | 2.00% | ~38 |
 | Still Here | 2.00% | ~38 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,883 (Ranked 218)  
+Progressed: 1,884 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 1,818 | 0 |
 | 2023-10-29 | 1,861 | 0 |
 | 2023-10-30 | 1,878 | 0 |
-| 2023-10-31 | 1,883 | 0 |
+| 2023-10-31 | 1,884 | 0 |
