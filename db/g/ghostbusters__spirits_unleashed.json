@@ -2845,10 +2845,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2630,
       "NumberOfAwardsMax": 297
+    },
+    {
+      "Time": "2023-10-31T13:04:45.2167136+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2632,
+      "NumberOfAwardsMax": 297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2630,
+  "NumberOfAwards": 2632,
   "NumberOfAwardsMax": 297,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2868,7 +2874,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 239
+      "Count": 241
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2925,9 +2931,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29152,
+  "EOS_Progressed": 29161,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1716,
+  "EOS_NewPlayers": 1719,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17235,6 +17241,11 @@
       "Time": "2023-10-31T12:04:09.3312516+00:00",
       "NumProgressed": 29152,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-31T13:08:57.5773958+00:00",
+      "NumProgressed": 29161,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17548,9 +17559,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1750
     },
     {
       "ID": "Summoner",
@@ -17653,16 +17664,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29152,
+      "Progressed": 29161,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-10-31T01:44:51.4542671+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:04:09.3312509+00:00",
+  "LastChanged": "2023-10-31T13:04:45.2167135+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:08:57.5773952+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:59:59.5485007+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:04:09.3314071+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:04:45.216714+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:08:57.5775858+00:00"
 }

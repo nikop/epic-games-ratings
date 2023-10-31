@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I See Dead People | 28.00% | ~17 |
+| I See Dead People | 27.00% | ~17 |
 | Clothes Hunter | 26.00% | ~16 |
 | Con Artist | 26.00% | ~16 |
 | Bedtime Storyteller | 18.00% | ~11 |
@@ -15,8 +15,8 @@
 | Joyrider | 8.00% | ~5 |
 | Top Detective | 5.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 437)  
-Completed: 3 (4.92%) (Ranked 68)  
+Progressed: 62 (Ranked 435)  
+Completed: 3 (4.84%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,3 +58,4 @@ Completed: 3 (4.92%) (Ranked 68)
 | 2023-09-23 | 59 | 3 |
 | 2023-10-11 | 60 | 3 |
 | 2023-10-13 | 61 | 3 |
+| 2023-10-31 | 62 | 3 |

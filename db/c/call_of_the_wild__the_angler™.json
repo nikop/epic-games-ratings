@@ -9285,9 +9285,9 @@
       "ID": "ACHIEVEMENT_038",
       "SetID": "6jk25od",
       "Name": "Live by the Rod, Diez by the Rod!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -9332,8 +9332,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:08:30.7422731+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:13:21.0818598+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-10-31T12:00:37.1357651+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:08:30.7423604+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:05:28.7647335+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:13:21.0820129+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.41 (Ranked 713)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,123 |
-| IT MAKES BOOM! | 3.00% | ~8,062 |
-| EXTRA BOOST | 2.00% | ~5,374 |
-| PROTECTED | 2.00% | ~5,374 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,374 |
-| PRO | 2.00% | ~5,374 |
-| A TIGER'S FEAR | 1.00% | ~2,687 |
-| AGGRESSIVE RACER | 1.00% | ~2,687 |
-| IT'S A LONG WAY TO THE TOP | 0.60% | ~1,612 |
+| ROOKIE | 6.00% | ~16,127 |
+| IT MAKES BOOM! | 3.00% | ~8,063 |
+| EXTRA BOOST | 2.00% | ~5,376 |
+| PROTECTED | 2.00% | ~5,376 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,376 |
+| PRO | 2.00% | ~5,376 |
+| A TIGER'S FEAR | 1.00% | ~2,688 |
+| AGGRESSIVE RACER | 1.00% | ~2,688 |
+| IT'S A LONG WAY TO THE TOP | 0.60% | ~1,613 |
 | DEFEAT OUR CHAMPION | 0.50% | ~1,344 |
 | ACE SPEEDSTER | 0.50% | ~1,344 |
 | RELEASE THE KRAKEN | 0.40% | ~1,075 |
@@ -26,11 +26,11 @@ Rating: 4.41 (Ranked 713)
 | ACE DEFENDER | 0.30% | ~806 |
 | FRIENDLY | 0.30% | ~806 |
 | MASTER | 0.30% | ~806 |
-| PERFECTLY POISED | 0.20% | ~537 |
-| ACE TRICKSTER | 0.20% | ~537 |
+| PERFECTLY POISED | 0.20% | ~538 |
+| ACE TRICKSTER | 0.20% | ~538 |
 | FRAMED! | 0.10% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268,722 (Ranked 52)  
+Progressed: 268,776 (Ranked 52)  
 Completed: 246 (0.09%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,10 +220,10 @@ Completed: 246 (0.09%) (Ranked 268)
 | 2023-10-28 | 263,489 | 245 |
 | 2023-10-29 | 266,267 | 245 |
 | 2023-10-30 | 268,010 | 245 |
-| 2023-10-31 | 268,722 | 246 |
+| 2023-10-31 | 268,776 | 246 |
 ## Awards
 Max (Great for Beginners): 46  (Ranked 434)  
-Sum: 365 (Ranked 343)  
+Sum: 366 (Ranked 343)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -231,7 +231,7 @@ Diff (max vs sum): 91
 | This game has Diverse Characters | 45 |
 | This game is Great for Quick Sessions | 45 |
 | This game has Amazing Characters | 33 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 30 |
 | This game has Competitive Players | 28 |
@@ -272,3 +272,4 @@ Diff (max vs sum): 91
 | 2023-10-28 | 4.42 | 44 | 352 |
 | 2023-10-29 | 4.42 | 44 | 363 |
 | 2023-10-30 | 4.42 | 46 | 365 |
+| 2023-10-31 | 4.41 | 46 | 366 |

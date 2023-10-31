@@ -6,15 +6,15 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~961,549 |
-| I Need a Bigger Garage | 63.00% | ~673,084 |
-| Pump my Ride | 47.00% | ~502,142 |
-| Ghostbuster | 34.00% | ~363,252 |
-| Call Roadside Assistance | 18.00% | ~192,310 |
-| That Was Close | 18.00% | ~192,310 |
-| Quickie | 11.00% | ~117,523 |
-| California Dreamer | 7.00% | ~74,787 |
-| Can't Touch This | 5.00% | ~53,419 |
+| The First of Many | 90.00% | ~961,565 |
+| I Need a Bigger Garage | 63.00% | ~673,096 |
+| Pump my Ride | 47.00% | ~502,151 |
+| Ghostbuster | 34.00% | ~363,258 |
+| Call Roadside Assistance | 18.00% | ~192,313 |
+| That Was Close | 18.00% | ~192,313 |
+| Quickie | 11.00% | ~117,525 |
+| California Dreamer | 7.00% | ~74,788 |
+| Can't Touch This | 5.00% | ~53,420 |
 | Carménère Taster | 4.00% | ~42,736 |
 | Comeback | 4.00% | ~42,736 |
 | Driver from Ipanema | 3.00% | ~32,052 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,684 |
 | Golden Passport | 1.00% | ~10,684 |
 | Brave and Bold | 1.00% | ~10,684 |
-| Crocodile Hunter | 0.90% | ~9,615 |
-| Old Master | 0.90% | ~9,615 |
+| Crocodile Hunter | 0.90% | ~9,616 |
+| Old Master | 0.90% | ~9,616 |
 | Volcano Surfer | 0.80% | ~8,547 |
 | Otaku | 0.80% | ~8,547 |
 | Survivor | 0.60% | ~6,410 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,068 |
 | Look Mom, No Hands! | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,388 (Ranked 13)  
+Progressed: 1,068,406 (Ranked 13)  
 Completed: 472 (0.04%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,11 +238,11 @@ Completed: 472 (0.04%) (Ranked 293)
 | 2023-10-28 | 1,067,343 | 471 |
 | 2023-10-29 | 1,067,869 | 471 |
 | 2023-10-30 | 1,068,227 | 472 |
-| 2023-10-31 | 1,068,388 | 472 |
+| 2023-10-31 | 1,068,406 | 472 |
 ## Awards
-Max (Great for Beginners): 162  (Ranked 304)  
+Max (Great for Beginners): 162  (Ranked 305)  
 Sum: 1,353 (Ranked 233)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 162 |

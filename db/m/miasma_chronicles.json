@@ -4049,9 +4049,9 @@
       "ID": "SAVIOR",
       "SetID": "9a4jnji",
       "Name": "Savior",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 406
+      "UsersEstimate": 421
     },
     {
       "ID": "SENSEI",
@@ -4138,8 +4138,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:08:40.2688668+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:13:30.9187178+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:58:29.1759162+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:08:40.2689252+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:03:10.6879509+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:13:30.9188303+00:00"
 }

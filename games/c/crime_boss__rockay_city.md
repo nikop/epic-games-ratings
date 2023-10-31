@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 997)  
+Rating: 3.94 (Ranked 998)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 997)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,458 (Ranked 90)  
+Progressed: 89,459 (Ranked 90)  
 Completed: 53 (0.06%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 53 (0.06%) (Ranked 283)
 | 2023-10-28 | 89,406 | 53 |
 | 2023-10-29 | 89,434 | 53 |
 | 2023-10-30 | 89,446 | 53 |
-| 2023-10-31 | 89,458 | 53 |
+| 2023-10-31 | 89,459 | 53 |
 ## Awards
 Max (Diverse Characters): 517  (Ranked 204)  
 Sum: 2,911 (Ranked 175)  

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 85.00% | ~95 |
-| Tinkerer | 69.00% | ~77 |
+| Self-Defence | 86.00% | ~96 |
+| Tinkerer | 70.00% | ~78 |
 | Welcome to the Club | 39.00% | ~44 |
 | Apprentice | 37.00% | ~41 |
 | A new World ahead | 29.00% | ~32 |
@@ -13,15 +13,15 @@
 | Don't Cry Wolf | 23.00% | ~26 |
 | Expert | 19.00% | ~21 |
 | Freezing Cold | 18.00% | ~20 |
-| Searing Heat | 14.00% | ~16 |
+| Searing Heat | 15.00% | ~17 |
 | Nothing but the Truth | 14.00% | ~16 |
 | The Power of the Mountains | 14.00% | ~16 |
 | Locked and Loaded | 13.00% | ~15 |
 | The Golden Flash | 13.00% | ~15 |
 | Changing the World | 11.00% | ~12 |
 | Defeat Tezuth | 10.00% | ~11 |
+| Witch | 10.00% | ~11 |
 | The A-Team | 10.00% | ~11 |
-| Witch | 9.00% | ~10 |
 | Defeat Uskol | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
 | Craftsmen | 7.00% | ~8 |

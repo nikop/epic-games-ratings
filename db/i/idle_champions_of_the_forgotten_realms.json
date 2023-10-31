@@ -7723,7 +7723,7 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233301,
+  "EOS_Progressed": 233303,
   "EOS_Completed": 2412,
   "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 29,
@@ -29388,6 +29388,11 @@
       "Time": "2023-10-31T12:05:48.3741649+00:00",
       "NumProgressed": 233301,
       "NumCompleted": 2412
+    },
+    {
+      "Time": "2023-10-31T13:10:39.4501278+00:00",
+      "NumProgressed": 233303,
+      "NumCompleted": 2412
     }
   ],
   "TotalAchievements": 528,
@@ -30845,9 +30850,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_236",
@@ -31069,9 +31074,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 1167
     },
     {
       "ID": "objective_completed_34",
@@ -32469,9 +32474,9 @@
       "ID": "objective_completed_69",
       "SetID": "cc37lbc",
       "Name": "Escort to Waterdeep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_690",
@@ -33622,21 +33627,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199575,
-      "Completed": 3720
+      "Progressed": 199577,
+      "Completed": 3721
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233301,
+      "Progressed": 233303,
       "Completed": 2412
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-31T08:58:23.4995935+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:05:48.3741645+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:10:39.4501271+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:57:56.5475935+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:05:48.3771166+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:02:41.5738869+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:10:39.4531143+00:00"
 }

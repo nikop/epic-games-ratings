@@ -6,20 +6,20 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,071 |
-| The Journey Begins | 98.00% | ~5,071 |
+| Quinceañera Time | 98.00% | ~5,072 |
+| The Journey Begins | 98.00% | ~5,072 |
 | Slaughterhouse 5 (200 times) | 78.00% | ~4,036 |
 | There is No Escape | 71.00% | ~3,674 |
 | Fun, Flirty, and Thirty | 63.00% | ~3,260 |
 | Royal Flush | 62.00% | ~3,208 |
-| Timber! | 60.00% | ~3,104 |
+| Timber! | 60.00% | ~3,105 |
 | Survive the Bombsequences | 59.00% | ~3,053 |
 | Killed 20 Jerks | 54.00% | ~2,794 |
 | Death Defied | 54.00% | ~2,794 |
-| Fortunate Soul | 50.00% | ~2,587 |
+| Fortunate Soul | 50.00% | ~2,588 |
 | Jerk-Slayer | 43.00% | ~2,225 |
-| Employee of the Month | 37.00% | ~1,914 |
-| I Believe I Can Fly | 37.00% | ~1,914 |
+| Employee of the Month | 37.00% | ~1,915 |
+| I Believe I Can Fly | 37.00% | ~1,915 |
 | Bone Collector | 35.00% | ~1,811 |
 | Fe-Festival | 35.00% | ~1,811 |
 | Top of the Food Chain | 32.00% | ~1,656 |
@@ -28,19 +28,19 @@ Number of Ratings: 63  (23.09.2022)
 | Ghost Facers! | 28.00% | ~1,449 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,087 |
 | Royal Flush, Again | 19.00% | ~983 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~931 |
-| Can't Touch This | 18.00% | ~931 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~932 |
+| Can't Touch This | 18.00% | ~932 |
 | Yummy! | 16.00% | ~828 |
 | That Was Quick | 16.00% | ~828 |
 | Goldrush Glory Days | 15.00% | ~776 |
 | Best Party Guest | 15.00% | ~776 |
 | Shrub it Off | 15.00% | ~776 |
-| Collected 50 mushrooms | 14.00% | ~724 |
-| Budding Gardener | 14.00% | ~724 |
-| Stop Hitting Each Other | 14.00% | ~724 |
+| Collected 50 mushrooms | 14.00% | ~725 |
+| Budding Gardener | 14.00% | ~725 |
+| Stop Hitting Each Other | 14.00% | ~725 |
 | Ultimate Jerk | 13.00% | ~673 |
 | Hot Potato | 11.00% | ~569 |
-| Off the Beaten Path | 10.00% | ~517 |
+| Off the Beaten Path | 10.00% | ~518 |
 | It's Been a Blast | 9.00% | ~466 |
 | For Rock and Stone! | 9.00% | ~466 |
 | Don't Get Too Greedy | 7.00% | ~362 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,174 (Ranked 182)  
+Progressed: 5,175 (Ranked 182)  
 Completed: 30 (0.58%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 30 (0.58%) (Ranked 179)
 | 2023-10-26 | 5,170 | 30 |
 | 2023-10-28 | 5,172 | 30 |
 | 2023-10-29 | 5,174 | 30 |
+| 2023-10-31 | 5,175 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

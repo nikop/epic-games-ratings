@@ -2452,9 +2452,9 @@
       "ID": "achievement_106",
       "SetID": "d252ncf",
       "Name": "Pyromaniac",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_107",
@@ -2692,9 +2692,9 @@
       "ID": "achievement_19",
       "SetID": "b9pe172",
       "Name": "Archivist",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_2",
@@ -2724,9 +2724,9 @@
       "ID": "achievement_22",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration II",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 506
     },
     {
       "ID": "achievement_23",
@@ -3416,8 +3416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:05:41.4770011+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:10:31.9436277+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:59:17.6234095+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:05:41.4772417+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:04:01.6908451+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:10:31.9439162+00:00"
 }

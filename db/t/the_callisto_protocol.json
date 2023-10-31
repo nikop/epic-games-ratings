@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 906,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1391,9 +1391,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16365,
+  "EOS_Progressed": 16367,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8541,6 +8541,11 @@
       "Time": "2023-10-31T11:03:53.7083334+00:00",
       "NumProgressed": 16365,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-31T13:08:41.8654514+00:00",
+      "NumProgressed": 16367,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8927,13 +8932,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16365,
+      "Progressed": 16367,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4291,
+      "Progressed": 4293,
       "Completed": 29
     }
   ],
@@ -8941,8 +8946,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T10:02:50.4728628+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:03:53.3596921+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:08:41.8654509+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:57:20.4084455+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:03:53.3597681+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:01:58.7235025+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:08:41.8656029+00:00"
 }

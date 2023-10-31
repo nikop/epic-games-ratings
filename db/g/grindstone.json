@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5174,
+  "EOS_Progressed": 5175,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -863,6 +863,11 @@
       "Time": "2023-10-29T17:07:06.170203+00:00",
       "NumProgressed": 5174,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-10-31T13:12:46.5489171+00:00",
+      "NumProgressed": 5175,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -874,7 +879,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -882,7 +887,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -890,7 +895,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -906,7 +911,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -962,7 +967,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -970,7 +975,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -978,7 +983,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1002,7 +1007,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1026,7 +1031,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1050,7 +1055,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1066,7 +1071,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -1162,7 +1167,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5071
+      "UsersEstimate": 5072
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1265,15 +1270,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5174,
+      "Progressed": 5175,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:06:25.1471486+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:12:46.5489166+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:26.8193744+00:00",
-  "LastUpdate_Ratings": "2023-10-31T12:00:08.1619683+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:06:25.1472005+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:04:54.6050096+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:12:46.548996+00:00"
 }

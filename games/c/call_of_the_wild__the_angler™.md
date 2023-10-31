@@ -14,6 +14,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.10% | ~6 |
 | Taylor Made | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
+| Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Can you smell what the Rod is Hooking | 0.00% | ~0 |
 | Ready to Rod and Roll | 0.00% | ~0 |
 | I'm on a Boat! | 0.00% | ~0 |
@@ -42,7 +43,6 @@ Number of Ratings: 281  (23.09.2022)
 | Fish upon a Star | 0.00% | ~0 |
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
-| Live by the Rod, Diez by the Rod! | 0.00% | ~0 |
 | Aguas Claras Conquistador | 0.00% | ~0 |
 | All Good Kings Must Come to an End | 0.00% | ~0 |
 | Three Square Meals | 0.00% | ~0 |

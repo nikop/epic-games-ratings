@@ -672,9 +672,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "ach-portal-return",
@@ -776,9 +776,9 @@
       "ID": "ach-wearHat",
       "SetID": "17ih7ma",
       "Name": "Dapper",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
@@ -793,8 +793,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:08:49.308515+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:13:39.845573+00:00",
   "LastUpdate_AppInfo": "2023-10-28T09:57:19.1361562+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:59:58.2741494+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:08:49.3085714+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:04:42.9872823+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:13:39.8456517+00:00"
 }

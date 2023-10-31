@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -185,9 +185,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_03",
@@ -471,8 +471,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:09:01.9924603+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:13:53.3863256+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:57:38.2029107+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:09:01.9925008+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:02:17.2282237+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:13:53.3863554+00:00"
 }

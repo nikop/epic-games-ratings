@@ -1021,9 +1021,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -1133,9 +1133,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:04:59.5629621+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:09:48.9821338+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:57:20.1717102+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:04:59.5630748+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:01:58.4645579+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:09:48.9823272+00:00"
 }

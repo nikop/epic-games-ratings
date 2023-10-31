@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3256,10 +3256,10 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238883,
+  "EOS_Progressed": 238886,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 413,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 412,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -23391,6 +23391,11 @@
       "Time": "2023-10-31T12:09:08.0031629+00:00",
       "NumProgressed": 238883,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T13:13:59.2473799+00:00",
+      "NumProgressed": 238886,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24368,9 +24373,9 @@
       "ID": "WINWITHSPOON",
       "SetID": "5l8oe0h",
       "Name": "You Call That A Knife?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DONTKILLSCROUNGER",
@@ -24505,13 +24510,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238883,
+      "Progressed": 238886,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 363,
+      "Progressed": 366,
       "Completed": 350
     }
   ],
@@ -24519,8 +24524,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:09:08.0031624+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:13:59.2473795+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T12:02:49.7439205+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:09:08.0034814+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:07:35.8947434+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:13:59.2477205+00:00"
 }

@@ -20,9 +20,9 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 30.00% | ~100 |
 | Taxonomist | 27.00% | ~90 |
 | Plunderer | 27.00% | ~90 |
+| Uncertain Loyalties | 25.00% | ~83 |
 | Traveller | 24.00% | ~80 |
 | Nahua Seeker | 24.00% | ~80 |
-| Uncertain Loyalties | 24.00% | ~80 |
 | Roll to Save | 22.00% | ~73 |
 | Veteran Explorer | 20.00% | ~66 |
 | Red Flag Pirate | 18.00% | ~60 |
@@ -31,9 +31,9 @@ Number of Ratings: 20  (23.09.2022)
 | A Gentle Beast | 16.00% | ~53 |
 | For the Club! | 15.00% | ~50 |
 | Practical Palaeontology | 15.00% | ~50 |
+| Dapper | 15.00% | ~50 |
 | The New Director | 14.00% | ~46 |
 | Adventurer | 14.00% | ~46 |
-| Dapper | 14.00% | ~46 |
 | The Director is Dead | 13.00% | ~43 |
 | And Here Is Your Statue | 13.00% | ~43 |
 | Discovery | 13.00% | ~43 |

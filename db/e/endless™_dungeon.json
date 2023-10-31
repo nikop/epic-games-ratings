@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 944,
+  "EOS_Progressed": 945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1130,6 +1130,11 @@
       "Time": "2023-10-31T11:04:05.3281272+00:00",
       "NumProgressed": 944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T13:08:53.959817+00:00",
+      "NumProgressed": 945,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1174,7 +1179,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1206,7 +1211,7 @@
       "Name": "Team Builder",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1222,7 +1227,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1230,7 +1235,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1252,9 +1257,9 @@
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1381,14 +1386,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 944,
+      "Progressed": 945,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:04:05.6769446+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:08:53.9598161+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:57:11.8206271+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:04:05.676974+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:01:51.8070468+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:08:53.9598433+00:00"
 }

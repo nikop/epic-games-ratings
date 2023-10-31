@@ -114,6 +114,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sentimental Value | 0.10% | ~239 |
 | Nudie Run | 0.10% | ~239 |
 | Precious | 0.10% | ~239 |
+| You Call That A Knife? | 0.10% | ~239 |
 | Scrounger Appreciation | 0.10% | ~0 |
 | Who Needs Luck? | 0.10% | ~0 |
 | Explosives Expert | 0.10% | ~0 |
@@ -143,9 +144,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Swapsies | 0.00% | ~0 |
 | Ignoring Midgame | 0.00% | ~0 |
 | Martial Master | 0.00% | ~0 |
-| You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,883 (Ranked 59)  
+Progressed: 238,886 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,883 | 286 |
+| 2023-10-31 | 238,886 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

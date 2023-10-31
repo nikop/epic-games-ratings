@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 19.00% | ~7 |
-| Find Allies | 14.00% | ~5 |
+| Find Allies | 17.00% | ~6 |
 | Adventurer | 14.00% | ~5 |
 | Essence Blow | 14.00% | ~5 |
 | Scholar | 14.00% | ~5 |
@@ -41,7 +41,7 @@
 | Flawless Victory | -2.80% | ~-1 |
 | Big Bazar | -2.80% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 477)  
+Progressed: 36 (Ranked 478)  
 Completed: 1 (2.78%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |

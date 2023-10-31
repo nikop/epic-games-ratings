@@ -15,7 +15,7 @@
 | Council Legion of Merit | 60.00% | ~524 |
 | Medal of Honor | 58.00% | ~506 |
 | Meritorious Service Medal | 58.00% | ~506 |
-| Medal of Exploration II | 57.00% | ~498 |
+| Medal of Exploration II | 58.00% | ~506 |
 | Turian Ally | 56.00% | ~489 |
 | Charismatic | 56.00% | ~489 |
 | Soldier | 55.00% | ~480 |
@@ -51,6 +51,7 @@
 | The Justicar | 34.00% | ~297 |
 | Ghost of the Father | 34.00% | ~297 |
 | The Prodigal | 34.00% | ~297 |
+| Archivist | 33.00% | ~288 |
 | Battlemaster | 33.00% | ~288 |
 | Catharsis | 33.00% | ~288 |
 | The Cure | 33.00% | ~288 |
@@ -58,7 +59,6 @@
 | Revenge! | 33.00% | ~288 |
 | Heart of Darkness | 33.00% | ~288 |
 | Shopaholic | 33.00% | ~288 |
-| Archivist | 32.00% | ~279 |
 | Fade Away | 32.00% | ~279 |
 | Agent | 32.00% | ~279 |
 | Driven | 32.00% | ~279 |
@@ -88,10 +88,10 @@
 | Savior | 23.00% | ~201 |
 | Paramour II | 23.00% | ~201 |
 | Party Crasher | 22.00% | ~192 |
+| Pyromaniac | 21.00% | ~183 |
 | Hard Target | 21.00% | ~183 |
 | Fact Finder | 21.00% | ~183 |
 | Problem Solver | 21.00% | ~183 |
-| Pyromaniac | 20.00% | ~175 |
 | Under Pressure | 20.00% | ~175 |
 | No One Left Behind | 20.00% | ~175 |
 | Saboteur | 20.00% | ~175 |

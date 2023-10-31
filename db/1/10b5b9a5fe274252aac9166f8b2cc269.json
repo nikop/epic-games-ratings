@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 329,
+  "EOS_Progressed": 330,
   "EOS_Completed": 146,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 44.38,
+  "EOS_Completed_Percentage": 44.24,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1849,6 +1849,11 @@
       "Time": "2023-10-31T04:06:16.391182+00:00",
       "NumProgressed": 329,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-10-31T13:11:01.6642796+00:00",
+      "NumProgressed": 330,
+      "NumCompleted": 146
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1861,7 +1866,7 @@
       "Name": "Portrait 1",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "PORTRAIT_10",
@@ -1869,7 +1874,7 @@
       "Name": "Portrait 1",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PORTRAIT_11",
@@ -1877,7 +1882,7 @@
       "Name": "Portrait 11",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "PORTRAIT_12",
@@ -1885,7 +1890,7 @@
       "Name": "Portrait 12",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "PORTRAIT_13",
@@ -1901,7 +1906,7 @@
       "Name": "Portrait 14",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PORTRAIT_15",
@@ -1909,7 +1914,7 @@
       "Name": "Portrait 15",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "PORTRAIT_16",
@@ -1931,17 +1936,17 @@
       "ID": "PORTRAIT_18",
       "SetID": "2fge00i",
       "Name": "Portrait 18",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 152
     },
     {
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 148
     },
     {
       "ID": "PORTRAIT_2",
@@ -1949,7 +1954,7 @@
       "Name": "Portrait 2",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "PORTRAIT_20",
@@ -1963,9 +1968,9 @@
       "ID": "PORTRAIT_3",
       "SetID": "2fge00i",
       "Name": "Portrait 3",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 257
     },
     {
       "ID": "PORTRAIT_4",
@@ -1973,7 +1978,7 @@
       "Name": "Portrait 4",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "PORTRAIT_5",
@@ -1981,15 +1986,15 @@
       "Name": "Portrait 5",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "PORTRAIT_6",
       "SetID": "2fge00i",
       "Name": "Portrait 6",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 208
     },
     {
       "ID": "PORTRAIT_7",
@@ -1997,7 +2002,7 @@
       "Name": "Portrait 7",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PORTRAIT_8",
@@ -2020,14 +2025,14 @@
     {
       "ID": "2fge00i",
       "IsBase": true,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 146
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:06:10.2166578+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:11:01.6642791+00:00",
   "LastUpdate_AppInfo": "2023-10-26T13:57:13.9475616+00:00",
-  "LastUpdate_Ratings": "2023-10-31T12:00:20.6153871+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:06:10.2166966+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:05:09.9364494+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:11:01.6643044+00:00"
 }

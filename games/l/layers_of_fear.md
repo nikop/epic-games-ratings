@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 58.00% | ~19 |
-| Wanderer | 55.00% | ~18 |
+| Something important | 61.00% | ~20 |
+| Wanderer | 58.00% | ~19 |
 | A piece of the story | 45.00% | ~15 |
 | Do what you have to | 42.00% | ~14 |
 | The artist’s impression | 33.00% | ~11 |

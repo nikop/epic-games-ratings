@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1888,
+  "EOS_Progressed": 1889,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4022,6 +4022,11 @@
       "Time": "2023-10-31T10:09:43.9442163+00:00",
       "NumProgressed": 1888,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T13:13:53.5539968+00:00",
+      "NumProgressed": 1889,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4042,7 +4047,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4425,14 +4430,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1888,
+      "Progressed": 1889,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:09:02.2499486+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:13:53.5539962+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:57:42.9000014+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:09:02.2500505+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:02:23.9720383+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:13:53.5541451+00:00"
 }

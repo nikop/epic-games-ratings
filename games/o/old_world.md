@@ -93,6 +93,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~136 |
 | Building Wonders | 0.90% | ~136 |
 | Economic Reform | 0.90% | ~136 |
+| Legalism | 0.90% | ~136 |
+| Redemption | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
 | Subjugator | 0.80% | ~120 |
@@ -104,8 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.80% | ~120 |
 | Military Prestige | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
-| Legalism | 0.80% | ~120 |
-| Redemption | 0.80% | ~120 |
 | Revelation | 0.80% | ~120 |
 | Cimmerian Archer | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,062 (Ranked 143)  
+Progressed: 15,062 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |

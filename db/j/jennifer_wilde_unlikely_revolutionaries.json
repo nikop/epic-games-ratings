@@ -2,9 +2,9 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 62,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.92,
+  "EOS_Completed_Percentage": 4.84,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -324,6 +324,11 @@
       "Time": "2023-10-13T20:06:30.278519+00:00",
       "NumProgressed": 61,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T13:09:40.4398423+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -349,7 +354,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
       "UsersEstimate": 17
     },
@@ -414,14 +419,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 62,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-10-31T12:04:51.3850246+00:00",
+  "LastChanged_Achievements": "2023-10-31T13:09:40.4398417+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:47.1875261+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:59:23.2437133+00:00",
-  "LastUpdate_Achievements": "2023-10-31T12:04:51.385038+00:00"
+  "LastUpdate_Ratings": "2023-10-31T13:04:07.3647002+00:00",
+  "LastUpdate_Achievements": "2023-10-31T13:09:40.4398581+00:00"
 }
