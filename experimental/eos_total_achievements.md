@@ -7,10 +7,10 @@
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |
+| [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
 | [Pirates Outlaws](../games/p/pirates_outlaws.md) | 124 | 1,000 |
-| [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |
 | [WrestleQuest](../games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 122 | 1,000 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |

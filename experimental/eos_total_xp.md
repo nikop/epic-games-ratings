@@ -36,6 +36,7 @@
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
+| [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
@@ -534,7 +535,6 @@
 | [RIDE 5](../games/r/ride_5.md) | 49 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Riftbound](../games/r/riftbound.md) | 27 | 1,000 |
-| [Ring of Pain](../games/r/ring_of_pain.md) | 122 | 1,000 |
 | [Rise of Industry](../games/r/rise_of_industry.md) | 27 | 1,000 |
 | [Rise of the Third Power](../games/r/rise_of_the_third_power.md) | 21 | 1,000 |
 | [Risen](../games/r/risen.md) | 50 | 1,000 |

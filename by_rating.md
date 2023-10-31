@@ -427,7 +427,7 @@
 | 407 | [Warframe](games/w/warframe.md) | 4.60 | 18,061 | 22 |
 | 407 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 531 | 202 |
 | 427 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 544 |
-| 427 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 448 | 211 |
+| 427 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 452 | 211 |
 | 427 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 397 |
 | 427 | [GRIME](games/g/grime.md) | 4.59 | 49 | 425 |
 | 427 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 62 | 406 |
@@ -610,7 +610,7 @@
 | 602 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 277 | 253 |
 | 602 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 140 | 317 |
 | 602 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 544 |
-| 602 | [Maneater](games/m/maneater.md) | 4.49 | 13,767 | 29 |
+| 602 | [Maneater](games/m/maneater.md) | 4.49 | 13,768 | 29 |
 | 602 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 355 |
 | 602 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 473 |
 | 602 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 544 |
