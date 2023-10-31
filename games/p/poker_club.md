@@ -5,26 +5,26 @@ Rating: 3.82 (Ranked 1,013)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~406,298 |
-| Handy | 41.00% | ~219,187 |
-| Cold Caller | 39.00% | ~208,495 |
-| A Bit On The Side | 27.00% | ~144,343 |
-| Backdoor | 25.00% | ~133,651 |
-| Rank Amateur | 21.00% | ~112,267 |
+| Pro Creation | 76.00% | ~406,302 |
+| Handy | 41.00% | ~219,189 |
+| Cold Caller | 39.00% | ~208,497 |
+| A Bit On The Side | 27.00% | ~144,344 |
+| Backdoor | 25.00% | ~133,652 |
+| Rank Amateur | 21.00% | ~112,268 |
 | Three Way | 18.00% | ~96,229 |
-| Deadly Assassin | 15.00% | ~80,190 |
-| Gutshot | 14.00% | ~74,844 |
-| Risk It For A Biscuit | 14.00% | ~74,844 |
-| Showoff | 13.00% | ~69,498 |
-| W.H.I.P. | 11.00% | ~58,806 |
-| Bet Bet Bet | 10.00% | ~53,460 |
-| Blindman's Bluff | 9.00% | ~48,114 |
-| Poker Joker | 9.00% | ~48,114 |
-| Never Give Up | 8.00% | ~42,768 |
-| The Bigger They Are | 8.00% | ~42,768 |
-| Total Knock Out | 8.00% | ~42,768 |
-| Dog Eat Dog | 7.00% | ~37,422 |
-| Quack Quack | 7.00% | ~37,422 |
+| Deadly Assassin | 15.00% | ~80,191 |
+| Gutshot | 14.00% | ~74,845 |
+| Risk It For A Biscuit | 14.00% | ~74,845 |
+| Showoff | 13.00% | ~69,499 |
+| W.H.I.P. | 11.00% | ~58,807 |
+| Bet Bet Bet | 10.00% | ~53,461 |
+| Blindman's Bluff | 9.00% | ~48,115 |
+| Poker Joker | 9.00% | ~48,115 |
+| Never Give Up | 8.00% | ~42,769 |
+| The Bigger They Are | 8.00% | ~42,769 |
+| Total Knock Out | 8.00% | ~42,769 |
+| Dog Eat Dog | 7.00% | ~37,423 |
+| Quack Quack | 7.00% | ~37,423 |
 | Give Your Regards To Broadway | 6.00% | ~32,076 |
 | Check Yourself | 4.00% | ~21,384 |
 | Moneymaker | 4.00% | ~21,384 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,013)
 | Rounder | 0.10% | ~535 |
 | Top Dog | 0.10% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,603 (Ranked 34)  
+Progressed: 534,608 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2 (0.00%) (Ranked 333)
 | 2023-10-28 | 534,143 | 2 |
 | 2023-10-29 | 534,392 | 2 |
 | 2023-10-30 | 534,578 | 2 |
-| 2023-10-31 | 534,603 | 2 |
+| 2023-10-31 | 534,608 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 415)  
 Sum: 134 (Ranked 423)  

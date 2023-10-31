@@ -27,10 +27,10 @@
 | Tear of Freedom | 46.00% | ~17 |
 | Snowball Fightn't | 46.00% | ~17 |
 | 3000 Year Blackout | 43.00% | ~16 |
+| The Relentless Storm | 43.00% | ~16 |
 | A Tragic Reminder | 41.00% | ~15 |
 | Snowy Poro | 41.00% | ~15 |
 | Bullseye | 41.00% | ~15 |
-| The Relentless Storm | 41.00% | ~15 |
 | The Finisher | 38.00% | ~14 |
 | So Close | 35.00% | ~13 |
 | You Get Used To It | 35.00% | ~13 |

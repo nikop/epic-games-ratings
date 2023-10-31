@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 9.00% | ~1,472 |
+| Get a Grip | 9.00% | ~1,473 |
 | Paper Jams | 8.00% | ~1,309 |
 | Flesh Wound | 7.00% | ~1,145 |
 | Chew 'Em Up | 6.00% | ~982 |
@@ -27,7 +27,7 @@ Rating: 4.19 (Ranked 907)
 | I Do Belong Here | 4.00% | ~654 |
 | Terminated | 4.00% | ~654 |
 | What Lies Beneath | 4.00% | ~654 |
-| It's Time | 4.00% | ~171 |
+| It's Time | 4.00% | ~172 |
 | The Commonality | 3.00% | ~491 |
 | In Striking Distance | 2.00% | ~327 |
 | One Last Job | 2.00% | ~86 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 907)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,361 (Ranked 140)  
+Progressed: 16,362 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 78 (0.48%) (Ranked 193)
 | 2023-10-28 | 16,332 | 78 |
 | 2023-10-29 | 16,345 | 78 |
 | 2023-10-30 | 16,360 | 78 |
-| 2023-10-31 | 16,361 | 78 |
+| 2023-10-31 | 16,362 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 380)  
 Sum: 462 (Ranked 326)  

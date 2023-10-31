@@ -17,16 +17,16 @@
 | My Precious Gems! | 22.00% | ~9 |
 | Just Some Improvements | 22.00% | ~9 |
 | An Unexpected Visitor | 22.00% | ~9 |
+| Final Announcement | 22.00% | ~9 |
 | A Little Extra Love | 20.00% | ~8 |
-| Final Announcement | 20.00% | ~8 |
 | A New Strategy | 20.00% | ~8 |
 | Isn't It Beautiful? | 17.00% | ~7 |
 | A Generous Leader | 17.00% | ~7 |
 | A Terrible Way to Go | 17.00% | ~7 |
+| Dr. Dreinstein III | 15.00% | ~6 |
 | Orcharion Boost | 15.00% | ~6 |
 | Case Closed | 15.00% | ~6 |
 | How Do You Like Them Apples? | 15.00% | ~6 |
-| Dr. Dreinstein III | 12.00% | ~5 |
 | Fishing for Fissures | 12.00% | ~5 |
 | You did it? You did it! | 12.00% | ~5 |
 | All Beefed Up | 12.00% | ~5 |

@@ -612,9 +612,9 @@
       "ID": "26",
       "SetID": "39djiaj",
       "Name": "Living Room Secret Spot",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "27",
@@ -795,8 +795,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:03:30.4318984+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:03:22.5094451+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:28.9364056+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:03:13.146782+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:03:30.4319385+00:00"
+  "LastUpdate_Ratings": "2023-10-31T04:02:55.7578856+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:03:22.509493+00:00"
 }

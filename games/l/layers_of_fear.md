@@ -10,15 +10,15 @@
 | Do what you have to | 42.00% | ~14 |
 | The artist’s impression | 33.00% | ~11 |
 | Finished it | 33.00% | ~11 |
+| Refuse to look | 27.00% | ~9 |
 | Scraps of love | 27.00% | ~9 |
 | Sign of weakness | 27.00% | ~9 |
-| Refuse to look | 24.00% | ~8 |
 | It's covered up for a reason | 21.00% | ~7 |
+| Face your fears | 15.00% | ~5 |
 | First steps | 15.00% | ~5 |
 | Playtime | 15.00% | ~5 |
 | Tough conversation | 15.00% | ~5 |
 | Breaking free | 12.00% | ~4 |
-| Face your fears | 12.00% | ~4 |
 | The tragedy unfolds | 12.00% | ~4 |
 | A Slice of Life | 9.00% | ~3 |
 | Debut | 9.00% | ~3 |

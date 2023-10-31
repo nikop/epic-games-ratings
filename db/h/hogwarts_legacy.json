@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9807,9 +9807,9 @@
       "Count": 755
     }
   ],
-  "EOS_Progressed": 299875,
+  "EOS_Progressed": 299879,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1134,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30497,6 +30497,11 @@
       "Time": "2023-10-31T03:09:20.3689112+00:00",
       "NumProgressed": 299875,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-10-31T04:09:04.7968303+00:00",
+      "NumProgressed": 299879,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30508,7 +30513,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 44981
+      "UsersEstimate": 44982
     },
     {
       "ID": "PFA_10",
@@ -30516,7 +30521,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_11",
@@ -30524,7 +30529,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_12",
@@ -30532,7 +30537,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_13",
@@ -30548,7 +30553,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17992
+      "UsersEstimate": 17993
     },
     {
       "ID": "PFA_15",
@@ -30564,7 +30569,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_17",
@@ -30636,7 +30641,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_25",
@@ -30644,7 +30649,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17992
+      "UsersEstimate": 17993
     },
     {
       "ID": "PFA_26",
@@ -30676,7 +30681,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17992
+      "UsersEstimate": 17993
     },
     {
       "ID": "PFA_3",
@@ -30692,7 +30697,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_31",
@@ -30764,7 +30769,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32986
+      "UsersEstimate": 32987
     },
     {
       "ID": "PFA_4",
@@ -30796,7 +30801,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17992
+      "UsersEstimate": 17993
     },
     {
       "ID": "PFA_43",
@@ -30867,7 +30872,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299875,
+      "Progressed": 299879,
       "Completed": 498
     }
   ],
@@ -30875,8 +30880,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-31T02:16:17.2097144+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:09:20.3689108+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:09:04.7968299+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:58:30.7333564+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:09:20.3690683+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:58:19.9451779+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:09:04.7969904+00:00"
 }

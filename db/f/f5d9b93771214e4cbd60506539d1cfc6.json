@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150627,
+  "EOS_Progressed": 150631,
   "EOS_Completed": 315,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16373,6 +16373,11 @@
       "Time": "2023-10-31T03:03:39.6611773+00:00",
       "NumProgressed": 150627,
       "NumCompleted": 315
+    },
+    {
+      "Time": "2023-10-31T04:03:31.4344324+00:00",
+      "NumProgressed": 150631,
+      "NumCompleted": 315
     }
   ],
   "TotalAchievements": 31,
@@ -16392,7 +16397,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105439
+      "UsersEstimate": 105442
     },
     {
       "ID": "EAwards_10",
@@ -16408,7 +16413,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31632
+      "UsersEstimate": 31633
     },
     {
       "ID": "EAwards_12",
@@ -16432,7 +16437,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58745
+      "UsersEstimate": 58746
     },
     {
       "ID": "EAwards_15",
@@ -16440,7 +16445,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18075
+      "UsersEstimate": 18076
     },
     {
       "ID": "EAwards_16",
@@ -16456,7 +16461,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33138
+      "UsersEstimate": 33139
     },
     {
       "ID": "EAwards_18",
@@ -16464,7 +16469,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33138
+      "UsersEstimate": 33139
     },
     {
       "ID": "EAwards_19",
@@ -16480,7 +16485,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42176
+      "UsersEstimate": 42177
     },
     {
       "ID": "EAwards_20",
@@ -16520,7 +16525,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7531
+      "UsersEstimate": 7532
     },
     {
       "ID": "EAwards_25",
@@ -16568,7 +16573,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28619
+      "UsersEstimate": 28620
     },
     {
       "ID": "EAwards_30",
@@ -16576,7 +16581,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13556
+      "UsersEstimate": 13557
     },
     {
       "ID": "EAwards_4",
@@ -16584,7 +16589,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22594
+      "UsersEstimate": 22595
     },
     {
       "ID": "EAwards_5",
@@ -16600,7 +16605,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37657
+      "UsersEstimate": 37658
     },
     {
       "ID": "EAwards_7",
@@ -16616,7 +16621,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55732
+      "UsersEstimate": 55733
     },
     {
       "ID": "EAwards_9",
@@ -16624,14 +16629,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18075
+      "UsersEstimate": 18076
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150627,
+      "Progressed": 150631,
       "Completed": 315
     }
   ],
@@ -16639,8 +16644,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:03:39.6611769+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:03:31.434432+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:57:47.3400531+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:03:39.6612967+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:57:40.0170739+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:03:31.4345518+00:00"
 }

@@ -24,7 +24,7 @@
 | Save some water for the fishies | 23.00% | ~23 |
 | Bathroom Secret Spot | 23.00% | ~23 |
 | Angry Dad | 23.00% | ~23 |
-| Living Room Secret Spot | 21.00% | ~21 |
+| Living Room Secret Spot | 22.00% | ~22 |
 | Have Mercy | 21.00% | ~21 |
 | Angry Mom | 20.00% | ~20 |
 | Hi Hungry, I'm Dad | 19.00% | ~19 |

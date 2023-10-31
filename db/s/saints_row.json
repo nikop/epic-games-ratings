@@ -3987,7 +3987,7 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 76761,
+  "EOS_Progressed": 76763,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 0,
@@ -25842,6 +25842,11 @@
       "Time": "2023-10-31T03:03:58.7190961+00:00",
       "NumProgressed": 76761,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-10-31T04:03:49.9590513+00:00",
+      "NumProgressed": 76763,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -25941,7 +25946,7 @@
       "Name": "Showdown",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 13049
+      "UsersEstimate": 13050
     },
     {
       "ID": "complete_first_side_hustle",
@@ -25949,7 +25954,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23796
+      "UsersEstimate": 23797
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -25965,7 +25970,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36078
+      "UsersEstimate": 36079
     },
     {
       "ID": "customize_a_vehicle",
@@ -26045,7 +26050,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 9211
+      "UsersEstimate": 9212
     },
     {
       "ID": "empire_tier_5",
@@ -26061,7 +26066,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25331
+      "UsersEstimate": 25332
     },
     {
       "ID": "fully_complete_a_building",
@@ -26093,7 +26098,7 @@
       "Name": "Et tu?",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13049
+      "UsersEstimate": 13050
     },
     {
       "ID": "get_fired",
@@ -26101,7 +26106,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27634
+      "UsersEstimate": 27635
     },
     {
       "ID": "hit_max_level",
@@ -26125,7 +26130,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15352
+      "UsersEstimate": 15353
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -26133,7 +26138,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21493
+      "UsersEstimate": 21494
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26149,7 +26154,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26866
+      "UsersEstimate": 26867
     },
     {
       "ID": "one_third_purple",
@@ -26157,7 +26162,7 @@
       "Name": "Neighborly",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "own_100_pieces_of_clothing",
@@ -26173,7 +26178,7 @@
       "Name": "Prankster",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "purchase_2_emotes",
@@ -26197,7 +26202,7 @@
       "Name": "Tourist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "staggered_by_vending_machine",
@@ -26205,7 +26210,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20725
+      "UsersEstimate": 20726
     },
     {
       "ID": "two_thirds_purple",
@@ -26276,13 +26281,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76761,
+      "Progressed": 76763,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48398,
+      "Progressed": 48400,
       "Completed": 4225
     }
   ],
@@ -26290,8 +26295,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-30T22:03:03.3848159+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:03:58.7190956+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:03:49.9590509+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:03:12.5188929+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:03:58.7192721+00:00"
+  "LastUpdate_Ratings": "2023-10-31T04:02:55.0098127+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:03:49.9592273+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.49 (Ranked 602)  
 ## Awards
-Max (Great for Quick Sessions): 139  (Ranked 317)  
-Sum: 689 (Ranked 292)  
+Max (Great for Quick Sessions): 140  (Ranked 317)  
+Sum: 690 (Ranked 292)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 139 |
+| This game is Great for Quick Sessions | 140 |
 | This game is Great for Beginners | 125 |
 | This game is Highly Recommended | 92 |
 | This game is Extremely Fun | 90 |
@@ -185,3 +185,4 @@ Diff (max vs sum): 25
 | 2023-10-25 | 4.48 | 139 | 686 |
 | 2023-10-28 | 4.48 | 139 | 688 |
 | 2023-10-30 | 4.49 | 139 | 689 |
+| 2023-10-31 | 4.49 | 140 | 690 |

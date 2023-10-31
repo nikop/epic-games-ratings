@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -880,9 +880,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -1064,9 +1064,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -1200,9 +1200,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -1312,9 +1312,9 @@
       "ID": "GSS_ACH_63_POPULARITY_03",
       "SetID": "5fn8ia4",
       "Name": "In the Desert There Is a ...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "GSS_ACH_64_POPULARITY_04",
@@ -1400,9 +1400,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:05:14.8282594+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:05:05.2341076+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:57:23.6641357+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:05:14.8283722+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:57:14.9434318+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:05:05.2342138+00:00"
 }

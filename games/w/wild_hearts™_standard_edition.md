@@ -22,7 +22,7 @@
 | Flawless Crystal | 54.00% | ~107 |
 | Bonds of Enmity | 54.00% | ~107 |
 | Counter Specialist | 51.00% | ~101 |
-| Axer of Auspice | 46.00% | ~92 |
+| Axer of Auspice | 47.00% | ~94 |
 | Fair Means or Foul | 45.00% | ~90 |
 | Single Minded | 43.00% | ~86 |
 | Snare Specialist | 43.00% | ~86 |

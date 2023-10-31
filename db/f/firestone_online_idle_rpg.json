@@ -447,7 +447,7 @@
   ],
   "EOS_Progressed": 2084,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6971,9 +6971,9 @@
       "ID": "ultimatewarmachines",
       "SetID": "3nl4bcg",
       "Name": "Ultimate War Machines",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "victor",
@@ -7028,8 +7028,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-29T20:58:12.1525897+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:04:29.3356069+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:04:21.034067+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:58:01.5680174+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:04:29.3357217+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:57:53.6616679+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:04:21.0341779+00:00"
 }

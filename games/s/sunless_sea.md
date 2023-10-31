@@ -14,15 +14,15 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~4,767 |
 | Lose Your Mind | 12.00% | ~4,767 |
 | Sound Mind? | 12.00% | ~4,767 |
-| Salt's Curse | 11.00% | ~4,369 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,369 |
-| The Fall of the House | 11.00% | ~4,369 |
-| Shipmate | 11.00% | ~4,369 |
+| Salt's Curse | 11.00% | ~4,370 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,370 |
+| The Fall of the House | 11.00% | ~4,370 |
+| Shipmate | 11.00% | ~4,370 |
 | One Year at Zee | 8.00% | ~3,178 |
-| Pupil | 7.00% | ~2,780 |
-| Salvager | 7.00% | ~2,780 |
-| Open Your Ears | 7.00% | ~2,780 |
-| The Ascent of Man | 7.00% | ~2,780 |
+| Pupil | 7.00% | ~2,781 |
+| Salvager | 7.00% | ~2,781 |
+| Open Your Ears | 7.00% | ~2,781 |
+| The Ascent of Man | 7.00% | ~2,781 |
 | Zee Fever | 5.00% | ~1,986 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,589 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,589 |
@@ -39,13 +39,13 @@ Number of Ratings: 401  (23.09.2022)
 | Those are pearls that were his eyes | 1.00% | ~397 |
 | Rosewater sailor | 1.00% | ~397 |
 | A current under zee | 1.00% | ~397 |
-| Never Stop Sinking... | 0.90% | ~357 |
-| His bones in whispers | 0.90% | ~357 |
-| The beauty of the deep | 0.90% | ~357 |
-| The dragon in the zee | 0.90% | ~357 |
-| No regrets | 0.90% | ~357 |
-| Under the zee | 0.90% | ~357 |
-| Depth charge | 0.90% | ~357 |
+| Never Stop Sinking... | 0.90% | ~358 |
+| His bones in whispers | 0.90% | ~358 |
+| The beauty of the deep | 0.90% | ~358 |
+| The dragon in the zee | 0.90% | ~358 |
+| No regrets | 0.90% | ~358 |
+| Under the zee | 0.90% | ~358 |
+| Depth charge | 0.90% | ~358 |
 | A zee-change | 0.80% | ~318 |
 | Leviathan | 0.80% | ~318 |
 | What lies beneath | 0.70% | ~278 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~40 |
 | Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,721 (Ranked 116)  
+Progressed: 39,723 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 4 (0.01%) (Ranked 313)
 | 2023-10-28 | 39,573 | 4 |
 | 2023-10-29 | 39,648 | 4 |
 | 2023-10-30 | 39,707 | 4 |
-| 2023-10-31 | 39,721 | 4 |
+| 2023-10-31 | 39,723 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 277)  
 Sum: 288 (Ranked 359)  

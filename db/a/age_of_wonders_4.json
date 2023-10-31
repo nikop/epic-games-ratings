@@ -3,11 +3,11 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 407,
-  "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 512,
+  "Ranking_Popularity": 497,
+  "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -373,23 +373,29 @@
       "Rating": 4.6,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-10-31T03:59:53.917692+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 27
+      "Count": 28
     }
   ],
-  "EOS_Progressed": 5254,
+  "EOS_Progressed": 5255,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6537,6 +6543,11 @@
       "Time": "2023-10-30T23:04:43.809834+00:00",
       "NumProgressed": 5254,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-31T04:03:30.9765+00:00",
+      "NumProgressed": 5255,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6947,22 +6958,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5254,
+      "Progressed": 5255,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5254,
+      "Progressed": 5255,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-10-28T02:59:13.786898+00:00",
-  "LastChanged_Achievements": "2023-10-31T03:03:39.1388179+00:00",
+  "LastChanged": "2023-10-31T03:59:53.9176919+00:00",
+  "LastChanged_Achievements": "2023-10-31T04:03:30.9764995+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:02.1376773+00:00",
-  "LastUpdate_Ratings": "2023-10-31T03:00:11.0348928+00:00",
-  "LastUpdate_Achievements": "2023-10-31T03:03:39.1389035+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:59:53.9176924+00:00",
+  "LastUpdate_Achievements": "2023-10-31T04:03:30.9765825+00:00"
 }

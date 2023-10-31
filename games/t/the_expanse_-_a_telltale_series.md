@@ -14,7 +14,7 @@ Rating: 4.60 (Ranked 407)
 | Drone Dodger | 0.90% | ~130 |
 | Call it Even | 0.90% | ~130 |
 | Captain Drummer | 0.90% | ~130 |
-| Impossible Objects | 0.80% | ~116 |
+| Impossible Objects | 0.90% | ~130 |
 | Data Archivist | 0.70% | ~101 |
 | Stogie for Fogey | 0.70% | ~101 |
 | Spore Taste | 0.70% | ~101 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 407)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,497 (Ranked 145)  
+Progressed: 14,499 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 28 (0.19%) (Ranked 238)
 | 2023-10-28 | 14,430 | 28 |
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
-| 2023-10-31 | 14,497 | 28 |
+| 2023-10-31 | 14,499 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

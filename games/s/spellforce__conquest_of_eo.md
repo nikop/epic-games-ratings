@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Enough rooms to swing a cat | 89.00% | ~8 |
 | First to the post | 89.00% | ~8 |
 | Expansion | 78.00% | ~7 |
-| Enough rooms to swing a cat | 78.00% | ~7 |
 | Home Sweet Home | 78.00% | ~7 |
 | A kind of Magic | 78.00% | ~7 |
 | Connected | 78.00% | ~7 |
@@ -21,10 +21,10 @@
 | Alchemist's Apprentice | 44.00% | ~4 |
 | Slave to the rhythm | 44.00% | ~4 |
 | Break Free | 44.00% | ~4 |
+| Necromancer's Apprentice | 33.00% | ~3 |
 | Sevenkeeps Seat of Kings | 33.00% | ~3 |
 | Friend of Gillyshire | 33.00% | ~3 |
 | Friend of Sevenkeeps | 33.00% | ~3 |
-| Necromancer's Apprentice | 22.00% | ~2 |
 | Defeat Gor | 22.00% | ~2 |
 | Defeat Hokan | 22.00% | ~2 |
 | Defeat Ianna | 22.00% | ~2 |
