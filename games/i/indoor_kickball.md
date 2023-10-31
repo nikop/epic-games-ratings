@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 84.00% | ~81 |
-| Accessory Unlocked | 82.00% | ~80 |
+| Hat Unlocked | 84.00% | ~82 |
+| Accessory Unlocked | 83.00% | ~81 |
+| Character Unlocked | 76.00% | ~74 |
+| Homer | 76.00% | ~74 |
 | Butter Fingers | 76.00% | ~74 |
-| Character Unlocked | 75.00% | ~73 |
-| Homer | 75.00% | ~73 |
-| Have a good trip! | 72.00% | ~70 |
-| Kickball Unlocked | 70.00% | ~68 |
-| Settle Down | 70.00% | ~68 |
-| Stay Hydrated | 64.00% | ~62 |
-| First Win | 63.00% | ~61 |
-| True Story! | 44.00% | ~43 |
+| Have a good trip! | 72.00% | ~71 |
+| Kickball Unlocked | 70.00% | ~69 |
+| Settle Down | 70.00% | ~69 |
+| Stay Hydrated | 64.00% | ~63 |
+| First Win | 63.00% | ~62 |
+| True Story! | 45.00% | ~44 |
 | Bedroom Secret Spot | 41.00% | ~40 |
 | Kick It | 33.00% | ~32 |
-| At least everyone still had fun | 31.00% | ~30 |
+| At least everyone still had fun | 32.00% | ~31 |
 | Classroom Secret Spot | 30.00% | ~29 |
 | Spooky | 28.00% | ~27 |
 | Grand Slam! | 27.00% | ~26 |
-| Save some water for the fishies | 24.00% | ~23 |
-| Bathroom Secret Spot | 24.00% | ~23 |
-| Angry Dad | 24.00% | ~23 |
-| Living Room Secret Spot | 22.00% | ~21 |
-| Have Mercy | 22.00% | ~21 |
-| Angry Mom | 21.00% | ~20 |
-| Hi Hungry, I'm Dad | 20.00% | ~19 |
+| Save some water for the fishies | 23.00% | ~23 |
+| Bathroom Secret Spot | 23.00% | ~23 |
+| Angry Dad | 23.00% | ~23 |
+| Living Room Secret Spot | 21.00% | ~21 |
+| Have Mercy | 21.00% | ~21 |
+| Angry Mom | 20.00% | ~20 |
+| Hi Hungry, I'm Dad | 19.00% | ~19 |
 | Just how we drew it up | 12.00% | ~12 |
 | Interference | 9.00% | ~9 |
 | You broke it, you bought it | 7.00% | ~7 |
@@ -45,7 +45,7 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 407)  
+Progressed: 98 (Ranked 406)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,3 +100,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-09-28 | 95 | 0 |
 | 2023-10-07 | 96 | 0 |
 | 2023-10-29 | 97 | 0 |
+| 2023-10-31 | 98 | 0 |

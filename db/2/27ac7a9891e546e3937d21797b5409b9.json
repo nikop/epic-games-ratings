@@ -2,9 +2,9 @@
   "ID": "27ac7a9891e546e3937d21797b5409b9",
   "Name": "REMORE INFESTED KINGDOM",
   "ProductSlug": "remore-infested-kingdom-d1a6b5",
-  "Ranking_EOS_Progress": 656,
+  "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-30T17:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-10-27T02:23:37.1215847+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T03:03:54.0660497+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "ACH02_Clear_ManorHouse",
       "SetID": "8cb5h5l",
       "Name": "Vengeance for the Stag Lord",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -58,7 +63,7 @@
       "ID": "ACH03_Kill_Blister_Collision",
       "SetID": "8cb5h5l",
       "Name": "KABOOM!",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -66,7 +71,7 @@
       "ID": "ACH04_Kill_FullHP_OneShot",
       "SetID": "8cb5h5l",
       "Name": "EAAAAAAAAAZY",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -74,7 +79,7 @@
       "ID": "ACH05_Kill_Skulker_WithStun",
       "SetID": "8cb5h5l",
       "Name": "Don\u0027t Move!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "ACH13_Dead_On_Tutorial",
       "SetID": "8cb5h5l",
       "Name": "You are Not Prepared!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -155,13 +160,13 @@
     {
       "ID": "8cb5h5l",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-21T08:05:36.9140718+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:21:20.3463609+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:03:54.0660493+00:00",
   "LastUpdate_AppInfo": "2023-10-27T10:57:15.3728967+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:15:42.5713701+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:21:20.3463712+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:58:00.2587878+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:03:54.066062+00:00"
 }

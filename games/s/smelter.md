@@ -16,8 +16,8 @@
 | Deflect This! | 29.00% | ~12 |
 | My Precious Gems! | 22.00% | ~9 |
 | Just Some Improvements | 22.00% | ~9 |
+| An Unexpected Visitor | 22.00% | ~9 |
 | A Little Extra Love | 20.00% | ~8 |
-| An Unexpected Visitor | 20.00% | ~8 |
 | Final Announcement | 20.00% | ~8 |
 | A New Strategy | 20.00% | ~8 |
 | Isn't It Beautiful? | 17.00% | ~7 |

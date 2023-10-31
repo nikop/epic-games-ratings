@@ -10,13 +10,14 @@
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
 | Blessed antennas | 3.00% | ~1 |
+| The beast in the Oval Office | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
 | Pulp! The Beyond | 3.00% | ~1 |
+| America had no Faith | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
-| The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Thirst for Oleum | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |
 | ECO mode | 0.00% | ~0 |
-| America had no Faith | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 | The happy farmer girl | 0.00% | ~0 |

@@ -67,6 +67,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.70% | ~969 |
 | Above the Norm | 0.70% | ~969 |
 | A Ronin Reborn | 0.70% | ~969 |
+| Omae wa Mou Shindeiru | 0.70% | ~969 |
 | Master of Transmutation | 0.70% | ~969 |
 | Supercharged | 0.70% | ~969 |
 | Ritualist | 0.70% | ~969 |
@@ -92,7 +93,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.60% | ~830 |
 | Fillin' the Bin | 0.60% | ~830 |
 | Industrial Evolution | 0.60% | ~830 |
-| Omae wa Mou Shindeiru | 0.60% | ~830 |
 | A Legend is Born | 0.60% | ~830 |
 | Item of Renown | 0.60% | ~830 |
 | Bountiful Harvest | 0.60% | ~830 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,375 (Ranked 77)  
+Progressed: 138,377 (Ranked 77)  
 Completed: 176 (0.13%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 176 (0.13%) (Ranked 251)
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
 | 2023-10-30 | 138,369 | 176 |
-| 2023-10-31 | 138,375 | 176 |
+| 2023-10-31 | 138,377 | 176 |
 ## Awards
 Max (Great for Beginners): 4,811  (Ranked 73)  
 Sum: 27,473 (Ranked 51)  

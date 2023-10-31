@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1881,
+  "EOS_Progressed": 1882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3997,6 +3997,11 @@
       "Time": "2023-10-31T01:53:23.7855978+00:00",
       "NumProgressed": 1881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T03:09:37.3143821+00:00",
+      "NumProgressed": 1882,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4023,9 +4028,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 320
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4033,7 +4038,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4063,9 +4068,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 339
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4073,7 +4078,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4081,7 +4086,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4095,9 +4100,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 339
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4217,7 +4222,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4313,7 +4318,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4361,7 +4366,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4400,14 +4405,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1881,
+      "Progressed": 1882,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:26:50.1214039+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:09:37.3143817+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:15:32.4430007+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:26:50.1214589+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:57:52.3696866+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:09:37.3144498+00:00"
 }

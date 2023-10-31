@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 871)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,677 |
-| Don't I Know You...? | 77.00% | ~1,614 |
-| Jailbreak | 66.00% | ~1,383 |
-| Suited and Booted | 39.00% | ~817 |
-| HEADSHOT! | 38.00% | ~796 |
+| Rigged And Ready | 80.00% | ~1,678 |
+| Don't I Know You...? | 77.00% | ~1,615 |
+| Jailbreak | 66.00% | ~1,384 |
+| Suited and Booted | 39.00% | ~818 |
+| HEADSHOT! | 38.00% | ~797 |
 | Sleeping With The Fishes | 36.00% | ~755 |
 | Overheated | 30.00% | ~629 |
 | High Performance | 30.00% | ~629 |
@@ -26,13 +26,13 @@ Rating: 4.24 (Ranked 871)
 | Clean Cut | 19.00% | ~398 |
 | Dead Again | 18.00% | ~377 |
 | Full Arsenal | 17.00% | ~356 |
-| Can't Trust Banks | 15.00% | ~314 |
-| Mommy Dearest | 14.00% | ~293 |
-| Bad Dog | 14.00% | ~293 |
-| Where It All Began | 13.00% | ~272 |
-| Risk Tolerant | 13.00% | ~272 |
-| Sorry, Didn't See You There | 13.00% | ~272 |
-| What A Catchy Song | 13.00% | ~272 |
+| Can't Trust Banks | 15.00% | ~315 |
+| Mommy Dearest | 14.00% | ~294 |
+| Bad Dog | 14.00% | ~294 |
+| Where It All Began | 13.00% | ~273 |
+| Risk Tolerant | 13.00% | ~273 |
+| Sorry, Didn't See You There | 13.00% | ~273 |
+| What A Catchy Song | 13.00% | ~273 |
 | Corrupted Beauty | 12.00% | ~252 |
 | Marked For Success | 12.00% | ~252 |
 | Stimulating The Local Economy | 10.00% | ~210 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 871)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,096 (Ranked 212)  
+Progressed: 2,097 (Ranked 212)  
 Completed: 13 (0.62%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 13 (0.62%) (Ranked 172)
 | 2023-10-23 | 2,094 | 12 |
 | 2023-10-26 | 2,095 | 12 |
 | 2023-10-27 | 2,096 | 13 |
+| 2023-10-31 | 2,097 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

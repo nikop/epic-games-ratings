@@ -19,20 +19,20 @@ Rating: 4.50 (Ranked 581)
 | There you are! | 3.00% | ~872 |
 | Vaporous Expansion | 3.00% | ~872 |
 | Whoopsie | 3.00% | ~872 |
-| Animated | 2.00% | ~581 |
-| Back Off | 2.00% | ~581 |
-| We have the best insurance | 2.00% | ~581 |
-| Daily Dose | 2.00% | ~581 |
-| Ectoplasmic Entity | 2.00% | ~581 |
-| Ghostbuster In Training | 2.00% | ~581 |
-| Icing on the Cake | 2.00% | ~581 |
-| Legions | 2.00% | ~581 |
-| Pesky Jerks | 2.00% | ~581 |
-| Right back at ya | 2.00% | ~581 |
-| Seasoned | 2.00% | ~581 |
-| Side Hustle | 2.00% | ~581 |
-| Summoner | 2.00% | ~581 |
-| Welcome to the Crew | 2.00% | ~581 |
+| Animated | 2.00% | ~582 |
+| Back Off | 2.00% | ~582 |
+| We have the best insurance | 2.00% | ~582 |
+| Daily Dose | 2.00% | ~582 |
+| Ectoplasmic Entity | 2.00% | ~582 |
+| Ghostbuster In Training | 2.00% | ~582 |
+| Icing on the Cake | 2.00% | ~582 |
+| Legions | 2.00% | ~582 |
+| Pesky Jerks | 2.00% | ~582 |
+| Right back at ya | 2.00% | ~582 |
+| Seasoned | 2.00% | ~582 |
+| Side Hustle | 2.00% | ~582 |
+| Summoner | 2.00% | ~582 |
+| Welcome to the Crew | 2.00% | ~582 |
 | Collector | 1.00% | ~291 |
 | Escape Artist | 1.00% | ~291 |
 | Reckless | 1.00% | ~291 |
@@ -43,11 +43,11 @@ Rating: 4.50 (Ranked 581)
 | Tobin's Prodigy | 1.00% | ~291 |
 | Diabolical | 0.90% | ~262 |
 | Rivalry | 0.80% | ~233 |
-| Liability | 0.70% | ~203 |
-| Surprise! | 0.70% | ~203 |
-| Fragile Panes | 0.60% | ~174 |
+| Fragile Panes | 0.70% | ~204 |
+| Liability | 0.70% | ~204 |
+| Surprise! | 0.70% | ~204 |
+| Therapeutic | 0.50% | ~145 |
 | Rift Seeker | 0.40% | ~116 |
-| Therapeutic | 0.40% | ~116 |
 | Master Collector | 0.30% | ~87 |
 | Ghost Expert | 0.20% | ~58 |
 | Catostrophic Destroyer | 0.10% | ~29 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 581)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,071 (Ranked 121)  
+Progressed: 29,082 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
-| 2023-10-31 | 29,071 | 65 |
+| 2023-10-31 | 29,082 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
 Sum: 2,630 (Ranked 180)  

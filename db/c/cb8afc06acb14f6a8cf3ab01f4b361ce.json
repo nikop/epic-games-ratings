@@ -269,9 +269,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 296280,
+  "EOS_Progressed": 296301,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8229,
+  "EOS_NewPlayers": 8215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4149,6 +4149,11 @@
       "Time": "2023-10-31T02:20:58.4093796+00:00",
       "NumProgressed": 296280,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T03:03:35.5863863+00:00",
+      "NumProgressed": 296301,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -4161,7 +4166,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 106661
+      "UsersEstimate": 106668
     },
     {
       "ID": "S02_BRDA",
@@ -4169,7 +4174,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 68144
+      "UsersEstimate": 68149
     },
     {
       "ID": "S03_OTWA",
@@ -4177,7 +4182,7 @@
       "Name": "Rumors are true",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17777
+      "UsersEstimate": 17778
     },
     {
       "ID": "S04_BRDC",
@@ -4185,7 +4190,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14814
+      "UsersEstimate": 14815
     },
     {
       "ID": "S05_SWRA",
@@ -4193,7 +4198,7 @@
       "Name": "Back to your senses",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "S06_LWTC",
@@ -4201,7 +4206,7 @@
       "Name": "They tricked me",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "S07_INWA",
@@ -4297,7 +4302,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 112586
+      "UsersEstimate": 112594
     },
     {
       "ID": "S19_CHALLENGES",
@@ -4329,7 +4334,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8888
+      "UsersEstimate": 8889
     },
     {
       "ID": "S23_ETHEREAL",
@@ -4353,7 +4358,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14814
+      "UsersEstimate": 14815
     },
     {
       "ID": "S26_CRTA",
@@ -4385,7 +4390,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17777
+      "UsersEstimate": 17778
     },
     {
       "ID": "S30_DIAMOND",
@@ -4393,7 +4398,7 @@
       "Name": "Bring it on!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14814
+      "UsersEstimate": 14815
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -4409,7 +4414,7 @@
       "Name": "You want more? I\u0027ve got more!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "S33_NORMAL_PLATINUM",
@@ -4473,14 +4478,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32591
+      "UsersEstimate": 32593
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 296280,
+      "Progressed": 296301,
       "Completed": 1
     }
   ],
@@ -4488,8 +4493,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-10-28T18:00:39.0102074+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:20:58.4093792+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:03:35.5863858+00:00",
   "LastUpdate_AppInfo": "2023-10-26T17:57:10.8044416+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:15:24.587155+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:20:58.4094235+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:57:44.1507931+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:03:35.5864413+00:00"
 }

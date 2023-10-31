@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First to the post | 89.00% | ~8 |
 | Expansion | 78.00% | ~7 |
 | Enough rooms to swing a cat | 78.00% | ~7 |
+| Home Sweet Home | 78.00% | ~7 |
 | A kind of Magic | 78.00% | ~7 |
-| First to the post | 78.00% | ~7 |
 | Connected | 78.00% | ~7 |
-| Home Sweet Home | 67.00% | ~6 |
 | Artificer's Apprentice | 67.00% | ~6 |
 | Harvest Time | 67.00% | ~6 |
 | Friend of Lyraine | 67.00% | ~6 |

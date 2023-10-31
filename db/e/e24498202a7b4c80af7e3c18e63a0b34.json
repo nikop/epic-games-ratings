@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6572,
+  "EOS_Progressed": 6573,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4686,6 +4686,11 @@
       "Time": "2023-10-31T01:53:20.4570324+00:00",
       "NumProgressed": 6572,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-10-31T03:09:35.0222826+00:00",
+      "NumProgressed": 6573,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4698,7 +4703,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5652
+      "UsersEstimate": 5653
     },
     {
       "ID": "achievement_01_02",
@@ -4714,7 +4719,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "achievement_01_04",
@@ -4738,7 +4743,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3877
+      "UsersEstimate": 3878
     },
     {
       "ID": "achievement_01_07",
@@ -4786,7 +4791,7 @@
       "Name": "Amateur Champion",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "achievement_02_03",
@@ -4890,7 +4895,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "achievement_03_08",
@@ -4938,7 +4943,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "achievement_04_03",
@@ -4978,7 +4983,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3221
     },
     {
       "ID": "achievement_04_08",
@@ -4986,7 +4991,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "achievement_04_09",
@@ -4994,14 +4999,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6572,
+      "Progressed": 6573,
       "Completed": 33
     }
   ],
@@ -5009,8 +5014,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:26:47.4231165+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:09:35.0222822+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:15:53.0665173+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:26:47.4231654+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:58:09.4512139+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:09:35.0223397+00:00"
 }

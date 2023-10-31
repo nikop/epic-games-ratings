@@ -130,7 +130,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Near Death Experience | 0.30% | ~717 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 238,866 (Ranked 59)  
-Completed: 286 (0.12%) (Ranked 255)  
+Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,7 +326,7 @@ Completed: 286 (0.12%) (Ranked 255)
 | 2023-10-31 | 238,866 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
-Sum: 11,640 (Ranked 83)  
+Sum: 11,641 (Ranked 83)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): 45
 | This game is Highly Recommended | 1,374 |
 | This game has Amazing Storytelling | 1,320 |
 | This game has Amazing Characters | 1,221 |
-| This game has Unique Visuals | 1,212 |
+| This game has Unique Visuals | 1,213 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 739 |
 ## Ratings History
@@ -538,3 +538,4 @@ Diff (max vs sum): 45
 | 2023-10-28 | 4.58 | - | 1,499 | 11,634 |
 | 2023-10-29 | 4.58 | - | 1,499 | 11,635 |
 | 2023-10-30 | 4.58 | - | 1,500 | 11,640 |
+| 2023-10-31 | 4.58 | - | 1,500 | 11,641 |

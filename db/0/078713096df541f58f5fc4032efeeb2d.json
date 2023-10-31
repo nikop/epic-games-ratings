@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 603,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -89,9 +89,9 @@
       "ID": "creepytale3_ach_14",
       "SetID": "7idcjbn",
       "Name": "Dinner is served!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_15",
@@ -327,8 +327,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:21:36.9914792+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:04:07.9309248+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.3331384+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:20:36.340887+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:21:36.9914994+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:03:18.3389586+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:04:07.9309529+00:00"
 }

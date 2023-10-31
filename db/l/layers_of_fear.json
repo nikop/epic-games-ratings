@@ -316,9 +316,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "earn_all_trophies",
@@ -380,9 +380,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "finished_it",
@@ -532,9 +532,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "something_important",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:20:59.2094377+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:03:36.271058+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:20:40.2487577+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:20:59.209474+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:03:20.0985528+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:03:36.2711067+00:00"
 }

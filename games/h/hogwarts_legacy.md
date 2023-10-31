@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 122)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~44,981 |
-| First Class Student | 14.00% | ~41,982 |
-| Troll with the Punches | 13.00% | ~38,983 |
+| First Class Student | 14.00% | ~41,983 |
+| Troll with the Punches | 13.00% | ~38,984 |
 | A Keen Sense of Spell | 12.00% | ~35,985 |
 | That's a Keeper | 12.00% | ~35,985 |
 | Grappling with a Graphorn | 11.00% | ~32,986 |
@@ -17,9 +17,9 @@ Rating: 4.76 (Ranked 122)
 | Loom for Improvement | 11.00% | ~32,986 |
 | A Talent for Spending | 11.00% | ~32,986 |
 | Coasting Along | 11.00% | ~32,986 |
-| The Hero of Hogwarts | 10.00% | ~29,987 |
-| Challenge Accepted | 10.00% | ~29,987 |
-| Followed the Butterflies | 10.00% | ~29,987 |
+| The Hero of Hogwarts | 10.00% | ~29,988 |
+| Challenge Accepted | 10.00% | ~29,988 |
+| Followed the Butterflies | 10.00% | ~29,988 |
 | The Spell Master | 9.00% | ~26,989 |
 | Rising From the Ashes | 9.00% | ~26,989 |
 | The Avenging Gazelle | 8.00% | ~23,990 |
@@ -40,10 +40,10 @@ Rating: 4.76 (Ranked 122)
 | Put Down Roots | 3.00% | ~8,996 |
 | The Auror's Apprentice | 3.00% | ~8,996 |
 | Floo Around the World | 3.00% | ~8,996 |
-| The Good Samaritan | 2.00% | ~5,997 |
-| Rise to the Challenges | 2.00% | ~5,997 |
-| Finishing Touches | 2.00% | ~5,997 |
-| A Forte for Achievement | 2.00% | ~5,997 |
+| The Good Samaritan | 2.00% | ~5,998 |
+| Rise to the Challenges | 2.00% | ~5,998 |
+| Finishing Touches | 2.00% | ~5,998 |
+| A Forte for Achievement | 2.00% | ~5,998 |
 | Savvy Spender | 1.00% | ~2,999 |
 | Merlin's Beard! | 1.00% | ~2,999 |
 | Demiguise Dread | 1.00% | ~2,999 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 122)
 | The Nature of the Beast | 0.70% | ~2,099 |
 | Collector's Edition | 0.30% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,873 (Ranked 48)  
+Progressed: 299,875 (Ranked 48)  
 Completed: 498 (0.17%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 498 (0.17%) (Ranked 243)
 | 2023-10-28 | 299,440 | 496 |
 | 2023-10-29 | 299,675 | 497 |
 | 2023-10-30 | 299,853 | 498 |
-| 2023-10-31 | 299,873 | 498 |
+| 2023-10-31 | 299,875 | 498 |
 ## Awards
 Max (Character Customization): 23,909  (Ranked 17)  
 Sum: 47,061 (Ranked 30)  

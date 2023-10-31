@@ -1112,9 +1112,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -1216,9 +1216,9 @@
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
       "SetID": "5fn8ia4",
       "Name": "Workshop Obtained!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
@@ -1296,9 +1296,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:23:17.9414716+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:05:14.8282594+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:14:57.3790322+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:23:17.941557+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:57:23.6641357+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:05:14.8283722+00:00"
 }

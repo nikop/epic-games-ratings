@@ -5,18 +5,18 @@ Rating: 4.19 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~112,586 |
-| May the Torchbearer light our way | 36.00% | ~106,661 |
-| A powerful aura was here | 23.00% | ~68,144 |
-| Let's raise the stakes!! | 11.00% | ~32,591 |
-| Rumors are true | 6.00% | ~17,777 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,777 |
-| We'll be careful | 5.00% | ~14,814 |
-| Pride is a sin, young Knight | 5.00% | ~14,814 |
-| Bring it on! | 5.00% | ~14,814 |
-| Back to your senses | 3.00% | ~8,888 |
-| They tricked me | 3.00% | ~8,888 |
-| They won't last long | 3.00% | ~8,888 |
+| The touch of Chaos | 38.00% | ~112,594 |
+| May the Torchbearer light our way | 36.00% | ~106,668 |
+| A powerful aura was here | 23.00% | ~68,149 |
+| Let's raise the stakes!! | 11.00% | ~32,593 |
+| Rumors are true | 6.00% | ~17,778 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,778 |
+| We'll be careful | 5.00% | ~14,815 |
+| Pride is a sin, young Knight | 5.00% | ~14,815 |
+| Bring it on! | 5.00% | ~14,815 |
+| Back to your senses | 3.00% | ~8,889 |
+| They tricked me | 3.00% | ~8,889 |
+| They won't last long | 3.00% | ~8,889 |
 | We need to talk | 2.00% | ~5,926 |
 | I feel drawn to it | 2.00% | ~5,926 |
 | I took a risk | 2.00% | ~5,926 |
@@ -26,7 +26,7 @@ Rating: 4.19 (Ranked 907)
 | We can choose to fight | 1.00% | ~2,963 |
 | Their fate is sealed | 1.00% | ~2,963 |
 | Not even from this world | 0.70% | ~2,074 |
-| You want more? I've got more! | 0.50% | ~1,481 |
+| You want more? I've got more! | 0.50% | ~1,482 |
 | No damsels in distress | 0.40% | ~1,185 |
 | The Ashen Knight | 0.30% | ~889 |
 | The Shade | 0.20% | ~593 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 907)
 | We strike as one | 0.10% | ~296 |
 | Chaos be damned! | 0.10% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,280 (Ranked 49)  
+Progressed: 296,301 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 293,813 | 1 |
 | 2023-10-29 | 295,250 | 1 |
 | 2023-10-30 | 296,161 | 1 |
-| 2023-10-31 | 296,280 | 1 |
+| 2023-10-31 | 296,301 | 1 |
 ## Awards
 Max (Great Boss Battles): 46  (Ranked 434)  
 Sum: 46 (Ranked 481)  

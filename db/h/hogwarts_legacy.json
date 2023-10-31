@@ -9807,9 +9807,9 @@
       "Count": 755
     }
   ],
-  "EOS_Progressed": 299873,
+  "EOS_Progressed": 299875,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30492,6 +30492,11 @@
       "Time": "2023-10-31T02:26:29.9217155+00:00",
       "NumProgressed": 299873,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-10-31T03:09:20.3689112+00:00",
+      "NumProgressed": 299875,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30535,7 +30540,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29987
+      "UsersEstimate": 29988
     },
     {
       "ID": "PFA_14",
@@ -30599,7 +30604,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "PFA_21",
@@ -30607,7 +30612,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29987
+      "UsersEstimate": 29988
     },
     {
       "ID": "PFA_22",
@@ -30727,7 +30732,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29987
+      "UsersEstimate": 29988
     },
     {
       "ID": "PFA_36",
@@ -30735,7 +30740,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "PFA_37",
@@ -30799,7 +30804,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "PFA_44",
@@ -30815,7 +30820,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     },
     {
       "ID": "PFA_5",
@@ -30831,7 +30836,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 41982
+      "UsersEstimate": 41983
     },
     {
       "ID": "PFA_7",
@@ -30839,7 +30844,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 38983
+      "UsersEstimate": 38984
     },
     {
       "ID": "PFA_8",
@@ -30862,7 +30867,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299873,
+      "Progressed": 299875,
       "Completed": 498
     }
   ],
@@ -30870,8 +30875,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-10-31T02:16:17.2097144+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:26:29.9217151+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:09:20.3689108+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:16:17.209715+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:26:29.9218434+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:58:30.7333564+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:09:20.3690683+00:00"
 }

@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16064,
+  "EOS_Progressed": 16065,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13077,6 +13077,11 @@
       "Time": "2023-10-31T01:49:47.1540245+00:00",
       "NumProgressed": 16064,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-31T03:05:21.2376747+00:00",
+      "NumProgressed": 16065,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13192,7 +13197,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4819
+      "UsersEstimate": 4820
     },
     {
       "ID": "tpote_achievement_22",
@@ -13264,7 +13269,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "tpote_achievement_30",
@@ -13376,7 +13381,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "tpote_achievement_6",
@@ -13384,7 +13389,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3855
+      "UsersEstimate": 3856
     },
     {
       "ID": "tpote_achievement_7",
@@ -13392,7 +13397,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "tpote_achievement_8",
@@ -13400,7 +13405,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "tpote_achievement_9",
@@ -13415,15 +13420,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16064,
+      "Progressed": 16065,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:23:25.4133019+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:05:21.2376743+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:19:27.4017409+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:23:25.4133861+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:01:15.2059744+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:05:21.2377818+00:00"
 }

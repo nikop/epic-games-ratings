@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~723,788 |
-| The Blues | 85.00% | ~621,434 |
-| Fast | 66.00% | ~482,525 |
-| Healthbar | 55.00% | ~402,104 |
-| Force Cube | 53.00% | ~387,482 |
-| Double Jump | 48.00% | ~350,928 |
-| Regeneration | 47.00% | ~343,617 |
-| Triple Jump | 43.00% | ~314,373 |
-| Climb the hill | 42.00% | ~307,062 |
-| Through the fire pipe | 39.00% | ~285,129 |
-| MacGuffin | 38.00% | ~277,818 |
-| Just once | 37.00% | ~270,507 |
-| Armor | 30.00% | ~219,330 |
-| True holy spirit | 28.00% | ~204,708 |
-| That's how electronics work obviously | 27.00% | ~197,397 |
-| Force Cube Catapult | 25.00% | ~182,775 |
+| Out of bed | 99.00% | ~723,791 |
+| The Blues | 85.00% | ~621,437 |
+| Fast | 66.00% | ~482,527 |
+| Healthbar | 55.00% | ~402,106 |
+| Force Cube | 53.00% | ~387,484 |
+| Double Jump | 48.00% | ~350,929 |
+| Regeneration | 47.00% | ~343,618 |
+| Triple Jump | 43.00% | ~314,374 |
+| Climb the hill | 42.00% | ~307,063 |
+| Through the fire pipe | 39.00% | ~285,130 |
+| MacGuffin | 38.00% | ~277,819 |
+| Just once | 37.00% | ~270,508 |
+| Armor | 30.00% | ~219,331 |
+| True holy spirit | 28.00% | ~204,709 |
+| That's how electronics work obviously | 27.00% | ~197,398 |
+| Force Cube Catapult | 25.00% | ~182,776 |
 | Holy Sword | 23.00% | ~168,153 |
 | Telefrag | 23.00% | ~168,153 |
 | Freed from prison | 21.00% | ~153,531 |
@@ -67,25 +67,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | Jesus Christ Suprastar | 1.00% | ~7,311 |
 | Redstone Pickaxe | 1.00% | ~7,311 |
 | DLC: Crashed | 0.60% | ~4,387 |
-| DLC: Green Bird | 0.50% | ~3,655 |
-| DLC: Basement Robbery | 0.50% | ~3,655 |
-| DLC: Rooftop Chase | 0.50% | ~3,655 |
-| DLC: Home Invasion | 0.50% | ~3,655 |
-| DLC: The palace job | 0.50% | ~3,655 |
-| DLC: Crashed again | 0.50% | ~3,655 |
-| DLC: Crashed again (again) | 0.50% | ~3,655 |
-| DLC: Crashed for the final time! | 0.50% | ~3,655 |
-| DLC: Discovering the Globe | 0.50% | ~3,655 |
-| DLC: Gotta Jump High | 0.50% | ~3,655 |
-| DLC: Gotta Run Fast | 0.50% | ~3,655 |
-| DLC: Monster Maker | 0.50% | ~3,655 |
-| DLC: Obvious Area | 0.50% | ~3,655 |
-| DLC: Race the First | 0.50% | ~3,655 |
-| DLC: No-ball Winner | 0.50% | ~3,655 |
-| DLC: Race the Gauntlet | 0.50% | ~3,655 |
-| DLC: Finding Sideburg | 0.50% | ~3,655 |
-| DLC: Welcome to Orangeburg | 0.50% | ~3,655 |
-| DLC: A Wrinkle in Spacetime | 0.50% | ~3,655 |
+| DLC: Green Bird | 0.50% | ~3,656 |
+| DLC: Basement Robbery | 0.50% | ~3,656 |
+| DLC: Rooftop Chase | 0.50% | ~3,656 |
+| DLC: Home Invasion | 0.50% | ~3,656 |
+| DLC: The palace job | 0.50% | ~3,656 |
+| DLC: Crashed again | 0.50% | ~3,656 |
+| DLC: Crashed again (again) | 0.50% | ~3,656 |
+| DLC: Crashed for the final time! | 0.50% | ~3,656 |
+| DLC: Discovering the Globe | 0.50% | ~3,656 |
+| DLC: Gotta Jump High | 0.50% | ~3,656 |
+| DLC: Gotta Run Fast | 0.50% | ~3,656 |
+| DLC: Monster Maker | 0.50% | ~3,656 |
+| DLC: Obvious Area | 0.50% | ~3,656 |
+| DLC: Race the First | 0.50% | ~3,656 |
+| DLC: No-ball Winner | 0.50% | ~3,656 |
+| DLC: Race the Gauntlet | 0.50% | ~3,656 |
+| DLC: Finding Sideburg | 0.50% | ~3,656 |
+| DLC: Welcome to Orangeburg | 0.50% | ~3,656 |
+| DLC: A Wrinkle in Spacetime | 0.50% | ~3,656 |
 | DLC: A Criminal Revealed | 0.40% | ~2,924 |
 | DLC: Crashed for the final time (again) | 0.40% | ~2,924 |
 | DLC: South of the wall | 0.40% | ~2,924 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~731 |
 | DLC: Top of the world | 0.10% | ~731 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,099 (Ranked 19)  
+Progressed: 731,102 (Ranked 19)  
 Completed: 755 (0.10%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 755 (0.10%) (Ranked 262)
 | 2023-10-28 | 730,852 | 755 |
 | 2023-10-29 | 730,994 | 755 |
 | 2023-10-30 | 731,091 | 755 |
-| 2023-10-31 | 731,099 | 755 |
+| 2023-10-31 | 731,102 | 755 |
 ## Awards
 Max (Challenging Puzzles): 7,713  (Ranked 48)  
 Sum: 10,059 (Ranked 91)  

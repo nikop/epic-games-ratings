@@ -871,7 +871,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 534599,
+  "EOS_Progressed": 534603,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1553,
   "EOS_NewCompleters": 0,
@@ -22686,6 +22686,11 @@
       "Time": "2023-10-31T02:24:09.9689218+00:00",
       "NumProgressed": 534599,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-31T03:05:58.7953507+00:00",
+      "NumProgressed": 534603,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -22697,7 +22702,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 144342
+      "UsersEstimate": 144343
     },
     {
       "ID": "Backdoor",
@@ -22705,7 +22710,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 133650
+      "UsersEstimate": 133651
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -22793,7 +22798,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 208494
+      "UsersEstimate": 208495
     },
     {
       "ID": "DeadlyAssassin",
@@ -22849,7 +22854,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 219186
+      "UsersEstimate": 219187
     },
     {
       "ID": "HoldingYourOwn",
@@ -22945,7 +22950,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 406295
+      "UsersEstimate": 406298
     },
     {
       "ID": "ProPlayer",
@@ -22969,7 +22974,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112266
+      "UsersEstimate": 112267
     },
     {
       "ID": "RegularPunter",
@@ -23025,7 +23030,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96228
+      "UsersEstimate": 96229
     },
     {
       "ID": "TopDog",
@@ -23056,7 +23061,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 534599,
+      "Progressed": 534603,
       "Completed": 2
     }
   ],
@@ -23064,8 +23069,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-10-28T22:59:19.1426851+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:24:09.9689214+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:05:58.7953502+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.2616116+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:17:16.7128245+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:24:09.9690506+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:59:26.0633313+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:05:58.7955156+00:00"
 }

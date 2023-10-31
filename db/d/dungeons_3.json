@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2983,9 +2983,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 35981,
+  "EOS_Progressed": 35982,
   "EOS_Completed": 294,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 911,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -24313,6 +24313,11 @@
       "Time": "2023-10-31T01:47:29.4061547+00:00",
       "NumProgressed": 35981,
       "NumCompleted": 294
+    },
+    {
+      "Time": "2023-10-31T03:03:42.5946623+00:00",
+      "NumProgressed": 35982,
+      "NumCompleted": 294
     }
   ],
   "TotalAchievements": 60,
@@ -24324,7 +24329,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 20869
+      "UsersEstimate": 20870
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -24332,7 +24337,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16551
+      "UsersEstimate": 16552
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -24340,7 +24345,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 20509
+      "UsersEstimate": 20510
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -24380,7 +24385,7 @@
       "Name": "Hearts of Iron",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_Completed",
@@ -24388,7 +24393,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 8995
+      "UsersEstimate": 8996
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -24404,7 +24409,7 @@
       "Name": "Ignore The Level Designer\u2019s Plan",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_Completed",
@@ -24468,7 +24473,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8635
+      "UsersEstimate": 8636
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -24492,7 +24497,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8635
+      "UsersEstimate": 8636
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -24508,7 +24513,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8635
+      "UsersEstimate": 8636
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -24540,7 +24545,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 14752
+      "UsersEstimate": 14753
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -24548,7 +24553,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 12953
+      "UsersEstimate": 12954
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -24556,7 +24561,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 14752
+      "UsersEstimate": 14753
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -24572,7 +24577,7 @@
       "Name": "Can\u2019t stand to see an Ogre bleed",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_Completed",
@@ -24588,7 +24593,7 @@
       "Name": "Lifesaver",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "ACH_D3_Campaign_Infested_2",
@@ -24596,7 +24601,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6836
+      "UsersEstimate": 6837
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -24652,7 +24657,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10434
+      "UsersEstimate": 10435
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -24708,7 +24713,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 16191
+      "UsersEstimate": 16192
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -24716,7 +24721,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10434
+      "UsersEstimate": 10435
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -24756,7 +24761,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6836
+      "UsersEstimate": 6837
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -24772,7 +24777,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 10794
+      "UsersEstimate": 10795
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -24803,15 +24808,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 35981,
+      "Progressed": 35982,
       "Completed": 294
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-10-29T01:48:04.0247324+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:21:06.6368807+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:03:42.5946617+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.8036406+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:20:25.8077441+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:21:06.6370199+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:03:11.5356213+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:03:42.594847+00:00"
 }

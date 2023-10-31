@@ -184,9 +184,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "EV_ACH03",
@@ -280,9 +280,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EV_ACH15",
@@ -344,9 +344,9 @@
       "ID": "EV_ACH22",
       "SetID": "6jeac23",
       "Name": "Bullseye",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "EV_ACH23",
@@ -534,8 +534,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:26:30.2453767+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:09:20.6444386+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.241403+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:15:47.2610501+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:26:30.2454056+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:58:04.1163308+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:09:20.6444783+00:00"
 }

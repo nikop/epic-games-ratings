@@ -18,19 +18,19 @@
 | On The Rocks | 59.00% | ~22 |
 | No Bites | 54.00% | ~20 |
 | Iceborn | 54.00% | ~20 |
+| Boom Things | 51.00% | ~19 |
 | Rhythm Of Willump | 51.00% | ~19 |
 | Vertical Power | 51.00% | ~19 |
-| Boom Things | 49.00% | ~18 |
 | Moneyball | 49.00% | ~18 |
 | The Pied Piper Of Freljord | 49.00% | ~18 |
+| My Darkest Day | 46.00% | ~17 |
 | Tear of Freedom | 46.00% | ~17 |
 | Snowball Fightn't | 46.00% | ~17 |
-| My Darkest Day | 43.00% | ~16 |
 | 3000 Year Blackout | 43.00% | ~16 |
 | A Tragic Reminder | 41.00% | ~15 |
 | Snowy Poro | 41.00% | ~15 |
+| Bullseye | 41.00% | ~15 |
 | The Relentless Storm | 41.00% | ~15 |
-| Bullseye | 38.00% | ~14 |
 | The Finisher | 38.00% | ~14 |
 | So Close | 35.00% | ~13 |
 | You Get Used To It | 35.00% | ~13 |

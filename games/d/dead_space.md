@@ -43,7 +43,7 @@ Rating: 4.63 (Ranked 345)
 | Z-Baller | 22.00% | ~298 |
 | Marked | 21.00% | ~284 |
 | Eviscerator | 19.00% | ~257 |
-| Backbreaker | 13.00% | ~176 |
+| Backbreaker | 14.00% | ~190 |
 | Wishbone | 8.00% | ~108 |
 | Trusted Contractor | 7.00% | ~95 |
 | Built To Order | 6.00% | ~81 |

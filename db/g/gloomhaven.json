@@ -2285,7 +2285,7 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 17333,
+  "EOS_Progressed": 17340,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1655,
   "EOS_NewCompleters": 0,
@@ -7385,6 +7385,11 @@
       "Time": "2023-10-31T02:22:15.0804585+00:00",
       "NumProgressed": 17333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T03:04:39.9551713+00:00",
+      "NumProgressed": 17340,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7437,7 +7442,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "Achievement_Trophy07",
@@ -7461,7 +7466,7 @@
       "Name": "Caught off guard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "Achievement_Trophy10",
@@ -7565,7 +7570,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Achievement_Trophy23",
@@ -7573,7 +7578,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "Achievement_Trophy24",
@@ -7581,7 +7586,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7453
+      "UsersEstimate": 7456
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7589,15 +7594,15 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Achievement_Trophy26",
       "SetID": "724h0m0",
       "Name": "Overkill",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 5893
+      "UsersEstimate": 6069
     },
     {
       "ID": "Achievement_Trophy27",
@@ -7613,7 +7618,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5722
     },
     {
       "ID": "Achievement_Trophy29",
@@ -7629,7 +7634,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5202
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7637,7 +7642,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5722
     },
     {
       "ID": "Achievement_Trophy32",
@@ -7661,7 +7666,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "Achievement_Trophy35",
@@ -7685,7 +7690,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4335
     },
     {
       "ID": "Achievement_Trophy38",
@@ -7693,7 +7698,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Achievement_Trophy39",
@@ -7701,7 +7706,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3295
     },
     {
       "ID": "Achievement_Trophy40",
@@ -7717,7 +7722,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Achievement_Trophy42",
@@ -7733,7 +7738,7 @@
       "Name": "Light of my life",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "Achievement_Trophy44",
@@ -7781,7 +7786,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "Achievement_Trophy50",
@@ -7867,9 +7872,9 @@
       "ID": "Achievement_Trophy_JOTL_10",
       "SetID": "724h0m0",
       "Name": "Murder Death Kill",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_Trophy_JOTL_11",
@@ -7884,7 +7889,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 17333,
+      "Progressed": 17340,
       "Completed": 1
     }
   ],
@@ -7892,8 +7897,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-29T16:01:01.5858207+00:00",
-  "LastChanged_Achievements": "2023-10-31T02:22:15.0804581+00:00",
+  "LastChanged_Achievements": "2023-10-31T03:04:39.9551708+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-10-31T02:19:47.5308874+00:00",
-  "LastUpdate_Achievements": "2023-10-31T02:22:15.0805312+00:00"
+  "LastUpdate_Ratings": "2023-10-31T03:02:44.9745836+00:00",
+  "LastUpdate_Achievements": "2023-10-31T03:04:39.9552602+00:00"
 }

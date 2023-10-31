@@ -14,8 +14,8 @@ Rating: 4.48 (Ranked 617)
 | This Was No Papercut | 60.00% | ~2,101 |
 | People Person | 57.00% | ~1,996 |
 | The Shrink Hates Me | 57.00% | ~1,996 |
+| First Steps Into Madness | 54.00% | ~1,891 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,856 |
-| First Steps Into Madness | 53.00% | ~1,856 |
 | Colonial Barrels | 51.00% | ~1,786 |
 | Harper's Hell | 46.00% | ~1,611 |
 | Making a Stand | 45.00% | ~1,576 |

@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,453 |
-| Overkill | 34.00% | ~5,893 |
-| Vaccine Incoming | 33.00% | ~5,720 |
-| A normal day in Gloomhaven | 33.00% | ~5,720 |
-| Spread the plague | 30.00% | ~5,200 |
-| Get over here! | 25.00% | ~4,333 |
-| Just when I thought I was out... | 19.00% | ~3,293 |
-| Precious! | 17.00% | ~2,947 |
-| Mine... All Mine... | 17.00% | ~2,947 |
-| Light of my life | 15.00% | ~2,600 |
-| Anatomy Lesson | 15.00% | ~2,600 |
-| Grizzled veteran | 14.00% | ~2,427 |
-| You activated my trap card! | 13.00% | ~2,253 |
-| Obstacle race | 13.00% | ~2,253 |
-| Augmented rat | 12.00% | ~2,080 |
+| I'm not dead yet | 43.00% | ~7,456 |
+| Overkill | 35.00% | ~6,069 |
+| Vaccine Incoming | 33.00% | ~5,722 |
+| A normal day in Gloomhaven | 33.00% | ~5,722 |
+| Spread the plague | 30.00% | ~5,202 |
+| Get over here! | 25.00% | ~4,335 |
+| Just when I thought I was out... | 19.00% | ~3,295 |
+| Precious! | 17.00% | ~2,948 |
+| Mine... All Mine... | 17.00% | ~2,948 |
+| Light of my life | 15.00% | ~2,601 |
+| Anatomy Lesson | 15.00% | ~2,601 |
+| Grizzled veteran | 14.00% | ~2,428 |
+| You activated my trap card! | 13.00% | ~2,254 |
+| Obstacle race | 13.00% | ~2,254 |
+| Augmented rat | 12.00% | ~2,081 |
 | Doom and gloom | 11.00% | ~1,907 |
-| Who's the Boss? | 9.00% | ~1,560 |
+| Who's the Boss? | 9.00% | ~1,561 |
 | Dungeon Veteran | 8.00% | ~1,387 |
 | Pack leader | 8.00% | ~1,387 |
 | Pain is your friend | 8.00% | ~1,387 |
@@ -33,7 +33,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pro from Dover | 5.00% | ~867 |
 | Pretty lights! | 5.00% | ~867 |
 | Now you see me... | 5.00% | ~867 |
-| Caught off guard | 4.00% | ~693 |
+| Caught off guard | 4.00% | ~694 |
 | I hate portals | 3.00% | ~520 |
 | Merchant of doom | 3.00% | ~520 |
 | An eye for an eye | 3.00% | ~520 |
@@ -60,15 +60,15 @@ Number of Ratings: 68  (23.09.2022)
 | Crimson Tornado | 0.30% | ~52 |
 | The Cartographer | 0.20% | ~35 |
 | The Jaws of victory! | 0.20% | ~35 |
-| Murder Death Kill | 0.20% | ~35 |
 | A cult following | 0.10% | ~17 |
 | Over your dead body | 0.10% | ~17 |
 | The Guildmaster | 0.10% | ~17 |
 | Lara Who? | 0.10% | ~17 |
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
+| Murder Death Kill | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,333 (Ranked 135)  
+Progressed: 17,340 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.01%) (Ranked 313)
 | 2023-10-28 | 16,804 | 1 |
 | 2023-10-29 | 17,093 | 1 |
 | 2023-10-30 | 17,315 | 1 |
-| 2023-10-31 | 17,333 | 1 |
+| 2023-10-31 | 17,340 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,323 (Ranked 98)  
