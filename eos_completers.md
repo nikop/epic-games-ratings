@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.38% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.42% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.41% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -44,7 +44,7 @@
 | 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.91% |
 | 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 44 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 8.57% |
-| 45 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 8.33% |
+| 45 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 8.00% |
 | 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
 | 47 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.74% |
 | 48 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
@@ -160,8 +160,8 @@
 | 157 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.92% |
 | 159 | [Hades](games/h/hades.md) | 0.91% |
 | 160 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 161 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.87% |
-| 162 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 161 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 161 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.86% |
 | 163 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 164 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.83% |
 | 165 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -207,8 +207,8 @@
 | 205 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 205 | [The Surge](games/t/the_surge.md) | 0.38% |
 | 207 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
-| 208 | [Ghostrunner](games/g/ghostrunner.md) | 0.36% |
-| 208 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
+| 207 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
+| 209 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.36% |
 | 210 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 211 | [Them and Us](games/t/them_and_us.md) | 0.34% |
 | 212 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
@@ -711,4 +711,4 @@
 | 333 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 333 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 333 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,491 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,492 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

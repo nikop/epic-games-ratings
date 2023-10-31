@@ -265,6 +265,7 @@
 | [](../games/5/50809e4c39674f42b649fa127d6796dd.md) | 40 | 1,000 |
 | [Alekon](../games/9/947753e35eda434f9eafba17afa8f570.md) | 40 | 1,000 |
 | [Beach Invasion 1944](../games/b/beach_invasion_1944.md) | 40 | 1,000 |
+| [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 40 | 1,400 |
 | [Chef Life - A Restaurant Simulator](../games/c/chef_life_-_a_restaurant_simulator.md) | 40 | 1,000 |
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 |
 | [Dros](../games/a/a46cade12846436281c910ddc51411f3.md) | 40 | 1,000 |
@@ -318,7 +319,6 @@
 | [A Plague Tale: Requiem](../games/a/a_plague_tale__requiem.md) | 35 | 1,000 |
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
-| [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 |
 | [Despot's Game](../games/d/despot's_game.md) | 35 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
 | [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 35 | 1,000 |

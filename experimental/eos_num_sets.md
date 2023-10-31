@@ -4,7 +4,7 @@
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
-| [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 | 2 |
+| [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 40 | 1,400 | 2 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 | 2 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
