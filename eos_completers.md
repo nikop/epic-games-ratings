@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.21% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.50% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.49% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -160,7 +160,7 @@
 | 158 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 159 | [Hades](games/h/hades.md) | 0.91% |
 | 160 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 161 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.88% |
+| 161 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.87% |
 | 162 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 163 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 164 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.83% |

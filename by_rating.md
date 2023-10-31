@@ -397,7 +397,7 @@
 | 381 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 721 | 177 |
 | 381 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 344 |
 | 381 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 546 | 200 |
-| 381 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,323 | 39 |
+| 381 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,330 | 39 |
 | 381 | [Returnal™](games/r/returnal™.md) | 4.61 | 87 | 372 |
 | 381 | [RiME](games/r/rime.md) | 4.61 | 0 | 544 |
 | 381 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,093 | 143 |
@@ -662,7 +662,7 @@
 | 657 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 906 | 156 |
 | 657 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 544 |
 | 657 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 111 | 341 |
-| 657 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,120 | 34 |
+| 657 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,130 | 34 |
 | 657 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 36 | 463 |
 | 657 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 892 | 158 |
 | 657 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.45 | 0 | 544 |

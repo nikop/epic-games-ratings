@@ -33,12 +33,12 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,901 | 4.86 | 28 |
 | 32 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,736 | 4.36 | 773 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 12,308 | 4.88 | 16 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,120 | 4.45 | 657 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,130 | 4.45 | 657 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,780 | 4.39 | 742 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 11,777 | 4.76 | 122 |
 | 37 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,558 | 4.69 | 230 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,477 | 4.78 | 105 |
-| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,323 | 4.61 | 381 |
+| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,330 | 4.61 | 381 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,737 | 4.58 | 443 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,174 | 4.58 | 443 |
 | 42 | [Control](games/c/control.md) | 8,638 | 4.60 | 407 |
