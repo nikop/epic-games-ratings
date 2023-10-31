@@ -861,9 +861,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -877,9 +877,9 @@
       "ID": "GSS_ACH_07_FUEL_02",
       "SetID": "5fn8ia4",
       "Name": "Fueled it better!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "GSS_ACH_08_FUEL_03",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:06:14.655087+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:06:32.4708326+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:57:45.0510231+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:06:14.6551775+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:57:52.7487097+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:06:32.4709465+00:00"
 }

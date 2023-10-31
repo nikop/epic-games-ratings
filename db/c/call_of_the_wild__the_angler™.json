@@ -853,9 +853,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6176,
+  "EOS_Progressed": 6177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9018,6 +9018,11 @@
       "Time": "2023-10-31T22:09:08.1751976+00:00",
       "NumProgressed": 6176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T23:09:09.0775829+00:00",
+      "NumProgressed": 6177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9043,9 +9048,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -9348,13 +9353,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6176,
+      "Progressed": 6177,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5548,
+      "Progressed": 5549,
       "Completed": 113
     }
   ],
@@ -9362,8 +9367,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:09:08.175197+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:09:09.0775823+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:02:31.7072846+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:09:08.1752615+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:02:40.2450009+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:09:09.07767+00:00"
 }

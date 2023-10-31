@@ -2949,9 +2949,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29287,
+  "EOS_Progressed": 29304,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1778,
+  "EOS_NewPlayers": 1787,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17309,6 +17309,11 @@
       "Time": "2023-10-31T22:05:05.6924136+00:00",
       "NumProgressed": 29287,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-31T23:05:20.8841225+00:00",
+      "NumProgressed": 29304,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17320,7 +17325,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "Animated",
@@ -17406,9 +17411,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 1172
     },
     {
       "ID": "Dont_Need_These",
@@ -17432,7 +17437,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "Escape_Artist",
@@ -17624,7 +17629,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "Summoner",
@@ -17672,7 +17677,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "There_You_Are",
@@ -17727,7 +17732,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29287,
+      "Progressed": 29304,
       "Completed": 65
     }
   ],
@@ -17735,8 +17740,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-31T22:01:13.8831308+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:05:05.6924132+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:05:20.884122+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:01:13.8831315+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:05:05.6925157+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:01:31.522876+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:05:20.8843101+00:00"
 }

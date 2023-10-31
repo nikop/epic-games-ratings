@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2023-10-31T22:08:52.8049369+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T23:08:53.4253016+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -414,7 +419,7 @@
       "Name": "Dodo Re Mi: Paper Bladder",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DODO_RE_MI_SAX_FAMILY",
@@ -462,7 +467,7 @@
       "Name": "Hypnotorious: Masterminds",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -486,7 +491,7 @@
       "Name": "FixyText: Chatterbox",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
@@ -494,7 +499,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TIME_JINX",
@@ -516,9 +521,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -526,7 +531,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -534,7 +539,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "TKO2_DOMINO",
@@ -550,7 +555,7 @@
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -558,21 +563,21 @@
       "Name": "Tee K.O. 2: I Wasn\u2019t Supposed To Be Here",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:08:52.8049365+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:08:53.4253011+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:57:11.0348961+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:08:52.8049497+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:57:16.9721178+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:08:53.4253196+00:00"
 }

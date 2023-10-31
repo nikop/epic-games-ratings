@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 0.20% | ~1,789 |
+| V for Vendetta | 0.30% | ~2,684 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,702 (Ranked 15)  
+Progressed: 894,703 (Ranked 15)  
 Completed: 2,736 (0.31%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 2,736 (0.31%) (Ranked 213)
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
 | 2023-10-30 | 894,580 | 2,734 |
-| 2023-10-31 | 894,702 | 2,736 |
+| 2023-10-31 | 894,703 | 2,736 |
 ## Awards
 Max (Character Customization): 103,117  (Ranked 9)  
-Sum: 336,807 (Ranked 10)  
+Sum: 336,927 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 19,710 |
 | This game has Diverse Characters | 19,484 |
 | This game is Highly Recommended | 18,616 |
-| This game has Amazing Storytelling | 18,469 |
+| This game has Amazing Storytelling | 18,589 |
 | This game is Extremely Fun | 18,329 |
 | This game has Amazing Characters | 18,142 |
 | This game is Relaxing | 17,501 |
@@ -574,4 +574,4 @@ Diff (max vs sum): -1
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
 | 2023-10-29 | 4.64 | - | 102,677 | 333,788 |
 | 2023-10-30 | 4.64 | - | 102,927 | 335,582 |
-| 2023-10-31 | 4.64 | - | 103,117 | 336,807 |
+| 2023-10-31 | 4.64 | - | 103,117 | 336,927 |

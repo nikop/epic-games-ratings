@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -322,9 +322,9 @@
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
       "SetID": "caeik3h",
       "Name": "No More Parties In DK",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:09:07.2828754+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:09:08.2191357+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:01:05.6276302+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:09:07.2829455+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:01:23.5201115+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:09:08.219221+00:00"
 }

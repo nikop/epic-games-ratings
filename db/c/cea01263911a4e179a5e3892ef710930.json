@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84572,
+  "EOS_Progressed": 84573,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9288,6 +9288,11 @@
       "Time": "2023-10-31T22:09:35.1091985+00:00",
       "NumProgressed": 84572,
       "NumCompleted": 265
+    },
+    {
+      "Time": "2023-10-31T23:09:36.2711393+00:00",
+      "NumProgressed": 84573,
+      "NumCompleted": 265
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -9308,7 +9313,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 16914
+      "UsersEstimate": 16915
     },
     {
       "ID": "grp_collect_ruby",
@@ -9316,7 +9321,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 65120
+      "UsersEstimate": 65121
     },
     {
       "ID": "grp_endless",
@@ -9324,7 +9329,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29600
+      "UsersEstimate": 29601
     },
     {
       "ID": "grp_finallevel",
@@ -9388,7 +9393,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 44823
+      "UsersEstimate": 44824
     },
     {
       "ID": "grp_money_tree",
@@ -9396,7 +9401,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 62583
+      "UsersEstimate": 62584
     },
     {
       "ID": "grp_speed",
@@ -9428,14 +9433,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 7611
+      "UsersEstimate": 7612
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 84572,
+      "Progressed": 84573,
       "Completed": 265
     }
   ],
@@ -9443,8 +9448,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-10-17T16:59:34.2289044+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:09:35.109198+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:09:36.2711387+00:00",
   "LastUpdate_AppInfo": "2023-10-26T13:57:13.3376254+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:00:53.684405+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:09:35.1092518+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:01:09.1414975+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:09:36.2712099+00:00"
 }

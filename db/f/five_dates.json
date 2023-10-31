@@ -1288,9 +1288,9 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 560
+      "UsersEstimate": 566
     },
     {
       "ID": "hold_my_beer",
@@ -1393,8 +1393,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:09:14.8909208+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:09:15.8838863+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:59:11.4254877+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:09:14.8909348+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:59:24.651948+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:09:15.8839185+00:00"
 }

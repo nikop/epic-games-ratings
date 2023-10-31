@@ -14412,10 +14412,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 336807,
       "NumberOfAwardsMax": 103117
+    },
+    {
+      "Time": "2023-10-31T22:58:17.1913839+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 336927,
+      "NumberOfAwardsMax": 103117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336807,
+  "NumberOfAwards": 336927,
   "NumberOfAwardsMax": 103117,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14447,7 +14453,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 18469
+      "Count": 18589
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14492,9 +14498,9 @@
       "Count": 12129
     }
   ],
-  "EOS_Progressed": 894702,
+  "EOS_Progressed": 894703,
   "EOS_Completed": 2736,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36467,6 +36473,11 @@
       "Time": "2023-10-31T22:05:13.037798+00:00",
       "NumProgressed": 894702,
       "NumCompleted": 2736
+    },
+    {
+      "Time": "2023-10-31T23:05:28.4482124+00:00",
+      "NumProgressed": 894703,
+      "NumCompleted": 2736
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -36805,9 +36816,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1789
+      "UsersEstimate": 2684
     },
     {
       "ID": "YipMan",
@@ -37014,21 +37025,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894702,
+      "Progressed": 894703,
       "Completed": 2736
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23325,
+      "Progressed": 23326,
       "Completed": 10171
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-31T19:58:00.5378934+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:05:13.0377978+00:00",
+  "LastChanged": "2023-10-31T22:58:17.1913837+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:05:28.4482119+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:58:09.5377783+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:05:13.0379446+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:58:17.1913844+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:05:28.44841+00:00"
 }

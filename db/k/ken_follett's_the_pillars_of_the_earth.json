@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16078,
+  "EOS_Progressed": 16079,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13127,6 +13127,11 @@
       "Time": "2023-10-31T22:06:23.5267401+00:00",
       "NumProgressed": 16078,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-31T23:06:41.6323071+00:00",
+      "NumProgressed": 16079,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13242,7 +13247,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "tpote_achievement_22",
@@ -13402,7 +13407,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6431
+      "UsersEstimate": 6432
     },
     {
       "ID": "tpote_achievement_40",
@@ -13442,15 +13447,15 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "tpote_achievement_8",
       "SetID": "3jcf6c3",
       "Name": "Help an old friend",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3537
     },
     {
       "ID": "tpote_achievement_9",
@@ -13465,15 +13470,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16078,
+      "Progressed": 16079,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:06:23.5267399+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:06:41.6323067+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:01:58.7406153+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:06:23.5268361+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:02:38.1271361+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:06:41.6324198+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1731,
+  "EOS_Progressed": 1734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6469,6 +6469,11 @@
       "Time": "2023-10-31T16:05:56.6128444+00:00",
       "NumProgressed": 1731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T23:07:23.33764+00:00",
+      "NumProgressed": 1734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6496,7 +6501,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6544,7 +6549,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -6616,7 +6621,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -6638,9 +6643,9 @@
       "ID": "objective_hero_level_up_7",
       "SetID": "bm61c2p",
       "Name": "General",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -6656,7 +6661,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6728,7 +6733,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -6736,7 +6741,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6766,9 +6771,9 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -6783,7 +6788,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1731,
+      "Progressed": 1734,
       "Completed": 1
     }
   ],
@@ -6791,8 +6796,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:07:03.5155747+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:07:23.3376395+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:57:30.3894146+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:07:03.5156283+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:57:36.9115552+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:07:23.3377116+00:00"
 }

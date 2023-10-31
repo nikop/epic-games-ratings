@@ -17,9 +17,9 @@
 | A good beginning | 13.00% | ~44 |
 | The darkness | 13.00% | ~44 |
 | One last step | 13.00% | ~44 |
-| In this together | 12.00% | ~40 |
-| Half the way | 12.00% | ~40 |
-| Champollion | 12.00% | ~40 |
+| In this together | 12.00% | ~41 |
+| Half the way | 12.00% | ~41 |
+| Champollion | 12.00% | ~41 |
 | Feels like springtime | 11.00% | ~37 |
 | Alchemists Express | 11.00% | ~37 |
 | Open door | 9.00% | ~30 |
@@ -30,8 +30,8 @@
 | For its own good | 6.00% | ~20 |
 | Fashion victim | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 316)  
-Completed: 22 (6.53%) (Ranked 57)  
+Progressed: 338 (Ranked 315)  
+Completed: 22 (6.51%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,4 +131,4 @@ Completed: 22 (6.53%) (Ranked 57)
 | 2023-10-27 | 327 | 22 |
 | 2023-10-28 | 331 | 22 |
 | 2023-10-29 | 333 | 22 |
-| 2023-10-31 | 337 | 22 |
+| 2023-10-31 | 338 | 22 |

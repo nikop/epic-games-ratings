@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 529,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -2269,6 +2269,11 @@
       "Time": "2023-10-31T22:07:25.4506936+00:00",
       "NumProgressed": 527,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T23:07:46.5471559+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2278,9 +2283,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 233
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2288,7 +2293,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2328,7 +2333,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2336,7 +2341,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2368,7 +2373,7 @@
       "Name": "The court",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2391,14 +2396,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 529,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:07:25.4506934+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:07:46.5471551+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:00:59.1275111+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:07:25.4507108+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:01:15.0157713+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:07:46.5471804+00:00"
 }

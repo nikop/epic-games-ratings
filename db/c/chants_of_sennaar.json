@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.53,
+  "EOS_Completed_Percentage": 6.51,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1580,6 +1580,11 @@
       "Time": "2023-10-31T21:05:40.7077521+00:00",
       "NumProgressed": 337,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-10-31T23:07:21.4617998+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1599,7 +1604,7 @@
       "Name": "In this together",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "META_ALL_LINK",
@@ -1631,7 +1636,7 @@
       "Name": "Half the way",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1727,7 +1732,7 @@
       "Name": "Champollion",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1790,14 +1795,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-10-31T22:07:01.6638603+00:00",
+  "LastChanged_Achievements": "2023-10-31T23:07:21.461799+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:59:47.7896252+00:00",
-  "LastUpdate_Achievements": "2023-10-31T22:07:01.6638815+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:00:03.1446411+00:00",
+  "LastUpdate_Achievements": "2023-10-31T23:07:21.4618293+00:00"
 }

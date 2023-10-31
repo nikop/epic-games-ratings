@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,655 |
-| Alt+F4 | 7.00% | ~16,399 |
+| Sowwy! | 34.00% | ~79,657 |
+| Alt+F4 | 7.00% | ~16,400 |
 | Where's that freaking Dwarf? | 6.00% | ~14,057 |
 | Déjà vu | 5.00% | ~11,714 |
 | A beer, two curses, three companions | 4.00% | ~9,371 |
 | Sock! SOCK! | 4.00% | ~9,371 |
 | GG EZ | 4.00% | ~9,371 |
 | Speedrun | 4.00% | ~9,371 |
-| Way of the Wimp | 3.00% | ~7,028 |
-| The plot thickens... At the tavern | 3.00% | ~7,028 |
-| DM intervention | 3.00% | ~7,028 |
-| Fireproof Wizardess | 3.00% | ~7,028 |
+| Way of the Wimp | 3.00% | ~7,029 |
+| The plot thickens... At the tavern | 3.00% | ~7,029 |
+| DM intervention | 3.00% | ~7,029 |
+| Fireproof Wizardess | 3.00% | ~7,029 |
 | Livin' in a dwarven paradise | 2.00% | ~4,686 |
 | Shiny and Crôm | 2.00% | ~4,686 |
 | The demons' feast | 2.00% | ~4,686 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,278 (Ranked 61)  
+Progressed: 234,284 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,21 +248,21 @@ Completed: 7 (0.00%) (Ranked 333)
 | 2023-10-28 | 233,691 | 7 |
 | 2023-10-29 | 233,955 | 7 |
 | 2023-10-30 | 234,124 | 7 |
-| 2023-10-31 | 234,278 | 7 |
+| 2023-10-31 | 234,284 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 269)  
-Sum: 447 (Ranked 328)  
-Diff (max vs sum): -59  
+Sum: 449 (Ranked 327)  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 225 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
+| This game has Quickly Understood Controls | 27 |
 | This game has Diverse Characters | 26 |
 | This game has Amazing Characters | 25 |
 | This game has Amazing Storytelling | 25 |
-| This game has Quickly Understood Controls | 25 |
 | This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -434,3 +434,4 @@ Diff (max vs sum): -59
 | 2023-10-27 | 4.58 | - | 224 | 443 |
 | 2023-10-28 | 4.58 | - | 225 | 445 |
 | 2023-10-29 | 4.58 | - | 225 | 447 |
+| 2023-10-31 | 4.58 | - | 225 | 449 |

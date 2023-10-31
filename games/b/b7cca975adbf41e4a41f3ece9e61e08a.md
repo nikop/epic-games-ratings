@@ -6,22 +6,22 @@ Rating: 4.82 (Ranked 62)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 92.00% | ~4,997 |
-| I Challenge You To Save More Money! | 87.00% | ~4,725 |
-| I Love How Tough You Are | 72.00% | ~3,910 |
+| I Challenge You To Save More Money! | 87.00% | ~4,726 |
+| I Love How Tough You Are | 72.00% | ~3,911 |
 | Wanna Come To My Place For Dinner? | 64.00% | ~3,476 |
-| What I Want Is You | 58.00% | ~3,150 |
+| What I Want Is You | 58.00% | ~3,151 |
 | To Be Or Not To Be | 54.00% | ~2,933 |
 | Are You Alright? | 47.00% | ~2,553 |
 | Love Actually | 45.00% | ~2,444 |
 | Drama King | 39.00% | ~2,118 |
 | You're Really Something Else | 35.00% | ~1,901 |
 | Go Clean up In Your Own Way | 34.00% | ~1,847 |
-| Happy Family | 33.00% | ~1,792 |
-| ONE PUNCH | 33.00% | ~1,792 |
+| Happy Family | 33.00% | ~1,793 |
+| ONE PUNCH | 33.00% | ~1,793 |
 | Drama CP: Reel to Real | 32.00% | ~1,738 |
 | Worthless Speech | 32.00% | ~1,738 |
 | FIRST LOVE | 31.00% | ~1,684 |
-| Absolutely Elegant | 30.00% | ~1,629 |
+| Absolutely Elegant | 30.00% | ~1,630 |
 | Still Single | 29.00% | ~1,575 |
 | Go Get Some Fries On The Pier | 28.00% | ~1,521 |
 | David | 26.00% | ~1,412 |
@@ -48,7 +48,7 @@ Rating: 4.82 (Ranked 62)
 | Tall; Grande; Venti | 1.00% | ~54 |
 | Limerence | 1.00% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,431 (Ranked 180)  
+Progressed: 5,432 (Ranked 180)  
 Completed: 53 (0.98%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 53 (0.98%) (Ranked 153)
 | 2023-10-28 | 4,238 | 31 |
 | 2023-10-29 | 4,711 | 41 |
 | 2023-10-30 | 5,050 | 49 |
-| 2023-10-31 | 5,431 | 53 |
+| 2023-10-31 | 5,432 | 53 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

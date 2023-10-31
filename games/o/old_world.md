@@ -125,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~106 |
 | Mounted Lancer | 0.70% | ~106 |
 | Ambition Victory | 0.70% | ~106 |
+| Poetic Leader | 0.70% | ~106 |
 | Devout | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.60% | ~90 |
 | All Nations | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
-| Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
 | Bad Heir Day | 0.50% | ~75 |
 | Ishtar Gate in Babylon | 0.50% | ~75 |
@@ -172,6 +172,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Bronze Victory (Carthage 2) | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
+| Holy | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
@@ -217,7 +218,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~15 |
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
-| Holy | 0.10% | ~15 |
 | Rebuilder | 0.10% | ~15 |
 | White Death | 0.10% | ~15 |
 | Council of Madness | 0.10% | ~15 |
