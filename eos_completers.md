@@ -5,7 +5,7 @@
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.21% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.56% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.53% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -26,7 +26,7 @@
 | 24 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 12.77% |
 | 25 | [Seven Doors](games/s/seven_doors.md) | 12.50% |
 | 26 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
-| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.61% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.59% |
 | 28 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
 | 29 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 29 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 11.11% |
@@ -110,9 +110,9 @@
 | 108 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.51% |
-| 111 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.50% |
 | 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 113 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
+| 112 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
+| 113 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.48% |
 | 114 | [Lamentum](games/l/lamentum.md) | 2.44% |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 116 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.37% |
@@ -160,13 +160,13 @@
 | 158 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 159 | [Hades](games/h/hades.md) | 0.91% |
 | 160 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
-| 161 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.89% |
+| 161 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.88% |
 | 162 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 163 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 164 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.83% |
 | 165 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 166 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.80% |
-| 167 | [The Devil's Face](games/t/the_devil's_face.md) | 0.78% |
+| 167 | [The Devil's Face](games/t/the_devil's_face.md) | 0.77% |
 | 168 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 169 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 170 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
