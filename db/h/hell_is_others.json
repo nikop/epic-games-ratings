@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 743,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 434,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 54,
@@ -1159,7 +1159,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257913,
+  "EOS_Progressed": 257914,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -20189,6 +20189,11 @@
       "Time": "2023-10-31T16:06:26.7305075+00:00",
       "NumProgressed": 257913,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T17:06:36.2391526+00:00",
+      "NumProgressed": 257914,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20647,7 +20652,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257913,
+      "Progressed": 257914,
       "Completed": 3
     }
   ],
@@ -20655,8 +20660,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-30T00:03:12.5174707+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:06:26.7305067+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:06:36.2391517+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:07.0523364+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:57:31.7613309+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:06:26.7306856+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:57:11.5501597+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:06:36.2393817+00:00"
 }

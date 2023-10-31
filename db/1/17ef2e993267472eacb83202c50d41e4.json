@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7604,
+  "EOS_Progressed": 7605,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2023-10-31T16:09:34.6341086+00:00",
       "NumProgressed": 7604,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T17:09:24.8030754+00:00",
+      "NumProgressed": 7605,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5546,7 +5551,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "GamesPlayed1",
@@ -5554,7 +5559,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "GamesPlayed10",
@@ -5626,7 +5631,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "HAUpgraded1",
@@ -6018,14 +6023,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7604,
+      "Progressed": 7605,
       "Completed": 1
     }
   ],
@@ -6033,8 +6038,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:09:34.6341079+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:09:24.8030745+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:02:56.4959293+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:09:34.6342276+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:02:44.7703304+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:09:24.8032074+00:00"
 }

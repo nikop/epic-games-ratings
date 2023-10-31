@@ -19,9 +19,9 @@
 | No Bites | 57.00% | ~21 |
 | Boom Things | 54.00% | ~20 |
 | Iceborn | 54.00% | ~20 |
+| Vertical Power | 54.00% | ~20 |
 | Rhythm Of Willump | 51.00% | ~19 |
 | The Pied Piper Of Freljord | 51.00% | ~19 |
-| Vertical Power | 51.00% | ~19 |
 | Tear of Freedom | 49.00% | ~18 |
 | Moneyball | 49.00% | ~18 |
 | Snowball Fightn't | 49.00% | ~18 |
@@ -42,14 +42,14 @@
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~13 |
 | Freeze The Ice Witch | 32.00% | ~12 |
 | We Are Speed | 32.00% | ~12 |
+| Sneaky Notai | 27.00% | ~10 |
 | Braum's Poro Ranch | 27.00% | ~10 |
 | It Was Him | 27.00% | ~10 |
-| Sneaky Notai | 24.00% | ~9 |
 | One From The Heart | 24.00% | ~9 |
 | Handy Yeti | 24.00% | ~9 |
 | Rock Star | 22.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 476)  
+Progressed: 37 (Ranked 477)  
 Completed: 4 (10.81%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |

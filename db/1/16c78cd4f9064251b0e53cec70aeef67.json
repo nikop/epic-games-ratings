@@ -4,7 +4,7 @@
   "ProductSlug": "burger-restaurant-simulator-f066fc",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-14T02:57:16.6222206+00:00",
   "LastUpdate_AppInfo": "2023-10-27T10:57:14.8294415+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:00:34.0716028+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:04:59.6756408+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:00:26.0134696+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:05:16.0594961+00:00"
 }

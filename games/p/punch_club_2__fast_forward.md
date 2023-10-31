@@ -58,13 +58,13 @@
 | Absolute Champion! | 36.00% | ~122 |
 | Your own way | 36.00% | ~122 |
 | The lonesome road | 35.00% | ~118 |
+| Keep nature safe | 35.00% | ~118 |
+| Family comes first | 35.00% | ~118 |
 | Key memories | 35.00% | ~118 |
 | Anyone can resist | 35.00% | ~118 |
 | The heart of the Resistance | 35.00% | ~118 |
 | Trap disarmed | 34.00% | ~115 |
 | Another world | 34.00% | ~115 |
-| Keep nature safe | 34.00% | ~115 |
-| Family comes first | 34.00% | ~115 |
 | Careerist | 34.00% | ~115 |
 | The last bell ring | 33.00% | ~112 |
 | Better cooking at home | 31.00% | ~105 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~101 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 338 (Ranked 315)  
-Completed: 9 (2.66%) (Ranked 106)  
+Completed: 9 (2.66%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

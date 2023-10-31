@@ -39,11 +39,11 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 0.30% | ~466 |
 | Unwrap the Gift | 0.30% | ~467 |
 | Passage | 0.30% | ~467 |
+| Proportions | 0.30% | ~467 |
 | Kinship | 0.20% | ~312 |
 | Weakness | 0.20% | ~312 |
 | Kin | 0.20% | ~311 |
 | Listen | 0.20% | ~311 |
-| Proportions | 0.20% | ~312 |
 | Intensify | 0.20% | ~311 |
 | Spiral Heart | 0.10% | ~156 |
 | Skinmaker | 0.10% | ~156 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,758 (Ranked 75)  
+Progressed: 155,764 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
-| 2023-10-31 | 155,758 | 1 |
+| 2023-10-31 | 155,764 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 423)  
 Sum: 336 (Ranked 350)  

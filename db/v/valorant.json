@@ -2,12 +2,12 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -11105,10 +11105,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 566118,
       "NumberOfAwardsMax": 78192
+    },
+    {
+      "Time": "2023-10-31T17:02:45.083133+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 566368,
+      "NumberOfAwardsMax": 78192
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 566118,
+  "NumberOfAwards": 566368,
   "NumberOfAwardsMax": 78192,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11140,7 +11146,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 65312
+      "Count": 65451
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11164,7 +11170,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 57626
+      "Count": 57737
     },
     {
       "Text": "This game has a Competitive Community",
@@ -11184,8 +11190,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-10-31T10:02:52.7476901+00:00",
+  "LastChanged": "2023-10-31T17:02:45.0831326+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:16.3630681+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:02:56.7347099+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:05:05.1325469+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:02:45.0831338+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:05:22.6482492+00:00"
 }

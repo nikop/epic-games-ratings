@@ -2,10 +2,10 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 476,
+  "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "ID": "EV_ACH21",
       "SetID": "6jeac23",
       "Name": "Sneaky Notai",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "EV_ACH22",
@@ -472,9 +472,9 @@
       "ID": "EV_ACH38",
       "SetID": "6jeac23",
       "Name": "Vertical Power",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "EV_ACH39",
@@ -534,8 +534,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:09:12.5307526+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:08:57.4573781+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.241403+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:58:28.4858462+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:09:12.5308125+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:58:11.7514021+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:08:57.4574153+00:00"
 }

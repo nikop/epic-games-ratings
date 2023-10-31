@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -3302,9 +3302,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_88",
@@ -3426,8 +3426,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:06:23.7444976+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:06:32.6913687+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:59:55.5784469+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:06:23.7447344+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:59:48.57713+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:06:32.6916139+00:00"
 }

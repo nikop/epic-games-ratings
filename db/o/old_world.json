@@ -6,7 +6,7 @@
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
@@ -1876,10 +1876,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1858,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2023-10-31T16:58:32.8595658+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1862,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1858,
+  "NumberOfAwards": 1862,
   "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1917,7 +1923,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 214
+      "Count": 216
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1935,7 +1941,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 188
+      "Count": 190
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1956,7 +1962,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15065,
+  "EOS_Progressed": 15069,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -15111,6 +15117,11 @@
       "Time": "2023-10-31T15:08:54.9684808+00:00",
       "NumProgressed": 15065,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T17:03:10.4318488+00:00",
+      "NumProgressed": 15069,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15824,9 +15835,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 301
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -17857,21 +17868,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15065,
+      "Progressed": 15069,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15065,
+      "Progressed": 15069,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-31T09:58:27.8369876+00:00",
-  "LastChanged_Achievements": "2023-10-31T15:08:54.9684803+00:00",
+  "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:03:10.4318483+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:58:45.7680139+00:00",
-  "LastUpdate_Achievements": "2023-10-31T15:08:54.9698088+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:58:32.8595662+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:03:10.4336057+00:00"
 }

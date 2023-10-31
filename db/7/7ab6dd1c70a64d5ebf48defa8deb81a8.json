@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 479,
-  "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 426,
+  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 38,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.78,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -168,6 +168,11 @@
       "Time": "2023-10-24T15:09:43.7843467+00:00",
       "NumProgressed": 36,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T17:09:18.020084+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -185,7 +190,7 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -193,7 +198,7 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -241,7 +246,7 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -273,7 +278,7 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -297,7 +302,7 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -305,7 +310,7 @@
       "ID": "ACH_17",
       "SetID": "efe2lj",
       "Name": "Shatterer",
-      "Percentage": -2.8,
+      "Percentage": -2.6,
       "XP": 30,
       "UsersEstimate": -1
     },
@@ -329,7 +334,7 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": -2.8,
+      "Percentage": -2.6,
       "XP": 40,
       "UsersEstimate": -1
     },
@@ -337,7 +342,7 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": -2.8,
+      "Percentage": -2.6,
       "XP": 20,
       "UsersEstimate": -1
     },
@@ -377,7 +382,7 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -449,7 +454,7 @@
       "ID": "ACH_36",
       "SetID": "efe2lj",
       "Name": "A Queen\u0027s Tale",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -466,13 +471,13 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 38,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:09:29.1754407+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:09:18.0200831+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:58:13.5202186+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:09:29.1754727+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:57:55.5131828+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:09:18.0201168+00:00"
 }

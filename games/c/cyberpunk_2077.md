@@ -6,6 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| V for Vendetta | 0.20% | ~1,789 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -47,7 +48,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.10% | ~895 |
 | Two Heads, One Bullet | 0.10% | ~895 |
 | Judy vs Night City | 0.10% | ~895 |
-| V for Vendetta | 0.10% | ~895 |
 | It's Elementary | 0.10% | ~895 |
 | Legend of The Afterlife | 0.10% | ~895 |
 | The APB is Not Enough | 0.10% | ~23 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,651 (Ranked 15)  
+Progressed: 894,659 (Ranked 15)  
 Completed: 2,735 (0.31%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 2,735 (0.31%) (Ranked 213)
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
 | 2023-10-30 | 894,580 | 2,734 |
-| 2023-10-31 | 894,651 | 2,735 |
+| 2023-10-31 | 894,659 | 2,735 |
 ## Awards
 Max (Character Customization): 103,117  (Ranked 9)  
 Sum: 336,728 (Ranked 10)  

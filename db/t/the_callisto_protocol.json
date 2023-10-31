@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1391,7 +1391,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16370,
+  "EOS_Progressed": 16371,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
@@ -8556,6 +8556,11 @@
       "Time": "2023-10-31T15:05:27.9012421+00:00",
       "NumProgressed": 16370,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-10-31T17:04:23.3800901+00:00",
+      "NumProgressed": 16371,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8687,7 +8692,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -8711,7 +8716,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8735,7 +8740,7 @@
       "Name": "Reforged",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "PRINT_WEAPON",
@@ -8767,7 +8772,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STORY_HABITAT",
@@ -8775,7 +8780,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STORY_HANGAR",
@@ -8783,7 +8788,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STORY_MINETOWN",
@@ -8799,7 +8804,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -8807,7 +8812,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STORY_TOWER",
@@ -8815,7 +8820,7 @@
       "Name": "Full Circle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "STORY_TUNNELS",
@@ -8823,7 +8828,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "DISMEMBER_100",
@@ -8942,13 +8947,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16370,
+      "Progressed": 16371,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4296,
+      "Progressed": 4297,
       "Completed": 29
     }
   ],
@@ -8956,8 +8961,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-10-29T10:02:50.4728628+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:04:15.7720338+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:04:23.3800894+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:57:57.9563852+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:04:15.7721317+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:57:35.6611054+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:04:23.3801831+00:00"
 }

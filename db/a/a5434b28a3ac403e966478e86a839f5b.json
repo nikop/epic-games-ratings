@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -1466,9 +1466,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_eou3",
@@ -1561,8 +1561,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:06:20.7758855+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:06:29.4216175+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:01:33.4537966+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:06:20.7759107+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:02:30.2063878+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:06:29.4216391+00:00"
 }

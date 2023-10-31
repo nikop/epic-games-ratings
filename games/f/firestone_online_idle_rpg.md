@@ -28,11 +28,11 @@ Rating: 4.10 (Ranked 952)
 | Natural Talent | 14.00% | ~292 |
 | Superior | 14.00% | ~292 |
 | Scientist | 13.00% | ~271 |
+| Doing My Part | 12.00% | ~250 |
 | Hunter | 12.00% | ~250 |
 | The power of Awakening | 12.00% | ~250 |
 | Challenger | 11.00% | ~229 |
 | Daily Quest Completionist | 11.00% | ~229 |
-| Doing My Part | 11.00% | ~229 |
 | Four Leaf Clover | 11.00% | ~229 |
 | Frostfire Liberator | 11.00% | ~229 |
 | Mastery | 11.00% | ~229 |
@@ -61,9 +61,9 @@ Rating: 4.10 (Ranked 952)
 | Legendary | 6.00% | ~125 |
 | Arena Challenger | 5.00% | ~104 |
 | Ebony Jungle Liberator | 5.00% | ~104 |
+| Gear Enchanting | 4.00% | ~83 |
 | Mythic Power | 4.00% | ~83 |
 | What lies behind the bush | 4.00% | ~83 |
-| Gear Enchanting | 3.00% | ~63 |
 | Guardian Master | 3.00% | ~63 |
 | Cauldron Liberator | 2.00% | ~42 |
 | Enchanting skill x5 | 2.00% | ~42 |

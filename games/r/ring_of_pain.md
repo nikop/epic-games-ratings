@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Swapsies | 0.00% | ~0 |
 | Martial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,893 (Ranked 59)  
-Completed: 286 (0.12%) (Ranked 256)  
+Progressed: 238,895 (Ranked 59)  
+Completed: 286 (0.12%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,893 | 286 |
+| 2023-10-31 | 238,895 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

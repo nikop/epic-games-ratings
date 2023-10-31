@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -756,10 +756,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 350,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-10-31T17:00:38.3905876+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 351,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 350,
+  "NumberOfAwards": 351,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -821,7 +827,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -836,9 +842,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 28526,
+  "EOS_Progressed": 28527,
   "EOS_Completed": 1364,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -6371,6 +6377,11 @@
       "Time": "2023-10-31T14:04:55.4451692+00:00",
       "NumProgressed": 28526,
       "NumCompleted": 1364
+    },
+    {
+      "Time": "2023-10-31T17:04:50.45608+00:00",
+      "NumProgressed": 28527,
+      "NumCompleted": 1364
     }
   ],
   "TotalAchievements": 30,
@@ -6406,7 +6417,7 @@
       "Name": "Clothesline",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "ACH_BOSSES",
@@ -6430,7 +6441,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "ACH_CATCH_HALF",
@@ -6438,7 +6449,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18827
+      "UsersEstimate": 18828
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -6446,7 +6457,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21965
+      "UsersEstimate": 21966
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -6470,7 +6481,7 @@
       "Name": "In the Arms of the Gramble",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 16830
+      "UsersEstimate": 16831
     },
     {
       "ID": "ACH_FIRST_BUGSNAK",
@@ -6478,7 +6489,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27670
+      "UsersEstimate": 27671
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -6486,7 +6497,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 19683
+      "UsersEstimate": 19684
     },
     {
       "ID": "ACH_GOLEM",
@@ -6542,7 +6553,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12266
+      "UsersEstimate": 12267
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -6550,7 +6561,7 @@
       "Name": "Know Thy Neighbor",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 16830
+      "UsersEstimate": 16831
     },
     {
       "ID": "ACH_SIDE_QUEST",
@@ -6558,7 +6569,7 @@
       "Name": "Sidetracked",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 11410
+      "UsersEstimate": 11411
     },
     {
       "ID": "ACH_SNAKPODS",
@@ -6574,7 +6585,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26529
+      "UsersEstimate": 26530
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -6598,7 +6609,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10269
+      "UsersEstimate": 10270
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -6606,7 +6617,7 @@
       "Name": "Double Trapper",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 21394
+      "UsersEstimate": 21395
     },
     {
       "ID": "ACH_WATERFALL",
@@ -6621,15 +6632,15 @@
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28526,
+      "Progressed": 28527,
       "Completed": 1364
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2023-10-31T12:00:00.673101+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:04:38.6329001+00:00",
+  "LastChanged": "2023-10-31T17:00:38.3905872+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:04:50.4560797+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:19.4147391+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:00:48.0487808+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:04:38.6329692+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:00:38.3905879+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:04:50.4561781+00:00"
 }

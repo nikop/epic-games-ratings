@@ -6,8 +6,8 @@
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1129,9 +1129,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3046,
+  "EOS_Progressed": 3047,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5569,6 +5569,11 @@
       "Time": "2023-10-31T08:09:37.8222376+00:00",
       "NumProgressed": 3046,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T17:08:27.8758817+00:00",
+      "NumProgressed": 3047,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5580,7 +5585,7 @@
       "Name": "Backpacker",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5666,9 +5671,9 @@
       "ID": "ACH_GDAY-MATE",
       "SetID": "72olkc5",
       "Name": "G\u0027Day Mate!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -5684,7 +5689,7 @@
       "Name": "Go with the Flow",
       "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -5956,22 +5961,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3046,
+      "Progressed": 3047,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-31T08:01:22.6214654+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:08:47.8280514+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:08:27.8758809+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.1163993+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:00:16.8897606+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:08:47.8281338+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:00:05.755214+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:08:27.8759652+00:00"
 }

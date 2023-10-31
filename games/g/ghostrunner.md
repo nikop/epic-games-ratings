@@ -7,21 +7,21 @@ Number of Ratings: 1,047  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Longrunner | 76.00% | ~16,389 |
-| Sword Runner | 61.00% | ~13,154 |
+| Sword Runner | 61.00% | ~13,155 |
 | Running out of breath | 54.00% | ~11,645 |
 | Wallrunner | 53.00% | ~11,429 |
 | Homerunner | 45.00% | ~9,704 |
-| Out of order | 44.00% | ~9,488 |
+| Out of order | 44.00% | ~9,489 |
 | I call it luck | 43.00% | ~9,273 |
 | Where are my Keys? | 40.00% | ~8,626 |
 | Back to hell | 37.00% | ~7,979 |
-| Perfection | 32.00% | ~6,900 |
-| Why not both | 30.00% | ~6,469 |
+| Perfection | 32.00% | ~6,901 |
+| Why not both | 30.00% | ~6,470 |
 | Sword to a gunfight | 29.00% | ~6,254 |
 | Upgrades not mandatory | 29.00% | ~6,254 |
 | Artificial selection | 28.00% | ~6,038 |
-| Control freak | 27.00% | ~5,822 |
-| Running Wild | 27.00% | ~5,822 |
+| Control freak | 27.00% | ~5,823 |
+| Running Wild | 27.00% | ~5,823 |
 | Finish line | 26.00% | ~5,607 |
 | Unstoppable force | 22.00% | ~4,744 |
 | Wave of mutilation | 22.00% | ~4,744 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strike | 12.00% | ~2,588 |
 | More than human | 11.00% | ~2,372 |
 | Triple A | 9.00% | ~1,941 |
-| One Of Those Days | 7.00% | ~1,509 |
+| One Of Those Days | 7.00% | ~1,510 |
 | Fine addition | 6.00% | ~1,294 |
 | Where He Stood | 5.00% | ~1,078 |
 | Push it to the limit | 4.00% | ~863 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~86 |
 | Up Close And Personal | 0.40% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,564 (Ranked 128)  
+Progressed: 21,565 (Ranked 128)  
 Completed: 79 (0.37%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 79 (0.37%) (Ranked 207)
 | 2023-10-28 | 21,275 | 78 |
 | 2023-10-29 | 21,406 | 78 |
 | 2023-10-30 | 21,503 | 78 |
-| 2023-10-31 | 21,564 | 79 |
+| 2023-10-31 | 21,565 | 79 |
 ## Awards
 Max (Great Boss Battles): 514  (Ranked 205)  
 Sum: 703 (Ranked 289)  

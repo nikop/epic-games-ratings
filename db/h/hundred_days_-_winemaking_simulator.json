@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 10357,
+  "EOS_Progressed": 10363,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 968,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8404,6 +8404,11 @@
       "Time": "2023-10-31T16:06:53.5164259+00:00",
       "NumProgressed": 10357,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-10-31T17:07:08.4802126+00:00",
+      "NumProgressed": 10363,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8464,7 +8469,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4145
     },
     {
       "ID": "a_19",
@@ -8488,7 +8493,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "a_21",
@@ -8496,7 +8501,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "a_22",
@@ -8504,7 +8509,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "a_23",
@@ -8624,7 +8629,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "a_6",
@@ -8663,7 +8668,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 10357,
+      "Progressed": 10363,
       "Completed": 10
     }
   ],
@@ -8671,8 +8676,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:06:53.5164254+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:07:08.4802113+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:58:01.5333914+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:06:53.5165218+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:57:39.9561001+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:07:08.4802984+00:00"
 }

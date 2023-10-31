@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2969,
+  "EOS_Progressed": 2970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3759,6 +3759,11 @@
       "Time": "2023-10-31T16:05:29.6348829+00:00",
       "NumProgressed": 2969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T17:05:52.2096848+00:00",
+      "NumProgressed": 2970,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3779,7 +3784,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "achievement_11",
@@ -3867,7 +3872,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "achievement_21",
@@ -3931,14 +3936,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2969,
+      "Progressed": 2970,
       "Completed": 0
     }
   ],
@@ -3946,8 +3951,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:05:29.6348824+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:05:52.2096838+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:01:04.4753363+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:05:29.6349207+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:00:53.5970664+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:05:52.2097481+00:00"
 }

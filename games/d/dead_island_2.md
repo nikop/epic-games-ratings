@@ -1,33 +1,33 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 520)  
+Rating: 4.54 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 5.00% | ~35,464 |
-| Hotel California | 5.00% | ~35,464 |
-| Welcome To Hell-A | 5.00% | ~35,464 |
-| Dr. Reed, I Presume? | 4.00% | ~28,371 |
-| Git Gutte! | 4.00% | ~28,371 |
-| Coup de Grâce | 4.00% | ~28,371 |
-| Hazardous Materials | 4.00% | ~28,371 |
-| Friends Like These | 4.00% | ~28,371 |
-| Apex Predator | 4.00% | ~28,371 |
-| Stacking the Deck | 4.00% | ~28,371 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,371 |
-| Bookworm | 3.00% | ~21,278 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,278 |
-| But Doctor, I am Butcho | 3.00% | ~21,278 |
-| Slayer Squad | 3.00% | ~21,278 |
-| Can't Handle the Truth | 3.00% | ~21,278 |
-| Like Riding a Bike | 3.00% | ~21,278 |
-| Zombologist | 3.00% | ~21,278 |
-| Ooh, Shiny! | 3.00% | ~21,278 |
-| A Patton Emerges | 3.00% | ~21,278 |
-| I Am the Resurrection | 3.00% | ~21,278 |
-| Our True Nature | 3.00% | ~21,278 |
-| This is My Weapon | 3.00% | ~21,278 |
+| Welcome To Hell-A | 6.00% | ~42,559 |
+| Break A Leg | 5.00% | ~35,466 |
+| Hotel California | 5.00% | ~35,466 |
+| Dr. Reed, I Presume? | 4.00% | ~28,373 |
+| Git Gutte! | 4.00% | ~28,373 |
+| Coup de Grâce | 4.00% | ~28,373 |
+| Hazardous Materials | 4.00% | ~28,373 |
+| Friends Like These | 4.00% | ~28,373 |
+| Apex Predator | 4.00% | ~28,373 |
+| Stacking the Deck | 4.00% | ~28,373 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,373 |
+| Bookworm | 3.00% | ~21,280 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,280 |
+| But Doctor, I am Butcho | 3.00% | ~21,280 |
+| Slayer Squad | 3.00% | ~21,280 |
+| Can't Handle the Truth | 3.00% | ~21,280 |
+| Like Riding a Bike | 3.00% | ~21,280 |
+| Zombologist | 3.00% | ~21,280 |
+| Ooh, Shiny! | 3.00% | ~21,280 |
+| A Patton Emerges | 3.00% | ~21,280 |
+| I Am the Resurrection | 3.00% | ~21,280 |
+| Our True Nature | 3.00% | ~21,280 |
+| This is My Weapon | 3.00% | ~21,280 |
 | Making Your Mark | 2.00% | ~14,186 |
 | Anger Management | 2.00% | ~14,186 |
 | Perks of the Job | 2.00% | ~14,186 |
@@ -42,16 +42,16 @@ Rating: 4.54 (Ranked 520)
 | Rising Star | 1.00% | ~7,093 |
 | On Safari | 0.90% | ~6,384 |
 | Variety is the Spice of Death | 0.90% | ~6,384 |
-| Make it So | 0.80% | ~5,674 |
+| Make it So | 0.80% | ~5,675 |
 | LA Influential | 0.70% | ~4,965 |
 | Gore Horse | 0.60% | ~4,256 |
 | Sharpest Tool in the Box | 0.60% | ~4,256 |
-| Sole Survivor | 0.50% | ~3,546 |
-| Survival Skills | 0.50% | ~3,546 |
+| Sole Survivor | 0.50% | ~3,547 |
+| Survival Skills | 0.50% | ~3,547 |
 | Donk! | 0.20% | ~1,419 |
 | Bucket List | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,280 (Ranked 22)  
+Progressed: 709,322 (Ranked 22)  
 Completed: 2,291 (0.32%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 2,291 (0.32%) (Ranked 212)
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
-| 2023-10-31 | 709,280 | 2,291 |
+| 2023-10-31 | 709,322 | 2,291 |
 ## Awards
 Max (Great Boss Battles): 6,773  (Ranked 54)  
 Sum: 10,205 (Ranked 90)  

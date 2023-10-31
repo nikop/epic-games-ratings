@@ -11,16 +11,16 @@ Rating: 4.19 (Ranked 906)
 | Chew 'Em Up | 6.00% | ~982 |
 | Float Like A Butterfly | 6.00% | ~982 |
 | The Outer Way | 6.00% | ~982 |
-| Two Heads Are Better Than One | 5.00% | ~818 |
-| Workplace Hazard | 5.00% | ~818 |
-| Reforged | 5.00% | ~818 |
-| If the SHU Fits... | 5.00% | ~818 |
-| Without A Paddle | 5.00% | ~818 |
-| In the Pipe, Five by Five | 5.00% | ~818 |
-| Desperate Times | 5.00% | ~818 |
-| Crash Site | 5.00% | ~818 |
-| Full Circle | 5.00% | ~818 |
-| Power Up | 5.00% | ~818 |
+| Two Heads Are Better Than One | 5.00% | ~819 |
+| Workplace Hazard | 5.00% | ~819 |
+| Reforged | 5.00% | ~819 |
+| If the SHU Fits... | 5.00% | ~819 |
+| Without A Paddle | 5.00% | ~819 |
+| In the Pipe, Five by Five | 5.00% | ~819 |
+| Desperate Times | 5.00% | ~819 |
+| Crash Site | 5.00% | ~819 |
+| Full Circle | 5.00% | ~819 |
+| Power Up | 5.00% | ~819 |
 | Keep Fighting | 5.00% | ~215 |
 | Giving Back | 4.00% | ~655 |
 | You Need a Gun | 4.00% | ~655 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 906)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,370 (Ranked 140)  
+Progressed: 16,371 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 78 (0.48%) (Ranked 193)
 | 2023-10-28 | 16,332 | 78 |
 | 2023-10-29 | 16,345 | 78 |
 | 2023-10-30 | 16,360 | 78 |
-| 2023-10-31 | 16,370 | 78 |
+| 2023-10-31 | 16,371 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 380)  
 Sum: 462 (Ranked 326)  

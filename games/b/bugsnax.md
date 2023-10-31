@@ -6,38 +6,38 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,670 |
-| Gone Home | 93.00% | ~26,529 |
+| Everybody Gets One | 97.00% | ~27,671 |
+| Gone Home | 93.00% | ~26,530 |
 | Wonderfalls | 87.00% | ~24,818 |
-| Got to Catch a Few | 77.00% | ~21,965 |
-| Double Trapper | 75.00% | ~21,394 |
-| I'm Stuffed | 69.00% | ~19,683 |
-| Got to Catch a Lot | 66.00% | ~18,827 |
+| Got to Catch a Few | 77.00% | ~21,966 |
+| Double Trapper | 75.00% | ~21,395 |
+| I'm Stuffed | 69.00% | ~19,684 |
+| Got to Catch a Lot | 66.00% | ~18,828 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,401 |
-| In the Arms of the Gramble | 59.00% | ~16,830 |
-| Know Thy Neighbor | 59.00% | ~16,830 |
+| In the Arms of the Gramble | 59.00% | ~16,831 |
+| Know Thy Neighbor | 59.00% | ~16,831 |
 | Perf Dirt | 57.00% | ~16,260 |
 | Launch Party | 56.00% | ~15,975 |
 | Vacation's End | 53.00% | ~15,119 |
 | Bossy Bugs | 46.00% | ~13,122 |
 | Survivor | 45.00% | ~12,837 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,266 |
-| Sidetracked | 40.00% | ~11,410 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,267 |
+| Sidetracked | 40.00% | ~11,411 |
 | Film Buff | 38.00% | ~10,840 |
 | Combo Meal | 38.00% | ~10,840 |
-| Midnight Snak | 36.00% | ~10,269 |
+| Midnight Snak | 36.00% | ~10,270 |
 | Candid Cryptid | 35.00% | ~9,984 |
-| Got to Catch Them All | 32.00% | ~9,128 |
+| Got to Catch Them All | 32.00% | ~9,129 |
 | Deep Impact | 23.00% | ~6,561 |
 | Grab Bag | 23.00% | ~6,561 |
 | Feeding Frenzy | 19.00% | ~5,420 |
-| Clothesline | 17.00% | ~4,849 |
+| Clothesline | 17.00% | ~4,850 |
 | Say Cheese! | 15.00% | ~4,279 |
 | Sundae Best | 14.00% | ~3,994 |
 | Live Laugh Hut | 9.00% | ~2,567 |
 | Dapper Capper | 7.00% | ~1,997 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,526 (Ranked 123)  
+Progressed: 28,527 (Ranked 123)  
 Completed: 1,364 (4.78%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 1,364 (4.78%) (Ranked 68)
 | 2023-10-28 | 28,512 | 1,363 |
 | 2023-10-29 | 28,518 | 1,364 |
 | 2023-10-30 | 28,523 | 1,364 |
-| 2023-10-31 | 28,526 | 1,364 |
+| 2023-10-31 | 28,527 | 1,364 |
 ## Awards
 Max (Amazing Storytelling): 41  (Ranked 450)  
-Sum: 350 (Ranked 346)  
+Sum: 351 (Ranked 346)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 104
 | This game has Diverse Characters | 31 |
 | This game is Extremely Fun | 31 |
 | This game is Great for Quick Sessions | 31 |
-| This game has a Creative Community | 29 |
+| This game has a Creative Community | 30 |
 | This game is Relaxing | 27 |
 | This game has Easy Combat | 26 |
 | This game has Obsessive Gameplay | 22 |
@@ -360,4 +360,4 @@ Diff (max vs sum): 104
 | 2023-10-28 | 4.86 | - | 40 | 347 |
 | 2023-10-29 | 4.86 | - | 40 | 348 |
 | 2023-10-30 | 4.86 | - | 41 | 349 |
-| 2023-10-31 | 4.86 | - | 41 | 350 |
+| 2023-10-31 | 4.86 | - | 41 | 351 |

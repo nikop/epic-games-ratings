@@ -6,23 +6,23 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~23,626 |
-| Exploitative | 4.00% | ~18,901 |
-| Point Shooting | 4.00% | ~18,901 |
-| Wet Feet | 4.00% | ~18,901 |
-| High Speed Low Drag | 3.00% | ~14,175 |
-| Lucky | 3.00% | ~14,175 |
-| Stylin' | 3.00% | ~14,175 |
-| Turf War | 3.00% | ~14,175 |
-| Banged | 2.00% | ~9,450 |
-| Checkpoint Victory | 2.00% | ~9,450 |
-| First Blood | 2.00% | ~9,450 |
-| Flaccid Paralysis | 2.00% | ~9,450 |
-| Push Victory | 2.00% | ~9,450 |
-| Self-destructive | 2.00% | ~9,450 |
-| Blindfire | 1.00% | ~4,725 |
-| Ruthless | 1.00% | ~4,725 |
-| Semper Paratus | 1.00% | ~4,725 |
+| Wallbanger | 5.00% | ~23,628 |
+| Exploitative | 4.00% | ~18,902 |
+| Point Shooting | 4.00% | ~18,902 |
+| Wet Feet | 4.00% | ~18,902 |
+| High Speed Low Drag | 3.00% | ~14,177 |
+| Lucky | 3.00% | ~14,177 |
+| Stylin' | 3.00% | ~14,177 |
+| Turf War | 3.00% | ~14,177 |
+| Banged | 2.00% | ~9,451 |
+| Checkpoint Victory | 2.00% | ~9,451 |
+| First Blood | 2.00% | ~9,451 |
+| Flaccid Paralysis | 2.00% | ~9,451 |
+| Push Victory | 2.00% | ~9,451 |
+| Self-destructive | 2.00% | ~9,451 |
+| Blindfire | 1.00% | ~4,726 |
+| Ruthless | 1.00% | ~4,726 |
+| Semper Paratus | 1.00% | ~4,726 |
 | Carrying | 0.90% | ~4,253 |
 | Efficient | 0.90% | ~4,253 |
 | Mount & Gun | 0.90% | ~4,253 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~473 |
 | Road Hazard | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,515 (Ranked 39)  
+Progressed: 472,554 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 2 (0.00%) (Ranked 333)
 | 2023-10-28 | 470,211 | 2 |
 | 2023-10-29 | 471,317 | 2 |
 | 2023-10-30 | 472,069 | 2 |
-| 2023-10-31 | 472,515 | 2 |
+| 2023-10-31 | 472,554 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 394  (Ranked 224)  
 Sum: 3,123 (Ranked 171)  

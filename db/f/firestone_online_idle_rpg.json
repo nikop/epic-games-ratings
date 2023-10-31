@@ -6525,9 +6525,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 250
     },
     {
       "ID": "dragonclicker",
@@ -6645,9 +6645,9 @@
       "ID": "gearenchanting",
       "SetID": "3nl4bcg",
       "Name": "Gear Enchanting",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 83
     },
     {
       "ID": "guardianmaster",
@@ -7038,8 +7038,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-29T20:58:12.1525897+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:04:36.4206589+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:04:47.8668609+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:58:26.3402315+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:04:36.4207896+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:58:09.0394062+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:04:47.8670198+00:00"
 }

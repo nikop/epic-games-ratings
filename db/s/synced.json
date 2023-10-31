@@ -6,9 +6,9 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -909,9 +909,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65286,
+  "EOS_Progressed": 65290,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7364,6 +7364,11 @@
       "Time": "2023-10-31T16:04:42.736345+00:00",
       "NumProgressed": 65286,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-10-31T17:04:55.4249196+00:00",
+      "NumProgressed": 65290,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7376,7 +7381,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 20892
+      "UsersEstimate": 20893
     },
     {
       "ID": "10",
@@ -7448,7 +7453,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8487
+      "UsersEstimate": 8488
     },
     {
       "ID": "4",
@@ -7503,7 +7508,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65286,
+      "Progressed": 65290,
       "Completed": 27
     }
   ],
@@ -7511,8 +7516,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-10-30T10:58:57.2664112+00:00",
-  "LastChanged_Achievements": "2023-10-31T16:04:42.7363444+00:00",
+  "LastChanged_Achievements": "2023-10-31T17:04:55.4249189+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-10-31T15:58:53.5081963+00:00",
-  "LastUpdate_Achievements": "2023-10-31T16:04:42.7363992+00:00"
+  "LastUpdate_Ratings": "2023-10-31T16:58:40.3074111+00:00",
+  "LastUpdate_Achievements": "2023-10-31T17:04:55.4249943+00:00"
 }
