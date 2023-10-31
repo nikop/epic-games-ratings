@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2970,
+  "EOS_Progressed": 2971,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3764,6 +3764,11 @@
       "Time": "2023-10-31T17:05:52.2096848+00:00",
       "NumProgressed": 2970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T19:06:02.133962+00:00",
+      "NumProgressed": 2971,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3808,7 +3813,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "achievement_14",
@@ -3928,7 +3933,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "achievement_9",
@@ -3943,7 +3948,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2970,
+      "Progressed": 2971,
       "Completed": 0
     }
   ],
@@ -3951,8 +3956,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:05:18.8559505+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:06:02.1339615+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-10-31T18:00:24.5631775+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:05:18.8560138+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:01:04.521802+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:06:02.1339909+00:00"
 }

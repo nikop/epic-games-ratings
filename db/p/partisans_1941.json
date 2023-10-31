@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 362,
+  "Ranking_Rating": 361,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1527,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3224,6 +3224,11 @@
       "Time": "2023-10-31T16:08:29.7334823+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T19:08:24.7666295+00:00",
+      "NumProgressed": 1527,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3235,7 +3240,7 @@
       "Name": "Agent 47",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Auditor",
@@ -3251,7 +3256,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Big_Bertha",
@@ -3267,7 +3272,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Commandos",
@@ -3291,7 +3296,7 @@
       "Name": "Unbreakable Wall",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Defense_Epic",
@@ -3315,7 +3320,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "Everyone_is_here",
@@ -3331,7 +3336,7 @@
       "Name": "Experienced Strategist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Game_Over",
@@ -3347,7 +3352,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Hard_Serpent",
@@ -3387,7 +3392,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "KillAllM2",
@@ -3451,7 +3456,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "We_were_not_here",
@@ -3474,15 +3479,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1527,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:08:17.8139704+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:08:24.7666291+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:59:14.284559+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:08:17.8140112+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:59:41.5753778+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:08:24.7666617+00:00"
 }

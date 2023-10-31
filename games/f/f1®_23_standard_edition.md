@@ -1,61 +1,61 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.70 (Ranked 212)  
+Rating: 4.69 (Ranked 228)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 94.00% | ~3,673 |
-| On the Top Step | 88.00% | ~3,438 |
-| Setting up for Success | 77.00% | ~3,008 |
-| Team Orders | 75.00% | ~2,930 |
-| Engineer | 55.00% | ~2,149 |
-| Familiar Faces | 49.00% | ~1,914 |
-| Going the Extra Mile | 43.00% | ~1,680 |
-| Sharing the Love | 41.00% | ~1,602 |
-| Hitting a Season | 39.00% | ~1,524 |
-| Challenge Yourself | 34.00% | ~1,328 |
-| A Dozen Pieces | 32.00% | ~1,250 |
-| Making History | 32.00% | ~1,250 |
-| Writing a new Chapter | 26.00% | ~1,016 |
-| Network Success | 25.00% | ~977 |
-| Spring Cleaning | 24.00% | ~938 |
-| Reduce | 21.00% | ~820 |
-| Ups and Downs | 20.00% | ~781 |
-| Crucial Combo | 19.00% | ~742 |
-| One for the Book | 18.00% | ~703 |
-| Reuse | 17.00% | ~664 |
-| Gathering Dust | 16.00% | ~625 |
-| Proving Them Wrong | 16.00% | ~625 |
-| Oil and Water | 15.00% | ~586 |
-| Hitting a Bullseye | 15.00% | ~586 |
-| Lightning Round the World | 14.00% | ~547 |
-| Eagle Eye | 13.00% | ~508 |
-| Spinning Around | 13.00% | ~508 |
-| All in a Weekend's Work | 12.00% | ~469 |
-| Recycle | 12.00% | ~469 |
-| Switcheroo | 11.00% | ~430 |
-| Tinkerer | 11.00% | ~430 |
-| Friendly Competition | 10.00% | ~391 |
-| Undisputed Winner | 9.00% | ~352 |
-| Living up to Expectations | 7.00% | ~273 |
-| For all Those Back at the Factory | 6.00% | ~234 |
-| Smooth Operator | 6.00% | ~234 |
-| Loyal Bond | 5.00% | ~195 |
-| Peak Performance | 5.00% | ~195 |
-| Hitting a Century | 4.00% | ~156 |
-| Seasoned Rookie | 3.00% | ~117 |
-| Wait, I know you? | 3.00% | ~117 |
+| Getting on the Step | 94.00% | ~3,682 |
+| On the Top Step | 88.00% | ~3,447 |
+| Setting up for Success | 77.00% | ~3,016 |
+| Team Orders | 75.00% | ~2,938 |
+| Engineer | 55.00% | ~2,154 |
+| Familiar Faces | 49.00% | ~1,919 |
+| Going the Extra Mile | 43.00% | ~1,684 |
+| Sharing the Love | 41.00% | ~1,606 |
+| Hitting a Season | 39.00% | ~1,528 |
+| Challenge Yourself | 34.00% | ~1,332 |
+| A Dozen Pieces | 32.00% | ~1,253 |
+| Making History | 32.00% | ~1,253 |
+| Writing a new Chapter | 26.00% | ~1,018 |
+| Network Success | 25.00% | ~979 |
+| Spring Cleaning | 24.00% | ~940 |
+| Reduce | 21.00% | ~823 |
+| Ups and Downs | 20.00% | ~783 |
+| Crucial Combo | 19.00% | ~744 |
+| One for the Book | 18.00% | ~705 |
+| Reuse | 17.00% | ~666 |
+| Gathering Dust | 16.00% | ~627 |
+| Proving Them Wrong | 16.00% | ~627 |
+| Oil and Water | 15.00% | ~588 |
+| Hitting a Bullseye | 15.00% | ~588 |
+| Lightning Round the World | 14.00% | ~548 |
+| Eagle Eye | 13.00% | ~509 |
+| Spinning Around | 13.00% | ~509 |
+| All in a Weekend's Work | 12.00% | ~470 |
+| Recycle | 12.00% | ~470 |
+| Switcheroo | 11.00% | ~431 |
+| Tinkerer | 11.00% | ~431 |
+| Friendly Competition | 10.00% | ~392 |
+| Undisputed Winner | 9.00% | ~353 |
+| Living up to Expectations | 7.00% | ~274 |
+| For all Those Back at the Factory | 6.00% | ~235 |
+| Smooth Operator | 6.00% | ~235 |
+| Loyal Bond | 5.00% | ~196 |
+| Peak Performance | 5.00% | ~196 |
+| Hitting a Century | 4.00% | ~157 |
+| Seasoned Rookie | 3.00% | ~118 |
+| Wait, I know you? | 3.00% | ~118 |
 | Filling in the Gaps | 2.00% | ~78 |
 | Media Darling | 2.00% | ~78 |
 | Under the Microscope | 1.00% | ~39 |
 | Saturday Night Drama | 1.00% | ~39 |
-| Ultimate Collector | 0.60% | ~23 |
+| Ultimate Collector | 0.60% | ~24 |
 | Golden Touch | 0.40% | ~16 |
 | Elite Racer | 0.10% | ~4 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,907 (Ranked 187)  
+Progressed: 3,917 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 3,482 | 0 |
 | 2023-10-29 | 3,634 | 0 |
 | 2023-10-30 | 3,810 | 0 |
-| 2023-10-31 | 3,907 | 0 |
+| 2023-10-31 | 3,917 | 0 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 536)  
 Sum: 20 (Ranked 537)  
@@ -171,3 +171,4 @@ Diff (max vs sum): -1
 | 2023-10-25 | 4.69 | 0 | 0 |
 | 2023-10-28 | 4.70 | 0 | 0 |
 | 2023-10-30 | 4.70 | 20 | 20 |
+| 2023-10-31 | 4.69 | 20 | 20 |

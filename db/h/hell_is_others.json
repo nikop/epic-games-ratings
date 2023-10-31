@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 742,
-  "Ranking_Popularity": 434,
+  "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1159,9 +1159,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257916,
+  "EOS_Progressed": 257919,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20199,6 +20199,11 @@
       "Time": "2023-10-31T18:05:56.5604099+00:00",
       "NumProgressed": 257916,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T19:06:46.4081556+00:00",
+      "NumProgressed": 257919,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20258,7 +20263,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79954
+      "UsersEstimate": 79955
     },
     {
       "ID": "BackHomeNTimes",
@@ -20322,7 +20327,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "CreditLevel3",
@@ -20442,7 +20447,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "KillCrawlingThing",
@@ -20482,7 +20487,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "KillOtherWithMine",
@@ -20657,7 +20662,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257916,
+      "Progressed": 257919,
       "Completed": 3
     }
   ],
@@ -20665,8 +20670,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-30T00:03:12.5174707+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:05:56.5604094+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:06:46.4081551+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:07.0523364+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:57:19.5300795+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:05:56.5606198+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:57:23.0790092+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:06:46.4082829+00:00"
 }

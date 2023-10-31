@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1962,9 +1962,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15070,
+  "EOS_Progressed": 15071,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15127,6 +15127,11 @@
       "Time": "2023-10-31T18:03:06.4073099+00:00",
       "NumProgressed": 15070,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T19:03:21.7809944+00:00",
+      "NumProgressed": 15071,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15776,9 +15781,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -15840,9 +15845,9 @@
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
       "SetID": "9201eeb",
       "Name": "Legendary Cities",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -17873,21 +17878,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15070,
+      "Progressed": 15071,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15070,
+      "Progressed": 15071,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:03:06.4073094+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:03:21.7809938+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:58:28.7454181+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:03:06.4089822+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:58:44.6735139+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:03:21.7819745+00:00"
 }

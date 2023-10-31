@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3270,
+  "EOS_Progressed": 3271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5503,6 +5503,11 @@
       "Time": "2023-10-31T05:07:00.0411992+00:00",
       "NumProgressed": 3270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T19:05:17.2108047+00:00",
+      "NumProgressed": 3271,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5810,7 +5815,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ACH_BASE_49",
@@ -5898,7 +5903,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_BASE_60",
@@ -5969,13 +5974,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1453,
+      "Progressed": 1454,
       "Completed": 8
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3270,
+      "Progressed": 3271,
       "Completed": 0
     }
   ],
@@ -5983,8 +5988,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:04:41.8312256+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:05:17.2108041+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:19.5860477+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:58:10.2356314+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:04:41.8313145+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:58:20.4270856+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:05:17.2108997+00:00"
 }

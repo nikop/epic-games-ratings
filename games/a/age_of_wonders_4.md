@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 407)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,259 (Ranked 181)  
+Progressed: 5,260 (Ranked 181)  
 Completed: 6 (0.11%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.11%) (Ranked 258)
 | 2023-10-28 | 5,249 | 6 |
 | 2023-10-29 | 5,250 | 6 |
 | 2023-10-30 | 5,254 | 6 |
-| 2023-10-31 | 5,259 | 6 |
+| 2023-10-31 | 5,260 | 6 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 497)  
 Sum: 28 (Ranked 509)  

@@ -22,7 +22,7 @@
 | Troubleshooter | 11.00% | ~53 |
 | Money Swag | 8.00% | ~38 |
 | Oops | 8.00% | ~38 |
-| Shield Crusher | 7.00% | ~34 |
+| Shield Crusher | 8.00% | ~38 |
 | Treasure Hunter | 7.00% | ~34 |
 | Explorer | 6.00% | ~29 |
 | Trio | 6.00% | ~29 |

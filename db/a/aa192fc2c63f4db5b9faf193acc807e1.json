@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -159,17 +159,17 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytaleach11",
@@ -270,8 +270,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:09:10.9277024+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:09:28.3737701+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.1412888+00:00",
-  "LastUpdate_Ratings": "2023-10-31T18:00:34.6868674+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:09:10.9277149+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:01:16.4138188+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:09:28.3737801+00:00"
 }

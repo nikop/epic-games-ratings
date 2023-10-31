@@ -7359,7 +7359,7 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 716076,
+  "EOS_Progressed": 716077,
   "EOS_Completed": 12928,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
@@ -24459,6 +24459,11 @@
       "Time": "2023-10-31T18:04:32.2537776+00:00",
       "NumProgressed": 716076,
       "NumCompleted": 12928
+    },
+    {
+      "Time": "2023-10-31T19:05:05.6012305+00:00",
+      "NumProgressed": 716077,
+      "NumCompleted": 12928
     }
   ],
   "TotalAchievements": 60,
@@ -24572,9 +24577,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2864
     },
     {
       "ID": "15_Detective_H1",
@@ -24620,9 +24625,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2864
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -24949,21 +24954,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25377,
+      "Progressed": 25378,
       "Completed": 10727
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716076,
+      "Progressed": 716077,
       "Completed": 12928
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-31T05:59:41.7182582+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:04:32.2537772+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:05:05.6012297+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2233354+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:58:58.4710073+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:04:32.2543137+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:59:24.2498707+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:05:05.6013259+00:00"
 }

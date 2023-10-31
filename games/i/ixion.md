@@ -12,12 +12,12 @@ Rating: 4.57 (Ranked 465)
 | Space Society | 17.00% | ~556 |
 | A Thousand Strong | 17.00% | ~556 |
 | Ready for a New World | 17.00% | ~556 |
-| Permanent Redesigns | 15.00% | ~490 |
+| Permanent Redesigns | 15.00% | ~491 |
 | Fully Recycled | 14.00% | ~458 |
 | The Ship of Theseus | 14.00% | ~458 |
 | Guy de Borderlands | 13.00% | ~425 |
 | Ain't Nobody Got Time for That | 13.00% | ~425 |
-| Hope Seeker | 12.00% | ~392 |
+| Hope Seeker | 12.00% | ~393 |
 | Exceeding Capacity | 11.00% | ~360 |
 | Breaking Protocol | 11.00% | ~360 |
 | A Hunk of Junk | 10.00% | ~327 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 465)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,270 (Ranked 199)  
+Progressed: 3,271 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-26 | 3,260 | 0 |
 | 2023-10-27 | 3,265 | 0 |
 | 2023-10-28 | 3,268 | 0 |
-| 2023-10-31 | 3,270 | 0 |
+| 2023-10-31 | 3,271 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

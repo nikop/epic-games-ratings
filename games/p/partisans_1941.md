@@ -1,20 +1,20 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 362)  
+Rating: 4.62 (Ranked 361)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 42.00% | ~640 |
-| War Never Changes | 42.00% | ~640 |
-| Grenadier | 41.00% | ~625 |
+| E1M1 | 42.00% | ~641 |
+| War Never Changes | 42.00% | ~641 |
+| Grenadier | 41.00% | ~626 |
 | Heroes Never Die | 38.00% | ~580 |
 | Mosquito bite | 35.00% | ~534 |
-| Spice It Up | 32.00% | ~488 |
+| Spice It Up | 32.00% | ~489 |
 | Bomberman | 27.00% | ~412 |
-| Agent 47 | 26.00% | ~396 |
-| You're Gonna Go Far, Kid | 26.00% | ~396 |
+| Agent 47 | 26.00% | ~397 |
+| You're Gonna Go Far, Kid | 26.00% | ~397 |
 | Death to the Oppressor! | 19.00% | ~290 |
 | The Gang's All Here | 16.00% | ~244 |
 | Your Answer | 15.00% | ~229 |
@@ -25,9 +25,9 @@ Number of Ratings: 98  (23.09.2022)
 | Payback Time | 7.00% | ~107 |
 | No Witness | 5.00% | ~76 |
 | Strategist | 5.00% | ~76 |
-| Do a Barrel Roll! | 2.00% | ~30 |
-| Unbreakable Wall | 2.00% | ~30 |
-| Experienced Strategist | 2.00% | ~30 |
+| Do a Barrel Roll! | 2.00% | ~31 |
+| Unbreakable Wall | 2.00% | ~31 |
+| Experienced Strategist | 2.00% | ~31 |
 | How?! | 1.00% | ~15 |
 | Tough as Nails | 0.50% | ~8 |
 | Commandos | 0.30% | ~5 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,525 (Ranked 228)  
+Progressed: 1,527 (Ranked 228)  
 Completed: 1 (0.07%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 1 (0.07%) (Ranked 278)
 | 2023-10-28 | 1,509 | 1 |
 | 2023-10-29 | 1,517 | 1 |
 | 2023-10-30 | 1,522 | 1 |
-| 2023-10-31 | 1,525 | 1 |
+| 2023-10-31 | 1,527 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

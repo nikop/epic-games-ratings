@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 44.00% | ~836 |
-| First Love | 42.00% | ~798 |
+| First Love | 43.00% | ~817 |
 | Clean Race | 41.00% | ~779 |
 | Hear That Roar! | 38.00% | ~722 |
 | Rivals to the End | 29.00% | ~551 |
@@ -40,7 +40,7 @@
 | I Don't Stop | 1.00% | ~19 |
 | Exhausted but Happy | 0.70% | ~13 |
 | In Search of Perfection | 0.60% | ~11 |
-| Globe-trotter | 0.50% | ~9 |
+| Globe-trotter | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,899 (Ranked 218)  
+Progressed: 1,900 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,4 +114,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 1,818 | 0 |
 | 2023-10-29 | 1,861 | 0 |
 | 2023-10-30 | 1,878 | 0 |
-| 2023-10-31 | 1,899 | 0 |
+| 2023-10-31 | 1,900 | 0 |

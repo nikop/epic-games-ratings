@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1412,7 +1412,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130316,
+  "EOS_Progressed": 130317,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
@@ -20617,6 +20617,11 @@
       "Time": "2023-10-31T18:03:48.8935285+00:00",
       "NumProgressed": 130316,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-31T19:04:13.1094165+00:00",
+      "NumProgressed": 130317,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20652,7 +20657,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "ACH_COP_ART",
@@ -20676,7 +20681,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11728
+      "UsersEstimate": 11729
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -20708,7 +20713,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36488
+      "UsersEstimate": 36489
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20740,7 +20745,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27366
+      "UsersEstimate": 27367
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -20852,7 +20857,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -20947,15 +20952,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130316,
+      "Progressed": 130317,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-29T06:02:11.366846+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:03:48.893528+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:04:13.109416+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-10-31T18:02:40.5648206+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:03:48.8936905+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:02:44.5116552+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:04:13.1095328+00:00"
 }

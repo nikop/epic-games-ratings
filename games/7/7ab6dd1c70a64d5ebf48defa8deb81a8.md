@@ -37,12 +37,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -2.60% | ~-1 |
-| Flawless Victory | -2.60% | ~-1 |
-| Big Bazar | -2.60% | ~-1 |
+| Shatterer | -2.50% | ~-1 |
+| Flawless Victory | -2.50% | ~-1 |
+| Big Bazar | -2.50% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 472)  
-Completed: 1 (2.56%) (Ranked 108)  
+Progressed: 40 (Ranked 471)  
+Completed: 1 (2.50%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,4 +65,4 @@ Completed: 1 (2.56%) (Ranked 108)
 | 2023-10-09 | 33 | 1 |
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
-| 2023-10-31 | 39 | 1 |
+| 2023-10-31 | 40 | 1 |

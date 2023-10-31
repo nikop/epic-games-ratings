@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7723,9 +7723,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233321,
+  "EOS_Progressed": 233323,
   "EOS_Completed": 2413,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29418,6 +29418,11 @@
       "Time": "2023-10-31T18:06:02.321113+00:00",
       "NumProgressed": 233321,
       "NumCompleted": 2413
+    },
+    {
+      "Time": "2023-10-31T19:06:53.822639+00:00",
+      "NumProgressed": 233323,
+      "NumCompleted": 2413
     }
   ],
   "TotalAchievements": 528,
@@ -33499,9 +33504,9 @@
       "ID": "objective_completed_1390",
       "SetID": "415jc5c",
       "Name": "Topolah\u0027s Tower",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1391",
@@ -33652,21 +33657,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199595,
+      "Progressed": 199597,
       "Completed": 3724
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233321,
+      "Progressed": 233323,
       "Completed": 2413
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-31T08:58:23.4995935+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:06:02.3211125+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:06:53.8226384+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:58:17.9989981+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:06:02.3243703+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:58:31.1317534+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:06:53.8251842+00:00"
 }

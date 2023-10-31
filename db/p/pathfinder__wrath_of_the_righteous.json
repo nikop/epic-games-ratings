@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 122,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4049,9 +4049,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11957,
+  "EOS_Progressed": 11958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14859,6 +14859,11 @@
       "Time": "2023-10-31T17:05:34.8022746+00:00",
       "NumProgressed": 11957,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T19:05:44.7907992+00:00",
+      "NumProgressed": 11958,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14886,7 +14891,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "04_FithCrusade",
@@ -15797,21 +15802,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10739,
+      "Progressed": 10740,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11957,
+      "Progressed": 11958,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-31T13:57:41.8252457+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:05:04.757414+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:05:44.7907986+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:57:47.7916505+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:05:04.7576844+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:57:54.2304527+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:05:44.7910018+00:00"
 }

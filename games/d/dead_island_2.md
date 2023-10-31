@@ -5,45 +5,45 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,561 |
-| Break A Leg | 5.00% | ~35,468 |
-| Hotel California | 5.00% | ~35,468 |
-| Dr. Reed, I Presume? | 4.00% | ~28,374 |
-| Git Gutte! | 4.00% | ~28,374 |
-| Coup de Grâce | 4.00% | ~28,374 |
-| Hazardous Materials | 4.00% | ~28,374 |
-| Friends Like These | 4.00% | ~28,374 |
-| Apex Predator | 4.00% | ~28,374 |
-| Stacking the Deck | 4.00% | ~28,374 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,374 |
-| Bookworm | 3.00% | ~21,281 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,281 |
-| But Doctor, I am Butcho | 3.00% | ~21,281 |
-| Slayer Squad | 3.00% | ~21,281 |
-| Can't Handle the Truth | 3.00% | ~21,281 |
-| Like Riding a Bike | 3.00% | ~21,281 |
-| Zombologist | 3.00% | ~21,281 |
-| Ooh, Shiny! | 3.00% | ~21,281 |
-| A Patton Emerges | 3.00% | ~21,281 |
-| I Am the Resurrection | 3.00% | ~21,281 |
-| Our True Nature | 3.00% | ~21,281 |
-| This is My Weapon | 3.00% | ~21,281 |
-| Making Your Mark | 2.00% | ~14,187 |
-| Anger Management | 2.00% | ~14,187 |
-| Perks of the Job | 2.00% | ~14,187 |
-| Humanity Distilled | 2.00% | ~14,187 |
-| Down with the Sickness | 2.00% | ~14,187 |
-| Max Headroom | 2.00% | ~14,187 |
+| Welcome To Hell-A | 6.00% | ~42,565 |
+| Break A Leg | 5.00% | ~35,471 |
+| Hotel California | 5.00% | ~35,471 |
+| Dr. Reed, I Presume? | 4.00% | ~28,377 |
+| Git Gutte! | 4.00% | ~28,377 |
+| Coup de Grâce | 4.00% | ~28,377 |
+| Hazardous Materials | 4.00% | ~28,377 |
+| Friends Like These | 4.00% | ~28,377 |
+| Apex Predator | 4.00% | ~28,377 |
+| Stacking the Deck | 4.00% | ~28,377 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,377 |
+| Bookworm | 3.00% | ~21,282 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,282 |
+| But Doctor, I am Butcho | 3.00% | ~21,282 |
+| Slayer Squad | 3.00% | ~21,282 |
+| Can't Handle the Truth | 3.00% | ~21,282 |
+| Like Riding a Bike | 3.00% | ~21,282 |
+| Zombologist | 3.00% | ~21,282 |
+| Ooh, Shiny! | 3.00% | ~21,282 |
+| A Patton Emerges | 3.00% | ~21,282 |
+| I Am the Resurrection | 3.00% | ~21,282 |
+| Our True Nature | 3.00% | ~21,282 |
+| This is My Weapon | 3.00% | ~21,282 |
+| Making Your Mark | 2.00% | ~14,188 |
+| Anger Management | 2.00% | ~14,188 |
+| Perks of the Job | 2.00% | ~14,188 |
+| Humanity Distilled | 2.00% | ~14,188 |
+| Down with the Sickness | 2.00% | ~14,188 |
+| Max Headroom | 2.00% | ~14,188 |
 | Smorgasbord | 1.00% | ~7,094 |
 | Not Even My Final Form | 1.00% | ~7,094 |
 | Internet Famous | 1.00% | ~7,094 |
 | Jumbo Keyring | 1.00% | ~7,094 |
 | Go, Bobcats! | 1.00% | ~7,094 |
 | Rising Star | 1.00% | ~7,094 |
-| On Safari | 0.90% | ~6,384 |
-| Variety is the Spice of Death | 0.90% | ~6,384 |
+| On Safari | 0.90% | ~6,385 |
+| Variety is the Spice of Death | 0.90% | ~6,385 |
 | Make it So | 0.80% | ~5,675 |
-| LA Influential | 0.70% | ~4,965 |
+| LA Influential | 0.70% | ~4,966 |
 | Gore Horse | 0.60% | ~4,256 |
 | Sharpest Tool in the Box | 0.60% | ~4,256 |
 | Sole Survivor | 0.50% | ~3,547 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 521)
 | Donk! | 0.20% | ~1,419 |
 | Bucket List | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,354 (Ranked 22)  
+Progressed: 709,414 (Ranked 22)  
 Completed: 2,291 (0.32%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 2,291 (0.32%) (Ranked 212)
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
-| 2023-10-31 | 709,354 | 2,291 |
+| 2023-10-31 | 709,414 | 2,291 |
 ## Awards
 Max (Great Boss Battles): 6,773  (Ranked 54)  
-Sum: 10,205 (Ranked 90)  
+Sum: 10,209 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 412 |
 | This game is Highly Recommended | 400 |
 | This game is Extremely Fun | 387 |
-| This game has Amazing Characters | 371 |
+| This game has Amazing Characters | 375 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -457,4 +457,4 @@ Diff (max vs sum): -36
 | 2023-10-28 | 4.54 | 6,701 | 10,088 |
 | 2023-10-29 | 4.54 | 6,730 | 10,135 |
 | 2023-10-30 | 4.54 | 6,756 | 10,182 |
-| 2023-10-31 | 4.54 | 6,773 | 10,205 |
+| 2023-10-31 | 4.54 | 6,773 | 10,209 |

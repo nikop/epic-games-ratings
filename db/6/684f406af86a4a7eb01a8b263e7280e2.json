@@ -4,8 +4,8 @@
   "ProductSlug": "galactic-empire-f23125",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-03-09T00:00:00+00:00",
@@ -28,9 +28,547 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-10-31T19:04:03.5721145+00:00",
+  "TotalAchievements": 67,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "a0",
+      "SetID": "4m616mc",
+      "Name": "The makings of a Scientist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a1",
+      "SetID": "4m616mc",
+      "Name": "Crazy Scientist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a10",
+      "SetID": "4m616mc",
+      "Name": "Skyscraper",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a11",
+      "SetID": "4m616mc",
+      "Name": "Economic Freak",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a12",
+      "SetID": "4m616mc",
+      "Name": "The largest City of the Universe",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a13",
+      "SetID": "4m616mc",
+      "Name": "For a Rainy Day - Basic building material",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a14",
+      "SetID": "4m616mc",
+      "Name": "Support Group \u2013 Architects",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a15",
+      "SetID": "4m616mc",
+      "Name": "Just take a peek",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a16",
+      "SetID": "4m616mc",
+      "Name": "My Legend",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a17",
+      "SetID": "4m616mc",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a18",
+      "SetID": "4m616mc",
+      "Name": "Combo Deck",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a19",
+      "SetID": "4m616mc",
+      "Name": "Pawn",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a2",
+      "SetID": "4m616mc",
+      "Name": "Preparations for battle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a20",
+      "SetID": "4m616mc",
+      "Name": "Normals",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a21",
+      "SetID": "4m616mc",
+      "Name": "Hey, it\u0027s ours!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a22",
+      "SetID": "4m616mc",
+      "Name": "Madman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a23",
+      "SetID": "4m616mc",
+      "Name": "Mr. Builder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a24",
+      "SetID": "4m616mc",
+      "Name": "Mr. Wise",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a25",
+      "SetID": "4m616mc",
+      "Name": "Mr. Strong",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a26",
+      "SetID": "4m616mc",
+      "Name": "Precious, my precious!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a27",
+      "SetID": "4m616mc",
+      "Name": "Everyone\u0027s friend",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a28",
+      "SetID": "4m616mc",
+      "Name": "The road to the Death Star",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a29",
+      "SetID": "4m616mc",
+      "Name": "Calculator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a3",
+      "SetID": "4m616mc",
+      "Name": "Technological Gem",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a30",
+      "SetID": "4m616mc",
+      "Name": "World is Yours",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a31",
+      "SetID": "4m616mc",
+      "Name": "Quick Shot",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a32",
+      "SetID": "4m616mc",
+      "Name": "Millionaire",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a33",
+      "SetID": "4m616mc",
+      "Name": "My first savings",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a34",
+      "SetID": "4m616mc",
+      "Name": "What\u0027s the \u0022K\u0022?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a35",
+      "SetID": "4m616mc",
+      "Name": "Grandfather inheritance",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a36",
+      "SetID": "4m616mc",
+      "Name": "Turning the counters",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a37",
+      "SetID": "4m616mc",
+      "Name": "Smoothly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a38",
+      "SetID": "4m616mc",
+      "Name": "I didn\u0027t vote for you",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a39",
+      "SetID": "4m616mc",
+      "Name": "Propaganda Man",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a4",
+      "SetID": "4m616mc",
+      "Name": "Wonders of the Future",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a40",
+      "SetID": "4m616mc",
+      "Name": "This one likes it ...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a41",
+      "SetID": "4m616mc",
+      "Name": "What\u0027s for dinner?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a42",
+      "SetID": "4m616mc",
+      "Name": "American Diet",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a43",
+      "SetID": "4m616mc",
+      "Name": "Trick or treat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a44",
+      "SetID": "4m616mc",
+      "Name": "Home alone",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a45",
+      "SetID": "4m616mc",
+      "Name": "Air conditioning could be use",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a46",
+      "SetID": "4m616mc",
+      "Name": "It won\u0027t be colder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a47",
+      "SetID": "4m616mc",
+      "Name": "I - Kardashov scale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a48",
+      "SetID": "4m616mc",
+      "Name": "II - Kardashov scale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a49",
+      "SetID": "4m616mc",
+      "Name": "III - Kardashov scale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a5",
+      "SetID": "4m616mc",
+      "Name": "Support Group \u2013 Scientists",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a50",
+      "SetID": "4m616mc",
+      "Name": "IV - Kardashov scale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a51",
+      "SetID": "4m616mc",
+      "Name": "V - Kardashov scale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a52",
+      "SetID": "4m616mc",
+      "Name": "VI - Kardashov scale",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a53",
+      "SetID": "4m616mc",
+      "Name": "VII - Kardashov scale",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a54",
+      "SetID": "4m616mc",
+      "Name": "Beginner Pilot",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a55",
+      "SetID": "4m616mc",
+      "Name": "Combat chic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a56",
+      "SetID": "4m616mc",
+      "Name": "Fleet Commander",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a57",
+      "SetID": "4m616mc",
+      "Name": "Support Group \u2013 Generals",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a58",
+      "SetID": "4m616mc",
+      "Name": "Critic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a59",
+      "SetID": "4m616mc",
+      "Name": "Death Star",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a6",
+      "SetID": "4m616mc",
+      "Name": "Plan Tester",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a60",
+      "SetID": "4m616mc",
+      "Name": "The makings of an RPG",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a61",
+      "SetID": "4m616mc",
+      "Name": "It can\u0027t do more",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a62",
+      "SetID": "4m616mc",
+      "Name": "First class Architect",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a63",
+      "SetID": "4m616mc",
+      "Name": "Scientist out of this world",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a64",
+      "SetID": "4m616mc",
+      "Name": "General of the Empire",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a65",
+      "SetID": "4m616mc",
+      "Name": "Da Vinci",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a66",
+      "SetID": "4m616mc",
+      "Name": "From Zero To Hero",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a7",
+      "SetID": "4m616mc",
+      "Name": "I don\u0027t think it will collapse",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a8",
+      "SetID": "4m616mc",
+      "Name": "Apartment building",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "a9",
+      "SetID": "4m616mc",
+      "Name": "High-rise",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4m616mc",
@@ -40,8 +578,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-29T19:02:56.789919+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:03:41.1338778+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:04:03.572113+00:00",
   "LastUpdate_AppInfo": "2023-10-29T18:57:00.6887943+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:57:39.4307304+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:03:41.1338814+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:57:43.9712723+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:04:03.5757057+00:00"
 }

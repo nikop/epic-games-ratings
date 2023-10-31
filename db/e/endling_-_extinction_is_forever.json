@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2023-10-27T02:25:37.3750624+00:00",
       "NumProgressed": 516,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T19:09:35.8501279+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -793,7 +798,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "TROP002",
@@ -841,7 +846,7 @@
       "Name": "Family Reunion",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TROP008",
@@ -849,7 +854,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "TROP009",
@@ -881,7 +886,7 @@
       "Name": "Never Give Up",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "TROP013",
@@ -905,7 +910,7 @@
       "Name": "For a Better Tomorrow",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "TROP016",
@@ -937,7 +942,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TROP020",
@@ -985,7 +990,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "TROP026",
@@ -1008,7 +1013,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 3
     }
   ],
@@ -1016,8 +1021,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-10-31T18:09:17.31264+00:00",
+  "LastChanged_Achievements": "2023-10-31T19:09:35.8501272+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.3335592+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:58:37.7295355+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:09:17.312668+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:58:57.6552445+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:09:35.8501477+00:00"
 }

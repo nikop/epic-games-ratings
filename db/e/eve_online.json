@@ -2,13 +2,13 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2003-05-06T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "NumberOfRatings": 1408,
   "RatingHistory": [
     {
@@ -2656,10 +2656,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 2436,
       "NumberOfAwardsMax": 1113
+    },
+    {
+      "Time": "2023-10-31T18:58:34.6010924+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2437,
+      "NumberOfAwardsMax": 1113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2436,
+  "NumberOfAwards": 2437,
   "NumberOfAwardsMax": 1113,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2685,7 +2691,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2741,8 +2747,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2023-10-31T17:58:20.5462435+00:00",
+  "LastChanged": "2023-10-31T18:58:34.601092+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:16.4042824+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:58:20.5462441+00:00",
-  "LastUpdate_Achievements": "2023-10-31T18:05:13.4394392+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:58:34.6010929+00:00",
+  "LastUpdate_Achievements": "2023-10-31T19:05:55.0125949+00:00"
 }

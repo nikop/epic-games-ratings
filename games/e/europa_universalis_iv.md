@@ -1,20 +1,20 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 229)  
+Rating: 4.69 (Ranked 228)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,752 |
-| Until death do us apart | 4.00% | ~17,752 |
-| Victorious! | 4.00% | ~17,752 |
-| That's a Grand Navy | 3.00% | ~13,314 |
-| That is mine! | 3.00% | ~13,314 |
-| Brothers in Arms | 2.00% | ~8,876 |
-| Cold War | 2.00% | ~8,876 |
-| For the Glory | 2.00% | ~8,876 |
-| Seriously?! | 2.00% | ~8,876 |
+| That's a Grand Army | 4.00% | ~17,753 |
+| Until death do us apart | 4.00% | ~17,753 |
+| Victorious! | 4.00% | ~17,753 |
+| That's a Grand Navy | 3.00% | ~13,315 |
+| That is mine! | 3.00% | ~13,315 |
+| Brothers in Arms | 2.00% | ~8,877 |
+| Cold War | 2.00% | ~8,877 |
+| For the Glory | 2.00% | ~8,877 |
+| Seriously?! | 2.00% | ~8,877 |
 | Defender of the Faith | 1.00% | ~4,438 |
 | It's all about luck | 1.00% | ~4,438 |
 | It's all about the money | 1.00% | ~4,438 |
@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,438 |
 | True Catholic | 1.00% | ~4,438 |
 | Truly Divine Ruler | 1.00% | ~4,438 |
-| Blockader | 0.90% | ~3,994 |
-| Double the Love | 0.80% | ~3,550 |
-| Royal Authority | 0.80% | ~3,550 |
-| Total Control | 0.80% | ~3,550 |
+| Blockader | 0.90% | ~3,995 |
+| Double the Love | 0.80% | ~3,551 |
+| Royal Authority | 0.80% | ~3,551 |
+| Total Control | 0.80% | ~3,551 |
 | My armies are invincible! | 0.70% | ~3,107 |
 | Agressive Expander | 0.60% | ~2,663 |
 | Azur semé de lis or | 0.50% | ~2,219 |
@@ -40,12 +40,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.40% | ~1,775 |
 | The Five Colonies | 0.40% | ~1,775 |
 | Trustworthy | 0.40% | ~1,775 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,331 |
-| Down Under | 0.30% | ~1,331 |
-| Electable! | 0.30% | ~1,331 |
-| A Golden Empire | 0.30% | ~1,331 |
-| Market Control | 0.30% | ~1,331 |
-| Populists in Government | 0.30% | ~1,331 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,332 |
+| Down Under | 0.30% | ~1,332 |
+| Electable! | 0.30% | ~1,332 |
+| A Golden Empire | 0.30% | ~1,332 |
+| Market Control | 0.30% | ~1,332 |
+| Populists in Government | 0.30% | ~1,332 |
 | Absolutely | 0.20% | ~888 |
 | All belongs to Mother Russia | 0.20% | ~888 |
 | At every continent | 0.20% | ~888 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443,789 (Ranked 41)  
+Progressed: 443,834 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 441,735 | 1 |
 | 2023-10-29 | 442,673 | 1 |
 | 2023-10-30 | 443,336 | 1 |
-| 2023-10-31 | 443,789 | 1 |
+| 2023-10-31 | 443,834 | 1 |
 ## Awards
 Max (Educational): 6,765  (Ranked 55)  
 Sum: 55,566 (Ranked 24)  
