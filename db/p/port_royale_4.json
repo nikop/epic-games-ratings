@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2601,9 +2601,9 @@
       "ID": "ACH009",
       "SetID": "69nfp41",
       "Name": "Capitalist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH010",
@@ -2937,8 +2937,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-10-21T17:04:58.5198566+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:08:25.2106077+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:10:06.7326261+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.9549124+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:59:20.3791602+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:08:25.2106709+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:59:42.5889176+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:10:06.7326841+00:00"
 }

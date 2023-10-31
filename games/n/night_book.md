@@ -16,8 +16,8 @@
 | A Little Extra | 15.00% | ~35 |
 | Unhelpful | 13.00% | ~31 |
 | Pearce | 12.00% | ~28 |
+| The Marriage Is Off | 11.00% | ~26 |
 | Use Your Connections | 11.00% | ~26 |
-| The Marriage Is Off | 10.00% | ~24 |
 | Horrific | 7.00% | ~16 |
 | Hopeful | 6.00% | ~14 |
 | Shady Truth | 6.00% | ~14 |

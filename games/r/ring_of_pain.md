@@ -7,10 +7,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Thank You, Friend | 0.10% | ~239 |
+| Achievement Hunter | 0.10% | ~239 |
 | Ambitious Intent | 0.10% | ~239 |
 | Quick Descent | 0.10% | ~239 |
 | First Steps | 0.10% | ~239 |
 | Nothing To Lose | 0.10% | ~239 |
+| Shadow Spreads | 0.10% | ~239 |
 | Challenge Increases | 0.10% | ~239 |
 | Max Damage! | 0.10% | ~239 |
 | Delving Deeper | 0.10% | ~239 |
@@ -20,24 +22,34 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.10% | ~239 |
 | To The Death! | 0.10% | ~239 |
 | New Game+ | 0.10% | ~239 |
+| That Was Quick | 0.10% | ~239 |
 | Colorful Corpse | 0.10% | ~239 |
+| Dig Your Own Grave | 0.10% | ~239 |
 | Friend of Vermin | 0.10% | ~239 |
 | Well Prepared | 0.10% | ~239 |
 | Who To Trust? | 0.10% | ~239 |
+| Hanging On | 0.10% | ~239 |
 | Walk It Off | 0.10% | ~239 |
+| Barbecue | 0.10% | ~239 |
+| Explosive Betrayal | 0.10% | ~239 |
 | Just Chilling | 0.10% | ~239 |
 | Cold Hearted | 0.10% | ~239 |
 | I Am Overburdened | 0.10% | ~239 |
+| Soul Stash | 0.10% | ~239 |
 | Powerful Potion | 0.10% | ~239 |
 | Berzerker | 0.10% | ~239 |
 | Gigantic | 0.10% | ~239 |
+| Predator | 0.10% | ~239 |
+| Here Comes The Airplane | 0.10% | ~239 |
 | Save Our Souls | 0.10% | ~239 |
+| Resourceful | 0.10% | ~239 |
 | Defeat The Dark | 0.10% | ~239 |
 | The Bestiary | 0.10% | ~239 |
 | The Boulder | 0.10% | ~239 |
 | Don't Ignore Me! | 0.10% | ~239 |
 | All Consuming | 0.10% | ~239 |
 | Goodbye, Frog Friend | 0.10% | ~239 |
+| Heartless | 0.10% | ~239 |
 | What's Yours Is Mine | 0.10% | ~239 |
 | Stop Hitting Yourself | 0.10% | ~239 |
 | Spine Breaker | 0.10% | ~239 |
@@ -45,11 +57,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Rock And A Hard Place | 0.10% | ~239 |
 | Illuminate, Eliminate | 0.10% | ~239 |
 | A Donation | 0.10% | ~239 |
+| Chain Reaction | 0.10% | ~239 |
 | C-C-Combo | 0.10% | ~239 |
+| No Mercy | 0.10% | ~239 |
 | Deflection | 0.10% | ~239 |
+| Just Looking Around | 0.10% | ~239 |
 | Stone Touch | 0.10% | ~239 |
 | Doing Time | 0.10% | ~239 |
 | Toxic | 0.10% | ~239 |
+| Acid Bath | 0.10% | ~239 |
 | Decisions, Decisions | 0.10% | ~239 |
 | Fragile Mortality | 0.10% | ~239 |
 | New Perspectives | 0.10% | ~239 |
@@ -84,29 +100,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
-| Achievement Hunter | 0.00% | ~0 |
 | Consecutive Curses | 0.00% | ~0 |
 | A Week Attempt | 0.00% | ~0 |
-| Shadow Spreads | 0.00% | ~0 |
 | Heavy Hitter | 0.00% | ~0 |
 | A Long Climb | 0.00% | ~0 |
 | Getting A Glimpse | 0.00% | ~0 |
 | Dead Revels | 0.00% | ~0 |
-| That Was Quick | 0.00% | ~0 |
-| Dig Your Own Grave | 0.00% | ~0 |
-| Hanging On | 0.00% | ~0 |
-| Barbecue | 0.00% | ~0 |
-| Explosive Betrayal | 0.00% | ~0 |
 | A Hard Carry | 0.00% | ~0 |
 | Grave Digger | 0.00% | ~0 |
-| Soul Stash | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Willing the World | 0.00% | ~0 |
 | Juggernaut | 0.00% | ~0 |
 | Power Score | 0.00% | ~0 |
-| Predator | 0.00% | ~0 |
-| Here Comes The Airplane | 0.00% | ~0 |
-| Resourceful | 0.00% | ~0 |
 | Become The Nightmare | 0.00% | ~0 |
 | Destroy Your Fears | 0.00% | ~0 |
 | Trail Of Death | 0.00% | ~0 |
@@ -114,19 +119,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Blizzard | 0.00% | ~0 |
 | Overthrown | 0.00% | ~0 |
 | Poor Choices | 0.00% | ~0 |
-| Heartless | 0.00% | ~0 |
 | Not What I Meant | 0.00% | ~0 |
 | Illuminate, Annihilate | 0.00% | ~0 |
 | Path To Enlightenment | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
-| Chain Reaction | 0.00% | ~0 |
 | Master of Strategy | 0.00% | ~0 |
-| No Mercy | 0.00% | ~0 |
 | Good Boys | 0.00% | ~0 |
-| Just Looking Around | 0.00% | ~0 |
 | A Quick Escape | 0.00% | ~0 |
 | Spreading Plague | 0.00% | ~0 |
-| Acid Bath | 0.00% | ~0 |
 | Need An Antidote? | 0.00% | ~0 |
 | Antivenom | 0.00% | ~0 |
 | Sprinter | 0.00% | ~0 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.00% | ~0 |
 | You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,869 (Ranked 59)  
+Progressed: 238,871 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,869 | 286 |
+| 2023-10-31 | 238,871 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

@@ -3,9 +3,9 @@
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 502,
-  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 24,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 21,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -134,6 +134,11 @@
       "Time": "2023-10-31T05:11:18.0974513+00:00",
       "NumProgressed": 24,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T07:11:06.9907071+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -144,17 +149,17 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytaleach11",
@@ -168,9 +173,9 @@
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytaleach13",
@@ -192,41 +197,41 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 33,
-      "XP": 75,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "creepytaleach4",
-      "SetID": "bnif31p",
-      "Name": "Dominance",
-      "Percentage": 21,
-      "XP": 80,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "creepytaleach5",
-      "SetID": "bnif31p",
-      "Name": "Incorrigible researcher",
       "Percentage": 38,
       "XP": 75,
       "UsersEstimate": 9
     },
     {
+      "ID": "creepytaleach4",
+      "SetID": "bnif31p",
+      "Name": "Dominance",
+      "Percentage": 25,
+      "XP": 80,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "creepytaleach5",
+      "SetID": "bnif31p",
+      "Name": "Incorrigible researcher",
+      "Percentage": 42,
+      "XP": 75,
+      "UsersEstimate": 10
+    },
+    {
       "ID": "creepytaleach6",
       "SetID": "bnif31p",
       "Name": "Dead together",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytaleach8",
@@ -250,13 +255,13 @@
       "ID": "bnif31p",
       "IsBase": true,
       "Progressed": 24,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:09:44.5529584+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:11:06.9907066+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.1412888+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:02:16.0715742+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:09:44.5529715+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:03:23.8274964+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:11:06.9907177+00:00"
 }

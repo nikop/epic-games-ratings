@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -435,10 +435,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3123,
+  "EOS_Progressed": 3124,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 90,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 91,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
@@ -4285,6 +4285,11 @@
       "Time": "2023-10-31T03:07:30.1846425+00:00",
       "NumProgressed": 3123,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2023-10-31T07:09:41.1480509+00:00",
+      "NumProgressed": 3124,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 14,
@@ -4296,7 +4301,7 @@
       "Name": "Ancient Curse",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -4304,7 +4309,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -4360,7 +4365,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4407,7 +4412,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3123,
+      "Progressed": 3124,
       "Completed": 125
     }
   ],
@@ -4415,8 +4420,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-26T10:01:17.7093273+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:08:04.2746765+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:09:41.1480505+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:02:31.5014767+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:08:04.2747183+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:03:39.1938714+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:09:41.1480848+00:00"
 }

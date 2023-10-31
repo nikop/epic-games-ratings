@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -332,9 +332,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:03:59.6038516+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:05:27.2958627+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:03:36.7298188+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:03:59.6039004+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:04:58.9274578+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:05:27.2959082+00:00"
 }

@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 5.00% | ~35,448 |
-| Hotel California | 5.00% | ~35,448 |
-| Welcome To Hell-A | 5.00% | ~35,448 |
+| Break A Leg | 5.00% | ~35,449 |
+| Hotel California | 5.00% | ~35,449 |
+| Welcome To Hell-A | 5.00% | ~35,449 |
 | Git Gutte! | 4.00% | ~28,359 |
 | Coup de Grâce | 4.00% | ~28,359 |
 | Hazardous Materials | 4.00% | ~28,359 |
@@ -28,12 +28,12 @@ Rating: 4.54 (Ranked 520)
 | I Am the Resurrection | 3.00% | ~21,269 |
 | Our True Nature | 3.00% | ~21,269 |
 | This is My Weapon | 3.00% | ~21,269 |
-| Making Your Mark | 2.00% | ~14,179 |
-| Anger Management | 2.00% | ~14,179 |
-| Perks of the Job | 2.00% | ~14,179 |
-| Humanity Distilled | 2.00% | ~14,179 |
-| Down with the Sickness | 2.00% | ~14,179 |
-| Max Headroom | 2.00% | ~14,179 |
+| Making Your Mark | 2.00% | ~14,180 |
+| Anger Management | 2.00% | ~14,180 |
+| Perks of the Job | 2.00% | ~14,180 |
+| Humanity Distilled | 2.00% | ~14,180 |
+| Down with the Sickness | 2.00% | ~14,180 |
+| Max Headroom | 2.00% | ~14,180 |
 | Smorgasbord | 1.00% | ~7,090 |
 | Not Even My Final Form | 1.00% | ~7,090 |
 | Internet Famous | 1.00% | ~7,090 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 520)
 | Donk! | 0.20% | ~1,418 |
 | Bucket List | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 708,963 (Ranked 22)  
-Completed: 2,286 (0.32%) (Ranked 212)  
+Progressed: 708,978 (Ranked 22)  
+Completed: 2,287 (0.32%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -245,7 +245,7 @@ Completed: 2,286 (0.32%) (Ranked 212)
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
-| 2023-10-31 | 708,963 | 2,286 |
+| 2023-10-31 | 708,978 | 2,287 |
 ## Awards
 Max (Great Boss Battles): 6,756  (Ranked 54)  
 Sum: 10,182 (Ranked 90)  

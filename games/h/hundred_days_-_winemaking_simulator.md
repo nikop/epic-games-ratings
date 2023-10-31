@@ -6,8 +6,8 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,126 |
-| It's a good start | 10.00% | ~1,031 |
+| Bye Bye | 40.00% | ~4,127 |
+| It's a good start | 10.00% | ~1,032 |
 | Bonjour! | 7.00% | ~722 |
 | Quack | 7.00% | ~722 |
 | The Assistant | 6.00% | ~619 |
@@ -15,10 +15,10 @@ Number of Ratings: 7,669  (23.09.2022)
 | Ostinata | 5.00% | ~516 |
 | Better than nothing? | 5.00% | ~516 |
 | A long journey | 4.00% | ~413 |
-| Big Money | 3.00% | ~309 |
-| Keep the doctor away | 3.00% | ~309 |
-| Surprise of Langhe | 3.00% | ~309 |
-| Famous | 3.00% | ~309 |
+| Big Money | 3.00% | ~310 |
+| Keep the doctor away | 3.00% | ~310 |
+| Surprise of Langhe | 3.00% | ~310 |
+| Famous | 3.00% | ~310 |
 | What is that? A castle? | 2.00% | ~206 |
 | A lot of space | 2.00% | ~206 |
 | A big garage | 2.00% | ~206 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~21 |
 | Master Winemaker | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,314 (Ranked 153)  
+Progressed: 10,317 (Ranked 153)  
 Completed: 10 (0.10%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,14 +105,14 @@ Completed: 10 (0.10%) (Ranked 262)
 | 2023-10-28 | 9,988 | 9 |
 | 2023-10-29 | 10,154 | 10 |
 | 2023-10-30 | 10,292 | 10 |
-| 2023-10-31 | 10,314 | 10 |
+| 2023-10-31 | 10,317 | 10 |
 ## Awards
-Max (Relaxing): 205  (Ranked 279)  
-Sum: 1,593 (Ranked 222)  
+Max (Relaxing): 206  (Ranked 279)  
+Sum: 1,594 (Ranked 222)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 205 |
+| This game is Relaxing | 206 |
 | This game is Extremely Fun | 204 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Great for Beginners | 200 |
@@ -186,3 +186,4 @@ Diff (max vs sum): 57
 | 2023-10-10 | 4.35 | - | 205 | 1,591 |
 | 2023-10-20 | 4.35 | - | 205 | 1,592 |
 | 2023-10-30 | 4.35 | - | 205 | 1,593 |
+| 2023-10-31 | 4.35 | - | 206 | 1,594 |

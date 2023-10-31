@@ -14,7 +14,7 @@
 | Scraps of love | 27.00% | ~9 |
 | Sign of weakness | 27.00% | ~9 |
 | It's covered up for a reason | 21.00% | ~7 |
-| Face your fears | 15.00% | ~5 |
+| Face your fears | 18.00% | ~6 |
 | First steps | 15.00% | ~5 |
 | Playtime | 15.00% | ~5 |
 | Tough conversation | 15.00% | ~5 |

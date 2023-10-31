@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 91.00% | ~862 |
-| Off to a good start | 69.00% | ~653 |
+| New Recruit | 91.00% | ~863 |
+| Off to a good start | 69.00% | ~654 |
 | Do... or do not. There is no try | 51.00% | ~483 |
 | A good blaster at your side | 33.00% | ~313 |
-| I suggest a new strategy | 20.00% | ~189 |
+| I suggest a new strategy | 20.00% | ~190 |
 | Scrap collector | 19.00% | ~180 |
-| Great shot, kid! | 18.00% | ~170 |
+| Great shot, kid! | 18.00% | ~171 |
 | All right, I'll give it a try | 17.00% | ~161 |
+| Together we can rule the galaxy | 16.00% | ~152 |
 | Shoot first | 16.00% | ~152 |
 | The power of the Force | 15.00% | ~142 |
-| Together we can rule the galaxy | 15.00% | ~142 |
 | Collector | 14.00% | ~133 |
 | Best star-pilot in the galaxy | 11.00% | ~104 |
 | Survivor | 11.00% | ~104 |
@@ -51,11 +51,11 @@
 | Alternative solution | 2.00% | ~19 |
 | Onwards! | 2.00% | ~19 |
 | The circle is now complete | 2.00% | ~19 |
-| A New Hope | 1.00% | ~9 |
 | No such thing as luck | 1.00% | ~9 |
 | Do we take prisoners? | 1.00% | ~9 |
 | When surrounded by war... | 1.00% | ~9 |
 | Stop that Droid | 1.00% | ~9 |
+| A New Hope | 0.90% | ~9 |
 | Walker defender | 0.80% | ~8 |
 | I’ll take that bet | 0.70% | ~7 |
 | Stay on target | 0.40% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947 (Ranked 248)  
+Progressed: 948 (Ranked 248)  
 Completed: 1 (0.11%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 1 (0.11%) (Ranked 258)
 | 2023-10-28 | 890 | 1 |
 | 2023-10-29 | 918 | 1 |
 | 2023-10-30 | 944 | 1 |
-| 2023-10-31 | 947 | 1 |
+| 2023-10-31 | 948 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

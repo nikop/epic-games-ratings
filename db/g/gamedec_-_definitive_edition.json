@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -471,9 +471,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 250684,
+  "EOS_Progressed": 250687,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22161,6 +22161,11 @@
       "Time": "2023-10-31T06:06:59.6959277+00:00",
       "NumProgressed": 250684,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-10-31T07:08:30.5264063+00:00",
+      "NumProgressed": 250687,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22388,7 +22393,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62671
+      "UsersEstimate": 62672
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -22492,7 +22497,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62671
+      "UsersEstimate": 62672
     },
     {
       "ID": "ACH_SOREAD",
@@ -22587,7 +22592,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250684,
+      "Progressed": 250687,
       "Completed": 7
     }
   ],
@@ -22595,8 +22600,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-29T16:59:35.8422965+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:06:59.6959273+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:08:30.526406+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:00:29.7397382+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:06:59.6961044+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:01:12.0880182+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:08:30.526575+00:00"
 }

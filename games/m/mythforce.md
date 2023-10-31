@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,140 |
+| Faceroll the Bones | 25.00% | ~1,141 |
 | Debuff Dogpile | 23.00% | ~1,049 |
 | Hit 'Em Where It Hurts | 23.00% | ~1,049 |
 | Perk Shard Punch Card | 23.00% | ~1,049 |
@@ -23,14 +23,14 @@ Number of Ratings: 285  (23.09.2022)
 | Flawless Victory | 6.00% | ~274 |
 | The Harder They Fall | 6.00% | ~274 |
 | On this Episode! | 6.00% | ~274 |
-| Deadication | 4.00% | ~182 |
-| Season Finale | 4.00% | ~182 |
+| Deadication | 4.00% | ~183 |
+| Season Finale | 4.00% | ~183 |
 | We've Got a Kaiju on the Field | 3.00% | ~137 |
 | The Fourth Gate | 2.00% | ~91 |
 | Vexed Her | 0.40% | ~18 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,562 (Ranked 184)  
+Progressed: 4,563 (Ranked 184)  
 Completed: 3 (0.07%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.07%) (Ranked 278)
 | 2023-10-28 | 4,516 | 3 |
 | 2023-10-29 | 4,539 | 3 |
 | 2023-10-30 | 4,554 | 3 |
-| 2023-10-31 | 4,562 | 3 |
+| 2023-10-31 | 4,563 | 3 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 473)  
 Sum: 285 (Ranked 362)  

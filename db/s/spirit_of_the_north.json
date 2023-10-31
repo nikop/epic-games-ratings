@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 72875,
+  "EOS_Progressed": 72878,
   "EOS_Completed": 383,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -21653,6 +21653,11 @@
       "Time": "2023-10-31T06:08:33.1190305+00:00",
       "NumProgressed": 72875,
       "NumCompleted": 383
+    },
+    {
+      "Time": "2023-10-31T07:10:16.4173213+00:00",
+      "NumProgressed": 72878,
+      "NumCompleted": 383
     }
   ],
   "TotalAchievements": 24,
@@ -21672,7 +21677,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16032
+      "UsersEstimate": 16033
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -21680,7 +21685,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49555
+      "UsersEstimate": 49557
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21688,7 +21693,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16032
+      "UsersEstimate": 16033
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -21712,7 +21717,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20405
+      "UsersEstimate": 20406
     },
     {
       "ID": "FOXIN_AROUND",
@@ -21720,7 +21725,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21134
+      "UsersEstimate": 21135
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -21744,7 +21749,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38624
+      "UsersEstimate": 38625
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -21816,7 +21821,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8016
+      "UsersEstimate": 8017
     },
     {
       "ID": "SPIRIT_FORM",
@@ -21832,7 +21837,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10931
+      "UsersEstimate": 10932
     },
     {
       "ID": "WEIGHTLESS",
@@ -21855,7 +21860,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 72875,
+      "Progressed": 72878,
       "Completed": 383
     }
   ],
@@ -21863,8 +21868,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:08:33.1190298+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:10:16.4173209+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:03:20.413638+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:08:33.1191825+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:04:38.3667761+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:10:16.4174654+00:00"
 }

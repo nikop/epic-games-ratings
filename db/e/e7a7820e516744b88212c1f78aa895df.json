@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -938,9 +938,9 @@
       "ID": "achMaxCage",
       "SetID": "7ji07dj",
       "Name": "Fortress on Wheels",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achMaxCageAll",
@@ -1161,8 +1161,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:03:56.3486379+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:05:23.2190082+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:22.4854686+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:58:53.7974615+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:03:56.3486651+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:59:09.352981+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:05:23.21904+00:00"
 }

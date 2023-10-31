@@ -3256,7 +3256,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238869,
+  "EOS_Progressed": 238871,
   "EOS_Completed": 286,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 4,
@@ -23361,6 +23361,11 @@
       "Time": "2023-10-31T05:11:32.511839+00:00",
       "NumProgressed": 238869,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T07:11:19.581695+00:00",
+      "NumProgressed": 238871,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -23378,9 +23383,9 @@
       "ID": "ALLACHIEVEMENTS",
       "SetID": "5l8oe0h",
       "Name": "Achievement Hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "ATTACKOWL",
@@ -23434,9 +23439,9 @@
       "ID": "DARKENDING",
       "SetID": "5l8oe0h",
       "Name": "Shadow Spreads",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DARKENDINGMEDIUM",
@@ -23546,9 +23551,9 @@
       "ID": "DIEIN30SEC",
       "SetID": "5l8oe0h",
       "Name": "That Was Quick",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -23562,9 +23567,9 @@
       "ID": "DIETOGRAVESTONE",
       "SetID": "5l8oe0h",
       "Name": "Dig Your Own Grave",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -23594,9 +23599,9 @@
       "ID": "ENDWOUNDED",
       "SetID": "5l8oe0h",
       "Name": "Hanging On",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "FATALPOISONESCAPE",
@@ -23610,17 +23615,17 @@
       "ID": "FIREBEAD20EXPLOSIONS",
       "SetID": "5l8oe0h",
       "Name": "Barbecue",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "FIREBREEDEXPLOSION",
       "SetID": "5l8oe0h",
       "Name": "Explosive Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "FREEZE200",
@@ -23666,9 +23671,9 @@
       "ID": "HAVE2000SOULS",
       "SetID": "5l8oe0h",
       "Name": "Soul Stash",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HEAL50POTION",
@@ -23730,17 +23735,17 @@
       "ID": "HIGHSPEED",
       "SetID": "5l8oe0h",
       "Name": "Predator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HITOWLSPOON",
       "SetID": "5l8oe0h",
       "Name": "Here Comes The Airplane",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HUGESOULCOLLECTION",
@@ -23754,9 +23759,9 @@
       "ID": "HUGESOULSPILL",
       "SetID": "5l8oe0h",
       "Name": "Resourceful",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "INTIMIDATE250",
@@ -23866,9 +23871,9 @@
       "ID": "KILLNICEDOG",
       "SetID": "5l8oe0h",
       "Name": "Heartless",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILLPARANOIA",
@@ -23962,9 +23967,9 @@
       "ID": "MULTEXPLOSIONS",
       "SetID": "5l8oe0h",
       "Name": "Chain Reaction",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "MULTIKILL30",
@@ -23986,9 +23991,9 @@
       "ID": "NOMERCY",
       "SetID": "5l8oe0h",
       "Name": "No Mercy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "PACIFY10DOG",
@@ -24010,9 +24015,9 @@
       "ID": "PASSIVEDEPTH6",
       "SetID": "5l8oe0h",
       "Name": "Just Looking Around",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "PASSIVEROOM",
@@ -24058,9 +24063,9 @@
       "ID": "POISONEDTWICEIN1TURN",
       "SetID": "5l8oe0h",
       "Name": "Acid Bath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "POISONSELF20",
@@ -24475,13 +24480,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238869,
+      "Progressed": 238871,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 349,
+      "Progressed": 351,
       "Completed": 348
     }
   ],
@@ -24489,8 +24494,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:09:55.6039983+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:11:19.5816947+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:03:31.1246819+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:09:55.6043643+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:04:51.8440693+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:11:19.5820305+00:00"
 }

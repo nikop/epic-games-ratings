@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,077 |
+| The Fool | 72.00% | ~478,078 |
 | Apprentice | 58.00% | ~385,118 |
 | Close Shave | 25.00% | ~165,999 |
 | Mercenary | 23.00% | ~152,719 |
 | Ninja | 23.00% | ~152,719 |
 | Northern Scourge | 17.00% | ~112,879 |
-| Thief Bane | 14.00% | ~92,959 |
+| Thief Bane | 14.00% | ~92,960 |
 | Master of Arms | 12.00% | ~79,680 |
 | Gambler | 10.00% | ~66,400 |
 | Dice Master | 10.00% | ~66,400 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 663,996 (Ranked 26)  
+Progressed: 663,997 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,17 +249,17 @@ Completed: 171 (0.03%) (Ranked 299)
 | 2023-10-28 | 663,899 | 171 |
 | 2023-10-29 | 663,953 | 171 |
 | 2023-10-30 | 663,987 | 171 |
-| 2023-10-31 | 663,996 | 171 |
+| 2023-10-31 | 663,997 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 467)  
-Sum: 188 (Ranked 400)  
+Sum: 189 (Ranked 400)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
 | This game has Amazing Storytelling | 35 |
 | This game is Highly Recommended | 30 |
-| This game has Amazing Characters | 28 |
+| This game has Amazing Characters | 29 |
 | This game is Great for Beginners | 26 |
 | This game has Quickly Understood Controls | 25 |
 | This game is Extremely Fun | 23 |
@@ -365,3 +365,4 @@ Diff (max vs sum): 67
 | 2023-09-17 | 4.55 | - | 35 | 186 |
 | 2023-10-21 | 4.55 | - | 35 | 187 |
 | 2023-10-22 | 4.55 | - | 35 | 188 |
+| 2023-10-31 | 4.55 | - | 35 | 189 |

@@ -10,7 +10,7 @@
 | Pest Control | 27.00% | ~254 |
 | Blobmeister | 26.00% | ~245 |
 | Exhaustive Explorer | 26.00% | ~245 |
-| How Low Can We Go? | 23.00% | ~217 |
+| How Low Can We Go? | 24.00% | ~226 |
 | Team Builder | 19.00% | ~179 |
 | Long Live Rock | 15.00% | ~141 |
 | Aggressive Antivirus | 14.00% | ~132 |
@@ -20,7 +20,7 @@
 | Obsessively Thorough | 10.00% | ~94 |
 | What's Behind Every Door? | 5.00% | ~47 |
 | No Stone Unturned | 4.00% | ~38 |
-| Turret Syndrome | 1.00% | ~9 |
+| Turret Syndrome | 2.00% | ~19 |
 | Endless Biographer | 0.70% | ~7 |
 | Grab 'Em All | 0.00% | ~0 |
 | Unnaturally Curious | 0.00% | ~0 |

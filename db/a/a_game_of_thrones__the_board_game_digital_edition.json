@@ -1296,7 +1296,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27263,
+  "EOS_Progressed": 27265,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 2,
@@ -22101,6 +22101,11 @@
       "Time": "2023-10-31T06:09:22.0720181+00:00",
       "NumProgressed": 27263,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-31T07:10:39.3026471+00:00",
+      "NumProgressed": 27265,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22144,7 +22149,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "1020",
@@ -22200,7 +22205,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "1027",
@@ -22216,7 +22221,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "1029",
@@ -22248,7 +22253,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10905
+      "UsersEstimate": 10906
     },
     {
       "ID": "1033",
@@ -22264,7 +22269,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "1035",
@@ -22287,15 +22292,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27263,
+      "Progressed": 27265,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-30T22:03:13.87385+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:09:22.0720176+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:10:39.3026466+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:03:36.1853953+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:09:22.0721774+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:04:57.7092069+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:10:39.3027849+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3485,
+  "EOS_Progressed": 3489,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2164,
+  "EOS_NewPlayers": 2163,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -1474,6 +1474,11 @@
       "Time": "2023-10-31T06:08:43.5939971+00:00",
       "NumProgressed": 3485,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T07:10:29.3924489+00:00",
+      "NumProgressed": 3489,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1558,7 +1563,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1566,7 +1571,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "GarbageMan",
@@ -1630,7 +1635,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "NoMoreTotems",
@@ -1638,7 +1643,7 @@
       "Name": "No More Totems",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1700,9 +1705,9 @@
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 279
     },
     {
       "ID": "UnResurrected",
@@ -1742,7 +1747,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "k01101110",
@@ -1757,7 +1762,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3485,
+      "Progressed": 3489,
       "Completed": 1
     }
   ],
@@ -1765,8 +1770,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-30T18:00:37.031819+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:08:43.5939963+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:10:29.3924482+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-31T06:01:53.2318669+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:08:43.5940404+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:02:54.4068172+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:10:29.3924822+00:00"
 }

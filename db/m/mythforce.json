@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 119,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4562,
+  "EOS_Progressed": 4563,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8429,6 +8429,11 @@
       "Time": "2023-10-31T05:11:22.3413833+00:00",
       "NumProgressed": 4562,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T07:11:10.7275559+00:00",
+      "NumProgressed": 4563,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8457,7 +8462,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -8489,7 +8494,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8585,7 +8590,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -8624,15 +8629,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4562,
+      "Progressed": 4563,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-31T06:09:47.6155608+00:00",
+  "LastChanged_Achievements": "2023-10-31T07:11:10.7275555+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:59:41.5252742+00:00",
-  "LastUpdate_Achievements": "2023-10-31T06:09:47.6156346+00:00"
+  "LastUpdate_Ratings": "2023-10-31T07:00:16.4146759+00:00",
+  "LastUpdate_Achievements": "2023-10-31T07:11:10.7276184+00:00"
 }

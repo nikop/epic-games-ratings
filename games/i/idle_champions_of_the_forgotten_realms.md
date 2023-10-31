@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelmed with Knowledge | 0.20% | ~399 |
 | A Demi-god's Defender | 0.20% | ~399 |
 | Vecna Loots! | 0.20% | ~399 |
+| Well Equipped | 0.20% | ~399 |
 | Return to the Tomb | 0.20% | ~399 |
 | Heatwave | 0.20% | ~399 |
 | The Dread Domain of Tovag | 0.20% | ~399 |
@@ -162,7 +163,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | On the Hunt | 0.10% | ~233 |
 | Best Thay Ever | 0.10% | ~200 |
 | Vecna Lives! | 0.10% | ~200 |
-| Well Equipped | 0.10% | ~200 |
 | Friends of the Forest | 0.10% | ~233 |
 | More Than Well Equipped | 0.10% | ~200 |
 | Arcane Efforts | 0.10% | ~200 |

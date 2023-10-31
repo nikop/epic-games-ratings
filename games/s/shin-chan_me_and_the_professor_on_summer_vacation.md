@@ -15,16 +15,16 @@
 | Just Hoverin' Along | 13.00% | ~5 |
 | What's That Smell? | 13.00% | ~5 |
 | It's Alive! | 13.00% | ~5 |
+| My Fair Ladybug | 10.00% | ~4 |
 | Farm Life! | 10.00% | ~4 |
 | Did Someone Order Ramen? | 10.00% | ~4 |
 | Ptera Pal | 10.00% | ~4 |
+| Stego Stooge | 10.00% | ~4 |
 | DJ Superstar | 10.00% | ~4 |
 | A New Time | 8.00% | ~3 |
-| My Fair Ladybug | 8.00% | ~3 |
 | The Holly Grail | 8.00% | ~3 |
 | That Was a Snap! | 8.00% | ~3 |
 | Top-Notch Journalist | 8.00% | ~3 |
-| Stego Stooge | 8.00% | ~3 |
 | Asso Bridge Enthusiast | 8.00% | ~3 |
 | Beetle Savant | 5.00% | ~2 |
 | Cicada Connoisseur | 5.00% | ~2 |

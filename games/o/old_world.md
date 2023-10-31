@@ -20,6 +20,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~452 |
 | Hanging Gardens | 3.00% | ~452 |
 | Oracle | 3.00% | ~452 |
+| Trade Caravan | 3.00% | ~452 |
 | Ambitious | 2.00% | ~301 |
 | Drillmaster | 2.00% | ~301 |
 | Brilliant | 2.00% | ~301 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~301 |
 | Zoroastrianism | 2.00% | ~301 |
 | Naming Landmarks | 2.00% | ~301 |
-| Trade Caravan | 2.00% | ~301 |
 | Kushite Paganism | 2.00% | ~301 |
 | Regicide | 1.00% | ~151 |
 | Hanging Gardens in Babylon | 1.00% | ~151 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.90% | ~136 |
 | Circus Maximus | 0.90% | ~136 |
 | Temple of Solomon | 0.90% | ~136 |
+| Via Recta Souk | 0.90% | ~136 |
 | Building Wonders | 0.90% | ~136 |
 | Economic Reform | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
@@ -101,7 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
 | Pantheon | 0.80% | ~120 |
-| Via Recta Souk | 0.80% | ~120 |
 | Learn to Play 4 | 0.80% | ~120 |
 | Military Prestige | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.70% | ~105 |
 | Carthage | 0.70% | ~105 |
 | One True Faith | 0.70% | ~105 |
+| Assyrian Paganism | 0.70% | ~105 |
 | Industrial Progress | 0.70% | ~105 |
 | Dualism | 0.70% | ~105 |
 | Enlightenment | 0.70% | ~105 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.60% | ~90 |
 | Babylonia | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
-| Assyrian Paganism | 0.60% | ~90 |
 | Hittite Paganism | 0.60% | ~90 |
 | Turreted Elephant | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,057 (Ranked 143)  
+Progressed: 15,058 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
-| 2023-10-31 | 15,057 | 5 |
+| 2023-10-31 | 15,058 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  
