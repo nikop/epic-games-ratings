@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -8552,7 +8552,7 @@
   ],
   "EOS_Progressed": 121997,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28826,9 +28826,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 73198
+      "UsersEstimate": 74418
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -29282,8 +29282,8 @@
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-10-31T00:00:20.4633133+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:05:45.9576012+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:05:11.0823998+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:40.8376947+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:00:51.3702171+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:05:45.9578501+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:59:52.5377835+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:05:11.0825818+00:00"
 }

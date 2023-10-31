@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18746,
+  "EOS_Progressed": 18747,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12497,6 +12497,11 @@
       "Time": "2023-10-31T03:03:28.3549031+00:00",
       "NumProgressed": 18746,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T09:03:31.3045262+00:00",
+      "NumProgressed": 18747,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12596,7 +12601,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "0013",
@@ -12612,7 +12617,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "0015",
@@ -12795,7 +12800,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18746,
+      "Progressed": 18747,
       "Completed": 4
     }
   ],
@@ -12803,8 +12808,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-27T01:40:48.3215851+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:04:24.7086709+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:03:31.3045252+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:02:30.2622516+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:04:24.7087948+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:00:48.0704871+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:03:31.3046727+00:00"
 }

@@ -10,11 +10,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Foul Play | 0.50% | ~998 |
 | Beast Intentions | 0.40% | ~933 |
 | The Cursed Farmer | 0.40% | ~933 |
+| The Mad Wizard | 0.40% | ~933 |
 | The Jungles of Doomspace | 0.40% | ~798 |
 | The Arena of Blood | 0.40% | ~798 |
 | Spelljammers in Training | 0.40% | ~798 |
 | The Ring of Regeneration | 0.30% | ~700 |
-| The Mad Wizard | 0.30% | ~700 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
 | The Witchlight Carnival | 0.20% | ~399 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,293 (Ranked 62)  
+Progressed: 233,295 (Ranked 62)  
 Completed: 2,411 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -729,10 +729,10 @@ Completed: 2,411 (1.03%) (Ranked 151)
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
-| 2023-10-31 | 233,293 | 2,411 |
+| 2023-10-31 | 233,295 | 2,411 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
-Sum: 32,276 (Ranked 41)  
+Sum: 32,280 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -740,9 +740,9 @@ Diff (max vs sum): 28
 | This game has Diverse Characters | 5,454 |
 | This game has Quickly Understood Controls | 4,803 |
 | This game is Relaxing | 4,691 |
-| This game has Amazing Characters | 4,186 |
+| This game has Amazing Characters | 4,189 |
 | This game is Highly Recommended | 4,180 |
-| This game has Playful Visuals | 3,497 |
+| This game has Playful Visuals | 3,498 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1024,4 +1024,4 @@ Diff (max vs sum): 28
 | 2023-10-28 | 4.06 | - | 5,461 | 32,249 |
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
-| 2023-10-31 | 4.06 | - | 5,465 | 32,276 |
+| 2023-10-31 | 4.06 | - | 5,465 | 32,280 |

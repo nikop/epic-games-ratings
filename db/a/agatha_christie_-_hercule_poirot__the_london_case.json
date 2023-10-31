@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -174,9 +174,9 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_010",
@@ -238,9 +238,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_018",
@@ -454,9 +454,9 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_042",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:05:28.2380084+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:04:53.6327525+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.7786932+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:04:02.187165+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:05:28.2380553+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:03:13.5647096+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:04:53.6327927+00:00"
 }

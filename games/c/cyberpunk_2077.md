@@ -6,61 +6,63 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,837 |
-| Gun Fu | 1.00% | ~8,946 |
-| Ten out of Ten | 0.80% | ~7,157 |
-| True Soldier | 0.80% | ~7,157 |
-| Full Body Conversion | 0.70% | ~6,262 |
-| Stanislavski's Method | 0.70% | ~6,262 |
-| The High Priestess | 0.70% | ~6,262 |
-| Relic Ruler | 0.70% | ~162 |
-| All the President's Men | 0.70% | ~162 |
-| Arachnophobia | 0.70% | ~162 |
-| Right Back At Ya | 0.60% | ~5,367 |
-| The Quick and the Dead | 0.60% | ~5,367 |
-| Rough Landing | 0.60% | ~5,367 |
-| The Hermit | 0.60% | ~5,367 |
-| The Wheel of Fortune | 0.60% | ~5,367 |
-| Legend of The Afterlife | 0.60% | ~5,367 |
-| Life of the Road | 0.50% | ~4,473 |
-| The Lovers | 0.50% | ~4,473 |
-| True Warrior | 0.50% | ~4,473 |
-| Two Heads, One Bullet | 0.50% | ~4,473 |
-| Spin Doctor | 0.50% | ~116 |
-| Bushido and Chill | 0.40% | ~3,578 |
-| To Protect and Serve | 0.40% | ~3,578 |
-| Gunslinger | 0.40% | ~3,578 |
-| Master Crafter | 0.40% | ~3,578 |
-| I Am The Law | 0.40% | ~3,578 |
-| Christmas Tree Attack | 0.40% | ~3,578 |
-| Breathtaking | 0.40% | ~3,578 |
-| The Fool | 0.40% | ~3,578 |
-| The World | 0.40% | ~3,578 |
-| The Jungle | 0.40% | ~3,578 |
-| Judy vs Night City | 0.40% | ~3,578 |
-| King of Wands | 0.40% | ~93 |
-| To Bad Decisions! | 0.30% | ~2,684 |
-| The Wandering Fool | 0.30% | ~2,684 |
-| Mean Streets | 0.30% | ~2,684 |
-| Temperance | 0.30% | ~2,684 |
-| City Lights | 0.20% | ~1,789 |
-| Must Be Rats | 0.20% | ~1,789 |
-| The Devil | 0.20% | ~1,789 |
-| The Star | 0.20% | ~1,789 |
-| The Sun | 0.20% | ~1,789 |
-| It's Elementary | 0.20% | ~1,789 |
-| The APB is Not Enough | 0.20% | ~46 |
-| Judgement Day | 0.20% | ~46 |
-| King of Pentacles | 0.20% | ~46 |
-| King of Swords | 0.20% | ~46 |
-| The Tower | 0.20% | ~46 |
+| City Lights | 0.10% | ~895 |
+| To Bad Decisions! | 0.10% | ~895 |
+| Bushido and Chill | 0.10% | ~895 |
+| Full Body Conversion | 0.10% | ~895 |
+| Right Back At Ya | 0.10% | ~895 |
+| To Protect and Serve | 0.10% | ~895 |
+| The Wandering Fool | 0.10% | ~895 |
 | Autojock | 0.10% | ~895 |
 | Frequent Flyer | 0.10% | ~895 |
+| Gun Fu | 0.10% | ~895 |
+| Gunslinger | 0.10% | ~895 |
+| Master Crafter | 0.10% | ~895 |
+| I Am The Law | 0.10% | ~895 |
+| Mean Streets | 0.10% | ~895 |
 | Little Tokyo | 0.10% | ~895 |
+| Christmas Tree Attack | 0.10% | ~895 |
+| The Quick and the Dead | 0.10% | ~895 |
+| Must Be Rats | 0.10% | ~895 |
+| Breathtaking | 0.10% | ~895 |
 | The Wasteland | 0.10% | ~895 |
 | Daemon In The Shell | 0.10% | ~895 |
+| Life of the Road | 0.10% | ~895 |
+| Stanislavski's Method | 0.10% | ~895 |
+| Ten out of Ten | 0.10% | ~895 |
+| Temperance | 0.10% | ~895 |
+| Rough Landing | 0.10% | ~895 |
+| The Devil | 0.10% | ~895 |
+| The Fool | 0.10% | ~895 |
+| The Hermit | 0.10% | ~895 |
+| The High Priestess | 0.10% | ~895 |
+| The Lovers | 0.10% | ~895 |
+| The Star | 0.10% | ~895 |
+| The Sun | 0.10% | ~895 |
+| The Wheel of Fortune | 0.10% | ~895 |
+| The World | 0.10% | ~895 |
 | Greetings from Pacifica! | 0.10% | ~895 |
+| The Jungle | 0.10% | ~895 |
+| True Soldier | 0.10% | ~895 |
+| True Warrior | 0.10% | ~895 |
+| Two Heads, One Bullet | 0.10% | ~895 |
+| Judy vs Night City | 0.10% | ~895 |
+| V for Vendetta | 0.10% | ~895 |
+| It's Elementary | 0.10% | ~895 |
+| Legend of The Afterlife | 0.10% | ~895 |
+| The APB is Not Enough | 0.10% | ~23 |
+| Spin Doctor | 0.10% | ~23 |
+| Relic Ruler | 0.10% | ~23 |
+| All the President's Men | 0.10% | ~23 |
+| Judgement Day | 0.10% | ~23 |
+| Arachnophobia | 0.10% | ~23 |
 | King of Cups | 0.10% | ~23 |
+| King of Pentacles | 0.10% | ~23 |
+| King of Swords | 0.10% | ~23 |
+| King of Wands | 0.10% | ~23 |
+| The Tower | 0.10% | ~23 |
+| Dirty Deeds | 0.10% | ~23 |
+| Easy Come, Easy Go | 0.10% | ~23 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -72,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,580 (Ranked 15)  
+Progressed: 894,586 (Ranked 15)  
 Completed: 2,734 (0.31%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,15 +268,16 @@ Completed: 2,734 (0.31%) (Ranked 213)
 | 2023-10-28 | 894,318 | 2,727 |
 | 2023-10-29 | 894,514 | 2,733 |
 | 2023-10-30 | 894,580 | 2,734 |
+| 2023-10-31 | 894,586 | 2,734 |
 ## Awards
 Max (Character Customization): 102,927  (Ranked 9)  
-Sum: 336,165 (Ranked 10)  
+Sum: 336,301 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 102,927 |
 | This game has Great Boss Battles | 73,865 |
-| This game is Great for Beginners | 19,574 |
+| This game is Great for Beginners | 19,710 |
 | This game has Diverse Characters | 19,367 |
 | This game is Highly Recommended | 18,616 |
 | This game has Amazing Storytelling | 18,469 |
@@ -571,4 +574,4 @@ Diff (max vs sum): -1
 | 2023-10-28 | 4.64 | - | 102,340 | 331,609 |
 | 2023-10-29 | 4.64 | - | 102,677 | 333,788 |
 | 2023-10-30 | 4.64 | - | 102,927 | 335,582 |
-| 2023-10-31 | 4.64 | - | 102,927 | 336,165 |
+| 2023-10-31 | 4.64 | - | 102,927 | 336,301 |

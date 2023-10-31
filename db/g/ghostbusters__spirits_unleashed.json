@@ -2925,9 +2925,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29123,
+  "EOS_Progressed": 29127,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1699,
+  "EOS_NewPlayers": 1702,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17215,6 +17215,11 @@
       "Time": "2023-10-31T08:05:20.524183+00:00",
       "NumProgressed": 29123,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-10-31T09:04:26.1366518+00:00",
+      "NumProgressed": 29127,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17234,7 +17239,7 @@
       "Name": "Animated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Back_Off",
@@ -17242,7 +17247,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Best_Insurance",
@@ -17250,7 +17255,7 @@
       "Name": "We have the best insurance",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -17298,7 +17303,7 @@
       "Name": "Daily Dose",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Diabolical",
@@ -17330,7 +17335,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Efficient",
@@ -17370,7 +17375,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Ghost_Expert",
@@ -17386,7 +17391,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Legions",
@@ -17394,7 +17399,7 @@
       "Name": "Legions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Liability",
@@ -17442,7 +17447,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Reckless",
@@ -17466,7 +17471,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Right_Back",
@@ -17474,7 +17479,7 @@
       "Name": "Right back at ya",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Rivalry",
@@ -17490,7 +17495,7 @@
       "Name": "Seasoned",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Side_Hustle",
@@ -17498,7 +17503,7 @@
       "Name": "Side Hustle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Skilled",
@@ -17538,7 +17543,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Surprise",
@@ -17618,7 +17623,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Whoopsie",
@@ -17633,7 +17638,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29123,
+      "Progressed": 29127,
       "Completed": 65
     }
   ],
@@ -17641,8 +17646,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-31T01:44:51.4542671+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:05:20.5241821+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:04:26.136651+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:02:07.3611041+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:05:20.5243201+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:00:30.3657455+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:04:26.1367798+00:00"
 }

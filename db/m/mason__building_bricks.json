@@ -4,8 +4,8 @@
   "ProductSlug": "mason-building-bricks-73659e",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -240,9 +240,9 @@
       "ID": "Constructor_01",
       "SetID": "77clh7i",
       "Name": "Constructor",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Mason_Arch_01",
@@ -272,9 +272,9 @@
       "ID": "Mason_Novice_01",
       "SetID": "77clh7i",
       "Name": "Novice Mason",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 200,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -289,8 +289,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:07:26.9504342+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:06:19.1841576+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:40.4740174+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:00:55.6659791+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:07:26.9504543+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:59:54.5111867+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:06:19.1841661+00:00"
 }

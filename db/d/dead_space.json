@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -685,7 +685,7 @@
   ],
   "EOS_Progressed": 1360,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4274,9 +4274,9 @@
       "ID": "achievement_20",
       "SetID": "222fo9l",
       "Name": "Autofire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 802
     },
     {
       "ID": "achievement_21",
@@ -4563,8 +4563,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:05:09.4356196+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:04:15.0949746+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:03:24.5078551+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:05:09.4356849+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:01:12.2455073+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:04:15.0950379+00:00"
 }

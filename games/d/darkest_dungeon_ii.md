@@ -16,7 +16,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Long Live the King | 66.00% | ~80,518 |
 | Resurrection | 62.00% | ~75,638 |
 | Wyrdly Reconstructed | 62.00% | ~75,638 |
-| Boxcar Kid | 60.00% | ~73,198 |
+| Boxcar Kid | 61.00% | ~74,418 |
 | Rush Hour | 60.00% | ~73,198 |
 | To Grandmother's House | 60.00% | ~73,198 |
 | Serenity Now! | 54.00% | ~65,878 |

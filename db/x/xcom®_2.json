@@ -3,12 +3,12 @@
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 135,
+  "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2016-02-04T08:00:00+00:00",
@@ -8227,11 +8227,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 10891,
       "NumberOfAwardsMax": 1333
+    },
+    {
+      "Time": "2023-10-31T08:58:32.3030773+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 10897,
+      "NumberOfAwardsMax": 1337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10891,
-  "NumberOfAwardsMax": 1333,
+  "NumberOfAwards": 10897,
+  "NumberOfAwardsMax": 1337,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -8262,7 +8268,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1333
+      "Count": 1337
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8280,7 +8286,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1192
+      "Count": 1194
     },
     {
       "Text": "This game has a Creative Community",
@@ -8306,8 +8312,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-10-31T05:58:49.7694483+00:00",
+  "LastChanged": "2023-10-31T08:58:32.303077+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:31.2595835+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:58:57.6481755+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:06:29.7307364+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:58:32.3030782+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:05:24.1525217+00:00"
 }

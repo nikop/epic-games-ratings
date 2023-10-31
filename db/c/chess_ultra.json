@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -419,9 +419,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215361,
+  "EOS_Progressed": 215362,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22394,6 +22394,11 @@
       "Time": "2023-10-31T08:07:04.7702092+00:00",
       "NumProgressed": 215361,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-31T09:05:57.88671+00:00",
+      "NumProgressed": 215362,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -22461,7 +22466,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 64608
+      "UsersEstimate": 64609
     },
     {
       "ID": "ChessChampion",
@@ -22525,7 +22530,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19382
+      "UsersEstimate": 19383
     },
     {
       "ID": "EpauletteMate",
@@ -22708,7 +22713,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 215361,
+      "Progressed": 215362,
       "Completed": 2
     }
   ],
@@ -22716,8 +22721,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-10-19T14:59:15.6505649+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:07:04.7702084+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:05:57.8867089+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.0461041+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:58:24.3071376+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:07:04.7704281+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:58:07.3008216+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:05:57.8868502+00:00"
 }

@@ -20,6 +20,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.10% | ~239 |
 | A Long Climb | 0.10% | ~239 |
 | A Rough Road | 0.10% | ~239 |
+| Getting A Glimpse | 0.10% | ~239 |
 | Hydrophobe | 0.10% | ~239 |
 | Disposal | 0.10% | ~239 |
 | R.I.P | 0.10% | ~239 |
@@ -38,19 +39,24 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 0.10% | ~239 |
 | Cold Hearted | 0.10% | ~239 |
 | I Am Overburdened | 0.10% | ~239 |
+| A Hard Carry | 0.10% | ~239 |
 | Soul Stash | 0.10% | ~239 |
 | Powerful Potion | 0.10% | ~239 |
+| For Science | 0.10% | ~239 |
 | Berzerker | 0.10% | ~239 |
+| Willing the World | 0.10% | ~239 |
 | Juggernaut | 0.10% | ~239 |
 | Gigantic | 0.10% | ~239 |
 | Predator | 0.10% | ~239 |
 | Here Comes The Airplane | 0.10% | ~239 |
 | Save Our Souls | 0.10% | ~239 |
 | Resourceful | 0.10% | ~239 |
+| Become The Nightmare | 0.10% | ~239 |
 | Defeat The Dark | 0.10% | ~239 |
 | Destroy Your Fears | 0.10% | ~239 |
 | Trail Of Death | 0.10% | ~239 |
 | The Bestiary | 0.10% | ~239 |
+| Blizzard | 0.10% | ~239 |
 | The Boulder | 0.10% | ~239 |
 | Don't Ignore Me! | 0.10% | ~239 |
 | Overthrown | 0.10% | ~239 |
@@ -64,6 +70,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shootout | 0.10% | ~239 |
 | A Rock And A Hard Place | 0.10% | ~239 |
 | Illuminate, Eliminate | 0.10% | ~239 |
+| Illuminate, Annihilate | 0.10% | ~239 |
+| Path To Enlightenment | 0.10% | ~239 |
 | A Donation | 0.10% | ~239 |
 | Chain Reaction | 0.10% | ~239 |
 | C-C-Combo | 0.10% | ~239 |
@@ -113,19 +121,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
 | A Week Attempt | 0.00% | ~0 |
-| Getting A Glimpse | 0.00% | ~0 |
 | Dead Revels | 0.00% | ~0 |
-| A Hard Carry | 0.00% | ~0 |
 | Grave Digger | 0.00% | ~0 |
-| For Science | 0.00% | ~0 |
-| Willing the World | 0.00% | ~0 |
 | Power Score | 0.00% | ~0 |
-| Become The Nightmare | 0.00% | ~0 |
 | Clearing The Room | 0.00% | ~0 |
-| Blizzard | 0.00% | ~0 |
 | Not What I Meant | 0.00% | ~0 |
-| Illuminate, Annihilate | 0.00% | ~0 |
-| Path To Enlightenment | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Master of Strategy | 0.00% | ~0 |
 | Good Boys | 0.00% | ~0 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.00% | ~0 |
 | You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,874 (Ranked 59)  
+Progressed: 238,876 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,874 | 286 |
+| 2023-10-31 | 238,876 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

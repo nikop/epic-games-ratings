@@ -2,13 +2,13 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 774,
+  "Ranking_Rating": 773,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2451,6 +2451,6 @@
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
   "LastChanged": "2023-10-30T08:01:19.6640139+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:19.4578603+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:02:09.5218331+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:04:43.2871716+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:00:31.9762732+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:03:49.4085299+00:00"
 }

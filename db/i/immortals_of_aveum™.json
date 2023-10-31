@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -656,17 +656,17 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_14",
@@ -800,9 +800,9 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_4",
@@ -1017,8 +1017,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:08:38.4258413+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:06:59.5634596+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:59:07.2769645+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:08:38.4258917+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:58:43.0615012+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:06:59.5635086+00:00"
 }

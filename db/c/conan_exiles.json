@@ -3,12 +3,12 @@
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
   "Ranking_Rating": 519,
-  "Ranking_Popularity": 127,
+  "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-11-23T16:00:00+00:00",
     "PcReleaseDate": "2018-05-08T16:00:00+00:00",
@@ -7450,18 +7450,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 10463,
       "NumberOfAwardsMax": 1522
+    },
+    {
+      "Time": "2023-10-31T09:01:08.3832369+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10470,
+      "NumberOfAwardsMax": 1524
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10463,
-  "NumberOfAwardsMax": 1522,
+  "NumberOfAwards": 10470,
+  "NumberOfAwardsMax": 1524,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1522
+      "Count": 1524
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7479,7 +7485,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1373
+      "Count": 1375
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7503,7 +7509,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1225
+      "Count": 1228
     },
     {
       "Text": "This game has a Creative Community",
@@ -7523,8 +7529,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2023-10-31T06:02:49.1647924+00:00",
+  "LastChanged": "2023-10-31T09:01:08.3832366+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:52.3005854+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:03:17.3248477+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:05:44.121399+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:01:08.3832376+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:05:09.2637645+00:00"
 }

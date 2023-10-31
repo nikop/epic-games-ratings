@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6793,9 +6793,9 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138383,
+  "EOS_Progressed": 138384,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26578,6 +26578,11 @@
       "Time": "2023-10-31T08:06:58.2057221+00:00",
       "NumProgressed": 138383,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-10-31T09:05:51.5647902+00:00",
+      "NumProgressed": 138384,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26821,7 +26826,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "commonres02",
@@ -27061,7 +27066,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "gold02",
@@ -27484,15 +27489,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138383,
+      "Progressed": 138384,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-31T05:01:01.1732518+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:06:58.2057211+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:05:51.5647888+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:00:29.682221+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:06:58.2060216+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:59:39.5886121+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:05:51.5650339+00:00"
 }

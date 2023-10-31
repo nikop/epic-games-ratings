@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -335,6 +335,11 @@
       "Time": "2023-10-29T20:05:13.4914629+00:00",
       "NumProgressed": 216,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-31T09:05:55.9494188+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -434,7 +439,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "play_me_by_the_hour",
@@ -442,7 +447,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "poetent",
@@ -458,7 +463,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "show_me_some_skin",
@@ -490,7 +495,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "voyeur",
@@ -513,7 +518,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 2
     }
   ],
@@ -521,8 +526,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:07:02.8326395+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:05:55.9494181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.5381847+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:00:44.6118313+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:07:02.8326694+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:59:48.3002485+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:05:55.949436+00:00"
 }

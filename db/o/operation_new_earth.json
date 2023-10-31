@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1726,
+  "EOS_Progressed": 1727,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6449,6 +6449,11 @@
       "Time": "2023-10-31T06:06:44.5972069+00:00",
       "NumProgressed": 1726,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T09:06:10.9127741+00:00",
+      "NumProgressed": 1727,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6538,9 +6543,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_headquarters_15",
@@ -6564,7 +6569,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6636,7 +6641,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6666,9 +6671,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6763,7 +6768,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1726,
+      "Progressed": 1727,
       "Completed": 1
     }
   ],
@@ -6771,8 +6776,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:07:18.3081301+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:06:10.9127731+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:57:28.3267593+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:07:18.308198+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:57:20.6637905+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:06:10.9128327+00:00"
 }

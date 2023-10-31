@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~14,687 |
-| A Better Idea | 25.00% | ~3,865 |
-| Safety in the Storm | 24.00% | ~3,710 |
+| Fracture at Fostar Haven | 95.00% | ~14,691 |
+| A Better Idea | 25.00% | ~3,866 |
+| Safety in the Storm | 24.00% | ~3,711 |
 | Begin the Ceremony | 21.00% | ~3,247 |
-| Mission Accomplished | 19.00% | ~2,937 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,319 |
-| A Starfighter of Your Own | 14.00% | ~2,164 |
+| Mission Accomplished | 19.00% | ~2,938 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,320 |
+| A Starfighter of Your Own | 14.00% | ~2,165 |
 | Asset Secured | 13.00% | ~2,010 |
 | Unkillable | 8.00% | ~1,237 |
 | Together, Vanguard | 7.00% | ~1,082 |
@@ -20,10 +20,10 @@
 | Fearless | 5.00% | ~773 |
 | Flames Over Mon Cala | 5.00% | ~773 |
 | A Promising Career | 5.00% | ~773 |
-| Great Shot, Kid | 4.00% | ~618 |
-| Back From the Brink | 4.00% | ~618 |
-| Temporary Guardian | 4.00% | ~618 |
-| Baited | 4.00% | ~618 |
+| Great Shot, Kid | 4.00% | ~619 |
+| Back From the Brink | 4.00% | ~619 |
+| Temporary Guardian | 4.00% | ~619 |
+| Baited | 4.00% | ~619 |
 | Stronger Together | 3.00% | ~464 |
 | Squadron Hunter | 3.00% | ~464 |
 | Punch It | 3.00% | ~464 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~15 |
 | The Galaxy's Finest (Ace) | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,460 (Ranked 142)  
+Progressed: 15,464 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.01%) (Ranked 313)
 | 2023-10-28 | 14,703 | 1 |
 | 2023-10-29 | 15,107 | 1 |
 | 2023-10-30 | 15,403 | 1 |
-| 2023-10-31 | 15,460 | 1 |
+| 2023-10-31 | 15,464 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

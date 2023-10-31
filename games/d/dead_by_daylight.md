@@ -6,38 +6,38 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~49,153 |
-| Skillful | 5.00% | ~49,153 |
-| Zealous | 4.00% | ~39,323 |
-| Not half bad | 4.00% | ~39,323 |
-| Apt Survivor | 4.00% | ~39,323 |
-| Make Some Noise | 4.00% | ~39,323 |
-| No one left behind | 3.00% | ~29,492 |
-| Medic | 3.00% | ~29,492 |
-| Handyman | 3.00% | ~29,492 |
-| Bloody Millionaire | 3.00% | ~29,492 |
-| Survival Treasures | 3.00% | ~29,492 |
-| I | 3.00% | ~29,492 |
-| Sorted | 3.00% | ~29,492 |
-| Healthy Obsession | 3.00% | ~29,492 |
-| Resurgence | 3.00% | ~29,492 |
-| The Grand Sacrifice | 2.00% | ~19,661 |
-| Agonizing Escape | 2.00% | ~19,661 |
-| Backdoor Escape | 2.00% | ~19,661 |
-| I've got your back | 2.00% | ~19,661 |
-| Perfect Escape | 2.00% | ~19,661 |
-| Perfect Killing | 2.00% | ~19,661 |
-| Apt Killer | 2.00% | ~19,661 |
-| Risk it all | 2.00% | ~19,661 |
-| Vulture | 2.00% | ~19,661 |
-| II | 2.00% | ~19,661 |
-| III | 2.00% | ~19,661 |
-| Engineer | 2.00% | ~19,661 |
-| Wounded Healer | 2.00% | ~19,661 |
-| Close Shave | 2.00% | ~19,661 |
-| Preemptive Strike | 2.00% | ~19,661 |
-| Humanitarian | 2.00% | ~19,661 |
-| Second Act | 2.00% | ~19,661 |
+| It wakes | 5.00% | ~49,157 |
+| Skillful | 5.00% | ~49,157 |
+| Zealous | 4.00% | ~39,325 |
+| Not half bad | 4.00% | ~39,325 |
+| Apt Survivor | 4.00% | ~39,325 |
+| Make Some Noise | 4.00% | ~39,325 |
+| No one left behind | 3.00% | ~29,494 |
+| Medic | 3.00% | ~29,494 |
+| Handyman | 3.00% | ~29,494 |
+| Bloody Millionaire | 3.00% | ~29,494 |
+| Survival Treasures | 3.00% | ~29,494 |
+| I | 3.00% | ~29,494 |
+| Sorted | 3.00% | ~29,494 |
+| Healthy Obsession | 3.00% | ~29,494 |
+| Resurgence | 3.00% | ~29,494 |
+| The Grand Sacrifice | 2.00% | ~19,663 |
+| Agonizing Escape | 2.00% | ~19,663 |
+| Backdoor Escape | 2.00% | ~19,663 |
+| I've got your back | 2.00% | ~19,663 |
+| Perfect Escape | 2.00% | ~19,663 |
+| Perfect Killing | 2.00% | ~19,663 |
+| Apt Killer | 2.00% | ~19,663 |
+| Risk it all | 2.00% | ~19,663 |
+| Vulture | 2.00% | ~19,663 |
+| II | 2.00% | ~19,663 |
+| III | 2.00% | ~19,663 |
+| Engineer | 2.00% | ~19,663 |
+| Wounded Healer | 2.00% | ~19,663 |
+| Close Shave | 2.00% | ~19,663 |
+| Preemptive Strike | 2.00% | ~19,663 |
+| Humanitarian | 2.00% | ~19,663 |
+| Second Act | 2.00% | ~19,663 |
 | Blood on your hands | 1.00% | ~9,831 |
 | Escape Artist | 1.00% | ~9,831 |
 | Made it out alive! | 1.00% | ~9,831 |
@@ -86,27 +86,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrun the Overlap | 0.80% | ~7,865 |
 | Complete the Evolution | 0.80% | ~7,865 |
 | Extraterrestrial | 0.80% | ~7,865 |
-| Jump Scares | 0.70% | ~6,881 |
-| Game Over | 0.70% | ~6,881 |
-| Broken Bodies | 0.70% | ~6,881 |
-| Insult and Injury | 0.70% | ~6,881 |
-| Kitted Out | 0.70% | ~6,881 |
-| Deep Cleansing | 0.60% | ~5,898 |
-| Texas BBQ | 0.60% | ~5,898 |
-| Party Crasher | 0.60% | ~5,898 |
-| Outrage | 0.60% | ~5,898 |
-| High Speed Pursuit | 0.60% | ~5,898 |
-| Whiffing to Success | 0.50% | ~4,915 |
-| Heavy Burden | 0.50% | ~4,915 |
-| I See You | 0.50% | ~4,915 |
-| Power Moves | 0.50% | ~4,915 |
-| Punch Drunk | 0.50% | ~4,915 |
-| Prowler | 0.50% | ~4,915 |
-| Triage | 0.50% | ~4,915 |
-| Blood in your mouth | 0.40% | ~3,932 |
-| Looter | 0.40% | ~3,932 |
-| Death of Ignorance | 0.40% | ~3,932 |
-| Hack the Mainframe | 0.40% | ~3,932 |
+| Jump Scares | 0.70% | ~6,882 |
+| Game Over | 0.70% | ~6,882 |
+| Broken Bodies | 0.70% | ~6,882 |
+| Insult and Injury | 0.70% | ~6,882 |
+| Kitted Out | 0.70% | ~6,882 |
+| Deep Cleansing | 0.60% | ~5,899 |
+| Texas BBQ | 0.60% | ~5,899 |
+| Party Crasher | 0.60% | ~5,899 |
+| Outrage | 0.60% | ~5,899 |
+| High Speed Pursuit | 0.60% | ~5,899 |
+| Whiffing to Success | 0.50% | ~4,916 |
+| Heavy Burden | 0.50% | ~4,916 |
+| I See You | 0.50% | ~4,916 |
+| Power Moves | 0.50% | ~4,916 |
+| Punch Drunk | 0.50% | ~4,916 |
+| Prowler | 0.50% | ~4,916 |
+| Triage | 0.50% | ~4,916 |
+| Blood in your mouth | 0.40% | ~3,933 |
+| Looter | 0.40% | ~3,933 |
+| Death of Ignorance | 0.40% | ~3,933 |
+| Hack the Mainframe | 0.40% | ~3,933 |
 | A feast for the Entity | 0.30% | ~2,949 |
 | In the void she walks | 0.30% | ~2,949 |
 | Mad House | 0.30% | ~2,949 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~983 |
 | Adept Ripley | 0.10% | ~983 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 983,066 (Ranked 14)  
+Progressed: 983,134 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -430,7 +430,7 @@ Completed: 52 (0.01%) (Ranked 313)
 | 2023-10-28 | 976,261 | 52 |
 | 2023-10-29 | 979,683 | 52 |
 | 2023-10-30 | 982,402 | 52 |
-| 2023-10-31 | 983,066 | 52 |
+| 2023-10-31 | 983,134 | 52 |
 ## Awards
 Max (Diverse Characters): 35,039  (Ranked 15)  
 Sum: 269,444 (Ranked 13)  

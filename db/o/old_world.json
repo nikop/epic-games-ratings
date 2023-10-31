@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1950,9 +1950,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15058,
+  "EOS_Progressed": 15059,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15080,6 +15080,11 @@
       "Time": "2023-10-31T07:09:35.3373753+00:00",
       "NumProgressed": 15058,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T09:06:52.0473839+00:00",
+      "NumProgressed": 15059,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15729,9 +15734,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -16561,9 +16566,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -17089,9 +17094,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -17826,21 +17831,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15058,
+      "Progressed": 15059,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15058,
+      "Progressed": 15059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-31T08:08:30.5699837+00:00",
+  "LastChanged_Achievements": "2023-10-31T09:06:52.0473831+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T07:59:01.2714793+00:00",
-  "LastUpdate_Achievements": "2023-10-31T08:08:30.5714617+00:00"
+  "LastUpdate_Ratings": "2023-10-31T08:58:38.8427371+00:00",
+  "LastUpdate_Achievements": "2023-10-31T09:06:52.0485404+00:00"
 }

@@ -19,8 +19,8 @@ Rating: 3.98 (Ranked 989)
 | Beggars Would Ride | 31.00% | ~36 |
 | Control is an Illusion | 30.00% | ~34 |
 | The Means to Save It | 24.00% | ~28 |
-| Resilience to Sin | 20.00% | ~23 |
-| A Familiar Nest | 19.00% | ~22 |
+| Resilience to Sin | 21.00% | ~24 |
+| A Familiar Nest | 20.00% | ~23 |
 | Periapt Alizarin | 19.00% | ~22 |
 | Armsman | 18.00% | ~21 |
 | Geas Aristeya | 17.00% | ~20 |
@@ -31,10 +31,10 @@ Rating: 3.98 (Ranked 989)
 | Periapt Viridian | 10.00% | ~12 |
 | Periapt Cerulean | 9.00% | ~10 |
 | Shroudfane Explorer | 9.00% | ~10 |
+| Best Dressed | 7.00% | ~8 |
 | Armaments Azure | 7.00% | ~8 |
 | Armaments Gules | 7.00% | ~8 |
 | Scholar | 6.00% | ~7 |
-| Best Dressed | 6.00% | ~7 |
 | Veteran | 5.00% | ~6 |
 | Kitted Out | 4.00% | ~5 |
 | Armaments Vert | 4.00% | ~5 |

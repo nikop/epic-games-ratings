@@ -15,9 +15,9 @@ Rating: 4.60 (Ranked 407)
 | Call it Even | 0.90% | ~131 |
 | Captain Drummer | 0.90% | ~131 |
 | Impossible Objects | 0.90% | ~131 |
+| Spore Taste | 0.80% | ~116 |
 | Data Archivist | 0.70% | ~102 |
 | Stogie for Fogey | 0.70% | ~102 |
-| Spore Taste | 0.70% | ~102 |
 | Heal Thy Medic | 0.70% | ~102 |
 | Khan's Revenge | 0.70% | ~102 |
 | Thorston Mayer | 0.50% | ~73 |
