@@ -22,6 +22,7 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 0.10% | ~6 |
 | School's Out for Summer | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
+| Lake Me up Before You Go Go | 0.10% | ~6 |
 | Marathon | 0.10% | ~6 |
 | I'm Hooked! | 0.10% | ~6 |
 | Diamond in the Rough | 0.10% | ~6 |
@@ -35,7 +36,6 @@ Number of Ratings: 281  (23.09.2022)
 | Three Square Meals | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
-| Lake Me up Before You Go Go | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Big Fish Small Pond | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,172 (Ranked 176)  
+Progressed: 6,173 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 6,152 | 0 |
 | 2023-10-29 | 6,157 | 0 |
 | 2023-10-30 | 6,167 | 0 |
-| 2023-10-31 | 6,172 | 0 |
+| 2023-10-31 | 6,173 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 186 (Ranked 402)  

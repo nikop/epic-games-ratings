@@ -1971,9 +1971,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 8197,
+  "EOS_Progressed": 8198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6396,6 +6396,11 @@
       "Time": "2023-10-31T19:03:23.4978286+00:00",
       "NumProgressed": 8197,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T20:03:03.2726396+00:00",
+      "NumProgressed": 8198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6406,9 +6411,9 @@
       "ID": "ach01",
       "SetID": "47in8n6",
       "Name": "Become A Ninja In No Time",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2787
     },
     {
       "ID": "ach02",
@@ -6416,7 +6421,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ach03",
@@ -6432,7 +6437,7 @@
       "Name": "What Just Happened??",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ach05",
@@ -6456,7 +6461,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "ach08",
@@ -6504,7 +6509,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "ach14",
@@ -6528,7 +6533,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "ach17",
@@ -6536,7 +6541,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4344
+      "UsersEstimate": 4345
     },
     {
       "ID": "ach18",
@@ -6576,7 +6581,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "ach23",
@@ -6600,7 +6605,7 @@
       "Name": "Talis-Mania",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1885
+      "UsersEstimate": 1886
     },
     {
       "ID": "ach26",
@@ -6632,7 +6637,7 @@
       "Name": "Unstoppable",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ach30",
@@ -6696,7 +6701,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "ach38",
@@ -6776,7 +6781,7 @@
       "Name": "Big Spender",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ach48",
@@ -6784,7 +6789,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "ach49",
@@ -6807,7 +6812,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8197,
+      "Progressed": 8198,
       "Completed": 0
     }
   ],
@@ -6815,8 +6820,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-10-31T19:01:07.9655534+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:03:23.4978274+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:03:03.2726391+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:01:07.9655541+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:03:23.4978865+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:00:58.4940849+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:03:03.2727103+00:00"
 }

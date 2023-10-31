@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | START | 92.00% | ~254 |
-| Ram Corporal | 84.00% | ~232 |
+| Ram Corporal | 85.00% | ~235 |
 | Ram Sergeant | 66.00% | ~182 |
 | Ram Staff Sergeant | 66.00% | ~182 |
 | Ram First Sergeant | 59.00% | ~163 |

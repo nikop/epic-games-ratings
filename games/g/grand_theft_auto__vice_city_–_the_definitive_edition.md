@@ -5,17 +5,17 @@ Rating: 4.53 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,929 |
+| Legal Counsel | 46.00% | ~4,930 |
 | Greasy Palms | 42.00% | ~4,501 |
 | South American Connection | 26.00% | ~2,786 |
 | Life of the Party | 20.00% | ~2,143 |
 | Tommy Two-Wheels | 16.00% | ~1,715 |
-| Big Heat from Little Havana | 15.00% | ~1,607 |
-| Chauffeur | 15.00% | ~1,607 |
+| Big Heat from Little Havana | 15.00% | ~1,608 |
+| Chauffeur | 15.00% | ~1,608 |
 | Salutations My Little Friend | 11.00% | ~1,179 |
 | Iron-y | 10.00% | ~1,072 |
-| Gun for Hire | 9.00% | ~964 |
-| Mischief Managed | 9.00% | ~964 |
+| Gun for Hire | 9.00% | ~965 |
+| Mischief Managed | 9.00% | ~965 |
 | Vice City Mogul | 7.00% | ~750 |
 | Bloodstained Hands | 7.00% | ~750 |
 | Catch Me if You Can | 6.00% | ~643 |
@@ -23,13 +23,13 @@ Rating: 4.53 (Ranked 532)
 | Grand Theft Auto | 5.00% | ~536 |
 | High Quality H2O | 4.00% | ~429 |
 | Pie Guy | 4.00% | ~429 |
-| Running Rampant | 3.00% | ~321 |
-| Point A to Point B | 3.00% | ~321 |
-| Bull in a China Shop | 3.00% | ~321 |
-| Somebody Call the Wambulance? | 3.00% | ~321 |
-| Just Like the Real Thing | 3.00% | ~321 |
-| Don't Need Roads | 3.00% | ~321 |
-| City Sleuth | 3.00% | ~321 |
+| Running Rampant | 3.00% | ~322 |
+| Point A to Point B | 3.00% | ~322 |
+| Bull in a China Shop | 3.00% | ~322 |
+| Somebody Call the Wambulance? | 3.00% | ~322 |
+| Just Like the Real Thing | 3.00% | ~322 |
+| Don't Need Roads | 3.00% | ~322 |
+| City Sleuth | 3.00% | ~322 |
 | One is Better Than Two | 2.00% | ~214 |
 | Take the Cannoli | 2.00% | ~214 |
 | Chopper’d Up | 2.00% | ~214 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 532)
 | Done it All | 1.00% | ~107 |
 | Kingpin | 0.60% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,716 (Ranked 152)  
+Progressed: 10,717 (Ranked 152)  
 Completed: 63 (0.59%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 63 (0.59%) (Ranked 177)
 | 2023-10-28 | 10,694 | 63 |
 | 2023-10-29 | 10,706 | 63 |
 | 2023-10-30 | 10,710 | 63 |
-| 2023-10-31 | 10,716 | 63 |
+| 2023-10-31 | 10,717 | 63 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 355)  
 Sum: 99 (Ranked 439)  

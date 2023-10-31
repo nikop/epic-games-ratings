@@ -6,22 +6,22 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,137 |
-| Cavalier | 25.00% | ~201,670 |
-| Fatso | 23.00% | ~185,536 |
-| Awakening | 21.00% | ~169,403 |
-| Ranger | 20.00% | ~161,336 |
-| Scrooge | 20.00% | ~161,336 |
-| Anorectic | 16.00% | ~129,069 |
-| Bookworm | 15.00% | ~121,002 |
-| Firestarter | 15.00% | ~121,002 |
-| Insomniac | 13.00% | ~104,868 |
-| Buddy | 12.00% | ~96,801 |
-| Thief | 12.00% | ~96,801 |
+| Blacksmith's Son | 32.00% | ~258,139 |
+| Cavalier | 25.00% | ~201,671 |
+| Fatso | 23.00% | ~185,538 |
+| Awakening | 21.00% | ~169,404 |
+| Ranger | 20.00% | ~161,337 |
+| Scrooge | 20.00% | ~161,337 |
+| Anorectic | 16.00% | ~129,070 |
+| Bookworm | 15.00% | ~121,003 |
+| Firestarter | 15.00% | ~121,003 |
+| Insomniac | 13.00% | ~104,869 |
+| Buddy | 12.00% | ~96,802 |
+| Thief | 12.00% | ~96,802 |
 | Sinner | 11.00% | ~88,735 |
 | Traveller | 11.00% | ~88,735 |
 | Convict | 10.00% | ~80,668 |
-| Haggler | 9.00% | ~72,601 |
+| Haggler | 9.00% | ~72,602 |
 | McLovin | 7.00% | ~56,468 |
 | Runt | 7.00% | ~56,468 |
 | Casanova | 6.00% | ~48,401 |
@@ -31,10 +31,10 @@ Number of Ratings: 9,133  (23.09.2022)
 | Bastard | 4.00% | ~32,267 |
 | Hunter | 4.00% | ~32,267 |
 | Plague Doctor | 4.00% | ~32,267 |
-| Bard | 3.00% | ~24,200 |
-| Conqueror | 3.00% | ~24,200 |
-| Ginger in a Pickle | 3.00% | ~24,200 |
-| Kingdom did not come | 3.00% | ~24,200 |
+| Bard | 3.00% | ~24,201 |
+| Conqueror | 3.00% | ~24,201 |
+| Ginger in a Pickle | 3.00% | ~24,201 |
+| Kingdom did not come | 3.00% | ~24,201 |
 | Completionist | 2.00% | ~16,134 |
 | Death by splinter | 2.00% | ~16,134 |
 | King Charming | 2.00% | ~16,134 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~807 |
 | Wingman | 0.10% | ~807 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,679 (Ranked 17)  
+Progressed: 806,685 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 51 (0.01%) (Ranked 313)
 | 2023-10-28 | 806,357 | 51 |
 | 2023-10-29 | 806,494 | 51 |
 | 2023-10-30 | 806,601 | 51 |
-| 2023-10-31 | 806,679 | 51 |
+| 2023-10-31 | 806,685 | 51 |
 ## Awards
 Max (Character Customization): 7,562  (Ranked 50)  
 Sum: 28,123 (Ranked 49)  

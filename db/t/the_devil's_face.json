@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -2276,9 +2276,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 220
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2324,9 +2324,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2387,8 +2387,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:06:54.7781766+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:06:24.1508043+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:00:35.0008136+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:06:54.7782003+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:00:26.9099482+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:06:24.1508252+00:00"
 }

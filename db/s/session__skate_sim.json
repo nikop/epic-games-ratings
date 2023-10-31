@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1129,9 +1129,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3047,
+  "EOS_Progressed": 3048,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5574,6 +5574,11 @@
       "Time": "2023-10-31T17:08:27.8758817+00:00",
       "NumProgressed": 3047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T20:08:10.4468413+00:00",
+      "NumProgressed": 3048,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5889,7 +5894,7 @@
       "Name": "The finer things in life",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -5953,7 +5958,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -5968,15 +5973,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3047,
+      "Progressed": 3048,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-10-31T08:01:22.6214654+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:08:45.7639357+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:08:10.4468404+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.1163993+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:00:20.2263294+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:08:45.7639889+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:00:10.232709+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:08:10.4468945+00:00"
 }

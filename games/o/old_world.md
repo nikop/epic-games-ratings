@@ -98,6 +98,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
+| Double Victory | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
 | Landowners | 0.80% | ~121 |
 | Hittite Iron | 0.80% | ~121 |
@@ -110,26 +111,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.80% | ~121 |
 | Cimmerian Archer | 0.80% | ~121 |
 | Phalangite | 0.80% | ~121 |
-| Double Victory | 0.80% | ~121 |
-| Capable | 0.70% | ~105 |
-| Ready | 0.70% | ~105 |
-| Strong Difficulty | 0.70% | ~105 |
-| Hunters | 0.70% | ~105 |
-| Church of the Holy Sepulchre | 0.70% | ~105 |
-| Babylonia | 0.70% | ~105 |
-| Carthage | 0.70% | ~105 |
-| One True Faith | 0.70% | ~105 |
-| Assyrian Paganism | 0.70% | ~105 |
-| Industrial Progress | 0.70% | ~105 |
-| Enlightenment | 0.70% | ~105 |
-| Veneration | 0.70% | ~105 |
-| Mounted Lancer | 0.70% | ~105 |
-| Ambition Victory | 0.70% | ~105 |
+| Capable | 0.70% | ~106 |
+| Ready | 0.70% | ~106 |
+| Strong Difficulty | 0.70% | ~106 |
+| Hunters | 0.70% | ~106 |
+| Church of the Holy Sepulchre | 0.70% | ~106 |
+| Babylonia | 0.70% | ~106 |
+| Carthage | 0.70% | ~106 |
+| One True Faith | 0.70% | ~106 |
+| Assyrian Paganism | 0.70% | ~106 |
+| Industrial Progress | 0.70% | ~106 |
+| Enlightenment | 0.70% | ~106 |
+| Veneration | 0.70% | ~106 |
+| Mounted Lancer | 0.70% | ~106 |
+| Ambition Victory | 0.70% | ~106 |
 | Devout | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
 | Hittite Paganism | 0.60% | ~90 |
 | Turreted Elephant | 0.60% | ~90 |
+| All Nations | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
 | Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Cataphract Archer | 0.50% | ~75 |
-| All Nations | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
 | Old | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 1) | 0.20% | ~30 |
 | Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
+| Bronze Victory (Carthage 2) | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
@@ -200,7 +201,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Blade of the Monkey | 0.10% | ~15 |
 | Hagia Sophia in Byzantion | 0.10% | ~15 |
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
-| Bronze Victory (Carthage 2) | 0.10% | ~15 |
 | Epic Victory (Carthage 2) | 0.10% | ~15 |
 | Gold Victory (Carthage 2) | 0.10% | ~15 |
 | Silver Victory (Carthage 2) | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,071 (Ranked 144)  
+Progressed: 15,072 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 5 (0.03%) (Ranked 300)
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
-| 2023-10-31 | 15,071 | 5 |
+| 2023-10-31 | 15,072 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,862 (Ranked 211)  

@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43764,
+  "EOS_Progressed": 43765,
   "EOS_Completed": 239,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17144,6 +17144,11 @@
       "Time": "2023-10-31T18:05:59.0182716+00:00",
       "NumProgressed": 43764,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2023-10-31T20:06:18.955254+00:00",
+      "NumProgressed": 43765,
+      "NumCompleted": 239
     }
   ],
   "TotalAchievements": 44,
@@ -17155,7 +17160,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24945
+      "UsersEstimate": 24946
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17275,7 +17280,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35011
+      "UsersEstimate": 35012
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17371,7 +17376,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10503
+      "UsersEstimate": 10504
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -17379,7 +17384,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24070
+      "UsersEstimate": 24071
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -17387,7 +17392,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14004
+      "UsersEstimate": 14005
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -17395,7 +17400,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27571
+      "UsersEstimate": 27572
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17403,7 +17408,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -17419,7 +17424,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26258
+      "UsersEstimate": 26259
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17427,7 +17432,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -17475,7 +17480,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3063
+      "UsersEstimate": 3064
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -17499,14 +17504,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22757
+      "UsersEstimate": 22758
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43764,
+      "Progressed": 43765,
       "Completed": 239
     }
   ],
@@ -17514,8 +17519,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:06:49.4155434+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:06:18.9552535+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:20.1111445+00:00",
-  "LastUpdate_Ratings": "2023-10-31T18:59:38.9578468+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:06:49.4156526+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:59:27.0113813+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:06:18.9553602+00:00"
 }

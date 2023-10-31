@@ -6,9 +6,9 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 1.00% | ~14 |
 | Gotta Ca... Must Collect All of Them | 1.00% | ~14 |
 | The Cost of Heroism | 1.00% | ~14 |
-| Me and My Familiar | 0.90% | ~13 |
 | How Romantic! | 0.90% | ~13 |
 | Cutthroat Competitors | 0.90% | ~13 |
 | Passing Shadow | 0.80% | ~12 |

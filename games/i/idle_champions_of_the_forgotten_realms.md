@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 966)  
+Rating: 4.06 (Ranked 965)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,6 +17,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~700 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
+| Tall Tales | 0.20% | ~399 |
 | The Witchlight Carnival | 0.20% | ~399 |
 | Thieves of the Coven | 0.20% | ~399 |
 | Hither of the Feywild | 0.20% | ~399 |
@@ -45,6 +46,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~467 |
 | Building Trust | 0.20% | ~467 |
 | Unearthed Evil | 0.20% | ~467 |
+| No Time To Rest | 0.20% | ~467 |
 | The Botched Kidnapping | 0.20% | ~467 |
 | The Crumbling Temple | 0.20% | ~467 |
 | Seeking Allies | 0.20% | ~467 |
@@ -100,7 +102,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~200 |
 | Friends and Foes | 0.10% | ~200 |
 | And Your Enemies Closer | 0.10% | ~200 |
-| Tall Tales | 0.10% | ~200 |
 | Nightmare Rats! | 0.10% | ~200 |
 | An Unexpected Geist | 0.10% | ~200 |
 | Back to Nature | 0.10% | ~200 |
@@ -229,7 +230,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~233 |
 | Azaka's Procession - Part 2 | 0.10% | ~233 |
 | Acererak's Puzzle | 0.10% | ~200 |
-| No Time To Rest | 0.10% | ~233 |
 | The Mists of Ravenloft | 0.10% | ~233 |
 | The Hunt for Owl-y | 0.10% | ~233 |
 | Invisible Shadows | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,323 (Ranked 62)  
+Progressed: 233,326 (Ranked 62)  
 Completed: 2,413 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -729,7 +729,7 @@ Completed: 2,413 (1.03%) (Ranked 151)
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
-| 2023-10-31 | 233,323 | 2,413 |
+| 2023-10-31 | 233,326 | 2,413 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,280 (Ranked 41)  

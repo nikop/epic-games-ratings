@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1962,7 +1962,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15071,
+  "EOS_Progressed": 15072,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
@@ -15132,6 +15132,11 @@
       "Time": "2023-10-31T19:03:21.7809944+00:00",
       "NumProgressed": 15071,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T20:03:01.8441908+00:00",
+      "NumProgressed": 15072,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15341,9 +15346,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 2)",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_EPIC",
@@ -15535,7 +15540,7 @@
       "Name": "Capable",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -15743,7 +15748,7 @@
       "Name": "Ready",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -15935,7 +15940,7 @@
       "Name": "Strong Difficulty",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -15999,7 +16004,7 @@
       "Name": "Hunters",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -16519,7 +16524,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -16751,7 +16756,7 @@
       "Name": "Babylonia",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -16759,7 +16764,7 @@
       "Name": "Carthage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -16815,7 +16820,7 @@
       "Name": "One True Faith",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -16943,7 +16948,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -17087,7 +17092,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -17111,7 +17116,7 @@
       "Name": "Enlightenment",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -17159,7 +17164,7 @@
       "Name": "Veneration",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -17207,7 +17212,7 @@
       "Name": "Mounted Lancer",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -17253,9 +17258,9 @@
       "ID": "ACHIEVEMENT_VICTORY_ALL_NATIONS",
       "SetID": "7l38kb8",
       "Name": "All Nations",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -17263,7 +17268,7 @@
       "Name": "Ambition Victory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -17277,9 +17282,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -17878,21 +17883,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15071,
+      "Progressed": 15072,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15071,
+      "Progressed": 15072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:03:21.7809938+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:03:01.8441903+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T18:58:44.6735139+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:03:21.7819745+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:58:34.3374816+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:03:01.8451967+00:00"
 }

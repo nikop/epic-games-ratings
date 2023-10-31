@@ -14406,10 +14406,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 336728,
       "NumberOfAwardsMax": 103117
+    },
+    {
+      "Time": "2023-10-31T19:58:00.5378936+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 336807,
+      "NumberOfAwardsMax": 103117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336728,
+  "NumberOfAwards": 336807,
   "NumberOfAwardsMax": 103117,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14483,10 +14489,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 12050
+      "Count": 12129
     }
   ],
-  "EOS_Progressed": 894681,
+  "EOS_Progressed": 894688,
   "EOS_Completed": 2736,
   "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 23,
@@ -36446,6 +36452,11 @@
       "Time": "2023-10-31T19:04:58.6289615+00:00",
       "NumProgressed": 894681,
       "NumCompleted": 2736
+    },
+    {
+      "Time": "2023-10-31T20:04:33.2930131+00:00",
+      "NumProgressed": 894688,
+      "NumCompleted": 2736
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -36993,21 +37004,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894681,
+      "Progressed": 894688,
       "Completed": 2736
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23304,
+      "Progressed": 23311,
       "Completed": 10169
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-10-31T15:58:14.5458518+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:04:58.628961+00:00",
+  "LastChanged": "2023-10-31T19:58:00.5378934+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:04:33.2930126+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-10-31T18:58:09.6543206+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:04:58.6291136+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:58:00.537894+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:04:33.2931589+00:00"
 }

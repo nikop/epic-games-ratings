@@ -5,15 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You had one wish left | 9.00% | ~3 |
+| Blessed antennas | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
-| Blessed antennas | 3.00% | ~1 |
 | The beast in the Oval Office | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
+| Pulp! True Adventures | 3.00% | ~1 |
 | Pulp! The Beyond | 3.00% | ~1 |
 | America had no Faith | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
@@ -40,7 +41,6 @@
 | Pulp! Where Monsters Dwell | 0.00% | ~0 |
 | Pulp! Out of this World | 0.00% | ~0 |
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
-| Pulp! True Adventures | 0.00% | ~0 |
 | A continent with chemistry | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
 | Thirst for Oleum | 0.00% | ~0 |

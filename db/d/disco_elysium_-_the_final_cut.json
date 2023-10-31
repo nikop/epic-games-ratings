@@ -1412,9 +1412,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130317,
+  "EOS_Progressed": 130318,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20622,6 +20622,11 @@
       "Time": "2023-10-31T19:04:13.1094165+00:00",
       "NumProgressed": 130317,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-31T20:03:50.633022+00:00",
+      "NumProgressed": 130318,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20849,7 +20854,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18244
+      "UsersEstimate": 18245
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -20913,7 +20918,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18244
+      "UsersEstimate": 18245
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -20952,15 +20957,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130317,
+      "Progressed": 130318,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-29T06:02:11.366846+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:04:13.109416+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:03:50.6330215+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:02:44.5116552+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:04:13.1095328+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:01:26.2957055+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:03:50.633135+00:00"
 }

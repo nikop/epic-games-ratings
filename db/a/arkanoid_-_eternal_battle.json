@@ -2,9 +2,9 @@
   "ID": "935f1f4777c84a1c8c9d8cd995deb6e7",
   "Name": "Arkanoid - Eternal Battle",
   "ProductSlug": "arkanoid-eternal-battle-e1b089",
-  "Ranking_EOS_Progress": 582,
+  "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-27T05:00:00+00:00",
@@ -247,8 +247,8 @@
   "FirstSeenRating": "2023-03-31T06:57:05.6220405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.465852+00:00",
   "LastChanged": "2023-03-31T06:57:05.6220407+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:04:54.303868+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:04:29.4413528+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.0490727+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:00:25.6714975+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:04:54.3038817+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:00:16.0778874+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:04:29.4413654+00:00"
 }

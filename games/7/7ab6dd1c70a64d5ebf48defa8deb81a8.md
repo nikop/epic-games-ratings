@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Powerful Allies | 18.00% | ~7 |
+| Powerful Allies | 17.00% | ~7 |
 | Find Allies | 15.00% | ~6 |
-| Adventurer | 13.00% | ~5 |
-| Essence Blow | 13.00% | ~5 |
-| Scholar | 13.00% | ~5 |
-| Break Out | 10.00% | ~4 |
+| Break Out | 12.00% | ~5 |
+| Adventurer | 12.00% | ~5 |
+| Essence Blow | 12.00% | ~5 |
+| Scholar | 12.00% | ~5 |
 | A Taste of Wrath | 10.00% | ~4 |
 | Trinity | 10.00% | ~4 |
 | Shatter Them All | 10.00% | ~4 |
 | The Collector | 10.00% | ~4 |
-| Calm before the Storm | 8.00% | ~3 |
-| To Battle | 8.00% | ~3 |
-| Godslayer | 8.00% | ~3 |
-| Geared Up | 8.00% | ~3 |
-| Fashion Victim | 8.00% | ~3 |
-| Miner | 8.00% | ~3 |
+| Calm before the Storm | 7.00% | ~3 |
+| To Battle | 7.00% | ~3 |
+| Godslayer | 7.00% | ~3 |
+| Geared Up | 7.00% | ~3 |
+| Fashion Victim | 7.00% | ~3 |
+| Miner | 7.00% | ~3 |
 | The Mentor | 5.00% | ~2 |
 | A Queen's Tale | 5.00% | ~2 |
-| Airborne | 3.00% | ~1 |
-| Tributes of Caladrias | 3.00% | ~1 |
-| I Found It | 3.00% | ~1 |
-| Alchemist | 3.00% | ~1 |
-| Stone Collection | 3.00% | ~1 |
+| Airborne | 2.00% | ~1 |
+| Tributes of Caladrias | 2.00% | ~1 |
+| I Found It | 2.00% | ~1 |
+| Alchemist | 2.00% | ~1 |
+| Stone Collection | 2.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
@@ -37,12 +37,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -2.50% | ~-1 |
-| Flawless Victory | -2.50% | ~-1 |
-| Big Bazar | -2.50% | ~-1 |
+| Shatterer | -2.40% | ~-1 |
+| Flawless Victory | -2.40% | ~-1 |
+| Big Bazar | -2.40% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 471)  
-Completed: 1 (2.50%) (Ranked 109)  
+Progressed: 41 (Ranked 470)  
+Completed: 1 (2.44%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,4 +65,4 @@ Completed: 1 (2.50%) (Ranked 109)
 | 2023-10-09 | 33 | 1 |
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
-| 2023-10-31 | 40 | 1 |
+| 2023-10-31 | 41 | 1 |

@@ -350,9 +350,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_030",
@@ -390,9 +390,9 @@
       "ID": "ACH_034",
       "SetID": "7b646ck",
       "Name": "DI Hardwicke",
-      "Percentage": 32,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_035",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:05:00.6376787+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:04:35.3078662+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.7786932+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:03:07.9278559+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:05:00.6377109+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:02:46.9287313+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:04:35.3078953+00:00"
 }

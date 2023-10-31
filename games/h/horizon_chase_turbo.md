@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~961,676 |
-| I Need a Bigger Garage | 63.00% | ~673,173 |
-| Pump my Ride | 47.00% | ~502,209 |
-| Ghostbuster | 34.00% | ~363,300 |
-| Call Roadside Assistance | 18.00% | ~192,335 |
-| That Was Close | 18.00% | ~192,335 |
-| Quickie | 11.00% | ~117,538 |
-| California Dreamer | 7.00% | ~74,797 |
-| Can't Touch This | 5.00% | ~53,426 |
-| Carménère Taster | 4.00% | ~42,741 |
-| Comeback | 4.00% | ~42,741 |
+| The First of Many | 90.00% | ~961,691 |
+| I Need a Bigger Garage | 63.00% | ~673,184 |
+| Pump my Ride | 47.00% | ~502,217 |
+| Ghostbuster | 34.00% | ~363,306 |
+| Call Roadside Assistance | 18.00% | ~192,338 |
+| That Was Close | 18.00% | ~192,338 |
+| Quickie | 11.00% | ~117,540 |
+| California Dreamer | 7.00% | ~74,798 |
+| Can't Touch This | 5.00% | ~53,427 |
+| Carménère Taster | 4.00% | ~42,742 |
+| Comeback | 4.00% | ~42,742 |
 | Driver from Ipanema | 3.00% | ~32,056 |
 | Supersonic | 3.00% | ~32,056 |
 | Marathonist | 3.00% | ~32,056 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,069 |
 | Look Mom, No Hands! | 0.10% | ~1,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,529 (Ranked 13)  
+Progressed: 1,068,546 (Ranked 13)  
 Completed: 472 (0.04%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,10 +238,10 @@ Completed: 472 (0.04%) (Ranked 294)
 | 2023-10-28 | 1,067,343 | 471 |
 | 2023-10-29 | 1,067,869 | 471 |
 | 2023-10-30 | 1,068,227 | 472 |
-| 2023-10-31 | 1,068,529 | 472 |
+| 2023-10-31 | 1,068,546 | 472 |
 ## Awards
 Max (Great for Beginners): 162  (Ranked 305)  
-Sum: 1,353 (Ranked 233)  
+Sum: 1,354 (Ranked 233)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -254,7 +254,7 @@ Diff (max vs sum): 72
 | This game has Playful Visuals | 122 |
 | This game is Extremely Fun | 118 |
 | This game has Amazing Storytelling | 103 |
-| This game has Amazing Characters | 96 |
+| This game has Amazing Characters | 97 |
 | This game has a Competitive Community | 86 |
 | This game has Diverse Characters | 75 |
 ## Ratings History
@@ -489,4 +489,4 @@ Diff (max vs sum): 72
 | 2023-10-26 | 4.55 | - | 161 | 1,348 |
 | 2023-10-29 | 4.55 | - | 161 | 1,351 |
 | 2023-10-30 | 4.55 | - | 162 | 1,352 |
-| 2023-10-31 | 4.55 | - | 162 | 1,353 |
+| 2023-10-31 | 4.55 | - | 162 | 1,354 |

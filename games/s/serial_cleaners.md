@@ -11,7 +11,7 @@
 | Small-time Finder | 16.00% | ~42 |
 | Business as usual | 13.00% | ~34 |
 | Mr. Hygeni | 10.00% | ~26 |
-| Pride and Joy | 8.00% | ~21 |
+| Pride and Joy | 9.00% | ~24 |
 | Eyes Yet To Open | 7.00% | ~18 |
 | Hackathon | 6.00% | ~16 |
 | All the Stories | 4.00% | ~10 |

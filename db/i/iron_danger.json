@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -727,9 +727,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -856,8 +856,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:06:09.4922124+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:05:41.0812785+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.6998262+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:00:42.0458085+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:06:09.4922297+00:00"
+  "LastUpdate_Ratings": "2023-10-31T20:00:32.1698758+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:05:41.0813005+00:00"
 }

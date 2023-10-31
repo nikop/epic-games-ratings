@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3801,
+  "EOS_Progressed": 3802,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7571,6 +7571,11 @@
       "Time": "2023-10-31T14:03:20.7340332+00:00",
       "NumProgressed": 3801,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-31T20:03:16.8147171+00:00",
+      "NumProgressed": 3802,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7662,7 +7667,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7750,7 +7755,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7790,7 +7795,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7806,7 +7811,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7830,7 +7835,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7894,7 +7899,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7918,7 +7923,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7950,7 +7955,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7974,7 +7979,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8149,13 +8154,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3752,
+      "Progressed": 3753,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3801,
+      "Progressed": 3802,
       "Completed": 11
     }
   ],
@@ -8163,8 +8168,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-31T19:03:37.7285435+00:00",
+  "LastChanged_Achievements": "2023-10-31T20:03:16.8147167+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-10-31T19:00:02.3371298+00:00",
-  "LastUpdate_Achievements": "2023-10-31T19:03:37.7286424+00:00"
+  "LastUpdate_Ratings": "2023-10-31T19:59:52.6880604+00:00",
+  "LastUpdate_Achievements": "2023-10-31T20:03:16.8148057+00:00"
 }

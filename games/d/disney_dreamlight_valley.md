@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,860 |
-| Photographer | 69.00% | ~7,748 |
-| Valley's Helper | 62.00% | ~6,962 |
-| Constructor | 52.00% | ~5,839 |
-| Renovator | 52.00% | ~5,839 |
-| Bestest Friend | 47.00% | ~5,278 |
-| Banker | 39.00% | ~4,379 |
-| Gardener | 31.00% | ~3,481 |
-| Generous | 25.00% | ~2,807 |
-| Chef Cook | 18.00% | ~2,021 |
+| Goofy's Investor | 70.00% | ~7,862 |
+| Photographer | 69.00% | ~7,749 |
+| Valley's Helper | 62.00% | ~6,963 |
+| Constructor | 52.00% | ~5,840 |
+| Renovator | 51.00% | ~5,728 |
+| Bestest Friend | 47.00% | ~5,279 |
+| Banker | 39.00% | ~4,380 |
+| Gardener | 31.00% | ~3,482 |
+| Generous | 25.00% | ~2,808 |
+| Chef Cook | 18.00% | ~2,022 |
 | Miner | 10.00% | ~1,123 |
 | Duty Bound | 7.00% | ~786 |
-| Angler | 5.00% | ~561 |
-| Thorn Cleaner | 5.00% | ~561 |
+| Angler | 5.00% | ~562 |
+| Thorn Cleaner | 5.00% | ~562 |
 | Chit Chatter | 3.00% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,229 (Ranked 151)  
-Completed: 267 (2.38%) (Ranked 115)  
+Progressed: 11,231 (Ranked 151)  
+Completed: 267 (2.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,10 +167,10 @@ Completed: 267 (2.38%) (Ranked 115)
 | 2023-10-28 | 11,141 | 265 |
 | 2023-10-29 | 11,178 | 266 |
 | 2023-10-30 | 11,211 | 267 |
-| 2023-10-31 | 11,229 | 267 |
+| 2023-10-31 | 11,231 | 267 |
 ## Awards
 Max (Great for Beginners): 1,040  (Ranked 149)  
-Sum: 7,802 (Ranked 106)  
+Sum: 7,803 (Ranked 106)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -182,7 +182,7 @@ Diff (max vs sum): 43
 | This game has Amazing Storytelling | 773 |
 | This game is Extremely Fun | 761 |
 | This game has Quickly Understood Controls | 749 |
-| This game has a Creative Community | 650 |
+| This game has a Creative Community | 651 |
 | This game has Easy Combat | 519 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -420,4 +420,4 @@ Diff (max vs sum): 43
 | 2023-10-28 | 4.76 | - | 1,035 | 7,788 |
 | 2023-10-29 | 4.76 | - | 1,035 | 7,794 |
 | 2023-10-30 | 4.76 | - | 1,035 | 7,796 |
-| 2023-10-31 | 4.76 | - | 1,040 | 7,802 |
+| 2023-10-31 | 4.76 | - | 1,040 | 7,803 |

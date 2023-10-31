@@ -11,10 +11,10 @@ Rating: 4.60 (Ranked 407)
 | Drone Dodger | 1.00% | ~145 |
 | Call it Even | 1.00% | ~145 |
 | Bosmang | 1.00% | ~145 |
+| Captain Drummer | 1.00% | ~145 |
 | Celebrations are in Order | 1.00% | ~145 |
+| Impossible Objects | 1.00% | ~145 |
 | Martian Music | 0.90% | ~131 |
-| Captain Drummer | 0.90% | ~131 |
-| Impossible Objects | 0.90% | ~131 |
 | Spore Taste | 0.80% | ~116 |
 | Heal Thy Medic | 0.80% | ~116 |
 | Data Archivist | 0.70% | ~102 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 407)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,511 (Ranked 145)  
+Progressed: 14,514 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 28 (0.19%) (Ranked 238)
 | 2023-10-28 | 14,430 | 28 |
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
-| 2023-10-31 | 14,511 | 28 |
+| 2023-10-31 | 14,514 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
