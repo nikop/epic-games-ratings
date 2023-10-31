@@ -10,8 +10,8 @@
 | Do what you have to | 39.00% | ~13 |
 | Finished it | 33.00% | ~11 |
 | The artist’s impression | 30.00% | ~10 |
+| Scraps of love | 27.00% | ~9 |
 | Refuse to look | 24.00% | ~8 |
-| Scraps of love | 24.00% | ~8 |
 | Sign of weakness | 24.00% | ~8 |
 | It's covered up for a reason | 21.00% | ~7 |
 | First steps | 15.00% | ~5 |

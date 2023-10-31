@@ -58,6 +58,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.80% | ~1,107 |
 | Expansion in Session | 0.80% | ~1,107 |
 | Mammonite | 0.80% | ~1,107 |
+| Miracle Alchemist | 0.80% | ~1,107 |
 | Seasoned Journeyman | 0.80% | ~1,107 |
 | Black Friday Special | 0.80% | ~1,107 |
 | Special Ingredient | 0.80% | ~1,107 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.70% | ~969 |
 | Necromancer Queen | 0.70% | ~969 |
 | Master Merchant | 0.70% | ~969 |
-| Miracle Alchemist | 0.70% | ~969 |
 | Laden with Loot | 0.70% | ~969 |
 | Scourge of the Seas | 0.70% | ~969 |
 | Attrition Mission | 0.70% | ~969 |

@@ -5,10 +5,10 @@ Rating: 3.82 (Ranked 1,013)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~406,294 |
-| Handy | 41.00% | ~219,185 |
-| Cold Caller | 39.00% | ~208,493 |
-| A Bit On The Side | 27.00% | ~144,341 |
+| Pro Creation | 76.00% | ~406,295 |
+| Handy | 41.00% | ~219,186 |
+| Cold Caller | 39.00% | ~208,494 |
+| A Bit On The Side | 27.00% | ~144,342 |
 | Backdoor | 25.00% | ~133,650 |
 | Rank Amateur | 21.00% | ~112,266 |
 | Three Way | 18.00% | ~96,228 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,013)
 | Rounder | 0.10% | ~535 |
 | Top Dog | 0.10% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,598 (Ranked 34)  
+Progressed: 534,599 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 2 (0.00%) (Ranked 333)
 | 2023-10-28 | 534,143 | 2 |
 | 2023-10-29 | 534,392 | 2 |
 | 2023-10-30 | 534,578 | 2 |
-| 2023-10-31 | 534,598 | 2 |
+| 2023-10-31 | 534,599 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 415)  
 Sum: 134 (Ranked 423)  

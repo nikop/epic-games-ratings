@@ -13,6 +13,7 @@
 | You have three wishes left | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
+| Pulp! The Beyond | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
 | The beast in the Oval Office | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Pulp! Out of this World | 0.00% | ~0 |
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
-| Pulp! The Beyond | 0.00% | ~0 |
 | A continent with chemistry | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
 | Thirst for Oleum | 0.00% | ~0 |

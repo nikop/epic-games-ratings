@@ -9721,10 +9721,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47060,
       "NumberOfAwardsMax": 23909
+    },
+    {
+      "Time": "2023-10-31T02:16:17.2097146+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47061,
+      "NumberOfAwardsMax": 23909
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47060,
+  "NumberOfAwards": 47061,
   "NumberOfAwardsMax": 23909,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9774,7 +9780,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1176
+      "Count": 1177
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9801,7 +9807,7 @@
       "Count": 755
     }
   ],
-  "EOS_Progressed": 299872,
+  "EOS_Progressed": 299873,
   "EOS_Completed": 498,
   "EOS_NewPlayers": 1129,
   "EOS_NewCompleters": 7,
@@ -30481,6 +30487,11 @@
       "Time": "2023-10-31T01:52:59.542266+00:00",
       "NumProgressed": 299872,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-10-31T02:26:29.9217155+00:00",
+      "NumProgressed": 299873,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30796,7 +30807,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 26988
+      "UsersEstimate": 26989
     },
     {
       "ID": "PFA_45",
@@ -30844,23 +30855,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26988
+      "UsersEstimate": 26989
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 299872,
+      "Progressed": 299873,
       "Completed": 498
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-10-31T01:42:11.0304947+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:52:59.5422655+00:00",
+  "LastChanged": "2023-10-31T02:16:17.2097144+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:26:29.9217151+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:42:11.0304957+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:52:59.5424771+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:16:17.209715+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:26:29.9218434+00:00"
 }

@@ -6,46 +6,46 @@ Number of Ratings: 3,181  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is It Really Necessary? | 91.00% | ~3,672,966 |
-| Little Craftsman | 89.00% | ~3,592,241 |
-| Flight of the Crane | 86.00% | ~3,471,154 |
-| My left or your left? | 52.00% | ~2,098,838 |
-| Prom Night | 45.00% | ~1,816,302 |
-| Can't Touch This | 38.00% | ~1,533,766 |
-| Mouths Wide Open | 38.00% | ~1,533,766 |
-| I've Got Your Back | 37.00% | ~1,493,404 |
-| Open Sesame | 36.00% | ~1,453,041 |
-| Strong | 36.00% | ~1,453,041 |
-| Harran Shooting Club | 32.00% | ~1,291,592 |
-| Snake in the grass | 31.00% | ~1,251,230 |
-| Agile | 31.00% | ~1,251,230 |
-| Trade Company | 30.00% | ~1,210,868 |
-| Everybody Knows Kyle | 30.00% | ~1,210,868 |
-| Sightseeing | 29.00% | ~1,170,506 |
-| Hush, Hush Now | 25.00% | ~1,009,056 |
-| Making Faces | 25.00% | ~1,009,056 |
-| Tied loose end | 23.00% | ~928,332 |
-| Vertigo | 22.00% | ~887,970 |
-| Now You Can Come In | 21.00% | ~847,607 |
-| The Legend of Harran | 20.00% | ~807,245 |
-| Bittersweet | 19.00% | ~766,883 |
-| Pheidippides | 17.00% | ~686,158 |
-| Everybody Dance Now | 14.00% | ~565,072 |
-| Afraid to get wet? | 14.00% | ~565,072 |
-| BBQ | 11.00% | ~443,985 |
-| Disaster Recovery | 8.00% | ~322,898 |
-| Pearls in the Mud | 8.00% | ~322,898 |
-| I felt your presence | 8.00% | ~322,898 |
-| Now It's Safe | 7.00% | ~282,536 |
-| Mount Everest | 7.00% | ~282,536 |
-| A Game of Catch | 7.00% | ~282,536 |
-| Master Crafter | 7.00% | ~282,536 |
-| I was waiting for you for so long | 7.00% | ~282,536 |
-| Gabriel's Sword | 5.00% | ~201,811 |
-| And you liked him, didn't you? | 5.00% | ~201,811 |
-| What if you picked the other one? | 5.00% | ~201,811 |
-| We're All In This Together | 4.00% | ~161,449 |
-| A Long Way Down | 4.00% | ~161,449 |
+| Is It Really Necessary? | 91.00% | ~3,672,982 |
+| Little Craftsman | 89.00% | ~3,592,257 |
+| Flight of the Crane | 86.00% | ~3,471,170 |
+| My left or your left? | 52.00% | ~2,098,847 |
+| Prom Night | 45.00% | ~1,816,310 |
+| Can't Touch This | 38.00% | ~1,533,773 |
+| Mouths Wide Open | 38.00% | ~1,533,773 |
+| I've Got Your Back | 37.00% | ~1,493,410 |
+| Open Sesame | 36.00% | ~1,453,048 |
+| Strong | 36.00% | ~1,453,048 |
+| Harran Shooting Club | 32.00% | ~1,291,598 |
+| Snake in the grass | 31.00% | ~1,251,236 |
+| Agile | 31.00% | ~1,251,236 |
+| Trade Company | 30.00% | ~1,210,873 |
+| Everybody Knows Kyle | 30.00% | ~1,210,873 |
+| Sightseeing | 29.00% | ~1,170,511 |
+| Hush, Hush Now | 25.00% | ~1,009,061 |
+| Making Faces | 25.00% | ~1,009,061 |
+| Tied loose end | 23.00% | ~928,336 |
+| Vertigo | 22.00% | ~887,974 |
+| Now You Can Come In | 21.00% | ~847,611 |
+| The Legend of Harran | 20.00% | ~807,249 |
+| Bittersweet | 19.00% | ~766,886 |
+| Pheidippides | 17.00% | ~686,161 |
+| Everybody Dance Now | 14.00% | ~565,074 |
+| Afraid to get wet? | 14.00% | ~565,074 |
+| BBQ | 11.00% | ~443,987 |
+| Disaster Recovery | 8.00% | ~322,900 |
+| Pearls in the Mud | 8.00% | ~322,900 |
+| I felt your presence | 8.00% | ~322,900 |
+| Now It's Safe | 7.00% | ~282,537 |
+| Mount Everest | 7.00% | ~282,537 |
+| A Game of Catch | 7.00% | ~282,537 |
+| Master Crafter | 7.00% | ~282,537 |
+| I was waiting for you for so long | 7.00% | ~282,537 |
+| Gabriel's Sword | 5.00% | ~201,812 |
+| And you liked him, didn't you? | 5.00% | ~201,812 |
+| What if you picked the other one? | 5.00% | ~201,812 |
+| We're All In This Together | 4.00% | ~161,450 |
+| A Long Way Down | 4.00% | ~161,450 |
 | Bolter Hunting | 3.00% | ~121,087 |
 | Blinded by the Lights | 3.00% | ~121,087 |
 | High Flyer | 3.00% | ~121,087 |
@@ -85,7 +85,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Fast as hell | 0.10% | ~4,036 |
 | Into the lava | 0.10% | ~4,036 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,036,226 (Ranked 3)  
+Progressed: 4,036,244 (Ranked 3)  
 Completed: 47 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 47 (0.00%) (Ranked 333)
 | 2023-10-28 | 4,032,172 | 47 |
 | 2023-10-29 | 4,034,459 | 47 |
 | 2023-10-30 | 4,036,098 | 47 |
-| 2023-10-31 | 4,036,226 | 47 |
+| 2023-10-31 | 4,036,244 | 47 |
 ## Awards
 Max (Character Customization): 47,917  (Ranked 12)  
 Sum: 91,073 (Ranked 18)  

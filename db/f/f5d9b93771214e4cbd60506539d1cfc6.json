@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150619,
+  "EOS_Progressed": 150623,
   "EOS_Completed": 315,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16363,6 +16363,11 @@
       "Time": "2023-10-31T01:47:25.4488757+00:00",
       "NumProgressed": 150619,
       "NumCompleted": 315
+    },
+    {
+      "Time": "2023-10-31T02:21:03.1992118+00:00",
+      "NumProgressed": 150623,
+      "NumCompleted": 315
     }
   ],
   "TotalAchievements": 31,
@@ -16382,7 +16387,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105433
+      "UsersEstimate": 105436
     },
     {
       "ID": "EAwards_10",
@@ -16398,7 +16403,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31630
+      "UsersEstimate": 31631
     },
     {
       "ID": "EAwards_12",
@@ -16406,7 +16411,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25605
+      "UsersEstimate": 25606
     },
     {
       "ID": "EAwards_13",
@@ -16422,7 +16427,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58741
+      "UsersEstimate": 58743
     },
     {
       "ID": "EAwards_15",
@@ -16430,7 +16435,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18074
+      "UsersEstimate": 18075
     },
     {
       "ID": "EAwards_16",
@@ -16446,7 +16451,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33136
+      "UsersEstimate": 33137
     },
     {
       "ID": "EAwards_18",
@@ -16454,7 +16459,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33136
+      "UsersEstimate": 33137
     },
     {
       "ID": "EAwards_19",
@@ -16470,7 +16475,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42173
+      "UsersEstimate": 42174
     },
     {
       "ID": "EAwards_20",
@@ -16486,7 +16491,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16568
+      "UsersEstimate": 16569
     },
     {
       "ID": "EAwards_22",
@@ -16582,7 +16587,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16568
+      "UsersEstimate": 16569
     },
     {
       "ID": "EAwards_6",
@@ -16590,7 +16595,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37655
+      "UsersEstimate": 37656
     },
     {
       "ID": "EAwards_7",
@@ -16606,7 +16611,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55729
+      "UsersEstimate": 55731
     },
     {
       "ID": "EAwards_9",
@@ -16614,14 +16619,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18074
+      "UsersEstimate": 18075
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150619,
+      "Progressed": 150623,
       "Completed": 315
     }
   ],
@@ -16629,8 +16634,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:47:25.4488748+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:21:03.1992115+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:41:15.9394678+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:47:25.4490112+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:15:28.8366488+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:21:03.1993039+00:00"
 }

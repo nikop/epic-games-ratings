@@ -84,18 +84,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~151 |
 | Win a Single Player Game | 1.00% | ~151 |
 | Kushite Pyramids | 1.00% | ~151 |
-| Invincible | 0.90% | ~135 |
-| Subjugator | 0.90% | ~135 |
-| Patrons | 0.90% | ~135 |
-| Riders | 0.90% | ~135 |
-| Statesmen | 0.90% | ~135 |
-| Traders | 0.90% | ~135 |
-| Circus Maximus | 0.90% | ~135 |
-| Building Wonders | 0.90% | ~135 |
-| Economic Reform | 0.90% | ~135 |
-| Redemption | 0.90% | ~135 |
-| Legionary | 0.90% | ~135 |
-| The Clergy | 0.90% | ~135 |
+| Invincible | 0.90% | ~136 |
+| Subjugator | 0.90% | ~136 |
+| Patrons | 0.90% | ~136 |
+| Riders | 0.90% | ~136 |
+| Statesmen | 0.90% | ~136 |
+| Traders | 0.90% | ~136 |
+| Circus Maximus | 0.90% | ~136 |
+| Building Wonders | 0.90% | ~136 |
+| Economic Reform | 0.90% | ~136 |
+| Redemption | 0.90% | ~136 |
+| Legionary | 0.90% | ~136 |
+| The Clergy | 0.90% | ~136 |
 | Landowners | 0.80% | ~120 |
 | Hittite Iron | 0.80% | ~120 |
 | Hagia Sophia | 0.80% | ~120 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,055 (Ranked 143)  
+Progressed: 15,056 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,6 +543,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
+| 2023-10-31 | 15,056 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,857 (Ranked 211)  

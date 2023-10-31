@@ -6789,7 +6789,7 @@
   ],
   "EOS_Progressed": 138375,
   "EOS_Completed": 176,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27172,9 +27172,9 @@
       "ID": "lilu_a",
       "SetID": "anfd17p",
       "Name": "Miracle Alchemist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 1107
     },
     {
       "ID": "loot01",
@@ -27460,8 +27460,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-10-30T20:00:29.7961144+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:49:59.9878245+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:23:36.2897563+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:43:22.3818205+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:49:59.9881594+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:17:19.7084757+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:23:36.2899711+00:00"
 }

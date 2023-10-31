@@ -928,9 +928,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -976,9 +976,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -1032,17 +1032,17 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -1184,9 +1184,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:49:38.3052438+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:23:17.9414716+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:40:44.6962529+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:49:38.3053562+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:14:57.3790322+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:23:17.941557+00:00"
 }

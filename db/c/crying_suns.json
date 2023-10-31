@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 469982,
+  "EOS_Progressed": 469983,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20881,6 +20881,11 @@
       "Time": "2023-10-31T01:53:30.7540803+00:00",
       "NumProgressed": 469982,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-31T02:26:56.1986792+00:00",
+      "NumProgressed": 469983,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20980,7 +20985,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310188
+      "UsersEstimate": 310189
     },
     {
       "ID": "achievement_story_landa",
@@ -21068,7 +21073,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93996
+      "UsersEstimate": 93997
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -21316,7 +21321,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206792
+      "UsersEstimate": 206793
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21523,21 +21528,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13916,
+      "Progressed": 13917,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 469982,
+      "Progressed": 469983,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:53:30.7540797+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:26:56.1986788+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:43:50.1622202+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:53:30.7543319+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:17:46.5110873+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:26:56.1988439+00:00"
 }

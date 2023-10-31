@@ -6,36 +6,36 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~113,442 |
+| A Place to Lay Your Head | 93.00% | ~113,443 |
 | Don't Make Me Turn This Coach Around | 71.00% | ~86,607 |
-| A Clear Conscience | 69.00% | ~84,167 |
-| Unleash Hell | 68.00% | ~82,947 |
-| Unfulfilled Desires | 68.00% | ~82,947 |
-| Funny Guy | 67.00% | ~81,727 |
-| Unshackled | 67.00% | ~81,727 |
-| Long Live the King | 66.00% | ~80,507 |
-| Resurrection | 62.00% | ~75,628 |
-| Wyrdly Reconstructed | 62.00% | ~75,628 |
+| A Clear Conscience | 69.00% | ~84,168 |
+| Unleash Hell | 68.00% | ~82,948 |
+| Unfulfilled Desires | 68.00% | ~82,948 |
+| Funny Guy | 67.00% | ~81,728 |
+| Unshackled | 67.00% | ~81,728 |
+| Long Live the King | 66.00% | ~80,508 |
+| Resurrection | 62.00% | ~75,629 |
+| Wyrdly Reconstructed | 62.00% | ~75,629 |
 | Boxcar Kid | 60.00% | ~73,189 |
 | Rush Hour | 60.00% | ~73,189 |
 | To Grandmother's House | 60.00% | ~73,189 |
 | Serenity Now! | 54.00% | ~65,870 |
-| Hope Rekindled | 50.00% | ~60,990 |
+| Hope Rekindled | 50.00% | ~60,991 |
 | Ramble On | 49.00% | ~59,771 |
 | Nope | 49.00% | ~59,771 |
 | This Looks Familiar | 38.00% | ~46,353 |
 | Now Stay Dead | 38.00% | ~46,353 |
 | Harvest Festival | 37.00% | ~45,133 |
-| Merry Time | 36.00% | ~43,913 |
-| Hot Air | 36.00% | ~43,913 |
+| Merry Time | 36.00% | ~43,914 |
+| Hot Air | 36.00% | ~43,914 |
 | Creep and Sleep | 33.00% | ~40,254 |
 | Overdue Notice | 32.00% | ~39,034 |
 | Whale | 32.00% | ~39,034 |
 | Banishment | 31.00% | ~37,814 |
-| FNG | 30.00% | ~36,594 |
-| Predator | 25.00% | ~30,495 |
-| Reverse Banditry | 25.00% | ~30,495 |
-| Autodidact | 25.00% | ~30,495 |
+| FNG | 30.00% | ~36,595 |
+| Predator | 25.00% | ~30,496 |
+| Reverse Banditry | 25.00% | ~30,496 |
+| Autodidact | 25.00% | ~30,496 |
 | Meat and Greet | 23.00% | ~28,056 |
 | Spelunker | 22.00% | ~26,836 |
 | Road Trip | 22.00% | ~26,836 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~122 |
 | No Gravestone Left Unturned | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,981 (Ranked 82)  
+Progressed: 121,982 (Ranked 82)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 121,769 | 1 |
 | 2023-10-29 | 121,883 | 1 |
 | 2023-10-30 | 121,965 | 1 |
-| 2023-10-31 | 121,981 | 1 |
+| 2023-10-31 | 121,982 | 1 |
 ## Awards
 Max (Character Customization): 7,482  (Ranked 51)  
 Sum: 19,640 (Ranked 59)  

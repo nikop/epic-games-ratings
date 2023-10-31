@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 937,
+  "EOS_Progressed": 938,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1100,6 +1100,11 @@
       "Time": "2023-10-31T00:04:31.2352147+00:00",
       "NumProgressed": 937,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T02:21:51.6762754+00:00",
+      "NumProgressed": 938,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1192,7 +1197,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1222,9 +1227,9 @@
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1232,7 +1237,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -1286,9 +1291,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -1351,14 +1356,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 937,
+      "Progressed": 938,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:48:22.0228905+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:21:51.676275+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:40:35.0939191+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:48:22.0229251+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:14:47.1389261+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:21:51.6762959+00:00"
 }

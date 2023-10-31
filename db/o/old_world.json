@@ -1950,7 +1950,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15055,
+  "EOS_Progressed": 15056,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
@@ -15065,6 +15065,11 @@
       "Time": "2023-10-30T23:08:54.2848009+00:00",
       "NumProgressed": 15055,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T02:25:13.0068546+00:00",
+      "NumProgressed": 15056,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15572,7 +15577,7 @@
       "Name": "Invincible",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -15716,7 +15721,7 @@
       "Name": "Subjugator",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -15948,7 +15953,7 @@
       "Name": "Patrons",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -15956,7 +15961,7 @@
       "Name": "Riders",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -15972,7 +15977,7 @@
       "Name": "Statesmen",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -15980,7 +15985,7 @@
       "Name": "Traders",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -16412,7 +16417,7 @@
       "Name": "Circus Maximus",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -16980,7 +16985,7 @@
       "Name": "Building Wonders",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -17012,7 +17017,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -17076,7 +17081,7 @@
       "Name": "Redemption",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -17148,7 +17153,7 @@
       "Name": "Legionary",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -17356,7 +17361,7 @@
       "Name": "The Clergy",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -17811,21 +17816,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15055,
+      "Progressed": 15056,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15055,
+      "Progressed": 15056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-29T07:57:54.8391752+00:00",
-  "LastChanged_Achievements": "2023-10-31T01:51:29.5233764+00:00",
+  "LastChanged_Achievements": "2023-10-31T02:25:13.0068543+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T01:42:00.0558413+00:00",
-  "LastUpdate_Achievements": "2023-10-31T01:51:29.5245874+00:00"
+  "LastUpdate_Ratings": "2023-10-31T02:16:10.0151042+00:00",
+  "LastUpdate_Achievements": "2023-10-31T02:25:13.0078852+00:00"
 }

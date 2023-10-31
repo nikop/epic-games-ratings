@@ -31,11 +31,11 @@
 | Snowy Poro | 41.00% | ~15 |
 | The Relentless Storm | 41.00% | ~15 |
 | Bullseye | 38.00% | ~14 |
+| The Finisher | 38.00% | ~14 |
 | So Close | 35.00% | ~13 |
 | You Get Used To It | 35.00% | ~13 |
 | Family | 35.00% | ~13 |
 | Biggest Snowball Ever | 35.00% | ~13 |
-| The Finisher | 35.00% | ~13 |
 | Boosted! | 35.00% | ~13 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~13 |
 | Freeze The Ice Witch | 32.00% | ~12 |
