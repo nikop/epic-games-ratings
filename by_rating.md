@@ -453,7 +453,7 @@
 | 443 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 39 | 454 |
 | 443 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 0 | 544 |
 | 443 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 532 |
-| 443 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 9,174 | 41 |
+| 443 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 9,197 | 41 |
 | 443 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,500 | 128 |
 | 443 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 323 |
 | 443 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 215 | 277 |
@@ -848,7 +848,7 @@
 | 841 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 299 |
 | 847 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 544 |
 | 847 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 544 |
-| 847 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,831 | 85 |
+| 847 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,834 | 85 |
 | 847 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 544 |
 | 847 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 20 | 536 |
 | 847 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 544 |

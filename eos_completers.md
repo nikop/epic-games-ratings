@@ -3,9 +3,9 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.21% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.07% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.49% |
+| 6 | [The Riflemen](games/t/the_riflemen.md) | 40.48% |
 | 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -57,14 +57,14 @@
 | 55 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 56 | [Scorn](games/s/scorn.md) | 6.95% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.61% |
-| 58 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 6.45% |
-| 59 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
-| 60 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
+| 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 59 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 6.25% |
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 61 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.75% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
-| 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.26% |
+| 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.19% |
 | 66 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 67 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.92% |
 | 68 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
@@ -126,7 +126,7 @@
 | 124 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 125 | [Sifu](games/s/sifu.md) | 1.81% |
 | 126 | [Frogun](games/f/frogun.md) | 1.79% |
-| 127 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.75% |
+| 127 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.74% |
 | 128 | [Night Book](games/n/night_book.md) | 1.70% |
 | 128 | [Somerville](games/s/somerville.md) | 1.70% |
 | 130 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.68% |
@@ -153,7 +153,7 @@
 | 151 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 152 | [Sable](games/s/sable.md) | 1.01% |
 | 153 | [Trifox](games/t/trifox.md) | 0.98% |
-| 154 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.97% |
+| 154 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.96% |
 | 155 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 155 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 157 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.93% |
@@ -251,12 +251,12 @@
 | 249 | [BLACKTAIL](games/b/blacktail.md) | 0.14% |
 | 249 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.14% |
 | 251 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
+| 251 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.13% |
 | 251 | [Isonzo](games/i/isonzo.md) | 0.13% |
 | 251 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
 | 251 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
-| 255 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.12% |
-| 255 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
-| 255 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
+| 256 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
+| 256 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 258 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.11% |
 | 258 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 258 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |

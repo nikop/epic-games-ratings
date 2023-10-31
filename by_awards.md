@@ -40,7 +40,7 @@
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,477 | 4.78 | 105 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,330 | 4.61 | 381 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,737 | 4.58 | 443 |
-| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,174 | 4.58 | 443 |
+| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,197 | 4.58 | 443 |
 | 42 | [Control](games/c/control.md) | 8,638 | 4.60 | 407 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,523 | 4.89 | 10 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,377 | 4.48 | 617 |
@@ -84,7 +84,7 @@
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,240 | 4.57 | 465 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,144 | 4.51 | 560 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,007 | 4.68 | 250 |
-| 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,831 | 4.27 | 847 |
+| 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,834 | 4.27 | 847 |
 | 86 | [Trackmania](games/t/trackmania.md) | 3,816 | 4.66 | 290 |
 | 87 | [Paladins](games/p/paladins.md) | 3,766 | 4.33 | 803 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,761 | 4.68 | 250 |
