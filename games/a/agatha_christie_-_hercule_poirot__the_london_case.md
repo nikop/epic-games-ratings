@@ -12,9 +12,9 @@
 | The Gala | 54.00% | ~15 |
 | A curious gathering | 54.00% | ~15 |
 | Little grey cells | 50.00% | ~14 |
-| Impossible is possible | 46.00% | ~13 |
+| Impossible is possible | 50.00% | ~14 |
+| Arthur Hastings | 50.00% | ~14 |
 | The Missing Magdalene | 46.00% | ~13 |
-| Arthur Hastings | 46.00% | ~13 |
 | Everything matters | 36.00% | ~10 |
 | Order and method | 36.00% | ~10 |
 | An expert mediator | 32.00% | ~9 |

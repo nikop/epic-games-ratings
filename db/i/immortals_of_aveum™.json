@@ -5,9 +5,9 @@
   "Ranking_Rating": 990,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -627,6 +627,11 @@
       "Time": "2023-10-31T10:07:20.9381418+00:00",
       "NumProgressed": 116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T18:08:12.1403093+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -663,7 +668,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_13",
@@ -703,7 +708,7 @@
       "Name": "Lights Army",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_18",
@@ -711,7 +716,7 @@
       "Name": "Grand Magnus",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_19",
@@ -727,7 +732,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_20",
@@ -783,7 +788,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_36",
@@ -813,9 +818,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_41",
@@ -847,7 +852,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_45",
@@ -863,7 +868,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_48",
@@ -871,7 +876,7 @@
       "Name": "Enlisted",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_49",
@@ -885,9 +890,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_50",
@@ -903,7 +908,7 @@
       "Name": "Master of Ultramarine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_55",
@@ -911,7 +916,7 @@
       "Name": "Master of Carmine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_56",
@@ -919,7 +924,7 @@
       "Name": "Master of Malachite",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_59",
@@ -927,7 +932,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_6",
@@ -935,7 +940,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_60",
@@ -943,7 +948,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_62",
@@ -959,7 +964,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_64",
@@ -975,7 +980,7 @@
       "Name": "Backtracker",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_67",
@@ -1014,7 +1019,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 1
     }
   ],
@@ -1022,8 +1027,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:07:19.7684866+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:08:12.1403088+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:58:35.9815049+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:07:19.768549+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:58:31.2718278+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:08:12.1403644+00:00"
 }

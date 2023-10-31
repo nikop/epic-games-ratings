@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1162,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -3999,6 +3999,11 @@
       "Time": "2023-10-31T14:09:33.4496325+00:00",
       "NumProgressed": 1162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T18:09:20.2970344+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4226,7 +4231,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "from_day_to_day_2",
@@ -4537,14 +4542,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1162,
+      "Progressed": 1163,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:09:23.0135916+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:09:20.2970331+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:59:36.934338+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:09:23.0136901+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:59:23.0469119+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:09:20.2971803+00:00"
 }

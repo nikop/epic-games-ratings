@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7359,9 +7359,9 @@
       "Count": 413
     }
   ],
-  "EOS_Progressed": 716073,
+  "EOS_Progressed": 716076,
   "EOS_Completed": 12928,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24454,6 +24454,11 @@
       "Time": "2023-10-31T17:04:55.0702065+00:00",
       "NumProgressed": 716073,
       "NumCompleted": 12928
+    },
+    {
+      "Time": "2023-10-31T18:04:32.2537776+00:00",
+      "NumProgressed": 716076,
+      "NumCompleted": 12928
     }
   ],
   "TotalAchievements": 60,
@@ -24825,7 +24830,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.4,
       "XP": 80,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -24929,7 +24934,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -24944,21 +24949,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25374,
+      "Progressed": 25377,
       "Completed": 10727
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716073,
+      "Progressed": 716076,
       "Completed": 12928
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-10-31T05:59:41.7182582+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:04:55.0702059+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:04:32.2537772+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2233354+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:59:09.8458001+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:04:55.0704494+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:58:58.4710073+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:04:32.2543137+00:00"
 }

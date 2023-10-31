@@ -853,9 +853,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6171,
+  "EOS_Progressed": 6172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8998,6 +8998,11 @@
       "Time": "2023-10-31T17:08:40.2062721+00:00",
       "NumProgressed": 6171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T18:08:45.1734415+00:00",
+      "NumProgressed": 6172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9095,9 +9100,9 @@
       "ID": "ACHIEVEMENT_012",
       "SetID": "1a05lfd",
       "Name": "I\u0027m the Captain Now",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -9328,13 +9333,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6171,
+      "Progressed": 6172,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5543,
+      "Progressed": 5544,
       "Completed": 113
     }
   ],
@@ -9342,8 +9347,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:08:40.2062713+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:08:45.1734409+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:02:31.9384495+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:08:40.2063688+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:00:45.8388399+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:08:45.1735411+00:00"
 }

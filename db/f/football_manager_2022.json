@@ -8040,10 +8040,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50936,
       "NumberOfAwardsMax": 6465
+    },
+    {
+      "Time": "2023-10-31T17:57:15.1636797+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50937,
+      "NumberOfAwardsMax": 6465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50936,
+  "NumberOfAwards": 50937,
   "NumberOfAwardsMax": 6465,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8081,7 +8087,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5877
+      "Count": 5878
     },
     {
       "Text": "This game has Competitive Players",
@@ -8116,7 +8122,7 @@
   ],
   "EOS_Progressed": 475215,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28764,9 +28770,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-10-31T13:57:05.4492726+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:04:36.9009702+00:00",
+  "LastChanged": "2023-10-31T17:57:15.1636795+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:04:16.850974+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:45.9172625+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:57:05.3747817+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:04:36.9012874+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:57:15.1636801+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:04:16.8513407+00:00"
 }

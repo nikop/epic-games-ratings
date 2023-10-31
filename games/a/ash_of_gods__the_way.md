@@ -15,6 +15,7 @@
 | A hidden snake | 33.00% | ~2 |
 | Blood and sand | 33.00% | ~2 |
 | Crimson rivers | 17.00% | ~1 |
+| Overplay the rogue | 17.00% | ~1 |
 | Berkanan Borgia | 17.00% | ~1 |
 | Power of Inquisition | 17.00% | ~1 |
 | The best apprentice | 17.00% | ~1 |
@@ -34,7 +35,6 @@
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Berserk | 0.00% | ~0 |
-| Overplay the rogue | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
 | Stronger than Gellian steel | 0.00% | ~0 |

@@ -16,11 +16,11 @@ Rating: 4.60 (Ranked 407)
 | Seat of Power | 7.00% | ~368 |
 | Intimidation Tactics | 7.00% | ~368 |
 | Tipping the Scales | 7.00% | ~368 |
-| There Can Only Be One! | 6.00% | ~315 |
-| Full Ascension | 6.00% | ~315 |
-| My Final Form | 6.00% | ~315 |
-| In a Liege of Your Own | 6.00% | ~315 |
-| Mighty Hoard | 6.00% | ~315 |
+| There Can Only Be One! | 6.00% | ~316 |
+| Full Ascension | 6.00% | ~316 |
+| My Final Form | 6.00% | ~316 |
+| In a Liege of Your Own | 6.00% | ~316 |
+| Mighty Hoard | 6.00% | ~316 |
 | Valley of Wonders | 5.00% | ~263 |
 | Digging for Treasure | 5.00% | ~263 |
 | Fiery Friend | 5.00% | ~263 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 407)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,258 (Ranked 181)  
+Progressed: 5,259 (Ranked 181)  
 Completed: 6 (0.11%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 6 (0.11%) (Ranked 258)
 | 2023-10-28 | 5,249 | 6 |
 | 2023-10-29 | 5,250 | 6 |
 | 2023-10-30 | 5,254 | 6 |
-| 2023-10-31 | 5,258 | 6 |
+| 2023-10-31 | 5,259 | 6 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 497)  
 Sum: 28 (Ranked 509)  

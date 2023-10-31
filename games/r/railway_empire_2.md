@@ -17,8 +17,8 @@ Rating: 4.45 (Ranked 657)
 | Travel Company | 65.00% | ~1,351 |
 | All around the World | 62.00% | ~1,289 |
 | Right through the middle | 58.00% | ~1,206 |
+| Poor Devil | 54.00% | ~1,123 |
 | Facility Manager | 53.00% | ~1,102 |
-| Poor Devil | 53.00% | ~1,102 |
 | Producer | 50.00% | ~1,040 |
 | Apprentice | 42.00% | ~873 |
 | Bridge Builder | 41.00% | ~852 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7649,
+  "EOS_Progressed": 7650,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7698,6 +7698,11 @@
       "Time": "2023-10-31T08:08:20.0981029+00:00",
       "NumProgressed": 7649,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-10-31T18:06:17.4867655+00:00",
+      "NumProgressed": 7650,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7733,7 +7738,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -7749,7 +7754,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ENERGY_SAVER",
@@ -7765,7 +7770,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "FASHION_VICTIM",
@@ -7773,7 +7778,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -7781,7 +7786,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -7876,7 +7881,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7649,
+      "Progressed": 7650,
       "Completed": 34
     }
   ],
@@ -7884,8 +7889,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:07:01.4449782+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:06:17.4867647+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:58.9393149+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:02:40.8831061+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:07:01.4450698+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:02:42.4375357+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:06:17.4868429+00:00"
 }

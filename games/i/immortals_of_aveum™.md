@@ -6,12 +6,12 @@ Rating: 3.98 (Ranked 990)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 91.00% | ~106 |
-| Battlefields Have Memories | 90.00% | ~104 |
-| Enlisted | 88.00% | ~102 |
-| Maybe Engage a Little | 84.00% | ~97 |
-| No More Names | 66.00% | ~77 |
-| Initiate | 60.00% | ~70 |
-| Thrada-Kul | 56.00% | ~65 |
+| Battlefields Have Memories | 90.00% | ~105 |
+| Enlisted | 88.00% | ~103 |
+| Maybe Engage a Little | 84.00% | ~98 |
+| No More Names | 68.00% | ~80 |
+| Initiate | 61.00% | ~71 |
+| Thrada-Kul | 56.00% | ~66 |
 | Gravity-Challenged Rocks | 44.00% | ~51 |
 | All the Major Food Groups | 37.00% | ~43 |
 | Soldier | 35.00% | ~41 |
@@ -19,7 +19,7 @@ Rating: 3.98 (Ranked 990)
 | Beggars Would Ride | 31.00% | ~36 |
 | Control is an Illusion | 30.00% | ~35 |
 | The Means to Save It | 24.00% | ~28 |
-| Resilience to Sin | 21.00% | ~24 |
+| Resilience to Sin | 21.00% | ~25 |
 | A Familiar Nest | 20.00% | ~23 |
 | Periapt Alizarin | 20.00% | ~23 |
 | Armsman | 18.00% | ~21 |
@@ -27,10 +27,10 @@ Rating: 3.98 (Ranked 990)
 | A Perfect Cycle | 14.00% | ~16 |
 | Recruit | 14.00% | ~16 |
 | Good Boy | 11.00% | ~13 |
-| Lights Army | 9.00% | ~10 |
-| Periapt Cerulean | 9.00% | ~10 |
-| Periapt Viridian | 9.00% | ~10 |
-| Shroudfane Explorer | 9.00% | ~10 |
+| Lights Army | 9.00% | ~11 |
+| Periapt Cerulean | 9.00% | ~11 |
+| Periapt Viridian | 9.00% | ~11 |
+| Shroudfane Explorer | 9.00% | ~11 |
 | Best Dressed | 7.00% | ~8 |
 | Armaments Azure | 7.00% | ~8 |
 | Armaments Gules | 7.00% | ~8 |
@@ -38,13 +38,13 @@ Rating: 3.98 (Ranked 990)
 | Veteran | 5.00% | ~6 |
 | Kitted Out | 4.00% | ~5 |
 | Armaments Vert | 4.00% | ~5 |
-| Grand Magnus | 3.00% | ~3 |
-| Master of Ultramarine | 3.00% | ~3 |
-| Master of Carmine | 3.00% | ~3 |
-| Master of Malachite | 3.00% | ~3 |
-| Shroudfane Surveyor | 3.00% | ~3 |
-| Treasure Hunter | 3.00% | ~3 |
-| Backtracker | 3.00% | ~3 |
+| Grand Magnus | 3.00% | ~4 |
+| Master of Ultramarine | 3.00% | ~4 |
+| Master of Carmine | 3.00% | ~4 |
+| Master of Malachite | 3.00% | ~4 |
+| Shroudfane Surveyor | 3.00% | ~4 |
+| Treasure Hunter | 3.00% | ~4 |
+| Backtracker | 3.00% | ~4 |
 | Family Business | 2.00% | ~2 |
 | Diplomat | 2.00% | ~2 |
 | Petite Bourgeoisie | 2.00% | ~2 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 990)
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 389)  
-Completed: 1 (0.86%) (Ranked 161)  
+Progressed: 117 (Ranked 388)  
+Completed: 1 (0.85%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,7 +92,7 @@ Completed: 1 (0.86%) (Ranked 161)
 | 2023-10-28 | 101 | 1 |
 | 2023-10-29 | 108 | 1 |
 | 2023-10-30 | 112 | 1 |
-| 2023-10-31 | 116 | 1 |
+| 2023-10-31 | 117 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

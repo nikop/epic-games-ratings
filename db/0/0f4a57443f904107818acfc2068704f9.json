@@ -199,9 +199,9 @@
       "ID": "Capture100Conduits",
       "SetID": "52ail55",
       "Name": "Territorial",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Capture100VictoryPoints",
@@ -493,8 +493,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:08:15.6572475+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:08:24.7429336+00:00",
   "LastUpdate_AppInfo": "2023-10-27T05:57:12.4877753+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:57:52.0567925+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:08:15.6572788+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:57:56.5176511+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:08:24.7429767+00:00"
 }

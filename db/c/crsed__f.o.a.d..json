@@ -2,7 +2,7 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 786,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 713,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 464,
   "RatingHistory": [
     {
@@ -1240,6 +1240,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-10-31T18:02:58.3259998+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
@@ -1337,8 +1343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-10-31T07:04:53.8313774+00:00",
+  "LastChanged": "2023-10-31T18:02:58.3259997+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:31.3123327+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:03:01.3176588+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:08:31.0592579+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:02:58.3260002+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:08:37.4130396+00:00"
 }

@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 777,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.35,
   "EosHistory": [
@@ -2930,6 +2930,11 @@
       "Time": "2023-10-31T17:03:10.2750528+00:00",
       "NumProgressed": 776,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-31T18:03:05.9617549+00:00",
+      "NumProgressed": 777,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2941,7 +2946,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MQ01_2",
@@ -2949,7 +2954,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MQ02_1",
@@ -2973,7 +2978,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "MQ02_4",
@@ -2981,7 +2986,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "MQ03_1",
@@ -2989,7 +2994,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MQ03_2",
@@ -3021,7 +3026,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "MQ04_1",
@@ -3045,7 +3050,7 @@
       "Name": "The New World",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MQ05_1",
@@ -3099,9 +3104,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 357
     },
     {
       "ID": "MQ06_4",
@@ -3109,7 +3114,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "MQ07_1",
@@ -3125,7 +3130,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "MQ08_1",
@@ -3164,7 +3169,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 777,
       "Completed": 26
     }
   ],
@@ -3172,8 +3177,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:03:10.2750521+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:03:05.9617543+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:57:14.6470407+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:03:10.2761995+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:57:21.5322593+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:03:05.9618669+00:00"
 }

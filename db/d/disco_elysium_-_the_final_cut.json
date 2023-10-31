@@ -1412,9 +1412,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130313,
+  "EOS_Progressed": 130316,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20612,6 +20612,11 @@
       "Time": "2023-10-31T16:03:58.8752307+00:00",
       "NumProgressed": 130313,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-31T18:03:48.8935285+00:00",
+      "NumProgressed": 130316,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20655,7 +20660,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23456
+      "UsersEstimate": 23457
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20679,7 +20684,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31275
+      "UsersEstimate": 31276
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20727,7 +20732,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20850
+      "UsersEstimate": 20851
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -20759,7 +20764,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20850
+      "UsersEstimate": 20851
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -20767,7 +20772,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14334
+      "UsersEstimate": 14335
     },
     {
       "ID": "ACH_CUNO",
@@ -20783,7 +20788,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13031
+      "UsersEstimate": 13032
     },
     {
       "ID": "ACH_GLUTEN",
@@ -20942,15 +20947,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130313,
+      "Progressed": 130316,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-29T06:02:11.366846+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:04:02.9789305+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:03:48.893528+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:02:38.0546173+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:04:02.9791381+00:00"
+  "LastUpdate_Ratings": "2023-10-31T18:02:40.5648206+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:03:48.8936905+00:00"
 }

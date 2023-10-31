@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4569,
+  "EOS_Progressed": 4571,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -8459,6 +8459,11 @@
       "Time": "2023-10-31T17:09:16.0485715+00:00",
       "NumProgressed": 4569,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T18:09:14.5800368+00:00",
+      "NumProgressed": 4571,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8519,7 +8524,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8527,7 +8532,7 @@
       "Name": "First Strike",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8583,7 +8588,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8623,7 +8628,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8631,7 +8636,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -8654,15 +8659,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4569,
+      "Progressed": 4571,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:09:16.0485708+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:09:14.5800361+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-10-31T16:59:09.5419232+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:09:16.0486886+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:58:58.2399643+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:09:14.5801308+00:00"
 }

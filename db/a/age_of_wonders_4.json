@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -393,9 +393,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 5258,
+  "EOS_Progressed": 5259,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -6563,6 +6563,11 @@
       "Time": "2023-10-31T17:03:47.9449255+00:00",
       "NumProgressed": 5258,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-10-31T18:03:36.5691773+00:00",
+      "NumProgressed": 5259,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6590,7 +6595,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "12",
@@ -6614,7 +6619,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "15",
@@ -6774,7 +6779,7 @@
       "Name": "My Final Form",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "33",
@@ -6790,7 +6795,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "35",
@@ -6958,7 +6963,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "50",
@@ -6973,13 +6978,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5258,
+      "Progressed": 5259,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5258,
+      "Progressed": 5259,
       "Completed": 6
     }
   ],
@@ -6987,8 +6992,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-10-31T03:59:53.9176919+00:00",
-  "LastChanged_Achievements": "2023-10-31T17:03:47.9449249+00:00",
+  "LastChanged_Achievements": "2023-10-31T18:03:36.5691763+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:02.1376773+00:00",
-  "LastUpdate_Ratings": "2023-10-31T17:00:11.2202189+00:00",
-  "LastUpdate_Achievements": "2023-10-31T17:03:47.9450327+00:00"
+  "LastUpdate_Ratings": "2023-10-31T17:59:49.4487087+00:00",
+  "LastUpdate_Achievements": "2023-10-31T18:03:36.569273+00:00"
 }

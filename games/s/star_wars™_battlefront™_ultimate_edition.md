@@ -12,9 +12,9 @@
 | Scrap collector | 19.00% | ~181 |
 | Great shot, kid! | 18.00% | ~171 |
 | All right, I'll give it a try | 17.00% | ~162 |
+| Together we can rule the galaxy | 16.00% | ~152 |
 | Shoot first | 16.00% | ~152 |
 | The power of the Force | 15.00% | ~143 |
-| Together we can rule the galaxy | 15.00% | ~143 |
 | Collector | 14.00% | ~133 |
 | Best star-pilot in the galaxy | 11.00% | ~105 |
 | Survivor | 11.00% | ~105 |

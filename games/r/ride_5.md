@@ -12,8 +12,8 @@
 | Bitter Rivalry | 27.00% | ~513 |
 | We're Going to Need a Bigger Garage | 24.00% | ~456 |
 | Champagne Spray | 24.00% | ~456 |
+| Restored and Ready | 19.00% | ~361 |
 | Legendary!!! | 19.00% | ~361 |
-| Restored and Ready | 18.00% | ~342 |
 | I Want One Too! | 18.00% | ~342 |
 | Quick Pit Stop | 18.00% | ~342 |
 | Go-Faster Stripes | 17.00% | ~323 |
