@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1159,9 +1159,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257894,
+  "EOS_Progressed": 257896,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20134,6 +20134,11 @@
       "Time": "2023-10-30T23:08:07.0270752+00:00",
       "NumProgressed": 257894,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-10-31T00:07:13.9277483+00:00",
+      "NumProgressed": 257896,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20193,7 +20198,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79947
+      "UsersEstimate": 79948
     },
     {
       "ID": "BackHomeNTimes",
@@ -20249,7 +20254,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25789
+      "UsersEstimate": 25790
     },
     {
       "ID": "CreditLevel2",
@@ -20537,7 +20542,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25789
+      "UsersEstimate": 25790
     },
     {
       "ID": "ReachNDays2",
@@ -20592,7 +20597,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257894,
+      "Progressed": 257896,
       "Completed": 3
     }
   ],
@@ -20600,8 +20605,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-30T00:03:12.5174707+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:08:07.0270744+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:07:13.9277475+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:07.0523364+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:03:44.0872824+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:08:07.0272864+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:02:50.5522386+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:13.9279697+00:00"
 }

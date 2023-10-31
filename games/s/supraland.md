@@ -1,25 +1,25 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 380)  
+Rating: 4.61 (Ranked 381)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~723,780 |
-| The Blues | 85.00% | ~621,427 |
-| Fast | 66.00% | ~482,520 |
-| Healthbar | 55.00% | ~402,100 |
-| Force Cube | 53.00% | ~387,478 |
+| Out of bed | 99.00% | ~723,781 |
+| The Blues | 85.00% | ~621,428 |
+| Fast | 66.00% | ~482,521 |
+| Healthbar | 55.00% | ~402,101 |
+| Force Cube | 53.00% | ~387,479 |
 | Double Jump | 48.00% | ~350,924 |
 | Regeneration | 47.00% | ~343,613 |
-| Triple Jump | 43.00% | ~314,369 |
-| Climb the hill | 42.00% | ~307,058 |
-| Through the fire pipe | 39.00% | ~285,125 |
+| Triple Jump | 43.00% | ~314,370 |
+| Climb the hill | 42.00% | ~307,059 |
+| Through the fire pipe | 39.00% | ~285,126 |
 | MacGuffin | 38.00% | ~277,815 |
 | Just once | 37.00% | ~270,504 |
-| Armor | 30.00% | ~219,327 |
-| True holy spirit | 28.00% | ~204,705 |
+| Armor | 30.00% | ~219,328 |
+| True holy spirit | 28.00% | ~204,706 |
 | That's how electronics work obviously | 27.00% | ~197,395 |
 | Force Cube Catapult | 25.00% | ~182,773 |
 | Holy Sword | 23.00% | ~168,151 |
@@ -27,8 +27,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Freed from prison | 21.00% | ~153,529 |
 | Stomp | 21.00% | ~153,529 |
 | Double Health | 19.00% | ~138,907 |
-| Buckle | 17.00% | ~124,285 |
-| Green Keycard | 17.00% | ~124,285 |
+| Buckle | 17.00% | ~124,286 |
+| Green Keycard | 17.00% | ~124,286 |
 | Rattle Hag | 16.00% | ~116,975 |
 | All Shells | 15.00% | ~109,664 |
 | Beam | 14.00% | ~102,353 |
@@ -56,7 +56,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~65,798 |
 | Win! | 9.00% | ~65,798 |
 | The real real teleported man | 8.00% | ~58,487 |
-| Well deserved | 6.00% | ~43,865 |
+| Well deserved | 6.00% | ~43,866 |
 | Super Sword | 4.00% | ~29,244 |
 | Happiness | 3.00% | ~21,933 |
 | All Chests | 2.00% | ~14,622 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~731 |
 | DLC: Top of the world | 0.10% | ~731 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,091 (Ranked 19)  
+Progressed: 731,092 (Ranked 19)  
 Completed: 755 (0.10%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,6 +299,7 @@ Completed: 755 (0.10%) (Ranked 262)
 | 2023-10-28 | 730,852 | 755 |
 | 2023-10-29 | 730,994 | 755 |
 | 2023-10-30 | 731,091 | 755 |
+| 2023-10-31 | 731,092 | 755 |
 ## Awards
 Max (Challenging Puzzles): 7,713  (Ranked 48)  
 Sum: 10,059 (Ranked 91)  

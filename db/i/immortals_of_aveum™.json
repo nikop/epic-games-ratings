@@ -2,12 +2,12 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 988,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,11 +97,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -607,6 +607,11 @@
       "Time": "2023-10-30T18:07:23.5216766+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T00:08:05.4937189+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -619,7 +624,7 @@
       "Name": "Unforeseen",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "achievement_10",
@@ -641,17 +646,17 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_14",
@@ -707,7 +712,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_20",
@@ -763,7 +768,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_36",
@@ -779,7 +784,7 @@
       "Name": "Kitted Out",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_38",
@@ -795,7 +800,7 @@
       "Name": "No More Names",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_41",
@@ -819,7 +824,7 @@
       "Name": "Armaments Vert",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_44",
@@ -833,9 +838,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_46",
@@ -857,7 +862,7 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 41
     },
@@ -867,7 +872,7 @@
       "Name": "Initiate",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_50",
@@ -891,7 +896,7 @@
       "Name": "Master of Carmine",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_56",
@@ -913,9 +918,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_60",
@@ -923,7 +928,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_62",
@@ -939,7 +944,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_64",
@@ -955,7 +960,7 @@
       "Name": "Backtracker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_67",
@@ -963,13 +968,13 @@
       "Name": "Good Boy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -977,9 +982,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_9",
@@ -994,7 +999,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
@@ -1002,8 +1007,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:09:07.4647996+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:08:05.4937181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:59:04.0809347+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:09:07.4648465+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:58:46.9171472+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:08:05.4937666+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b13f6a1e5121469d8a825947b759339d",
   "Name": "Never Alone (Kisima Ingitchuna)",
   "ProductSlug": "never-alone-kisima-ingitchuna",
-  "Ranking_Rating": 942,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-11-18T16:00:00+00:00",
@@ -468,6 +468,6 @@
   "FirstSeen": "2022-07-22T20:19:05.3781446+00:00",
   "LastChanged": "2023-09-30T03:57:23.2247184+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:26.5516897+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:57:57.8633512+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:05:10.4284588+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:57:52.141878+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:04:04.4683792+00:00"
 }

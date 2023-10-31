@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
@@ -7655,10 +7655,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32270,
       "NumberOfAwardsMax": 5462
+    },
+    {
+      "Time": "2023-10-30T23:58:27.9081527+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32271,
+      "NumberOfAwardsMax": 5462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32270,
+  "NumberOfAwards": 32271,
   "NumberOfAwardsMax": 5462,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7678,7 +7684,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4802
+      "Count": 4803
     },
     {
       "Text": "This game is Relaxing",
@@ -7705,10 +7711,10 @@
       "Count": 3497
     }
   ],
-  "EOS_Progressed": 233274,
+  "EOS_Progressed": 233276,
   "EOS_Completed": 2408,
   "EOS_NewPlayers": 604,
-  "EOS_NewCompleters": 28,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -29320,6 +29326,11 @@
       "Time": "2023-10-30T23:08:05.742642+00:00",
       "NumProgressed": 233274,
       "NumCompleted": 2408
+    },
+    {
+      "Time": "2023-10-31T00:07:13.0486317+00:00",
+      "NumProgressed": 233276,
+      "NumCompleted": 2408
     }
   ],
   "TotalAchievements": 528,
@@ -29865,9 +29876,9 @@
       "ID": "objective_completed_1137",
       "SetID": "415jc5c",
       "Name": "The Roots of Loomlurch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1138",
@@ -33554,21 +33565,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199548,
-      "Completed": 3715
+      "Progressed": 199550,
+      "Completed": 3717
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233274,
+      "Progressed": 233276,
       "Completed": 2408
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-30T11:58:36.2226828+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:08:05.7426414+00:00",
+  "LastChanged": "2023-10-30T23:58:27.9081524+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:07:13.0486311+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:58:42.5209916+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:08:05.7459033+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:58:27.9081537+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:13.0515505+00:00"
 }

@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 271)  
+Rating: 4.67 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,14 +14,14 @@ Number of Ratings: 495  (23.09.2022)
 | Tanuki Time | 9.00% | ~18,988 |
 | Rescue Takuma | 8.00% | ~16,878 |
 | Stoned Ox | 8.00% | ~16,878 |
-| Happy Planning | 7.00% | ~14,768 |
-| Ice Ice Yuki | 7.00% | ~14,768 |
-| Jonin | 7.00% | ~14,768 |
-| Yabu | 7.00% | ~14,768 |
-| Chunin | 6.00% | ~12,658 |
-| Flying Rocks | 6.00% | ~12,658 |
-| Mugen Unchained | 6.00% | ~12,658 |
-| Warzone | 6.00% | ~12,658 |
+| Happy Planning | 7.00% | ~14,769 |
+| Ice Ice Yuki | 7.00% | ~14,769 |
+| Jonin | 7.00% | ~14,769 |
+| Yabu | 7.00% | ~14,769 |
+| Chunin | 6.00% | ~12,659 |
+| Flying Rocks | 6.00% | ~12,659 |
+| Mugen Unchained | 6.00% | ~12,659 |
+| Warzone | 6.00% | ~12,659 |
 | Okkoto | 5.00% | ~10,549 |
 | Prisoners | 5.00% | ~10,549 |
 | Too Early | 5.00% | ~10,549 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~211 |
 | Release the Kraken | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,975 (Ranked 69)  
+Progressed: 210,979 (Ranked 69)  
 Completed: 92 (0.04%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 92 (0.04%) (Ranked 293)
 | 2023-10-28 | 210,542 | 92 |
 | 2023-10-29 | 210,793 | 92 |
 | 2023-10-30 | 210,975 | 92 |
+| 2023-10-31 | 210,979 | 92 |
 ## Awards
 Max (Great for Beginners): 569  (Ranked 197)  
 Sum: 4,812 (Ranked 139)  

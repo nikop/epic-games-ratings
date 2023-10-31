@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.75,
   "EosHistory": [
@@ -1495,6 +1495,11 @@
       "Time": "2023-10-30T14:09:16.45522+00:00",
       "NumProgressed": 457,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-10-31T00:08:52.3388027+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1515,7 +1520,7 @@
       "Name": "Holey Moley",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_11",
@@ -1523,15 +1528,15 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 307
     },
     {
       "ID": "achievement_13",
@@ -1563,7 +1568,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "achievement_17",
@@ -1571,7 +1576,7 @@
       "Name": "Clean Sheet",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "achievement_18",
@@ -1611,7 +1616,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_6",
@@ -1619,7 +1624,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_7",
@@ -1627,7 +1632,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_8",
@@ -1650,13 +1655,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:09:51.6675368+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:08:52.338802+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:49.0492908+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:09:51.6675617+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:01:11.3258982+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:08:52.3388302+00:00"
 }

@@ -1,12 +1,12 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 921)  
+Rating: 4.17 (Ranked 922)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,516 |
+| Colonize a Planet | 78.00% | ~5,587 |
 | Worker Specialization | 77.00% | ~5,516 |
 | First Contact | 72.00% | ~5,157 |
 | Win a Battle | 65.00% | ~4,656 |

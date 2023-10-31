@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 915,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3887,9 +3887,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75482,
+  "EOS_Progressed": 75483,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20802,6 +20802,11 @@
       "Time": "2023-10-30T23:08:51.4360828+00:00",
       "NumProgressed": 75482,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-10-31T00:07:51.7378844+00:00",
+      "NumProgressed": 75483,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -20933,7 +20938,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10567
+      "UsersEstimate": 10568
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -21061,7 +21066,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10567
+      "UsersEstimate": 10568
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -21125,7 +21130,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18870
+      "UsersEstimate": 18871
     },
     {
       "ID": "HARLEY_3",
@@ -21133,7 +21138,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "HARLEY_4",
@@ -21181,7 +21186,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -21213,7 +21218,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18870
+      "UsersEstimate": 18871
     },
     {
       "ID": "MYSTERY_03",
@@ -21229,7 +21234,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "MYSTERY_05",
@@ -21253,7 +21258,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10567
+      "UsersEstimate": 10568
     },
     {
       "ID": "MYSTERY_08",
@@ -21300,13 +21305,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75482,
+      "Progressed": 75483,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45762,
+      "Progressed": 45763,
       "Completed": 2670
     }
   ],
@@ -21314,8 +21319,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-10-30T17:00:02.6157326+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:08:51.4360823+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:07:51.7378839+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:00:52.260541+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:08:51.4362466+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:00:24.2957831+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:51.7380856+00:00"
 }

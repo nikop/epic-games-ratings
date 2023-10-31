@@ -1,28 +1,28 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 629)  
+Rating: 4.47 (Ranked 630)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,445 |
-| Overkill | 34.00% | ~5,887 |
-| Vaccine Incoming | 33.00% | ~5,714 |
-| A normal day in Gloomhaven | 33.00% | ~5,714 |
-| Spread the plague | 30.00% | ~5,194 |
+| I'm not dead yet | 43.00% | ~7,446 |
+| Overkill | 34.00% | ~5,888 |
+| Vaccine Incoming | 33.00% | ~5,715 |
+| A normal day in Gloomhaven | 33.00% | ~5,715 |
+| Spread the plague | 30.00% | ~5,195 |
 | Get over here! | 25.00% | ~4,329 |
 | Just when I thought I was out... | 19.00% | ~3,290 |
 | Precious! | 17.00% | ~2,944 |
 | Mine... All Mine... | 17.00% | ~2,944 |
-| Light of my life | 15.00% | ~2,597 |
-| Anatomy Lesson | 15.00% | ~2,597 |
+| Light of my life | 15.00% | ~2,598 |
+| Anatomy Lesson | 15.00% | ~2,598 |
 | Grizzled veteran | 14.00% | ~2,424 |
 | You activated my trap card! | 13.00% | ~2,251 |
 | Obstacle race | 13.00% | ~2,251 |
 | Augmented rat | 12.00% | ~2,078 |
 | Doom and gloom | 11.00% | ~1,905 |
-| Who's the Boss? | 9.00% | ~1,558 |
+| Who's the Boss? | 9.00% | ~1,559 |
 | Dungeon Veteran | 8.00% | ~1,385 |
 | Pack leader | 8.00% | ~1,385 |
 | Pain is your friend | 8.00% | ~1,385 |
@@ -34,10 +34,10 @@ Number of Ratings: 68  (23.09.2022)
 | Pretty lights! | 5.00% | ~866 |
 | Now you see me... | 5.00% | ~866 |
 | Caught off guard | 4.00% | ~693 |
-| I hate portals | 3.00% | ~519 |
-| Merchant of doom | 3.00% | ~519 |
-| An eye for an eye | 3.00% | ~519 |
-| Grin and bear it | 3.00% | ~519 |
+| I hate portals | 3.00% | ~520 |
+| Merchant of doom | 3.00% | ~520 |
+| An eye for an eye | 3.00% | ~520 |
+| Grin and bear it | 3.00% | ~520 |
 | From Gloom, only greed and death emerges | 2.00% | ~346 |
 | The Rat King | 2.00% | ~346 |
 | How to train your Drake | 2.00% | ~346 |
@@ -47,8 +47,8 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~346 |
 | An axe to grind | 2.00% | ~346 |
 | Add a bit of colour | 1.00% | ~173 |
+| New Blood | 1.00% | ~173 |
 | Captain hooked | 0.90% | ~156 |
-| New Blood | 0.90% | ~156 |
 | Betray this | 0.80% | ~139 |
 | Spoiler police! | 0.80% | ~139 |
 | The Pacifist | 0.50% | ~87 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,315 (Ranked 135)  
+Progressed: 17,317 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 1 (0.01%) (Ranked 313)
 | 2023-10-28 | 16,804 | 1 |
 | 2023-10-29 | 17,093 | 1 |
 | 2023-10-30 | 17,315 | 1 |
+| 2023-10-31 | 17,317 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,323 (Ranked 98)  

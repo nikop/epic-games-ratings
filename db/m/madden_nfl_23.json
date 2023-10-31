@@ -2,7 +2,7 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 201,
@@ -775,9 +775,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3109,
+  "EOS_Progressed": 3110,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4390,6 +4390,11 @@
       "Time": "2023-10-30T23:09:28.5311728+00:00",
       "NumProgressed": 3109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T00:08:32.8279225+00:00",
+      "NumProgressed": 3110,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4402,15 +4407,15 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "achievement_10",
       "SetID": "c8fif6p",
       "Name": "Bragging Rights",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1711
     },
     {
       "ID": "achievement_11",
@@ -4440,9 +4445,9 @@
       "ID": "achievement_14",
       "SetID": "c8fif6p",
       "Name": "Dealmaker",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 60,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1244
     },
     {
       "ID": "achievement_15",
@@ -4466,7 +4471,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_18",
@@ -4522,7 +4527,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_5",
@@ -4554,7 +4559,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "achievement_9",
@@ -4562,14 +4567,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3109,
+      "Progressed": 3110,
       "Completed": 0
     }
   ],
@@ -4577,8 +4582,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-29T18:57:01.6511251+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:09:28.5311722+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:08:32.8279215+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:57:36.1583513+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:09:28.5312425+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:57:31.7013712+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:08:32.8279698+00:00"
 }

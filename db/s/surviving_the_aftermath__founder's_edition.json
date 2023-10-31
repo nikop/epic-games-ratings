@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 155,
@@ -1356,9 +1356,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 9973,
+  "EOS_Progressed": 9974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15966,6 +15966,11 @@
       "Time": "2023-10-30T23:09:32.2553981+00:00",
       "NumProgressed": 9973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T00:08:35.9675424+00:00",
+      "NumProgressed": 9974,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -15975,9 +15980,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 6084
+      "UsersEstimate": 5984
     },
     {
       "ID": "10",
@@ -15985,7 +15990,7 @@
       "Name": "Friendly",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "11",
@@ -16025,7 +16030,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "16",
@@ -16089,7 +16094,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7280
+      "UsersEstimate": 7281
     },
     {
       "ID": "23",
@@ -16113,7 +16118,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "26",
@@ -16121,7 +16126,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "27",
@@ -16185,7 +16190,7 @@
       "Name": "Around the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "34",
@@ -16217,7 +16222,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "38",
@@ -16225,7 +16230,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "39",
@@ -16241,7 +16246,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "40",
@@ -16329,7 +16334,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "50",
@@ -16369,7 +16374,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "55",
@@ -16425,7 +16430,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "8",
@@ -16448,15 +16453,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9973,
+      "Progressed": 9974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-10-30T20:01:44.1689279+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:09:32.2553975+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:08:35.9675419+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:37.1944582+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:09:32.2555578+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:01:01.5339611+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:08:35.9677491+00:00"
 }

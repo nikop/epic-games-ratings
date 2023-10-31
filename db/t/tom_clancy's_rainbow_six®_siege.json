@@ -2,12 +2,12 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 464,
+  "Ranking_Rating": 465,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-01T16:00:00+00:00",
@@ -5589,11 +5589,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 14657,
       "NumberOfAwardsMax": 1790
+    },
+    {
+      "Time": "2023-10-31T00:02:05.3311211+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14658,
+      "NumberOfAwardsMax": 1791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14657,
-  "NumberOfAwardsMax": 1790,
+  "NumberOfAwards": 14658,
+  "NumberOfAwardsMax": 1791,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5618,7 +5624,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1790
+      "Count": 1791
     },
     {
       "Text": "This game has Competitive Players",
@@ -5674,8 +5680,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-10-30T03:01:47.9153518+00:00",
+  "LastChanged": "2023-10-31T00:02:05.3311206+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.2155289+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:02:56.1142508+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:07:42.5265999+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:02:05.3311218+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:06:32.808668+00:00"
 }

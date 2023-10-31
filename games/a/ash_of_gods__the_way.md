@@ -20,6 +20,7 @@
 | The best apprentice | 17.00% | ~1 |
 | The champion of the arena | 17.00% | ~1 |
 | Vene, vidi, vici | 17.00% | ~1 |
+| All for one! | 17.00% | ~1 |
 | Deadly strike | 17.00% | ~1 |
 | A solo player | 17.00% | ~1 |
 | Punish the Punisher | 17.00% | ~1 |
@@ -39,7 +40,6 @@
 | Stronger than Gellian steel | 0.00% | ~0 |
 | First among Frisians | 0.00% | ~0 |
 | Defeat the bear | 0.00% | ~0 |
-| All for one! | 0.00% | ~0 |
 | Rage | 0.00% | ~0 |
 | The power of persuasion | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |

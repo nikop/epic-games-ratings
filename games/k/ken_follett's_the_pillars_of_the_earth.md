@@ -1,22 +1,22 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 559)  
+Rating: 4.51 (Ranked 560)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,425 |
 | Man of politics | 34.00% | ~5,461 |
-| Friends of sorts | 33.00% | ~5,300 |
-| Yet another secret | 33.00% | ~5,300 |
+| Friends of sorts | 33.00% | ~5,301 |
+| Yet another secret | 33.00% | ~5,301 |
 | Let there be darkness | 32.00% | ~5,140 |
 | End of Book One | 30.00% | ~4,819 |
 | Garden of Eden | 24.00% | ~3,855 |
 | Full house | 24.00% | ~3,855 |
 | Wannabe knight | 23.00% | ~3,694 |
 | Help an old friend | 21.00% | ~3,373 |
-| Two of us | 20.00% | ~3,212 |
+| Two of us | 20.00% | ~3,213 |
 | Negotiation skills | 18.00% | ~2,891 |
 | Workers' union | 18.00% | ~2,891 |
 | End of Book Two | 18.00% | ~2,891 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,249 |
 | Jack was here! | 14.00% | ~2,249 |
 | Exterminator | 13.00% | ~2,088 |
-| Whodunnit | 12.00% | ~1,927 |
+| Whodunnit | 12.00% | ~1,928 |
 | Good midwife | 11.00% | ~1,767 |
 | First profit | 11.00% | ~1,767 |
 | Friar Tuck | 10.00% | ~1,606 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~803 |
 | Lone wolf | 5.00% | ~803 |
 | Vox Populi | 5.00% | ~803 |
-| Revenge | 4.00% | ~642 |
-| Self-defense | 4.00% | ~642 |
-| Countess Aliena | 4.00% | ~642 |
+| Revenge | 4.00% | ~643 |
+| Self-defense | 4.00% | ~643 |
+| Countess Aliena | 4.00% | ~643 |
 | Care, like a brother cares | 3.00% | ~482 |
 | A brush with death | 3.00% | ~482 |
 | Boy of mystery | 2.00% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,062 (Ranked 141)  
+Progressed: 16,063 (Ranked 141)  
 Completed: 114 (0.71%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,6 +242,7 @@ Completed: 114 (0.71%) (Ranked 169)
 | 2023-10-28 | 16,014 | 114 |
 | 2023-10-29 | 16,042 | 114 |
 | 2023-10-30 | 16,062 | 114 |
+| 2023-10-31 | 16,063 | 114 |
 ## Awards
 Max (Easy Puzzles): 154  (Ranked 307)  
 Sum: 197 (Ranked 395)  

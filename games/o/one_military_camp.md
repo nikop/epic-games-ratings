@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 53.00% | ~100 |
-| The 4 Pillars | 49.00% | ~92 |
+| The 4 Pillars | 50.00% | ~94 |
 | Capitalism | 20.00% | ~38 |
 | Green Energy | 12.00% | ~23 |
 | There's something in those trees | 11.00% | ~21 |

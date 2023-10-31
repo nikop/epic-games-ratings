@@ -2,12 +2,12 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 154,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -6761,6 +6761,6 @@
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
   "LastChanged": "2023-10-30T23:01:45.1591773+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:12.6089603+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:45.1591778+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:06:21.3469629+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:01:08.5317919+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:05:04.6601743+00:00"
 }

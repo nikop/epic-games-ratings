@@ -2,12 +2,12 @@
   "ID": "445e63b8ddfc4411b6e6b5e71f00b2ce",
   "Name": "I Was a Teenage Exocolonist",
   "ProductSlug": "i-was-a-teenage-exocolonist-20625e",
-  "Ranking_Rating": 229,
+  "Ranking_Rating": 230,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-08-25T17:00:00+00:00",
@@ -78,6 +78,6 @@
   "FirstSeenRating": "2022-10-26T05:33:05.8564133+00:00",
   "LastChanged": "2023-06-27T16:58:09.6576769+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:33.1672035+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:04:13.5750462+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:05:17.9132046+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:03:16.7651708+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:04:10.7921733+00:00"
 }

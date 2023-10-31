@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 98.00% | ~195 |
 | Hidden History | 83.00% | ~165 |
+| Commencing of Quests | 79.00% | ~157 |
 | Budding Conjuror | 79.00% | ~157 |
-| Commencing of Quests | 78.00% | ~155 |
 | Man-Machine Master | 71.00% | ~141 |
 | Mountain Splitter | 68.00% | ~135 |
 | Fusion Conjuror | 67.00% | ~133 |

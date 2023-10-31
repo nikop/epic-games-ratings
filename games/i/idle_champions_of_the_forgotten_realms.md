@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 965)  
+Rating: 4.06 (Ranked 966)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prince of a Thousand Enemies | 0.20% | ~399 |
 | Downfall | 0.20% | ~399 |
 | Slack-jawed Lorna | 0.20% | ~399 |
+| The Roots of Loomlurch | 0.20% | ~399 |
 | Overwhelmed with Knowledge | 0.20% | ~399 |
 | A Demi-god's Defender | 0.20% | ~399 |
 | Vecna Loots! | 0.20% | ~399 |
@@ -141,7 +142,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.10% | ~200 |
 | All Damage, All The Time | 0.10% | ~200 |
 | Will of the Frozen Feywild | 0.10% | ~200 |
-| The Roots of Loomlurch | 0.10% | ~200 |
 | The Loots of Loomlurch | 0.10% | ~200 |
 | The Lutes of Loomlurch | 0.10% | ~200 |
 | Supply Run | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,274 (Ranked 62)  
+Progressed: 233,276 (Ranked 62)  
 Completed: 2,408 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -729,15 +729,16 @@ Completed: 2,408 (1.03%) (Ranked 151)
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
+| 2023-10-31 | 233,276 | 2,408 |
 ## Awards
 Max (Great for Beginners): 5,462  (Ranked 69)  
-Sum: 32,270 (Ranked 41)  
+Sum: 32,271 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,462 |
 | This game has Diverse Characters | 5,454 |
-| This game has Quickly Understood Controls | 4,802 |
+| This game has Quickly Understood Controls | 4,803 |
 | This game is Relaxing | 4,689 |
 | This game has Amazing Characters | 4,186 |
 | This game is Highly Recommended | 4,180 |
@@ -1022,4 +1023,4 @@ Diff (max vs sum): 28
 | 2023-10-27 | 4.06 | - | 5,456 | 32,243 |
 | 2023-10-28 | 4.06 | - | 5,461 | 32,249 |
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
-| 2023-10-30 | 4.06 | - | 5,462 | 32,270 |
+| 2023-10-30 | 4.06 | - | 5,462 | 32,271 |

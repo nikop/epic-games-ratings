@@ -2,12 +2,12 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -1529,10 +1529,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1454,
       "NumberOfAwardsMax": 718
+    },
+    {
+      "Time": "2023-10-31T00:02:43.8873011+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1455,
+      "NumberOfAwardsMax": 718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1454,
+  "NumberOfAwards": 1455,
   "NumberOfAwardsMax": 718,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1564,7 +1570,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1614,8 +1620,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-10-25T01:41:46.6592935+00:00",
+  "LastChanged": "2023-10-31T00:02:43.8873008+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:58.1378744+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:03:36.3656031+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:07:51.2499775+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:02:43.8873015+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:00.3145172+00:00"
 }

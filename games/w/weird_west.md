@@ -1,25 +1,25 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 655)  
+Rating: 4.45 (Ranked 656)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,726 |
-| Self-Improvement | 71.00% | ~1,392 |
-| Perky | 65.00% | ~1,275 |
-| Let’s Ride | 60.00% | ~1,177 |
-| Welcome to the Weird West | 57.00% | ~1,118 |
-| Dead or Alive | 56.00% | ~1,098 |
+| Unforgiven | 88.00% | ~1,727 |
+| Self-Improvement | 71.00% | ~1,394 |
+| Perky | 65.00% | ~1,276 |
+| Let’s Ride | 59.00% | ~1,158 |
+| Dead or Alive | 56.00% | ~1,099 |
+| Welcome to the Weird West | 56.00% | ~1,099 |
 | Full House | 37.00% | ~726 |
 | Off the Trail | 34.00% | ~667 |
-| Justice Served | 30.00% | ~588 |
+| Justice Served | 30.00% | ~589 |
 | Chain Reaction | 26.00% | ~510 |
 | Through Their Eyes | 26.00% | ~510 |
-| Dishonored | 25.00% | ~490 |
-| Rain of Death | 25.00% | ~490 |
-| Scholar | 25.00% | ~490 |
+| Dishonored | 25.00% | ~491 |
+| Rain of Death | 25.00% | ~491 |
+| Scholar | 25.00% | ~491 |
 | The Great Escape | 23.00% | ~451 |
 | That’s All, Folks | 19.00% | ~373 |
 | Fallen Star | 16.00% | ~314 |
@@ -29,15 +29,15 @@ Number of Ratings: 125  (23.09.2022)
 | Dog Days | 13.00% | ~255 |
 | Out on the Ebb Tide | 13.00% | ~255 |
 | Workers' Rights | 13.00% | ~255 |
-| Elusive Prey | 12.00% | ~235 |
-| Power Behind the Pulpit | 12.00% | ~235 |
-| Turning the Tables | 12.00% | ~235 |
+| Elusive Prey | 12.00% | ~236 |
+| Power Behind the Pulpit | 12.00% | ~236 |
+| Turning the Tables | 12.00% | ~236 |
 | Something Wicked This Way Comes… | 11.00% | ~216 |
 | There is Hope | 11.00% | ~216 |
-| Loyalty to the Pack | 9.00% | ~176 |
-| Eternity Can Wait | 9.00% | ~176 |
-| Mystery Machine | 9.00% | ~176 |
-| The Philosopher’s Stone | 9.00% | ~176 |
+| Loyalty to the Pack | 9.00% | ~177 |
+| Eternity Can Wait | 9.00% | ~177 |
+| Mystery Machine | 9.00% | ~177 |
+| The Philosopher’s Stone | 9.00% | ~177 |
 | Do Not Pass Go… | 8.00% | ~157 |
 | Gold Digger | 8.00% | ~157 |
 | Monster Hunter | 8.00% | ~157 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,961 (Ranked 216)  
+Progressed: 1,963 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 7 (0.36%) (Ranked 208)
 | 2023-10-28 | 1,955 | 7 |
 | 2023-10-29 | 1,958 | 7 |
 | 2023-10-30 | 1,961 | 7 |
+| 2023-10-31 | 1,963 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 497)  
 Sum: 28 (Ranked 509)  

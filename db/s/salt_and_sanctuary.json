@@ -2,7 +2,7 @@
   "ID": "79d9bff700bb46a790b21e8c73b34899",
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
-  "Ranking_Rating": 380,
+  "Ranking_Rating": 381,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 33,
@@ -2736,9 +2736,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 536826,
+  "EOS_Progressed": 536827,
   "EOS_Completed": 1601,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -23946,6 +23946,11 @@
       "Time": "2023-10-30T23:06:28.5727783+00:00",
       "NumProgressed": 536826,
       "NumCompleted": 1601
+    },
+    {
+      "Time": "2023-10-31T00:05:30.5510127+00:00",
+      "NumProgressed": 536827,
+      "NumCompleted": 1601
     }
   ],
   "TotalAchievements": 37,
@@ -23957,7 +23962,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69787
+      "UsersEstimate": 69788
     },
     {
       "ID": "COASTROCK",
@@ -24069,7 +24074,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214730
+      "UsersEstimate": 214731
     },
     {
       "ID": "THE_CASTLE",
@@ -24125,7 +24130,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69787
+      "UsersEstimate": 69788
     },
     {
       "ID": "THE_IRON_ONES",
@@ -24229,7 +24234,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91260
+      "UsersEstimate": 91261
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -24252,15 +24257,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 536826,
+      "Progressed": 536827,
       "Completed": 1601
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-30T13:06:06.5803169+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:06:28.5727774+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:05:30.5510121+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:52.4412902+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:07.5485312+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:06:28.5729802+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:00:35.7102693+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:05:30.5511875+00:00"
 }

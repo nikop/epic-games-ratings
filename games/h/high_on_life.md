@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.64 (Ranked 328)  
+Rating: 4.64 (Ranked 329)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,9 +30,9 @@ Rating: 4.64 (Ranked 328)
 | Eye Scream, You Scream | 0.70% | ~171 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.40% | ~98 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.40% | ~98 |
 | Fall In Love With A Parasite | 0.40% | ~7 |
 | Sequel-Bait | 0.30% | ~73 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
 | Mods Please Ban | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |

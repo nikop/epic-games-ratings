@@ -2,7 +2,7 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 921,
+  "Ranking_Rating": 922,
   "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 168,
@@ -917,7 +917,7 @@
   ],
   "EOS_Progressed": 7163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8088,9 +8088,9 @@
       "ID": "First_Planet_Colonized",
       "SetID": "4h07amh",
       "Name": "Colonize a Planet",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5587
     },
     {
       "ID": "First_Race_Met",
@@ -8568,8 +8568,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:04:29.6473076+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:03:29.7767138+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:59:19.6811985+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:04:29.64743+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:59:03.3280576+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:03:29.7768492+00:00"
 }

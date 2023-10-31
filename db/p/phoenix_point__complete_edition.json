@@ -2,12 +2,12 @@
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
-  "Ranking_Rating": 479,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-07-21T17:00:00+00:00",
@@ -3277,10 +3277,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 7296,
       "NumberOfAwardsMax": 1816
+    },
+    {
+      "Time": "2023-10-30T23:59:36.3424206+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7297,
+      "NumberOfAwardsMax": 1816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7296,
+  "NumberOfAwards": 7297,
   "NumberOfAwardsMax": 1816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3330,7 +3336,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 621
+      "Count": 622
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3356,8 +3362,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2023-10-30T20:59:53.6893556+00:00",
+  "LastChanged": "2023-10-30T23:59:36.3424202+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.0155461+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:59:55.8211969+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:05:51.2763841+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:59:36.3424212+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:04:39.1202113+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 103,
@@ -1757,9 +1757,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 62131,
+  "EOS_Progressed": 62135,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22982,6 +22982,11 @@
       "Time": "2023-10-30T23:08:40.8916865+00:00",
       "NumProgressed": 62131,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T00:07:42.6843123+00:00",
+      "NumProgressed": 62135,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -22993,7 +22998,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 34172
+      "UsersEstimate": 34174
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -23113,7 +23118,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -23225,7 +23230,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16154
+      "UsersEstimate": 16155
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -23249,7 +23254,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 19882
+      "UsersEstimate": 19883
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -23257,7 +23262,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24852
+      "UsersEstimate": 24854
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -23281,7 +23286,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 39143
+      "UsersEstimate": 39145
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -23305,7 +23310,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -23313,7 +23318,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4970
+      "UsersEstimate": 4971
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -23337,7 +23342,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15533
+      "UsersEstimate": 15534
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -23361,7 +23366,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 48462
+      "UsersEstimate": 48465
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -23409,7 +23414,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -23457,22 +23462,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 22988
+      "UsersEstimate": 22990
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 62131,
+      "Progressed": 62135,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-10-29T02:18:33.6451118+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:08:40.8916858+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:07:42.6843117+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:01.325984+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:23.7707186+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:08:40.8919851+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:00:49.7874242+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:42.6845123+00:00"
 }

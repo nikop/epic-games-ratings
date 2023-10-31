@@ -22,8 +22,8 @@
 | Principled | 52.00% | ~451 |
 | Medal of Exploration III | 51.00% | ~443 |
 | Asari Ally | 51.00% | ~443 |
+| Paramour I | 50.00% | ~434 |
 | Soldier Ally | 50.00% | ~434 |
-| Paramour I | 49.00% | ~425 |
 | Colonial Savior | 49.00% | ~425 |
 | Scientist | 48.00% | ~417 |
 | Merciless | 47.00% | ~408 |
@@ -71,10 +71,10 @@
 | Doppelganger | 30.00% | ~260 |
 | Mission Accomplished | 29.00% | ~252 |
 | Suicide Mission | 29.00% | ~252 |
+| Against All Odds | 29.00% | ~252 |
 | Mobilizer | 29.00% | ~252 |
 | Untouchable | 28.00% | ~243 |
 | First Aid Specialist | 28.00% | ~243 |
-| Against All Odds | 28.00% | ~243 |
 | Giant Killer | 27.00% | ~234 |
 | A House Divided | 27.00% | ~234 |
 | Eye of the Hurricane | 26.00% | ~226 |

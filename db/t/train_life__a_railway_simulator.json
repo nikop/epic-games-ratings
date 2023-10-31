@@ -2,12 +2,12 @@
   "ID": "8965024015f5467699f4a497c7c016e8",
   "Name": "Train Life: A Railway Simulator",
   "ProductSlug": "train-life",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -261,6 +261,6 @@
   "FirstSeen": "2022-07-22T20:30:34.3889134+00:00",
   "LastChanged": "2023-10-10T19:00:03.6995161+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:46.9901289+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:59:16.8036744+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:05:02.0637167+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:59:00.9364819+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:03:57.4172104+00:00"
 }

@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.60 (Ranked 406)  
+Rating: 4.60 (Ranked 407)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.60 (Ranked 406)
 | Stogie for Fogey | 0.70% | ~101 |
 | Spore Taste | 0.70% | ~101 |
 | Heal Thy Medic | 0.70% | ~101 |
-| Khan's Revenge | 0.60% | ~87 |
+| Khan's Revenge | 0.70% | ~101 |
 | Thorston Mayer | 0.50% | ~72 |
 | Doctor Approved | 0.40% | ~58 |
 | Bottoms up! | 0.40% | ~58 |

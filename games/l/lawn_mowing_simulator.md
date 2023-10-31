@@ -1,19 +1,19 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 957)  
+Rating: 4.08 (Ranked 958)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~541,551 |
-| Every story has a beginning | 36.00% | ~243,698 |
-| The first of many | 31.00% | ~209,851 |
-| Positive word of mouth | 18.00% | ~121,849 |
-| Lawn in the U.S.A. | 15.00% | ~101,541 |
+| The dream begins | 80.00% | ~541,558 |
+| Every story has a beginning | 36.00% | ~243,701 |
+| The first of many | 31.00% | ~209,854 |
+| Positive word of mouth | 18.00% | ~121,850 |
+| Lawn in the U.S.A. | 15.00% | ~101,542 |
 | Blade Runner | 9.00% | ~60,925 |
 | Credible | 7.00% | ~47,386 |
-| Teamwork makes the dream work | 6.00% | ~40,616 |
+| Teamwork makes the dream work | 6.00% | ~40,617 |
 | Where there's muck there's brass | 4.00% | ~27,078 |
 | Bigger and better | 4.00% | ~27,078 |
 | Aggressive expansion | 4.00% | ~27,078 |
@@ -27,11 +27,11 @@ Number of Ratings: 5,086  (23.09.2022)
 | The top of the mountain | 2.00% | ~13,539 |
 | First step on the ladder | 2.00% | ~13,539 |
 | Trusted | 2.00% | ~13,539 |
-| Earn your stripes | 0.90% | ~6,092 |
-| Lawn & Order | 0.90% | ~6,092 |
-| Jack of all trades | 0.90% | ~6,092 |
-| All hands on deck | 0.90% | ~6,092 |
-| Professional | 0.90% | ~6,092 |
+| Earn your stripes | 0.90% | ~6,093 |
+| Lawn & Order | 0.90% | ~6,093 |
+| Jack of all trades | 0.90% | ~6,093 |
+| All hands on deck | 0.90% | ~6,093 |
+| Professional | 0.90% | ~6,093 |
 | The grass is always greener | 0.80% | ~5,416 |
 | Worked your grass off | 0.80% | ~5,416 |
 | Phoenix rises | 0.40% | ~2,708 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~677 |
 | Mo mowers, mo problems | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,939 (Ranked 25)  
+Progressed: 676,947 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 17 (0.00%) (Ranked 333)
 | 2023-10-28 | 676,318 | 17 |
 | 2023-10-29 | 676,677 | 17 |
 | 2023-10-30 | 676,939 | 17 |
+| 2023-10-31 | 676,947 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 292)  
 Sum: 982 (Ranked 258)  

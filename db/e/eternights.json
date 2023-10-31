@@ -1389,9 +1389,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -1436,8 +1436,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:06:12.0039794+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:04:56.7466731+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:17.2693823+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:06:12.0040051+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:00:45.8727142+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:04:56.7467135+00:00"
 }

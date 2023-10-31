@@ -2,12 +2,12 @@
   "ID": "599d248ca46b45a8b40a3b4e484712cb",
   "Name": "The Crew 2 Standard Edition",
   "ProductSlug": "the-crew-2",
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2019-12-04T11:00:00+00:00",
@@ -7051,6 +7051,6 @@
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
   "LastChanged": "2023-10-30T18:02:52.9185204+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:33.8936464+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:04:13.5696555+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:04:40.337003+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:03:16.6163307+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:03:38.8308222+00:00"
 }

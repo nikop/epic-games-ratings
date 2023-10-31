@@ -2,12 +2,12 @@
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-07-19T12:00:00+00:00",
@@ -10007,6 +10007,6 @@
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
   "LastChanged": "2023-10-30T18:59:29.2090506+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:55.6809967+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:59:30.8991204+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:07:24.6781072+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:59:13.858298+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:06:17.8544397+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -9016,6 +9016,6 @@
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
   "LastChanged": "2023-10-30T21:00:59.9704486+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:50.4965723+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:01:05.7801005+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:07:46.180808+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:00:33.8992194+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:06:36.05506+00:00"
 }

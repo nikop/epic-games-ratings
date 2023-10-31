@@ -2,7 +2,7 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 29,
@@ -499,9 +499,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 608749,
+  "EOS_Progressed": 608753,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22124,6 +22124,11 @@
       "Time": "2023-10-30T23:04:34.5210539+00:00",
       "NumProgressed": 608749,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2023-10-31T00:03:33.7827893+00:00",
+      "NumProgressed": 608753,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 28,
@@ -22175,7 +22180,7 @@
       "Name": "The hoarder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6087
+      "UsersEstimate": 6088
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -22183,7 +22188,7 @@
       "Name": "README reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18262
+      "UsersEstimate": 18263
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -22199,7 +22204,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 371337
+      "UsersEstimate": 371339
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -22215,7 +22220,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 267850
+      "UsersEstimate": 267851
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -22231,7 +22236,7 @@
       "Name": "Cosplay",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 79137
+      "UsersEstimate": 79138
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -22239,7 +22244,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 79137
+      "UsersEstimate": 79138
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -22247,7 +22252,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 292200
+      "UsersEstimate": 292201
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -22255,7 +22260,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 304374
+      "UsersEstimate": 304376
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -22263,7 +22268,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 566137
+      "UsersEstimate": 566140
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22271,7 +22276,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 146100
+      "UsersEstimate": 146101
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -22279,7 +22284,7 @@
       "Name": "Data scientist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18262
+      "UsersEstimate": 18263
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -22287,7 +22292,7 @@
       "Name": "Ping",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6087
+      "UsersEstimate": 6088
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -22295,7 +22300,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 401774
+      "UsersEstimate": 401777
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -22303,7 +22308,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109575
+      "UsersEstimate": 109576
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -22311,7 +22316,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 322637
+      "UsersEstimate": 322639
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -22327,7 +22332,7 @@
       "Name": "One small step for a man...",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 18262
+      "UsersEstimate": 18263
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -22351,22 +22356,22 @@
       "Name": "Magna cum laude",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6087
+      "UsersEstimate": 6088
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 608749,
+      "Progressed": 608753,
       "Completed": 540
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-10-24T11:00:57.0724389+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:04:34.5210528+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:03:33.782789+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:08.120773+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:59:51.4333145+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:04:34.5212313+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:59:33.6526512+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:03:33.7829721+00:00"
 }

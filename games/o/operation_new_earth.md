@@ -1,13 +1,13 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.38 (Ranked 1,028)  
+Rating: 3.38 (Ranked 1,029)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 28.00% | ~482 |
 | Defenses Online | 25.00% | ~430 |
-| Facility Online | 21.00% | ~361 |
+| Facility Online | 21.00% | ~362 |
 | Corporal | 15.00% | ~258 |
 | Sergeant | 12.00% | ~207 |
 | Covert Operative | 12.00% | ~207 |
@@ -21,7 +21,7 @@ Rating: 3.38 (Ranked 1,028)
 | Silver Competitor | 8.00% | ~138 |
 | Captain | 8.00% | ~138 |
 | Factory Expansion | 8.00% | ~138 |
-| Exterminator | 7.00% | ~120 |
+| Exterminator | 7.00% | ~121 |
 | Brothers in Arms | 6.00% | ~103 |
 | Know The Enemy | 5.00% | ~86 |
 | Player Betrayer | 5.00% | ~86 |
@@ -44,7 +44,7 @@ Rating: 3.38 (Ranked 1,028)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,721 (Ranked 221)  
+Progressed: 1,722 (Ranked 221)  
 Completed: 1 (0.06%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 1 (0.06%) (Ranked 283)
 | 2023-10-28 | 1,705 | 1 |
 | 2023-10-29 | 1,714 | 1 |
 | 2023-10-30 | 1,721 | 1 |
+| 2023-10-31 | 1,722 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -205,7 +205,7 @@
   "Tags": [],
   "EOS_Progressed": 2505,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 6.95,
   "EosHistory": [
@@ -3362,8 +3362,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-10-15T10:01:42.1764859+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:08:31.7705717+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:07:35.0242611+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:26.7260344+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:58:45.8200022+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:08:31.7706016+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:58:30.5469955+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:35.0242944+00:00"
 }

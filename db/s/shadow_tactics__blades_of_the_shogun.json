@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 69,
@@ -1882,9 +1882,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 210975,
+  "EOS_Progressed": 210979,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -23932,6 +23932,11 @@
       "Time": "2023-10-30T23:08:08.5266271+00:00",
       "NumProgressed": 210975,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-10-31T00:07:15.163024+00:00",
+      "NumProgressed": 210979,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 44,
@@ -23967,7 +23972,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12658
+      "UsersEstimate": 12659
     },
     {
       "ID": "CompleteMastery",
@@ -23999,7 +24004,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12658
+      "UsersEstimate": 12659
     },
     {
       "ID": "GearUp",
@@ -24031,7 +24036,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14768
+      "UsersEstimate": 14769
     },
     {
       "ID": "HighFiveTheMoon",
@@ -24047,7 +24052,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14768
+      "UsersEstimate": 14769
     },
     {
       "ID": "ItsRainingMen",
@@ -24063,7 +24068,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14768
+      "UsersEstimate": 14769
     },
     {
       "ID": "Mercyful",
@@ -24095,7 +24100,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12658
+      "UsersEstimate": 12659
     },
     {
       "ID": "NoGimmicks",
@@ -24263,7 +24268,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12658
+      "UsersEstimate": 12659
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -24287,22 +24292,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14768
+      "UsersEstimate": 14769
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 210975,
+      "Progressed": 210979,
       "Completed": 92
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-10-30T13:58:18.7475866+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:08:08.5266267+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:07:15.1630236+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:58:39.9756767+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:08:08.5268573+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:58:24.6655123+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:07:15.1632228+00:00"
 }

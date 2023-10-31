@@ -1,24 +1,24 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 580)  
+Rating: 4.50 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 5.00% | ~1,450 |
-| Advancement | 4.00% | ~1,160 |
-| Meticulously Efficient | 4.00% | ~1,160 |
-| Clutch Capture | 3.00% | ~870 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~870 |
-| Cultured | 3.00% | ~870 |
-| Discovery | 3.00% | ~870 |
-| Fully Upgraded | 3.00% | ~870 |
-| Solo Capture | 3.00% | ~870 |
-| Swift Rift Removers | 3.00% | ~870 |
-| Teamwork | 3.00% | ~870 |
-| There you are! | 3.00% | ~870 |
-| Vaporous Expansion | 3.00% | ~870 |
-| Whoopsie | 3.00% | ~870 |
+| Stylish | 5.00% | ~1,451 |
+| Advancement | 4.00% | ~1,161 |
+| Meticulously Efficient | 4.00% | ~1,161 |
+| Clutch Capture | 3.00% | ~871 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~871 |
+| Cultured | 3.00% | ~871 |
+| Discovery | 3.00% | ~871 |
+| Fully Upgraded | 3.00% | ~871 |
+| Solo Capture | 3.00% | ~871 |
+| Swift Rift Removers | 3.00% | ~871 |
+| Teamwork | 3.00% | ~871 |
+| There you are! | 3.00% | ~871 |
+| Vaporous Expansion | 3.00% | ~871 |
+| Whoopsie | 3.00% | ~871 |
 | Animated | 2.00% | ~580 |
 | Back Off | 2.00% | ~580 |
 | We have the best insurance | 2.00% | ~580 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,993 (Ranked 121)  
+Progressed: 29,021 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,9 +251,10 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-28 | 28,111 | 65 |
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
+| 2023-10-31 | 29,021 | 65 |
 ## Awards
 Max (Great for Beginners): 297  (Ranked 244)  
-Sum: 2,620 (Ranked 180)  
+Sum: 2,625 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -261,9 +262,9 @@ Diff (max vs sum): 64
 | This game is Great for Quick Sessions | 285 |
 | This game has Amazing Storytelling | 266 |
 | This game has Diverse Characters | 263 |
+| This game is Highly Recommended | 260 |
 | This game has Competitive Players | 260 |
 | This game is Extremely Fun | 257 |
-| This game is Highly Recommended | 255 |
 | This game is Relaxing | 254 |
 | This game has Quickly Understood Controls | 244 |
 | This game has Amazing Characters | 239 |
@@ -469,3 +470,4 @@ Diff (max vs sum): 64
 | 2023-10-28 | 4.50 | 288 | 2,585 |
 | 2023-10-29 | 4.50 | 293 | 2,603 |
 | 2023-10-30 | 4.50 | 297 | 2,620 |
+| 2023-10-31 | 4.50 | 297 | 2,625 |

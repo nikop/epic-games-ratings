@@ -3,8 +3,8 @@
   "Name": "The Backroom Project",
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -789,6 +789,11 @@
       "Time": "2023-10-30T23:10:31.7710582+00:00",
       "NumProgressed": 160,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T00:09:23.9975414+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -798,25 +803,25 @@
       "ID": "ACH_CORPSE",
       "SetID": "c2kf3nm",
       "Name": "Are you still Alive?",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_DIE",
       "SetID": "c2kf3nm",
       "Name": "Sometimes Death is a Mercy",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_DULLER",
       "SetID": "c2kf3nm",
       "Name": "STAY AWAY",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ENTERLEVELRUN",
@@ -832,7 +837,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_FRIEND",
@@ -840,7 +845,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_GET_IN",
@@ -848,15 +853,15 @@
       "Name": "Lab Rat",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_GET_OUT",
       "SetID": "c2kf3nm",
       "Name": "Time Heals NOTHING",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_HABITABLE",
@@ -870,9 +875,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_HOUND",
@@ -888,7 +893,7 @@
       "Name": "Key to your Death",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_PIPEDREAMS",
@@ -910,9 +915,9 @@
       "ID": "ACH_PITFALLSDIE",
       "SetID": "c2kf3nm",
       "Name": "One Wrong Step",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_RUN",
@@ -920,7 +925,7 @@
       "Name": "RUN FOR YOUR LIFE",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_STAIRS",
@@ -936,21 +941,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:10:31.7710576+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:09:23.9975408+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.9033952+00:00",
-  "LastUpdate_Ratings": "2023-10-30T22:57:35.2034022+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:10:31.7710919+00:00"
+  "LastUpdate_Ratings": "2023-10-30T23:57:30.6709493+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:09:23.9975693+00:00"
 }

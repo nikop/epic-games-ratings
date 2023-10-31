@@ -1,22 +1,22 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 497)  
+Rating: 4.55 (Ranked 498)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~961,404 |
-| I Need a Bigger Garage | 63.00% | ~672,983 |
-| Pump my Ride | 47.00% | ~502,067 |
-| Ghostbuster | 34.00% | ~363,197 |
-| Call Roadside Assistance | 18.00% | ~192,281 |
-| That Was Close | 18.00% | ~192,281 |
-| Quickie | 11.00% | ~117,505 |
-| California Dreamer | 7.00% | ~74,776 |
-| Can't Touch This | 5.00% | ~53,411 |
-| Carménère Taster | 4.00% | ~42,729 |
-| Comeback | 4.00% | ~42,729 |
+| The First of Many | 90.00% | ~961,417 |
+| I Need a Bigger Garage | 63.00% | ~672,992 |
+| Pump my Ride | 47.00% | ~502,073 |
+| Ghostbuster | 34.00% | ~363,202 |
+| Call Roadside Assistance | 18.00% | ~192,283 |
+| That Was Close | 18.00% | ~192,283 |
+| Quickie | 11.00% | ~117,507 |
+| California Dreamer | 7.00% | ~74,777 |
+| Can't Touch This | 5.00% | ~53,412 |
+| Carménère Taster | 4.00% | ~42,730 |
+| Comeback | 4.00% | ~42,730 |
 | Driver from Ipanema | 3.00% | ~32,047 |
 | Supersonic | 3.00% | ~32,047 |
 | Marathonist | 3.00% | ~32,047 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,068 |
 | Look Mom, No Hands! | 0.10% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,227 (Ranked 13)  
+Progressed: 1,068,241 (Ranked 13)  
 Completed: 472 (0.04%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 472 (0.04%) (Ranked 293)
 | 2023-10-28 | 1,067,343 | 471 |
 | 2023-10-29 | 1,067,869 | 471 |
 | 2023-10-30 | 1,068,227 | 472 |
+| 2023-10-31 | 1,068,241 | 472 |
 ## Awards
 Max (Great for Beginners): 162  (Ranked 304)  
 Sum: 1,352 (Ranked 233)  

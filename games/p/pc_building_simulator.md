@@ -1,21 +1,21 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 309)  
+Rating: 4.65 (Ranked 310)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,751,530 |
-| Easy to forget | 46.00% | ~1,644,293 |
-| Back in the black | 39.00% | ~1,394,075 |
-| That's what I'm talking about | 29.00% | ~1,036,620 |
-| The Best of Both Worlds | 25.00% | ~893,638 |
-| Get your wings | 20.00% | ~714,910 |
-| Double trouble | 16.00% | ~571,928 |
-| Smashing it | 11.00% | ~393,201 |
-| But can it run Crysis? | 9.00% | ~321,710 |
-| My favourite feature... | 9.00% | ~321,710 |
+| You need to plug it in... | 49.00% | ~1,751,535 |
+| Easy to forget | 46.00% | ~1,644,299 |
+| Back in the black | 39.00% | ~1,394,079 |
+| That's what I'm talking about | 29.00% | ~1,036,623 |
+| The Best of Both Worlds | 25.00% | ~893,640 |
+| Get your wings | 20.00% | ~714,912 |
+| Double trouble | 16.00% | ~571,930 |
+| Smashing it | 11.00% | ~393,202 |
+| But can it run Crysis? | 9.00% | ~321,711 |
+| My favourite feature... | 9.00% | ~321,711 |
 | From humble beginnings... | 7.00% | ~250,219 |
 | Customer satisfaction | 7.00% | ~250,219 |
 | Keeping things neat | 4.00% | ~142,982 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,575 |
 | Treat yourself - GPU | 0.10% | ~3,575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574,551 (Ranked 5)  
+Progressed: 3,574,562 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,6 +253,7 @@ Completed: 36 (0.00%) (Ranked 333)
 | 2023-10-28 | 3,573,806 | 36 |
 | 2023-10-29 | 3,574,217 | 36 |
 | 2023-10-30 | 3,574,551 | 36 |
+| 2023-10-31 | 3,574,562 | 36 |
 ## Awards
 Max (Great for Beginners): 1,093  (Ranked 142)  
 Sum: 8,090 (Ranked 102)  

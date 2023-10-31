@@ -2,9 +2,9 @@
   "ID": "4c82d55f22d3437c96cf3e0fcb53b73f",
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-10-30T01:48:10.1182312+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T00:04:44.5337612+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-28T09:06:47.8073027+00:00",
@@ -169,7 +174,7 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -201,7 +206,7 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -209,7 +214,7 @@
       "ID": "ACH_014",
       "SetID": "7b646ck",
       "Name": "Little grey cells",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -217,7 +222,7 @@
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -233,7 +238,7 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 67,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -241,7 +246,7 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -257,7 +262,7 @@
       "ID": "ACH_02",
       "SetID": "7b646ck",
       "Name": "The Gala",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 14
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_020",
       "SetID": "7b646ck",
       "Name": "An old friend",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -273,7 +278,7 @@
       "ID": "ACH_021",
       "SetID": "7b646ck",
       "Name": "A curious gathering",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -281,7 +286,7 @@
       "ID": "ACH_022",
       "SetID": "7b646ck",
       "Name": "An expert mediator",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -289,7 +294,7 @@
       "ID": "ACH_023",
       "SetID": "7b646ck",
       "Name": "An odd series of events",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -297,7 +302,7 @@
       "ID": "ACH_024",
       "SetID": "7b646ck",
       "Name": "A rude awakening",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -329,7 +334,7 @@
       "ID": "ACH_028",
       "SetID": "7b646ck",
       "Name": "Impossible is possible",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -345,7 +350,7 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -369,7 +374,7 @@
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -377,7 +382,7 @@
       "ID": "ACH_033",
       "SetID": "7b646ck",
       "Name": "Ms. Camilla B. Culsham",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -385,7 +390,7 @@
       "ID": "ACH_034",
       "SetID": "7b646ck",
       "Name": "DI Hardwicke",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -409,7 +414,7 @@
       "ID": "ACH_037",
       "SetID": "7b646ck",
       "Name": "Arthur Hastings",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -425,7 +430,7 @@
       "ID": "ACH_039",
       "SetID": "7b646ck",
       "Name": "Irene Court-Smyth",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -433,7 +438,7 @@
       "ID": "ACH_04",
       "SetID": "7b646ck",
       "Name": "The Investigation Begins",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -449,7 +454,7 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 67,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -465,7 +470,7 @@
       "ID": "ACH_043",
       "SetID": "7b646ck",
       "Name": "Nathaniel Dryden",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -497,7 +502,7 @@
       "ID": "ACH_05",
       "SetID": "7b646ck",
       "Name": "The Apartment",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -538,14 +543,14 @@
     {
       "ID": "7b646ck",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:05:57.4310565+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:04:44.5337606+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.7786932+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:04:11.8791181+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:05:57.4311314+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:03:15.1845907+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:04:44.5338037+00:00"
 }

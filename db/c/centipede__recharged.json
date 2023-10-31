@@ -2,13 +2,13 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18185,
+  "EOS_Progressed": 18186,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15032,6 +15032,11 @@
       "Time": "2023-10-30T22:05:11.9594902+00:00",
       "NumProgressed": 18185,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-10-31T00:06:03.6652437+00:00",
+      "NumProgressed": 18186,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15139,7 +15144,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 9092
+      "UsersEstimate": 9093
     },
     {
       "ID": "Sole_Survivor",
@@ -15147,7 +15152,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6728
+      "UsersEstimate": 6729
     },
     {
       "ID": "Still_Burning",
@@ -15170,15 +15175,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18185,
+      "Progressed": 18186,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-10-30T23:07:07.7984021+00:00",
+  "LastChanged_Achievements": "2023-10-31T00:06:03.6652433+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:00:37.3749356+00:00",
-  "LastUpdate_Achievements": "2023-10-30T23:07:07.7985373+00:00"
+  "LastUpdate_Ratings": "2023-10-31T00:00:12.0521008+00:00",
+  "LastUpdate_Achievements": "2023-10-31T00:06:03.6653942+00:00"
 }

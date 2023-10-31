@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Little ideas | 67.00% | ~18 |
-| Marc Allard | 67.00% | ~18 |
-| The Ship | 63.00% | ~17 |
-| Seeking the truth | 59.00% | ~16 |
-| An old friend | 56.00% | ~15 |
-| The Gala | 52.00% | ~14 |
-| A curious gathering | 52.00% | ~14 |
-| Little grey cells | 48.00% | ~13 |
-| Impossible is possible | 48.00% | ~13 |
-| The Missing Magdalene | 48.00% | ~13 |
-| Arthur Hastings | 48.00% | ~13 |
-| Everything matters | 37.00% | ~10 |
-| Order and method | 37.00% | ~10 |
-| An expert mediator | 33.00% | ~9 |
-| DI Hardwicke | 33.00% | ~9 |
-| Betty Allen | 30.00% | ~8 |
-| The Investigation Begins | 30.00% | ~8 |
-| An odd series of events | 22.00% | ~6 |
-| Ms. Camilla B. Culsham | 22.00% | ~6 |
-| Irene Court-Smyth | 22.00% | ~6 |
-| The Apartment | 22.00% | ~6 |
-| A rude awakening | 19.00% | ~5 |
-| Nathaniel Dryden | 19.00% | ~5 |
+| Little ideas | 64.00% | ~18 |
+| Marc Allard | 64.00% | ~18 |
+| The Ship | 61.00% | ~17 |
+| Seeking the truth | 57.00% | ~16 |
+| An old friend | 54.00% | ~15 |
+| The Gala | 50.00% | ~14 |
+| A curious gathering | 50.00% | ~14 |
+| Little grey cells | 46.00% | ~13 |
+| Impossible is possible | 46.00% | ~13 |
+| The Missing Magdalene | 46.00% | ~13 |
+| Arthur Hastings | 46.00% | ~13 |
+| Everything matters | 36.00% | ~10 |
+| Order and method | 36.00% | ~10 |
+| An expert mediator | 32.00% | ~9 |
+| DI Hardwicke | 32.00% | ~9 |
+| Betty Allen | 29.00% | ~8 |
+| The Investigation Begins | 29.00% | ~8 |
+| An odd series of events | 21.00% | ~6 |
+| Ms. Camilla B. Culsham | 21.00% | ~6 |
+| Irene Court-Smyth | 21.00% | ~6 |
+| The Apartment | 21.00% | ~6 |
+| A rude awakening | 18.00% | ~5 |
+| Nathaniel Dryden | 18.00% | ~5 |
 | Well-acquainted | 11.00% | ~3 |
 | Truth from within | 11.00% | ~3 |
 | Anastasia Babanin | 11.00% | ~3 |
@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 493)  
+Progressed: 28 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-25 | 25 | 0 |
 | 2023-10-27 | 26 | 0 |
 | 2023-10-30 | 27 | 0 |
+| 2023-10-31 | 28 | 0 |

@@ -1,28 +1,28 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 530)  
+Rating: 4.53 (Ranked 531)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,462 |
-| Worth it | 63.00% | ~39,143 |
-| Eagle Eye | 55.00% | ~34,172 |
-| Corpseman I | 40.00% | ~24,852 |
-| Blast fishing | 37.00% | ~22,988 |
-| Not alone | 32.00% | ~19,882 |
-| Headhunter I | 26.00% | ~16,154 |
-| Manual Labour I | 25.00% | ~15,533 |
-| Developers, Developers, Developers | 24.00% | ~14,911 |
-| Basic Training | 24.00% | ~14,911 |
-| Furchtlos und Treu | 13.00% | ~8,077 |
+| Setting an example | 78.00% | ~48,465 |
+| Worth it | 63.00% | ~39,145 |
+| Eagle Eye | 55.00% | ~34,174 |
+| Corpseman I | 40.00% | ~24,854 |
+| Blast fishing | 37.00% | ~22,990 |
+| Not alone | 32.00% | ~19,883 |
+| Headhunter I | 26.00% | ~16,155 |
+| Manual Labour I | 25.00% | ~15,534 |
+| Developers, Developers, Developers | 24.00% | ~14,912 |
+| Basic Training | 24.00% | ~14,912 |
+| Furchtlos und Treu | 13.00% | ~8,078 |
 | Gott Mit Uns | 12.00% | ~7,456 |
 | This We'll Defend! | 9.00% | ~5,592 |
 | Anker wirf! | 9.00% | ~5,592 |
 | Providentiea Memor | 9.00% | ~5,592 |
 | For King and Country | 9.00% | ~5,592 |
-| Battle hardened | 8.00% | ~4,970 |
+| Battle hardened | 8.00% | ~4,971 |
 | Semper Fidelis! | 7.00% | ~4,349 |
 | Honneur et Patrie | 7.00% | ~4,349 |
 | In Treue Fest | 5.00% | ~3,107 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,131 (Ranked 103)  
+Progressed: 62,135 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 4 (0.01%) (Ranked 313)
 | 2023-10-28 | 61,945 | 4 |
 | 2023-10-29 | 62,054 | 4 |
 | 2023-10-30 | 62,131 | 4 |
+| 2023-10-31 | 62,135 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 346)  
 Sum: 901 (Ranked 266)  

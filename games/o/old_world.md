@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 309)  
+Rating: 4.65 (Ranked 310)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 3.00% | ~452 |
 | Strong | 3.00% | ~452 |
 | Hanging Gardens | 3.00% | ~452 |
+| Oracle | 3.00% | ~452 |
 | Ambitious | 2.00% | ~301 |
+| Drillmaster | 2.00% | ~301 |
 | Brilliant | 2.00% | ~301 |
 | Enlightened | 2.00% | ~301 |
 | Fountainhead | 2.00% | ~301 |
@@ -40,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 2.00% | ~301 |
 | Lighthouse | 2.00% | ~301 |
 | Musaeum | 2.00% | ~301 |
-| Oracle | 2.00% | ~301 |
 | Pyramids | 2.00% | ~301 |
 | Learn to Play 1 | 2.00% | ~301 |
 | Christianity | 2.00% | ~301 |
@@ -58,7 +59,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 1.00% | ~151 |
 | Hanging Gardens in Babylon | 1.00% | ~151 |
 | Beloved | 1.00% | ~151 |
-| Drillmaster | 1.00% | ~151 |
 | Conqueror | 1.00% | ~151 |
 | Intercessor | 1.00% | ~151 |
 | Lion | 1.00% | ~151 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~135 |
 | Building Wonders | 0.90% | ~135 |
 | Economic Reform | 0.90% | ~135 |
+| Redemption | 0.90% | ~135 |
 | Legionary | 0.90% | ~135 |
 | The Clergy | 0.90% | ~135 |
 | Landowners | 0.80% | ~120 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.80% | ~120 |
 | Gnosticism | 0.80% | ~120 |
 | Legalism | 0.80% | ~120 |
-| Redemption | 0.80% | ~120 |
 | Revelation | 0.80% | ~120 |
 | Cimmerian Archer | 0.80% | ~120 |
 | Phalangite | 0.80% | ~120 |
