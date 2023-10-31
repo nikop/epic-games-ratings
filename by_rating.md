@@ -157,7 +157,7 @@
 | 154 | [Diabotical](games/d/diabotical.md) | 4.74 | 285 | 251 |
 | 154 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 544 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 831 | 164 |
-| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 17,857 | 23 |
+| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 17,950 | 23 |
 | 154 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 544 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 728 | 175 |
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 544 |
@@ -590,7 +590,7 @@
 | 581 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 544 |
 | 581 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.50 | 0 | 544 |
 | 581 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 297 | 244 |
-| 581 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,941 | 97 |
+| 581 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,944 | 97 |
 | 581 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 113 | 338 |
 | 581 | [Mars Horizon](games/m/mars_horizon.md) | 4.50 | 0 | 544 |
 | 581 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 649 | 186 |
@@ -788,20 +788,20 @@
 | 774 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 125 | 327 |
 | 787 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 544 |
 | 787 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 544 |
-| 787 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 103 | 349 |
 | 787 | [Dark Light](games/d/dark_light.md) | 4.35 | 0 | 544 |
 | 787 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 544 |
-| 787 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 205 | 279 |
+| 787 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 206 | 279 |
 | 787 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 544 |
 | 787 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 50 | 422 |
-| 795 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 502 |
-| 795 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 123 | 330 |
-| 795 | [Encased](games/e/encased.md) | 4.34 | 148 | 312 |
-| 795 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 0 | 544 |
-| 795 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.34 | 0 | 544 |
-| 795 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 261 | 260 |
-| 795 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 544 |
-| 795 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 3,009 | 96 |
+| 794 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 502 |
+| 794 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 123 | 330 |
+| 794 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 103 | 349 |
+| 794 | [Encased](games/e/encased.md) | 4.34 | 148 | 312 |
+| 794 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.34 | 0 | 544 |
+| 794 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.34 | 0 | 544 |
+| 794 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 261 | 260 |
+| 794 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 544 |
+| 794 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 3,009 | 96 |
 | 803 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 544 |
 | 803 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 544 |
 | 803 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.33 | 0 | 544 |
@@ -877,17 +877,17 @@
 | 870 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 544 |
 | 870 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 544 |
 | 877 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 544 |
-| 877 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.23 | 185 | 288 |
 | 877 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 152 |
 | 877 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 544 |
 | 877 | [Rise of Industry](games/r/rise_of_industry.md) | 4.23 | 0 | 544 |
 | 877 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 544 |
 | 877 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 0 | 544 |
-| 884 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 544 |
-| 884 | [OVERPASS™](games/o/overpass™.md) | 4.22 | 0 | 544 |
-| 884 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 544 |
-| 884 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 544 |
-| 884 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 219 | 275 |
+| 883 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 185 | 288 |
+| 883 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 544 |
+| 883 | [OVERPASS™](games/o/overpass™.md) | 4.22 | 0 | 544 |
+| 883 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 544 |
+| 883 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 544 |
+| 883 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 219 | 275 |
 | 889 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 124 | 328 |
 | 889 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 481 |
 | 889 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 544 |
