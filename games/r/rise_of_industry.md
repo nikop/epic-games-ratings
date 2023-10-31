@@ -1,14 +1,14 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 878)  
+Rating: 4.23 (Ranked 877)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~358,943 |
-| Well educated | 37.00% | ~276,685 |
-| City Planner | 19.00% | ~142,082 |
-| Deforester | 17.00% | ~127,126 |
+| Entrepreneur | 48.00% | ~358,945 |
+| Well educated | 37.00% | ~276,687 |
+| City Planner | 19.00% | ~142,083 |
+| Deforester | 17.00% | ~127,127 |
 | Big Hauling | 16.00% | ~119,648 |
 | Apprentice Manufacturer | 13.00% | ~97,214 |
 | Exporter | 13.00% | ~97,214 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 878)
 | Master Builder | 0.10% | ~748 |
 | Hard working | 0.10% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 747,798 (Ranked 18)  
+Progressed: 747,803 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 4 (0.00%) (Ranked 333)
 | 2023-10-28 | 747,089 | 4 |
 | 2023-10-29 | 747,471 | 4 |
 | 2023-10-30 | 747,747 | 4 |
-| 2023-10-31 | 747,798 | 4 |
+| 2023-10-31 | 747,803 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

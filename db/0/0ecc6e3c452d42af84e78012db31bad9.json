@@ -8969,9 +8969,9 @@
       "ID": "ach_10_medium_pictures",
       "SetID": "3h4khpo",
       "Name": "Artist in the making",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 412
+      "UsersEstimate": 449
     },
     {
       "ID": "ach_animals_completed",
@@ -9088,8 +9088,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:09:01.1175553+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:07:05.9113032+00:00",
   "LastUpdate_AppInfo": "2023-10-27T18:57:14.9249176+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:04:03.782431+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:09:01.1176734+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:02:55.3857253+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:07:05.9113839+00:00"
 }

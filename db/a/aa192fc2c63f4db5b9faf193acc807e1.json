@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytaleach12",
@@ -176,9 +176,9 @@
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytaleach2",
@@ -232,17 +232,17 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -255,8 +255,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:11:18.0974508+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:09:44.5529584+00:00",
   "LastUpdate_AppInfo": "2023-10-25T02:57:00.1412888+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:03:18.5343643+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:11:18.0974639+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:02:16.0715742+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:09:44.5529715+00:00"
 }

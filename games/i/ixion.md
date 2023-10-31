@@ -13,9 +13,9 @@ Rating: 4.57 (Ranked 465)
 | A Thousand Strong | 17.00% | ~556 |
 | Ready for a New World | 17.00% | ~556 |
 | Permanent Redesigns | 15.00% | ~490 |
+| Fully Recycled | 14.00% | ~458 |
 | The Ship of Theseus | 14.00% | ~458 |
 | Guy de Borderlands | 13.00% | ~425 |
-| Fully Recycled | 13.00% | ~425 |
 | Ain't Nobody Got Time for That | 13.00% | ~425 |
 | Hope Seeker | 12.00% | ~392 |
 | Exceeding Capacity | 11.00% | ~360 |
@@ -55,7 +55,7 @@ Rating: 4.57 (Ranked 465)
 | Scientifically Accurate | 1.00% | ~33 |
 | Work Harder | 0.60% | ~20 |
 | Crunch Culture | 0.40% | ~13 |
-| Soylent Green | 0.30% | ~10 |
+| Soylent Green | 0.40% | ~13 |
 | A Junker's Dream | 0.20% | ~7 |
 | Scenic View | 0.20% | ~7 |
 | I Give You the Stars | 0.20% | ~3 |

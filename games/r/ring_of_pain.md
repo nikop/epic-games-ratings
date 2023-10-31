@@ -6,6 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Thank You, Friend | 0.10% | ~239 |
 | Ambitious Intent | 0.10% | ~239 |
 | Quick Descent | 0.10% | ~239 |
 | First Steps | 0.10% | ~239 |
@@ -14,6 +15,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Max Damage! | 0.10% | ~239 |
 | Delving Deeper | 0.10% | ~239 |
 | A Rough Road | 0.10% | ~239 |
+| Hydrophobe | 0.10% | ~239 |
 | Disposal | 0.10% | ~239 |
 | R.I.P | 0.10% | ~239 |
 | To The Death! | 0.10% | ~239 |
@@ -23,10 +25,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 0.10% | ~239 |
 | Who To Trust? | 0.10% | ~239 |
 | Walk It Off | 0.10% | ~239 |
+| Just Chilling | 0.10% | ~239 |
 | Cold Hearted | 0.10% | ~239 |
 | I Am Overburdened | 0.10% | ~239 |
 | Powerful Potion | 0.10% | ~239 |
 | Berzerker | 0.10% | ~239 |
+| Gigantic | 0.10% | ~239 |
 | Save Our Souls | 0.10% | ~239 |
 | Defeat The Dark | 0.10% | ~239 |
 | The Bestiary | 0.10% | ~239 |
@@ -37,6 +41,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What's Yours Is Mine | 0.10% | ~239 |
 | Stop Hitting Yourself | 0.10% | ~239 |
 | Spine Breaker | 0.10% | ~239 |
+| Shootout | 0.10% | ~239 |
 | A Rock And A Hard Place | 0.10% | ~239 |
 | Illuminate, Eliminate | 0.10% | ~239 |
 | A Donation | 0.10% | ~239 |
@@ -44,17 +49,21 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.10% | ~239 |
 | Stone Touch | 0.10% | ~239 |
 | Doing Time | 0.10% | ~239 |
+| Toxic | 0.10% | ~239 |
 | Decisions, Decisions | 0.10% | ~239 |
 | Fragile Mortality | 0.10% | ~239 |
 | New Perspectives | 0.10% | ~239 |
+| Snake Sneak | 0.10% | ~239 |
 | Uncharted Territory | 0.10% | ~239 |
 | Explorer | 0.10% | ~239 |
 | Sneaky | 0.10% | ~239 |
 | Shadow Walker | 0.10% | ~239 |
 | Flesh Wound | 0.10% | ~239 |
+| Fire Away! | 0.10% | ~239 |
 | Defuser | 0.10% | ~239 |
 | An Offering | 0.10% | ~239 |
 | The Long Run | 0.10% | ~239 |
+| Masochist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
 | Tunnel Vision | 0.10% | ~239 |
 | Sentimental Value | 0.10% | ~239 |
@@ -75,7 +84,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
-| Thank You, Friend | 0.00% | ~0 |
 | Achievement Hunter | 0.00% | ~0 |
 | Consecutive Curses | 0.00% | ~0 |
 | A Week Attempt | 0.00% | ~0 |
@@ -83,21 +91,18 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heavy Hitter | 0.00% | ~0 |
 | A Long Climb | 0.00% | ~0 |
 | Getting A Glimpse | 0.00% | ~0 |
-| Hydrophobe | 0.00% | ~0 |
 | Dead Revels | 0.00% | ~0 |
 | That Was Quick | 0.00% | ~0 |
 | Dig Your Own Grave | 0.00% | ~0 |
 | Hanging On | 0.00% | ~0 |
 | Barbecue | 0.00% | ~0 |
 | Explosive Betrayal | 0.00% | ~0 |
-| Just Chilling | 0.00% | ~0 |
 | A Hard Carry | 0.00% | ~0 |
 | Grave Digger | 0.00% | ~0 |
 | Soul Stash | 0.00% | ~0 |
 | For Science | 0.00% | ~0 |
 | Willing the World | 0.00% | ~0 |
 | Juggernaut | 0.00% | ~0 |
-| Gigantic | 0.00% | ~0 |
 | Power Score | 0.00% | ~0 |
 | Predator | 0.00% | ~0 |
 | Here Comes The Airplane | 0.00% | ~0 |
@@ -111,7 +116,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Poor Choices | 0.00% | ~0 |
 | Heartless | 0.00% | ~0 |
 | Not What I Meant | 0.00% | ~0 |
-| Shootout | 0.00% | ~0 |
 | Illuminate, Annihilate | 0.00% | ~0 |
 | Path To Enlightenment | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
@@ -122,16 +126,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Looking Around | 0.00% | ~0 |
 | A Quick Escape | 0.00% | ~0 |
 | Spreading Plague | 0.00% | ~0 |
-| Toxic | 0.00% | ~0 |
 | Acid Bath | 0.00% | ~0 |
 | Need An Antidote? | 0.00% | ~0 |
 | Antivenom | 0.00% | ~0 |
-| Snake Sneak | 0.00% | ~0 |
 | Sprinter | 0.00% | ~0 |
-| Fire Away! | 0.00% | ~0 |
 | Shapeshifting | 0.00% | ~0 |
 | The Tickler | 0.00% | ~0 |
-| Masochist | 0.00% | ~0 |
 | Minimalist | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
 | Champion of the Day | 0.00% | ~0 |

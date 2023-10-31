@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3258,7 +3258,7 @@
   ],
   "EOS_Progressed": 238869,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23370,9 +23370,9 @@
       "ID": "ACCEPT500GIFTS",
       "SetID": "5l8oe0h",
       "Name": "Thank You, Friend",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -23498,9 +23498,9 @@
       "ID": "DEPTH6NOPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Hydrophobe",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DESTROY20ITEMS",
@@ -23626,9 +23626,9 @@
       "ID": "FREEZE200",
       "SetID": "5l8oe0h",
       "Name": "Just Chilling",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "FREEZE20TIMES",
@@ -23714,9 +23714,9 @@
       "ID": "HIGHHEALTH",
       "SetID": "5l8oe0h",
       "Name": "Gigantic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HIGHSCORE",
@@ -23906,9 +23906,9 @@
       "ID": "KILLSPITTER",
       "SetID": "5l8oe0h",
       "Name": "Shootout",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -24050,9 +24050,9 @@
       "ID": "POISON30TIMES",
       "SetID": "5l8oe0h",
       "Name": "Toxic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -24106,9 +24106,9 @@
       "ID": "SNAKESTEALTH",
       "SetID": "5l8oe0h",
       "Name": "Snake Sneak",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "SPECIALROOMS1",
@@ -24162,9 +24162,9 @@
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
       "SetID": "5l8oe0h",
       "Name": "Fire Away!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "TRANSFORM20TIMES",
@@ -24210,9 +24210,9 @@
       "ID": "WIN0DEFENSE",
       "SetID": "5l8oe0h",
       "Name": "Masochist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WIN4ORFEWERITEMS",
@@ -24489,8 +24489,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:11:32.5118384+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:09:55.6039983+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:04:41.9704258+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:11:32.51241+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:03:31.1246819+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:09:55.6043643+00:00"
 }

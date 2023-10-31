@@ -2931,9 +2931,9 @@
       "ID": "ACH_TURNING_THE_TABLES",
       "SetID": "8j30i9k",
       "Name": "Turning the Tables",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -2995,8 +2995,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:07:41.8703547+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:05:38.9523686+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:00:33.9870032+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:07:41.8704622+00:00"
+  "LastUpdate_Ratings": "2023-10-31T05:59:49.3022147+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:05:38.952431+00:00"
 }

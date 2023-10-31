@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39723,
+  "EOS_Progressed": 39724,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20450,6 +20450,11 @@
       "Time": "2023-10-31T04:08:46.7449766+00:00",
       "NumProgressed": 39723,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T06:08:43.7097763+00:00",
+      "NumProgressed": 39724,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -20581,7 +20586,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14300
+      "UsersEstimate": 14301
     },
     {
       "ID": "ach_die10",
@@ -20829,7 +20834,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "ach_undercurrent",
@@ -20892,15 +20897,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39723,
+      "Progressed": 39724,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:10:34.7418568+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:08:43.7097756+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:23.0924358+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:02:44.2511154+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:10:34.7421655+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:01:50.4198961+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:08:43.709963+00:00"
 }

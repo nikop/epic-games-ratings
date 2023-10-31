@@ -7717,10 +7717,10 @@
       "Count": 3497
     }
   ],
-  "EOS_Progressed": 233289,
-  "EOS_Completed": 2409,
-  "EOS_NewPlayers": 603,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 233290,
+  "EOS_Completed": 2410,
+  "EOS_NewPlayers": 598,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -29357,6 +29357,11 @@
       "Time": "2023-10-31T05:08:47.7605925+00:00",
       "NumProgressed": 233289,
       "NumCompleted": 2409
+    },
+    {
+      "Time": "2023-10-31T06:06:56.6950069+00:00",
+      "NumProgressed": 233290,
+      "NumCompleted": 2410
     }
   ],
   "TotalAchievements": 528,
@@ -32598,9 +32603,9 @@
       "ID": "objective_completed_802",
       "SetID": "415jc5c",
       "Name": "Moose Tracks",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_803",
@@ -33591,21 +33596,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199563,
+      "Progressed": 199564,
       "Completed": 3719
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233289,
-      "Completed": 2409
+      "Progressed": 233290,
+      "Completed": 2410
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-10-31T01:41:44.6851225+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:08:47.7605919+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:06:56.6950063+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-31T04:59:12.4448899+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:08:47.7641661+00:00"
+  "LastUpdate_Ratings": "2023-10-31T05:58:39.2525076+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:06:56.6979243+00:00"
 }

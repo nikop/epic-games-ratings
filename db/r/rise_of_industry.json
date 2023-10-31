@@ -2,7 +2,7 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 878,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 18,
@@ -288,9 +288,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 747798,
+  "EOS_Progressed": 747803,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2020,
+  "EOS_NewPlayers": 2019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22378,6 +22378,11 @@
       "Time": "2023-10-31T05:10:33.4244874+00:00",
       "NumProgressed": 747798,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-10-31T06:08:42.7967234+00:00",
+      "NumProgressed": 747803,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -22453,7 +22458,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 276685
+      "UsersEstimate": 276687
     },
     {
       "ID": "ach_demolish_trees",
@@ -22461,7 +22466,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 127126
+      "UsersEstimate": 127127
     },
     {
       "ID": "ach_free_cam_mode",
@@ -22517,7 +22522,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 358943
+      "UsersEstimate": 358945
     },
     {
       "ID": "ach_produced",
@@ -22597,14 +22602,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 142082
+      "UsersEstimate": 142083
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 747798,
+      "Progressed": 747803,
       "Completed": 4
     }
   ],
@@ -22612,8 +22617,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-29T03:00:20.3271488+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:10:33.4244868+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:08:42.7967225+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:46.7983751+00:00",
-  "LastUpdate_Ratings": "2023-10-31T05:01:35.3049419+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:10:33.4246462+00:00"
+  "LastUpdate_Ratings": "2023-10-31T06:00:48.7325333+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:08:42.796896+00:00"
 }

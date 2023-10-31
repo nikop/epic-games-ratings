@@ -824,9 +824,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -856,9 +856,9 @@
       "ID": "GSS_ACH_05_TIP_03",
       "SetID": "5fn8ia4",
       "Name": "Tip of the Iceberg",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "GSS_ACH_06_FUEL_01",
@@ -1024,17 +1024,17 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -1104,9 +1104,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -1168,9 +1168,9 @@
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
       "SetID": "5fn8ia4",
       "Name": "Products Please!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
@@ -1256,9 +1256,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -1296,9 +1296,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -1424,9 +1424,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -1479,8 +1479,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T05:07:41.4566619+00:00",
+  "LastChanged_Achievements": "2023-10-31T06:05:38.6844634+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T04:58:05.4723436+00:00",
-  "LastUpdate_Achievements": "2023-10-31T05:07:41.456781+00:00"
+  "LastUpdate_Ratings": "2023-10-31T05:57:41.0843006+00:00",
+  "LastUpdate_Achievements": "2023-10-31T06:05:38.6845788+00:00"
 }

@@ -67,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~399 |
 | Bel's Forge | 0.20% | ~399 |
 | Friendly Imps | 0.20% | ~467 |
+| Moose Tracks | 0.20% | ~399 |
 | Civilization | 0.20% | ~399 |
 | The Sibriex | 0.20% | ~399 |
 | Wrecked Flying Fortress | 0.20% | ~399 |
@@ -433,7 +434,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.10% | ~233 |
 | Underdeep Cartography | 0.10% | ~233 |
 | Overdue Rendezvous | 0.10% | ~233 |
-| Moose Tracks | 0.10% | ~200 |
 | An Awakened Axe | 0.10% | ~200 |
 | CONtagious Cold | 0.10% | ~200 |
 | Ten in Ten-Towns | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,289 (Ranked 62)  
-Completed: 2,409 (1.03%) (Ranked 151)  
+Progressed: 233,290 (Ranked 62)  
+Completed: 2,410 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -729,7 +729,7 @@ Completed: 2,409 (1.03%) (Ranked 151)
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
-| 2023-10-31 | 233,289 | 2,409 |
+| 2023-10-31 | 233,290 | 2,410 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,276 (Ranked 41)  

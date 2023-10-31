@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~7,579 |
-| Cool Whip | 90.00% | ~7,334 |
-| Fashion Killa | 89.00% | ~7,253 |
-| Drop the Beat | 86.00% | ~7,008 |
-| Hey Lakeshore | 85.00% | ~6,927 |
-| 100 Miles and Runnin' | 84.00% | ~6,845 |
+| Throwing up Tags | 93.00% | ~7,580 |
+| Cool Whip | 90.00% | ~7,335 |
+| Fashion Killa | 89.00% | ~7,254 |
+| Drop the Beat | 86.00% | ~7,009 |
+| Hey Lakeshore | 85.00% | ~6,928 |
+| 100 Miles and Runnin' | 84.00% | ~6,846 |
 | Public Enemy | 83.00% | ~6,764 |
-| Rebel Without a Pause | 68.00% | ~5,541 |
-| Hey Speedie! | 68.00% | ~5,541 |
-| Most Wanted | 65.00% | ~5,297 |
+| Rebel Without a Pause | 68.00% | ~5,542 |
+| Hey Speedie! | 68.00% | ~5,542 |
+| Most Wanted | 65.00% | ~5,298 |
 | New Crew | 63.00% | ~5,134 |
 | Escape Artist | 55.00% | ~4,482 |
-| Serious Guap | 54.00% | ~4,400 |
-| Style it Out | 54.00% | ~4,400 |
-| Untouchable | 54.00% | ~4,400 |
+| Serious Guap | 54.00% | ~4,401 |
+| Style it Out | 54.00% | ~4,401 |
+| Untouchable | 54.00% | ~4,401 |
 | Oh, It's On | 51.00% | ~4,156 |
-| Rydell's Rydes | 49.00% | ~3,993 |
+| Rydell's Rydes | 49.00% | ~3,994 |
 | Cash Money Millionaire | 47.00% | ~3,830 |
 | Lake Better Watch Out | 40.00% | ~3,260 |
 | Access All Areas | 35.00% | ~2,852 |
@@ -35,18 +35,18 @@
 | B for My Name | 19.00% | ~1,548 |
 | Superstar | 19.00% | ~1,548 |
 | Mixtape | 19.00% | ~1,548 |
-| Bring Your A Game | 17.00% | ~1,385 |
+| Bring Your A Game | 17.00% | ~1,386 |
 | Flow Master | 12.00% | ~978 |
-| The Bear Champ | 5.00% | ~407 |
-| Adbusting | 5.00% | ~407 |
-| Heaven Spot | 5.00% | ~407 |
+| The Bear Champ | 5.00% | ~408 |
+| Adbusting | 5.00% | ~408 |
+| Heaven Spot | 5.00% | ~408 |
 | Caught On Camera | 4.00% | ~326 |
 | In The Zone | 3.00% | ~244 |
 | Catch My Drift | 3.00% | ~244 |
 | Frequent Flyer | 2.00% | ~163 |
 | Cleaning Up | 2.00% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,149 (Ranked 163)  
+Progressed: 8,150 (Ranked 163)  
 Completed: 44 (0.54%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,4 +92,4 @@ Completed: 44 (0.54%) (Ranked 186)
 | 2023-10-28 | 7,862 | 43 |
 | 2023-10-29 | 8,009 | 44 |
 | 2023-10-30 | 8,126 | 44 |
-| 2023-10-31 | 8,149 | 44 |
+| 2023-10-31 | 8,150 | 44 |
