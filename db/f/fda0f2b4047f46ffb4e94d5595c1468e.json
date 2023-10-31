@@ -1897,18 +1897,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 4123,
       "NumberOfAwardsMax": 1375
+    },
+    {
+      "Time": "2023-10-31T22:01:39.3425821+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4139,
+      "NumberOfAwardsMax": 1391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4123,
-  "NumberOfAwardsMax": 1375,
+  "NumberOfAwards": 4139,
+  "NumberOfAwardsMax": 1391,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1375
+      "Count": 1391
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1979,7 +1985,7 @@
   ],
   "EOS_Progressed": 8200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6518,9 +6524,9 @@
       "ID": "ach13",
       "SetID": "47in8n6",
       "Name": "Making Friends Is Easy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1476
     },
     {
       "ID": "ach14",
@@ -6830,9 +6836,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-31T21:00:20.1435819+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:03:02.4729265+00:00",
+  "LastChanged": "2023-10-31T22:01:39.3425819+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:03:25.3159807+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:00:20.1435825+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:03:02.473005+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:01:39.3425824+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:03:25.3160421+00:00"
 }

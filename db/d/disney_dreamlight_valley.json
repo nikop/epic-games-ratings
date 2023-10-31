@@ -4,10 +4,10 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 122,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4431,7 +4431,7 @@
       "Count": 519
     }
   ],
-  "EOS_Progressed": 11232,
+  "EOS_Progressed": 11233,
   "EOS_Completed": 267,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 5,
@@ -17396,6 +17396,11 @@
       "Time": "2023-10-31T21:07:45.9886193+00:00",
       "NumProgressed": 11232,
       "NumCompleted": 267
+    },
+    {
+      "Time": "2023-10-31T22:08:22.4734369+00:00",
+      "NumProgressed": 11233,
+      "NumCompleted": 267
     }
   ],
   "TotalAchievements": 15,
@@ -17415,7 +17420,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "Bestest_Friend",
@@ -17423,7 +17428,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "Chef_Cook",
@@ -17479,7 +17484,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7862
+      "UsersEstimate": 7863
     },
     {
       "ID": "Miner",
@@ -17495,7 +17500,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7750
+      "UsersEstimate": 7751
     },
     {
       "ID": "Renovator",
@@ -17503,7 +17508,7 @@
       "Name": "Renovator",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 5728
+      "UsersEstimate": 5729
     },
     {
       "ID": "Thorn_Cleaner",
@@ -17526,7 +17531,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11232,
+      "Progressed": 11233,
       "Completed": 267
     }
   ],
@@ -17534,8 +17539,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-10-31T19:59:19.3681258+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:07:45.9886188+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:08:22.4734364+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:11.7317557+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:58:58.387508+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:07:45.9887103+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:59:41.2803361+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:08:22.4735047+00:00"
 }

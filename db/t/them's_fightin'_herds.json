@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 345,
+  "Ranking_Rating": 346,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 63,
@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231727,
+  "EOS_Progressed": 231729,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20221,6 +20221,11 @@
       "Time": "2023-10-31T20:05:36.3833572+00:00",
       "NumProgressed": 231727,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T22:06:29.1231221+00:00",
+      "NumProgressed": 231729,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20376,7 +20381,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78787
+      "UsersEstimate": 78788
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -20455,7 +20460,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231727,
+      "Progressed": 231729,
       "Completed": 5
     }
   ],
@@ -20463,8 +20468,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:05:17.0245675+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:06:29.1231214+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.2502965+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:57:19.315252+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:05:17.0247099+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:57:21.3958577+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:06:29.1232323+00:00"
 }

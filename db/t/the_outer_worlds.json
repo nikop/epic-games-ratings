@@ -2,12 +2,12 @@
   "ID": "rosemallow",
   "Name": "The Outer Worlds",
   "ProductSlug": "the-outer-worlds",
-  "Ranking_Rating": 345,
+  "Ranking_Rating": 346,
   "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2019-10-25T15:00:00+00:00",
@@ -2776,6 +2776,6 @@
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
   "LastChanged": "2023-10-31T04:00:31.4177178+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:25.9607502+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:00:12.51136+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:06:00.1738531+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:01:26.2201009+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:07:27.6985311+00:00"
 }

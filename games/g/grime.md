@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 427)  
+Rating: 4.58 (Ranked 442)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,799 (Ranked 75)  
+Progressed: 155,805 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,18 +224,18 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
-| 2023-10-31 | 155,799 | 1 |
+| 2023-10-31 | 155,805 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
-Sum: 336 (Ranked 351)  
+Sum: 337 (Ranked 351)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
 | This game has Unique Visuals | 48 |
 | This game has Quickly Understood Controls | 47 |
+| This game has Challenging Combat | 43 |
 | This game is Extremely Fun | 43 |
-| This game has Challenging Combat | 42 |
 | This game has Amazing Storytelling | 39 |
 | This game has Amazing Characters | 34 |
 | This game has a Creative Community | 33 |
@@ -370,4 +370,4 @@ Diff (max vs sum): 73
 | 2023-10-28 | 4.59 | - | 49 | 327 |
 | 2023-10-29 | 4.59 | - | 49 | 330 |
 | 2023-10-30 | 4.59 | - | 49 | 330 |
-| 2023-10-31 | 4.59 | - | 50 | 336 |
+| 2023-10-31 | 4.59 | - | 50 | 337 |

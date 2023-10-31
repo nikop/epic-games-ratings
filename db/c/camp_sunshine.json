@@ -4,7 +4,7 @@
   "ProductSlug": "camp-sunshine-fee104",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-04-19T23:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.9795393+00:00",
   "LastChanged": "2023-03-31T05:56:58.9795394+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.7615043+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:59:31.9892004+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:04:49.2861718+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:00:23.3121841+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:05:50.6196308+00:00"
 }

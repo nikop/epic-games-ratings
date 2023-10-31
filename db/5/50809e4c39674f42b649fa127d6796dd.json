@@ -3,7 +3,7 @@
   "Name": null,
   "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": null,
@@ -82,9 +82,9 @@
       "ID": "ACCEL_COMBO_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Combo Crackerjack",
-      "Percentage": 45,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
@@ -194,9 +194,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 200,
+      "Percentage": 191,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "FIRST_S_RANK",
@@ -408,7 +408,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:06:06.559147+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:57:28.0426639+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:06:06.5591807+00:00"
+  "LastChanged_Achievements": "2023-10-31T22:07:36.8150671+00:00",
+  "LastUpdate_Ratings": "2023-10-31T21:57:32.9911249+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:07:36.8150915+00:00"
 }

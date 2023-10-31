@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1253,10 +1253,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-10-31T21:58:01.307734+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1276,7 +1282,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has a Creative Community",
@@ -1315,9 +1321,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 155799,
+  "EOS_Progressed": 155805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13845,6 +13851,11 @@
       "Time": "2023-10-31T21:05:25.4171917+00:00",
       "NumProgressed": 155799,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T22:06:40.6465568+00:00",
+      "NumProgressed": 155805,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14223,21 +14234,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155382,
+      "Progressed": 155388,
       "Completed": 1184
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155799,
+      "Progressed": 155805,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-31T13:57:50.9539881+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:05:25.4171913+00:00",
+  "LastChanged": "2023-10-31T21:58:01.3077339+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:06:40.6465564+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:57:46.3142752+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:05:25.4172937+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:58:01.3077343+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:06:40.646646+00:00"
 }

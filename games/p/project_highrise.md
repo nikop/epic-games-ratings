@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~208 |
-| Starting Skyward | 55.00% | ~190 |
-| Grime is Not Good | 49.00% | ~170 |
-| Floor Galore | 42.00% | ~145 |
-| Dinner Dash | 42.00% | ~145 |
+| Starting Skyward | 54.00% | ~187 |
+| Grime is Not Good | 48.00% | ~167 |
+| Floor Galore | 42.00% | ~146 |
 | Campaign Launch | 41.00% | ~142 |
-| Need a Consult | 38.00% | ~131 |
-| It's Technical | 38.00% | ~131 |
+| Dinner Dash | 41.00% | ~142 |
+| Need a Consult | 38.00% | ~132 |
+| It's Technical | 38.00% | ~132 |
 | Upgrade Unlock | 37.00% | ~128 |
 | Delegate Maintenance | 35.00% | ~121 |
-| Proper Walls | 33.00% | ~114 |
+| Proper Walls | 33.00% | ~115 |
 | Destination Destiny | 32.00% | ~111 |
-| Happy Tenants | 27.00% | ~93 |
+| Happy Tenants | 27.00% | ~94 |
 | Potent Potables | 26.00% | ~90 |
 | Smooth Service | 26.00% | ~90 |
-| Your Prestige is Rising | 25.00% | ~86 |
-| Retail Revenue | 25.00% | ~86 |
+| Your Prestige is Rising | 25.00% | ~87 |
+| Retail Revenue | 25.00% | ~87 |
 | Don't Feel a Loan | 23.00% | ~80 |
 | Artfully Done | 22.00% | ~76 |
 | People Mover | 22.00% | ~76 |
@@ -33,12 +33,12 @@
 | We Don't Need No Education | 19.00% | ~66 |
 | Established Fame | 18.00% | ~62 |
 | Cashflow Chief | 17.00% | ~59 |
-| Under One Roof | 16.00% | ~55 |
-| Starred Dining | 16.00% | ~55 |
-| Smooth Operator | 14.00% | ~48 |
-| Boutique Benefits | 14.00% | ~48 |
-| Terrifically Trashed | 14.00% | ~48 |
-| Thrilled Tenants | 14.00% | ~48 |
+| Under One Roof | 16.00% | ~56 |
+| Starred Dining | 16.00% | ~56 |
+| Smooth Operator | 14.00% | ~49 |
+| Boutique Benefits | 14.00% | ~49 |
+| Terrifically Trashed | 14.00% | ~49 |
+| Thrilled Tenants | 14.00% | ~49 |
 | Swimming in Surplus | 12.00% | ~42 |
 | Aestheticly Pleased | 11.00% | ~38 |
 | 28 Days Later | 11.00% | ~38 |
@@ -48,12 +48,12 @@
 | Phoning It In | 9.00% | ~31 |
 | First 100 Days | 8.00% | ~28 |
 | Water Features | 8.00% | ~28 |
-| Meet Me at HQ | 8.00% | ~28 |
-| Revenue Royalty | 8.00% | ~28 |
-| Golden Opportunity | 8.00% | ~28 |
 | Careful Constructor | 7.00% | ~24 |
+| Meet Me at HQ | 7.00% | ~24 |
 | Profound Proceeds | 7.00% | ~24 |
 | Maximum Reuse | 7.00% | ~24 |
+| Revenue Royalty | 7.00% | ~24 |
+| Golden Opportunity | 7.00% | ~24 |
 | Pipe Up | 7.00% | ~24 |
 | I'm Busy Ruling | 6.00% | ~21 |
 | Sky High Stature | 6.00% | ~21 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346 (Ranked 314)  
+Progressed: 347 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-27 | 343 | 0 |
 | 2023-10-29 | 345 | 0 |
 | 2023-10-30 | 346 | 0 |
+| 2023-10-31 | 347 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

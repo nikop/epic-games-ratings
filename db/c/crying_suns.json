@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470015,
+  "EOS_Progressed": 470017,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20946,6 +20946,11 @@
       "Time": "2023-10-31T21:08:52.0642756+00:00",
       "NumProgressed": 470015,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-31T22:09:56.8145142+00:00",
+      "NumProgressed": 470017,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -20957,7 +20962,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70502
+      "UsersEstimate": 70503
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -20965,7 +20970,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70502
+      "UsersEstimate": 70503
     },
     {
       "ID": "achievement_first_death",
@@ -20981,7 +20986,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103403
+      "UsersEstimate": 103404
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -20989,7 +20994,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70502
+      "UsersEstimate": 70503
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -21045,7 +21050,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310210
+      "UsersEstimate": 310211
     },
     {
       "ID": "achievement_story_landa",
@@ -21125,7 +21130,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70502
+      "UsersEstimate": 70503
     },
     {
       "ID": "achievement_story_neon_child",
@@ -21141,7 +21146,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159805
+      "UsersEstimate": 159806
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21389,7 +21394,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141004
+      "UsersEstimate": 141005
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21413,7 +21418,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183306
+      "UsersEstimate": 183307
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21429,7 +21434,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14100
+      "UsersEstimate": 14101
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -21445,7 +21450,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14100
+      "UsersEstimate": 14101
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -21469,7 +21474,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103403
+      "UsersEstimate": 103404
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21588,21 +21593,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13949,
+      "Progressed": 13951,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470015,
+      "Progressed": 470017,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:08:52.0642748+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:09:56.8145138+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:59:30.7886063+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:08:52.0644875+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:00:21.5517138+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:09:56.8146775+00:00"
 }

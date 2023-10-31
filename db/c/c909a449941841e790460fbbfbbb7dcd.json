@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -388,17 +388,17 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -492,9 +492,9 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:08:30.0697064+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:09:26.0955955+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:02:20.705457+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:08:30.0697221+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:01:51.890197+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:09:26.0956086+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "42c9d119160c4631b5916a7e33bd4bc3",
   "Name": "BloodRayne: Terminal Cut",
   "ProductSlug": "bloodrayne-terminal-cut-929df8",
-  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-04T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
       "Time": "2023-10-29T06:05:51.5795268+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T22:06:32.2210643+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 13,
@@ -54,7 +59,7 @@
       "ID": "EAchievement_Ark_Of_The_Covenant",
       "SetID": "17dde9j",
       "Name": "Ark of the Covenant",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -62,7 +67,7 @@
       "ID": "EAchievement_Big_Momma",
       "SetID": "17dde9j",
       "Name": "Big Momma",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -70,7 +75,7 @@
       "ID": "EAchievement_Half_Blood",
       "SetID": "17dde9j",
       "Name": "Half Blood",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -86,7 +91,7 @@
       "ID": "EAchievement_Left_Of_Centre",
       "SetID": "17dde9j",
       "Name": "Left of Centre",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -94,7 +99,7 @@
       "ID": "EAchievement_Make_Him_Mad",
       "SetID": "17dde9j",
       "Name": "Make Him Mad",
-      "Percentage": 71,
+      "Percentage": 63,
       "XP": 75,
       "UsersEstimate": 5
     },
@@ -102,7 +107,7 @@
       "ID": "EAchievement_Of_Wulfs_And_Demons",
       "SetID": "17dde9j",
       "Name": "Of Wulfs and Demons",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "EAchievement_Right_Hand_Man",
       "SetID": "17dde9j",
       "Name": "Right Hand Man",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "EAchievement_Teachers_And_Traitors",
       "SetID": "17dde9j",
       "Name": "Teachers and Traitors",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "EAchievement_The_Butcheress",
       "SetID": "17dde9j",
       "Name": "The Butcheress",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "EAchievement_Thule_Chapel",
       "SetID": "17dde9j",
       "Name": "Thule Chapel",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "EAchievement_Vampiress",
       "SetID": "17dde9j",
       "Name": "Vampiress",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "EAchievement_Walls_Of_Jericho",
       "SetID": "17dde9j",
       "Name": "Walls of Jericho",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -159,7 +164,7 @@
     {
       "ID": "17dde9j",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
@@ -167,8 +172,8 @@
   "FirstSeenRating": "2023-03-31T06:58:23.5211548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.6495145+00:00",
   "LastChanged": "2023-03-31T06:58:23.5211549+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:05:19.3358726+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:06:32.221064+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:07.580529+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:58:53.1783069+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:05:19.3358825+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:59:32.1647537+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:06:32.2210718+00:00"
 }

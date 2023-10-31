@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3586,
+  "EOS_Progressed": 3590,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2097,
+  "EOS_NewPlayers": 2087,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1555,6 +1555,11 @@
       "Time": "2023-10-31T21:08:12.9703377+00:00",
       "NumProgressed": 3586,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-10-31T22:09:02.2243227+00:00",
+      "NumProgressed": 3590,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1573,9 +1578,9 @@
       "ID": "BabySteps",
       "SetID": "acc6ea0",
       "Name": "Baby Steps",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 574
     },
     {
       "ID": "BeLikeWater",
@@ -1639,7 +1644,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1647,7 +1652,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "GarbageMan",
@@ -1711,7 +1716,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "NoMoreTotems",
@@ -1719,7 +1724,7 @@
       "Name": "No More Totems",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1791,7 +1796,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -1807,7 +1812,7 @@
       "Name": "Digestive Issues",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -1823,7 +1828,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "k01101110",
@@ -1838,7 +1843,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3586,
+      "Progressed": 3590,
       "Completed": 2
     }
   ],
@@ -1846,8 +1851,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-31T19:00:56.8787797+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:08:12.9703373+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:09:02.2243222+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-31T21:00:10.8384231+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:08:12.9703721+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:01:23.201181+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:09:02.2243505+00:00"
 }

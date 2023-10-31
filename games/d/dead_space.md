@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.63 (Ranked 345)  
+Rating: 4.63 (Ranked 346)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,9 +39,9 @@ Rating: 4.63 (Ranked 345)
 | Pack Rat | 26.00% | ~357 |
 | Final Regeneration | 25.00% | ~343 |
 | Full Clearance | 24.00% | ~329 |
-| Pusher | 22.00% | ~302 |
+| Pusher | 23.00% | ~316 |
 | Z-Baller | 22.00% | ~302 |
-| Marked | 21.00% | ~288 |
+| Marked | 22.00% | ~302 |
 | Eviscerator | 19.00% | ~261 |
 | Backbreaker | 14.00% | ~192 |
 | Wishbone | 8.00% | ~110 |

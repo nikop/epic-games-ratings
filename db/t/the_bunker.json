@@ -366,25 +366,25 @@
       "ID": "CHAPTER_06_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Alarm",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "CHAPTER_07_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Air Filtration",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CHAPTER_08_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Broken",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "CHAPTER_09_COMPLETE",
@@ -462,9 +462,9 @@
       "ID": "PEG_ENGINEER",
       "SetID": "bho0i1h",
       "Name": "Engineer",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "PEG_GENERAL",
@@ -478,9 +478,9 @@
       "ID": "PEG_MOTHER",
       "SetID": "bho0i1h",
       "Name": "Mother",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "PEG_NURSE",
@@ -494,17 +494,17 @@
       "ID": "PEG_SAM",
       "SetID": "bho0i1h",
       "Name": "Sam",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PEG_SOLDIER",
       "SetID": "bho0i1h",
       "Name": "Soldier",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "STAY",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:03:49.6704483+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:04:28.99106+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:39.9991009+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:58:28.8786917+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:03:49.6704717+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:58:57.0360695+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:04:28.9910769+00:00"
 }

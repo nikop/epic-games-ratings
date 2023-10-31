@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "ID": "ACH_BATHROOM",
       "SetID": "511e31d",
       "Name": "What\u0027s going on here?",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1174,9 +1174,9 @@
       "ID": "ACH_FORCE",
       "SetID": "511e31d",
       "Name": "Brute force",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_GOODENDING",
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:03:01.1838987+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:03:23.4681732+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.0797978+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:57:35.1123057+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:03:01.1839337+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:57:43.5324933+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:03:23.4682006+00:00"
 }

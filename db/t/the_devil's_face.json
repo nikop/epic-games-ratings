@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 527,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -2264,6 +2264,11 @@
       "Time": "2023-10-31T21:05:58.9150854+00:00",
       "NumProgressed": 525,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T22:07:25.4506936+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2275,7 +2280,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2283,7 +2288,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2315,15 +2320,15 @@
       "Name": "Humility",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2337,9 +2342,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2347,7 +2352,7 @@
       "Name": "Unholy lands",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2386,14 +2391,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 527,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:05:58.915085+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:07:25.4506934+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:59:54.8813638+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:05:58.9151109+00:00"
+  "LastUpdate_Ratings": "2023-10-31T22:00:59.1275111+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:07:25.4507108+00:00"
 }

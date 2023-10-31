@@ -3148,9 +3148,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1148
     },
     {
       "ID": "Kill25Bugs",
@@ -3251,8 +3251,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:03:57.1068284+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:04:39.2410324+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.3911639+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:57:57.9636411+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:03:57.1068688+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:58:13.6100371+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:04:39.2410621+00:00"
 }

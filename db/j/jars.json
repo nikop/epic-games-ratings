@@ -322,9 +322,9 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
@@ -467,8 +467,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-10-31T21:03:14.9494524+00:00",
+  "LastChanged_Achievements": "2023-10-31T22:03:42.8196907+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.6109192+00:00",
-  "LastUpdate_Ratings": "2023-10-31T20:57:10.5453794+00:00",
-  "LastUpdate_Achievements": "2023-10-31T21:03:14.9494662+00:00"
+  "LastUpdate_Ratings": "2023-10-31T21:57:10.2402903+00:00",
+  "LastUpdate_Achievements": "2023-10-31T22:03:42.8197041+00:00"
 }
