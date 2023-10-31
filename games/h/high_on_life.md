@@ -27,7 +27,7 @@ Rating: 4.64 (Ranked 329)
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |
 | We Came, We Chainsaw, We Conquered | 0.90% | ~15 |
 | Eatin' Good in the Neighborhood | 0.80% | ~195 |
-| Eye Scream, You Scream | 0.70% | ~171 |
+| Eye Scream, You Scream | 0.80% | ~195 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.40% | ~98 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.40% | ~98 |

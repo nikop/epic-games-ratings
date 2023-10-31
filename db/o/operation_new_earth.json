@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1722,
+  "EOS_Progressed": 1723,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6434,6 +6434,11 @@
       "Time": "2023-10-31T00:07:01.4921605+00:00",
       "NumProgressed": 1722,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T01:50:28.0718558+00:00",
+      "NumProgressed": 1723,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6701,7 +6706,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6709,7 +6714,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -6748,7 +6753,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1722,
+      "Progressed": 1723,
       "Completed": 1
     }
   ],
@@ -6756,8 +6761,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:07:01.4921596+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:50:28.0718553+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:57:22.5658126+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:07:01.4922446+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:40:29.3726441+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:50:28.0719251+00:00"
 }

@@ -13,10 +13,10 @@
 | Doomed | 0.80% | ~3 |
 | Postal Service | 0.80% | ~3 |
 | Unreal | 0.80% | ~3 |
-| ...And I'm All Out Of Gun | 0.60% | ~2 |
-| Pacifantastic | 0.60% | ~2 |
-| SCATHE Too | 0.60% | ~2 |
-| Shocking Bio | 0.60% | ~2 |
+| ...And I'm All Out Of Gun | 0.50% | ~2 |
+| Pacifantastic | 0.50% | ~2 |
+| SCATHE Too | 0.50% | ~2 |
+| Shocking Bio | 0.50% | ~2 |
 | Amaging Work | 0.30% | ~1 |
 | Castle Of The Wolf | 0.30% | ~1 |
 | Gears of Door | 0.30% | ~1 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 311)  
+Progressed: 364 (Ranked 311)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 360 | 0 |
 | 2023-10-29 | 361 | 0 |
 | 2023-10-30 | 363 | 0 |
+| 2023-10-31 | 364 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1861,10 +1861,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4099,
       "NumberOfAwardsMax": 1375
+    },
+    {
+      "Time": "2023-10-31T01:45:17.9240368+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4104,
+      "NumberOfAwardsMax": 1375
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4099,
+  "NumberOfAwards": 4104,
   "NumberOfAwardsMax": 1375,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1908,7 +1914,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 267
+      "Count": 272
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1943,7 +1949,7 @@
   ],
   "EOS_Progressed": 8184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6749,9 +6755,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-10-31T00:01:46.8628678+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:08:04.9223329+00:00",
+  "LastChanged": "2023-10-31T01:45:17.9240364+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:51:41.3586958+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:01:46.8628685+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:08:04.9224652+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:45:17.9240371+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:51:41.3587802+00:00"
 }

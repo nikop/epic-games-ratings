@@ -1,55 +1,55 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 656)  
+Rating: 4.45 (Ranked 657)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~395,940 |
-| Happy Returns | 78.00% | ~381,276 |
-| Hey! That's mine! | 78.00% | ~381,276 |
-| Field Promotion | 74.00% | ~361,723 |
-| Leadhead | 71.00% | ~347,059 |
-| Eradicator | 67.00% | ~327,506 |
-| Surplus | 65.00% | ~317,730 |
-| I Spy | 64.00% | ~312,842 |
-| Burn Baby Burn | 59.00% | ~288,401 |
-| Yellow Beats Green | 56.00% | ~273,736 |
-| Salvage Rights | 53.00% | ~259,072 |
-| Close Call | 50.00% | ~244,408 |
-| Pew Pew | 50.00% | ~244,408 |
-| What IS that? | 50.00% | ~244,408 |
-| Penny Pincher | 49.00% | ~239,519 |
-| Arsenal | 46.00% | ~224,855 |
-| Boot Camp | 45.00% | ~219,967 |
-| Flawless Victory | 42.00% | ~205,302 |
-| Confident | 41.00% | ~200,414 |
-| Exterminator | 36.00% | ~175,973 |
-| Sharpshooter | 34.00% | ~166,197 |
-| Not So Fast | 33.00% | ~161,309 |
-| Great Ball of Fire | 32.00% | ~156,421 |
-| No Sale | 31.00% | ~151,533 |
-| Kaboom! | 30.00% | ~146,644 |
-| Liquidator | 29.00% | ~141,756 |
-| High Voltage | 24.00% | ~117,316 |
-| Filthy Rich | 19.00% | ~92,875 |
+| First Blood | 81.00% | ~395,943 |
+| Happy Returns | 78.00% | ~381,279 |
+| Hey! That's mine! | 78.00% | ~381,279 |
+| Field Promotion | 74.00% | ~361,726 |
+| Leadhead | 71.00% | ~347,061 |
+| Eradicator | 67.00% | ~327,509 |
+| Surplus | 65.00% | ~317,732 |
+| I Spy | 64.00% | ~312,844 |
+| Burn Baby Burn | 59.00% | ~288,403 |
+| Yellow Beats Green | 56.00% | ~273,739 |
+| Salvage Rights | 53.00% | ~259,074 |
+| Close Call | 50.00% | ~244,410 |
+| Pew Pew | 50.00% | ~244,410 |
+| What IS that? | 50.00% | ~244,410 |
+| Penny Pincher | 49.00% | ~239,521 |
+| Arsenal | 46.00% | ~224,857 |
+| Boot Camp | 45.00% | ~219,969 |
+| Flawless Victory | 42.00% | ~205,304 |
+| Confident | 41.00% | ~200,416 |
+| Exterminator | 36.00% | ~175,975 |
+| Sharpshooter | 34.00% | ~166,198 |
+| Not So Fast | 33.00% | ~161,310 |
+| Great Ball of Fire | 32.00% | ~156,422 |
+| No Sale | 31.00% | ~151,534 |
+| Kaboom! | 30.00% | ~146,646 |
+| Liquidator | 29.00% | ~141,758 |
+| High Voltage | 24.00% | ~117,317 |
+| Filthy Rich | 19.00% | ~92,876 |
 | The Not-So-Friendly Skies | 18.00% | ~87,987 |
 | Power Builder | 17.00% | ~83,099 |
 | Pyrrhic Victory | 17.00% | ~83,099 |
-| Death From Above | 16.00% | ~78,210 |
-| Retry | 16.00% | ~78,210 |
+| Death From Above | 16.00% | ~78,211 |
+| Retry | 16.00% | ~78,211 |
 | Head Trauma | 12.00% | ~58,658 |
 | Full Defense | 10.00% | ~48,882 |
-| Overseer | 9.00% | ~43,993 |
-| Annihilator | 8.00% | ~39,105 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,105 |
+| Overseer | 9.00% | ~43,994 |
+| Annihilator | 8.00% | ~39,106 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,106 |
 | Indecisive | 6.00% | ~29,329 |
 | Base Defender | 5.00% | ~24,441 |
 | Relay Race | 5.00% | ~24,441 |
 | Tower Expert | 4.00% | ~19,553 |
-| Diversity | 3.00% | ~14,664 |
-| Full Potential | 3.00% | ~14,664 |
+| Diversity | 3.00% | ~14,665 |
+| Full Potential | 3.00% | ~14,665 |
 | Minimalist | 2.00% | ~9,776 |
 | Nail Biter | 2.00% | ~9,776 |
 | Siege Breaker | 2.00% | ~9,776 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~489 |
 | You Monster | 0.10% | ~489 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,815 (Ranked 36)  
+Progressed: 488,819 (Ranked 36)  
 Completed: 4 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,10 +288,10 @@ Completed: 4 (0.00%) (Ranked 333)
 | 2023-10-28 | 488,683 | 4 |
 | 2023-10-29 | 488,765 | 4 |
 | 2023-10-30 | 488,814 | 4 |
-| 2023-10-31 | 488,815 | 4 |
+| 2023-10-31 | 488,819 | 4 |
 ## Awards
 Max (Great for Beginners): 255  (Ranked 262)  
-Sum: 1,712 (Ranked 213)  
+Sum: 1,713 (Ranked 213)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -300,7 +300,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 219 |
 | This game is Extremely Fun | 206 |
 | This game is Highly Recommended | 195 |
-| This game has Challenging Combat | 185 |
+| This game has Challenging Combat | 186 |
 | This game has Amazing Storytelling | 182 |
 | This game has Amazing Characters | 172 |
 | This game has a Creative Community | 72 |
@@ -446,3 +446,4 @@ Diff (max vs sum): 49
 | 2023-10-28 | 4.45 | - | 254 | 1,707 |
 | 2023-10-29 | 4.45 | - | 254 | 1,709 |
 | 2023-10-30 | 4.45 | - | 255 | 1,712 |
+| 2023-10-31 | 4.45 | - | 255 | 1,713 |

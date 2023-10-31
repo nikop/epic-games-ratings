@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1464,9 +1464,9 @@
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_restaurants_4",
@@ -1657,8 +1657,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:07:24.2578382+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:50:54.330126+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.606123+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:58:22.1014794+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:07:24.2579419+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:41:39.6167764+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:50:54.3302632+00:00"
 }

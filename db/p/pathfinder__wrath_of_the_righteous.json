@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4043,9 +4043,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11942,
+  "EOS_Progressed": 11945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14808,6 +14808,11 @@
       "Time": "2023-10-30T23:06:51.0542761+00:00",
       "NumProgressed": 11942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T01:49:28.5015767+00:00",
+      "NumProgressed": 11945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14819,7 +14824,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3105
+      "UsersEstimate": 3106
     },
     {
       "ID": "02_BurningCity",
@@ -14827,7 +14832,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14835,7 +14840,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "04_FithCrusade",
@@ -14843,7 +14848,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -14931,7 +14936,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "16_PathOfLegend",
@@ -15067,7 +15072,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15123,7 +15128,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "41_PlayfulMood",
@@ -15227,7 +15232,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "54_DeathByColumn",
@@ -15691,7 +15696,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -15699,7 +15704,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -15707,7 +15712,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -15746,21 +15751,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10724,
+      "Progressed": 10727,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11942,
+      "Progressed": 11945,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-30T13:02:26.5642789+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:05:49.5434768+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:49:28.501576+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:57:43.1977708+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:05:49.5437162+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:40:52.1757735+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:49:28.5018581+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -163,7 +163,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7365,
+  "EOS_Progressed": 7367,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -5693,6 +5693,11 @@
       "Time": "2023-10-30T23:10:22.7179385+00:00",
       "NumProgressed": 7365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T01:52:52.9433366+00:00",
+      "NumProgressed": 7367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5705,7 +5710,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5303
+      "UsersEstimate": 5304
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5713,7 +5718,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5156
+      "UsersEstimate": 5157
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5721,7 +5726,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -5729,7 +5734,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5745,7 +5750,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -5801,7 +5806,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -5809,7 +5814,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3609
+      "UsersEstimate": 3610
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -5817,7 +5822,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -5841,7 +5846,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -5857,7 +5862,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -5881,7 +5886,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3388
+      "UsersEstimate": 3389
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -5889,7 +5894,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -5984,7 +5989,7 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7365,
+      "Progressed": 7367,
       "Completed": 0
     }
   ],
@@ -5992,8 +5997,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:09:16.6169374+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:52:52.943336+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:00:19.9923833+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:09:16.6170173+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:43:45.1280065+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:52:52.9434056+00:00"
 }

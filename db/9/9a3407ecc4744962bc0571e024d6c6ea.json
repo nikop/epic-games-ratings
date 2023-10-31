@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -2202,9 +2202,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 548
     },
     {
       "ID": "BoxingClever",
@@ -2266,9 +2266,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 251
     },
     {
       "ID": "LightsOut",
@@ -2306,9 +2306,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 709
+      "UsersEstimate": 718
     },
     {
       "ID": "SkeletonCrew",
@@ -2361,8 +2361,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:09:03.6584021+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:52:38.1307823+00:00",
   "LastUpdate_AppInfo": "2023-10-25T16:57:25.725396+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:00:22.5301618+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:09:03.6584415+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:43:47.8879363+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:52:38.130814+00:00"
 }

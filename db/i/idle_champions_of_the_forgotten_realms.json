@@ -7661,18 +7661,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32271,
       "NumberOfAwardsMax": 5462
+    },
+    {
+      "Time": "2023-10-31T01:41:44.6851228+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32276,
+      "NumberOfAwardsMax": 5465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32271,
-  "NumberOfAwardsMax": 5462,
+  "NumberOfAwards": 32276,
+  "NumberOfAwardsMax": 5465,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5462
+      "Count": 5465
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7690,7 +7696,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4689
+      "Count": 4691
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7711,9 +7717,9 @@
       "Count": 3497
     }
   ],
-  "EOS_Progressed": 233276,
-  "EOS_Completed": 2408,
-  "EOS_NewPlayers": 604,
+  "EOS_Progressed": 233284,
+  "EOS_Completed": 2409,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29331,6 +29337,11 @@
       "Time": "2023-10-31T00:07:13.0486317+00:00",
       "NumProgressed": 233276,
       "NumCompleted": 2408
+    },
+    {
+      "Time": "2023-10-31T01:50:41.7731696+00:00",
+      "NumProgressed": 233284,
+      "NumCompleted": 2409
     }
   ],
   "TotalAchievements": 528,
@@ -30444,9 +30455,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_149",
@@ -33565,21 +33576,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199550,
+      "Progressed": 199558,
       "Completed": 3717
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233276,
-      "Completed": 2408
+      "Progressed": 233284,
+      "Completed": 2409
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-30T23:58:27.9081524+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:07:13.0486311+00:00",
+  "LastChanged": "2023-10-31T01:41:44.6851225+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:50:41.7731688+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:58:27.9081537+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:07:13.0515505+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:41:44.6851235+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:50:41.7765306+00:00"
 }

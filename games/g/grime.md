@@ -9,8 +9,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~4,670 |
 | Taste | 3.00% | ~4,670 |
 | Imprint | 3.00% | ~4,670 |
-| Weeper | 2.00% | ~3,113 |
-| Ravenous | 2.00% | ~3,113 |
+| Weeper | 2.00% | ~3,114 |
+| Ravenous | 2.00% | ~3,114 |
 | Harmless | 1.00% | ~1,557 |
 | Silenced Whispers | 1.00% | ~1,557 |
 | Devourer | 1.00% | ~1,557 |
@@ -24,27 +24,27 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.70% | ~1,090 |
 | Glare | 0.70% | ~1,087 |
 | Assimilation | 0.60% | ~934 |
-| Host | 0.60% | ~931 |
+| Host | 0.60% | ~932 |
 | Celebration | 0.60% | ~934 |
 | Predator | 0.60% | ~934 |
 | Hunt Down | 0.50% | ~778 |
 | All-Seeing | 0.50% | ~778 |
+| Dream | 0.50% | ~776 |
 | Breath | 0.40% | ~623 |
 | Artisan | 0.40% | ~623 |
 | Hush | 0.40% | ~623 |
 | Inevitable | 0.40% | ~623 |
 | Breathsmith | 0.40% | ~623 |
-| Dream | 0.40% | ~621 |
 | Bloodhunter | 0.30% | ~467 |
 | Unwrap the Gift | 0.30% | ~467 |
 | Passage | 0.30% | ~467 |
-| Zygote | 0.20% | ~310 |
+| Zygote | 0.20% | ~311 |
 | Kinship | 0.20% | ~311 |
 | Weakness | 0.20% | ~311 |
-| Kin | 0.20% | ~310 |
-| Listen | 0.20% | ~310 |
+| Kin | 0.20% | ~311 |
+| Listen | 0.20% | ~311 |
 | Proportions | 0.20% | ~311 |
-| Intensify | 0.20% | ~310 |
+| Intensify | 0.20% | ~311 |
 | Spiral Heart | 0.10% | ~156 |
 | Skinmaker | 0.10% | ~156 |
 | Instruments | 0.10% | ~156 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,661 (Ranked 75)  
+Progressed: 155,675 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,19 +224,19 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 155,248 | 1 |
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
-| 2023-10-31 | 155,661 | 1 |
+| 2023-10-31 | 155,675 | 1 |
 ## Awards
 Max (Highly Recommended): 49  (Ranked 425)  
-Sum: 330 (Ranked 351)  
-Diff (max vs sum): 74  
+Sum: 332 (Ranked 350)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 49 |
 | This game has Unique Visuals | 48 |
 | This game has Quickly Understood Controls | 46 |
+| This game is Extremely Fun | 43 |
 | This game has Challenging Combat | 42 |
-| This game is Extremely Fun | 42 |
-| This game has Amazing Storytelling | 38 |
+| This game has Amazing Storytelling | 39 |
 | This game has a Creative Community | 33 |
 | This game has Amazing Characters | 32 |
 | This game has Diverse Characters | 20 |
@@ -370,3 +370,4 @@ Diff (max vs sum): 74
 | 2023-10-28 | 4.59 | - | 49 | 327 |
 | 2023-10-29 | 4.59 | - | 49 | 330 |
 | 2023-10-30 | 4.59 | - | 49 | 330 |
+| 2023-10-31 | 4.59 | - | 49 | 332 |

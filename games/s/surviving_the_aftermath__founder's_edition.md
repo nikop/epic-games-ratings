@@ -6,58 +6,58 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,281 |
-| Leader | 60.00% | ~5,984 |
-| Explorer | 53.00% | ~5,286 |
-| Healer | 52.00% | ~5,186 |
-| Aspiring Inventor | 44.00% | ~4,389 |
-| Adventurer | 42.00% | ~4,189 |
-| Famous Healer | 38.00% | ~3,790 |
-| Local Leader | 35.00% | ~3,491 |
-| Famous Explorer | 34.00% | ~3,391 |
-| New Opportunities | 34.00% | ~3,391 |
-| Energized | 33.00% | ~3,291 |
-| The Long Haul | 33.00% | ~3,291 |
-| Survivor | 32.00% | ~3,192 |
-| The Great Healer | 31.00% | ~3,092 |
-| Legendary Explorer | 28.00% | ~2,793 |
-| Cleaner | 28.00% | ~2,793 |
-| Catastrofan | 28.00% | ~2,793 |
-| Finders, Keepers | 26.00% | ~2,593 |
-| Top Notch | 25.00% | ~2,494 |
-| Great Leader | 23.00% | ~2,294 |
-| Mentor | 23.00% | ~2,294 |
-| Merchant | 22.00% | ~2,194 |
-| Ice Lakes | 22.00% | ~2,194 |
-| Real Survivor | 22.00% | ~2,194 |
-| Rocket Surgeon | 20.00% | ~1,995 |
-| War Never Changes | 19.00% | ~1,895 |
+| First Step | 73.00% | ~7,285 |
+| Leader | 60.00% | ~5,987 |
+| Explorer | 53.00% | ~5,289 |
+| Healer | 52.00% | ~5,189 |
+| Aspiring Inventor | 44.00% | ~4,391 |
+| Adventurer | 42.00% | ~4,191 |
+| Famous Healer | 38.00% | ~3,792 |
+| Local Leader | 35.00% | ~3,493 |
+| Famous Explorer | 34.00% | ~3,393 |
+| New Opportunities | 34.00% | ~3,393 |
+| Energized | 33.00% | ~3,293 |
+| The Long Haul | 33.00% | ~3,293 |
+| Survivor | 32.00% | ~3,193 |
+| The Great Healer | 31.00% | ~3,093 |
+| Legendary Explorer | 28.00% | ~2,794 |
+| Cleaner | 28.00% | ~2,794 |
+| Catastrofan | 28.00% | ~2,794 |
+| Finders, Keepers | 26.00% | ~2,595 |
+| Top Notch | 25.00% | ~2,495 |
+| Great Leader | 23.00% | ~2,295 |
+| Mentor | 23.00% | ~2,295 |
+| Merchant | 22.00% | ~2,195 |
+| Ice Lakes | 22.00% | ~2,195 |
+| Real Survivor | 22.00% | ~2,195 |
+| Rocket Surgeon | 20.00% | ~1,996 |
+| War Never Changes | 19.00% | ~1,896 |
 | Friendly | 17.00% | ~1,696 |
 | Big Game Hunter | 17.00% | ~1,696 |
 | Around the World | 17.00% | ~1,696 |
 | Spreading Influence | 17.00% | ~1,696 |
-| Bookworm | 15.00% | ~1,496 |
-| Famous Adventurer | 14.00% | ~1,396 |
-| Prepared for Anything | 14.00% | ~1,396 |
+| Bookworm | 15.00% | ~1,497 |
+| Famous Adventurer | 14.00% | ~1,397 |
+| Prepared for Anything | 14.00% | ~1,397 |
 | Big Catastrofan | 13.00% | ~1,297 |
-| It's a Finnish Thing | 10.00% | ~997 |
-| Sky Burial | 10.00% | ~997 |
+| It's a Finnish Thing | 10.00% | ~998 |
+| Sky Burial | 10.00% | ~998 |
 | Trader | 9.00% | ~898 |
 | Bread and Circuses | 8.00% | ~798 |
 | Tailored to fit | 8.00% | ~798 |
-| New Eden | 7.00% | ~698 |
-| Really Friendly | 6.00% | ~598 |
-| Amped Up | 6.00% | ~598 |
+| New Eden | 7.00% | ~699 |
+| Really Friendly | 6.00% | ~599 |
+| Amped Up | 6.00% | ~599 |
 | Look, no Hands! | 5.00% | ~499 |
 | Luxurious Living | 4.00% | ~399 |
 | Mogul | 3.00% | ~299 |
 | Ranch Hand | 3.00% | ~299 |
-| The Friendliest | 2.00% | ~199 |
-| Legendary Adventurer | 2.00% | ~199 |
-| Diplomat | 2.00% | ~199 |
-| Doomsday is canceled | 2.00% | ~199 |
-| Biggest Catastrofan | 2.00% | ~199 |
-| True Survivor | 2.00% | ~199 |
+| The Friendliest | 2.00% | ~200 |
+| Legendary Adventurer | 2.00% | ~200 |
+| Diplomat | 2.00% | ~200 |
+| Doomsday is canceled | 2.00% | ~200 |
+| Biggest Catastrofan | 2.00% | ~200 |
+| True Survivor | 2.00% | ~200 |
 | Slimy yet Satisfying | 1.00% | ~100 |
 | Feng Shui | 1.00% | ~100 |
 | A Closer Look | 1.00% | ~100 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,974 (Ranked 155)  
+Progressed: 9,979 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,11 +260,11 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 9,927 | 0 |
 | 2023-10-29 | 9,948 | 0 |
 | 2023-10-30 | 9,973 | 0 |
-| 2023-10-31 | 9,974 | 0 |
+| 2023-10-31 | 9,979 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 349)  
-Sum: 719 (Ranked 289)  
-Diff (max vs sum): 60  
+Sum: 719 (Ranked 288)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -760,10 +760,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2177,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-10-31T01:45:23.4949404+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2178,
+      "NumberOfAwardsMax": 288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2177,
+  "NumberOfAwards": 2178,
   "NumberOfAwardsMax": 288,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -813,7 +819,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 279
+      "Count": 280
     },
     {
       "Text": "This game is Great for Beginners",
@@ -828,9 +834,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 226058,
+  "EOS_Progressed": 226065,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21998,6 +22004,11 @@
       "Time": "2023-10-31T00:09:23.5478208+00:00",
       "NumProgressed": 226058,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T01:53:01.0973353+00:00",
+      "NumProgressed": 226065,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22009,7 +22020,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42951
+      "UsersEstimate": 42952
     },
     {
       "ID": "ACH_BASE_10",
@@ -22017,7 +22028,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58775
+      "UsersEstimate": 58777
     },
     {
       "ID": "ACH_BASE_11",
@@ -22033,7 +22044,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9043
     },
     {
       "ID": "ACH_BASE_13",
@@ -22041,7 +22052,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH_BASE_15",
@@ -22049,7 +22060,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20345
+      "UsersEstimate": 20346
     },
     {
       "ID": "ACH_BASE_16",
@@ -22065,7 +22076,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20345
+      "UsersEstimate": 20346
     },
     {
       "ID": "ACH_BASE_18",
@@ -22073,7 +22084,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20345
+      "UsersEstimate": 20346
     },
     {
       "ID": "ACH_BASE_19",
@@ -22089,7 +22100,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "ACH_BASE_20",
@@ -22177,7 +22188,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9043
     },
     {
       "ID": "ACH_BASE_30",
@@ -22257,7 +22268,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27127
+      "UsersEstimate": 27128
     },
     {
       "ID": "ACH_BASE_8",
@@ -22265,7 +22276,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9043
     },
     {
       "ID": "ACH_BASE_9",
@@ -22273,23 +22284,23 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20345
+      "UsersEstimate": 20346
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226058,
+      "Progressed": 226065,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-10-30T15:00:58.724534+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:09:23.54782+00:00",
+  "LastChanged": "2023-10-31T01:45:23.4949402+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:53:01.0973345+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:01:52.2841051+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:09:23.5480455+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:45:23.4949408+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:53:01.0975215+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "ProductSlug": "predator-hunting-grounds",
-  "Ranking_Rating": 656,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 158,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-04-23T23:00:00+00:00",
     "PcReleaseDate": "2020-04-23T23:00:00+00:00",
@@ -2443,10 +2443,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2420,
       "NumberOfAwardsMax": 892
+    },
+    {
+      "Time": "2023-10-31T01:43:22.5692086+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2422,
+      "NumberOfAwardsMax": 892
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2420,
+  "NumberOfAwards": 2422,
   "NumberOfAwardsMax": 892,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2454,7 +2460,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2472,7 +2478,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game has Competitive Players",
@@ -2540,8 +2546,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-10-29T11:59:30.9728145+00:00",
+  "LastChanged": "2023-10-31T01:43:22.5692083+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.8769234+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:59:59.2416797+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:04:43.8779947+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:43:22.569209+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:48:36.1942946+00:00"
 }

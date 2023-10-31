@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~399 |
 | Vecna Out! | 0.20% | ~399 |
 | A Persistent Buzzing | 0.20% | ~467 |
+| Beast Mode | 0.20% | ~467 |
 | Terror in the Dark | 0.20% | ~467 |
 | Low Initiative | 0.20% | ~467 |
 | A Mysterious Summons | 0.20% | ~467 |
@@ -199,7 +200,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~200 |
 | Welcome to the Rock | 0.10% | ~200 |
 | Welcome to the Band | 0.10% | ~200 |
-| Beast Mode | 0.10% | ~233 |
 | The Forbidden City | 0.10% | ~233 |
 | Periodic Petrification | 0.10% | ~233 |
 | No Good at All | 0.10% | ~233 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,276 (Ranked 62)  
-Completed: 2,408 (1.03%) (Ranked 151)  
+Progressed: 233,284 (Ranked 62)  
+Completed: 2,409 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -729,17 +729,17 @@ Completed: 2,408 (1.03%) (Ranked 151)
 | 2023-10-28 | 233,088 | 2,395 |
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
-| 2023-10-31 | 233,276 | 2,408 |
+| 2023-10-31 | 233,284 | 2,409 |
 ## Awards
-Max (Great for Beginners): 5,462  (Ranked 69)  
-Sum: 32,271 (Ranked 41)  
+Max (Great for Beginners): 5,465  (Ranked 69)  
+Sum: 32,276 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,462 |
+| This game is Great for Beginners | 5,465 |
 | This game has Diverse Characters | 5,454 |
 | This game has Quickly Understood Controls | 4,803 |
-| This game is Relaxing | 4,689 |
+| This game is Relaxing | 4,691 |
 | This game has Amazing Characters | 4,186 |
 | This game is Highly Recommended | 4,180 |
 | This game has Playful Visuals | 3,497 |
@@ -1024,3 +1024,4 @@ Diff (max vs sum): 28
 | 2023-10-28 | 4.06 | - | 5,461 | 32,249 |
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
+| 2023-10-31 | 4.06 | - | 5,465 | 32,276 |

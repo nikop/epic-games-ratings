@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13104,
+  "EOS_Progressed": 13106,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
@@ -13309,6 +13309,11 @@
       "Time": "2023-10-30T23:04:44.8962891+00:00",
       "NumProgressed": 13104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T01:47:25.4971497+00:00",
+      "NumProgressed": 13106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -13320,7 +13325,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -13392,7 +13397,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -13519,14 +13524,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13104,
+      "Progressed": 13106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:03:42.7046475+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:47:25.4971492+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:57:05.6949717+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:02:00.7204533+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:03:42.704781+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:45:33.905402+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:47:25.4972677+00:00"
 }

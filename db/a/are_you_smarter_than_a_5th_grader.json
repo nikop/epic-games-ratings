@@ -2,10 +2,10 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -505,6 +505,11 @@
       "Time": "2023-10-30T05:04:03.8042676+00:00",
       "NumProgressed": 367,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T01:47:39.1555323+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -548,7 +553,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "FifthGrade",
@@ -564,7 +569,7 @@
       "Name": "1st Grade",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "FourthGrade",
@@ -634,9 +639,9 @@
       "ID": "SmarterThanA5thGrader",
       "SetID": "6l18k14",
       "Name": "Smarter than a 5th Grader",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 132
     },
     {
       "ID": "StudySession",
@@ -667,7 +672,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 0
     }
   ],
@@ -675,8 +680,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:03:54.3291097+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:47:39.1555319+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:18.4513682+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:01:22.904274+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:03:54.3291267+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:44:51.8403149+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:47:39.1555495+00:00"
 }

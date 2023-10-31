@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,751,535 |
-| Easy to forget | 46.00% | ~1,644,299 |
-| Back in the black | 39.00% | ~1,394,079 |
-| That's what I'm talking about | 29.00% | ~1,036,623 |
-| The Best of Both Worlds | 25.00% | ~893,640 |
-| Get your wings | 20.00% | ~714,912 |
-| Double trouble | 16.00% | ~571,930 |
-| Smashing it | 11.00% | ~393,202 |
-| But can it run Crysis? | 9.00% | ~321,711 |
-| My favourite feature... | 9.00% | ~321,711 |
-| From humble beginnings... | 7.00% | ~250,219 |
-| Customer satisfaction | 7.00% | ~250,219 |
-| Keeping things neat | 4.00% | ~142,982 |
-| Seems you're pretty good at this | 4.00% | ~142,982 |
-| Bending over backwards | 4.00% | ~142,982 |
-| Triple threat | 3.00% | ~107,237 |
-| You rock at this! | 3.00% | ~107,237 |
-| Your music sucks | 3.00% | ~107,237 |
-| I'm broke, Uncle! | 2.00% | ~71,491 |
-| Maybe you should try something else? | 2.00% | ~71,491 |
-| Taking care of business | 2.00% | ~71,491 |
-| Things are under control | 2.00% | ~71,491 |
-| Perfection | 2.00% | ~71,491 |
-| Calling in Sick | 2.00% | ~71,491 |
+| You need to plug it in... | 49.00% | ~1,751,547 |
+| Easy to forget | 46.00% | ~1,644,309 |
+| Back in the black | 39.00% | ~1,394,088 |
+| That's what I'm talking about | 29.00% | ~1,036,630 |
+| The Best of Both Worlds | 25.00% | ~893,646 |
+| Get your wings | 20.00% | ~714,917 |
+| Double trouble | 16.00% | ~571,934 |
+| Smashing it | 11.00% | ~393,204 |
+| But can it run Crysis? | 9.00% | ~321,713 |
+| My favourite feature... | 9.00% | ~321,713 |
+| From humble beginnings... | 7.00% | ~250,221 |
+| Customer satisfaction | 7.00% | ~250,221 |
+| Keeping things neat | 4.00% | ~142,983 |
+| Seems you're pretty good at this | 4.00% | ~142,983 |
+| Bending over backwards | 4.00% | ~142,983 |
+| Triple threat | 3.00% | ~107,238 |
+| You rock at this! | 3.00% | ~107,238 |
+| Your music sucks | 3.00% | ~107,238 |
+| I'm broke, Uncle! | 2.00% | ~71,492 |
+| Maybe you should try something else? | 2.00% | ~71,492 |
+| Taking care of business | 2.00% | ~71,492 |
+| Things are under control | 2.00% | ~71,492 |
+| Perfection | 2.00% | ~71,492 |
+| Calling in Sick | 2.00% | ~71,492 |
 | Overvolted | 1.00% | ~35,746 |
 | If you fail the first time... | 1.00% | ~35,746 |
 | Amazonian | 1.00% | ~35,746 |
@@ -39,8 +39,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Owner | 1.00% | ~35,746 |
 | Show off | 0.90% | ~32,171 |
 | Work ethic 101 | 0.70% | ~25,022 |
-| Building momentum | 0.60% | ~21,447 |
-| Lead by example | 0.60% | ~21,447 |
+| Building momentum | 0.60% | ~21,448 |
+| Lead by example | 0.60% | ~21,448 |
 | Treat yourself - RAM | 0.50% | ~17,873 |
 | Mr big business | 0.40% | ~14,298 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,724 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,575 |
 | Treat yourself - GPU | 0.10% | ~3,575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574,562 (Ranked 5)  
+Progressed: 3,574,585 (Ranked 5)  
 Completed: 36 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,14 +253,14 @@ Completed: 36 (0.00%) (Ranked 333)
 | 2023-10-28 | 3,573,806 | 36 |
 | 2023-10-29 | 3,574,217 | 36 |
 | 2023-10-30 | 3,574,551 | 36 |
-| 2023-10-31 | 3,574,562 | 36 |
+| 2023-10-31 | 3,574,585 | 36 |
 ## Awards
-Max (Great for Beginners): 1,093  (Ranked 142)  
-Sum: 8,090 (Ranked 102)  
+Max (Great for Beginners): 1,094  (Ranked 142)  
+Sum: 8,091 (Ranked 102)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,093 |
+| This game is Great for Beginners | 1,094 |
 | This game is Educational | 1,004 |
 | This game is Extremely Fun | 1,002 |
 | This game is Relaxing | 989 |
@@ -513,3 +513,4 @@ Diff (max vs sum): 40
 | 2023-10-27 | 4.65 | - | 1,091 | 8,083 |
 | 2023-10-28 | 4.65 | - | 1,091 | 8,084 |
 | 2023-10-29 | 4.65 | - | 1,093 | 8,090 |
+| 2023-10-31 | 4.65 | - | 1,094 | 8,091 |

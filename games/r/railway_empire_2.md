@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.45 (Ranked 656)  
+Rating: 4.45 (Ranked 657)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.45 (Ranked 656)
 | Way of Iron | 70.00% | ~1,454 |
 | Mystery Tour | 69.00% | ~1,433 |
 | We brake for nobody | 67.00% | ~1,392 |
-| Brainstorm | 65.00% | ~1,350 |
+| Brainstorm | 66.00% | ~1,371 |
 | Mind the Gap | 65.00% | ~1,350 |
 | Travel Company | 65.00% | ~1,350 |
 | All around the World | 62.00% | ~1,288 |

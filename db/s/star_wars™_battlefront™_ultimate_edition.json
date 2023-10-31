@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -2674,6 +2674,11 @@
       "Time": "2023-10-31T00:09:28.8510883+00:00",
       "NumProgressed": 945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T01:53:07.3482644+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2790,7 +2795,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_22",
@@ -2910,7 +2915,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_36",
@@ -2926,7 +2931,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_38",
@@ -3189,13 +3194,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 1
     }
   ],
@@ -3203,8 +3208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:09:28.8510874+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:53:07.3482636+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:58:59.5471093+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:09:28.8511994+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:42:18.5860163+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:53:07.3483687+00:00"
 }

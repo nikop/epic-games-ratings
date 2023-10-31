@@ -5,10 +5,10 @@
   "Ranking_Rating": 686,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1559,
+  "EOS_Progressed": 1560,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3702,6 +3702,11 @@
       "Time": "2023-10-30T23:10:22.8341966+00:00",
       "NumProgressed": 1559,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T01:52:53.0528915+00:00",
+      "NumProgressed": 1560,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3785,7 +3790,7 @@
       "Name": "Commando",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "CROAKED",
@@ -3793,7 +3798,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "CRUELTY",
@@ -3825,7 +3830,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3849,7 +3854,7 @@
       "Name": "Dr Jones",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -3857,7 +3862,7 @@
       "Name": "Editor Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ENDGAME",
@@ -3879,9 +3884,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 499
     },
     {
       "ID": "FIRESTARTER",
@@ -3889,7 +3894,7 @@
       "Name": "Firestarter",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "FIRST_BLOOD",
@@ -3897,7 +3902,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3953,7 +3958,7 @@
       "Name": "Hold The Line",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "IM_THE_LAW",
@@ -3961,7 +3966,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "INFILTRATOR",
@@ -3993,7 +3998,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "PUSHING_DAISY",
@@ -4017,7 +4022,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "RECYCLER",
@@ -4041,7 +4046,7 @@
       "Name": "Savior",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "SENSEI",
@@ -4049,7 +4054,7 @@
       "Name": "Sensei",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4065,7 +4070,7 @@
       "Name": "Side Order",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -4097,7 +4102,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "THE_WATCHERS",
@@ -4105,7 +4110,7 @@
       "Name": "The Watchers",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "WIPE_OUT",
@@ -4120,7 +4125,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1559,
+      "Progressed": 1560,
       "Completed": 0
     }
   ],
@@ -4128,8 +4133,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:09:16.6449249+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:52:53.0528911+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:59:10.4833291+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:09:16.6449961+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:42:33.5017465+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:52:53.0529569+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -6394,9 +6394,9 @@
       "ID": "ACH_GRUNT_EYES",
       "SetID": "cdkbb11",
       "Name": "Eye Scream, You Scream",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -6657,8 +6657,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:08:02.6688893+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:51:38.7292175+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:16.0229367+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:58:09.3695916+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:08:02.6689754+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:41:24.5180155+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:51:38.7293085+00:00"
 }

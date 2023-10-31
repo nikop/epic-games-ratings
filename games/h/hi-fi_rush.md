@@ -14,20 +14,20 @@ Rating: 4.86 (Ranked 28)
 | You got this, Peppermint? | 12.00% | ~503 |
 | Perfect Parry | 12.00% | ~503 |
 | Alright, that felt AWESOME! | 11.00% | ~461 |
-| This will cost you big time | 10.00% | ~419 |
-| I play my own way! | 10.00% | ~419 |
-| Z-shielding's got nothing on us! | 10.00% | ~419 |
-| Uh, they were broken when I got here | 10.00% | ~419 |
-| Kissing the sky! | 10.00% | ~419 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~377 |
-| I look cool. But I can look COOLER. | 9.00% | ~377 |
-| The Negotiator | 8.00% | ~335 |
-| Headliner | 8.00% | ~335 |
-| Time to pay up! | 8.00% | ~335 |
-| Who's the boss now? | 8.00% | ~335 |
-| You must like calling me in, Chai | 8.00% | ~335 |
-| Out in a puff of smoke | 8.00% | ~335 |
-| Does that say weakpoint? | 8.00% | ~335 |
+| This will cost you big time | 10.00% | ~420 |
+| I play my own way! | 10.00% | ~420 |
+| Z-shielding's got nothing on us! | 10.00% | ~420 |
+| Uh, they were broken when I got here | 10.00% | ~420 |
+| Kissing the sky! | 10.00% | ~420 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~378 |
+| I look cool. But I can look COOLER. | 9.00% | ~378 |
+| The Negotiator | 8.00% | ~336 |
+| Headliner | 8.00% | ~336 |
+| Time to pay up! | 8.00% | ~336 |
+| Who's the boss now? | 8.00% | ~336 |
+| You must like calling me in, Chai | 8.00% | ~336 |
+| Out in a puff of smoke | 8.00% | ~336 |
+| Does that say weakpoint? | 8.00% | ~336 |
 | NOW we got a kickass hideout! | 8.00% | ~217 |
 | Perfecter Parry-er! | 7.00% | ~294 |
 | I have to read these things? | 6.00% | ~252 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,193 (Ranked 186)  
+Progressed: 4,195 (Ranked 186)  
 Completed: 8 (0.19%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 8 (0.19%) (Ranked 238)
 | 2023-10-27 | 4,178 | 8 |
 | 2023-10-28 | 4,187 | 8 |
 | 2023-10-29 | 4,193 | 8 |
+| 2023-10-31 | 4,195 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

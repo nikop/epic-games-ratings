@@ -1296,7 +1296,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27254,
+  "EOS_Progressed": 27257,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 2,
@@ -22076,6 +22076,11 @@
       "Time": "2023-10-31T00:09:10.8404001+00:00",
       "NumProgressed": 27254,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-10-31T01:52:46.3154054+00:00",
+      "NumProgressed": 27257,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22159,7 +22164,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "1025",
@@ -22199,7 +22204,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "1030",
@@ -22223,7 +22228,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10902
+      "UsersEstimate": 10903
     },
     {
       "ID": "1033",
@@ -22255,22 +22260,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27254,
+      "Progressed": 27257,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-30T22:03:13.87385+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:09:10.8403997+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:52:46.315405+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:03:18.6290727+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:09:10.840585+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:46:57.2263763+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:52:46.315559+00:00"
 }

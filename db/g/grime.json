@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 427,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1235,10 +1235,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 330,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-10-31T01:41:03.3367647+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 332,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 330,
+  "NumberOfAwards": 332,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1270,7 +1276,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1288,7 +1294,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1297,9 +1303,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 155661,
+  "EOS_Progressed": 155675,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1399,
+  "EOS_NewPlayers": 1403,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13722,6 +13728,11 @@
       "Time": "2023-10-31T00:06:21.1468672+00:00",
       "NumProgressed": 155661,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T01:50:05.2235661+00:00",
+      "NumProgressed": 155675,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13773,7 +13784,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -13805,7 +13816,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -13853,7 +13864,7 @@
       "Name": "Host",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -14005,7 +14016,7 @@
       "Name": "Ravenous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -14027,9 +14038,9 @@
       "ID": "QUEST_CHILD",
       "SetID": "72k7oh",
       "Name": "Dream",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 621
+      "UsersEstimate": 776
     },
     {
       "ID": "QUEST_CODA",
@@ -14045,7 +14056,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "QUEST_LISTENER",
@@ -14053,7 +14064,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "QUEST_YON",
@@ -14093,28 +14104,28 @@
       "Name": "Intensify",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155244,
+      "Progressed": 155258,
       "Completed": 1183
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155661,
+      "Progressed": 155675,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-10-30T03:57:21.0160161+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:06:21.1468667+00:00",
+  "LastChanged": "2023-10-31T01:41:03.3367645+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:50:05.2235656+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:57:52.4549819+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:06:21.1470202+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:41:03.3367651+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:50:05.2236993+00:00"
 }

@@ -64,11 +64,11 @@
 | Driven | 32.00% | ~278 |
 | Focused | 31.00% | ~269 |
 | Cat's in the Cradle | 31.00% | ~269 |
+| Doppelganger | 31.00% | ~269 |
 | Treason | 31.00% | ~269 |
 | Digital Exorcist | 31.00% | ~269 |
 | Bringer of War | 31.00% | ~269 |
 | Friend or Foe | 30.00% | ~260 |
-| Doppelganger | 30.00% | ~260 |
 | Mission Accomplished | 29.00% | ~252 |
 | Suicide Mission | 29.00% | ~252 |
 | Against All Odds | 29.00% | ~252 |

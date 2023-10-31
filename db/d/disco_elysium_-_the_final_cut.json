@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1412,7 +1412,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130291,
+  "EOS_Progressed": 130294,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
@@ -20547,6 +20547,11 @@
       "Time": "2023-10-31T00:03:56.8873441+00:00",
       "NumProgressed": 130291,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-10-31T01:47:42.1548062+00:00",
+      "NumProgressed": 130294,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20590,7 +20595,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23452
+      "UsersEstimate": 23453
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20614,7 +20619,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31270
+      "UsersEstimate": 31271
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20622,7 +20627,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10423
+      "UsersEstimate": 10424
     },
     {
       "ID": "ACH_COP_DORK",
@@ -20638,7 +20643,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36481
+      "UsersEstimate": 36482
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20670,7 +20675,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27361
+      "UsersEstimate": 27362
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -20750,7 +20755,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -20877,15 +20882,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130291,
+      "Progressed": 130294,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-10-29T06:02:11.366846+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:03:56.8873435+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:47:42.1548056+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:02:38.6435826+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:03:56.8875162+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:46:07.3829865+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:47:42.154983+00:00"
 }

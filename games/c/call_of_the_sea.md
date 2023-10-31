@@ -5,17 +5,17 @@ Rating: 4.39 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~101,939 |
-| 74 miles East of Otaheité | 56.00% | ~71,357 |
-| Interesting... | 42.00% | ~53,518 |
-| The Everhart Expedition | 39.00% | ~49,695 |
-| The Vanishing of the Lady Shannon | 30.00% | ~38,227 |
-| Seaside Serenade | 30.00% | ~38,227 |
-| Halfway there | 29.00% | ~36,953 |
+| A Family Heirloom | 80.00% | ~101,941 |
+| 74 miles East of Otaheité | 56.00% | ~71,359 |
+| Interesting... | 42.00% | ~53,519 |
+| The Everhart Expedition | 39.00% | ~49,696 |
+| The Vanishing of the Lady Shannon | 30.00% | ~38,228 |
+| Seaside Serenade | 30.00% | ~38,228 |
+| Halfway there | 29.00% | ~36,954 |
 | A brigantine, a brig and a barque | 28.00% | ~35,679 |
 | 506 East Hampden Avenue | 28.00% | ~35,679 |
-| Weekend at Walakea's | 27.00% | ~34,404 |
-| Quite a Show | 27.00% | ~34,404 |
+| Weekend at Walakea's | 27.00% | ~34,405 |
+| Quite a Show | 27.00% | ~34,405 |
 | Dark Water Ride | 24.00% | ~30,582 |
 | Sunken | 24.00% | ~30,582 |
 | Deep Cut | 24.00% | ~30,582 |
@@ -29,18 +29,18 @@ Rating: 4.39 (Ranked 742)
 | The Norahnomicon | 9.00% | ~11,468 |
 | Play it again, Norah | 7.00% | ~8,920 |
 | Underwater Royalty | 7.00% | ~8,920 |
-| Written in Stone | 6.00% | ~7,645 |
+| Written in Stone | 6.00% | ~7,646 |
 | Fawning Developers | 5.00% | ~6,371 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~5,097 |
 | Candid Photo | 4.00% | ~5,097 |
 | You looked that up in a guide! | 3.00% | ~3,823 |
 | The Lady Shannon Recording | 3.00% | ~3,823 |
 | Otherwordly Portal | 3.00% | ~3,823 |
-| Soundcheck | 2.00% | ~2,548 |
+| Soundcheck | 2.00% | ~2,549 |
 | Gently down the stream... | 1.00% | ~1,274 |
 | Meta-reference | 1.00% | ~1,274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,424 (Ranked 80)  
+Progressed: 127,426 (Ranked 80)  
 Completed: 1,091 (0.86%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 1,091 (0.86%) (Ranked 162)
 | 2023-10-28 | 127,019 | 1,083 |
 | 2023-10-29 | 127,284 | 1,089 |
 | 2023-10-30 | 127,419 | 1,091 |
-| 2023-10-31 | 127,424 | 1,091 |
+| 2023-10-31 | 127,426 | 1,091 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

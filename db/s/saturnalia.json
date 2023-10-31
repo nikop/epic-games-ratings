@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 99,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2022-10-29T18:31:38.4403653+00:00",
@@ -255,15 +255,21 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-10-31T01:40:50.0576568+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67732,
+  "EOS_Progressed": 67735,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13761,6 +13767,11 @@
       "Time": "2023-10-31T00:05:45.0118167+00:00",
       "NumProgressed": 67732,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-10-31T01:49:23.2443212+00:00",
+      "NumProgressed": 67735,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -13931,16 +13942,16 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67732,
+      "Progressed": 67735,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
-  "LastChanged": "2023-09-16T23:57:09.4113576+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:05:45.011816+00:00",
+  "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:49:23.2443207+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:57:41.9967489+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:05:45.0119494+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:40:50.0576573+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:49:23.2444366+00:00"
 }

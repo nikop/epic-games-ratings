@@ -2291,9 +2291,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2362,8 +2362,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:07:23.5316882+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:50:53.4684057+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-10-31T00:01:03.7731447+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:07:23.531722+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:44:35.8204622+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:50:53.4684354+00:00"
 }

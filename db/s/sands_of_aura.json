@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 119,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-10-31T00:04:23.3337552+00:00",
+  "LastChanged_Achievements": "2023-10-31T01:48:12.725388+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.7042066+00:00",
-  "LastUpdate_Ratings": "2023-10-30T23:58:22.6365027+00:00",
-  "LastUpdate_Achievements": "2023-10-31T00:04:23.3338087+00:00"
+  "LastUpdate_Ratings": "2023-10-31T01:41:40.3479604+00:00",
+  "LastUpdate_Achievements": "2023-10-31T01:48:12.7254555+00:00"
 }

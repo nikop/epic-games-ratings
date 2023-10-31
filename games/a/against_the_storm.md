@@ -7,12 +7,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No Deaths | 7.00% | ~1,199 |
-| First Real Expedition | 6.00% | ~1,027 |
-| Overcoming Difficulty | 6.00% | ~1,027 |
-| Coral Forest | 6.00% | ~1,027 |
-| The Marshlands | 6.00% | ~1,027 |
-| The Scarlet Orchard | 6.00% | ~1,027 |
-| Taking Action | 6.00% | ~1,027 |
+| First Real Expedition | 6.00% | ~1,028 |
+| Overcoming Difficulty | 6.00% | ~1,028 |
+| Coral Forest | 6.00% | ~1,028 |
+| The Marshlands | 6.00% | ~1,028 |
+| The Scarlet Orchard | 6.00% | ~1,028 |
+| Taking Action | 6.00% | ~1,028 |
 | Ancient Battleground | 5.00% | ~856 |
 | Fertile Meadows | 5.00% | ~856 |
 | Royal Outpost | 5.00% | ~856 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~51 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,124 (Ranked 137)  
+Progressed: 17,125 (Ranked 137)  
 Completed: 52 (0.30%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,6 +251,7 @@ Completed: 52 (0.30%) (Ranked 217)
 | 2023-10-28 | 17,102 | 52 |
 | 2023-10-29 | 17,114 | 52 |
 | 2023-10-30 | 17,124 | 52 |
+| 2023-10-31 | 17,125 | 52 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 216)  
 Sum: 3,202 (Ranked 170)  

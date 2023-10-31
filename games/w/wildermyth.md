@@ -32,6 +32,7 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 0.10% | ~1 |
 | In Soil, In Smoke | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
+| Another Tale to Tell | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |
@@ -49,7 +50,6 @@ Number of Ratings: 45  (23.09.2022)
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
 | Legends Never Die | 0.00% | ~0 |
-| Another Tale to Tell | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
 | Grillmaster | 0.00% | ~0 |
