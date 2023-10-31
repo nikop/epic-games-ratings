@@ -104,6 +104,7 @@
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Sands of Aura](../games/s/sands_of_aura.md) | 58 | 1,000 |
+| [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 |
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
