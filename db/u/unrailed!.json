@@ -2753,9 +2753,9 @@
       "Count": 146
     }
   ],
-  "EOS_Progressed": 658500,
+  "EOS_Progressed": 658502,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1749,
+  "EOS_NewPlayers": 1742,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24778,6 +24778,11 @@
       "Time": "2023-10-31T11:08:36.315585+00:00",
       "NumProgressed": 658500,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-10-31T12:08:25.1788396+00:00",
+      "NumProgressed": 658502,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24821,7 +24826,7 @@
       "Name": "Explorer",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_01_05_DISTANCE_100_MEDIUM",
@@ -24861,7 +24866,7 @@
       "Name": "Advanced Explorer",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_01_10_DISTANCE_100_HARD",
@@ -24885,7 +24890,7 @@
       "Name": "Expert Voyager",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "_01_13_DISTANCE_1000_HARD",
@@ -24901,7 +24906,7 @@
       "Name": "Expert Explorer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_01_20_TRACKS_500",
@@ -24933,7 +24938,7 @@
       "Name": "Deep Space Transit",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_01_30_LEET",
@@ -24941,7 +24946,7 @@
       "Name": "Leet",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_01_31_WRONG_WAY",
@@ -24949,7 +24954,7 @@
       "Name": "Wrong way!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_01_32_MARATHON",
@@ -24965,7 +24970,7 @@
       "Name": "Ducky Danger",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_02_01_SHEPHERD",
@@ -24973,7 +24978,7 @@
       "Name": "Shepherd",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_02_02_ENGINEER",
@@ -24997,7 +25002,7 @@
       "Name": "Industrialist",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_02_05_ROCKETMAN",
@@ -25013,7 +25018,7 @@
       "Name": "Missed Opportunities",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_02_07_UNCLE_SCROOGE",
@@ -25021,7 +25026,7 @@
       "Name": "Scrooge",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     },
     {
       "ID": "_02_08_COWTER_SPACE",
@@ -25029,7 +25034,7 @@
       "Name": "Cowter Space",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_03_00_INCURIOUS",
@@ -25069,7 +25074,7 @@
       "Name": "Apollo 13",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_03_07_SHOPAHOLIC",
@@ -25077,7 +25082,7 @@
       "Name": "Shopaholic",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "_04_00_COLLECTOR",
@@ -25085,7 +25090,7 @@
       "Name": "Collector",
       "Percentage": 0.1,
       "XP": 115,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_04_01_ACHIEVEMENT_MASTER",
@@ -25093,7 +25098,7 @@
       "Name": "Achievement Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_10_00_LOST_IN_MENU",
@@ -25117,7 +25122,7 @@
       "Name": "Fire Fighter",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_11_00_MEGALOMANIAC",
@@ -25125,7 +25130,7 @@
       "Name": "Megalomaniac",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_11_00_NO_SPACE_FOR_IMPROVEMENT",
@@ -25133,7 +25138,7 @@
       "Name": "No Space for Improvement",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_11_00_TERMINAL_STATION",
@@ -25141,7 +25146,7 @@
       "Name": "Terminal Station",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     },
     {
       "ID": "_11_00_WHERE_THEY_BELONG",
@@ -25149,7 +25154,7 @@
       "Name": "Where They Belong",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_12_00_SNOWMANS_LAND",
@@ -25181,7 +25186,7 @@
       "Name": "Fireworks!",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_13_00_MILES_UNDER",
@@ -25189,7 +25194,7 @@
       "Name": "20 Miles under the Sea",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "_13_00_SAVED_BY_NAUSICAA",
@@ -25204,15 +25209,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 658500,
+      "Progressed": 658502,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-10-27T05:58:50.7371955+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:08:36.3155844+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:08:25.1788388+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:04.114706+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:59:20.2063728+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:08:36.3157493+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:59:18.2550953+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:08:25.1790179+00:00"
 }

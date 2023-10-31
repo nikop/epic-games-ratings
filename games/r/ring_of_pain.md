@@ -24,6 +24,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.10% | ~239 |
 | Hydrophobe | 0.10% | ~239 |
 | Disposal | 0.10% | ~239 |
+| Dead Revels | 0.10% | ~239 |
 | R.I.P | 0.10% | ~239 |
 | To The Death! | 0.10% | ~239 |
 | New Game+ | 0.10% | ~239 |
@@ -108,9 +109,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Tickler | 0.10% | ~239 |
 | Masochist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
+| Quick To Pick | 0.10% | ~239 |
 | Tunnel Vision | 0.10% | ~239 |
 | Sentimental Value | 0.10% | ~239 |
 | Nudie Run | 0.10% | ~239 |
+| Precious | 0.10% | ~239 |
 | Scrounger Appreciation | 0.10% | ~0 |
 | Who Needs Luck? | 0.10% | ~0 |
 | Explosives Expert | 0.10% | ~0 |
@@ -127,7 +130,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
-| Dead Revels | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Master of Strategy | 0.00% | ~0 |
 | Good Boys | 0.00% | ~0 |
@@ -140,12 +142,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Mastermind | 0.00% | ~0 |
 | No Swapsies | 0.00% | ~0 |
 | Ignoring Midgame | 0.00% | ~0 |
-| Quick To Pick | 0.00% | ~0 |
 | Martial Master | 0.00% | ~0 |
-| Precious | 0.00% | ~0 |
 | You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,881 (Ranked 59)  
+Progressed: 238,883 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,881 | 286 |
+| 2023-10-31 | 238,883 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

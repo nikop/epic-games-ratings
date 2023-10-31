@@ -3,8 +3,8 @@
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 283,
-  "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,11 +23,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-05-22T17:05:01.1687024+00:00",
@@ -1338,6 +1338,11 @@
       "Time": "2023-10-30T01:51:33.4795646+00:00",
       "NumProgressed": 540,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T12:03:18.6707344+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1373,7 +1378,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "Chapter10",
@@ -1387,9 +1392,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 151
     },
     {
       "ID": "Chapter3",
@@ -1437,7 +1442,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Chapter9",
@@ -1453,7 +1458,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Collectibles2",
@@ -1523,9 +1528,9 @@
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 151
     },
     {
       "ID": "Murderer",
@@ -1636,14 +1641,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:03:19.7065916+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:03:18.6707336+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:16.4866029+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:59:53.9657812+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:03:19.7066314+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:59:57.661066+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:03:18.670772+00:00"
 }

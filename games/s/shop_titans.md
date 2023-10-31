@@ -41,12 +41,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,384 |
 | Did we pack lunch? | 1.00% | ~1,384 |
 | Arcane Industries | 1.00% | ~1,384 |
-| Tax not Included | 0.90% | ~1,245 |
-| Fated Encounters | 0.90% | ~1,245 |
-| Power of Love | 0.90% | ~1,245 |
-| Trash to Treasure | 0.90% | ~1,245 |
-| Royal Ransom | 0.90% | ~1,245 |
-| Magical Harmony | 0.90% | ~1,245 |
+| Tax not Included | 0.90% | ~1,246 |
+| Fated Encounters | 0.90% | ~1,246 |
+| Power of Love | 0.90% | ~1,246 |
+| Trash to Treasure | 0.90% | ~1,246 |
+| Royal Ransom | 0.90% | ~1,246 |
+| Magical Harmony | 0.90% | ~1,246 |
 | A Notch Above the Rest | 0.80% | ~1,107 |
 | The King's Caprice | 0.80% | ~1,107 |
 | Big Game Hunting | 0.80% | ~1,107 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,388 (Ranked 77)  
+Progressed: 138,389 (Ranked 77)  
 Completed: 178 (0.13%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 178 (0.13%) (Ranked 252)
 | 2023-10-28 | 138,276 | 173 |
 | 2023-10-29 | 138,334 | 174 |
 | 2023-10-30 | 138,369 | 176 |
-| 2023-10-31 | 138,388 | 178 |
+| 2023-10-31 | 138,389 | 178 |
 ## Awards
 Max (Great for Beginners): 4,811  (Ranked 73)  
 Sum: 27,474 (Ranked 51)  

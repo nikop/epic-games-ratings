@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -6454,6 +6454,11 @@
       "Time": "2023-10-31T09:06:10.9127741+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T12:05:35.0145305+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6481,7 +6486,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6545,7 +6550,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_headquarters_15",
@@ -6673,7 +6678,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6768,7 +6773,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 1
     }
   ],
@@ -6776,8 +6781,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:05:34.5430812+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:05:35.01453+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:57:13.8861121+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:05:34.5431534+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:57:08.0449836+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:05:35.014599+00:00"
 }

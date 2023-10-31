@@ -4759,9 +4759,9 @@
       "Count": 319
     }
   ],
-  "EOS_Progressed": 249265,
+  "EOS_Progressed": 249267,
   "EOS_Completed": 868,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -25894,6 +25894,11 @@
       "Time": "2023-10-31T11:09:01.7464652+00:00",
       "NumProgressed": 249265,
       "NumCompleted": 868
+    },
+    {
+      "Time": "2023-10-31T12:08:51.7824007+00:00",
+      "NumProgressed": 249267,
+      "NumCompleted": 868
     }
   ],
   "TotalAchievements": 39,
@@ -25905,7 +25910,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 62316
+      "UsersEstimate": 62317
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -25969,7 +25974,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 226831
+      "UsersEstimate": 226833
     },
     {
       "ID": "AchievementClownID",
@@ -25993,7 +25998,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 69794
+      "UsersEstimate": 69795
     },
     {
       "ID": "AchievementEggID",
@@ -26017,7 +26022,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82257
+      "UsersEstimate": 82258
     },
     {
       "ID": "AchievementGoatID",
@@ -26033,7 +26038,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132110
+      "UsersEstimate": 132112
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -26041,7 +26046,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47360
+      "UsersEstimate": 47361
     },
     {
       "ID": "AchievementINirvanaID",
@@ -26065,7 +26070,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112169
+      "UsersEstimate": 112170
     },
     {
       "ID": "AchievementIntroID",
@@ -26073,7 +26078,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142081
+      "UsersEstimate": 142082
     },
     {
       "ID": "AchievementLootBoxID",
@@ -26137,7 +26142,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 184456
+      "UsersEstimate": 184458
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -26153,7 +26158,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 124632
+      "UsersEstimate": 124634
     },
     {
       "ID": "AchievementStreakingID",
@@ -26177,7 +26182,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137096
+      "UsersEstimate": 137097
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -26201,7 +26206,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 162022
+      "UsersEstimate": 162024
     },
     {
       "ID": "AchievementWhaleID",
@@ -26216,7 +26221,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 249265,
+      "Progressed": 249267,
       "Completed": 868
     }
   ],
@@ -26224,8 +26229,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-10-30T20:58:00.8940234+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:09:01.7464646+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:08:51.7824+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.9944721+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:57:39.850362+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:09:01.7466365+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:57:36.5709023+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:08:51.7825607+00:00"
 }

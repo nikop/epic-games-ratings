@@ -24,12 +24,12 @@ Number of Ratings: 21,990  (23.09.2022)
 | Expert Hiker | 2.00% | ~13,170 |
 | Lost | 2.00% | ~13,170 |
 | Rocketman | 0.80% | ~5,268 |
-| Expert Voyager | 0.70% | ~4,609 |
-| Shopaholic | 0.70% | ~4,609 |
+| Expert Voyager | 0.70% | ~4,610 |
+| Shopaholic | 0.70% | ~4,610 |
 | Nanuk | 0.60% | ~3,951 |
 | Dynamite Fishing | 0.60% | ~3,951 |
-| Scrooge | 0.50% | ~3,292 |
-| Terminal Station | 0.50% | ~3,292 |
+| Scrooge | 0.50% | ~3,293 |
+| Terminal Station | 0.50% | ~3,293 |
 | Wayfarer | 0.40% | ~2,634 |
 | Advanced Wayfarer | 0.40% | ~2,634 |
 | Tough Nut! | 0.40% | ~2,634 |
@@ -38,28 +38,28 @@ Number of Ratings: 21,990  (23.09.2022)
 | Satan's Minion | 0.30% | ~1,976 |
 | Snowman's Land | 0.30% | ~1,976 |
 | Expert Wayfarer | 0.20% | ~1,317 |
-| Explorer | 0.10% | ~658 |
-| Advanced Explorer | 0.10% | ~658 |
-| Expert Explorer | 0.10% | ~658 |
-| Deep Space Transit | 0.10% | ~658 |
-| Leet | 0.10% | ~658 |
-| Wrong way! | 0.10% | ~658 |
-| Ducky Danger | 0.10% | ~658 |
-| Shepherd | 0.10% | ~658 |
-| Industrialist | 0.10% | ~658 |
-| Missed Opportunities | 0.10% | ~658 |
-| Cowter Space | 0.10% | ~658 |
-| Apollo 13 | 0.10% | ~658 |
-| Collector | 0.10% | ~658 |
-| Achievement Master | 0.10% | ~658 |
-| Fire Fighter | 0.10% | ~658 |
-| Megalomaniac | 0.10% | ~658 |
-| No Space for Improvement | 0.10% | ~658 |
-| Where They Belong | 0.10% | ~658 |
-| Fireworks! | 0.10% | ~658 |
-| 20 Miles under the Sea | 0.10% | ~658 |
+| Explorer | 0.10% | ~659 |
+| Advanced Explorer | 0.10% | ~659 |
+| Expert Explorer | 0.10% | ~659 |
+| Deep Space Transit | 0.10% | ~659 |
+| Leet | 0.10% | ~659 |
+| Wrong way! | 0.10% | ~659 |
+| Ducky Danger | 0.10% | ~659 |
+| Shepherd | 0.10% | ~659 |
+| Industrialist | 0.10% | ~659 |
+| Missed Opportunities | 0.10% | ~659 |
+| Cowter Space | 0.10% | ~659 |
+| Apollo 13 | 0.10% | ~659 |
+| Collector | 0.10% | ~659 |
+| Achievement Master | 0.10% | ~659 |
+| Fire Fighter | 0.10% | ~659 |
+| Megalomaniac | 0.10% | ~659 |
+| No Space for Improvement | 0.10% | ~659 |
+| Where They Belong | 0.10% | ~659 |
+| Fireworks! | 0.10% | ~659 |
+| 20 Miles under the Sea | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,500 (Ranked 27)  
+Progressed: 658,502 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 12 (0.00%) (Ranked 333)
 | 2023-10-28 | 657,832 | 12 |
 | 2023-10-29 | 658,213 | 12 |
 | 2023-10-30 | 658,448 | 12 |
-| 2023-10-31 | 658,500 | 12 |
+| 2023-10-31 | 658,502 | 12 |
 ## Awards
 Max (Great for Beginners): 200  (Ranked 282)  
 Sum: 1,587 (Ranked 225)  

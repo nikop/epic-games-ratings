@@ -4,7 +4,7 @@
   "ProductSlug": "oceans-heart-2583e3",
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T13:08:12.3687374+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:04:35.7904456+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:04:35.802026+00:00",
   "LastUpdate_AppInfo": "2023-10-25T13:01:43.026178+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:58:41.4487341+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:04:35.7904491+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:58:39.6905696+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:04:35.8020292+00:00"
 }

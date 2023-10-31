@@ -1,33 +1,33 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 630)  
+Rating: 4.47 (Ranked 631)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,467 |
-| Overkill | 35.00% | ~6,078 |
-| Vaccine Incoming | 33.00% | ~5,730 |
-| A normal day in Gloomhaven | 33.00% | ~5,730 |
-| Spread the plague | 30.00% | ~5,210 |
-| Get over here! | 25.00% | ~4,341 |
-| Just when I thought I was out... | 19.00% | ~3,299 |
-| Precious! | 17.00% | ~2,952 |
-| Mine... All Mine... | 17.00% | ~2,952 |
-| Light of my life | 15.00% | ~2,605 |
-| Anatomy Lesson | 15.00% | ~2,605 |
-| Grizzled veteran | 14.00% | ~2,431 |
-| You activated my trap card! | 13.00% | ~2,257 |
-| Obstacle race | 13.00% | ~2,257 |
+| I'm not dead yet | 43.00% | ~7,469 |
+| Overkill | 35.00% | ~6,080 |
+| Vaccine Incoming | 33.00% | ~5,732 |
+| A normal day in Gloomhaven | 33.00% | ~5,732 |
+| Spread the plague | 30.00% | ~5,211 |
+| Get over here! | 25.00% | ~4,342 |
+| Just when I thought I was out... | 19.00% | ~3,300 |
+| Precious! | 17.00% | ~2,953 |
+| Mine... All Mine... | 17.00% | ~2,953 |
+| Light of my life | 15.00% | ~2,606 |
+| Anatomy Lesson | 15.00% | ~2,606 |
+| Grizzled veteran | 14.00% | ~2,432 |
+| You activated my trap card! | 13.00% | ~2,258 |
+| Obstacle race | 13.00% | ~2,258 |
 | Augmented rat | 12.00% | ~2,084 |
-| Doom and gloom | 11.00% | ~1,910 |
+| Doom and gloom | 11.00% | ~1,911 |
 | Who's the Boss? | 9.00% | ~1,563 |
-| Dungeon Veteran | 8.00% | ~1,389 |
-| Pack leader | 8.00% | ~1,389 |
-| Pain is your friend | 8.00% | ~1,389 |
-| Black death | 8.00% | ~1,389 |
-| Play it again, Sam | 8.00% | ~1,389 |
+| Dungeon Veteran | 8.00% | ~1,390 |
+| Pack leader | 8.00% | ~1,390 |
+| Pain is your friend | 8.00% | ~1,390 |
+| Black death | 8.00% | ~1,390 |
+| Play it again, Sam | 8.00% | ~1,390 |
 | Quad damage | 6.00% | ~1,042 |
 | Power Up! | 5.00% | ~868 |
 | The Pro from Dover | 5.00% | ~868 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~17 |
 | Hard-travelling Heroes | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,365 (Ranked 135)  
+Progressed: 17,370 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.01%) (Ranked 313)
 | 2023-10-28 | 16,804 | 1 |
 | 2023-10-29 | 17,093 | 1 |
 | 2023-10-30 | 17,315 | 1 |
-| 2023-10-31 | 17,365 | 1 |
+| 2023-10-31 | 17,370 | 1 |
 ## Awards
 Max (Character Customization): 3,563  (Ranked 90)  
 Sum: 8,323 (Ranked 98)  

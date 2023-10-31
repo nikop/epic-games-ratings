@@ -4043,9 +4043,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11949,
+  "EOS_Progressed": 11951,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14828,6 +14828,11 @@
       "Time": "2023-10-31T11:04:53.0298196+00:00",
       "NumProgressed": 11949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T12:04:53.4239323+00:00",
+      "NumProgressed": 11951,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14847,7 +14852,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -14855,7 +14860,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "04_FithCrusade",
@@ -14887,7 +14892,7 @@
       "Name": "The Final Threshold",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "08_PathOfAngel",
@@ -14911,7 +14916,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "11_PathOfAeon",
@@ -14927,7 +14932,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "13_PathOfLich",
@@ -14959,7 +14964,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "17_Transformation",
@@ -14967,7 +14972,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "18_MythicChoices",
@@ -15023,7 +15028,7 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "25_MasterfulDispell",
@@ -15047,7 +15052,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "29_StrategicVictory",
@@ -15055,7 +15060,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -15063,7 +15068,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "31_DivideAndRule",
@@ -15087,7 +15092,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15103,7 +15108,7 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "36_CoreOfRiddle",
@@ -15111,7 +15116,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -15183,7 +15188,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "46_AllPathsOpen",
@@ -15191,7 +15196,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -15223,7 +15228,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -15263,7 +15268,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "56_GetToad",
@@ -15766,21 +15771,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10731,
+      "Progressed": 10733,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11949,
+      "Progressed": 11951,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-30T13:02:26.5642789+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:04:53.029819+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:04:53.4239319+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:57:29.6773933+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:04:53.0300967+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:57:23.9021678+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:04:53.4241715+00:00"
 }

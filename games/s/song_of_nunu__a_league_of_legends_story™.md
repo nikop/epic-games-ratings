@@ -26,9 +26,9 @@
 | My Darkest Day | 46.00% | ~17 |
 | Tear of Freedom | 46.00% | ~17 |
 | Snowball Fightn't | 46.00% | ~17 |
+| A Tragic Reminder | 43.00% | ~16 |
 | 3000 Year Blackout | 43.00% | ~16 |
 | The Relentless Storm | 43.00% | ~16 |
-| A Tragic Reminder | 41.00% | ~15 |
 | Snowy Poro | 41.00% | ~15 |
 | Bullseye | 41.00% | ~15 |
 | The Finisher | 38.00% | ~14 |
@@ -36,11 +36,11 @@
 | You Get Used To It | 35.00% | ~13 |
 | Family | 35.00% | ~13 |
 | Biggest Snowball Ever | 35.00% | ~13 |
+| Yummy | 35.00% | ~13 |
 | Boosted! | 35.00% | ~13 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~13 |
 | Freeze The Ice Witch | 32.00% | ~12 |
 | It Is Not Over | 32.00% | ~12 |
-| Yummy | 32.00% | ~12 |
 | Braum's Poro Ranch | 27.00% | ~10 |
 | We Are Speed | 27.00% | ~10 |
 | It Was Him | 24.00% | ~9 |

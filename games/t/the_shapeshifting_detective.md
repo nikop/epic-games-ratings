@@ -24,7 +24,7 @@
 | Heavy Rayne | 7.00% | ~15 |
 | Bullseye | 5.00% | ~11 |
 | Show Me Some Skin | 5.00% | ~11 |
-| The Big Sleep | 4.00% | ~9 |
+| The Big Sleep | 5.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 217 (Ranked 350)  
 Completed: 2 (0.92%) (Ranked 157)  

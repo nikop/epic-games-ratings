@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 204445,
+  "EOS_Progressed": 204446,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21149,6 +21149,11 @@
       "Time": "2023-10-31T10:04:25.7563008+00:00",
       "NumProgressed": 204445,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-10-31T12:03:57.1235799+00:00",
+      "NumProgressed": 204446,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 29,
@@ -21184,7 +21189,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192178
+      "UsersEstimate": 192179
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -21344,7 +21349,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20444
+      "UsersEstimate": 20445
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -21391,7 +21396,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 204445,
+      "Progressed": 204446,
       "Completed": 523
     }
   ],
@@ -21399,8 +21404,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-31T04:00:18.6284781+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:03:57.3918614+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:03:57.1235793+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.7475217+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:59:55.5265961+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:03:57.3920173+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:59:59.1581365+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:03:57.123728+00:00"
 }

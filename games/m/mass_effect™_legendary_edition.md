@@ -98,9 +98,9 @@
 | Last Witness | 20.00% | ~175 |
 | Last Resort | 19.00% | ~166 |
 | Well Connected | 19.00% | ~166 |
+| Executioner | 18.00% | ~157 |
 | Electronics Specialist | 17.00% | ~148 |
 | Sabotage Specialist | 17.00% | ~148 |
-| Executioner | 17.00% | ~148 |
 | Patriot | 17.00% | ~148 |
 | Master and Commander | 17.00% | ~148 |
 | Throw Mastery | 16.00% | ~140 |

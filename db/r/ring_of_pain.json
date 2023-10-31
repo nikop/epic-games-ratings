@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238881,
+  "EOS_Progressed": 238883,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23386,6 +23386,11 @@
       "Time": "2023-10-31T11:09:17.8609188+00:00",
       "NumProgressed": 238881,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T12:09:08.0031629+00:00",
+      "NumProgressed": 238883,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -23539,9 +23544,9 @@
       "ID": "DIE250TIMES",
       "SetID": "5l8oe0h",
       "Name": "Dead Revels",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DIE25TIMES",
@@ -24315,9 +24320,9 @@
       "ID": "WINNOREROLLS",
       "SetID": "5l8oe0h",
       "Name": "Quick To Pick",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WINNOSPECIALROOMS",
@@ -24355,9 +24360,9 @@
       "ID": "WINWITHOUTDISCARD",
       "SetID": "5l8oe0h",
       "Name": "Precious",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WINWITHSPOON",
@@ -24500,22 +24505,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238881,
+      "Progressed": 238883,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 361,
-      "Completed": 349
+      "Progressed": 363,
+      "Completed": 350
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:09:17.8609181+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:09:08.0031624+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T11:02:50.2838488+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:09:17.8613275+00:00"
+  "LastUpdate_Ratings": "2023-10-31T12:02:49.7439205+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:09:08.0034814+00:00"
 }

@@ -203,9 +203,9 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_BOSS_00",
@@ -219,9 +219,9 @@
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_BOSS_02",
@@ -347,9 +347,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -379,9 +379,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_FULL_MAP",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:04:00.6843095+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:04:00.7130515+00:00",
   "LastUpdate_AppInfo": "2023-10-24T15:57:12.0149648+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:57:56.9300706+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:04:00.6843511+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:57:52.7874267+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:04:00.7130862+00:00"
 }

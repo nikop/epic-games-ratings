@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~95 |
+| Self-Defence | 85.00% | ~95 |
 | Tinkerer | 69.00% | ~77 |
-| Welcome to the Club | 39.00% | ~43 |
+| Welcome to the Club | 39.00% | ~44 |
 | Apprentice | 37.00% | ~41 |
 | A new World ahead | 29.00% | ~32 |
 | Can't touch this | 28.00% | ~31 |
@@ -16,8 +16,8 @@
 | Searing Heat | 14.00% | ~16 |
 | Nothing but the Truth | 14.00% | ~16 |
 | The Power of the Mountains | 14.00% | ~16 |
-| The Golden Flash | 13.00% | ~14 |
-| Locked and Loaded | 12.00% | ~13 |
+| Locked and Loaded | 13.00% | ~15 |
+| The Golden Flash | 13.00% | ~15 |
 | Changing the World | 11.00% | ~12 |
 | Defeat Tezuth | 10.00% | ~11 |
 | The A-Team | 10.00% | ~11 |
@@ -27,15 +27,15 @@
 | Craftsmen | 7.00% | ~8 |
 | Through Dangers Untold | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
-| Defeat Ingla | 5.00% | ~6 |
-| Bringing guns to a sword fight | 5.00% | ~6 |
-| Ancient Powers | 5.00% | ~6 |
-| But what of the Acreans? | 5.00% | ~6 |
-| A Deceiving Gift | 5.00% | ~6 |
-| Unveiling the Truth | 5.00% | ~6 |
+| A Deceiving Gift | 6.00% | ~7 |
+| Defeat Ingla | 4.00% | ~4 |
+| Bringing guns to a sword fight | 4.00% | ~4 |
+| Ancient Powers | 4.00% | ~4 |
 | Wayseeker | 4.00% | ~4 |
 | Pathfinder | 4.00% | ~4 |
 | The End | 4.00% | ~4 |
+| But what of the Acreans? | 4.00% | ~4 |
+| Unveiling the Truth | 4.00% | ~4 |
 | Sponsor | 3.00% | ~3 |
 | Wizard | 3.00% | ~3 |
 | Globetrotter | 3.00% | ~3 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 392)  
+Progressed: 112 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 106 | 0 |
 | 2023-10-29 | 109 | 0 |
 | 2023-10-30 | 111 | 0 |
+| 2023-10-31 | 112 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

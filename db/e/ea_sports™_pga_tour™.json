@@ -1523,9 +1523,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_11",
@@ -1651,9 +1651,9 @@
       "ID": "achievement_9",
       "SetID": "7ldgi7j",
       "Name": "Ace in the Hole",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 90,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
@@ -1665,8 +1665,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-10-31T11:08:30.3724815+00:00",
+  "LastChanged_Achievements": "2023-10-31T12:08:19.3920284+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:59:51.1996774+00:00",
-  "LastUpdate_Achievements": "2023-10-31T11:08:30.3725061+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:59:54.4125581+00:00",
+  "LastUpdate_Achievements": "2023-10-31T12:08:19.3920511+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~226,831 |
-| Private Club | 74.00% | ~184,456 |
-| Rogue Guild | 65.00% | ~162,022 |
-| I Watched the Intro | 57.00% | ~142,081 |
-| Covert Consortium | 55.00% | ~137,096 |
-| Goat Queen | 53.00% | ~132,110 |
-| Reach the Stratosphere | 50.00% | ~124,632 |
+| Forgotten Sorority | 91.00% | ~226,833 |
+| Private Club | 74.00% | ~184,458 |
+| Rogue Guild | 65.00% | ~162,024 |
+| I Watched the Intro | 57.00% | ~142,082 |
+| Covert Consortium | 55.00% | ~137,097 |
+| Goat Queen | 53.00% | ~132,112 |
+| Reach the Stratosphere | 50.00% | ~124,634 |
 | Synchronization Complete | 47.00% | ~117,155 |
-| Secret Society | 45.00% | ~112,169 |
+| Secret Society | 45.00% | ~112,170 |
 | Shadow Syndicate | 38.00% | ~94,721 |
-| What a Waste of Money | 33.00% | ~82,257 |
+| What a Waste of Money | 33.00% | ~82,258 |
 | New Goat Order | 30.00% | ~74,780 |
-| Don't touch the servers | 28.00% | ~69,794 |
+| Don't touch the servers | 28.00% | ~69,795 |
 | San Angora: Become Human | 27.00% | ~67,302 |
 | Real Buoy | 27.00% | ~67,302 |
 | Raider of the Lost Parking Garage | 26.00% | ~64,809 |
-| Welcome to Earth | 25.00% | ~62,316 |
-| Into the Matrix | 19.00% | ~47,360 |
+| Welcome to Earth | 25.00% | ~62,317 |
+| Into the Matrix | 19.00% | ~47,361 |
 | Egg Simulator | 18.00% | ~44,868 |
 | Where is It? | 17.00% | ~42,375 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,390 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,496 |
 | G.O.A.T | 0.30% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,265 (Ranked 57)  
+Progressed: 249,267 (Ranked 57)  
 Completed: 868 (0.35%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 868 (0.35%) (Ranked 210)
 | 2023-10-28 | 249,036 | 864 |
 | 2023-10-29 | 249,150 | 866 |
 | 2023-10-30 | 249,235 | 868 |
-| 2023-10-31 | 249,265 | 868 |
+| 2023-10-31 | 249,267 | 868 |
 ## Awards
 Max (Great for Beginners): 438  (Ranked 215)  
 Sum: 3,697 (Ranked 158)  
