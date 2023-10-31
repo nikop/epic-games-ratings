@@ -6,41 +6,46 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,874 |
-| Hey Good Hookin | 69.00% | ~4,257 |
-| I'm on a Boat! | 60.00% | ~3,701 |
-| Can you smell what the Rod is Hooking | 56.00% | ~3,455 |
-| Scaling up | 56.00% | ~3,455 |
-| More Fish in the Sea | 50.00% | ~3,084 |
-| Ready to Rod and Roll | 47.00% | ~2,899 |
-| Fish Out of Water | 36.00% | ~2,221 |
-| License to Gill | 33.00% | ~2,036 |
-| Things that go Splash in the Night | 32.00% | ~1,974 |
-| Goldfish? | 29.00% | ~1,789 |
-| Going for Gold | 27.00% | ~1,666 |
-| I'm Hooked! | 20.00% | ~1,234 |
-| Diamond in the Rough | 13.00% | ~802 |
-| More than a Tourist | 11.00% | ~679 |
-| School's Out for Summer | 11.00% | ~679 |
-| Hook, Line and Sinker | 8.00% | ~494 |
-| Marathon | 8.00% | ~494 |
-| I'm the Captain Now | 6.00% | ~370 |
-| Big Fish Small Pond | 6.00% | ~370 |
-| The Beetles | 3.00% | ~185 |
-| Gonna Need a Bigger Boat | 3.00% | ~185 |
-| No Fin left to give | 2.00% | ~123 |
-| Taylor Made | 2.00% | ~123 |
-| Rod and Troll | 2.00% | ~111 |
-| Golden Ridge Ranger | 1.00% | ~62 |
-| Fish upon a Star | 0.70% | ~39 |
-| Head for Heights | 0.60% | ~37 |
-| Lake Me up Before You Go Go | 0.60% | ~37 |
-| Cache and Carry | 0.50% | ~28 |
-| Trollsporet Tale Teller | 0.40% | ~22 |
-| Buckaroo | 0.30% | ~19 |
-| Lost and Flounder | 0.10% | ~6 |
-| Norway Jose | 0.10% | ~6 |
+| Fish Just Got Reel | 0.10% | ~6 |
+| Hey Good Hookin | 0.10% | ~6 |
+| Taylor Made | 0.10% | ~6 |
+| Golden Ridge Ranger | 0.10% | ~6 |
+| Can you smell what the Rod is Hooking | 0.00% | ~0 |
+| Ready to Rod and Roll | 0.00% | ~0 |
+| Fish Out of Water | 0.00% | ~0 |
+| I'm on a Boat! | 0.00% | ~0 |
+| More Fish in the Sea | 0.00% | ~0 |
+| Scaling up | 0.00% | ~0 |
+| Things that go Splash in the Night | 0.00% | ~0 |
+| License to Gill | 0.00% | ~0 |
+| More than a Tourist | 0.00% | ~0 |
+| I'm the Captain Now | 0.00% | ~0 |
+| Hook, Line and Sinker | 0.00% | ~0 |
+| Goldfish? | 0.00% | ~0 |
+| Going for Gold | 0.00% | ~0 |
+| School's Out for Summer | 0.00% | ~0 |
+| Head for Heights | 0.00% | ~0 |
+| The Beetles | 0.00% | ~0 |
+| Lake Me up Before You Go Go | 0.00% | ~0 |
+| Marathon | 0.00% | ~0 |
+| I'm Hooked! | 0.00% | ~0 |
+| Diamond in the Rough | 0.00% | ~0 |
+| No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
+| Big Fish Small Pond | 0.00% | ~0 |
+| Lost and Flounder | 0.00% | ~0 |
+| Buckaroo | 0.00% | ~0 |
+| Gonna Need a Bigger Boat | 0.00% | ~0 |
+| Rod and Troll | 0.00% | ~0 |
+| Norway Jose | 0.00% | ~0 |
+| Trollsporet Tale Teller | 0.00% | ~0 |
+| Fish upon a Star | 0.00% | ~0 |
+| Cache and Carry | 0.00% | ~0 |
+| Claras Mud | 0.00% | ~0 |
+| Live by the Rod, Diez by the Rod! | 0.00% | ~0 |
+| Aguas Claras Conquistador | 0.00% | ~0 |
+| All Good Kings Must Come to an End | 0.00% | ~0 |
+| Three Square Meals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,169 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 333)  

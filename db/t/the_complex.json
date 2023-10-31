@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
@@ -860,6 +860,11 @@
       "Time": "2023-10-30T22:04:19.0949378+00:00",
       "NumProgressed": 610,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-10-31T10:04:43.8447697+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 20,
@@ -871,7 +876,7 @@
       "Name": "Beat It",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "blast_from_the_past",
@@ -879,7 +884,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "deadly_secret",
@@ -927,7 +932,7 @@
       "Name": "Lab Rat",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ending_6",
@@ -959,7 +964,7 @@
       "Name": "Falling For You",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "free_champagne",
@@ -975,7 +980,7 @@
       "Name": "Kamikaze",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "kindar_surprise",
@@ -1023,14 +1028,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 19
     }
   ],
@@ -1038,8 +1043,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:04:49.8314124+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:04:43.844769+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:11.2780069+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:03:15.1397663+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:04:49.8314314+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:03:10.6362958+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:04:43.8447934+00:00"
 }

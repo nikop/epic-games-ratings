@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2989,9 +2989,9 @@
       "Count": 248
     }
   ],
-  "EOS_Progressed": 80909,
+  "EOS_Progressed": 80910,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 792,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -24504,6 +24504,11 @@
       "Time": "2023-10-31T09:06:45.1719837+00:00",
       "NumProgressed": 80909,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-10-31T10:07:03.1866354+00:00",
+      "NumProgressed": 80910,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 30,
@@ -24595,7 +24600,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 29936
+      "UsersEstimate": 29937
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -24651,7 +24656,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21036
+      "UsersEstimate": 21037
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -24691,7 +24696,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 29127
+      "UsersEstimate": 29128
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -24754,15 +24759,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 80909,
+      "Progressed": 80910,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-10-31T01:44:42.6901783+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:06:45.1719827+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:07:03.186635+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.4679734+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:00:25.2546758+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:06:45.1721355+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:00:29.2651148+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:07:03.1867501+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.19 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~112,652 |
-| May the Torchbearer light our way | 36.00% | ~106,723 |
-| A powerful aura was here | 23.00% | ~68,184 |
-| Let's raise the stakes!! | 11.00% | ~32,610 |
-| Rumors are true | 6.00% | ~17,787 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,787 |
-| We'll be careful | 5.00% | ~14,823 |
-| Pride is a sin, young Knight | 5.00% | ~14,823 |
-| Bring it on! | 5.00% | ~14,823 |
+| The touch of Chaos | 38.00% | ~112,662 |
+| May the Torchbearer light our way | 36.00% | ~106,732 |
+| A powerful aura was here | 23.00% | ~68,190 |
+| Let's raise the stakes!! | 11.00% | ~32,613 |
+| Rumors are true | 6.00% | ~17,789 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,789 |
+| We'll be careful | 5.00% | ~14,824 |
+| Pride is a sin, young Knight | 5.00% | ~14,824 |
+| Bring it on! | 5.00% | ~14,824 |
 | Back to your senses | 3.00% | ~8,894 |
 | They tricked me | 3.00% | ~8,894 |
 | They won't last long | 3.00% | ~8,894 |
-| We need to talk | 2.00% | ~5,929 |
-| I feel drawn to it | 2.00% | ~5,929 |
-| I took a risk | 2.00% | ~5,929 |
+| We need to talk | 2.00% | ~5,930 |
+| I feel drawn to it | 2.00% | ~5,930 |
+| I took a risk | 2.00% | ~5,930 |
 | Here to stay | 1.00% | ~2,965 |
 | Counting on you | 1.00% | ~2,965 |
 | This is the end | 1.00% | ~2,965 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 907)
 | We strike as one | 0.10% | ~296 |
 | Chaos be damned! | 0.10% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,452 (Ranked 49)  
+Progressed: 296,478 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 293,813 | 1 |
 | 2023-10-29 | 295,250 | 1 |
 | 2023-10-30 | 296,161 | 1 |
-| 2023-10-31 | 296,452 | 1 |
+| 2023-10-31 | 296,478 | 1 |
 ## Awards
 Max (Great Boss Battles): 46  (Ranked 434)  
 Sum: 46 (Ranked 481)  

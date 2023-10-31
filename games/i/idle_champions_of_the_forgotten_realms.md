@@ -77,6 +77,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Battle of High Hall Tower | 0.20% | ~399 |
 | Elturel's Last Stand | 0.20% | ~399 |
 | Pure Energy | 0.20% | ~467 |
+| The Court of Storms | 0.20% | ~399 |
 | Rocky Reception | 0.20% | ~399 |
 | Rock and Roll | 0.20% | ~399 |
 | Flight of the Kindori Pod | 0.20% | ~399 |
@@ -510,7 +511,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~233 |
 | Overwhelming Force | 0.10% | ~233 |
 | Rescue in the Jungle | 0.10% | ~233 |
-| The Court of Storms | 0.10% | ~200 |
 | Coasting to the Finish | 0.10% | ~200 |
 | Beware the Jabberwock | 0.10% | ~200 |
 | Quick or Quack | 0.10% | ~200 |

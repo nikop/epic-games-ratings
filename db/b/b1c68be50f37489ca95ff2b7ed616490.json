@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2023-10-30T18:03:20.1684237+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T10:03:52.9071704+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -154,7 +159,7 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -242,7 +247,7 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -306,7 +311,7 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -314,7 +319,7 @@
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -322,7 +327,7 @@
       "ID": "4",
       "SetID": "6bgoh8g",
       "Name": "A simple mistake leads to grave consequences",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -330,9 +335,9 @@
       "ID": "5",
       "SetID": "6bgoh8g",
       "Name": "The power of observation",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
@@ -371,14 +376,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:03:47.5864482+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:03:52.9071701+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:18.4814176+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:03:17.1846183+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:03:47.5864682+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:03:14.3686368+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:03:52.9071875+00:00"
 }

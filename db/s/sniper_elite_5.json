@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3799,
+  "EOS_Progressed": 3800,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7561,6 +7561,11 @@
       "Time": "2023-10-30T19:08:14.6278313+00:00",
       "NumProgressed": 3799,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-10-31T10:03:24.9199989+00:00",
+      "NumProgressed": 3800,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -8036,7 +8041,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8092,7 +8097,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -8100,7 +8105,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -8108,7 +8113,7 @@
       "Name": "Stroll in the Woods",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_DLC04_01_SHIPBREAKER",
@@ -8132,20 +8137,20 @@
       "Name": "Going Overboard",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3750,
+      "Progressed": 3751,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3799,
+      "Progressed": 3800,
       "Completed": 11
     }
   ],
@@ -8153,8 +8158,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:03:24.4635694+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:03:24.9199984+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:59:54.9720796+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:03:24.4636768+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:59:45.5910491+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:03:24.9200923+00:00"
 }

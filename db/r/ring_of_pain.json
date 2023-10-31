@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238876,
+  "EOS_Progressed": 238880,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23376,6 +23376,11 @@
       "Time": "2023-10-31T09:09:24.2648357+00:00",
       "NumProgressed": 238876,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T10:09:50.4840212+00:00",
+      "NumProgressed": 238880,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -23673,9 +23678,9 @@
       "ID": "GRAVEDIGGING",
       "SetID": "5l8oe0h",
       "Name": "Grave Digger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HAVE2000SOULS",
@@ -23809,9 +23814,9 @@
       "ID": "KILL10ONETURN",
       "SetID": "5l8oe0h",
       "Name": "Clearing The Room",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILL20TYPES",
@@ -24145,9 +24150,9 @@
       "ID": "SPEEDRUN10",
       "SetID": "5l8oe0h",
       "Name": "Sprinter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "STEALTH10",
@@ -24217,9 +24222,9 @@
       "ID": "WIN0ATTACK",
       "SetID": "5l8oe0h",
       "Name": "The Tickler",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WIN0DEFENSE",
@@ -24490,13 +24495,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238876,
+      "Progressed": 238880,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 356,
+      "Progressed": 360,
       "Completed": 349
     }
   ],
@@ -24504,8 +24509,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:09:24.2648339+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:09:50.4840209+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:03:12.3587494+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:09:24.2651897+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:03:06.9443833+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:09:50.4842844+00:00"
 }

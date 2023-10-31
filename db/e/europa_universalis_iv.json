@@ -11341,10 +11341,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 55482,
       "NumberOfAwardsMax": 6749
+    },
+    {
+      "Time": "2023-10-31T09:58:45.8020313+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55494,
+      "NumberOfAwardsMax": 6749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55482,
+  "NumberOfAwards": 55494,
   "NumberOfAwardsMax": 6749,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11400,7 +11406,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5633
+      "Count": 5645
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11415,9 +11421,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 443500,
+  "EOS_Progressed": 443522,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5181,
+  "EOS_NewPlayers": 5180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33535,6 +33541,11 @@
       "Time": "2023-10-31T09:05:01.8899846+00:00",
       "NumProgressed": 443500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T10:04:58.5490845+00:00",
+      "NumProgressed": 443522,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33706,7 +33717,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -34218,7 +34229,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -34258,7 +34269,7 @@
       "Name": "Electable!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -34506,7 +34517,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_golden_horn",
@@ -34546,7 +34557,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17740
+      "UsersEstimate": 17741
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34570,7 +34581,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13305
+      "UsersEstimate": 13306
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35042,7 +35053,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_marshy_march",
@@ -35114,7 +35125,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "achievement_my_true_friend",
@@ -35354,7 +35365,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_prester_john",
@@ -35826,7 +35837,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13305
+      "UsersEstimate": 13306
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -36210,7 +36221,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17740
+      "UsersEstimate": 17741
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36242,7 +36253,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17740
+      "UsersEstimate": 17741
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36377,21 +36388,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 443500,
+      "Progressed": 443522,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 443500,
+      "Progressed": 443522,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-30T22:59:20.4502395+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:05:01.8899837+00:00",
+  "LastChanged": "2023-10-31T09:58:45.8020312+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:04:58.5490839+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:59:00.6868726+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:05:01.8912362+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:58:45.8020318+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:04:58.550193+00:00"
 }

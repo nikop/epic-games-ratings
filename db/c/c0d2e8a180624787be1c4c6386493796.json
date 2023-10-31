@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "KR4_ACHIEVEMENT_GOBLIRANGS",
       "SetID": "caeik3h",
       "Name": "Not The Bees!",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_GOLLUM",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:08:46.5485252+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:09:04.9336567+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:00:24.9143285+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:08:46.5486443+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:00:28.9374536+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:09:04.9337282+00:00"
 }

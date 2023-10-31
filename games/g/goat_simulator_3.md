@@ -5,25 +5,25 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~226,824 |
-| Private Club | 74.00% | ~184,450 |
-| Rogue Guild | 65.00% | ~162,017 |
-| I Watched the Intro | 57.00% | ~142,076 |
-| Covert Consortium | 55.00% | ~137,091 |
-| Goat Queen | 53.00% | ~132,106 |
-| Reach the Stratosphere | 50.00% | ~124,628 |
-| Synchronization Complete | 47.00% | ~117,151 |
-| Secret Society | 45.00% | ~112,166 |
+| Forgotten Sorority | 91.00% | ~226,826 |
+| Private Club | 74.00% | ~184,452 |
+| Rogue Guild | 65.00% | ~162,018 |
+| I Watched the Intro | 57.00% | ~142,078 |
+| Covert Consortium | 55.00% | ~137,092 |
+| Goat Queen | 53.00% | ~132,107 |
+| Reach the Stratosphere | 50.00% | ~124,630 |
+| Synchronization Complete | 47.00% | ~117,152 |
+| Secret Society | 45.00% | ~112,167 |
 | Shadow Syndicate | 38.00% | ~94,718 |
 | What a Waste of Money | 33.00% | ~82,255 |
-| New Goat Order | 30.00% | ~74,777 |
-| Don't touch the servers | 28.00% | ~69,792 |
-| San Angora: Become Human | 27.00% | ~67,299 |
-| Real Buoy | 27.00% | ~67,299 |
+| New Goat Order | 30.00% | ~74,778 |
+| Don't touch the servers | 28.00% | ~69,793 |
+| San Angora: Become Human | 27.00% | ~67,300 |
+| Real Buoy | 27.00% | ~67,300 |
 | Raider of the Lost Parking Garage | 26.00% | ~64,807 |
-| Welcome to Earth | 25.00% | ~62,314 |
+| Welcome to Earth | 25.00% | ~62,315 |
 | Into the Matrix | 19.00% | ~47,359 |
-| Egg Simulator | 18.00% | ~44,866 |
+| Egg Simulator | 18.00% | ~44,867 |
 | Where is It? | 17.00% | ~42,374 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,389 |
 | Black Market | 14.00% | ~34,896 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,496 |
 | G.O.A.T | 0.30% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,257 (Ranked 57)  
+Progressed: 249,259 (Ranked 57)  
 Completed: 868 (0.35%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 868 (0.35%) (Ranked 210)
 | 2023-10-28 | 249,036 | 864 |
 | 2023-10-29 | 249,150 | 866 |
 | 2023-10-30 | 249,235 | 868 |
-| 2023-10-31 | 249,257 | 868 |
+| 2023-10-31 | 249,259 | 868 |
 ## Awards
 Max (Great for Beginners): 438  (Ranked 215)  
 Sum: 3,697 (Ranked 158)  

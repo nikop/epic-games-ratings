@@ -40,6 +40,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.10% | ~239 |
 | I Am Overburdened | 0.10% | ~239 |
 | A Hard Carry | 0.10% | ~239 |
+| Grave Digger | 0.10% | ~239 |
 | Soul Stash | 0.10% | ~239 |
 | Powerful Potion | 0.10% | ~239 |
 | For Science | 0.10% | ~239 |
@@ -55,6 +56,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 0.10% | ~239 |
 | Destroy Your Fears | 0.10% | ~239 |
 | Trail Of Death | 0.10% | ~239 |
+| Clearing The Room | 0.10% | ~239 |
 | The Bestiary | 0.10% | ~239 |
 | Blizzard | 0.10% | ~239 |
 | The Boulder | 0.10% | ~239 |
@@ -91,6 +93,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.10% | ~239 |
 | Uncharted Territory | 0.10% | ~239 |
 | Explorer | 0.10% | ~239 |
+| Sprinter | 0.10% | ~239 |
 | Sneaky | 0.10% | ~239 |
 | Shadow Walker | 0.10% | ~239 |
 | Flesh Wound | 0.10% | ~239 |
@@ -99,6 +102,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defuser | 0.10% | ~239 |
 | An Offering | 0.10% | ~239 |
 | The Long Run | 0.10% | ~239 |
+| The Tickler | 0.10% | ~239 |
 | Masochist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
 | Tunnel Vision | 0.10% | ~239 |
@@ -122,16 +126,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.10% | ~0 |
 | A Week Attempt | 0.00% | ~0 |
 | Dead Revels | 0.00% | ~0 |
-| Grave Digger | 0.00% | ~0 |
 | Power Score | 0.00% | ~0 |
-| Clearing The Room | 0.00% | ~0 |
 | Not What I Meant | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Master of Strategy | 0.00% | ~0 |
 | Good Boys | 0.00% | ~0 |
 | Need An Antidote? | 0.00% | ~0 |
-| Sprinter | 0.00% | ~0 |
-| The Tickler | 0.00% | ~0 |
 | Minimalist | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
 | Champion of the Day | 0.00% | ~0 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.00% | ~0 |
 | You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,876 (Ranked 59)  
+Progressed: 238,880 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,876 | 286 |
+| 2023-10-31 | 238,880 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

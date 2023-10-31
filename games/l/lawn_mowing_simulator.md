@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~541,626 |
-| Every story has a beginning | 36.00% | ~243,732 |
-| The first of many | 31.00% | ~209,880 |
-| Positive word of mouth | 18.00% | ~121,866 |
-| Lawn in the U.S.A. | 15.00% | ~101,555 |
-| Blade Runner | 9.00% | ~60,933 |
-| Credible | 7.00% | ~47,392 |
-| Teamwork makes the dream work | 6.00% | ~40,622 |
-| Where there's muck there's brass | 4.00% | ~27,081 |
-| Bigger and better | 4.00% | ~27,081 |
-| Aggressive expansion | 4.00% | ~27,081 |
+| The dream begins | 80.00% | ~541,636 |
+| Every story has a beginning | 36.00% | ~243,736 |
+| The first of many | 31.00% | ~209,884 |
+| Positive word of mouth | 18.00% | ~121,868 |
+| Lawn in the U.S.A. | 15.00% | ~101,557 |
+| Blade Runner | 9.00% | ~60,934 |
+| Credible | 7.00% | ~47,393 |
+| Teamwork makes the dream work | 6.00% | ~40,623 |
+| Where there's muck there's brass | 4.00% | ~27,082 |
+| Bigger and better | 4.00% | ~27,082 |
+| Aggressive expansion | 4.00% | ~27,082 |
 | Size isn't everything | 3.00% | ~20,311 |
 | Close shave | 3.00% | ~20,311 |
 | Established | 3.00% | ~20,311 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~677 |
 | Mo mowers, mo problems | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,033 (Ranked 25)  
+Progressed: 677,045 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,17 +255,17 @@ Completed: 17 (0.00%) (Ranked 333)
 | 2023-10-28 | 676,318 | 17 |
 | 2023-10-29 | 676,677 | 17 |
 | 2023-10-30 | 676,939 | 17 |
-| 2023-10-31 | 677,033 | 17 |
+| 2023-10-31 | 677,045 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 292)  
-Sum: 982 (Ranked 259)  
-Diff (max vs sum): 33  
+Sum: 983 (Ranked 258)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |
 | This game is Extremely Fun | 169 |
 | This game is Great for Beginners | 166 |
-| This game is Relaxing | 165 |
+| This game is Relaxing | 166 |
 | This game is Highly Recommended | 158 |
 | This game has Amazing Storytelling | 142 |
 | This game has Obsessive Gameplay | 55 |
@@ -362,4 +362,4 @@ Diff (max vs sum): 33
 | 2023-09-21 | 4.08 | - | 182 | 980 |
 | 2023-09-23 | 4.08 | - | 182 | 981 |
 | 2023-09-24 | 4.08 | - | 182 | 982 |
-| 2023-10-31 | 4.07 | - | 182 | 982 |
+| 2023-10-31 | 4.07 | - | 182 | 983 |

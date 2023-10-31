@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 943,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1120,6 +1120,11 @@
       "Time": "2023-10-31T05:06:24.2762648+00:00",
       "NumProgressed": 942,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T10:04:35.3639911+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1188,7 +1193,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1212,7 +1217,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1276,7 +1281,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1332,7 +1337,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -1371,14 +1376,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 943,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-10-31T09:04:22.581901+00:00",
+  "LastChanged_Achievements": "2023-10-31T10:04:35.3639908+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-10-31T08:57:24.5235457+00:00",
-  "LastUpdate_Achievements": "2023-10-31T09:04:22.5819275+00:00"
+  "LastUpdate_Ratings": "2023-10-31T09:57:21.9938255+00:00",
+  "LastUpdate_Achievements": "2023-10-31T10:04:35.3640137+00:00"
 }

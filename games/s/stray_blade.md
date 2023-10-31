@@ -22,9 +22,9 @@
 | Defeat Tezuth | 10.00% | ~11 |
 | The A-Team | 10.00% | ~11 |
 | Witch | 9.00% | ~10 |
+| Defeat Uskol | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
 | Craftsmen | 7.00% | ~8 |
-| Defeat Uskol | 7.00% | ~8 |
 | Through Dangers Untold | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
 | Defeat Ingla | 5.00% | ~6 |

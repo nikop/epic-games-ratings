@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,740 |
-| Until death do us apart | 4.00% | ~17,740 |
-| Victorious! | 4.00% | ~17,740 |
-| That's a Grand Navy | 3.00% | ~13,305 |
-| That is mine! | 3.00% | ~13,305 |
+| That's a Grand Army | 4.00% | ~17,741 |
+| Until death do us apart | 4.00% | ~17,741 |
+| Victorious! | 4.00% | ~17,741 |
+| That's a Grand Navy | 3.00% | ~13,306 |
+| That is mine! | 3.00% | ~13,306 |
 | Brothers in Arms | 2.00% | ~8,870 |
 | Cold War | 2.00% | ~8,870 |
 | For the Glory | 2.00% | ~8,870 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,548 |
 | Royal Authority | 0.80% | ~3,548 |
 | Total Control | 0.80% | ~3,548 |
-| My armies are invincible! | 0.70% | ~3,104 |
+| My armies are invincible! | 0.70% | ~3,105 |
 | Agressive Expander | 0.60% | ~2,661 |
 | Azur semé de lis or | 0.50% | ~2,218 |
 | City of Cities | 0.50% | ~2,218 |
@@ -40,12 +40,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.40% | ~1,774 |
 | The Five Colonies | 0.40% | ~1,774 |
 | Trustworthy | 0.40% | ~1,774 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,330 |
-| Down Under | 0.30% | ~1,330 |
-| Electable! | 0.30% | ~1,330 |
-| A Golden Empire | 0.30% | ~1,330 |
-| Market Control | 0.30% | ~1,330 |
-| Populists in Government | 0.30% | ~1,330 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,331 |
+| Down Under | 0.30% | ~1,331 |
+| Electable! | 0.30% | ~1,331 |
+| A Golden Empire | 0.30% | ~1,331 |
+| Market Control | 0.30% | ~1,331 |
+| Populists in Government | 0.30% | ~1,331 |
 | Absolutely | 0.20% | ~887 |
 | All belongs to Mother Russia | 0.20% | ~887 |
 | At every continent | 0.20% | ~887 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443,500 (Ranked 41)  
+Progressed: 443,522 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,10 +555,10 @@ Completed: 1 (0.00%) (Ranked 333)
 | 2023-10-28 | 441,735 | 1 |
 | 2023-10-29 | 442,673 | 1 |
 | 2023-10-30 | 443,336 | 1 |
-| 2023-10-31 | 443,500 | 1 |
+| 2023-10-31 | 443,522 | 1 |
 ## Awards
 Max (Educational): 6,749  (Ranked 55)  
-Sum: 55,482 (Ranked 24)  
+Sum: 55,494 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -569,7 +569,7 @@ Diff (max vs sum): 31
 | This game is Extremely Fun | 6,364 |
 | This game is Relaxing | 6,211 |
 | This game has Competitive Players | 6,051 |
-| This game has Amazing Storytelling | 5,633 |
+| This game has Amazing Storytelling | 5,645 |
 | This game has Amazing Characters | 5,214 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -862,3 +862,4 @@ Diff (max vs sum): 31
 | 2023-10-28 | 4.69 | - | 6,718 | 55,220 |
 | 2023-10-29 | 4.69 | - | 6,736 | 55,365 |
 | 2023-10-30 | 4.69 | - | 6,749 | 55,482 |
+| 2023-10-31 | 4.69 | - | 6,749 | 55,494 |
