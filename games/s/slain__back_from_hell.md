@@ -14,28 +14,28 @@ Rating: 4.29 (Ranked 832)
 | Down Boy! | 2.00% | ~790 |
 | A Snowball's Chance in Hell | 2.00% | ~790 |
 | Enjoy The Silence | 1.00% | ~395 |
-| Sure Footed As A Goat | 0.90% | ~355 |
-| Backdoor Man | 0.90% | ~355 |
+| Sure Footed As A Goat | 0.90% | ~356 |
+| Backdoor Man | 0.90% | ~356 |
 | Thorn in My Herbicide | 0.80% | ~316 |
 | Red In Tooth And Claw | 0.80% | ~316 |
 | Death Becomes Her | 0.80% | ~316 |
 | The Sky Is Falling | 0.80% | ~316 |
 | Schadenfreude | 0.80% | ~316 |
-| Start As You Mean To Go On | 0.70% | ~276 |
-| Hail the Great Horned Metal God! | 0.70% | ~276 |
-| That'll Come In Handy... | 0.70% | ~276 |
-| Four Legged Friend | 0.50% | ~197 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~197 |
+| Start As You Mean To Go On | 0.70% | ~277 |
+| Hail the Great Horned Metal God! | 0.70% | ~277 |
+| That'll Come In Handy... | 0.70% | ~277 |
+| Four Legged Friend | 0.50% | ~198 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~198 |
 | Ice To See You | 0.40% | ~158 |
 | Smack My Imp Up | 0.40% | ~158 |
-| Vroll With It | 0.30% | ~118 |
-| Swift of Foot, Keen of Blade | 0.30% | ~118 |
+| Vroll With It | 0.30% | ~119 |
+| Swift of Foot, Keen of Blade | 0.30% | ~119 |
 | Flame Retardant | 0.20% | ~79 |
-| Too Metal For Magic | 0.10% | ~39 |
-| Heart Of Steel | 0.10% | ~39 |
-| Death or Glory | 0.10% | ~39 |
+| Too Metal For Magic | 0.10% | ~40 |
+| Heart Of Steel | 0.10% | ~40 |
+| Death or Glory | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,499 (Ranked 117)  
+Progressed: 39,502 (Ranked 117)  
 Completed: 26 (0.07%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 26 (0.07%) (Ranked 278)
 | 2023-10-28 | 39,351 | 26 |
 | 2023-10-29 | 39,432 | 26 |
 | 2023-10-30 | 39,479 | 26 |
-| 2023-10-31 | 39,499 | 26 |
+| 2023-10-31 | 39,502 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 324)  
 Sum: 127 (Ranked 425)  

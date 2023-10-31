@@ -1956,9 +1956,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15061,
+  "EOS_Progressed": 15062,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15096,6 +15096,11 @@
       "Time": "2023-10-31T10:07:11.8189476+00:00",
       "NumProgressed": 15061,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-10-31T11:06:16.8688549+00:00",
+      "NumProgressed": 15062,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15625,9 +15630,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
       "SetID": "9201eeb",
       "Name": "Learned",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -16633,9 +16638,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_2",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 2",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 301
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
@@ -17842,21 +17847,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15061,
+      "Progressed": 15062,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15061,
+      "Progressed": 15062,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T09:58:27.8369876+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:07:11.8189473+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:06:16.8688545+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:58:27.8369881+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:07:11.8199489+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:58:13.7549054+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:06:16.8703149+00:00"
 }

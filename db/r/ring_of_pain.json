@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238880,
+  "EOS_Progressed": 238881,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23381,6 +23381,11 @@
       "Time": "2023-10-31T10:09:50.4840212+00:00",
       "NumProgressed": 238880,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-10-31T11:09:17.8609188+00:00",
+      "NumProgressed": 238881,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -23446,9 +23451,9 @@
       "ID": "DAILY7",
       "SetID": "5l8oe0h",
       "Name": "A Week Attempt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "DARKENDING",
@@ -23742,9 +23747,9 @@
       "ID": "HIGHSCORE",
       "SetID": "5l8oe0h",
       "Name": "Power Score",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "HIGHSPEED",
@@ -23910,9 +23915,9 @@
       "ID": "KILLSAMSPAREOTHERS",
       "SetID": "5l8oe0h",
       "Name": "Not What I Meant",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "KILLSPINEDSPINEBACK",
@@ -24495,13 +24500,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238880,
+      "Progressed": 238881,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 349
     }
   ],
@@ -24509,8 +24514,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:09:50.4840209+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:09:17.8609181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:03:06.9443833+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:09:50.4842844+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:02:50.2838488+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:09:17.8613275+00:00"
 }

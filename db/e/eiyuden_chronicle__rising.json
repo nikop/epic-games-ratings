@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -173,11 +173,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 697,
+  "EOS_Progressed": 698,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.61,
+  "EOS_Completed_Percentage": 8.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -368,6 +368,11 @@
       "Time": "2023-10-28T22:04:54.8489243+00:00",
       "NumProgressed": 697,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-10-31T11:03:27.97772+00:00",
+      "NumProgressed": 698,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -379,15 +384,15 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACHIEVEMENT002",
       "SetID": "dejhjd5",
       "Name": "Partners?",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 433
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -411,7 +416,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -435,7 +440,7 @@
       "Name": "This Treasure I\u0027ve Found",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -443,7 +448,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -459,7 +464,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -475,7 +480,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -547,7 +552,7 @@
       "Name": "Arms Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -555,7 +560,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -563,15 +568,15 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACHIEVEMENT025",
       "SetID": "dejhjd5",
       "Name": "Hopeful Hunter",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -595,7 +600,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -603,7 +608,7 @@
       "Name": "New Nevaeh\u0027s Number One Customer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHIEVEMENT030",
@@ -635,7 +640,7 @@
       "Name": "Rune Scholar",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -651,7 +656,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -659,7 +664,7 @@
       "Name": "First Time Hunting",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -778,15 +783,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 697,
+      "Progressed": 698,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-10-09T03:01:40.7583334+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:03:49.8920643+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:03:27.9777194+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.8085821+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:58:50.6204974+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:03:49.8921065+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:58:33.2221819+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:03:27.9777835+00:00"
 }

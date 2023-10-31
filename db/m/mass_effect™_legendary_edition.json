@@ -2444,9 +2444,9 @@
       "ID": "achievement_105",
       "SetID": "d252ncf",
       "Name": "Sky High",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_106",
@@ -3416,8 +3416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:06:29.7886561+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:05:41.1244049+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:59:45.3827707+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:06:29.7888338+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:59:19.6030908+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:05:41.1246911+00:00"
 }

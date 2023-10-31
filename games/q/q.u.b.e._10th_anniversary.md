@@ -1,16 +1,16 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.43 (Ranked 686)  
+Rating: 4.42 (Ranked 703)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 0.10% | ~13 |
-| Sector 2 | 0.10% | ~13 |
-| Sector 3 | 0.10% | ~13 |
-| Sector 4 | 0.10% | ~13 |
-| Sector 5 | 0.10% | ~13 |
-| Sector 6 | 0.10% | ~13 |
+| Sector 1 | 0.10% | ~14 |
+| Sector 2 | 0.10% | ~14 |
+| Sector 3 | 0.10% | ~14 |
+| Sector 4 | 0.10% | ~14 |
+| Sector 5 | 0.10% | ~14 |
+| Sector 6 | 0.10% | ~14 |
 | Feeling the Blues | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Squished | 0.00% | ~0 |
@@ -30,7 +30,7 @@ Rating: 4.43 (Ranked 686)
 | Sector 7 | 0.00% | ~0 |
 | Did That Work? -- No! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,490 (Ranked 147)  
+Progressed: 13,504 (Ranked 147)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-28 | 12,026 | 0 |
 | 2023-10-29 | 12,804 | 0 |
 | 2023-10-30 | 13,351 | 0 |
-| 2023-10-31 | 13,490 | 0 |
+| 2023-10-31 | 13,504 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -63,3 +63,4 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-26 | 4.41 | 0 | 0 |
 | 2023-10-27 | 4.42 | 0 | 0 |
 | 2023-10-29 | 4.44 | 0 | 0 |
+| 2023-10-31 | 4.42 | 0 | 0 |

@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39499,
+  "EOS_Progressed": 39502,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
@@ -21533,6 +21533,11 @@
       "Time": "2023-10-31T10:05:34.7886716+00:00",
       "NumProgressed": 39499,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-10-31T11:04:54.8620013+00:00",
+      "NumProgressed": 39502,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -21560,7 +21565,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -21576,7 +21581,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -21592,7 +21597,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -21624,7 +21629,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -21640,7 +21645,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -21720,7 +21725,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -21728,7 +21733,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -21736,7 +21741,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -21744,7 +21749,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -21752,7 +21757,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -21760,7 +21765,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -21768,14 +21773,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39499,
+      "Progressed": 39502,
       "Completed": 26
     }
   ],
@@ -21783,8 +21788,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:05:34.7886713+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:04:54.8620007+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:10.3969079+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:00:22.5959144+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:05:34.7887947+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:59:46.1770134+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:04:54.862153+00:00"
 }

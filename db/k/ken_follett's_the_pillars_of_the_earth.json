@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16065,
+  "EOS_Progressed": 16066,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13082,6 +13082,11 @@
       "Time": "2023-10-31T03:05:21.2376747+00:00",
       "NumProgressed": 16065,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-10-31T11:05:05.4338309+00:00",
+      "NumProgressed": 16066,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13133,7 +13138,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "tpote_achievement_15",
@@ -13165,7 +13170,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "tpote_achievement_19",
@@ -13181,7 +13186,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "tpote_achievement_20",
@@ -13237,7 +13242,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "tpote_achievement_27",
@@ -13277,7 +13282,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "tpote_achievement_31",
@@ -13420,15 +13425,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16065,
+      "Progressed": 16066,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:05:47.5051825+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:05:05.43383+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:01:17.5726694+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:05:47.5052716+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:00:28.7428251+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:05:05.4339494+00:00"
 }

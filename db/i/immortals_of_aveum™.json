@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -869,9 +869,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_49",
@@ -1022,8 +1022,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:07:20.9381415+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:06:24.4158311+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:58:30.9244672+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:07:20.9381771+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:58:16.1852922+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:06:24.4158847+00:00"
 }

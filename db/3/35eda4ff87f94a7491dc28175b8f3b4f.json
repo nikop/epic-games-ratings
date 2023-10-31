@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 615,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "SAVE_ONE_PERSON_1_0",
       "SetID": "24fdn9j",
       "Name": "Rescuer",
-      "Percentage": 133,
+      "Percentage": 167,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -208,8 +208,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-10-30T18:00:05.2988545+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:06:08.4028946+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:05:22.7526448+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.2317382+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:00:10.9550426+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:06:08.4029017+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:59:39.1419157+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:05:22.7526545+00:00"
 }

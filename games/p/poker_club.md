@@ -5,19 +5,19 @@ Rating: 3.82 (Ranked 1,013)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~406,330 |
-| Handy | 41.00% | ~219,204 |
-| Cold Caller | 39.00% | ~208,512 |
-| A Bit On The Side | 27.00% | ~144,354 |
-| Backdoor | 25.00% | ~133,661 |
-| Rank Amateur | 21.00% | ~112,275 |
-| Three Way | 18.00% | ~96,236 |
+| Pro Creation | 76.00% | ~406,333 |
+| Handy | 41.00% | ~219,206 |
+| Cold Caller | 39.00% | ~208,513 |
+| A Bit On The Side | 27.00% | ~144,355 |
+| Backdoor | 25.00% | ~133,662 |
+| Rank Amateur | 21.00% | ~112,276 |
+| Three Way | 18.00% | ~96,237 |
 | Deadly Assassin | 15.00% | ~80,197 |
-| Gutshot | 14.00% | ~74,850 |
-| Risk It For A Biscuit | 14.00% | ~74,850 |
+| Gutshot | 14.00% | ~74,851 |
+| Risk It For A Biscuit | 14.00% | ~74,851 |
 | Showoff | 13.00% | ~69,504 |
 | W.H.I.P. | 11.00% | ~58,811 |
-| Bet Bet Bet | 10.00% | ~53,464 |
+| Bet Bet Bet | 10.00% | ~53,465 |
 | Blindman's Bluff | 9.00% | ~48,118 |
 | Poker Joker | 9.00% | ~48,118 |
 | Never Give Up | 8.00% | ~42,772 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,013)
 | Rounder | 0.10% | ~535 |
 | Top Dog | 0.10% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 534,645 (Ranked 34)  
+Progressed: 534,649 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,17 +244,17 @@ Completed: 2 (0.00%) (Ranked 333)
 | 2023-10-28 | 534,143 | 2 |
 | 2023-10-29 | 534,392 | 2 |
 | 2023-10-30 | 534,578 | 2 |
-| 2023-10-31 | 534,645 | 2 |
+| 2023-10-31 | 534,649 | 2 |
 ## Awards
 Max (Great for Beginners): 52  (Ranked 415)  
-Sum: 134 (Ranked 423)  
-Diff (max vs sum): -8  
+Sum: 135 (Ranked 422)  
+Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 52 |
 | This game is Highly Recommended | 31 |
 | This game has Quickly Understood Controls | 28 |
-| This game has a Competitive Community | 23 |
+| This game has a Competitive Community | 24 |
 | This game has Competitive Players | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -357,3 +357,4 @@ Diff (max vs sum): -8
 | 2023-10-19 | 3.82 | 52 | 131 |
 | 2023-10-20 | 3.82 | 52 | 132 |
 | 2023-10-28 | 3.82 | 52 | 134 |
+| 2023-10-31 | 3.82 | 52 | 135 |

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 3.00% | ~452 |
 | Good | 3.00% | ~452 |
 | Intrepid | 3.00% | ~452 |
+| Learned | 3.00% | ~452 |
 | Mason | 3.00% | ~452 |
 | Noble | 3.00% | ~452 |
 | Pioneer | 3.00% | ~452 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 2.00% | ~301 |
 | Just | 2.00% | ~301 |
 | Keystone | 2.00% | ~301 |
-| Learned | 2.00% | ~301 |
 | Magnificent | 2.00% | ~301 |
 | Warrior | 2.00% | ~301 |
 | Wise | 2.00% | ~301 |
@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 2.00% | ~301 |
 | Pyramids | 2.00% | ~301 |
 | Learn to Play 1 | 2.00% | ~301 |
+| Learn to Play 2 | 2.00% | ~301 |
 | Christianity | 2.00% | ~301 |
 | Judaism | 2.00% | ~301 |
 | Manichaeism | 2.00% | ~301 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 1.00% | ~151 |
 | Mausoleum | 1.00% | ~151 |
 | Necropolis | 1.00% | ~151 |
-| Learn to Play 2 | 1.00% | ~151 |
 | Learn to Play 3 | 1.00% | ~151 |
 | Greece | 1.00% | ~151 |
 | Power to the People | 1.00% | ~151 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,061 (Ranked 143)  
+Progressed: 15,062 (Ranked 143)  
 Completed: 5 (0.03%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -543,7 +543,7 @@ Completed: 5 (0.03%) (Ranked 299)
 | 2023-10-28 | 15,014 | 5 |
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
-| 2023-10-31 | 15,061 | 5 |
+| 2023-10-31 | 15,062 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,858 (Ranked 211)  

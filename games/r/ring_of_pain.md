@@ -13,6 +13,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.10% | ~239 |
 | Nothing To Lose | 0.10% | ~239 |
 | Consecutive Curses | 0.10% | ~239 |
+| A Week Attempt | 0.10% | ~239 |
 | Shadow Spreads | 0.10% | ~239 |
 | Challenge Increases | 0.10% | ~239 |
 | Heavy Hitter | 0.10% | ~239 |
@@ -48,6 +49,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Willing the World | 0.10% | ~239 |
 | Juggernaut | 0.10% | ~239 |
 | Gigantic | 0.10% | ~239 |
+| Power Score | 0.10% | ~239 |
 | Predator | 0.10% | ~239 |
 | Here Comes The Airplane | 0.10% | ~239 |
 | Save Our Souls | 0.10% | ~239 |
@@ -68,6 +70,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heartless | 0.10% | ~239 |
 | What's Yours Is Mine | 0.10% | ~239 |
 | Stop Hitting Yourself | 0.10% | ~239 |
+| Not What I Meant | 0.10% | ~239 |
 | Spine Breaker | 0.10% | ~239 |
 | Shootout | 0.10% | ~239 |
 | A Rock And A Hard Place | 0.10% | ~239 |
@@ -124,10 +127,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Matching | 0.10% | ~0 |
-| A Week Attempt | 0.00% | ~0 |
 | Dead Revels | 0.00% | ~0 |
-| Power Score | 0.00% | ~0 |
-| Not What I Meant | 0.00% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Master of Strategy | 0.00% | ~0 |
 | Good Boys | 0.00% | ~0 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.00% | ~0 |
 | You Call That A Knife? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,880 (Ranked 59)  
+Progressed: 238,881 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 286 (0.12%) (Ranked 256)
 | 2023-10-28 | 238,700 | 286 |
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
-| 2023-10-31 | 238,880 | 286 |
+| 2023-10-31 | 238,881 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

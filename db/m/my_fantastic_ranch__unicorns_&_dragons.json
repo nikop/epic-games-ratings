@@ -4,7 +4,7 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:04:25.6007802+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:03:57.359056+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.3428798+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:57:31.1208703+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:04:25.6007963+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:57:26.6660417+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:03:57.3590783+00:00"
 }

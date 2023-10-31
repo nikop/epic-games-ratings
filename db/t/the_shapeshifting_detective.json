@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 217,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -493,9 +493,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "voyeur",
@@ -526,8 +526,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:06:03.8123904+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:05:18.982634+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.5381847+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:59:39.3777296+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:06:03.8124049+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:59:14.1713475+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:05:18.9826509+00:00"
 }

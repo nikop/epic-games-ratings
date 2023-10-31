@@ -11347,10 +11347,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 55494,
       "NumberOfAwardsMax": 6749
+    },
+    {
+      "Time": "2023-10-31T10:58:29.9448251+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55504,
+      "NumberOfAwardsMax": 6749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55494,
+  "NumberOfAwards": 55504,
   "NumberOfAwardsMax": 6749,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11364,7 +11370,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6377
+      "Count": 6387
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11421,9 +11427,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 443522,
+  "EOS_Progressed": 443542,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5180,
+  "EOS_NewPlayers": 5179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33546,6 +33552,11 @@
       "Time": "2023-10-31T10:04:58.5490845+00:00",
       "NumProgressed": 443522,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-10-31T11:04:25.2522896+00:00",
+      "NumProgressed": 443542,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33997,7 +34008,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8870
+      "UsersEstimate": 8871
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -34077,7 +34088,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8870
+      "UsersEstimate": 8871
     },
     {
       "ID": "achievement_colonial_management",
@@ -34389,7 +34400,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8870
+      "UsersEstimate": 8871
     },
     {
       "ID": "achievement_forever_golden",
@@ -34557,7 +34568,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17741
+      "UsersEstimate": 17742
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35557,7 +35568,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8870
+      "UsersEstimate": 8871
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36221,7 +36232,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17741
+      "UsersEstimate": 17742
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36253,7 +36264,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17741
+      "UsersEstimate": 17742
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36388,21 +36399,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 443522,
+      "Progressed": 443542,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 443522,
+      "Progressed": 443542,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-10-31T09:58:45.8020312+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:04:58.5490839+00:00",
+  "LastChanged": "2023-10-31T10:58:29.944825+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:04:25.252289+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-10-31T09:58:45.8020318+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:04:58.550193+00:00"
+  "LastUpdate_Ratings": "2023-10-31T10:58:29.9448256+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:04:25.2538673+00:00"
 }

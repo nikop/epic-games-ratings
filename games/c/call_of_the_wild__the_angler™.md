@@ -8,6 +8,7 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 0.10% | ~6 |
 | Hey Good Hookin | 0.10% | ~6 |
+| No Fin left to give | 0.10% | ~6 |
 | Taylor Made | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Can you smell what the Rod is Hooking | 0.00% | ~0 |
@@ -30,7 +31,6 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 0.00% | ~0 |
 | I'm Hooked! | 0.00% | ~0 |
 | Diamond in the Rough | 0.00% | ~0 |
-| No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Big Fish Small Pond | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |

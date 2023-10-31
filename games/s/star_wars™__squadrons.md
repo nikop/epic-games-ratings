@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~14,702 |
-| A Better Idea | 25.00% | ~3,869 |
-| Safety in the Storm | 24.00% | ~3,714 |
-| Begin the Ceremony | 21.00% | ~3,250 |
-| Mission Accomplished | 19.00% | ~2,940 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,321 |
-| A Starfighter of Your Own | 14.00% | ~2,167 |
-| Asset Secured | 13.00% | ~2,012 |
-| Unkillable | 8.00% | ~1,238 |
-| Together, Vanguard | 7.00% | ~1,083 |
+| Fracture at Fostar Haven | 95.00% | ~14,714 |
+| A Better Idea | 25.00% | ~3,872 |
+| Safety in the Storm | 24.00% | ~3,717 |
+| Begin the Ceremony | 21.00% | ~3,252 |
+| Mission Accomplished | 19.00% | ~2,943 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,323 |
+| A Starfighter of Your Own | 14.00% | ~2,168 |
+| Asset Secured | 13.00% | ~2,013 |
+| Unkillable | 8.00% | ~1,239 |
+| Together, Vanguard | 7.00% | ~1,084 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~929 |
 | Sound Strategy | 6.00% | ~929 |
 | Stomped | 6.00% | ~929 |
 | Fearless | 5.00% | ~774 |
 | Flames Over Mon Cala | 5.00% | ~774 |
 | A Promising Career | 5.00% | ~774 |
-| Great Shot, Kid | 4.00% | ~619 |
-| Back From the Brink | 4.00% | ~619 |
-| Temporary Guardian | 4.00% | ~619 |
-| Baited | 4.00% | ~619 |
-| Stronger Together | 3.00% | ~464 |
-| Squadron Hunter | 3.00% | ~464 |
-| Punch It | 3.00% | ~464 |
-| Combat Pilot | 3.00% | ~464 |
+| Great Shot, Kid | 4.00% | ~620 |
+| Back From the Brink | 4.00% | ~620 |
+| Temporary Guardian | 4.00% | ~620 |
+| Baited | 4.00% | ~620 |
+| Stronger Together | 3.00% | ~465 |
+| Squadron Hunter | 3.00% | ~465 |
+| Punch It | 3.00% | ~465 |
+| Combat Pilot | 3.00% | ~465 |
 | Stun 'Em | 2.00% | ~310 |
 | Dressed for the Job You Want | 2.00% | ~310 |
 | I Have You Now | 1.00% | ~155 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~15 |
 | The Galaxy's Finest (Ace) | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,476 (Ranked 142)  
+Progressed: 15,488 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.01%) (Ranked 313)
 | 2023-10-28 | 14,703 | 1 |
 | 2023-10-29 | 15,107 | 1 |
 | 2023-10-30 | 15,403 | 1 |
-| 2023-10-31 | 15,476 | 1 |
+| 2023-10-31 | 15,488 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 64,
@@ -497,9 +497,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229631,
+  "EOS_Progressed": 229641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1398,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11942,6 +11942,11 @@
       "Time": "2023-10-31T10:09:20.391588+00:00",
       "NumProgressed": 229631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-10-31T11:08:52.657389+00:00",
+      "NumProgressed": 229641,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12010,7 +12015,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48223
+      "UsersEstimate": 48225
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -12018,7 +12023,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20667
+      "UsersEstimate": 20668
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -12034,7 +12039,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9185
+      "UsersEstimate": 9186
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -12138,7 +12143,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29852
+      "UsersEstimate": 29853
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -12146,7 +12151,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16074
+      "UsersEstimate": 16075
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -12210,7 +12215,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57408
+      "UsersEstimate": 57410
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -12225,7 +12230,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229631,
+      "Progressed": 229641,
       "Completed": 0
     }
   ],
@@ -12233,8 +12238,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-31T08:03:23.7443779+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:09:20.3915873+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:08:52.6573883+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:01:33.2262636+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:09:20.3916604+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:02:30.7335505+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:08:52.6574785+00:00"
 }

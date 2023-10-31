@@ -1,48 +1,48 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 519)  
+Rating: 4.54 (Ranked 520)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 5.00% | ~35,452 |
-| Hotel California | 5.00% | ~35,452 |
-| Welcome To Hell-A | 5.00% | ~35,452 |
-| Dr. Reed, I Presume? | 4.00% | ~28,362 |
-| Git Gutte! | 4.00% | ~28,362 |
-| Coup de Grâce | 4.00% | ~28,362 |
-| Hazardous Materials | 4.00% | ~28,362 |
-| Friends Like These | 4.00% | ~28,362 |
-| Apex Predator | 4.00% | ~28,362 |
-| Stacking the Deck | 4.00% | ~28,362 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,362 |
-| Bookworm | 3.00% | ~21,271 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,271 |
-| But Doctor, I am Butcho | 3.00% | ~21,271 |
-| Slayer Squad | 3.00% | ~21,271 |
-| Can't Handle the Truth | 3.00% | ~21,271 |
-| Like Riding a Bike | 3.00% | ~21,271 |
-| Zombologist | 3.00% | ~21,271 |
-| Ooh, Shiny! | 3.00% | ~21,271 |
-| A Patton Emerges | 3.00% | ~21,271 |
-| I Am the Resurrection | 3.00% | ~21,271 |
-| Our True Nature | 3.00% | ~21,271 |
-| This is My Weapon | 3.00% | ~21,271 |
+| Break A Leg | 5.00% | ~35,453 |
+| Hotel California | 5.00% | ~35,453 |
+| Welcome To Hell-A | 5.00% | ~35,453 |
+| Dr. Reed, I Presume? | 4.00% | ~28,363 |
+| Git Gutte! | 4.00% | ~28,363 |
+| Coup de Grâce | 4.00% | ~28,363 |
+| Hazardous Materials | 4.00% | ~28,363 |
+| Friends Like These | 4.00% | ~28,363 |
+| Apex Predator | 4.00% | ~28,363 |
+| Stacking the Deck | 4.00% | ~28,363 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,363 |
+| Bookworm | 3.00% | ~21,272 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,272 |
+| But Doctor, I am Butcho | 3.00% | ~21,272 |
+| Slayer Squad | 3.00% | ~21,272 |
+| Can't Handle the Truth | 3.00% | ~21,272 |
+| Like Riding a Bike | 3.00% | ~21,272 |
+| Zombologist | 3.00% | ~21,272 |
+| Ooh, Shiny! | 3.00% | ~21,272 |
+| A Patton Emerges | 3.00% | ~21,272 |
+| I Am the Resurrection | 3.00% | ~21,272 |
+| Our True Nature | 3.00% | ~21,272 |
+| This is My Weapon | 3.00% | ~21,272 |
 | Making Your Mark | 2.00% | ~14,181 |
 | Anger Management | 2.00% | ~14,181 |
 | Perks of the Job | 2.00% | ~14,181 |
 | Humanity Distilled | 2.00% | ~14,181 |
 | Down with the Sickness | 2.00% | ~14,181 |
 | Max Headroom | 2.00% | ~14,181 |
-| Smorgasbord | 1.00% | ~7,090 |
-| Not Even My Final Form | 1.00% | ~7,090 |
-| Internet Famous | 1.00% | ~7,090 |
-| Jumbo Keyring | 1.00% | ~7,090 |
-| Go, Bobcats! | 1.00% | ~7,090 |
-| Rising Star | 1.00% | ~7,090 |
-| On Safari | 0.90% | ~6,381 |
-| Variety is the Spice of Death | 0.90% | ~6,381 |
-| Make it So | 0.80% | ~5,672 |
+| Smorgasbord | 1.00% | ~7,091 |
+| Not Even My Final Form | 1.00% | ~7,091 |
+| Internet Famous | 1.00% | ~7,091 |
+| Jumbo Keyring | 1.00% | ~7,091 |
+| Go, Bobcats! | 1.00% | ~7,091 |
+| Rising Star | 1.00% | ~7,091 |
+| On Safari | 0.90% | ~6,382 |
+| Variety is the Spice of Death | 0.90% | ~6,382 |
+| Make it So | 0.80% | ~5,673 |
 | LA Influential | 0.70% | ~4,963 |
 | Gore Horse | 0.60% | ~4,254 |
 | Sharpest Tool in the Box | 0.60% | ~4,254 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 519)
 | Donk! | 0.20% | ~1,418 |
 | Bucket List | 0.10% | ~709 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,045 (Ranked 22)  
+Progressed: 709,066 (Ranked 22)  
 Completed: 2,290 (0.32%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,16 +245,16 @@ Completed: 2,290 (0.32%) (Ranked 212)
 | 2023-10-28 | 706,850 | 2,276 |
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
-| 2023-10-31 | 709,045 | 2,290 |
+| 2023-10-31 | 709,066 | 2,290 |
 ## Awards
 Max (Great Boss Battles): 6,756  (Ranked 54)  
-Sum: 10,182 (Ranked 90)  
+Sum: 10,187 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,756 |
 | This game is Great for Beginners | 492 |
-| This game has Diverse Characters | 479 |
+| This game has Diverse Characters | 484 |
 | This game has Quickly Understood Controls | 452 |
 | This game is Relaxing | 433 |
 | This game has Amazing Storytelling | 412 |
@@ -457,3 +457,4 @@ Diff (max vs sum): -36
 | 2023-10-28 | 4.54 | 6,701 | 10,088 |
 | 2023-10-29 | 4.54 | 6,730 | 10,135 |
 | 2023-10-30 | 4.54 | 6,756 | 10,182 |
+| 2023-10-31 | 4.54 | 6,756 | 10,187 |

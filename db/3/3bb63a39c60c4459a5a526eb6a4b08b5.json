@@ -3578,9 +3578,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 358
     },
     {
       "ID": "NoTimeForModernization",
@@ -3642,9 +3642,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 116
     },
     {
       "ID": "ResourceEconomy",
@@ -3721,8 +3721,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-10-31T10:09:12.351102+00:00",
+  "LastChanged_Achievements": "2023-10-31T11:08:46.1206918+00:00",
   "LastUpdate_AppInfo": "2023-10-24T14:56:55.6225803+00:00",
-  "LastUpdate_Ratings": "2023-10-31T10:01:14.7000534+00:00",
-  "LastUpdate_Achievements": "2023-10-31T10:09:12.3511436+00:00"
+  "LastUpdate_Ratings": "2023-10-31T11:00:26.3755465+00:00",
+  "LastUpdate_Achievements": "2023-10-31T11:08:46.1207515+00:00"
 }
