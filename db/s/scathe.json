@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1666,6 +1666,11 @@
       "Time": "2023-11-01T14:03:39.3913231+00:00",
       "NumProgressed": 374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T16:03:15.3878688+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1693,7 +1698,7 @@
       "Name": "Bad Blood",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
@@ -1837,7 +1842,7 @@
       "Name": "Serious Bam",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
@@ -1916,7 +1921,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 0
     }
   ],
@@ -1924,8 +1929,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:03:09.0203067+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:03:15.3878684+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.395592+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:57:33.9058667+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:03:09.0203419+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:57:34.6122304+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:03:15.3878971+00:00"
 }

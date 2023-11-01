@@ -2,13 +2,13 @@
   "ID": "149849cfbf324cc2a3d42fc4e5c19f91",
   "Name": "DOOM (1993)",
   "ProductSlug": "doom-1993",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-18T15:00:00+00:00",
     "PcReleaseDate": "1993-12-10T12:00:00+00:00",
@@ -271,6 +271,6 @@
   "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
   "LastChanged": "2023-09-06T11:59:46.9232091+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.3430733+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:59:19.1373686+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:05:28.0586877+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:59:15.2197236+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:05:12.3175328+00:00"
 }

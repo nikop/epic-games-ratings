@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2297,9 +2297,9 @@
       "Count": 214
     }
   ],
-  "EOS_Progressed": 17607,
+  "EOS_Progressed": 17620,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1635,
+  "EOS_NewPlayers": 1641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7582,6 +7582,11 @@
       "Time": "2023-11-01T15:05:17.4881745+00:00",
       "NumProgressed": 17607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T16:05:03.3244568+00:00",
+      "NumProgressed": 17620,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7594,7 +7599,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_Trophy02",
@@ -7602,7 +7607,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Achievement_Trophy03",
@@ -7610,7 +7615,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Achievement_Trophy04",
@@ -7618,7 +7623,7 @@
       "Name": "Merchant of doom",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Achievement_Trophy05",
@@ -7632,9 +7637,9 @@
       "ID": "Achievement_Trophy06",
       "SetID": "724h0m0",
       "Name": "Who\u0027s the Boss?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1762
     },
     {
       "ID": "Achievement_Trophy07",
@@ -7658,7 +7663,7 @@
       "Name": "Caught off guard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "Achievement_Trophy10",
@@ -7674,7 +7679,7 @@
       "Name": "Captain hooked",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Achievement_Trophy12",
@@ -7698,7 +7703,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Achievement_Trophy15",
@@ -7762,7 +7767,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2995
     },
     {
       "ID": "Achievement_Trophy23",
@@ -7770,7 +7775,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2465
+      "UsersEstimate": 2467
     },
     {
       "ID": "Achievement_Trophy24",
@@ -7778,7 +7783,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7577
     },
     {
       "ID": "Achievement_Trophy25",
@@ -7786,7 +7791,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2291
     },
     {
       "ID": "Achievement_Trophy26",
@@ -7794,7 +7799,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5986
+      "UsersEstimate": 5991
     },
     {
       "ID": "Achievement_Trophy27",
@@ -7810,7 +7815,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5815
     },
     {
       "ID": "Achievement_Trophy29",
@@ -7826,7 +7831,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5282
+      "UsersEstimate": 5286
     },
     {
       "ID": "Achievement_Trophy31",
@@ -7834,7 +7839,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5810
+      "UsersEstimate": 5815
     },
     {
       "ID": "Achievement_Trophy32",
@@ -7850,7 +7855,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Achievement_Trophy34",
@@ -7858,7 +7863,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "Achievement_Trophy35",
@@ -7866,7 +7871,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_Trophy36",
@@ -7874,7 +7879,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_Trophy37",
@@ -7882,7 +7887,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4402
+      "UsersEstimate": 4405
     },
     {
       "ID": "Achievement_Trophy38",
@@ -7890,7 +7895,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2995
     },
     {
       "ID": "Achievement_Trophy39",
@@ -7898,7 +7903,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3348
     },
     {
       "ID": "Achievement_Trophy40",
@@ -7906,7 +7911,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Achievement_Trophy41",
@@ -7914,7 +7919,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2291
     },
     {
       "ID": "Achievement_Trophy42",
@@ -7922,7 +7927,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Achievement_Trophy43",
@@ -7930,7 +7935,7 @@
       "Name": "Light of my life",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2643
     },
     {
       "ID": "Achievement_Trophy44",
@@ -7938,7 +7943,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "Achievement_Trophy45",
@@ -7946,7 +7951,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "Achievement_Trophy46",
@@ -7954,7 +7959,7 @@
       "Name": "Grin and bear it",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Achievement_Trophy47",
@@ -7962,7 +7967,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "Achievement_Trophy48",
@@ -7970,7 +7975,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "Achievement_Trophy49",
@@ -7978,7 +7983,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2643
     },
     {
       "ID": "Achievement_Trophy50",
@@ -8081,7 +8086,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 17607,
+      "Progressed": 17620,
       "Completed": 1
     }
   ],
@@ -8089,8 +8094,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-10-31T17:57:18.2244826+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:05:17.488174+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:05:03.3244564+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:57:28.7164902+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:05:17.48827+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:57:29.3969481+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:05:03.3245278+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 347,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.36,
+  "EOS_Completed_Percentage": 6.34,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1615,6 +1615,11 @@
       "Time": "2023-11-01T14:07:40.381628+00:00",
       "NumProgressed": 346,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-01T16:06:47.4028289+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1680,9 +1685,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1712,9 +1717,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1738,7 +1743,7 @@
       "Name": "True G3M4R",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1778,7 +1783,7 @@
       "Name": "Scholar",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PROGRESS_N1",
@@ -1810,7 +1815,7 @@
       "Name": "The darkness",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "PROGRESS_N5",
@@ -1825,14 +1830,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 347,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:06:43.9606334+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:06:47.4028284+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:59:55.0422486+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:06:43.9606605+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:59:51.2277083+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:06:47.4028545+00:00"
 }

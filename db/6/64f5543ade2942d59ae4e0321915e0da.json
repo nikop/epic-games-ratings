@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -232,9 +232,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_BOSS_03",
@@ -416,9 +416,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -456,9 +456,9 @@
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:04:47.3857672+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:04:37.6704895+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:58:41.3844123+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:04:47.3857977+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:58:39.5663441+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:04:37.6705192+00:00"
 }

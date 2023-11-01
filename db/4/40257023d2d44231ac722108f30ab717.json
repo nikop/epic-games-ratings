@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 660,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -90,9 +90,9 @@
       "ID": "HOOPDREAMS",
       "SetID": "51l0gl8",
       "Name": "Hoop Dreams",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KINGOFTHELINE",
@@ -176,8 +176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:05:40.4462855+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:05:23.3081191+00:00",
   "LastUpdate_AppInfo": "2023-11-01T11:57:06.2403765+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:59:37.6584801+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:05:40.4462973+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:59:32.4280007+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:05:23.3081313+00:00"
 }

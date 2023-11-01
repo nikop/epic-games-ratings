@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,10 +317,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18221,
+  "EOS_Progressed": 18222,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 170,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 171,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
@@ -15147,6 +15147,11 @@
       "Time": "2023-11-01T15:06:06.5495187+00:00",
       "NumProgressed": 18221,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-01T16:05:46.0618193+00:00",
+      "NumProgressed": 18222,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15214,7 +15219,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "I_Am_The_Storm",
@@ -15254,7 +15259,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 9110
+      "UsersEstimate": 9111
     },
     {
       "ID": "Sole_Survivor",
@@ -15278,22 +15283,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18221,
+      "Progressed": 18222,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:06:06.5495181+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:05:46.0618185+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:00:16.0148906+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:06:06.549739+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:00:08.7234105+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:05:46.0619109+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 964,
+  "EOS_Progressed": 966,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -1195,6 +1195,11 @@
       "Time": "2023-11-01T14:05:35.4818634+00:00",
       "NumProgressed": 964,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T16:04:43.0891862+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1263,7 +1268,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1287,7 +1292,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1311,7 +1316,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -1319,7 +1324,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1351,7 +1356,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1381,9 +1386,9 @@
       "ID": "ACHIEVEMENT_REUNITED",
       "SetID": "9991201",
       "Name": "Long Live Rock",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -1407,7 +1412,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -1446,14 +1451,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 964,
+      "Progressed": 966,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:04:53.3473394+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:04:43.0891858+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:57:47.3755213+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:04:53.3473889+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:57:46.7016381+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:04:43.0892058+00:00"
 }

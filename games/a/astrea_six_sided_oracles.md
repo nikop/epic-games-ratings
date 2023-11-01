@@ -68,6 +68,7 @@
 | Gotta tinker'em all! | 2.00% | ~1 |
 | Plague Doctor | 2.00% | ~1 |
 | Pocket Astrarium | 2.00% | ~1 |
+| Royal Choir | 2.00% | ~1 |
 | This is Fine | 2.00% | ~1 |
 | Virtuous Warrior | 2.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
@@ -96,7 +97,6 @@
 | Noctuan Champion | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
-| Royal Choir | 0.00% | ~0 |
 | Six-Sided Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |

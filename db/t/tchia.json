@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7654,
+  "EOS_Progressed": 7655,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7718,6 +7718,11 @@
       "Time": "2023-11-01T08:08:15.5750598+00:00",
       "NumProgressed": 7654,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-01T16:07:17.3182552+00:00",
+      "NumProgressed": 7655,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7729,7 +7734,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ARRR",
@@ -7833,7 +7838,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "LIBERATOR",
@@ -7896,7 +7901,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7654,
+      "Progressed": 7655,
       "Completed": 34
     }
   ],
@@ -7904,8 +7909,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-10-18T17:01:05.8798738+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:07:20.1097337+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:07:17.3182546+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:58.9393149+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:02:31.3527772+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:07:20.1098086+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:02:37.5498076+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:07:17.3182995+00:00"
 }

@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Choking Hazard | 44.00% | ~88 |
-| Animal Lover | 34.00% | ~68 |
+| Animal Lover | 35.00% | ~70 |
 | Don't Breathe | 32.00% | ~64 |
 | Smooth Operator | 17.00% | ~34 |
 | Easy Listening | 16.00% | ~32 |
 | Rapturous Applause! | 15.00% | ~30 |
 | Perfect Harmony! | 13.00% | ~26 |
 | Wales Interactive | 10.00% | ~20 |
-| Chief Butler | 8.00% | ~16 |
+| Chief Butler | 9.00% | ~18 |
 | Bull in a China Shop | 7.00% | ~14 |
 | Sker Explorer | 6.00% | ~12 |
 | Ending on a High Note | 2.00% | ~4 |

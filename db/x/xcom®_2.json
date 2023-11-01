@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 440,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
     "PcReleaseDate": "2016-02-04T08:00:00+00:00",
@@ -8251,11 +8251,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 10905,
       "NumberOfAwardsMax": 1337
+    },
+    {
+      "Time": "2023-11-01T15:58:50.7468034+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 10913,
+      "NumberOfAwardsMax": 1340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10905,
-  "NumberOfAwardsMax": 1337,
+  "NumberOfAwards": 10913,
+  "NumberOfAwardsMax": 1340,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -8268,7 +8274,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1325
+      "Count": 1327
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8286,7 +8292,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1337
+      "Count": 1340
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8304,7 +8310,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1194
+      "Count": 1197
     },
     {
       "Text": "This game has a Creative Community",
@@ -8330,8 +8336,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-11-01T11:59:14.5856559+00:00",
+  "LastChanged": "2023-11-01T15:58:50.7468032+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:31.2595835+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:58:56.6336247+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:05:44.4870719+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:58:50.7468039+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:05:26.6751213+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 580,
-  "Ranking_Popularity": 273,
-  "Ranking_PopularitySum": 381,
+  "Ranking_Popularity": 271,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -611,18 +611,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2023-11-01T16:00:20.0866798+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
-  "NumberOfAwardsMax": 221,
+  "NumberOfAwards": 244,
+  "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -631,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470050,
+  "EOS_Progressed": 470052,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21021,6 +21027,11 @@
       "Time": "2023-11-01T15:09:32.5613206+00:00",
       "NumProgressed": 470050,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-01T16:09:17.56302+00:00",
+      "NumProgressed": 470052,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21096,7 +21107,7 @@
       "Name": "A Rock in the Dark",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -21104,7 +21115,7 @@
       "Name": "Emperor of Misery",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -21112,7 +21123,7 @@
       "Name": "A Frozen Lady",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -21120,7 +21131,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310233
+      "UsersEstimate": 310234
     },
     {
       "ID": "achievement_story_landa",
@@ -21128,7 +21139,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23502
+      "UsersEstimate": 23503
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -21136,7 +21147,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23502
+      "UsersEstimate": 23503
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -21152,7 +21163,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117512
+      "UsersEstimate": 117513
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -21216,7 +21227,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159817
+      "UsersEstimate": 159818
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21232,7 +21243,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23502
+      "UsersEstimate": 23503
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -21456,7 +21467,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206822
+      "UsersEstimate": 206823
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21464,7 +21475,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141015
+      "UsersEstimate": 141016
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21512,7 +21523,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23502
+      "UsersEstimate": 23503
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -21528,7 +21539,7 @@
       "Name": "Void Rule",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "achievement_win_run_with_scrapper",
@@ -21663,21 +21674,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13984,
+      "Progressed": 13986,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470050,
+      "Progressed": 470052,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:09:32.5613198+00:00",
+  "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:09:17.5630195+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:00:26.6703616+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:09:32.5615884+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:00:20.0866801+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:09:17.5631493+00:00"
 }

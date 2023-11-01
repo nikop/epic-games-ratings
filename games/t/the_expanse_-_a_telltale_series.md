@@ -16,9 +16,9 @@ Rating: 4.60 (Ranked 407)
 | Celebrations are in Order | 1.00% | ~145 |
 | Impossible Objects | 1.00% | ~145 |
 | Spore Taste | 0.90% | ~131 |
+| Heal Thy Medic | 0.90% | ~131 |
 | Data Archivist | 0.80% | ~116 |
 | Stogie for Fogey | 0.80% | ~116 |
-| Heal Thy Medic | 0.80% | ~116 |
 | Khan's Revenge | 0.80% | ~116 |
 | Thorston Mayer | 0.60% | ~87 |
 | Bottoms up! | 0.50% | ~73 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 407)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,542 (Ranked 145)  
+Progressed: 14,543 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
-| 2023-11-01 | 14,542 | 28 |
+| 2023-11-01 | 14,543 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

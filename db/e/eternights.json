@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 363,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -1351,9 +1351,9 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -1486,8 +1486,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:05:19.0215077+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:05:04.5943875+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:00:45.3571348+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:05:19.0215333+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:00:42.1234271+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:05:04.5944102+00:00"
 }

@@ -254,9 +254,9 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-31 | 9,445 | 1 |
 | 2023-11-01 | 9,455 | 1 |
 ## Awards
-Max (Relaxing): 64  (Ranked 404)  
+Max (Relaxing): 64  (Ranked 405)  
 Sum: 463 (Ranked 326)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |

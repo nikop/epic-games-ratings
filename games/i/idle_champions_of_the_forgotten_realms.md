@@ -43,6 +43,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~399 |
 | Vecna Out! | 0.20% | ~399 |
 | A Persistent Buzzing | 0.20% | ~467 |
+| No One Can Hear You Scream | 0.20% | ~399 |
 | Welcome to the Rock | 0.20% | ~399 |
 | Beast Mode | 0.20% | ~467 |
 | Terror in the Dark | 0.20% | ~467 |
@@ -79,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~399 |
 | Bel's Forge | 0.20% | ~399 |
 | Escort to Waterdeep | 0.20% | ~467 |
+| Waterdeep Detours | 0.20% | ~467 |
 | Friendly Imps | 0.20% | ~467 |
 | Moose Tracks | 0.20% | ~399 |
 | Civilization | 0.20% | ~399 |
@@ -207,7 +209,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~200 |
 | The Palace of Heart's Desire | 0.10% | ~200 |
 | The Egg of Nat's Desire | 0.10% | ~200 |
-| No One Can Hear You Scream | 0.10% | ~200 |
 | Anchors Aweigh | 0.10% | ~200 |
 | Welcome to the Band | 0.10% | ~200 |
 | The Forbidden City | 0.10% | ~233 |
@@ -431,7 +432,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~233 |
 | Constant Banditry | 0.10% | ~233 |
 | The Long Haul | 0.10% | ~233 |
-| Waterdeep Detours | 0.10% | ~233 |
 | Lost in the Deep | 0.10% | ~233 |
 | Easily Distracted | 0.10% | ~233 |
 | Rude Welcome | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,375 (Ranked 62)  
+Progressed: 233,380 (Ranked 62)  
 Completed: 2,415 (1.03%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 155)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,375 | 2,415 |
+| 2023-11-01 | 233,380 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

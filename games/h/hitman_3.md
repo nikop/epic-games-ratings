@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~621,575 |
-| Death From Above | 45.00% | ~608,062 |
-| Master of the Household | 38.00% | ~513,475 |
-| Death of the Party | 36.00% | ~486,450 |
-| NEXUS-47 | 33.00% | ~445,912 |
-| The Last Tango | 31.00% | ~418,887 |
-| Nightmare Fuel | 30.00% | ~405,375 |
-| The Result of Previous Training | 28.00% | ~378,350 |
-| Tools of the Trade | 28.00% | ~378,350 |
-| Cleared for Field Duty | 27.00% | ~364,837 |
-| Seizing the Opportunity | 26.00% | ~351,325 |
-| Bullet Train | 21.00% | ~283,762 |
-| Stylish Assassin | 20.00% | ~270,250 |
-| Silent Assassin | 14.00% | ~189,175 |
-| Rise Up | 12.00% | ~162,150 |
-| Evil Wine Club | 11.00% | ~148,637 |
-| Console Cowboy | 10.00% | ~135,125 |
-| Last Stop | 10.00% | ~135,125 |
-| A New Profile | 9.00% | ~121,612 |
-| Full House | 9.00% | ~121,612 |
-| Dune Raider | 8.00% | ~108,100 |
-| No Stone Unturned | 8.00% | ~108,100 |
-| Train Surfing | 8.00% | ~108,100 |
-| Icebreaker | 7.00% | ~94,587 |
-| Family Feud | 6.00% | ~81,075 |
-| Rich Harvest | 6.00% | ~81,075 |
-| Count Down From 47 | 6.00% | ~81,075 |
-| Shortcut Killer | 5.00% | ~67,562 |
-| Stair Master | 5.00% | ~67,562 |
-| Followed the Trails | 5.00% | ~67,562 |
-| Last Call | 5.00% | ~67,562 |
-| Treacherous Architecture | 4.00% | ~54,050 |
-| Upstairs, Downstairs | 4.00% | ~54,050 |
-| The Great Outdoors | 4.00% | ~54,050 |
-| Partied Out | 4.00% | ~54,050 |
-| Surveillance Master | 4.00% | ~54,050 |
-| Training Escalated | 3.00% | ~40,537 |
-| Keep Your Eyes Peeled | 3.00% | ~40,537 |
-| Warehouse Veteran | 3.00% | ~40,537 |
-| Future Shock | 3.00% | ~40,537 |
-| Hack the Planet | 3.00% | ~40,537 |
-| Master the Terroir | 3.00% | ~40,537 |
-| Vineyard Virtuoso | 3.00% | ~40,537 |
+| Unseen Assassin | 46.00% | ~621,584 |
+| Death From Above | 45.00% | ~608,071 |
+| Master of the Household | 38.00% | ~513,482 |
+| Death of the Party | 36.00% | ~486,457 |
+| NEXUS-47 | 33.00% | ~445,919 |
+| The Last Tango | 31.00% | ~418,893 |
+| Nightmare Fuel | 30.00% | ~405,381 |
+| The Result of Previous Training | 28.00% | ~378,355 |
+| Tools of the Trade | 28.00% | ~378,355 |
+| Cleared for Field Duty | 27.00% | ~364,843 |
+| Seizing the Opportunity | 26.00% | ~351,330 |
+| Bullet Train | 21.00% | ~283,766 |
+| Stylish Assassin | 20.00% | ~270,254 |
+| Silent Assassin | 14.00% | ~189,178 |
+| Rise Up | 12.00% | ~162,152 |
+| Evil Wine Club | 11.00% | ~148,640 |
+| Console Cowboy | 10.00% | ~135,127 |
+| Last Stop | 10.00% | ~135,127 |
+| A New Profile | 9.00% | ~121,614 |
+| Full House | 9.00% | ~121,614 |
+| Dune Raider | 8.00% | ~108,102 |
+| No Stone Unturned | 8.00% | ~108,102 |
+| Train Surfing | 8.00% | ~108,102 |
+| Icebreaker | 7.00% | ~94,589 |
+| Family Feud | 6.00% | ~81,076 |
+| Rich Harvest | 6.00% | ~81,076 |
+| Count Down From 47 | 6.00% | ~81,076 |
+| Shortcut Killer | 5.00% | ~67,563 |
+| Stair Master | 5.00% | ~67,563 |
+| Followed the Trails | 5.00% | ~67,563 |
+| Last Call | 5.00% | ~67,563 |
+| Treacherous Architecture | 4.00% | ~54,051 |
+| Upstairs, Downstairs | 4.00% | ~54,051 |
+| The Great Outdoors | 4.00% | ~54,051 |
+| Partied Out | 4.00% | ~54,051 |
+| Surveillance Master | 4.00% | ~54,051 |
+| Training Escalated | 3.00% | ~40,538 |
+| Keep Your Eyes Peeled | 3.00% | ~40,538 |
+| Warehouse Veteran | 3.00% | ~40,538 |
+| Future Shock | 3.00% | ~40,538 |
+| Hack the Planet | 3.00% | ~40,538 |
+| Master the Terroir | 3.00% | ~40,538 |
+| Vineyard Virtuoso | 3.00% | ~40,538 |
 | Bird Art | 2.00% | ~27,025 |
-| Top of the Class | 1.00% | ~13,512 |
-| Ripe for the Picking | 1.00% | ~13,512 |
+| Top of the Class | 1.00% | ~13,513 |
+| Ripe for the Picking | 1.00% | ~13,513 |
 | The Creative Assassin | 0.70% | ~9,459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351,249 (Ranked 9)  
+Progressed: 1,351,269 (Ranked 9)  
 Completed: 2,172 (0.16%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,14 +249,14 @@ Completed: 2,172 (0.16%) (Ranked 250)
 | 2023-10-29 | 1,350,437 | 2,167 |
 | 2023-10-30 | 1,350,770 | 2,168 |
 | 2023-10-31 | 1,351,062 | 2,169 |
-| 2023-11-01 | 1,351,249 | 2,172 |
+| 2023-11-01 | 1,351,269 | 2,172 |
 ## Awards
-Max (Diverse Characters): 10,487  (Ranked 38)  
-Sum: 72,975 (Ranked 21)  
+Max (Diverse Characters): 10,497  (Ranked 38)  
+Sum: 72,985 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 10,487 |
+| This game has Diverse Characters | 10,497 |
 | This game is Highly Recommended | 9,597 |
 | This game is Extremely Fun | 9,288 |
 | This game has Amazing Storytelling | 9,154 |
@@ -576,4 +576,4 @@ Diff (max vs sum): 17
 | 2023-10-29 | 4.78 | - | 10,457 | 72,835 |
 | 2023-10-30 | 4.78 | - | 10,477 | 72,900 |
 | 2023-10-31 | 4.78 | - | 10,487 | 72,954 |
-| 2023-11-01 | 4.78 | - | 10,487 | 72,975 |
+| 2023-11-01 | 4.78 | - | 10,497 | 72,985 |

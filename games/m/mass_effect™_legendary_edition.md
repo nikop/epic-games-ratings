@@ -35,8 +35,8 @@
 | Scholar | 43.00% | ~384 |
 | Veteran | 42.00% | ~375 |
 | Sentinel Ally | 42.00% | ~375 |
+| Power Full | 41.00% | ~367 |
 | The Professor | 40.00% | ~358 |
-| Power Full | 40.00% | ~358 |
 | The Archangel | 39.00% | ~349 |
 | The Convict | 38.00% | ~340 |
 | Colony Defense | 37.00% | ~331 |
@@ -51,12 +51,12 @@
 | The Justicar | 34.00% | ~304 |
 | Ghost of the Father | 34.00% | ~304 |
 | The Prodigal | 34.00% | ~304 |
+| Shopaholic | 34.00% | ~304 |
 | Battlemaster | 33.00% | ~295 |
 | Catharsis | 33.00% | ~295 |
 | The Cure | 33.00% | ~295 |
 | Big Game Hunter | 33.00% | ~295 |
 | Heart of Darkness | 33.00% | ~295 |
-| Shopaholic | 33.00% | ~295 |
 | Archivist | 32.00% | ~286 |
 | Fade Away | 32.00% | ~286 |
 | Revenge! | 32.00% | ~286 |
@@ -90,12 +90,12 @@
 | Party Crasher | 22.00% | ~197 |
 | Pyromaniac | 21.00% | ~188 |
 | Hard Target | 21.00% | ~188 |
+| Fact Finder | 21.00% | ~188 |
 | Problem Solver | 21.00% | ~188 |
 | Under Pressure | 20.00% | ~179 |
 | No One Left Behind | 20.00% | ~179 |
 | Saboteur | 20.00% | ~179 |
 | Last Witness | 20.00% | ~179 |
-| Fact Finder | 20.00% | ~179 |
 | Last Resort | 19.00% | ~170 |
 | Well Connected | 19.00% | ~170 |
 | Electronics Specialist | 17.00% | ~152 |

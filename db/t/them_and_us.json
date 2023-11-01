@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1281,6 +1281,11 @@
       "Time": "2023-11-01T14:08:35.798263+00:00",
       "NumProgressed": 296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T16:08:07.5163878+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1308,7 +1313,7 @@
       "Name": "Alone with Them",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1388,15 +1393,15 @@
       "Name": "Forced to Kill",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -1442,17 +1447,17 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ETUA_PTD",
@@ -1564,7 +1569,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -1578,9 +1583,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "ETUA_Trapped",
@@ -1604,14 +1609,14 @@
       "Name": "What have I done!?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 1
     }
   ],
@@ -1619,8 +1624,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:08:13.0990707+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:08:07.5163875+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:58:16.5683354+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:08:13.0991069+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:58:15.032603+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:08:07.5164129+00:00"
 }

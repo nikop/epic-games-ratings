@@ -7741,9 +7741,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233375,
+  "EOS_Progressed": 233380,
   "EOS_Completed": 2415,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29541,6 +29541,11 @@
       "Time": "2023-11-01T15:07:16.2255326+00:00",
       "NumProgressed": 233375,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T16:07:13.9340564+00:00",
+      "NumProgressed": 233380,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 528,
@@ -30622,9 +30627,9 @@
       "ID": "objective_completed_1345",
       "SetID": "415jc5c",
       "Name": "No One Can Hear You Scream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1346",
@@ -32726,9 +32731,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_75",
@@ -33775,21 +33780,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199649,
+      "Progressed": 199654,
       "Completed": 3728
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233375,
+      "Progressed": 233380,
       "Completed": 2415
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:07:16.2255318+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:07:13.9340561+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:58:45.9853161+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:07:16.2285674+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:58:43.8624786+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:07:13.936254+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1995,9 +1995,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 8212,
+  "EOS_Progressed": 8213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6475,6 +6475,11 @@
       "Time": "2023-11-01T14:03:55.1860808+00:00",
       "NumProgressed": 8212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T16:03:27.7682347+00:00",
+      "NumProgressed": 8213,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6487,7 +6492,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "ach02",
@@ -6527,7 +6532,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6159
+      "UsersEstimate": 6160
     },
     {
       "ID": "ach07",
@@ -6591,7 +6596,7 @@
       "Name": "Puppet Master",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ach15",
@@ -6615,7 +6620,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4352
+      "UsersEstimate": 4353
     },
     {
       "ID": "ach18",
@@ -6623,7 +6628,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "ach19",
@@ -6663,7 +6668,7 @@
       "Name": "Take And Deny",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "ach24",
@@ -6775,7 +6780,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4763
+      "UsersEstimate": 4764
     },
     {
       "ID": "ach38",
@@ -6783,7 +6788,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "ach39",
@@ -6807,7 +6812,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "ach42",
@@ -6815,7 +6820,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "ach43",
@@ -6823,7 +6828,7 @@
       "Name": "Working Overtime",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3613
+      "UsersEstimate": 3614
     },
     {
       "ID": "ach44",
@@ -6886,7 +6891,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8212,
+      "Progressed": 8213,
       "Completed": 0
     }
   ],
@@ -6894,8 +6899,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-01T01:48:18.0200968+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:03:23.5884056+00:00",
+  "LastChanged_Achievements": "2023-11-01T16:03:27.7682341+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:01:34.3415152+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:03:23.5884707+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:02:22.226973+00:00",
+  "LastUpdate_Achievements": "2023-11-01T16:03:27.7682852+00:00"
 }

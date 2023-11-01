@@ -5,14 +5,14 @@ Rating: 3.98 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 92.00% | ~109 |
-| Battlefields Have Memories | 89.00% | ~106 |
-| Enlisted | 88.00% | ~105 |
-| Maybe Engage a Little | 85.00% | ~101 |
-| No More Names | 69.00% | ~82 |
+| Unforeseen | 91.00% | ~109 |
+| Battlefields Have Memories | 88.00% | ~106 |
+| Enlisted | 88.00% | ~106 |
+| Maybe Engage a Little | 84.00% | ~101 |
+| No More Names | 68.00% | ~82 |
 | Initiate | 61.00% | ~73 |
 | Thrada-Kul | 56.00% | ~67 |
-| Gravity-Challenged Rocks | 43.00% | ~51 |
+| Gravity-Challenged Rocks | 43.00% | ~52 |
 | All the Major Food Groups | 37.00% | ~44 |
 | Soldier | 36.00% | ~43 |
 | Beggars Would Ride | 32.00% | ~38 |
@@ -22,10 +22,10 @@ Rating: 3.98 (Ranked 990)
 | Resilience to Sin | 20.00% | ~24 |
 | A Familiar Nest | 19.00% | ~23 |
 | Periapt Alizarin | 19.00% | ~23 |
-| Armsman | 18.00% | ~21 |
+| Armsman | 18.00% | ~22 |
 | Geas Aristeya | 17.00% | ~20 |
-| A Perfect Cycle | 13.00% | ~15 |
-| Recruit | 13.00% | ~15 |
+| A Perfect Cycle | 13.00% | ~16 |
+| Recruit | 13.00% | ~16 |
 | Good Boy | 11.00% | ~13 |
 | Lights Army | 9.00% | ~11 |
 | Periapt Viridian | 9.00% | ~11 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 990)
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 389)  
-Completed: 1 (0.84%) (Ranked 166)  
+Progressed: 120 (Ranked 389)  
+Completed: 1 (0.83%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 1 (0.84%) (Ranked 166)
 | 2023-10-29 | 108 | 1 |
 | 2023-10-30 | 112 | 1 |
 | 2023-10-31 | 117 | 1 |
-| 2023-11-01 | 119 | 1 |
+| 2023-11-01 | 120 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
