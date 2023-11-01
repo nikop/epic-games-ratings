@@ -6,7 +6,7 @@ Rating: 4.24 (Ranked 870)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,686 |
-| Don't I Know You...? | 77.00% | ~1,622 |
+| Don't I Know You...? | 77.00% | ~1,623 |
 | Jailbreak | 66.00% | ~1,391 |
 | Suited and Booted | 39.00% | ~822 |
 | HEADSHOT! | 38.00% | ~801 |
@@ -18,12 +18,12 @@ Rating: 4.24 (Ranked 870)
 | Home Invasion | 23.00% | ~485 |
 | Luminary | 23.00% | ~485 |
 | It's a Trap | 22.00% | ~464 |
-| True Survivor | 21.00% | ~442 |
-| Offensive Defense | 20.00% | ~421 |
-| Shocking | 20.00% | ~421 |
-| Unforeseeable Consequences | 20.00% | ~421 |
-| Court Martial | 19.00% | ~400 |
-| Clean Cut | 19.00% | ~400 |
+| True Survivor | 21.00% | ~443 |
+| Offensive Defense | 20.00% | ~422 |
+| Shocking | 20.00% | ~422 |
+| Unforeseeable Consequences | 20.00% | ~422 |
+| Court Martial | 19.00% | ~401 |
+| Clean Cut | 19.00% | ~401 |
 | Dead Again | 18.00% | ~379 |
 | Full Arsenal | 17.00% | ~358 |
 | Can't Trust Banks | 15.00% | ~316 |
@@ -41,7 +41,7 @@ Rating: 4.24 (Ranked 870)
 | Defense in Depth | 9.00% | ~190 |
 | A Little Banged Up | 8.00% | ~169 |
 | Following In Their Footsteps | 8.00% | ~169 |
-| Reverse Engineering | 7.00% | ~147 |
+| Reverse Engineering | 7.00% | ~148 |
 | Reborn | 6.00% | ~126 |
 | Remote Surgery | 6.00% | ~126 |
 | Turbo Booster | 6.00% | ~126 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 870)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,107 (Ranked 212)  
+Progressed: 2,108 (Ranked 212)  
 Completed: 13 (0.62%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 13 (0.62%) (Ranked 175)
 | 2023-10-26 | 2,095 | 12 |
 | 2023-10-27 | 2,096 | 13 |
 | 2023-10-31 | 2,098 | 13 |
-| 2023-11-01 | 2,107 | 13 |
+| 2023-11-01 | 2,108 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

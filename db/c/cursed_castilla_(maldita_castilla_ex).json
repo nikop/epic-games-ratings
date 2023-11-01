@@ -2,10 +2,10 @@
   "ID": "d0499205da1f4e13a160607e61c02aec",
   "Name": "Cursed Castilla (Maldita Castilla EX)",
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
-  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
     "PcReleaseDate": "2016-10-20T10:00:00+00:00",
@@ -301,8 +301,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2023-11-01T17:08:57.3707659+00:00",
+  "LastChanged_Achievements": "2023-11-01T18:09:35.2288032+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.9409308+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:00:39.801393+00:00",
-  "LastUpdate_Achievements": "2023-11-01T17:08:57.3707732+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:01:19.9493002+00:00",
+  "LastUpdate_Achievements": "2023-11-01T18:09:35.2288136+00:00"
 }

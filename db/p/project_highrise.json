@@ -2,10 +2,10 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -940,6 +940,11 @@
       "Time": "2023-10-31T22:07:28.9127749+00:00",
       "NumProgressed": 347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T18:08:05.0136803+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -999,7 +1004,7 @@
       "Name": "Artfully Done",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_art_large",
@@ -1039,7 +1044,7 @@
       "Name": "Campaign Launch",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_campaigns_1",
@@ -1095,7 +1100,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_consultants_a",
@@ -1255,7 +1260,7 @@
       "Name": "Starting Skyward",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_floors_1",
@@ -1295,7 +1300,7 @@
       "Name": "Delegate Maintenance",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_grime_2",
@@ -1365,9 +1370,9 @@
       "ID": "ach_plaza",
       "SetID": "b8gh1fi",
       "Name": "Plaza Plan",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_pop_1",
@@ -1375,7 +1380,7 @@
       "Name": "People Mover",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_pop_2",
@@ -1399,7 +1404,7 @@
       "Name": "Established Fame",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach_prestige_3",
@@ -1415,7 +1420,7 @@
       "Name": "In the Black",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ach_profit_1",
@@ -1471,7 +1476,7 @@
       "Name": "Dinner Dash",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ach_restaurants_4",
@@ -1654,7 +1659,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 0
     }
   ],
@@ -1662,8 +1667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-11-01T17:06:25.0404473+00:00",
+  "LastChanged_Achievements": "2023-11-01T18:08:05.01368+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.606123+00:00",
-  "LastUpdate_Ratings": "2023-11-01T16:58:23.9063096+00:00",
-  "LastUpdate_Achievements": "2023-11-01T17:06:25.0405177+00:00"
+  "LastUpdate_Ratings": "2023-11-01T17:58:51.9117575+00:00",
+  "LastUpdate_Achievements": "2023-11-01T18:08:05.0137524+00:00"
 }

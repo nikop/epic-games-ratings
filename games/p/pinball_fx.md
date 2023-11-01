@@ -6,28 +6,28 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~226,718 |
-| I know the Rules | 35.00% | ~96,770 |
-| I Found it! | 11.00% | ~30,413 |
-| Contender | 10.00% | ~27,648 |
-| First but not Last | 4.00% | ~11,059 |
+| Ball Launched | 82.00% | ~226,737 |
+| I know the Rules | 35.00% | ~96,778 |
+| I Found it! | 11.00% | ~30,416 |
+| Contender | 10.00% | ~27,651 |
+| First but not Last | 4.00% | ~11,060 |
 | Ready Steady Score | 3.00% | ~8,295 |
 | Dress Code | 3.00% | ~8,295 |
 | Full Loot Madness | 2.00% | ~5,530 |
 | My Table, my Rules | 1.00% | ~2,765 |
 | Nine Zeroes | 1.00% | ~2,765 |
-| Shiny Memento | 0.30% | ~829 |
-| Pinball Hoarder | 0.30% | ~829 |
-| Interior Designer | 0.30% | ~829 |
-| Table Mastered, part 10 | 0.10% | ~276 |
-| Medal Hunter | 0.10% | ~276 |
-| Medal Wizard | 0.10% | ~276 |
-| Virtual Pinball Museum | 0.10% | ~276 |
-| Challenge Accepted! | 0.10% | ~276 |
-| Relic Hunter | 0.10% | ~276 |
-| Show Them | 0.10% | ~276 |
-| Totally Furnished | 0.10% | ~276 |
-| Customizer | 0.10% | ~276 |
+| Shiny Memento | 0.30% | ~830 |
+| Pinball Hoarder | 0.30% | ~830 |
+| Interior Designer | 0.30% | ~830 |
+| Table Mastered, part 10 | 0.10% | ~277 |
+| Medal Hunter | 0.10% | ~277 |
+| Medal Wizard | 0.10% | ~277 |
+| Virtual Pinball Museum | 0.10% | ~277 |
+| Challenge Accepted! | 0.10% | ~277 |
+| Relic Hunter | 0.10% | ~277 |
+| Show Them | 0.10% | ~277 |
+| Totally Furnished | 0.10% | ~277 |
+| Customizer | 0.10% | ~277 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276,485 (Ranked 52)  
+Progressed: 276,509 (Ranked 52)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,14 +232,14 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 275,825 | 0 |
 | 2023-10-30 | 276,076 | 0 |
 | 2023-10-31 | 276,304 | 0 |
-| 2023-11-01 | 276,485 | 0 |
+| 2023-11-01 | 276,509 | 0 |
 ## Awards
-Max (Great for Beginners): 197  (Ranked 284)  
-Sum: 1,586 (Ranked 226)  
+Max (Great for Beginners): 198  (Ranked 284)  
+Sum: 1,587 (Ranked 226)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 197 |
+| This game is Great for Beginners | 198 |
 | This game is Great for Quick Sessions | 188 |
 | This game has Quickly Understood Controls | 164 |
 | This game is Relaxing | 164 |
@@ -433,4 +433,4 @@ Diff (max vs sum): 58
 | 2023-10-27 | 4.06 | - | 197 | 1,580 |
 | 2023-10-28 | 4.06 | - | 197 | 1,582 |
 | 2023-10-30 | 4.06 | - | 197 | 1,584 |
-| 2023-11-01 | 4.06 | - | 197 | 1,586 |
+| 2023-11-01 | 4.06 | - | 198 | 1,587 |

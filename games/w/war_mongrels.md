@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.34 (Ranked 794)  
+Rating: 4.34 (Ranked 795)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,8 +34,8 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 19.00% | ~107 |
 | Collectibles of Chapter III | 16.00% | ~90 |
 | Helping Hand | 16.00% | ~90 |
+| Without a Second Thought | 16.00% | ~90 |
 | Collectibles of Chapter IV | 15.00% | ~84 |
-| Without a Second Thought | 15.00% | ~84 |
 | Collectibles of Chapter V | 11.00% | ~62 |
 | Tiptoe Around | 10.00% | ~56 |
 | Such is War! | 9.00% | ~51 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563 (Ranked 281)  
+Progressed: 563 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |

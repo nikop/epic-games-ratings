@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.20% | ~467 |
 | Unearthed Evil | 0.20% | ~467 |
 | No Time To Rest | 0.20% | ~467 |
+| The Dinner Party | 0.20% | ~467 |
 | The Botched Kidnapping | 0.20% | ~467 |
 | Attack on the Manor | 0.20% | ~467 |
 | The Crumbling Temple | 0.20% | ~467 |
@@ -244,7 +245,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~233 |
 | Poor Fortune | 0.10% | ~233 |
 | Relentless Misfortune | 0.10% | ~233 |
-| The Dinner Party | 0.10% | ~233 |
 | Chatty Nobles | 0.10% | ~233 |
 | Modron Assistance | 0.10% | ~233 |
 | Thine Bounty is Mine! | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,383 (Ranked 62)  
+Progressed: 233,387 (Ranked 62)  
 Completed: 2,415 (1.03%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 155)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,383 | 2,415 |
+| 2023-11-01 | 233,387 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

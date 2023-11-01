@@ -41,8 +41,8 @@
 | Flawless Victory | -2.00% | ~-1 |
 | Big Bazar | -2.00% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 458)  
-Completed: 1 (2.00%) (Ranked 120)  
+Progressed: 51 (Ranked 454)  
+Completed: 1 (1.96%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 1 (2.00%) (Ranked 120)
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
 | 2023-10-31 | 41 | 1 |
-| 2023-11-01 | 50 | 1 |
+| 2023-11-01 | 51 | 1 |

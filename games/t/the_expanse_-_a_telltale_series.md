@@ -28,20 +28,20 @@ Rating: 4.60 (Ranked 407)
 | Data Master | 0.30% | ~44 |
 | Brother's Reaper | 0.20% | ~29 |
 | No Belter Left Behind | 0.20% | ~29 |
+| Debris Spree | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~15 |
 | Data Miner | 0.10% | ~15 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
-| Debris Spree | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 | Data Recoverer | 0.10% | ~15 |
-| Keep Arjun in Check | 0.10% | ~0 |
-| Safe Cracker | 0.10% | ~0 |
-| Zen Master | 0.10% | ~0 |
-| Master Negotiator | 0.10% | ~0 |
-| Madame Undersecretary | 0.10% | ~0 |
+| Keep Arjun in Check | 0.10% | ~1 |
+| Safe Cracker | 0.10% | ~1 |
+| Zen Master | 0.10% | ~1 |
+| Master Negotiator | 0.10% | ~1 |
+| Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,544 (Ranked 145)  
+Progressed: 14,548 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
-| 2023-11-01 | 14,544 | 28 |
+| 2023-11-01 | 14,548 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

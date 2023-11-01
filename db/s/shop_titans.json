@@ -6761,10 +6761,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27479,
       "NumberOfAwardsMax": 4812
+    },
+    {
+      "Time": "2023-11-01T18:00:07.1217773+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27480,
+      "NumberOfAwardsMax": 4812
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27479,
+  "NumberOfAwards": 27480,
   "NumberOfAwardsMax": 4812,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6778,7 +6784,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3930
+      "Count": 3931
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6817,9 +6823,9 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138438,
+  "EOS_Progressed": 138440,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26747,6 +26753,11 @@
       "Time": "2023-11-01T17:05:47.9064869+00:00",
       "NumProgressed": 138438,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-01T18:06:34.0345024+00:00",
+      "NumProgressed": 138440,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27653,15 +27664,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138438,
+      "Progressed": 138440,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-01T11:00:51.6817991+00:00",
-  "LastChanged_Achievements": "2023-11-01T17:05:47.9064866+00:00",
+  "LastChanged": "2023-11-01T18:00:07.121777+00:00",
+  "LastChanged_Achievements": "2023-11-01T18:06:34.0345022+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-01T16:59:35.5065752+00:00",
-  "LastUpdate_Achievements": "2023-11-01T17:05:47.9066829+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:00:07.1217779+00:00",
+  "LastUpdate_Achievements": "2023-11-01T18:06:34.034702+00:00"
 }

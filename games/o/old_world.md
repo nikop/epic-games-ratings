@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~603 |
-| Settler | 4.00% | ~603 |
-| Friendly Family | 4.00% | ~603 |
-| Play a Single Player Game | 4.00% | ~603 |
+| Explorer | 4.00% | ~604 |
+| Settler | 4.00% | ~604 |
+| Friendly Family | 4.00% | ~604 |
+| Play a Single Player Game | 4.00% | ~604 |
 | Able | 3.00% | ~453 |
 | Architect | 3.00% | ~453 |
 | Good | 3.00% | ~453 |
@@ -103,9 +103,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.90% | ~136 |
 | Double Victory | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
+| Strong Difficulty | 0.80% | ~121 |
 | Hittite Iron | 0.80% | ~121 |
 | Pantheon | 0.80% | ~121 |
 | Learn to Play 4 | 0.80% | ~121 |
+| Carthage | 0.80% | ~121 |
 | Military Prestige | 0.80% | ~121 |
 | Dualism | 0.80% | ~121 |
 | Gnosticism | 0.80% | ~121 |
@@ -113,11 +115,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.80% | ~121 |
 | Capable | 0.70% | ~106 |
 | Ready | 0.70% | ~106 |
-| Strong Difficulty | 0.70% | ~106 |
 | Hunters | 0.70% | ~106 |
 | Church of the Holy Sepulchre | 0.70% | ~106 |
 | Babylonia | 0.70% | ~106 |
-| Carthage | 0.70% | ~106 |
 | Egypt | 0.70% | ~106 |
 | One True Faith | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,087 (Ranked 144)  
+Progressed: 15,089 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
-| 2023-11-01 | 15,087 | 5 |
+| 2023-11-01 | 15,089 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,862 (Ranked 212)  

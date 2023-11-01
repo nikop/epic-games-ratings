@@ -1,31 +1,31 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 562)  
+Rating: 4.51 (Ranked 561)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~158,653 |
-| FIRST BLOOD | 40.00% | ~141,025 |
-| KEVIN! | 30.00% | ~105,769 |
-| JACK OF ALL TRADES | 23.00% | ~81,089 |
-| CRIMINAL | 20.00% | ~70,512 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~38,782 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~31,731 |
-| HONORS STUDENT | 8.00% | ~28,205 |
-| BUTCHER | 6.00% | ~21,154 |
-| INDIVIDUAL APPROACH | 5.00% | ~17,628 |
-| RAMBO | 5.00% | ~17,628 |
-| HELL'S KITCHEN | 4.00% | ~14,102 |
-| CELEBRITY | 3.00% | ~10,577 |
-| MARTYR | 3.00% | ~10,577 |
-| GRATITUDE | 2.00% | ~7,051 |
+| MASTER CHEF | 45.00% | ~158,681 |
+| FIRST BLOOD | 40.00% | ~141,050 |
+| KEVIN! | 30.00% | ~105,788 |
+| JACK OF ALL TRADES | 23.00% | ~81,104 |
+| CRIMINAL | 20.00% | ~70,525 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~38,789 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~31,736 |
+| HONORS STUDENT | 8.00% | ~28,210 |
+| BUTCHER | 6.00% | ~21,158 |
+| INDIVIDUAL APPROACH | 5.00% | ~17,631 |
+| RAMBO | 5.00% | ~17,631 |
+| HELL'S KITCHEN | 4.00% | ~14,105 |
+| CELEBRITY | 3.00% | ~10,579 |
+| MARTYR | 3.00% | ~10,579 |
+| GRATITUDE | 2.00% | ~7,052 |
 | EXPERIMENTALIST | 1.00% | ~3,526 |
 | GOURMET | 1.00% | ~3,526 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,526 |
 | PATTY-KILLER | 1.00% | ~3,526 |
 | PRUDENT | 1.00% | ~3,526 |
-| SCATTERBRAIN | 0.60% | ~2,115 |
+| SCATTERBRAIN | 0.60% | ~2,116 |
 | HIGH TECHNOLOGIES | 0.50% | ~1,763 |
 | TASTE UNTASTY | 0.50% | ~1,763 |
 | DEBTOR | 0.20% | ~705 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 562)
 | MISTER ALL THUMBS | 0.10% | ~353 |
 | TRAVELER | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,562 (Ranked 44)  
+Progressed: 352,625 (Ranked 44)  
 Completed: 30 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 30 (0.01%) (Ranked 317)
 | 2023-10-29 | 349,559 | 24 |
 | 2023-10-30 | 350,741 | 26 |
 | 2023-10-31 | 351,812 | 28 |
-| 2023-11-01 | 352,562 | 30 |
+| 2023-11-01 | 352,625 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

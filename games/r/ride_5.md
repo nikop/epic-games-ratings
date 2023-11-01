@@ -9,7 +9,7 @@
 | Clean Race | 41.00% | ~786 |
 | Hear That Roar! | 38.00% | ~728 |
 | Rivals to the End | 29.00% | ~556 |
-| Bitter Rivalry | 27.00% | ~517 |
+| Bitter Rivalry | 27.00% | ~518 |
 | We're Going to Need a Bigger Garage | 24.00% | ~460 |
 | Champagne Spray | 24.00% | ~460 |
 | Restored and Ready | 19.00% | ~364 |
@@ -24,12 +24,12 @@
 | Evangelist | 6.00% | ~115 |
 | Make It Your Own! | 5.00% | ~96 |
 | I Make the Rules! | 4.00% | ~77 |
-| Spoilt for Choice | 3.00% | ~57 |
-| Cherry Blossom and Temples | 3.00% | ~57 |
-| La Dolce Vita | 3.00% | ~57 |
-| The Road to Liberty | 3.00% | ~57 |
-| Romantic Races | 3.00% | ~57 |
-| Rounding Off | 3.00% | ~57 |
+| Spoilt for Choice | 3.00% | ~58 |
+| Cherry Blossom and Temples | 3.00% | ~58 |
+| La Dolce Vita | 3.00% | ~58 |
+| The Road to Liberty | 3.00% | ~58 |
+| Romantic Races | 3.00% | ~58 |
+| Rounding Off | 3.00% | ~58 |
 | Iconic! | 2.00% | ~38 |
 | Back in Blighty | 2.00% | ~38 |
 | Still Here | 2.00% | ~38 |
@@ -39,7 +39,7 @@
 | Next Level | 1.00% | ~19 |
 | I Don't Stop | 1.00% | ~19 |
 | Exhausted but Happy | 0.70% | ~13 |
-| In Search of Perfection | 0.60% | ~11 |
+| In Search of Perfection | 0.60% | ~12 |
 | Globe-trotter | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
 | All My Own Toys | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,916 (Ranked 218)  
+Progressed: 1,917 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,4 +115,4 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 1,861 | 0 |
 | 2023-10-30 | 1,878 | 0 |
 | 2023-10-31 | 1,900 | 0 |
-| 2023-11-01 | 1,916 | 0 |
+| 2023-11-01 | 1,917 | 0 |

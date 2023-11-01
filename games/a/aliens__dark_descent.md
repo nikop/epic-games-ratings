@@ -1,34 +1,34 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.48 (Ranked 617)  
+Rating: 4.48 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,845 |
-| Keep 'Em Coming | 74.00% | ~2,599 |
-| Snatched Out | 74.00% | ~2,599 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,353 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,846 |
+| Keep 'Em Coming | 74.00% | ~2,600 |
+| Snatched Out | 74.00% | ~2,600 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,354 |
 | Call Me Snake | 63.00% | ~2,213 |
-| Something Lurks Under The Hills | 61.00% | ~2,142 |
-| This Was No Papercut | 60.00% | ~2,107 |
+| Something Lurks Under The Hills | 61.00% | ~2,143 |
+| This Was No Papercut | 60.00% | ~2,108 |
 | People Person | 57.00% | ~2,002 |
 | The Shrink Hates Me | 57.00% | ~2,002 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,861 |
-| First Steps Into Madness | 53.00% | ~1,861 |
-| Colonial Barrels | 51.00% | ~1,791 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,862 |
+| First Steps Into Madness | 53.00% | ~1,862 |
+| Colonial Barrels | 51.00% | ~1,792 |
 | Harper's Hell | 46.00% | ~1,616 |
-| Making a Stand | 45.00% | ~1,580 |
+| Making a Stand | 45.00% | ~1,581 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,475 |
 | Where It All Begun | 41.00% | ~1,440 |
 | Recouped Investment | 39.00% | ~1,370 |
-| The More The Merrier | 35.00% | ~1,229 |
+| The More The Merrier | 35.00% | ~1,230 |
 | Omelette Du Fromage | 34.00% | ~1,194 |
 | Living Nightmare | 34.00% | ~1,194 |
 | The Darwin Era Was Here | 31.00% | ~1,089 |
-| Deep Into Insanity | 29.00% | ~1,018 |
-| The Passenger | 29.00% | ~1,018 |
-| Come on, You Wanna Live Forever? | 28.00% | ~983 |
+| Deep Into Insanity | 29.00% | ~1,019 |
+| The Passenger | 29.00% | ~1,019 |
+| Come on, You Wanna Live Forever? | 28.00% | ~984 |
 | The Spire | 26.00% | ~913 |
 | El Riesgo Siempre Vive | 25.00% | ~878 |
 | Stuff Of Nightmares | 23.00% | ~808 |
@@ -51,7 +51,7 @@ Rating: 4.48 (Ranked 617)
 | This Ain't No Picnic | 0.70% | ~25 |
 | Chalk It Up To Experience | 0.70% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,512 (Ranked 196)  
+Progressed: 3,513 (Ranked 196)  
 Completed: 3 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 3 (0.09%) (Ranked 272)
 | 2023-10-29 | 3,500 | 3 |
 | 2023-10-30 | 3,502 | 3 |
 | 2023-10-31 | 3,504 | 3 |
-| 2023-11-01 | 3,512 | 3 |
+| 2023-11-01 | 3,513 | 3 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 478)  
 Sum: 33 (Ranked 500)  

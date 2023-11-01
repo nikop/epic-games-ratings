@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 355,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 152,
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10736,
+  "EOS_Progressed": 10739,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -12004,6 +12004,11 @@
       "Time": "2023-11-01T17:05:12.4782725+00:00",
       "NumProgressed": 10736,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-01T18:05:55.0394667+00:00",
+      "NumProgressed": 10739,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12063,7 +12068,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH08",
@@ -12071,7 +12076,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH09",
@@ -12119,7 +12124,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "ACH15",
@@ -12143,7 +12148,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH18",
@@ -12175,7 +12180,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4939
+      "UsersEstimate": 4940
     },
     {
       "ID": "ACH22",
@@ -12183,7 +12188,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACH23",
@@ -12191,7 +12196,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "ACH24",
@@ -12199,7 +12204,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACH25",
@@ -12207,7 +12212,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACH26",
@@ -12247,7 +12252,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ACH31",
@@ -12286,7 +12291,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10736,
+      "Progressed": 10739,
       "Completed": 64
     }
   ],
@@ -12294,8 +12299,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-01T17:05:12.4782722+00:00",
+  "LastChanged_Achievements": "2023-11-01T18:05:55.0394663+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:02:39.9679915+00:00",
-  "LastUpdate_Achievements": "2023-11-01T17:05:12.4783401+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:02:50.0357205+00:00",
+  "LastUpdate_Achievements": "2023-11-01T18:05:55.0395429+00:00"
 }

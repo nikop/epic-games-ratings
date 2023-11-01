@@ -1,11 +1,11 @@
 # FAR CRY 4
 [Store](https://store.epicgames.com/en-US/p/far-cry-4)  
 [View Rawdata](../../db/f/far_cry_4.json)  
-Rating: 4.67 (Ranked 272)  
+Rating: 4.68 (Ranked 248)  
 Number of Ratings: 639  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 707  (Ranked 180)  
-Sum: 1,059 (Ranked 248)  
+Sum: 1,060 (Ranked 248)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -68
 | This game has Challenging Combat | 41 |
 | This game has Amazing Characters | 38 |
 | This game is Highly Recommended | 38 |
-| This game has Diverse Characters | 36 |
+| This game has Diverse Characters | 37 |
 | This game has a Competitive Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -268,3 +268,4 @@ Diff (max vs sum): -68
 | 2023-10-28 | 4.68 | - | 702 | 1,051 |
 | 2023-10-29 | 4.68 | - | 706 | 1,055 |
 | 2023-10-30 | 4.67 | - | 707 | 1,059 |
+| 2023-11-01 | 4.68 | - | 707 | 1,060 |
