@@ -6,9 +6,9 @@
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2978,
+  "EOS_Progressed": 2980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3784,6 +3784,11 @@
       "Time": "2023-10-31T22:06:26.4699045+00:00",
       "NumProgressed": 2978,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T01:53:21.0828307+00:00",
+      "NumProgressed": 2980,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3820,7 +3825,7 @@
       "Name": "Dealmaker",
       "Percentage": 27,
       "XP": 60,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_13",
@@ -3828,7 +3833,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "achievement_14",
@@ -3836,7 +3841,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "achievement_15",
@@ -3892,7 +3897,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1699
     },
     {
       "ID": "achievement_21",
@@ -3908,7 +3913,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_4",
@@ -3932,7 +3937,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "achievement_7",
@@ -3963,7 +3968,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2978,
+      "Progressed": 2980,
       "Completed": 0
     }
   ],
@@ -3971,8 +3976,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-11-01T00:05:12.3519321+00:00",
+  "LastChanged_Achievements": "2023-11-01T01:53:21.0828298+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-11-01T00:00:07.0004629+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:05:12.3519685+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:48:14.832548+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:53:21.0828657+00:00"
 }

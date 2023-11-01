@@ -3,9 +3,9 @@
   "Name": "Active and Operational",
   "ProductSlug": "active-and-operational-a827e6",
   "Ranking_EOS_Progress": 713,
-  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:59:59.6395588+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:57:18.1188756+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:05:54.7529217+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:44:36.0196543+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:54:15.1753486+00:00"
 }

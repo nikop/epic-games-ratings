@@ -7679,10 +7679,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32284,
       "NumberOfAwardsMax": 5465
+    },
+    {
+      "Time": "2023-11-01T01:45:35.8854665+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32288,
+      "NumberOfAwardsMax": 5465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32284,
+  "NumberOfAwards": 32288,
   "NumberOfAwardsMax": 5465,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7696,7 +7702,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5454
+      "Count": 5458
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7729,10 +7735,10 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233343,
-  "EOS_Completed": 2413,
-  "EOS_NewPlayers": 588,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 233344,
+  "EOS_Completed": 2414,
+  "EOS_NewPlayers": 586,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -29454,6 +29460,11 @@
       "Time": "2023-11-01T00:05:56.9379505+00:00",
       "NumProgressed": 233343,
       "NumCompleted": 2413
+    },
+    {
+      "Time": "2023-11-01T01:54:18.3980339+00:00",
+      "NumProgressed": 233344,
+      "NumCompleted": 2414
     }
   ],
   "TotalAchievements": 528,
@@ -29767,9 +29778,9 @@
       "ID": "objective_completed_109",
       "SetID": "cc37lbc",
       "Name": "The Silken Swamp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_1090",
@@ -33688,21 +33699,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199617,
-      "Completed": 3726
+      "Progressed": 199618,
+      "Completed": 3727
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233343,
-      "Completed": 2413
+      "Progressed": 233344,
+      "Completed": 2414
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-10-31T22:58:42.7467455+00:00",
-  "LastChanged_Achievements": "2023-11-01T00:05:56.9379496+00:00",
+  "LastChanged": "2023-11-01T01:45:35.8854664+00:00",
+  "LastChanged_Achievements": "2023-11-01T01:54:18.3980332+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:58:07.5386822+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:05:56.9407967+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:45:35.8854672+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:54:18.4010679+00:00"
 }

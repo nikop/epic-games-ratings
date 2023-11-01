@@ -11,27 +11,27 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 23.00% | ~1,052 |
 | Perk Shard Punch Card | 23.00% | ~1,052 |
 | That'll Leave a Mark | 23.00% | ~1,052 |
-| Mushroom Madness! | 22.00% | ~1,006 |
-| First Strike | 18.00% | ~823 |
-| Spending Spree | 18.00% | ~823 |
+| Mushroom Madness! | 22.00% | ~1,007 |
+| First Strike | 18.00% | ~824 |
+| Spending Spree | 18.00% | ~824 |
 | Horder Better Faster Stronger | 17.00% | ~778 |
 | Ten Steps from the Grave | 15.00% | ~686 |
-| Everything Must Go! | 14.00% | ~640 |
+| Everything Must Go! | 14.00% | ~641 |
 | Next Time on MythForce... | 13.00% | ~595 |
-| Cold-Blooded Critters | 10.00% | ~457 |
+| Cold-Blooded Critters | 10.00% | ~458 |
 | Death Becomes You | 8.00% | ~366 |
-| Flawless Victory | 6.00% | ~274 |
-| The Harder They Fall | 6.00% | ~274 |
-| On this Episode! | 6.00% | ~274 |
+| Flawless Victory | 6.00% | ~275 |
+| The Harder They Fall | 6.00% | ~275 |
+| On this Episode! | 6.00% | ~275 |
 | Deadication | 4.00% | ~183 |
 | We've Got a Kaiju on the Field | 3.00% | ~137 |
 | Season Finale | 3.00% | ~137 |
-| The Fourth Gate | 2.00% | ~91 |
+| The Fourth Gate | 2.00% | ~92 |
 | Vexed Her | 0.40% | ~18 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,574 (Ranked 184)  
-Completed: 3 (0.07%) (Ranked 278)  
+Progressed: 4,576 (Ranked 184)  
+Completed: 3 (0.07%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 3 (0.07%) (Ranked 278)
 | 2023-10-29 | 4,539 | 3 |
 | 2023-10-30 | 4,554 | 3 |
 | 2023-10-31 | 4,574 | 3 |
+| 2023-11-01 | 4,576 | 3 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 473)  
 Sum: 285 (Ranked 363)  

@@ -3,12 +3,12 @@
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
   "Ranking_Rating": 122,
-  "Ranking_Popularity": 36,
+  "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 713,
-  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -12157,11 +12157,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 79255,
       "NumberOfAwardsMax": 11777
+    },
+    {
+      "Time": "2023-11-01T01:47:18.6911108+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 79288,
+      "NumberOfAwardsMax": 11800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79255,
-  "NumberOfAwardsMax": 11777,
+  "NumberOfAwards": 79288,
+  "NumberOfAwardsMax": 11800,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12186,7 +12192,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 11777
+      "Count": 11800
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12204,7 +12210,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8640
+      "Count": 8650
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12236,8 +12242,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-10-31T22:00:26.4486748+00:00",
+  "LastChanged": "2023-11-01T01:47:18.6911106+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:49.3402326+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:59:23.00419+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:03:24.9595554+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:47:18.6911113+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:51:05.2743572+00:00"
 }

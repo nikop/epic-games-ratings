@@ -40,9 +40,9 @@ Rating: 4.60 (Ranked 407)
 | Unplugged | 8.00% | ~439 |
 | Holidays! | 7.00% | ~384 |
 | Mad Hatter | 7.00% | ~384 |
+| Lumbersexual | 6.00% | ~330 |
 | Yes Man | 6.00% | ~330 |
 | Take that, Brundlefly! | 5.00% | ~275 |
-| Lumbersexual | 5.00% | ~275 |
 | Danger zone | 4.00% | ~220 |
 | Feline Domination | 4.00% | ~220 |
 | Friend in need | 4.00% | ~220 |
@@ -67,7 +67,7 @@ Rating: 4.60 (Ranked 407)
 | Dead Hand | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,492 (Ranked 179)  
-Completed: 1 (0.02%) (Ranked 306)  
+Completed: 1 (0.02%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

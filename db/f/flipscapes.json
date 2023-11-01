@@ -3,9 +3,9 @@
   "Name": "FlipScapes",
   "ProductSlug": "flipscapes-8d2cde",
   "Ranking_EOS_Progress": 713,
-  "Ranking_EOS_Completed": 333,
+  "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.4255845+00:00",
-  "LastUpdate_Ratings": "2023-11-01T00:00:10.5330717+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:03:29.0006901+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:48:19.3516938+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:51:10.3249026+00:00"
 }

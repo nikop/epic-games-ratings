@@ -6,10 +6,10 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,299 |
-| Leader | 61.00% | ~6,099 |
-| Explorer | 53.00% | ~5,299 |
-| Healer | 52.00% | ~5,199 |
+| First Step | 73.00% | ~7,301 |
+| Leader | 61.00% | ~6,101 |
+| Explorer | 53.00% | ~5,301 |
+| Healer | 52.00% | ~5,201 |
 | Aspiring Inventor | 44.00% | ~4,400 |
 | Adventurer | 42.00% | ~4,200 |
 | Famous Healer | 38.00% | ~3,800 |
@@ -25,9 +25,9 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 28.00% | ~2,800 |
 | Finders, Keepers | 26.00% | ~2,600 |
 | Top Notch | 25.00% | ~2,500 |
-| Mentor | 24.00% | ~2,400 |
 | Great Leader | 23.00% | ~2,300 |
 | Ice Lakes | 23.00% | ~2,300 |
+| Mentor | 23.00% | ~2,300 |
 | Merchant | 22.00% | ~2,200 |
 | Real Survivor | 22.00% | ~2,200 |
 | Rocket Surgeon | 20.00% | ~2,000 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,999 (Ranked 155)  
-Completed: 0 (0.00%) (Ranked 333)  
+Progressed: 10,001 (Ranked 155)  
+Completed: 0 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,18 +261,18 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-29 | 9,948 | 0 |
 | 2023-10-30 | 9,973 | 0 |
 | 2023-10-31 | 9,998 | 0 |
-| 2023-11-01 | 9,999 | 0 |
+| 2023-11-01 | 10,001 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 349)  
-Sum: 720 (Ranked 288)  
-Diff (max vs sum): 61  
+Sum: 722 (Ranked 287)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
 | This game is Great for Beginners | 97 |
 | This game has Amazing Storytelling | 88 |
+| This game has Quickly Understood Controls | 86 |
 | This game is Relaxing | 84 |
-| This game has Quickly Understood Controls | 84 |
 | This game has Diverse Characters | 75 |
 | This game is Highly Recommended | 73 |
 | This game has Amazing Characters | 69 |
@@ -417,3 +417,4 @@ Diff (max vs sum): 61
 | 2023-10-29 | 4.48 | - | 103 | 718 |
 | 2023-10-30 | 4.48 | - | 103 | 719 |
 | 2023-10-31 | 4.48 | - | 103 | 720 |
+| 2023-11-01 | 4.48 | - | 103 | 722 |

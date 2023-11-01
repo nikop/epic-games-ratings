@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,759 |
-| Advancement | 4.00% | ~1,173 |
-| Discovery | 4.00% | ~1,173 |
-| Meticulously Efficient | 4.00% | ~1,173 |
-| Clutch Capture | 3.00% | ~879 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~879 |
-| Cultured | 3.00% | ~879 |
-| Fully Upgraded | 3.00% | ~879 |
-| Solo Capture | 3.00% | ~879 |
-| Swift Rift Removers | 3.00% | ~879 |
-| Teamwork | 3.00% | ~879 |
-| There you are! | 3.00% | ~879 |
-| Vaporous Expansion | 3.00% | ~879 |
-| Whoopsie | 3.00% | ~879 |
-| Animated | 2.00% | ~586 |
-| Back Off | 2.00% | ~586 |
-| We have the best insurance | 2.00% | ~586 |
-| Daily Dose | 2.00% | ~586 |
-| Ectoplasmic Entity | 2.00% | ~586 |
-| Ghostbuster In Training | 2.00% | ~586 |
-| Icing on the Cake | 2.00% | ~586 |
-| Legions | 2.00% | ~586 |
-| Pesky Jerks | 2.00% | ~586 |
-| Right back at ya | 2.00% | ~586 |
-| Seasoned | 2.00% | ~586 |
-| Side Hustle | 2.00% | ~586 |
-| Skilled | 2.00% | ~586 |
-| Stunner | 2.00% | ~586 |
-| Summoner | 2.00% | ~586 |
-| Welcome to the Crew | 2.00% | ~586 |
+| Stylish | 6.00% | ~1,761 |
+| Advancement | 4.00% | ~1,174 |
+| Discovery | 4.00% | ~1,174 |
+| Meticulously Efficient | 4.00% | ~1,174 |
+| Clutch Capture | 3.00% | ~880 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~880 |
+| Cultured | 3.00% | ~880 |
+| Fully Upgraded | 3.00% | ~880 |
+| Solo Capture | 3.00% | ~880 |
+| Swift Rift Removers | 3.00% | ~880 |
+| Teamwork | 3.00% | ~880 |
+| There you are! | 3.00% | ~880 |
+| Vaporous Expansion | 3.00% | ~880 |
+| Whoopsie | 3.00% | ~880 |
+| Animated | 2.00% | ~587 |
+| Back Off | 2.00% | ~587 |
+| We have the best insurance | 2.00% | ~587 |
+| Daily Dose | 2.00% | ~587 |
+| Ectoplasmic Entity | 2.00% | ~587 |
+| Ghostbuster In Training | 2.00% | ~587 |
+| Icing on the Cake | 2.00% | ~587 |
+| Legions | 2.00% | ~587 |
+| Pesky Jerks | 2.00% | ~587 |
+| Right back at ya | 2.00% | ~587 |
+| Seasoned | 2.00% | ~587 |
+| Side Hustle | 2.00% | ~587 |
+| Skilled | 2.00% | ~587 |
+| Stunner | 2.00% | ~587 |
+| Summoner | 2.00% | ~587 |
+| Welcome to the Crew | 2.00% | ~587 |
 | Collector | 1.00% | ~293 |
 | Escape Artist | 1.00% | ~293 |
 | Reckless | 1.00% | ~293 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,316 (Ranked 121)  
+Progressed: 29,346 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,19 +252,19 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,316 | 65 |
+| 2023-11-01 | 29,346 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
-Sum: 2,637 (Ranked 180)  
+Sum: 2,646 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 298 |
 | This game is Great for Quick Sessions | 285 |
-| This game has Diverse Characters | 268 |
+| This game has Diverse Characters | 271 |
 | This game has Amazing Storytelling | 268 |
-| This game is Highly Recommended | 260 |
-| This game has Competitive Players | 260 |
+| This game is Highly Recommended | 264 |
+| This game has Competitive Players | 262 |
 | This game is Extremely Fun | 259 |
 | This game is Relaxing | 254 |
 | This game has Quickly Understood Controls | 244 |
@@ -472,3 +472,4 @@ Diff (max vs sum): 64
 | 2023-10-29 | 4.50 | 293 | 2,603 |
 | 2023-10-30 | 4.50 | 297 | 2,620 |
 | 2023-10-31 | 4.50 | 298 | 2,637 |
+| 2023-11-01 | 4.50 | 298 | 2,646 |

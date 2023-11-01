@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,658 |
-| Alt+F4 | 7.00% | ~16,400 |
-| Where's that freaking Dwarf? | 6.00% | ~14,057 |
-| Déjà vu | 5.00% | ~11,714 |
+| Sowwy! | 34.00% | ~79,662 |
+| Alt+F4 | 7.00% | ~16,401 |
+| Where's that freaking Dwarf? | 6.00% | ~14,058 |
+| Déjà vu | 5.00% | ~11,715 |
 | A beer, two curses, three companions | 4.00% | ~9,372 |
 | Sock! SOCK! | 4.00% | ~9,372 |
 | GG EZ | 4.00% | ~9,372 |
@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.80% | ~1,874 |
 | Lëgal Legend | 0.70% | ~1,640 |
 | We come in peace | 0.60% | ~1,406 |
-| Holistic Adventuring Party | 0.50% | ~1,171 |
-| An old poacher makes the best gamekeeper | 0.50% | ~1,171 |
-| Law and Order | 0.50% | ~1,171 |
+| Holistic Adventuring Party | 0.50% | ~1,172 |
+| An old poacher makes the best gamekeeper | 0.50% | ~1,172 |
+| Law and Order | 0.50% | ~1,172 |
 | Scholar of the Lands of Fangh | 0.40% | ~937 |
 | It's been a hard day's night | 0.40% | ~937 |
 | Friendly fire | 0.30% | ~703 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,289 (Ranked 61)  
-Completed: 7 (0.00%) (Ranked 333)  
+Progressed: 234,301 (Ranked 61)  
+Completed: 7 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 7 (0.00%) (Ranked 333)
 | 2023-10-29 | 233,955 | 7 |
 | 2023-10-30 | 234,124 | 7 |
 | 2023-10-31 | 234,284 | 7 |
-| 2023-11-01 | 234,289 | 7 |
+| 2023-11-01 | 234,301 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 269)  
 Sum: 449 (Ranked 327)  

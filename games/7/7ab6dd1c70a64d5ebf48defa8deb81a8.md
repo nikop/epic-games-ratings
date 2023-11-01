@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 16.00% | ~7 |
+| Break Out | 14.00% | ~6 |
 | Find Allies | 14.00% | ~6 |
-| Break Out | 12.00% | ~5 |
-| Adventurer | 12.00% | ~5 |
-| Essence Blow | 12.00% | ~5 |
-| Scholar | 12.00% | ~5 |
+| Adventurer | 11.00% | ~5 |
+| Essence Blow | 11.00% | ~5 |
+| Scholar | 11.00% | ~5 |
 | A Taste of Wrath | 9.00% | ~4 |
 | Trinity | 9.00% | ~4 |
 | Shatter Them All | 9.00% | ~4 |
@@ -41,8 +41,8 @@
 | Flawless Victory | -2.30% | ~-1 |
 | Big Bazar | -2.30% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 466)  
-Completed: 1 (2.33%) (Ranked 116)  
+Progressed: 44 (Ranked 463)  
+Completed: 1 (2.27%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 1 (2.33%) (Ranked 116)
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
 | 2023-10-31 | 41 | 1 |
-| 2023-11-01 | 43 | 1 |
+| 2023-11-01 | 44 | 1 |

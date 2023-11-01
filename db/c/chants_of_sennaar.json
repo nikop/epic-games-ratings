@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.51,
+  "EOS_Completed_Percentage": 6.49,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1585,6 +1585,11 @@
       "Time": "2023-10-31T23:07:21.4617998+00:00",
       "NumProgressed": 338,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-01T01:53:53.6562022+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1644,7 +1649,7 @@
       "Name": "Open door",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1698,9 +1703,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1716,7 +1721,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1795,14 +1800,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-01T00:05:37.8116196+00:00",
+  "LastChanged_Achievements": "2023-11-01T01:53:53.6562013+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:58:58.5305316+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:05:37.8116478+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:46:43.5050536+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:53:53.6562357+00:00"
 }

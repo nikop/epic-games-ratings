@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 309,
   "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 287,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 177,
-  "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 115,
+  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1323,9 +1323,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5740,
+  "EOS_Progressed": 5741,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12053,6 +12053,11 @@
       "Time": "2023-10-31T23:09:46.0306139+00:00",
       "NumProgressed": 5740,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T01:56:40.8400494+00:00",
+      "NumProgressed": 5741,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12104,7 +12109,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -12120,7 +12125,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -12168,7 +12173,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -12208,7 +12213,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -12224,7 +12229,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12383,15 +12388,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5740,
+      "Progressed": 5741,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-11-01T00:08:59.0310909+00:00",
+  "LastChanged_Achievements": "2023-11-01T01:56:40.8400486+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:57:06.8357746+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:08:59.0311882+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:44:21.7109299+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:56:40.8401538+00:00"
 }

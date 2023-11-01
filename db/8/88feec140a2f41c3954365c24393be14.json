@@ -167,11 +167,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99188,
-  "EOS_Completed": 4319,
-  "EOS_NewPlayers": 1395,
-  "EOS_NewCompleters": 135,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Progressed": 99198,
+  "EOS_Completed": 4321,
+  "EOS_NewPlayers": 1397,
+  "EOS_NewCompleters": 130,
+  "EOS_Completed_Percentage": 4.36,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:33.5899615+00:00",
@@ -5807,6 +5807,11 @@
       "Time": "2023-11-01T00:08:45.1798487+00:00",
       "NumProgressed": 99188,
       "NumCompleted": 4319
+    },
+    {
+      "Time": "2023-11-01T01:56:23.1582933+00:00",
+      "NumProgressed": 99198,
+      "NumCompleted": 4321
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -5819,7 +5824,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 61497
+      "UsersEstimate": 61503
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -5827,7 +5832,7 @@
       "Name": "Gold Medal Crewmates",
       "Percentage": 15,
       "XP": 125,
-      "UsersEstimate": 14878
+      "UsersEstimate": 14880
     },
     {
       "ID": "GoldPact",
@@ -5835,7 +5840,7 @@
       "Name": "Gold Pact",
       "Percentage": 17,
       "XP": 125,
-      "UsersEstimate": 16862
+      "UsersEstimate": 16864
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -5843,7 +5848,7 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "PelagicPerils",
@@ -5851,7 +5856,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 54553
+      "UsersEstimate": 54559
     },
     {
       "ID": "ShipDip",
@@ -5859,7 +5864,7 @@
       "Name": "Ship Dip!",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 50586
+      "UsersEstimate": 50591
     },
     {
       "ID": "TheArtOfParley",
@@ -5867,7 +5872,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 74391
+      "UsersEstimate": 74398
     },
     {
       "ID": "TheGoldenRatio",
@@ -5875,7 +5880,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 11,
       "XP": 125,
-      "UsersEstimate": 10911
+      "UsersEstimate": 10912
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -5883,7 +5888,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 58521
+      "UsersEstimate": 58527
     },
     {
       "ID": "WeCanDoBetter",
@@ -5891,7 +5896,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 76375
+      "UsersEstimate": 76382
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -5899,7 +5904,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 77367
+      "UsersEstimate": 77374
     },
     {
       "ID": "WelcomeAboard",
@@ -5907,23 +5912,23 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 77367
+      "UsersEstimate": 77374
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 99188,
-      "Completed": 4319
+      "Progressed": 99198,
+      "Completed": 4321
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-10-23T20:00:33.1378953+00:00",
-  "LastChanged_Achievements": "2023-11-01T00:08:45.179848+00:00",
+  "LastChanged_Achievements": "2023-11-01T01:56:23.1582924+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:15.2314117+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:57:56.2803893+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:08:45.1798993+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:45:22.5075461+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:56:23.1583506+00:00"
 }

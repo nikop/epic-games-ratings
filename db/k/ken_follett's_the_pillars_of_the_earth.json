@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16079,
+  "EOS_Progressed": 16080,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13132,6 +13132,11 @@
       "Time": "2023-10-31T23:06:41.6323071+00:00",
       "NumProgressed": 16079,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-01T01:53:18.5419871+00:00",
+      "NumProgressed": 16080,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13207,7 +13212,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "tpote_achievement_18",
@@ -13303,7 +13308,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1929
+      "UsersEstimate": 1930
     },
     {
       "ID": "tpote_achievement_29",
@@ -13319,7 +13324,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "tpote_achievement_30",
@@ -13453,9 +13458,9 @@
       "ID": "tpote_achievement_8",
       "SetID": "3jcf6c3",
       "Name": "Help an old friend",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3377
     },
     {
       "ID": "tpote_achievement_9",
@@ -13470,15 +13475,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16079,
+      "Progressed": 16080,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-11-01T00:05:09.8949295+00:00",
+  "LastChanged_Achievements": "2023-11-01T01:53:18.5419862+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-11-01T00:00:23.3099894+00:00",
-  "LastUpdate_Achievements": "2023-11-01T00:05:09.8950413+00:00"
+  "LastUpdate_Ratings": "2023-11-01T01:49:45.2993099+00:00",
+  "LastUpdate_Achievements": "2023-11-01T01:53:18.542111+00:00"
 }

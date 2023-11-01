@@ -6,16 +6,16 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,558 |
-| Incurious | 17.00% | ~111,972 |
-| Climate Change | 16.00% | ~105,385 |
-| Stroller | 15.00% | ~98,799 |
-| Advanced Hiker | 13.00% | ~85,625 |
-| Toy Train | 13.00% | ~85,625 |
-| Hiker | 12.00% | ~79,039 |
-| Mojave Courier | 6.00% | ~39,519 |
+| Advanced Stroller | 18.00% | ~118,560 |
+| Incurious | 17.00% | ~111,973 |
+| Climate Change | 16.00% | ~105,386 |
+| Stroller | 15.00% | ~98,800 |
+| Advanced Hiker | 13.00% | ~85,626 |
+| Toy Train | 13.00% | ~85,626 |
+| Hiker | 12.00% | ~79,040 |
+| Mojave Courier | 6.00% | ~39,520 |
 | Saved by Nausicaä | 5.00% | ~32,933 |
-| Advanced Voyager | 4.00% | ~26,346 |
+| Advanced Voyager | 4.00% | ~26,347 |
 | Voyager | 3.00% | ~19,760 |
 | Expert Stroller | 3.00% | ~19,760 |
 | Orient Express | 3.00% | ~19,760 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~659 |
 | 20 Miles under the Sea | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 658,657 (Ranked 27)  
-Completed: 12 (0.00%) (Ranked 333)  
+Progressed: 658,664 (Ranked 27)  
+Completed: 12 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,11 +254,11 @@ Completed: 12 (0.00%) (Ranked 333)
 | 2023-10-29 | 658,213 | 12 |
 | 2023-10-30 | 658,448 | 12 |
 | 2023-10-31 | 658,648 | 12 |
-| 2023-11-01 | 658,657 | 12 |
+| 2023-11-01 | 658,664 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 281)  
-Sum: 1,588 (Ranked 225)  
-Diff (max vs sum): 56  
+Sum: 1,589 (Ranked 224)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 201 |
@@ -269,7 +269,7 @@ Diff (max vs sum): 56
 | This game has Amazing Characters | 169 |
 | This game has Playful Visuals | 159 |
 | This game is Highly Recommended | 159 |
-| This game has Amazing Storytelling | 146 |
+| This game has Amazing Storytelling | 147 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
 ## Ratings History
@@ -409,3 +409,4 @@ Diff (max vs sum): 56
 | 2023-10-25 | 4.64 | - | 199 | 1,586 |
 | 2023-10-27 | 4.64 | - | 200 | 1,587 |
 | 2023-10-31 | 4.64 | - | 201 | 1,588 |
+| 2023-11-01 | 4.64 | - | 201 | 1,589 |

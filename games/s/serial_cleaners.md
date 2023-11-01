@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Conscience | 35.00% | ~92 |
-| So it goes | 33.00% | ~87 |
-| A New Broom Sweeps Clean | 17.00% | ~45 |
+| So it goes | 34.00% | ~89 |
+| A New Broom Sweeps Clean | 18.00% | ~47 |
 | Off to a Good Start | 16.00% | ~42 |
 | Small-time Finder | 16.00% | ~42 |
 | Business as usual | 13.00% | ~34 |
@@ -30,7 +30,7 @@
 | That’s One Big Pile | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 263 (Ranked 339)  
-Completed: 6 (2.28%) (Ranked 117)  
+Completed: 6 (2.28%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

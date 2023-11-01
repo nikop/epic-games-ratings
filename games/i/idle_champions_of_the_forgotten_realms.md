@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hither of the Feywild | 0.20% | ~399 |
 | The Prince of a Thousand Enemies | 0.20% | ~399 |
 | Downfall | 0.20% | ~399 |
+| The Silken Swamp | 0.20% | ~467 |
 | Slack-jawed Lorna | 0.20% | ~399 |
 | The Fairy Rings of Thither | 0.20% | ~399 |
 | The Roots of Loomlurch | 0.20% | ~399 |
@@ -125,7 +126,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~200 |
 | Second Third Out | 0.10% | ~200 |
 | Third Third Out | 0.10% | ~200 |
-| The Silken Swamp | 0.10% | ~233 |
 | I'm Sure I Saw It Move! | 0.10% | ~200 |
 | End of the Line | 0.10% | ~200 |
 | A Steadfast Love | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,343 (Ranked 62)  
-Completed: 2,413 (1.03%) (Ranked 150)  
+Progressed: 233,344 (Ranked 62)  
+Completed: 2,414 (1.03%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,15 +730,15 @@ Completed: 2,413 (1.03%) (Ranked 150)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,343 | 2,413 |
+| 2023-11-01 | 233,344 | 2,414 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
-Sum: 32,284 (Ranked 41)  
+Sum: 32,288 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,465 |
-| This game has Diverse Characters | 5,454 |
+| This game has Diverse Characters | 5,458 |
 | This game has Quickly Understood Controls | 4,803 |
 | This game is Relaxing | 4,691 |
 | This game has Amazing Characters | 4,189 |
@@ -1026,3 +1026,4 @@ Diff (max vs sum): 28
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
+| 2023-11-01 | 4.06 | - | 5,465 | 32,288 |

@@ -37,9 +37,9 @@ Rating: 4.57 (Ranked 465)
 | ...  in a finite world | 4.00% | ~131 |
 | Sustainable Energy | 4.00% | ~131 |
 | In Dolos We Trust | 4.00% | ~131 |
+| Pedal to the Metal | 4.00% | ~131 |
 | Praise the Hull! | 3.00% | ~98 |
 | Delivery! | 3.00% | ~98 |
-| Pedal to the Metal | 3.00% | ~98 |
 | Drill-dozer | 3.00% | ~98 |
 | Help of the Forgotten Member | 3.00% | ~98 |
 | Pulsar Disciple | 3.00% | ~98 |
@@ -64,7 +64,7 @@ Rating: 4.57 (Ranked 465)
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,271 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 333)  
+Completed: 0 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

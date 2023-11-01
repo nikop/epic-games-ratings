@@ -13,18 +13,18 @@
 | Master trainee | 3.00% | ~1 |
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
+| Blood Red Island | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
+| A rival with no options | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
-| Blood Red Island | 0.00% | ~0 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
 | Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
-| A rival with no options | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
 | The scholar | 0.00% | ~0 |
@@ -52,8 +52,8 @@
 | Diagnosis: fear | 0.00% | ~0 |
 | Ambition is... blind | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 486)  
-Completed: 0 (0.00%) (Ranked 333)  
+Progressed: 33 (Ranked 487)  
+Completed: 0 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
