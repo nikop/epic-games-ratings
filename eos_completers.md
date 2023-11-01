@@ -56,7 +56,7 @@
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.97% |
 | 56 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.49% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.47% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
@@ -76,7 +76,7 @@
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.48% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.36% |
 | 76 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.11% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
 | 80 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
@@ -110,7 +110,7 @@
 | 108 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.50% |
 | 108 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 110 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
-| 111 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.47% |
+| 111 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.45% |
 | 112 | [Lamentum](games/l/lamentum.md) | 2.44% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
@@ -122,10 +122,10 @@
 | 119 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
 | 122 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 122 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.85% |
 | 122 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.85% |
-| 125 | [Sifu](games/s/sifu.md) | 1.81% |
-| 126 | [Frogun](games/f/frogun.md) | 1.79% |
+| 124 | [Sifu](games/s/sifu.md) | 1.81% |
+| 125 | [Frogun](games/f/frogun.md) | 1.79% |
+| 126 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.78% |
 | 127 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.72% |
 | 128 | [Night Book](games/n/night_book.md) | 1.70% |
 | 128 | [Somerville](games/s/somerville.md) | 1.70% |
@@ -175,13 +175,13 @@
 | 172 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 172 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 175 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
+| 176 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.60% |
 | 176 | [Haven](games/h/haven.md) | 0.60% |
 | 176 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
-| 178 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 179 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.58% |
 | 179 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 179 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.58% |
-| 182 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
+| 181 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.57% |
+| 181 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.57% |
 | 183 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 183 | [Eternights](games/e/eternights.md) | 0.55% |
 | 183 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
