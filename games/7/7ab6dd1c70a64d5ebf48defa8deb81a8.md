@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Break Out | 16.00% | ~7 |
 | Powerful Allies | 16.00% | ~7 |
-| Break Out | 13.00% | ~6 |
 | Find Allies | 13.00% | ~6 |
 | Adventurer | 11.00% | ~5 |
 | Essence Blow | 11.00% | ~5 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -2294,6 +2294,11 @@
       "Time": "2023-11-01T07:07:15.6217124+00:00",
       "NumProgressed": 533,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-01T09:08:03.5366555+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2311,9 +2316,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2416,14 +2421,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:07:59.213222+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:08:03.5366548+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:01:37.0860216+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:07:59.2132569+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:01:30.0955346+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:08:03.536682+00:00"
 }

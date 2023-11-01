@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1263,7 +1263,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 234330,
+  "EOS_Progressed": 234336,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1369,
   "EOS_NewCompleters": 0,
@@ -16883,6 +16883,11 @@
       "Time": "2023-11-01T08:03:47.3369642+00:00",
       "NumProgressed": 234330,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-01T09:03:50.8511921+00:00",
+      "NumProgressed": 234336,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -16942,7 +16947,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11716
+      "UsersEstimate": 11717
     },
     {
       "ID": "Chapter2",
@@ -17342,7 +17347,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79672
+      "UsersEstimate": 79674
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17390,7 +17395,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16403
+      "UsersEstimate": 16404
     },
     {
       "ID": "FollowBraztok",
@@ -17597,21 +17602,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 234330,
+      "Progressed": 234336,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 234330,
+      "Progressed": 234336,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-31T22:59:55.4302135+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:03:47.3369633+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:03:50.8511912+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:00:16.1168764+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:03:47.3371769+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:00:09.9554078+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:03:50.8514376+00:00"
 }

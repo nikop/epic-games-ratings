@@ -8,9 +8,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,537 |
 | Titan's First Steps | 4.00% | ~5,537 |
-| Basic in Bulk | 3.00% | ~4,152 |
-| Disintermediation | 3.00% | ~4,152 |
-| Tinkle of Coins | 3.00% | ~4,152 |
+| Basic in Bulk | 3.00% | ~4,153 |
+| Disintermediation | 3.00% | ~4,153 |
+| Tinkle of Coins | 3.00% | ~4,153 |
 | One Easy Payment | 2.00% | ~2,768 |
 | Some Assembly Required | 2.00% | ~2,768 |
 | Another Satisfied Customer | 2.00% | ~2,768 |
@@ -86,20 +86,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.70% | ~969 |
 | Exotic Commodities | 0.70% | ~969 |
 | King's Blade | 0.70% | ~969 |
-| Top of the World | 0.60% | ~830 |
-| Constellated | 0.60% | ~830 |
-| Thirst for Knowledge | 0.60% | ~830 |
-| Booty by the Boatload | 0.60% | ~830 |
-| Archivist | 0.60% | ~830 |
-| Fillin' the Bin | 0.60% | ~830 |
-| Industrial Evolution | 0.60% | ~830 |
-| A Legend is Born | 0.60% | ~830 |
-| Item of Renown | 0.60% | ~830 |
-| Bountiful Harvest | 0.60% | ~830 |
-| Precision Engineering | 0.60% | ~830 |
-| Treasure Trove | 0.60% | ~830 |
-| King's Shadow | 0.60% | ~830 |
-| Economy of Scarce | 0.60% | ~830 |
+| Top of the World | 0.60% | ~831 |
+| Constellated | 0.60% | ~831 |
+| Thirst for Knowledge | 0.60% | ~831 |
+| Booty by the Boatload | 0.60% | ~831 |
+| Archivist | 0.60% | ~831 |
+| Fillin' the Bin | 0.60% | ~831 |
+| Industrial Evolution | 0.60% | ~831 |
+| A Legend is Born | 0.60% | ~831 |
+| Item of Renown | 0.60% | ~831 |
+| Bountiful Harvest | 0.60% | ~831 |
+| Precision Engineering | 0.60% | ~831 |
+| Treasure Trove | 0.60% | ~831 |
+| King's Shadow | 0.60% | ~831 |
+| Economy of Scarce | 0.60% | ~831 |
 | Jackpot! | 0.50% | ~692 |
 | The Free Encyclopedia | 0.40% | ~554 |
 | Thank You Tom Nook | 0.40% | ~554 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,416 (Ranked 77)  
+Progressed: 138,419 (Ranked 77)  
 Completed: 178 (0.13%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 178 (0.13%) (Ranked 251)
 | 2023-10-29 | 138,334 | 174 |
 | 2023-10-30 | 138,369 | 176 |
 | 2023-10-31 | 138,410 | 178 |
-| 2023-11-01 | 138,416 | 178 |
+| 2023-11-01 | 138,419 | 178 |
 ## Awards
 Max (Great for Beginners): 4,812  (Ranked 73)  
 Sum: 27,478 (Ranked 51)  

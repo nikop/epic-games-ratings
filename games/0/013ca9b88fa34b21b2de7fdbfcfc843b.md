@@ -5,18 +5,18 @@ Rating: 4.61 (Ranked 381)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,334 |
-| A Thorny Situation | 70.00% | ~5,186 |
-| ... And Spit Back Out | 60.00% | ~4,445 |
-| Break-Net Speed | 48.00% | ~3,556 |
-| Bramble Breaker | 46.00% | ~3,408 |
-| Miner 49er | 43.00% | ~3,186 |
-| Humble Collector | 42.00% | ~3,112 |
-| Calm Sailing | 36.00% | ~2,667 |
-| Open the Gate! | 33.00% | ~2,445 |
+| Azoria Beckons | 72.00% | ~5,336 |
+| A Thorny Situation | 70.00% | ~5,188 |
+| ... And Spit Back Out | 60.00% | ~4,447 |
+| Break-Net Speed | 48.00% | ~3,557 |
+| Bramble Breaker | 46.00% | ~3,409 |
+| Miner 49er | 43.00% | ~3,187 |
+| Humble Collector | 42.00% | ~3,113 |
+| Calm Sailing | 36.00% | ~2,668 |
+| Open the Gate! | 33.00% | ~2,446 |
 | Mist Walker | 31.00% | ~2,297 |
-| Lumberjack | 26.00% | ~1,926 |
-| Oui, Chef! | 23.00% | ~1,704 |
+| Lumberjack | 26.00% | ~1,927 |
+| Oui, Chef! | 23.00% | ~1,705 |
 | Clear the Air | 18.00% | ~1,334 |
 | Botanical Breakthrough | 17.00% | ~1,260 |
 | Search for the Hairy Grell | 13.00% | ~963 |
@@ -30,7 +30,7 @@ Rating: 4.61 (Ranked 381)
 | Fanatical Farmer | 7.00% | ~519 |
 | Scattered Scroll Scrounger | 6.00% | ~445 |
 | Azorian Anniversary | 6.00% | ~445 |
-| I Now Pronounce You... | 5.00% | ~370 |
+| I Now Pronounce You... | 5.00% | ~371 |
 | Chatty Neighbor | 4.00% | ~296 |
 | Right Tool For the Job | 3.00% | ~222 |
 | House Proud | 3.00% | ~222 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 381)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,409 (Ranked 167)  
+Progressed: 7,411 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 334)
 | 2023-10-29 | 7,340 | 0 |
 | 2023-10-30 | 7,365 | 0 |
 | 2023-10-31 | 7,400 | 0 |
-| 2023-11-01 | 7,409 | 0 |
+| 2023-11-01 | 7,411 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

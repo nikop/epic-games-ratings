@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
       "SetID": "caeik3h",
       "Name": "Curse Me Kilts!",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KR4_ACHIEVEMENT_DARKKNIGHTS",
@@ -298,9 +298,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 81,
+      "Percentage": 84,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:09:10.6931071+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:09:15.1346169+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:01:44.3981697+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:09:10.6931981+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:01:36.7921553+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:09:15.1347049+00:00"
 }

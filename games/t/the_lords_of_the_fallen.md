@@ -5,8 +5,14 @@ Rating: 4.20 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Veil Lifted | 0.20% | ~3 |
-| Lost and Found | 0.20% | ~3 |
+| A Veil Lifted | 0.40% | ~5 |
+| Lost and Found | 0.30% | ~4 |
+| Comrades | 0.20% | ~3 |
+| Shared Triumph | 0.20% | ~3 |
+| No Mercy | 0.20% | ~3 |
+| Shades of Violence | 0.20% | ~3 |
+| Thriving in Darkness | 0.20% | ~3 |
+| The Past Shapes the Present | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~1 |
 | Weapon Collector | 0.10% | ~1 |
 | Ironclad | 0.10% | ~1 |
@@ -24,14 +30,10 @@ Rating: 4.20 (Ranked 896)
 | Rune Master | 0.10% | ~1 |
 | Carving Out Victory | 0.10% | ~1 |
 | Utmost Insight | 0.10% | ~1 |
-| Comrades | 0.10% | ~1 |
-| Shared Triumph | 0.10% | ~1 |
 | Vengeance for the Fallen | 0.10% | ~1 |
-| No Mercy | 0.10% | ~1 |
 | Infernal Offerings | 0.10% | ~1 |
 | Radiant Offerings | 0.10% | ~1 |
 | Umbral Offerings | 0.10% | ~1 |
-| Shades of Violence | 0.10% | ~1 |
 | Rise and Fall | 0.10% | ~1 |
 | Together in Death | 0.10% | ~1 |
 | Burying the Past | 0.10% | ~1 |
@@ -61,15 +63,13 @@ Rating: 4.20 (Ranked 896)
 | Back to the Void | 0.10% | ~1 |
 | A Shadow Dispelled | 0.10% | ~1 |
 | Essence of Death | 0.10% | ~1 |
-| Thriving in Darkness | 0.10% | ~1 |
 | Seasoned | 0.10% | ~1 |
 | Lord of the Fallen | 0.10% | ~1 |
-| The Past Shapes the Present | 0.10% | ~1 |
 | Lingering Moments | 0.10% | ~1 |
 | A Rest Among the Dead | 0.10% | ~1 |
 | A Trace of Venom | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,280 (Ranked 234)  
+Progressed: 1,283 (Ranked 234)  
 Completed: 1 (0.08%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.08%) (Ranked 277)
 | 2023-10-29 | 1,199 | 1 |
 | 2023-10-30 | 1,237 | 1 |
 | 2023-10-31 | 1,268 | 1 |
-| 2023-11-01 | 1,280 | 1 |
+| 2023-11-01 | 1,283 | 1 |
 ## Awards
 Max (Character Customization): 109  (Ranked 344)  
 Sum: 178 (Ranked 407)  

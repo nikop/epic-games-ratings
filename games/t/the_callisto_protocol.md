@@ -29,7 +29,7 @@ Rating: 4.19 (Ranked 907)
 | What Lies Beneath | 4.00% | ~655 |
 | It's Time | 4.00% | ~172 |
 | The Commonality | 3.00% | ~491 |
-| In Striking Distance | 2.00% | ~327 |
+| In Striking Distance | 2.00% | ~328 |
 | One Last Job | 2.00% | ~86 |
 | This Isn't About Escape | 1.00% | ~43 |
 | Big Spender | 0.90% | ~39 |
@@ -39,7 +39,7 @@ Rating: 4.19 (Ranked 907)
 | Information Overload | 0.70% | ~30 |
 | Mugshot | 0.60% | ~98 |
 | Quick Pick | 0.60% | ~26 |
-| Instigator | 0.50% | ~21 |
+| Instigator | 0.50% | ~22 |
 | Subject Alpha | 0.30% | ~13 |
 | Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~33 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 907)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,373 (Ranked 140)  
+Progressed: 16,375 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 78 (0.48%) (Ranked 193)
 | 2023-10-29 | 16,345 | 78 |
 | 2023-10-30 | 16,360 | 78 |
 | 2023-10-31 | 16,372 | 78 |
-| 2023-11-01 | 16,373 | 78 |
+| 2023-11-01 | 16,375 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 382)  
 Sum: 465 (Ranked 325)  

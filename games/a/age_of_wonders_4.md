@@ -6,9 +6,9 @@ Rating: 4.60 (Ranked 407)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 9.00% | ~474 |
+| Walls Cannot Stop Us | 8.00% | ~421 |
 | Realm Estate | 7.00% | ~368 |
 | A Wonderful Discovery | 7.00% | ~368 |
-| Walls Cannot Stop Us | 7.00% | ~368 |
 | Bone Peddler | 7.00% | ~368 |
 | From Friends to Family | 7.00% | ~368 |
 | Stronger Together | 7.00% | ~368 |
@@ -28,10 +28,10 @@ Rating: 4.60 (Ranked 407)
 | Impenetrable Fortress | 5.00% | ~263 |
 | Here be Dragons | 5.00% | ~263 |
 | Blood of the Dragon | 5.00% | ~263 |
-| Return of the Wizard King | 4.00% | ~210 |
-| Arch Mage | 4.00% | ~210 |
-| Enchanted Archipelago | 4.00% | ~210 |
-| Preparation Is Everything | 4.00% | ~210 |
+| Return of the Wizard King | 4.00% | ~211 |
+| Arch Mage | 4.00% | ~211 |
+| Enchanted Archipelago | 4.00% | ~211 |
+| Preparation Is Everything | 4.00% | ~211 |
 | God Emperor | 3.00% | ~158 |
 | Lord of Chaos | 3.00% | ~158 |
 | The Creator | 3.00% | ~158 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 407)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,262 (Ranked 181)  
+Progressed: 5,263 (Ranked 181)  
 Completed: 6 (0.11%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,6 +220,7 @@ Completed: 6 (0.11%) (Ranked 258)
 | 2023-10-29 | 5,250 | 6 |
 | 2023-10-30 | 5,254 | 6 |
 | 2023-10-31 | 5,262 | 6 |
+| 2023-11-01 | 5,263 | 6 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 497)  
 Sum: 28 (Ranked 509)  

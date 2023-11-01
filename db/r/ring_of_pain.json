@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 59,
@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238932,
+  "EOS_Progressed": 238934,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23481,6 +23481,11 @@
       "Time": "2023-11-01T08:10:01.5907304+00:00",
       "NumProgressed": 238932,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-01T09:10:05.4666057+00:00",
+      "NumProgressed": 238934,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24426,9 +24431,9 @@
       "ID": "WINNOSPELLS",
       "SetID": "5l8oe0h",
       "Name": "Martial Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WINWITHFIRSTITEM",
@@ -24595,13 +24600,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238932,
+      "Progressed": 238934,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 412,
+      "Progressed": 414,
       "Completed": 354
     }
   ],
@@ -24609,8 +24614,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:10:01.5907295+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:10:05.466605+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:03:17.2529591+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:10:01.5913595+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:03:20.3751735+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:10:05.4669648+00:00"
 }

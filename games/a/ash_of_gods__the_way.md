@@ -10,9 +10,9 @@
 | Train hard, fight easy | 43.00% | ~3 |
 | Royal blessing | 43.00% | ~3 |
 | Under cover | 43.00% | ~3 |
+| A hidden snake | 43.00% | ~3 |
 | Surpass the teacher | 29.00% | ~2 |
 | By own strength | 29.00% | ~2 |
-| A hidden snake | 29.00% | ~2 |
 | Blood and sand | 29.00% | ~2 |
 | Crimson rivers | 14.00% | ~1 |
 | Overplay the rogue | 14.00% | ~1 |

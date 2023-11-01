@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 720,
+  "EOS_Progressed": 721,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2051,6 +2051,11 @@
       "Time": "2023-10-29T09:09:46.4594119+00:00",
       "NumProgressed": 720,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T09:09:20.6940219+00:00",
+      "NumProgressed": 721,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2164,9 +2169,9 @@
       "ID": "HeadOnHerShoulders",
       "SetID": "2aagp3d",
       "Name": "Gnowlledgeable",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 14
     },
     {
       "ID": "HexMaster",
@@ -2317,7 +2322,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 720,
+      "Progressed": 721,
       "Completed": 1
     }
   ],
@@ -2325,8 +2330,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:09:16.4141501+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:09:20.6940211+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:11.2415814+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:01:38.7254185+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:09:16.4142154+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:01:31.4967959+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:09:20.6940748+00:00"
 }

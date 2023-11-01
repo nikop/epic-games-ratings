@@ -11,7 +11,7 @@
 | Blobmeister | 26.00% | ~250 |
 | Exhaustive Explorer | 26.00% | ~250 |
 | How Low Can We Go? | 24.00% | ~231 |
-| Team Builder | 19.00% | ~183 |
+| Team Builder | 20.00% | ~192 |
 | Aggressive Antivirus | 14.00% | ~135 |
 | Long Live Rock | 14.00% | ~135 |
 | Effective Efficiency | 13.00% | ~125 |

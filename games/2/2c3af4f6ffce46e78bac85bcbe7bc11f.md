@@ -10,10 +10,10 @@
 | Something to long for... | 16.00% | ~12 |
 | Something monumental... | 13.00% | ~10 |
 | Something natural... | 13.00% | ~10 |
+| Something firmly rooted... | 13.00% | ~10 |
 | Something gentle... | 12.00% | ~9 |
 | Something fully in bloom... | 12.00% | ~9 |
 | Somewhere to belong... | 12.00% | ~9 |
-| Something firmly rooted... | 12.00% | ~9 |
 | Something reflective... | 12.00% | ~9 |
 | Something free... | 10.00% | ~8 |
 | Something to make you dream... (fragile) | 10.00% | ~8 |

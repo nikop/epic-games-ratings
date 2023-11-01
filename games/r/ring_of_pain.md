@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 442)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -119,6 +119,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ignoring Midgame | 0.10% | ~239 |
 | Quick To Pick | 0.10% | ~239 |
 | Tunnel Vision | 0.10% | ~239 |
+| Martial Master | 0.10% | ~239 |
 | Sentimental Value | 0.10% | ~239 |
 | Nudie Run | 0.10% | ~239 |
 | Precious | 0.10% | ~239 |
@@ -143,9 +144,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Near Death Experience | 0.00% | ~0 |
 | Down Under | 0.00% | ~0 |
 | No Swapsies | 0.00% | ~0 |
-| Martial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,932 (Ranked 59)  
+Progressed: 238,934 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 286 (0.12%) (Ranked 257)
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
-| 2023-11-01 | 238,932 | 286 |
+| 2023-11-01 | 238,934 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

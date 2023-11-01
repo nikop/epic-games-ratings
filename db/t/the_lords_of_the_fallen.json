@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1280,
+  "EOS_Progressed": 1283,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-11-01T08:05:59.8223794+00:00",
       "NumProgressed": 1280,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T09:06:04.803714+00:00",
+      "NumProgressed": 1283,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -1332,17 +1337,17 @@
       "ID": "TLOTF_ACHIEVEMENT_002",
       "SetID": "87e61g",
       "Name": "A Veil Lifted",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
       "SetID": "87e61g",
       "Name": "Lost and Found",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -1476,17 +1481,17 @@
       "ID": "TLOTF_ACHIEVEMENT_020",
       "SetID": "87e61g",
       "Name": "Comrades",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
       "SetID": "87e61g",
       "Name": "Shared Triumph",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -1500,9 +1505,9 @@
       "ID": "TLOTF_ACHIEVEMENT_023",
       "SetID": "87e61g",
       "Name": "No Mercy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -1532,9 +1537,9 @@
       "ID": "TLOTF_ACHIEVEMENT_027",
       "SetID": "87e61g",
       "Name": "Shades of Violence",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_028",
@@ -1772,9 +1777,9 @@
       "ID": "TLOTF_ACHIEVEMENT_057",
       "SetID": "87e61g",
       "Name": "Thriving in Darkness",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -1796,9 +1801,9 @@
       "ID": "TLOTF_ACHIEVEMENT_060",
       "SetID": "87e61g",
       "Name": "The Past Shapes the Present",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_061",
@@ -1829,7 +1834,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1280,
+      "Progressed": 1283,
       "Completed": 1
     }
   ],
@@ -1837,8 +1842,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-01T02:23:27.6646224+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:05:59.8223788+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:06:04.8037133+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.0141073+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:03:20.7685846+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:05:59.8224495+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:03:23.2860533+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:06:04.8037924+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 122)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~45,003 |
-| First Class Student | 14.00% | ~42,003 |
+| The Sort Who Makes an Entrance | 15.00% | ~45,004 |
+| First Class Student | 14.00% | ~42,004 |
 | Troll with the Punches | 13.00% | ~39,003 |
 | A Keen Sense of Spell | 12.00% | ~36,003 |
 | That's a Keeper | 12.00% | ~36,003 |
@@ -17,19 +17,19 @@ Rating: 4.76 (Ranked 122)
 | Loom for Improvement | 11.00% | ~33,003 |
 | A Talent for Spending | 11.00% | ~33,003 |
 | Coasting Along | 11.00% | ~33,003 |
-| The Hero of Hogwarts | 10.00% | ~30,002 |
-| Challenge Accepted | 10.00% | ~30,002 |
-| Followed the Butterflies | 10.00% | ~30,002 |
+| The Hero of Hogwarts | 10.00% | ~30,003 |
+| Challenge Accepted | 10.00% | ~30,003 |
+| Followed the Butterflies | 10.00% | ~30,003 |
 | The Spell Master | 9.00% | ~27,002 |
 | Rising From the Ashes | 9.00% | ~27,002 |
 | The Avenging Gazelle | 8.00% | ~24,002 |
 | Beast Friends | 8.00% | ~24,002 |
 | A Sallow Grave | 8.00% | ~24,002 |
 | Flight the Good Flight | 8.00% | ~24,002 |
-| The Seeker of Knowledge | 6.00% | ~18,001 |
-| The Root of the Problem | 6.00% | ~18,001 |
-| Third Time's a Charm | 6.00% | ~18,001 |
-| Raising Expectations | 6.00% | ~18,001 |
+| The Seeker of Knowledge | 6.00% | ~18,002 |
+| The Root of the Problem | 6.00% | ~18,002 |
+| Third Time's a Charm | 6.00% | ~18,002 |
+| Raising Expectations | 6.00% | ~18,002 |
 | The Toast of the Town | 5.00% | ~15,001 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,001 |
 | The Ends Petrify the Means | 5.00% | ~15,001 |
@@ -40,10 +40,10 @@ Rating: 4.76 (Ranked 122)
 | Put Down Roots | 3.00% | ~9,001 |
 | The Auror's Apprentice | 3.00% | ~9,001 |
 | Floo Around the World | 3.00% | ~9,001 |
-| The Good Samaritan | 2.00% | ~6,000 |
-| Rise to the Challenges | 2.00% | ~6,000 |
-| Finishing Touches | 2.00% | ~6,000 |
-| A Forte for Achievement | 2.00% | ~6,000 |
+| The Good Samaritan | 2.00% | ~6,001 |
+| Rise to the Challenges | 2.00% | ~6,001 |
+| Finishing Touches | 2.00% | ~6,001 |
+| A Forte for Achievement | 2.00% | ~6,001 |
 | Savvy Spender | 1.00% | ~3,000 |
 | Merlin's Beard! | 1.00% | ~3,000 |
 | Demiguise Dread | 1.00% | ~3,000 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 122)
 | The Nature of the Beast | 0.70% | ~2,100 |
 | Collector's Edition | 0.30% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,023 (Ranked 48)  
+Progressed: 300,026 (Ranked 48)  
 Completed: 498 (0.17%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 498 (0.17%) (Ranked 244)
 | 2023-10-29 | 299,675 | 497 |
 | 2023-10-30 | 299,853 | 498 |
 | 2023-10-31 | 299,993 | 498 |
-| 2023-11-01 | 300,023 | 498 |
+| 2023-11-01 | 300,026 | 498 |
 ## Awards
 Max (Character Customization): 23,929  (Ranked 17)  
 Sum: 47,124 (Ranked 30)  

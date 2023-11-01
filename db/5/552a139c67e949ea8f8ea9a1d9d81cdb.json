@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 769,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1282,6 +1282,11 @@
       "Time": "2023-11-01T08:03:34.2390235+00:00",
       "NumProgressed": 768,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T09:03:37.7154939+00:00",
+      "NumProgressed": 769,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1294,7 +1299,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1438,7 +1443,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1470,7 +1475,7 @@
       "Name": "The Scorpion",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1534,7 +1539,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1558,7 +1563,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1630,27 +1635,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 769,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 436,
-      "Completed": 436
+      "Progressed": 437,
+      "Completed": 437
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:03:34.2390225+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:03:37.7154928+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:59:08.2627928+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:03:34.2391052+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:59:01.4501997+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:03:37.7155575+00:00"
 }

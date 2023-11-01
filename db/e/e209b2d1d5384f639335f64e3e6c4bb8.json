@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316738,
+  "EOS_Progressed": 316748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3153,
+  "EOS_NewPlayers": 3147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8519,6 +8519,11 @@
       "Time": "2023-11-01T08:07:48.1448181+00:00",
       "NumProgressed": 316738,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T09:07:52.7428572+00:00",
+      "NumProgressed": 316748,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -8555,7 +8560,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 139365
+      "UsersEstimate": 139369
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -8563,7 +8568,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 101356
+      "UsersEstimate": 101359
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -8571,7 +8576,7 @@
       "Name": "Cape Wrath",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 66515
+      "UsersEstimate": 66517
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -8579,7 +8584,7 @@
       "Name": "Kalash Site",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 47511
+      "UsersEstimate": 47512
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -8587,7 +8592,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 38009
+      "UsersEstimate": 38010
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -8595,7 +8600,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31674
+      "UsersEstimate": 31675
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -8603,7 +8608,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 28506
+      "UsersEstimate": 28507
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -8611,7 +8616,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25339
+      "UsersEstimate": 25340
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -8619,7 +8624,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 25339
+      "UsersEstimate": 25340
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -8651,7 +8656,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 19004
+      "UsersEstimate": 19005
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -8907,20 +8912,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 161536
+      "UsersEstimate": 161541
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 316738,
+      "Progressed": 316748,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 316727,
+      "Progressed": 316737,
       "Completed": 0
     }
   ],
@@ -8928,8 +8933,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-28T13:02:23.169966+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:07:48.1448173+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:07:52.7428564+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.0909695+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:57:40.9017287+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:07:48.1449133+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:57:38.3556317+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:07:52.7429889+00:00"
 }

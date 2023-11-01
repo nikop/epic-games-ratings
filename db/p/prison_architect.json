@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6447,9 +6447,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 189423,
+  "EOS_Progressed": 189426,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2389,
+  "EOS_NewPlayers": 2382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28547,6 +28547,11 @@
       "Time": "2023-11-01T08:09:12.0043438+00:00",
       "NumProgressed": 189423,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-01T09:09:16.1806341+00:00",
+      "NumProgressed": 189426,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -28558,7 +28563,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "Achievement_1",
@@ -28646,7 +28651,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "Achievement_6",
@@ -28685,15 +28690,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 189423,
+      "Progressed": 189426,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-01T02:58:15.940126+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:09:12.004343+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:09:16.1806334+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:12.0759193+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:58:44.2512702+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:09:12.0044954+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:58:38.161068+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:09:16.1807866+00:00"
 }

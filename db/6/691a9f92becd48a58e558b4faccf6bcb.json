@@ -4,8 +4,8 @@
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -822,6 +822,11 @@
       "Time": "2023-11-01T04:08:47.3009684+00:00",
       "NumProgressed": 174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T09:09:15.275129+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -834,7 +839,7 @@
       "Name": "Minimalist lifestyle",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
@@ -842,7 +847,7 @@
       "Name": "I deliver the presents!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_HOME",
@@ -850,7 +855,7 @@
       "Name": "A new HOME",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
@@ -858,7 +863,7 @@
       "Name": "Lost forever",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -938,7 +943,7 @@
       "Name": "Silver Button",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -954,7 +959,7 @@
       "Name": "Silver Hat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -977,13 +982,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:09:10.9233104+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:09:15.2751283+00:00",
   "LastUpdate_AppInfo": "2023-10-29T20:57:20.4448218+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:57:51.7506676+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:09:10.9233322+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:57:48.7812379+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:09:15.2751502+00:00"
 }

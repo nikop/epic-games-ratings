@@ -31,15 +31,15 @@
 | Missing in Action | 44.00% | ~391 |
 | Very Elusive | 44.00% | ~391 |
 | Head Hunter | 44.00% | ~391 |
+| Sentinel Ally | 43.00% | ~382 |
 | Operative | 43.00% | ~382 |
 | Scholar | 43.00% | ~382 |
 | Veteran | 42.00% | ~373 |
-| Sentinel Ally | 42.00% | ~373 |
 | The Professor | 40.00% | ~356 |
 | Power Full | 40.00% | ~356 |
 | The Archangel | 39.00% | ~347 |
 | The Convict | 39.00% | ~347 |
-| Colony Defense | 37.00% | ~329 |
+| Colony Defense | 38.00% | ~338 |
 | The Krogan | 37.00% | ~329 |
 | Ghost Ship | 36.00% | ~320 |
 | Galactic Explorer | 36.00% | ~320 |

@@ -53,7 +53,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Up Close And Personal | 0.40% | ~86 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,600 (Ranked 128)  
-Completed: 80 (0.37%) (Ranked 207)  
+Completed: 80 (0.37%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

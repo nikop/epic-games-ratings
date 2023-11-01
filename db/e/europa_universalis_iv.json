@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11457,9 +11457,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 444091,
+  "EOS_Progressed": 444113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5176,
+  "EOS_NewPlayers": 5179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33692,6 +33692,11 @@
       "Time": "2023-11-01T08:06:04.6800657+00:00",
       "NumProgressed": 444091,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T09:06:09.9689827+00:00",
+      "NumProgressed": 444113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33983,7 +33988,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -34215,7 +34220,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "achievement_cold_war",
@@ -34703,7 +34708,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17764
+      "UsersEstimate": 17765
     },
     {
       "ID": "achievement_grand_coalition",
@@ -36207,7 +36212,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -36367,7 +36372,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17764
+      "UsersEstimate": 17765
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36399,7 +36404,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17764
+      "UsersEstimate": 17765
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36534,21 +36539,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 444091,
+      "Progressed": 444113,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 444091,
+      "Progressed": 444113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-31T22:59:21.1311761+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:06:04.6800649+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:06:09.968982+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:59:45.010234+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:06:04.6816999+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:59:38.7564958+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:06:09.9704709+00:00"
 }

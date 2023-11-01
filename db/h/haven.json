@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -183,9 +183,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1499,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2008,6 +2008,11 @@
       "Time": "2023-10-29T15:04:57.6229835+00:00",
       "NumProgressed": 1499,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-01T09:04:06.0979408+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -2025,9 +2030,9 @@
       "ID": "10",
       "SetID": "n50no0",
       "Name": "Perfect timing",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 150
     },
     {
       "ID": "11",
@@ -2083,7 +2088,7 @@
       "Name": "Balding bloot!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "18",
@@ -2258,15 +2263,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1499,
+      "Progressed": 1500,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-10-06T22:00:04.7633504+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:04:02.5733587+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:04:06.0979399+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:55.4897356+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:59:53.387433+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:04:02.5734064+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:59:46.7996285+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:04:06.0979992+00:00"
 }

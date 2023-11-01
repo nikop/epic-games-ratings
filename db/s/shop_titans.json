@@ -6811,9 +6811,9 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138416,
+  "EOS_Progressed": 138419,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26696,6 +26696,11 @@
       "Time": "2023-11-01T08:07:10.9397598+00:00",
       "NumProgressed": 138416,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-01T09:07:15.7813161+00:00",
+      "NumProgressed": 138419,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26739,7 +26744,7 @@
       "Name": "Top of the World",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "argon_a",
@@ -26771,7 +26776,7 @@
       "Name": "Constellated",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ashley_a",
@@ -26827,7 +26832,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "bookentry",
@@ -26891,7 +26896,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "collection01",
@@ -26915,7 +26920,7 @@
       "Name": "Archivist",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "collection04",
@@ -26939,7 +26944,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "commonres02",
@@ -26963,7 +26968,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "craft01",
@@ -26971,7 +26976,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "craft02",
@@ -26995,7 +27000,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "craft05",
@@ -27155,7 +27160,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "fuseuncommon",
@@ -27179,7 +27184,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "gold02",
@@ -27283,7 +27288,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "level01",
@@ -27347,7 +27352,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "loot04",
@@ -27387,7 +27392,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "master05",
@@ -27459,7 +27464,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "rareres03",
@@ -27507,7 +27512,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "transmuter",
@@ -27563,7 +27568,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "workers01",
@@ -27602,15 +27607,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138416,
+      "Progressed": 138419,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-01T07:00:07.0206659+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:07:10.9397591+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:07:15.7813153+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:00:33.7871526+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:07:10.9400516+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:00:27.9170329+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:07:15.781814+00:00"
 }

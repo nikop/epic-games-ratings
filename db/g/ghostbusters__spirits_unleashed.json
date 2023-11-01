@@ -2881,10 +2881,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2652,
       "NumberOfAwardsMax": 298
+    },
+    {
+      "Time": "2023-11-01T09:01:45.2425573+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2656,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2652,
+  "NumberOfAwards": 2656,
   "NumberOfAwardsMax": 298,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2946,7 +2952,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 254
+      "Count": 258
     },
     {
       "Text": "This game has Competitive Players",
@@ -2961,9 +2967,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29415,
+  "EOS_Progressed": 29424,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1850,
+  "EOS_NewPlayers": 1855,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17371,6 +17377,11 @@
       "Time": "2023-11-01T08:05:36.4319429+00:00",
       "NumProgressed": 29415,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-01T09:05:41.2664889+00:00",
+      "NumProgressed": 29424,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17422,7 +17433,7 @@
       "Name": "Clutch Capture",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Collect_Spores",
@@ -17430,7 +17441,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Collector",
@@ -17446,7 +17457,7 @@
       "Name": "Cultured",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Daily_Dose",
@@ -17518,7 +17529,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "GB_In_Training",
@@ -17670,7 +17681,7 @@
       "Name": "Solo Capture",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Stunner",
@@ -17710,7 +17721,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Teamwork",
@@ -17718,7 +17729,7 @@
       "Name": "Teamwork",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Terrifying",
@@ -17742,7 +17753,7 @@
       "Name": "There you are!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Tobins_Prodigy",
@@ -17766,7 +17777,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "Welcome_Crew",
@@ -17782,23 +17793,23 @@
       "Name": "Whoopsie",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29415,
+      "Progressed": 29424,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-01T04:00:18.3704681+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:05:36.4319418+00:00",
+  "LastChanged": "2023-11-01T09:01:45.242557+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:05:41.2664876+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:01:52.4822827+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:05:36.4321796+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:01:45.2425577+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:05:41.2667245+00:00"
 }

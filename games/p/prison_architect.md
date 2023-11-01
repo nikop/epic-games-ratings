@@ -13,8 +13,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | Don't Put Me In The Dark | 3.00% | ~5,683 |
 | Wait and Hope | 3.00% | ~5,683 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,683 |
-| Throw The Book At Them | 2.00% | ~3,788 |
-| Iron Bars | 2.00% | ~3,788 |
+| Throw The Book At Them | 2.00% | ~3,789 |
+| Iron Bars | 2.00% | ~3,789 |
 | D.B. Cooper | 1.00% | ~1,894 |
 | Reformation | 0.60% | ~1,137 |
 | Crowd Control | 0.50% | ~947 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~189 |
 | ... It's What You Can Prove | 0.10% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,423 (Ranked 73)  
+Progressed: 189,426 (Ranked 73)  
 Completed: 8 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 8 (0.00%) (Ranked 334)
 | 2023-10-29 | 188,745 | 8 |
 | 2023-10-30 | 189,058 | 8 |
 | 2023-10-31 | 189,357 | 8 |
-| 2023-11-01 | 189,423 | 8 |
+| 2023-11-01 | 189,426 | 8 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 200)  
 Sum: 4,721 (Ranked 142)  

@@ -4,8 +4,8 @@
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 424,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 118,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 120,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 77,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 5.19,
   "EosHistory": [
@@ -609,9 +609,9 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Tree_Fragile",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-01T08:07:36.3081046+00:00",
+  "LastChanged_Achievements": "2023-11-01T09:07:40.9613237+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:17.513407+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:58:34.4606857+00:00",
-  "LastUpdate_Achievements": "2023-11-01T08:07:36.3081431+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:58:27.4946934+00:00",
+  "LastUpdate_Achievements": "2023-11-01T09:07:40.9613607+00:00"
 }
