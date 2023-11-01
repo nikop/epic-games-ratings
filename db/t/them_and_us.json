@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 294,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2023-11-01T01:54:45.3880743+00:00",
       "NumProgressed": 293,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T08:08:30.5026158+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1293,7 +1298,7 @@
       "Name": "Alone with Them",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1373,7 +1378,7 @@
       "Name": "Forced to Kill",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1469,7 +1474,7 @@
       "Name": "Rest In Peace",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ETUA_SUPER",
@@ -1533,7 +1538,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -1565,7 +1570,7 @@
       "Name": "A Night To Remember",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ETUA_Trapped",
@@ -1596,7 +1601,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 1
     }
   ],
@@ -1604,8 +1609,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:07:42.8161892+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:08:30.502615+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:58:21.0817356+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:07:42.8162281+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:58:35.2967876+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:08:30.5026578+00:00"
 }

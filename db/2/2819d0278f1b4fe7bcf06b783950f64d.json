@@ -2,9 +2,9 @@
   "ID": "2819d0278f1b4fe7bcf06b783950f64d",
   "Name": "Cats on Duty",
   "ProductSlug": "cats-on-duty-87b2ae",
-  "Ranking_EOS_Progress": 714,
+  "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 433,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-30T15:57:09.8670393+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:57:48.1840136+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:04:02.0578689+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:57:51.5665989+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:04:18.5913571+00:00"
 }

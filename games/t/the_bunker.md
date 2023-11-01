@@ -9,7 +9,7 @@
 | Mother | 80.00% | ~110 |
 | Failure | 77.00% | ~105 |
 | Replace Fuse | 67.00% | ~92 |
-| Alarm | 65.00% | ~89 |
+| Alarm | 66.00% | ~90 |
 | Air Filtration | 62.00% | ~85 |
 | Broken | 61.00% | ~84 |
 | Radiation | 59.00% | ~81 |
@@ -20,9 +20,9 @@
 | Commissioner | 53.00% | ~73 |
 | Leave | 50.00% | ~68 |
 | Doctor | 50.00% | ~68 |
+| Engineer | 50.00% | ~68 |
 | Soldier | 50.00% | ~68 |
 | Churchill | 49.00% | ~67 |
-| Engineer | 49.00% | ~67 |
 | Press Play | 38.00% | ~52 |
 | General | 29.00% | ~40 |
 | Bookworm | 24.00% | ~33 |

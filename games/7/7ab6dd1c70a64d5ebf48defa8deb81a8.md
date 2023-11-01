@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Powerful Allies | 16.00% | ~7 |
-| Break Out | 14.00% | ~6 |
-| Find Allies | 14.00% | ~6 |
+| Break Out | 13.00% | ~6 |
+| Find Allies | 13.00% | ~6 |
 | Adventurer | 11.00% | ~5 |
 | Essence Blow | 11.00% | ~5 |
 | Scholar | 11.00% | ~5 |
@@ -20,8 +20,8 @@
 | Godslayer | 7.00% | ~3 |
 | Geared Up | 7.00% | ~3 |
 | Miner | 7.00% | ~3 |
-| The Mentor | 5.00% | ~2 |
-| A Queen's Tale | 5.00% | ~2 |
+| The Mentor | 4.00% | ~2 |
+| A Queen's Tale | 4.00% | ~2 |
 | Airborne | 2.00% | ~1 |
 | Tributes of Caladrias | 2.00% | ~1 |
 | I Found It | 2.00% | ~1 |
@@ -37,12 +37,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -2.30% | ~-1 |
-| Flawless Victory | -2.30% | ~-1 |
-| Big Bazar | -2.30% | ~-1 |
+| Shatterer | -2.20% | ~-1 |
+| Flawless Victory | -2.20% | ~-1 |
+| Big Bazar | -2.20% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 463)  
-Completed: 1 (2.27%) (Ranked 117)  
+Progressed: 45 (Ranked 461)  
+Completed: 1 (2.22%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 1 (2.27%) (Ranked 117)
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
 | 2023-10-31 | 41 | 1 |
-| 2023-11-01 | 44 | 1 |
+| 2023-11-01 | 45 | 1 |

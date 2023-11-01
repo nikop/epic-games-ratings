@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2724,6 +2724,11 @@
       "Time": "2023-11-01T01:56:32.9908395+00:00",
       "NumProgressed": 958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T08:09:40.0264083+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2848,7 +2853,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_23",
@@ -2872,7 +2877,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_26",
@@ -2960,7 +2965,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "achievement_36",
@@ -2976,7 +2981,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_38",
@@ -3144,7 +3149,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_57",
@@ -3176,7 +3181,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_60",
@@ -3239,13 +3244,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 1
     }
   ],
@@ -3253,8 +3258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:09:13.5642202+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:09:40.0264074+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:59:16.5802156+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:09:13.5642966+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:59:39.5495559+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:09:40.0265201+00:00"
 }

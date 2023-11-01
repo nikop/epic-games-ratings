@@ -7,7 +7,7 @@ Rating: 4.24 (Ranked 869)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,682 |
 | Don't I Know You...? | 77.00% | ~1,619 |
-| Jailbreak | 66.00% | ~1,387 |
+| Jailbreak | 66.00% | ~1,388 |
 | Suited and Booted | 39.00% | ~820 |
 | HEADSHOT! | 38.00% | ~799 |
 | Sleeping With The Fishes | 36.00% | ~757 |
@@ -15,17 +15,17 @@ Rating: 4.24 (Ranked 869)
 | High Performance | 30.00% | ~631 |
 | Powered Up | 28.00% | ~589 |
 | Studied The Blade | 25.00% | ~526 |
-| Home Invasion | 23.00% | ~483 |
-| Luminary | 23.00% | ~483 |
-| True Survivor | 22.00% | ~462 |
-| It's a Trap | 22.00% | ~462 |
-| Offensive Defense | 21.00% | ~441 |
-| Shocking | 20.00% | ~420 |
-| Unforeseeable Consequences | 20.00% | ~420 |
-| Court Martial | 19.00% | ~399 |
-| Clean Cut | 19.00% | ~399 |
-| Dead Again | 18.00% | ~378 |
-| Full Arsenal | 17.00% | ~357 |
+| Home Invasion | 23.00% | ~484 |
+| Luminary | 23.00% | ~484 |
+| It's a Trap | 22.00% | ~463 |
+| True Survivor | 21.00% | ~442 |
+| Offensive Defense | 20.00% | ~421 |
+| Shocking | 20.00% | ~421 |
+| Unforeseeable Consequences | 20.00% | ~421 |
+| Court Martial | 19.00% | ~400 |
+| Clean Cut | 19.00% | ~400 |
+| Dead Again | 18.00% | ~379 |
+| Full Arsenal | 17.00% | ~358 |
 | Can't Trust Banks | 15.00% | ~315 |
 | Mommy Dearest | 14.00% | ~294 |
 | Bad Dog | 14.00% | ~294 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 869)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,102 (Ranked 212)  
+Progressed: 2,103 (Ranked 212)  
 Completed: 13 (0.62%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 13 (0.62%) (Ranked 172)
 | 2023-10-26 | 2,095 | 12 |
 | 2023-10-27 | 2,096 | 13 |
 | 2023-10-31 | 2,098 | 13 |
-| 2023-11-01 | 2,102 | 13 |
+| 2023-11-01 | 2,103 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

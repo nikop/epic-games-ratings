@@ -2,7 +2,7 @@
   "ID": "4c82d55f22d3437c96cf3e0fcb53b73f",
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 494,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 118,
@@ -302,9 +302,9 @@
       "ID": "ACH_024",
       "SetID": "7b646ck",
       "Name": "A rude awakening",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_025",
@@ -470,9 +470,9 @@
       "ID": "ACH_043",
       "SetID": "7b646ck",
       "Name": "Nathaniel Dryden",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_044",
@@ -486,9 +486,9 @@
       "ID": "ACH_045",
       "SetID": "7b646ck",
       "Name": "Bartholomew",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_046",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:05:18.501575+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:05:46.6043678+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.7786932+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:03:10.9065184+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:05:18.5016182+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:03:18.7853775+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:05:46.6044408+00:00"
 }

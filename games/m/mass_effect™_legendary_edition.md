@@ -38,7 +38,7 @@
 | The Professor | 40.00% | ~356 |
 | Power Full | 40.00% | ~356 |
 | The Archangel | 39.00% | ~347 |
-| The Convict | 38.00% | ~338 |
+| The Convict | 39.00% | ~347 |
 | Colony Defense | 37.00% | ~329 |
 | The Krogan | 37.00% | ~329 |
 | Ghost Ship | 36.00% | ~320 |
@@ -72,9 +72,9 @@
 | Mission Accomplished | 29.00% | ~258 |
 | Suicide Mission | 29.00% | ~258 |
 | Mobilizer | 29.00% | ~258 |
+| Untouchable | 28.00% | ~249 |
 | First Aid Specialist | 28.00% | ~249 |
 | Against All Odds | 28.00% | ~249 |
-| Untouchable | 27.00% | ~240 |
 | Giant Killer | 27.00% | ~240 |
 | A House Divided | 27.00% | ~240 |
 | Eye of the Hurricane | 26.00% | ~231 |

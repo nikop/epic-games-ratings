@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "achievement_17",
       "SetID": "7881h0d",
       "Name": "Little Mary",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_18",
@@ -551,8 +551,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:04:22.9695084+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:04:42.580924+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:13.2861384+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:59:35.5736914+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:04:22.9695234+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:59:58.4795732+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:04:42.5809426+00:00"
 }

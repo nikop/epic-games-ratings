@@ -25,13 +25,13 @@
 | Ms. Camilla B. Culsham | 25.00% | ~7 |
 | Irene Court-Smyth | 25.00% | ~7 |
 | The Apartment | 25.00% | ~7 |
-| A rude awakening | 18.00% | ~5 |
-| Nathaniel Dryden | 18.00% | ~5 |
+| A rude awakening | 21.00% | ~6 |
+| Nathaniel Dryden | 21.00% | ~6 |
+| Bartholomew | 14.00% | ~4 |
 | Well-acquainted | 11.00% | ~3 |
 | Truth from within | 11.00% | ~3 |
 | Anastasia Babanin | 11.00% | ~3 |
 | Zakariya Demir | 11.00% | ~3 |
-| Bartholomew | 11.00% | ~3 |
 | The Scheme | 11.00% | ~3 |
 | A curious phrase | 7.00% | ~2 |
 | The Denouement | 4.00% | ~1 |
@@ -51,7 +51,7 @@
 | The Investigation Starts Anew | 4.00% | ~1 |
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 493)  
+Progressed: 28 (Ranked 494)  
 Completed: 0 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |

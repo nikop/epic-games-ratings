@@ -2,9 +2,9 @@
   "ID": "21a01861fc3543d29925066ac87660bd",
   "Name": "Worlds Of The Future",
   "ProductSlug": "worlds-of-the-future",
-  "Ranking_EOS_Progress": 714,
+  "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 433,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.3420258+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:00:50.3249654+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:08:38.207338+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:01:24.7049318+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:08:58.979033+00:00"
 }

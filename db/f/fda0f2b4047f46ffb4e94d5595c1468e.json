@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -6630,9 +6630,9 @@
       "ID": "ach21",
       "SetID": "47in8n6",
       "Name": "Rollin\u0027 With My Krew",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ach22",
@@ -6879,8 +6879,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-01T01:48:18.0200968+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:03:39.5104978+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:03:53.0128369+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:01:34.150474+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:03:39.5106297+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:02:18.4907532+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:03:53.0129095+00:00"
 }

@@ -4049,9 +4049,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11963,
+  "EOS_Progressed": 11964,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14879,6 +14879,11 @@
       "Time": "2023-11-01T00:04:58.063965+00:00",
       "NumProgressed": 11963,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T08:06:39.1808101+00:00",
+      "NumProgressed": 11964,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -14890,7 +14895,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "02_BurningCity",
@@ -15138,7 +15143,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15258,7 +15263,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "49_Flame",
@@ -15817,21 +15822,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10745,
+      "Progressed": 10746,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11963,
+      "Progressed": 11964,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-10-31T13:57:41.8252457+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:06:06.2317372+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:06:39.1808094+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:58:10.8536413+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:06:06.2319827+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:58:23.170921+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:06:39.1810574+00:00"
 }

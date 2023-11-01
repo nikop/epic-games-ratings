@@ -2483,9 +2483,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 249
     },
     {
       "ID": "achievement_104",
@@ -2987,9 +2987,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_47",
@@ -3471,8 +3471,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-01T07:07:05.5192668+00:00",
+  "LastChanged_Achievements": "2023-11-01T08:07:47.4160183+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-01T07:00:25.7989929+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:07:05.5195014+00:00"
+  "LastUpdate_Ratings": "2023-11-01T08:00:56.4051785+00:00",
+  "LastUpdate_Achievements": "2023-11-01T08:07:47.4162755+00:00"
 }

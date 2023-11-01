@@ -2,9 +2,9 @@
   "ID": "e53f61969af043f8a9cf3892b2371963",
   "Name": "KAREN SEES",
   "ProductSlug": "karen-sees-d9ae09",
-  "Ranking_EOS_Progress": 714,
+  "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 433,
   "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-25T14:57:13.1889932+00:00",
   "LastUpdate_Ratings": "2023-11-01T07:02:52.8788252+00:00",
-  "LastUpdate_Achievements": "2023-11-01T07:03:59.0148564+00:00"
+  "LastUpdate_Achievements": "2023-11-01T08:04:15.2090963+00:00"
 }
