@@ -6,28 +6,28 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~26,532 |
-| Quick Understanding of Block Extrusion | 68.00% | ~24,056 |
-| Nature or Nurture | 51.00% | ~18,042 |
-| Power Glove | 49.00% | ~17,334 |
-| Forgotten Memories | 42.00% | ~14,858 |
-| Cogs in the Machine | 35.00% | ~12,382 |
-| Mission Success | 21.00% | ~7,429 |
-| There's No Place Like Home | 21.00% | ~7,429 |
-| Green Cube Killer | 18.00% | ~6,368 |
-| Path to Salvation | 15.00% | ~5,306 |
-| Infinity Loop | 14.00% | ~4,953 |
-| Descendants | 12.00% | ~4,245 |
-| The Flawed Teacher | 10.00% | ~3,538 |
-| To Infinity and Beyond | 5.00% | ~1,769 |
-| The Truthful Enemy | 4.00% | ~1,415 |
+| Lost in Space | 75.00% | ~26,546 |
+| Quick Understanding of Block Extrusion | 68.00% | ~24,069 |
+| Nature or Nurture | 51.00% | ~18,051 |
+| Power Glove | 49.00% | ~17,344 |
+| Forgotten Memories | 42.00% | ~14,866 |
+| Cogs in the Machine | 35.00% | ~12,388 |
+| Mission Success | 21.00% | ~7,433 |
+| There's No Place Like Home | 21.00% | ~7,433 |
+| Green Cube Killer | 18.00% | ~6,371 |
+| Path to Salvation | 15.00% | ~5,309 |
+| Infinity Loop | 14.00% | ~4,955 |
+| Descendants | 12.00% | ~4,247 |
+| The Flawed Teacher | 10.00% | ~3,540 |
+| To Infinity and Beyond | 5.00% | ~1,770 |
+| The Truthful Enemy | 4.00% | ~1,416 |
 | Laser Sharp | 2.00% | ~708 |
 | Bronze collector | 1.00% | ~354 |
 | Home Stretch | 1.00% | ~354 |
 | Gold collector | 1.00% | ~354 |
 | Silver collector | 1.00% | ~354 |
 | Get me out of here | 1.00% | ~354 |
-| True collector | 0.90% | ~318 |
+| True collector | 0.90% | ~319 |
 | Competent Collector | 0.80% | ~283 |
 | Puzzle Master | 0.80% | ~283 |
 | Coming Home | 0.80% | ~283 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.70% | ~248 |
 | Expert Collector | 0.70% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,376 (Ranked 120)  
-Completed: 107 (0.30%) (Ranked 218)  
+Progressed: 35,395 (Ranked 120)  
+Completed: 107 (0.30%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 107 (0.30%) (Ranked 218)
 | 2023-10-29 | 34,610 | 101 |
 | 2023-10-30 | 34,937 | 101 |
 | 2023-10-31 | 35,237 | 106 |
-| 2023-11-01 | 35,376 | 107 |
+| 2023-11-01 | 35,395 | 107 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

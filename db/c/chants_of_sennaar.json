@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.38,
+  "EOS_Completed_Percentage": 6.36,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1610,6 +1610,11 @@
       "Time": "2023-11-01T13:10:57.3697379+00:00",
       "NumProgressed": 345,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-01T14:07:40.381628+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1629,7 +1634,7 @@
       "Name": "In this together",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "META_ALL_LINK",
@@ -1637,7 +1642,7 @@
       "Name": "Peace walker",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1661,7 +1666,7 @@
       "Name": "Half the way",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1685,7 +1690,7 @@
       "Name": "Feels like springtime",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1717,7 +1722,7 @@
       "Name": "Alchemists Express",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1739,9 +1744,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1757,15 +1762,15 @@
       "Name": "Champollion",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1820,14 +1825,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:10:57.3697371+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:07:40.3816275+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:04:17.3273246+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:10:57.3697679+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:00:37.9209667+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:07:40.3816689+00:00"
 }

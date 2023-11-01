@@ -2,8 +2,8 @@
   "ID": "dad208fc27084f0fa6ac1cd333c53f57",
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
-  "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 483,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 1.51,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-10-29T23:05:30.6543669+00:00",
@@ -154,6 +154,11 @@
       "Time": "2023-11-01T13:09:43.8921475+00:00",
       "NumProgressed": 465,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-01T14:06:13.8594739+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -166,7 +171,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -174,7 +179,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -182,23 +187,23 @@
       "Name": "Collect the mask",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
       "SetID": "4d50jip",
       "Name": "Unlock the gate",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
       "SetID": "4d50jip",
       "Name": "Unlock the PC",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -206,7 +211,7 @@
       "Name": "Move the sofa",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -214,15 +219,15 @@
       "Name": "Turn on the TV",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
       "SetID": "4d50jip",
       "Name": "Wrong passcode",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -254,7 +259,7 @@
       "Name": "Speedrunner",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_OPENGATE",
@@ -268,9 +273,9 @@
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_PC",
       "SetID": "4d50jip",
       "Name": "Unlock the PC in Speedrun",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_SOFA",
@@ -286,21 +291,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 483,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:09:43.8921466+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:06:13.8594733+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:23.7565535+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:05:54.7061912+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:09:43.8921687+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:02:34.5275157+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:06:13.8594901+00:00"
 }

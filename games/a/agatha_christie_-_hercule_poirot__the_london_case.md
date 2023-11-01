@@ -15,10 +15,10 @@
 | Impossible is possible | 52.00% | ~15 |
 | The Missing Magdalene | 52.00% | ~15 |
 | Arthur Hastings | 52.00% | ~15 |
-| Everything matters | 38.00% | ~11 |
-| Order and method | 38.00% | ~11 |
+| Everything matters | 41.00% | ~12 |
+| Order and method | 41.00% | ~12 |
+| An expert mediator | 38.00% | ~11 |
 | DI Hardwicke | 38.00% | ~11 |
-| An expert mediator | 34.00% | ~10 |
 | Betty Allen | 31.00% | ~9 |
 | The Investigation Begins | 31.00% | ~9 |
 | An odd series of events | 24.00% | ~7 |
@@ -27,32 +27,32 @@
 | The Apartment | 24.00% | ~7 |
 | A rude awakening | 21.00% | ~6 |
 | Nathaniel Dryden | 21.00% | ~6 |
+| Bartholomew | 17.00% | ~5 |
+| The Scheme | 17.00% | ~5 |
 | Well-acquainted | 14.00% | ~4 |
+| Truth from within | 14.00% | ~4 |
 | Anastasia Babanin | 14.00% | ~4 |
 | Zakariya Demir | 14.00% | ~4 |
-| Bartholomew | 14.00% | ~4 |
-| The Scheme | 14.00% | ~4 |
-| Truth from within | 10.00% | ~3 |
-| A curious phrase | 7.00% | ~2 |
-| The Denouement | 3.00% | ~1 |
-| Well-travelled | 3.00% | ~1 |
-| A treasured heirloom | 3.00% | ~1 |
-| A peculiar fellow | 3.00% | ~1 |
-| The Penitent Magdalene | 3.00% | ~1 |
-| A true performance | 3.00% | ~1 |
-| Evelyn Lakshmi Warbeck | 3.00% | ~1 |
-| Florence Farquhar | 3.00% | ~1 |
-| Horace Mountjoy | 3.00% | ~1 |
-| Johan Kristiansen | 3.00% | ~1 |
-| Mortimer Ailsworth | 3.00% | ~1 |
-| Perkins | 3.00% | ~1 |
-| The Suspects | 3.00% | ~1 |
-| The Secrets | 3.00% | ~1 |
-| The Investigation Starts Anew | 3.00% | ~1 |
-| A perilous journey | 0.00% | ~0 |
+| A curious phrase | 10.00% | ~3 |
+| The Denouement | 7.00% | ~2 |
+| Well-travelled | 7.00% | ~2 |
+| A treasured heirloom | 7.00% | ~2 |
+| A peculiar fellow | 7.00% | ~2 |
+| The Penitent Magdalene | 7.00% | ~2 |
+| A true performance | 7.00% | ~2 |
+| Evelyn Lakshmi Warbeck | 7.00% | ~2 |
+| Florence Farquhar | 7.00% | ~2 |
+| Horace Mountjoy | 7.00% | ~2 |
+| Johan Kristiansen | 7.00% | ~2 |
+| Mortimer Ailsworth | 7.00% | ~2 |
+| Perkins | 7.00% | ~2 |
+| The Suspects | 7.00% | ~2 |
+| The Secrets | 7.00% | ~2 |
+| The Investigation Starts Anew | 7.00% | ~2 |
+| A perilous journey | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 29 (Ranked 494)  
-Completed: 0 (0.00%) (Ranked 336)  
+Completed: 1 (3.45%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 336)
 | 2023-10-27 | 26 | 0 |
 | 2023-10-30 | 27 | 0 |
 | 2023-10-31 | 28 | 0 |
-| 2023-11-01 | 29 | 0 |
+| 2023-11-01 | 29 | 1 |

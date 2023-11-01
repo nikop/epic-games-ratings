@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 481,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13335,
+  "EOS_Progressed": 13336,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13543,6 +13543,11 @@
       "Time": "2023-11-01T13:12:29.9729981+00:00",
       "NumProgressed": 13335,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-01T14:08:41.0729448+00:00",
+      "NumProgressed": 13336,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13554,7 +13559,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10935
+      "UsersEstimate": 10936
     },
     {
       "ID": "ACH02",
@@ -13562,7 +13567,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACH03",
@@ -13833,7 +13838,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13335,
+      "Progressed": 13336,
       "Completed": 50
     }
   ],
@@ -13841,8 +13846,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:12:29.9729974+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:08:41.0729443+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:05:14.7823369+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:12:29.9730933+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:01:43.6237172+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:08:41.0730583+00:00"
 }

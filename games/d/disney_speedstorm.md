@@ -1,25 +1,25 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 712)  
+Rating: 4.41 (Ranked 713)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,220 |
-| EXTRA BOOST | 3.00% | ~8,110 |
-| IT MAKES BOOM! | 3.00% | ~8,110 |
-| PROTECTED | 2.00% | ~5,407 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,407 |
-| PRO | 2.00% | ~5,407 |
-| A TIGER'S FEAR | 1.00% | ~2,703 |
-| AGGRESSIVE RACER | 1.00% | ~2,703 |
+| ROOKIE | 6.00% | ~16,224 |
+| EXTRA BOOST | 3.00% | ~8,112 |
+| IT MAKES BOOM! | 3.00% | ~8,112 |
+| PROTECTED | 2.00% | ~5,408 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,408 |
+| PRO | 2.00% | ~5,408 |
+| A TIGER'S FEAR | 1.00% | ~2,704 |
+| AGGRESSIVE RACER | 1.00% | ~2,704 |
 | IT'S A LONG WAY TO THE TOP | 0.60% | ~1,622 |
 | DEFEAT OUR CHAMPION | 0.50% | ~1,352 |
 | ACE SPEEDSTER | 0.50% | ~1,352 |
-| RELEASE THE KRAKEN | 0.40% | ~1,081 |
-| BE OUR GUEST | 0.40% | ~1,081 |
-| THE EYE OF THE HUNTER | 0.40% | ~1,081 |
-| LEGENDARY HERO | 0.40% | ~1,081 |
+| RELEASE THE KRAKEN | 0.40% | ~1,082 |
+| BE OUR GUEST | 0.40% | ~1,082 |
+| THE EYE OF THE HUNTER | 0.40% | ~1,082 |
+| LEGENDARY HERO | 0.40% | ~1,082 |
 | TRAINING HARD | 0.30% | ~811 |
 | EXPERIENCED CREW | 0.30% | ~811 |
 | ACE BRAWLER | 0.30% | ~811 |
@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 712)
 | ACE TRICKSTER | 0.20% | ~541 |
 | FRAMED! | 0.10% | ~270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,333 (Ranked 53)  
-Completed: 248 (0.09%) (Ranked 271)  
+Progressed: 270,403 (Ranked 53)  
+Completed: 248 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -221,10 +221,10 @@ Completed: 248 (0.09%) (Ranked 271)
 | 2023-10-29 | 266,267 | 245 |
 | 2023-10-30 | 268,010 | 245 |
 | 2023-10-31 | 269,606 | 248 |
-| 2023-11-01 | 270,333 | 248 |
+| 2023-11-01 | 270,403 | 248 |
 ## Awards
 Max (Great for Beginners): 47  (Ranked 435)  
-Sum: 394 (Ranked 334)  
+Sum: 396 (Ranked 334)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 101
 | This game has Amazing Storytelling | 31 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 30 |
-| This game has Competitive Players | 28 |
+| This game has Competitive Players | 30 |
 | This game has Playful Visuals | 28 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Relaxing | 25 |
@@ -274,4 +274,4 @@ Diff (max vs sum): 101
 | 2023-10-29 | 4.42 | 44 | 363 |
 | 2023-10-30 | 4.42 | 46 | 365 |
 | 2023-10-31 | 4.41 | 46 | 391 |
-| 2023-11-01 | 4.41 | 47 | 394 |
+| 2023-11-01 | 4.41 | 47 | 396 |

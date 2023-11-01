@@ -8,11 +8,11 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 0.30% | ~19 |
 | Hey Good Hookin | 0.30% | ~19 |
+| Scaling up | 0.30% | ~19 |
 | Can you smell what the Rod is Hooking | 0.20% | ~12 |
 | Ready to Rod and Roll | 0.20% | ~12 |
 | I'm on a Boat! | 0.20% | ~12 |
 | More Fish in the Sea | 0.20% | ~12 |
-| Scaling up | 0.20% | ~12 |
 | Fish Out of Water | 0.10% | ~6 |
 | Things that go Splash in the Night | 0.10% | ~6 |
 | License to Gill | 0.10% | ~6 |
@@ -28,6 +28,7 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 0.10% | ~6 |
 | No Fin left to give | 0.10% | ~6 |
 | Taylor Made | 0.10% | ~6 |
+| Big Fish Small Pond | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Fish upon a Star | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
@@ -37,7 +38,6 @@ Number of Ratings: 281  (23.09.2022)
 | Hook, Line and Sinker | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
-| Big Fish Small Pond | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
 | Buckaroo | 0.00% | ~0 |
 | Gonna Need a Bigger Boat | 0.00% | ~0 |
@@ -47,8 +47,8 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,192 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 336)  
+Progressed: 6,193 (Ranked 176)  
+Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,7 +242,7 @@ Completed: 0 (0.00%) (Ranked 336)
 | 2023-10-29 | 6,157 | 0 |
 | 2023-10-30 | 6,167 | 0 |
 | 2023-10-31 | 6,177 | 0 |
-| 2023-11-01 | 6,192 | 0 |
+| 2023-11-01 | 6,193 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 186 (Ranked 402)  

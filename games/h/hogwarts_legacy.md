@@ -5,11 +5,11 @@ Rating: 4.76 (Ranked 122)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~45,008 |
-| First Class Student | 14.00% | ~42,007 |
-| Troll with the Punches | 13.00% | ~39,006 |
-| A Keen Sense of Spell | 12.00% | ~36,006 |
-| That's a Keeper | 12.00% | ~36,006 |
+| The Sort Who Makes an Entrance | 15.00% | ~45,009 |
+| First Class Student | 14.00% | ~42,008 |
+| Troll with the Punches | 13.00% | ~39,008 |
+| A Keen Sense of Spell | 12.00% | ~36,007 |
+| That's a Keeper | 12.00% | ~36,007 |
 | Grappling with a Graphorn | 11.00% | ~33,006 |
 | The One Who Mastered Memories | 11.00% | ~33,006 |
 | The Hallowed Hero | 11.00% | ~33,006 |
@@ -17,22 +17,22 @@ Rating: 4.76 (Ranked 122)
 | Loom for Improvement | 11.00% | ~33,006 |
 | A Talent for Spending | 11.00% | ~33,006 |
 | Coasting Along | 11.00% | ~33,006 |
-| The Hero of Hogwarts | 10.00% | ~30,005 |
-| Challenge Accepted | 10.00% | ~30,005 |
-| Followed the Butterflies | 10.00% | ~30,005 |
-| The Spell Master | 9.00% | ~27,004 |
-| Rising From the Ashes | 9.00% | ~27,004 |
-| The Avenging Gazelle | 8.00% | ~24,004 |
-| Beast Friends | 8.00% | ~24,004 |
-| A Sallow Grave | 8.00% | ~24,004 |
-| Flight the Good Flight | 8.00% | ~24,004 |
+| The Hero of Hogwarts | 10.00% | ~30,006 |
+| Challenge Accepted | 10.00% | ~30,006 |
+| Followed the Butterflies | 10.00% | ~30,006 |
+| The Spell Master | 9.00% | ~27,005 |
+| Rising From the Ashes | 9.00% | ~27,005 |
+| The Avenging Gazelle | 8.00% | ~24,005 |
+| Beast Friends | 8.00% | ~24,005 |
+| A Sallow Grave | 8.00% | ~24,005 |
+| Flight the Good Flight | 8.00% | ~24,005 |
 | The Seeker of Knowledge | 6.00% | ~18,003 |
 | The Root of the Problem | 6.00% | ~18,003 |
 | Third Time's a Charm | 6.00% | ~18,003 |
 | Raising Expectations | 6.00% | ~18,003 |
-| The Toast of the Town | 5.00% | ~15,002 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,002 |
-| The Ends Petrify the Means | 5.00% | ~15,002 |
+| The Toast of the Town | 5.00% | ~15,003 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,003 |
+| The Ends Petrify the Means | 5.00% | ~15,003 |
 | Going Through the Potions | 4.00% | ~12,002 |
 | Room with a View | 4.00% | ~12,002 |
 | The Intrepid Explorer | 4.00% | ~12,002 |
@@ -44,15 +44,15 @@ Rating: 4.76 (Ranked 122)
 | Rise to the Challenges | 2.00% | ~6,001 |
 | Finishing Touches | 2.00% | ~6,001 |
 | A Forte for Achievement | 2.00% | ~6,001 |
-| Savvy Spender | 1.00% | ~3,000 |
-| Merlin's Beard! | 1.00% | ~3,000 |
-| Demiguise Dread | 1.00% | ~3,000 |
-| Spilled Milk | 0.90% | ~2,700 |
+| Savvy Spender | 1.00% | ~3,001 |
+| Merlin's Beard! | 1.00% | ~3,001 |
+| Demiguise Dread | 1.00% | ~3,001 |
+| Spilled Milk | 0.90% | ~2,701 |
 | The Nature of the Beast | 0.70% | ~2,100 |
 | Collector's Edition | 0.30% | ~900 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,050 (Ranked 48)  
-Completed: 498 (0.17%) (Ranked 246)  
+Progressed: 300,058 (Ranked 48)  
+Completed: 498 (0.17%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,16 +246,16 @@ Completed: 498 (0.17%) (Ranked 246)
 | 2023-10-29 | 299,675 | 497 |
 | 2023-10-30 | 299,853 | 498 |
 | 2023-10-31 | 299,993 | 498 |
-| 2023-11-01 | 300,050 | 498 |
+| 2023-11-01 | 300,058 | 498 |
 ## Awards
 Max (Character Customization): 23,929  (Ranked 17)  
-Sum: 47,124 (Ranked 30)  
+Sum: 47,126 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 23,929 |
 | This game has Great Boss Battles | 12,057 |
-| This game is Great for Beginners | 1,248 |
+| This game is Great for Beginners | 1,250 |
 | This game has Amazing Storytelling | 1,209 |
 | This game has Diverse Characters | 1,206 |
 | This game is Extremely Fun | 1,194 |
@@ -490,4 +490,4 @@ Diff (max vs sum): -13
 | 2023-10-29 | 4.76 | 23,891 | 46,974 |
 | 2023-10-30 | 4.76 | 23,909 | 47,056 |
 | 2023-10-31 | 4.76 | 23,929 | 47,120 |
-| 2023-11-01 | 4.76 | 23,929 | 47,124 |
+| 2023-11-01 | 4.76 | 23,929 | 47,126 |

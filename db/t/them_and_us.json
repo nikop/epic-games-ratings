@@ -3,9 +3,9 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 214,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1276,6 +1276,11 @@
       "Time": "2023-11-01T10:08:41.0439699+00:00",
       "NumProgressed": 295,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T14:08:35.798263+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1293,17 +1298,17 @@
       "ID": "ETUA_AloneInTheDark",
       "SetID": "65jc0ap",
       "Name": "Alone In The Dark",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 210
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1463,7 +1468,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ETUA_Researcher",
@@ -1493,9 +1498,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "ETUA_StayDead",
@@ -1535,7 +1540,7 @@
       "Name": "The Cultists",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ETUA_TheCurseIsReal",
@@ -1551,7 +1556,7 @@
       "Name": "The Forgotten Tower",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -1606,7 +1611,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 1
     }
   ],
@@ -1614,8 +1619,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:12:25.4057976+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:08:35.7982623+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:02:37.6480076+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:12:25.4058393+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:58:45.5419479+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:08:35.7983106+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hunt | 3.00% | ~4,676 |
-| Taste | 3.00% | ~4,676 |
-| Imprint | 3.00% | ~4,676 |
+| The Hunt | 3.00% | ~4,677 |
+| Taste | 3.00% | ~4,677 |
+| Imprint | 3.00% | ~4,677 |
 | Weeper | 2.00% | ~3,118 |
 | Ravenous | 2.00% | ~3,118 |
 | Harmless | 1.00% | ~1,559 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,878 (Ranked 75)  
-Completed: 1 (0.00%) (Ranked 336)  
+Progressed: 155,886 (Ranked 75)  
+Completed: 1 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -225,7 +225,7 @@ Completed: 1 (0.00%) (Ranked 336)
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
 | 2023-10-31 | 155,810 | 1 |
-| 2023-11-01 | 155,878 | 1 |
+| 2023-11-01 | 155,886 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 339 (Ranked 351)  

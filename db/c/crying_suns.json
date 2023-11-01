@@ -6,9 +6,9 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470046,
+  "EOS_Progressed": 470047,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21011,6 +21011,11 @@
       "Time": "2023-11-01T13:13:42.4129163+00:00",
       "NumProgressed": 470046,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-01T14:10:05.817647+00:00",
+      "NumProgressed": 470047,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21110,7 +21115,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310230
+      "UsersEstimate": 310231
     },
     {
       "ID": "achievement_story_landa",
@@ -21446,7 +21451,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206820
+      "UsersEstimate": 206821
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21653,21 +21658,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13980,
+      "Progressed": 13981,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470046,
+      "Progressed": 470047,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:13:42.4129157+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:10:05.8176465+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:04:49.8428352+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:13:42.4131139+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:01:14.7137623+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:10:05.8179237+00:00"
 }

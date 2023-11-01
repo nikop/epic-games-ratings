@@ -104,7 +104,7 @@
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 336)  
+Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,7 +3,7 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 537,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -2304,6 +2304,11 @@
       "Time": "2023-11-01T12:07:46.3236275+00:00",
       "NumProgressed": 535,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-01T14:08:04.4546374+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2315,15 +2320,15 @@
       "Name": "The gateway to the underworld",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 226
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2363,7 +2368,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2371,7 +2376,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2411,7 +2416,7 @@
       "Name": "Holy Nails",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2426,14 +2431,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 537,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:11:18.1396091+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:08:04.4546366+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:05:23.7177983+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:11:18.1396443+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:01:54.7251463+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:08:04.4546679+00:00"
 }

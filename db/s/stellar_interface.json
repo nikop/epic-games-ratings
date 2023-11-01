@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -338,6 +338,11 @@
     {
       "Time": "2023-10-20T02:20:31.7908575+00:00",
       "NumProgressed": 65,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T14:03:51.4080787+00:00",
+      "NumProgressed": 66,
       "NumCompleted": 0
     }
   ],
@@ -716,7 +721,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -956,9 +961,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -974,7 +979,7 @@
       "Name": "First Blood",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -1012,9 +1017,9 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Killed50BossesAchievement",
@@ -1076,9 +1081,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1332,9 +1337,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1388,9 +1393,9 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "VisitRegular2000TimeAchievement",
@@ -1405,14 +1410,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:07:41.8143451+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:03:51.4080779+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.5982804+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:04:49.6913995+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:07:41.814566+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:01:14.5704391+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:03:51.4083445+00:00"
 }

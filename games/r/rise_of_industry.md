@@ -1,30 +1,30 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 869)  
+Rating: 4.24 (Ranked 870)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~359,117 |
-| Well educated | 37.00% | ~276,820 |
-| City Planner | 19.00% | ~142,151 |
-| Deforester | 17.00% | ~127,187 |
-| Big Hauling | 16.00% | ~119,706 |
-| Apprentice Manufacturer | 13.00% | ~97,261 |
-| Exporter | 13.00% | ~97,261 |
-| I would drive 500 tiles... | 12.00% | ~89,779 |
-| Landscaper | 12.00% | ~89,779 |
-| Railwayman | 8.00% | ~59,853 |
-| Penniless | 6.00% | ~44,890 |
-| Massive Gains | 6.00% | ~44,890 |
+| Entrepreneur | 48.00% | ~359,125 |
+| Well educated | 37.00% | ~276,825 |
+| City Planner | 19.00% | ~142,154 |
+| Deforester | 17.00% | ~127,190 |
+| Big Hauling | 16.00% | ~119,708 |
+| Apprentice Manufacturer | 13.00% | ~97,263 |
+| Exporter | 13.00% | ~97,263 |
+| I would drive 500 tiles... | 12.00% | ~89,781 |
+| Landscaper | 12.00% | ~89,781 |
+| Railwayman | 8.00% | ~59,854 |
+| Penniless | 6.00% | ~44,891 |
+| Massive Gains | 6.00% | ~44,891 |
 | Salesman | 3.00% | ~22,445 |
-| Engineer | 2.00% | ~14,963 |
-| High Flyer | 2.00% | ~14,963 |
+| Engineer | 2.00% | ~14,964 |
+| High Flyer | 2.00% | ~14,964 |
 | Captain | 0.80% | ~5,985 |
 | Billionaire | 0.70% | ~5,237 |
 | Vroom Vroom | 0.40% | ~2,993 |
-| Excavator | 0.30% | ~2,244 |
-| Loan Ranger | 0.30% | ~2,244 |
+| Excavator | 0.30% | ~2,245 |
+| Loan Ranger | 0.30% | ~2,245 |
 | [2130] Nature Lover | 0.10% | ~748 |
 | [2130] No Quarter Given | 0.10% | ~748 |
 | [2130] Dumpster Diving | 0.10% | ~748 |
@@ -33,8 +33,8 @@ Rating: 4.24 (Ranked 869)
 | Master Builder | 0.10% | ~748 |
 | Hard working | 0.10% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,161 (Ranked 18)  
-Completed: 4 (0.00%) (Ranked 336)  
+Progressed: 748,177 (Ranked 18)  
+Completed: 4 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,7 +228,7 @@ Completed: 4 (0.00%) (Ranked 336)
 | 2023-10-29 | 747,471 | 4 |
 | 2023-10-30 | 747,747 | 4 |
 | 2023-10-31 | 748,022 | 4 |
-| 2023-11-01 | 748,161 | 4 |
+| 2023-11-01 | 748,177 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

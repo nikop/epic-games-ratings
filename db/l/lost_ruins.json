@@ -2,9 +2,9 @@
   "ID": "3ccad173be604de5b7df527b244f0308",
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
-  "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 482,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1004,6 +1004,11 @@
       "Time": "2023-11-01T11:10:07.241974+00:00",
       "NumProgressed": 481,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T14:10:06.0984857+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1095,7 +1100,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Hardboiled",
@@ -1175,7 +1180,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Necromancer",
@@ -1191,15 +1196,15 @@
       "Name": "Oops",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "Pyromancer",
@@ -1334,7 +1339,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 482,
       "Completed": 1
     }
   ],
@@ -1342,8 +1347,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:13:42.6499092+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:10:06.0984851+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:04.3503541+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:05:15.491882+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:13:42.6499489+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:01:44.5182376+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:10:06.0985363+00:00"
 }

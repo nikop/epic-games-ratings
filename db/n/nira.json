@@ -3,9 +3,9 @@
   "Name": "Nira",
   "ProductSlug": "nira-02f6ee",
   "Ranking_EOS_Progress": 716,
-  "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_NewPlayers": 439,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-11-01T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.0970534+00:00",
   "LastChanged": "2023-03-31T05:58:17.0970535+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.5610622+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:02:50.0186632+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:09:49.552106+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:58:59.9100082+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:06:20.72468+00:00"
 }

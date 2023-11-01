@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 65.00% | ~22 |
-| Something important | 59.00% | ~20 |
-| A piece of the story | 47.00% | ~16 |
-| Do what you have to | 41.00% | ~14 |
-| Finished it | 35.00% | ~12 |
-| The artist’s impression | 32.00% | ~11 |
+| Wanderer | 66.00% | ~23 |
+| Something important | 57.00% | ~20 |
+| A piece of the story | 46.00% | ~16 |
+| Do what you have to | 40.00% | ~14 |
+| Finished it | 34.00% | ~12 |
+| The artist’s impression | 31.00% | ~11 |
 | Refuse to look | 26.00% | ~9 |
 | Scraps of love | 26.00% | ~9 |
 | Sign of weakness | 26.00% | ~9 |
-| It's covered up for a reason | 21.00% | ~7 |
-| Face your fears | 18.00% | ~6 |
-| First steps | 18.00% | ~6 |
-| Playtime | 18.00% | ~6 |
-| Tough conversation | 18.00% | ~6 |
-| Breaking free | 15.00% | ~5 |
-| The tragedy unfolds | 15.00% | ~5 |
-| True Reflection | 12.00% | ~4 |
+| It's covered up for a reason | 20.00% | ~7 |
+| Face your fears | 17.00% | ~6 |
+| First steps | 17.00% | ~6 |
+| Playtime | 17.00% | ~6 |
+| Tough conversation | 17.00% | ~6 |
+| Breaking free | 14.00% | ~5 |
+| The tragedy unfolds | 14.00% | ~5 |
+| True Reflection | 11.00% | ~4 |
 | A new way | 9.00% | ~3 |
 | A Slice of Life | 9.00% | ~3 |
 | Debut | 9.00% | ~3 |
@@ -57,8 +57,8 @@
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 485)  
-Completed: 0 (0.00%) (Ranked 336)  
+Progressed: 35 (Ranked 483)  
+Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 336)
 | 2023-10-29 | 28 | 0 |
 | 2023-10-30 | 32 | 0 |
 | 2023-10-31 | 33 | 0 |
-| 2023-11-01 | 34 | 0 |
+| 2023-11-01 | 35 | 0 |

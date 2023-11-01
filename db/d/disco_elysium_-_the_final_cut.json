@@ -6,9 +6,9 @@
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 121,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1418,9 +1418,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130341,
+  "EOS_Progressed": 130343,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20688,6 +20688,11 @@
       "Time": "2023-11-01T13:08:35.870327+00:00",
       "NumProgressed": 130341,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-01T14:04:55.0459638+00:00",
+      "NumProgressed": 130343,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20731,7 +20736,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23461
+      "UsersEstimate": 23462
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20779,7 +20784,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36495
+      "UsersEstimate": 36496
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20827,7 +20832,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16944
+      "UsersEstimate": 16945
     },
     {
       "ID": "ACH_COP_STAR",
@@ -20891,7 +20896,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7820
+      "UsersEstimate": 7821
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -21018,15 +21023,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130341,
+      "Progressed": 130343,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-01T02:57:19.275442+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:08:35.8703262+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:04:55.0459632+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:01:30.1646232+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:08:35.8705086+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:57:27.3044403+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:04:55.0461548+00:00"
 }

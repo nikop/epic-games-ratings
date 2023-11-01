@@ -11,13 +11,13 @@ Rating: 3.98 (Ranked 990)
 | Maybe Engage a Little | 85.00% | ~101 |
 | No More Names | 69.00% | ~82 |
 | Initiate | 61.00% | ~73 |
-| Thrada-Kul | 55.00% | ~65 |
+| Thrada-Kul | 56.00% | ~67 |
 | Gravity-Challenged Rocks | 43.00% | ~51 |
 | All the Major Food Groups | 37.00% | ~44 |
 | Soldier | 36.00% | ~43 |
+| Beggars Would Ride | 32.00% | ~38 |
 | Socialite | 31.00% | ~37 |
-| Beggars Would Ride | 31.00% | ~37 |
-| Control is an Illusion | 29.00% | ~35 |
+| Control is an Illusion | 30.00% | ~36 |
 | The Means to Save It | 24.00% | ~29 |
 | Resilience to Sin | 20.00% | ~24 |
 | A Familiar Nest | 19.00% | ~23 |
@@ -54,7 +54,7 @@ Rating: 3.98 (Ranked 990)
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 119 (Ranked 389)  
-Completed: 1 (0.84%) (Ranked 165)  
+Completed: 1 (0.84%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

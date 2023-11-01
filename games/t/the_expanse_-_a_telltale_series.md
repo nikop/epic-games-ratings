@@ -41,8 +41,8 @@ Rating: 4.60 (Ranked 407)
 | Master Negotiator | 0.10% | ~0 |
 | Madame Undersecretary | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,538 (Ranked 145)  
-Completed: 28 (0.19%) (Ranked 241)  
+Progressed: 14,542 (Ranked 145)  
+Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,7 +143,7 @@ Completed: 28 (0.19%) (Ranked 241)
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
-| 2023-11-01 | 14,538 | 28 |
+| 2023-11-01 | 14,542 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

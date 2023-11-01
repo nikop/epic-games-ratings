@@ -3,7 +3,7 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -2498,9 +2498,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_104",
@@ -2514,9 +2514,9 @@
       "ID": "achievement_105",
       "SetID": "d252ncf",
       "Name": "Sky High",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_106",
@@ -3486,8 +3486,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-01T13:11:08.9254307+00:00",
+  "LastChanged_Achievements": "2023-11-01T14:07:53.8386575+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:04:47.1140248+00:00",
-  "LastUpdate_Achievements": "2023-11-01T13:11:08.925658+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:01:11.9103349+00:00",
+  "LastUpdate_Achievements": "2023-11-01T14:07:53.8389097+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 0.40% | ~3,579 |
 | Gun Fu | 0.20% | ~1,790 |
+| Relic Ruler | 0.20% | ~47 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -52,7 +53,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.10% | ~895 |
 | The APB is Not Enough | 0.10% | ~23 |
 | Spin Doctor | 0.10% | ~23 |
-| Relic Ruler | 0.10% | ~23 |
 | All the President's Men | 0.10% | ~23 |
 | Judgement Day | 0.10% | ~23 |
 | Arachnophobia | 0.10% | ~23 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,769 (Ranked 15)  
-Completed: 2,736 (0.31%) (Ranked 215)  
+Progressed: 894,781 (Ranked 15)  
+Completed: 2,736 (0.31%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,7 +269,7 @@ Completed: 2,736 (0.31%) (Ranked 215)
 | 2023-10-29 | 894,514 | 2,733 |
 | 2023-10-30 | 894,580 | 2,734 |
 | 2023-10-31 | 894,703 | 2,736 |
-| 2023-11-01 | 894,769 | 2,736 |
+| 2023-11-01 | 894,781 | 2,736 |
 ## Awards
 Max (Character Customization): 103,117  (Ranked 9)  
 Sum: 337,739 (Ranked 10)  
