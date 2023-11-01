@@ -1729,9 +1729,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1816,8 +1816,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:07:45.5041307+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:07:40.4686972+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:00:22.7727786+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:07:45.5041805+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:00:40.6984507+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:07:40.4687366+00:00"
 }

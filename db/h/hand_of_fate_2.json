@@ -919,7 +919,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664029,
+  "EOS_Progressed": 664030,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
@@ -19419,6 +19419,11 @@
       "Time": "2023-11-01T10:07:57.1420973+00:00",
       "NumProgressed": 664029,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-01T11:07:52.2188346+00:00",
+      "NumProgressed": 664030,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19430,7 +19435,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478101
+      "UsersEstimate": 478102
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -19518,7 +19523,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -19606,7 +19611,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -19670,7 +19675,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79683
+      "UsersEstimate": 79684
     },
     {
       "ID": "Achievement_32_Karma",
@@ -19694,7 +19699,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166007
+      "UsersEstimate": 166008
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -19813,15 +19818,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664029,
+      "Progressed": 664030,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:07:57.1420965+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:07:52.218834+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.5060191+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:59:36.7526764+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:07:57.1423683+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:59:51.7608725+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:07:52.2190483+00:00"
 }

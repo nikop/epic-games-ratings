@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,545 |
-| Worth it | 63.00% | ~39,209 |
-| Eagle Eye | 55.00% | ~34,230 |
+| Setting an example | 78.00% | ~48,546 |
+| Worth it | 63.00% | ~39,210 |
+| Eagle Eye | 55.00% | ~34,231 |
 | Corpseman I | 40.00% | ~24,895 |
 | Blast fishing | 37.00% | ~23,028 |
 | Not alone | 32.00% | ~19,916 |
 | Headhunter I | 26.00% | ~16,182 |
-| Manual Labour I | 25.00% | ~15,559 |
+| Manual Labour I | 25.00% | ~15,560 |
 | Developers, Developers, Developers | 24.00% | ~14,937 |
 | Basic Training | 24.00% | ~14,937 |
 | Furchtlos und Treu | 13.00% | ~8,091 |
-| Gott Mit Uns | 12.00% | ~7,468 |
+| Gott Mit Uns | 12.00% | ~7,469 |
 | This We'll Defend! | 9.00% | ~5,601 |
 | Anker wirf! | 9.00% | ~5,601 |
 | Providentiea Memor | 9.00% | ~5,601 |
@@ -28,13 +28,13 @@ Number of Ratings: 1,999  (23.09.2022)
 | In Treue Fest | 5.00% | ~3,112 |
 | Voor De Koning | 5.00% | ~3,112 |
 | Extreme Headhunter | 5.00% | ~3,112 |
-| Advance Australia | 4.00% | ~2,489 |
-| We Stand on Guard | 4.00% | ~2,489 |
-| Sidi Brahim | 4.00% | ~2,489 |
-| War is better with friends I | 4.00% | ~2,489 |
-| Let them, come to us | 4.00% | ~2,489 |
-| There is no I in team | 4.00% | ~2,489 |
-| Corpseman II | 4.00% | ~2,489 |
+| Advance Australia | 4.00% | ~2,490 |
+| We Stand on Guard | 4.00% | ~2,490 |
+| Sidi Brahim | 4.00% | ~2,490 |
+| War is better with friends I | 4.00% | ~2,490 |
+| Let them, come to us | 4.00% | ~2,490 |
+| There is no I in team | 4.00% | ~2,490 |
+| Corpseman II | 4.00% | ~2,490 |
 | Offense is the best defence | 3.00% | ~1,867 |
 | Veteran | 3.00% | ~1,867 |
 | Manual Labour II | 3.00% | ~1,867 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,237 (Ranked 103)  
+Progressed: 62,238 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 4 (0.01%) (Ranked 314)
 | 2023-10-29 | 62,054 | 4 |
 | 2023-10-30 | 62,131 | 4 |
 | 2023-10-31 | 62,223 | 4 |
-| 2023-11-01 | 62,237 | 4 |
+| 2023-11-01 | 62,238 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 347)  
 Sum: 901 (Ranked 266)  

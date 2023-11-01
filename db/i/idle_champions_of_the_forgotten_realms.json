@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7741,9 +7741,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233365,
+  "EOS_Progressed": 233368,
   "EOS_Completed": 2415,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29516,6 +29516,11 @@
       "Time": "2023-11-01T10:08:18.4461936+00:00",
       "NumProgressed": 233365,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T11:08:14.813148+00:00",
+      "NumProgressed": 233368,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 528,
@@ -30037,9 +30042,9 @@
       "ID": "objective_completed_1132",
       "SetID": "415jc5c",
       "Name": "Will of the Feywild",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1133",
@@ -33750,21 +33755,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199639,
+      "Progressed": 199642,
       "Completed": 3728
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233365,
+      "Progressed": 233368,
       "Completed": 2415
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:08:18.4461929+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:08:14.813147+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:59:05.1588977+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:08:18.4495666+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:59:18.0562356+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:08:14.8165762+00:00"
 }

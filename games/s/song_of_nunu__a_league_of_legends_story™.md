@@ -26,9 +26,9 @@
 | Moneyball | 47.00% | ~18 |
 | Snowball Fightn't | 47.00% | ~18 |
 | My Darkest Day | 45.00% | ~17 |
+| A Tragic Reminder | 45.00% | ~17 |
 | 3000 Year Blackout | 45.00% | ~17 |
-| A Tragic Reminder | 42.00% | ~16 |
-| The Relentless Storm | 42.00% | ~16 |
+| The Relentless Storm | 45.00% | ~17 |
 | The Finisher | 42.00% | ~16 |
 | Snowy Poro | 39.00% | ~15 |
 | Bullseye | 39.00% | ~15 |
@@ -45,8 +45,8 @@
 | Sneaky Notai | 26.00% | ~10 |
 | Braum's Poro Ranch | 26.00% | ~10 |
 | It Was Him | 26.00% | ~10 |
+| Handy Yeti | 26.00% | ~10 |
 | One From The Heart | 24.00% | ~9 |
-| Handy Yeti | 24.00% | ~9 |
 | Rock Star | 21.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 478)  

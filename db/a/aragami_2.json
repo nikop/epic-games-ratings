@@ -17330,9 +17330,9 @@
       "ID": "ACHIEVEMENT_28",
       "SetID": "db84117",
       "Name": "Anger Management",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 875
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -17539,8 +17539,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:08:04.8544463+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:08:00.1452567+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:20.1111445+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:00:26.7291181+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:08:04.8547323+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:00:44.3914008+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:08:00.1454032+00:00"
 }

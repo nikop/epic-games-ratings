@@ -5,61 +5,61 @@ Rating: 4.49 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~6,496 |
-| For Saw Gerrera | 98.00% | ~6,431 |
-| Grab Some Seat | 92.00% | ~6,037 |
-| Can You Pet the Bogling? | 87.00% | ~5,709 |
-| The Past Made Present | 84.00% | ~5,512 |
-| Survivors, We Adapt | 80.00% | ~5,250 |
-| Among the Masters | 78.00% | ~5,118 |
-| They Never Saw It Coming | 77.00% | ~5,053 |
-| Who Gives a Puck | 74.00% | ~4,856 |
-| For the Path | 66.00% | ~4,331 |
-| Mirror Match | 65.00% | ~4,265 |
-| Now, This Isn't Podracing | 65.00% | ~4,265 |
-| Skywalker | 62.00% | ~4,068 |
-| Out of Bedlam | 61.00% | ~4,003 |
-| Cleaning Up | 54.00% | ~3,543 |
-| Tanalorr Bound | 53.00% | ~3,478 |
-| Kitted Out | 52.00% | ~3,412 |
-| Tragedy | 51.00% | ~3,347 |
-| Hey, Luke At Us | 50.00% | ~3,281 |
-| At the Precipice | 49.00% | ~3,215 |
-| Into the Abyss | 47.00% | ~3,084 |
-| Riposte | 47.00% | ~3,084 |
-| A Place You Could Call Home | 45.00% | ~2,953 |
-| Greezy Money | 44.00% | ~2,887 |
-| Catch! | 41.00% | ~2,690 |
-| They're Probably Fine | 40.00% | ~2,625 |
-| Han Slowlo | 38.00% | ~2,494 |
-| There Is No Try | 38.00% | ~2,494 |
-| The Jedi Path | 33.00% | ~2,165 |
-| This Is Canon | 29.00% | ~1,903 |
-| It's a Trap | 26.00% | ~1,706 |
-| You've Got A Friend | 23.00% | ~1,509 |
+| Rooftop Duel | 99.00% | ~6,501 |
+| For Saw Gerrera | 98.00% | ~6,436 |
+| Grab Some Seat | 92.00% | ~6,042 |
+| Can You Pet the Bogling? | 87.00% | ~5,713 |
+| The Past Made Present | 84.00% | ~5,516 |
+| Survivors, We Adapt | 80.00% | ~5,254 |
+| They Never Saw It Coming | 78.00% | ~5,122 |
+| Among the Masters | 78.00% | ~5,122 |
+| Who Gives a Puck | 74.00% | ~4,860 |
+| For the Path | 66.00% | ~4,334 |
+| Mirror Match | 65.00% | ~4,269 |
+| Now, This Isn't Podracing | 65.00% | ~4,269 |
+| Skywalker | 62.00% | ~4,072 |
+| Out of Bedlam | 61.00% | ~4,006 |
+| Cleaning Up | 54.00% | ~3,546 |
+| Tanalorr Bound | 53.00% | ~3,481 |
+| Kitted Out | 52.00% | ~3,415 |
+| Tragedy | 51.00% | ~3,349 |
+| Hey, Luke At Us | 50.00% | ~3,284 |
+| At the Precipice | 49.00% | ~3,218 |
+| Into the Abyss | 47.00% | ~3,086 |
+| Riposte | 47.00% | ~3,086 |
+| A Place You Could Call Home | 45.00% | ~2,955 |
+| Greezy Money | 44.00% | ~2,889 |
+| Catch! | 41.00% | ~2,692 |
+| They're Probably Fine | 40.00% | ~2,627 |
+| Han Slowlo | 38.00% | ~2,495 |
+| There Is No Try | 38.00% | ~2,495 |
+| The Jedi Path | 33.00% | ~2,167 |
+| This Is Canon | 29.00% | ~1,904 |
+| It's a Trap | 26.00% | ~1,707 |
+| You've Got A Friend | 23.00% | ~1,510 |
 | King of the World | 17.00% | ~1,116 |
-| A Presence I've Not Felt Since... | 15.00% | ~984 |
-| Reconnaissance | 15.00% | ~984 |
+| A Presence I've Not Felt Since... | 15.00% | ~985 |
+| Reconnaissance | 15.00% | ~985 |
 | Max Capacity | 14.00% | ~919 |
-| Slam Dunk | 12.00% | ~787 |
+| Slam Dunk | 12.00% | ~788 |
 | Star Tours | 11.00% | ~722 |
-| Caij Match | 10.00% | ~656 |
-| Gambler | 10.00% | ~656 |
+| Caij Match | 10.00% | ~657 |
+| Gambler | 10.00% | ~657 |
 | Growth Spurt | 9.00% | ~591 |
-| Perk of the Job | 7.00% | ~459 |
+| Perk of the Job | 7.00% | ~460 |
 | I'm a Living Legend | 6.00% | ~394 |
 | Road House | 6.00% | ~394 |
 | Skoova Diving | 6.00% | ~394 |
 | Get Down From There | 5.00% | ~328 |
 | Intergalactic Geographic | 5.00% | ~328 |
-| Cobra Cal | 4.00% | ~262 |
+| Cobra Cal | 4.00% | ~263 |
 | So Uncivilized | 3.00% | ~197 |
 | One With the Force | 3.00% | ~197 |
 | Splurgle | 3.00% | ~197 |
 | Blood, Sweat, and Tears | 3.00% | ~197 |
 | Pinpoint | 2.00% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,562 (Ranked 172)  
+Progressed: 6,567 (Ranked 172)  
 Completed: 39 (0.59%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 39 (0.59%) (Ranked 178)
 | 2023-10-29 | 6,371 | 35 |
 | 2023-10-30 | 6,444 | 37 |
 | 2023-10-31 | 6,534 | 39 |
-| 2023-11-01 | 6,562 | 39 |
+| 2023-11-01 | 6,567 | 39 |
 ## Awards
 Max (Great Boss Battles): 3,112  (Ranked 95)  
 Sum: 4,707 (Ranked 143)  

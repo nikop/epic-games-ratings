@@ -1302,9 +1302,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27341,
+  "EOS_Progressed": 27344,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22237,6 +22237,11 @@
       "Time": "2023-11-01T09:09:19.8636329+00:00",
       "NumProgressed": 27341,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-01T11:09:22.3744477+00:00",
+      "NumProgressed": 27344,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22256,7 +22261,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "1017",
@@ -22264,7 +22269,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "1018",
@@ -22296,7 +22301,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "1022",
@@ -22304,7 +22309,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "1023",
@@ -22320,7 +22325,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "1025",
@@ -22352,7 +22357,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "1029",
@@ -22360,7 +22365,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "1030",
@@ -22368,7 +22373,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5468
+      "UsersEstimate": 5469
     },
     {
       "ID": "1031",
@@ -22384,7 +22389,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10936
+      "UsersEstimate": 10938
     },
     {
       "ID": "1033",
@@ -22408,7 +22413,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "1036",
@@ -22416,22 +22421,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27341,
+      "Progressed": 27344,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-10-31T21:02:49.8140922+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:09:25.8073036+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:09:22.3744468+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:03:04.6708686+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:09:25.807449+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:03:27.4204242+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:09:22.3746502+00:00"
 }

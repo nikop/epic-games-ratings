@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -581,9 +581,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13644,
+  "EOS_Progressed": 13645,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10456,6 +10456,11 @@
       "Time": "2023-11-01T09:07:29.4320208+00:00",
       "NumProgressed": 13644,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-01T11:07:30.7075144+00:00",
+      "NumProgressed": 13645,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -10467,7 +10472,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12552
+      "UsersEstimate": 12553
     },
     {
       "ID": "ACH_02",
@@ -10475,7 +10480,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10779
+      "UsersEstimate": 10780
     },
     {
       "ID": "ACH_03",
@@ -10491,7 +10496,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9687
+      "UsersEstimate": 9688
     },
     {
       "ID": "ACH_05",
@@ -10499,7 +10504,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9414
+      "UsersEstimate": 9415
     },
     {
       "ID": "ACH_06",
@@ -10507,7 +10512,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 9005
+      "UsersEstimate": 9006
     },
     {
       "ID": "ACH_07",
@@ -10539,7 +10544,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7231
+      "UsersEstimate": 7232
     },
     {
       "ID": "ACH_11",
@@ -10675,7 +10680,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6003
+      "UsersEstimate": 6004
     },
     {
       "ID": "ACH_28",
@@ -10683,7 +10688,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9414
+      "UsersEstimate": 9415
     },
     {
       "ID": "ACH_29",
@@ -10746,7 +10751,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13644,
+      "Progressed": 13645,
       "Completed": 51
     }
   ],
@@ -10754,8 +10759,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-01T07:02:43.4251835+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:07:35.8622948+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:07:30.7075134+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.0645994+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:02:28.8783407+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:07:35.8624493+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:02:49.5468351+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:07:30.7076368+00:00"
 }

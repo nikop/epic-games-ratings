@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1827,6 +1827,11 @@
       "Time": "2023-11-01T01:55:46.9165628+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T11:08:55.9154104+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1942,7 +1947,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_COLL_20",
@@ -2038,7 +2043,7 @@
       "Name": "Collectibles of Chapter X",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_COLL_CH11",
@@ -2102,7 +2107,7 @@
       "Name": "Opportunities",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2110,7 +2115,7 @@
       "Name": "The Horror",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2220,9 +2225,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2246,7 +2251,7 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2254,7 +2259,7 @@
       "Name": "Food Massacre",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2309,15 +2314,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:08:59.6623099+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:08:55.9154096+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.8317085+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:59:35.3160929+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:08:59.662422+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:59:50.2210428+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:08:55.9155127+00:00"
 }

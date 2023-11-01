@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.00% | ~0 |
 | No Swapsies | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,935 (Ranked 59)  
+Progressed: 238,938 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 286 (0.12%) (Ranked 258)
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
-| 2023-11-01 | 238,935 | 286 |
+| 2023-11-01 | 238,938 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

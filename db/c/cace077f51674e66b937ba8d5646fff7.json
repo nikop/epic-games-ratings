@@ -4,7 +4,7 @@
   "ProductSlug": "mokoko-x-e2b09d",
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -427,9 +427,9 @@
       "ID": "BLIND_DATE",
       "SetID": "50pdlpn",
       "Name": "Blind Date",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BLITZKRIEG",
@@ -883,17 +883,17 @@
       "ID": "ENEMY_ARCADE_28",
       "SetID": "50pdlpn",
       "Name": "Arcade - Alfonso the Caterpillar Controller",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_29",
       "SetID": "50pdlpn",
       "Name": "Arcade - Chu Chao the Machinist",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_3",
@@ -907,17 +907,17 @@
       "ID": "ENEMY_ARCADE_30",
       "SetID": "50pdlpn",
       "Name": "Arcade - Tuck the Duck",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_31",
       "SetID": "50pdlpn",
       "Name": "Arcade - Alfonso, Chu Chao, Tuck",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENEMY_ARCADE_4",
@@ -994,8 +994,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:06:00.1537646+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:06:25.4867129+00:00",
   "LastUpdate_AppInfo": "2023-10-30T21:57:18.2576551+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:58:09.873574+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:06:00.1538453+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:58:25.9640092+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:06:25.4867966+00:00"
 }

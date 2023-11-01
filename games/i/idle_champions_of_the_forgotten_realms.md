@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.20% | ~467 |
 | Slack-jawed Lorna | 0.20% | ~399 |
 | The Fairy Rings of Thither | 0.20% | ~399 |
+| Will of the Feywild | 0.20% | ~399 |
 | The Roots of Loomlurch | 0.20% | ~399 |
 | Best Laid Plans | 0.20% | ~399 |
 | Overwhelmed with Knowledge | 0.20% | ~399 |
@@ -151,7 +152,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Head over Heals | 0.10% | ~200 |
 | The Demon Lords of the Abyss | 0.10% | ~200 |
 | Speed Demons | 0.10% | ~200 |
-| Will of the Feywild | 0.10% | ~200 |
 | All Damage, All The Time | 0.10% | ~200 |
 | Will of the Frozen Feywild | 0.10% | ~200 |
 | The Loots of Loomlurch | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,365 (Ranked 62)  
+Progressed: 233,368 (Ranked 62)  
 Completed: 2,415 (1.03%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 152)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,365 | 2,415 |
+| 2023-11-01 | 233,368 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

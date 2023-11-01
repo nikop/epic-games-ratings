@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -298,9 +298,9 @@
       "ID": "ACH_100_ITEMS_USED",
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_100_MINIONS_PLACED",
@@ -386,9 +386,9 @@
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_GET10K_ESSENCE",
@@ -467,8 +467,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:03:53.4253399+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:04:16.2938395+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.6109192+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:57:30.4024991+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:03:53.4253556+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:57:47.6959502+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:04:16.2938633+00:00"
 }

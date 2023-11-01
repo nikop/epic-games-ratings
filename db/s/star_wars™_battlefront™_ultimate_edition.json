@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2734,6 +2734,11 @@
       "Time": "2023-11-01T10:09:50.2000764+00:00",
       "NumProgressed": 960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T11:09:47.3861252+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2842,7 +2847,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_21",
@@ -2938,7 +2943,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_32",
@@ -2970,7 +2975,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "achievement_36",
@@ -2986,7 +2991,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "achievement_38",
@@ -3050,7 +3055,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_45",
@@ -3249,13 +3254,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 1
     }
   ],
@@ -3263,8 +3268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-01T10:09:50.2000756+00:00",
+  "LastChanged_Achievements": "2023-11-01T11:09:47.3861247+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:59:37.7280993+00:00",
-  "LastUpdate_Achievements": "2023-11-01T10:09:50.2002303+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:59:52.6721404+00:00",
+  "LastUpdate_Achievements": "2023-11-01T11:09:47.3862148+00:00"
 }

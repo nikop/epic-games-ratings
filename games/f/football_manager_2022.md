@@ -6,28 +6,28 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,619 |
-| He's Signed! | 50.00% | ~237,619 |
-| First Victory | 50.00% | ~237,619 |
-| He's Sold! | 48.00% | ~228,114 |
+| Clean Sheet | 50.00% | ~237,620 |
+| He's Signed! | 50.00% | ~237,620 |
+| First Victory | 50.00% | ~237,620 |
+| He's Sold! | 48.00% | ~228,115 |
 | I'm The Boss! | 42.00% | ~199,600 |
 | Hat-trick | 41.00% | ~194,848 |
-| Scoring Streak | 38.00% | ~180,590 |
+| Scoring Streak | 38.00% | ~180,591 |
 | Unbeatable! | 37.00% | ~175,838 |
 | Thumping | 37.00% | ~175,838 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,333 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,334 |
 | Total Support | 32.00% | ~152,076 |
 | Record Signing | 32.00% | ~152,076 |
 | He's a Natural | 31.00% | ~147,324 |
 | Millionaire's Club | 31.00% | ~147,324 |
-| Team Performance | 30.00% | ~142,571 |
+| Team Performance | 30.00% | ~142,572 |
 | Parked The Bus | 29.00% | ~137,819 |
 | Shrewd Spender | 29.00% | ~137,819 |
 | Star Man | 29.00% | ~137,819 |
 | Attack! | 28.00% | ~133,067 |
-| You're On Fire | 27.00% | ~128,314 |
-| Tremendous Trio | 27.00% | ~128,314 |
-| Record Sale | 27.00% | ~128,314 |
+| You're On Fire | 27.00% | ~128,315 |
+| Tremendous Trio | 27.00% | ~128,315 |
+| Record Sale | 27.00% | ~128,315 |
 | On A Roll | 26.00% | ~123,562 |
 | Unstoppable Force | 26.00% | ~123,562 |
 | Armchair Expert | 25.00% | ~118,810 |
@@ -37,15 +37,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Boss | 24.00% | ~114,057 |
 | Top Of The Class | 23.00% | ~109,305 |
 | Goal Machine | 23.00% | ~109,305 |
-| Splashing The Cash | 22.00% | ~104,552 |
-| Clean Bill of Health | 22.00% | ~104,552 |
-| What A Goal! | 22.00% | ~104,552 |
-| Cup Glory! | 22.00% | ~104,552 |
+| Splashing The Cash | 22.00% | ~104,553 |
+| Clean Bill of Health | 22.00% | ~104,553 |
+| What A Goal! | 22.00% | ~104,553 |
+| Cup Glory! | 22.00% | ~104,553 |
 | Irresistible Force | 20.00% | ~95,048 |
 | Excellent Match Cohesion | 20.00% | ~95,048 |
 | Do The Double | 19.00% | ~90,295 |
-| Top Form | 17.00% | ~80,790 |
-| Cash To Burn | 17.00% | ~80,790 |
+| Top Form | 17.00% | ~80,791 |
+| Cash To Burn | 17.00% | ~80,791 |
 | Overachiever! | 16.00% | ~76,038 |
 | Rushed signing | 16.00% | ~76,038 |
 | Beating Expectations | 15.00% | ~71,286 |
@@ -58,10 +58,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Superb Strike | 10.00% | ~47,524 |
 | International Superstar | 10.00% | ~47,524 |
 | Best In The World | 10.00% | ~47,524 |
-| Best In Europe | 9.00% | ~42,771 |
-| National Service | 9.00% | ~42,771 |
-| Headhunted | 9.00% | ~42,771 |
-| Domination | 9.00% | ~42,771 |
+| Best In Europe | 9.00% | ~42,772 |
+| National Service | 9.00% | ~42,772 |
+| Headhunted | 9.00% | ~42,772 |
+| Domination | 9.00% | ~42,772 |
 | Best In The Business | 8.00% | ~38,019 |
 | Legend | 6.00% | ~28,514 |
 | Win the Club World Cup | 6.00% | ~28,514 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~475 |
 | Shoestring Budget | 0.10% | ~475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,238 (Ranked 38)  
+Progressed: 475,239 (Ranked 38)  
 Completed: 22 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,10 +300,10 @@ Completed: 22 (0.00%) (Ranked 334)
 | 2023-10-29 | 475,146 | 22 |
 | 2023-10-30 | 475,188 | 22 |
 | 2023-10-31 | 475,228 | 22 |
-| 2023-11-01 | 475,238 | 22 |
+| 2023-11-01 | 475,239 | 22 |
 ## Awards
 Max (Relaxing): 6,465  (Ranked 59)  
-Sum: 50,938 (Ranked 27)  
+Sum: 50,939 (Ranked 27)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -314,7 +314,7 @@ Diff (max vs sum): 32
 | This game has Quickly Understood Controls | 5,883 |
 | This game is Educational | 5,878 |
 | This game has Diverse Characters | 5,558 |
-| This game has Amazing Storytelling | 4,923 |
+| This game has Amazing Storytelling | 4,924 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,381 |
 | This game has a Creative Community | 1,495 |
@@ -598,3 +598,4 @@ Diff (max vs sum): 32
 | 2023-10-29 | 4.80 | - | 6,465 | 50,931 |
 | 2023-10-30 | 4.80 | - | 6,465 | 50,935 |
 | 2023-10-31 | 4.80 | - | 6,465 | 50,938 |
+| 2023-11-01 | 4.80 | - | 6,465 | 50,939 |

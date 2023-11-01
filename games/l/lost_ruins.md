@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 38.00% | ~182 |
+| Inquisitor | 38.00% | ~183 |
 | Goblin Tales | 30.00% | ~144 |
 | Bug Hunter | 25.00% | ~120 |
-| Boss Killer | 24.00% | ~115 |
+| Boss Killer | 23.00% | ~111 |
 | The Fallen | 21.00% | ~101 |
 | Artifact Collector | 20.00% | ~96 |
 | Trap Master | 20.00% | ~96 |
@@ -16,13 +16,13 @@
 | Reincarnation | 16.00% | ~77 |
 | Librarian | 14.00% | ~67 |
 | Orcs Must Die! | 14.00% | ~67 |
-| Lumberjack | 13.00% | ~62 |
-| The End | 13.00% | ~62 |
+| Lumberjack | 13.00% | ~63 |
 | Gladiator | 12.00% | ~58 |
+| The End | 12.00% | ~58 |
 | Troubleshooter | 11.00% | ~53 |
 | Money Swag | 8.00% | ~38 |
 | Oops | 8.00% | ~38 |
-| Shield Crusher | 8.00% | ~38 |
+| Shield Crusher | 7.00% | ~34 |
 | Treasure Hunter | 7.00% | ~34 |
 | Explorer | 6.00% | ~29 |
 | Trio | 6.00% | ~29 |
@@ -30,8 +30,8 @@
 | Spell Master | 4.00% | ~19 |
 | Arrive Home | 3.00% | ~14 |
 | Holy Knight | 3.00% | ~14 |
-| Hoarder | 3.00% | ~14 |
 | Marksman | 3.00% | ~14 |
+| Hoarder | 2.00% | ~10 |
 | Meat Lover | 2.00% | ~10 |
 | Sling of David | 2.00% | ~10 |
 | Sword Master | 2.00% | ~10 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.40% | ~2 |
 | Hardboiled | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480 (Ranked 291)  
+Progressed: 481 (Ranked 291)  
 Completed: 1 (0.21%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,6 +142,7 @@ Completed: 1 (0.21%) (Ranked 233)
 | 2023-10-29 | 475 | 1 |
 | 2023-10-30 | 477 | 1 |
 | 2023-10-31 | 480 | 1 |
+| 2023-11-01 | 481 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
