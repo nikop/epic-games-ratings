@@ -28,7 +28,7 @@ Rating: 4.86 (Ranked 28)
 | You must like calling me in, Chai | 8.00% | ~336 |
 | Out in a puff of smoke | 8.00% | ~336 |
 | Does that say weakpoint? | 8.00% | ~336 |
-| NOW we got a kickass hideout! | 8.00% | ~217 |
+| NOW we got a kickass hideout! | 8.00% | ~218 |
 | Perfecter Parry-er! | 7.00% | ~294 |
 | I have to read these things? | 6.00% | ~252 |
 | Well that was a rush! | 5.00% | ~210 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,197 (Ranked 186)  
+Progressed: 4,198 (Ranked 186)  
 Completed: 8 (0.19%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 8 (0.19%) (Ranked 239)
 | 2023-10-28 | 4,187 | 8 |
 | 2023-10-29 | 4,193 | 8 |
 | 2023-10-31 | 4,196 | 8 |
-| 2023-11-01 | 4,197 | 8 |
+| 2023-11-01 | 4,198 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

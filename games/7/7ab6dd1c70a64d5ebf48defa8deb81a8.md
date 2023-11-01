@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 16.00% | ~7 |
-| Powerful Allies | 16.00% | ~7 |
+| Break Out | 15.00% | ~7 |
+| Powerful Allies | 15.00% | ~7 |
 | Find Allies | 13.00% | ~6 |
+| A Taste of Wrath | 11.00% | ~5 |
+| Trinity | 11.00% | ~5 |
 | Adventurer | 11.00% | ~5 |
 | Essence Blow | 11.00% | ~5 |
+| Shatter Them All | 11.00% | ~5 |
 | Scholar | 11.00% | ~5 |
-| A Taste of Wrath | 9.00% | ~4 |
-| Trinity | 9.00% | ~4 |
-| Shatter Them All | 9.00% | ~4 |
 | Fashion Victim | 9.00% | ~4 |
 | The Collector | 9.00% | ~4 |
-| Calm before the Storm | 7.00% | ~3 |
-| To Battle | 7.00% | ~3 |
-| Godslayer | 7.00% | ~3 |
-| Geared Up | 7.00% | ~3 |
-| Miner | 7.00% | ~3 |
+| Calm before the Storm | 6.00% | ~3 |
+| To Battle | 6.00% | ~3 |
+| Godslayer | 6.00% | ~3 |
+| Geared Up | 6.00% | ~3 |
+| Miner | 6.00% | ~3 |
 | The Mentor | 4.00% | ~2 |
 | A Queen's Tale | 4.00% | ~2 |
 | Airborne | 2.00% | ~1 |
@@ -37,12 +37,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -2.20% | ~-1 |
-| Flawless Victory | -2.20% | ~-1 |
-| Big Bazar | -2.20% | ~-1 |
+| Shatterer | -2.10% | ~-1 |
+| Flawless Victory | -2.10% | ~-1 |
+| Big Bazar | -2.10% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 461)  
-Completed: 1 (2.22%) (Ranked 118)  
+Progressed: 47 (Ranked 460)  
+Completed: 1 (2.13%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 1 (2.22%) (Ranked 118)
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
 | 2023-10-31 | 41 | 1 |
-| 2023-11-01 | 45 | 1 |
+| 2023-11-01 | 47 | 1 |

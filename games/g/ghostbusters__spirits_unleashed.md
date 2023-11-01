@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,765 |
+| Stylish | 6.00% | ~1,766 |
 | Advancement | 4.00% | ~1,177 |
 | Discovery | 4.00% | ~1,177 |
 | Meticulously Efficient | 4.00% | ~1,177 |
@@ -19,23 +19,23 @@ Rating: 4.50 (Ranked 580)
 | There you are! | 3.00% | ~883 |
 | Vaporous Expansion | 3.00% | ~883 |
 | Whoopsie | 3.00% | ~883 |
-| Animated | 2.00% | ~588 |
-| Back Off | 2.00% | ~588 |
-| We have the best insurance | 2.00% | ~588 |
-| Daily Dose | 2.00% | ~588 |
-| Ectoplasmic Entity | 2.00% | ~588 |
-| Ghostbuster In Training | 2.00% | ~588 |
-| Icing on the Cake | 2.00% | ~588 |
-| Legions | 2.00% | ~588 |
-| Pesky Jerks | 2.00% | ~588 |
-| Rift Destroyer | 2.00% | ~588 |
-| Right back at ya | 2.00% | ~588 |
-| Seasoned | 2.00% | ~588 |
-| Side Hustle | 2.00% | ~588 |
-| Skilled | 2.00% | ~588 |
-| Stunner | 2.00% | ~588 |
-| Summoner | 2.00% | ~588 |
-| Welcome to the Crew | 2.00% | ~588 |
+| Animated | 2.00% | ~589 |
+| Back Off | 2.00% | ~589 |
+| We have the best insurance | 2.00% | ~589 |
+| Daily Dose | 2.00% | ~589 |
+| Ectoplasmic Entity | 2.00% | ~589 |
+| Ghostbuster In Training | 2.00% | ~589 |
+| Icing on the Cake | 2.00% | ~589 |
+| Legions | 2.00% | ~589 |
+| Pesky Jerks | 2.00% | ~589 |
+| Rift Destroyer | 2.00% | ~589 |
+| Right back at ya | 2.00% | ~589 |
+| Seasoned | 2.00% | ~589 |
+| Side Hustle | 2.00% | ~589 |
+| Skilled | 2.00% | ~589 |
+| Stunner | 2.00% | ~589 |
+| Summoner | 2.00% | ~589 |
+| Welcome to the Crew | 2.00% | ~589 |
 | Collector | 1.00% | ~294 |
 | Escape Artist | 1.00% | ~294 |
 | Reckless | 1.00% | ~294 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,424 (Ranked 121)  
+Progressed: 29,433 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,424 | 65 |
+| 2023-11-01 | 29,433 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,656 (Ranked 180)  

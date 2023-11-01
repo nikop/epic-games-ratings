@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -3993,7 +3993,7 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 76877,
+  "EOS_Progressed": 76878,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 0,
@@ -25993,6 +25993,11 @@
       "Time": "2023-11-01T09:05:06.3861773+00:00",
       "NumProgressed": 76877,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-01T10:04:43.9159887+00:00",
+      "NumProgressed": 76878,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26036,7 +26041,7 @@
       "Name": "Hijacked",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8456
+      "UsersEstimate": 8457
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -26116,7 +26121,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36132
+      "UsersEstimate": 36133
     },
     {
       "ID": "customize_a_vehicle",
@@ -26124,7 +26129,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26138
+      "UsersEstimate": 26139
     },
     {
       "ID": "customize_a_weapon",
@@ -26132,7 +26137,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28444
+      "UsersEstimate": 28445
     },
     {
       "ID": "cutting_edge_materials",
@@ -26212,7 +26217,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25369
+      "UsersEstimate": 25370
     },
     {
       "ID": "fully_complete_a_building",
@@ -26276,7 +26281,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15375
+      "UsersEstimate": 15376
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -26388,7 +26393,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32288
+      "UsersEstimate": 32289
     },
     {
       "ID": "whole_map_purple",
@@ -26427,13 +26432,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76877,
+      "Progressed": 76878,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48514,
+      "Progressed": 48515,
       "Completed": 4228
     }
   ],
@@ -26441,8 +26446,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-31T23:03:05.5996254+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:05:06.3861766+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:04:43.915988+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:03:14.012355+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:05:06.3863858+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:02:53.6409016+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:04:43.9162051+00:00"
 }

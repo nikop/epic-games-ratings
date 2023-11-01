@@ -9,12 +9,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 4.00% | ~17,765 |
 | Until death do us apart | 4.00% | ~17,765 |
 | Victorious! | 4.00% | ~17,765 |
-| That's a Grand Navy | 3.00% | ~13,323 |
-| That is mine! | 3.00% | ~13,323 |
-| Brothers in Arms | 2.00% | ~8,882 |
-| Cold War | 2.00% | ~8,882 |
-| For the Glory | 2.00% | ~8,882 |
-| Seriously?! | 2.00% | ~8,882 |
+| That's a Grand Navy | 3.00% | ~13,324 |
+| That is mine! | 3.00% | ~13,324 |
+| Brothers in Arms | 2.00% | ~8,883 |
+| Cold War | 2.00% | ~8,883 |
+| For the Glory | 2.00% | ~8,883 |
+| Seriously?! | 2.00% | ~8,883 |
 | Defender of the Faith | 1.00% | ~4,441 |
 | It's all about luck | 1.00% | ~4,441 |
 | It's all about the money | 1.00% | ~4,441 |
@@ -32,14 +32,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.50% | ~2,221 |
 | City of Cities | 0.50% | ~2,221 |
 | This navy can take it all | 0.50% | ~2,221 |
-| Bright Spark | 0.40% | ~1,776 |
-| The Emperors new clothes | 0.40% | ~1,776 |
-| Factionalism | 0.40% | ~1,776 |
-| Gentle Persuasion | 0.40% | ~1,776 |
-| Isn't this the way to India? | 0.40% | ~1,776 |
-| Queen of Conquest | 0.40% | ~1,776 |
-| The Five Colonies | 0.40% | ~1,776 |
-| Trustworthy | 0.40% | ~1,776 |
+| Bright Spark | 0.40% | ~1,777 |
+| The Emperors new clothes | 0.40% | ~1,777 |
+| Factionalism | 0.40% | ~1,777 |
+| Gentle Persuasion | 0.40% | ~1,777 |
+| Isn't this the way to India? | 0.40% | ~1,777 |
+| Queen of Conquest | 0.40% | ~1,777 |
+| The Five Colonies | 0.40% | ~1,777 |
+| Trustworthy | 0.40% | ~1,777 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,332 |
 | Down Under | 0.30% | ~1,332 |
 | Electable! | 0.30% | ~1,332 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444,113 (Ranked 41)  
+Progressed: 444,137 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,10 +556,10 @@ Completed: 1 (0.00%) (Ranked 334)
 | 2023-10-29 | 442,673 | 1 |
 | 2023-10-30 | 443,336 | 1 |
 | 2023-10-31 | 443,969 | 1 |
-| 2023-11-01 | 444,113 | 1 |
+| 2023-11-01 | 444,137 | 1 |
 ## Awards
 Max (Educational): 6,765  (Ranked 55)  
-Sum: 55,595 (Ranked 24)  
+Sum: 55,609 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -570,7 +570,7 @@ Diff (max vs sum): 31
 | This game is Extremely Fun | 6,376 |
 | This game is Relaxing | 6,226 |
 | This game has Competitive Players | 6,062 |
-| This game has Amazing Storytelling | 5,645 |
+| This game has Amazing Storytelling | 5,659 |
 | This game has Amazing Characters | 5,222 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -864,3 +864,4 @@ Diff (max vs sum): 31
 | 2023-10-29 | 4.69 | - | 6,736 | 55,365 |
 | 2023-10-30 | 4.69 | - | 6,749 | 55,482 |
 | 2023-10-31 | 4.69 | - | 6,765 | 55,595 |
+| 2023-11-01 | 4.69 | - | 6,765 | 55,609 |

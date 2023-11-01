@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Greater Kmt Unified | 0.40% | ~60 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
+| Silver Victory (Carthage 1) | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |
 | Magnificent Difficulty | 0.30% | ~45 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.30% | ~45 |
 | Prosperous Kmt | 0.30% | ~45 |
 | Gold Victory (Carthage 1) | 0.20% | ~30 |
-| Silver Victory (Carthage 1) | 0.20% | ~30 |
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Bronze Victory (Carthage 2) | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |

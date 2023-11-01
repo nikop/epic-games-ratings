@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3642,
+  "EOS_Progressed": 3649,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2033,
+  "EOS_NewPlayers": 2028,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2023-11-01T09:09:09.065373+00:00",
       "NumProgressed": 3642,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T10:09:15.1754714+00:00",
+      "NumProgressed": 3649,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1635,7 +1640,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "BeLikeWater",
@@ -1699,7 +1704,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 730
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1819,7 +1824,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "TheQuarterback",
@@ -1827,7 +1832,7 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ThisIsDharma",
@@ -1843,7 +1848,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "UnResurrected",
@@ -1859,7 +1864,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -1898,7 +1903,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3642,
+      "Progressed": 3649,
       "Completed": 2
     }
   ],
@@ -1906,8 +1911,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-31T19:00:56.8787797+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:09:09.0653721+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:09:15.1754706+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:01:54.8198454+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:09:09.0654335+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:02:04.82329+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:09:15.175533+00:00"
 }

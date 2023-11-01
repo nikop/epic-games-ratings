@@ -4,8 +4,8 @@
   "ProductSlug": "coopvalor-ww2-battle-of-the-bulge-17a9ab",
   "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "jc68cl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-11-01T10:06:01.4480941+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:06:01.4480913+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:38.5196633+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:59:20.7603725+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:06:24.612578+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:59:25.8433903+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:06:01.448096+00:00"
 }

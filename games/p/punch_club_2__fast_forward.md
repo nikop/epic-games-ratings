@@ -21,10 +21,10 @@
 | Hello, world! | 71.00% | ~240 |
 | Fighting is cool | 70.00% | ~237 |
 | Pal of your father? | 68.00% | ~230 |
+| Employee of the month | 67.00% | ~226 |
 | Spirit of the past | 66.00% | ~223 |
-| Employee of the month | 66.00% | ~223 |
+| Law student | 63.00% | ~213 |
 | Workout professional | 62.00% | ~210 |
-| Law student | 62.00% | ~210 |
 | Handyman | 61.00% | ~206 |
 | Champion – starter pack | 60.00% | ~203 |
 | It's good to be alive | 60.00% | ~203 |

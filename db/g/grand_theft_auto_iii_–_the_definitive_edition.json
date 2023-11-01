@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8376,
+  "EOS_Progressed": 8377,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -10396,6 +10396,11 @@
       "Time": "2023-11-01T07:04:56.3849427+00:00",
       "NumProgressed": 8376,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-01T10:05:03.4106596+00:00",
+      "NumProgressed": 8377,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10407,7 +10412,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6952
+      "UsersEstimate": 6953
     },
     {
       "ID": "ACH02",
@@ -10479,7 +10484,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "ACH11",
@@ -10638,7 +10643,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8376,
+      "Progressed": 8377,
       "Completed": 56
     }
   ],
@@ -10646,8 +10651,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:05:26.1494478+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:05:03.4106589+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.2944998+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:01:38.8199332+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:05:26.1495472+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:01:48.6178285+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:05:03.4108026+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -7741,9 +7741,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233360,
+  "EOS_Progressed": 233365,
   "EOS_Completed": 2415,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29511,6 +29511,11 @@
       "Time": "2023-11-01T09:08:11.3135833+00:00",
       "NumProgressed": 233360,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T10:08:18.4461936+00:00",
+      "NumProgressed": 233365,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 528,
@@ -30608,9 +30613,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1351",
@@ -33745,21 +33750,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199634,
+      "Progressed": 199639,
       "Completed": 3728
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233360,
+      "Progressed": 233365,
       "Completed": 2415
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:08:11.3135826+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:08:18.4461929+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:59:00.3248199+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:08:11.317297+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:59:05.1588977+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:08:18.4495666+00:00"
 }

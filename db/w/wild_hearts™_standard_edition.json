@@ -1273,9 +1273,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_47",
@@ -1343,8 +1343,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:05:31.3640094+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:05:08.6718672+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:58:26.7497677+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:05:31.364097+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:58:27.8542511+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:05:08.6719359+00:00"
 }

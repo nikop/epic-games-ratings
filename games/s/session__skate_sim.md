@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Upfront shredder | 10.00% | ~305 |
 | Good vibes | 9.00% | ~274 |
 | Keep the dream alive | 9.00% | ~274 |
-| Bottom ply killer | 7.00% | ~213 |
-| Fashionista | 7.00% | ~213 |
-| Finally he zips it | 7.00% | ~213 |
-| That pinch! | 7.00% | ~213 |
-| Tight lipslides | 7.00% | ~213 |
+| Bottom ply killer | 7.00% | ~214 |
+| Fashionista | 7.00% | ~214 |
+| Finally he zips it | 7.00% | ~214 |
+| That pinch! | 7.00% | ~214 |
+| Tight lipslides | 7.00% | ~214 |
 | Commence the Hijinx! | 6.00% | ~183 |
 | Fulfilled the dream | 6.00% | ~183 |
 | G'Day Mate! | 6.00% | ~183 |
@@ -43,7 +43,7 @@ Number of Ratings: 111  (23.09.2022)
 | G.O.A.T. status | 4.00% | ~122 |
 | Pew-Pew | 4.00% | ~122 |
 | Prince of Philly | 4.00% | ~122 |
-| Hoarder | 3.00% | ~91 |
+| Hoarder | 3.00% | ~92 |
 | Cross lock country | 2.00% | ~61 |
 | Many plys later... | 2.00% | ~61 |
 | That was wheelie fun | 2.00% | ~61 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,049 (Ranked 202)  
+Progressed: 3,050 (Ranked 202)  
 Completed: 1 (0.03%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 1 (0.03%) (Ranked 301)
 | 2023-10-28 | 3,043 | 1 |
 | 2023-10-30 | 3,045 | 1 |
 | 2023-10-31 | 3,048 | 1 |
-| 2023-11-01 | 3,049 | 1 |
+| 2023-11-01 | 3,050 | 1 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 410)  
 Sum: 537 (Ranked 314)  

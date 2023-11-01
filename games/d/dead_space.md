@@ -23,8 +23,8 @@ Rating: 4.63 (Ranked 346)
 | S.O.S. | 46.00% | ~638 |
 | Get Off My Ship! | 43.00% | ~597 |
 | Strange Transmissions | 43.00% | ~597 |
+| Wreckage | 42.00% | ~583 |
 | Live with the Hot Ones | 41.00% | ~569 |
-| Wreckage | 41.00% | ~569 |
 | Keeper of the Faith | 39.00% | ~541 |
 | Betrayed | 38.00% | ~527 |
 | Legend Teller | 37.00% | ~514 |

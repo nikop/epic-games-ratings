@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_GETALL_COLLECTIBLES",
@@ -467,8 +467,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:04:14.4643177+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:03:53.4253399+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.6109192+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:57:32.0072618+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:04:14.4643406+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:57:30.4024991+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:03:53.4253556+00:00"
 }

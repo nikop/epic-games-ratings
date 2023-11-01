@@ -685,7 +685,7 @@
   ],
   "EOS_Progressed": 1388,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4636,9 +4636,9 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 583
     }
   ],
   "AchievementSets": [
@@ -4653,8 +4653,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:05:25.1327346+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:05:02.5160182+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:02:30.5069592+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:05:25.1328892+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:02:40.5692403+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:05:02.5161326+00:00"
 }

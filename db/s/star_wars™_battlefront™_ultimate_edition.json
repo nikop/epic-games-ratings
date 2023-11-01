@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -2729,6 +2729,11 @@
       "Time": "2023-11-01T08:09:40.0264083+00:00",
       "NumProgressed": 959,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T10:09:50.2000764+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2819,9 +2824,9 @@
       "ID": "achievement_19",
       "SetID": "271ol84",
       "Name": "When 900 years old you reach...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 29
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_2",
@@ -2885,7 +2890,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_27",
@@ -2957,7 +2962,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_35",
@@ -2965,7 +2970,7 @@
       "Name": "New Recruit",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "achievement_36",
@@ -2989,7 +2994,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_39",
@@ -3013,7 +3018,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "achievement_41",
@@ -3093,7 +3098,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_50",
@@ -3244,13 +3249,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 1
     }
   ],
@@ -3258,8 +3263,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:09:44.2738372+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:09:50.2000756+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:59:32.312975+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:09:44.2739413+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:59:37.7280993+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:09:50.2002303+00:00"
 }

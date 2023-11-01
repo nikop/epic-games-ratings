@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Harsh",
@@ -502,17 +502,17 @@
       "ID": "MB",
       "SetID": "2621k8c",
       "Name": "Movie Buff",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MC",
       "SetID": "2621k8c",
       "Name": "Motion Capture",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MS",
@@ -606,9 +606,9 @@
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Phantasmagoria",
@@ -630,9 +630,9 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Rationality",
@@ -654,9 +654,9 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SAITAB",
@@ -694,9 +694,9 @@
       "ID": "SWA",
       "SetID": "2621k8c",
       "Name": "MOD Artisan",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SelflessLove",
@@ -742,9 +742,9 @@
       "ID": "Starlight",
       "SetID": "2621k8c",
       "Name": "Starlight",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Stingy",
@@ -878,9 +878,9 @@
       "ID": "YM",
       "SetID": "2621k8c",
       "Name": "Yoga Master",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -892,8 +892,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:10:04.1044855+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:10:10.0068708+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.8244833+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:59:44.8707547+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:10:04.1046063+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:59:48.7627378+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:10:10.007079+00:00"
 }

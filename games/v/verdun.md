@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,543 |
-| Worth it | 63.00% | ~39,208 |
-| Eagle Eye | 55.00% | ~34,229 |
-| Corpseman I | 40.00% | ~24,894 |
-| Blast fishing | 37.00% | ~23,027 |
-| Not alone | 32.00% | ~19,915 |
-| Headhunter I | 26.00% | ~16,181 |
+| Setting an example | 78.00% | ~48,545 |
+| Worth it | 63.00% | ~39,209 |
+| Eagle Eye | 55.00% | ~34,230 |
+| Corpseman I | 40.00% | ~24,895 |
+| Blast fishing | 37.00% | ~23,028 |
+| Not alone | 32.00% | ~19,916 |
+| Headhunter I | 26.00% | ~16,182 |
 | Manual Labour I | 25.00% | ~15,559 |
-| Developers, Developers, Developers | 24.00% | ~14,936 |
-| Basic Training | 24.00% | ~14,936 |
+| Developers, Developers, Developers | 24.00% | ~14,937 |
+| Basic Training | 24.00% | ~14,937 |
 | Furchtlos und Treu | 13.00% | ~8,091 |
 | Gott Mit Uns | 12.00% | ~7,468 |
 | This We'll Defend! | 9.00% | ~5,601 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,601 |
 | For King and Country | 9.00% | ~5,601 |
 | Battle hardened | 8.00% | ~4,979 |
-| Semper Fidelis! | 7.00% | ~4,356 |
-| Honneur et Patrie | 7.00% | ~4,356 |
+| Semper Fidelis! | 7.00% | ~4,357 |
+| Honneur et Patrie | 7.00% | ~4,357 |
 | In Treue Fest | 5.00% | ~3,112 |
 | Voor De Koning | 5.00% | ~3,112 |
 | Extreme Headhunter | 5.00% | ~3,112 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,235 (Ranked 103)  
+Progressed: 62,237 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 4 (0.01%) (Ranked 314)
 | 2023-10-29 | 62,054 | 4 |
 | 2023-10-30 | 62,131 | 4 |
 | 2023-10-31 | 62,223 | 4 |
-| 2023-11-01 | 62,235 | 4 |
+| 2023-11-01 | 62,237 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 347)  
 Sum: 901 (Ranked 266)  

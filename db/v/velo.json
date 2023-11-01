@@ -4,8 +4,8 @@
   "ProductSlug": "velo-6271f1",
   "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 433,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T18:00:12.8792848+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:58:05.2980353+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:08:22.8239428+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:58:03.8466917+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:08:29.192577+00:00"
 }

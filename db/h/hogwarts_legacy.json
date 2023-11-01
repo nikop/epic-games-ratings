@@ -9849,9 +9849,9 @@
       "Count": 757
     }
   ],
-  "EOS_Progressed": 300026,
+  "EOS_Progressed": 300031,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30689,6 +30689,11 @@
       "Time": "2023-11-01T09:09:35.5353815+00:00",
       "NumProgressed": 300026,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-11-01T10:09:41.5586828+00:00",
+      "NumProgressed": 300031,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30700,7 +30705,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45004
+      "UsersEstimate": 45005
     },
     {
       "ID": "PFA_10",
@@ -30788,7 +30793,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15001
+      "UsersEstimate": 15002
     },
     {
       "ID": "PFA_20",
@@ -30820,7 +30825,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36003
+      "UsersEstimate": 36004
     },
     {
       "ID": "PFA_24",
@@ -30964,7 +30969,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15001
+      "UsersEstimate": 15002
     },
     {
       "ID": "PFA_40",
@@ -30980,7 +30985,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15001
+      "UsersEstimate": 15002
     },
     {
       "ID": "PFA_42",
@@ -31004,7 +31009,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27002
+      "UsersEstimate": 27003
     },
     {
       "ID": "PFA_45",
@@ -31036,7 +31041,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39003
+      "UsersEstimate": 39004
     },
     {
       "ID": "PFA_8",
@@ -31044,7 +31049,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36003
+      "UsersEstimate": 36004
     },
     {
       "ID": "PFA_9",
@@ -31052,14 +31057,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27002
+      "UsersEstimate": 27003
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 300026,
+      "Progressed": 300031,
       "Completed": 498
     }
   ],
@@ -31067,8 +31072,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-01T02:58:47.6702506+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:09:35.5353805+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:09:41.558682+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-11-01T08:59:23.8425396+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:09:35.5355528+00:00"
+  "LastUpdate_Ratings": "2023-11-01T09:59:29.421609+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:09:41.558963+00:00"
 }

@@ -24,10 +24,10 @@ Number of Ratings: 98  (23.09.2022)
 | Lock, Stock | 8.00% | ~123 |
 | Payback Time | 7.00% | ~107 |
 | No Witness | 5.00% | ~77 |
-| Strategist | 5.00% | ~77 |
-| Do a Barrel Roll! | 2.00% | ~31 |
+| Strategist | 4.00% | ~61 |
 | Unbreakable Wall | 2.00% | ~31 |
 | Experienced Strategist | 2.00% | ~31 |
+| Do a Barrel Roll! | 1.00% | ~15 |
 | How?! | 1.00% | ~15 |
 | Tough as Nails | 0.50% | ~8 |
 | Commandos | 0.30% | ~5 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,533 (Ranked 228)  
+Progressed: 1,534 (Ranked 228)  
 Completed: 1 (0.07%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 1 (0.07%) (Ranked 279)
 | 2023-10-29 | 1,517 | 1 |
 | 2023-10-30 | 1,522 | 1 |
 | 2023-10-31 | 1,528 | 1 |
-| 2023-11-01 | 1,533 | 1 |
+| 2023-11-01 | 1,534 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -853,9 +853,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6186,
+  "EOS_Progressed": 6187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9048,6 +9048,11 @@
       "Time": "2023-11-01T09:09:15.5493711+00:00",
       "NumProgressed": 6186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T10:09:21.570753+00:00",
+      "NumProgressed": 6187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9105,9 +9110,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9378,13 +9383,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6186,
+      "Progressed": 6187,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5558,
+      "Progressed": 5559,
       "Completed": 113
     }
   ],
@@ -9392,8 +9397,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:09:15.5493705+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:09:21.5707522+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:02:27.5585442+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:09:15.5494622+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:02:37.3112931+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:09:21.5709137+00:00"
 }

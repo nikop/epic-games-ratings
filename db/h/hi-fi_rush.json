@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 120,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4197,
+  "EOS_Progressed": 4198,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7214,6 +7214,11 @@
       "Time": "2023-11-01T04:05:34.5166427+00:00",
       "NumProgressed": 4197,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-01T10:07:15.0778711+00:00",
+      "NumProgressed": 4198,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7713,7 +7718,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Ach063",
@@ -7792,13 +7797,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4197,
+      "Progressed": 4198,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2718,
+      "Progressed": 2719,
       "Completed": 1930
     }
   ],
@@ -7806,8 +7811,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-01T09:07:08.4715691+00:00",
+  "LastChanged_Achievements": "2023-11-01T10:07:15.0778702+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:07.0872325+00:00",
-  "LastUpdate_Ratings": "2023-11-01T09:00:03.6270451+00:00",
-  "LastUpdate_Achievements": "2023-11-01T09:07:08.4717809+00:00"
+  "LastUpdate_Ratings": "2023-11-01T10:00:07.8143101+00:00",
+  "LastUpdate_Achievements": "2023-11-01T10:07:15.0779966+00:00"
 }

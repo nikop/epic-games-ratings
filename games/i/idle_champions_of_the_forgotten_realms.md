@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~399 |
 | Vecna Out! | 0.20% | ~399 |
 | A Persistent Buzzing | 0.20% | ~467 |
+| Welcome to the Rock | 0.20% | ~399 |
 | Beast Mode | 0.20% | ~467 |
 | Terror in the Dark | 0.20% | ~467 |
 | Low Initiative | 0.20% | ~467 |
@@ -206,7 +207,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Egg of Nat's Desire | 0.10% | ~200 |
 | No One Can Hear You Scream | 0.10% | ~200 |
 | Anchors Aweigh | 0.10% | ~200 |
-| Welcome to the Rock | 0.10% | ~200 |
 | Welcome to the Band | 0.10% | ~200 |
 | The Forbidden City | 0.10% | ~233 |
 | Periodic Petrification | 0.10% | ~233 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,360 (Ranked 62)  
-Completed: 2,415 (1.03%) (Ranked 151)  
+Progressed: 233,365 (Ranked 62)  
+Completed: 2,415 (1.03%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 151)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,360 | 2,415 |
+| 2023-11-01 | 233,365 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

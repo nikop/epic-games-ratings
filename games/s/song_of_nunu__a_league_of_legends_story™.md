@@ -29,9 +29,9 @@
 | 3000 Year Blackout | 45.00% | ~17 |
 | A Tragic Reminder | 42.00% | ~16 |
 | The Relentless Storm | 42.00% | ~16 |
+| The Finisher | 42.00% | ~16 |
 | Snowy Poro | 39.00% | ~15 |
 | Bullseye | 39.00% | ~15 |
-| The Finisher | 39.00% | ~15 |
 | Family | 37.00% | ~14 |
 | So Close | 34.00% | ~13 |
 | You Get Used To It | 34.00% | ~13 |
