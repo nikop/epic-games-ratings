@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3975,10 +3975,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7012,
       "NumberOfAwardsMax": 1731
+    },
+    {
+      "Time": "2023-11-01T14:58:05.0240258+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7013,
+      "NumberOfAwardsMax": 1731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7012,
+  "NumberOfAwards": 7013,
   "NumberOfAwardsMax": 1731,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4010,7 +4016,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 634
+      "Count": 635
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4049,9 +4055,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11976,
+  "EOS_Progressed": 11977,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14904,6 +14910,11 @@
       "Time": "2023-11-01T13:10:10.3928609+00:00",
       "NumProgressed": 11976,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T15:05:55.4813542+00:00",
+      "NumProgressed": 11977,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15163,7 +15174,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15842,21 +15853,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10758,
+      "Progressed": 10759,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11976,
+      "Progressed": 11977,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-10-31T13:57:41.8252457+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:06:45.3887422+00:00",
+  "LastChanged": "2023-11-01T14:58:05.0240255+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:05:55.4813536+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:58:32.7221025+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:06:45.3890664+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:58:05.0240263+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:05:55.4816728+00:00"
 }

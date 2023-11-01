@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 640)  
+Rating: 4.46 (Ranked 639)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~17,869 |
-| Mama? | 27.00% | ~6,266 |
-| People's Haven | 18.00% | ~4,177 |
-| Cartographer | 17.00% | ~3,945 |
-| Antlers of Stone | 15.00% | ~3,481 |
-| Knowledge for Power | 14.00% | ~3,249 |
-| Gaze into the abyss | 13.00% | ~3,017 |
-| Mausoleum of Ice | 13.00% | ~3,017 |
-| Wings of Stone | 12.00% | ~2,785 |
-| Equilibrium | 12.00% | ~2,785 |
+| Light at the end of the tunnel | 77.00% | ~17,874 |
+| Mama? | 27.00% | ~6,268 |
+| People's Haven | 18.00% | ~4,178 |
+| Cartographer | 17.00% | ~3,946 |
+| Antlers of Stone | 15.00% | ~3,482 |
+| Knowledge for Power | 14.00% | ~3,250 |
+| Gaze into the abyss | 13.00% | ~3,018 |
+| Mausoleum of Ice | 13.00% | ~3,018 |
+| Wings of Stone | 12.00% | ~2,786 |
+| Equilibrium | 12.00% | ~2,786 |
 | In the belly of the beast | 11.00% | ~2,553 |
 | Condor condo | 10.00% | ~2,321 |
 | Memorial | 9.00% | ~2,089 |
-| An uninvited guest | 7.00% | ~1,624 |
-| Tails of Stone | 6.00% | ~1,392 |
-| Baa from the past | 6.00% | ~1,392 |
-| Written in stone | 6.00% | ~1,392 |
-| Talk to all the spirit animals | 6.00% | ~1,392 |
-| Ripples on the surface | 5.00% | ~1,160 |
-| Hide and Seek | 4.00% | ~928 |
+| An uninvited guest | 7.00% | ~1,625 |
+| Tails of Stone | 6.00% | ~1,393 |
+| Baa from the past | 6.00% | ~1,393 |
+| Written in stone | 6.00% | ~1,393 |
+| Talk to all the spirit animals | 6.00% | ~1,393 |
+| Ripples on the surface | 5.00% | ~1,161 |
+| Hide and Seek | 4.00% | ~929 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,206 (Ranked 127)  
+Progressed: 23,213 (Ranked 127)  
 Completed: 448 (1.93%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 448 (1.93%) (Ranked 123)
 | 2023-10-29 | 23,053 | 447 |
 | 2023-10-30 | 23,103 | 448 |
 | 2023-10-31 | 23,174 | 448 |
-| 2023-11-01 | 23,206 | 448 |
+| 2023-11-01 | 23,213 | 448 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

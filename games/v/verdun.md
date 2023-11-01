@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,553 |
-| Worth it | 63.00% | ~39,216 |
-| Eagle Eye | 55.00% | ~34,236 |
-| Corpseman I | 40.00% | ~24,899 |
-| Blast fishing | 37.00% | ~23,031 |
-| Not alone | 32.00% | ~19,919 |
-| Headhunter I | 26.00% | ~16,184 |
-| Manual Labour I | 25.00% | ~15,562 |
-| Developers, Developers, Developers | 24.00% | ~14,939 |
-| Basic Training | 24.00% | ~14,939 |
-| Furchtlos und Treu | 13.00% | ~8,092 |
+| Setting an example | 78.00% | ~48,557 |
+| Worth it | 63.00% | ~39,219 |
+| Eagle Eye | 55.00% | ~34,239 |
+| Corpseman I | 40.00% | ~24,901 |
+| Blast fishing | 37.00% | ~23,034 |
+| Not alone | 32.00% | ~19,921 |
+| Headhunter I | 26.00% | ~16,186 |
+| Manual Labour I | 25.00% | ~15,563 |
+| Developers, Developers, Developers | 24.00% | ~14,941 |
+| Basic Training | 24.00% | ~14,941 |
+| Furchtlos und Treu | 13.00% | ~8,093 |
 | Gott Mit Uns | 12.00% | ~7,470 |
-| This We'll Defend! | 9.00% | ~5,602 |
-| Anker wirf! | 9.00% | ~5,602 |
-| Providentiea Memor | 9.00% | ~5,602 |
-| For King and Country | 9.00% | ~5,602 |
+| This We'll Defend! | 9.00% | ~5,603 |
+| Anker wirf! | 9.00% | ~5,603 |
+| Providentiea Memor | 9.00% | ~5,603 |
+| For King and Country | 9.00% | ~5,603 |
 | Battle hardened | 8.00% | ~4,980 |
-| Semper Fidelis! | 7.00% | ~4,357 |
-| Honneur et Patrie | 7.00% | ~4,357 |
-| In Treue Fest | 5.00% | ~3,112 |
-| Voor De Koning | 5.00% | ~3,112 |
-| Extreme Headhunter | 5.00% | ~3,112 |
+| Semper Fidelis! | 7.00% | ~4,358 |
+| Honneur et Patrie | 7.00% | ~4,358 |
+| In Treue Fest | 5.00% | ~3,113 |
+| Voor De Koning | 5.00% | ~3,113 |
+| Extreme Headhunter | 5.00% | ~3,113 |
 | Advance Australia | 4.00% | ~2,490 |
 | We Stand on Guard | 4.00% | ~2,490 |
 | Sidi Brahim | 4.00% | ~2,490 |
@@ -35,26 +35,26 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,490 |
 | There is no I in team | 4.00% | ~2,490 |
 | Corpseman II | 4.00% | ~2,490 |
-| Offense is the best defence | 3.00% | ~1,867 |
-| Veteran | 3.00% | ~1,867 |
-| Manual Labour II | 3.00% | ~1,867 |
-| In My Defens God Me Defend | 3.00% | ~1,867 |
-| Silver x100 | 3.00% | ~1,867 |
-| Impavidum Ferient Bella! | 3.00% | ~1,867 |
+| Offense is the best defence | 3.00% | ~1,868 |
+| Veteran | 3.00% | ~1,868 |
+| Manual Labour II | 3.00% | ~1,868 |
+| In My Defens God Me Defend | 3.00% | ~1,868 |
+| Silver x100 | 3.00% | ~1,868 |
+| Impavidum Ferient Bella! | 3.00% | ~1,868 |
 | Bronze x100 | 2.00% | ~1,245 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,245 |
-| Gold x100 | 1.00% | ~622 |
-| Hunting the Hun | 1.00% | ~622 |
-| #1 | 1.00% | ~622 |
-| Golden Headhunter | 1.00% | ~622 |
-| That's another one down! | 1.00% | ~622 |
-| Do you even die? | 1.00% | ~622 |
-| Headhunter II | 1.00% | ~622 |
-| Corpseman III | 1.00% | ~622 |
+| Gold x100 | 1.00% | ~623 |
+| Hunting the Hun | 1.00% | ~623 |
+| #1 | 1.00% | ~623 |
+| Golden Headhunter | 1.00% | ~623 |
+| That's another one down! | 1.00% | ~623 |
+| Do you even die? | 1.00% | ~623 |
+| Headhunter II | 1.00% | ~623 |
+| Corpseman III | 1.00% | ~623 |
 | Elite Player | 0.80% | ~498 |
 | Manual Labour III | 0.40% | ~249 |
 | Buddy | 0.30% | ~187 |
-| War is better with friends II | 0.20% | ~124 |
+| War is better with friends II | 0.20% | ~125 |
 | Gold Collector | 0.10% | ~62 |
 | Gold Hoarder | 0.10% | ~62 |
 | Silver Collector | 0.10% | ~62 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,247 (Ranked 103)  
+Progressed: 62,253 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,15 +261,15 @@ Completed: 4 (0.01%) (Ranked 317)
 | 2023-10-29 | 62,054 | 4 |
 | 2023-10-30 | 62,131 | 4 |
 | 2023-10-31 | 62,223 | 4 |
-| 2023-11-01 | 62,247 | 4 |
+| 2023-11-01 | 62,253 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 347)  
-Sum: 901 (Ranked 267)  
+Sum: 902 (Ranked 267)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
-| This game is Highly Recommended | 98 |
+| This game is Highly Recommended | 99 |
 | This game is Extremely Fun | 92 |
 | This game has Diverse Characters | 91 |
 | This game has Quickly Understood Controls | 88 |
@@ -422,3 +422,4 @@ Diff (max vs sum): 80
 | 2023-09-17 | 4.53 | - | 97 | 776 |
 | 2023-09-19 | 4.53 | - | 97 | 777 |
 | 2023-10-29 | 4.53 | - | 106 | 901 |
+| 2023-11-01 | 4.53 | - | 106 | 902 |

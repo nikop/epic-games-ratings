@@ -10,18 +10,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 4.00% | ~603 |
 | Friendly Family | 4.00% | ~603 |
 | Play a Single Player Game | 4.00% | ~603 |
-| Able | 3.00% | ~452 |
-| Architect | 3.00% | ~452 |
-| Good | 3.00% | ~452 |
-| Intrepid | 3.00% | ~452 |
-| Learned | 3.00% | ~452 |
-| Mason | 3.00% | ~452 |
-| Noble | 3.00% | ~452 |
-| Pioneer | 3.00% | ~452 |
-| Strong | 3.00% | ~452 |
-| Hanging Gardens | 3.00% | ~452 |
-| Oracle | 3.00% | ~452 |
-| Trade Caravan | 3.00% | ~452 |
+| Able | 3.00% | ~453 |
+| Architect | 3.00% | ~453 |
+| Good | 3.00% | ~453 |
+| Intrepid | 3.00% | ~453 |
+| Learned | 3.00% | ~453 |
+| Mason | 3.00% | ~453 |
+| Noble | 3.00% | ~453 |
+| Pioneer | 3.00% | ~453 |
+| Strong | 3.00% | ~453 |
+| Hanging Gardens | 3.00% | ~453 |
+| Oracle | 3.00% | ~453 |
+| Trade Caravan | 3.00% | ~453 |
 | Ambitious | 2.00% | ~302 |
 | Drillmaster | 2.00% | ~302 |
 | Brilliant | 2.00% | ~302 |
@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.90% | ~136 |
 | Legalism | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
+| Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | Double Victory | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
@@ -109,7 +110,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.80% | ~121 |
 | Gnosticism | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
-| Cimmerian Archer | 0.80% | ~121 |
 | Phalangite | 0.80% | ~121 |
 | Capable | 0.70% | ~106 |
 | Ready | 0.70% | ~106 |
@@ -127,13 +127,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mounted Lancer | 0.70% | ~106 |
 | Ambition Victory | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
-| Devout | 0.60% | ~90 |
-| Clerics | 0.60% | ~90 |
-| Hittite Paganism | 0.60% | ~90 |
-| Turreted Elephant | 0.60% | ~90 |
-| All Nations | 0.60% | ~90 |
-| The Great Mage | 0.60% | ~90 |
-| Kmt Unified | 0.60% | ~90 |
+| Devout | 0.60% | ~91 |
+| Clerics | 0.60% | ~91 |
+| Rome | 0.60% | ~91 |
+| Hittite Paganism | 0.60% | ~91 |
+| Turreted Elephant | 0.60% | ~91 |
+| All Nations | 0.60% | ~91 |
+| The Great Mage | 0.60% | ~91 |
+| Kmt Unified | 0.60% | ~91 |
 | Bad Heir Day | 0.50% | ~75 |
 | Ishtar Gate in Babylon | 0.50% | ~75 |
 | Carthage - Ox Hide | 0.50% | ~75 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.50% | ~75 |
 | Adur Burzen-Mihr | 0.50% | ~75 |
 | Learn to Play 5 | 0.50% | ~75 |
-| Rome | 0.50% | ~75 |
 | Old World Order | 0.50% | ~75 |
 | Cataphract Archer | 0.50% | ~75 |
 | Kush | 0.50% | ~75 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,081 (Ranked 144)  
+Progressed: 15,084 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
-| 2023-11-01 | 15,081 | 5 |
+| 2023-11-01 | 15,084 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,862 (Ranked 212)  

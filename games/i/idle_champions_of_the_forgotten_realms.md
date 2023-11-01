@@ -7,13 +7,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,334 |
+| Beast Intentions | 0.50% | ~1,167 |
 | The Cursed Farmer | 0.50% | ~1,167 |
 | Foul Play | 0.50% | ~998 |
-| Beast Intentions | 0.40% | ~933 |
-| The Mad Wizard | 0.40% | ~933 |
+| The Mad Wizard | 0.40% | ~934 |
 | The Jungles of Doomspace | 0.40% | ~799 |
 | The Arena of Blood | 0.40% | ~799 |
 | Spelljammers in Training | 0.40% | ~799 |
+| Were-verpowered | 0.30% | ~700 |
 | The Ring of Regeneration | 0.30% | ~700 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Castle of a Thousand Vecnas | 0.20% | ~399 |
 | The Sanctum of the Sword | 0.20% | ~399 |
 | Get Back In The Castle | 0.20% | ~399 |
-| Were-verpowered | 0.20% | ~467 |
 | Checkmate | 0.20% | ~399 |
 | Vecna Out! | 0.20% | ~399 |
 | A Persistent Buzzing | 0.20% | ~467 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,374 (Ranked 62)  
+Progressed: 233,375 (Ranked 62)  
 Completed: 2,415 (1.03%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 155)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,374 | 2,415 |
+| 2023-11-01 | 233,375 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

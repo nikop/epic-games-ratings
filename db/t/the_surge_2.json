@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2105,
+  "EOS_Progressed": 2106,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2804,6 +2804,11 @@
       "Time": "2023-11-01T13:13:07.4739856+00:00",
       "NumProgressed": 2105,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-01T15:08:56.6683431+00:00",
+      "NumProgressed": 2106,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2823,7 +2828,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ACHV_03",
@@ -2895,7 +2900,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHV_12",
@@ -2959,7 +2964,7 @@
       "Name": "Defense in Depth",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHV_20",
@@ -2975,7 +2980,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHV_22",
@@ -3015,7 +3020,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1685
     },
     {
       "ID": "ACHV_27",
@@ -3039,7 +3044,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHV_30",
@@ -3047,7 +3052,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACHV_31",
@@ -3119,7 +3124,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ACHV_40",
@@ -3270,7 +3275,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2105,
+      "Progressed": 2106,
       "Completed": 13
     }
   ],
@@ -3278,8 +3283,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:09:25.1959218+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:08:56.6683425+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:57:28.2500152+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:09:25.1959968+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:57:07.0234429+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:08:56.6684176+00:00"
 }

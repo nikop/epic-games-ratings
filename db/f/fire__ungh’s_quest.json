@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -702,9 +702,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -798,9 +798,9 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "Level_completed_010_010",
@@ -855,8 +855,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:06:17.9573849+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:05:31.444437+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:48.5873298+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:59:56.4216736+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:06:17.9574141+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:59:18.4350712+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:05:31.4444676+00:00"
 }

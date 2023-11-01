@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 35,
@@ -497,7 +497,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530404,
+  "EOS_Progressed": 530405,
   "EOS_Completed": 492,
   "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 2,
@@ -21262,6 +21262,11 @@
       "Time": "2023-11-01T14:06:22.3234619+00:00",
       "NumProgressed": 530404,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-11-01T15:05:35.1028604+00:00",
+      "NumProgressed": 530405,
+      "NumCompleted": 492
     }
   ],
   "TotalAchievements": 57,
@@ -21289,7 +21294,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371283
+      "UsersEstimate": 371284
     },
     {
       "ID": "12",
@@ -21313,7 +21318,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58344
+      "UsersEstimate": 58345
     },
     {
       "ID": "15",
@@ -21353,7 +21358,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328850
+      "UsersEstimate": 328851
     },
     {
       "ID": "2",
@@ -21377,7 +21382,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58344
+      "UsersEstimate": 58345
     },
     {
       "ID": "22",
@@ -21529,7 +21534,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180337
+      "UsersEstimate": 180338
     },
     {
       "ID": "4",
@@ -21601,7 +21606,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328850
+      "UsersEstimate": 328851
     },
     {
       "ID": "48",
@@ -21617,7 +21622,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180337
+      "UsersEstimate": 180338
     },
     {
       "ID": "5",
@@ -21728,15 +21733,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530404,
+      "Progressed": 530405,
       "Completed": 492
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:06:22.3234613+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:05:35.1028599+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.2071497+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:58:04.5762378+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:06:22.3236928+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:57:39.5341516+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:05:35.1030089+00:00"
 }

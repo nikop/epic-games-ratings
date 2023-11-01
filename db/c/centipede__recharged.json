@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18220,
+  "EOS_Progressed": 18221,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15142,6 +15142,11 @@
       "Time": "2023-11-01T14:06:57.8374662+00:00",
       "NumProgressed": 18220,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-01T15:06:06.5495187+00:00",
+      "NumProgressed": 18221,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15153,7 +15158,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "Burning_For_You",
@@ -15177,7 +15182,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "Eyes_On_Fire",
@@ -15225,7 +15230,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7652
+      "UsersEstimate": 7653
     },
     {
       "ID": "Mirrors",
@@ -15257,7 +15262,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6741
+      "UsersEstimate": 6742
     },
     {
       "ID": "Still_Burning",
@@ -15280,15 +15285,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18220,
+      "Progressed": 18221,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:06:57.8374656+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:06:06.5495181+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:00:59.9484664+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:06:57.8375859+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:00:16.0148906+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:06:06.549739+00:00"
 }

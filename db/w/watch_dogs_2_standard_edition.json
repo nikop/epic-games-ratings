@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 439,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -7051,10 +7051,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 3998,
       "NumberOfAwardsMax": 535
+    },
+    {
+      "Time": "2023-11-01T15:00:38.1026203+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 4003,
+      "NumberOfAwardsMax": 535
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3998,
+  "NumberOfAwards": 4003,
   "NumberOfAwardsMax": 535,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7080,7 +7086,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 511
+      "Count": 516
     },
     {
       "Text": "This game is Relaxing",
@@ -7130,8 +7136,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-11-01T09:01:05.1906384+00:00",
+  "LastChanged": "2023-11-01T15:00:38.10262+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:52.5786606+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:01:26.9516432+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:05:20.0832245+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:00:38.1026208+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:04:39.4315522+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~804 |
-| My little farm | 64.00% | ~635 |
-| Every beginning is difficult | 63.00% | ~625 |
-| Gofer | 57.00% | ~565 |
+| My little farm | 64.00% | ~636 |
+| Every beginning is difficult | 63.00% | ~626 |
+| Gofer | 57.00% | ~566 |
 | 3, 2, 1, mine | 55.00% | ~546 |
 | O Captain! My Captain! | 55.00% | ~546 |
 | Seafarer | 52.00% | ~516 |
@@ -18,13 +18,13 @@ Number of Ratings: 53  (23.09.2022)
 | I'm out of here for a while | 42.00% | ~417 |
 | In a mint condition | 38.00% | ~377 |
 | Licence to Kill | 37.00% | ~367 |
-| Pirates! | 34.00% | ~337 |
+| Pirates! | 34.00% | ~338 |
 | Collectionitis | 29.00% | ~288 |
 | Megalomania | 29.00% | ~288 |
 | Christening | 28.00% | ~278 |
 | Groundskeeper | 26.00% | ~258 |
 | Wholesale | 22.00% | ~218 |
-| Walk the plank | 21.00% | ~208 |
+| Walk the plank | 21.00% | ~209 |
 | Pearly gates | 18.00% | ~179 |
 | My precious! | 17.00% | ~169 |
 | Conquistador | 14.00% | ~139 |
@@ -34,7 +34,7 @@ Number of Ratings: 53  (23.09.2022)
 | All mine! | 8.00% | ~79 |
 | Paths of Glory | 8.00% | ~79 |
 | Panel of experts | 8.00% | ~79 |
-| Maker | 7.00% | ~69 |
+| Maker | 7.00% | ~70 |
 | Conglomerate | 6.00% | ~60 |
 | The Grande Bouffe | 6.00% | ~60 |
 | Buccaneer | 5.00% | ~50 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 992 (Ranked 247)  
+Progressed: 993 (Ranked 247)  
 Completed: 1 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 1 (0.10%) (Ranked 265)
 | 2023-10-28 | 986 | 1 |
 | 2023-10-29 | 988 | 1 |
 | 2023-10-30 | 991 | 1 |
-| 2023-11-01 | 992 | 1 |
+| 2023-11-01 | 993 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

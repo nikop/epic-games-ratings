@@ -7741,10 +7741,10 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233374,
+  "EOS_Progressed": 233375,
   "EOS_Completed": 2415,
   "EOS_NewPlayers": 592,
-  "EOS_NewCompleters": 30,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -29536,6 +29536,11 @@
       "Time": "2023-11-01T14:08:15.3179168+00:00",
       "NumProgressed": 233374,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T15:07:16.2255326+00:00",
+      "NumProgressed": 233375,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 528,
@@ -29913,9 +29918,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 1167
     },
     {
       "ID": "objective_completed_110",
@@ -30409,9 +30414,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 700
     },
     {
       "ID": "objective_completed_1203",
@@ -32691,7 +32696,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "objective_completed_70",
@@ -33770,21 +33775,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199648,
+      "Progressed": 199649,
       "Completed": 3728
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233374,
+      "Progressed": 233375,
       "Completed": 2415
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:08:15.3179162+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:07:16.2255318+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:59:17.4497215+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:08:15.3214688+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:58:45.9853161+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:07:16.2285674+00:00"
 }

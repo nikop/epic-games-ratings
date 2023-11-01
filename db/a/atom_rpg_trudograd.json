@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 332,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -234,9 +234,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1544,6 +1544,11 @@
       "Time": "2023-10-31T18:05:09.6675868+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T15:06:00.5146251+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -1571,7 +1576,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ATOM_QUIT",
@@ -1755,7 +1760,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SICK_FREAK",
@@ -1795,22 +1800,22 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
       "SetID": "62d2oh4",
       "Name": "Fresh Prince of Trudograd",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1099
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1263,
       "Completed": 0
     }
   ],
@@ -1818,8 +1823,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-10-19T09:58:49.0306924+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:06:51.137973+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:06:00.5146246+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:16.9909758+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:59:30.1685428+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:06:51.1380126+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:58:56.9497938+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:06:00.5146561+00:00"
 }

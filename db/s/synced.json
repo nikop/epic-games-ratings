@@ -4,10 +4,10 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 926,
   "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -853,10 +853,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-11-01T14:59:09.9606995+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -894,7 +900,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -915,9 +921,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65383,
+  "EOS_Progressed": 65392,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7480,6 +7486,11 @@
       "Time": "2023-11-01T14:05:57.6093861+00:00",
       "NumProgressed": 65383,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-01T15:05:12.8411992+00:00",
+      "NumProgressed": 65392,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7492,7 +7503,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21576
+      "UsersEstimate": 21579
     },
     {
       "ID": "10",
@@ -7508,7 +7519,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "12",
@@ -7516,7 +7527,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "13",
@@ -7532,7 +7543,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3923
+      "UsersEstimate": 3924
     },
     {
       "ID": "15",
@@ -7556,7 +7567,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11115
+      "UsersEstimate": 11117
     },
     {
       "ID": "3",
@@ -7564,7 +7575,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8500
+      "UsersEstimate": 8501
     },
     {
       "ID": "4",
@@ -7572,7 +7583,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "5",
@@ -7588,7 +7599,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3923
+      "UsersEstimate": 3924
     },
     {
       "ID": "7",
@@ -7596,7 +7607,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "8",
@@ -7619,16 +7630,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65383,
+      "Progressed": 65392,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-01T10:59:47.062125+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:05:57.6093856+00:00",
+  "LastChanged": "2023-11-01T14:59:09.9606992+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:05:12.8411987+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-11-01T13:59:45.5507752+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:05:57.6094498+00:00"
+  "LastUpdate_Ratings": "2023-11-01T14:59:09.9606999+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:05:12.8412445+00:00"
 }

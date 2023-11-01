@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.08,
+  "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -868,6 +868,11 @@
       "Time": "2023-11-01T14:07:45.976976+00:00",
       "NumProgressed": 558,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-01T15:06:49.349954+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -965,9 +970,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 280
     },
     {
       "ID": "Hitman",
@@ -997,9 +1002,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 252
     },
     {
       "ID": "Leisurely_Strol",
@@ -1110,7 +1115,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 6
     }
   ],
@@ -1118,8 +1123,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-01T14:07:45.9769754+00:00",
+  "LastChanged_Achievements": "2023-11-01T15:06:49.3499535+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:44.8805574+00:00",
-  "LastUpdate_Ratings": "2023-11-01T14:03:27.9990298+00:00",
-  "LastUpdate_Achievements": "2023-11-01T14:07:45.9770051+00:00"
+  "LastUpdate_Ratings": "2023-11-01T15:02:58.1703969+00:00",
+  "LastUpdate_Achievements": "2023-11-01T15:06:49.3499837+00:00"
 }

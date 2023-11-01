@@ -6,19 +6,19 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,414 |
-| Photogenic | 85.00% | ~8,036 |
-| Surge Gauntlet Jockey | 82.00% | ~7,752 |
-| Plug It In | 81.00% | ~7,658 |
+| Let's Get This Party Started | 89.00% | ~8,415 |
+| Photogenic | 85.00% | ~8,037 |
+| Surge Gauntlet Jockey | 82.00% | ~7,753 |
+| Plug It In | 81.00% | ~7,659 |
 | Adventure Time | 77.00% | ~7,280 |
-| Playing With Power | 75.00% | ~7,090 |
+| Playing With Power | 75.00% | ~7,091 |
 | Coup d'Etat | 57.00% | ~5,389 |
-| You're Fired | 56.00% | ~5,294 |
+| You're Fired | 56.00% | ~5,295 |
 | Get Furious | 55.00% | ~5,200 |
-| Hacks In Stacks | 54.00% | ~5,105 |
+| Hacks In Stacks | 54.00% | ~5,106 |
 | Gunplay And Cosplay | 53.00% | ~5,011 |
-| Meching Enemies | 47.00% | ~4,443 |
-| Ticket Toddler | 43.00% | ~4,065 |
+| Meching Enemies | 47.00% | ~4,444 |
+| Ticket Toddler | 43.00% | ~4,066 |
 | Booty Bashing | 38.00% | ~3,593 |
 | Field Medic | 37.00% | ~3,498 |
 | Here Comes a New Challenger | 37.00% | ~3,498 |
@@ -34,7 +34,7 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,229 |
 | Light My Fire | 11.00% | ~1,040 |
 | Seasoned Adventurer | 11.00% | ~1,040 |
-| 1.21 Gigawatts | 10.00% | ~945 |
+| 1.21 Gigawatts | 10.00% | ~946 |
 | Get In The Ring! | 9.00% | ~851 |
 | This Is My Boomstick! | 9.00% | ~851 |
 | Rescue Ranger | 8.00% | ~756 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,454 (Ranked 158)  
+Progressed: 9,455 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-29 | 9,425 | 1 |
 | 2023-10-30 | 9,432 | 1 |
 | 2023-10-31 | 9,445 | 1 |
-| 2023-11-01 | 9,454 | 1 |
+| 2023-11-01 | 9,455 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 404)  
 Sum: 463 (Ranked 326)  

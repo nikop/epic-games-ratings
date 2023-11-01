@@ -1,33 +1,33 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 631)  
+Rating: 4.47 (Ranked 630)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,566 |
-| Overkill | 34.00% | ~5,983 |
-| Vaccine Incoming | 33.00% | ~5,807 |
-| A normal day in Gloomhaven | 33.00% | ~5,807 |
-| Spread the plague | 30.00% | ~5,279 |
-| Get over here! | 25.00% | ~4,399 |
-| Just when I thought I was out... | 19.00% | ~3,343 |
-| Precious! | 17.00% | ~2,991 |
-| Mine... All Mine... | 17.00% | ~2,991 |
-| Light of my life | 15.00% | ~2,639 |
-| Anatomy Lesson | 15.00% | ~2,639 |
-| Grizzled veteran | 14.00% | ~2,463 |
-| You activated my trap card! | 13.00% | ~2,287 |
-| Obstacle race | 13.00% | ~2,287 |
-| Augmented rat | 12.00% | ~2,112 |
-| Doom and gloom | 11.00% | ~1,936 |
-| Who's the Boss? | 9.00% | ~1,584 |
-| Dungeon Veteran | 8.00% | ~1,408 |
-| Pack leader | 8.00% | ~1,408 |
-| Pain is your friend | 8.00% | ~1,408 |
-| Black death | 8.00% | ~1,408 |
-| Play it again, Sam | 8.00% | ~1,408 |
+| I'm not dead yet | 43.00% | ~7,571 |
+| Overkill | 34.00% | ~5,986 |
+| Vaccine Incoming | 33.00% | ~5,810 |
+| A normal day in Gloomhaven | 33.00% | ~5,810 |
+| Spread the plague | 30.00% | ~5,282 |
+| Get over here! | 25.00% | ~4,402 |
+| Just when I thought I was out... | 19.00% | ~3,345 |
+| Precious! | 17.00% | ~2,993 |
+| Mine... All Mine... | 17.00% | ~2,993 |
+| Light of my life | 15.00% | ~2,641 |
+| Anatomy Lesson | 15.00% | ~2,641 |
+| Grizzled veteran | 14.00% | ~2,465 |
+| You activated my trap card! | 13.00% | ~2,289 |
+| Obstacle race | 13.00% | ~2,289 |
+| Augmented rat | 12.00% | ~2,113 |
+| Doom and gloom | 11.00% | ~1,937 |
+| Who's the Boss? | 9.00% | ~1,585 |
+| Dungeon Veteran | 8.00% | ~1,409 |
+| Pack leader | 8.00% | ~1,409 |
+| Pain is your friend | 8.00% | ~1,409 |
+| Black death | 8.00% | ~1,409 |
+| Play it again, Sam | 8.00% | ~1,409 |
 | Quad damage | 6.00% | ~1,056 |
 | Power Up! | 5.00% | ~880 |
 | The Pro from Dover | 5.00% | ~880 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,596 (Ranked 135)  
+Progressed: 17,607 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-29 | 17,093 | 1 |
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
-| 2023-11-01 | 17,596 | 1 |
+| 2023-11-01 | 17,607 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
 Sum: 8,327 (Ranked 98)  

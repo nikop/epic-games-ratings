@@ -51,9 +51,9 @@ Number of Ratings: 75  (23.09.2022)
 | Trendsetter | 0.60% | ~33 |
 | Level: Heating-Up | 0.50% | ~28 |
 | CEO | 0.50% | ~28 |
+| Rockstar | 0.50% | ~28 |
 | Campaign: Man vs. Machine | 0.40% | ~22 |
 | A Happy Taskforce: Interior Designer | 0.40% | ~22 |
-| Rockstar | 0.40% | ~22 |
 | Champion | 0.30% | ~17 |
 | Trophy Hoarder | 0.30% | ~17 |
 | The Machinery: Goal Orientated | 0.30% | ~17 |
