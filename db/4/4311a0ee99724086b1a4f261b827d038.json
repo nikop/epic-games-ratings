@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -503,9 +503,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229774,
+  "EOS_Progressed": 229776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12028,6 +12028,11 @@
       "Time": "2023-11-01T02:29:14.4673826+00:00",
       "NumProgressed": 229774,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T03:09:25.2532723+00:00",
+      "NumProgressed": 229776,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12128,7 +12133,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -12152,7 +12157,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -12160,7 +12165,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -12240,7 +12245,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4595
+      "UsersEstimate": 4596
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -12311,7 +12316,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229774,
+      "Progressed": 229776,
       "Completed": 0
     }
   ],
@@ -12319,8 +12324,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-10-31T17:02:37.7200153+00:00",
-  "LastChanged_Achievements": "2023-11-01T02:29:14.4673821+00:00",
+  "LastChanged_Achievements": "2023-11-01T03:09:25.2532719+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:49:51.2091764+00:00",
-  "LastUpdate_Achievements": "2023-11-01T02:29:14.4674925+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:57:19.1494325+00:00",
+  "LastUpdate_Achievements": "2023-11-01T03:09:25.2533715+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238920,
+  "EOS_Progressed": 238923,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23456,6 +23456,11 @@
       "Time": "2023-11-01T01:56:53.065598+00:00",
       "NumProgressed": 238920,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-01T03:09:50.2392355+00:00",
+      "NumProgressed": 238923,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24561,22 +24566,22 @@
       "ID": "WEARSAMESETINSLOTS",
       "SetID": "1peahb6",
       "Name": "Matching",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238920,
+      "Progressed": 238923,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 400,
+      "Progressed": 403,
       "Completed": 353
     }
   ],
@@ -24584,8 +24589,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-11-01T02:29:38.5310034+00:00",
+  "LastChanged_Achievements": "2023-11-01T03:09:50.2392351+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:23:25.3319866+00:00",
-  "LastUpdate_Achievements": "2023-11-01T02:29:38.5313721+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:03:23.4477332+00:00",
+  "LastUpdate_Achievements": "2023-11-01T03:09:50.2395982+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 451,
+  "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -762,11 +762,17 @@
       "Rating": 4.86,
       "NumberOfAwards": 351,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2023-11-01T03:00:26.2545908+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 352,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 352,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -779,7 +785,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -844,7 +850,7 @@
   ],
   "EOS_Progressed": 28528,
   "EOS_Completed": 1364,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.78,
   "EosHistory": [
@@ -6643,9 +6649,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2023-10-31T17:00:38.3905872+00:00",
-  "LastChanged_Achievements": "2023-11-01T02:25:06.2280321+00:00",
+  "LastChanged": "2023-11-01T03:00:26.2545905+00:00",
+  "LastChanged_Achievements": "2023-11-01T03:05:05.5205404+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:19.4147391+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:20:35.6536673+00:00",
-  "LastUpdate_Achievements": "2023-11-01T02:25:06.2281041+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:00:26.254592+00:00",
+  "LastUpdate_Achievements": "2023-11-01T03:05:05.5205996+00:00"
 }

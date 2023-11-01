@@ -2765,9 +2765,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 658669,
+  "EOS_Progressed": 658671,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1756,
+  "EOS_NewPlayers": 1758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24865,6 +24865,11 @@
       "Time": "2023-11-01T02:28:58.3612306+00:00",
       "NumProgressed": 658669,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-01T03:09:08.6445414+00:00",
+      "NumProgressed": 658671,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24876,7 +24881,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98800
+      "UsersEstimate": 98801
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -24884,7 +24889,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79040
+      "UsersEstimate": 79041
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -24916,7 +24921,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 118560
+      "UsersEstimate": 118561
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -25284,22 +25289,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32933
+      "UsersEstimate": 32934
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 658669,
+      "Progressed": 658671,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-01T01:47:12.9011919+00:00",
-  "LastChanged_Achievements": "2023-11-01T02:28:58.3612298+00:00",
+  "LastChanged_Achievements": "2023-11-01T03:09:08.6445404+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:04.114706+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:19:56.1857991+00:00",
-  "LastUpdate_Achievements": "2023-11-01T02:28:58.3614553+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:59:48.9011306+00:00",
+  "LastUpdate_Achievements": "2023-11-01T03:09:08.6447258+00:00"
 }

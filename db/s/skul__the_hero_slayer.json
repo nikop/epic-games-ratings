@@ -5188,9 +5188,9 @@
       "ID": "GoHome",
       "SetID": "97dk767",
       "Name": "Go Home...",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2395
     },
     {
       "ID": "HeroSlayer",
@@ -5308,8 +5308,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-10-31T12:02:56.3514136+00:00",
-  "LastChanged_Achievements": "2023-11-01T02:26:28.6095511+00:00",
+  "LastChanged_Achievements": "2023-11-01T03:06:28.8478802+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:36.5277741+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:23:32.0089677+00:00",
-  "LastUpdate_Achievements": "2023-11-01T02:26:28.6096044+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:03:30.3475844+00:00",
+  "LastUpdate_Achievements": "2023-11-01T03:06:28.8479247+00:00"
 }

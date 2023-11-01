@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | New arm | 81.00% | ~294 |
 | Shelter Escape | 80.00% | ~290 |
-| The First Bond | 69.00% | ~250 |
+| The First Bond | 70.00% | ~254 |
 | Novice Scavenger | 63.00% | ~229 |
 | Master Craftsman | 51.00% | ~185 |
 | First wall | 50.00% | ~182 |
 | Piggyback Expert | 48.00% | ~174 |
 | Second wall | 37.00% | ~134 |
 | Expert Scavenger | 35.00% | ~127 |
-| Their Rock | 30.00% | ~109 |
+| Their Rock | 31.00% | ~113 |
 | Yuna's Promise | 29.00% | ~105 |
 | Stone Retriever | 28.00% | ~102 |
 | Find myself | 27.00% | ~98 |
@@ -21,10 +21,10 @@
 | Min's Promise | 19.00% | ~69 |
 | Sia's Promise | 18.00% | ~65 |
 | Romantic | 15.00% | ~54 |
-| TentacleMAN | 10.00% | ~36 |
+| TentacleMAN | 11.00% | ~40 |
+| Yohan's Promise | 5.00% | ~18 |
 | Plushyboy | 5.00% | ~18 |
 | Flawless | 5.00% | ~18 |
-| Yohan's Promise | 4.00% | ~15 |
 | LOVEassistant | 3.00% | ~11 |
 | Dreamboat | 1.00% | ~4 |
 | True Player | 0.80% | ~3 |

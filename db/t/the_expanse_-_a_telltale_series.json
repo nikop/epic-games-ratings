@@ -199,7 +199,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14524,
+  "EOS_Progressed": 14525,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
@@ -10084,6 +10084,11 @@
       "Time": "2023-11-01T02:24:56.4314443+00:00",
       "NumProgressed": 14524,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-01T03:04:55.5075923+00:00",
+      "NumProgressed": 14525,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10222,9 +10227,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "25",
@@ -10375,13 +10380,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14524,
+      "Progressed": 14525,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 286
     }
   ],
@@ -10389,8 +10394,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-11-01T02:24:56.431444+00:00",
+  "LastChanged_Achievements": "2023-11-01T03:04:55.5075916+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:18:46.3357682+00:00",
-  "LastUpdate_Achievements": "2023-11-01T02:24:56.431534+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:58:32.8343583+00:00",
+  "LastUpdate_Achievements": "2023-11-01T03:04:55.5076852+00:00"
 }

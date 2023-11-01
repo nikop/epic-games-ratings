@@ -6,6 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Matching | 0.20% | ~1 |
 | Thank You, Friend | 0.10% | ~239 |
 | Achievement Hunter | 0.10% | ~239 |
 | Ambitious Intent | 0.10% | ~239 |
@@ -136,7 +137,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dominant Twin | 0.10% | ~0 |
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
-| Matching | 0.10% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Minimalist | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Swapsies | 0.00% | ~0 |
 | Martial Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,920 (Ranked 59)  
+Progressed: 238,923 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 286 (0.12%) (Ranked 257)
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
-| 2023-11-01 | 238,920 | 286 |
+| 2023-11-01 | 238,923 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

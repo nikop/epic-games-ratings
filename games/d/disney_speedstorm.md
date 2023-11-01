@@ -5,21 +5,21 @@ Rating: 4.41 (Ranked 713)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,192 |
-| IT MAKES BOOM! | 3.00% | ~8,096 |
-| EXTRA BOOST | 2.00% | ~5,397 |
-| PROTECTED | 2.00% | ~5,397 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,397 |
-| PRO | 2.00% | ~5,397 |
+| ROOKIE | 6.00% | ~16,195 |
+| IT MAKES BOOM! | 3.00% | ~8,097 |
+| EXTRA BOOST | 2.00% | ~5,398 |
+| PROTECTED | 2.00% | ~5,398 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,398 |
+| PRO | 2.00% | ~5,398 |
 | A TIGER'S FEAR | 1.00% | ~2,699 |
 | AGGRESSIVE RACER | 1.00% | ~2,699 |
 | IT'S A LONG WAY TO THE TOP | 0.60% | ~1,619 |
-| DEFEAT OUR CHAMPION | 0.50% | ~1,349 |
-| ACE SPEEDSTER | 0.50% | ~1,349 |
-| RELEASE THE KRAKEN | 0.40% | ~1,079 |
-| BE OUR GUEST | 0.40% | ~1,079 |
-| THE EYE OF THE HUNTER | 0.40% | ~1,079 |
-| LEGENDARY HERO | 0.40% | ~1,079 |
+| DEFEAT OUR CHAMPION | 0.50% | ~1,350 |
+| ACE SPEEDSTER | 0.50% | ~1,350 |
+| RELEASE THE KRAKEN | 0.40% | ~1,080 |
+| BE OUR GUEST | 0.40% | ~1,080 |
+| THE EYE OF THE HUNTER | 0.40% | ~1,080 |
+| LEGENDARY HERO | 0.40% | ~1,080 |
 | TRAINING HARD | 0.30% | ~810 |
 | EXPERIENCED CREW | 0.30% | ~810 |
 | ACE BRAWLER | 0.30% | ~810 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 713)
 | ACE TRICKSTER | 0.20% | ~540 |
 | FRAMED! | 0.10% | ~270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269,862 (Ranked 53)  
+Progressed: 269,909 (Ranked 53)  
 Completed: 248 (0.09%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,17 +221,17 @@ Completed: 248 (0.09%) (Ranked 269)
 | 2023-10-29 | 266,267 | 245 |
 | 2023-10-30 | 268,010 | 245 |
 | 2023-10-31 | 269,606 | 248 |
-| 2023-11-01 | 269,862 | 248 |
+| 2023-11-01 | 269,909 | 248 |
 ## Awards
 Max (Great for Beginners): 46  (Ranked 436)  
-Sum: 391 (Ranked 334)  
+Sum: 392 (Ranked 334)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 46 |
 | This game has Diverse Characters | 45 |
 | This game is Great for Quick Sessions | 45 |
-| This game has Amazing Characters | 33 |
+| This game has Amazing Characters | 34 |
 | This game has Amazing Storytelling | 31 |
 | This game is Highly Recommended | 30 |
 | This game has a Competitive Community | 30 |
@@ -274,3 +274,4 @@ Diff (max vs sum): 102
 | 2023-10-29 | 4.42 | 44 | 363 |
 | 2023-10-30 | 4.42 | 46 | 365 |
 | 2023-10-31 | 4.41 | 46 | 391 |
+| 2023-11-01 | 4.41 | 46 | 392 |
