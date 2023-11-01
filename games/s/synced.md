@@ -5,13 +5,13 @@ Rating: 4.16 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 33.00% | ~21,583 |
-| As Far Away As Possible | 17.00% | ~11,118 |
-| A Most Unstable Organism | 13.00% | ~8,502 |
-| No Time to Follow Protocol | 10.00% | ~6,540 |
-| Float Like a Butterfly... | 8.00% | ~5,232 |
-| Nano Connoisseur | 6.00% | ~3,924 |
-| In Two Places At Once | 6.00% | ~3,924 |
+| Your Lucky Day | 33.00% | ~21,585 |
+| As Far Away As Possible | 17.00% | ~11,120 |
+| A Most Unstable Organism | 13.00% | ~8,503 |
+| No Time to Follow Protocol | 10.00% | ~6,541 |
+| Float Like a Butterfly... | 8.00% | ~5,233 |
+| Nano Connoisseur | 6.00% | ~3,925 |
+| In Two Places At Once | 6.00% | ~3,925 |
 | Pulling Your Weight | 3.00% | ~1,962 |
 | Reaping Rivals | 3.00% | ~1,962 |
 | fifteenth Time's the Charm | 1.00% | ~654 |
@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 926)
 | Runs for Your Money | 0.30% | ~196 |
 | Past Master | 0.30% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,402 (Ranked 101)  
+Progressed: 65,410 (Ranked 101)  
 Completed: 27 (0.04%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,15 +88,15 @@ Completed: 27 (0.04%) (Ranked 298)
 | 2023-10-29 | 65,145 | 26 |
 | 2023-10-30 | 65,249 | 27 |
 | 2023-10-31 | 65,325 | 27 |
-| 2023-11-01 | 65,402 | 27 |
+| 2023-11-01 | 65,410 | 27 |
 ## Awards
 Max (Great for Beginners): 78  (Ranked 385)  
-Sum: 284 (Ranked 364)  
-Diff (max vs sum): 21  
+Sum: 285 (Ranked 363)  
+Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 78 |
-| This game has Diverse Characters | 54 |
+| This game has Diverse Characters | 55 |
 | This game is Highly Recommended | 43 |
 | This game has a Competitive Community | 40 |
 | This game is Extremely Fun | 39 |
@@ -159,4 +159,4 @@ Diff (max vs sum): 21
 | 2023-10-28 | 4.16 | 77 | 315 |
 | 2023-10-29 | 4.16 | 78 | 277 |
 | 2023-10-30 | 4.16 | 78 | 278 |
-| 2023-11-01 | 4.16 | 78 | 284 |
+| 2023-11-01 | 4.16 | 78 | 285 |

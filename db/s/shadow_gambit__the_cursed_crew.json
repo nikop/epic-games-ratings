@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,7 +107,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -2462,6 +2462,11 @@
       "Time": "2023-11-01T02:29:30.3085394+00:00",
       "NumProgressed": 793,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-01T17:08:51.7199469+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2472,9 +2477,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 230
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2482,7 +2487,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "_03_FinishAct1",
@@ -2490,7 +2495,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2498,7 +2503,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "_05_FinishAct2",
@@ -2546,7 +2551,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "_11_Completion_40",
@@ -2602,7 +2607,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2626,7 +2631,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2681,7 +2686,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 27
     }
   ],
@@ -2689,8 +2694,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:09:10.061095+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:08:51.7199466+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:59:16.9973934+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:09:10.0611294+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:59:00.4819892+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:08:51.7199742+00:00"
 }

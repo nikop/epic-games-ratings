@@ -6,15 +6,15 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,882 |
-| Photographer | 69.00% | ~7,769 |
-| Valley's Helper | 62.00% | ~6,981 |
-| Constructor | 52.00% | ~5,855 |
-| Renovator | 51.00% | ~5,743 |
-| Bestest Friend | 47.00% | ~5,292 |
-| Banker | 39.00% | ~4,391 |
-| Gardener | 31.00% | ~3,491 |
-| Generous | 25.00% | ~2,815 |
+| Goofy's Investor | 70.00% | ~7,884 |
+| Photographer | 69.00% | ~7,771 |
+| Valley's Helper | 62.00% | ~6,983 |
+| Constructor | 52.00% | ~5,857 |
+| Renovator | 51.00% | ~5,744 |
+| Bestest Friend | 47.00% | ~5,294 |
+| Banker | 39.00% | ~4,393 |
+| Gardener | 31.00% | ~3,492 |
+| Generous | 25.00% | ~2,816 |
 | Chef Cook | 18.00% | ~2,027 |
 | Miner | 10.00% | ~1,126 |
 | Duty Bound | 7.00% | ~788 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~563 |
 | Chit Chatter | 3.00% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,260 (Ranked 151)  
+Progressed: 11,263 (Ranked 151)  
 Completed: 268 (2.38%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 268 (2.38%) (Ranked 115)
 | 2023-10-29 | 11,178 | 266 |
 | 2023-10-30 | 11,211 | 267 |
 | 2023-10-31 | 11,236 | 267 |
-| 2023-11-01 | 11,260 | 268 |
+| 2023-11-01 | 11,263 | 268 |
 ## Awards
 Max (Great for Beginners): 1,040  (Ranked 149)  
-Sum: 7,807 (Ranked 107)  
+Sum: 7,808 (Ranked 107)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -182,7 +182,7 @@ Diff (max vs sum): 42
 | This game is Relaxing | 807 |
 | This game has Amazing Storytelling | 773 |
 | This game is Extremely Fun | 761 |
-| This game has Quickly Understood Controls | 749 |
+| This game has Quickly Understood Controls | 750 |
 | This game has a Creative Community | 651 |
 | This game has Easy Combat | 519 |
 | This game has Obsessive Gameplay | 415 |
@@ -422,4 +422,4 @@ Diff (max vs sum): 42
 | 2023-10-29 | 4.76 | - | 1,035 | 7,794 |
 | 2023-10-30 | 4.76 | - | 1,035 | 7,796 |
 | 2023-10-31 | 4.76 | - | 1,040 | 7,803 |
-| 2023-11-01 | 4.76 | - | 1,040 | 7,807 |
+| 2023-11-01 | 4.76 | - | 1,040 | 7,808 |

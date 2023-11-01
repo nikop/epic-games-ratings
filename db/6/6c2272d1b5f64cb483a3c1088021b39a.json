@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4019,6 +4019,11 @@
       "Time": "2023-11-01T14:10:05.7671928+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T17:08:58.9362996+00:00",
+      "NumProgressed": 1167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4046,7 +4051,7 @@
       "Name": "Adventurous 3",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "archmage_1",
@@ -4142,7 +4147,7 @@
       "Name": "Collector 3",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "conqueror_1",
@@ -4166,7 +4171,7 @@
       "Name": "Conqueror 3",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "diehard_1",
@@ -4214,7 +4219,7 @@
       "Name": "Elemental stones 3",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "elite_deck_1",
@@ -4230,7 +4235,7 @@
       "Name": "Elite Deck 2",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "elite_deck_3",
@@ -4254,7 +4259,7 @@
       "Name": "From Day to Day 2",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "from_day_to_day_3",
@@ -4302,7 +4307,7 @@
       "Name": "Good Host 2",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "good_host_3",
@@ -4350,7 +4355,7 @@
       "Name": "Lord of the Tower 2",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "lord_of_the_tower_3",
@@ -4518,7 +4523,7 @@
       "Name": "Taste of Victory 2",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "taste_of_victory_3",
@@ -4557,14 +4562,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:09:17.3871104+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:08:58.9362994+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-11-01T16:00:06.2253868+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:09:17.3871922+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:59:41.3667334+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:08:58.9363691+00:00"
 }

@@ -1418,9 +1418,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130343,
+  "EOS_Progressed": 130344,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20693,6 +20693,11 @@
       "Time": "2023-11-01T14:04:55.0459638+00:00",
       "NumProgressed": 130343,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-01T17:04:01.5625564+00:00",
+      "NumProgressed": 130344,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20760,7 +20765,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31282
+      "UsersEstimate": 31283
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20768,7 +20773,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10427
+      "UsersEstimate": 10428
     },
     {
       "ID": "ACH_COP_DORK",
@@ -21023,15 +21028,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130343,
+      "Progressed": 130344,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-01T02:57:19.275442+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:04:12.5453137+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:04:01.5625559+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:57:11.0132586+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:04:12.54542+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:57:10.8841774+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:04:01.5626608+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 492,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -1460,6 +1460,11 @@
       "Time": "2023-10-31T23:07:28.8511704+00:00",
       "NumProgressed": 491,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-01T17:06:09.2220441+00:00",
+      "NumProgressed": 492,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1472,7 +1477,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_eou1",
@@ -1526,9 +1531,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_eou8",
@@ -1544,7 +1549,7 @@
       "Name": "Disc Collector",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_n64",
@@ -1575,14 +1580,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 492,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:06:52.6799046+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:06:09.2220438+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.486313+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:57:18.0986671+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:06:52.6799228+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:57:18.6655497+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:06:09.2220667+00:00"
 }

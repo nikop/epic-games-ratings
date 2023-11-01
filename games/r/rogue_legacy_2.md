@@ -31,12 +31,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | Just the Beginning | 0.30% | ~70 |
 | Wasted Betrayal | 0.30% | ~70 |
 | Color Coordination | 0.30% | ~70 |
+| Black-shoppe | 0.20% | ~47 |
 | For Greed | 0.20% | ~47 |
 | For Penance | 0.20% | ~47 |
 | Good Practice | 0.20% | ~47 |
 | Maybe Wax Doesn't Melt | 0.20% | ~47 |
 | A Glimpse of the Future | 0.20% | ~47 |
-| Black-shoppe | 0.10% | ~23 |
 | Full House | 0.10% | ~23 |
 | Erebus Purified | 0.10% | ~23 |
 | It Was Just an Estimate | 0.10% | ~23 |

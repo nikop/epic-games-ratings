@@ -6817,7 +6817,7 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138435,
+  "EOS_Progressed": 138438,
   "EOS_Completed": 178,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 6,
@@ -26742,6 +26742,11 @@
       "Time": "2023-11-01T16:06:00.2247668+00:00",
       "NumProgressed": 138435,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-01T17:05:47.9064869+00:00",
+      "NumProgressed": 138438,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26769,7 +26774,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "advlevel04",
@@ -26849,7 +26854,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "blueprint01",
@@ -26897,7 +26902,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "boss03",
@@ -26921,7 +26926,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5537
+      "UsersEstimate": 5538
     },
     {
       "ID": "chest02",
@@ -26929,7 +26934,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "chest03",
@@ -26953,7 +26958,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "collection03",
@@ -27001,7 +27006,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "commonres04",
@@ -27033,7 +27038,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "craft04",
@@ -27065,7 +27070,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "damage03",
@@ -27089,7 +27094,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "enchant02",
@@ -27137,7 +27142,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "expansion03",
@@ -27257,7 +27262,7 @@
       "Name": "Mammonite",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "gold06",
@@ -27369,7 +27374,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "loot01",
@@ -27425,7 +27430,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "master04",
@@ -27537,7 +27542,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "sell03",
@@ -27569,7 +27574,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5537
+      "UsersEstimate": 5538
     },
     {
       "ID": "twinenchant01",
@@ -27593,7 +27598,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "uncommonres02",
@@ -27633,7 +27638,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "yami_a",
@@ -27648,15 +27653,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138435,
+      "Progressed": 138438,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-01T11:00:51.6817991+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:06:00.2247665+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:05:47.9064866+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:59:57.4055518+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:06:00.2249525+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:59:35.5065752+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:05:47.9066829+00:00"
 }

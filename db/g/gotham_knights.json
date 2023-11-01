@@ -3923,9 +3923,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75650,
+  "EOS_Progressed": 75652,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 852,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21028,6 +21028,11 @@
       "Time": "2023-11-01T16:03:40.4278979+00:00",
       "NumProgressed": 75650,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-11-01T17:03:30.0464065+00:00",
+      "NumProgressed": 75652,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -21143,7 +21148,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15886
+      "UsersEstimate": 15887
     },
     {
       "ID": "CLAYFACE_2",
@@ -21191,7 +21196,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3782
+      "UsersEstimate": 3783
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -21199,7 +21204,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -21207,7 +21212,7 @@
       "Name": "Talonted",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -21223,7 +21228,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6808
+      "UsersEstimate": 6809
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -21231,7 +21236,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -21247,7 +21252,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9834
+      "UsersEstimate": 9835
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -21263,7 +21268,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21182
+      "UsersEstimate": 21183
     },
     {
       "ID": "FREEZE_1_5",
@@ -21271,7 +21276,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15886
+      "UsersEstimate": 15887
     },
     {
       "ID": "FREEZE_2",
@@ -21311,7 +21316,7 @@
       "Name": "Batarang Collector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -21335,7 +21340,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "HARLEY_1",
@@ -21351,7 +21356,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18912
+      "UsersEstimate": 18913
     },
     {
       "ID": "HARLEY_3",
@@ -21383,7 +21388,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38582
+      "UsersEstimate": 38583
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21431,7 +21436,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25721
+      "UsersEstimate": 25722
     },
     {
       "ID": "MYSTERY_02",
@@ -21439,7 +21444,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18912
+      "UsersEstimate": 18913
     },
     {
       "ID": "MYSTERY_03",
@@ -21503,7 +21508,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6808
+      "UsersEstimate": 6809
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -21526,13 +21531,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75650,
+      "Progressed": 75652,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45930,
+      "Progressed": 45932,
       "Completed": 2672
     }
   ],
@@ -21540,8 +21545,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-01T16:00:17.8057335+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:03:40.4278973+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:03:30.0464062+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-11-01T16:00:17.8057344+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:03:40.4280971+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:59:50.9771709+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:03:30.0465262+00:00"
 }

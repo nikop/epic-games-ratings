@@ -19,9 +19,9 @@ Rating: 4.86 (Ranked 28)
 | Z-shielding's got nothing on us! | 10.00% | ~420 |
 | Uh, they were broken when I got here | 10.00% | ~420 |
 | Kissing the sky! | 10.00% | ~420 |
+| The Negotiator | 9.00% | ~378 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~378 |
 | I look cool. But I can look COOLER. | 9.00% | ~378 |
-| The Negotiator | 8.00% | ~336 |
 | Headliner | 8.00% | ~336 |
 | Time to pay up! | 8.00% | ~336 |
 | Who's the boss now? | 8.00% | ~336 |

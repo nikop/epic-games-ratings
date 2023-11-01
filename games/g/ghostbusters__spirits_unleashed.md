@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 580)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 6.00% | ~1,770 |
-| Advancement | 4.00% | ~1,180 |
+| Advancement | 5.00% | ~1,475 |
 | Discovery | 4.00% | ~1,180 |
 | Meticulously Efficient | 4.00% | ~1,180 |
 | Clutch Capture | 3.00% | ~885 |
@@ -43,21 +43,21 @@ Rating: 4.50 (Ranked 580)
 | Terrifying | 1.00% | ~295 |
 | Tobin's Prodigy | 1.00% | ~295 |
 | Rivalry | 0.80% | ~236 |
-| Fragile Panes | 0.70% | ~206 |
-| Liability | 0.70% | ~206 |
-| Surprise! | 0.70% | ~206 |
-| Therapeutic | 0.50% | ~147 |
+| Fragile Panes | 0.70% | ~207 |
+| Liability | 0.70% | ~207 |
+| Surprise! | 0.70% | ~207 |
+| Therapeutic | 0.50% | ~148 |
 | Rift Seeker | 0.40% | ~118 |
-| Master Collector | 0.30% | ~88 |
+| Master Collector | 0.30% | ~89 |
 | Ghost Expert | 0.20% | ~59 |
-| Catostrophic Destroyer | 0.10% | ~29 |
-| I don't need these | 0.10% | ~29 |
-| Line em' up | 0.10% | ~29 |
-| Little Help Here | 0.10% | ~29 |
-| Mycophile | 0.10% | ~29 |
-| Ultimate Defense | 0.10% | ~29 |
+| Catostrophic Destroyer | 0.10% | ~30 |
+| I don't need these | 0.10% | ~30 |
+| Line em' up | 0.10% | ~30 |
+| Little Help Here | 0.10% | ~30 |
+| Mycophile | 0.10% | ~30 |
+| Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,494 (Ranked 121)  
+Progressed: 29,507 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,494 | 65 |
+| 2023-11-01 | 29,507 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,656 (Ranked 180)  

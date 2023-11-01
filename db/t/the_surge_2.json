@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2106,
+  "EOS_Progressed": 2107,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2809,6 +2809,11 @@
       "Time": "2023-11-01T15:08:56.6683431+00:00",
       "NumProgressed": 2106,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-01T17:08:29.0707489+00:00",
+      "NumProgressed": 2107,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2820,7 +2825,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHV_02",
@@ -2828,7 +2833,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ACHV_03",
@@ -2852,7 +2857,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACHV_06",
@@ -2860,7 +2865,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACHV_07",
@@ -2948,7 +2953,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHV_18",
@@ -2996,7 +3001,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACHV_24",
@@ -3020,7 +3025,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "ACHV_27",
@@ -3092,7 +3097,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHV_36",
@@ -3108,7 +3113,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACHV_38",
@@ -3140,7 +3145,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACHV_42",
@@ -3172,7 +3177,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACHV_46",
@@ -3275,7 +3280,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2106,
+      "Progressed": 2107,
       "Completed": 13
     }
   ],
@@ -3283,8 +3288,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:08:45.1296979+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:08:29.0707487+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:57:11.6822139+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:08:45.129752+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:57:11.5441536+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:08:29.0707909+00:00"
 }

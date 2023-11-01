@@ -12,8 +12,8 @@
 | Maestro | 26.00% | ~975 |
 | Full Employment | 18.00% | ~675 |
 | Clay Fighter | 16.00% | ~600 |
+| Nowhere left to Hide | 14.00% | ~525 |
 | All Ovens Blazing | 13.00% | ~488 |
-| Nowhere left to Hide | 13.00% | ~488 |
 | Boulder Clash | 13.00% | ~488 |
 | Held Back by the Roots | 12.00% | ~450 |
 | Well Supplied | 11.00% | ~412 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -271,9 +271,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1687,
+  "EOS_Progressed": 1688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4071,6 +4071,11 @@
       "Time": "2023-11-01T14:08:22.9207526+00:00",
       "NumProgressed": 1687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T17:02:56.9882861+00:00",
+      "NumProgressed": 1688,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4170,7 +4175,7 @@
       "Name": "5G Network",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -4178,7 +4183,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -4298,7 +4303,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4354,7 +4359,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4362,7 +4367,7 @@
       "Name": "One does not simply...",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -4378,7 +4383,7 @@
       "Name": "Plumber",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -4465,7 +4470,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1687,
+      "Progressed": 1688,
       "Completed": 0
     }
   ],
@@ -4473,8 +4478,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-10-07T20:58:51.3818577+00:00",
-  "LastChanged_Achievements": "2023-11-01T15:07:22.187166+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:02:56.9882851+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:04.6037538+00:00",
-  "LastUpdate_Ratings": "2023-11-01T16:00:43.6397181+00:00",
-  "LastUpdate_Achievements": "2023-11-01T15:07:22.1872275+00:00"
+  "LastUpdate_Ratings": "2023-11-01T17:00:10.3172825+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:02:56.9900122+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "0208da63c74542c99e8a0837e4e688c3",
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 290,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1817,6 +1817,11 @@
       "Time": "2023-11-01T14:07:21.832174+00:00",
       "NumProgressed": 930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T17:05:51.3228445+00:00",
+      "NumProgressed": 931,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1900,7 +1905,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1908,7 +1913,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1962,9 +1967,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 642
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -1972,7 +1977,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1980,7 +1985,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2036,14 +2041,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 931,
       "Completed": 0
     }
   ],
@@ -2051,8 +2056,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:06:03.8127651+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:05:51.3228442+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:24.4421866+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:57:01.6692078+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:06:03.8127889+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:57:02.0425978+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:05:51.3228628+00:00"
 }

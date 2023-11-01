@@ -7741,9 +7741,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233380,
+  "EOS_Progressed": 233383,
   "EOS_Completed": 2415,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29546,6 +29546,11 @@
       "Time": "2023-11-01T16:07:13.9340564+00:00",
       "NumProgressed": 233380,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T17:06:30.8534027+00:00",
+      "NumProgressed": 233383,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 528,
@@ -31555,9 +31560,9 @@
       "ID": "objective_completed_418",
       "SetID": "cc37lbc",
       "Name": "Hopelessly Lost",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_419",
@@ -33780,21 +33785,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199654,
+      "Progressed": 199657,
       "Completed": 3728
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233380,
+      "Progressed": 233383,
       "Completed": 2415
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T16:07:13.9340561+00:00",
+  "LastChanged_Achievements": "2023-11-01T17:06:30.8534024+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T15:58:43.8624786+00:00",
-  "LastUpdate_Achievements": "2023-11-01T16:07:13.936254+00:00"
+  "LastUpdate_Ratings": "2023-11-01T16:58:29.6680967+00:00",
+  "LastUpdate_Achievements": "2023-11-01T17:06:30.8557531+00:00"
 }

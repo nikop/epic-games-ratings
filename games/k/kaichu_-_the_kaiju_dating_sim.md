@@ -20,8 +20,8 @@
 | Polyamorousasaurus | 13.00% | ~5 |
 | Loved and Lost | 10.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 475)  
-Completed: 4 (10.26%) (Ranked 35)  
+Progressed: 39 (Ranked 476)  
+Completed: 4 (10.26%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

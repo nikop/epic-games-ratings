@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 108.00% | ~106 |
-| Break no Sweat | 103.00% | ~101 |
-| Every little bit counts | 100.00% | ~98 |
-| Growth | 87.00% | ~85 |
+| Black Cat's Warning | 107.00% | ~106 |
+| Break no Sweat | 103.00% | ~102 |
+| Every little bit counts | 99.00% | ~98 |
+| Growth | 86.00% | ~85 |
 | Targeting the Enemy | 70.00% | ~69 |
 | Unavoidable | 65.00% | ~64 |
 | Revenge | 64.00% | ~63 |
-| Reunion | 43.00% | ~42 |
-| Elimination | 35.00% | ~34 |
-| Fluke | 35.00% | ~34 |
-| Victor's Prejudice | 34.00% | ~33 |
-| Excellent Driving Skills | 32.00% | ~31 |
-| Once Bitten, Twice Shy | 31.00% | ~30 |
-| Memento | 31.00% | ~30 |
-| Fleet-footed | 29.00% | ~28 |
-| Defeat the AI | 28.00% | ~27 |
-| Invincible | 28.00% | ~27 |
+| Reunion | 42.00% | ~42 |
+| Elimination | 34.00% | ~34 |
+| Fluke | 34.00% | ~34 |
+| Victor's Prejudice | 33.00% | ~33 |
+| Excellent Driving Skills | 31.00% | ~31 |
+| Once Bitten, Twice Shy | 30.00% | ~30 |
+| Memento | 30.00% | ~30 |
+| Fleet-footed | 28.00% | ~28 |
+| Defeat the AI | 27.00% | ~27 |
+| Invincible | 27.00% | ~27 |
 | Unsalvageable | 24.00% | ~24 |
 | Best in Dragon City | 23.00% | ~23 |
 | Walking into a Trap | 23.00% | ~23 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 407)  
+Progressed: 99 (Ranked 406)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-03 | 97 | 0 |
 | 2023-10-14 | 98 | 0 |
 | 2023-10-26 | 98 | 0 |
+| 2023-11-01 | 99 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

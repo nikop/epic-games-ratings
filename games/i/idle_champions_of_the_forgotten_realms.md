@@ -59,6 +59,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.20% | ~467 |
 | Useless Allies | 0.20% | ~467 |
 | Excavating History | 0.20% | ~467 |
+| Hopelessly Lost | 0.20% | ~467 |
 | Mad Cow Disease | 0.20% | ~467 |
 | Exploring Port Nyanzaru | 0.20% | ~467 |
 | A Tale of Two Cities | 0.20% | ~467 |
@@ -307,7 +308,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~233 |
 | Careful Consideration | 0.10% | ~233 |
 | Tanking Expectations | 0.10% | ~200 |
-| Hopelessly Lost | 0.10% | ~233 |
 | Bazaar Exploits | 0.10% | ~233 |
 | Cramped Quarters | 0.10% | ~233 |
 | Flame(skull) War | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,380 (Ranked 62)  
+Progressed: 233,383 (Ranked 62)  
 Completed: 2,415 (1.03%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 155)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,380 | 2,415 |
+| 2023-11-01 | 233,383 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  
