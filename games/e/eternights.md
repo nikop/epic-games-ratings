@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | New arm | 81.00% | ~296 |
 | Shelter Escape | 81.00% | ~296 |
-| The First Bond | 70.00% | ~255 |
+| The First Bond | 71.00% | ~259 |
 | Novice Scavenger | 64.00% | ~234 |
 | Master Craftsman | 51.00% | ~186 |
 | First wall | 50.00% | ~182 |
@@ -19,7 +19,7 @@
 | Find myself | 27.00% | ~99 |
 | Truebro | 20.00% | ~73 |
 | Min's Promise | 19.00% | ~69 |
-| Sia's Promise | 18.00% | ~66 |
+| Sia's Promise | 19.00% | ~69 |
 | Romantic | 16.00% | ~58 |
 | TentacleMAN | 11.00% | ~40 |
 | Yohan's Promise | 5.00% | ~18 |

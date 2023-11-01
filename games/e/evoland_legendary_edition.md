@@ -3,9 +3,9 @@
 [View Rawdata](../../db/e/evoland_legendary_edition.json)  
 Rating: 4.49 (Ranked 601)  
 ## Awards
-Max (Great Boss Battles): 277  (Ranked 254)  
+Max (Great Boss Battles): 277  (Ranked 255)  
 Sum: 277 (Ranked 366)  
-Diff (max vs sum): -112  
+Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 277 |

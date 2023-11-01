@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 406)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 3.00% | ~436 |
+| Oyedang, Kopengs | 3.00% | ~437 |
 | Bosmang | 2.00% | ~291 |
 | The Pit and the Pirates | 1.00% | ~146 |
 | Drug Gifter | 1.00% | ~146 |
@@ -15,15 +15,15 @@ Rating: 4.60 (Ranked 406)
 | Captain Drummer | 1.00% | ~146 |
 | Celebrations are in Order | 1.00% | ~146 |
 | Impossible Objects | 1.00% | ~146 |
+| Data Archivist | 0.90% | ~131 |
+| Stogie for Fogey | 0.90% | ~131 |
 | Spore Taste | 0.90% | ~131 |
 | Heal Thy Medic | 0.90% | ~131 |
-| Data Archivist | 0.80% | ~116 |
-| Stogie for Fogey | 0.80% | ~116 |
 | Khan's Revenge | 0.80% | ~116 |
 | Thorston Mayer | 0.60% | ~87 |
+| Doctor Approved | 0.50% | ~73 |
 | Bottoms up! | 0.50% | ~73 |
 | Miraculous Maya | 0.50% | ~73 |
-| Doctor Approved | 0.40% | ~58 |
 | Data Logger | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
 | Brother's Reaper | 0.20% | ~29 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 406)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,550 (Ranked 145)  
+Progressed: 14,553 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
-| 2023-11-01 | 14,550 | 28 |
+| 2023-11-01 | 14,553 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

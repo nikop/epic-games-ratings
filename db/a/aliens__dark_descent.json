@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -349,6 +349,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-01T20:58:36.965778+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
@@ -363,9 +369,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3514,
+  "EOS_Progressed": 3515,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5333,6 +5339,11 @@
       "Time": "2023-11-01T19:06:34.049262+00:00",
       "NumProgressed": 3514,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-01T21:06:25.9896076+00:00",
+      "NumProgressed": 3515,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5368,7 +5379,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -5376,7 +5387,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -5384,7 +5395,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5440,7 +5451,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5462,9 +5473,9 @@
       "ID": "ACH_KILL_XENOS",
       "SetID": "816efe",
       "Name": "Cleaning Lethe, One Nest At A Time",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2355
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5496,7 +5507,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -5544,7 +5555,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "ACH_MISSION_03",
@@ -5552,7 +5563,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5560,7 +5571,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5584,7 +5595,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ACH_MISSION_08",
@@ -5640,7 +5651,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5648,7 +5659,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2847
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5656,7 +5667,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2108
+      "UsersEstimate": 2109
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -5664,7 +5675,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -5680,7 +5691,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -5696,23 +5707,23 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-10-22T19:59:31.4254153+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:07:10.8525775+00:00",
+  "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:06:25.9896071+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.9783069+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:58:50.4160519+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:07:10.8527217+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:58:36.9657783+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:06:25.9897546+00:00"
 }

@@ -15,8 +15,8 @@
 | Office Clerk | 29.00% | ~176 |
 | The Bribe | 27.00% | ~164 |
 | Protector | 27.00% | ~164 |
+| The Ploy | 16.00% | ~97 |
 | Interrogation | 16.00% | ~97 |
-| The Ploy | 15.00% | ~91 |
 | Sabotage | 12.00% | ~73 |
 | Choices Matter | 8.00% | ~49 |
 | The Fool | 6.00% | ~36 |
@@ -25,7 +25,7 @@
 | The Coward | 3.00% | ~18 |
 | Expert Storyteller | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 607 (Ranked 276)  
+Progressed: 607 (Ranked 277)  
 Completed: 8 (1.32%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |

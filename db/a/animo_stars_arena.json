@@ -2,10 +2,10 @@
   "ID": "71a122f0495c4a27b671d5eb6e65daa8",
   "Name": "ANIMO Stars Arena",
   "ProductSlug": "animo-stars-arena-eacbd4",
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:59:11.5201549+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:01:16.7443303+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:09:23.8485201+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:00:40.6578887+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:08:52.8833478+00:00"
 }

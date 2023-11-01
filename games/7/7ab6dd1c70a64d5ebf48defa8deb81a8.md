@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 19.00% | ~10 |
+| Break Out | 18.00% | ~10 |
 | Powerful Allies | 15.00% | ~8 |
 | Find Allies | 13.00% | ~7 |
 | A Taste of Wrath | 9.00% | ~5 |
@@ -13,13 +13,13 @@
 | Essence Blow | 9.00% | ~5 |
 | Shatter Them All | 9.00% | ~5 |
 | Scholar | 9.00% | ~5 |
-| Fashion Victim | 8.00% | ~4 |
-| The Collector | 8.00% | ~4 |
-| Calm before the Storm | 6.00% | ~3 |
-| To Battle | 6.00% | ~3 |
-| Godslayer | 6.00% | ~3 |
-| Geared Up | 6.00% | ~3 |
-| Miner | 6.00% | ~3 |
+| Fashion Victim | 7.00% | ~4 |
+| The Collector | 7.00% | ~4 |
+| Calm before the Storm | 5.00% | ~3 |
+| To Battle | 5.00% | ~3 |
+| Godslayer | 5.00% | ~3 |
+| Geared Up | 5.00% | ~3 |
+| Miner | 5.00% | ~3 |
 | The Mentor | 4.00% | ~2 |
 | A Queen's Tale | 4.00% | ~2 |
 | Airborne | 2.00% | ~1 |
@@ -37,12 +37,12 @@
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -1.90% | ~-1 |
-| Flawless Victory | -1.90% | ~-1 |
-| Big Bazar | -1.90% | ~-1 |
+| Shatterer | -1.80% | ~-1 |
+| Flawless Victory | -1.80% | ~-1 |
+| Big Bazar | -1.80% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 450)  
-Completed: 1 (1.89%) (Ranked 123)  
+Progressed: 55 (Ranked 448)  
+Completed: 1 (1.82%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,4 +66,4 @@ Completed: 1 (1.89%) (Ranked 123)
 | 2023-10-11 | 35 | 1 |
 | 2023-10-24 | 36 | 1 |
 | 2023-10-31 | 41 | 1 |
-| 2023-11-01 | 53 | 1 |
+| 2023-11-01 | 55 | 1 |

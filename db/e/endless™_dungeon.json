@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 969,
+  "EOS_Progressed": 970,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
@@ -1215,6 +1215,11 @@
       "Time": "2023-11-01T19:05:04.8844111+00:00",
       "NumProgressed": 969,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T21:04:38.3408921+00:00",
+      "NumProgressed": 970,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1307,7 +1312,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1403,7 +1408,7 @@
       "Name": "Long Live Rock",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -1466,14 +1471,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 969,
+      "Progressed": 970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:05:25.3508027+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:04:38.3408916+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:58:03.1304369+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:25.3508347+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:57:56.157536+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:04:38.3409144+00:00"
 }

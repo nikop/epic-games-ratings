@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23233,
+  "EOS_Progressed": 23235,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.93,
   "EosHistory": [
@@ -21408,6 +21408,11 @@
       "Time": "2023-11-01T20:05:14.1519292+00:00",
       "NumProgressed": 23233,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-11-01T21:04:28.9144631+00:00",
+      "NumProgressed": 23235,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21459,7 +21464,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -21515,7 +21520,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -21539,7 +21544,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17889
+      "UsersEstimate": 17891
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21555,7 +21560,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -21578,15 +21583,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23233,
+      "Progressed": 23235,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:05:14.1519286+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:04:28.9144623+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:03:13.8456895+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:14.1520952+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:02:50.3893434+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:04:28.9147936+00:00"
 }

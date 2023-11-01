@@ -3,12 +3,12 @@
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
   "Ranking_Rating": 821,
-  "Ranking_Popularity": 68,
+  "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 40,
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
     "PcReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -9191,11 +9191,17 @@
       "Rating": 4.31,
       "NumberOfAwards": 34236,
       "NumberOfAwardsMax": 5599
+    },
+    {
+      "Time": "2023-11-01T21:00:12.3557509+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 34243,
+      "NumberOfAwardsMax": 5605
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34236,
-  "NumberOfAwardsMax": 5599,
+  "NumberOfAwards": 34243,
+  "NumberOfAwardsMax": 5605,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9208,7 +9214,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5599
+      "Count": 5605
     },
     {
       "Text": "This game has Competitive Players",
@@ -9220,7 +9226,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4965
+      "Count": 4966
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9258,8 +9264,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-11-01T16:00:20.2153937+00:00",
+  "LastChanged": "2023-11-01T21:00:12.3557507+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.0430658+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:00:41.7032746+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:38.670984+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:00:12.3557513+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:05:09.2205089+00:00"
 }

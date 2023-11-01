@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -4654,9 +4654,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 789
+      "UsersEstimate": 803
     },
     {
       "ID": "achievement_6",
@@ -4703,8 +4703,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:05:16.2543895+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:04:30.5597286+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:03:02.2878618+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:16.2544582+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:02:39.0592584+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:04:30.5597799+00:00"
 }

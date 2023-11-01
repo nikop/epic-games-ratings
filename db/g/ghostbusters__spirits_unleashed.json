@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2973,9 +2973,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29537,
+  "EOS_Progressed": 29548,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1900,
+  "EOS_NewPlayers": 1901,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17443,6 +17443,11 @@
       "Time": "2023-11-01T20:05:30.4913292+00:00",
       "NumProgressed": 29537,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-01T21:05:02.5666563+00:00",
+      "NumProgressed": 29548,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17542,7 +17547,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Dont_Need_These",
@@ -17566,7 +17571,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Escape_Artist",
@@ -17742,7 +17747,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Stunner",
@@ -17758,7 +17763,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "Summoner",
@@ -17861,7 +17866,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29537,
+      "Progressed": 29548,
       "Completed": 65
     }
   ],
@@ -17869,8 +17874,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-01T20:01:30.3486939+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:05:30.4913285+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:05:02.5666557+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:01:30.348695+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:30.4914578+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:00:51.0771117+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:05:02.5667646+00:00"
 }

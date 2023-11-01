@@ -7747,9 +7747,9 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233394,
+  "EOS_Progressed": 233398,
   "EOS_Completed": 2417,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29572,6 +29572,11 @@
       "Time": "2023-11-01T20:08:21.3797067+00:00",
       "NumProgressed": 233394,
       "NumCompleted": 2417
+    },
+    {
+      "Time": "2023-11-01T21:08:00.9790608+00:00",
+      "NumProgressed": 233398,
+      "NumCompleted": 2417
     }
   ],
   "TotalAchievements": 528,
@@ -32789,9 +32794,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_8",
@@ -33693,9 +33698,9 @@
       "ID": "objective_completed_1400",
       "SetID": "415jc5c",
       "Name": "To Infinity\u0027s and Beyond",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 599
     },
     {
       "ID": "objective_completed_1401",
@@ -33806,21 +33811,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199668,
-      "Completed": 3729
+      "Progressed": 199672,
+      "Completed": 3731
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233394,
+      "Progressed": 233398,
       "Completed": 2417
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T19:58:58.952511+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:08:21.3797061+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:08:00.9790604+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:58:58.9525118+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:08:21.3829743+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:58:44.4729697+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:08:00.9816352+00:00"
 }

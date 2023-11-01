@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~541,984 |
-| Every story has a beginning | 36.00% | ~243,893 |
-| The first of many | 31.00% | ~210,019 |
-| Positive word of mouth | 18.00% | ~121,946 |
-| Lawn in the U.S.A. | 15.00% | ~101,622 |
-| Blade Runner | 9.00% | ~60,973 |
+| The dream begins | 80.00% | ~541,993 |
+| Every story has a beginning | 36.00% | ~243,897 |
+| The first of many | 31.00% | ~210,022 |
+| Positive word of mouth | 18.00% | ~121,948 |
+| Lawn in the U.S.A. | 15.00% | ~101,624 |
+| Blade Runner | 9.00% | ~60,974 |
 | Credible | 7.00% | ~47,424 |
 | Teamwork makes the dream work | 6.00% | ~40,649 |
-| Where there's muck there's brass | 4.00% | ~27,099 |
-| Bigger and better | 4.00% | ~27,099 |
-| Aggressive expansion | 4.00% | ~27,099 |
-| Size isn't everything | 3.00% | ~20,324 |
-| Close shave | 3.00% | ~20,324 |
-| Established | 3.00% | ~20,324 |
+| Where there's muck there's brass | 4.00% | ~27,100 |
+| Bigger and better | 4.00% | ~27,100 |
+| Aggressive expansion | 4.00% | ~27,100 |
+| Size isn't everything | 3.00% | ~20,325 |
+| Close shave | 3.00% | ~20,325 |
+| Established | 3.00% | ~20,325 |
 | Fighting on all fronts | 2.00% | ~13,550 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,550 |
 | Every good deed… | 2.00% | ~13,550 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~677 |
 | Mo mowers, mo problems | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,480 (Ranked 25)  
+Progressed: 677,491 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,11 +256,11 @@ Completed: 17 (0.00%) (Ranked 337)
 | 2023-10-29 | 676,677 | 17 |
 | 2023-10-30 | 676,939 | 17 |
 | 2023-10-31 | 677,254 | 17 |
-| 2023-11-01 | 677,480 | 17 |
+| 2023-11-01 | 677,491 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 292)  
-Sum: 983 (Ranked 258)  
-Diff (max vs sum): 34  
+Sum: 983 (Ranked 259)  
+Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |

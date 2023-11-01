@@ -2,10 +2,10 @@
   "ID": "1203b99d9f59457480a3da3c090a3858",
   "Name": "TERCIOS - Honor and glory",
   "ProductSlug": "tercios-honor-and-glory-9d5088",
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-27T13:57:38.4990437+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:59:27.7951881+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:30.051205+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:59:08.0644985+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:05:02.0523852+00:00"
 }

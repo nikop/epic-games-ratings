@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -1262,9 +1262,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 266
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1286,9 +1286,9 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 65,
-      "UsersEstimate": 244
+      "UsersEstimate": 249
     }
   ],
   "AchievementSets": [
@@ -1301,8 +1301,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:09:01.5389438+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:08:33.8797184+00:00",
   "LastUpdate_AppInfo": "2023-10-27T13:57:39.0909681+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:01:23.6112317+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:09:01.5389619+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:00:46.6391107+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:08:33.8797311+00:00"
 }

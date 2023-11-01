@@ -5,53 +5,53 @@ Rating: 4.54 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,619 |
-| Break A Leg | 5.00% | ~35,516 |
-| Hotel California | 5.00% | ~35,516 |
-| Dr. Reed, I Presume? | 4.00% | ~28,413 |
-| Git Gutte! | 4.00% | ~28,413 |
-| Coup de Grâce | 4.00% | ~28,413 |
-| Hazardous Materials | 4.00% | ~28,413 |
-| Friends Like These | 4.00% | ~28,413 |
-| Apex Predator | 4.00% | ~28,413 |
-| Stacking the Deck | 4.00% | ~28,413 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,413 |
-| Anger Management | 3.00% | ~21,310 |
-| Bookworm | 3.00% | ~21,310 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,310 |
-| But Doctor, I am Butcho | 3.00% | ~21,310 |
-| Slayer Squad | 3.00% | ~21,310 |
-| Can't Handle the Truth | 3.00% | ~21,310 |
-| Like Riding a Bike | 3.00% | ~21,310 |
-| Zombologist | 3.00% | ~21,310 |
-| Ooh, Shiny! | 3.00% | ~21,310 |
-| A Patton Emerges | 3.00% | ~21,310 |
-| I Am the Resurrection | 3.00% | ~21,310 |
-| Our True Nature | 3.00% | ~21,310 |
-| This is My Weapon | 3.00% | ~21,310 |
-| Making Your Mark | 2.00% | ~14,206 |
-| Perks of the Job | 2.00% | ~14,206 |
-| Humanity Distilled | 2.00% | ~14,206 |
-| Down with the Sickness | 2.00% | ~14,206 |
-| Max Headroom | 2.00% | ~14,206 |
-| Smorgasbord | 1.00% | ~7,103 |
-| Not Even My Final Form | 1.00% | ~7,103 |
-| Internet Famous | 1.00% | ~7,103 |
-| Jumbo Keyring | 1.00% | ~7,103 |
-| Go, Bobcats! | 1.00% | ~7,103 |
-| Rising Star | 1.00% | ~7,103 |
+| Welcome To Hell-A | 6.00% | ~42,622 |
+| Break A Leg | 5.00% | ~35,518 |
+| Hotel California | 5.00% | ~35,518 |
+| Dr. Reed, I Presume? | 4.00% | ~28,415 |
+| Git Gutte! | 4.00% | ~28,415 |
+| Coup de Grâce | 4.00% | ~28,415 |
+| Hazardous Materials | 4.00% | ~28,415 |
+| Friends Like These | 4.00% | ~28,415 |
+| Apex Predator | 4.00% | ~28,415 |
+| Stacking the Deck | 4.00% | ~28,415 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,415 |
+| Anger Management | 3.00% | ~21,311 |
+| Bookworm | 3.00% | ~21,311 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,311 |
+| But Doctor, I am Butcho | 3.00% | ~21,311 |
+| Slayer Squad | 3.00% | ~21,311 |
+| Can't Handle the Truth | 3.00% | ~21,311 |
+| Like Riding a Bike | 3.00% | ~21,311 |
+| Zombologist | 3.00% | ~21,311 |
+| Ooh, Shiny! | 3.00% | ~21,311 |
+| A Patton Emerges | 3.00% | ~21,311 |
+| I Am the Resurrection | 3.00% | ~21,311 |
+| Our True Nature | 3.00% | ~21,311 |
+| This is My Weapon | 3.00% | ~21,311 |
+| Making Your Mark | 2.00% | ~14,207 |
+| Perks of the Job | 2.00% | ~14,207 |
+| Humanity Distilled | 2.00% | ~14,207 |
+| Down with the Sickness | 2.00% | ~14,207 |
+| Max Headroom | 2.00% | ~14,207 |
+| Smorgasbord | 1.00% | ~7,104 |
+| Not Even My Final Form | 1.00% | ~7,104 |
+| Internet Famous | 1.00% | ~7,104 |
+| Jumbo Keyring | 1.00% | ~7,104 |
+| Go, Bobcats! | 1.00% | ~7,104 |
+| Rising Star | 1.00% | ~7,104 |
 | On Safari | 0.90% | ~6,393 |
 | Variety is the Spice of Death | 0.90% | ~6,393 |
 | Make it So | 0.80% | ~5,683 |
-| LA Influential | 0.70% | ~4,972 |
-| Gore Horse | 0.60% | ~4,262 |
+| LA Influential | 0.70% | ~4,973 |
+| Gore Horse | 0.70% | ~4,973 |
 | Sharpest Tool in the Box | 0.60% | ~4,262 |
 | Sole Survivor | 0.50% | ~3,552 |
 | Survival Skills | 0.50% | ~3,552 |
 | Donk! | 0.20% | ~1,421 |
 | Bucket List | 0.20% | ~1,421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,319 (Ranked 22)  
+Progressed: 710,368 (Ranked 22)  
 Completed: 2,296 (0.32%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 2,296 (0.32%) (Ranked 215)
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
-| 2023-11-01 | 710,319 | 2,296 |
+| 2023-11-01 | 710,368 | 2,296 |
 ## Awards
 Max (Great Boss Battles): 6,801  (Ranked 54)  
 Sum: 10,250 (Ranked 90)  

@@ -34,11 +34,11 @@
 | Job Creator | 23.00% | ~6 |
 | Obligatory Fraudulent Baking | 23.00% | ~6 |
 | Social Butterfly | 23.00% | ~6 |
+| Overseer | 19.00% | ~5 |
 | Quidnunc | 19.00% | ~5 |
 | Zonk! | 19.00% | ~5 |
 | A Little Eccentric | 15.00% | ~4 |
 | Leave It to the Professionals | 15.00% | ~4 |
-| Overseer | 15.00% | ~4 |
 | Ring of Fire | 15.00% | ~4 |
 | The Provocateur | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |

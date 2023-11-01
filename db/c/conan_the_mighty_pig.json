@@ -2,10 +2,10 @@
   "ID": "0c4ac513e9d3446fb1c3698200071b00",
   "Name": "Conan The Mighty Pig",
   "ProductSlug": "conan-the-mighty-pig-b1050e",
-  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-30T23:00:00+00:00",
     "PcReleaseDate": "2016-10-05T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T14:57:14.3423609+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:58:52.8930049+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:29.2952812+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:58:39.5645004+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:05:01.5095961+00:00"
 }

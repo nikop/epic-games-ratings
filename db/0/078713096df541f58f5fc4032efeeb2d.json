@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "creepytale3_ach_23",
       "SetID": "7idcjbn",
       "Name": "Who wrote this stuff?",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytale3_ach_24",
@@ -345,8 +345,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:05:09.565967+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:04:25.3655182+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7439656+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:03:22.8732014+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:09.5659955+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:02:56.0088523+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:04:25.3655393+00:00"
 }

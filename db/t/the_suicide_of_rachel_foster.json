@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -259,7 +259,7 @@
   "Tags": [],
   "EOS_Progressed": 1576,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.63,
   "EosHistory": [
@@ -3175,9 +3175,9 @@
       "ID": "ACH_PrimoContattoIrving",
       "SetID": "7a9m7mj",
       "Name": "\u0022Nice\u0022 to meet you",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3207,8 +3207,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:04:25.8536888+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:03:48.7656882+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.9569477+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:01:06.2073856+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:04:25.8537202+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:00:29.7375989+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:03:48.7657093+00:00"
 }

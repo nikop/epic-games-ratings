@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14550,
+  "EOS_Progressed": 14553,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10139,6 +10139,11 @@
       "Time": "2023-11-01T19:05:06.2916588+00:00",
       "NumProgressed": 14550,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-01T21:04:59.5481061+00:00",
+      "NumProgressed": 14553,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10173,9 +10178,9 @@
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "13",
@@ -10183,23 +10188,23 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "16",
@@ -10430,13 +10435,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14550,
+      "Progressed": 14553,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 504,
+      "Progressed": 507,
       "Completed": 286
     }
   ],
@@ -10444,8 +10449,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-11-01T20:05:26.9167995+00:00",
+  "LastChanged_Achievements": "2023-11-01T21:04:59.5481056+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:59:01.160871+00:00",
-  "LastUpdate_Achievements": "2023-11-01T20:05:26.9168839+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:58:46.1804205+00:00",
+  "LastUpdate_Achievements": "2023-11-01T21:04:59.548175+00:00"
 }

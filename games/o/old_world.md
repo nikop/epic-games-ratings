@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~453 |
 | Hanging Gardens | 3.00% | ~453 |
 | Oracle | 3.00% | ~453 |
+| Naming Landmarks | 3.00% | ~453 |
 | Trade Caravan | 3.00% | ~453 |
 | Ambitious | 2.00% | ~302 |
 | Drillmaster | 2.00% | ~302 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 2.00% | ~302 |
 | Roman Paganism | 2.00% | ~302 |
 | Zoroastrianism | 2.00% | ~302 |
-| Naming Landmarks | 2.00% | ~302 |
 | Kushite Paganism | 2.00% | ~302 |
 | Regicide | 1.00% | ~151 |
 | Hanging Gardens in Babylon | 1.00% | ~151 |

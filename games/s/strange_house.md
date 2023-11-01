@@ -11,7 +11,7 @@
 | Underground | 0.00% | ~0 |
 | Nice Glass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 617)  
+Progressed: 3 (Ranked 618)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |

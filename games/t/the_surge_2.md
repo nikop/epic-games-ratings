@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 871)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,688 |
-| Don't I Know You...? | 77.00% | ~1,625 |
-| Jailbreak | 66.00% | ~1,393 |
-| Suited and Booted | 39.00% | ~823 |
-| HEADSHOT! | 38.00% | ~802 |
+| Rigged And Ready | 80.00% | ~1,690 |
+| Don't I Know You...? | 77.00% | ~1,626 |
+| Jailbreak | 66.00% | ~1,394 |
+| HEADSHOT! | 38.00% | ~803 |
+| Suited and Booted | 38.00% | ~803 |
 | Sleeping With The Fishes | 36.00% | ~760 |
-| Overheated | 30.00% | ~633 |
-| High Performance | 30.00% | ~633 |
+| Overheated | 30.00% | ~634 |
+| High Performance | 30.00% | ~634 |
 | Powered Up | 28.00% | ~591 |
 | Studied The Blade | 25.00% | ~528 |
-| Home Invasion | 23.00% | ~485 |
-| Luminary | 23.00% | ~485 |
-| It's a Trap | 22.00% | ~464 |
-| True Survivor | 21.00% | ~443 |
+| Home Invasion | 23.00% | ~486 |
+| Luminary | 23.00% | ~486 |
+| It's a Trap | 22.00% | ~465 |
+| True Survivor | 21.00% | ~444 |
 | Offensive Defense | 20.00% | ~422 |
 | Shocking | 20.00% | ~422 |
 | Unforeseeable Consequences | 20.00% | ~422 |
@@ -26,13 +26,13 @@ Rating: 4.24 (Ranked 871)
 | Clean Cut | 19.00% | ~401 |
 | Dead Again | 18.00% | ~380 |
 | Full Arsenal | 17.00% | ~359 |
-| Can't Trust Banks | 15.00% | ~316 |
-| Mommy Dearest | 14.00% | ~295 |
-| Bad Dog | 14.00% | ~295 |
-| Where It All Began | 13.00% | ~274 |
-| Risk Tolerant | 13.00% | ~274 |
-| Sorry, Didn't See You There | 13.00% | ~274 |
-| What A Catchy Song | 13.00% | ~274 |
+| Can't Trust Banks | 15.00% | ~317 |
+| Mommy Dearest | 14.00% | ~296 |
+| Bad Dog | 14.00% | ~296 |
+| Where It All Began | 13.00% | ~275 |
+| Risk Tolerant | 13.00% | ~275 |
+| Sorry, Didn't See You There | 13.00% | ~275 |
+| What A Catchy Song | 13.00% | ~275 |
 | Corrupted Beauty | 12.00% | ~253 |
 | Marked For Success | 12.00% | ~253 |
 | Stimulating The Local Economy | 10.00% | ~211 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 871)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,110 (Ranked 212)  
+Progressed: 2,112 (Ranked 212)  
 Completed: 13 (0.62%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 13 (0.62%) (Ranked 175)
 | 2023-10-26 | 2,095 | 12 |
 | 2023-10-27 | 2,096 | 13 |
 | 2023-10-31 | 2,098 | 13 |
-| 2023-11-01 | 2,110 | 13 |
+| 2023-11-01 | 2,112 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
