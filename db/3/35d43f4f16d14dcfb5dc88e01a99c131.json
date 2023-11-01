@@ -3,8 +3,8 @@
   "Name": "WrestleQuest",
   "ProductSlug": "wrestlequest-324fb5",
   "Ranking_EOS_Progress": 631,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-29T16:00:00+00:00",
@@ -1032,8 +1032,8 @@
   ],
   "FirstSeen": "2023-09-30T06:58:30.8750394+00:00",
   "FirstSeenAchievements": "2023-09-27T20:03:04.5443053+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:07:46.7090315+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:11:18.5737381+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:18.0726306+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:59:43.2399643+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:07:46.7092545+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:03:39.2261947+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:11:18.5739292+00:00"
 }

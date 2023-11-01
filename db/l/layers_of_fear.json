@@ -3,7 +3,7 @@
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 485,
-  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -241,9 +241,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect_items_mother",
@@ -265,17 +265,17 @@
       "ID": "collect_most_of_myths",
       "SetID": "f2im8d",
       "Name": "We Are Not Alone",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "collect_most_of_posters",
       "SetID": "f2im8d",
       "Name": "Body of Work",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect_notes_mother",
@@ -409,17 +409,17 @@
       "ID": "hear_most_of_interviews",
       "SetID": "f2im8d",
       "Name": "Full Scoop",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "heavy_burden",
@@ -473,9 +473,9 @@
       "ID": "perfect_storm",
       "SetID": "f2im8d",
       "Name": "The Perfect Storm",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "piece_of_story",
@@ -593,9 +593,9 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "view_most_of_photos",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:04:15.4391475+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:08:17.3970419+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-11-01T12:03:06.8451805+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:04:15.43926+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:07:18.2860076+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:08:17.3971032+00:00"
 }

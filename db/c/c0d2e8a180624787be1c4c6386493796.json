@@ -3,7 +3,7 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -778,9 +778,9 @@
       "ID": "KR4_ACHIEVEMENT_TROLL",
       "SetID": "caeik3h",
       "Name": "Oh My God!",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:08:58.80715+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:13:00.4440372+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-11-01T12:01:49.8161397+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:08:58.807254+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:05:28.7670743+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:13:00.444114+00:00"
 }

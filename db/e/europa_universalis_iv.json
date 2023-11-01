@@ -6,7 +6,7 @@
   "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -11389,10 +11389,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 55609,
       "NumberOfAwardsMax": 6765
+    },
+    {
+      "Time": "2023-11-01T13:03:40.7707347+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55635,
+      "NumberOfAwardsMax": 6765
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55609,
+  "NumberOfAwards": 55635,
   "NumberOfAwardsMax": 6765,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11406,13 +11412,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6387
+      "Count": 6397
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6462
+      "Count": 6478
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11463,9 +11469,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 444212,
+  "EOS_Progressed": 444246,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5191,
+  "EOS_NewPlayers": 5182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33718,6 +33724,11 @@
       "Time": "2023-11-01T12:05:52.8578862+00:00",
       "NumProgressed": 444212,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T13:09:41.7649229+00:00",
+      "NumProgressed": 444246,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -33751,9 +33762,9 @@
       "ID": "achievement_a_decent_reserve",
       "SetID": "8p2n7he",
       "Name": "A Decent Reserve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_a_heros_welcome",
@@ -34169,7 +34180,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8884
+      "UsersEstimate": 8885
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -34249,7 +34260,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8884
+      "UsersEstimate": 8885
     },
     {
       "ID": "achievement_colonial_management",
@@ -34561,7 +34572,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8884
+      "UsersEstimate": 8885
     },
     {
       "ID": "achievement_forever_golden",
@@ -34729,7 +34740,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17770
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34753,7 +34764,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13326
+      "UsersEstimate": 13327
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35297,7 +35308,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "achievement_my_true_friend",
@@ -35729,7 +35740,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8884
+      "UsersEstimate": 8885
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36009,7 +36020,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13326
+      "UsersEstimate": 13327
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -36393,7 +36404,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17770
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36425,7 +36436,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17770
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36560,21 +36571,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 444212,
+      "Progressed": 444246,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 444212,
+      "Progressed": 444246,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-01T09:59:43.1504564+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:05:52.8578857+00:00",
+  "LastChanged": "2023-11-01T13:03:40.7707344+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:09:41.7649222+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:59:44.9548624+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:05:52.8597097+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:03:40.7707352+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:09:41.7662367+00:00"
 }

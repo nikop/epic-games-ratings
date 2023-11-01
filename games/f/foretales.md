@@ -20,7 +20,7 @@
 | Heal thyself | 19.00% | ~53 |
 | It's not cheating | 17.00% | ~47 |
 | Double trouble | 16.00% | ~45 |
-| Stronk | 15.00% | ~42 |
+| Stronk | 16.00% | ~45 |
 | Welcome to Forte Ailes | 14.00% | ~39 |
 | Super Moth Boy | 13.00% | ~36 |
 | The Bad Place | 10.00% | ~28 |
@@ -47,7 +47,7 @@
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 279 (Ranked 335)  
-Completed: 0 (0.00%) (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

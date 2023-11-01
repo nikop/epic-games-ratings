@@ -3,8 +3,8 @@
   "Name": "Hotel: A Resort Simulator",
   "ProductSlug": "hotel-a-resort-simulator",
   "Ranking_EOS_Progress": 631,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -265,8 +265,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T20:06:29.6581139+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:08:23.1682784+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:12:29.7057703+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:18.4209339+00:00",
-  "LastUpdate_Ratings": "2023-11-01T12:02:42.8382485+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:08:23.1683039+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:06:57.7528214+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:12:29.7057911+00:00"
 }

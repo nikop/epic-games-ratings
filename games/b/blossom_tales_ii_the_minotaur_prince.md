@@ -26,7 +26,7 @@
 | Combat Queen | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 545)  
-Completed: 1 (7.69%) (Ranked 46)  
+Completed: 1 (7.69%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

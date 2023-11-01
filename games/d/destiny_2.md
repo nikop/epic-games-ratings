@@ -31,7 +31,7 @@ Number of Ratings: 32,207  (23.09.2022)
 | Seal the Deal | 4.00% | ~22,914 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 572,851 (Ranked 31)  
-Completed: 16,269 (2.84%) (Ranked 101)  
+Completed: 16,269 (2.84%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

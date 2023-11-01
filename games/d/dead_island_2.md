@@ -5,45 +5,45 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,595 |
-| Break A Leg | 5.00% | ~35,496 |
-| Hotel California | 5.00% | ~35,496 |
-| Dr. Reed, I Presume? | 4.00% | ~28,397 |
-| Git Gutte! | 4.00% | ~28,397 |
-| Coup de Grâce | 4.00% | ~28,397 |
-| Hazardous Materials | 4.00% | ~28,397 |
-| Friends Like These | 4.00% | ~28,397 |
-| Apex Predator | 4.00% | ~28,397 |
-| Stacking the Deck | 4.00% | ~28,397 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,397 |
-| Bookworm | 3.00% | ~21,298 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,298 |
-| But Doctor, I am Butcho | 3.00% | ~21,298 |
-| Slayer Squad | 3.00% | ~21,298 |
-| Can't Handle the Truth | 3.00% | ~21,298 |
-| Like Riding a Bike | 3.00% | ~21,298 |
-| Zombologist | 3.00% | ~21,298 |
-| Ooh, Shiny! | 3.00% | ~21,298 |
-| A Patton Emerges | 3.00% | ~21,298 |
-| I Am the Resurrection | 3.00% | ~21,298 |
-| Our True Nature | 3.00% | ~21,298 |
-| This is My Weapon | 3.00% | ~21,298 |
-| Making Your Mark | 2.00% | ~14,198 |
-| Anger Management | 2.00% | ~14,198 |
-| Perks of the Job | 2.00% | ~14,198 |
-| Humanity Distilled | 2.00% | ~14,198 |
-| Down with the Sickness | 2.00% | ~14,198 |
-| Max Headroom | 2.00% | ~14,198 |
-| Smorgasbord | 1.00% | ~7,099 |
-| Not Even My Final Form | 1.00% | ~7,099 |
-| Internet Famous | 1.00% | ~7,099 |
-| Jumbo Keyring | 1.00% | ~7,099 |
-| Go, Bobcats! | 1.00% | ~7,099 |
-| Rising Star | 1.00% | ~7,099 |
-| On Safari | 0.90% | ~6,389 |
-| Variety is the Spice of Death | 0.90% | ~6,389 |
-| Make it So | 0.80% | ~5,679 |
-| LA Influential | 0.70% | ~4,969 |
+| Welcome To Hell-A | 6.00% | ~42,598 |
+| Break A Leg | 5.00% | ~35,499 |
+| Hotel California | 5.00% | ~35,499 |
+| Dr. Reed, I Presume? | 4.00% | ~28,399 |
+| Git Gutte! | 4.00% | ~28,399 |
+| Coup de Grâce | 4.00% | ~28,399 |
+| Hazardous Materials | 4.00% | ~28,399 |
+| Friends Like These | 4.00% | ~28,399 |
+| Apex Predator | 4.00% | ~28,399 |
+| Stacking the Deck | 4.00% | ~28,399 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,399 |
+| Anger Management | 3.00% | ~21,299 |
+| Bookworm | 3.00% | ~21,299 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,299 |
+| But Doctor, I am Butcho | 3.00% | ~21,299 |
+| Slayer Squad | 3.00% | ~21,299 |
+| Can't Handle the Truth | 3.00% | ~21,299 |
+| Like Riding a Bike | 3.00% | ~21,299 |
+| Zombologist | 3.00% | ~21,299 |
+| Ooh, Shiny! | 3.00% | ~21,299 |
+| A Patton Emerges | 3.00% | ~21,299 |
+| I Am the Resurrection | 3.00% | ~21,299 |
+| Our True Nature | 3.00% | ~21,299 |
+| This is My Weapon | 3.00% | ~21,299 |
+| Making Your Mark | 2.00% | ~14,199 |
+| Perks of the Job | 2.00% | ~14,199 |
+| Humanity Distilled | 2.00% | ~14,199 |
+| Down with the Sickness | 2.00% | ~14,199 |
+| Max Headroom | 2.00% | ~14,199 |
+| Smorgasbord | 1.00% | ~7,100 |
+| Not Even My Final Form | 1.00% | ~7,100 |
+| Internet Famous | 1.00% | ~7,100 |
+| Jumbo Keyring | 1.00% | ~7,100 |
+| Go, Bobcats! | 1.00% | ~7,100 |
+| Rising Star | 1.00% | ~7,100 |
+| On Safari | 0.90% | ~6,390 |
+| Variety is the Spice of Death | 0.90% | ~6,390 |
+| Make it So | 0.80% | ~5,680 |
+| LA Influential | 0.70% | ~4,970 |
 | Gore Horse | 0.60% | ~4,260 |
 | Sharpest Tool in the Box | 0.60% | ~4,260 |
 | Sole Survivor | 0.50% | ~3,550 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 521)
 | Donk! | 0.20% | ~1,420 |
 | Bucket List | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,923 (Ranked 22)  
-Completed: 2,292 (0.32%) (Ranked 213)  
+Progressed: 709,973 (Ranked 22)  
+Completed: 2,293 (0.32%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,7 +246,7 @@ Completed: 2,292 (0.32%) (Ranked 213)
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
-| 2023-11-01 | 709,923 | 2,292 |
+| 2023-11-01 | 709,973 | 2,293 |
 ## Awards
 Max (Great Boss Battles): 6,773  (Ranked 54)  
 Sum: 10,218 (Ranked 90)  

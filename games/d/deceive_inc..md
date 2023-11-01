@@ -38,12 +38,12 @@ Rating: 4.57 (Ranked 465)
 | Lose Another Day | 1.00% | ~188 |
 | Chairman of Deceive Inc. | 0.90% | ~169 |
 | Chief Information Officer | 0.80% | ~150 |
-| Masteries Are Forever | 0.40% | ~75 |
+| Masteries Are Forever | 0.50% | ~94 |
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,753 (Ranked 132)  
-Completed: 4 (0.02%) (Ranked 308)  
+Completed: 4 (0.02%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

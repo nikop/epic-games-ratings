@@ -52,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~467 |
 | No Time To Rest | 0.20% | ~467 |
 | The Botched Kidnapping | 0.20% | ~467 |
+| Attack on the Manor | 0.20% | ~467 |
 | The Crumbling Temple | 0.20% | ~467 |
 | Seeking Allies | 0.20% | ~467 |
 | Are Ya Chicken? | 0.20% | ~467 |
@@ -267,7 +268,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Gargoyle's Apprentice | 0.10% | ~233 |
 | House of Darkness | 0.10% | ~233 |
 | Home Not So Alone | 0.10% | ~200 |
-| Attack on the Manor | 0.10% | ~233 |
 | The Trepidatious Trio | 0.10% | ~233 |
 | Our Time To Shine | 0.10% | ~233 |
 | Review by the Blackstaff | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,369 (Ranked 62)  
-Completed: 2,415 (1.03%) (Ranked 153)  
+Progressed: 233,370 (Ranked 62)  
+Completed: 2,415 (1.03%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 153)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,369 | 2,415 |
+| 2023-11-01 | 233,370 | 2,415 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

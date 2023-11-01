@@ -18,14 +18,14 @@
 | The Power of the Mountains | 14.00% | ~16 |
 | Locked and Loaded | 13.00% | ~15 |
 | The Golden Flash | 13.00% | ~15 |
-| Changing the World | 11.00% | ~12 |
+| Changing the World | 12.00% | ~13 |
 | Defeat Tezuth | 10.00% | ~11 |
 | Witch | 10.00% | ~11 |
 | The A-Team | 10.00% | ~11 |
 | Defeat Uskol | 8.00% | ~9 |
+| Through Dangers Untold | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
 | Craftsmen | 7.00% | ~8 |
-| Through Dangers Untold | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
 | A Deceiving Gift | 6.00% | ~7 |
 | Unveiling the Truth | 5.00% | ~6 |
@@ -52,7 +52,7 @@
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 112 (Ranked 393)  
-Completed: 0 (0.00%) (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

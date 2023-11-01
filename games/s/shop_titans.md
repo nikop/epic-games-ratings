@@ -11,16 +11,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,153 |
 | Disintermediation | 3.00% | ~4,153 |
 | Tinkle of Coins | 3.00% | ~4,153 |
-| One Easy Payment | 2.00% | ~2,768 |
-| Some Assembly Required | 2.00% | ~2,768 |
-| Another Satisfied Customer | 2.00% | ~2,768 |
-| It's Free Real Estate | 2.00% | ~2,768 |
-| Pretty Penny | 2.00% | ~2,768 |
-| One-Armed Bandit | 2.00% | ~2,768 |
-| Budding Merchant | 2.00% | ~2,768 |
-| Through Repetition, Perfection | 2.00% | ~2,768 |
-| Capitalism Ho! | 2.00% | ~2,768 |
-| Own the Means of Production | 2.00% | ~2,768 |
+| One Easy Payment | 2.00% | ~2,769 |
+| Some Assembly Required | 2.00% | ~2,769 |
+| Another Satisfied Customer | 2.00% | ~2,769 |
+| It's Free Real Estate | 2.00% | ~2,769 |
+| Pretty Penny | 2.00% | ~2,769 |
+| One-Armed Bandit | 2.00% | ~2,769 |
+| Budding Merchant | 2.00% | ~2,769 |
+| Through Repetition, Perfection | 2.00% | ~2,769 |
+| Capitalism Ho! | 2.00% | ~2,769 |
+| Own the Means of Production | 2.00% | ~2,769 |
 | The Daily Grind | 1.00% | ~1,384 |
 | On the Path to Greatness | 1.00% | ~1,384 |
 | Ascended | 1.00% | ~1,384 |
@@ -67,6 +67,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.70% | ~969 |
 | Above the Norm | 0.70% | ~969 |
 | A Ronin Reborn | 0.70% | ~969 |
+| Archivist | 0.70% | ~969 |
 | Omae wa Mou Shindeiru | 0.70% | ~969 |
 | Master of Transmutation | 0.70% | ~969 |
 | Supercharged | 0.70% | ~969 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.60% | ~831 |
 | Thirst for Knowledge | 0.60% | ~831 |
 | Booty by the Boatload | 0.60% | ~831 |
-| Archivist | 0.60% | ~831 |
 | Fillin' the Bin | 0.60% | ~831 |
 | Industrial Evolution | 0.60% | ~831 |
 | A Legend is Born | 0.60% | ~831 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,424 (Ranked 77)  
-Completed: 178 (0.13%) (Ranked 252)  
+Progressed: 138,428 (Ranked 77)  
+Completed: 178 (0.13%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,7 +314,7 @@ Completed: 178 (0.13%) (Ranked 252)
 | 2023-10-29 | 138,334 | 174 |
 | 2023-10-30 | 138,369 | 176 |
 | 2023-10-31 | 138,410 | 178 |
-| 2023-11-01 | 138,424 | 178 |
+| 2023-11-01 | 138,428 | 178 |
 ## Awards
 Max (Great for Beginners): 4,812  (Ranked 73)  
 Sum: 27,479 (Ranked 51)  

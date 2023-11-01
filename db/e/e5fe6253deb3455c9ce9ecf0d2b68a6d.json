@@ -2,9 +2,9 @@
   "ID": "e5fe6253deb3455c9ce9ecf0d2b68a6d",
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
-  "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-11-01T01:51:01.2540105+00:00",
       "NumProgressed": 271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T13:08:10.3845305+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1030,7 +1035,7 @@
       "Name": "Full load",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Island",
@@ -1117,14 +1122,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:04:07.3259795+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:08:10.3845292+00:00",
   "LastUpdate_AppInfo": "2023-10-30T23:57:11.9435893+00:00",
-  "LastUpdate_Ratings": "2023-11-01T12:02:14.8124348+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:04:07.3259966+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:05:49.4995178+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:08:10.3845466+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150789,
+  "EOS_Progressed": 150790,
   "EOS_Completed": 318,
-  "EOS_NewPlayers": 1008,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16538,6 +16538,11 @@
       "Time": "2023-11-01T12:04:18.8684185+00:00",
       "NumProgressed": 150789,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-11-01T13:08:20.2878825+00:00",
+      "NumProgressed": 150790,
+      "NumCompleted": 318
     }
   ],
   "TotalAchievements": 31,
@@ -16557,7 +16562,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105552
+      "UsersEstimate": 105553
     },
     {
       "ID": "EAwards_10",
@@ -16565,7 +16570,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21110
+      "UsersEstimate": 21111
     },
     {
       "ID": "EAwards_11",
@@ -16685,7 +16690,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7539
+      "UsersEstimate": 7540
     },
     {
       "ID": "EAwards_25",
@@ -16765,7 +16770,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37697
+      "UsersEstimate": 37698
     },
     {
       "ID": "EAwards_7",
@@ -16796,7 +16801,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150789,
+      "Progressed": 150790,
       "Completed": 318
     }
   ],
@@ -16804,8 +16809,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:04:18.8684178+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:08:20.2878816+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:58:39.9817396+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:04:18.868577+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:02:44.1549018+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:08:20.2880537+00:00"
 }

@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,282 (Ranked 198)  
-Completed: 0 (0.00%) (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,17 +6,17 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,113 |
-| A Spark | 18.00% | ~2,155 |
+| Devoured by Darkness | 26.00% | ~3,114 |
+| A Spark | 18.00% | ~2,156 |
 | Burning City | 17.00% | ~2,036 |
 | Defender's Heart | 15.00% | ~1,796 |
-| Mythic Choices | 14.00% | ~1,676 |
+| Mythic Choices | 14.00% | ~1,677 |
 | Banner over the Citadel | 13.00% | ~1,557 |
 | Queen's Gratitude | 12.00% | ~1,437 |
 | Fifth Crusade | 8.00% | ~958 |
-| Embrace of the Abyss | 6.00% | ~718 |
-| Path of the Angel | 6.00% | ~718 |
-| Demonic and Divine | 6.00% | ~718 |
+| Embrace of the Abyss | 6.00% | ~719 |
+| Path of the Angel | 6.00% | ~719 |
+| Demonic and Divine | 6.00% | ~719 |
 | Path of the Azata | 5.00% | ~599 |
 | Transformation | 5.00% | ~599 |
 | Great Upstart | 5.00% | ~599 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hey, I Know You! | 3.00% | ~359 |
 | The Lady of the Forest | 3.00% | ~323 |
 | Beware Still Water | 3.00% | ~323 |
-| Path of the Demon | 2.00% | ~239 |
-| Path of the Aeon | 2.00% | ~239 |
-| Path of the Lich | 2.00% | ~239 |
-| Capitulation Is Now Moot | 2.00% | ~239 |
-| Your First Big Enemy | 2.00% | ~239 |
-| Truly Important Deed | 2.00% | ~239 |
+| Path of the Demon | 2.00% | ~240 |
+| Path of the Aeon | 2.00% | ~240 |
+| Path of the Lich | 2.00% | ~240 |
+| Capitulation Is Now Moot | 2.00% | ~240 |
+| Your First Big Enemy | 2.00% | ~240 |
+| Truly Important Deed | 2.00% | ~240 |
 | Stay Underground | 2.00% | ~215 |
 | Hanged Man's Notes | 2.00% | ~215 |
 | Sarkoris Will Be Green | 2.00% | ~215 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,974 (Ranked 150)  
-Completed: 0 (0.00%) (Ranked 335)  
+Progressed: 11,976 (Ranked 150)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,7 +318,7 @@ Completed: 0 (0.00%) (Ranked 335)
 | 2023-10-29 | 11,919 | 0 |
 | 2023-10-30 | 11,942 | 0 |
 | 2023-10-31 | 11,961 | 0 |
-| 2023-11-01 | 11,974 | 0 |
+| 2023-11-01 | 11,976 | 0 |
 ## Awards
 Max (Character Customization): 1,731  (Ranked 120)  
 Sum: 7,012 (Ranked 119)  

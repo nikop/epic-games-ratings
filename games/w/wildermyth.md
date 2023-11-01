@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,446 (Ranked 230)  
-Completed: 6 (0.41%) (Ranked 202)  
+Completed: 6 (0.41%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

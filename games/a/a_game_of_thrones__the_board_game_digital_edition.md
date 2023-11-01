@@ -1,7 +1,7 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 889)  
+Rating: 4.21 (Ranked 890)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,13 +24,13 @@ Number of Ratings: 2,500  (23.09.2022)
 | Defender of the Wall | 6.00% | ~1,641 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,368 |
 | Growing Strong | 5.00% | ~1,368 |
-| What is Dead may Never Die | 3.00% | ~820 |
-| The Swift | 3.00% | ~820 |
+| What is Dead may Never Die | 3.00% | ~821 |
+| The Swift | 3.00% | ~821 |
 | King in the North | 2.00% | ~547 |
 | War of the Five Kings | 1.00% | ~274 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,350 (Ranked 124)  
-Completed: 74 (0.27%) (Ranked 225)  
+Progressed: 27,351 (Ranked 124)  
+Completed: 74 (0.27%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -224,7 +224,7 @@ Completed: 74 (0.27%) (Ranked 225)
 | 2023-10-29 | 27,184 | 73 |
 | 2023-10-30 | 27,251 | 74 |
 | 2023-10-31 | 27,317 | 74 |
-| 2023-11-01 | 27,350 | 74 |
+| 2023-11-01 | 27,351 | 74 |
 ## Awards
 Max (Quickly Understood Controls): 124  (Ranked 328)  
 Sum: 793 (Ranked 278)  

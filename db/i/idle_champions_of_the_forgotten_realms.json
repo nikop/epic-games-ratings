@@ -6,7 +6,7 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -7741,9 +7741,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233369,
+  "EOS_Progressed": 233370,
   "EOS_Completed": 2415,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29526,6 +29526,11 @@
       "Time": "2023-11-01T12:07:56.1171154+00:00",
       "NumProgressed": 233369,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T13:11:27.0922222+00:00",
+      "NumProgressed": 233370,
+      "NumCompleted": 2415
     }
   ],
   "TotalAchievements": 528,
@@ -31175,9 +31180,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_284",
@@ -33760,21 +33765,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199643,
+      "Progressed": 199644,
       "Completed": 3728
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233369,
+      "Progressed": 233370,
       "Completed": 2415
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:07:56.1171148+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:11:27.0922216+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:59:04.8339276+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:07:56.1203241+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:03:06.9722513+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:11:27.0953436+00:00"
 }

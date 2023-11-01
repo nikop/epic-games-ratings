@@ -8,11 +8,11 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 75.00% | ~4,312 |
 | Un-Lonely Island | 47.00% | ~2,702 |
-| The Beginning of a Servantship | 45.00% | ~2,587 |
-| Trade Is My Trait | 37.00% | ~2,127 |
+| The Beginning of a Servantship | 45.00% | ~2,588 |
+| Trade Is My Trait | 37.00% | ~2,128 |
 | Number 18 | 24.00% | ~1,380 |
 | We Don't Have Time For That | 19.00% | ~1,092 |
-| The Governator | 17.00% | ~977 |
+| The Governator | 17.00% | ~978 |
 | Caribbean Comrade | 16.00% | ~920 |
 | The Legend of Langostino | 16.00% | ~920 |
 | The Dreamer of Dreams | 15.00% | ~862 |
@@ -23,15 +23,15 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 10.00% | ~575 |
 | Double Trouble | 8.00% | ~460 |
 | Firestarter | 8.00% | ~460 |
-| I Owe You Nothing | 7.00% | ~402 |
-| Make Tropico Great Again! | 7.00% | ~402 |
-| French Connection | 7.00% | ~402 |
+| I Owe You Nothing | 7.00% | ~403 |
+| Make Tropico Great Again! | 7.00% | ~403 |
+| French Connection | 7.00% | ~403 |
 | Don't Panic! | 6.00% | ~345 |
 | Beware The Betman | 6.00% | ~345 |
-| Viva Tropico! | 5.00% | ~287 |
-| Computer Says "No" | 5.00% | ~287 |
-| Watch The World Burn | 5.00% | ~287 |
-| Fairy Tale Come True | 5.00% | ~287 |
+| Viva Tropico! | 5.00% | ~288 |
+| Computer Says "No" | 5.00% | ~288 |
+| Watch The World Burn | 5.00% | ~288 |
+| Fairy Tale Come True | 5.00% | ~288 |
 | Been there, Done That | 3.00% | ~172 |
 | Apocalypso | 3.00% | ~172 |
 | Narcissist | 3.00% | ~172 |
@@ -43,12 +43,12 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~115 |
 | Terraformer | 2.00% | ~115 |
 | Curse of the Mummy | 2.00% | ~115 |
-| From Knight to Little Duck | 1.00% | ~57 |
+| From Knight to Little Duck | 1.00% | ~58 |
 | Survivor | 0.90% | ~52 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,749 (Ranked 177)  
-Completed: 2 (0.03%) (Ranked 302)  
+Progressed: 5,750 (Ranked 177)  
+Completed: 2 (0.03%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,7 +242,7 @@ Completed: 2 (0.03%) (Ranked 302)
 | 2023-10-29 | 5,725 | 2 |
 | 2023-10-30 | 5,732 | 2 |
 | 2023-10-31 | 5,740 | 2 |
-| 2023-11-01 | 5,749 | 2 |
+| 2023-11-01 | 5,750 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 353)  
 Sum: 722 (Ranked 287)  

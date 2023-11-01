@@ -1,9 +1,9 @@
 {
   "ID": "bellflowers",
   "Name": "Bellflowers",
-  "Ranking_EOS_Progress": 715,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_Progress": 716,
+  "Ranking_EOS_Completed": 336,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:31.2725435+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:58:25.5762844+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:07:44.3501835+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:02:32.5293643+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:11:16.7200284+00:00"
 }

@@ -50,7 +50,7 @@
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 189 (Ranked 361)  
-Completed: 0 (0.00%) (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

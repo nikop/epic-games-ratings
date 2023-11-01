@@ -12,7 +12,7 @@
 | First wall | 50.00% | ~182 |
 | Piggyback Expert | 48.00% | ~174 |
 | Second wall | 37.00% | ~134 |
-| Expert Scavenger | 35.00% | ~127 |
+| Expert Scavenger | 36.00% | ~131 |
 | Their Rock | 31.00% | ~113 |
 | Yuna's Promise | 29.00% | ~105 |
 | Stone Retriever | 28.00% | ~102 |
@@ -31,7 +31,7 @@
 | Bond Lord | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 363 (Ranked 313)  
-Completed: 2 (0.55%) (Ranked 185)  
+Completed: 2 (0.55%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

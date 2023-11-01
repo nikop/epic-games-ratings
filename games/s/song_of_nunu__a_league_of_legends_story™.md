@@ -33,11 +33,11 @@
 | Snowy Poro | 39.00% | ~15 |
 | Bullseye | 39.00% | ~15 |
 | Family | 37.00% | ~14 |
+| Yummy | 37.00% | ~14 |
 | So Close | 34.00% | ~13 |
 | You Get Used To It | 34.00% | ~13 |
 | Biggest Snowball Ever | 34.00% | ~13 |
 | It Is Not Over | 34.00% | ~13 |
-| Yummy | 34.00% | ~13 |
 | Boosted! | 34.00% | ~13 |
 | Deadliest and Biggest Snowball Ever! | 34.00% | ~13 |
 | Freeze The Ice Witch | 32.00% | ~12 |
@@ -50,7 +50,7 @@
 | Rock Star | 21.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 38 (Ranked 478)  
-Completed: 4 (10.53%) (Ranked 32)  
+Completed: 4 (10.53%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

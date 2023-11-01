@@ -6,8 +6,8 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534,
+  "EOS_Progressed": 1535,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3259,6 +3259,11 @@
       "Time": "2023-11-01T10:08:49.0159942+00:00",
       "NumProgressed": 1534,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T13:12:32.1397408+00:00",
+      "NumProgressed": 1535,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3318,7 +3323,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "Defense_Common",
@@ -3350,7 +3355,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Everyone_is_here",
@@ -3358,7 +3363,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "Experienced_strategist",
@@ -3486,7 +3491,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "We_were_not_here",
@@ -3509,15 +3514,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1534,
+      "Progressed": 1535,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:08:26.0167166+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:12:32.13974+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-01T12:00:31.9265066+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:08:26.0167669+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:04:24.3495684+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:12:32.139785+00:00"
 }

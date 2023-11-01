@@ -20,31 +20,31 @@
 | Tough conversation | 18.00% | ~6 |
 | Breaking free | 15.00% | ~5 |
 | The tragedy unfolds | 15.00% | ~5 |
+| True Reflection | 12.00% | ~4 |
 | A new way | 9.00% | ~3 |
 | A Slice of Life | 9.00% | ~3 |
 | Debut | 9.00% | ~3 |
+| Sound Bite | 9.00% | ~3 |
 | The art of movement | 9.00% | ~3 |
-| True Reflection | 9.00% | ~3 |
 | Whispers long forgotten | 9.00% | ~3 |
 | Another perspective | 6.00% | ~2 |
-| Sound Bite | 6.00% | ~2 |
+| We Are Not Alone | 6.00% | ~2 |
 | Heavy Burden | 6.00% | ~2 |
 | Lights! Camera! Action! | 6.00% | ~2 |
+| The Perfect Storm | 6.00% | ~2 |
 | Fisherman | 6.00% | ~2 |
+| Casting Finished | 3.00% | ~1 |
 | Something to think about | 3.00% | ~1 |
-| We Are Not Alone | 3.00% | ~1 |
-| The Perfect Storm | 3.00% | ~1 |
+| Body of Work | 3.00% | ~1 |
+| Full Scoop | 3.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
-| Casting Finished | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
-| Body of Work | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |
 | Immortalized in my heart | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
-| Full Scoop | 0.00% | ~0 |
 | In One Take | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 34 (Ranked 485)  
-Completed: 0 (0.00%) (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | START | 92.00% | ~255 |
 | Ram Corporal | 85.00% | ~235 |
-| Ram Sergeant | 66.00% | ~183 |
+| Ram Sergeant | 67.00% | ~186 |
 | Ram Staff Sergeant | 66.00% | ~183 |
-| Ram First Sergeant | 59.00% | ~163 |
-| Senior Sergeant Baran | 58.00% | ~161 |
+| Ram First Sergeant | 60.00% | ~166 |
+| Senior Sergeant Baran | 59.00% | ~163 |
 | Sergeant Major Baran | 43.00% | ~119 |
 | Senior warrant officer Baran 1st class | 27.00% | ~75 |
 | Senior warrant officer Baran 2nd class | 27.00% | ~75 |
@@ -28,7 +28,7 @@
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 277 (Ranked 336)  
-Completed: 0 (0.00%) (Ranked 335)  
+Completed: 0 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

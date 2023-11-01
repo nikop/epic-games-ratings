@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,768 |
-| Until death do us apart | 4.00% | ~17,768 |
-| Victorious! | 4.00% | ~17,768 |
-| That's a Grand Navy | 3.00% | ~13,326 |
-| That is mine! | 3.00% | ~13,326 |
-| Brothers in Arms | 2.00% | ~8,884 |
-| Cold War | 2.00% | ~8,884 |
-| For the Glory | 2.00% | ~8,884 |
-| Seriously?! | 2.00% | ~8,884 |
+| That's a Grand Army | 4.00% | ~17,770 |
+| Until death do us apart | 4.00% | ~17,770 |
+| Victorious! | 4.00% | ~17,770 |
+| That's a Grand Navy | 3.00% | ~13,327 |
+| That is mine! | 3.00% | ~13,327 |
+| Brothers in Arms | 2.00% | ~8,885 |
+| Cold War | 2.00% | ~8,885 |
+| For the Glory | 2.00% | ~8,885 |
+| Seriously?! | 2.00% | ~8,885 |
 | Defender of the Faith | 1.00% | ~4,442 |
 | It's all about luck | 1.00% | ~4,442 |
 | It's all about the money | 1.00% | ~4,442 |
@@ -26,7 +26,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.80% | ~3,554 |
 | Royal Authority | 0.80% | ~3,554 |
 | Total Control | 0.80% | ~3,554 |
-| My armies are invincible! | 0.70% | ~3,109 |
+| My armies are invincible! | 0.70% | ~3,110 |
 | Agressive Expander | 0.60% | ~2,665 |
 | Azur semé de lis or | 0.50% | ~2,221 |
 | City of Cities | 0.50% | ~2,221 |
@@ -46,6 +46,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 0.30% | ~1,333 |
 | Market Control | 0.30% | ~1,333 |
 | Populists in Government | 0.30% | ~1,333 |
+| A Decent Reserve | 0.20% | ~888 |
 | Absolutely | 0.20% | ~888 |
 | All belongs to Mother Russia | 0.20% | ~888 |
 | At every continent | 0.20% | ~888 |
@@ -66,7 +67,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The 52 Garhs | 0.10% | ~444 |
 | I don't like sand | 0.10% | ~444 |
 | A Blessed Nation | 0.10% | ~444 |
-| A Decent Reserve | 0.10% | ~444 |
 | A Hero’s Welcome | 0.10% | ~444 |
 | A Manchurian Candidate | 0.10% | ~444 |
 | A Pile of Gold | 0.10% | ~444 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444,212 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 335)  
+Progressed: 444,246 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -556,17 +556,17 @@ Completed: 1 (0.00%) (Ranked 335)
 | 2023-10-29 | 442,673 | 1 |
 | 2023-10-30 | 443,336 | 1 |
 | 2023-10-31 | 443,969 | 1 |
-| 2023-11-01 | 444,212 | 1 |
+| 2023-11-01 | 444,246 | 1 |
 ## Awards
 Max (Educational): 6,765  (Ranked 55)  
-Sum: 55,609 (Ranked 24)  
+Sum: 55,635 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,765 |
-| This game has Diverse Characters | 6,462 |
+| This game has Diverse Characters | 6,478 |
 | This game is Highly Recommended | 6,450 |
-| This game has Challenging Combat | 6,387 |
+| This game has Challenging Combat | 6,397 |
 | This game is Extremely Fun | 6,376 |
 | This game is Relaxing | 6,226 |
 | This game has Competitive Players | 6,062 |
@@ -864,4 +864,4 @@ Diff (max vs sum): 31
 | 2023-10-29 | 4.69 | - | 6,736 | 55,365 |
 | 2023-10-30 | 4.69 | - | 6,749 | 55,482 |
 | 2023-10-31 | 4.69 | - | 6,765 | 55,595 |
-| 2023-11-01 | 4.69 | - | 6,765 | 55,609 |
+| 2023-11-01 | 4.69 | - | 6,765 | 55,635 |

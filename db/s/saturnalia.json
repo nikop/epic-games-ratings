@@ -6,9 +6,9 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -267,7 +267,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67782,
+  "EOS_Progressed": 67784,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 1,
@@ -13887,6 +13887,11 @@
       "Time": "2023-11-01T12:06:17.8361518+00:00",
       "NumProgressed": 67782,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-01T13:10:02.5709437+00:00",
+      "NumProgressed": 67784,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -14050,14 +14055,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67782,
+      "Progressed": 67784,
       "Completed": 17
     }
   ],
@@ -14065,8 +14070,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:06:17.8361512+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:10:02.5709431+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:58:16.4484242+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:06:17.8362795+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:02:23.4697258+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:10:02.5710753+00:00"
 }

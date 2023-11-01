@@ -3,8 +3,8 @@
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.4,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -654,6 +654,11 @@
       "Time": "2023-10-31T19:06:09.4922129+00:00",
       "NumProgressed": 286,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-01T13:10:33.2513042+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -848,7 +853,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 4
     }
   ],
@@ -856,8 +861,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-01T12:06:53.6085081+00:00",
+  "LastChanged_Achievements": "2023-11-01T13:10:33.2513032+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.6998262+00:00",
-  "LastUpdate_Ratings": "2023-11-01T12:01:49.7804661+00:00",
-  "LastUpdate_Achievements": "2023-11-01T12:06:53.608537+00:00"
+  "LastUpdate_Ratings": "2023-11-01T13:05:28.683494+00:00",
+  "LastUpdate_Achievements": "2023-11-01T13:10:33.251325+00:00"
 }
