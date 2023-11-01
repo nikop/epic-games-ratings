@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,924 | 4.51 | 562 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,750 | 4.69 | 228 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 103,117 | 4.64 | 329 |
-| 10 | [VALORANT](games/v/valorant.md) | 78,192 | 4.52 | 547 |
+| 10 | [VALORANT](games/v/valorant.md) | 78,473 | 4.52 | 547 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,887 | 4.58 | 443 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 48,043 | 4.61 | 381 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,850 | 4.74 | 154 |
@@ -95,7 +95,7 @@
 | 93 | [Hades](games/h/hades.md) | 3,340 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,336 | 4.57 | 465 |
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,112 | 4.49 | 602 |
-| 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,031 | 4.34 | 794 |
+| 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,046 | 4.34 | 794 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,944 | 4.50 | 580 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,893 | 4.18 | 917 |
 | 99 | [Among Us](games/a/among_us.md) | 2,791 | 4.57 | 465 |
@@ -130,7 +130,7 @@
 | 128 | [Ring of Pain](games/r/ring_of_pain.md) | 1,500 | 4.58 | 443 |
 | 129 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,489 | 4.53 | 533 |
 | 130 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,481 | 4.87 | 23 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,468 | 4.41 | 713 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,471 | 4.41 | 713 |
 | 132 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,425 | 4.63 | 346 |
 | 133 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,391 | 4.47 | 631 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,337 | 4.55 | 498 |
@@ -257,8 +257,8 @@
 | 255 | [Sheltered](games/s/sheltered.md) | 275 | 4.41 | 713 |
 | 256 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 274 | 4.32 | 815 |
 | 257 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 272 | 4.84 | 48 |
-| 258 | [MudRunner](games/m/mudrunner.md) | 270 | 4.61 | 381 |
-| 258 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 270 | 4.36 | 772 |
+| 258 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 271 | 4.36 | 772 |
+| 259 | [MudRunner](games/m/mudrunner.md) | 270 | 4.61 | 381 |
 | 260 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 265 | 4.55 | 498 |
 | 261 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 262 | 4.58 | 443 |
 | 262 | [Roller Champions™](games/r/roller_champions™.md) | 261 | 4.34 | 794 |

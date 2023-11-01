@@ -392,7 +392,7 @@
 | 381 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 544 |
 | 381 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 544 |
 | 381 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,290 | 137 |
-| 381 | [MudRunner](games/m/mudrunner.md) | 4.61 | 270 | 258 |
+| 381 | [MudRunner](games/m/mudrunner.md) | 4.61 | 270 | 259 |
 | 381 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,671 | 100 |
 | 381 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 721 | 178 |
 | 381 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 345 |
@@ -559,7 +559,7 @@
 | 547 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 544 |
 | 547 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 544 |
 | 547 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.52 | 0 | 544 |
-| 547 | [VALORANT](games/v/valorant.md) | 4.52 | 78,192 | 10 |
+| 547 | [VALORANT](games/v/valorant.md) | 4.52 | 78,473 | 10 |
 | 547 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 544 |
 | 562 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 122 | 332 |
 | 562 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 833 | 163 |
@@ -731,7 +731,7 @@
 | 713 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.41 | 89 | 369 |
 | 713 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 121 | 333 |
 | 713 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 544 |
-| 713 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,468 | 131 |
+| 713 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,471 | 131 |
 | 733 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 544 |
 | 733 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,045 | 148 |
 | 733 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 544 |
@@ -783,7 +783,7 @@
 | 772 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 509 |
 | 772 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 20 | 536 |
 | 772 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 544 |
-| 772 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 270 | 258 |
+| 772 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 271 | 258 |
 | 772 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 125 | 327 |
 | 786 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 544 |
 | 786 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 544 |
@@ -801,7 +801,7 @@
 | 794 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.34 | 0 | 544 |
 | 794 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 261 | 262 |
 | 794 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 544 |
-| 794 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 3,031 | 96 |
+| 794 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.34 | 3,046 | 96 |
 | 794 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 0 | 544 |
 | 794 | [ZOMBI](games/z/zombi.md) | 4.34 | 0 | 544 |
 | 805 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 544 |
@@ -947,10 +947,10 @@
 | 943 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.13 | 0 | 544 |
 | 943 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 544 |
 | 947 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 20 | 536 |
-| 947 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.12 | 0 | 544 |
 | 947 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 544 |
-| 950 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 544 |
-| 950 | [Fangs](games/f/fangs.md) | 4.11 | 0 | 544 |
+| 949 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 544 |
+| 949 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.11 | 0 | 544 |
+| 949 | [Fangs](games/f/fangs.md) | 4.11 | 0 | 544 |
 | 952 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 95 | 361 |
 | 952 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 30 | 487 |
 | 952 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 0 | 544 |
