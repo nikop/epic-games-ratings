@@ -22,8 +22,8 @@
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,107 | 4.57 | 465 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,667 | 4.89 | 10 |
 | 22 | [Warframe](games/w/warframe.md) | 18,087 | 4.60 | 407 |
-| 23 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 17,950 | 4.74 | 154 |
-| 24 | [League of Legends](games/l/league_of_legends.md) | 17,149 | 4.21 | 889 |
+| 23 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,048 | 4.74 | 154 |
+| 24 | [League of Legends](games/l/league_of_legends.md) | 17,178 | 4.21 | 889 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,750 | 4.76 | 122 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,570 | 4.58 | 442 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,556 | 4.60 | 407 |
@@ -42,7 +42,7 @@
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,752 | 4.58 | 442 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,218 | 4.58 | 442 |
 | 42 | [Control](games/c/control.md) | 8,643 | 4.60 | 407 |
-| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,533 | 4.89 | 10 |
+| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,539 | 4.89 | 10 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,389 | 4.48 | 617 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,122 | 4.57 | 465 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,996 | 4.85 | 43 |
@@ -169,8 +169,8 @@
 | 167 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 820 | 4.82 | 62 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 795 | 4.75 | 142 |
 | 169 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 788 | 4.79 | 94 |
+| 170 | [Riders Republic](games/r/riders_republic.md) | 772 | 4.75 | 142 |
 | 170 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 772 | 4.51 | 562 |
-| 171 | [Riders Republic](games/r/riders_republic.md) | 768 | 4.75 | 142 |
 | 172 | [Core](games/c/core.md) | 761 | 4.36 | 772 |
 | 173 | [Neverwinter](games/n/neverwinter.md) | 752 | 4.29 | 832 |
 | 174 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 734 | 4.87 | 23 |

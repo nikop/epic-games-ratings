@@ -9,7 +9,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 544 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,924 | 113 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 544 |
-| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,533 | 43 |
+| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,539 | 43 |
 | 10 | [Firework](games/f/firework.md) | 4.89 | 0 | 544 |
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 544 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 445 | 212 |
@@ -148,7 +148,7 @@
 | 142 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.75 | 0 | 544 |
 | 142 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.75 | 0 | 544 |
 | 142 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,003 | 111 |
-| 142 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 768 | 171 |
+| 142 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 772 | 170 |
 | 142 | [Tchia](games/t/tchia.md) | 4.75 | 0 | 544 |
 | 142 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 544 |
 | 142 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 544 |
@@ -157,7 +157,7 @@
 | 154 | [Diabotical](games/d/diabotical.md) | 4.74 | 285 | 251 |
 | 154 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 544 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 831 | 164 |
-| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 17,950 | 23 |
+| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,048 | 23 |
 | 154 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 544 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 728 | 175 |
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 544 |
@@ -891,7 +891,7 @@
 | 889 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 124 | 328 |
 | 889 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 481 |
 | 889 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 544 |
-| 889 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,149 | 24 |
+| 889 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,178 | 24 |
 | 889 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.21 | 42 | 447 |
 | 889 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 385 |
 | 889 | [Wreckfest](games/w/wreckfest.md) | 4.21 | 0 | 544 |

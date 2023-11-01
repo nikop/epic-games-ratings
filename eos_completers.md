@@ -76,9 +76,9 @@
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.48% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.36% |
 | 76 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.11% |
-| 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
-| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 77 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
+| 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
+| 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.05% |
 | 80 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 81 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.79% |
@@ -125,11 +125,11 @@
 | 122 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.85% |
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
-| 126 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.72% |
+| 126 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.71% |
 | 127 | [Night Book](games/n/night_book.md) | 1.70% |
 | 127 | [Somerville](games/s/somerville.md) | 1.70% |
-| 129 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.68% |
-| 130 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.67% |
+| 129 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.67% |
+| 130 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.66% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.59% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.57% |
 | 133 | [Five Dates](games/f/five_dates.md) | 1.54% |
@@ -186,12 +186,12 @@
 | 184 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 184 | [Eternights](games/e/eternights.md) | 0.55% |
 | 184 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
-| 187 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 187 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.53% |
-| 189 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 190 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
-| 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.50% |
-| 190 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.50% |
+| 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.54% |
+| 188 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 188 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.53% |
+| 190 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 191 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
+| 191 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.50% |
 | 193 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 194 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
 | 195 | [It Takes Two](games/i/it_takes_two.md) | 0.46% |
