@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 9.00% | ~1,473 |
+| Get a Grip | 9.00% | ~1,474 |
 | Paper Jams | 8.00% | ~1,310 |
 | Flesh Wound | 7.00% | ~1,146 |
 | Chew 'Em Up | 6.00% | ~982 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 907)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,372 (Ranked 140)  
+Progressed: 16,373 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 78 (0.48%) (Ranked 193)
 | 2023-10-29 | 16,345 | 78 |
 | 2023-10-30 | 16,360 | 78 |
 | 2023-10-31 | 16,372 | 78 |
+| 2023-11-01 | 16,373 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 382)  
 Sum: 465 (Ranked 325)  

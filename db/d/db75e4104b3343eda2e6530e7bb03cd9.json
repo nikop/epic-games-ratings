@@ -2,10 +2,10 @@
   "ID": "db75e4104b3343eda2e6530e7bb03cd9",
   "Name": "Prince of Persia: The Forgotten Sands STANDARD EDITION",
   "ProductSlug": "prince-of-persia-the-forgotten-sands",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-03T15:00:00+00:00",
     "PcReleaseDate": "2010-06-08T15:00:00+00:00",
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T01:52:39.5670978+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.7193435+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:48.7984832+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:11.971989+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:03:00.4704664+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:32.2494572+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "0ee52c80fe5e48a48f5c0d80fa9436cc",
   "Name": "DESERTED",
   "ProductSlug": "deserted-3b61b7",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 659,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-11-01T05:05:28.6624484+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-10-09T20:05:10.9041624+00:00",
   "TotalAchievements": 23,
   "TotalAchievementsXP": 1000,
@@ -221,13 +227,13 @@
     {
       "ID": "bid411o",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-06T15:03:12.0917617+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:04:26.7389774+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:05:28.6624479+00:00",
   "LastUpdate_AppInfo": "2023-10-27T17:57:01.1639866+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:57:44.065467+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:04:26.7389937+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:58:05.2085856+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:05:28.6624658+00:00"
 }

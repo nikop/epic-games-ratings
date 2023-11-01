@@ -2,10 +2,10 @@
   "ID": "de295b694198450fad4569530b0e9419",
   "Name": "Gravity Circuit",
   "ProductSlug": "gravity-circuit-489baa",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-13T18:00:00+00:00",
     "PcReleaseDate": "2023-07-13T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-17T11:58:22.9898272+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:31.4562097+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:58:33.0514915+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:08:35.4375929+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:59:14.4662965+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:08:54.4465905+00:00"
 }

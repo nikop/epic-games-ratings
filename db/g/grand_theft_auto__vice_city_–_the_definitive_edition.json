@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10724,
+  "EOS_Progressed": 10725,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -11974,6 +11974,11 @@
       "Time": "2023-11-01T04:05:05.840836+00:00",
       "NumProgressed": 10724,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-01T05:06:23.6626315+00:00",
+      "NumProgressed": 10725,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12073,7 +12078,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH13",
@@ -12145,7 +12150,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "ACH22",
@@ -12256,7 +12261,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10724,
+      "Progressed": 10725,
       "Completed": 64
     }
   ],
@@ -12264,8 +12269,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:05:05.8408352+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:06:23.6626308+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:57.2145427+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:05.8409265+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:03:11.243902+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:23.6627289+00:00"
 }

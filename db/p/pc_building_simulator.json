@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
     "PcReleaseDate": "2019-01-29T12:00:00+00:00",
@@ -5047,9 +5047,9 @@
       "Count": 668
     }
   ],
-  "EOS_Progressed": 3574942,
+  "EOS_Progressed": 3574949,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 2363,
+  "EOS_NewPlayers": 2362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27282,6 +27282,11 @@
       "Time": "2023-11-01T04:03:55.2836346+00:00",
       "NumProgressed": 3574942,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-01T05:04:44.9557717+00:00",
+      "NumProgressed": 3574949,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 52,
@@ -27301,7 +27306,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 893736
+      "UsersEstimate": 893737
     },
     {
       "ID": "BRICK",
@@ -27333,7 +27338,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 571991
+      "UsersEstimate": 571992
     },
     {
       "ID": "BUILD_2",
@@ -27357,7 +27362,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1394227
+      "UsersEstimate": 1394230
     },
     {
       "ID": "CASH_2",
@@ -27421,7 +27426,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 714988
+      "UsersEstimate": 714990
     },
     {
       "ID": "HBPC_TIME",
@@ -27453,7 +27458,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1036733
+      "UsersEstimate": 1036735
     },
     {
       "ID": "JOBS_2",
@@ -27533,7 +27538,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1751722
+      "UsersEstimate": 1751725
     },
     {
       "ID": "NO_PASTE",
@@ -27541,7 +27546,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1644473
+      "UsersEstimate": 1644477
     },
     {
       "ID": "OPC_BM_1",
@@ -27549,7 +27554,7 @@
       "Name": "Show off",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 32174
+      "UsersEstimate": 32175
     },
     {
       "ID": "OPC_BM_2",
@@ -27708,15 +27713,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3574942,
+      "Progressed": 3574949,
       "Completed": 36
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-10-31T20:59:50.818389+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:03:55.283634+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:04:44.9557712+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:05.7585275+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:03.4193231+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:55.2838211+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:01:24.3096356+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:04:44.9559843+00:00"
 }

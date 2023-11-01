@@ -8,7 +8,7 @@ Rating: 4.61 (Ranked 381)
 | Azoria Beckons | 72.00% | ~5,332 |
 | A Thorny Situation | 70.00% | ~5,184 |
 | ... And Spit Back Out | 60.00% | ~4,444 |
-| Break-Net Speed | 48.00% | ~3,555 |
+| Break-Net Speed | 49.00% | ~3,629 |
 | Bramble Breaker | 46.00% | ~3,407 |
 | Miner 49er | 43.00% | ~3,185 |
 | Humble Collector | 42.00% | ~3,111 |

@@ -71,7 +71,7 @@
 | Silver’s past | 30.00% | ~101 |
 | The only right decision | 30.00% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 316)  
+Progressed: 338 (Ranked 317)  
 Completed: 9 (2.66%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "996ae60e3cd84c7fb374489c1b9a8d88",
   "Name": "3D PrintMaster Simulator",
   "ProductSlug": "3d-printmaster-simulator-a75a0a",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-11-06T12:00:00+00:00",
     "PcReleaseDate": "2023-11-06T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-25T11:57:01.3177631+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:18.0732964+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:10.8487995+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:01:44.9720954+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:03:43.3504713+00:00"
 }

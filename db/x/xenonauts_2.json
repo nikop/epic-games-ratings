@@ -2,10 +2,10 @@
   "ID": "70719793fe184192b86239f29791005a",
   "Name": "Xenonauts 2",
   "ProductSlug": "xenonauts-2-42a236",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-07-18T08:00:00+00:00",
     "PcReleaseDate": "2023-07-18T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-18T16:02:31.1346902+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.3504446+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:58:52.8938632+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:30.9719445+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:59:43.6318946+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:58.7136225+00:00"
 }

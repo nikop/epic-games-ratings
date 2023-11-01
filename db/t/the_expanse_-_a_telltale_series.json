@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14530,
+  "EOS_Progressed": 14531,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10094,6 +10094,11 @@
       "Time": "2023-11-01T04:04:29.8036894+00:00",
       "NumProgressed": 14530,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-01T05:05:33.0923057+00:00",
+      "NumProgressed": 14531,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10168,25 +10173,25 @@
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 73
     },
     {
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 145
     },
     {
       "ID": "2",
@@ -10385,13 +10390,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14530,
+      "Progressed": 14531,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 286
     }
   ],
@@ -10399,8 +10404,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:04:29.8036889+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:05:33.0923053+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:58:28.1962096+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:04:29.8037785+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:59:08.1839599+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:05:33.0924102+00:00"
 }

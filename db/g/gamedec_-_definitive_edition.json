@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 832,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 446,
+  "Ranking_Popularity": 374,
+  "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -22700,8 +22700,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-10-29T16:59:35.8422965+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:06:11.6568863+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:07:55.0481947+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:32.9380944+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:06:11.6570593+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:41.4583754+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:07:55.048367+00:00"
 }

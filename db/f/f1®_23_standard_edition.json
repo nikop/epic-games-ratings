@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3988,
+  "EOS_Progressed": 3989,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4008,6 +4008,11 @@
       "Time": "2023-11-01T04:03:56.4294456+00:00",
       "NumProgressed": 3988,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T05:04:46.5711426+00:00",
+      "NumProgressed": 3989,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -4060,7 +4065,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "achievement_0007",
@@ -4068,7 +4073,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "achievement_0008",
@@ -4076,7 +4081,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "achievement_0009",
@@ -4084,7 +4089,7 @@
       "Name": "Eagle Eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_0010",
@@ -4140,7 +4145,7 @@
       "Name": "Hitting a Season",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "achievement_0017",
@@ -4180,7 +4185,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2951
+      "UsersEstimate": 2952
     },
     {
       "ID": "achievement_0022",
@@ -4236,7 +4241,7 @@
       "Name": "Spinning Around",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_0029",
@@ -4244,7 +4249,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "achievement_0030",
@@ -4276,7 +4281,7 @@
       "Name": "Engineer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "achievement_0034",
@@ -4356,7 +4361,7 @@
       "Name": "Familiar Faces",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "achievement_0044",
@@ -4411,7 +4416,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3988,
+      "Progressed": 3989,
       "Completed": 0
     }
   ],
@@ -4419,8 +4424,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-31T19:02:46.9042541+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:03:56.4294449+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:04:46.5711419+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.1254661+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:49.4210522+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:56.4295104+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:03:01.4056121+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:04:46.571201+00:00"
 }

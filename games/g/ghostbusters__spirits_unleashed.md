@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,763 |
-| Advancement | 4.00% | ~1,175 |
-| Discovery | 4.00% | ~1,175 |
-| Meticulously Efficient | 4.00% | ~1,175 |
+| Stylish | 6.00% | ~1,764 |
+| Advancement | 4.00% | ~1,176 |
+| Discovery | 4.00% | ~1,176 |
+| Meticulously Efficient | 4.00% | ~1,176 |
 | Clutch Capture | 3.00% | ~882 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~882 |
 | Cultured | 3.00% | ~882 |
@@ -28,6 +28,7 @@ Rating: 4.50 (Ranked 580)
 | Icing on the Cake | 2.00% | ~588 |
 | Legions | 2.00% | ~588 |
 | Pesky Jerks | 2.00% | ~588 |
+| Rift Destroyer | 2.00% | ~588 |
 | Right back at ya | 2.00% | ~588 |
 | Seasoned | 2.00% | ~588 |
 | Side Hustle | 2.00% | ~588 |
@@ -38,10 +39,9 @@ Rating: 4.50 (Ranked 580)
 | Collector | 1.00% | ~294 |
 | Escape Artist | 1.00% | ~294 |
 | Reckless | 1.00% | ~294 |
-| Rift Destroyer | 1.00% | ~294 |
 | Terrifying | 1.00% | ~294 |
 | Tobin's Prodigy | 1.00% | ~294 |
-| Diabolical | 0.90% | ~264 |
+| Diabolical | 0.90% | ~265 |
 | Rivalry | 0.80% | ~235 |
 | Fragile Panes | 0.70% | ~206 |
 | Liability | 0.70% | ~206 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,385 (Ranked 121)  
+Progressed: 29,395 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,385 | 65 |
+| 2023-11-01 | 29,395 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,652 (Ranked 180)  

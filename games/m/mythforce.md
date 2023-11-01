@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 23.00% | ~1,053 |
 | Perk Shard Punch Card | 23.00% | ~1,053 |
 | That'll Leave a Mark | 23.00% | ~1,053 |
-| Mushroom Madness! | 21.00% | ~962 |
+| Mushroom Madness! | 22.00% | ~1,007 |
 | First Strike | 18.00% | ~824 |
 | Spending Spree | 18.00% | ~824 |
 | Horder Better Faster Stronger | 17.00% | ~778 |

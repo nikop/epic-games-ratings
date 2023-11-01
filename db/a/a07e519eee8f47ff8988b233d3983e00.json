@@ -2,10 +2,10 @@
   "ID": "a07e519eee8f47ff8988b233d3983e00",
   "Name": "Neon City Climbing Simulator",
   "ProductSlug": "neon-city-climbing-simulator-c917dd",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-10-06T12:00:00+00:00",
     "PcReleaseDate": "2023-10-31T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-27T13:57:38.6112133+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:58:43.3216119+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:49.1243137+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:59:28.7207475+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:04:36.450323+00:00"
 }

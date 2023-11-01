@@ -7,7 +7,7 @@
 | New arm | 81.00% | ~294 |
 | Shelter Escape | 80.00% | ~290 |
 | The First Bond | 70.00% | ~254 |
-| Novice Scavenger | 63.00% | ~229 |
+| Novice Scavenger | 64.00% | ~232 |
 | Master Craftsman | 51.00% | ~185 |
 | First wall | 50.00% | ~182 |
 | Piggyback Expert | 48.00% | ~174 |
@@ -26,12 +26,12 @@
 | Plushyboy | 5.00% | ~18 |
 | Flawless | 5.00% | ~18 |
 | LOVEassistant | 3.00% | ~11 |
+| True Player | 1.00% | ~4 |
 | Dreamboat | 1.00% | ~4 |
-| True Player | 0.80% | ~3 |
 | Bond Lord | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 363 (Ranked 312)  
-Completed: 2 (0.55%) (Ranked 183)  
+Completed: 2 (0.55%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

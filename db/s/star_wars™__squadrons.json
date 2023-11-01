@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15719,
+  "EOS_Progressed": 15722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2334,
+  "EOS_NewPlayers": 2330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4969,6 +4969,11 @@
       "Time": "2023-11-01T04:09:22.1678567+00:00",
       "NumProgressed": 15719,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T05:09:58.9535433+00:00",
+      "NumProgressed": 15722,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -5029,7 +5034,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3301
+      "UsersEstimate": 3302
     },
     {
       "ID": "achievement_16",
@@ -5205,7 +5210,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 14776
+      "UsersEstimate": 14779
     },
     {
       "ID": "achievement_36",
@@ -5213,7 +5218,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "achievement_37",
@@ -5221,7 +5226,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "achievement_38",
@@ -5356,7 +5361,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 15719,
+      "Progressed": 15722,
       "Completed": 1
     }
   ],
@@ -5364,8 +5369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:09:22.167856+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:09:58.953543+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:10.8562879+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:02:52.1984588+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:09:22.1679283+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:03:16.5073746+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:09:58.9536193+00:00"
 }

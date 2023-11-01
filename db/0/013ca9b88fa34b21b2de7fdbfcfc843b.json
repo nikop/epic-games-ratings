@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -5897,9 +5897,9 @@
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3629
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6088,8 +6088,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-10-29T18:59:13.3120702+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:08:55.9099512+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:09:23.0271788+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:37.7801725+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:08:55.9100133+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:48.0090739+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:09:23.0272442+00:00"
 }

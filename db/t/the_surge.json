@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -370,9 +370,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4749,
+  "EOS_Progressed": 4750,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -2870,6 +2870,11 @@
       "Time": "2023-11-01T01:52:37.334866+00:00",
       "NumProgressed": 4749,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-01T05:06:09.860841+00:00",
+      "NumProgressed": 4750,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -2889,7 +2894,7 @@
       "Name": "Firebug",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -2929,7 +2934,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4037
+      "UsersEstimate": 4038
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2937,7 +2942,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2945,7 +2950,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2953,7 +2958,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3001,7 +3006,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -3009,7 +3014,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -3025,7 +3030,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -3057,7 +3062,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -3065,7 +3070,7 @@
       "Name": "Core Power",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -3073,7 +3078,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -3089,7 +3094,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -3097,7 +3102,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3113,7 +3118,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -3137,7 +3142,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -3161,7 +3166,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3209,7 +3214,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -3217,7 +3222,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3297,7 +3302,7 @@
       "Name": "No More Marching",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -3321,7 +3326,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -3329,7 +3334,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -3377,7 +3382,7 @@
       "Name": "Bling-Bling",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ID_ACHIEV_65",
@@ -3409,22 +3414,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4749,
+      "Progressed": 4750,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-10-22T22:59:51.104793+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:04:56.0994567+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:06:09.8608405+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:17.1875232+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:52.9147653+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:04:56.0995473+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:03:06.9528499+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:09.8609653+00:00"
 }

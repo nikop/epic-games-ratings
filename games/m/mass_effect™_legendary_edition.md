@@ -43,16 +43,16 @@
 | The Krogan | 37.00% | ~329 |
 | Ghost Ship | 36.00% | ~320 |
 | Galactic Explorer | 36.00% | ~320 |
+| Broke, Blind, and Bedlam | 36.00% | ~320 |
 | Completionist | 35.00% | ~311 |
 | The Quarian | 35.00% | ~311 |
-| Broke, Blind, and Bedlam | 35.00% | ~311 |
 | The Assassin | 34.00% | ~302 |
 | The Justicar | 34.00% | ~302 |
+| Ghost of the Father | 34.00% | ~302 |
 | The Prodigal | 34.00% | ~302 |
 | A Personal Touch | 33.00% | ~293 |
 | Battlemaster | 33.00% | ~293 |
 | Catharsis | 33.00% | ~293 |
-| Ghost of the Father | 33.00% | ~293 |
 | The Cure | 33.00% | ~293 |
 | Big Game Hunter | 33.00% | ~293 |
 | Heart of Darkness | 33.00% | ~293 |

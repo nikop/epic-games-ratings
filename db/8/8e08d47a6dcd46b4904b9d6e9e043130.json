@@ -2,10 +2,10 @@
   "ID": "8e08d47a6dcd46b4904b9d6e9e043130",
   "Name": "Backrooms Doors",
   "ProductSlug": "backrooms-doors-248a0f",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-11T01:35:37.7666444+00:00",
   "LastUpdate_AppInfo": "2023-10-29T16:56:59.8282206+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:30.817218+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:56.9770494+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:38.603971+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:04:47.2242662+00:00"
 }

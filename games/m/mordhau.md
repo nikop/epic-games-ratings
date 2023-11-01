@@ -5,16 +5,16 @@ Rating: 4.39 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~759,325 |
-| The ABCs | 43.00% | ~666,346 |
-| Home Run | 41.00% | ~635,353 |
-| Keeps Coming Off | 41.00% | ~635,353 |
-| Guts | 20.00% | ~309,928 |
-| Meat Grinder | 19.00% | ~294,432 |
-| Burning Man | 16.00% | ~247,943 |
-| Lived to Tell the Tale | 12.00% | ~185,957 |
-| Highlander | 10.00% | ~154,964 |
-| Unstoppable | 10.00% | ~154,964 |
+| Justice from the Grave | 49.00% | ~759,328 |
+| The ABCs | 43.00% | ~666,349 |
+| Home Run | 41.00% | ~635,356 |
+| Keeps Coming Off | 41.00% | ~635,356 |
+| Guts | 20.00% | ~309,930 |
+| Meat Grinder | 19.00% | ~294,433 |
+| Burning Man | 16.00% | ~247,944 |
+| Lived to Tell the Tale | 12.00% | ~185,958 |
+| Highlander | 10.00% | ~154,965 |
+| Unstoppable | 10.00% | ~154,965 |
 | Just a Scratch | 9.00% | ~139,468 |
 | Tough Nut to Crack | 6.00% | ~92,979 |
 | Yoink | 6.00% | ~92,979 |
@@ -33,8 +33,8 @@ Rating: 4.39 (Ranked 742)
 | Training Accident | 0.90% | ~13,947 |
 | Boxer | 0.80% | ~12,397 |
 | Flyswatter | 0.80% | ~12,397 |
-| Rock’n’Roll | 0.70% | ~10,847 |
-| Virtuoso | 0.70% | ~10,847 |
+| Rock’n’Roll | 0.70% | ~10,848 |
+| Virtuoso | 0.70% | ~10,848 |
 | Friend Indeed | 0.60% | ~9,298 |
 | Vlad the Impaler | 0.40% | ~6,199 |
 | Whack-A-Mole | 0.40% | ~6,199 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 742)
 | That’s No Ordinary Cold | 0.10% | ~1,550 |
 | Stairway to Hell | 0.10% | ~1,550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549,642 (Ranked 7)  
+Progressed: 1,549,648 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 68 (0.00%) (Ranked 334)
 | 2023-10-29 | 1,548,618 | 68 |
 | 2023-10-30 | 1,549,129 | 68 |
 | 2023-10-31 | 1,549,578 | 68 |
-| 2023-11-01 | 1,549,642 | 68 |
+| 2023-11-01 | 1,549,648 | 68 |
 ## Awards
 Max (Diverse Characters): 861  (Ranked 160)  
 Sum: 4,024 (Ranked 151)  

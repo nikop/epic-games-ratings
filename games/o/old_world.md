@@ -75,6 +75,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 1.00% | ~151 |
 | Acropolis | 1.00% | ~151 |
 | Apadana | 1.00% | ~151 |
+| Circus Maximus | 1.00% | ~151 |
 | Mausoleum | 1.00% | ~151 |
 | Necropolis | 1.00% | ~151 |
 | Learn to Play 3 | 1.00% | ~151 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.90% | ~136 |
 | Statesmen | 0.90% | ~136 |
 | Traders | 0.90% | ~136 |
-| Circus Maximus | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
 | Temple of Solomon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,077 (Ranked 144)  
+Progressed: 15,078 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 5 (0.03%) (Ranked 301)
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
-| 2023-11-01 | 15,077 | 5 |
+| 2023-11-01 | 15,078 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,862 (Ranked 211)  

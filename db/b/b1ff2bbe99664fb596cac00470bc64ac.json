@@ -2,10 +2,10 @@
   "ID": "b1ff2bbe99664fb596cac00470bc64ac",
   "Name": "Emergency Crew 2 Global Warming",
   "ProductSlug": "emergency-crew-1-04340a",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-05-08T06:00:00+00:00",
     "PcReleaseDate": "2022-12-14T20:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-12T08:57:22.2149165+00:00",
   "LastUpdate_AppInfo": "2023-10-29T02:57:22.6224746+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:16.1032938+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:17.6900355+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:17.5191217+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:40.0732349+00:00"
 }

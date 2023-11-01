@@ -2,10 +2,10 @@
   "ID": "ebf7b58e33e14f88b9bd08db56f508da",
   "Name": "RoboSquad Revolution",
   "ProductSlug": "zorans-resistance-2bc134",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-06-23T22:00:00+00:00",
     "PcReleaseDate": "2023-06-23T22:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-06-24T00:02:31.4568444+00:00",
   "FirstSeenAchievements": "2023-09-15T20:03:09.7287389+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:05:24.412917+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:06:49.4505684+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:12.2765155+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:57:46.9954516+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:24.4129201+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:58:09.3283211+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:49.4505698+00:00"
 }

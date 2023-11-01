@@ -2961,9 +2961,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29385,
+  "EOS_Progressed": 29395,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1830,
+  "EOS_NewPlayers": 1836,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17351,6 +17351,11 @@
       "Time": "2023-11-01T04:04:32.6857996+00:00",
       "NumProgressed": 29385,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-01T05:05:36.8903325+00:00",
+      "NumProgressed": 29395,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17362,7 +17367,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "Animated",
@@ -17442,7 +17447,7 @@
       "Name": "Diabolical",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Discovery",
@@ -17450,7 +17455,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "Dont_Need_These",
@@ -17474,7 +17479,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "Escape_Artist",
@@ -17592,9 +17597,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 588
     },
     {
       "ID": "Rift_Seeker",
@@ -17666,7 +17671,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1764
     },
     {
       "ID": "Summoner",
@@ -17769,7 +17774,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29385,
+      "Progressed": 29395,
       "Completed": 65
     }
   ],
@@ -17777,8 +17782,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-01T04:00:18.3704681+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:04:32.6857987+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:05:36.890332+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:18.370469+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:04:32.6859289+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:01:45.5189857+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:05:36.8904752+00:00"
 }

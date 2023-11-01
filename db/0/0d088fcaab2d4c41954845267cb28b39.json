@@ -2,10 +2,10 @@
   "ID": "0d088fcaab2d4c41954845267cb28b39",
   "Name": "Minigolf Blast",
   "ProductSlug": "minigolf-blast-5a5528",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5082988+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:45.0793242+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:38.5610233+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:02:55.1958883+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:07:09.4748316+00:00"
 }

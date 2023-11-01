@@ -2,10 +2,10 @@
   "ID": "9fa8b87898c64196aa89daa9d55fc102",
   "Name": "Helheim Hassle",
   "ProductSlug": "helheim-hassle-ea806f",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2021-12-13T00:00:00+00:00",
     "PcReleaseDate": "2020-08-18T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.9366107+00:00",
   "LastChanged": "2023-03-31T05:57:40.9366107+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:07.7957889+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:09.0717222+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:32.0368247+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:07.214216+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:07:00.2364496+00:00"
 }

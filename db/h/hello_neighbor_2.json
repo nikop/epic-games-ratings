@@ -441,9 +441,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3135,
+  "EOS_Progressed": 3136,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
@@ -4346,6 +4346,11 @@
       "Time": "2023-10-31T22:03:18.3701471+00:00",
       "NumProgressed": 3135,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-11-01T05:03:46.820923+00:00",
+      "NumProgressed": 3136,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 14,
@@ -4373,7 +4378,7 @@
       "Name": "Cat Person",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ACH_CLIMBER",
@@ -4429,7 +4434,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_REUNION",
@@ -4437,7 +4442,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -4461,14 +4466,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3135,
+      "Progressed": 3136,
       "Completed": 128
     }
   ],
@@ -4476,8 +4481,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-31T12:00:30.8622608+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:03:13.2859513+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:03:46.8209227+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:00:43.3196015+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:13.2860174+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:02:52.3860878+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:03:46.8209577+00:00"
 }

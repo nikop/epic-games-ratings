@@ -2,10 +2,10 @@
   "ID": "88478d819cbc45ea8bf3b9b7ee90d358",
   "Name": "Metaverser",
   "ProductSlug": "metaverser-725e3c",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-07T20:30:00+00:00",
     "PcReleaseDate": "2023-08-07T20:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T07:57:27.2506585+00:00",
   "LastUpdate_AppInfo": "2023-10-25T22:57:13.9330025+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:30.4314556+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:08:54.2360808+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:38.0381746+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:09:20.6578814+00:00"
 }

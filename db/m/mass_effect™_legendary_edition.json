@@ -3078,9 +3078,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_58",
@@ -3246,9 +3246,9 @@
       "ID": "achievement_76",
       "SetID": "d252ncf",
       "Name": "Broke, Blind, and Bedlam",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_77",
@@ -3466,8 +3466,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:06:05.6483545+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:07:46.9226995+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:39.6299405+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:06:05.6485631+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:50.7385486+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:07:46.9228755+00:00"
 }

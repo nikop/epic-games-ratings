@@ -2,10 +2,10 @@
   "ID": "3bf7023cedf14cff95f9020cf2a06349",
   "Name": "Taxi Driver Simulator Car Parking",
   "ProductSlug": "taxi-driver-simulator-car-parking-c5f70f",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-08-30T19:00:00+00:00",
     "PcReleaseDate": "2023-02-09T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T08:02:46.8216721+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.764155+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:57:42.7433416+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:05:13.6464348+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:58:03.2716865+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:06:34.7976369+00:00"
 }

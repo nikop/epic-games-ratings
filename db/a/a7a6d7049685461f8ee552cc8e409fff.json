@@ -2,10 +2,10 @@
   "ID": "a7a6d7049685461f8ee552cc8e409fff",
   "Name": "Arcadia: Colony",
   "ProductSlug": "arcadia-078924",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-22T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-26T10:57:20.9926833+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:20.9571038+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:04:22.1923548+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:00:23.4807247+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:05:22.4794795+00:00"
 }

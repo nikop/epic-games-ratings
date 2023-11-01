@@ -2,10 +2,10 @@
   "ID": "026a17f50e2b4ebeb6c631bd8638b6f7",
   "Name": "Yars: Recharged",
   "ProductSlug": "yars-revenge-recharged-fbdc11",
-  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Progress": 714,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T04:00:00+00:00",
@@ -172,8 +172,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.4639247+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.5855018+00:00",
   "LastChanged": "2023-03-31T05:58:40.4639249+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:06:29.7409165+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:08:20.1420598+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.9659529+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:59.3451604+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:06:29.7409289+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:01:18.3095779+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:08:20.1420712+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 20.00% | ~68 |
-| Welcome to the Tower | 19.00% | ~65 |
+| Welcome to the Tower | 20.00% | ~68 |
 | The great escape | 18.00% | ~61 |
 | The Preacher's fate | 17.00% | ~58 |
 | A new dawn | 15.00% | ~51 |
@@ -30,7 +30,7 @@
 | Rascal | 6.00% | ~20 |
 | Fashion victim | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 315)  
+Progressed: 340 (Ranked 316)  
 Completed: 22 (6.47%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57583,
+  "EOS_Progressed": 57584,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -11731,6 +11731,11 @@
       "Time": "2023-11-01T01:50:36.6156893+00:00",
       "NumProgressed": 57583,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-01T05:03:55.2281623+00:00",
+      "NumProgressed": 57584,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -11830,7 +11835,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "FoolMeTwice",
@@ -11902,7 +11907,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "IsThisPossible",
@@ -11926,7 +11931,7 @@
       "Name": "Beaten By A Little Girl",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "LordOfHFZ",
@@ -12086,7 +12091,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "TotalBummer",
@@ -12094,7 +12099,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "TrulyEvil",
@@ -12133,7 +12138,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57583,
+      "Progressed": 57584,
       "Completed": 6
     }
   ],
@@ -12141,8 +12146,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:03:19.3476992+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:03:55.2281618+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.6268047+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:58:05.0559638+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:03:19.3478104+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:58:31.8495656+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:03:55.2282754+00:00"
 }

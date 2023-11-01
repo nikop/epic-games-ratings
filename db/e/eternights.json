@@ -3,9 +3,9 @@
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1367,9 +1367,9 @@
       "ID": "ACHIEVEMENT_20_TruePlayer",
       "SetID": "9bke6f1",
       "Name": "True Player",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_21_PlushyBoy",
@@ -1423,9 +1423,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1486,8 +1486,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:04:48.9801047+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:05:59.6411806+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:59:56.9298336+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:04:48.9801301+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:01:14.7405453+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:05:59.6412091+00:00"
 }

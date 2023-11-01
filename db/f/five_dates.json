@@ -2,10 +2,10 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 117,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
@@ -1255,6 +1255,11 @@
       "Time": "2023-10-31T22:09:14.8909212+00:00",
       "NumProgressed": 583,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-01T05:09:17.601162+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1266,7 +1271,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "booty_call",
@@ -1274,7 +1279,7 @@
       "Name": "Booty Call",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "crash_and_burn",
@@ -1282,7 +1287,7 @@
       "Name": "Crash and Burn",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "digital_casanova",
@@ -1306,7 +1311,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "interrogation",
@@ -1322,7 +1327,7 @@
       "Name": "Light Sleepers",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "not_alone",
@@ -1346,7 +1351,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "planting_the_seed",
@@ -1354,7 +1359,7 @@
       "Name": "Planting the Seed",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "smooth_criminal",
@@ -1385,7 +1390,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 9
     }
   ],
@@ -1393,8 +1398,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-01T04:08:52.1169457+00:00",
+  "LastChanged_Achievements": "2023-11-01T05:09:17.6011615+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:58:53.747227+00:00",
-  "LastUpdate_Achievements": "2023-11-01T04:08:52.1169656+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:59:44.914702+00:00",
+  "LastUpdate_Achievements": "2023-11-01T05:09:17.6011809+00:00"
 }

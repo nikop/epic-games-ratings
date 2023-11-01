@@ -11,8 +11,8 @@ Rating: 4.24 (Ranked 869)
 | Suited and Booted | 39.00% | ~819 |
 | HEADSHOT! | 38.00% | ~798 |
 | Sleeping With The Fishes | 36.00% | ~756 |
+| High Performance | 31.00% | ~651 |
 | Overheated | 30.00% | ~630 |
-| High Performance | 30.00% | ~630 |
 | Powered Up | 28.00% | ~588 |
 | Studied The Blade | 25.00% | ~525 |
 | Home Invasion | 23.00% | ~483 |
