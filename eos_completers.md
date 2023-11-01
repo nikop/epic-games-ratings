@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.41% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.12% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.11% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -76,7 +76,7 @@
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.48% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.36% |
 | 76 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.23% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.17% |
 | 78 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.08% |
 | 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.07% |
 | 80 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
@@ -112,7 +112,7 @@
 | 110 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
 | 111 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.47% |
 | 112 | [Lamentum](games/l/lamentum.md) | 2.44% |
-| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
+| 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
 | 115 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 116 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.28% |
@@ -121,9 +121,9 @@
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 119 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
-| 122 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.90% |
-| 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 123 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.85% |
+| 122 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 122 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.85% |
+| 122 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.85% |
 | 125 | [Sifu](games/s/sifu.md) | 1.81% |
 | 126 | [Frogun](games/f/frogun.md) | 1.79% |
 | 127 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.72% |
@@ -141,7 +141,7 @@
 | 138 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
 | 140 | [Chorus](games/c/chorus.md) | 1.34% |
 | 140 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
-| 142 | [Late Shift](games/l/late_shift.md) | 1.33% |
+| 142 | [Late Shift](games/l/late_shift.md) | 1.32% |
 | 143 | [Lemon Cake](games/l/lemon_cake.md) | 1.30% |
 | 144 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
 | 145 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
@@ -187,7 +187,7 @@
 | 183 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
 | 186 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 186 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.53% |
-| 186 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 188 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 189 | [Dead Space](games/d/dead_space.md) | 0.51% |
 | 190 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
 | 190 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.50% |

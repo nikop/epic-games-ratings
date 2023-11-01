@@ -33,12 +33,12 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,921 | 4.86 | 28 |
 | 32 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,736 | 4.36 | 772 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 12,321 | 4.88 | 16 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,130 | 4.45 | 657 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,145 | 4.45 | 657 |
 | 35 | [SnowRunner](games/s/snowrunner.md) | 11,800 | 4.76 | 122 |
 | 36 | [NBA 2K21](games/n/nba_2k21.md) | 11,780 | 4.39 | 742 |
 | 37 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,564 | 4.69 | 228 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,487 | 4.78 | 106 |
-| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,330 | 4.61 | 381 |
+| 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,335 | 4.61 | 381 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,752 | 4.58 | 442 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,197 | 4.58 | 442 |
 | 42 | [Control](games/c/control.md) | 8,643 | 4.60 | 407 |
@@ -83,12 +83,12 @@
 | 81 | [God of War](games/g/god_of_war.md) | 4,276 | 4.88 | 16 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,240 | 4.57 | 465 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,144 | 4.51 | 562 |
-| 84 | [Days Gone](games/d/days_gone.md) | 4,007 | 4.68 | 249 |
+| 84 | [Days Gone](games/d/days_gone.md) | 4,010 | 4.68 | 249 |
 | 85 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,834 | 4.27 | 849 |
 | 86 | [Trackmania](games/t/trackmania.md) | 3,825 | 4.66 | 290 |
 | 87 | [Paladins](games/p/paladins.md) | 3,770 | 4.33 | 805 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,761 | 4.68 | 249 |
-| 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,672 | 4.46 | 640 |
+| 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,673 | 4.46 | 640 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,565 | 4.47 | 631 |
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,377 | 4.68 | 249 |
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,374 | 4.76 | 122 |
@@ -199,7 +199,7 @@
 | 197 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 569 | 4.67 | 272 |
 | 198 | [Filament](games/f/filament.md) | 567 | 4.33 | 805 |
 | 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 556 | 4.08 | 958 |
-| 200 | [Prison Architect](games/p/prison_architect.md) | 547 | 4.61 | 381 |
+| 200 | [Prison Architect](games/p/prison_architect.md) | 548 | 4.61 | 381 |
 | 201 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 535 | 4.60 | 407 |
 | 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 532 | 4.86 | 28 |
 | 203 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 521 |
@@ -446,13 +446,13 @@
 | 444 | [Aimlabs](games/a/aimlabs.md) | 44 | 4.62 | 361 |
 | 445 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 43 | 4.50 | 580 |
 | 445 | [Voidtrain](games/v/voidtrain.md) | 43 | 4.50 | 580 |
+| 447 | [Bugsnax](games/b/bugsnax.md) | 42 | 4.86 | 28 |
 | 447 | [Coromon](games/c/coromon.md) | 42 | 4.66 | 290 |
 | 447 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 42 | 4.79 | 94 |
 | 447 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 42 | 4.21 | 889 |
 | 447 | [Transport Fever 2](games/t/transport_fever_2.md) | 42 | 4.69 | 228 |
-| 451 | [Bugsnax](games/b/bugsnax.md) | 41 | 4.86 | 28 |
-| 451 | [City of Gangsters](games/c/city_of_gangsters.md) | 41 | 4.28 | 841 |
-| 451 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 122 |
+| 452 | [City of Gangsters](games/c/city_of_gangsters.md) | 41 | 4.28 | 841 |
+| 452 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 122 |
 | 454 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 39 | 4.62 | 361 |
 | 454 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 39 | 4.58 | 442 |
 | 454 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 39 | 4.72 | 184 |

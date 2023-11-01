@@ -31,7 +31,7 @@
 | 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 137 | 319 |
 | 28 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 307 |
 | 28 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.86 | 20 | 536 |
-| 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 41 | 451 |
+| 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 42 | 447 |
 | 28 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 544 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 342 | 235 |
 | 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,921 | 31 |
@@ -138,7 +138,7 @@
 | 122 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,800 | 35 |
 | 122 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 103 | 349 |
 | 122 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 50 | 424 |
-| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 451 |
+| 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 452 |
 | 122 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 544 |
 | 122 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 393 | 225 |
 | 142 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,388 | 60 |
@@ -256,7 +256,7 @@
 | 249 | [BLACKTAIL](games/b/blacktail.md) | 4.68 | 0 | 544 |
 | 249 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 544 |
 | 249 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,482 | 51 |
-| 249 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,007 | 84 |
+| 249 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,010 | 84 |
 | 249 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,348 | 70 |
 | 249 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 0 | 544 |
 | 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 311,941 | 3 |
@@ -396,8 +396,8 @@
 | 381 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,671 | 100 |
 | 381 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 721 | 178 |
 | 381 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 345 |
-| 381 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 547 | 200 |
-| 381 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,330 | 39 |
+| 381 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 548 | 200 |
+| 381 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,335 | 39 |
 | 381 | [Returnal™](games/r/returnal™.md) | 4.61 | 87 | 373 |
 | 381 | [RiME](games/r/rime.md) | 4.61 | 0 | 544 |
 | 381 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,093 | 143 |
@@ -642,7 +642,7 @@
 | 640 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 544 |
 | 640 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 544 |
 | 640 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 544 |
-| 640 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,672 | 89 |
+| 640 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,673 | 89 |
 | 640 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 544 |
 | 640 | [Chorus](games/c/chorus.md) | 4.46 | 34 | 473 |
 | 640 | [Faeria](games/f/faeria.md) | 4.46 | 114 | 338 |
@@ -662,7 +662,7 @@
 | 657 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 906 | 156 |
 | 657 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 544 |
 | 657 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 111 | 341 |
-| 657 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,130 | 34 |
+| 657 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,145 | 34 |
 | 657 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 36 | 463 |
 | 657 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 892 | 158 |
 | 657 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.45 | 0 | 544 |
@@ -842,7 +842,7 @@
 | 832 | [Steelrising](games/s/steelrising.md) | 4.29 | 38 | 458 |
 | 841 | [Against All Odds](games/a/against_all_odds.md) | 4.28 | 0 | 544 |
 | 841 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.28 | 0 | 544 |
-| 841 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 41 | 451 |
+| 841 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 41 | 452 |
 | 841 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 544 |
 | 841 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.28 | 35 | 467 |
 | 841 | [Mortal Shell](games/m/mortal_shell.md) | 4.28 | 20 | 536 |
