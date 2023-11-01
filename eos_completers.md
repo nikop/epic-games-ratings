@@ -86,7 +86,7 @@
 | 84 | [The Bunker](games/t/the_bunker.md) | 3.65% |
 | 85 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
 | 86 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
-| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.41% |
+| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.40% |
 | 88 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.39% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 90 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.33% |
@@ -120,8 +120,8 @@
 | 117 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.27% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 119 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
-| 121 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.95% |
-| 122 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
+| 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
+| 122 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.90% |
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 123 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.85% |
 | 125 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -149,8 +149,8 @@
 | 147 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 148 | [Adios](games/a/adios.md) | 1.06% |
 | 149 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 150 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
-| 150 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 150 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 151 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 152 | [Sable](games/s/sable.md) | 1.01% |
 | 153 | [Trifox](games/t/trifox.md) | 0.98% |
 | 154 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 0.97% |
