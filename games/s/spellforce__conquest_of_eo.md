@@ -40,6 +40,7 @@
 | Balanced | 20.00% | ~2 |
 | Friend of Alluvyan | 20.00% | ~2 |
 | Friend of Bastion | 20.00% | ~2 |
+| Friend of Windholme | 20.00% | ~2 |
 | Bad JuJu | 20.00% | ~2 |
 | Get to the Airship! | 10.00% | ~1 |
 | Defeat Raith | 10.00% | ~1 |
@@ -57,7 +58,6 @@
 | Friend of Grey Dusk Vale | 10.00% | ~1 |
 | Friend of Orgash | 10.00% | ~1 |
 | Friend of Uram Gor | 10.00% | ~1 |
-| Friend of Windholme | 10.00% | ~1 |
 | Magic Academy | 10.00% | ~1 |
 | A Joke | 10.00% | ~1 |
 | Elynn's Tale | 0.00% | ~0 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 563)  
+Progressed: 10 (Ranked 564)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |

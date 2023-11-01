@@ -21,7 +21,7 @@ Rating: 4.64 (Ranked 329)
 | Land, Ho! | 46.00% | ~362 |
 | Back In The Saddle | 45.00% | ~354 |
 | No Man Is An Island | 45.00% | ~354 |
-| At Wits' End | 44.00% | ~346 |
+| At Wits' End | 45.00% | ~354 |
 | Fhtagn! | 43.00% | ~338 |
 | Bookworm | 42.00% | ~331 |
 | Up In Flames | 42.00% | ~331 |
@@ -35,7 +35,7 @@ Rating: 4.64 (Ranked 329)
 | Reawakened | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 787 (Ranked 261)  
-Completed: 26 (3.30%) (Ranked 92)  
+Completed: 26 (3.30%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

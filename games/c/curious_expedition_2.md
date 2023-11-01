@@ -12,7 +12,7 @@ Number of Ratings: 20  (23.09.2022)
 | Insomnia | 46.00% | ~153 |
 | From Whence we Came | 41.00% | ~136 |
 | Lost & Found & Lost Again | 40.00% | ~133 |
-| Fire and Flood | 38.00% | ~126 |
+| Fire and Flood | 39.00% | ~129 |
 | Spooky! | 36.00% | ~120 |
 | Shennong Herbalist | 33.00% | ~110 |
 | Treasure Hunt | 33.00% | ~110 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 332 (Ranked 319)  
-Completed: 1 (0.30%) (Ranked 219)  
+Completed: 1 (0.30%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

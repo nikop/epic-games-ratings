@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7691,10 +7691,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32290,
       "NumberOfAwardsMax": 5465
+    },
+    {
+      "Time": "2023-11-01T19:58:58.9525112+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32292,
+      "NumberOfAwardsMax": 5465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32290,
+  "NumberOfAwards": 32292,
   "NumberOfAwardsMax": 5465,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7738,13 +7744,13 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3498
+      "Count": 3500
     }
   ],
-  "EOS_Progressed": 233390,
-  "EOS_Completed": 2416,
+  "EOS_Progressed": 233394,
+  "EOS_Completed": 2417,
   "EOS_NewPlayers": 590,
-  "EOS_NewCompleters": 29,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -29561,6 +29567,11 @@
       "Time": "2023-11-01T19:08:30.5700877+00:00",
       "NumProgressed": 233390,
       "NumCompleted": 2416
+    },
+    {
+      "Time": "2023-11-01T20:08:21.3797067+00:00",
+      "NumProgressed": 233394,
+      "NumCompleted": 2417
     }
   ],
   "TotalAchievements": 528,
@@ -31386,9 +31397,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_394",
@@ -31418,9 +31429,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_399",
@@ -32770,9 +32781,9 @@
       "ID": "objective_completed_77",
       "SetID": "cc37lbc",
       "Name": "Rude Welcome",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_79",
@@ -33795,21 +33806,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199664,
+      "Progressed": 199668,
       "Completed": 3729
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233390,
-      "Completed": 2416
+      "Progressed": 233394,
+      "Completed": 2417
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:08:30.5700871+00:00",
+  "LastChanged": "2023-11-01T19:58:58.952511+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:08:21.3797061+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:58:48.9924236+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:08:30.5734816+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:58:58.9525118+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:08:21.3829743+00:00"
 }

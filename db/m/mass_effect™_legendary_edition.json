@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 901,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2468,6 +2468,11 @@
       "Time": "2023-11-01T19:06:44.8930385+00:00",
       "NumProgressed": 899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T20:07:23.8058141+00:00",
+      "NumProgressed": 901,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -2480,7 +2485,7 @@
       "Name": "Medal of Honor",
       "Percentage": 57,
       "XP": 125,
-      "UsersEstimate": 512
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_10",
@@ -2534,9 +2539,9 @@
       "ID": "achievement_105",
       "SetID": "d252ncf",
       "Name": "Sky High",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_106",
@@ -2704,7 +2709,7 @@
       "Name": "Recruit",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_125",
@@ -2712,7 +2717,7 @@
       "Name": "Soldier",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 487
     },
     {
       "ID": "achievement_126",
@@ -2742,9 +2747,9 @@
       "ID": "achievement_14",
       "SetID": "b9pe172",
       "Name": "Electronics Specialist",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_15",
@@ -2776,7 +2781,7 @@
       "Name": "Meritorious Service Medal",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_19",
@@ -2792,7 +2797,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_20",
@@ -2808,7 +2813,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_22",
@@ -2816,7 +2821,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_23",
@@ -2856,15 +2861,15 @@
       "Name": "Turian Ally",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_28",
       "SetID": "b9pe172",
       "Name": "Quarian Ally",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 595
     },
     {
       "ID": "achievement_29",
@@ -2880,7 +2885,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 94,
       "XP": 25,
-      "UsersEstimate": 845
+      "UsersEstimate": 847
     },
     {
       "ID": "achievement_30",
@@ -2894,9 +2899,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 730
     },
     {
       "ID": "achievement_32",
@@ -2904,7 +2909,7 @@
       "Name": "Charismatic",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_33",
@@ -2912,7 +2917,7 @@
       "Name": "Search and Rescue",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 631
     },
     {
       "ID": "achievement_34",
@@ -2968,7 +2973,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 530
+      "UsersEstimate": 532
     },
     {
       "ID": "achievement_40",
@@ -3056,7 +3061,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 577
     },
     {
       "ID": "achievement_50",
@@ -3382,9 +3387,9 @@
       "ID": "achievement_87",
       "SetID": "d252ncf",
       "Name": "Saboteur",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_88",
@@ -3495,19 +3500,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 901,
       "Completed": 1
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 899,
+      "Progressed": 901,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:06:44.8930379+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:07:23.8058133+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:00:14.3082755+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:06:44.8934775+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:00:39.0233956+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:07:23.8060345+00:00"
 }

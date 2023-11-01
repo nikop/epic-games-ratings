@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 427)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,13 +17,13 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,559 |
 | Sharpened Vessel | 1.00% | ~1,559 |
 | Scion | 0.90% | ~1,400 |
-| Jawcrab | 0.90% | ~1,403 |
-| Jawstag | 0.90% | ~1,403 |
-| Feast | 0.90% | ~1,403 |
-| Watcher | 0.80% | ~1,247 |
-| Shapely | 0.70% | ~1,091 |
+| Jawcrab | 0.90% | ~1,404 |
+| Jawstag | 0.90% | ~1,404 |
+| Feast | 0.90% | ~1,404 |
+| Watcher | 0.80% | ~1,248 |
+| Shapely | 0.70% | ~1,092 |
 | Glare | 0.70% | ~1,089 |
-| Predator | 0.70% | ~1,091 |
+| Predator | 0.70% | ~1,092 |
 | Assimilation | 0.60% | ~936 |
 | Host | 0.60% | ~933 |
 | Celebration | 0.60% | ~936 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,928 (Ranked 75)  
+Progressed: 155,947 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 1 (0.00%) (Ranked 337)
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
 | 2023-10-31 | 155,810 | 1 |
-| 2023-11-01 | 155,928 | 1 |
+| 2023-11-01 | 155,947 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 339 (Ranked 351)  

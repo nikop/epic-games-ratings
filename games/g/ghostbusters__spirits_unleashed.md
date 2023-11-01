@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,771 |
-| Advancement | 5.00% | ~1,476 |
+| Stylish | 6.00% | ~1,772 |
+| Advancement | 5.00% | ~1,477 |
 | Discovery | 4.00% | ~1,181 |
 | Meticulously Efficient | 4.00% | ~1,181 |
 | Solo Capture | 4.00% | ~1,181 |
@@ -19,23 +19,23 @@ Rating: 4.50 (Ranked 579)
 | There you are! | 3.00% | ~886 |
 | Vaporous Expansion | 3.00% | ~886 |
 | Whoopsie | 3.00% | ~886 |
-| Animated | 2.00% | ~590 |
-| Back Off | 2.00% | ~590 |
-| We have the best insurance | 2.00% | ~590 |
-| Daily Dose | 2.00% | ~590 |
-| Ectoplasmic Entity | 2.00% | ~590 |
-| Ghostbuster In Training | 2.00% | ~590 |
-| Icing on the Cake | 2.00% | ~590 |
-| Legions | 2.00% | ~590 |
-| Pesky Jerks | 2.00% | ~590 |
-| Rift Destroyer | 2.00% | ~590 |
-| Right back at ya | 2.00% | ~590 |
-| Seasoned | 2.00% | ~590 |
-| Side Hustle | 2.00% | ~590 |
-| Skilled | 2.00% | ~590 |
-| Stunner | 2.00% | ~590 |
-| Summoner | 2.00% | ~590 |
-| Welcome to the Crew | 2.00% | ~590 |
+| Animated | 2.00% | ~591 |
+| Back Off | 2.00% | ~591 |
+| We have the best insurance | 2.00% | ~591 |
+| Daily Dose | 2.00% | ~591 |
+| Ectoplasmic Entity | 2.00% | ~591 |
+| Ghostbuster In Training | 2.00% | ~591 |
+| Icing on the Cake | 2.00% | ~591 |
+| Legions | 2.00% | ~591 |
+| Pesky Jerks | 2.00% | ~591 |
+| Rift Destroyer | 2.00% | ~591 |
+| Right back at ya | 2.00% | ~591 |
+| Seasoned | 2.00% | ~591 |
+| Side Hustle | 2.00% | ~591 |
+| Skilled | 2.00% | ~591 |
+| Stunner | 2.00% | ~591 |
+| Summoner | 2.00% | ~591 |
+| Welcome to the Crew | 2.00% | ~591 |
 | Collector | 1.00% | ~295 |
 | Diabolical | 1.00% | ~295 |
 | Escape Artist | 1.00% | ~295 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,524 (Ranked 121)  
+Progressed: 29,537 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,524 | 65 |
+| 2023-11-01 | 29,537 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
-Sum: 2,656 (Ranked 180)  
+Sum: 2,657 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 64
 | This game has Competitive Players | 262 |
 | This game is Extremely Fun | 259 |
 | This game is Relaxing | 258 |
-| This game has Quickly Understood Controls | 244 |
+| This game has Quickly Understood Controls | 245 |
 | This game has Amazing Characters | 241 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
@@ -472,4 +472,4 @@ Diff (max vs sum): 64
 | 2023-10-29 | 4.50 | 293 | 2,603 |
 | 2023-10-30 | 4.50 | 297 | 2,620 |
 | 2023-10-31 | 4.50 | 298 | 2,637 |
-| 2023-11-01 | 4.50 | 298 | 2,656 |
+| 2023-11-01 | 4.50 | 298 | 2,657 |

@@ -22,11 +22,11 @@ Rating: 4.10 (Ranked 952)
 | Enlightenment | 16.00% | ~334 |
 | Lieutenant | 16.00% | ~334 |
 | Hero inspection | 15.00% | ~314 |
+| The Unstoppable | 15.00% | ~314 |
 | Milestone collector | 14.00% | ~293 |
 | Mysterious Rock | 14.00% | ~293 |
 | Natural Talent | 14.00% | ~293 |
 | Superior | 14.00% | ~293 |
-| The Unstoppable | 14.00% | ~293 |
 | Scientist | 13.00% | ~272 |
 | Doing My Part | 12.00% | ~251 |
 | Hunter | 12.00% | ~251 |

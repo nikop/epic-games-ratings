@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1023,9 +1023,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1046,8 +1046,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:05:40.6006358+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:06:07.3820148+00:00",
   "LastUpdate_AppInfo": "2023-11-01T17:57:12.1999794+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:00:57.3158217+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:05:40.6006549+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:01:29.838468+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:06:07.3820367+00:00"
 }

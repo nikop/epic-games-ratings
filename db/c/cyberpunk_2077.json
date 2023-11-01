@@ -14448,10 +14448,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 338019,
       "NumberOfAwardsMax": 103284
+    },
+    {
+      "Time": "2023-11-01T19:58:37.3205473+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 338096,
+      "NumberOfAwardsMax": 103284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338019,
+  "NumberOfAwards": 338096,
   "NumberOfAwardsMax": 103284,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14525,12 +14531,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 12129
+      "Count": 12206
     }
   ],
-  "EOS_Progressed": 894816,
+  "EOS_Progressed": 894822,
   "EOS_Completed": 2736,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36608,6 +36614,11 @@
       "Time": "2023-11-01T19:05:14.2701869+00:00",
       "NumProgressed": 894816,
       "NumCompleted": 2736
+    },
+    {
+      "Time": "2023-11-01T20:05:36.1529545+00:00",
+      "NumProgressed": 894822,
+      "NumCompleted": 2736
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -36690,9 +36701,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1790
+      "UsersEstimate": 2684
     },
     {
       "ID": "Gunslinger",
@@ -37155,21 +37166,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894816,
+      "Progressed": 894822,
       "Completed": 2736
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23439,
+      "Progressed": 23445,
       "Completed": 10176
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-01T15:58:20.7982845+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:05:14.2701864+00:00",
+  "LastChanged": "2023-11-01T19:58:37.3205471+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:05:36.1529539+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:58:30.9515951+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:05:14.2704516+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:58:37.320548+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:05:36.1531668+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.60 (Ranked 406)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,350 |
+| Azoria Beckons | 72.00% | ~5,351 |
 | A Thorny Situation | 70.00% | ~5,202 |
 | ... And Spit Back Out | 60.00% | ~4,459 |
 | Break-Net Speed | 48.00% | ~3,567 |
-| Bramble Breaker | 46.00% | ~3,418 |
-| Miner 49er | 43.00% | ~3,195 |
+| Bramble Breaker | 46.00% | ~3,419 |
+| Miner 49er | 43.00% | ~3,196 |
 | Humble Collector | 42.00% | ~3,121 |
-| Calm Sailing | 36.00% | ~2,675 |
-| Open the Gate! | 33.00% | ~2,452 |
+| Calm Sailing | 36.00% | ~2,676 |
+| Open the Gate! | 33.00% | ~2,453 |
 | Mist Walker | 32.00% | ~2,378 |
 | Lumberjack | 26.00% | ~1,932 |
 | Oui, Chef! | 23.00% | ~1,709 |
@@ -23,9 +23,9 @@ Rating: 4.60 (Ranked 406)
 | Beach Comber | 13.00% | ~966 |
 | Higher Tax Bracket | 13.00% | ~966 |
 | Skilled | 9.00% | ~669 |
-| Flaming Hot Completos | 8.00% | ~594 |
-| Got to Catch Them All | 8.00% | ~594 |
-| Rumble in the Jumble | 8.00% | ~594 |
+| Flaming Hot Completos | 8.00% | ~595 |
+| Got to Catch Them All | 8.00% | ~595 |
+| Rumble in the Jumble | 8.00% | ~595 |
 | Fae Farmer | 7.00% | ~520 |
 | Fanatical Farmer | 7.00% | ~520 |
 | Scattered Scroll Scrounger | 6.00% | ~446 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 406)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,431 (Ranked 166)  
+Progressed: 7,432 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 7,340 | 0 |
 | 2023-10-30 | 7,365 | 0 |
 | 2023-10-31 | 7,400 | 0 |
-| 2023-11-01 | 7,431 | 0 |
+| 2023-11-01 | 7,432 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4326,9 +4326,9 @@
       "ID": "invincible_1",
       "SetID": "53c1p3k",
       "Name": "Invincible 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 47
     },
     {
       "ID": "invincible_2",
@@ -4406,9 +4406,9 @@
       "ID": "obsessed_carver_2",
       "SetID": "53c1p3k",
       "Name": "Obsessed Carver 2",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "obsessed_carver_3",
@@ -4573,8 +4573,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:09:46.8397197+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:09:50.4263824+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:00:03.5955342+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:09:46.8398722+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:00:28.1582648+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:09:50.4264744+00:00"
 }

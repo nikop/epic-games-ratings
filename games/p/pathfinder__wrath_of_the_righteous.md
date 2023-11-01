@@ -13,7 +13,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Choices | 14.00% | ~1,677 |
 | Banner over the Citadel | 13.00% | ~1,558 |
 | Queen's Gratitude | 12.00% | ~1,438 |
-| Fifth Crusade | 8.00% | ~958 |
+| Fifth Crusade | 8.00% | ~959 |
 | Embrace of the Abyss | 6.00% | ~719 |
 | Path of the Angel | 6.00% | ~719 |
 | Demonic and Divine | 6.00% | ~719 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,981 (Ranked 150)  
+Progressed: 11,982 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 11,919 | 0 |
 | 2023-10-30 | 11,942 | 0 |
 | 2023-10-31 | 11,961 | 0 |
-| 2023-11-01 | 11,981 | 0 |
+| 2023-11-01 | 11,982 | 0 |
 ## Awards
 Max (Character Customization): 1,731  (Ranked 120)  
 Sum: 7,013 (Ranked 119)  

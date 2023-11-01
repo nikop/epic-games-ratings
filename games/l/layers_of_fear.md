@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wanderer | 67.00% | ~26 |
-| Something important | 59.00% | ~23 |
+| Something important | 62.00% | ~24 |
 | A piece of the story | 49.00% | ~19 |
 | Do what you have to | 38.00% | ~15 |
 | Finished it | 33.00% | ~13 |
@@ -20,24 +20,25 @@
 | Tough conversation | 15.00% | ~6 |
 | Breaking free | 13.00% | ~5 |
 | The tragedy unfolds | 13.00% | ~5 |
+| True Reflection | 13.00% | ~5 |
 | A Slice of Life | 10.00% | ~4 |
 | Debut | 10.00% | ~4 |
 | The art of movement | 10.00% | ~4 |
-| True Reflection | 10.00% | ~4 |
 | A new way | 8.00% | ~3 |
 | We Are Not Alone | 8.00% | ~3 |
 | Sound Bite | 8.00% | ~3 |
 | Heavy Burden | 8.00% | ~3 |
 | Whispers long forgotten | 8.00% | ~3 |
 | Another perspective | 5.00% | ~2 |
+| Casting Finished | 5.00% | ~2 |
 | Lights! Camera! Action! | 5.00% | ~2 |
 | The Perfect Storm | 5.00% | ~2 |
 | Fisherman | 5.00% | ~2 |
-| Casting Finished | 3.00% | ~1 |
 | Something to think about | 3.00% | ~1 |
 | Body of Work | 3.00% | ~1 |
 | Full Scoop | 3.00% | ~1 |
 | Se7en Seas | 3.00% | ~1 |
+| A Mosaic of Misery | 3.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |
@@ -55,7 +56,6 @@
 | The Tree and the Apple | 0.00% | ~0 |
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
-| A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 39 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 337)  

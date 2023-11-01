@@ -13,8 +13,8 @@
 | City of Puzzles | 9.00% | ~5 |
 | This field of danger | 9.00% | ~5 |
 | Labyrinths of the Mind | 9.00% | ~5 |
+| A Terrifying Blizzard | 8.00% | ~4 |
 | A Dangerous Road | 6.00% | ~3 |
-| A Terrifying Blizzard | 6.00% | ~3 |
 | Scorched Ruins | 4.00% | ~2 |
 | City of Illusion | 4.00% | ~2 |
 | Kill the Flames | 4.00% | ~2 |

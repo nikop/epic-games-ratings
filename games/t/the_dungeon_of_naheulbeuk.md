@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,712 |
-| Alt+F4 | 7.00% | ~16,411 |
+| Sowwy! | 34.00% | ~79,715 |
+| Alt+F4 | 7.00% | ~16,412 |
 | Where's that freaking Dwarf? | 6.00% | ~14,067 |
-| Déjà vu | 5.00% | ~11,722 |
+| Déjà vu | 5.00% | ~11,723 |
 | A beer, two curses, three companions | 4.00% | ~9,378 |
 | Sock! SOCK! | 4.00% | ~9,378 |
 | GG EZ | 4.00% | ~9,378 |
 | Speedrun | 4.00% | ~9,378 |
-| Way of the Wimp | 3.00% | ~7,033 |
-| The plot thickens... At the tavern | 3.00% | ~7,033 |
-| DM intervention | 3.00% | ~7,033 |
-| Fireproof Wizardess | 3.00% | ~7,033 |
+| Way of the Wimp | 3.00% | ~7,034 |
+| The plot thickens... At the tavern | 3.00% | ~7,034 |
+| DM intervention | 3.00% | ~7,034 |
+| Fireproof Wizardess | 3.00% | ~7,034 |
 | Livin' in a dwarven paradise | 2.00% | ~4,689 |
 | Shiny and Crôm | 2.00% | ~4,689 |
 | The demons' feast | 2.00% | ~4,689 |
@@ -34,15 +34,15 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,689 |
 | Team Building Exercise | 2.00% | ~4,689 |
 | Oh, when I'll be level 10... | 2.00% | ~4,689 |
-| Res Judicata | 1.00% | ~2,344 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,344 |
-| Dwarf Fortress | 1.00% | ~2,344 |
-| %#*!$*! | 1.00% | ~2,344 |
-| Look but don't touch | 1.00% | ~2,344 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,344 |
-| Dead for good | 1.00% | ~2,344 |
-| Lust and Debauchery | 1.00% | ~2,344 |
-| Material Girl | 1.00% | ~2,344 |
+| Res Judicata | 1.00% | ~2,345 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,345 |
+| Dwarf Fortress | 1.00% | ~2,345 |
+| %#*!$*! | 1.00% | ~2,345 |
+| Look but don't touch | 1.00% | ~2,345 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,345 |
+| Dead for good | 1.00% | ~2,345 |
+| Lust and Debauchery | 1.00% | ~2,345 |
+| Material Girl | 1.00% | ~2,345 |
 | Gargantua | 0.90% | ~2,110 |
 | In Navalu's footsteps | 0.80% | ~1,876 |
 | Lëgal Legend | 0.70% | ~1,641 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,447 (Ranked 61)  
+Progressed: 234,455 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 7 (0.00%) (Ranked 337)
 | 2023-10-29 | 233,955 | 7 |
 | 2023-10-30 | 234,124 | 7 |
 | 2023-10-31 | 234,284 | 7 |
-| 2023-11-01 | 234,447 | 7 |
+| 2023-11-01 | 234,455 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 270)  
 Sum: 449 (Ranked 327)  

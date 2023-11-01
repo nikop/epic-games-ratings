@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -349,9 +349,9 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "if_the_suit_fits",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:08:55.0530403+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:08:49.9026831+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:57:36.5655961+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:08:55.053073+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:57:32.7471072+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:08:49.9027054+00:00"
 }

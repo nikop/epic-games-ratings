@@ -57,6 +57,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~467 |
 | The Crumbling Temple | 0.20% | ~467 |
 | Seeking Allies | 0.20% | ~467 |
+| Backtracking Through Barovia | 0.20% | ~467 |
+| Nimble Escape | 0.20% | ~467 |
 | Are Ya Chicken? | 0.20% | ~467 |
 | Useless Allies | 0.20% | ~467 |
 | Excavating History | 0.20% | ~467 |
@@ -83,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bel's Forge | 0.20% | ~399 |
 | Escort to Waterdeep | 0.20% | ~467 |
 | Waterdeep Detours | 0.20% | ~467 |
+| Rude Welcome | 0.20% | ~467 |
 | Friendly Imps | 0.20% | ~467 |
 | Moose Tracks | 0.20% | ~399 |
 | Civilization | 0.20% | ~399 |
@@ -289,11 +292,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~233 |
 | Class Vacation | 0.10% | ~233 |
 | A Nod from Strahd | 0.10% | ~200 |
-| Backtracking Through Barovia | 0.10% | ~233 |
 | Diversity Day-Trip | 0.10% | ~233 |
 | Late Game | 0.10% | ~233 |
 | Shadowfell Stalwarts | 0.10% | ~200 |
-| Nimble Escape | 0.10% | ~233 |
 | Nimblest Escape | 0.10% | ~233 |
 | Stumbling Escape | 0.10% | ~233 |
 | Distracted Escape | 0.10% | ~200 |
@@ -435,7 +436,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Long Haul | 0.10% | ~233 |
 | Lost in the Deep | 0.10% | ~233 |
 | Easily Distracted | 0.10% | ~233 |
-| Rude Welcome | 0.10% | ~233 |
 | Underdeep Cartography | 0.10% | ~233 |
 | Overdue Rendezvous | 0.10% | ~233 |
 | An Awakened Axe | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,390 (Ranked 62)  
-Completed: 2,416 (1.04%) (Ranked 154)  
+Progressed: 233,394 (Ranked 62)  
+Completed: 2,417 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,10 +730,10 @@ Completed: 2,416 (1.04%) (Ranked 154)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,390 | 2,416 |
+| 2023-11-01 | 233,394 | 2,417 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
-Sum: 32,290 (Ranked 41)  
+Sum: 32,292 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -743,7 +743,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,693 |
 | This game has Amazing Characters | 4,189 |
 | This game is Highly Recommended | 4,184 |
-| This game has Playful Visuals | 3,498 |
+| This game has Playful Visuals | 3,500 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1026,4 +1026,4 @@ Diff (max vs sum): 28
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
-| 2023-11-01 | 4.06 | - | 5,465 | 32,290 |
+| 2023-11-01 | 4.06 | - | 5,465 | 32,292 |

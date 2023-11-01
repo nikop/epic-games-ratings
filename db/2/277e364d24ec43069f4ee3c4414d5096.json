@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112963,
+  "EOS_Progressed": 112964,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16446,6 +16446,11 @@
       "Time": "2023-11-01T19:08:39.5818956+00:00",
       "NumProgressed": 112963,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-01T20:08:31.601672+00:00",
+      "NumProgressed": 112964,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -16481,7 +16486,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29370
+      "UsersEstimate": 29371
     },
     {
       "ID": "EAwards_12",
@@ -16489,7 +16494,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16944
+      "UsersEstimate": 16945
     },
     {
       "ID": "EAwards_13",
@@ -16529,7 +16534,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41796
+      "UsersEstimate": 41797
     },
     {
       "ID": "EAwards_18",
@@ -16553,7 +16558,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54222
+      "UsersEstimate": 54223
     },
     {
       "ID": "EAwards_20",
@@ -16848,7 +16853,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112963,
+      "Progressed": 112964,
       "Completed": 48
     }
   ],
@@ -16856,8 +16861,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:08:39.5818949+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:08:31.6016712+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:08.5071847+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:01:18.3568991+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:08:39.5820876+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:02:52.8717928+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:08:31.601837+00:00"
 }

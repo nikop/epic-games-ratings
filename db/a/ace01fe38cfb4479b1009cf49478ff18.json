@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-11-01T17:08:23.5044907+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T20:09:09.6508661+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -82,7 +87,7 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 45,
       "UsersEstimate": 5
     },
@@ -90,7 +95,7 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -98,7 +103,7 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -106,7 +111,7 @@
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -114,7 +119,7 @@
       "ID": "ach_complete_difficulty_extreme",
       "SetID": "d499apg",
       "Name": "Exterminatus",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 175,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 175,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -146,7 +151,7 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 50,
+      "Percentage": 45,
       "XP": 45,
       "UsersEstimate": 5
     },
@@ -154,7 +159,7 @@
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -162,7 +167,7 @@
       "ID": "ach_find_all_secrets_c2",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 2",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "ach_find_all_secrets_c3",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 3",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
       "UsersEstimate": 1
     }
@@ -179,13 +184,13 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:09:11.7936331+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:09:09.6508654+00:00",
   "LastUpdate_AppInfo": "2023-10-27T10:57:14.2684353+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:59:37.4005019+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:09:11.7936452+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:59:58.0596207+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:09:09.6508774+00:00"
 }

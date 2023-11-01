@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 7,
   "EOS_Completed": 0,
@@ -136,9 +138,9 @@
       "ID": "creepytale3_ach_19",
       "SetID": "7idcjbn",
       "Name": "A deal, there is a deal.",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_2",
@@ -200,9 +202,9 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_3",
@@ -224,9 +226,9 @@
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_33",
@@ -240,17 +242,17 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_35",
       "SetID": "7idcjbn",
       "Name": "Heartfelt conversations",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_36",
@@ -341,9 +343,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:04:51.8863084+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:05:09.565967+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7439656+00:00",
-  "LastUpdate_Ratings": "2023-11-01T19:03:20.1905689+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:04:51.8863342+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:03:22.8732014+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:05:09.5659955+00:00"
 }

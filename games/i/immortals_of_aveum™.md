@@ -5,21 +5,21 @@ Rating: 3.98 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 91.00% | ~110 |
-| Battlefields Have Memories | 88.00% | ~106 |
-| Enlisted | 88.00% | ~106 |
+| Unforeseen | 91.00% | ~111 |
+| Battlefields Have Memories | 89.00% | ~109 |
+| Enlisted | 88.00% | ~107 |
 | Maybe Engage a Little | 84.00% | ~102 |
-| No More Names | 69.00% | ~83 |
-| Initiate | 61.00% | ~74 |
-| Thrada-Kul | 56.00% | ~68 |
+| No More Names | 69.00% | ~84 |
+| Initiate | 62.00% | ~76 |
+| Thrada-Kul | 57.00% | ~70 |
 | Gravity-Challenged Rocks | 43.00% | ~52 |
 | All the Major Food Groups | 37.00% | ~45 |
 | Soldier | 36.00% | ~44 |
 | Beggars Would Ride | 32.00% | ~39 |
-| Control is an Illusion | 31.00% | ~38 |
 | Socialite | 31.00% | ~38 |
+| Control is an Illusion | 30.00% | ~37 |
 | The Means to Save It | 25.00% | ~30 |
-| Resilience to Sin | 21.00% | ~25 |
+| Resilience to Sin | 20.00% | ~24 |
 | A Familiar Nest | 20.00% | ~24 |
 | Periapt Alizarin | 20.00% | ~24 |
 | Geas Aristeya | 18.00% | ~22 |
@@ -31,9 +31,9 @@ Rating: 3.98 (Ranked 990)
 | Periapt Viridian | 9.00% | ~11 |
 | Periapt Cerulean | 8.00% | ~10 |
 | Shroudfane Explorer | 8.00% | ~10 |
-| Best Dressed | 7.00% | ~8 |
-| Armaments Azure | 7.00% | ~8 |
-| Armaments Gules | 7.00% | ~8 |
+| Best Dressed | 7.00% | ~9 |
+| Armaments Azure | 7.00% | ~9 |
+| Armaments Gules | 7.00% | ~9 |
 | Scholar | 6.00% | ~7 |
 | Veteran | 5.00% | ~6 |
 | Kitted Out | 4.00% | ~5 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 990)
 | Tip of the Spear | 2.00% | ~2 |
 | Fowl Play | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 388)  
-Completed: 1 (0.83%) (Ranked 167)  
+Progressed: 122 (Ranked 389)  
+Completed: 1 (0.82%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 1 (0.83%) (Ranked 167)
 | 2023-10-29 | 108 | 1 |
 | 2023-10-30 | 112 | 1 |
 | 2023-10-31 | 117 | 1 |
-| 2023-11-01 | 121 | 1 |
+| 2023-11-01 | 122 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

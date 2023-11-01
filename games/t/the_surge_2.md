@@ -5,16 +5,16 @@ Rating: 4.24 (Ranked 871)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,686 |
-| Don't I Know You...? | 77.00% | ~1,623 |
-| Jailbreak | 66.00% | ~1,391 |
-| Suited and Booted | 39.00% | ~822 |
-| HEADSHOT! | 38.00% | ~801 |
-| Sleeping With The Fishes | 36.00% | ~759 |
-| Overheated | 30.00% | ~632 |
-| High Performance | 30.00% | ~632 |
-| Powered Up | 28.00% | ~590 |
-| Studied The Blade | 25.00% | ~527 |
+| Rigged And Ready | 80.00% | ~1,688 |
+| Don't I Know You...? | 77.00% | ~1,625 |
+| Jailbreak | 66.00% | ~1,393 |
+| Suited and Booted | 39.00% | ~823 |
+| HEADSHOT! | 38.00% | ~802 |
+| Sleeping With The Fishes | 36.00% | ~760 |
+| Overheated | 30.00% | ~633 |
+| High Performance | 30.00% | ~633 |
+| Powered Up | 28.00% | ~591 |
+| Studied The Blade | 25.00% | ~528 |
 | Home Invasion | 23.00% | ~485 |
 | Luminary | 23.00% | ~485 |
 | It's a Trap | 22.00% | ~464 |
@@ -24,8 +24,8 @@ Rating: 4.24 (Ranked 871)
 | Unforeseeable Consequences | 20.00% | ~422 |
 | Court Martial | 19.00% | ~401 |
 | Clean Cut | 19.00% | ~401 |
-| Dead Again | 18.00% | ~379 |
-| Full Arsenal | 17.00% | ~358 |
+| Dead Again | 18.00% | ~380 |
+| Full Arsenal | 17.00% | ~359 |
 | Can't Trust Banks | 15.00% | ~316 |
 | Mommy Dearest | 14.00% | ~295 |
 | Bad Dog | 14.00% | ~295 |
@@ -42,14 +42,14 @@ Rating: 4.24 (Ranked 871)
 | A Little Banged Up | 8.00% | ~169 |
 | Following In Their Footsteps | 8.00% | ~169 |
 | Reverse Engineering | 7.00% | ~148 |
-| Reborn | 6.00% | ~126 |
-| Remote Surgery | 6.00% | ~126 |
-| Turbo Booster | 6.00% | ~126 |
-| Juiced Up | 6.00% | ~126 |
-| Squid Pro Quo | 6.00% | ~126 |
-| Hello Darkness My Old Friend | 5.00% | ~105 |
-| Counter-Sniper | 5.00% | ~105 |
-| Shrimp Cocktail | 5.00% | ~105 |
+| Reborn | 6.00% | ~127 |
+| Remote Surgery | 6.00% | ~127 |
+| Turbo Booster | 6.00% | ~127 |
+| Juiced Up | 6.00% | ~127 |
+| Squid Pro Quo | 6.00% | ~127 |
+| Hello Darkness My Old Friend | 5.00% | ~106 |
+| Counter-Sniper | 5.00% | ~106 |
+| Shrimp Cocktail | 5.00% | ~106 |
 | Geronimo! | 4.00% | ~84 |
 | Homewrecker | 4.00% | ~84 |
 | Plank of Wood | 4.00% | ~84 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 871)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,108 (Ranked 212)  
+Progressed: 2,110 (Ranked 212)  
 Completed: 13 (0.62%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 13 (0.62%) (Ranked 175)
 | 2023-10-26 | 2,095 | 12 |
 | 2023-10-27 | 2,096 | 13 |
 | 2023-10-31 | 2,098 | 13 |
-| 2023-11-01 | 2,108 | 13 |
+| 2023-11-01 | 2,110 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

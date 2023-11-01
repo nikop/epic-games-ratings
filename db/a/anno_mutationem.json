@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -557,6 +557,11 @@
       "Time": "2023-10-22T22:03:25.0490399+00:00",
       "NumProgressed": 678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T20:07:27.576818+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -592,7 +597,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Clarity_of_Mind",
@@ -600,7 +605,7 @@
       "Name": "Clarity of Mind",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Club_Star",
@@ -696,7 +701,7 @@
       "Name": "Omnipotence",
       "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SERENITY_NOW",
@@ -728,7 +733,7 @@
       "Name": "Supreme Bartender Ann",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Tell_me_your_story",
@@ -736,7 +741,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -776,7 +781,7 @@
       "Name": "The Warlord",
       "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -784,7 +789,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "The_truth_is_out_there",
@@ -792,7 +797,7 @@
       "Name": "The truth is out there",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "This_cant_be_right",
@@ -855,7 +860,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 0
     }
   ],
@@ -863,8 +868,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:06:48.2989141+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:07:27.5768174+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:12.9598658+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:59:23.6679036+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:06:48.2989631+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:59:43.7000624+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:07:27.5768487+00:00"
 }

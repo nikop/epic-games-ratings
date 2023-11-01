@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1537,
+  "EOS_Progressed": 1538,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3269,6 +3269,11 @@
       "Time": "2023-11-01T15:08:20.1107837+00:00",
       "NumProgressed": 1537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T20:08:41.2410846+00:00",
+      "NumProgressed": 1538,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3304,7 +3309,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Boy",
@@ -3392,7 +3397,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "Hard_Serpent",
@@ -3488,7 +3493,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "War_never_changes",
@@ -3519,15 +3524,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1537,
+      "Progressed": 1538,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-01T19:08:47.6877826+00:00",
+  "LastChanged_Achievements": "2023-11-01T20:08:41.241084+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:59:56.0754244+00:00",
-  "LastUpdate_Achievements": "2023-11-01T19:08:47.6878508+00:00"
+  "LastUpdate_Ratings": "2023-11-01T20:00:18.8505308+00:00",
+  "LastUpdate_Achievements": "2023-11-01T20:08:41.2411259+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.56 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 76.00% | ~515 |
+| Tell me your story | 76.00% | ~516 |
 | Don't judge a manhole by its cover | 60.00% | ~407 |
 | I just love stuff! | 43.00% | ~292 |
 | Keep 'em coming! | 43.00% | ~292 |
-| The things they print nowadays | 40.00% | ~271 |
-| Big Spender | 39.00% | ~264 |
+| The things they print nowadays | 40.00% | ~272 |
+| Big Spender | 39.00% | ~265 |
 | That's gotta hurt | 37.00% | ~251 |
 | I think it's broke | 27.00% | ~183 |
 | The Ann Flores Combo Experience | 27.00% | ~183 |
 | Club Star | 25.00% | ~170 |
-| Omnipotence | 21.00% | ~142 |
-| The Warlord | 21.00% | ~142 |
+| Omnipotence | 21.00% | ~143 |
+| The Warlord | 21.00% | ~143 |
 | Fire in the hole! | 20.00% | ~136 |
 | You are the One | 20.00% | ~136 |
 | Deadly Kombationem | 19.00% | ~129 |
-| The truth is out there | 16.00% | ~108 |
+| The truth is out there | 16.00% | ~109 |
 | Annakin Skyscroller | 14.00% | ~95 |
 | Arm Wrestlin' | 10.00% | ~68 |
 | In the smacker...I think | 10.00% | ~68 |
@@ -29,8 +29,8 @@ Rating: 4.56 (Ranked 481)
 | I'm walking here! | 8.00% | ~54 |
 | So Fresh and So clean clean | 8.00% | ~54 |
 | Welcome home, 06 | 8.00% | ~54 |
-| Clarity of Mind | 7.00% | ~47 |
-| Supreme Bartender Ann | 7.00% | ~47 |
+| Clarity of Mind | 7.00% | ~48 |
+| Supreme Bartender Ann | 7.00% | ~48 |
 | I feel secure, contained & protected | 6.00% | ~41 |
 | Science, it works! | 6.00% | ~41 |
 | The Traveler | 6.00% | ~41 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 481)
 | Love me like I love my posters | 0.90% | ~6 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678 (Ranked 270)  
+Progressed: 679 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-12 | 676 | 0 |
 | 2023-10-20 | 677 | 0 |
 | 2023-10-22 | 678 | 0 |
+| 2023-11-01 | 679 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
