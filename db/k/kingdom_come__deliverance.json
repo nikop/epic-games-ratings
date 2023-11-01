@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8241,7 +8241,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806704,
+  "EOS_Progressed": 806706,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
@@ -30016,6 +30016,11 @@
       "Time": "2023-10-31T23:06:23.373369+00:00",
       "NumProgressed": 806704,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-01T00:04:57.2826256+00:00",
+      "NumProgressed": 806706,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30107,7 +30112,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258145
+      "UsersEstimate": 258146
     },
     {
       "ID": "Bookworm",
@@ -30123,7 +30128,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96804
+      "UsersEstimate": 96805
     },
     {
       "ID": "Casanova",
@@ -30187,7 +30192,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80670
+      "UsersEstimate": 80671
     },
     {
       "ID": "DavidHorak",
@@ -30307,7 +30312,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72603
+      "UsersEstimate": 72604
     },
     {
       "ID": "HardcoreHenry",
@@ -30563,7 +30568,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88737
+      "UsersEstimate": 88738
     },
     {
       "ID": "Sniper",
@@ -30603,7 +30608,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96804
+      "UsersEstimate": 96805
     },
     {
       "ID": "TisButAScratch",
@@ -30635,7 +30640,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88737
+      "UsersEstimate": 88738
     },
     {
       "ID": "TrialAndError",
@@ -30682,15 +30687,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806704,
+      "Progressed": 806706,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-10-31T16:58:01.2669523+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:06:23.3733684+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:04:57.282625+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:14.6949247+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:58:24.0009083+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:06:23.3736035+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:57:54.2060525+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:04:57.2828425+00:00"
 }

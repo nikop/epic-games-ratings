@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clean Conscience | 35.00% | ~92 |
-| So it goes | 34.00% | ~89 |
-| A New Broom Sweeps Clean | 18.00% | ~47 |
+| So it goes | 33.00% | ~87 |
+| A New Broom Sweeps Clean | 17.00% | ~45 |
 | Off to a Good Start | 16.00% | ~42 |
 | Small-time Finder | 16.00% | ~42 |
 | Business as usual | 13.00% | ~34 |
@@ -14,23 +14,23 @@
 | Pride and Joy | 9.00% | ~24 |
 | Eyes Yet To Open | 7.00% | ~18 |
 | Hackathon | 6.00% | ~16 |
-| All the Stories | 4.00% | ~10 |
-| Total Recall | 4.00% | ~10 |
-| Witness Protection | 4.00% | ~10 |
-| The Wing and the Thigh | 4.00% | ~10 |
+| All the Stories | 4.00% | ~11 |
+| Total Recall | 4.00% | ~11 |
+| Witness Protection | 4.00% | ~11 |
+| The Wing and the Thigh | 4.00% | ~11 |
 | Something Rotten | 3.00% | ~8 |
 | Blood Capade | 2.00% | ~5 |
-| The Crush And Smash The Dino Four | 2.00% | ~2 |
-| … Women Inherit The Earth | 2.00% | ~2 |
+| The Crush And Smash The Dino Four | 2.00% | ~3 |
+| … Women Inherit The Earth | 2.00% | ~3 |
 | Bee Squat | 1.00% | ~3 |
 | Crazy SOB, You Did It | 0.80% | ~1 |
 | The Germophobes | 0.80% | ~2 |
-| Do-you-think-he-saurus | 0.40% | ~0 |
-| Cha Cha Real Smooth | 0.40% | ~0 |
-| That’s One Big Pile | 0.40% | ~0 |
+| Do-you-think-he-saurus | 0.40% | ~1 |
+| Cha Cha Real Smooth | 0.40% | ~1 |
+| That’s One Big Pile | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 338)  
-Completed: 6 (2.29%) (Ranked 117)  
+Progressed: 263 (Ranked 339)  
+Completed: 6 (2.28%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 6 (2.29%) (Ranked 117)
 | 2023-10-28 | 258 | 6 |
 | 2023-10-29 | 261 | 6 |
 | 2023-10-30 | 262 | 6 |
+| 2023-11-01 | 263 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 121,
@@ -2949,9 +2949,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29304,
+  "EOS_Progressed": 29316,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1787,
+  "EOS_NewPlayers": 1794,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17314,6 +17314,11 @@
       "Time": "2023-10-31T23:05:20.8841225+00:00",
       "NumProgressed": 29304,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-01T00:04:13.8706802+00:00",
+      "NumProgressed": 29316,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17325,7 +17330,7 @@
       "Name": "Advancement",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "Animated",
@@ -17413,7 +17418,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "Dont_Need_These",
@@ -17437,7 +17442,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "Escape_Artist",
@@ -17581,7 +17586,7 @@
       "Name": "Rivalry",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "Seasoned",
@@ -17603,9 +17608,9 @@
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 586
     },
     {
       "ID": "Solo_Capture",
@@ -17629,7 +17634,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "Summoner",
@@ -17732,7 +17737,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29304,
+      "Progressed": 29316,
       "Completed": 65
     }
   ],
@@ -17740,8 +17745,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-10-31T22:01:13.8831308+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:05:20.884122+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:04:13.8706797+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:01:31.522876+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:05:20.8843101+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:59:54.6766825+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:04:13.8708114+00:00"
 }

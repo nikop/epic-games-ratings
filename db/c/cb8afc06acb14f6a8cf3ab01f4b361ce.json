@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -269,9 +269,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 297037,
+  "EOS_Progressed": 297066,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7925,
+  "EOS_NewPlayers": 7926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4254,6 +4254,11 @@
       "Time": "2023-10-31T23:04:11.9977347+00:00",
       "NumProgressed": 297037,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T00:03:26.1380713+00:00",
+      "NumProgressed": 297066,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -4266,7 +4271,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 106933
+      "UsersEstimate": 106944
     },
     {
       "ID": "S02_BRDA",
@@ -4274,7 +4279,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 71289
+      "UsersEstimate": 71296
     },
     {
       "ID": "S03_OTWA",
@@ -4282,7 +4287,7 @@
       "Name": "Rumors are true",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 17822
+      "UsersEstimate": 17824
     },
     {
       "ID": "S04_BRDC",
@@ -4290,7 +4295,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14852
+      "UsersEstimate": 14853
     },
     {
       "ID": "S05_SWRA",
@@ -4298,7 +4303,7 @@
       "Name": "Back to your senses",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8911
+      "UsersEstimate": 8912
     },
     {
       "ID": "S06_LWTC",
@@ -4306,7 +4311,7 @@
       "Name": "They tricked me",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8911
+      "UsersEstimate": 8912
     },
     {
       "ID": "S07_INWA",
@@ -4330,7 +4335,7 @@
       "Name": "Here to stay",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "S10_GRSB",
@@ -4338,7 +4343,7 @@
       "Name": "Counting on you",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "S11_MMR6",
@@ -4346,7 +4351,7 @@
       "Name": "This is the end",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "S12_ALL",
@@ -4354,7 +4359,7 @@
       "Name": "We can choose to fight",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "S13_ALL_HARD",
@@ -4402,7 +4407,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 112874
+      "UsersEstimate": 112885
     },
     {
       "ID": "S19_CHALLENGES",
@@ -4434,7 +4439,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8911
+      "UsersEstimate": 8912
     },
     {
       "ID": "S23_ETHEREAL",
@@ -4458,7 +4463,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14852
+      "UsersEstimate": 14853
     },
     {
       "ID": "S26_CRTA",
@@ -4474,7 +4479,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2970
+      "UsersEstimate": 2971
     },
     {
       "ID": "S28_CTHB",
@@ -4490,7 +4495,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17822
+      "UsersEstimate": 17824
     },
     {
       "ID": "S30_DIAMOND",
@@ -4498,7 +4503,7 @@
       "Name": "Bring it on!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14852
+      "UsersEstimate": 14853
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -4578,14 +4583,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32674
+      "UsersEstimate": 32677
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 297037,
+      "Progressed": 297066,
       "Completed": 1
     }
   ],
@@ -4593,8 +4598,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-10-28T18:00:39.0102074+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:04:11.9977342+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:03:26.1380707+00:00",
   "LastUpdate_AppInfo": "2023-10-26T17:57:10.8044416+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:58:13.7446122+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:04:11.9978107+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:57:47.6165933+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:03:26.1381269+00:00"
 }

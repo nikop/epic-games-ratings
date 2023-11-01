@@ -5,15 +5,15 @@ Rating: 4.10 (Ranked 952)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,941 |
-| World Map | 79.00% | ~1,649 |
+| Victor | 93.00% | ~1,942 |
+| World Map | 79.00% | ~1,650 |
 | Temple of Eternals | 57.00% | ~1,190 |
-| Prestigious | 54.00% | ~1,127 |
+| Prestigious | 54.00% | ~1,128 |
 | Fellowship Power | 42.00% | ~877 |
 | Guild Power | 26.00% | ~543 |
 | Prestigious x10 | 23.00% | ~480 |
 | The game is on | 21.00% | ~438 |
-| Exotic Merchant | 20.00% | ~417 |
+| Exotic Merchant | 20.00% | ~418 |
 | Dragon Clicker | 18.00% | ~376 |
 | Full Party | 17.00% | ~355 |
 | Inspection | 17.00% | ~355 |
@@ -28,8 +28,8 @@ Rating: 4.10 (Ranked 952)
 | Natural Talent | 14.00% | ~292 |
 | Superior | 14.00% | ~292 |
 | Scientist | 13.00% | ~271 |
-| Hunter | 12.00% | ~250 |
-| The power of Awakening | 12.00% | ~250 |
+| Hunter | 12.00% | ~251 |
+| The power of Awakening | 12.00% | ~251 |
 | Challenger | 11.00% | ~230 |
 | Daily Quest Completionist | 11.00% | ~230 |
 | Doing My Part | 11.00% | ~230 |
@@ -61,9 +61,9 @@ Rating: 4.10 (Ranked 952)
 | Legendary | 6.00% | ~125 |
 | Arena Challenger | 5.00% | ~104 |
 | Ebony Jungle Liberator | 5.00% | ~104 |
-| Gear Enchanting | 4.00% | ~83 |
-| Mythic Power | 4.00% | ~83 |
-| What lies behind the bush | 4.00% | ~83 |
+| Gear Enchanting | 4.00% | ~84 |
+| Mythic Power | 4.00% | ~84 |
+| What lies behind the bush | 4.00% | ~84 |
 | Guardian Master | 3.00% | ~63 |
 | Cauldron Liberator | 2.00% | ~42 |
 | Enchanting skill x5 | 2.00% | ~42 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 952)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,087 (Ranked 213)  
+Progressed: 2,088 (Ranked 213)  
 Completed: 2 (0.10%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,6 +271,7 @@ Completed: 2 (0.10%) (Ranked 261)
 | 2023-10-29 | 2,082 | 2 |
 | 2023-10-30 | 2,084 | 2 |
 | 2023-10-31 | 2,087 | 2 |
+| 2023-11-01 | 2,088 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 487)  
 Sum: 79 (Ranked 452)  

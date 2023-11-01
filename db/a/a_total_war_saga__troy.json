@@ -2,13 +2,13 @@
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
   "ProductSlug": "a-total-war-saga-troy",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2020-08-13T13:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:00:00+00:00",
@@ -6613,10 +6613,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 12252,
       "NumberOfAwardsMax": 1806
+    },
+    {
+      "Time": "2023-10-31T23:59:57.0432702+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 12253,
+      "NumberOfAwardsMax": 1806
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12252,
+  "NumberOfAwards": 12253,
   "NumberOfAwardsMax": 1806,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6648,7 +6654,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1526
+      "Count": 1527
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6686,8 +6692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2023-10-31T21:00:07.373688+00:00",
+  "LastChanged": "2023-10-31T23:59:57.0432701+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:20.5039884+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:01:35.887395+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:07:23.9385961+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:59:57.0432707+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:05:39.5199853+00:00"
 }

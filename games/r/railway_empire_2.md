@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 657)
 | Facility Manager | 53.00% | ~1,102 |
 | Producer | 50.00% | ~1,040 |
 | Apprentice | 42.00% | ~874 |
-| Bridge Builder | 41.00% | ~853 |
+| Bridge Builder | 42.00% | ~874 |
 | Access granted | 35.00% | ~728 |
 | Going once, going twice, sold | 35.00% | ~728 |
 | Bull and bear | 34.00% | ~707 |

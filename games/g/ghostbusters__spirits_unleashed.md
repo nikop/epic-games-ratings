@@ -1,14 +1,14 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 581)  
+Rating: 4.50 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,758 |
-| Advancement | 4.00% | ~1,172 |
-| Discovery | 4.00% | ~1,172 |
-| Meticulously Efficient | 4.00% | ~1,172 |
+| Stylish | 6.00% | ~1,759 |
+| Advancement | 4.00% | ~1,173 |
+| Discovery | 4.00% | ~1,173 |
+| Meticulously Efficient | 4.00% | ~1,173 |
 | Clutch Capture | 3.00% | ~879 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~879 |
 | Cultured | 3.00% | ~879 |
@@ -31,6 +31,7 @@ Rating: 4.50 (Ranked 581)
 | Right back at ya | 2.00% | ~586 |
 | Seasoned | 2.00% | ~586 |
 | Side Hustle | 2.00% | ~586 |
+| Skilled | 2.00% | ~586 |
 | Stunner | 2.00% | ~586 |
 | Summoner | 2.00% | ~586 |
 | Welcome to the Crew | 2.00% | ~586 |
@@ -38,11 +39,10 @@ Rating: 4.50 (Ranked 581)
 | Escape Artist | 1.00% | ~293 |
 | Reckless | 1.00% | ~293 |
 | Rift Destroyer | 1.00% | ~293 |
-| Skilled | 1.00% | ~293 |
 | Terrifying | 1.00% | ~293 |
 | Tobin's Prodigy | 1.00% | ~293 |
 | Diabolical | 0.90% | ~264 |
-| Rivalry | 0.80% | ~234 |
+| Rivalry | 0.80% | ~235 |
 | Fragile Panes | 0.70% | ~205 |
 | Liability | 0.70% | ~205 |
 | Surprise! | 0.70% | ~205 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 581)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,304 (Ranked 121)  
+Progressed: 29,316 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
+| 2023-11-01 | 29,316 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,637 (Ranked 180)  

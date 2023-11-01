@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -1484,8 +1484,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:06:32.4708326+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:05:03.821038+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:57:52.7487097+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:06:32.4709465+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:57:31.4180732+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:05:03.8211371+00:00"
 }

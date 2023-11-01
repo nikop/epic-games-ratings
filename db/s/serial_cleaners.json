@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.29,
+  "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -574,6 +574,11 @@
       "Time": "2023-10-30T18:07:38.5443617+00:00",
       "NumProgressed": 262,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-01T00:06:27.5431855+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -585,7 +590,7 @@
       "Name": "All the Stories",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ALL_MEMORIES",
@@ -593,7 +598,7 @@
       "Name": "Total Recall",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BOB_SLIDE",
@@ -641,7 +646,7 @@
       "Name": "Witness Protection",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -655,9 +660,9 @@
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -681,7 +686,7 @@
       "Name": "Do-you-think-he-saurus",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT03",
@@ -689,7 +694,7 @@
       "Name": "Cha Cha Real Smooth",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT04",
@@ -697,7 +702,7 @@
       "Name": "That\u2019s One Big Pile",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT05",
@@ -705,7 +710,7 @@
       "Name": "The Crush And Smash The Dino Four",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DLC01_ACHIEVEMENT06",
@@ -713,7 +718,7 @@
       "Name": "\u2026 Women Inherit The Earth",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LATI_SPRAY",
@@ -727,9 +732,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -753,7 +758,7 @@
       "Name": "The Wing and the Thigh",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TUTORIAL_COMPLETE",
@@ -776,13 +781,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 6
     }
   ],
@@ -790,8 +795,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:08:32.670781+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:06:27.5431845+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.9161826+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:58:20.7890488+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:08:32.6708033+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:57:52.2273989+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:06:27.5432102+00:00"
 }

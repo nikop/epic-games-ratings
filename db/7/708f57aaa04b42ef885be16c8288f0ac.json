@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3594,
+  "EOS_Progressed": 3597,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2082,
+  "EOS_NewPlayers": 2077,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1565,6 +1565,11 @@
       "Time": "2023-10-31T23:09:03.0430468+00:00",
       "NumProgressed": 3594,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T00:08:28.2045715+00:00",
+      "NumProgressed": 3597,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1585,7 +1590,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "BeLikeWater",
@@ -1617,7 +1622,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Eavesdropper",
@@ -1721,7 +1726,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "NoMoreTotems",
@@ -1769,7 +1774,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "TheQuarterback",
@@ -1777,7 +1782,7 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ThisIsDharma",
@@ -1848,7 +1853,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3594,
+      "Progressed": 3597,
       "Completed": 2
     }
   ],
@@ -1856,8 +1861,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-31T19:00:56.8787797+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:09:03.0430462+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:08:28.2045713+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-10-31T23:01:41.3538149+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:09:03.0430823+00:00"
+  "LastUpdate_Ratings": "2023-11-01T00:00:00.3632762+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:08:28.204601+00:00"
 }

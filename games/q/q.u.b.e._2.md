@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~26,428 |
-| Quick Understanding of Block Extrusion | 68.00% | ~23,961 |
-| Nature or Nurture | 51.00% | ~17,971 |
-| Power Glove | 49.00% | ~17,266 |
-| Forgotten Memories | 42.00% | ~14,800 |
-| Cogs in the Machine | 35.00% | ~12,333 |
-| Mission Success | 21.00% | ~7,400 |
-| There's No Place Like Home | 21.00% | ~7,400 |
-| Green Cube Killer | 18.00% | ~6,343 |
-| Path to Salvation | 15.00% | ~5,286 |
-| Infinity Loop | 14.00% | ~4,933 |
-| Descendants | 12.00% | ~4,228 |
-| The Flawed Teacher | 10.00% | ~3,524 |
+| Lost in Space | 75.00% | ~26,435 |
+| Quick Understanding of Block Extrusion | 68.00% | ~23,968 |
+| Nature or Nurture | 51.00% | ~17,976 |
+| Power Glove | 49.00% | ~17,271 |
+| Forgotten Memories | 42.00% | ~14,804 |
+| Cogs in the Machine | 35.00% | ~12,336 |
+| Mission Success | 21.00% | ~7,402 |
+| There's No Place Like Home | 21.00% | ~7,402 |
+| Green Cube Killer | 18.00% | ~6,344 |
+| Path to Salvation | 15.00% | ~5,287 |
+| Infinity Loop | 14.00% | ~4,935 |
+| Descendants | 12.00% | ~4,230 |
+| The Flawed Teacher | 10.00% | ~3,525 |
 | To Infinity and Beyond | 5.00% | ~1,762 |
-| The Truthful Enemy | 4.00% | ~1,409 |
+| The Truthful Enemy | 4.00% | ~1,410 |
 | Laser Sharp | 2.00% | ~705 |
 | Bronze collector | 1.00% | ~352 |
 | Home Stretch | 1.00% | ~352 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.70% | ~247 |
 | Expert Collector | 0.70% | ~247 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,237 (Ranked 120)  
+Progressed: 35,247 (Ranked 120)  
 Completed: 106 (0.30%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 106 (0.30%) (Ranked 216)
 | 2023-10-29 | 34,610 | 101 |
 | 2023-10-30 | 34,937 | 101 |
 | 2023-10-31 | 35,237 | 106 |
+| 2023-11-01 | 35,247 | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

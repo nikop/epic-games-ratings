@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 759,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1288,9 +1288,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 311
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1400,9 +1400,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 250
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1608,9 +1608,9 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 402
     }
   ],
   "AchievementSets": [
@@ -1629,8 +1629,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:08:01.0712893+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:06:05.0945995+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:58:43.9019588+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:08:01.071334+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:58:08.260914+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:06:05.094639+00:00"
 }

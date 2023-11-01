@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~91 |
-| Press-ganged | 42.00% | ~67 |
+| A Second Chance | 57.00% | ~92 |
+| Press-ganged | 42.00% | ~68 |
 | The Package | 27.00% | ~43 |
 | Conquered | 18.00% | ~29 |
 | Randomized | 17.00% | ~27 |
@@ -34,23 +34,23 @@
 | Inquisitions of Discord | 4.00% | ~6 |
 | Trouble at Fort Larius | 4.00% | ~6 |
 | Bounty Hunter | 3.00% | ~5 |
-| Supercargo | 3.00% | ~5 |
-| Despised | 3.00% | ~5 |
-| Business As Usual | 3.00% | ~5 |
-| Life... Finds a Way | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
-| Insectoid Propagator | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
+| Supercargo | 2.00% | ~3 |
 | Talent Nurtured | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
+| Despised | 2.00% | ~3 |
+| Business As Usual | 2.00% | ~3 |
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Moving At Odd Angles | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | A Real Battle | 2.00% | ~3 |
 | The Darkness Within | 2.00% | ~3 |
+| Life... Finds a Way | 2.00% | ~3 |
 | Merchant Lord | 2.00% | ~3 |
 | Voracity Confronted | 2.00% | ~3 |
+| Insectoid Propagator | 2.00% | ~3 |
 | Watcher | 1.00% | ~2 |
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 372)  
+Progressed: 161 (Ranked 371)  
 Completed: 0 (0.00%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 333)
 | 2023-10-11 | 158 | 0 |
 | 2023-10-17 | 159 | 0 |
 | 2023-10-28 | 160 | 0 |
+| 2023-11-01 | 161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

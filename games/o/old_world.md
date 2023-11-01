@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
 | Cataphract Archer | 0.50% | ~75 |
+| Kush | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
 | Old | 0.40% | ~60 |
 | Peacemaker | 0.40% | ~60 |
@@ -151,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
 | Greater Kmt Unified | 0.40% | ~60 |
-| Kush | 0.40% | ~60 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
 | Glorious Difficulty | 0.30% | ~45 |

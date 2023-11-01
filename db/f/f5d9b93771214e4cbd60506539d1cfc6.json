@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150741,
+  "EOS_Progressed": 150744,
   "EOS_Completed": 317,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1006,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16473,6 +16473,11 @@
       "Time": "2023-10-31T23:04:17.7495246+00:00",
       "NumProgressed": 150741,
       "NumCompleted": 317
+    },
+    {
+      "Time": "2023-11-01T00:03:30.0692821+00:00",
+      "NumProgressed": 150744,
+      "NumCompleted": 317
     }
   ],
   "TotalAchievements": 31,
@@ -16492,7 +16497,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105519
+      "UsersEstimate": 105521
     },
     {
       "ID": "EAwards_10",
@@ -16524,7 +16529,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "EAwards_14",
@@ -16532,7 +16537,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58789
+      "UsersEstimate": 58790
     },
     {
       "ID": "EAwards_15",
@@ -16556,7 +16561,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33163
+      "UsersEstimate": 33164
     },
     {
       "ID": "EAwards_18",
@@ -16564,7 +16569,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33163
+      "UsersEstimate": 33164
     },
     {
       "ID": "EAwards_19",
@@ -16580,7 +16585,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42207
+      "UsersEstimate": 42208
     },
     {
       "ID": "EAwards_20",
@@ -16588,7 +16593,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 12059
+      "UsersEstimate": 12060
     },
     {
       "ID": "EAwards_21",
@@ -16684,7 +16689,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22611
+      "UsersEstimate": 22612
     },
     {
       "ID": "EAwards_5",
@@ -16700,7 +16705,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37685
+      "UsersEstimate": 37686
     },
     {
       "ID": "EAwards_7",
@@ -16716,7 +16721,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55774
+      "UsersEstimate": 55775
     },
     {
       "ID": "EAwards_9",
@@ -16731,7 +16736,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150741,
+      "Progressed": 150744,
       "Completed": 317
     }
   ],
@@ -16739,8 +16744,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:04:17.7495229+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:03:30.0692816+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:58:18.064895+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:04:17.7496733+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:57:50.6071954+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:03:30.069402+00:00"
 }

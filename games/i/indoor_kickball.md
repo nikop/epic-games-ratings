@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Hat Unlocked | 84.00% | ~82 |
 | Accessory Unlocked | 83.00% | ~81 |
+| Butter Fingers | 77.00% | ~75 |
 | Character Unlocked | 76.00% | ~74 |
 | Homer | 76.00% | ~74 |
-| Butter Fingers | 76.00% | ~74 |
 | Have a good trip! | 72.00% | ~71 |
 | Kickball Unlocked | 70.00% | ~69 |
 | Settle Down | 70.00% | ~69 |
@@ -19,7 +19,7 @@
 | Kick It | 33.00% | ~32 |
 | At least everyone still had fun | 32.00% | ~31 |
 | Classroom Secret Spot | 30.00% | ~29 |
-| Spooky | 28.00% | ~27 |
+| Spooky | 29.00% | ~28 |
 | Grand Slam! | 27.00% | ~26 |
 | Save some water for the fishies | 23.00% | ~23 |
 | Bathroom Secret Spot | 23.00% | ~23 |

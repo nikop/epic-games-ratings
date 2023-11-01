@@ -2,13 +2,13 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 713,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 434,
-  "Ranking_EOS_NewCompleters": 116,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 115,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -7925,10 +7925,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 10879,
       "NumberOfAwardsMax": 2944
+    },
+    {
+      "Time": "2023-10-31T23:58:23.8642477+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 10885,
+      "NumberOfAwardsMax": 2944
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10879,
+  "NumberOfAwards": 10885,
   "NumberOfAwardsMax": 2944,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7954,7 +7960,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 562
+      "Count": 564
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7996,7 +8002,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 571
+      "Count": 575
     },
     {
       "Text": "This game has a Kind Community",
@@ -8029,8 +8035,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-10-31T20:58:29.0687885+00:00",
+  "LastChanged": "2023-10-31T23:58:23.8642476+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:40.6705483+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:59:08.5396918+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:04:46.2718739+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:58:23.8642482+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:03:49.6532469+00:00"
 }

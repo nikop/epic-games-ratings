@@ -701,9 +701,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 680360,
+  "EOS_Progressed": 680361,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 2439,
+  "EOS_NewPlayers": 2430,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22836,6 +22836,11 @@
       "Time": "2023-10-31T23:08:59.2021678+00:00",
       "NumProgressed": 680360,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-01T00:08:25.4352263+00:00",
+      "NumProgressed": 680361,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 52,
@@ -22919,7 +22924,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129268
+      "UsersEstimate": 129269
     },
     {
       "ID": "CHAPTER3",
@@ -22935,7 +22940,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95250
+      "UsersEstimate": 95251
     },
     {
       "ID": "CHAPTER5",
@@ -23262,7 +23267,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 680360,
+      "Progressed": 680361,
       "Completed": 81
     }
   ],
@@ -23270,8 +23275,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-31T15:00:06.2960079+00:00",
-  "LastChanged_Achievements": "2023-10-31T23:08:59.2021672+00:00",
+  "LastChanged_Achievements": "2023-11-01T00:08:25.4352258+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:01.260967+00:00",
-  "LastUpdate_Ratings": "2023-10-31T22:59:41.7274365+00:00",
-  "LastUpdate_Achievements": "2023-10-31T23:08:59.2023528+00:00"
+  "LastUpdate_Ratings": "2023-10-31T23:58:44.9968532+00:00",
+  "LastUpdate_Achievements": "2023-11-01T00:08:25.4354033+00:00"
 }
