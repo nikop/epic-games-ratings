@@ -388,9 +388,9 @@
       "ID": "ach30",
       "SetID": "baneh2j",
       "Name": "Found!",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach31",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:53:46.9974135+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:26:16.9151203+00:00",
   "LastUpdate_AppInfo": "2023-10-25T03:57:36.2282355+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:47:52.4760429+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:53:46.9974624+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:20:30.5437749+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:26:16.9151488+00:00"
 }

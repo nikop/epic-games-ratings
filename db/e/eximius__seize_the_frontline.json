@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199325,
+  "EOS_Progressed": 199326,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21032,6 +21032,11 @@
       "Time": "2023-11-01T01:51:57.7118016+00:00",
       "NumProgressed": 199325,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-01T02:24:51.2743907+00:00",
+      "NumProgressed": 199326,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -21075,7 +21080,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35878
+      "UsersEstimate": 35879
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -21147,7 +21152,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3986
+      "UsersEstimate": 3987
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -21170,7 +21175,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199325,
+      "Progressed": 199326,
       "Completed": 4
     }
   ],
@@ -21178,8 +21183,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:51:57.7118007+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:24:51.2743901+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.8845341+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:48:28.236921+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:51:57.7119419+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:20:59.1627852+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:24:51.2745696+00:00"
 }

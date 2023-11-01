@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slack-jawed Lorna | 0.20% | ~399 |
 | The Fairy Rings of Thither | 0.20% | ~399 |
 | The Roots of Loomlurch | 0.20% | ~399 |
+| Best Laid Plans | 0.20% | ~399 |
 | Overwhelmed with Knowledge | 0.20% | ~399 |
 | A Demi-god's Defender | 0.20% | ~399 |
 | Vecna Loots! | 0.20% | ~399 |
@@ -154,7 +155,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Loots of Loomlurch | 0.10% | ~200 |
 | The Lutes of Loomlurch | 0.10% | ~200 |
 | Supply Run | 0.10% | ~233 |
-| Best Laid Plans | 0.10% | ~200 |
 | Pincushion Party | 0.10% | ~200 |
 | G. O. A. T. | 0.10% | ~200 |
 | The Howling Peaks of Yon | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,344 (Ranked 62)  
-Completed: 2,414 (1.03%) (Ranked 150)  
+Progressed: 233,345 (Ranked 62)  
+Completed: 2,414 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,7 +730,7 @@ Completed: 2,414 (1.03%) (Ranked 150)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,344 | 2,414 |
+| 2023-11-01 | 233,345 | 2,414 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,288 (Ranked 41)  

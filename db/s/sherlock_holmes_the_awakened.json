@@ -85,7 +85,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -2950,6 +2950,11 @@
       "Time": "2023-10-31T22:03:22.474166+00:00",
       "NumProgressed": 780,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-01T02:23:45.1788401+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -2977,7 +2982,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MQ02_2",
@@ -2985,7 +2990,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "MQ02_3",
@@ -3009,7 +3014,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "MQ03_2",
@@ -3049,7 +3054,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ04_2",
@@ -3065,7 +3070,7 @@
       "Name": "The New World",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MQ05_1",
@@ -3169,7 +3174,7 @@
       "Name": "Fhtagn!",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "PLTN",
@@ -3184,7 +3189,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 26
     }
   ],
@@ -3192,8 +3197,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:50:32.3105599+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:23:45.1788394+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:44:31.6815563+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:50:32.310604+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:17:51.4572715+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:23:45.1788859+00:00"
 }

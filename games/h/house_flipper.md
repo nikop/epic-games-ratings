@@ -16,9 +16,9 @@ Number of Ratings: 1,023  (23.09.2022)
 | Junior Estate Agent | 13.00% | ~2,760 |
 | Mystery | 10.00% | ~2,123 |
 | Artistic soul | 10.00% | ~2,123 |
-| Estate Agent | 5.00% | ~1,061 |
-| Millionaire | 5.00% | ~1,061 |
-| Perfectionist | 5.00% | ~1,061 |
+| Estate Agent | 5.00% | ~1,062 |
+| Millionaire | 5.00% | ~1,062 |
+| Perfectionist | 5.00% | ~1,062 |
 | I'm Belieber | 2.00% | ~425 |
 | Knock, knock | 1.00% | ~212 |
 | You do it wrong | 1.00% | ~212 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Do it ASAP | 0.60% | ~127 |
 | Senior Estate Agent | 0.60% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,229 (Ranked 129)  
+Progressed: 21,230 (Ranked 129)  
 Completed: 21 (0.10%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 21 (0.10%) (Ranked 262)
 | 2023-10-29 | 21,215 | 21 |
 | 2023-10-30 | 21,217 | 21 |
 | 2023-10-31 | 21,227 | 21 |
-| 2023-11-01 | 21,229 | 21 |
+| 2023-11-01 | 21,230 | 21 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 241)  
 Sum: 2,237 (Ranked 197)  

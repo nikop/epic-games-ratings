@@ -5,14 +5,14 @@ Rating: 4.41 (Ranked 713)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,190 |
-| IT MAKES BOOM! | 3.00% | ~8,095 |
+| ROOKIE | 6.00% | ~16,192 |
+| IT MAKES BOOM! | 3.00% | ~8,096 |
 | EXTRA BOOST | 2.00% | ~5,397 |
 | PROTECTED | 2.00% | ~5,397 |
 | HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,397 |
 | PRO | 2.00% | ~5,397 |
-| A TIGER'S FEAR | 1.00% | ~2,698 |
-| AGGRESSIVE RACER | 1.00% | ~2,698 |
+| A TIGER'S FEAR | 1.00% | ~2,699 |
+| AGGRESSIVE RACER | 1.00% | ~2,699 |
 | IT'S A LONG WAY TO THE TOP | 0.60% | ~1,619 |
 | DEFEAT OUR CHAMPION | 0.50% | ~1,349 |
 | ACE SPEEDSTER | 0.50% | ~1,349 |
@@ -20,17 +20,17 @@ Rating: 4.41 (Ranked 713)
 | BE OUR GUEST | 0.40% | ~1,079 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,079 |
 | LEGENDARY HERO | 0.40% | ~1,079 |
-| TRAINING HARD | 0.30% | ~809 |
-| EXPERIENCED CREW | 0.30% | ~809 |
-| ACE BRAWLER | 0.30% | ~809 |
-| ACE DEFENDER | 0.30% | ~809 |
-| FRIENDLY | 0.30% | ~809 |
-| MASTER | 0.30% | ~809 |
+| TRAINING HARD | 0.30% | ~810 |
+| EXPERIENCED CREW | 0.30% | ~810 |
+| ACE BRAWLER | 0.30% | ~810 |
+| ACE DEFENDER | 0.30% | ~810 |
+| FRIENDLY | 0.30% | ~810 |
+| MASTER | 0.30% | ~810 |
 | PERFECTLY POISED | 0.20% | ~540 |
 | ACE TRICKSTER | 0.20% | ~540 |
 | FRAMED! | 0.10% | ~270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269,826 (Ranked 53)  
+Progressed: 269,862 (Ranked 53)  
 Completed: 248 (0.09%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 248 (0.09%) (Ranked 269)
 | 2023-10-29 | 266,267 | 245 |
 | 2023-10-30 | 268,010 | 245 |
 | 2023-10-31 | 269,606 | 248 |
-| 2023-11-01 | 269,826 | 248 |
+| 2023-11-01 | 269,862 | 248 |
 ## Awards
 Max (Great for Beginners): 46  (Ranked 436)  
 Sum: 391 (Ranked 334)  

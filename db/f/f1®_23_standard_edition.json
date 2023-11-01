@@ -423,9 +423,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3983,
+  "EOS_Progressed": 3984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3993,6 +3993,11 @@
       "Time": "2023-11-01T01:51:22.631027+00:00",
       "NumProgressed": 3983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T02:24:24.2863296+00:00",
+      "NumProgressed": 3984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -4035,9 +4040,9 @@
       "ID": "achievement_0005",
       "SetID": "9123ogc",
       "Name": "Crucial Combo",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 717
     },
     {
       "ID": "achievement_0006",
@@ -4045,7 +4050,7 @@
       "Name": "Setting up for Success",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "achievement_0007",
@@ -4053,7 +4058,7 @@
       "Name": "Getting on the Step",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "achievement_0008",
@@ -4061,7 +4066,7 @@
       "Name": "On the Top Step",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "achievement_0009",
@@ -4093,7 +4098,7 @@
       "Name": "Seasoned Rookie",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_0013",
@@ -4101,7 +4106,7 @@
       "Name": "Oil and Water",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_0014",
@@ -4133,7 +4138,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_0018",
@@ -4149,7 +4154,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_0020",
@@ -4165,7 +4170,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "achievement_0022",
@@ -4197,7 +4202,7 @@
       "Name": "Wait, I know you?",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_0026",
@@ -4229,7 +4234,7 @@
       "Name": "Reduce",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_0030",
@@ -4269,7 +4274,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "achievement_0035",
@@ -4396,7 +4401,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 3983,
+      "Progressed": 3984,
       "Completed": 0
     }
   ],
@@ -4404,8 +4409,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-10-31T19:02:46.9042541+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:51:22.6310262+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:24:24.2863289+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.1254661+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:49:51.848162+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:51:22.6310882+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:23:10.1162924+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:24:24.2864064+00:00"
 }

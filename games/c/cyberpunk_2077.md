@@ -7,6 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 0.30% | ~2,684 |
+| Gun Fu | 0.20% | ~1,789 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -16,7 +17,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.10% | ~895 |
 | Autojock | 0.10% | ~895 |
 | Frequent Flyer | 0.10% | ~895 |
-| Gun Fu | 0.10% | ~895 |
 | Gunslinger | 0.10% | ~895 |
 | Master Crafter | 0.10% | ~895 |
 | I Am The Law | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,717 (Ranked 15)  
+Progressed: 894,718 (Ranked 15)  
 Completed: 2,736 (0.31%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 2,736 (0.31%) (Ranked 213)
 | 2023-10-29 | 894,514 | 2,733 |
 | 2023-10-30 | 894,580 | 2,734 |
 | 2023-10-31 | 894,703 | 2,736 |
-| 2023-11-01 | 894,717 | 2,736 |
+| 2023-11-01 | 894,718 | 2,736 |
 ## Awards
 Max (Character Customization): 103,117  (Ranked 9)  
 Sum: 336,927 (Ranked 10)  

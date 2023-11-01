@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18211,
+  "EOS_Progressed": 18212,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15112,6 +15112,11 @@
       "Time": "2023-11-01T01:53:15.6516778+00:00",
       "NumProgressed": 18211,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-01T02:25:52.0467844+00:00",
+      "NumProgressed": 18212,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15155,7 +15160,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "Feel_The_Thunder",
@@ -15250,15 +15255,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18211,
+      "Progressed": 18212,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:53:15.651677+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:25:52.0467839+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:47:03.7566505+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:53:15.6517886+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:19:48.6396971+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:25:52.0468954+00:00"
 }

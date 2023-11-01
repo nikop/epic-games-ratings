@@ -7,15 +7,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~25,059 |
-| Landlord | 33.00% | ~21,203 |
+| Landlord | 33.00% | ~21,204 |
 | Bannerlord | 23.00% | ~14,778 |
 | Horde breaker | 23.00% | ~14,778 |
 | Lawmaker | 23.00% | ~14,778 |
 | Trained | 23.00% | ~14,778 |
 | The king is pleased | 19.00% | ~12,208 |
 | King Solomon | 17.00% | ~10,923 |
-| Apple of my eye | 16.00% | ~10,280 |
-| I can do it | 16.00% | ~10,280 |
+| Apple of my eye | 16.00% | ~10,281 |
+| I can do it | 16.00% | ~10,281 |
 | God of the Arena | 13.00% | ~8,353 |
 | This Is Our Land | 13.00% | ~8,353 |
 | Against all odds | 12.00% | ~7,710 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,253 (Ranked 102)  
+Progressed: 64,254 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 0 (0.00%) (Ranked 334)
 | 2023-10-29 | 64,140 | 0 |
 | 2023-10-30 | 64,194 | 0 |
 | 2023-10-31 | 64,251 | 0 |
-| 2023-11-01 | 64,253 | 0 |
+| 2023-11-01 | 64,254 | 0 |
 ## Awards
 Max (Character Customization): 7,306  (Ranked 52)  
-Sum: 15,074 (Ranked 66)  
+Sum: 15,075 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 849 |
 | This game has Amazing Storytelling | 847 |
 | This game is Relaxing | 845 |
-| This game has Quickly Understood Controls | 820 |
+| This game has Quickly Understood Controls | 821 |
 | This game has a Creative Community | 622 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -565,3 +565,4 @@ Diff (max vs sum): -14
 | 2023-10-29 | 4.74 | - | 7,301 | 15,049 |
 | 2023-10-30 | 4.74 | - | 7,306 | 15,069 |
 | 2023-10-31 | 4.74 | - | 7,306 | 15,074 |
+| 2023-11-01 | 4.74 | - | 7,306 | 15,075 |

@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~759,311 |
-| The ABCs | 43.00% | ~666,334 |
-| Home Run | 41.00% | ~635,342 |
-| Keeps Coming Off | 41.00% | ~635,342 |
-| Guts | 20.00% | ~309,923 |
-| Meat Grinder | 19.00% | ~294,427 |
-| Burning Man | 16.00% | ~247,938 |
+| Justice from the Grave | 49.00% | ~759,314 |
+| The ABCs | 43.00% | ~666,337 |
+| Home Run | 41.00% | ~635,344 |
+| Keeps Coming Off | 41.00% | ~635,344 |
+| Guts | 20.00% | ~309,924 |
+| Meat Grinder | 19.00% | ~294,428 |
+| Burning Man | 16.00% | ~247,939 |
 | Lived to Tell the Tale | 12.00% | ~185,954 |
 | Highlander | 10.00% | ~154,962 |
 | Unstoppable | 10.00% | ~154,962 |
-| Just a Scratch | 9.00% | ~139,465 |
+| Just a Scratch | 9.00% | ~139,466 |
 | Tough Nut to Crack | 6.00% | ~92,977 |
 | Yoink | 6.00% | ~92,977 |
 | Long List of Names | 4.00% | ~61,985 |
 | Pyromaniac | 4.00% | ~61,985 |
 | The Queen of Weapons | 4.00% | ~61,985 |
-| This isn’t Sparta | 3.00% | ~46,488 |
+| This isn’t Sparta | 3.00% | ~46,489 |
 | Crybaby | 2.00% | ~30,992 |
 | Eagle Eye | 2.00% | ~30,992 |
 | I Know Kung Fu | 2.00% | ~30,992 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 742)
 | That’s No Ordinary Cold | 0.10% | ~1,550 |
 | Stairway to Hell | 0.10% | ~1,550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549,615 (Ranked 7)  
+Progressed: 1,549,620 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 68 (0.00%) (Ranked 334)
 | 2023-10-29 | 1,548,618 | 68 |
 | 2023-10-30 | 1,549,129 | 68 |
 | 2023-10-31 | 1,549,578 | 68 |
-| 2023-11-01 | 1,549,615 | 68 |
+| 2023-11-01 | 1,549,620 | 68 |
 ## Awards
 Max (Diverse Characters): 861  (Ranked 160)  
 Sum: 4,020 (Ranked 151)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1531,
+  "EOS_Progressed": 1532,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -3244,6 +3244,11 @@
       "Time": "2023-11-01T01:55:34.1958836+00:00",
       "NumProgressed": 1531,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T02:27:07.9889724+00:00",
+      "NumProgressed": 1532,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3327,7 +3332,7 @@
       "Name": "Lock, Stock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "E1M1",
@@ -3359,7 +3364,7 @@
       "Name": "Game Over",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Grenadier",
@@ -3439,7 +3444,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "MoskitoBite",
@@ -3494,15 +3499,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1531,
+      "Progressed": 1532,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:55:34.1958827+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:27:07.9889716+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:46:50.7297096+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:55:34.1959273+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:19:39.3493298+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:27:07.989023+00:00"
 }

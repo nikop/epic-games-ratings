@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 9,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
     "PcReleaseDate": "2021-01-20T13:00:00+00:00",
@@ -11164,9 +11164,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1351095,
+  "EOS_Progressed": 1351096,
   "EOS_Completed": 2169,
-  "EOS_NewPlayers": 2467,
+  "EOS_NewPlayers": 2463,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -33324,6 +33324,11 @@
       "Time": "2023-11-01T01:55:37.0592899+00:00",
       "NumProgressed": 1351095,
       "NumCompleted": 2169
+    },
+    {
+      "Time": "2023-11-01T02:28:39.9136013+00:00",
+      "NumProgressed": 1351096,
+      "NumCompleted": 2169
     }
   ],
   "TotalAchievements": 47,
@@ -33463,7 +33468,7 @@
       "Name": "Rise Up",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 162131
+      "UsersEstimate": 162132
     },
     {
       "ID": "ACH_017",
@@ -33527,7 +33532,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 486394
+      "UsersEstimate": 486395
     },
     {
       "ID": "ACH_025",
@@ -33575,7 +33580,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 445861
+      "UsersEstimate": 445862
     },
     {
       "ID": "ACH_031",
@@ -33623,7 +33628,7 @@
       "Name": "The Last Tango",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 418839
+      "UsersEstimate": 418840
     },
     {
       "ID": "ACH_037",
@@ -33647,7 +33652,7 @@
       "Name": "Evil Wine Club",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 148620
+      "UsersEstimate": 148621
     },
     {
       "ID": "ACH_040",
@@ -33671,7 +33676,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 405328
+      "UsersEstimate": 405329
     },
     {
       "ID": "ACH_043",
@@ -33710,15 +33715,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1351095,
+      "Progressed": 1351096,
       "Completed": 2169
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-10-31T23:57:53.346864+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:55:37.059289+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:28:39.9136007+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.983467+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:45:18.1686805+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:55:37.059464+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:18:28.5563357+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:28:39.9137868+00:00"
 }

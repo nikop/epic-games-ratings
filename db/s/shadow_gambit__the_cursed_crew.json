@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 792,
+  "EOS_Progressed": 793,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2457,6 +2457,11 @@
       "Time": "2023-10-31T18:09:13.6289962+00:00",
       "NumProgressed": 792,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-01T02:29:30.3085394+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2501,7 +2506,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2517,7 +2522,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "_08_Completion_10",
@@ -2565,7 +2570,7 @@
       "Name": "Corsair",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "_14_Completion_70",
@@ -2595,9 +2600,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 317
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2605,7 +2610,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -2676,7 +2681,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 792,
+      "Progressed": 793,
       "Completed": 27
     }
   ],
@@ -2684,8 +2689,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:56:42.6512528+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:29:30.3085387+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:46:11.8547615+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:56:42.6512865+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:19:11.2900339+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:29:30.3085742+00:00"
 }

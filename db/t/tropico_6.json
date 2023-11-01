@@ -1323,9 +1323,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5741,
+  "EOS_Progressed": 5742,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12058,6 +12058,11 @@
       "Time": "2023-11-01T01:56:40.8400494+00:00",
       "NumProgressed": 5741,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T02:29:29.0006372+00:00",
+      "NumProgressed": 5742,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12077,7 +12082,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -12157,7 +12162,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -12165,7 +12170,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12325,7 +12330,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12341,7 +12346,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -12388,15 +12393,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5741,
+      "Progressed": 5742,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:56:40.8400486+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:29:29.0006367+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:44:21.7109299+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:56:40.8401538+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:17:42.7171582+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:29:29.0007571+00:00"
 }

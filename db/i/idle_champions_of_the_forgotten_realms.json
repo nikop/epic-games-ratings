@@ -6,8 +6,8 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7735,9 +7735,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233344,
+  "EOS_Progressed": 233345,
   "EOS_Completed": 2414,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29465,6 +29465,11 @@
       "Time": "2023-11-01T01:54:18.3980339+00:00",
       "NumProgressed": 233344,
       "NumCompleted": 2414
+    },
+    {
+      "Time": "2023-11-01T02:26:41.7396291+00:00",
+      "NumProgressed": 233345,
+      "NumCompleted": 2414
     }
   ],
   "TotalAchievements": 528,
@@ -30042,9 +30047,9 @@
       "ID": "objective_completed_1142",
       "SetID": "415jc5c",
       "Name": "Best Laid Plans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1143",
@@ -33699,21 +33704,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199618,
+      "Progressed": 199619,
       "Completed": 3727
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233344,
+      "Progressed": 233345,
       "Completed": 2414
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T01:45:35.8854664+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:54:18.3980332+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:26:41.7396285+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:45:35.8854672+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:54:18.4010679+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:18:44.5721605+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:26:41.7431755+00:00"
 }

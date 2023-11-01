@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 895,
+  "EOS_Progressed": 896,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3369,6 +3369,11 @@
       "Time": "2023-10-30T21:09:58.4956379+00:00",
       "NumProgressed": 895,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T02:29:07.8828719+00:00",
+      "NumProgressed": 896,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3396,7 +3401,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "BigPlane",
@@ -3412,7 +3417,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "Calculated",
@@ -3508,7 +3513,7 @@
       "Name": "Lack of Time",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "LargeAirport",
@@ -3652,7 +3657,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "Restructuring",
@@ -3660,7 +3665,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "Reviewer",
@@ -3708,21 +3713,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 895,
+      "Progressed": 896,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-01T01:56:13.501787+00:00",
+  "LastChanged_Achievements": "2023-11-01T02:29:07.882871+00:00",
   "LastUpdate_AppInfo": "2023-10-31T14:57:15.7110857+00:00",
-  "LastUpdate_Ratings": "2023-11-01T01:49:42.7855192+00:00",
-  "LastUpdate_Achievements": "2023-11-01T01:56:13.5018443+00:00"
+  "LastUpdate_Ratings": "2023-11-01T02:21:02.2031173+00:00",
+  "LastUpdate_Achievements": "2023-11-01T02:29:07.8829384+00:00"
 }

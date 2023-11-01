@@ -12,11 +12,11 @@ Rating: 4.82 (Ranked 62)
 | Dark Forest | 78.00% | ~2,039 |
 | The use of petricite | 75.00% | ~1,960 |
 | You can pet the dog | 62.00% | ~1,621 |
-| Big Helmet Bro | 38.00% | ~993 |
+| Big Helmet Bro | 39.00% | ~1,019 |
 | Thornbarrow | 38.00% | ~993 |
 | Clarion Cove | 38.00% | ~993 |
+| Past trauma | 37.00% | ~967 |
 | Elemental master | 36.00% | ~941 |
-| Past trauma | 36.00% | ~941 |
 | Ternmoat Headquarters | 36.00% | ~941 |
 | Cypress Glen Headquarters | 34.00% | ~889 |
 | Petricite Burst | 33.00% | ~863 |
