@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 804,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1400,9 +1400,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 233
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1520,9 +1520,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 169
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1709,8 +1709,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:03:19.4464223+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:03:18.8463174+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:58:44.5895536+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:03:19.4464602+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:58:32.6417711+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:03:18.8463614+00:00"
 }

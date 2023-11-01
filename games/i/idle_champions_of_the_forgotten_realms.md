@@ -71,6 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~467 |
 | Slow and Steady | 0.20% | ~467 |
 | The Darkness Runs Deeper | 0.20% | ~467 |
+| Dark Doppelgangers | 0.20% | ~467 |
 | Difficult Terrain | 0.20% | ~467 |
 | Running of the Saurs | 0.20% | ~467 |
 | The Contagious Curse | 0.20% | ~467 |
@@ -350,7 +351,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Tallest of Kobolds | 0.10% | ~200 |
 | Patience is Key | 0.10% | ~233 |
 | Troublesome Prisoner | 0.10% | ~233 |
-| Dark Doppelgangers | 0.10% | ~233 |
 | Faerûn's Most Wanted | 0.10% | ~200 |
 | Cold & Wet | 0.10% | ~233 |
 | Madcap Adventures | 0.10% | ~233 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,403 (Ranked 62)  
-Completed: 2,417 (1.04%) (Ranked 154)  
+Progressed: 233,404 (Ranked 62)  
+Completed: 2,418 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,7 +730,7 @@ Completed: 2,417 (1.04%) (Ranked 154)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,403 | 2,417 |
+| 2023-11-01 | 233,404 | 2,418 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,292 (Ranked 41)  

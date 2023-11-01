@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2973,9 +2973,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29561,
+  "EOS_Progressed": 29572,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1907,
+  "EOS_NewPlayers": 1908,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17453,6 +17453,11 @@
       "Time": "2023-11-01T22:04:55.4670112+00:00",
       "NumProgressed": 29561,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-01T23:04:44.796624+00:00",
+      "NumProgressed": 29572,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17464,7 +17469,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "Animated",
@@ -17552,7 +17557,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "Dont_Need_These",
@@ -17576,7 +17581,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "Escape_Artist",
@@ -17718,9 +17723,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 266
     },
     {
       "ID": "Seasoned",
@@ -17752,7 +17757,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "Stunner",
@@ -17871,7 +17876,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29561,
+      "Progressed": 29572,
       "Completed": 65
     }
   ],
@@ -17879,8 +17884,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-01T20:01:30.3486939+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:04:55.4670109+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:04:44.7966234+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:00:55.819296+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:04:55.4671374+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:00:29.6206261+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:04:44.7967608+00:00"
 }

@@ -9,10 +9,10 @@
 | The great escape | 19.00% | ~67 |
 | The Preacher's fate | 18.00% | ~64 |
 | A new dawn | 16.00% | ~57 |
+| True G3M4R | 15.00% | ~53 |
 | I did it | 14.00% | ~50 |
 | Cable guy | 14.00% | ~50 |
 | A good beginning | 14.00% | ~50 |
-| True G3M4R | 14.00% | ~50 |
 | Scholar | 14.00% | ~50 |
 | The darkness | 14.00% | ~50 |
 | One last step | 14.00% | ~50 |
@@ -25,9 +25,9 @@
 | Open door | 10.00% | ~35 |
 | Free at last | 8.00% | ~28 |
 | A Link to the Past | 8.00% | ~28 |
+| Rascal | 7.00% | ~25 |
 | A great audience | 6.00% | ~21 |
 | For its own good | 6.00% | ~21 |
-| Rascal | 6.00% | ~21 |
 | Fashion victim | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 354 (Ranked 315)  

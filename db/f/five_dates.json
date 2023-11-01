@@ -1330,9 +1330,9 @@
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "not_alone",
@@ -1403,8 +1403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:08:42.0316978+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:09:00.0254083+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:59:15.7838021+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:08:42.0317151+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:59:02.6806045+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:09:00.0254289+00:00"
 }

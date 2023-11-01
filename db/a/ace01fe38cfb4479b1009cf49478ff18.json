@@ -156,9 +156,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 45,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -194,8 +194,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:08:38.3048086+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:08:56.6823138+00:00",
   "LastUpdate_AppInfo": "2023-10-27T10:57:14.2684353+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:59:33.9996449+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:08:38.3048182+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:59:18.735299+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:08:56.6823223+00:00"
 }

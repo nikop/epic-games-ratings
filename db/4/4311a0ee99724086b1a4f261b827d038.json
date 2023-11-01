@@ -509,9 +509,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229926,
+  "EOS_Progressed": 229933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1414,
+  "EOS_NewPlayers": 1416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12134,6 +12134,11 @@
       "Time": "2023-11-01T22:08:49.790204+00:00",
       "NumProgressed": 229926,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T23:09:07.0160087+00:00",
+      "NumProgressed": 229933,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12202,7 +12207,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48284
+      "UsersEstimate": 48286
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -12210,7 +12215,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20693
+      "UsersEstimate": 20694
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -12218,7 +12223,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11496
+      "UsersEstimate": 11497
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -12282,7 +12287,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -12290,7 +12295,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -12330,7 +12335,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29890
+      "UsersEstimate": 29891
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -12386,7 +12391,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -12402,7 +12407,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57482
+      "UsersEstimate": 57483
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -12417,7 +12422,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229926,
+      "Progressed": 229933,
       "Completed": 0
     }
   ],
@@ -12425,8 +12430,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-01T08:57:14.6791597+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:08:49.7902035+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:09:07.016008+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:57:11.8202596+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:08:49.7902787+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:57:12.2402562+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:09:07.0161143+00:00"
 }

@@ -7747,10 +7747,10 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233403,
-  "EOS_Completed": 2417,
-  "EOS_NewPlayers": 591,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 233404,
+  "EOS_Completed": 2418,
+  "EOS_NewPlayers": 590,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -29582,6 +29582,11 @@
       "Time": "2023-11-01T22:07:51.6032581+00:00",
       "NumProgressed": 233403,
       "NumCompleted": 2417
+    },
+    {
+      "Time": "2023-11-01T23:08:18.7452596+00:00",
+      "NumProgressed": 233404,
+      "NumCompleted": 2418
     }
   ],
   "TotalAchievements": 528,
@@ -31967,9 +31972,9 @@
       "ID": "objective_completed_572",
       "SetID": "cc37lbc",
       "Name": "Dark Doppelgangers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_573",
@@ -33816,21 +33821,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199677,
+      "Progressed": 199678,
       "Completed": 3732
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233403,
-      "Completed": 2417
+      "Progressed": 233404,
+      "Completed": 2418
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T19:58:58.952511+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:07:51.6032578+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:08:18.745259+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:58:43.8956611+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:07:51.6054438+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:58:32.0160882+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:08:18.7480743+00:00"
 }

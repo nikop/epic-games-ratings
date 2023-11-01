@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 18.00% | ~10 |
+| Break Out | 20.00% | ~11 |
 | Powerful Allies | 15.00% | ~8 |
 | Find Allies | 13.00% | ~7 |
 | A Taste of Wrath | 9.00% | ~5 |
@@ -12,8 +12,8 @@
 | Adventurer | 9.00% | ~5 |
 | Essence Blow | 9.00% | ~5 |
 | Shatter Them All | 9.00% | ~5 |
+| Fashion Victim | 9.00% | ~5 |
 | Scholar | 9.00% | ~5 |
-| Fashion Victim | 7.00% | ~4 |
 | The Collector | 7.00% | ~4 |
 | Calm before the Storm | 5.00% | ~3 |
 | To Battle | 5.00% | ~3 |

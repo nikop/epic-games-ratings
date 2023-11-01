@@ -755,9 +755,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_20",
@@ -1052,8 +1052,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:03:09.9275135+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:03:10.4100506+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:59:01.3842252+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:03:09.9275555+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:58:47.2714918+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:03:10.4101015+00:00"
 }

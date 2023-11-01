@@ -7,7 +7,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~25,079 |
-| Landlord | 33.00% | ~21,220 |
+| Landlord | 33.00% | ~21,221 |
 | Bannerlord | 23.00% | ~14,790 |
 | Horde breaker | 23.00% | ~14,790 |
 | Lawmaker | 23.00% | ~14,790 |
@@ -18,13 +18,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | I can do it | 16.00% | ~10,289 |
 | God of the Arena | 13.00% | ~8,360 |
 | This Is Our Land | 13.00% | ~8,360 |
-| Against all odds | 12.00% | ~7,716 |
-| Duelist | 10.00% | ~6,430 |
-| Dynasty | 10.00% | ~6,430 |
-| I spit on your grave | 10.00% | ~6,430 |
-| Swordbearer | 10.00% | ~6,430 |
-| What have the Romans ever done for us? | 10.00% | ~6,430 |
-| Butterlord | 9.00% | ~5,787 |
+| Against all odds | 12.00% | ~7,717 |
+| Duelist | 10.00% | ~6,431 |
+| Dynasty | 10.00% | ~6,431 |
+| I spit on your grave | 10.00% | ~6,431 |
+| Swordbearer | 10.00% | ~6,431 |
+| What have the Romans ever done for us? | 10.00% | ~6,431 |
+| Butterlord | 9.00% | ~5,788 |
 | Know your enemy | 7.00% | ~4,501 |
 | Mastery | 7.00% | ~4,501 |
 | Crowdfunded | 5.00% | ~3,215 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,304 (Ranked 102)  
+Progressed: 64,306 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 64,140 | 0 |
 | 2023-10-30 | 64,194 | 0 |
 | 2023-10-31 | 64,251 | 0 |
-| 2023-11-01 | 64,304 | 0 |
+| 2023-11-01 | 64,306 | 0 |
 ## Awards
 Max (Character Customization): 7,315  (Ranked 52)  
-Sum: 15,095 (Ranked 66)  
+Sum: 15,096 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 912 |
 | This game is Extremely Fun | 862 |
 | This game has Amazing Characters | 850 |
-| This game has Amazing Storytelling | 847 |
+| This game has Amazing Storytelling | 848 |
 | This game is Relaxing | 845 |
 | This game has Quickly Understood Controls | 821 |
 | This game has a Creative Community | 626 |
@@ -565,4 +565,4 @@ Diff (max vs sum): -14
 | 2023-10-29 | 4.74 | - | 7,301 | 15,049 |
 | 2023-10-30 | 4.74 | - | 7,306 | 15,069 |
 | 2023-10-31 | 4.74 | - | 7,306 | 15,074 |
-| 2023-11-01 | 4.74 | - | 7,315 | 15,095 |
+| 2023-11-01 | 4.74 | - | 7,315 | 15,096 |

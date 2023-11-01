@@ -232,9 +232,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_BOSS_03",
@@ -456,9 +456,9 @@
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 16,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:04:45.1952744+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:04:35.7364384+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:58:39.5136747+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:04:45.1953087+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:58:27.205874+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:04:35.7364757+00:00"
 }

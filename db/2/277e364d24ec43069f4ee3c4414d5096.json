@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112977,
+  "EOS_Progressed": 112979,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16461,6 +16461,11 @@
       "Time": "2023-11-01T22:08:00.8859428+00:00",
       "NumProgressed": 112977,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-01T23:08:25.9770858+00:00",
+      "NumProgressed": 112979,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -16480,7 +16485,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 86992
+      "UsersEstimate": 86994
     },
     {
       "ID": "EAwards_10",
@@ -16488,7 +16493,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12427
+      "UsersEstimate": 12428
     },
     {
       "ID": "EAwards_11",
@@ -16496,7 +16501,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29374
+      "UsersEstimate": 29375
     },
     {
       "ID": "EAwards_12",
@@ -16536,7 +16541,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "EAwards_17",
@@ -16544,7 +16549,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41801
+      "UsersEstimate": 41802
     },
     {
       "ID": "EAwards_18",
@@ -16568,7 +16573,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54229
+      "UsersEstimate": 54230
     },
     {
       "ID": "EAwards_20",
@@ -16584,7 +16589,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "EAwards_22",
@@ -16608,7 +16613,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "EAwards_25",
@@ -16624,7 +16629,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12427
+      "UsersEstimate": 12428
     },
     {
       "ID": "EAwards_27",
@@ -16680,7 +16685,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "EAwards_33",
@@ -16863,7 +16868,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 112977,
+      "Progressed": 112979,
       "Completed": 48
     }
   ],
@@ -16871,8 +16876,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:08:00.8859425+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:08:25.9770851+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:08.5071847+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:02:34.4995643+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:08:00.8860692+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:02:39.0266976+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:08:25.9772305+00:00"
 }

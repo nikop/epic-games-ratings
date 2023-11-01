@@ -3923,9 +3923,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75686,
+  "EOS_Progressed": 75689,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 853,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21058,6 +21058,11 @@
       "Time": "2023-11-01T22:03:46.556669+00:00",
       "NumProgressed": 75686,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-11-01T23:03:43.4222149+00:00",
+      "NumProgressed": 75689,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -21149,7 +21154,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9082
+      "UsersEstimate": 9083
     },
     {
       "ID": "APPLY_STATUS",
@@ -21173,7 +21178,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15894
+      "UsersEstimate": 15895
     },
     {
       "ID": "CLAYFACE_2",
@@ -21181,7 +21186,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13623
+      "UsersEstimate": 13624
     },
     {
       "ID": "CLAYFACE_3",
@@ -21205,7 +21210,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -21229,7 +21234,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -21245,7 +21250,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9082
+      "UsersEstimate": 9083
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -21277,7 +21282,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9839
+      "UsersEstimate": 9840
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -21293,7 +21298,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21192
+      "UsersEstimate": 21193
     },
     {
       "ID": "FREEZE_1_5",
@@ -21301,7 +21306,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15894
+      "UsersEstimate": 15895
     },
     {
       "ID": "FREEZE_2",
@@ -21309,7 +21314,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14380
+      "UsersEstimate": 14381
     },
     {
       "ID": "FREEZE_3",
@@ -21357,7 +21362,7 @@
       "Name": "History Major",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -21373,7 +21378,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26490
+      "UsersEstimate": 26491
     },
     {
       "ID": "HARLEY_2",
@@ -21389,7 +21394,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15137
+      "UsersEstimate": 15138
     },
     {
       "ID": "HARLEY_4",
@@ -21413,7 +21418,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38600
+      "UsersEstimate": 38601
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21437,7 +21442,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15137
+      "UsersEstimate": 15138
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -21445,7 +21450,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20435
+      "UsersEstimate": 20436
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -21461,7 +21466,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25733
+      "UsersEstimate": 25734
     },
     {
       "ID": "MYSTERY_02",
@@ -21477,7 +21482,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16651
+      "UsersEstimate": 16652
     },
     {
       "ID": "MYSTERY_04",
@@ -21485,7 +21490,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15137
+      "UsersEstimate": 15138
     },
     {
       "ID": "MYSTERY_05",
@@ -21493,7 +21498,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13623
+      "UsersEstimate": 13624
     },
     {
       "ID": "MYSTERY_06",
@@ -21517,7 +21522,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9082
+      "UsersEstimate": 9083
     },
     {
       "ID": "SECRET_CACHE",
@@ -21525,7 +21530,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8325
+      "UsersEstimate": 8326
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -21556,13 +21561,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75686,
+      "Progressed": 75689,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 45966,
+      "Progressed": 45969,
       "Completed": 2672
     }
   ],
@@ -21570,8 +21575,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-01T16:00:17.8057335+00:00",
-  "LastChanged_Achievements": "2023-11-01T22:03:46.5566686+00:00",
+  "LastChanged_Achievements": "2023-11-01T23:03:43.4222143+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:00:11.6129517+00:00",
-  "LastUpdate_Achievements": "2023-11-01T22:03:46.5568157+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:59:52.9326436+00:00",
+  "LastUpdate_Achievements": "2023-11-01T23:03:43.4223777+00:00"
 }
