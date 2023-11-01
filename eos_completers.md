@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.41% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.06% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.05% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -54,14 +54,14 @@
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.37% |
 | 53 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 54 | [Scorn](games/s/scorn.md) | 6.97% |
-| 55 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 6.90% |
-| 56 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
+| 55 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.67% |
+| 55 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 6.67% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.43% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
-| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.73% |
+| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.70% |
 | 63 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5.56% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.19% |
@@ -89,7 +89,7 @@
 | 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.40% |
 | 88 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.39% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 90 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.33% |
+| 90 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.32% |
 | 91 | [Doodle God](games/d/doodle_god.md) | 3.24% |
 | 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.18% |
 | 93 | [Without Escape](games/w/without_escape.md) | 3.12% |
@@ -117,7 +117,7 @@
 | 115 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 116 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.28% |
 | 117 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.27% |
-| 118 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.13% |
+| 118 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2.08% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 119 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
@@ -134,8 +134,8 @@
 | 132 | [Five Dates](games/f/five_dates.md) | 1.54% |
 | 133 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 134 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 135 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.45% |
-| 136 | [Iron Danger](games/i/iron_danger.md) | 1.40% |
+| 135 | [Iron Danger](games/i/iron_danger.md) | 1.40% |
+| 136 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.38% |
 | 137 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 138 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
 | 138 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
@@ -148,9 +148,9 @@
 | 146 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 147 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.08% |
 | 148 | [Adios](games/a/adios.md) | 1.06% |
-| 149 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 150 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.04% |
-| 150 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.06% |
+| 150 | [Infindustry](games/i/infindustry.md) | 1.05% |
+| 151 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 152 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 153 | [Sable](games/s/sable.md) | 1.01% |
 | 154 | [Trifox](games/t/trifox.md) | 0.98% |
@@ -225,13 +225,13 @@
 | 222 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 224 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 225 | [Filament](games/f/filament.md) | 0.26% |
-| 226 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.25% |
-| 227 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 226 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
+| 226 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.24% |
+| 228 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.23% |
 | 228 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 228 | [Scrapnaut](games/s/scrapnaut.md) | 0.23% |
-| 230 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.22% |
-| 230 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
-| 230 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 231 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
+| 231 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 233 | [Blanc](games/b/blanc.md) | 0.21% |
 | 233 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
 | 233 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
@@ -713,4 +713,4 @@
 | 334 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 334 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 334 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,498 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,499 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
