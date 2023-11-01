@@ -15,15 +15,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,249 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,249 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,946 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,338 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,339 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,035 |
 | Unbelievably Boring **** | 9.00% | ~11,732 |
 | Enemy Of The Physical Realm | 8.00% | ~10,428 |
 | Hardie's Heroes | 6.00% | ~7,821 |
 | The Lawbringer | 4.00% | ~5,214 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,214 |
-| The Opener Of The Eighth Seal | 3.00% | ~3,910 |
-| Bother Kim After Hours | 3.00% | ~3,910 |
+| The Opener Of The Eighth Seal | 3.00% | ~3,911 |
+| Bother Kim After Hours | 3.00% | ~3,911 |
 | Baddest Of the Bad Cops | 2.00% | ~2,607 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,607 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,607 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,350 (Ranked 80)  
+Progressed: 130,351 (Ranked 80)  
 Completed: 28 (0.02%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 28 (0.02%) (Ranked 310)
 | 2023-10-29 | 130,245 | 28 |
 | 2023-10-30 | 130,289 | 28 |
 | 2023-10-31 | 130,326 | 28 |
-| 2023-11-01 | 130,350 | 28 |
+| 2023-11-01 | 130,351 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 174)  
 Sum: 1,112 (Ranked 246)  

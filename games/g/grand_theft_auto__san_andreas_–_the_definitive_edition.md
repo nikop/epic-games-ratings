@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,947 |
-| Pay 'n' Spray | 51.00% | ~6,808 |
+| Getting Started | 82.00% | ~10,948 |
+| Pay 'n' Spray | 51.00% | ~6,809 |
 | All Dressed Up for San Fierro | 26.00% | ~3,471 |
 | The American Dream | 20.00% | ~2,670 |
-| School's Out | 19.00% | ~2,536 |
+| School's Out | 19.00% | ~2,537 |
 | Smooth Moves | 17.00% | ~2,270 |
 | Today Was a Good Day | 16.00% | ~2,136 |
-| What happens in Las Venturas... | 15.00% | ~2,002 |
-| Horror of the Santa Maria | 11.00% | ~1,468 |
+| What happens in Las Venturas... | 15.00% | ~2,003 |
+| Horror of the Santa Maria | 11.00% | ~1,469 |
 | Liberty City State of Mind | 10.00% | ~1,335 |
 | The End of the Line | 8.00% | ~1,068 |
 | Original Gangster | 8.00% | ~1,068 |
@@ -22,10 +22,10 @@ Rating: 4.56 (Ranked 481)
 | They Can’t Stop All of Us | 5.00% | ~668 |
 | Rescue a Kitten Too? | 5.00% | ~668 |
 | What are the Odds | 4.00% | ~534 |
-| Bike or Biker | 3.00% | ~400 |
-| What the City Needs | 3.00% | ~400 |
-| Yes I Speak English | 3.00% | ~400 |
-| Public Enemy No. 1 | 3.00% | ~400 |
+| Bike or Biker | 3.00% | ~401 |
+| What the City Needs | 3.00% | ~401 |
+| Yes I Speak English | 3.00% | ~401 |
+| Public Enemy No. 1 | 3.00% | ~401 |
 | A Legitimate Business | 2.00% | ~267 |
 | I’ll Have Two Number 9s | 2.00% | ~267 |
 | Who Needs Directions? | 2.00% | ~267 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 481)
 | ...Here we go again | 0.50% | ~67 |
 | I Ain't No Buster | 0.40% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,350 (Ranked 148)  
+Progressed: 13,351 (Ranked 148)  
 Completed: 50 (0.37%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 50 (0.37%) (Ranked 209)
 | 2023-10-29 | 13,298 | 50 |
 | 2023-10-30 | 13,306 | 50 |
 | 2023-10-31 | 13,318 | 50 |
-| 2023-11-01 | 13,350 | 50 |
+| 2023-11-01 | 13,351 | 50 |
 ## Awards
 Max (Great Boss Battles): 370  (Ranked 229)  
 Sum: 587 (Ranked 308)  

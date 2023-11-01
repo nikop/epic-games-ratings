@@ -3,8 +3,8 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1203,9 +1203,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_38",
@@ -1283,9 +1283,9 @@
       "ID": "achievement_46",
       "SetID": "2cpn27e",
       "Name": "Charmed by the Hunt",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_47",
@@ -1315,9 +1315,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "achievement_7",
@@ -1353,8 +1353,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:04:34.8907014+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:04:47.5248761+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:58:18.0762262+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:04:34.8907373+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:58:10.0962617+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:04:47.5249172+00:00"
 }

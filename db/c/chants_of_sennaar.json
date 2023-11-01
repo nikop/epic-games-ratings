@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 354,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.53,
+  "EOS_Completed_Percentage": 6.5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1640,6 +1640,11 @@
       "Time": "2023-11-01T21:06:26.5062542+00:00",
       "NumProgressed": 352,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-01T22:06:26.4338914+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1651,15 +1656,15 @@
       "Name": "I did it",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "META_ALL_LINK",
@@ -1675,7 +1680,7 @@
       "Name": "Cable guy",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1683,7 +1688,7 @@
       "Name": "A good beginning",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "META_HALF_LINK",
@@ -1753,9 +1758,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1763,7 +1768,7 @@
       "Name": "True G3M4R",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1771,7 +1776,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1803,7 +1808,7 @@
       "Name": "Scholar",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "PROGRESS_N1",
@@ -1817,9 +1822,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 67
     },
     {
       "ID": "PROGRESS_N3",
@@ -1827,7 +1832,7 @@
       "Name": "A new dawn",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PROGRESS_N4",
@@ -1835,7 +1840,7 @@
       "Name": "The darkness",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "PROGRESS_N5",
@@ -1843,21 +1848,21 @@
       "Name": "One last step",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 354,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:06:26.5062537+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:06:26.4338911+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:59:45.1197789+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:06:26.5062756+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:59:45.1061088+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:06:26.4339172+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~849 |
-| Spectre Inductee | 81.00% | ~731 |
-| Medal of Exploration I | 73.00% | ~659 |
+| Spectre Inductee | 82.00% | ~740 |
+| Medal of Exploration I | 74.00% | ~668 |
 | Recruit | 70.00% | ~632 |
 | Search and Rescue | 70.00% | ~632 |
 | Quarian Ally | 67.00% | ~605 |
@@ -19,9 +19,9 @@
 | Turian Ally | 55.00% | ~497 |
 | Charismatic | 55.00% | ~497 |
 | Soldier | 54.00% | ~488 |
+| Medal of Exploration III | 50.00% | ~452 |
 | Asari Ally | 50.00% | ~452 |
 | Principled | 50.00% | ~452 |
-| Medal of Exploration III | 49.00% | ~442 |
 | Soldier Ally | 49.00% | ~442 |
 | Paramour I | 48.00% | ~433 |
 | Colonial Savior | 47.00% | ~424 |

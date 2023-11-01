@@ -6,28 +6,28 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,610 |
-| Overkill | 34.00% | ~6,017 |
-| Vaccine Incoming | 33.00% | ~5,840 |
-| A normal day in Gloomhaven | 33.00% | ~5,840 |
-| Spread the plague | 30.00% | ~5,309 |
-| Get over here! | 25.00% | ~4,424 |
-| Just when I thought I was out... | 19.00% | ~3,362 |
-| Precious! | 17.00% | ~3,008 |
-| Mine... All Mine... | 17.00% | ~3,008 |
-| Light of my life | 15.00% | ~2,655 |
-| Anatomy Lesson | 15.00% | ~2,655 |
-| Grizzled veteran | 14.00% | ~2,478 |
-| You activated my trap card! | 13.00% | ~2,301 |
-| Obstacle race | 13.00% | ~2,301 |
-| Augmented rat | 12.00% | ~2,124 |
-| Doom and gloom | 11.00% | ~1,947 |
-| Who's the Boss? | 10.00% | ~1,770 |
-| Dungeon Veteran | 8.00% | ~1,416 |
-| Pack leader | 8.00% | ~1,416 |
-| Pain is your friend | 8.00% | ~1,416 |
-| Black death | 8.00% | ~1,416 |
-| Play it again, Sam | 8.00% | ~1,416 |
+| I'm not dead yet | 43.00% | ~7,614 |
+| Overkill | 35.00% | ~6,198 |
+| Vaccine Incoming | 33.00% | ~5,844 |
+| A normal day in Gloomhaven | 33.00% | ~5,844 |
+| Spread the plague | 30.00% | ~5,312 |
+| Get over here! | 25.00% | ~4,427 |
+| Just when I thought I was out... | 19.00% | ~3,365 |
+| Precious! | 17.00% | ~3,010 |
+| Mine... All Mine... | 17.00% | ~3,010 |
+| Light of my life | 15.00% | ~2,656 |
+| Anatomy Lesson | 15.00% | ~2,656 |
+| Grizzled veteran | 14.00% | ~2,479 |
+| You activated my trap card! | 13.00% | ~2,302 |
+| Obstacle race | 13.00% | ~2,302 |
+| Augmented rat | 12.00% | ~2,125 |
+| Doom and gloom | 11.00% | ~1,948 |
+| Who's the Boss? | 10.00% | ~1,771 |
+| Dungeon Veteran | 8.00% | ~1,417 |
+| Pack leader | 8.00% | ~1,417 |
+| Pain is your friend | 8.00% | ~1,417 |
+| Black death | 8.00% | ~1,417 |
+| Play it again, Sam | 8.00% | ~1,417 |
 | Quad damage | 6.00% | ~1,062 |
 | Power Up! | 5.00% | ~885 |
 | Pretty lights! | 5.00% | ~885 |
@@ -51,8 +51,8 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 0.90% | ~159 |
 | Betray this | 0.80% | ~142 |
 | Spoiler police! | 0.80% | ~142 |
-| The Pacifist | 0.50% | ~88 |
-| Born Support | 0.50% | ~88 |
+| The Pacifist | 0.50% | ~89 |
+| Born Support | 0.50% | ~89 |
 | A tough job | 0.40% | ~71 |
 | The evil that men do | 0.30% | ~53 |
 | MacReady Steady.. Go! | 0.30% | ~53 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Beware my power | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,697 (Ranked 135)  
+Progressed: 17,708 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-29 | 17,093 | 1 |
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
-| 2023-11-01 | 17,697 | 1 |
+| 2023-11-01 | 17,708 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
 Sum: 8,328 (Ranked 98)  

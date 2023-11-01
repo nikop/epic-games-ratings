@@ -2816,9 +2816,9 @@
       "ID": "achievement_21",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration I",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 668
     },
     {
       "ID": "achievement_22",
@@ -2832,9 +2832,9 @@
       "ID": "achievement_23",
       "SetID": "b9pe172",
       "Name": "Medal of Exploration III",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_24",
@@ -2904,9 +2904,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 731
+      "UsersEstimate": 740
     },
     {
       "ID": "achievement_32",
@@ -3516,8 +3516,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:06:37.066772+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:06:37.5111727+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:00:09.102268+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:06:37.0669519+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:00:10.5127777+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:06:37.51132+00:00"
 }

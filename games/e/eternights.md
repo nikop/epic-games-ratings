@@ -11,21 +11,21 @@
 | Master Craftsman | 51.00% | ~186 |
 | First wall | 50.00% | ~182 |
 | Piggyback Expert | 48.00% | ~175 |
-| Second wall | 37.00% | ~135 |
+| Second wall | 38.00% | ~139 |
 | Expert Scavenger | 36.00% | ~131 |
 | Their Rock | 31.00% | ~113 |
 | Yuna's Promise | 29.00% | ~106 |
 | Stone Retriever | 28.00% | ~102 |
 | Find myself | 27.00% | ~99 |
+| Min's Promise | 20.00% | ~73 |
 | Truebro | 20.00% | ~73 |
-| Min's Promise | 19.00% | ~69 |
 | Sia's Promise | 19.00% | ~69 |
 | Romantic | 16.00% | ~58 |
 | TentacleMAN | 11.00% | ~40 |
 | Yohan's Promise | 5.00% | ~18 |
 | Plushyboy | 5.00% | ~18 |
 | Flawless | 5.00% | ~18 |
-| LOVEassistant | 3.00% | ~11 |
+| LOVEassistant | 4.00% | ~15 |
 | True Player | 1.00% | ~4 |
 | Dreamboat | 1.00% | ~4 |
 | Bond Lord | 0.30% | ~1 |

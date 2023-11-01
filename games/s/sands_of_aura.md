@@ -12,11 +12,11 @@
 | Dousing a Venerable Flame | 7.00% | ~3 |
 | A Sandwyrm's Hoard | 7.00% | ~3 |
 | Advanced Armaments | 7.00% | ~3 |
+| Let Me Solo Them | 4.00% | ~2 |
 | Overboard | 2.00% | ~1 |
 | Sommelier | 2.00% | ~1 |
 | Bladesmith | 2.00% | ~1 |
 | Smotherly Love | 2.00% | ~1 |
-| Let Me Solo Them | 2.00% | ~1 |
 | Explorer | 2.00% | ~1 |
 | The River Styx | 2.00% | ~1 |
 | Frigid Winds | 2.00% | ~1 |

@@ -15,7 +15,7 @@
 | Long Live Rock | 15.00% | ~146 |
 | Aggressive Antivirus | 14.00% | ~136 |
 | Effective Efficiency | 13.00% | ~126 |
-| Unblurred Lines | 11.00% | ~107 |
+| Unblurred Lines | 12.00% | ~116 |
 | Endlessly Effective | 11.00% | ~107 |
 | Obsessively Thorough | 10.00% | ~97 |
 | What's Behind Every Door? | 5.00% | ~48 |

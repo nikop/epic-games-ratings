@@ -52,7 +52,7 @@
 | Diagnosis: fear | 0.00% | ~0 |
 | Ambition is... blind | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 487)  
+Progressed: 34 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-21 | 31 | 0 |
 | 2023-10-26 | 32 | 0 |
 | 2023-10-30 | 33 | 0 |
+| 2023-11-01 | 34 | 0 |

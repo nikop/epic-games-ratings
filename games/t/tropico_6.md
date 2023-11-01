@@ -6,11 +6,11 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,314 |
-| Un-Lonely Island | 47.00% | ~2,703 |
-| The Beginning of a Servantship | 45.00% | ~2,588 |
-| Trade Is My Trait | 37.00% | ~2,128 |
-| Number 18 | 24.00% | ~1,380 |
+| Just One...More...Term... | 75.00% | ~4,315 |
+| Un-Lonely Island | 47.00% | ~2,704 |
+| The Beginning of a Servantship | 45.00% | ~2,589 |
+| Trade Is My Trait | 37.00% | ~2,129 |
+| Number 18 | 24.00% | ~1,381 |
 | We Don't Have Time For That | 19.00% | ~1,093 |
 | The Governator | 17.00% | ~978 |
 | Caribbean Comrade | 16.00% | ~920 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~52 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,752 (Ranked 178)  
+Progressed: 5,753 (Ranked 178)  
 Completed: 2 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 2 (0.03%) (Ranked 304)
 | 2023-10-29 | 5,725 | 2 |
 | 2023-10-30 | 5,732 | 2 |
 | 2023-10-31 | 5,740 | 2 |
-| 2023-11-01 | 5,752 | 2 |
+| 2023-11-01 | 5,753 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 354)  
-Sum: 722 (Ranked 288)  
+Sum: 723 (Ranked 288)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -257,7 +257,7 @@ Diff (max vs sum): 66
 | This game is Educational | 89 |
 | This game is Extremely Fun | 88 |
 | This game has Amazing Characters | 87 |
-| This game has a Creative Community | 67 |
+| This game has a Creative Community | 68 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -418,4 +418,4 @@ Diff (max vs sum): 66
 | 2023-10-24 | 4.65 | - | 101 | 718 |
 | 2023-10-26 | 4.65 | - | 102 | 719 |
 | 2023-10-28 | 4.65 | - | 102 | 721 |
-| 2023-11-01 | 4.65 | - | 102 | 722 |
+| 2023-11-01 | 4.65 | - | 102 | 723 |

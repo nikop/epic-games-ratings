@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13350,
+  "EOS_Progressed": 13351,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13573,6 +13573,11 @@
       "Time": "2023-11-01T19:08:46.0216824+00:00",
       "NumProgressed": 13350,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-01T22:08:07.8720771+00:00",
+      "NumProgressed": 13351,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13584,7 +13589,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10947
+      "UsersEstimate": 10948
     },
     {
       "ID": "ACH02",
@@ -13640,7 +13645,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6808
+      "UsersEstimate": 6809
     },
     {
       "ID": "ACH09",
@@ -13648,7 +13653,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH10",
@@ -13680,7 +13685,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "ACH14",
@@ -13688,7 +13693,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACH15",
@@ -13712,7 +13717,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH18",
@@ -13736,7 +13741,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH21",
@@ -13752,7 +13757,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2002
+      "UsersEstimate": 2003
     },
     {
       "ID": "ACH23",
@@ -13816,7 +13821,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH31",
@@ -13863,7 +13868,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13350,
+      "Progressed": 13351,
       "Completed": 50
     }
   ],
@@ -13871,8 +13876,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:08:15.442361+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:08:07.8720767+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:00:32.519367+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:08:15.4424412+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:00:36.0467027+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:08:07.8721457+00:00"
 }

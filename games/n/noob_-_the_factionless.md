@@ -78,7 +78,7 @@
 | 2013 and 2017 records | 0.00% | ~0 |
 | Masks off | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 660)  
+Progressed: 1 (Ranked 661)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |

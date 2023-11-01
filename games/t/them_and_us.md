@@ -10,8 +10,8 @@
 | Safe...For now? | 34.00% | ~101 |
 | Open Sesame | 28.00% | ~83 |
 | What have I done!? | 17.00% | ~51 |
-| Them and Us | 15.00% | ~45 |
-| OUTRAGE | 15.00% | ~45 |
+| Them and Us | 16.00% | ~48 |
+| OUTRAGE | 16.00% | ~48 |
 | This Coffin Has Your Name On It! | 13.00% | ~39 |
 | Alone In The Dark | 12.00% | ~36 |
 | Parasite Exterminated | 12.00% | ~36 |
@@ -22,7 +22,7 @@
 | Modern Player | 8.00% | ~24 |
 | Rest In Peace | 8.00% | ~24 |
 | The Curse Is Real | 8.00% | ~24 |
-| What A Mansion | 6.00% | ~18 |
+| What A Mansion | 7.00% | ~21 |
 | Researcher | 5.00% | ~15 |
 | I Am The Gate Keeper! | 5.00% | ~15 |
 | This Mansion Is Clean | 4.00% | ~12 |

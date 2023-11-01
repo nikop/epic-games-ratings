@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,773 |
-| Advancement | 5.00% | ~1,477 |
+| Stylish | 6.00% | ~1,774 |
+| Advancement | 5.00% | ~1,478 |
 | Discovery | 4.00% | ~1,182 |
 | Meticulously Efficient | 4.00% | ~1,182 |
 | Solo Capture | 4.00% | ~1,182 |
-| Clutch Capture | 3.00% | ~886 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~886 |
-| Cultured | 3.00% | ~886 |
-| Fully Upgraded | 3.00% | ~886 |
-| Swift Rift Removers | 3.00% | ~886 |
-| Teamwork | 3.00% | ~886 |
-| There you are! | 3.00% | ~886 |
-| Vaporous Expansion | 3.00% | ~886 |
-| Whoopsie | 3.00% | ~886 |
+| Clutch Capture | 3.00% | ~887 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~887 |
+| Cultured | 3.00% | ~887 |
+| Fully Upgraded | 3.00% | ~887 |
+| Swift Rift Removers | 3.00% | ~887 |
+| Teamwork | 3.00% | ~887 |
+| There you are! | 3.00% | ~887 |
+| Vaporous Expansion | 3.00% | ~887 |
+| Whoopsie | 3.00% | ~887 |
 | Animated | 2.00% | ~591 |
 | Back Off | 2.00% | ~591 |
 | We have the best insurance | 2.00% | ~591 |
@@ -36,12 +36,12 @@ Rating: 4.50 (Ranked 579)
 | Stunner | 2.00% | ~591 |
 | Summoner | 2.00% | ~591 |
 | Welcome to the Crew | 2.00% | ~591 |
-| Collector | 1.00% | ~295 |
-| Diabolical | 1.00% | ~295 |
-| Escape Artist | 1.00% | ~295 |
-| Reckless | 1.00% | ~295 |
-| Terrifying | 1.00% | ~295 |
-| Tobin's Prodigy | 1.00% | ~295 |
+| Collector | 1.00% | ~296 |
+| Diabolical | 1.00% | ~296 |
+| Escape Artist | 1.00% | ~296 |
+| Reckless | 1.00% | ~296 |
+| Terrifying | 1.00% | ~296 |
+| Tobin's Prodigy | 1.00% | ~296 |
 | Rivalry | 0.80% | ~236 |
 | Fragile Panes | 0.70% | ~207 |
 | Liability | 0.70% | ~207 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,548 (Ranked 121)  
+Progressed: 29,561 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,548 | 65 |
+| 2023-11-01 | 29,561 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,657 (Ranked 180)  

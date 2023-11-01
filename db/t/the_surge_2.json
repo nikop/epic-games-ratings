@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2112,
+  "EOS_Progressed": 2113,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -2829,6 +2829,11 @@
       "Time": "2023-11-01T21:08:45.7947953+00:00",
       "NumProgressed": 2112,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-01T22:08:43.6797318+00:00",
+      "NumProgressed": 2113,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2848,7 +2853,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACHV_03",
@@ -2912,7 +2917,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHV_11",
@@ -2992,7 +2997,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHV_21",
@@ -3008,7 +3013,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHV_23",
@@ -3072,7 +3077,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACHV_31",
@@ -3104,7 +3109,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHV_35",
@@ -3112,7 +3117,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACHV_36",
@@ -3144,7 +3149,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "ACHV_40",
@@ -3166,9 +3171,9 @@
       "ID": "ACHV_42",
       "SetID": "8p5mlmc",
       "Name": "Sorry, Didn\u0027t See You There",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHV_43",
@@ -3200,7 +3205,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ACHV_47",
@@ -3208,7 +3213,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHV_48",
@@ -3240,7 +3245,7 @@
       "Name": "Homewrecker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHV_52",
@@ -3272,7 +3277,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHV_56",
@@ -3295,7 +3300,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2112,
+      "Progressed": 2113,
       "Completed": 13
     }
   ],
@@ -3303,8 +3308,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:08:45.7947949+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:08:43.6797314+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:57:25.8689256+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:08:45.7948475+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:57:12.7419019+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:08:43.6797787+00:00"
 }

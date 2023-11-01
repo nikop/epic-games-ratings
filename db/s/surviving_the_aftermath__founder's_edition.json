@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1380,9 +1380,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10018,
+  "EOS_Progressed": 10019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16120,6 +16120,11 @@
       "Time": "2023-11-01T21:08:19.5596611+00:00",
       "NumProgressed": 10018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T22:08:12.26522+00:00",
+      "NumProgressed": 10019,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16131,7 +16136,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "10",
@@ -16209,9 +16214,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5209
+      "UsersEstimate": 5310
     },
     {
       "ID": "2",
@@ -16219,7 +16224,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "20",
@@ -16243,7 +16248,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7313
+      "UsersEstimate": 7314
     },
     {
       "ID": "23",
@@ -16355,7 +16360,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "36",
@@ -16403,7 +16408,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "41",
@@ -16523,7 +16528,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "55",
@@ -16555,7 +16560,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "59",
@@ -16602,15 +16607,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10018,
+      "Progressed": 10019,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-01T19:00:45.0889475+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:08:19.5596604+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:08:12.2652195+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:00:39.032903+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:08:19.5597745+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:00:43.3076665+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:08:12.2653123+00:00"
 }

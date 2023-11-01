@@ -6,7 +6,7 @@
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 33,
-  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
@@ -2736,9 +2736,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 536978,
+  "EOS_Progressed": 536982,
   "EOS_Completed": 1601,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -24161,6 +24161,11 @@
       "Time": "2023-11-01T21:05:29.3764335+00:00",
       "NumProgressed": 536978,
       "NumCompleted": 1601
+    },
+    {
+      "Time": "2023-11-01T22:05:24.7089802+00:00",
+      "NumProgressed": 536982,
+      "NumCompleted": 1601
     }
   ],
   "TotalAchievements": 37,
@@ -24172,7 +24177,7 @@
       "Name": "Branded",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69807
+      "UsersEstimate": 69808
     },
     {
       "ID": "COASTROCK",
@@ -24188,7 +24193,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 166463
+      "UsersEstimate": 166464
     },
     {
       "ID": "DEVOTED",
@@ -24228,7 +24233,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 445692
+      "UsersEstimate": 445695
     },
     {
       "ID": "HONED",
@@ -24284,7 +24289,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214791
+      "UsersEstimate": 214793
     },
     {
       "ID": "THE_CASTLE",
@@ -24300,7 +24305,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37588
+      "UsersEstimate": 37589
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -24340,7 +24345,7 @@
       "Name": "The Imposter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69807
+      "UsersEstimate": 69808
     },
     {
       "ID": "THE_IRON_ONES",
@@ -24348,7 +24353,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96656
+      "UsersEstimate": 96657
     },
     {
       "ID": "THE_KEEP",
@@ -24372,7 +24377,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37588
+      "UsersEstimate": 37589
     },
     {
       "ID": "THE_PALACE",
@@ -24412,7 +24417,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42958
+      "UsersEstimate": 42959
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -24420,7 +24425,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37588
+      "UsersEstimate": 37589
     },
     {
       "ID": "THE_THREE",
@@ -24428,7 +24433,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 343666
+      "UsersEstimate": 343668
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -24444,7 +24449,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91286
+      "UsersEstimate": 91287
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -24452,7 +24457,7 @@
       "Name": "The Ziggurat",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37588
+      "UsersEstimate": 37589
     },
     {
       "ID": "WISE_WORDS",
@@ -24467,15 +24472,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 536978,
+      "Progressed": 536982,
       "Completed": 1601
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-10-30T13:06:06.5803169+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:05:29.376433+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:05:24.7089799+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:52.4412902+00:00",
-  "LastUpdate_Ratings": "2023-11-01T21:00:18.4331601+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:05:29.3765588+00:00"
+  "LastUpdate_Ratings": "2023-11-01T22:00:21.5255866+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:05:24.7090962+00:00"
 }

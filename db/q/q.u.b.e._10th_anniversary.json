@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -118,9 +118,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14263,
+  "EOS_Progressed": 14290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4705,
+  "EOS_NewPlayers": 4696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1623,6 +1623,11 @@
       "Time": "2023-11-01T21:08:56.8104446+00:00",
       "NumProgressed": 14263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T22:08:55.5453266+00:00",
+      "NumProgressed": 14290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1632,9 +1637,9 @@
       "ID": "ACH_BlueIntro",
       "SetID": "a3lf366",
       "Name": "Feeling the Blues",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CollectAll",
@@ -1648,25 +1653,25 @@
       "ID": "ACH_CrushEnemy",
       "SetID": "a3lf366",
       "Name": "Squished",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CrushPhysicsBall",
       "SetID": "a3lf366",
       "Name": "Crush That Ball!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CrushPhysicsCube",
       "SetID": "a3lf366",
       "Name": "Crush That Cube!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_Finale",
@@ -1680,9 +1685,9 @@
       "ID": "ACH_S8AllBronze",
       "SetID": "a3lf366",
       "Name": "Bronze Trophy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -1825,7 +1830,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14263,
+      "Progressed": 14290,
       "Completed": 0
     }
   ],
@@ -1833,8 +1838,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-01T11:02:41.463948+00:00",
-  "LastChanged_Achievements": "2023-11-01T21:08:56.8104442+00:00",
+  "LastChanged_Achievements": "2023-11-01T22:08:55.5453259+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-01T20:02:50.2373997+00:00",
-  "LastUpdate_Achievements": "2023-11-01T21:08:56.8104656+00:00"
+  "LastUpdate_Ratings": "2023-11-01T21:56:56.9590193+00:00",
+  "LastUpdate_Achievements": "2023-11-01T22:08:55.545349+00:00"
 }
