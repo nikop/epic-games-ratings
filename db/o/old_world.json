@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1962,7 +1962,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15078,
+  "EOS_Progressed": 15079,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
@@ -15157,6 +15157,11 @@
       "Time": "2023-11-01T05:03:54.5670456+00:00",
       "NumProgressed": 15078,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-01T07:03:40.519312+00:00",
+      "NumProgressed": 15079,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16046,9 +16051,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -16790,9 +16795,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -17903,21 +17908,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15078,
+      "Progressed": 15079,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15078,
+      "Progressed": 15079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:04:20.418271+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:03:40.5193115+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:59:30.1326844+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:04:20.4196848+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:59:03.2102884+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:03:40.5205507+00:00"
 }

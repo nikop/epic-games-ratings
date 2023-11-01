@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3627,
+  "EOS_Progressed": 3630,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2046,
+  "EOS_NewPlayers": 2039,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1600,6 +1600,11 @@
       "Time": "2023-11-01T06:09:33.2154446+00:00",
       "NumProgressed": 3627,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T07:08:43.1400812+00:00",
+      "NumProgressed": 3630,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1620,7 +1625,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "BeLikeWater",
@@ -1652,7 +1657,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "Eavesdropper",
@@ -1684,7 +1689,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1692,7 +1697,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "GarbageMan",
@@ -1842,9 +1847,9 @@
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 290
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -1852,7 +1857,7 @@
       "Name": "Digestive Issues",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -1883,7 +1888,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3627,
+      "Progressed": 3630,
       "Completed": 2
     }
   ],
@@ -1891,8 +1896,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-31T19:00:56.8787797+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:09:33.215444+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:08:43.1400806+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:02:09.1082894+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:09:33.2154863+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:01:21.4707317+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:08:43.1401154+00:00"
 }

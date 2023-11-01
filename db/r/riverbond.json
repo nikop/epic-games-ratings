@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530391,
+  "EOS_Progressed": 530392,
   "EOS_Completed": 492,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -21232,6 +21232,11 @@
       "Time": "2023-11-01T04:05:00.9984781+00:00",
       "NumProgressed": 530391,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-11-01T07:05:46.4311105+00:00",
+      "NumProgressed": 530392,
+      "NumCompleted": 492
     }
   ],
   "TotalAchievements": 57,
@@ -21307,7 +21312,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31823
+      "UsersEstimate": 31824
     },
     {
       "ID": "18",
@@ -21323,7 +21328,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328842
+      "UsersEstimate": 328843
     },
     {
       "ID": "2",
@@ -21379,7 +21384,7 @@
       "Name": "Owl Knows Best",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31823
+      "UsersEstimate": 31824
     },
     {
       "ID": "26",
@@ -21387,7 +21392,7 @@
       "Name": "Mind the Moose",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 31823
+      "UsersEstimate": 31824
     },
     {
       "ID": "27",
@@ -21419,7 +21424,7 @@
       "Name": "Oh, Romeo!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31823
+      "UsersEstimate": 31824
     },
     {
       "ID": "30",
@@ -21483,7 +21488,7 @@
       "Name": "Dressed to Kill",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 31823
+      "UsersEstimate": 31824
     },
     {
       "ID": "38",
@@ -21507,7 +21512,7 @@
       "Name": "Beast Mode",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 31823
+      "UsersEstimate": 31824
     },
     {
       "ID": "40",
@@ -21539,7 +21544,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90166
+      "UsersEstimate": 90167
     },
     {
       "ID": "44",
@@ -21571,7 +21576,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328842
+      "UsersEstimate": 328843
     },
     {
       "ID": "48",
@@ -21698,15 +21703,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530391,
+      "Progressed": 530392,
       "Completed": 492
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:06:44.4799966+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:05:46.4311098+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.2071497+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:58:04.7071961+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:06:44.4802073+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:57:49.6747544+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:05:46.4312886+00:00"
 }

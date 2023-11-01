@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1000,
+  "EOS_Progressed": 1001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2524,6 +2524,11 @@
       "Time": "2023-10-31T15:09:23.3466365+00:00",
       "NumProgressed": 1000,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T07:08:27.2552734+00:00",
+      "NumProgressed": 1001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2535,7 +2540,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2557,9 +2562,9 @@
       "ID": "AMMO_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Out Of Stock",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 100
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -2597,9 +2602,9 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 10
     },
     {
       "ID": "BARK_ACHIEVEMENT_1",
@@ -2607,7 +2612,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2733,9 +2738,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 320
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2765,17 +2770,17 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 100
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 150
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2815,7 +2820,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2837,17 +2842,17 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 120
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 60
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -3013,9 +3018,9 @@
       "ID": "SCAN_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Let the Medical Exams Begin",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 20
     },
     {
       "ID": "SING_ACHIEVEMENT_1",
@@ -3062,14 +3067,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1000,
+      "Progressed": 1001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:09:14.8745438+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:08:27.2552725+00:00",
   "LastUpdate_AppInfo": "2023-10-26T21:57:19.6862725+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:59:04.8394539+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:09:14.8746487+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:58:40.5171227+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:08:27.2553539+00:00"
 }

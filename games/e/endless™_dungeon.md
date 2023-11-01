@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 69.00% | ~663 |
+| Leap Before You Look | 70.00% | ~673 |
 | Getting the Hang of It | 43.00% | ~413 |
 | Hoarder | 32.00% | ~308 |
 | Pest Control | 27.00% | ~259 |

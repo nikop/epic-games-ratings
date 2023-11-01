@@ -701,9 +701,9 @@
       "Count": 373
     }
   ],
-  "EOS_Progressed": 680410,
+  "EOS_Progressed": 680413,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 2423,
+  "EOS_NewPlayers": 2418,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22871,6 +22871,11 @@
       "Time": "2023-11-01T06:09:29.2333616+00:00",
       "NumProgressed": 680410,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-01T07:08:39.7913741+00:00",
+      "NumProgressed": 680413,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 52,
@@ -22890,7 +22895,7 @@
       "Name": "100 KILLS",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 204123
+      "UsersEstimate": 204124
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -22906,7 +22911,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 190515
+      "UsersEstimate": 190516
     },
     {
       "ID": "BIGUPS",
@@ -22970,7 +22975,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95257
+      "UsersEstimate": 95258
     },
     {
       "ID": "CHAPTER5",
@@ -22978,7 +22983,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81649
+      "UsersEstimate": 81650
     },
     {
       "ID": "CHAPTER6",
@@ -23018,7 +23023,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 27216
+      "UsersEstimate": 27217
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -23258,7 +23263,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 183711
+      "UsersEstimate": 183712
     },
     {
       "ID": "SOUL",
@@ -23297,7 +23302,7 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 680410,
+      "Progressed": 680413,
       "Completed": 81
     }
   ],
@@ -23305,8 +23310,8 @@
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
   "LastChanged": "2023-10-31T15:00:06.2960079+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:09:29.2333609+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:08:39.7913735+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:01.260967+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:00:10.8160949+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:09:29.2335838+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:59:40.621521+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:08:39.7915309+00:00"
 }

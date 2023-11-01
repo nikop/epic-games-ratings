@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~151 |
 | Artisans | 1.00% | ~151 |
 | Champions | 1.00% | ~151 |
+| Riders | 1.00% | ~151 |
 | Sages | 1.00% | ~151 |
 | Acropolis | 1.00% | ~151 |
 | Apadana | 1.00% | ~151 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Patrons | 0.90% | ~136 |
-| Riders | 0.90% | ~136 |
 | Statesmen | 0.90% | ~136 |
 | Traders | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.70% | ~106 |
 | Babylonia | 0.70% | ~106 |
 | Carthage | 0.70% | ~106 |
+| Egypt | 0.70% | ~106 |
 | One True Faith | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |
 | Industrial Progress | 0.70% | ~106 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.70% | ~106 |
 | Devout | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
-| Egypt | 0.60% | ~90 |
 | Hittite Paganism | 0.60% | ~90 |
 | Turreted Elephant | 0.60% | ~90 |
 | All Nations | 0.60% | ~90 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,078 (Ranked 144)  
+Progressed: 15,079 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,7 +544,7 @@ Completed: 5 (0.03%) (Ranked 301)
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
-| 2023-11-01 | 15,078 | 5 |
+| 2023-11-01 | 15,079 | 5 |
 ## Awards
 Max (Relaxing): 225  (Ranked 269)  
 Sum: 1,862 (Ranked 211)  

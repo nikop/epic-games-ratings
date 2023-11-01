@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,586 |
-| Break A Leg | 5.00% | ~35,488 |
-| Hotel California | 5.00% | ~35,488 |
+| Welcome To Hell-A | 6.00% | ~42,587 |
+| Break A Leg | 5.00% | ~35,489 |
+| Hotel California | 5.00% | ~35,489 |
 | Dr. Reed, I Presume? | 4.00% | ~28,391 |
 | Git Gutte! | 4.00% | ~28,391 |
 | Coup de Grâce | 4.00% | ~28,391 |
@@ -28,12 +28,12 @@ Rating: 4.54 (Ranked 521)
 | I Am the Resurrection | 3.00% | ~21,293 |
 | Our True Nature | 3.00% | ~21,293 |
 | This is My Weapon | 3.00% | ~21,293 |
-| Making Your Mark | 2.00% | ~14,195 |
-| Anger Management | 2.00% | ~14,195 |
-| Perks of the Job | 2.00% | ~14,195 |
-| Humanity Distilled | 2.00% | ~14,195 |
-| Down with the Sickness | 2.00% | ~14,195 |
-| Max Headroom | 2.00% | ~14,195 |
+| Making Your Mark | 2.00% | ~14,196 |
+| Anger Management | 2.00% | ~14,196 |
+| Perks of the Job | 2.00% | ~14,196 |
+| Humanity Distilled | 2.00% | ~14,196 |
+| Down with the Sickness | 2.00% | ~14,196 |
+| Max Headroom | 2.00% | ~14,196 |
 | Smorgasbord | 1.00% | ~7,098 |
 | Not Even My Final Form | 1.00% | ~7,098 |
 | Internet Famous | 1.00% | ~7,098 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 521)
 | Donk! | 0.20% | ~1,420 |
 | Bucket List | 0.10% | ~710 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709,764 (Ranked 22)  
+Progressed: 709,782 (Ranked 22)  
 Completed: 2,292 (0.32%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 2,292 (0.32%) (Ranked 212)
 | 2023-10-29 | 708,014 | 2,280 |
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
-| 2023-11-01 | 709,764 | 2,292 |
+| 2023-11-01 | 709,782 | 2,292 |
 ## Awards
 Max (Great Boss Battles): 6,773  (Ranked 54)  
 Sum: 10,215 (Ranked 90)  

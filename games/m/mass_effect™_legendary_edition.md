@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 94.00% | ~835 |
-| Spectre Inductee | 82.00% | ~728 |
-| Medal of Exploration I | 74.00% | ~657 |
-| Recruit | 71.00% | ~630 |
+| Distinguished Service Medal | 94.00% | ~836 |
+| Spectre Inductee | 81.00% | ~720 |
+| Medal of Exploration I | 74.00% | ~658 |
+| Recruit | 71.00% | ~631 |
 | Search and Rescue | 70.00% | ~622 |
-| Quarian Ally | 67.00% | ~595 |
-| Medal of Heroism | 64.00% | ~568 |
-| Honorarium of Corporate Service | 64.00% | ~568 |
-| Council Legion of Merit | 59.00% | ~524 |
-| Medal of Honor | 57.00% | ~506 |
-| Meritorious Service Medal | 57.00% | ~506 |
-| Medal of Exploration II | 57.00% | ~506 |
-| Turian Ally | 56.00% | ~497 |
-| Charismatic | 56.00% | ~497 |
-| Soldier | 55.00% | ~488 |
+| Quarian Ally | 67.00% | ~596 |
+| Medal of Heroism | 64.00% | ~569 |
+| Honorarium of Corporate Service | 64.00% | ~569 |
+| Council Legion of Merit | 59.00% | ~525 |
+| Medal of Honor | 57.00% | ~507 |
+| Meritorious Service Medal | 57.00% | ~507 |
+| Medal of Exploration II | 57.00% | ~507 |
+| Charismatic | 56.00% | ~498 |
+| Soldier | 55.00% | ~489 |
+| Turian Ally | 55.00% | ~489 |
 | Asari Ally | 51.00% | ~453 |
 | Principled | 51.00% | ~453 |
 | Medal of Exploration III | 50.00% | ~444 |
-| Paramour I | 49.00% | ~435 |
-| Soldier Ally | 49.00% | ~435 |
-| Colonial Savior | 48.00% | ~426 |
-| Scientist | 48.00% | ~426 |
-| Merciless | 47.00% | ~417 |
+| Paramour I | 49.00% | ~436 |
+| Soldier Ally | 49.00% | ~436 |
+| Colonial Savior | 48.00% | ~427 |
+| Scientist | 48.00% | ~427 |
+| Merciless | 46.00% | ~409 |
 | Krogan Ally | 45.00% | ~400 |
 | Missing in Action | 44.00% | ~391 |
 | Very Elusive | 44.00% | ~391 |
@@ -35,11 +35,11 @@
 | Scholar | 43.00% | ~382 |
 | Veteran | 42.00% | ~373 |
 | Sentinel Ally | 42.00% | ~373 |
-| The Professor | 40.00% | ~355 |
-| Power Full | 40.00% | ~355 |
-| The Archangel | 39.00% | ~346 |
-| Colony Defense | 38.00% | ~337 |
-| The Convict | 38.00% | ~337 |
+| The Professor | 40.00% | ~356 |
+| Power Full | 40.00% | ~356 |
+| The Archangel | 39.00% | ~347 |
+| The Convict | 38.00% | ~338 |
+| Colony Defense | 37.00% | ~329 |
 | The Krogan | 37.00% | ~329 |
 | Ghost Ship | 36.00% | ~320 |
 | Galactic Explorer | 36.00% | ~320 |
@@ -60,15 +60,15 @@
 | Archivist | 32.00% | ~284 |
 | Fade Away | 32.00% | ~284 |
 | Revenge! | 32.00% | ~284 |
-| Driven | 32.00% | ~284 |
-| Focused | 31.00% | ~275 |
-| Cat's in the Cradle | 31.00% | ~275 |
-| Treason | 31.00% | ~275 |
-| Agent | 31.00% | ~275 |
-| Digital Exorcist | 31.00% | ~275 |
-| Friend or Foe | 30.00% | ~266 |
-| Doppelganger | 30.00% | ~266 |
-| Bringer of War | 30.00% | ~266 |
+| Focused | 31.00% | ~276 |
+| Cat's in the Cradle | 31.00% | ~276 |
+| Treason | 31.00% | ~276 |
+| Agent | 31.00% | ~276 |
+| Digital Exorcist | 31.00% | ~276 |
+| Driven | 31.00% | ~276 |
+| Friend or Foe | 30.00% | ~267 |
+| Doppelganger | 30.00% | ~267 |
+| Bringer of War | 30.00% | ~267 |
 | Mission Accomplished | 29.00% | ~258 |
 | Suicide Mission | 29.00% | ~258 |
 | Mobilizer | 29.00% | ~258 |
@@ -87,9 +87,9 @@
 | Savior | 23.00% | ~204 |
 | Paramour II | 23.00% | ~204 |
 | Lost and Found | 23.00% | ~204 |
-| Party Crasher | 22.00% | ~195 |
-| Hard Target | 21.00% | ~186 |
-| Problem Solver | 21.00% | ~186 |
+| Party Crasher | 22.00% | ~196 |
+| Hard Target | 21.00% | ~187 |
+| Problem Solver | 21.00% | ~187 |
 | Pyromaniac | 20.00% | ~178 |
 | Under Pressure | 20.00% | ~178 |
 | No One Left Behind | 20.00% | ~178 |
@@ -107,8 +107,8 @@
 | Legend | 16.00% | ~142 |
 | Mail Slot | 14.00% | ~124 |
 | Long Service Medal | 14.00% | ~124 |
-| Combined Arms | 13.00% | ~115 |
-| Bruiser | 13.00% | ~115 |
+| Combined Arms | 13.00% | ~116 |
+| Bruiser | 13.00% | ~116 |
 | Paramour III | 11.00% | ~98 |
 | Overload Specialist | 11.00% | ~98 |
 | Warp Mastery | 11.00% | ~98 |
@@ -132,7 +132,7 @@
 | Neural Shock Specialist | 1.00% | ~9 |
 | The One and Only | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 888 (Ranked 256)  
+Progressed: 889 (Ranked 256)  
 Completed: 1 (0.11%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,4 +179,4 @@ Completed: 1 (0.11%) (Ranked 258)
 | 2023-10-29 | 853 | 0 |
 | 2023-10-30 | 868 | 0 |
 | 2023-10-31 | 885 | 0 |
-| 2023-11-01 | 888 | 1 |
+| 2023-11-01 | 889 | 1 |

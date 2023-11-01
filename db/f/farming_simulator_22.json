@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10764,9 +10764,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50873,
+  "EOS_Progressed": 50874,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28304,6 +28304,11 @@
       "Time": "2023-11-01T06:07:53.5140874+00:00",
       "NumProgressed": 50873,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-01T07:06:46.4820405+00:00",
+      "NumProgressed": 50874,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -28467,7 +28472,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38155
+      "UsersEstimate": 38156
     },
     {
       "ID": "HorseJumps",
@@ -28499,7 +28504,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 25436
+      "UsersEstimate": 25437
     },
     {
       "ID": "Mission",
@@ -28539,7 +28544,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20349
+      "UsersEstimate": 20350
     },
     {
       "ID": "NumPlaceables",
@@ -28571,7 +28576,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29506
+      "UsersEstimate": 29507
     },
     {
       "ID": "PetDog",
@@ -28579,7 +28584,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14244
+      "UsersEstimate": 14245
     },
     {
       "ID": "PlayTime",
@@ -28587,7 +28592,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29506
+      "UsersEstimate": 29507
     },
     {
       "ID": "Sow",
@@ -28603,7 +28608,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31541
+      "UsersEstimate": 31542
     },
     {
       "ID": "Stones",
@@ -28619,7 +28624,7 @@
       "Name": "Field Trip",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 22384
+      "UsersEstimate": 22385
     },
     {
       "ID": "TruckDriving",
@@ -28643,7 +28648,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6614
     },
     {
       "ID": "WrappedBales",
@@ -28658,15 +28663,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50873,
+      "Progressed": 50874,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-10-31T21:00:09.8884659+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:07:53.5140867+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:06:46.4820399+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:20.3592022+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:02:07.3962494+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:07:53.5142406+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:01:19.8046689+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:06:46.4821764+00:00"
 }

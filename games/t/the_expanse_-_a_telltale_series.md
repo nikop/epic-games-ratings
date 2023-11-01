@@ -20,8 +20,8 @@ Rating: 4.60 (Ranked 407)
 | Stogie for Fogey | 0.80% | ~116 |
 | Heal Thy Medic | 0.80% | ~116 |
 | Khan's Revenge | 0.80% | ~116 |
+| Thorston Mayer | 0.60% | ~87 |
 | Bottoms up! | 0.50% | ~73 |
-| Thorston Mayer | 0.50% | ~73 |
 | Miraculous Maya | 0.50% | ~73 |
 | Doctor Approved | 0.40% | ~58 |
 | Data Logger | 0.30% | ~44 |

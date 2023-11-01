@@ -52,15 +52,15 @@ Rating: 4.82 (Ranked 62)
 | Truth is a dark mirror | 12.00% | ~314 |
 | Back to sleep, then... | 12.00% | ~314 |
 | Do you trust me? | 11.00% | ~288 |
+| The great mage rebellion starts now | 11.00% | ~288 |
 | You can pet the... horse | 11.00% | ~288 |
 | Chains master | 10.00% | ~261 |
-| The great mage rebellion starts now | 10.00% | ~261 |
 | Spellcrafting | 10.00% | ~261 |
 | Silverwing nest | 2.00% | ~52 |
 | The Unshackled | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,614 (Ranked 206)  
-Completed: 13 (0.50%) (Ranked 190)  
+Completed: 14 (0.54%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 13 (0.50%) (Ranked 190)
 | 2023-10-25 | 2,609 | 13 |
 | 2023-10-28 | 2,611 | 13 |
 | 2023-10-29 | 2,612 | 13 |
-| 2023-11-01 | 2,614 | 13 |
+| 2023-11-01 | 2,614 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

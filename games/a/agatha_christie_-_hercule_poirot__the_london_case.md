@@ -21,10 +21,10 @@
 | DI Hardwicke | 36.00% | ~10 |
 | Betty Allen | 32.00% | ~9 |
 | The Investigation Begins | 32.00% | ~9 |
-| An odd series of events | 21.00% | ~6 |
-| Ms. Camilla B. Culsham | 21.00% | ~6 |
-| Irene Court-Smyth | 21.00% | ~6 |
-| The Apartment | 21.00% | ~6 |
+| An odd series of events | 25.00% | ~7 |
+| Ms. Camilla B. Culsham | 25.00% | ~7 |
+| Irene Court-Smyth | 25.00% | ~7 |
+| The Apartment | 25.00% | ~7 |
 | A rude awakening | 18.00% | ~5 |
 | Nathaniel Dryden | 18.00% | ~5 |
 | Well-acquainted | 11.00% | ~3 |

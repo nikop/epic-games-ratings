@@ -8,7 +8,7 @@ Rating: 4.63 (Ranked 346)
 | Marksman | 94.00% | ~1,301 |
 | Welcome Aboard | 85.00% | ~1,176 |
 | Lab Rat | 75.00% | ~1,038 |
-| All Systems Go | 65.00% | ~900 |
+| All Systems Go | 66.00% | ~913 |
 | Brute Force | 65.00% | ~900 |
 | Cannon Fodder | 61.00% | ~844 |
 | Autofire | 58.00% | ~803 |

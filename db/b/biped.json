@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6829,
+  "EOS_Progressed": 6830,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12184,6 +12184,11 @@
       "Time": "2023-11-01T06:05:03.6025237+00:00",
       "NumProgressed": 6829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T07:04:17.278353+00:00",
+      "NumProgressed": 6830,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12267,7 +12272,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "5",
@@ -12314,7 +12319,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6829,
+      "Progressed": 6830,
       "Completed": 0
     }
   ],
@@ -12322,8 +12327,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:05:03.6025227+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:04:17.2783525+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:15.5003147+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:00:41.1896077+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:05:03.6026336+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:00:06.0124259+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:04:17.2784397+00:00"
 }

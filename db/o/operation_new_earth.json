@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1735,
+  "EOS_Progressed": 1736,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6479,6 +6479,11 @@
       "Time": "2023-11-01T01:53:55.3457567+00:00",
       "NumProgressed": 1735,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T07:06:56.0385238+00:00",
+      "NumProgressed": 1736,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6498,15 +6503,15 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6568,9 +6573,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 174
     },
     {
       "ID": "objective_headquarters_15",
@@ -6594,7 +6599,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6648,9 +6653,9 @@
       "ID": "objective_hero_level_up_7",
       "SetID": "bm61c2p",
       "Name": "General",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 35
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -6752,9 +6757,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -6793,7 +6798,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1735,
+      "Progressed": 1736,
       "Completed": 1
     }
   ],
@@ -6801,8 +6806,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:08:04.5485671+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:06:56.0385232+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:58:07.856872+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:08:04.5486682+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:57:52.5669522+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:06:56.0385884+00:00"
 }

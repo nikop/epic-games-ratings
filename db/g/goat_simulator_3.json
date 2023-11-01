@@ -4783,9 +4783,9 @@
       "Count": 320
     }
   ],
-  "EOS_Progressed": 249338,
+  "EOS_Progressed": 249339,
   "EOS_Completed": 868,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26003,6 +26003,11 @@
       "Time": "2023-11-01T06:10:07.7401908+00:00",
       "NumProgressed": 249338,
       "NumCompleted": 868
+    },
+    {
+      "Time": "2023-11-01T07:09:13.2745142+00:00",
+      "NumProgressed": 249339,
+      "NumCompleted": 868
     }
   ],
   "TotalAchievements": 39,
@@ -26014,7 +26019,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 62334
+      "UsersEstimate": 62335
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -26046,7 +26051,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67321
+      "UsersEstimate": 67322
     },
     {
       "ID": "AchievementBigFootID",
@@ -26062,7 +26067,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 74801
+      "UsersEstimate": 74802
     },
     {
       "ID": "AchievementBoulderID",
@@ -26086,7 +26091,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42387
+      "UsersEstimate": 42388
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -26142,7 +26147,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132149
+      "UsersEstimate": 132150
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -26174,7 +26179,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112202
+      "UsersEstimate": 112203
     },
     {
       "ID": "AchievementIntroID",
@@ -26214,7 +26219,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 94748
+      "UsersEstimate": 94749
     },
     {
       "ID": "AchievementRampID",
@@ -26246,7 +26251,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 184510
+      "UsersEstimate": 184511
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -26262,7 +26267,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 124669
+      "UsersEstimate": 124670
     },
     {
       "ID": "AchievementStreakingID",
@@ -26318,14 +26323,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67321
+      "UsersEstimate": 67322
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 249338,
+      "Progressed": 249339,
       "Completed": 868
     }
   ],
@@ -26333,8 +26338,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-01T02:58:11.8269734+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:10:07.74019+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:09:13.2745137+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.9944721+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:58:45.8904085+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:10:07.7403879+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:58:23.4425691+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:09:13.2746796+00:00"
 }

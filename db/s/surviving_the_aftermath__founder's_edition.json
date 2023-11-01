@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -16426,9 +16426,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2400
     },
     {
       "ID": "5",
@@ -16562,8 +16562,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-01T01:47:45.1075892+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:09:11.2086137+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:08:24.2308893+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:01:44.0832499+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:09:11.2087727+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:00:59.6018199+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:08:24.231055+00:00"
 }

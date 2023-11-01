@@ -4,11 +4,11 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 309,
   "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1249,10 +1249,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 721,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-11-01T06:57:33.3677836+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 722,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 721,
+  "NumberOfAwards": 722,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1266,7 +1272,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12404,9 +12410,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2023-10-28T01:39:51.9605295+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:10:16.744483+00:00",
+  "LastChanged": "2023-11-01T06:57:33.3677835+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:09:21.1471494+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:57:46.7438898+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:10:16.7446057+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:57:33.367784+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:09:21.1472402+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -134,10 +134,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2614,
-  "EOS_Completed": 13,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -3873,6 +3873,11 @@
       "Time": "2023-11-01T01:52:41.9165929+00:00",
       "NumProgressed": 2614,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-01T07:05:44.8778384+00:00",
+      "NumProgressed": 2614,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 53,
@@ -4090,9 +4095,9 @@
       "ID": "STB_MISSION12_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "The great mage rebellion starts now",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 288
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -4308,15 +4313,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 2614,
-      "Completed": 13
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:06:42.6665488+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:05:44.8778376+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.7626077+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:59:31.3007796+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:06:42.6666443+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:59:04.1914635+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:05:44.8779093+00:00"
 }

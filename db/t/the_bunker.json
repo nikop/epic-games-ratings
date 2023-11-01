@@ -4,8 +4,8 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "CHAPTER_05_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Replace Fuse",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "CHAPTER_06_COMPLETE",
@@ -527,8 +527,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:05:25.8143387+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:04:36.2044718+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:39.9991009+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:59:39.0636193+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:05:25.8143635+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:59:10.3563949+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:04:36.2044929+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -294,9 +294,9 @@
       "ID": "ACH_023",
       "SetID": "7b646ck",
       "Name": "An odd series of events",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_024",
@@ -382,9 +382,9 @@
       "ID": "ACH_033",
       "SetID": "7b646ck",
       "Name": "Ms. Camilla B. Culsham",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_034",
@@ -430,9 +430,9 @@
       "ID": "ACH_039",
       "SetID": "7b646ck",
       "Name": "Irene Court-Smyth",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_04",
@@ -502,9 +502,9 @@
       "ID": "ACH_05",
       "SetID": "7b646ck",
       "Name": "The Apartment",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_06",
@@ -549,8 +549,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:06:14.444231+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:05:18.501575+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.7786932+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:03:47.126728+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:06:14.4442811+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:03:10.9065184+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:05:18.5016182+00:00"
 }

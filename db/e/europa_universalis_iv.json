@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 117,
+  "Ranking_EOS_NewCompleters": 118,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11457,9 +11457,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 444054,
+  "EOS_Progressed": 444075,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5170,
+  "EOS_NewPlayers": 5180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33682,6 +33682,11 @@
       "Time": "2023-11-01T06:06:32.097936+00:00",
       "NumProgressed": 444054,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T07:05:36.0601494+00:00",
+      "NumProgressed": 444075,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34085,7 +34090,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -34133,7 +34138,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8881
+      "UsersEstimate": 8882
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -34213,7 +34218,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8881
+      "UsersEstimate": 8882
     },
     {
       "ID": "achievement_colonial_management",
@@ -34349,7 +34354,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -34525,7 +34530,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8881
+      "UsersEstimate": 8882
     },
     {
       "ID": "achievement_forever_golden",
@@ -34693,7 +34698,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17762
+      "UsersEstimate": 17763
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35261,7 +35266,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     },
     {
       "ID": "achievement_my_true_friend",
@@ -35645,7 +35650,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -35693,7 +35698,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8881
+      "UsersEstimate": 8882
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36245,7 +36250,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -36357,7 +36362,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17762
+      "UsersEstimate": 17763
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36389,7 +36394,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17762
+      "UsersEstimate": 17763
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36524,21 +36529,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 444054,
+      "Progressed": 444075,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 444054,
+      "Progressed": 444075,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-10-31T22:59:21.1311761+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:06:32.0979352+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:05:36.0601487+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:59:52.4554593+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:06:32.0995002+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:59:22.1671888+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:05:36.0615991+00:00"
 }

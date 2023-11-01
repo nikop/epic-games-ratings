@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -685,7 +685,7 @@
   ],
   "EOS_Progressed": 1384,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4434,9 +4434,9 @@
       "ID": "achievement_3",
       "SetID": "222fo9l",
       "Name": "All Systems Go",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 913
     },
     {
       "ID": "achievement_30",
@@ -4643,8 +4643,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-11-01T06:05:48.1299235+00:00",
+  "LastChanged_Achievements": "2023-11-01T07:04:55.4863095+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-11-01T06:03:25.7998539+00:00",
-  "LastUpdate_Achievements": "2023-11-01T06:05:48.1300017+00:00"
+  "LastUpdate_Ratings": "2023-11-01T07:02:52.0310778+00:00",
+  "LastUpdate_Achievements": "2023-11-01T07:04:55.4863904+00:00"
 }
