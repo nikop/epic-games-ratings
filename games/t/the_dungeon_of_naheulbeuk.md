@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,665 |
+| Sowwy! | 34.00% | ~79,668 |
 | Alt+F4 | 7.00% | ~16,402 |
 | Where's that freaking Dwarf? | 6.00% | ~14,059 |
-| Déjà vu | 5.00% | ~11,715 |
-| A beer, two curses, three companions | 4.00% | ~9,372 |
-| Sock! SOCK! | 4.00% | ~9,372 |
-| GG EZ | 4.00% | ~9,372 |
-| Speedrun | 4.00% | ~9,372 |
-| Way of the Wimp | 3.00% | ~7,029 |
-| The plot thickens... At the tavern | 3.00% | ~7,029 |
-| DM intervention | 3.00% | ~7,029 |
-| Fireproof Wizardess | 3.00% | ~7,029 |
+| Déjà vu | 5.00% | ~11,716 |
+| A beer, two curses, three companions | 4.00% | ~9,373 |
+| Sock! SOCK! | 4.00% | ~9,373 |
+| GG EZ | 4.00% | ~9,373 |
+| Speedrun | 4.00% | ~9,373 |
+| Way of the Wimp | 3.00% | ~7,030 |
+| The plot thickens... At the tavern | 3.00% | ~7,030 |
+| DM intervention | 3.00% | ~7,030 |
+| Fireproof Wizardess | 3.00% | ~7,030 |
 | Livin' in a dwarven paradise | 2.00% | ~4,686 |
 | Shiny and Crôm | 2.00% | ~4,686 |
 | The demons' feast | 2.00% | ~4,686 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,343 |
 | Material Girl | 1.00% | ~2,343 |
 | Gargantua | 0.90% | ~2,109 |
-| In Navalu's footsteps | 0.80% | ~1,874 |
+| In Navalu's footsteps | 0.80% | ~1,875 |
 | Lëgal Legend | 0.70% | ~1,640 |
 | We come in peace | 0.60% | ~1,406 |
 | Holistic Adventuring Party | 0.50% | ~1,172 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~234 |
 | Dwarf Candy | 0.10% | ~234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,309 (Ranked 61)  
+Progressed: 234,319 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 7 (0.00%) (Ranked 334)
 | 2023-10-29 | 233,955 | 7 |
 | 2023-10-30 | 234,124 | 7 |
 | 2023-10-31 | 234,284 | 7 |
-| 2023-11-01 | 234,309 | 7 |
+| 2023-11-01 | 234,319 | 7 |
 ## Awards
 Max (Character Customization): 225  (Ranked 269)  
 Sum: 449 (Ranked 327)  

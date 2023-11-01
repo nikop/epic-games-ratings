@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 10411,
+  "EOS_Progressed": 10413,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8459,6 +8459,11 @@
       "Time": "2023-11-01T03:08:37.6783719+00:00",
       "NumProgressed": 10411,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-01T04:06:31.7097363+00:00",
+      "NumProgressed": 10413,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8519,7 +8524,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "a_19",
@@ -8559,7 +8564,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "a_23",
@@ -8718,7 +8723,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 10411,
+      "Progressed": 10413,
       "Completed": 10
     }
   ],
@@ -8726,8 +8731,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:08:37.6783715+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:06:31.7097357+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:58:01.4513852+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:08:37.6784445+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:57:54.8577409+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:06:31.7098029+00:00"
 }

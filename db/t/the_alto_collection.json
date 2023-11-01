@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -802,9 +802,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44642,
+  "EOS_Progressed": 44645,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22732,6 +22732,11 @@
       "Time": "2023-11-01T03:05:22.5344699+00:00",
       "NumProgressed": 44642,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-01T04:04:57.1697655+00:00",
+      "NumProgressed": 44645,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22783,7 +22788,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12053
+      "UsersEstimate": 12054
     },
     {
       "ID": "goals180",
@@ -22863,7 +22868,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "novice",
@@ -22895,7 +22900,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "playerPaz",
@@ -22951,7 +22956,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11607
+      "UsersEstimate": 11608
     },
     {
       "ID": "sandboarder",
@@ -23007,7 +23012,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6696
+      "UsersEstimate": 6697
     },
     {
       "ID": "unlockpaz",
@@ -23039,7 +23044,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "windswept",
@@ -23054,15 +23059,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44642,
+      "Progressed": 44645,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:05:22.5344695+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:04:57.1697647+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:58:29.980251+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:05:22.5346388+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:58:25.5868681+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:04:57.1699274+00:00"
 }

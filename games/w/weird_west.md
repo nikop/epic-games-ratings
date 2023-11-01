@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,732 |
-| Self-Improvement | 71.00% | ~1,397 |
-| Perky | 65.00% | ~1,279 |
+| Unforgiven | 88.00% | ~1,733 |
+| Self-Improvement | 71.00% | ~1,398 |
+| Perky | 65.00% | ~1,280 |
 | Let’s Ride | 60.00% | ~1,181 |
-| Welcome to the Weird West | 56.00% | ~1,102 |
-| Dead or Alive | 55.00% | ~1,082 |
-| Full House | 37.00% | ~728 |
+| Welcome to the Weird West | 56.00% | ~1,103 |
+| Dead or Alive | 55.00% | ~1,083 |
+| Full House | 37.00% | ~729 |
 | Off the Trail | 34.00% | ~669 |
-| Justice Served | 30.00% | ~590 |
+| Justice Served | 30.00% | ~591 |
 | Chain Reaction | 26.00% | ~512 |
 | Through Their Eyes | 26.00% | ~512 |
 | Dishonored | 25.00% | ~492 |
@@ -32,16 +32,16 @@ Number of Ratings: 125  (23.09.2022)
 | Workers' Rights | 13.00% | ~256 |
 | Elusive Prey | 12.00% | ~236 |
 | Power Behind the Pulpit | 12.00% | ~236 |
-| Something Wicked This Way Comes… | 11.00% | ~216 |
-| There is Hope | 11.00% | ~216 |
+| Something Wicked This Way Comes… | 11.00% | ~217 |
+| There is Hope | 11.00% | ~217 |
 | Loyalty to the Pack | 9.00% | ~177 |
 | Eternity Can Wait | 9.00% | ~177 |
 | Mystery Machine | 9.00% | ~177 |
 | The Philosopher’s Stone | 9.00% | ~177 |
-| Do Not Pass Go… | 8.00% | ~157 |
-| Gold Digger | 8.00% | ~157 |
-| Monster Hunter | 8.00% | ~157 |
-| Knuckle Sandwich | 8.00% | ~157 |
+| Do Not Pass Go… | 8.00% | ~158 |
+| Gold Digger | 8.00% | ~158 |
+| Monster Hunter | 8.00% | ~158 |
+| Knuckle Sandwich | 8.00% | ~158 |
 | Getting the Gang Back Together | 7.00% | ~138 |
 | Who You Gonna Call? | 6.00% | ~118 |
 | Healing Old Wounds | 5.00% | ~98 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,968 (Ranked 216)  
+Progressed: 1,969 (Ranked 216)  
 Completed: 7 (0.36%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 7 (0.36%) (Ranked 209)
 | 2023-10-29 | 1,958 | 7 |
 | 2023-10-30 | 1,961 | 7 |
 | 2023-10-31 | 1,967 | 7 |
-| 2023-11-01 | 1,968 | 7 |
+| 2023-11-01 | 1,969 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 497)  
 Sum: 28 (Ranked 509)  

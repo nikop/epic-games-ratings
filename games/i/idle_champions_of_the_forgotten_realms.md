@@ -6,14 +6,14 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,333 |
+| A Brief Tour of the Realms | 1.00% | ~2,334 |
 | The Cursed Farmer | 0.50% | ~1,167 |
 | Foul Play | 0.50% | ~998 |
 | Beast Intentions | 0.40% | ~933 |
 | The Mad Wizard | 0.40% | ~933 |
-| The Jungles of Doomspace | 0.40% | ~798 |
-| The Arena of Blood | 0.40% | ~798 |
-| Spelljammers in Training | 0.40% | ~798 |
+| The Jungles of Doomspace | 0.40% | ~799 |
+| The Arena of Blood | 0.40% | ~799 |
+| Spelljammers in Training | 0.40% | ~799 |
 | The Ring of Regeneration | 0.30% | ~700 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,349 (Ranked 62)  
+Progressed: 233,352 (Ranked 62)  
 Completed: 2,414 (1.03%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -730,7 +730,7 @@ Completed: 2,414 (1.03%) (Ranked 151)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,349 | 2,414 |
+| 2023-11-01 | 233,352 | 2,414 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,288 (Ranked 41)  

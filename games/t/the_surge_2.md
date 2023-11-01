@@ -19,7 +19,7 @@ Rating: 4.24 (Ranked 869)
 | Luminary | 23.00% | ~483 |
 | True Survivor | 22.00% | ~462 |
 | It's a Trap | 22.00% | ~462 |
-| Offensive Defense | 20.00% | ~420 |
+| Offensive Defense | 21.00% | ~441 |
 | Shocking | 20.00% | ~420 |
 | Unforeseeable Consequences | 20.00% | ~420 |
 | Court Martial | 19.00% | ~399 |

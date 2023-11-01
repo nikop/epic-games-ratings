@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8373,
+  "EOS_Progressed": 8374,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -10386,6 +10386,11 @@
       "Time": "2023-11-01T03:04:47.7567732+00:00",
       "NumProgressed": 8373,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-01T04:04:21.8294409+00:00",
+      "NumProgressed": 8374,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10469,7 +10474,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "ACH11",
@@ -10501,7 +10506,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACH15",
@@ -10517,7 +10522,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ACH17",
@@ -10581,7 +10586,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH25",
@@ -10628,7 +10633,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8373,
+      "Progressed": 8374,
       "Completed": 56
     }
   ],
@@ -10636,8 +10641,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:04:47.7567729+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:04:21.8294405+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.2944998+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:00:20.9889082+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:04:47.756857+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:00:14.2517417+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:04:21.8295192+00:00"
 }

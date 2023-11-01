@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 604,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -1375,9 +1375,9 @@
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "INTERROGATION",
@@ -1448,8 +1448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:05:47.4035694+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:05:22.1925311+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:59:50.787628+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:05:47.403594+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:59:43.1124339+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:05:22.1925519+00:00"
 }

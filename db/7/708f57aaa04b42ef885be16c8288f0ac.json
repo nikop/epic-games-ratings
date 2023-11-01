@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3610,
+  "EOS_Progressed": 3613,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2062,
+  "EOS_NewPlayers": 2055,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1585,6 +1585,11 @@
       "Time": "2023-11-01T03:09:08.9799888+00:00",
       "NumProgressed": 3610,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T04:08:42.8022009+00:00",
+      "NumProgressed": 3613,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1645,7 +1650,7 @@
       "Name": "Eavesdropper",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ExplosivePersonality",
@@ -1669,7 +1674,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1677,7 +1682,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "GarbageMan",
@@ -1749,7 +1754,7 @@
       "Name": "No More Totems",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1821,7 +1826,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -1837,7 +1842,7 @@
       "Name": "Digestive Issues",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -1853,7 +1858,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "k01101110",
@@ -1868,7 +1873,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3610,
+      "Progressed": 3613,
       "Completed": 2
     }
   ],
@@ -1876,8 +1881,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-31T19:00:56.8787797+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:09:08.9799885+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:08:42.8022004+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:00:31.408423+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:09:08.9800201+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:00:25.204047+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:08:42.8022349+00:00"
 }

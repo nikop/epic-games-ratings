@@ -8,7 +8,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~38,152 |
 | I read Shakespeare and stuff | 64.00% | ~32,557 |
-| Just a sprinkle | 62.00% | ~31,539 |
+| Just a sprinkle | 63.00% | ~32,048 |
 | I'm stumped | 61.00% | ~31,031 |
 | Plant get enough | 60.00% | ~30,522 |
 | This is just my weekend vehicle | 58.00% | ~29,505 |

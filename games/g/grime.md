@@ -17,15 +17,15 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,558 |
 | Sharpened Vessel | 1.00% | ~1,558 |
 | Scion | 0.90% | ~1,399 |
-| Jawcrab | 0.90% | ~1,402 |
-| Jawstag | 0.90% | ~1,402 |
-| Feast | 0.90% | ~1,402 |
+| Jawcrab | 0.90% | ~1,403 |
+| Jawstag | 0.90% | ~1,403 |
+| Feast | 0.90% | ~1,403 |
 | Watcher | 0.80% | ~1,247 |
 | Shapely | 0.70% | ~1,091 |
 | Glare | 0.70% | ~1,088 |
 | Predator | 0.70% | ~1,091 |
 | Assimilation | 0.60% | ~935 |
-| Host | 0.60% | ~932 |
+| Host | 0.60% | ~933 |
 | Celebration | 0.60% | ~935 |
 | Hunt Down | 0.50% | ~779 |
 | All-Seeing | 0.50% | ~779 |
@@ -35,11 +35,11 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.40% | ~623 |
 | Inevitable | 0.40% | ~623 |
 | Breathsmith | 0.40% | ~623 |
-| Bloodhunter | 0.30% | ~467 |
+| Bloodhunter | 0.30% | ~468 |
 | Zygote | 0.30% | ~466 |
-| Unwrap the Gift | 0.30% | ~467 |
-| Passage | 0.30% | ~467 |
-| Proportions | 0.30% | ~467 |
+| Unwrap the Gift | 0.30% | ~468 |
+| Passage | 0.30% | ~468 |
+| Proportions | 0.30% | ~468 |
 | Kinship | 0.20% | ~312 |
 | Weakness | 0.20% | ~312 |
 | Kin | 0.20% | ~311 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~155 |
 | Enrich | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,831 (Ranked 75)  
+Progressed: 155,835 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 1 (0.00%) (Ranked 334)
 | 2023-10-29 | 155,483 | 1 |
 | 2023-10-30 | 155,658 | 1 |
 | 2023-10-31 | 155,810 | 1 |
-| 2023-11-01 | 155,831 | 1 |
+| 2023-11-01 | 155,835 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 337 (Ranked 351)  

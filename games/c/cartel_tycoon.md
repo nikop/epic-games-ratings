@@ -21,7 +21,7 @@ Number of Ratings: 101  (23.09.2022)
 | Bite the Blow | 23.00% | ~151 |
 | Spreading Fear | 10.00% | ~66 |
 | Follow the Money | 7.00% | ~46 |
-| I'm Going To Call You Kitty | 6.00% | ~39 |
+| I'm Going To Call You Kitty | 7.00% | ~46 |
 | Operation Odessa | 1.00% | ~7 |
 | Iron Lady | 0.60% | ~4 |
 | Sense Of Style | 0.30% | ~2 |

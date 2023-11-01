@@ -2,9 +2,9 @@
   "ID": "dad208fc27084f0fa6ac1cd333c53f57",
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
-  "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 337,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
     {
       "Time": "2023-10-29T23:05:30.6543669+00:00",
@@ -104,6 +104,11 @@
       "Time": "2023-11-01T03:05:21.4056973+00:00",
       "NumProgressed": 324,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-01T04:04:55.9632945+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -116,7 +121,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -124,15 +129,15 @@
       "Name": "Unlock the secret room",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
       "SetID": "4d50jip",
       "Name": "Collect the mask",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -140,7 +145,7 @@
       "Name": "Unlock the gate",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -148,7 +153,7 @@
       "Name": "Unlock the PC",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -156,15 +161,15 @@
       "Name": "Move the sofa",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 192
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -172,7 +177,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -204,7 +209,7 @@
       "Name": "Speedrunner",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_OPENGATE",
@@ -234,23 +239,23 @@
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV in Speedrun",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 337,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:05:21.4056969+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:04:55.963294+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:23.7565535+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:00:40.1806227+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:05:21.4057124+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:00:34.0121378+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:04:55.9633052+00:00"
 }

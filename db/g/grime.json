@@ -1321,9 +1321,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 155831,
+  "EOS_Progressed": 155835,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1344,
+  "EOS_NewPlayers": 1341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13881,6 +13881,11 @@
       "Time": "2023-11-01T03:06:06.6125057+00:00",
       "NumProgressed": 155831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-01T04:05:41.3622573+00:00",
+      "NumProgressed": 155835,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -13900,7 +13905,7 @@
       "Name": "Bloodhunter",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -14012,7 +14017,7 @@
       "Name": "Host",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -14036,7 +14041,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -14044,7 +14049,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -14068,7 +14073,7 @@
       "Name": "Feast",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -14172,7 +14177,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -14180,7 +14185,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "QUEST_CHILD",
@@ -14220,7 +14225,7 @@
       "Name": "Proportions",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -14259,21 +14264,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155414,
+      "Progressed": 155418,
       "Completed": 1184
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155831,
+      "Progressed": 155835,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-10-31T21:58:01.3077339+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:06:06.6125051+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:05:41.3622569+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:58:08.4684885+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:06:06.6126291+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:58:04.6745735+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:05:41.362372+00:00"
 }

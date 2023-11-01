@@ -1,25 +1,25 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 106)  
+Rating: 4.78 (Ranked 105)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~621,506 |
-| Death From Above | 45.00% | ~607,995 |
-| Master of the Household | 38.00% | ~513,418 |
-| Death of the Party | 36.00% | ~486,396 |
-| NEXUS-47 | 33.00% | ~445,863 |
-| The Last Tango | 31.00% | ~418,841 |
-| Nightmare Fuel | 30.00% | ~405,330 |
-| The Result of Previous Training | 28.00% | ~378,308 |
-| Tools of the Trade | 28.00% | ~378,308 |
-| Cleared for Field Duty | 27.00% | ~364,797 |
-| Seizing the Opportunity | 26.00% | ~351,286 |
-| Bullet Train | 21.00% | ~283,731 |
-| Stylish Assassin | 20.00% | ~270,220 |
-| Silent Assassin | 14.00% | ~189,154 |
+| Unseen Assassin | 46.00% | ~621,508 |
+| Death From Above | 45.00% | ~607,997 |
+| Master of the Household | 38.00% | ~513,420 |
+| Death of the Party | 36.00% | ~486,397 |
+| NEXUS-47 | 33.00% | ~445,864 |
+| The Last Tango | 31.00% | ~418,842 |
+| Nightmare Fuel | 30.00% | ~405,331 |
+| The Result of Previous Training | 28.00% | ~378,309 |
+| Tools of the Trade | 28.00% | ~378,309 |
+| Cleared for Field Duty | 27.00% | ~364,798 |
+| Seizing the Opportunity | 26.00% | ~351,287 |
+| Bullet Train | 21.00% | ~283,732 |
+| Stylish Assassin | 20.00% | ~270,221 |
+| Silent Assassin | 14.00% | ~189,155 |
 | Rise Up | 12.00% | ~162,132 |
 | Evil Wine Club | 11.00% | ~148,621 |
 | Console Cowboy | 10.00% | ~135,110 |
@@ -54,8 +54,8 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,511 |
 | The Creative Assassin | 0.70% | ~9,458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351,100 (Ranked 9)  
-Completed: 2,169 (0.16%) (Ranked 247)  
+Progressed: 1,351,104 (Ranked 9)  
+Completed: 2,171 (0.16%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 2,169 (0.16%) (Ranked 247)
 | 2023-10-29 | 1,350,437 | 2,167 |
 | 2023-10-30 | 1,350,770 | 2,168 |
 | 2023-10-31 | 1,351,062 | 2,169 |
-| 2023-11-01 | 1,351,100 | 2,169 |
+| 2023-11-01 | 1,351,104 | 2,171 |
 ## Awards
 Max (Diverse Characters): 10,487  (Ranked 38)  
 Sum: 72,954 (Ranked 21)  

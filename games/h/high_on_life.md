@@ -5,6 +5,7 @@ Rating: 4.64 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Creature Feature | 2.00% | ~488 |
 | Satisfied Gus-tomer | 2.00% | ~488 |
 | Are You Packin'? | 2.00% | ~488 |
 | Bring A Knife to a Gun Fight | 2.00% | ~488 |
@@ -13,7 +14,6 @@ Rating: 4.64 (Ranked 329)
 | G3 Graduation | 2.00% | ~488 |
 | Cold-Blooded Driller | 2.00% | ~488 |
 | Who's The Boss? | 2.00% | ~488 |
-| Creature Feature | 1.00% | ~244 |
 | Lezduit! | 1.00% | ~244 |
 | RIP Davey Glutes | 1.00% | ~244 |
 | We're All Very Impressed, Trust Me | 1.00% | ~244 |

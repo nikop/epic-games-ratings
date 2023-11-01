@@ -13,12 +13,12 @@
 | A Taste of Wrath | 9.00% | ~4 |
 | Trinity | 9.00% | ~4 |
 | Shatter Them All | 9.00% | ~4 |
+| Fashion Victim | 9.00% | ~4 |
 | The Collector | 9.00% | ~4 |
 | Calm before the Storm | 7.00% | ~3 |
 | To Battle | 7.00% | ~3 |
 | Godslayer | 7.00% | ~3 |
 | Geared Up | 7.00% | ~3 |
-| Fashion Victim | 7.00% | ~3 |
 | Miner | 7.00% | ~3 |
 | The Mentor | 5.00% | ~2 |
 | A Queen's Tale | 5.00% | ~2 |

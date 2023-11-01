@@ -4,10 +4,10 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 952,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 452,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 116,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2088,
+  "EOS_Progressed": 2089,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6430,6 +6430,11 @@
       "Time": "2023-11-01T00:04:19.3975263+00:00",
       "NumProgressed": 2088,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T04:04:37.6992121+00:00",
+      "NumProgressed": 2089,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6865,7 +6870,7 @@
       "Name": "Scientist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "scrollmaster",
@@ -6897,7 +6902,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "thealchemist",
@@ -6929,7 +6934,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "thepowerofawakening",
@@ -7001,7 +7006,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "warmachinesarmy",
@@ -7040,7 +7045,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2088,
+      "Progressed": 2089,
       "Completed": 2
     }
   ],
@@ -7048,8 +7053,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-29T20:58:12.1525897+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:05:03.372184+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:04:37.6992118+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:58:24.5009255+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:05:03.3723119+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:58:20.2450893+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:04:37.6993111+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,762 |
+| Stylish | 6.00% | ~1,763 |
 | Advancement | 4.00% | ~1,175 |
 | Discovery | 4.00% | ~1,175 |
 | Meticulously Efficient | 4.00% | ~1,175 |
-| Clutch Capture | 3.00% | ~881 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~881 |
-| Cultured | 3.00% | ~881 |
-| Fully Upgraded | 3.00% | ~881 |
-| Solo Capture | 3.00% | ~881 |
-| Swift Rift Removers | 3.00% | ~881 |
-| Teamwork | 3.00% | ~881 |
-| There you are! | 3.00% | ~881 |
-| Vaporous Expansion | 3.00% | ~881 |
-| Whoopsie | 3.00% | ~881 |
-| Animated | 2.00% | ~587 |
-| Back Off | 2.00% | ~587 |
-| We have the best insurance | 2.00% | ~587 |
-| Daily Dose | 2.00% | ~587 |
-| Ectoplasmic Entity | 2.00% | ~587 |
-| Ghostbuster In Training | 2.00% | ~587 |
-| Icing on the Cake | 2.00% | ~587 |
-| Legions | 2.00% | ~587 |
-| Pesky Jerks | 2.00% | ~587 |
-| Right back at ya | 2.00% | ~587 |
-| Seasoned | 2.00% | ~587 |
-| Side Hustle | 2.00% | ~587 |
-| Skilled | 2.00% | ~587 |
-| Stunner | 2.00% | ~587 |
-| Summoner | 2.00% | ~587 |
-| Welcome to the Crew | 2.00% | ~587 |
+| Clutch Capture | 3.00% | ~882 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~882 |
+| Cultured | 3.00% | ~882 |
+| Fully Upgraded | 3.00% | ~882 |
+| Solo Capture | 3.00% | ~882 |
+| Swift Rift Removers | 3.00% | ~882 |
+| Teamwork | 3.00% | ~882 |
+| There you are! | 3.00% | ~882 |
+| Vaporous Expansion | 3.00% | ~882 |
+| Whoopsie | 3.00% | ~882 |
+| Animated | 2.00% | ~588 |
+| Back Off | 2.00% | ~588 |
+| We have the best insurance | 2.00% | ~588 |
+| Daily Dose | 2.00% | ~588 |
+| Ectoplasmic Entity | 2.00% | ~588 |
+| Ghostbuster In Training | 2.00% | ~588 |
+| Icing on the Cake | 2.00% | ~588 |
+| Legions | 2.00% | ~588 |
+| Pesky Jerks | 2.00% | ~588 |
+| Right back at ya | 2.00% | ~588 |
+| Seasoned | 2.00% | ~588 |
+| Side Hustle | 2.00% | ~588 |
+| Skilled | 2.00% | ~588 |
+| Stunner | 2.00% | ~588 |
+| Summoner | 2.00% | ~588 |
+| Welcome to the Crew | 2.00% | ~588 |
 | Collector | 1.00% | ~294 |
 | Escape Artist | 1.00% | ~294 |
 | Reckless | 1.00% | ~294 |
@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 580)
 | Liability | 0.70% | ~206 |
 | Surprise! | 0.70% | ~206 |
 | Therapeutic | 0.50% | ~147 |
-| Rift Seeker | 0.40% | ~117 |
+| Rift Seeker | 0.40% | ~118 |
 | Master Collector | 0.30% | ~88 |
 | Ghost Expert | 0.20% | ~59 |
 | Catostrophic Destroyer | 0.10% | ~29 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~29 |
 | Ultimate Defense | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,370 (Ranked 121)  
+Progressed: 29,385 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,15 +252,15 @@ Completed: 65 (0.22%) (Ranked 230)
 | 2023-10-29 | 28,427 | 65 |
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
-| 2023-11-01 | 29,370 | 65 |
+| 2023-11-01 | 29,385 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
-Sum: 2,646 (Ranked 180)  
+Sum: 2,652 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 298 |
-| This game is Great for Quick Sessions | 285 |
+| This game is Great for Quick Sessions | 291 |
 | This game has Diverse Characters | 271 |
 | This game has Amazing Storytelling | 268 |
 | This game is Highly Recommended | 264 |
@@ -472,4 +472,4 @@ Diff (max vs sum): 64
 | 2023-10-29 | 4.50 | 293 | 2,603 |
 | 2023-10-30 | 4.50 | 297 | 2,620 |
 | 2023-10-31 | 4.50 | 298 | 2,637 |
-| 2023-11-01 | 4.50 | 298 | 2,646 |
+| 2023-11-01 | 4.50 | 298 | 2,652 |

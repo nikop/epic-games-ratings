@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1968,
+  "EOS_Progressed": 1969,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2579,6 +2579,11 @@
       "Time": "2023-11-01T01:53:11.9423432+00:00",
       "NumProgressed": 1968,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-01T04:05:23.6629551+00:00",
+      "NumProgressed": 1969,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2598,7 +2603,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2630,7 +2635,7 @@
       "Name": "Do Not Pass Go\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_ELUSIVE_PREY",
@@ -2670,7 +2675,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2694,7 +2699,7 @@
       "Name": "Gold Digger",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_HEALING_OLD_WOUNDS",
@@ -2734,7 +2739,7 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2790,7 +2795,7 @@
       "Name": "Monster Hunter",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -2838,7 +2843,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2886,7 +2891,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2894,7 +2899,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -2910,7 +2915,7 @@
       "Name": "There is Hope",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -2926,7 +2931,7 @@
       "Name": "Knuckle Sandwich",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
@@ -2966,7 +2971,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -2974,7 +2979,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3013,15 +3018,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1968,
+      "Progressed": 1969,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:05:48.694274+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:05:23.6629547+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:59:17.709271+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:05:48.6943362+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:59:11.3372633+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:05:23.6630144+00:00"
 }

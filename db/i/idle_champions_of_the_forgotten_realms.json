@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7735,9 +7735,9 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233349,
+  "EOS_Progressed": 233352,
   "EOS_Completed": 2414,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -29475,6 +29475,11 @@
       "Time": "2023-11-01T03:06:42.5681356+00:00",
       "NumProgressed": 233349,
       "NumCompleted": 2414
+    },
+    {
+      "Time": "2023-11-01T04:06:18.130456+00:00",
+      "NumProgressed": 233352,
+      "NumCompleted": 2414
     }
   ],
   "TotalAchievements": 528,
@@ -29486,7 +29491,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2334
     },
     {
       "ID": "objective_completed_10",
@@ -33646,7 +33651,7 @@
       "Name": "The Jungles of Doomspace",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "objective_completed_1406",
@@ -33662,7 +33667,7 @@
       "Name": "The Arena of Blood",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "objective_completed_1411",
@@ -33694,7 +33699,7 @@
       "Name": "Spelljammers in Training",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "objective_completed_1421",
@@ -33709,21 +33714,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199623,
+      "Progressed": 199626,
       "Completed": 3727
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233349,
+      "Progressed": 233352,
       "Completed": 2414
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T01:45:35.8854664+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:06:42.5681352+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:06:18.1304556+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T02:58:31.2511034+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:06:42.5710301+00:00"
+  "LastUpdate_Ratings": "2023-11-01T03:58:26.8007563+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:06:18.1333967+00:00"
 }

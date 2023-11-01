@@ -450,9 +450,9 @@
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
       "SetID": "caeik3h",
       "Name": "Glory To The Hypnotoad",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-01T03:09:13.0380924+00:00",
+  "LastChanged_Achievements": "2023-11-01T04:08:46.8453306+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-11-01T03:00:18.9890675+00:00",
-  "LastUpdate_Achievements": "2023-11-01T03:09:13.0381749+00:00"
+  "LastUpdate_Ratings": "2023-11-01T04:00:12.9219356+00:00",
+  "LastUpdate_Achievements": "2023-11-01T04:08:46.8454147+00:00"
 }
