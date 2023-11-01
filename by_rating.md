@@ -543,24 +543,24 @@
 | 533 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 544 |
 | 533 | [Sable](games/s/sable.md) | 4.53 | 25 | 513 |
 | 533 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 544 |
+| 533 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.53 | 0 | 544 |
 | 533 | [The Medium](games/t/the_medium.md) | 4.53 | 0 | 544 |
 | 533 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 544 |
 | 533 | [Verdun](games/v/verdun.md) | 4.53 | 106 | 347 |
-| 547 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 544 |
-| 547 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 544 |
-| 547 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.52 | 0 | 544 |
-| 547 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 0 | 544 |
-| 547 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 106 | 347 |
-| 547 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 126 | 325 |
-| 547 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 196 | 285 |
-| 547 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 544 |
-| 547 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.52 | 0 | 544 |
-| 547 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 319 | 240 |
-| 547 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 544 |
-| 547 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 544 |
-| 547 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.52 | 0 | 544 |
-| 547 | [VALORANT](games/v/valorant.md) | 4.52 | 78,192 | 10 |
-| 547 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 544 |
+| 548 | [Dark Deception](games/d/dark_deception.md) | 4.52 | 0 | 544 |
+| 548 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 544 |
+| 548 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.52 | 0 | 544 |
+| 548 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 0 | 544 |
+| 548 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 106 | 347 |
+| 548 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 126 | 325 |
+| 548 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 196 | 285 |
+| 548 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 544 |
+| 548 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.52 | 0 | 544 |
+| 548 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 319 | 240 |
+| 548 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 544 |
+| 548 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.52 | 0 | 544 |
+| 548 | [VALORANT](games/v/valorant.md) | 4.52 | 78,192 | 10 |
+| 548 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 544 |
 | 562 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 122 | 332 |
 | 562 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 833 | 163 |
 | 562 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,144 | 83 |
@@ -603,7 +603,7 @@
 | 580 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.50 | 0 | 544 |
 | 602 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 404 |
 | 602 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,008 | 110 |
-| 602 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,836 | 14 |
+| 602 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,864 | 14 |
 | 602 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 544 |
 | 602 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 544 |
 | 602 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 544 |
@@ -716,7 +716,7 @@
 | 713 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 68 | 400 |
 | 713 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 250 | 265 |
 | 713 | [Democracy 4](games/d/democracy_4.md) | 4.41 | 0 | 544 |
-| 713 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 46 | 436 |
+| 713 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 47 | 435 |
 | 713 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 544 |
 | 713 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.41 | 0 | 544 |
 | 713 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 361 |
@@ -874,7 +874,7 @@
 | 869 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,113 | 141 |
 | 869 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 726 | 177 |
 | 869 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 544 |
-| 869 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 436 |
+| 869 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 437 |
 | 869 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 544 |
 | 869 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 544 |
 | 878 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 544 |
@@ -912,7 +912,7 @@
 | 907 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 544 |
 | 907 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 78 | 385 |
 | 907 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 544 |
-| 907 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.19 | 46 | 436 |
+| 907 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.19 | 46 | 437 |
 | 907 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.19 | 0 | 544 |
 | 907 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 79 | 382 |
 | 907 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 544 |

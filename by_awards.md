@@ -9,11 +9,11 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 150,924 | 4.51 | 562 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,750 | 4.69 | 228 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 103,117 | 4.64 | 329 |
-| 10 | [VALORANT](games/v/valorant.md) | 78,192 | 4.52 | 547 |
+| 10 | [VALORANT](games/v/valorant.md) | 78,192 | 4.52 | 548 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,887 | 4.58 | 442 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 47,997 | 4.61 | 381 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,850 | 4.74 | 154 |
-| 14 | [Destiny 2](games/d/destiny_2.md) | 38,836 | 4.49 | 602 |
+| 14 | [Destiny 2](games/d/destiny_2.md) | 38,864 | 4.49 | 602 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,102 | 4.51 | 562 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,113 | 4.64 | 329 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,929 | 4.76 | 122 |
@@ -239,7 +239,7 @@
 | 236 | [The Messenger](games/t/the_messenger.md) | 340 | 4.81 | 77 |
 | 238 | [Tannenberg](games/t/tannenberg.md) | 335 | 4.39 | 742 |
 | 239 | [Darkwood](games/d/darkwood.md) | 328 | 4.61 | 381 |
-| 240 | [Railway Empire](games/r/railway_empire.md) | 319 | 4.52 | 547 |
+| 240 | [Railway Empire](games/r/railway_empire.md) | 319 | 4.52 | 548 |
 | 241 | [House Flipper](games/h/house_flipper.md) | 318 | 4.69 | 228 |
 | 242 | [Hello Neighbor](games/h/hello_neighbor.md) | 307 | 4.56 | 481 |
 | 243 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.63 | 346 |
@@ -284,7 +284,7 @@
 | 281 | [Unrailed!](games/u/unrailed!.md) | 201 | 4.64 | 329 |
 | 283 | [Predecessor](games/p/predecessor.md) | 199 | 4.43 | 685 |
 | 284 | [Pinball FX](games/p/pinball_fx.md) | 197 | 4.06 | 965 |
-| 285 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 196 | 4.52 | 547 |
+| 285 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 196 | 4.52 | 548 |
 | 286 | [Crashlands](games/c/crashlands.md) | 195 | 4.66 | 290 |
 | 287 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 361 |
 | 288 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 185 | 4.22 | 883 |
@@ -325,7 +325,7 @@
 | 323 | [Sonic Origins](games/s/sonic_origins.md) | 128 | 4.58 | 442 |
 | 324 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 127 | 4.29 | 832 |
 | 325 | [Aven Colony](games/a/aven_colony.md) | 126 | 4.20 | 896 |
-| 325 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 126 | 4.52 | 547 |
+| 325 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 126 | 4.52 | 548 |
 | 327 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 125 | 4.36 | 772 |
 | 328 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 124 | 4.21 | 889 |
 | 328 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 124 | 4.80 | 84 |
@@ -346,7 +346,7 @@
 | 344 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 109 | 4.20 | 896 |
 | 345 | [Dead Space](games/d/dead_space.md) | 107 | 4.63 | 346 |
 | 345 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 381 |
-| 347 | [Just Die Already](games/j/just_die_already.md) | 106 | 4.52 | 547 |
+| 347 | [Just Die Already](games/j/just_die_already.md) | 106 | 4.52 | 548 |
 | 347 | [Verdun](games/v/verdun.md) | 106 | 4.53 | 533 |
 | 349 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 103 | 4.35 | 786 |
 | 349 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,004 |
@@ -434,10 +434,10 @@
 | 431 | [Desperados III](games/d/desperados_iii.md) | 48 | 4.84 | 48 |
 | 431 | [The Alto Collection](games/t/the_alto_collection.md) | 48 | 4.70 | 212 |
 | 431 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 48 | 4.60 | 407 |
+| 435 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 47 | 4.41 | 713 |
 | 435 | [Hell is Others](games/h/hell_is_others.md) | 47 | 4.39 | 742 |
-| 436 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 46 | 4.41 | 713 |
-| 436 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 46 | 4.19 | 907 |
-| 436 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 869 |
+| 437 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 46 | 4.19 | 907 |
+| 437 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 869 |
 | 439 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.58 | 442 |
 | 439 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 996 |
 | 439 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 45 | 4.73 | 172 |

@@ -4,7 +4,7 @@
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.24% |
 | 3 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.41% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.10% |
+| 5 | [The Riflemen](games/t/the_riflemen.md) | 40.09% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.04% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 29.03% |
@@ -67,7 +67,7 @@
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.19% |
 | 66 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 67 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
-| 68 | [Bugsnax](games/b/bugsnax.md) | 4.78% |
+| 68 | [Bugsnax](games/b/bugsnax.md) | 4.79% |
 | 69 | [JARS](games/j/jars.md) | 4.71% |
 | 69 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 71 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.64% |
@@ -125,10 +125,10 @@
 | 122 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.85% |
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
-| 126 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.73% |
-| 127 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.72% |
-| 128 | [Night Book](games/n/night_book.md) | 1.70% |
-| 128 | [Somerville](games/s/somerville.md) | 1.70% |
+| 126 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.72% |
+| 127 | [Night Book](games/n/night_book.md) | 1.70% |
+| 127 | [Somerville](games/s/somerville.md) | 1.70% |
+| 129 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.68% |
 | 130 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.67% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.59% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.57% |
