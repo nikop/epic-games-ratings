@@ -143,11 +143,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.50% | ~75 |
 | Learn to Play 5 | 0.50% | ~75 |
 | Rome | 0.50% | ~75 |
+| Old World Order | 0.50% | ~75 |
 | Cataphract Archer | 0.50% | ~75 |
 | Kush | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
 | Old | 0.40% | ~60 |
-| Old World Order | 0.40% | ~60 |
 | Ten Crowns | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,080 (Ranked 144)  
-Completed: 5 (0.03%) (Ranked 301)  
+Completed: 5 (0.03%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

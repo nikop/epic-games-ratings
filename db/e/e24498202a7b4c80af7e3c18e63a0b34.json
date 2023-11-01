@@ -3,10 +3,10 @@
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
   "Ranking_Rating": 154,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6590,
+  "EOS_Progressed": 6591,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 3,
@@ -4761,6 +4761,11 @@
       "Time": "2023-11-01T10:10:02.0110448+00:00",
       "NumProgressed": 6590,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-01T12:09:39.6979348+00:00",
+      "NumProgressed": 6591,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4773,7 +4778,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5667
+      "UsersEstimate": 5668
     },
     {
       "ID": "achievement_01_02",
@@ -4805,7 +4810,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "achievement_01_06",
@@ -4813,7 +4818,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "achievement_01_07",
@@ -4853,7 +4858,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "achievement_02_02",
@@ -4901,7 +4906,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "achievement_02_08",
@@ -5013,7 +5018,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "achievement_04_03",
@@ -5053,7 +5058,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "achievement_04_08",
@@ -5076,7 +5081,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6590,
+      "Progressed": 6591,
       "Completed": 33
     }
   ],
@@ -5084,8 +5089,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:09:58.8985983+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:09:39.6979342+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:59:18.2358159+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:09:58.8986594+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:59:05.0296503+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:09:39.6980066+00:00"
 }

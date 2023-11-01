@@ -59,7 +59,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,278 (Ranked 102)  
-Completed: 0 (0.00%) (Ranked 334)  
+Completed: 0 (0.00%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.06,
+  "EOS_Completed_Percentage": 4.05,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1199,6 +1199,11 @@
       "Time": "2023-11-01T10:09:13.7545083+00:00",
       "NumProgressed": 443,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-01T12:08:51.1039234+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1219,7 +1224,7 @@
       "Name": "Brain-teaser",
       "Percentage": 49,
       "XP": 85,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_DONUTS",
@@ -1227,7 +1232,7 @@
       "Name": "Sweet tooth",
       "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1281,23 +1286,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 248
+      "UsersEstimate": 244
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:09:09.9212103+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:08:51.103923+00:00",
   "LastUpdate_AppInfo": "2023-10-27T13:57:39.0909681+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:02:08.6811918+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:09:09.9212285+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:01:52.6211264+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:08:51.1039405+00:00"
 }

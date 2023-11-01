@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,215 |
-| Powergamer | 27.00% | ~67,708 |
-| Write that down | 25.00% | ~62,692 |
-| Barely scratched the surface | 25.00% | ~62,692 |
-| Guns, lots of guns | 13.00% | ~32,600 |
-| Collector | 12.00% | ~30,092 |
-| Elementary! | 9.00% | ~22,569 |
+| I will finish what you started | 28.00% | ~70,217 |
+| Powergamer | 27.00% | ~67,709 |
+| Write that down | 25.00% | ~62,694 |
+| Barely scratched the surface | 25.00% | ~62,694 |
+| Guns, lots of guns | 13.00% | ~32,601 |
+| Collector | 12.00% | ~30,093 |
+| Elementary! | 9.00% | ~22,570 |
 | Griever | 8.00% | ~20,062 |
 | Pumpkin Jack | 8.00% | ~20,062 |
 | Wake up! | 8.00% | ~20,062 |
 | It's honest work | 7.00% | ~17,554 |
 | Me smart | 6.00% | ~15,046 |
 | Trash compactor | 6.00% | ~15,046 |
-| Good listener | 5.00% | ~12,538 |
-| Valedictorian | 5.00% | ~12,538 |
+| Good listener | 5.00% | ~12,539 |
+| Valedictorian | 5.00% | ~12,539 |
 | BOY! | 4.00% | ~10,031 |
 | Ka-ching! | 4.00% | ~10,031 |
 | So you like to read? | 4.00% | ~10,031 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~502 |
 | Memory 5 | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,769 (Ranked 56)  
-Completed: 7 (0.00%) (Ranked 334)  
+Progressed: 250,774 (Ranked 56)  
+Completed: 7 (0.00%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,7 +254,7 @@ Completed: 7 (0.00%) (Ranked 334)
 | 2023-10-29 | 250,585 | 7 |
 | 2023-10-30 | 250,668 | 7 |
 | 2023-10-31 | 250,746 | 7 |
-| 2023-11-01 | 250,769 | 7 |
+| 2023-11-01 | 250,774 | 7 |
 ## Awards
 Max (Character Customization): 87  (Ranked 374)  
 Sum: 87 (Ranked 447)  

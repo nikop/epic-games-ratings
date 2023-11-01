@@ -6,26 +6,26 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~961,852 |
-| I Need a Bigger Garage | 63.00% | ~673,296 |
-| Pump my Ride | 47.00% | ~502,300 |
-| Ghostbuster | 34.00% | ~363,366 |
-| Call Roadside Assistance | 18.00% | ~192,370 |
-| That Was Close | 18.00% | ~192,370 |
-| Quickie | 11.00% | ~117,560 |
-| California Dreamer | 7.00% | ~74,811 |
-| Can't Touch This | 5.00% | ~53,436 |
-| Carménère Taster | 4.00% | ~42,749 |
-| Comeback | 4.00% | ~42,749 |
+| The First of Many | 90.00% | ~961,867 |
+| I Need a Bigger Garage | 63.00% | ~673,307 |
+| Pump my Ride | 47.00% | ~502,308 |
+| Ghostbuster | 34.00% | ~363,372 |
+| Call Roadside Assistance | 18.00% | ~192,373 |
+| That Was Close | 18.00% | ~192,373 |
+| Quickie | 11.00% | ~117,562 |
+| California Dreamer | 7.00% | ~74,812 |
+| Can't Touch This | 5.00% | ~53,437 |
+| Carménère Taster | 4.00% | ~42,750 |
+| Comeback | 4.00% | ~42,750 |
 | Driver from Ipanema | 3.00% | ~32,062 |
 | Supersonic | 3.00% | ~32,062 |
 | Marathonist | 3.00% | ~32,062 |
 | Living Legend | 3.00% | ~32,062 |
-| God of Roads | 2.00% | ~21,374 |
-| Pathfinder | 2.00% | ~21,374 |
-| Go-Kart Champion | 2.00% | ~21,374 |
-| Completionist | 2.00% | ~21,374 |
-| Harder, Better, Faster, Stronger | 2.00% | ~21,374 |
+| God of Roads | 2.00% | ~21,375 |
+| Pathfinder | 2.00% | ~21,375 |
+| Go-Kart Champion | 2.00% | ~21,375 |
+| Completionist | 2.00% | ~21,375 |
+| Harder, Better, Faster, Stronger | 2.00% | ~21,375 |
 | The Iceman | 1.00% | ~10,687 |
 | Bollywood Star | 1.00% | ~10,687 |
 | Oil Tycoon | 1.00% | ~10,687 |
@@ -44,8 +44,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,069 |
 | Look Mom, No Hands! | 0.10% | ~1,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068,724 (Ranked 13)  
-Completed: 474 (0.04%) (Ranked 295)  
+Progressed: 1,068,741 (Ranked 13)  
+Completed: 474 (0.04%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,7 +239,7 @@ Completed: 474 (0.04%) (Ranked 295)
 | 2023-10-29 | 1,067,869 | 471 |
 | 2023-10-30 | 1,068,227 | 472 |
 | 2023-10-31 | 1,068,602 | 473 |
-| 2023-11-01 | 1,068,724 | 474 |
+| 2023-11-01 | 1,068,741 | 474 |
 ## Awards
 Max (Great for Beginners): 162  (Ranked 305)  
 Sum: 1,356 (Ranked 234)  

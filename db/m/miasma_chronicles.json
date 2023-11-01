@@ -3,10 +3,10 @@
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
   "Ranking_Rating": 685,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_Completed": 335,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1563,
+  "EOS_Progressed": 1564,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3722,6 +3722,11 @@
       "Time": "2023-11-01T06:09:53.2365728+00:00",
       "NumProgressed": 1563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T12:09:12.8100009+00:00",
+      "NumProgressed": 1564,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3797,7 +3802,7 @@
       "Name": "Chaos Theory",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "COMMANDO",
@@ -3813,7 +3818,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "CRUELTY",
@@ -3837,7 +3842,7 @@
       "Name": "Ganglord",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "DEAD_DICK",
@@ -3845,7 +3850,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3917,7 +3922,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3949,7 +3954,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "GOAL",
@@ -3965,7 +3970,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3989,7 +3994,7 @@
       "Name": "Infiltrator",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "LUMBERJACK",
@@ -3997,7 +4002,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4061,7 +4066,7 @@
       "Name": "Savior",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "SENSEI",
@@ -4069,7 +4074,7 @@
       "Name": "Sensei",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4101,7 +4106,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4140,7 +4145,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1563,
+      "Progressed": 1564,
       "Completed": 0
     }
   ],
@@ -4148,8 +4153,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:09:31.951016+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:09:12.8100003+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:00:03.4482079+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:09:31.9511065+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:59:49.1238578+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:09:12.810079+00:00"
 }

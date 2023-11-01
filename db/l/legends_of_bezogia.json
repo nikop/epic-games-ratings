@@ -3,8 +3,8 @@
   "Name": "Legends of Bezogia",
   "ProductSlug": "legends-of-bezogia-33aa76",
   "Ranking_EOS_Progress": 715,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:57:21.4362116+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:59:10.3924941+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:05:47.4921461+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:58:56.3966685+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:05:27.6960303+00:00"
 }

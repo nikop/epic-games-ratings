@@ -16,7 +16,7 @@ Rating: 4.55 (Ranked 498)
 | Collect Iron Ore | 49.00% | ~970 |
 | Defeat 25 Mozis | 48.00% | ~950 |
 | Kitchen Ready To Cook | 48.00% | ~950 |
-| Collect Gold | 46.00% | ~910 |
+| Collect Gold | 47.00% | ~930 |
 | Smithy Ready to Craft | 46.00% | ~910 |
 | Fix the Travellers Wagon | 45.00% | ~891 |
 | Complete Elder Faction | 42.00% | ~831 |
@@ -37,7 +37,7 @@ Rating: 4.55 (Ranked 498)
 | A new Warchief rises | 0.80% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,979 (Ranked 215)  
-Completed: 9 (0.45%) (Ranked 197)  
+Completed: 9 (0.45%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

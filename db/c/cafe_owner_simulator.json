@@ -3,8 +3,8 @@
   "Name": "Cafe Owner Simulator",
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 245,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -3386,8 +3386,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:09:32.9934769+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:09:13.7597441+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:03.5728628+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:00:23.1210665+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:09:32.9935105+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:00:07.9030163+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:09:13.7597816+00:00"
 }

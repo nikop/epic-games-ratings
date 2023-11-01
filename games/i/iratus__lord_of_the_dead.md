@@ -6,45 +6,45 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~37,227 |
-| Blood Moon | 73.00% | ~31,972 |
-| Path of the Necromancer | 66.00% | ~28,906 |
-| Chainbreaker - I | 60.00% | ~26,278 |
-| Cursed Creature | 57.00% | ~24,964 |
-| Extraction | 57.00% | ~24,964 |
-| Chainbreaker - II | 55.00% | ~24,088 |
-| Necromancer's Apprentice | 51.00% | ~22,336 |
-| Keeper of Keys | 47.00% | ~20,585 |
-| Distillation | 43.00% | ~18,833 |
-| Mountain King - I | 42.00% | ~18,395 |
-| Transmutation | 42.00% | ~18,395 |
-| Prepared Necromancer | 40.00% | ~17,519 |
-| Mountain King - II | 39.00% | ~17,081 |
-| Blind Rage | 38.00% | ~16,643 |
-| Mad Genius | 35.00% | ~15,329 |
-| Cannon Fodder - I | 34.00% | ~14,891 |
-| Soul of Lies | 34.00% | ~14,891 |
-| Bane of Mercenaries - I | 33.00% | ~14,453 |
-| Bane of Mercenaries - II | 31.00% | ~13,577 |
-| Cannon Fodder - II | 29.00% | ~12,701 |
-| Shadow Between Worlds | 29.00% | ~12,701 |
-| Bane of Monsters | 28.00% | ~12,263 |
-| Chainbreaker - III | 28.00% | ~12,263 |
-| Revealed Secrets - I | 27.00% | ~11,825 |
-| Revealed Secrets - II | 25.00% | ~10,949 |
-| Blood Elemental | 24.00% | ~10,511 |
-| Unholy Bones | 23.00% | ~10,073 |
-| Lord of Fire | 23.00% | ~10,073 |
-| Uncommon Warrior | 23.00% | ~10,073 |
-| Cannon Fodder - III | 22.00% | ~9,635 |
-| Spiritual Attraction | 22.00% | ~9,635 |
-| Nightmare of the Humanity - I | 22.00% | ~9,635 |
-| Nightmare of the Humanity - II | 21.00% | ~9,197 |
-| That Was Easy! | 20.00% | ~8,759 |
-| Silent Waters | 20.00% | ~8,759 |
-| Calcination | 20.00% | ~8,759 |
-| Head of Order | 20.00% | ~8,759 |
-| Blood Mage | 17.00% | ~7,445 |
+| Improvement | 85.00% | ~37,230 |
+| Blood Moon | 73.00% | ~31,974 |
+| Path of the Necromancer | 66.00% | ~28,908 |
+| Chainbreaker - I | 60.00% | ~26,280 |
+| Cursed Creature | 57.00% | ~24,966 |
+| Extraction | 57.00% | ~24,966 |
+| Chainbreaker - II | 55.00% | ~24,090 |
+| Necromancer's Apprentice | 51.00% | ~22,338 |
+| Keeper of Keys | 47.00% | ~20,586 |
+| Distillation | 43.00% | ~18,834 |
+| Mountain King - I | 42.00% | ~18,396 |
+| Transmutation | 42.00% | ~18,396 |
+| Prepared Necromancer | 40.00% | ~17,520 |
+| Mountain King - II | 39.00% | ~17,082 |
+| Blind Rage | 38.00% | ~16,644 |
+| Mad Genius | 35.00% | ~15,330 |
+| Cannon Fodder - I | 34.00% | ~14,892 |
+| Soul of Lies | 34.00% | ~14,892 |
+| Bane of Mercenaries - I | 33.00% | ~14,454 |
+| Bane of Mercenaries - II | 31.00% | ~13,578 |
+| Cannon Fodder - II | 29.00% | ~12,702 |
+| Shadow Between Worlds | 29.00% | ~12,702 |
+| Bane of Monsters | 28.00% | ~12,264 |
+| Chainbreaker - III | 28.00% | ~12,264 |
+| Revealed Secrets - I | 27.00% | ~11,826 |
+| Revealed Secrets - II | 25.00% | ~10,950 |
+| Blood Elemental | 24.00% | ~10,512 |
+| Unholy Bones | 23.00% | ~10,074 |
+| Lord of Fire | 23.00% | ~10,074 |
+| Uncommon Warrior | 23.00% | ~10,074 |
+| Cannon Fodder - III | 22.00% | ~9,636 |
+| Spiritual Attraction | 22.00% | ~9,636 |
+| Nightmare of the Humanity - I | 22.00% | ~9,636 |
+| Nightmare of the Humanity - II | 21.00% | ~9,198 |
+| That Was Easy! | 20.00% | ~8,760 |
+| Silent Waters | 20.00% | ~8,760 |
+| Calcination | 20.00% | ~8,760 |
+| Head of Order | 20.00% | ~8,760 |
+| Blood Mage | 17.00% | ~7,446 |
 | Wild Hunger | 16.00% | ~7,008 |
 | Rage Concentrated | 16.00% | ~7,008 |
 | Mountain King - III | 15.00% | ~6,570 |
@@ -82,8 +82,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~219 |
 | Renowned Researcher | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,797 (Ranked 112)  
-Completed: 24 (0.05%) (Ranked 289)  
+Progressed: 43,800 (Ranked 112)  
+Completed: 24 (0.05%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -277,7 +277,7 @@ Completed: 24 (0.05%) (Ranked 289)
 | 2023-10-29 | 43,603 | 24 |
 | 2023-10-30 | 43,699 | 24 |
 | 2023-10-31 | 43,773 | 24 |
-| 2023-11-01 | 43,797 | 24 |
+| 2023-11-01 | 43,800 | 24 |
 ## Awards
 Max (Character Customization): 2,156  (Ranked 108)  
 Sum: 4,188 (Ranked 147)  

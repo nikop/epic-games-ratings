@@ -3,8 +3,8 @@
   "Name": "Mara\u0027s Quest",
   "ProductSlug": "maras-quest-319c3b",
   "Ranking_EOS_Progress": 715,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.2215431+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:00:31.0576409+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:08:40.5337761+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:00:16.1039492+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:08:21.5088561+00:00"
 }

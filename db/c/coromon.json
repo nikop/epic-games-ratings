@@ -2,12 +2,12 @@
   "ID": "9aa3fab4ed5447d5b27e34d6aea7f259",
   "Name": "Coromon",
   "ProductSlug": "coromon-d4ef84",
-  "Ranking_Rating": 290,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 715,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2022-05-05T16:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 84,
   "RatingHistory": [
     {
@@ -259,6 +259,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-11-01T11:58:01.8660446+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
@@ -284,8 +290,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:42.7563508+00:00",
-  "LastChanged": "2023-09-29T06:59:03.7582971+00:00",
+  "LastChanged": "2023-11-01T11:58:01.8660444+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:02.7046115+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:58:13.7628247+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:08:12.4376853+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:58:01.866045+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:07:53.3635376+00:00"
 }

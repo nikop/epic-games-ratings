@@ -3,10 +3,10 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 407,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14534,
+  "EOS_Progressed": 14536,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10104,6 +10104,11 @@
       "Time": "2023-11-01T09:05:37.3778691+00:00",
       "NumProgressed": 14534,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-01T12:05:19.0355752+00:00",
+      "NumProgressed": 14536,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10395,13 +10400,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14534,
+      "Progressed": 14536,
       "Completed": 28
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 488,
+      "Progressed": 490,
       "Completed": 286
     }
   ],
@@ -10409,8 +10414,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-10-28T21:57:23.3482627+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:05:38.795367+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:05:19.0355747+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:59:21.0194725+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:05:38.7954712+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:59:07.1255246+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:05:19.0356679+00:00"
 }

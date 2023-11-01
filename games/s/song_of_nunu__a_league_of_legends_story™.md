@@ -23,11 +23,11 @@
 | Rhythm Of Willump | 50.00% | ~19 |
 | The Pied Piper Of Freljord | 50.00% | ~19 |
 | Tear of Freedom | 47.00% | ~18 |
+| 3000 Year Blackout | 47.00% | ~18 |
 | Moneyball | 47.00% | ~18 |
 | Snowball Fightn't | 47.00% | ~18 |
 | My Darkest Day | 45.00% | ~17 |
 | A Tragic Reminder | 45.00% | ~17 |
-| 3000 Year Blackout | 45.00% | ~17 |
 | The Relentless Storm | 45.00% | ~17 |
 | The Finisher | 42.00% | ~16 |
 | Snowy Poro | 39.00% | ~15 |

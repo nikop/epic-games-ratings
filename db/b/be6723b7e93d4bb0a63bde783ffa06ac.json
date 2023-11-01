@@ -2,9 +2,9 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 472,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_Progress": 473,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -353,9 +353,9 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ach27",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:07:33.200348+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:07:14.1655272+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.3156204+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:02:07.6597531+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:07:33.2003734+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:01:51.6946749+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:07:14.1655549+00:00"
 }

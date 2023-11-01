@@ -255,9 +255,9 @@
       "ID": "CompleteChapter10",
       "SetID": "52ail55",
       "Name": "You da Boss, Now",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CompleteChapter11",
@@ -493,8 +493,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:08:51.3687882+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:08:32.2932746+00:00",
   "LastUpdate_AppInfo": "2023-10-27T05:57:12.4877753+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:58:46.629616+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:08:51.3688208+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:58:31.9139733+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:08:32.293311+00:00"
 }

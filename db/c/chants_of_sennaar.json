@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 344,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.43,
+  "EOS_Completed_Percentage": 6.4,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1600,6 +1600,11 @@
       "Time": "2023-11-01T09:07:39.1544293+00:00",
       "NumProgressed": 342,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-01T12:07:21.3741246+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 25,
@@ -1611,7 +1616,7 @@
       "Name": "I did it",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "END_GOOD",
@@ -1627,7 +1632,7 @@
       "Name": "Peace walker",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1635,7 +1640,7 @@
       "Name": "Cable guy",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1643,7 +1648,7 @@
       "Name": "A good beginning",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_HALF_LINK",
@@ -1667,15 +1672,15 @@
       "Name": "Free at last",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1699,15 +1704,15 @@
       "Name": "A Link to the Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1729,9 +1734,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1755,7 +1760,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1771,7 +1776,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PROGRESS_N2",
@@ -1787,7 +1792,7 @@
       "Name": "A new dawn",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PROGRESS_N4",
@@ -1795,7 +1800,7 @@
       "Name": "The darkness",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "PROGRESS_N5",
@@ -1803,21 +1808,21 @@
       "Name": "One last step",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 344,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:07:40.4686972+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:07:21.3741242+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:00:40.6984507+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:07:40.4687366+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:00:25.3516841+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:07:21.3741586+00:00"
 }

@@ -27,12 +27,12 @@
 | The Apartment | 24.00% | ~7 |
 | A rude awakening | 21.00% | ~6 |
 | Nathaniel Dryden | 21.00% | ~6 |
+| Well-acquainted | 14.00% | ~4 |
+| Anastasia Babanin | 14.00% | ~4 |
+| Zakariya Demir | 14.00% | ~4 |
 | Bartholomew | 14.00% | ~4 |
-| Well-acquainted | 10.00% | ~3 |
+| The Scheme | 14.00% | ~4 |
 | Truth from within | 10.00% | ~3 |
-| Anastasia Babanin | 10.00% | ~3 |
-| Zakariya Demir | 10.00% | ~3 |
-| The Scheme | 10.00% | ~3 |
 | A curious phrase | 7.00% | ~2 |
 | The Denouement | 3.00% | ~1 |
 | Well-travelled | 3.00% | ~1 |
@@ -52,7 +52,7 @@
 | A perilous journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 29 (Ranked 494)  
-Completed: 0 (0.00%) (Ranked 334)  
+Completed: 0 (0.00%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

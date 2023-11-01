@@ -3,12 +3,12 @@
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
   "Ranking_Rating": 617,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -441,9 +441,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3138,
+  "EOS_Progressed": 3139,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 4.08,
   "EosHistory": [
@@ -4361,6 +4361,11 @@
       "Time": "2023-11-01T11:03:51.0028301+00:00",
       "NumProgressed": 3138,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2023-11-01T12:03:30.46779+00:00",
+      "NumProgressed": 3139,
+      "NumCompleted": 128
     }
   ],
   "TotalAchievements": 14,
@@ -4388,7 +4393,7 @@
       "Name": "Cat Person",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_CLIMBER",
@@ -4396,7 +4401,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -4428,7 +4433,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -4476,14 +4481,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2417
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3138,
+      "Progressed": 3139,
       "Completed": 128
     }
   ],
@@ -4491,8 +4496,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-10-31T12:00:30.8622608+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:03:51.0028296+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:03:30.4677879+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:02:52.490343+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:03:51.0028684+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:02:32.5636957+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:03:30.4678279+00:00"
 }

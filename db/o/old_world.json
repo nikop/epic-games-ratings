@@ -6,7 +6,7 @@
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
@@ -1964,7 +1964,7 @@
   ],
   "EOS_Progressed": 15080,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16840,9 +16840,9 @@
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
       "SetID": "9201eeb",
       "Name": "Old World Order",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 75
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -17926,8 +17926,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:04:00.4705788+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:03:40.3350773+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:59:36.1963332+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:04:00.4719385+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:59:21.0369452+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:03:40.3364861+00:00"
 }

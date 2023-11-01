@@ -3,10 +3,10 @@
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
   "Ranking_Rating": 580,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234708,
+  "EOS_Progressed": 234709,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20832,6 +20832,11 @@
       "Time": "2023-11-01T11:05:06.6467763+00:00",
       "NumProgressed": 234708,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-01T12:04:46.4670685+00:00",
+      "NumProgressed": 234709,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -20859,7 +20864,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65718
+      "UsersEstimate": 65719
     },
     {
       "ID": "CENTAUR",
@@ -21107,22 +21112,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96230
+      "UsersEstimate": 96231
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234708,
+      "Progressed": 234709,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:05:06.6467757+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:04:46.4670681+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.1893781+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:00:04.4182392+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:05:06.6469291+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:59:50.0892083+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:04:46.4672624+00:00"
 }

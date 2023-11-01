@@ -13,8 +13,8 @@ Rating: 4.45 (Ranked 657)
 | Mystery Tour | 69.00% | ~1,435 |
 | We brake for nobody | 68.00% | ~1,414 |
 | Brainstorm | 66.00% | ~1,373 |
+| Travel Company | 66.00% | ~1,373 |
 | Mind the Gap | 65.00% | ~1,352 |
-| Travel Company | 65.00% | ~1,352 |
 | All around the World | 62.00% | ~1,290 |
 | Right through the middle | 58.00% | ~1,206 |
 | Poor Devil | 54.00% | ~1,123 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 657)
 | Together we stand | 0.60% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,080 (Ranked 214)  
-Completed: 0 (0.00%) (Ranked 334)  
+Completed: 0 (0.00%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

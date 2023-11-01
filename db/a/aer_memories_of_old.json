@@ -3,8 +3,8 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 109,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23201,
+  "EOS_Progressed": 23202,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.93,
   "EosHistory": [
@@ -21363,6 +21363,11 @@
       "Time": "2023-11-01T11:05:24.6847497+00:00",
       "NumProgressed": 23201,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-11-01T12:05:04.6806074+00:00",
+      "NumProgressed": 23202,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21494,7 +21499,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17865
+      "UsersEstimate": 17866
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21502,7 +21507,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "NORTH_FINISHED",
@@ -21533,15 +21538,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23201,
+      "Progressed": 23202,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:05:24.6847491+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:05:04.680607+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:03:16.3495198+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:05:24.6848951+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:02:54.672804+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:05:04.680784+00:00"
 }

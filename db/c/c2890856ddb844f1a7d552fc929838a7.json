@@ -6,8 +6,8 @@
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 121,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2520,9 +2520,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 376
     },
     {
       "ID": "AC33",
@@ -2641,8 +2641,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:09:43.6422949+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:09:24.3815613+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.1696365+00:00",
-  "LastUpdate_Ratings": "2023-11-01T10:58:05.3036216+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:09:43.642352+00:00"
+  "LastUpdate_Ratings": "2023-11-01T11:57:53.559489+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:09:24.3816119+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 284,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2299,6 +2299,11 @@
       "Time": "2023-11-01T09:08:03.5366555+00:00",
       "NumProgressed": 534,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-01T12:07:46.3236275+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2374,7 +2379,7 @@
       "Name": "This looks really bad",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2382,7 +2387,7 @@
       "Name": "Unholy lands",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2421,14 +2426,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:08:04.790158+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:07:46.3236254+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:01:57.8888164+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:08:04.790193+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:01:42.1785355+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:07:46.3236577+00:00"
 }

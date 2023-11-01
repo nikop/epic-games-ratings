@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 62.00% | ~21 |
+| Wanderer | 65.00% | ~22 |
 | Something important | 59.00% | ~20 |
 | A piece of the story | 47.00% | ~16 |
 | Do what you have to | 41.00% | ~14 |
@@ -28,11 +28,11 @@
 | Whispers long forgotten | 9.00% | ~3 |
 | Another perspective | 6.00% | ~2 |
 | Sound Bite | 6.00% | ~2 |
+| Heavy Burden | 6.00% | ~2 |
 | Lights! Camera! Action! | 6.00% | ~2 |
 | Fisherman | 6.00% | ~2 |
 | Something to think about | 3.00% | ~1 |
 | We Are Not Alone | 3.00% | ~1 |
-| Heavy Burden | 3.00% | ~1 |
 | The Perfect Storm | 3.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | Casting Finished | 0.00% | ~0 |
@@ -58,7 +58,7 @@
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 34 (Ranked 485)  
-Completed: 0 (0.00%) (Ranked 334)  
+Completed: 0 (0.00%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,12 +2,12 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 444,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 59,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3256,9 +3256,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 238938,
+  "EOS_Progressed": 238942,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23496,6 +23496,11 @@
       "Time": "2023-11-01T11:10:08.5758134+00:00",
       "NumProgressed": 238938,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-01T12:09:49.4013581+00:00",
+      "NumProgressed": 238942,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24353,9 +24358,9 @@
       "ID": "WIN4ORFEWERITEMS",
       "SetID": "5l8oe0h",
       "Name": "Minimalist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WIN5",
@@ -24409,9 +24414,9 @@
       "ID": "WINNOEQUIPREPLACEMENTS",
       "SetID": "5l8oe0h",
       "Name": "No Swapsies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "WINNORAREEPIC",
@@ -24610,22 +24615,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 238938,
+      "Progressed": 238942,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 418,
-      "Completed": 354
+      "Progressed": 422,
+      "Completed": 355
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-10-31T03:03:16.4239376+00:00",
-  "LastChanged_Achievements": "2023-11-01T11:10:08.5758129+00:00",
+  "LastChanged_Achievements": "2023-11-01T12:09:49.4013575+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-11-01T11:03:22.046925+00:00",
-  "LastUpdate_Achievements": "2023-11-01T11:10:08.5761679+00:00"
+  "LastUpdate_Ratings": "2023-11-01T12:03:01.2743348+00:00",
+  "LastUpdate_Achievements": "2023-11-01T12:09:49.4017951+00:00"
 }

@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -112,10 +112,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Long Run | 0.10% | ~239 |
 | The Tickler | 0.10% | ~239 |
 | Masochist | 0.10% | ~239 |
+| Minimalist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
 | Champion of the Day | 0.10% | ~239 |
 | Only The Best | 0.10% | ~239 |
 | Mastermind | 0.10% | ~239 |
+| No Swapsies | 0.10% | ~239 |
 | Ignoring Midgame | 0.10% | ~239 |
 | Quick To Pick | 0.10% | ~239 |
 | Tunnel Vision | 0.10% | ~239 |
@@ -140,13 +142,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
-| Minimalist | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
 | Down Under | 0.00% | ~0 |
-| No Swapsies | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,938 (Ranked 59)  
-Completed: 286 (0.12%) (Ranked 258)  
+Progressed: 238,942 (Ranked 59)  
+Completed: 286 (0.12%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,7 +340,7 @@ Completed: 286 (0.12%) (Ranked 258)
 | 2023-10-29 | 238,781 | 286 |
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
-| 2023-11-01 | 238,938 | 286 |
+| 2023-11-01 | 238,942 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,641 (Ranked 83)  

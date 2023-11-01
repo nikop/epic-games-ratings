@@ -10,7 +10,7 @@ Rating: 4.63 (Ranked 346)
 | Be Gentle... | 22.00% | ~50,985 |
 | A Worthy Opponent | 17.00% | ~39,398 |
 | Makin' Bacon | 4.00% | ~9,270 |
-| Tenderhoof | 3.00% | ~6,952 |
+| Tenderhoof | 3.00% | ~6,953 |
 | Champ'een of The Praire | 1.00% | ~2,318 |
 | Come At Me! | 1.00% | ~2,318 |
 | Sin'er Man | 0.20% | ~464 |
@@ -34,8 +34,8 @@ Rating: 4.63 (Ranked 346)
 | Alpaca Space Program | 0.10% | ~232 |
 | High Priestess | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,750 (Ranked 63)  
-Completed: 5 (0.00%) (Ranked 334)  
+Progressed: 231,751 (Ranked 63)  
+Completed: 5 (0.00%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 5 (0.00%) (Ranked 334)
 | 2023-10-29 | 231,664 | 5 |
 | 2023-10-30 | 231,695 | 5 |
 | 2023-10-31 | 231,730 | 5 |
-| 2023-11-01 | 231,750 | 5 |
+| 2023-11-01 | 231,751 | 5 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 513)  
 Sum: 25 (Ranked 520)  
