@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10725,
+  "EOS_Progressed": 10728,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -11979,6 +11979,11 @@
       "Time": "2023-11-01T05:06:23.6626315+00:00",
       "NumProgressed": 10725,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-01T06:06:51.1683562+00:00",
+      "NumProgressed": 10728,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12006,7 +12011,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "ACH04",
@@ -12022,7 +12027,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH06",
@@ -12094,7 +12099,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4506
     },
     {
       "ID": "ACH15",
@@ -12118,7 +12123,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACH18",
@@ -12150,7 +12155,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4934
+      "UsersEstimate": 4935
     },
     {
       "ID": "ACH22",
@@ -12158,7 +12163,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2146
     },
     {
       "ID": "ACH23",
@@ -12166,7 +12171,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "ACH24",
@@ -12214,7 +12219,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH30",
@@ -12222,7 +12227,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "ACH31",
@@ -12230,7 +12235,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH32",
@@ -12261,7 +12266,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10725,
+      "Progressed": 10728,
       "Completed": 64
     }
   ],
@@ -12269,8 +12274,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:06:23.6626308+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:06:51.1683555+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:03:11.243902+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:06:23.6627289+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:03:36.232617+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:06:51.1684591+00:00"
 }

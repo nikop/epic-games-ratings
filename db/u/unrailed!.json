@@ -2765,9 +2765,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 658681,
+  "EOS_Progressed": 658684,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1753,
+  "EOS_NewPlayers": 1751,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24880,6 +24880,11 @@
       "Time": "2023-11-01T05:09:04.3151986+00:00",
       "NumProgressed": 658681,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-01T06:09:32.8746189+00:00",
+      "NumProgressed": 658684,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -24891,7 +24896,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98802
+      "UsersEstimate": 98803
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -24907,7 +24912,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -24971,7 +24976,7 @@
       "Name": "Expert Stroller",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -25019,7 +25024,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -25059,7 +25064,7 @@
       "Name": "Marathon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -25091,7 +25096,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19760
+      "UsersEstimate": 19761
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -25306,15 +25311,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 658681,
+      "Progressed": 658684,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-01T01:47:12.9011919+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:09:04.3151981+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:09:32.8746182+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:04.114706+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:00:51.8285048+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:09:04.3154017+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:01:04.8495748+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:09:32.8748421+00:00"
 }

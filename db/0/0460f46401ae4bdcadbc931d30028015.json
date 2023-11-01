@@ -469,9 +469,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2986,
+  "EOS_Progressed": 2987,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3804,6 +3804,11 @@
       "Time": "2023-11-01T04:05:30.8181543+00:00",
       "NumProgressed": 2986,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T06:07:26.1845976+00:00",
+      "NumProgressed": 2987,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3824,7 +3829,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "achievement_11",
@@ -3912,7 +3917,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "achievement_21",
@@ -3952,7 +3957,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "achievement_7",
@@ -3983,7 +3988,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 0
     }
   ],
@@ -3991,8 +3996,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-10-29T04:59:52.806165+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:06:58.5100737+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:07:26.1845968+00:00",
   "LastUpdate_AppInfo": "2023-10-26T03:57:17.8685731+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:02:06.4253608+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:06:58.510133+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:02:20.0401783+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:07:26.184641+00:00"
 }

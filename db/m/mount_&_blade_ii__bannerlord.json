@@ -8394,9 +8394,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64260,
+  "EOS_Progressed": 64261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 390,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28949,6 +28949,11 @@
       "Time": "2023-11-01T05:09:16.6370756+00:00",
       "NumProgressed": 64260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T06:09:45.246004+00:00",
+      "NumProgressed": 64261,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29192,7 +29197,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25061
+      "UsersEstimate": 25062
     },
     {
       "ID": "Lawmaker",
@@ -29312,7 +29317,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12209
+      "UsersEstimate": 12210
     },
     {
       "ID": "This Is Our Land",
@@ -29367,15 +29372,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64260,
+      "Progressed": 64261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-01T02:18:48.6324792+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:09:16.637075+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:09:45.2460033+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:59:11.3501515+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:09:16.6373221+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:59:19.9665868+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:09:45.2462138+00:00"
 }

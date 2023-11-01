@@ -6,16 +6,16 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,465 |
-| I'll Be Back | 85.00% | ~4,038 |
-| Sorry, I Dropped This | 77.00% | ~3,658 |
-| First Day on the Job | 77.00% | ~3,658 |
-| Butcher's Bill | 55.00% | ~2,612 |
-| P.A.X | 38.00% | ~1,805 |
+| On My Own Two Feet | 94.00% | ~4,467 |
+| I'll Be Back | 85.00% | ~4,039 |
+| Sorry, I Dropped This | 77.00% | ~3,659 |
+| First Day on the Job | 77.00% | ~3,659 |
+| Butcher's Bill | 55.00% | ~2,614 |
+| P.A.X | 38.00% | ~1,806 |
 | Hey Listen | 37.00% | ~1,758 |
-| OPERATOR | 36.00% | ~1,710 |
+| OPERATOR | 36.00% | ~1,711 |
 | It's Blue Light | 33.00% | ~1,568 |
-| Most Wanted | 27.00% | ~1,282 |
+| Most Wanted | 27.00% | ~1,283 |
 | Infidel | 24.00% | ~1,140 |
 | Firebug | 21.00% | ~998 |
 | GOLIATH | 21.00% | ~998 |
@@ -23,13 +23,13 @@ Number of Ratings: 62  (23.09.2022)
 | Nothing to Lose | 18.00% | ~855 |
 | Big Sister | 16.00% | ~760 |
 | SENTINEL | 16.00% | ~760 |
-| Gear Up | 15.00% | ~712 |
+| Gear Up | 15.00% | ~713 |
 | Core Power | 13.00% | ~618 |
 | The Black Cerberus | 12.00% | ~570 |
 | Watchman | 12.00% | ~570 |
-| CREO Killed the Video Star | 11.00% | ~522 |
-| Who's in Charge Here? | 11.00% | ~522 |
-| Shall Not Pass | 11.00% | ~522 |
+| CREO Killed the Video Star | 11.00% | ~523 |
+| Who's in Charge Here? | 11.00% | ~523 |
+| Shall Not Pass | 11.00% | ~523 |
 | Right Tool for the Job | 10.00% | ~475 |
 | Melting Down | 9.00% | ~428 |
 | Raging Drones | 9.00% | ~428 |
@@ -51,9 +51,9 @@ Number of Ratings: 62  (23.09.2022)
 | For the Good of Mankind | 4.00% | ~190 |
 | Rusty Rat | 4.00% | ~190 |
 | Desecration | 4.00% | ~190 |
-| Turing Test | 3.00% | ~142 |
-| Repeat Customer | 3.00% | ~142 |
-| Evolution Theory | 3.00% | ~142 |
+| Turing Test | 3.00% | ~143 |
+| Repeat Customer | 3.00% | ~143 |
+| Evolution Theory | 3.00% | ~143 |
 | Ghost in the Machine | 2.00% | ~95 |
 | Homo Machinalis | 2.00% | ~95 |
 | Was That Yours? | 2.00% | ~95 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Tools of War | 0.70% | ~33 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,750 (Ranked 183)  
+Progressed: 4,752 (Ranked 183)  
 Completed: 18 (0.38%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 18 (0.38%) (Ranked 205)
 | 2023-10-28 | 4,745 | 18 |
 | 2023-10-29 | 4,746 | 18 |
 | 2023-10-31 | 4,748 | 18 |
-| 2023-11-01 | 4,750 | 18 |
+| 2023-11-01 | 4,752 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 490)  
 Sum: 29 (Ranked 504)  

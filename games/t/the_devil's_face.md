@@ -9,7 +9,7 @@
 | The path to enlightenment | 27.00% | ~144 |
 | Our efforts are finally yielding progress | 24.00% | ~128 |
 | This looks really bad | 22.00% | ~117 |
-| Unholy lands | 18.00% | ~96 |
+| Unholy lands | 19.00% | ~101 |
 | Unveiling the Magnitude of Sin | 12.00% | ~64 |
 | The court | 9.00% | ~48 |
 | Holy Nails | 7.00% | ~37 |

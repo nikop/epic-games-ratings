@@ -426,9 +426,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -506,9 +506,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -657,8 +657,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:08:25.6436162+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:08:53.9787687+00:00",
   "LastUpdate_AppInfo": "2023-10-26T13:57:14.1656827+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:02:48.8147855+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:08:25.643646+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:02:32.007434+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:08:53.9788047+00:00"
 }

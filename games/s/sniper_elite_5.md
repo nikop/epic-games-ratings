@@ -43,10 +43,10 @@ Rating: 4.46 (Ranked 640)
 | Tinkerer | 5.00% | ~190 |
 | It'll Buff Right Out | 5.00% | ~190 |
 | Don't hold your breath | 5.00% | ~190 |
+| Last Resort | 5.00% | ~188 |
 | Strategist | 4.00% | ~152 |
 | Locomotion Commotion | 4.00% | ~152 |
 | Road Rage | 4.00% | ~152 |
-| Last Resort | 4.00% | ~150 |
 | Siegebreaker | 4.00% | ~150 |
 | Ghost of Falaise | 4.00% | ~150 |
 | From Paris with Love | 3.00% | ~114 |

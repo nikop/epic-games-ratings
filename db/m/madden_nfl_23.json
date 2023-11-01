@@ -4547,9 +4547,9 @@
       "ID": "achievement_16",
       "SetID": "c8fif6p",
       "Name": "ROTY",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_17",
@@ -4668,8 +4668,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-10-31T19:57:33.9766437+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:08:40.9922269+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:09:09.2021139+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:58:09.516954+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:08:40.9922675+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:58:17.4623433+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:09:09.2021639+00:00"
 }

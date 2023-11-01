@@ -5,10 +5,10 @@
   "Ranking_Rating": 94,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 544,
-  "Ranking_EOS_Progress": 193,
+  "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3623,
+  "EOS_Progressed": 3627,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2054,
+  "EOS_NewPlayers": 2046,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-11-01T05:09:04.7475887+00:00",
       "NumProgressed": 3623,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T06:09:33.2154446+00:00",
+      "NumProgressed": 3627,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1607,7 +1612,7 @@
       "Name": "All Jacked Up",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BabySteps",
@@ -1631,7 +1636,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ChewingTheScenery",
@@ -1685,9 +1690,9 @@
       "ID": "FuneralForTheDeath",
       "SetID": "acc6ea0",
       "Name": "Funeral Of The Death",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 181
     },
     {
       "ID": "GarbageMan",
@@ -1735,7 +1740,7 @@
       "Name": "Live By The Sword",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MasterManipulator",
@@ -1783,7 +1788,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TheFloorIsLava",
@@ -1791,23 +1796,23 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "TheOldSchoolWay",
       "SetID": "acc6ea0",
       "Name": "The Old-School Way",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 363
     },
     {
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 617
     },
     {
       "ID": "ThisIsDharma",
@@ -1815,7 +1820,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1878,7 +1883,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3623,
+      "Progressed": 3627,
       "Completed": 2
     }
   ],
@@ -1886,8 +1891,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-10-31T19:00:56.8787797+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:09:04.7475867+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:09:33.215444+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:01:55.1999891+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:09:04.747621+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:02:09.1082894+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:09:33.2154863+00:00"
 }

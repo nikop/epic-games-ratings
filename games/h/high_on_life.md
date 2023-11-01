@@ -14,6 +14,7 @@ Rating: 4.64 (Ranked 329)
 | G3 Graduation | 2.00% | ~488 |
 | Cold-Blooded Driller | 2.00% | ~488 |
 | Who's The Boss? | 2.00% | ~488 |
+| Don't Knife The Hand That Feeds | 2.00% | ~488 |
 | Lezduit! | 1.00% | ~244 |
 | RIP Davey Glutes | 1.00% | ~244 |
 | We're All Very Impressed, Trust Me | 1.00% | ~244 |
@@ -21,7 +22,6 @@ Rating: 4.64 (Ranked 329)
 | Hardest Battle In The Game | 1.00% | ~244 |
 | Self-Actualization | 1.00% | ~244 |
 | Fallout Doesn't Let You Do This | 1.00% | ~244 |
-| Don't Knife The Hand That Feeds | 1.00% | ~244 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~244 |
 | Series Wrap on Suit-O | 1.00% | ~244 |
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |

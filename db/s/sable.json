@@ -497,9 +497,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 96855,
+  "EOS_Progressed": 96857,
   "EOS_Completed": 981,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -22647,6 +22647,11 @@
       "Time": "2023-11-01T05:08:58.3025393+00:00",
       "NumProgressed": 96855,
       "NumCompleted": 981
+    },
+    {
+      "Time": "2023-11-01T06:09:26.802192+00:00",
+      "NumProgressed": 96857,
+      "NumCompleted": 981
     }
   ],
   "TotalAchievements": 56,
@@ -22738,7 +22743,7 @@
       "Name": "The Scrapper Mask",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7749
     },
     {
       "ID": "ach_011_merchants_mask",
@@ -22786,7 +22791,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16465
+      "UsersEstimate": 16466
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -22802,7 +22807,7 @@
       "Name": "Shadow Of Neave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7749
     },
     {
       "ID": "ach_019_door_rowleys_way",
@@ -22834,7 +22839,7 @@
       "Name": "Thread The Needle",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 14528
+      "UsersEstimate": 14529
     },
     {
       "ID": "ach_023_open_sandwyrm",
@@ -22850,7 +22855,7 @@
       "Name": "Fragile Goods",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7749
     },
     {
       "ID": "ach_025_solve_the_watch",
@@ -22890,7 +22895,7 @@
       "Name": "Glider on the Storm",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7749
     },
     {
       "ID": "ach_030_collect_glowworm",
@@ -22914,7 +22919,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23245
+      "UsersEstimate": 23246
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -22922,7 +22927,7 @@
       "Name": "Squeeze One Out",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7748
+      "UsersEstimate": 7749
     },
     {
       "ID": "ach_034_collect_orange_ringed_beetle",
@@ -22954,7 +22959,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16465
+      "UsersEstimate": 16466
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -22986,7 +22991,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23245
+      "UsersEstimate": 23246
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -23058,7 +23063,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21308
+      "UsersEstimate": 21309
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -23105,15 +23110,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 96855,
+      "Progressed": 96857,
       "Completed": 981
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-25T15:57:21.7620587+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:08:58.3025389+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:09:26.8021913+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.5624523+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:00:16.8291816+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:08:58.3026827+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:00:27.7842897+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:09:26.8023994+00:00"
 }

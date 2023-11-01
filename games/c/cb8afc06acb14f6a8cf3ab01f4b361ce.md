@@ -5,21 +5,21 @@ Rating: 4.19 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~112,943 |
-| May the Torchbearer light our way | 36.00% | ~106,999 |
-| A powerful aura was here | 24.00% | ~71,333 |
-| Let's raise the stakes!! | 11.00% | ~32,694 |
-| Rumors are true | 6.00% | ~17,833 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,833 |
-| We'll be careful | 5.00% | ~14,861 |
-| Pride is a sin, young Knight | 5.00% | ~14,861 |
-| Bring it on! | 5.00% | ~14,861 |
+| The touch of Chaos | 38.00% | ~112,953 |
+| May the Torchbearer light our way | 36.00% | ~107,008 |
+| A powerful aura was here | 24.00% | ~71,339 |
+| Let's raise the stakes!! | 11.00% | ~32,697 |
+| Rumors are true | 6.00% | ~17,835 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,835 |
+| We'll be careful | 5.00% | ~14,862 |
+| Pride is a sin, young Knight | 5.00% | ~14,862 |
+| Bring it on! | 5.00% | ~14,862 |
 | Back to your senses | 3.00% | ~8,917 |
 | They tricked me | 3.00% | ~8,917 |
 | They won't last long | 3.00% | ~8,917 |
-| We need to talk | 2.00% | ~5,944 |
-| I feel drawn to it | 2.00% | ~5,944 |
-| I took a risk | 2.00% | ~5,944 |
+| We need to talk | 2.00% | ~5,945 |
+| I feel drawn to it | 2.00% | ~5,945 |
+| I took a risk | 2.00% | ~5,945 |
 | Here to stay | 1.00% | ~2,972 |
 | Counting on you | 1.00% | ~2,972 |
 | This is the end | 1.00% | ~2,972 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 907)
 | We strike as one | 0.10% | ~297 |
 | Chaos be damned! | 0.10% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,219 (Ranked 49)  
+Progressed: 297,245 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,11 +85,11 @@ Completed: 1 (0.00%) (Ranked 334)
 | 2023-10-29 | 295,250 | 1 |
 | 2023-10-30 | 296,161 | 1 |
 | 2023-10-31 | 297,037 | 1 |
-| 2023-11-01 | 297,219 | 1 |
+| 2023-11-01 | 297,245 | 1 |
 ## Awards
-Max (Great Boss Battles): 46  (Ranked 436)  
+Max (Great Boss Battles): 46  (Ranked 437)  
 Sum: 46 (Ranked 482)  
-Diff (max vs sum): -46  
+Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 46 |

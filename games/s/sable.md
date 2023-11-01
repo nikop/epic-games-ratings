@@ -10,17 +10,17 @@ Number of Ratings: 43  (23.09.2022)
 | Just The Two of Us | 32.00% | ~30,994 |
 | Up On High | 25.00% | ~24,214 |
 | Under The Hood | 25.00% | ~24,214 |
-| Got Your Nose | 24.00% | ~23,245 |
-| The Gift of Gab | 24.00% | ~23,245 |
-| Wrapping Up | 22.00% | ~21,308 |
+| Got Your Nose | 24.00% | ~23,246 |
+| The Gift of Gab | 24.00% | ~23,246 |
+| Wrapping Up | 22.00% | ~21,309 |
 | More Than A Box Of Sand | 18.00% | ~17,434 |
-| The Dunboyne | 17.00% | ~16,465 |
-| Badge Hobbyist | 17.00% | ~16,465 |
+| The Dunboyne | 17.00% | ~16,466 |
+| Badge Hobbyist | 17.00% | ~16,466 |
 | Chum Novice | 16.00% | ~15,497 |
 | Silver-Tongued Sable | 16.00% | ~15,497 |
 | Sticky Paws | 16.00% | ~15,497 |
 | Bubble Up | 16.00% | ~15,497 |
-| Thread The Needle | 15.00% | ~14,528 |
+| Thread The Needle | 15.00% | ~14,529 |
 | Power to the People | 14.00% | ~13,560 |
 | Take That! | 13.00% | ~12,591 |
 | Nesting Giant | 13.00% | ~12,591 |
@@ -40,11 +40,11 @@ Number of Ratings: 43  (23.09.2022)
 | Bike Collector | 9.00% | ~8,717 |
 | Dune Rider | 9.00% | ~8,717 |
 | Not That Kind Of Gliding | 9.00% | ~8,717 |
-| The Scrapper Mask | 8.00% | ~7,748 |
-| Shadow Of Neave | 8.00% | ~7,748 |
-| Fragile Goods | 8.00% | ~7,748 |
-| Glider on the Storm | 8.00% | ~7,748 |
-| Squeeze One Out | 8.00% | ~7,748 |
+| The Scrapper Mask | 8.00% | ~7,749 |
+| Shadow Of Neave | 8.00% | ~7,749 |
+| Fragile Goods | 8.00% | ~7,749 |
+| Glider on the Storm | 8.00% | ~7,749 |
+| Squeeze One Out | 8.00% | ~7,749 |
 | Amateur Historian | 7.00% | ~6,780 |
 | The Beetle Mask | 7.00% | ~6,780 |
 | The Guard Mask | 7.00% | ~6,780 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,906 |
 | Vivacious Vivarium | 2.00% | ~1,937 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,855 (Ranked 87)  
+Progressed: 96,857 (Ranked 87)  
 Completed: 981 (1.01%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 981 (1.01%) (Ranked 152)
 | 2023-10-29 | 96,544 | 976 |
 | 2023-10-30 | 96,682 | 978 |
 | 2023-10-31 | 96,822 | 980 |
-| 2023-11-01 | 96,855 | 981 |
+| 2023-11-01 | 96,857 | 981 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 513)  
 Sum: 91 (Ranked 443)  

@@ -6522,9 +6522,9 @@
       "ID": "ACH_KNIFE_GENE",
       "SetID": "cdkbb11",
       "Name": "Don\u0027t Knife The Hand That Feeds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -6697,8 +6697,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:03:48.1100014+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:04:13.4926766+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:16.0229367+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:58:46.9716999+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:03:48.1102933+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:58:56.4422207+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:04:13.4930515+00:00"
 }

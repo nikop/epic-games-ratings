@@ -631,9 +631,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470029,
+  "EOS_Progressed": 470030,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20976,6 +20976,11 @@
       "Time": "2023-11-01T05:09:59.5593595+00:00",
       "NumProgressed": 470029,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-01T06:10:38.1405593+00:00",
+      "NumProgressed": 470030,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21011,7 +21016,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103406
+      "UsersEstimate": 103407
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -21075,7 +21080,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310219
+      "UsersEstimate": 310220
     },
     {
       "ID": "achievement_story_landa",
@@ -21083,7 +21088,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23501
+      "UsersEstimate": 23502
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -21091,7 +21096,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23501
+      "UsersEstimate": 23502
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -21107,7 +21112,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117507
+      "UsersEstimate": 117508
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -21187,7 +21192,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23501
+      "UsersEstimate": 23502
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -21443,7 +21448,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183311
+      "UsersEstimate": 183312
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21467,7 +21472,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23501
+      "UsersEstimate": 23502
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -21499,7 +21504,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103406
+      "UsersEstimate": 103407
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21618,21 +21623,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 13963,
+      "Progressed": 13964,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470029,
+      "Progressed": 470030,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-10-26T05:58:10.2474341+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:09:59.5593592+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:10:38.1405585+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:00:52.8303665+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:09:59.5595731+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:01:06.4864727+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:10:38.1408183+00:00"
 }

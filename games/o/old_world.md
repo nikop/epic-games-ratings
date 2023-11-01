@@ -125,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~106 |
 | Mounted Lancer | 0.70% | ~106 |
 | Ambition Victory | 0.70% | ~106 |
+| Poetic Leader | 0.70% | ~106 |
 | Devout | 0.60% | ~90 |
 | Clerics | 0.60% | ~90 |
 | Egypt | 0.60% | ~90 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.60% | ~90 |
 | All Nations | 0.60% | ~90 |
 | The Great Mage | 0.60% | ~90 |
-| Poetic Leader | 0.60% | ~90 |
 | Kmt Unified | 0.60% | ~90 |
 | Bad Heir Day | 0.50% | ~75 |
 | Ishtar Gate in Babylon | 0.50% | ~75 |

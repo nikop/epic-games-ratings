@@ -2050,9 +2050,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 278
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2194,9 +2194,9 @@
       "ID": "HastrmanHappy",
       "SetID": "db30heh",
       "Name": "Regular Diet",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 227
     },
     {
       "ID": "HastrmanRum",
@@ -2226,9 +2226,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 227
     },
     {
       "ID": "PriestBroom",
@@ -2258,9 +2258,9 @@
       "ID": "PriestRogue",
       "SetID": "db30heh",
       "Name": "Direct Hit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "PriestRum",
@@ -2290,9 +2290,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 293
     },
     {
       "ID": "RogueEat",
@@ -2385,8 +2385,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:06:07.850483+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:06:35.475586+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:04.8206185+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:03:05.8121067+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:06:07.850524+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:03:30.0727426+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:06:35.4756384+00:00"
 }

@@ -822,9 +822,9 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -941,8 +941,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:09:56.0095644+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:10:34.6098747+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.6225511+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:57:42.0460376+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:09:56.0096032+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:57:49.9259424+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:10:34.6099243+00:00"
 }

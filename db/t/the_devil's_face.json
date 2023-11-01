@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 532,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -2370,9 +2370,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2417,8 +2417,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:07:58.7625421+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:08:26.7641508+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-01T05:01:30.9672796+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:07:58.7625694+00:00"
+  "LastUpdate_Ratings": "2023-11-01T06:01:44.8239034+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:08:26.7641807+00:00"
 }

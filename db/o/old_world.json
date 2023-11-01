@@ -17502,9 +17502,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
       "SetID": "9201eeb",
       "Name": "Poetic Leader",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 106
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -17916,8 +17916,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
-  "LastChanged_Achievements": "2023-11-01T05:03:54.5670451+00:00",
+  "LastChanged_Achievements": "2023-11-01T06:04:20.418271+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-01T04:59:21.625386+00:00",
-  "LastUpdate_Achievements": "2023-11-01T05:03:54.5680343+00:00"
+  "LastUpdate_Ratings": "2023-11-01T05:59:30.1326844+00:00",
+  "LastUpdate_Achievements": "2023-11-01T06:04:20.4196848+00:00"
 }
