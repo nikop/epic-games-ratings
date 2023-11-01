@@ -66,7 +66,7 @@
 | 64 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,986 | 4.64 | 329 |
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,938 | 4.66 | 290 |
 | 66 | [Prey](games/p/prey.md) | 5,754 | 4.62 | 361 |
-| 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,600 | 4.85 | 43 |
+| 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,602 | 4.85 | 43 |
 | 68 | [Rogue Company](games/r/rogue_company.md) | 5,599 | 4.31 | 821 |
 | 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,465 | 4.06 | 965 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,348 | 4.68 | 249 |
@@ -176,7 +176,7 @@
 | 174 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 734 | 4.87 | 23 |
 | 175 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 728 | 4.74 | 154 |
 | 176 | [Subnautica](games/s/subnautica.md) | 727 | 4.85 | 43 |
-| 177 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 724 | 4.24 | 869 |
+| 177 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 726 | 4.24 | 869 |
 | 178 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 721 | 4.61 | 381 |
 | 179 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 718 | 4.59 | 427 |
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 707 | 4.67 | 272 |
@@ -370,10 +370,10 @@
 | 368 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 580 |
 | 369 | [Barony](games/b/barony.md) | 89 | 4.72 | 184 |
 | 369 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 89 | 4.62 | 361 |
+| 369 | [Returnal™](games/r/returnal™.md) | 89 | 4.61 | 381 |
 | 369 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 89 | 4.41 | 713 |
 | 369 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 89 | 3.81 | 1,018 |
-| 373 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 87 | 4.29 | 832 |
-| 373 | [Returnal™](games/r/returnal™.md) | 87 | 4.61 | 381 |
+| 374 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 87 | 4.29 | 832 |
 | 375 | [Solitairica](games/s/solitairica.md) | 86 | 4.50 | 580 |
 | 375 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 86 | 4.59 | 427 |
 | 377 | [This War of Mine](games/t/this_war_of_mine.md) | 84 | 4.74 | 154 |

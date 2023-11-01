@@ -43,7 +43,7 @@
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 532 | 202 |
 | 28 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 544 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,996 | 46 |
-| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,600 | 67 |
+| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,602 | 67 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 271 |
 | 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 153 | 309 |
 | 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 727 | 176 |
@@ -398,7 +398,7 @@
 | 381 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 345 |
 | 381 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 548 | 200 |
 | 381 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,335 | 39 |
-| 381 | [Returnal™](games/r/returnal™.md) | 4.61 | 87 | 373 |
+| 381 | [Returnal™](games/r/returnal™.md) | 4.61 | 89 | 369 |
 | 381 | [RiME](games/r/rime.md) | 4.61 | 0 | 544 |
 | 381 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,093 | 143 |
 | 381 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 544 |
@@ -835,7 +835,7 @@
 | 832 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 544 |
 | 832 | [ELEX II](games/e/elex_ii.md) | 4.29 | 0 | 544 |
 | 832 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,895,213 | 1 |
-| 832 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 87 | 373 |
+| 832 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 87 | 374 |
 | 832 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 752 | 173 |
 | 832 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 153 | 309 |
 | 832 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 127 | 324 |
@@ -872,7 +872,7 @@
 | 869 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 32 | 481 |
 | 869 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.24 | 22 | 525 |
 | 869 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,113 | 141 |
-| 869 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 724 | 177 |
+| 869 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 726 | 177 |
 | 869 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 544 |
 | 869 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 436 |
 | 869 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 544 |
