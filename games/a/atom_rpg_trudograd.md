@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,099 |
+| Fresh Prince of Trudograd | 88.00% | ~1,112 |
 | Household | 7.00% | ~88 |
 | An Old Friend | 6.00% | ~76 |
 | Lot 49 | 5.00% | ~63 |
@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 519)
 | Fight Club | 2.00% | ~25 |
 | Human Antidote | 2.00% | ~25 |
 | Death of the Author | 1.00% | ~13 |
-| Memoirs of a Nibbler | 1.00% | ~13 |
+| Memoirs of a Nibbler | 0.90% | ~11 |
 | Rising Star | 0.90% | ~11 |
 | KGB Bunker | 0.80% | ~10 |
 | Sixth Sense | 0.70% | ~9 |
@@ -38,7 +38,7 @@ Rating: 4.54 (Ranked 519)
 | Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,263 (Ranked 236)  
+Progressed: 1,264 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-27 | 1,260 | 0 |
 | 2023-10-29 | 1,261 | 0 |
 | 2023-10-31 | 1,262 | 0 |
-| 2023-11-01 | 1,263 | 0 |
+| 2023-11-01 | 1,264 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 513)  
 Sum: 25 (Ranked 520)  

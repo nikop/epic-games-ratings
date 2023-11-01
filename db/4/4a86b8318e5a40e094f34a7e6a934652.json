@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -879,9 +879,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -1046,8 +1046,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:05:52.2608685+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:05:40.6006358+00:00",
   "LastUpdate_AppInfo": "2023-11-01T17:57:12.1999794+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:01:11.2267185+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:05:52.2608928+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:00:57.3158217+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:05:40.6006549+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 616,
-  "Ranking_Popularity": 349,
+  "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1306,10 +1306,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 723,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-11-01T19:00:45.0889477+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 724,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 723,
+  "NumberOfAwards": 724,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1341,7 +1347,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1376,7 +1382,7 @@
   ],
   "EOS_Progressed": 10017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16382,9 +16388,9 @@
       "ID": "4",
       "SetID": "8idi9ml",
       "Name": "Catastrofan",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2905
     },
     {
       "ID": "40",
@@ -16462,9 +16468,9 @@
       "ID": "49",
       "SetID": "8idi9ml",
       "Name": "Mentor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2404
     },
     {
       "ID": "5",
@@ -16597,9 +16603,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-11-01T17:00:20.6178518+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:08:34.7193379+00:00",
+  "LastChanged": "2023-11-01T19:00:45.0889475+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:08:50.25754+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:00:57.5881712+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:08:34.719452+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:00:45.0889482+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:08:50.2576901+00:00"
 }

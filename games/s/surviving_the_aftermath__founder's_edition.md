@@ -20,14 +20,14 @@ Number of Ratings: 836  (23.09.2022)
 | The Long Haul | 33.00% | ~3,306 |
 | Survivor | 32.00% | ~3,205 |
 | The Great Healer | 31.00% | ~3,105 |
+| Catastrofan | 29.00% | ~2,905 |
 | Legendary Explorer | 28.00% | ~2,805 |
 | Cleaner | 28.00% | ~2,805 |
-| Catastrofan | 28.00% | ~2,805 |
 | Finders, Keepers | 26.00% | ~2,604 |
 | Top Notch | 25.00% | ~2,504 |
+| Mentor | 24.00% | ~2,404 |
 | Great Leader | 23.00% | ~2,304 |
 | Ice Lakes | 23.00% | ~2,304 |
-| Mentor | 23.00% | ~2,304 |
 | Merchant | 22.00% | ~2,204 |
 | Real Survivor | 22.00% | ~2,204 |
 | Rocket Surgeon | 20.00% | ~2,003 |
@@ -263,9 +263,9 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-31 | 9,998 | 0 |
 | 2023-11-01 | 10,017 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 349)  
-Sum: 723 (Ranked 287)  
-Diff (max vs sum): 62  
+Max (Extremely Fun): 103  (Ranked 350)  
+Sum: 724 (Ranked 287)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
@@ -274,7 +274,7 @@ Diff (max vs sum): 62
 | This game has Quickly Understood Controls | 86 |
 | This game is Relaxing | 85 |
 | This game has Diverse Characters | 75 |
-| This game is Highly Recommended | 73 |
+| This game is Highly Recommended | 74 |
 | This game has Amazing Characters | 69 |
 | This game has Obsessive Gameplay | 58 |
 | This game has a Creative Community | 47 |
@@ -417,4 +417,4 @@ Diff (max vs sum): 62
 | 2023-10-29 | 4.48 | - | 103 | 718 |
 | 2023-10-30 | 4.48 | - | 103 | 719 |
 | 2023-10-31 | 4.48 | - | 103 | 720 |
-| 2023-11-01 | 4.48 | - | 103 | 723 |
+| 2023-11-01 | 4.48 | - | 103 | 724 |

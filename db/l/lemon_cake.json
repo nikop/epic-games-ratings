@@ -3,9 +3,9 @@
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -240,6 +240,11 @@
       "Time": "2023-10-22T23:08:27.5997859+00:00",
       "NumProgressed": 154,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-01T19:04:21.8577418+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -251,7 +256,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LC-02",
@@ -283,7 +288,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LC-06",
@@ -291,7 +296,7 @@
       "Name": "Adept Baker",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-07",
@@ -299,7 +304,7 @@
       "Name": "Expert Baker",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-08",
@@ -315,7 +320,7 @@
       "Name": "Verdant Greenhouse",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-10",
@@ -323,7 +328,7 @@
       "Name": "Luxury Kitchen",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-11",
@@ -331,7 +336,7 @@
       "Name": "Bustling Store",
       "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LC-12",
@@ -347,7 +352,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LC-14",
@@ -386,7 +391,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 2
     }
   ],
@@ -394,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:04:23.9831365+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:04:21.8577413+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:54.9347952+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:00:41.6357992+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:04:23.9831467+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:00:30.5842356+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:04:21.8577563+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1882,11 +1882,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1862,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2023-11-01T18:58:59.8252861+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1864,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1862,
-  "NumberOfAwardsMax": 225,
+  "NumberOfAwards": 1864,
+  "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -1935,13 +1941,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 225
+      "Count": 226
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1962,9 +1968,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15089,
+  "EOS_Progressed": 15091,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15192,6 +15198,11 @@
       "Time": "2023-11-01T18:03:54.3917902+00:00",
       "NumProgressed": 15089,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-01T19:03:55.0181944+00:00",
+      "NumProgressed": 15091,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17321,9 +17332,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -17938,21 +17949,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15089,
+      "Progressed": 15091,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15089,
+      "Progressed": 15091,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-10-31T16:58:32.8595654+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:03:54.3917898+00:00",
+  "LastChanged": "2023-11-01T18:58:59.8252859+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:03:55.0181937+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:59:09.4960066+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:03:54.3926695+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:58:59.8252866+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:03:55.0194865+00:00"
 }

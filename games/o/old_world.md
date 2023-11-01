@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
 | Phalangite | 0.80% | ~121 |
+| Ambition Victory | 0.80% | ~121 |
 | Capable | 0.70% | ~106 |
 | Ready | 0.70% | ~106 |
 | Hunters | 0.70% | ~106 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.70% | ~106 |
 | Veneration | 0.70% | ~106 |
 | Mounted Lancer | 0.70% | ~106 |
-| Ambition Victory | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
 | Devout | 0.60% | ~91 |
 | Clerics | 0.60% | ~91 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,089 (Ranked 144)  
+Progressed: 15,091 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -544,14 +544,14 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-29 | 15,036 | 5 |
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
-| 2023-11-01 | 15,089 | 5 |
+| 2023-11-01 | 15,091 | 5 |
 ## Awards
-Max (Relaxing): 225  (Ranked 269)  
-Sum: 1,862 (Ranked 212)  
+Max (Relaxing): 226  (Ranked 269)  
+Sum: 1,864 (Ranked 212)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 225 |
+| This game is Relaxing | 226 |
 | This game has Diverse Characters | 217 |
 | This game is Highly Recommended | 216 |
 | This game is Extremely Fun | 214 |
@@ -559,7 +559,7 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 202 |
 | This game has Quickly Understood Controls | 194 |
 | This game has Amazing Characters | 193 |
-| This game has Amazing Storytelling | 190 |
+| This game has Amazing Storytelling | 191 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -721,3 +721,4 @@ Diff (max vs sum): 57
 | 2023-10-28 | 4.65 | - | 225 | 1,856 |
 | 2023-10-29 | 4.65 | - | 225 | 1,857 |
 | 2023-10-31 | 4.65 | - | 225 | 1,862 |
+| 2023-11-01 | 4.65 | - | 226 | 1,864 |

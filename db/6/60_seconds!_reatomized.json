@@ -2,13 +2,13 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 407,
+  "Ranking_Rating": 406,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -7040,8 +7040,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:04:20.7607552+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:04:19.0027939+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:07.0845931+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:00:53.1089638+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:04:20.7608387+00:00"
+  "LastUpdate_Ratings": "2023-11-01T19:00:40.6225547+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:04:19.0029234+00:00"
 }

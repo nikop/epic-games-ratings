@@ -6,61 +6,61 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,268 |
-| Hit Rock Bottom | 97.00% | ~2,222 |
-| Rocket Launched | 97.00% | ~2,222 |
-| Speed | 97.00% | ~2,222 |
-| High Jump | 96.00% | ~2,199 |
-| Knee bending | 96.00% | ~2,199 |
+| Good Morning | 99.00% | ~2,269 |
+| Hit Rock Bottom | 97.00% | ~2,223 |
+| Rocket Launched | 97.00% | ~2,223 |
+| Speed | 97.00% | ~2,223 |
+| High Jump | 96.00% | ~2,200 |
+| Knee bending | 96.00% | ~2,200 |
 | Pickaxe | 94.00% | ~2,154 |
-| Revenge | 94.00% | ~2,154 |
 | Cage Town | 94.00% | ~2,154 |
-| Force Beam | 93.00% | ~2,131 |
-| Entered Cage Town | 93.00% | ~2,131 |
-| Stone Pickaxe | 93.00% | ~2,131 |
-| Surprise | 93.00% | ~2,131 |
-| Magnet | 91.00% | ~2,085 |
-| Industrial Area | 90.00% | ~2,062 |
-| Magnet Repel | 89.00% | ~2,039 |
-| You feel middle classy | 87.00% | ~1,993 |
-| Boomeraxe | 87.00% | ~1,993 |
-| Iron Pickaxe | 87.00% | ~1,993 |
-| Banking District | 86.00% | ~1,970 |
-| Arrested | 86.00% | ~1,970 |
-| Zappy Gun | 86.00% | ~1,970 |
-| Got your own one now | 86.00% | ~1,970 |
-| Mission Unlikely | 86.00% | ~1,970 |
-| Don't draw dicks pls | 85.00% | ~1,947 |
-| Ripped | 85.00% | ~1,947 |
+| Force Beam | 93.00% | ~2,132 |
+| Entered Cage Town | 93.00% | ~2,132 |
+| Stone Pickaxe | 93.00% | ~2,132 |
+| Revenge | 93.00% | ~2,132 |
+| Surprise | 93.00% | ~2,132 |
+| Magnet | 91.00% | ~2,086 |
+| Industrial Area | 90.00% | ~2,063 |
+| Magnet Repel | 89.00% | ~2,040 |
+| You feel middle classy | 87.00% | ~1,994 |
+| Boomeraxe | 87.00% | ~1,994 |
+| Iron Pickaxe | 87.00% | ~1,994 |
+| Banking District | 86.00% | ~1,971 |
+| Arrested | 86.00% | ~1,971 |
+| Zappy Gun | 86.00% | ~1,971 |
+| Got your own one now | 86.00% | ~1,971 |
+| Mission Unlikely | 86.00% | ~1,971 |
+| Don't draw dicks pls | 85.00% | ~1,948 |
+| Ripped | 85.00% | ~1,948 |
 | Beat the big arena | 83.00% | ~1,902 |
 | Force Cube | 82.00% | ~1,879 |
-| Got Battery | 81.00% | ~1,856 |
-| Guard Distracted | 81.00% | ~1,856 |
-| Translocator | 80.00% | ~1,833 |
-| Inner Peace | 78.00% | ~1,787 |
-| Diamond Pickaxe | 77.00% | ~1,764 |
-| Killed them all | 77.00% | ~1,764 |
-| Trickle Down Economy | 77.00% | ~1,764 |
-| Win | 76.00% | ~1,741 |
+| Got Battery | 81.00% | ~1,857 |
+| Guard Distracted | 81.00% | ~1,857 |
+| Translocator | 80.00% | ~1,834 |
+| Inner Peace | 78.00% | ~1,788 |
+| Diamond Pickaxe | 77.00% | ~1,765 |
+| Killed them all | 77.00% | ~1,765 |
+| Trickle Down Economy | 77.00% | ~1,765 |
+| Win | 76.00% | ~1,742 |
 | Greenhouse | 72.00% | ~1,650 |
 | Played with fire | 71.00% | ~1,627 |
 | You feel very sorry | 70.00% | ~1,604 |
-| No Match for you | 66.00% | ~1,512 |
-| Bouncy | 62.00% | ~1,420 |
+| No Match for you | 66.00% | ~1,513 |
+| Bouncy | 62.00% | ~1,421 |
 | Plumbster | 61.00% | ~1,398 |
 | Faster | 60.00% | ~1,375 |
 | Much Magic | 58.00% | ~1,329 |
-| Chest Detector | 56.00% | ~1,283 |
-| Flames | 53.00% | ~1,214 |
+| Chest Detector | 56.00% | ~1,284 |
+| Flames | 53.00% | ~1,215 |
 | Momentum | 46.00% | ~1,054 |
-| You're unsure if you broke the game or not | 43.00% | ~985 |
-| But wait... ...There's more... | 40.00% | ~916 |
+| You're unsure if you broke the game or not | 43.00% | ~986 |
+| But wait... ...There's more... | 40.00% | ~917 |
 | So much force | 35.00% | ~802 |
 | You feel fully engaged | 24.00% | ~550 |
 | Too hot | 20.00% | ~458 |
 | All the chests | 14.00% | ~321 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,291 (Ranked 209)  
+Progressed: 2,292 (Ranked 209)  
 Completed: 283 (12.35%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,11 @@ Completed: 283 (12.35%) (Ranked 26)
 | 2023-10-28 | 2,289 | 282 |
 | 2023-10-29 | 2,290 | 282 |
 | 2023-10-30 | 2,291 | 283 |
+| 2023-11-01 | 2,292 | 283 |
 ## Awards
-Max (Challenging Puzzles): 103  (Ranked 349)  
+Max (Challenging Puzzles): 103  (Ranked 350)  
 Sum: 103 (Ranked 438)  
-Diff (max vs sum): -89  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 103 |

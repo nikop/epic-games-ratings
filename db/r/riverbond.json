@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530420,
+  "EOS_Progressed": 530421,
   "EOS_Completed": 492,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -21282,6 +21282,11 @@
       "Time": "2023-11-01T18:05:50.1962453+00:00",
       "NumProgressed": 530420,
       "NumCompleted": 492
+    },
+    {
+      "Time": "2023-11-01T19:05:38.8223633+00:00",
+      "NumProgressed": 530421,
+      "NumCompleted": 492
     }
   ],
   "TotalAchievements": 57,
@@ -21309,7 +21314,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371294
+      "UsersEstimate": 371295
     },
     {
       "ID": "12",
@@ -21317,7 +21322,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116692
+      "UsersEstimate": 116693
     },
     {
       "ID": "13",
@@ -21373,7 +21378,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 328860
+      "UsersEstimate": 328861
     },
     {
       "ID": "2",
@@ -21589,7 +21594,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90171
+      "UsersEstimate": 90172
     },
     {
       "ID": "44",
@@ -21621,7 +21626,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 328860
+      "UsersEstimate": 328861
     },
     {
       "ID": "48",
@@ -21669,7 +21674,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 243993
+      "UsersEstimate": 243994
     },
     {
       "ID": "53",
@@ -21748,15 +21753,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530420,
+      "Progressed": 530421,
       "Completed": 492
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:05:50.1962449+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:05:38.8223628+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.2071497+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:57:57.090502+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:05:50.196354+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:57:58.8722133+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:05:38.8225434+00:00"
 }

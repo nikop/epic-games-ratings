@@ -3,12 +3,12 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 922,
-  "Ranking_Popularity": 365,
+  "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7174,
+  "EOS_Progressed": 7175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8020,6 +8020,11 @@
       "Time": "2023-11-01T18:04:14.3552478+00:00",
       "NumProgressed": 7174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-01T19:04:13.1141757+00:00",
+      "NumProgressed": 7175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8071,7 +8076,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "Control_All_Relics",
@@ -8143,7 +8148,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5165
+      "UsersEstimate": 5166
     },
     {
       "ID": "First_Ship_Designed",
@@ -8167,7 +8172,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8247,7 +8252,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "Play_1000_Hours",
@@ -8351,7 +8356,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8359,7 +8364,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "War_With_5_Factions",
@@ -8367,7 +8372,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "War_Without_Translator",
@@ -8383,7 +8388,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Win_As_Arcean",
@@ -8511,7 +8516,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Win_Battle",
@@ -8519,7 +8524,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4663
+      "UsersEstimate": 4664
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8567,7 +8572,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Win_Multiplayer",
@@ -8606,15 +8611,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7174,
+      "Progressed": 7175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:04:14.3552475+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:04:13.1141752+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:59:24.1481541+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:04:14.3553441+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:59:15.3880234+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:04:13.1142971+00:00"
 }

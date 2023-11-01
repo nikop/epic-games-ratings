@@ -16,7 +16,7 @@
 | Hat lover | 33.00% | ~74 |
 | Perfectionist | 32.00% | ~72 |
 | Protected | 30.00% | ~67 |
-| Pragmatic | 22.00% | ~49 |
+| Pragmatic | 23.00% | ~52 |
 | Calory burner | 19.00% | ~43 |
 | Snow digger | 15.00% | ~34 |
 | Pacifist | 15.00% | ~34 |
@@ -24,7 +24,7 @@
 | Fire extinguisher | 11.00% | ~25 |
 | Hubworld fan | 11.00% | ~25 |
 | Occult cataloger | 8.00% | ~18 |
-| Photographer | 5.00% | ~11 |
+| Photographer | 6.00% | ~13 |
 | Great rescuer | 4.00% | ~9 |
 | Absolute race champion | 4.00% | ~9 |
 | Doppelganger | 4.00% | ~9 |

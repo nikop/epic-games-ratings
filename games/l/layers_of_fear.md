@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 68.00% | ~26 |
-| Something important | 61.00% | ~23 |
-| A piece of the story | 50.00% | ~19 |
-| Do what you have to | 39.00% | ~15 |
-| Finished it | 34.00% | ~13 |
-| The artist’s impression | 32.00% | ~12 |
-| Refuse to look | 29.00% | ~11 |
+| Wanderer | 67.00% | ~26 |
+| Something important | 59.00% | ~23 |
+| A piece of the story | 49.00% | ~19 |
+| Do what you have to | 38.00% | ~15 |
+| Finished it | 33.00% | ~13 |
+| The artist’s impression | 31.00% | ~12 |
+| Refuse to look | 28.00% | ~11 |
 | Scraps of love | 26.00% | ~10 |
 | Sign of weakness | 26.00% | ~10 |
 | It's covered up for a reason | 21.00% | ~8 |
 | Face your fears | 21.00% | ~8 |
-| First steps | 16.00% | ~6 |
-| Playtime | 16.00% | ~6 |
-| Tough conversation | 16.00% | ~6 |
+| First steps | 15.00% | ~6 |
+| Playtime | 15.00% | ~6 |
+| Tough conversation | 15.00% | ~6 |
 | Breaking free | 13.00% | ~5 |
 | The tragedy unfolds | 13.00% | ~5 |
-| A Slice of Life | 11.00% | ~4 |
-| Debut | 11.00% | ~4 |
-| The art of movement | 11.00% | ~4 |
-| True Reflection | 11.00% | ~4 |
+| A Slice of Life | 10.00% | ~4 |
+| Debut | 10.00% | ~4 |
+| The art of movement | 10.00% | ~4 |
+| True Reflection | 10.00% | ~4 |
 | A new way | 8.00% | ~3 |
+| We Are Not Alone | 8.00% | ~3 |
 | Sound Bite | 8.00% | ~3 |
 | Heavy Burden | 8.00% | ~3 |
 | Whispers long forgotten | 8.00% | ~3 |
 | Another perspective | 5.00% | ~2 |
-| We Are Not Alone | 5.00% | ~2 |
 | Lights! Camera! Action! | 5.00% | ~2 |
 | The Perfect Storm | 5.00% | ~2 |
 | Fisherman | 5.00% | ~2 |
@@ -37,6 +37,7 @@
 | Something to think about | 3.00% | ~1 |
 | Body of Work | 3.00% | ~1 |
 | Full Scoop | 3.00% | ~1 |
+| Se7en Seas | 3.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |
@@ -51,13 +52,12 @@
 | Once Upon a Time | 0.00% | ~0 |
 | Preferred Parent | 0.00% | ~0 |
 | Rocket Science | 0.00% | ~0 |
-| Se7en Seas | 0.00% | ~0 |
 | The Tree and the Apple | 0.00% | ~0 |
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 | A Mosaic of Misery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 479)  
+Progressed: 39 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,4 +73,4 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 28 | 0 |
 | 2023-10-30 | 32 | 0 |
 | 2023-10-31 | 33 | 0 |
-| 2023-11-01 | 38 | 0 |
+| 2023-11-01 | 39 | 0 |

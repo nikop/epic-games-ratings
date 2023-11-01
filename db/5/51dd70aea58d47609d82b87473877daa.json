@@ -3,9 +3,9 @@
   "Name": "The Backroom Project",
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 165,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.45,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -804,6 +804,11 @@
       "Time": "2023-11-01T04:09:01.9679237+00:00",
       "NumProgressed": 163,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-01T19:09:25.8752862+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -815,7 +820,7 @@
       "Name": "Are you still Alive?",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_DIE",
@@ -823,7 +828,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_DULLER",
@@ -837,9 +842,9 @@
       "ID": "ACH_ENTERLEVELRUN",
       "SetID": "c2kf3nm",
       "Name": "THERE IS NO EXIT",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_FIND_ENTITY",
@@ -847,15 +852,15 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_GET_IN",
@@ -863,7 +868,7 @@
       "Name": "Lab Rat",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_GET_OUT",
@@ -877,17 +882,17 @@
       "ID": "ACH_HABITABLE",
       "SetID": "c2kf3nm",
       "Name": "Follow your Dreams",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_HOUND",
@@ -895,7 +900,7 @@
       "Name": "DONT TURN BACK",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_KEY",
@@ -903,21 +908,21 @@
       "Name": "Key to your Death",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_PIPEDREAMS",
       "SetID": "c2kf3nm",
       "Name": "DO NOT ENTER",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 25,
       "UsersEstimate": 99
     },
@@ -925,9 +930,9 @@
       "ID": "ACH_PITFALLSDIE",
       "SetID": "c2kf3nm",
       "Name": "One Wrong Step",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_RUN",
@@ -935,7 +940,7 @@
       "Name": "RUN FOR YOUR LIFE",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_STAIRS",
@@ -951,21 +956,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 165,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:09:14.1563811+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:09:25.8752856+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.9033952+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:58:06.2875097+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:09:14.1563967+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:58:09.2551467+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:09:25.8753027+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fe4fbacf140f4fb2a05f074730a3375c",
   "Name": "Angelo and Deemon: One Hell of a Quest",
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 31,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
@@ -223,9 +223,9 @@
       "ID": "EnterMatrix",
       "SetID": "bl5ebnd",
       "Name": "Enter the Matrix",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GoldenYouth",
@@ -295,9 +295,9 @@
       "ID": "PrivateVisit",
       "SetID": "bl5ebnd",
       "Name": "Private Visit",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Reincarnation",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:09:31.3950231+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:09:41.641483+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:14.0090609+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:57:28.6887402+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:09:31.3950333+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:57:31.7933221+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:09:41.641499+00:00"
 }

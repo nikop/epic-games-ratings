@@ -6,38 +6,38 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,672 |
-| Gone Home | 93.00% | ~26,531 |
-| Wonderfalls | 87.00% | ~24,819 |
-| Got to Catch a Few | 77.00% | ~21,967 |
-| Double Trapper | 75.00% | ~21,396 |
-| I'm Stuffed | 69.00% | ~19,684 |
-| Got to Catch a Lot | 66.00% | ~18,828 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,402 |
-| In the Arms of the Gramble | 59.00% | ~16,832 |
-| Know Thy Neighbor | 59.00% | ~16,832 |
-| Perf Dirt | 57.00% | ~16,261 |
-| Launch Party | 56.00% | ~15,976 |
-| Vacation's End | 53.00% | ~15,120 |
-| Bossy Bugs | 46.00% | ~13,123 |
+| Everybody Gets One | 97.00% | ~27,674 |
+| Gone Home | 93.00% | ~26,533 |
+| Wonderfalls | 87.00% | ~24,821 |
+| Got to Catch a Few | 77.00% | ~21,968 |
+| Double Trapper | 75.00% | ~21,398 |
+| I'm Stuffed | 69.00% | ~19,686 |
+| Got to Catch a Lot | 66.00% | ~18,830 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,403 |
+| In the Arms of the Gramble | 59.00% | ~16,833 |
+| Know Thy Neighbor | 59.00% | ~16,833 |
+| Perf Dirt | 57.00% | ~16,262 |
+| Launch Party | 56.00% | ~15,977 |
+| Vacation's End | 53.00% | ~15,121 |
+| Bossy Bugs | 46.00% | ~13,124 |
 | Survivor | 45.00% | ~12,838 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,267 |
-| Sidetracked | 40.00% | ~11,411 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,268 |
+| Sidetracked | 40.00% | ~11,412 |
 | Film Buff | 38.00% | ~10,841 |
 | Combo Meal | 38.00% | ~10,841 |
-| Midnight Snak | 36.00% | ~10,270 |
-| Candid Cryptid | 35.00% | ~9,985 |
-| Got to Catch Them All | 32.00% | ~9,129 |
-| Deep Impact | 23.00% | ~6,561 |
-| Grab Bag | 23.00% | ~6,561 |
-| Feeding Frenzy | 19.00% | ~5,420 |
+| Midnight Snak | 36.00% | ~10,271 |
+| Candid Cryptid | 35.00% | ~9,986 |
+| Got to Catch Them All | 32.00% | ~9,130 |
+| Deep Impact | 23.00% | ~6,562 |
+| Grab Bag | 23.00% | ~6,562 |
+| Feeding Frenzy | 19.00% | ~5,421 |
 | Clothesline | 17.00% | ~4,850 |
-| Say Cheese! | 15.00% | ~4,279 |
+| Say Cheese! | 15.00% | ~4,280 |
 | Sundae Best | 14.00% | ~3,994 |
 | Live Laugh Hut | 9.00% | ~2,568 |
 | Dapper Capper | 7.00% | ~1,997 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,528 (Ranked 123)  
+Progressed: 28,530 (Ranked 123)  
 Completed: 1,366 (4.79%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 1,366 (4.79%) (Ranked 68)
 | 2023-10-29 | 28,518 | 1,364 |
 | 2023-10-30 | 28,523 | 1,364 |
 | 2023-10-31 | 28,528 | 1,364 |
-| 2023-11-01 | 28,528 | 1,366 |
+| 2023-11-01 | 28,530 | 1,366 |
 ## Awards
 Max (Amazing Storytelling): 42  (Ranked 447)  
 Sum: 352 (Ranked 347)  

@@ -89,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Sibriex | 0.20% | ~399 |
 | Wrecked Flying Fortress | 0.20% | ~399 |
 | Dwarven Rumors | 0.20% | ~399 |
+| Sunblight | 0.20% | ~399 |
 | The Bleeding Citadel | 0.20% | ~399 |
 | Idyllglen | 0.20% | ~399 |
 | The Battle of High Hall Tower | 0.20% | ~399 |
@@ -452,7 +453,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mimic Perception | 0.10% | ~200 |
 | Frozen in Fear | 0.10% | ~200 |
 | It's Cold Out There Today | 0.10% | ~200 |
-| Sunblight | 0.10% | ~200 |
 | Fortress Assault | 0.10% | ~200 |
 | Hats off to you! | 0.10% | ~200 |
 | It's Cold Out There Every Day | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,387 (Ranked 62)  
-Completed: 2,415 (1.03%) (Ranked 155)  
+Progressed: 233,390 (Ranked 62)  
+Completed: 2,416 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -730,7 +730,7 @@ Completed: 2,415 (1.03%) (Ranked 155)
 | 2023-10-29 | 233,200 | 2,400 |
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
-| 2023-11-01 | 233,387 | 2,415 |
+| 2023-11-01 | 233,390 | 2,416 |
 ## Awards
 Max (Great for Beginners): 5,465  (Ranked 69)  
 Sum: 32,290 (Ranked 41)  

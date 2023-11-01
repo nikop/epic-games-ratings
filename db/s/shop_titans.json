@@ -6823,9 +6823,9 @@
       "Count": 3769
     }
   ],
-  "EOS_Progressed": 138440,
+  "EOS_Progressed": 138441,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26758,6 +26758,11 @@
       "Time": "2023-11-01T18:06:34.0345024+00:00",
       "NumProgressed": 138440,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-01T19:06:18.375543+00:00",
+      "NumProgressed": 138441,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26951,9 +26956,9 @@
       "ID": "chest03",
       "SetID": "anfd17p",
       "Name": "Booty by the Boatload",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 969
     },
     {
       "ID": "collection01",
@@ -27664,15 +27669,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138440,
+      "Progressed": 138441,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-01T18:00:07.121777+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:06:34.0345022+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:06:18.3755423+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-01T18:00:07.1217779+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:06:34.034702+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:59:57.4716938+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:06:18.376032+00:00"
 }

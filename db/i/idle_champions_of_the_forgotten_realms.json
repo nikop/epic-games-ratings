@@ -6,7 +6,7 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -7741,11 +7741,11 @@
       "Count": 3498
     }
   ],
-  "EOS_Progressed": 233387,
-  "EOS_Completed": 2415,
-  "EOS_NewPlayers": 594,
+  "EOS_Progressed": 233390,
+  "EOS_Completed": 2416,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 29,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -29556,6 +29556,11 @@
       "Time": "2023-11-01T18:08:11.8470716+00:00",
       "NumProgressed": 233387,
       "NumCompleted": 2415
+    },
+    {
+      "Time": "2023-11-01T19:08:30.5700877+00:00",
+      "NumProgressed": 233390,
+      "NumCompleted": 2416
     }
   ],
   "TotalAchievements": 528,
@@ -32957,9 +32962,9 @@
       "ID": "objective_completed_832",
       "SetID": "415jc5c",
       "Name": "Sunblight",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_833",
@@ -33790,21 +33795,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199661,
-      "Completed": 3728
+      "Progressed": 199664,
+      "Completed": 3729
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233387,
-      "Completed": 2415
+      "Progressed": 233390,
+      "Completed": 2416
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T08:59:00.324819+00:00",
-  "LastChanged_Achievements": "2023-11-01T18:08:11.8470712+00:00",
+  "LastChanged_Achievements": "2023-11-01T19:08:30.5700871+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T17:58:55.9515012+00:00",
-  "LastUpdate_Achievements": "2023-11-01T18:08:11.8492171+00:00"
+  "LastUpdate_Ratings": "2023-11-01T18:58:48.9924236+00:00",
+  "LastUpdate_Achievements": "2023-11-01T19:08:30.5734816+00:00"
 }

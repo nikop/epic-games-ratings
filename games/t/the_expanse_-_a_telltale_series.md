@@ -1,20 +1,20 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.60 (Ranked 407)  
+Rating: 4.60 (Ranked 406)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 3.00% | ~436 |
-| The Pit and the Pirates | 1.00% | ~145 |
-| Drug Gifter | 1.00% | ~145 |
-| Martian Music | 1.00% | ~145 |
-| Drone Dodger | 1.00% | ~145 |
-| Call it Even | 1.00% | ~145 |
-| Bosmang | 1.00% | ~145 |
-| Captain Drummer | 1.00% | ~145 |
-| Celebrations are in Order | 1.00% | ~145 |
-| Impossible Objects | 1.00% | ~145 |
+| The Pit and the Pirates | 1.00% | ~146 |
+| Drug Gifter | 1.00% | ~146 |
+| Martian Music | 1.00% | ~146 |
+| Drone Dodger | 1.00% | ~146 |
+| Call it Even | 1.00% | ~146 |
+| Bosmang | 1.00% | ~146 |
+| Captain Drummer | 1.00% | ~146 |
+| Celebrations are in Order | 1.00% | ~146 |
+| Impossible Objects | 1.00% | ~146 |
 | Spore Taste | 0.90% | ~131 |
 | Heal Thy Medic | 0.90% | ~131 |
 | Data Archivist | 0.80% | ~116 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 407)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,548 (Ranked 145)  
+Progressed: 14,550 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-29 | 14,463 | 28 |
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
-| 2023-11-01 | 14,548 | 28 |
+| 2023-11-01 | 14,550 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

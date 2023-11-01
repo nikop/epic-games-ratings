@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~25,075 |
-| Landlord | 33.00% | ~21,218 |
-| Bannerlord | 23.00% | ~14,788 |
-| Horde breaker | 23.00% | ~14,788 |
-| Lawmaker | 23.00% | ~14,788 |
-| Trained | 23.00% | ~14,788 |
-| The king is pleased | 19.00% | ~12,216 |
-| King Solomon | 17.00% | ~10,930 |
-| Apple of my eye | 16.00% | ~10,287 |
-| I can do it | 16.00% | ~10,287 |
-| God of the Arena | 13.00% | ~8,358 |
-| This Is Our Land | 13.00% | ~8,358 |
+| Lawbringer | 39.00% | ~25,077 |
+| Landlord | 33.00% | ~21,219 |
+| Bannerlord | 23.00% | ~14,789 |
+| Horde breaker | 23.00% | ~14,789 |
+| Lawmaker | 23.00% | ~14,789 |
+| Trained | 23.00% | ~14,789 |
+| The king is pleased | 19.00% | ~12,217 |
+| King Solomon | 17.00% | ~10,931 |
+| Apple of my eye | 16.00% | ~10,288 |
+| I can do it | 16.00% | ~10,288 |
+| God of the Arena | 13.00% | ~8,359 |
+| This Is Our Land | 13.00% | ~8,359 |
 | Against all odds | 12.00% | ~7,716 |
 | Duelist | 10.00% | ~6,430 |
 | Dynasty | 10.00% | ~6,430 |
@@ -40,7 +40,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.90% | ~579 |
 | Fat Cat | 0.70% | ~450 |
 | Catch | 0.60% | ~386 |
-| Slice 'n dice | 0.50% | ~321 |
+| Slice 'n dice | 0.50% | ~322 |
 | Ride it like you stole it | 0.40% | ~257 |
 | Mounted Archery | 0.30% | ~193 |
 | Explorer | 0.20% | ~129 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,296 (Ranked 102)  
+Progressed: 64,300 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-29 | 64,140 | 0 |
 | 2023-10-30 | 64,194 | 0 |
 | 2023-10-31 | 64,251 | 0 |
-| 2023-11-01 | 64,296 | 0 |
+| 2023-11-01 | 64,300 | 0 |
 ## Awards
 Max (Character Customization): 7,315  (Ranked 52)  
 Sum: 15,093 (Ranked 66)  
