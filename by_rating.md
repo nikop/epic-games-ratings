@@ -38,7 +38,7 @@
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 357 |
 | 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 30 | 487 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 158 | 306 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,523 | 127 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,525 | 126 |
 | 28 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 544 |
 | 28 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 532 | 202 |
 | 28 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 544 |
@@ -427,7 +427,7 @@
 | 407 | [Warframe](games/w/warframe.md) | 4.60 | 18,087 | 22 |
 | 407 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 535 | 201 |
 | 427 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 544 |
-| 427 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 452 | 211 |
+| 427 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 454 | 211 |
 | 427 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 397 |
 | 427 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 62 | 407 |
 | 427 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 696 | 183 |
@@ -522,7 +522,7 @@
 | 498 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,337 | 134 |
 | 521 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 544 |
 | 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 513 |
-| 521 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,524 | 126 |
+| 521 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,524 | 127 |
 | 521 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,773 | 54 |
 | 521 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 463 |
 | 521 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 544 |
@@ -747,7 +747,7 @@
 | 742 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 544 |
 | 742 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 594 | 191 |
 | 742 | [MORDHAU](games/m/mordhau.md) | 4.39 | 861 | 160 |
-| 742 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,780 | 36 |
+| 742 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,781 | 36 |
 | 742 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 544 |
 | 742 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.39 | 56 | 410 |
 | 742 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.39 | 0 | 544 |
