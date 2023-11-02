@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blunga 1 | 99.00% | ~261 |
-| Mjam-Mjam | 97.00% | ~256 |
-| Onk Boga I | 96.00% | ~253 |
+| Blunga 1 | 99.00% | ~262 |
+| Mjam-Mjam | 97.00% | ~257 |
+| Onk Boga I | 96.00% | ~254 |
 | Sniarb! | 90.00% | ~238 |
 | Blunga 5 | 68.00% | ~180 |
-| Onk Boga II | 64.00% | ~169 |
+| Onk Boga II | 65.00% | ~172 |
 | Bzzzzzz | 59.00% | ~156 |
-| Onk Boga III | 52.00% | ~137 |
+| Onk Boga III | 52.00% | ~138 |
 | Danka, Lagga, Wonwon | 45.00% | ~119 |
 | Onk Boga IV | 45.00% | ~119 |
-| Blunga 10 | 44.00% | ~116 |
+| Blunga 10 | 43.00% | ~114 |
 | BumBum | 43.00% | ~114 |
 | Onk Boga V | 40.00% | ~106 |
 | Onk Boga VI | 37.00% | ~98 |
 | IQ62 | 37.00% | ~98 |
 | 1978 | 36.00% | ~95 |
 | Onk Boga VII | 36.00% | ~95 |
-| Onk Boga VIII | 35.00% | ~92 |
-| Blubb | 35.00% | ~92 |
-| ParaPara! | 33.00% | ~87 |
-| Onk Boga IX | 33.00% | ~87 |
-| AKRE! | 33.00% | ~87 |
-| Kokakoka | 32.00% | ~84 |
+| Onk Boga VIII | 35.00% | ~93 |
+| Blubb | 35.00% | ~93 |
+| ParaPara! | 32.00% | ~85 |
+| Kokakoka | 32.00% | ~85 |
+| Onk Boga IX | 32.00% | ~85 |
+| AKRE! | 32.00% | ~85 |
 | Blunga 15 | 31.00% | ~82 |
 | Blunga 20 | 11.00% | ~29 |
 | Blunga 25 | 6.00% | ~16 |
 | Blunga 30 | 6.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 339)  
-Completed: 15 (5.68%) (Ranked 62)  
+Progressed: 265 (Ranked 340)  
+Completed: 15 (5.66%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,7 +117,7 @@ Completed: 15 (5.68%) (Ranked 62)
 | 2023-10-29 | 261 | 15 |
 | 2023-10-31 | 262 | 15 |
 | 2023-11-01 | 263 | 15 |
-| 2023-11-02 | 264 | 15 |
+| 2023-11-02 | 265 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 168,
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7185,
+  "EOS_Progressed": 7186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8060,6 +8060,11 @@
       "Time": "2023-11-02T17:05:45.4047966+00:00",
       "NumProgressed": 7185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T19:05:22.5805934+00:00",
+      "NumProgressed": 7186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8135,7 +8140,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8151,7 +8156,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2227
+      "UsersEstimate": 2228
     },
     {
       "ID": "First_Major_Ally",
@@ -8175,7 +8180,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "First_Race_Met",
@@ -8183,7 +8188,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "First_Ship_Designed",
@@ -8207,7 +8212,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5532
+      "UsersEstimate": 5533
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8375,7 +8380,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8407,7 +8412,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "War_Without_Translator",
@@ -8559,7 +8564,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8646,15 +8651,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7185,
+      "Progressed": 7186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:05:38.0347957+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:05:22.5805931+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:00:52.7432003+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:05:38.0348796+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:00:35.2122701+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:05:22.5806683+00:00"
 }

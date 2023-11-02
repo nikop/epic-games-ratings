@@ -1,16 +1,16 @@
 # The Uncertain: Light at the End
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-light-at-the-end)  
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.82 (Ranked 1,015)  
+Rating: 3.82 (Ranked 1,016)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 51.00% | ~286 |
 | A Friend in Need... | 46.00% | ~258 |
-| Bosom Buddies | 31.00% | ~174 |
-| Beat the Heat | 24.00% | ~134 |
+| Bosom Buddies | 30.00% | ~168 |
+| Beat the Heat | 24.00% | ~135 |
 | A Familiar Face | 16.00% | ~90 |
-| Unexpected Consequences | 14.00% | ~78 |
+| Unexpected Consequences | 14.00% | ~79 |
 | Mind the Gap | 13.00% | ~73 |
 | Does Not Compute | 13.00% | ~73 |
 | Identity Theft | 12.00% | ~67 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 1,015)
 | Marvellous Toys | 2.00% | ~11 |
 | Hardcore Gamer | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560 (Ranked 283)  
+Progressed: 561 (Ranked 283)  
 Completed: 6 (1.07%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 6 (1.07%) (Ranked 150)
 | 2023-10-29 | 555 | 6 |
 | 2023-10-30 | 556 | 6 |
 | 2023-11-01 | 559 | 6 |
-| 2023-11-02 | 560 | 6 |
+| 2023-11-02 | 561 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

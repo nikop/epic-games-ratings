@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 966,
+  "Ranking_Rating": 967,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
@@ -7721,10 +7721,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32307,
       "NumberOfAwardsMax": 5470
+    },
+    {
+      "Time": "2023-11-02T18:59:58.1860578+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32309,
+      "NumberOfAwardsMax": 5470
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32307,
+  "NumberOfAwards": 32309,
   "NumberOfAwardsMax": 5470,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7750,7 +7756,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4693
+      "Count": 4695
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7771,9 +7777,9 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233467,
+  "EOS_Progressed": 233473,
   "EOS_Completed": 2422,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29696,6 +29702,11 @@
       "Time": "2023-11-02T18:04:30.5821063+00:00",
       "NumProgressed": 233467,
       "NumCompleted": 2422
+    },
+    {
+      "Time": "2023-11-02T19:04:17.9248673+00:00",
+      "NumProgressed": 233473,
+      "NumCompleted": 2422
     }
   ],
   "TotalAchievements": 528,
@@ -31281,9 +31292,9 @@
       "ID": "objective_completed_267",
       "SetID": "cc37lbc",
       "Name": "Seeds of Deceit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_268",
@@ -32897,9 +32908,9 @@
       "ID": "objective_completed_76",
       "SetID": "cc37lbc",
       "Name": "Easily Distracted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_77",
@@ -33930,21 +33941,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199741,
+      "Progressed": 199747,
       "Completed": 3736
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233467,
+      "Progressed": 233473,
       "Completed": 2422
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-02T10:59:00.9751379+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:04:30.582106+00:00",
+  "LastChanged": "2023-11-02T18:59:58.1860576+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:04:17.9248669+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:00:09.7269501+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:04:30.584247+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:59:58.1860582+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:04:17.9270674+00:00"
 }

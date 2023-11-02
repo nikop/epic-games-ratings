@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 966)  
+Rating: 4.06 (Ranked 967)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.20% | ~467 |
 | The Dinner Party | 0.20% | ~467 |
 | The Botched Kidnapping | 0.20% | ~467 |
+| Seeds of Deceit | 0.20% | ~467 |
 | Attack on the Manor | 0.20% | ~467 |
 | The Crumbling Temple | 0.20% | ~467 |
 | Flies on the Wall | 0.20% | ~467 |
@@ -98,6 +99,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~467 |
 | Constant Banditry | 0.20% | ~467 |
 | Waterdeep Detours | 0.20% | ~467 |
+| Easily Distracted | 0.20% | ~467 |
 | Rude Welcome | 0.20% | ~467 |
 | Underdeep Cartography | 0.20% | ~467 |
 | Friendly Imps | 0.20% | ~467 |
@@ -278,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~233 |
 | Shorty's Day Off | 0.10% | ~233 |
 | Intelligence Hunt | 0.10% | ~233 |
-| Seeds of Deceit | 0.10% | ~233 |
 | Visions of Strahd | 0.10% | ~233 |
 | Seeds of Corruption | 0.10% | ~233 |
 | The Strahd Squad | 0.10% | ~200 |
@@ -438,7 +439,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~200 |
 | The Long Haul | 0.10% | ~233 |
 | Lost in the Deep | 0.10% | ~233 |
-| Easily Distracted | 0.10% | ~233 |
 | Overdue Rendezvous | 0.10% | ~233 |
 | An Awakened Axe | 0.10% | ~200 |
 | CONtagious Cold | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,467 (Ranked 62)  
+Progressed: 233,473 (Ranked 62)  
 Completed: 2,422 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,17 +731,17 @@ Completed: 2,422 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,467 | 2,422 |
+| 2023-11-02 | 233,473 | 2,422 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
-Sum: 32,307 (Ranked 41)  
+Sum: 32,309 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,470 |
 | This game has Diverse Characters | 5,464 |
 | This game has Quickly Understood Controls | 4,804 |
-| This game is Relaxing | 4,693 |
+| This game is Relaxing | 4,695 |
 | This game has Amazing Characters | 4,192 |
 | This game is Highly Recommended | 4,184 |
 | This game has Playful Visuals | 3,500 |
@@ -1028,4 +1028,4 @@ Diff (max vs sum): 28
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
-| 2023-11-02 | 4.06 | - | 5,470 | 32,307 |
+| 2023-11-02 | 4.06 | - | 5,470 | 32,309 |

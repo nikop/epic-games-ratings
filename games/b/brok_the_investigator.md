@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 71.00% | ~15 |
+| Introduction completed | 76.00% | ~16 |
 | Chapter 1 | 38.00% | ~8 |
 | Chapter 2 | 38.00% | ~8 |
 | Your Days Are Numbered | 38.00% | ~8 |

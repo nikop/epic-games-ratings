@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4173,9 +4173,9 @@
       "ID": "conqueror_1",
       "SetID": "53c1p3k",
       "Name": "Conqueror 1",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 129
     },
     {
       "ID": "conqueror_2",
@@ -4588,8 +4588,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:10:46.326888+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:10:20.9209795+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:01:57.7202368+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:10:46.3269551+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:01:42.7106306+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:10:20.9210456+00:00"
 }

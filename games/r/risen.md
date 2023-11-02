@@ -17,7 +17,7 @@ Rating: 4.57 (Ranked 466)
 | Field hand | 52.00% | ~11 |
 | Ladies' man | 52.00% | ~11 |
 | Ferocious wild boars | 48.00% | ~10 |
-| Idiot | 38.00% | ~8 |
+| Idiot | 43.00% | ~9 |
 | Beast slayer | 33.00% | ~7 |
 | The fourth triplet | 33.00% | ~7 |
 | Sidelined | 33.00% | ~7 |
@@ -31,10 +31,10 @@ Rating: 4.57 (Ranked 466)
 | Archaeologist | 24.00% | ~5 |
 | Defender | 24.00% | ~5 |
 | Pandora's box | 24.00% | ~5 |
+| Ghost hunter | 24.00% | ~5 |
 | Master detective | 24.00% | ~5 |
 | Little hero | 19.00% | ~4 |
 | Freedom fighter | 19.00% | ~4 |
-| Ghost hunter | 19.00% | ~4 |
 | Peacekeeper | 19.00% | ~4 |
 | Safecracker | 19.00% | ~4 |
 | Moneybags | 19.00% | ~4 |

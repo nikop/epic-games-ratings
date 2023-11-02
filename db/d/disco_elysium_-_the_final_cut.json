@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 23,
-  "Ranking_Popularity": 174,
+  "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 310,
@@ -1418,7 +1418,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130380,
+  "EOS_Progressed": 130382,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -20798,6 +20798,11 @@
       "Time": "2023-11-02T17:06:16.4941334+00:00",
       "NumProgressed": 130380,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-02T19:05:52.3654474+00:00",
+      "NumProgressed": 130382,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20841,7 +20846,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23468
+      "UsersEstimate": 23469
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20865,7 +20870,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31291
+      "UsersEstimate": 31292
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -20873,7 +20878,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10430
+      "UsersEstimate": 10431
     },
     {
       "ID": "ACH_COP_DORK",
@@ -20889,7 +20894,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36506
+      "UsersEstimate": 36507
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20937,7 +20942,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16949
+      "UsersEstimate": 16950
     },
     {
       "ID": "ACH_COP_STAR",
@@ -21128,15 +21133,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130380,
+      "Progressed": 130382,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-01T02:57:19.275442+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:06:08.6029218+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:05:52.3654472+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:58:00.7655425+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:06:08.6030232+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:58:00.8567362+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:05:52.3655429+00:00"
 }

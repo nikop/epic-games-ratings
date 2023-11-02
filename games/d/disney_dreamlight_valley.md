@@ -1,28 +1,28 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 122)  
+Rating: 4.76 (Ranked 121)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,927 |
-| Photographer | 69.00% | ~7,814 |
-| Valley's Helper | 62.00% | ~7,022 |
-| Constructor | 52.00% | ~5,889 |
-| Renovator | 51.00% | ~5,776 |
-| Bestest Friend | 47.00% | ~5,323 |
-| Banker | 39.00% | ~4,417 |
+| Goofy's Investor | 70.00% | ~7,929 |
+| Photographer | 69.00% | ~7,816 |
+| Valley's Helper | 62.00% | ~7,023 |
+| Constructor | 52.00% | ~5,890 |
+| Renovator | 51.00% | ~5,777 |
+| Bestest Friend | 47.00% | ~5,324 |
+| Banker | 39.00% | ~4,418 |
 | Gardener | 31.00% | ~3,511 |
-| Generous | 25.00% | ~2,831 |
-| Chef Cook | 18.00% | ~2,038 |
-| Miner | 10.00% | ~1,132 |
+| Generous | 25.00% | ~2,832 |
+| Chef Cook | 18.00% | ~2,039 |
+| Miner | 10.00% | ~1,133 |
 | Duty Bound | 7.00% | ~793 |
 | Angler | 5.00% | ~566 |
 | Thorn Cleaner | 5.00% | ~566 |
 | Chit Chatter | 3.00% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,325 (Ranked 151)  
+Progressed: 11,327 (Ranked 151)  
 Completed: 270 (2.38%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,10 +169,10 @@ Completed: 270 (2.38%) (Ranked 113)
 | 2023-10-30 | 11,211 | 267 |
 | 2023-10-31 | 11,236 | 267 |
 | 2023-11-01 | 11,282 | 268 |
-| 2023-11-02 | 11,325 | 270 |
+| 2023-11-02 | 11,327 | 270 |
 ## Awards
 Max (Great for Beginners): 1,043  (Ranked 149)  
-Sum: 7,823 (Ranked 107)  
+Sum: 7,825 (Ranked 107)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -184,7 +184,7 @@ Diff (max vs sum): 42
 | This game has Amazing Storytelling | 773 |
 | This game is Extremely Fun | 762 |
 | This game has Quickly Understood Controls | 750 |
-| This game has a Creative Community | 651 |
+| This game has a Creative Community | 653 |
 | This game has Easy Combat | 522 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -424,4 +424,4 @@ Diff (max vs sum): 42
 | 2023-10-30 | 4.76 | - | 1,035 | 7,796 |
 | 2023-10-31 | 4.76 | - | 1,040 | 7,803 |
 | 2023-11-01 | 4.76 | - | 1,043 | 7,811 |
-| 2023-11-02 | 4.76 | - | 1,043 | 7,823 |
+| 2023-11-02 | 4.76 | - | 1,043 | 7,825 |

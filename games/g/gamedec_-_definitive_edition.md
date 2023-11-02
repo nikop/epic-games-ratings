@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,248 |
-| Powergamer | 27.00% | ~67,739 |
-| Write that down | 25.00% | ~62,721 |
-| Barely scratched the surface | 25.00% | ~62,721 |
-| Guns, lots of guns | 13.00% | ~32,615 |
-| Collector | 12.00% | ~30,106 |
+| I will finish what you started | 28.00% | ~70,249 |
+| Powergamer | 27.00% | ~67,740 |
+| Write that down | 25.00% | ~62,722 |
+| Barely scratched the surface | 25.00% | ~62,722 |
+| Guns, lots of guns | 13.00% | ~32,616 |
+| Collector | 12.00% | ~30,107 |
 | Elementary! | 9.00% | ~22,580 |
 | Griever | 8.00% | ~20,071 |
 | Pumpkin Jack | 8.00% | ~20,071 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~15,053 |
 | Good listener | 5.00% | ~12,544 |
 | Valedictorian | 5.00% | ~12,544 |
-| BOY! | 4.00% | ~10,035 |
-| Ka-ching! | 4.00% | ~10,035 |
-| So you like to read? | 4.00% | ~10,035 |
+| BOY! | 4.00% | ~10,036 |
+| Ka-ching! | 4.00% | ~10,036 |
+| So you like to read? | 4.00% | ~10,036 |
 | Hoarder | 3.00% | ~7,527 |
 | I like to sniff around | 3.00% | ~7,527 |
 | Mind reader | 3.00% | ~7,527 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~502 |
 | Memory 5 | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,885 (Ranked 56)  
+Progressed: 250,889 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,11 +255,11 @@ Completed: 7 (0.00%) (Ranked 339)
 | 2023-10-30 | 250,668 | 7 |
 | 2023-10-31 | 250,746 | 7 |
 | 2023-11-01 | 250,818 | 7 |
-| 2023-11-02 | 250,885 | 7 |
+| 2023-11-02 | 250,889 | 7 |
 ## Awards
-Max (Character Customization): 88  (Ranked 375)  
+Max (Character Customization): 88  (Ranked 376)  
 Sum: 88 (Ranked 448)  
-Diff (max vs sum): -73  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |

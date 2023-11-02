@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 43,
   "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 80,
+  "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 448,
@@ -4331,10 +4331,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 12345,
       "NumberOfAwardsMax": 5602
+    },
+    {
+      "Time": "2023-11-02T19:03:05.3663846+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 12347,
+      "NumberOfAwardsMax": 5602
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12345,
+  "NumberOfAwards": 12347,
   "NumberOfAwardsMax": 5602,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4396,7 +4402,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 327
+      "Count": 329
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4428,8 +4434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2023-11-01T12:02:21.5967009+00:00",
+  "LastChanged": "2023-11-02T19:03:05.3663844+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:34.5805165+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:03:18.3495571+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:10:10.8166209+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:03:05.3663849+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:09:45.4923969+00:00"
 }

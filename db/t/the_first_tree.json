@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 987,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 118,
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37413,
+  "EOS_Progressed": 37419,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -17248,6 +17248,11 @@
       "Time": "2023-11-02T18:09:13.9450803+00:00",
       "NumProgressed": 37413,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-11-02T19:08:49.632519+00:00",
+      "NumProgressed": 37419,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 14,
@@ -17275,7 +17280,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9729
     },
     {
       "ID": "allItems",
@@ -17307,7 +17312,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "completionist",
@@ -17339,7 +17344,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8981
     },
     {
       "ID": "firstItem",
@@ -17347,7 +17352,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28808
+      "UsersEstimate": 28813
     },
     {
       "ID": "roots",
@@ -17355,7 +17360,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "secretItem",
@@ -17370,15 +17375,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37413,
+      "Progressed": 37419,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:09:13.9450798+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:08:49.6325187+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:56.7109243+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:02:33.8358125+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:09:13.9451653+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:02:20.3783623+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:08:49.6326114+00:00"
 }

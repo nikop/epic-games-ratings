@@ -2911,10 +2911,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2661,
       "NumberOfAwardsMax": 298
+    },
+    {
+      "Time": "2023-11-02T19:02:57.3425815+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2663,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2661,
+  "NumberOfAwards": 2663,
   "NumberOfAwardsMax": 298,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2940,7 +2946,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 291
+      "Count": 293
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2991,9 +2997,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29699,
+  "EOS_Progressed": 29713,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1938,
+  "EOS_NewPlayers": 1950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17571,6 +17577,11 @@
       "Time": "2023-11-02T18:06:55.2671778+00:00",
       "NumProgressed": 29699,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-02T19:06:37.9556114+00:00",
+      "NumProgressed": 29713,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17582,7 +17593,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "Animated",
@@ -17670,7 +17681,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "Dont_Need_These",
@@ -17694,7 +17705,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "Escape_Artist",
@@ -17870,7 +17881,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "Stunner",
@@ -17886,7 +17897,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "Summoner",
@@ -17910,7 +17921,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "Teamwork",
@@ -17934,7 +17945,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "There_You_Are",
@@ -17989,16 +18000,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29699,
+      "Progressed": 29713,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-02T10:00:54.6441995+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:06:55.2671773+00:00",
+  "LastChanged": "2023-11-02T19:02:57.3425813+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:06:37.9556111+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:03:12.4321055+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:06:55.2672872+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:02:57.3425818+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:06:37.9556993+00:00"
 }

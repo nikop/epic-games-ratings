@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 176,
@@ -853,9 +853,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6233,
+  "EOS_Progressed": 6237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9168,6 +9168,11 @@
       "Time": "2023-11-02T18:09:59.2069288+00:00",
       "NumProgressed": 6233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T19:09:33.7005426+00:00",
+      "NumProgressed": 6237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9177,17 +9182,17 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -9225,9 +9230,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9241,9 +9246,9 @@
       "ID": "ACHIEVEMENT_009",
       "SetID": "1a05lfd",
       "Name": "Things that go Splash in the Night",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -9289,9 +9294,9 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -9498,13 +9503,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6233,
+      "Progressed": 6237,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5605,
+      "Progressed": 5609,
       "Completed": 113
     }
   ],
@@ -9512,8 +9517,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:09:59.2069284+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:09:33.7005424+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:57:46.4447767+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:09:59.2070052+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:57:44.8531057+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:09:33.7005947+00:00"
 }

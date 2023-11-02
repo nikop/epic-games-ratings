@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3815,
+  "EOS_Progressed": 3818,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1739,
+  "EOS_NewPlayers": 1711,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1776,6 +1776,11 @@
       "Time": "2023-11-02T18:09:53.6980727+00:00",
       "NumProgressed": 3815,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T19:09:28.1825291+00:00",
+      "NumProgressed": 3818,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1796,7 +1801,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "BeLikeWater",
@@ -1812,7 +1817,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ChewingTheScenery",
@@ -1828,7 +1833,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Eavesdropper",
@@ -1860,7 +1865,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1900,7 +1905,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "JackOfAllTrades",
@@ -1930,9 +1935,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 420
     },
     {
       "ID": "NoMoreTotems",
@@ -2059,7 +2064,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3815,
+      "Progressed": 3818,
       "Completed": 3
     }
   ],
@@ -2067,8 +2072,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-01T18:01:19.2593354+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:09:53.6980723+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:09:28.1825288+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:57:23.1815746+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:09:53.6981008+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:57:23.1879264+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:09:28.1825583+00:00"
 }

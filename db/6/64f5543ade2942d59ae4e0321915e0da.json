@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "AC_BLACKJACK_GAMES_2",
       "SetID": "16i2akc",
       "Name": "Ludopath",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_BOSS_00",
@@ -405,9 +405,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:06:42.4009816+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:06:25.1069925+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:00:03.4817403+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:06:42.4010106+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:59:52.2319096+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:06:25.1070154+00:00"
 }

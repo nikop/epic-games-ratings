@@ -1,11 +1,11 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 990)  
+Rating: 3.98 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~114 |
+| Unforeseen | 90.00% | ~115 |
 | Battlefields Have Memories | 88.00% | ~113 |
 | Enlisted | 86.00% | ~110 |
 | Maybe Engage a Little | 82.00% | ~105 |
@@ -22,9 +22,9 @@ Rating: 3.98 (Ranked 990)
 | Resilience to Sin | 20.00% | ~26 |
 | A Familiar Nest | 20.00% | ~26 |
 | Periapt Alizarin | 20.00% | ~26 |
-| Geas Aristeya | 17.00% | ~22 |
+| Geas Aristeya | 18.00% | ~23 |
 | Armsman | 17.00% | ~22 |
-| A Perfect Cycle | 14.00% | ~18 |
+| A Perfect Cycle | 15.00% | ~19 |
 | Recruit | 14.00% | ~18 |
 | Good Boy | 10.00% | ~13 |
 | Lights Army | 9.00% | ~12 |

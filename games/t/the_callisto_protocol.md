@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 908)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,388 (Ranked 140)  
+Progressed: 16,389 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,10 +242,10 @@ Completed: 78 (0.48%) (Ranked 196)
 | 2023-10-30 | 16,360 | 78 |
 | 2023-10-31 | 16,372 | 78 |
 | 2023-11-01 | 16,381 | 78 |
-| 2023-11-02 | 16,388 | 78 |
+| 2023-11-02 | 16,389 | 78 |
 ## Awards
-Max (Highly Recommended): 79  (Ranked 384)  
-Sum: 466 (Ranked 325)  
+Max (Highly Recommended): 79  (Ranked 385)  
+Sum: 466 (Ranked 326)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@ Number of Ratings: 56  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | light attack | 96.00% | ~9,888 |
-| keep it tidy | 77.00% | ~7,931 |
+| keep it tidy | 78.00% | ~8,034 |
 | podium | 72.00% | ~7,416 |
 | medium attack | 60.00% | ~6,180 |
 | brail | 57.00% | ~5,871 |
@@ -51,7 +51,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,300 (Ranked 155)  
-Completed: 9 (0.09%) (Ranked 271)  
+Completed: 9 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -506,9 +506,9 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -602,9 +602,9 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:10:17.1141089+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:09:51.7781356+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:58:01.6829097+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:10:17.11412+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:58:01.7936136+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:09:51.7781452+00:00"
 }

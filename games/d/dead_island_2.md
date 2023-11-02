@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 520)
 | Wilhelm | 0.10% | ~36 |
 | Top That, Tisha! | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,872 (Ranked 22)  
+Progressed: 710,914 (Ranked 22)  
 Completed: 2,303 (0.32%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,17 +253,17 @@ Completed: 2,303 (0.32%) (Ranked 216)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,872 | 2,303 |
+| 2023-11-02 | 710,914 | 2,303 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 54)  
-Sum: 10,315 (Ranked 90)  
+Sum: 10,317 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,847 |
 | This game is Great for Beginners | 497 |
 | This game has Diverse Characters | 486 |
-| This game has Quickly Understood Controls | 456 |
+| This game has Quickly Understood Controls | 458 |
 | This game is Relaxing | 437 |
 | This game has Amazing Storytelling | 418 |
 | This game is Highly Recommended | 403 |
@@ -467,4 +467,4 @@ Diff (max vs sum): -36
 | 2023-10-30 | 4.54 | 6,756 | 10,182 |
 | 2023-10-31 | 4.54 | 6,773 | 10,214 |
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
-| 2023-11-02 | 4.54 | 6,847 | 10,315 |
+| 2023-11-02 | 4.54 | 6,847 | 10,317 |

@@ -1150,9 +1150,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -1509,8 +1509,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-02T18:08:11.231207+00:00",
+  "LastChanged_Achievements": "2023-11-02T19:07:48.6525996+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:59:10.0963107+00:00",
-  "LastUpdate_Achievements": "2023-11-02T18:08:11.2312869+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:59:02.8668145+00:00",
+  "LastUpdate_Achievements": "2023-11-02T19:07:48.6526758+00:00"
 }

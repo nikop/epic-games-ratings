@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.38 (Ranked 1,030)  
+Rating: 3.38 (Ranked 1,031)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,9 +15,9 @@ Rating: 3.38 (Ranked 1,030)
 | Getting Deployment | 10.00% | ~174 |
 | On Target | 10.00% | ~174 |
 | Infantry Reporting | 10.00% | ~174 |
+| Fighting for Survival | 9.00% | ~157 |
 | Keeping Busy | 9.00% | ~157 |
 | Stocking Up | 9.00% | ~157 |
-| Fighting for Survival | 8.00% | ~140 |
 | Silver Competitor | 8.00% | ~140 |
 | Captain | 8.00% | ~140 |
 | Factory Expansion | 8.00% | ~140 |

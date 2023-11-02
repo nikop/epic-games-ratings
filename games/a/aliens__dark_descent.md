@@ -52,7 +52,7 @@ Rating: 4.49 (Ranked 601)
 | Chalk It Up To Experience | 0.70% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,520 (Ranked 196)  
-Completed: 3 (0.09%) (Ranked 271)  
+Completed: 3 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

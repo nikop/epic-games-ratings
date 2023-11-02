@@ -6,36 +6,38 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 141.00% | ~86 |
-| Adept Assembler | 123.00% | ~75 |
-| Greeno-B-Gone | 95.00% | ~58 |
-| Your Especially Earned Trajectory | 74.00% | ~45 |
-| Can We Keep It? | 49.00% | ~30 |
-| No Mountain Wide Enough | 39.00% | ~24 |
-| My Time Mansion | 34.00% | ~21 |
-| Happier-est Place on Earth | 31.00% | ~19 |
-| Finishing Touches | 30.00% | ~18 |
-| Call Me Fishmael | 26.00% | ~16 |
-| Anti-Santa | 23.00% | ~14 |
-| You Don't Win Friends With Salad | 23.00% | ~14 |
-| Yakmel Whisperer | 23.00% | ~14 |
-| Jewel of the Eufaula | 16.00% | ~10 |
-| I Do! | 13.00% | ~8 |
-| Officially Official | 11.00% | ~7 |
-| Knowledge is Power | 8.00% | ~5 |
-| On that Grindset | 8.00% | ~5 |
-| Jack of All Trades | 7.00% | ~4 |
-| Pack Mule | 5.00% | ~3 |
-| Better Late than Never | 5.00% | ~3 |
+| Iron Chef | 143.00% | ~107 |
+| Adept Assembler | 119.00% | ~89 |
+| Greeno-B-Gone | 83.00% | ~62 |
+| Your Especially Earned Trajectory | 64.00% | ~48 |
+| Can We Keep It? | 44.00% | ~33 |
+| No Mountain Wide Enough | 33.00% | ~25 |
+| My Time Mansion | 32.00% | ~24 |
+| Yakmel Whisperer | 27.00% | ~20 |
+| Happier-est Place on Earth | 25.00% | ~19 |
+| Finishing Touches | 24.00% | ~18 |
+| You Don't Win Friends With Salad | 24.00% | ~18 |
+| Anti-Santa | 21.00% | ~16 |
+| Call Me Fishmael | 21.00% | ~16 |
+| Jewel of the Eufaula | 15.00% | ~11 |
+| I Do! | 15.00% | ~11 |
+| Officially Official | 13.00% | ~10 |
+| Knowledge is Power | 12.00% | ~9 |
+| Jack of All Trades | 8.00% | ~6 |
+| On that Grindset | 7.00% | ~5 |
+| Pack Mule | 4.00% | ~3 |
+| Better Late than Never | 4.00% | ~3 |
 | Panda-kin | 3.00% | ~2 |
 | One of the Cool Kids | 3.00% | ~2 |
-| Time Flies | 2.00% | ~1 |
-| Bridging the Gap | 2.00% | ~1 |
-| Pro Gamer | 2.00% | ~1 |
-| Just What I Always Wanted! | 2.00% | ~1 |
-| Sandrock's Hottest Club | 2.00% | ~1 |
-| Mole Masher | 2.00% | ~1 |
-| Diamonds are Forever | 2.00% | ~1 |
+| Pro Gamer | 3.00% | ~2 |
+| Time Flies | 1.00% | ~1 |
+| Bridging the Gap | 1.00% | ~1 |
+| Martle's Dream | 1.00% | ~1 |
+| Just What I Always Wanted! | 1.00% | ~1 |
+| First Love | 1.00% | ~1 |
+| Sandrock's Hottest Club | 1.00% | ~1 |
+| Mole Masher | 1.00% | ~1 |
+| Diamonds are Forever | 1.00% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
@@ -44,7 +46,6 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 0.00% | ~0 |
 | Builder of the Month | 0.00% | ~0 |
 | Kind of a Big Deal | 0.00% | ~0 |
-| Martle's Dream | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | What Plants Crave | 0.00% | ~0 |
 | Sepia Toned Memories | 0.00% | ~0 |
@@ -58,7 +59,6 @@ Number of Ratings: 892  (23.09.2022)
 | Who Ya Gonna Call...? | 0.00% | ~0 |
 | Santa In Training | 0.00% | ~0 |
 | Got the Receipt? | 0.00% | ~0 |
-| First Love | 0.00% | ~0 |
 | Sandrunning Speedster | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 | Unboxing | 0.00% | ~0 |
@@ -67,12 +67,12 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 442)  
+Progressed: 75 (Ranked 429)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-02 | 61 | 0 |
+| 2023-11-02 | 75 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,298 (Ranked 236)  
