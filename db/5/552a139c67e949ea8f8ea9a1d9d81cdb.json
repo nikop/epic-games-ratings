@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 814,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1377,6 +1377,11 @@
       "Time": "2023-11-02T14:03:51.7668926+00:00",
       "NumProgressed": 813,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T15:03:42.9766789+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1389,7 +1394,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1405,7 +1410,7 @@
       "Name": "Out of control",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1467,9 +1472,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -1517,7 +1522,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1533,7 +1538,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1732,20 +1737,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 814,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 481,
-      "Completed": 481
+      "Progressed": 482,
+      "Completed": 482
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:03:51.7668918+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:03:42.9766786+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:59:20.117315+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:03:51.7669292+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:59:02.368768+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:03:42.9767271+00:00"
 }

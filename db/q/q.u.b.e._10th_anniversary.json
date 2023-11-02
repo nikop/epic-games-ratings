@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14499,
+  "EOS_Progressed": 14529,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4537,
+  "EOS_NewPlayers": 4524,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1720,6 +1720,11 @@
       "Time": "2023-11-02T14:09:26.5351869+00:00",
       "NumProgressed": 14499,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T15:08:59.230216+00:00",
+      "NumProgressed": 14529,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1729,9 +1734,9 @@
       "ID": "ACH_BlueIntro",
       "SetID": "a3lf366",
       "Name": "Feeling the Blues",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_CollectAll",
@@ -1739,7 +1744,7 @@
       "Name": "The Collector",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_CrushEnemy",
@@ -1747,7 +1752,7 @@
       "Name": "Squished",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -1761,9 +1766,9 @@
       "ID": "ACH_CrushPhysicsCube",
       "SetID": "a3lf366",
       "Name": "Crush That Cube!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_Finale",
@@ -1779,7 +1784,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -1787,7 +1792,7 @@
       "Name": "Master Of The Collectables",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8AllGold",
@@ -1795,7 +1800,7 @@
       "Name": "Gold Trophy",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8AllMasterRoom",
@@ -1803,7 +1808,7 @@
       "Name": "Hopefully that\u0027s all of them!",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8AllPuzzleRooms",
@@ -1811,7 +1816,7 @@
       "Name": "Phew!",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -1827,7 +1832,7 @@
       "Name": "Silver Trophy",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8Exit",
@@ -1835,7 +1840,7 @@
       "Name": "Completed It.",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -1843,7 +1848,7 @@
       "Name": "Master Room",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -1851,7 +1856,7 @@
       "Name": "Maxed Out",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_Sector1",
@@ -1867,23 +1872,23 @@
       "Name": "Sector 2",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_Sector3",
       "SetID": "a3lf366",
       "Name": "Sector 3",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_Sector4",
       "SetID": "a3lf366",
       "Name": "Sector 4",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_Sector5",
@@ -1899,7 +1904,7 @@
       "Name": "Sector 6",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_Sector7",
@@ -1922,7 +1927,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14499,
+      "Progressed": 14529,
       "Completed": 1
     }
   ],
@@ -1930,8 +1935,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T13:01:37.1364146+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:09:26.5351865+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:08:59.2302156+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:57:29.6816913+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:09:26.5352097+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:57:20.236389+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:08:59.2302412+00:00"
 }

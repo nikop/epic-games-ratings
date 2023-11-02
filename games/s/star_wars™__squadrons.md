@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~15,291 |
-| A Better Idea | 25.00% | ~4,024 |
-| Safety in the Storm | 24.00% | ~3,863 |
-| Begin the Ceremony | 21.00% | ~3,380 |
-| Mission Accomplished | 19.00% | ~3,058 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,414 |
-| A Starfighter of Your Own | 14.00% | ~2,253 |
-| Asset Secured | 13.00% | ~2,092 |
-| Unkillable | 8.00% | ~1,288 |
+| Fracture at Fostar Haven | 95.00% | ~15,302 |
+| A Better Idea | 25.00% | ~4,027 |
+| Safety in the Storm | 24.00% | ~3,866 |
+| Begin the Ceremony | 21.00% | ~3,382 |
+| Mission Accomplished | 19.00% | ~3,060 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,416 |
+| A Starfighter of Your Own | 14.00% | ~2,255 |
+| Asset Secured | 13.00% | ~2,094 |
+| Unkillable | 8.00% | ~1,289 |
 | Together, Vanguard | 7.00% | ~1,127 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~966 |
 | Sound Strategy | 6.00% | ~966 |
@@ -35,8 +35,8 @@
 | Denied | 0.80% | ~129 |
 | Found Your Place | 0.70% | ~113 |
 | Unstoppable Ace | 0.60% | ~97 |
-| Seasoned Star Pilot | 0.50% | ~80 |
-| Special Modifications | 0.50% | ~80 |
+| Seasoned Star Pilot | 0.50% | ~81 |
+| Special Modifications | 0.50% | ~81 |
 | Heavy Hitter | 0.40% | ~64 |
 | The Trap is Set | 0.40% | ~64 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~64 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~16 |
 | The Galaxy's Finest (Ace) | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,096 (Ranked 142)  
+Progressed: 16,107 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-30 | 15,403 | 1 |
 | 2023-10-31 | 15,677 | 1 |
 | 2023-11-01 | 15,985 | 1 |
-| 2023-11-02 | 16,096 | 1 |
+| 2023-11-02 | 16,107 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 3.00% | ~4,682 |
 | Imprint | 3.00% | ~4,682 |
 | Ravenous | 3.00% | ~4,682 |
-| Weeper | 2.00% | ~3,121 |
+| Weeper | 2.00% | ~3,122 |
 | Harmless | 1.00% | ~1,561 |
 | Silenced Whispers | 1.00% | ~1,561 |
 | Devourer | 1.00% | ~1,561 |
@@ -23,7 +23,7 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.80% | ~1,249 |
 | Watcher | 0.80% | ~1,249 |
 | Glare | 0.70% | ~1,090 |
-| Predator | 0.70% | ~1,092 |
+| Predator | 0.70% | ~1,093 |
 | Assimilation | 0.60% | ~936 |
 | Host | 0.60% | ~934 |
 | Celebration | 0.60% | ~936 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,069 (Ranked 75)  
+Progressed: 156,078 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 1 (0.00%) (Ranked 339)
 | 2023-10-30 | 155,658 | 1 |
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
-| 2023-11-02 | 156,069 | 1 |
+| 2023-11-02 | 156,078 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 342 (Ranked 350)  

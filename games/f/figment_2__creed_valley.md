@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Hog Down | 35.00% | ~9 |
+| Slam-KABAM | 23.00% | ~6 |
 | A heavy thinker | 23.00% | ~6 |
 | Ouch, that hurt! | 23.00% | ~6 |
 | Remembering of the past | 23.00% | ~6 |
-| Slam-KABAM | 19.00% | ~5 |
 | Repair the Mind Validation Machine | 19.00% | ~5 |
 | Fight like an idiot | 15.00% | ~4 |
 | Dance like an idiot | 15.00% | ~4 |
@@ -23,7 +23,7 @@
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 501)  
+Progressed: 26 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |

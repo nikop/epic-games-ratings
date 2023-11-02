@@ -19,16 +19,16 @@ Rating: 3.98 (Ranked 991)
 | Control is an Illusion | 31.00% | ~39 |
 | Socialite | 30.00% | ~38 |
 | The Means to Save It | 25.00% | ~32 |
-| Resilience to Sin | 20.00% | ~25 |
+| Resilience to Sin | 21.00% | ~26 |
 | A Familiar Nest | 19.00% | ~24 |
 | Periapt Alizarin | 19.00% | ~24 |
 | Geas Aristeya | 17.00% | ~21 |
 | Armsman | 17.00% | ~21 |
 | A Perfect Cycle | 14.00% | ~18 |
 | Recruit | 14.00% | ~18 |
+| Periapt Viridian | 10.00% | ~13 |
 | Good Boy | 10.00% | ~13 |
 | Lights Army | 9.00% | ~11 |
-| Periapt Viridian | 9.00% | ~11 |
 | Periapt Cerulean | 8.00% | ~10 |
 | Shroudfane Explorer | 8.00% | ~10 |
 | Scholar | 6.00% | ~8 |

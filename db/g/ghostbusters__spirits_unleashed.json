@@ -2991,9 +2991,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29660,
+  "EOS_Progressed": 29667,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1922,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17551,6 +17551,11 @@
       "Time": "2023-11-02T14:05:30.0714474+00:00",
       "NumProgressed": 29660,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-02T15:05:12.3315266+00:00",
+      "NumProgressed": 29667,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17650,7 +17655,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Dont_Need_These",
@@ -17850,7 +17855,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "Stunner",
@@ -17969,7 +17974,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29660,
+      "Progressed": 29667,
       "Completed": 65
     }
   ],
@@ -17977,8 +17982,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-02T10:00:54.6441995+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:05:30.071447+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:05:12.3315256+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:02:40.3247389+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:05:30.0715624+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:02:39.7905404+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:05:12.3316547+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13169,
+  "EOS_Progressed": 13170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13489,6 +13489,11 @@
       "Time": "2023-11-02T13:08:47.2765612+00:00",
       "NumProgressed": 13169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T15:04:26.2425723+00:00",
+      "NumProgressed": 13170,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -13572,7 +13577,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5794
+      "UsersEstimate": 5795
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -13692,21 +13697,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13169,
+      "Progressed": 13170,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:04:39.1088991+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:04:26.2425719+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:57:05.6949717+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:57:51.3867103+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:04:39.1089859+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:57:43.2310492+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:04:26.2426713+00:00"
 }

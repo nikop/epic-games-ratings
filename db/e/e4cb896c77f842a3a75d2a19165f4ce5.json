@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.43,
+  "EOS_Completed_Percentage": 3.42,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1559,6 +1559,11 @@
       "Time": "2023-11-02T14:04:09.0011355+00:00",
       "NumProgressed": 496,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-02T15:03:58.5361628+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 11,
@@ -1570,15 +1575,15 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 45,
-      "UsersEstimate": 427
+      "UsersEstimate": 432
     },
     {
       "ID": "LEVEL_004",
@@ -1586,7 +1591,7 @@
       "Name": "Two-story house",
       "Percentage": 74,
       "XP": 45,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "LEVEL_006",
@@ -1657,14 +1662,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:04:09.0011351+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:03:58.5361622+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:58:26.1223775+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:04:09.0011554+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:58:09.0069521+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:03:58.5361826+00:00"
 }

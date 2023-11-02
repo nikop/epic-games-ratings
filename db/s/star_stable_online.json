@@ -4,7 +4,7 @@
   "ProductSlug": "star-stable",
   "Ranking_Rating": 685,
   "Ranking_Popularity": 294,
-  "Ranking_PopularitySum": 237,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 448,
@@ -2570,6 +2570,6 @@
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
   "LastChanged": "2023-11-02T13:57:43.7911906+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.8163546+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:57:43.7911912+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:06:07.7937861+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:57:33.2914532+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:05:45.9498251+00:00"
 }

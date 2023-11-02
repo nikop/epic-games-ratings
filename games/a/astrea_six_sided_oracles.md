@@ -21,11 +21,11 @@
 | Behenian Champion | 24.00% | ~16 |
 | Loyal Partner | 23.00% | ~15 |
 | Aquarian Champion | 21.00% | ~14 |
+| Shard Spender | 20.00% | ~13 |
 | Star Killer | 20.00% | ~13 |
 | Astral Adventurer | 18.00% | ~12 |
 | Astral Seeker | 18.00% | ~12 |
 | Heart Gate | 18.00% | ~12 |
-| Shard Spender | 18.00% | ~12 |
 | The Corruption Goddess | 17.00% | ~11 |
 | The Goddes Avatar | 17.00% | ~11 |
 | Unbeatable | 15.00% | ~10 |

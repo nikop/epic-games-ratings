@@ -778,10 +778,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2180,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2023-11-02T15:02:49.1691004+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2181,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2180,
+  "NumberOfAwards": 2181,
   "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -801,7 +807,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 277
+      "Count": 278
     },
     {
       "Text": "This game is Highly Recommended",
@@ -846,9 +852,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 226247,
+  "EOS_Progressed": 226249,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22291,6 +22297,11 @@
       "Time": "2023-11-02T14:09:24.3040325+00:00",
       "NumProgressed": 226247,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-02T15:08:57.2388736+00:00",
+      "NumProgressed": 226249,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22310,7 +22321,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58824
+      "UsersEstimate": 58825
     },
     {
       "ID": "ACH_BASE_11",
@@ -22573,16 +22584,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226247,
+      "Progressed": 226249,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-11-02T01:44:13.0916218+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:09:24.3040321+00:00",
+  "LastChanged": "2023-11-02T15:02:49.1691003+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:08:57.2388733+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:02:49.1202257+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:09:24.3041985+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:02:49.1691013+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:08:57.2390454+00:00"
 }

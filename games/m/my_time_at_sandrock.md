@@ -6,73 +6,73 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Knowledge is Power | 67.00% | ~2 |
-| On that Grindset | 33.00% | ~1 |
-| Bridging the Gap | 33.00% | ~1 |
-| Jack of All Trades | 0.00% | ~0 |
+| Iron Chef | 90.00% | ~27 |
+| Adept Assembler | 77.00% | ~23 |
+| Greeno-B-Gone | 70.00% | ~21 |
+| Your Especially Earned Trajectory | 60.00% | ~18 |
+| Can We Keep It? | 40.00% | ~12 |
+| My Time Mansion | 27.00% | ~8 |
+| No Mountain Wide Enough | 20.00% | ~6 |
+| Finishing Touches | 17.00% | ~5 |
+| Happier-est Place on Earth | 17.00% | ~5 |
+| Jewel of the Eufaula | 13.00% | ~4 |
+| You Don't Win Friends With Salad | 13.00% | ~4 |
+| Yakmel Whisperer | 13.00% | ~4 |
+| Call Me Fishmael | 13.00% | ~4 |
+| Knowledge is Power | 7.00% | ~2 |
+| I Do! | 7.00% | ~2 |
+| Jack of All Trades | 3.00% | ~1 |
+| On that Grindset | 3.00% | ~1 |
+| Pack Mule | 3.00% | ~1 |
+| Bridging the Gap | 3.00% | ~1 |
+| Anti-Santa | 3.00% | ~1 |
+| One of the Cool Kids | 3.00% | ~1 |
 | Panda-kin | 0.00% | ~0 |
 | Time Flies | 0.00% | ~0 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |
-| Adept Assembler | 0.00% | ~0 |
-| Pack Mule | 0.00% | ~0 |
 | Commissions, commissions...! | 0.00% | ~0 |
-| Iron Chef | 0.00% | ~0 |
-| My Time Mansion | 0.00% | ~0 |
 | Financially Secure | 0.00% | ~0 |
 | Builder of the Month | 0.00% | ~0 |
 | Kind of a Big Deal | 0.00% | ~0 |
-| Can We Keep It? | 0.00% | ~0 |
-| Finishing Touches | 0.00% | ~0 |
 | Better Late than Never | 0.00% | ~0 |
 | Martle's Dream | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | What Plants Crave | 0.00% | ~0 |
-| Jewel of the Eufaula | 0.00% | ~0 |
 | Sepia Toned Memories | 0.00% | ~0 |
 | Officially Official | 0.00% | ~0 |
 | He Can Spin A Yarn... | 0.00% | ~0 |
-| Greeno-B-Gone | 0.00% | ~0 |
-| Your Especially Earned Trajectory | 0.00% | ~0 |
 | Elementary, My Dear | 0.00% | ~0 |
-| Happier-est Place on Earth | 0.00% | ~0 |
-| No Mountain Wide Enough | 0.00% | ~0 |
 | Lifeline Pipeline | 0.00% | ~0 |
 | Got the Flow Back | 0.00% | ~0 |
-| Anti-Santa | 0.00% | ~0 |
 | Cardistry | 0.00% | ~0 |
 | Chatterbox | 0.00% | ~0 |
 | Got Served | 0.00% | ~0 |
-| One of the Cool Kids | 0.00% | ~0 |
 | Pro Gamer | 0.00% | ~0 |
 | Who Ya Gonna Call...? | 0.00% | ~0 |
 | Santa In Training | 0.00% | ~0 |
 | Got the Receipt? | 0.00% | ~0 |
 | Just What I Always Wanted! | 0.00% | ~0 |
 | First Love | 0.00% | ~0 |
-| I Do! | 0.00% | ~0 |
 | Sandrock's Hottest Club | 0.00% | ~0 |
 | Sandrunning Speedster | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 | Mole Masher | 0.00% | ~0 |
-| You Don't Win Friends With Salad | 0.00% | ~0 |
-| Yakmel Whisperer | 0.00% | ~0 |
 | Unboxing | 0.00% | ~0 |
 | Do Your Part | 0.00% | ~0 |
-| Call Me Fishmael | 0.00% | ~0 |
 | Diamonds are Forever | 0.00% | ~0 |
 | Waste Not Want Not | 0.00% | ~0 |
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 620)  
+Progressed: 30 (Ranked 494)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-02 | 3 | 0 |
+| 2023-11-02 | 30 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,296 (Ranked 236)  

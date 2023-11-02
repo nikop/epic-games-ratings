@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 29.00% | ~20 |
-| Powerful Allies | 12.00% | ~8 |
-| Shatter Them All | 12.00% | ~8 |
-| Find Allies | 10.00% | ~7 |
-| A Taste of Wrath | 9.00% | ~6 |
+| Break Out | 32.00% | ~22 |
+| Powerful Allies | 13.00% | ~9 |
+| Shatter Them All | 13.00% | ~9 |
+| Find Allies | 12.00% | ~8 |
+| A Taste of Wrath | 10.00% | ~7 |
 | Trinity | 9.00% | ~6 |
 | Adventurer | 9.00% | ~6 |
 | Essence Blow | 7.00% | ~5 |

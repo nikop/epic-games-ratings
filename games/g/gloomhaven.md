@@ -6,36 +6,36 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,662 |
-| Overkill | 35.00% | ~6,236 |
-| Vaccine Incoming | 33.00% | ~5,880 |
-| A normal day in Gloomhaven | 33.00% | ~5,880 |
-| Spread the plague | 30.00% | ~5,345 |
-| Get over here! | 25.00% | ~4,454 |
-| Just when I thought I was out... | 19.00% | ~3,385 |
-| Precious! | 17.00% | ~3,029 |
-| Mine... All Mine... | 17.00% | ~3,029 |
+| I'm not dead yet | 43.00% | ~7,664 |
+| Overkill | 35.00% | ~6,238 |
+| Vaccine Incoming | 33.00% | ~5,882 |
+| A normal day in Gloomhaven | 33.00% | ~5,882 |
+| Spread the plague | 30.00% | ~5,347 |
+| Get over here! | 25.00% | ~4,456 |
+| Just when I thought I was out... | 19.00% | ~3,386 |
+| Precious! | 17.00% | ~3,030 |
+| Mine... All Mine... | 17.00% | ~3,030 |
 | Light of my life | 15.00% | ~2,673 |
 | Anatomy Lesson | 15.00% | ~2,673 |
 | Grizzled veteran | 14.00% | ~2,495 |
-| You activated my trap card! | 13.00% | ~2,316 |
-| Obstacle race | 13.00% | ~2,316 |
-| Augmented rat | 12.00% | ~2,138 |
-| Doom and gloom | 11.00% | ~1,960 |
+| You activated my trap card! | 13.00% | ~2,317 |
+| Obstacle race | 13.00% | ~2,317 |
+| Augmented rat | 12.00% | ~2,139 |
+| Doom and gloom | 11.00% | ~1,961 |
 | Who's the Boss? | 10.00% | ~1,782 |
-| Dungeon Veteran | 8.00% | ~1,425 |
-| Pack leader | 8.00% | ~1,425 |
-| Pain is your friend | 8.00% | ~1,425 |
-| Black death | 8.00% | ~1,425 |
-| Play it again, Sam | 8.00% | ~1,425 |
+| Dungeon Veteran | 8.00% | ~1,426 |
+| Pack leader | 8.00% | ~1,426 |
+| Pain is your friend | 8.00% | ~1,426 |
+| Black death | 8.00% | ~1,426 |
+| Play it again, Sam | 8.00% | ~1,426 |
 | Quad damage | 6.00% | ~1,069 |
 | Power Up! | 5.00% | ~891 |
 | The Pro from Dover | 5.00% | ~891 |
 | Pretty lights! | 5.00% | ~891 |
 | Now you see me... | 5.00% | ~891 |
+| Merchant of doom | 4.00% | ~713 |
 | Caught off guard | 4.00% | ~713 |
 | I hate portals | 3.00% | ~535 |
-| Merchant of doom | 3.00% | ~535 |
 | An eye for an eye | 3.00% | ~535 |
 | Grin and bear it | 3.00% | ~535 |
 | From Gloom, only greed and death emerges | 2.00% | ~356 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,818 (Ranked 135)  
+Progressed: 17,823 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
 | 2023-11-01 | 17,722 | 1 |
-| 2023-11-02 | 17,818 | 1 |
+| 2023-11-02 | 17,823 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
 Sum: 8,329 (Ranked 98)  

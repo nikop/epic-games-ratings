@@ -2,7 +2,7 @@
   "ID": "a6ec40c07ed2404687698a3ea8de36ce",
   "Name": "The Bookwalker: Thief of Tales",
   "ProductSlug": "the-bookwalker-cd43ce",
-  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Progress": 621,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 124,
@@ -69,9 +69,9 @@
       "ID": "complete_book1",
       "SetID": "5o7abj2",
       "Name": "Drop of Infinity",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "complete_book2",
@@ -269,9 +269,9 @@
       "ID": "potion_half",
       "SetID": "5o7abj2",
       "Name": "Divide (and Conquer)",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "return_keys",
@@ -341,9 +341,9 @@
       "ID": "upgrade_one",
       "SetID": "5o7abj2",
       "Name": "\u0022Your Shield,  My Liege\u0022",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -356,8 +356,8 @@
   ],
   "FirstSeen": "2023-06-24T19:57:11.4257975+00:00",
   "FirstSeenAchievements": "2023-06-14T13:08:04.4229366+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:10:01.6049338+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:09:15.4754815+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:06.9489148+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:58:18.6344769+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:10:01.6049641+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:58:03.5680178+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:09:15.4755073+00:00"
 }

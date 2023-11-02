@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,334 |
+| A Brief Tour of the Realms | 1.00% | ~2,335 |
 | Beast Intentions | 0.50% | ~1,167 |
 | The Cursed Farmer | 0.50% | ~1,167 |
 | Foul Play | 0.50% | ~999 |
@@ -95,6 +95,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bel's Forge | 0.20% | ~399 |
 | Escort to Waterdeep | 0.20% | ~467 |
 | The Everlasting Rime | 0.20% | ~399 |
+| Close Escort | 0.20% | ~467 |
 | Constant Banditry | 0.20% | ~467 |
 | Waterdeep Detours | 0.20% | ~467 |
 | Rude Welcome | 0.20% | ~467 |
@@ -434,7 +435,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~200 |
 | Mirage Arcane | 0.10% | ~200 |
 | Only Human | 0.10% | ~200 |
-| Close Escort | 0.10% | ~233 |
 | The Long Haul | 0.10% | ~233 |
 | Lost in the Deep | 0.10% | ~233 |
 | Easily Distracted | 0.10% | ~233 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,449 (Ranked 62)  
-Completed: 2,422 (1.04%) (Ranked 154)  
+Progressed: 233,452 (Ranked 62)  
+Completed: 2,422 (1.04%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -731,7 +731,7 @@ Completed: 2,422 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,449 | 2,422 |
+| 2023-11-02 | 233,452 | 2,422 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,307 (Ranked 41)  

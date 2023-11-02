@@ -6,37 +6,37 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~113,636 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~86,754 |
-| A Clear Conscience | 69.00% | ~84,310 |
-| Unleash Hell | 68.00% | ~83,089 |
-| Unfulfilled Desires | 68.00% | ~83,089 |
-| Funny Guy | 67.00% | ~81,867 |
-| Unshackled | 67.00% | ~81,867 |
-| Long Live the King | 66.00% | ~80,645 |
-| Resurrection | 62.00% | ~75,757 |
-| Wyrdly Reconstructed | 62.00% | ~75,757 |
-| Boxcar Kid | 61.00% | ~74,535 |
-| Rush Hour | 60.00% | ~73,313 |
-| To Grandmother's House | 60.00% | ~73,313 |
-| Serenity Now! | 54.00% | ~65,982 |
-| Hope Rekindled | 50.00% | ~61,094 |
-| Ramble On | 49.00% | ~59,873 |
-| Nope | 49.00% | ~59,873 |
-| This Looks Familiar | 38.00% | ~46,432 |
-| Now Stay Dead | 38.00% | ~46,432 |
-| Harvest Festival | 37.00% | ~45,210 |
-| Merry Time | 36.00% | ~43,988 |
-| Hot Air | 36.00% | ~43,988 |
-| Creep and Sleep | 33.00% | ~40,322 |
-| Overdue Notice | 32.00% | ~39,100 |
-| Whale | 32.00% | ~39,100 |
+| A Place to Lay Your Head | 93.00% | ~113,638 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~86,756 |
+| A Clear Conscience | 69.00% | ~84,312 |
+| Unleash Hell | 68.00% | ~83,090 |
+| Unfulfilled Desires | 68.00% | ~83,090 |
+| Funny Guy | 67.00% | ~81,868 |
+| Unshackled | 67.00% | ~81,868 |
+| Long Live the King | 66.00% | ~80,646 |
+| Resurrection | 62.00% | ~75,758 |
+| Wyrdly Reconstructed | 62.00% | ~75,758 |
+| Boxcar Kid | 61.00% | ~74,537 |
+| Rush Hour | 60.00% | ~73,315 |
+| To Grandmother's House | 60.00% | ~73,315 |
+| Serenity Now! | 54.00% | ~65,983 |
+| Hope Rekindled | 50.00% | ~61,096 |
+| Ramble On | 49.00% | ~59,874 |
+| Nope | 49.00% | ~59,874 |
+| This Looks Familiar | 38.00% | ~46,433 |
+| Now Stay Dead | 38.00% | ~46,433 |
+| Harvest Festival | 37.00% | ~45,211 |
+| Merry Time | 36.00% | ~43,989 |
+| Hot Air | 36.00% | ~43,989 |
+| Creep and Sleep | 33.00% | ~40,323 |
+| Overdue Notice | 32.00% | ~39,101 |
+| Whale | 32.00% | ~39,101 |
 | Banishment | 31.00% | ~37,879 |
 | FNG | 30.00% | ~36,657 |
-| Predator | 25.00% | ~30,547 |
-| Reverse Banditry | 25.00% | ~30,547 |
-| Autodidact | 25.00% | ~30,547 |
-| Meat and Greet | 23.00% | ~28,103 |
+| Predator | 25.00% | ~30,548 |
+| Reverse Banditry | 25.00% | ~30,548 |
+| Autodidact | 25.00% | ~30,548 |
+| Meat and Greet | 23.00% | ~28,104 |
 | Spelunker | 22.00% | ~26,882 |
 | Road Trip | 22.00% | ~26,882 |
 | Eyes Up | 21.00% | ~25,660 |
@@ -44,10 +44,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 18.00% | ~21,994 |
 | Dissector | 17.00% | ~20,772 |
 | It Happens | 17.00% | ~20,772 |
-| This Belongs in a Museum | 16.00% | ~19,550 |
-| Handled | 16.00% | ~19,550 |
-| Catch and Decease | 15.00% | ~18,328 |
-| Deprogramming | 14.00% | ~17,106 |
+| This Belongs in a Museum | 16.00% | ~19,551 |
+| Handled | 16.00% | ~19,551 |
+| Catch and Decease | 15.00% | ~18,329 |
+| Deprogramming | 14.00% | ~17,107 |
 | Not Today! | 13.00% | ~15,885 |
 | Shrine of Reflection | 12.00% | ~14,663 |
 | When You Want Something Done Right | 11.00% | ~13,441 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~122 |
 | No Gravestone Left Unturned | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,189 (Ranked 83)  
+Progressed: 122,191 (Ranked 83)  
 Completed: 1 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,15 +258,15 @@ Completed: 1 (0.00%) (Ranked 339)
 | 2023-10-30 | 121,965 | 1 |
 | 2023-10-31 | 122,053 | 1 |
 | 2023-11-01 | 122,155 | 1 |
-| 2023-11-02 | 122,189 | 1 |
+| 2023-11-02 | 122,191 | 1 |
 ## Awards
 Max (Character Customization): 7,484  (Ranked 51)  
-Sum: 19,655 (Ranked 59)  
+Sum: 19,656 (Ranked 59)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,484 |
-| This game has Diverse Characters | 1,580 |
+| This game has Diverse Characters | 1,581 |
 | This game has Challenging Combat | 1,510 |
 | This game is Highly Recommended | 1,437 |
 | This game is Extremely Fun | 1,400 |
@@ -559,4 +559,4 @@ Diff (max vs sum): -8
 | 2023-10-30 | 4.68 | - | 7,482 | 19,639 |
 | 2023-10-31 | 4.68 | - | 7,482 | 19,640 |
 | 2023-11-01 | 4.68 | - | 7,484 | 19,654 |
-| 2023-11-02 | 4.68 | - | 7,484 | 19,655 |
+| 2023-11-02 | 4.68 | - | 7,484 | 19,656 |

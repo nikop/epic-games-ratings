@@ -821,9 +821,9 @@
       "ID": "ShardSpender",
       "SetID": "1jeo1g7",
       "Name": "Shard Spender",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SixSidedMastery",
@@ -1140,8 +1140,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-02T14:08:25.1596345+00:00",
+  "LastChanged_Achievements": "2023-11-02T15:07:44.133359+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.6564177+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:58:39.9372793+00:00",
-  "LastUpdate_Achievements": "2023-11-02T14:08:25.1597554+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:58:24.1873107+00:00",
+  "LastUpdate_Achievements": "2023-11-02T15:07:44.133471+00:00"
 }
