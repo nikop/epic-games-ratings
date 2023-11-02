@@ -1,16 +1,16 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.68 (Ranked 249)  
+Rating: 4.68 (Ranked 248)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~181 |
+| Tooth fairy | 25.00% | ~182 |
 | Dental maturity | 20.00% | ~145 |
 | Devil's in the details | 15.00% | ~109 |
 | Uprooting | 14.00% | ~102 |
 | Forbidden techniques | 13.00% | ~94 |
-| Devoted | 10.00% | ~72 |
+| Devoted | 10.00% | ~73 |
 | Slavic squatter | 9.00% | ~65 |
 | Spirit animal | 8.00% | ~58 |
 | Gold rush | 7.00% | ~51 |
@@ -31,14 +31,14 @@ Rating: 4.68 (Ranked 249)
 | Toxic | 3.00% | ~22 |
 | Entangled | 3.00% | ~22 |
 | Witch's cookbook | 3.00% | ~22 |
-| Bad apple | 2.00% | ~14 |
-| Gnowlledgeable | 2.00% | ~14 |
-| Awards unwarded | 2.00% | ~14 |
+| Bad apple | 2.00% | ~15 |
+| Gnowlledgeable | 2.00% | ~15 |
+| Awards unwarded | 2.00% | ~15 |
 | Loremaster | 1.00% | ~7 |
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 267)  
+Progressed: 726 (Ranked 267)  
 Completed: 1 (0.14%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.14%) (Ranked 253)
 | 2023-10-28 | 719 | 1 |
 | 2023-10-29 | 720 | 1 |
 | 2023-11-01 | 724 | 1 |
-| 2023-11-02 | 725 | 1 |
+| 2023-11-02 | 726 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

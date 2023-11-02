@@ -16,6 +16,7 @@
 | An Acquired Taste | 42.00% | ~11 |
 | A Light in the Dark | 42.00% | ~11 |
 | Warning: Fragile | 42.00% | ~11 |
+| Socially Acceptable Insanity | 38.00% | ~10 |
 | A Real Headache | 35.00% | ~9 |
 | A Total Riot | 35.00% | ~9 |
 | The Guardian | 35.00% | ~9 |
@@ -24,7 +25,6 @@
 | The Philosopher | 35.00% | ~9 |
 | Knock Knock | 35.00% | ~9 |
 | The Partner | 35.00% | ~9 |
-| Socially Acceptable Insanity | 35.00% | ~9 |
 | The Companion | 35.00% | ~9 |
 | They Flock to Him | 35.00% | ~9 |
 | The Counsellor | 35.00% | ~9 |
@@ -54,7 +54,7 @@
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 26 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 339)  
+Completed: 0 (0.00%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

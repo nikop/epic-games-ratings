@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 539,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -2309,6 +2309,11 @@
       "Time": "2023-11-01T14:08:04.4546374+00:00",
       "NumProgressed": 537,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-02T16:08:27.2782252+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2320,15 +2325,15 @@
       "Name": "The gateway to the underworld",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 226
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2344,7 +2349,7 @@
       "Name": "The choice",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2366,17 +2371,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 129
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2384,7 +2389,7 @@
       "Name": "This looks really bad",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2400,7 +2405,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2408,7 +2413,7 @@
       "Name": "The court",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2431,14 +2436,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 539,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:07:36.550753+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:08:27.2782224+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:58.6924379+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:07:36.5507743+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:01:29.1257085+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:08:27.2782729+00:00"
 }

@@ -31,7 +31,7 @@
 | Say Cheese! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 633)  
-Completed: 0 (0.00%) (Ranked 339)  
+Completed: 0 (0.00%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

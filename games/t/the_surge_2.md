@@ -5,43 +5,43 @@ Rating: 4.24 (Ranked 872)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,696 |
-| Don't I Know You...? | 77.00% | ~1,632 |
-| Jailbreak | 66.00% | ~1,399 |
-| HEADSHOT! | 38.00% | ~806 |
-| Suited and Booted | 38.00% | ~806 |
-| Sleeping With The Fishes | 36.00% | ~763 |
-| Overheated | 30.00% | ~636 |
-| High Performance | 30.00% | ~636 |
+| Rigged And Ready | 80.00% | ~1,698 |
+| Don't I Know You...? | 77.00% | ~1,635 |
+| Jailbreak | 66.00% | ~1,401 |
+| HEADSHOT! | 38.00% | ~807 |
+| Suited and Booted | 38.00% | ~807 |
+| Sleeping With The Fishes | 36.00% | ~764 |
+| Overheated | 30.00% | ~637 |
+| High Performance | 30.00% | ~637 |
 | Powered Up | 28.00% | ~594 |
-| Studied The Blade | 25.00% | ~530 |
+| Studied The Blade | 25.00% | ~531 |
 | Home Invasion | 23.00% | ~488 |
-| Luminary | 23.00% | ~488 |
-| It's a Trap | 22.00% | ~466 |
-| True Survivor | 21.00% | ~445 |
-| Offensive Defense | 20.00% | ~424 |
-| Shocking | 20.00% | ~424 |
-| Unforeseeable Consequences | 20.00% | ~424 |
+| Luminary | 22.00% | ~467 |
+| It's a Trap | 22.00% | ~467 |
+| True Survivor | 21.00% | ~446 |
+| Offensive Defense | 20.00% | ~425 |
+| Shocking | 20.00% | ~425 |
+| Unforeseeable Consequences | 20.00% | ~425 |
 | Court Martial | 19.00% | ~403 |
 | Clean Cut | 19.00% | ~403 |
 | Dead Again | 18.00% | ~382 |
-| Full Arsenal | 17.00% | ~360 |
+| Full Arsenal | 17.00% | ~361 |
 | Can't Trust Banks | 15.00% | ~318 |
 | Mommy Dearest | 14.00% | ~297 |
 | Bad Dog | 13.00% | ~276 |
 | Where It All Began | 13.00% | ~276 |
 | Risk Tolerant | 13.00% | ~276 |
 | What A Catchy Song | 13.00% | ~276 |
-| Corrupted Beauty | 12.00% | ~254 |
-| Marked For Success | 12.00% | ~254 |
-| Sorry, Didn't See You There | 12.00% | ~254 |
+| Corrupted Beauty | 12.00% | ~255 |
+| Marked For Success | 12.00% | ~255 |
+| Sorry, Didn't See You There | 12.00% | ~255 |
 | Stimulating The Local Economy | 10.00% | ~212 |
 | Triplets | 10.00% | ~212 |
 | Denying Prophecy | 9.00% | ~191 |
 | A Little Banged Up | 8.00% | ~170 |
 | Following In Their Footsteps | 8.00% | ~170 |
 | Defense in Depth | 8.00% | ~170 |
-| Reverse Engineering | 7.00% | ~148 |
+| Reverse Engineering | 7.00% | ~149 |
 | Reborn | 6.00% | ~127 |
 | Remote Surgery | 6.00% | ~127 |
 | Turbo Booster | 6.00% | ~127 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 872)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,120 (Ranked 212)  
+Progressed: 2,123 (Ranked 212)  
 Completed: 13 (0.61%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 13 (0.61%) (Ranked 177)
 | 2023-10-27 | 2,096 | 13 |
 | 2023-10-31 | 2,098 | 13 |
 | 2023-11-01 | 2,113 | 13 |
-| 2023-11-02 | 2,120 | 13 |
+| 2023-11-02 | 2,123 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

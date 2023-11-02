@@ -8,18 +8,18 @@
 | Complete Level 1-1 | 64.00% | ~65 |
 | Immortal | 56.00% | ~57 |
 | Complete Level 1-2 | 47.00% | ~48 |
-| Scraping by | 34.00% | ~35 |
+| Scraping by | 35.00% | ~36 |
 | Engineer-mage hybrid | 34.00% | ~35 |
-| Complete Level 1-3 | 31.00% | ~32 |
+| Complete Level 1-3 | 32.00% | ~33 |
 | Defeat the warrior boss | 25.00% | ~26 |
-| Get out of my way | 22.00% | ~22 |
-| Redecorator | 21.00% | ~21 |
-| Just a sip | 20.00% | ~20 |
-| Complete Level 2-1 | 18.00% | ~18 |
-| Complete Level 2-2 | 18.00% | ~18 |
-| Complete Level 2-3 | 16.00% | ~16 |
+| Get out of my way | 23.00% | ~23 |
+| Redecorator | 22.00% | ~22 |
+| Just a sip | 21.00% | ~21 |
+| Complete Level 2-1 | 19.00% | ~19 |
+| Complete Level 2-2 | 19.00% | ~19 |
+| Complete Level 2-3 | 17.00% | ~17 |
+| Defeat the engineer boss | 16.00% | ~16 |
 | Versatile | 16.00% | ~16 |
-| Defeat the engineer boss | 15.00% | ~15 |
 | Well-off | 14.00% | ~14 |
 | Too many crates | 14.00% | ~14 |
 | Complete Level 3-1 | 14.00% | ~14 |
@@ -34,8 +34,8 @@
 | Mage specialist | 8.00% | ~8 |
 | Defeat the mage boss | 6.00% | ~6 |
 | Remote retrieved | 6.00% | ~6 |
+| Engineer specialist | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
-| Engineer specialist | 5.00% | ~5 |
 | Way of the engineer | 5.00% | ~5 |
 | Rich | 4.00% | ~4 |
 | Delicious | 4.00% | ~4 |

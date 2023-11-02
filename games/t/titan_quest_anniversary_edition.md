@@ -1,12 +1,12 @@
 # Titan Quest Anniversary Edition
 [Store](https://store.epicgames.com/en-US/p/titan-quest)  
 [View Rawdata](../../db/t/titan_quest_anniversary_edition.json)  
-Rating: 4.68 (Ranked 249)  
+Rating: 4.68 (Ranked 248)  
 Number of Ratings: 98  (23.09.2022)  
 ## Awards
-Max (Character Customization): 95  (Ranked 362)  
+Max (Character Customization): 95  (Ranked 363)  
 Sum: 201 (Ranked 394)  
-Diff (max vs sum): -32  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 95 |

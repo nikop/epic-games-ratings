@@ -2,9 +2,9 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -714,9 +714,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:08:44.0465753+00:00",
-  "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:02:33.8850549+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:08:44.0467791+00:00"
+  "LastChanged_Achievements": "2023-11-02T16:09:06.0881641+00:00",
+  "LastUpdate_AppInfo": "2023-11-02T15:57:21.8803868+00:00",
+  "LastUpdate_Ratings": "2023-11-02T16:01:31.9996372+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:09:06.0882396+00:00"
 }

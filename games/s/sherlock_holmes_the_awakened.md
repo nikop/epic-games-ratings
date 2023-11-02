@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.64 (Ranked 330)  
+Rating: 4.64 (Ranked 329)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.64 (Ranked 330)
 | Fond Memories | 54.00% | ~427 |
 | A Method To His Madness | 53.00% | ~419 |
 | History Check | 52.00% | ~411 |
+| The New World | 49.00% | ~388 |
 | Gaze Into The Abyss | 48.00% | ~380 |
-| The New World | 48.00% | ~380 |
 | Lock, Stock, And Barrel | 47.00% | ~372 |
 | Open Sesame | 47.00% | ~372 |
 | Sticky Fingers | 47.00% | ~372 |
@@ -34,7 +34,7 @@ Rating: 4.64 (Ranked 330)
 | Big Breakthrough | 13.00% | ~103 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791 (Ranked 261)  
+Progressed: 791 (Ranked 262)  
 Completed: 26 (3.29%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

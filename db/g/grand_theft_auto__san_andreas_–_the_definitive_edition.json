@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13369,
+  "EOS_Progressed": 13371,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13638,6 +13638,11 @@
       "Time": "2023-11-02T15:08:21.8106376+00:00",
       "NumProgressed": 13369,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T16:08:43.1565131+00:00",
+      "NumProgressed": 13371,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -13649,7 +13654,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10963
+      "UsersEstimate": 10964
     },
     {
       "ID": "ACH02",
@@ -13705,7 +13710,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     },
     {
       "ID": "ACH09",
@@ -13761,7 +13766,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH16",
@@ -13793,7 +13798,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH20",
@@ -13817,7 +13822,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "ACH23",
@@ -13928,7 +13933,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13369,
+      "Progressed": 13371,
       "Completed": 51
     }
   ],
@@ -13936,8 +13941,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:08:21.8106372+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:08:43.1565125+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:51.7634903+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:08:21.8107382+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:01:22.3667938+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:08:43.1567359+00:00"
 }

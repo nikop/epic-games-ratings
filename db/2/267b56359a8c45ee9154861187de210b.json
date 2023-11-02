@@ -3,8 +3,8 @@
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 457,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "beat_c2_silver",
@@ -507,17 +507,17 @@
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "beat_c3a_bronze",
@@ -954,8 +954,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:05:47.8237421+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:06:19.8236846+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:09.989671+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:59:27.7502196+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:05:47.8238429+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:59:51.693526+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:06:19.8238709+00:00"
 }

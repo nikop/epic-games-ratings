@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 771 (Ranked 262)  
+Progressed: 771 (Ranked 263)  
 Completed: 1 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |

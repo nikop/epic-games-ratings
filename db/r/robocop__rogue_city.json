@@ -2,9 +2,9 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_EOS_Progress": 608,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_Progress": 601,
+  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -14,15 +14,17 @@
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {
-      "isPrepurchase": "true"
+      "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +41,11 @@
     {
       "Time": "2023-10-23T15:04:46.8891006+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T16:04:14.5670595+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -114,7 +121,7 @@
       "ID": "L15Efficiency",
       "SetID": "80nhi4a",
       "Name": "There Can Only Be One",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -130,7 +137,7 @@
       "ID": "Ql01station",
       "SetID": "80nhi4a",
       "Name": "Night Has Just Begun",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -210,7 +217,7 @@
       "ID": "SecretArcadeRoom",
       "SetID": "80nhi4a",
       "Name": "No stone unturned",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -234,7 +241,7 @@
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -242,7 +249,7 @@
       "ID": "ShootingRangeGold",
       "SetID": "80nhi4a",
       "Name": "SuperCop",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -250,7 +257,7 @@
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -267,13 +274,14 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:03:43.8113395+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:04:14.5670589+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:03.6424693+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:15.4410038+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:03:43.8113638+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:00:47.7327874+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:04:14.567091+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_COMPLETIONIST",
@@ -220,9 +220,9 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Redecorator",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ENEMYKILLS_LARGE",
@@ -244,9 +244,9 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_GEMSCOLLECTED_1",
@@ -308,9 +308,9 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Just a sip",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_01",
@@ -332,9 +332,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
@@ -348,33 +348,33 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-2",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-3",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_01",
@@ -452,9 +452,9 @@
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
       "SetID": "cfld5bl",
       "Name": "Engineer specialist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_MAGE",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:06:17.6065415+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:06:50.1582673+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:15.5161044+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:06.7077979+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:06:17.6065798+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:00:37.3552448+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:06:50.1583102+00:00"
 }

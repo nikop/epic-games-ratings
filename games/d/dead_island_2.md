@@ -5,35 +5,35 @@ Rating: 4.54 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,646 |
-| Break A Leg | 5.00% | ~35,539 |
-| Hotel California | 5.00% | ~35,539 |
-| Dr. Reed, I Presume? | 4.00% | ~28,431 |
-| Git Gutte! | 4.00% | ~28,431 |
-| Coup de Grâce | 4.00% | ~28,431 |
-| Hazardous Materials | 4.00% | ~28,431 |
-| Friends Like These | 4.00% | ~28,431 |
-| Apex Predator | 4.00% | ~28,431 |
-| Stacking the Deck | 4.00% | ~28,431 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,431 |
-| Anger Management | 3.00% | ~21,323 |
-| Bookworm | 3.00% | ~21,323 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,323 |
-| But Doctor, I am Butcho | 3.00% | ~21,323 |
-| Slayer Squad | 3.00% | ~21,323 |
-| Can't Handle the Truth | 3.00% | ~21,323 |
-| Like Riding a Bike | 3.00% | ~21,323 |
-| Zombologist | 3.00% | ~21,323 |
-| Ooh, Shiny! | 3.00% | ~21,323 |
-| A Patton Emerges | 3.00% | ~21,323 |
-| I Am the Resurrection | 3.00% | ~21,323 |
-| Our True Nature | 3.00% | ~21,323 |
-| This is My Weapon | 3.00% | ~21,323 |
-| Making Your Mark | 2.00% | ~14,215 |
-| Perks of the Job | 2.00% | ~14,215 |
-| Humanity Distilled | 2.00% | ~14,215 |
-| Down with the Sickness | 2.00% | ~14,215 |
-| Max Headroom | 2.00% | ~14,215 |
+| Welcome To Hell-A | 6.00% | ~42,648 |
+| Break A Leg | 5.00% | ~35,540 |
+| Hotel California | 5.00% | ~35,540 |
+| Dr. Reed, I Presume? | 4.00% | ~28,432 |
+| Git Gutte! | 4.00% | ~28,432 |
+| Coup de Grâce | 4.00% | ~28,432 |
+| Hazardous Materials | 4.00% | ~28,432 |
+| Friends Like These | 4.00% | ~28,432 |
+| Apex Predator | 4.00% | ~28,432 |
+| Stacking the Deck | 4.00% | ~28,432 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,432 |
+| Anger Management | 3.00% | ~21,324 |
+| Bookworm | 3.00% | ~21,324 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,324 |
+| But Doctor, I am Butcho | 3.00% | ~21,324 |
+| Slayer Squad | 3.00% | ~21,324 |
+| Can't Handle the Truth | 3.00% | ~21,324 |
+| Like Riding a Bike | 3.00% | ~21,324 |
+| Zombologist | 3.00% | ~21,324 |
+| Ooh, Shiny! | 3.00% | ~21,324 |
+| A Patton Emerges | 3.00% | ~21,324 |
+| I Am the Resurrection | 3.00% | ~21,324 |
+| Our True Nature | 3.00% | ~21,324 |
+| This is My Weapon | 3.00% | ~21,324 |
+| Making Your Mark | 2.00% | ~14,216 |
+| Perks of the Job | 2.00% | ~14,216 |
+| Humanity Distilled | 2.00% | ~14,216 |
+| Down with the Sickness | 2.00% | ~14,216 |
+| Max Headroom | 2.00% | ~14,216 |
 | Smorgasbord | 1.00% | ~7,108 |
 | Not Even My Final Form | 1.00% | ~7,108 |
 | Internet Famous | 1.00% | ~7,108 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 520)
 | On Safari | 0.90% | ~6,397 |
 | Variety is the Spice of Death | 0.90% | ~6,397 |
 | Make it So | 0.80% | ~5,686 |
-| LA Influential | 0.70% | ~4,975 |
-| Gore Horse | 0.70% | ~4,975 |
+| LA Influential | 0.70% | ~4,976 |
+| Gore Horse | 0.70% | ~4,976 |
 | Sharpest Tool in the Box | 0.60% | ~4,265 |
 | Sole Survivor | 0.50% | ~3,554 |
 | Survival Skills | 0.50% | ~3,554 |
 | Donk! | 0.20% | ~1,422 |
 | Bucket List | 0.20% | ~1,422 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,771 (Ranked 22)  
+Progressed: 710,794 (Ranked 22)  
 Completed: 2,301 (0.32%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,16 +247,16 @@ Completed: 2,301 (0.32%) (Ranked 215)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,771 | 2,301 |
+| 2023-11-02 | 710,794 | 2,301 |
 ## Awards
-Max (Great Boss Battles): 6,801  (Ranked 54)  
-Sum: 10,268 (Ranked 90)  
+Max (Great Boss Battles): 6,847  (Ranked 54)  
+Sum: 10,315 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,801 |
+| This game has Great Boss Battles | 6,847 |
 | This game is Great for Beginners | 497 |
-| This game has Diverse Characters | 485 |
+| This game has Diverse Characters | 486 |
 | This game has Quickly Understood Controls | 456 |
 | This game is Relaxing | 437 |
 | This game has Amazing Storytelling | 418 |
@@ -461,4 +461,4 @@ Diff (max vs sum): -36
 | 2023-10-30 | 4.54 | 6,756 | 10,182 |
 | 2023-10-31 | 4.54 | 6,773 | 10,214 |
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
-| 2023-11-02 | 4.54 | 6,801 | 10,268 |
+| 2023-11-02 | 4.54 | 6,847 | 10,315 |

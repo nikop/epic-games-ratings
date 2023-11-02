@@ -11,22 +11,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 3.00% | ~4,154 |
 | Disintermediation | 3.00% | ~4,154 |
 | Tinkle of Coins | 3.00% | ~4,154 |
-| One Easy Payment | 2.00% | ~2,769 |
-| Some Assembly Required | 2.00% | ~2,769 |
-| Another Satisfied Customer | 2.00% | ~2,769 |
-| It's Free Real Estate | 2.00% | ~2,769 |
-| Pretty Penny | 2.00% | ~2,769 |
-| One-Armed Bandit | 2.00% | ~2,769 |
-| Budding Merchant | 2.00% | ~2,769 |
-| Through Repetition, Perfection | 2.00% | ~2,769 |
-| Capitalism Ho! | 2.00% | ~2,769 |
-| Own the Means of Production | 2.00% | ~2,769 |
+| One Easy Payment | 2.00% | ~2,770 |
+| Some Assembly Required | 2.00% | ~2,770 |
+| Another Satisfied Customer | 2.00% | ~2,770 |
+| It's Free Real Estate | 2.00% | ~2,770 |
+| Pretty Penny | 2.00% | ~2,770 |
+| One-Armed Bandit | 2.00% | ~2,770 |
+| Budding Merchant | 2.00% | ~2,770 |
+| Through Repetition, Perfection | 2.00% | ~2,770 |
+| Capitalism Ho! | 2.00% | ~2,770 |
+| Own the Means of Production | 2.00% | ~2,770 |
 | The Daily Grind | 1.00% | ~1,385 |
 | On the Path to Greatness | 1.00% | ~1,385 |
 | Ascended | 1.00% | ~1,385 |
 | Research & Development | 1.00% | ~1,385 |
 | Vanity, Verily | 1.00% | ~1,385 |
 | Bounty Hunters | 1.00% | ~1,385 |
+| Fated Encounters | 1.00% | ~1,385 |
 | Blank Page Syndrome | 1.00% | ~1,385 |
 | Demand for Supplies | 1.00% | ~1,385 |
 | Flooding the Market | 1.00% | ~1,385 |
@@ -43,7 +44,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,385 |
 | Arcane Industries | 1.00% | ~1,385 |
 | Tax not Included | 0.90% | ~1,246 |
-| Fated Encounters | 0.90% | ~1,246 |
 | Trash to Treasure | 0.90% | ~1,246 |
 | Royal Ransom | 0.90% | ~1,246 |
 | Magical Harmony | 0.90% | ~1,246 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,471 (Ranked 77)  
+Progressed: 138,477 (Ranked 77)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-30 | 138,369 | 176 |
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
-| 2023-11-02 | 138,471 | 178 |
+| 2023-11-02 | 138,477 | 178 |
 ## Awards
 Max (Great for Beginners): 4,814  (Ranked 74)  
 Sum: 27,484 (Ranked 51)  

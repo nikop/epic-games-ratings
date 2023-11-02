@@ -6,7 +6,7 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7460,
+  "EOS_Progressed": 7461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5914,6 +5914,11 @@
       "Time": "2023-11-02T15:08:51.9562328+00:00",
       "NumProgressed": 7460,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T16:09:14.3179969+00:00",
+      "NumProgressed": 7461,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5926,7 +5931,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5371
+      "UsersEstimate": 5372
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5934,7 +5939,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5222
+      "UsersEstimate": 5223
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6062,7 +6067,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6078,7 +6083,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6205,22 +6210,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7460,
+      "Progressed": 7461,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 77,
-      "Completed": 77
+      "Progressed": 78,
+      "Completed": 78
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:08:51.9562324+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:09:14.3179963+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:20.4807843+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:08:51.9562942+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:00:54.1225624+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:09:14.3181229+00:00"
 }

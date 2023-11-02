@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 50.00% | ~2 |
-| There Can Only Be One | 25.00% | ~1 |
-| No stone unturned | 25.00% | ~1 |
-| Dead-On | 25.00% | ~1 |
-| SuperCop | 25.00% | ~1 |
-| "This Guy Is Really Good" | 25.00% | ~1 |
+| Night Has Just Begun | 40.00% | ~2 |
+| There Can Only Be One | 20.00% | ~1 |
+| No stone unturned | 20.00% | ~1 |
+| Dead-On | 20.00% | ~1 |
+| SuperCop | 20.00% | ~1 |
+| "This Guy Is Really Good" | 20.00% | ~1 |
 | I'd Buy That For a Dollar! | 0.00% | ~0 |
 | Hard Boiled | 0.00% | ~0 |
 | Uphold the Law | 0.00% | ~0 |
@@ -32,11 +32,12 @@
 | Zip This Up | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 608)  
-Completed: 0 (0.00%) (Ranked 339)  
+Progressed: 5 (Ranked 601)  
+Completed: 0 (0.00%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-10-12 | 1 | 0 |
 | 2023-10-13 | 3 | 0 |
 | 2023-10-23 | 4 | 0 |
+| 2023-11-02 | 5 | 0 |

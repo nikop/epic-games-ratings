@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -467,9 +467,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "3",
@@ -635,9 +635,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "50",
@@ -723,9 +723,9 @@
       "ID": "6",
       "SetID": "5e3maia",
       "Name": "Blacksmith",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "60",
@@ -811,9 +811,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "70",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:04:42.6743975+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:05:14.3518953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:57:05.7641485+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:58:18.8004094+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:04:42.6860874+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:58:46.9977021+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:05:14.3520229+00:00"
 }

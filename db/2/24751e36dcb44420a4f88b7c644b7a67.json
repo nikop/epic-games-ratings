@@ -3,8 +3,8 @@
   "Name": "Last Remains",
   "ProductSlug": "last-remains-ef50c2",
   "Ranking_EOS_Progress": 718,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-31T14:57:14.5757027+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:08.6558194+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:04:50.9336887+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:00:41.3258119+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:05:22.3712507+00:00"
 }

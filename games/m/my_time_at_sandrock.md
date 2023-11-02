@@ -1,32 +1,37 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 249)  
+Rating: 4.68 (Ranked 248)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 90.00% | ~27 |
-| Adept Assembler | 77.00% | ~23 |
-| Greeno-B-Gone | 70.00% | ~21 |
-| Your Especially Earned Trajectory | 60.00% | ~18 |
-| Can We Keep It? | 40.00% | ~12 |
-| My Time Mansion | 27.00% | ~8 |
-| No Mountain Wide Enough | 20.00% | ~6 |
-| Finishing Touches | 17.00% | ~5 |
-| Happier-est Place on Earth | 17.00% | ~5 |
-| Jewel of the Eufaula | 13.00% | ~4 |
-| You Don't Win Friends With Salad | 13.00% | ~4 |
-| Yakmel Whisperer | 13.00% | ~4 |
-| Call Me Fishmael | 13.00% | ~4 |
-| Knowledge is Power | 7.00% | ~2 |
-| I Do! | 7.00% | ~2 |
-| Jack of All Trades | 3.00% | ~1 |
-| On that Grindset | 3.00% | ~1 |
-| Pack Mule | 3.00% | ~1 |
-| Bridging the Gap | 3.00% | ~1 |
-| Anti-Santa | 3.00% | ~1 |
-| One of the Cool Kids | 3.00% | ~1 |
+| Iron Chef | 106.00% | ~51 |
+| Adept Assembler | 96.00% | ~46 |
+| Greeno-B-Gone | 77.00% | ~37 |
+| Your Especially Earned Trajectory | 60.00% | ~29 |
+| Can We Keep It? | 52.00% | ~25 |
+| No Mountain Wide Enough | 29.00% | ~14 |
+| My Time Mansion | 27.00% | ~13 |
+| Call Me Fishmael | 27.00% | ~13 |
+| Happier-est Place on Earth | 23.00% | ~11 |
+| Yakmel Whisperer | 23.00% | ~11 |
+| You Don't Win Friends With Salad | 21.00% | ~10 |
+| Finishing Touches | 19.00% | ~9 |
+| Anti-Santa | 19.00% | ~9 |
+| Jewel of the Eufaula | 15.00% | ~7 |
+| Jack of All Trades | 8.00% | ~4 |
+| I Do! | 8.00% | ~4 |
+| Knowledge is Power | 6.00% | ~3 |
+| On that Grindset | 6.00% | ~3 |
+| Officially Official | 4.00% | ~2 |
+| Pack Mule | 2.00% | ~1 |
+| Bridging the Gap | 2.00% | ~1 |
+| One of the Cool Kids | 2.00% | ~1 |
+| Pro Gamer | 2.00% | ~1 |
+| Just What I Always Wanted! | 2.00% | ~1 |
+| Sandrock's Hottest Club | 2.00% | ~1 |
+| Diamonds are Forever | 2.00% | ~1 |
 | Panda-kin | 0.00% | ~0 |
 | Time Flies | 0.00% | ~0 |
 | It's High Noon... | 0.00% | ~0 |
@@ -42,7 +47,6 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | What Plants Crave | 0.00% | ~0 |
 | Sepia Toned Memories | 0.00% | ~0 |
-| Officially Official | 0.00% | ~0 |
 | He Can Spin A Yarn... | 0.00% | ~0 |
 | Elementary, My Dear | 0.00% | ~0 |
 | Lifeline Pipeline | 0.00% | ~0 |
@@ -50,38 +54,34 @@ Number of Ratings: 892  (23.09.2022)
 | Cardistry | 0.00% | ~0 |
 | Chatterbox | 0.00% | ~0 |
 | Got Served | 0.00% | ~0 |
-| Pro Gamer | 0.00% | ~0 |
 | Who Ya Gonna Call...? | 0.00% | ~0 |
 | Santa In Training | 0.00% | ~0 |
 | Got the Receipt? | 0.00% | ~0 |
-| Just What I Always Wanted! | 0.00% | ~0 |
 | First Love | 0.00% | ~0 |
-| Sandrock's Hottest Club | 0.00% | ~0 |
 | Sandrunning Speedster | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 | Mole Masher | 0.00% | ~0 |
 | Unboxing | 0.00% | ~0 |
 | Do Your Part | 0.00% | ~0 |
-| Diamonds are Forever | 0.00% | ~0 |
 | Waste Not Want Not | 0.00% | ~0 |
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 494)  
-Completed: 0 (0.00%) (Ranked 339)  
+Progressed: 48 (Ranked 462)  
+Completed: 0 (0.00%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-02 | 30 | 0 |
+| 2023-11-02 | 48 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
-Sum: 1,296 (Ranked 236)  
+Sum: 1,297 (Ranked 236)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 576 |
 | This game is Great for Beginners | 93 |
-| This game is Highly Recommended | 83 |
+| This game is Highly Recommended | 84 |
 | This game is Extremely Fun | 79 |
 | This game has Quickly Understood Controls | 76 |
 | This game has Diverse Characters | 72 |
@@ -244,4 +244,4 @@ Diff (max vs sum): -42
 | 2023-10-28 | 4.68 | - | 575 | 1,237 |
 | 2023-10-29 | 4.68 | - | 575 | 1,291 |
 | 2023-10-30 | 4.68 | - | 575 | 1,293 |
-| 2023-11-02 | 4.68 | - | 576 | 1,296 |
+| 2023-11-02 | 4.68 | - | 576 | 1,297 |

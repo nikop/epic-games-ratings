@@ -2,13 +2,13 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 330,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14490,18 +14490,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 339032,
       "NumberOfAwardsMax": 103284
+    },
+    {
+      "Time": "2023-11-02T15:59:07.9722954+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 339337,
+      "NumberOfAwardsMax": 103475
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 339032,
-  "NumberOfAwardsMax": 103284,
+  "NumberOfAwards": 339337,
+  "NumberOfAwardsMax": 103475,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 103284
+      "Count": 103475
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14513,7 +14519,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 19597
+      "Count": 19711
     },
     {
       "Text": "This game is Relaxing",
@@ -14570,9 +14576,9 @@
       "Count": 12206
     }
   ],
-  "EOS_Progressed": 894917,
+  "EOS_Progressed": 894925,
   "EOS_Completed": 2738,
-  "EOS_NewPlayers": 1027,
+  "EOS_NewPlayers": 1023,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36745,6 +36751,11 @@
       "Time": "2023-11-02T15:05:17.1393663+00:00",
       "NumProgressed": 894917,
       "NumCompleted": 2738
+    },
+    {
+      "Time": "2023-11-02T16:05:48.736146+00:00",
+      "NumProgressed": 894925,
+      "NumCompleted": 2738
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37292,21 +37303,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894917,
+      "Progressed": 894925,
       "Completed": 2738
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23540,
+      "Progressed": 23548,
       "Completed": 10178
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-02T13:02:49.6651712+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:05:17.1393658+00:00",
+  "LastChanged": "2023-11-02T15:59:07.9722951+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:05:48.7361452+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:58:40.3588487+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:05:17.1395504+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:59:07.9722964+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:05:48.7365562+00:00"
 }

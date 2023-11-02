@@ -38,7 +38,7 @@
 | Power of the shark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 524)  
-Completed: 0 (0.00%) (Ranked 339)  
+Completed: 0 (0.00%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,30 +1,30 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 273)  
+Rating: 4.67 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,368 |
-| A thief's beginning | 10.00% | ~21,140 |
-| Thorough | 10.00% | ~21,140 |
-| Disguised | 9.00% | ~19,026 |
-| Rollin' | 9.00% | ~19,026 |
-| Tanuki Time | 9.00% | ~19,026 |
-| Rescue Takuma | 8.00% | ~16,912 |
-| Stoned Ox | 8.00% | ~16,912 |
-| Happy Planning | 7.00% | ~14,798 |
-| Ice Ice Yuki | 7.00% | ~14,798 |
-| Jonin | 7.00% | ~14,798 |
-| Yabu | 7.00% | ~14,798 |
-| Chunin | 6.00% | ~12,684 |
-| Flying Rocks | 6.00% | ~12,684 |
-| Mugen Unchained | 6.00% | ~12,684 |
-| Warzone | 6.00% | ~12,684 |
-| Okkoto | 5.00% | ~10,570 |
-| Prisoners | 5.00% | ~10,570 |
-| Too Early | 5.00% | ~10,570 |
+| Genin | 12.00% | ~25,369 |
+| A thief's beginning | 10.00% | ~21,141 |
+| Thorough | 10.00% | ~21,141 |
+| Disguised | 9.00% | ~19,027 |
+| Rollin' | 9.00% | ~19,027 |
+| Tanuki Time | 9.00% | ~19,027 |
+| Rescue Takuma | 8.00% | ~16,913 |
+| Stoned Ox | 8.00% | ~16,913 |
+| Happy Planning | 7.00% | ~14,799 |
+| Ice Ice Yuki | 7.00% | ~14,799 |
+| Jonin | 7.00% | ~14,799 |
+| Yabu | 7.00% | ~14,799 |
+| Chunin | 6.00% | ~12,685 |
+| Flying Rocks | 6.00% | ~12,685 |
+| Mugen Unchained | 6.00% | ~12,685 |
+| Warzone | 6.00% | ~12,685 |
+| Okkoto | 5.00% | ~10,571 |
+| Prisoners | 5.00% | ~10,571 |
+| Too Early | 5.00% | ~10,571 |
 | Gear up | 4.00% | ~8,456 |
 | Happy little accidents | 4.00% | ~8,456 |
 | Still Rollin' | 4.00% | ~8,456 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~211 |
 | Release the Kraken | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,400 (Ranked 69)  
+Progressed: 211,412 (Ranked 69)  
 Completed: 93 (0.04%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 93 (0.04%) (Ranked 298)
 | 2023-10-30 | 210,975 | 92 |
 | 2023-10-31 | 211,148 | 92 |
 | 2023-11-01 | 211,306 | 93 |
-| 2023-11-02 | 211,400 | 93 |
+| 2023-11-02 | 211,412 | 93 |
 ## Awards
 Max (Great for Beginners): 569  (Ranked 197)  
 Sum: 4,819 (Ranked 139)  

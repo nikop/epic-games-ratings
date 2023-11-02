@@ -6,8 +6,8 @@
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470103,
+  "EOS_Progressed": 470104,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21132,6 +21132,11 @@
       "Time": "2023-11-02T15:09:17.5518397+00:00",
       "NumProgressed": 470103,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-02T16:09:40.1073498+00:00",
+      "NumProgressed": 470104,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21143,7 +21148,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70515
+      "UsersEstimate": 70516
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -21151,7 +21156,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70515
+      "UsersEstimate": 70516
     },
     {
       "ID": "achievement_first_death",
@@ -21175,7 +21180,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70515
+      "UsersEstimate": 70516
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -21231,7 +21236,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310268
+      "UsersEstimate": 310269
     },
     {
       "ID": "achievement_story_landa",
@@ -21311,7 +21316,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70515
+      "UsersEstimate": 70516
     },
     {
       "ID": "achievement_story_neon_child",
@@ -21567,7 +21572,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206845
+      "UsersEstimate": 206846
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21599,7 +21604,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183340
+      "UsersEstimate": 183341
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21774,21 +21779,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14037,
+      "Progressed": 14038,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470103,
+      "Progressed": 470104,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:09:17.5518395+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:09:40.107349+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:00:24.4934074+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:09:17.5520392+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:00:58.1609351+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:09:40.1077881+00:00"
 }

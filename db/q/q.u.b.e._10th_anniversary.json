@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14529,
+  "EOS_Progressed": 14559,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4524,
+  "EOS_NewPlayers": 4509,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-11-02T15:08:59.230216+00:00",
       "NumProgressed": 14529,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T16:09:21.4882648+00:00",
+      "NumProgressed": 14559,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1758,9 +1763,9 @@
       "ID": "ACH_CrushPhysicsBall",
       "SetID": "a3lf366",
       "Name": "Crush That Ball!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -1768,15 +1773,15 @@
       "Name": "Crush That Cube!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_Finale",
       "SetID": "a3lf366",
       "Name": "Finale",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -1864,23 +1869,23 @@
       "Name": "Sector 1",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_Sector2",
       "SetID": "a3lf366",
       "Name": "Sector 2",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_Sector3",
       "SetID": "a3lf366",
       "Name": "Sector 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_Sector4",
@@ -1918,16 +1923,16 @@
       "ID": "ACH_TurnBallBlack",
       "SetID": "a3lf366",
       "Name": "Did That Work? -- No!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14529,
+      "Progressed": 14559,
       "Completed": 1
     }
   ],
@@ -1935,8 +1940,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T13:01:37.1364146+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:08:59.2302156+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:09:21.4882641+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:57:20.236389+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:08:59.2302412+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:57:40.3884212+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:09:21.4883137+00:00"
 }

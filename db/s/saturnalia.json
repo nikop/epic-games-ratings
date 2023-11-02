@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -267,9 +267,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67812,
+  "EOS_Progressed": 67814,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13967,6 +13967,11 @@
       "Time": "2023-11-02T15:05:51.0901775+00:00",
       "NumProgressed": 67812,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-02T16:06:22.9468792+00:00",
+      "NumProgressed": 67814,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -13986,7 +13991,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -14114,7 +14119,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -14137,7 +14142,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67812,
+      "Progressed": 67814,
       "Completed": 17
     }
   ],
@@ -14145,8 +14150,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
-  "LastChanged_Achievements": "2023-11-02T15:05:51.0901768+00:00",
+  "LastChanged_Achievements": "2023-11-02T16:06:22.9468782+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-11-02T14:58:22.6658839+00:00",
-  "LastUpdate_Achievements": "2023-11-02T15:05:51.090378+00:00"
+  "LastUpdate_Ratings": "2023-11-02T15:58:50.4902793+00:00",
+  "LastUpdate_Achievements": "2023-11-02T16:06:22.9471403+00:00"
 }
