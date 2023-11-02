@@ -21,27 +21,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 2.00% | ~2,769 |
 | Capitalism Ho! | 2.00% | ~2,769 |
 | Own the Means of Production | 2.00% | ~2,769 |
-| The Daily Grind | 1.00% | ~1,384 |
-| On the Path to Greatness | 1.00% | ~1,384 |
-| Ascended | 1.00% | ~1,384 |
-| Research & Development | 1.00% | ~1,384 |
-| Vanity, Verily | 1.00% | ~1,384 |
-| Bounty Hunters | 1.00% | ~1,384 |
-| Blank Page Syndrome | 1.00% | ~1,384 |
-| Demand for Supplies | 1.00% | ~1,384 |
-| Flooding the Market | 1.00% | ~1,384 |
-| Where it Hurts | 1.00% | ~1,384 |
-| Power of Love | 1.00% | ~1,384 |
-| Efficient Floor Space | 1.00% | ~1,384 |
-| Flawless Fusion | 1.00% | ~1,384 |
-| Gem Expert | 1.00% | ~1,384 |
-| Gild-Gotten Goods | 1.00% | ~1,384 |
-| Helping Hand | 1.00% | ~1,384 |
-| Accomplished Merchant | 1.00% | ~1,384 |
-| Dungeon Imports | 1.00% | ~1,384 |
-| Natural 20 | 1.00% | ~1,384 |
-| Did we pack lunch? | 1.00% | ~1,384 |
-| Arcane Industries | 1.00% | ~1,384 |
+| The Daily Grind | 1.00% | ~1,385 |
+| On the Path to Greatness | 1.00% | ~1,385 |
+| Ascended | 1.00% | ~1,385 |
+| Research & Development | 1.00% | ~1,385 |
+| Vanity, Verily | 1.00% | ~1,385 |
+| Bounty Hunters | 1.00% | ~1,385 |
+| Blank Page Syndrome | 1.00% | ~1,385 |
+| Demand for Supplies | 1.00% | ~1,385 |
+| Flooding the Market | 1.00% | ~1,385 |
+| Where it Hurts | 1.00% | ~1,385 |
+| Power of Love | 1.00% | ~1,385 |
+| Efficient Floor Space | 1.00% | ~1,385 |
+| Flawless Fusion | 1.00% | ~1,385 |
+| Gem Expert | 1.00% | ~1,385 |
+| Gild-Gotten Goods | 1.00% | ~1,385 |
+| Helping Hand | 1.00% | ~1,385 |
+| Accomplished Merchant | 1.00% | ~1,385 |
+| Dungeon Imports | 1.00% | ~1,385 |
+| Natural 20 | 1.00% | ~1,385 |
+| Did we pack lunch? | 1.00% | ~1,385 |
+| Arcane Industries | 1.00% | ~1,385 |
 | Tax not Included | 0.90% | ~1,246 |
 | Fated Encounters | 0.90% | ~1,246 |
 | Trash to Treasure | 0.90% | ~1,246 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,450 (Ranked 77)  
+Progressed: 138,453 (Ranked 77)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-30 | 138,369 | 176 |
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
-| 2023-11-02 | 138,450 | 178 |
+| 2023-11-02 | 138,453 | 178 |
 ## Awards
 Max (Great for Beginners): 4,814  (Ranked 74)  
 Sum: 27,482 (Ranked 51)  

@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199374,
+  "EOS_Progressed": 199375,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21142,6 +21142,11 @@
       "Time": "2023-11-02T02:22:29.6901486+00:00",
       "NumProgressed": 199374,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-02T04:05:43.6984523+00:00",
+      "NumProgressed": 199375,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -21185,7 +21190,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35887
+      "UsersEstimate": 35888
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -21249,7 +21254,7 @@
       "Name": "Mastermind",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -21257,7 +21262,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -21280,7 +21285,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199374,
+      "Progressed": 199375,
       "Completed": 4
     }
   ],
@@ -21288,8 +21293,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:05:15.0282802+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:05:43.6984518+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.8845341+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:57:19.5664749+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:05:15.0283926+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:57:29.1769581+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:05:43.6985688+00:00"
 }

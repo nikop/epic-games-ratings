@@ -19,15 +19,15 @@ Rating: 4.60 (Ranked 406)
 | Data Archivist | 0.90% | ~131 |
 | Stogie for Fogey | 0.90% | ~131 |
 | Heal Thy Medic | 0.90% | ~131 |
-| Khan's Revenge | 0.80% | ~117 |
+| Khan's Revenge | 0.90% | ~131 |
 | Thorston Mayer | 0.60% | ~87 |
 | Doctor Approved | 0.50% | ~73 |
 | Bottoms up! | 0.50% | ~73 |
 | Miraculous Maya | 0.50% | ~73 |
 | Data Logger | 0.30% | ~44 |
+| No Belter Left Behind | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
 | Brother's Reaper | 0.20% | ~29 |
-| No Belter Left Behind | 0.20% | ~29 |
 | Debris Spree | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~15 |
 | Data Miner | 0.10% | ~15 |

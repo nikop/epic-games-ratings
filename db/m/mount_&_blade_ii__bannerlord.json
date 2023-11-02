@@ -8338,10 +8338,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15096,
       "NumberOfAwardsMax": 7315
+    },
+    {
+      "Time": "2023-11-02T03:59:21.9524621+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15099,
+      "NumberOfAwardsMax": 7315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15096,
+  "NumberOfAwards": 15099,
   "NumberOfAwardsMax": 7315,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8373,7 +8379,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1032
+      "Count": 1035
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8418,9 +8424,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64309,
+  "EOS_Progressed": 64310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29063,6 +29069,11 @@
       "Time": "2023-11-02T01:51:09.9543817+00:00",
       "NumProgressed": 64309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T04:09:19.1445501+00:00",
+      "NumProgressed": 64310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29082,7 +29093,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "Bannerlord",
@@ -29130,7 +29141,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3215
+      "UsersEstimate": 3216
     },
     {
       "ID": "Crackshot",
@@ -29146,7 +29157,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3215
+      "UsersEstimate": 3216
     },
     {
       "ID": "Duelist",
@@ -29242,7 +29253,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10289
+      "UsersEstimate": 10290
     },
     {
       "ID": "I spit on your grave",
@@ -29354,7 +29365,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3215
+      "UsersEstimate": 3216
     },
     {
       "ID": "Real Estate",
@@ -29481,15 +29492,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64309,
+      "Progressed": 64310,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-01T22:58:35.7910039+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:08:56.931537+00:00",
+  "LastChanged": "2023-11-02T03:59:21.9524619+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:09:19.1445496+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:59:13.7450173+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:08:56.9316716+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:59:21.9524625+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:09:19.1446634+00:00"
 }

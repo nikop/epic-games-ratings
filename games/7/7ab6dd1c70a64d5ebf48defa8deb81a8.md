@@ -7,9 +7,9 @@
 | Break Out | 25.00% | ~15 |
 | Powerful Allies | 13.00% | ~8 |
 | Find Allies | 11.00% | ~7 |
+| Adventurer | 10.00% | ~6 |
 | A Taste of Wrath | 8.00% | ~5 |
 | Trinity | 8.00% | ~5 |
-| Adventurer | 8.00% | ~5 |
 | Essence Blow | 8.00% | ~5 |
 | Shatter Them All | 8.00% | ~5 |
 | Fashion Victim | 8.00% | ~5 |

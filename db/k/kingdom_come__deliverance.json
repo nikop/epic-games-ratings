@@ -8265,9 +8265,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806808,
+  "EOS_Progressed": 806809,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30170,6 +30170,11 @@
       "Time": "2023-11-02T03:06:17.3224417+00:00",
       "NumProgressed": 806808,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T04:06:50.5905316+00:00",
+      "NumProgressed": 806809,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30285,7 +30290,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48408
+      "UsersEstimate": 48409
     },
     {
       "ID": "Cavalier",
@@ -30836,15 +30841,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806808,
+      "Progressed": 806809,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-02T01:41:16.1220161+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:06:17.3224413+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:06:50.5905312+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:14.6949247+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:58:49.3867873+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:06:17.3226173+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:58:54.4197338+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:06:50.5906696+00:00"
 }

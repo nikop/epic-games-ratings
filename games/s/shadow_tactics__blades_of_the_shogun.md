@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,359 |
-| A thief's beginning | 10.00% | ~21,132 |
-| Thorough | 10.00% | ~21,132 |
+| A thief's beginning | 10.00% | ~21,133 |
+| Thorough | 10.00% | ~21,133 |
 | Disguised | 9.00% | ~19,019 |
 | Rollin' | 9.00% | ~19,019 |
 | Tanuki Time | 9.00% | ~19,019 |
@@ -18,10 +18,10 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 7.00% | ~14,793 |
 | Jonin | 7.00% | ~14,793 |
 | Yabu | 7.00% | ~14,793 |
-| Chunin | 6.00% | ~12,679 |
-| Flying Rocks | 6.00% | ~12,679 |
-| Mugen Unchained | 6.00% | ~12,679 |
-| Warzone | 6.00% | ~12,679 |
+| Chunin | 6.00% | ~12,680 |
+| Flying Rocks | 6.00% | ~12,680 |
+| Mugen Unchained | 6.00% | ~12,680 |
+| Warzone | 6.00% | ~12,680 |
 | Okkoto | 5.00% | ~10,566 |
 | Prisoners | 5.00% | ~10,566 |
 | Too Early | 5.00% | ~10,566 |
@@ -32,10 +32,10 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~6,340 |
 | Stoned | 3.00% | ~6,340 |
 | The Old Way | 3.00% | ~6,340 |
-| Atheist Ox | 2.00% | ~4,226 |
-| No Gimmicks | 2.00% | ~4,226 |
-| Old Man | 2.00% | ~4,226 |
-| Winner Winner | 2.00% | ~4,226 |
+| Atheist Ox | 2.00% | ~4,227 |
+| No Gimmicks | 2.00% | ~4,227 |
+| Old Man | 2.00% | ~4,227 |
+| Winner Winner | 2.00% | ~4,227 |
 | Meticulous | 1.00% | ~2,113 |
 | The End | 1.00% | ~2,113 |
 | Undeserved Honor | 1.00% | ~2,113 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~211 |
 | Release the Kraken | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,322 (Ranked 69)  
+Progressed: 211,327 (Ranked 69)  
 Completed: 93 (0.04%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 93 (0.04%) (Ranked 298)
 | 2023-10-30 | 210,975 | 92 |
 | 2023-10-31 | 211,148 | 92 |
 | 2023-11-01 | 211,306 | 93 |
-| 2023-11-02 | 211,322 | 93 |
+| 2023-11-02 | 211,327 | 93 |
 ## Awards
 Max (Great for Beginners): 569  (Ranked 197)  
 Sum: 4,819 (Ranked 139)  

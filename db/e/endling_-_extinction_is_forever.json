@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 520,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-11-02T02:26:42.5820243+00:00",
       "NumProgressed": 519,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T04:09:53.8938164+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -864,7 +869,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "TROP009",
@@ -872,7 +877,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "TROP010",
@@ -960,7 +965,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "TROP021",
@@ -968,7 +973,7 @@
       "Name": "Tasty",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "TROP022",
@@ -1023,7 +1028,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 520,
       "Completed": 3
     }
   ],
@@ -1031,8 +1036,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:09:33.1872899+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:09:53.8938159+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.3335592+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:59:37.128896+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:09:33.1873101+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:59:45.8648419+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:09:53.8938354+00:00"
 }

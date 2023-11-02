@@ -1888,10 +1888,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1864,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2023-11-02T03:59:31.5804902+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1866,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1864,
+  "NumberOfAwards": 1866,
   "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1899,7 +1905,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1917,7 +1923,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1968,9 +1974,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15094,
+  "EOS_Progressed": 15095,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15213,6 +15219,11 @@
       "Time": "2023-11-02T02:21:03.6534562+00:00",
       "NumProgressed": 15094,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-02T04:04:05.2721247+00:00",
+      "NumProgressed": 15095,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16198,9 +16209,9 @@
       "ID": "ACHIEVEMENT_GREECE1_RUN",
       "SetID": "9201eeb",
       "Name": "Run, Pheidippides, Run!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -17959,21 +17970,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15094,
+      "Progressed": 15095,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15094,
+      "Progressed": 15095,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-11-01T18:58:59.8252859+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:04:02.8251252+00:00",
+  "LastChanged": "2023-11-02T03:59:31.58049+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:04:05.2721243+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:59:23.9337655+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:04:02.8261411+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:59:31.5804904+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:04:05.2730087+00:00"
 }

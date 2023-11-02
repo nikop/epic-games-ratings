@@ -158,6 +158,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.30% | ~45 |
 | Magnificent Difficulty | 0.30% | ~45 |
 | The Eternal Treaty | 0.30% | ~45 |
+| Run, Pheidippides, Run! | 0.30% | ~45 |
 | Assyria | 0.30% | ~45 |
 | Hatti | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
@@ -176,7 +177,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
-| Run, Pheidippides, Run! | 0.20% | ~30 |
 | Nenikekamen | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
 | Like a Lion | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,094 (Ranked 144)  
+Progressed: 15,095 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,18 +545,18 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
-| 2023-11-02 | 15,094 | 5 |
+| 2023-11-02 | 15,095 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
-Sum: 1,864 (Ranked 212)  
+Sum: 1,866 (Ranked 212)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |
-| This game has Diverse Characters | 217 |
+| This game has Diverse Characters | 218 |
 | This game is Highly Recommended | 216 |
 | This game is Extremely Fun | 214 |
-| This game is Educational | 211 |
+| This game is Educational | 212 |
 | This game has Challenging Combat | 202 |
 | This game has Quickly Understood Controls | 194 |
 | This game has Amazing Characters | 193 |
@@ -723,3 +723,4 @@ Diff (max vs sum): 57
 | 2023-10-29 | 4.65 | - | 225 | 1,857 |
 | 2023-10-31 | 4.65 | - | 225 | 1,862 |
 | 2023-11-01 | 4.65 | - | 226 | 1,864 |
+| 2023-11-02 | 4.65 | - | 226 | 1,866 |

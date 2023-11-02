@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3740,
+  "EOS_Progressed": 3743,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1915,
+  "EOS_NewPlayers": 1907,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1706,6 +1706,11 @@
       "Time": "2023-11-02T02:25:52.3916758+00:00",
       "NumProgressed": 3740,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T04:09:08.3287076+00:00",
+      "NumProgressed": 3743,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1726,7 +1731,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "BeLikeWater",
@@ -1790,7 +1795,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1862,7 +1867,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "NoMoreTotems",
@@ -1926,7 +1931,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -1989,7 +1994,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3740,
+      "Progressed": 3743,
       "Completed": 3
     }
   ],
@@ -1997,8 +2002,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-01T18:01:19.2593354+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:08:46.8746606+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:09:08.3287072+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:02:30.7544408+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:08:46.8746881+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:02:02.8475439+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:09:08.3287322+00:00"
 }

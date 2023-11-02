@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1664,9 +1664,9 @@
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_6",
@@ -1710,8 +1710,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:08:37.5557091+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:08:58.1594637+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:01:32.6231893+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:08:37.5557278+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:01:48.2190586+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:08:58.1594786+00:00"
 }

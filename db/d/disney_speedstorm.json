@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -765,7 +765,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 271686,
+  "EOS_Progressed": 271753,
   "EOS_Completed": 248,
   "EOS_NewPlayers": 15703,
   "EOS_NewCompleters": 7,
@@ -10125,6 +10125,11 @@
       "Time": "2023-11-02T03:06:37.2537598+00:00",
       "NumProgressed": 271686,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2023-11-02T04:07:12.1610689+00:00",
+      "NumProgressed": 271753,
+      "NumCompleted": 248
     }
   ],
   "TotalAchievements": 24,
@@ -10136,7 +10141,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "10",
@@ -10144,7 +10149,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8153
     },
     {
       "ID": "11",
@@ -10152,7 +10157,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "12",
@@ -10176,7 +10181,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8153
     },
     {
       "ID": "15",
@@ -10216,7 +10221,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 0.5,
       "XP": 85,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "2",
@@ -10224,7 +10229,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "20",
@@ -10232,7 +10237,7 @@
       "Name": "PROTECTED",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5434
+      "UsersEstimate": 5435
     },
     {
       "ID": "21",
@@ -10256,7 +10261,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "24",
@@ -10264,7 +10269,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 5434
+      "UsersEstimate": 5435
     },
     {
       "ID": "3",
@@ -10280,7 +10285,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "5",
@@ -10288,7 +10293,7 @@
       "Name": "ROOKIE",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16301
+      "UsersEstimate": 16305
     },
     {
       "ID": "6",
@@ -10296,7 +10301,7 @@
       "Name": "PRO",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5434
+      "UsersEstimate": 5435
     },
     {
       "ID": "7",
@@ -10312,7 +10317,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "9",
@@ -10327,7 +10332,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 271686,
+      "Progressed": 271753,
       "Completed": 248
     }
   ],
@@ -10335,8 +10340,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-02T03:01:12.5261718+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:06:37.2537591+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:07:12.1610683+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.6526844+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:01:12.5261728+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:06:37.2538171+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:01:27.4291892+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:07:12.1611141+00:00"
 }

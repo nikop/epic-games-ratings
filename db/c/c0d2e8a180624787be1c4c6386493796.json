@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
       "SetID": "caeik3h",
       "Name": "Find Cap",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KR4_ACHIEVEMENT_FROGGER",
@@ -817,8 +817,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:08:52.1648887+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:09:13.9051158+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:12.5137577+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:01:29.9017941+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:08:52.1649526+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:01:46.5053941+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:09:13.905172+00:00"
 }

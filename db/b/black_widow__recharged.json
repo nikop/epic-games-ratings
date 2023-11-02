@@ -167,9 +167,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19297,
+  "EOS_Progressed": 19298,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -15917,6 +15917,11 @@
       "Time": "2023-11-02T00:03:03.154172+00:00",
       "NumProgressed": 19297,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-02T04:03:23.8637556+00:00",
+      "NumProgressed": 19298,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -15960,7 +15965,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -15984,7 +15989,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10227
+      "UsersEstimate": 10228
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -16016,7 +16021,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -16039,15 +16044,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19297,
+      "Progressed": 19298,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-10-22T20:58:17.9975571+00:00",
-  "LastChanged_Achievements": "2023-11-02T03:03:24.7553765+00:00",
+  "LastChanged_Achievements": "2023-11-02T04:03:23.863755+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:47.9713426+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:57:41.5353132+00:00",
-  "LastUpdate_Achievements": "2023-11-02T03:03:24.755468+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:57:50.1282251+00:00",
+  "LastUpdate_Achievements": "2023-11-02T04:03:23.8638376+00:00"
 }

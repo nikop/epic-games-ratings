@@ -24,8 +24,8 @@ Number of Ratings: 429  (23.09.2022)
 | Fleet Victory | 8.00% | ~574 |
 | Win as Terrans | 7.00% | ~503 |
 | Gain an Ally | 6.00% | ~431 |
+| War with the Unknown | 6.00% | ~431 |
 | Win with a Custom Faction | 6.00% | ~431 |
-| War with the Unknown | 5.00% | ~359 |
 | Conquest Victory! | 4.00% | ~287 |
 | Win Quickly | 4.00% | ~287 |
 | Pirate Cleansing | 3.00% | ~215 |
