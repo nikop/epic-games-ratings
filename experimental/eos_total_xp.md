@@ -683,6 +683,7 @@
 | [The House of Da Vinci 2](../games/4/4a0076f825604014b0540bb5d957d3bb.md) | 24 | 1,000 |
 | [The House of Da Vinci 3](../games/6/6bd33f792d3d4350ab80acb891597df8.md) | 30 | 1,000 |
 | [The Inheritance of Crimson Manor](../games/t/the_inheritance_of_crimson_manor.md) | 12 | 1,000 |
+| [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](../games/6/6416a7e47acb440da6f7fc0eff798318.md) | 6 | 1,000 |
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
 | [The Jackbox Party Pack 10](../games/3/3b925119dbd84a9986f06e66e6794033.md) | 20 | 1,000 |
 | [The Legend of Tianding](../games/t/the_legend_of_tianding.md) | 26 | 1,000 |
