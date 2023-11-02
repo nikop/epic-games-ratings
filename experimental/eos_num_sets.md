@@ -27,7 +27,7 @@
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 | 2 |
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 43 | 1,000 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 528 | 2,640 | 2 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 532 | 2,660 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 | 2 |
