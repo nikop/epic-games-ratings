@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.68% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.67% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.78% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -55,7 +55,7 @@
 | 53 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 54 | [Scorn](games/s/scorn.md) | 6.94% |
 | 55 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.45% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.44% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.42% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -118,7 +118,7 @@
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 117 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.28% |
 | 118 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.27% |
-| 119 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2.11% |
+| 119 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2.05% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 120 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.96% |
 | 122 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
@@ -148,8 +148,8 @@
 | 145 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
 | 147 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
 | 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.17% |
-| 148 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.17% |
-| 150 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
+| 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
+| 149 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.16% |
 | 151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 152 | [Adios](games/a/adios.md) | 1.06% |
 | 153 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -187,10 +187,10 @@
 | 184 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.56% |
 | 184 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.56% |
 | 187 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 187 | [Eternights](games/e/eternights.md) | 0.55% |
 | 187 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
-| 190 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.54% |
-| 190 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.54% |
+| 189 | [Eternights](games/e/eternights.md) | 0.54% |
+| 189 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.54% |
+| 189 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.54% |
 | 192 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 192 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 194 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
