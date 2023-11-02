@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,631 |
+| Welcome To Hell-A | 6.00% | ~42,632 |
 | Break A Leg | 5.00% | ~35,526 |
 | Hotel California | 5.00% | ~35,526 |
 | Dr. Reed, I Presume? | 4.00% | ~28,421 |
@@ -16,24 +16,24 @@ Rating: 4.54 (Ranked 519)
 | Apex Predator | 4.00% | ~28,421 |
 | Stacking the Deck | 4.00% | ~28,421 |
 | Personal Assistant Personally Assisted | 4.00% | ~28,421 |
-| Anger Management | 3.00% | ~21,315 |
-| Bookworm | 3.00% | ~21,315 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,315 |
-| But Doctor, I am Butcho | 3.00% | ~21,315 |
-| Slayer Squad | 3.00% | ~21,315 |
-| Can't Handle the Truth | 3.00% | ~21,315 |
-| Like Riding a Bike | 3.00% | ~21,315 |
-| Zombologist | 3.00% | ~21,315 |
-| Ooh, Shiny! | 3.00% | ~21,315 |
-| A Patton Emerges | 3.00% | ~21,315 |
-| I Am the Resurrection | 3.00% | ~21,315 |
-| Our True Nature | 3.00% | ~21,315 |
-| This is My Weapon | 3.00% | ~21,315 |
-| Making Your Mark | 2.00% | ~14,210 |
-| Perks of the Job | 2.00% | ~14,210 |
-| Humanity Distilled | 2.00% | ~14,210 |
-| Down with the Sickness | 2.00% | ~14,210 |
-| Max Headroom | 2.00% | ~14,210 |
+| Anger Management | 3.00% | ~21,316 |
+| Bookworm | 3.00% | ~21,316 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,316 |
+| But Doctor, I am Butcho | 3.00% | ~21,316 |
+| Slayer Squad | 3.00% | ~21,316 |
+| Can't Handle the Truth | 3.00% | ~21,316 |
+| Like Riding a Bike | 3.00% | ~21,316 |
+| Zombologist | 3.00% | ~21,316 |
+| Ooh, Shiny! | 3.00% | ~21,316 |
+| A Patton Emerges | 3.00% | ~21,316 |
+| I Am the Resurrection | 3.00% | ~21,316 |
+| Our True Nature | 3.00% | ~21,316 |
+| This is My Weapon | 3.00% | ~21,316 |
+| Making Your Mark | 2.00% | ~14,211 |
+| Perks of the Job | 2.00% | ~14,211 |
+| Humanity Distilled | 2.00% | ~14,211 |
+| Down with the Sickness | 2.00% | ~14,211 |
+| Max Headroom | 2.00% | ~14,211 |
 | Smorgasbord | 1.00% | ~7,105 |
 | Not Even My Final Form | 1.00% | ~7,105 |
 | Internet Famous | 1.00% | ~7,105 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 519)
 | Donk! | 0.20% | ~1,421 |
 | Bucket List | 0.20% | ~1,421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,516 (Ranked 22)  
+Progressed: 710,527 (Ranked 22)  
 Completed: 2,298 (0.32%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 2,298 (0.32%) (Ranked 215)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,516 | 2,298 |
+| 2023-11-02 | 710,527 | 2,298 |
 ## Awards
 Max (Great Boss Battles): 6,801  (Ranked 54)  
 Sum: 10,254 (Ranked 90)  

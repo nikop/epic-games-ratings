@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7443,
+  "EOS_Progressed": 7444,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 273,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5869,6 +5869,11 @@
       "Time": "2023-11-02T01:51:15.1005984+00:00",
       "NumProgressed": 7443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T03:09:01.9917279+00:00",
+      "NumProgressed": 7444,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5881,7 +5886,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5359
+      "UsersEstimate": 5360
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5889,7 +5894,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5210
+      "UsersEstimate": 5211
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5897,7 +5902,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -5905,7 +5910,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5929,7 +5934,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -5953,7 +5958,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "COLLECT_FISH",
@@ -5977,7 +5982,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6049,7 +6054,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -6160,22 +6165,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7443,
+      "Progressed": 7444,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 60,
-      "Completed": 60
+      "Progressed": 61,
+      "Completed": 61
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:26:10.3805849+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:09:01.9917276+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:18:08.4320643+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:26:10.3806609+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:00:47.3055998+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:09:01.9917738+00:00"
 }

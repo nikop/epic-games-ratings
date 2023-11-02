@@ -5,27 +5,27 @@ Rating: 4.19 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~113,263 |
-| May the Torchbearer light our way | 36.00% | ~107,302 |
-| A powerful aura was here | 24.00% | ~71,535 |
-| Let's raise the stakes!! | 11.00% | ~32,787 |
-| Rumors are true | 6.00% | ~17,884 |
-| Your wounds… They are healing so fast! | 6.00% | ~17,884 |
-| We'll be careful | 5.00% | ~14,903 |
-| Pride is a sin, young Knight | 5.00% | ~14,903 |
-| Bring it on! | 5.00% | ~14,903 |
+| The touch of Chaos | 38.00% | ~113,272 |
+| May the Torchbearer light our way | 36.00% | ~107,310 |
+| A powerful aura was here | 24.00% | ~71,540 |
+| Let's raise the stakes!! | 11.00% | ~32,789 |
+| Rumors are true | 6.00% | ~17,885 |
+| Your wounds… They are healing so fast! | 6.00% | ~17,885 |
+| We'll be careful | 5.00% | ~14,904 |
+| Pride is a sin, young Knight | 5.00% | ~14,904 |
+| Bring it on! | 5.00% | ~14,904 |
 | Back to your senses | 3.00% | ~8,942 |
 | They tricked me | 3.00% | ~8,942 |
 | They won't last long | 3.00% | ~8,942 |
-| We need to talk | 2.00% | ~5,961 |
-| I feel drawn to it | 2.00% | ~5,961 |
-| I took a risk | 2.00% | ~5,961 |
+| We need to talk | 2.00% | ~5,962 |
+| I feel drawn to it | 2.00% | ~5,962 |
+| I took a risk | 2.00% | ~5,962 |
 | Here to stay | 1.00% | ~2,981 |
 | Counting on you | 1.00% | ~2,981 |
 | This is the end | 1.00% | ~2,981 |
 | We can choose to fight | 1.00% | ~2,981 |
 | Their fate is sealed | 1.00% | ~2,981 |
-| Not even from this world | 0.70% | ~2,086 |
+| Not even from this world | 0.70% | ~2,087 |
 | You want more? I've got more! | 0.50% | ~1,490 |
 | No damsels in distress | 0.40% | ~1,192 |
 | The Ashen Knight | 0.30% | ~894 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 907)
 | We strike as one | 0.10% | ~298 |
 | Chaos be damned! | 0.10% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,061 (Ranked 50)  
+Progressed: 298,083 (Ranked 50)  
 Completed: 1 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 1 (0.00%) (Ranked 337)
 | 2023-10-30 | 296,161 | 1 |
 | 2023-10-31 | 297,037 | 1 |
 | 2023-11-01 | 297,965 | 1 |
-| 2023-11-02 | 298,061 | 1 |
+| 2023-11-02 | 298,083 | 1 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 428)  
 Sum: 49 (Ranked 478)  

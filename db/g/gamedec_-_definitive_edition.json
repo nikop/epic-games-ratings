@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 250833,
+  "EOS_Progressed": 250834,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22367,6 +22367,11 @@
       "Time": "2023-11-02T02:20:27.7322669+00:00",
       "NumProgressed": 250833,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-02T03:03:32.3251793+00:00",
+      "NumProgressed": 250834,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22522,7 +22527,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70233
+      "UsersEstimate": 70234
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -22778,7 +22783,7 @@
       "Name": "Well-deserved reunion",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ACH_WHOTROLL",
@@ -22793,7 +22798,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250833,
+      "Progressed": 250834,
       "Completed": 7
     }
   ],
@@ -22801,8 +22806,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:20:27.7322662+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:03:32.3251789+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:18:02.8024667+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:20:27.73247+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:00:43.0023627+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:03:32.3253232+00:00"
 }

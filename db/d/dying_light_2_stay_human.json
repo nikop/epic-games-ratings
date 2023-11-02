@@ -11428,9 +11428,9 @@
       "Count": 791
     }
   ],
-  "EOS_Progressed": 645720,
+  "EOS_Progressed": 645722,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 4390,
+  "EOS_NewPlayers": 4386,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -33713,6 +33713,11 @@
       "Time": "2023-11-02T01:50:34.8246473+00:00",
       "NumProgressed": 645720,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-11-02T03:08:21.6058098+00:00",
+      "NumProgressed": 645722,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 65,
@@ -33724,7 +33729,7 @@
       "Name": "Into the Unknown",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 226002
+      "UsersEstimate": 226003
     },
     {
       "ID": "achievement_02",
@@ -33732,7 +33737,7 @@
       "Name": "First Shot",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 226002
+      "UsersEstimate": 226003
     },
     {
       "ID": "achievement_03",
@@ -33796,7 +33801,7 @@
       "Name": "Known Associate",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 103315
+      "UsersEstimate": 103316
     },
     {
       "ID": "achievement_11",
@@ -33804,7 +33809,7 @@
       "Name": "Brush with Death",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 103315
+      "UsersEstimate": 103316
     },
     {
       "ID": "achievement_12",
@@ -33844,7 +33849,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 109772
+      "UsersEstimate": 109773
     },
     {
       "ID": "achievement_17",
@@ -33860,7 +33865,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 200173
+      "UsersEstimate": 200174
     },
     {
       "ID": "achievement_19",
@@ -33868,7 +33873,7 @@
       "Name": "Tickets, Please!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 45200
+      "UsersEstimate": 45201
     },
     {
       "ID": "achievement_20",
@@ -33916,7 +33921,7 @@
       "Name": "Flag Burning",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 167887
+      "UsersEstimate": 167888
     },
     {
       "ID": "achievement_26",
@@ -34012,7 +34017,7 @@
       "Name": "Good Night \u0026 Good Luck",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 206630
+      "UsersEstimate": 206631
     },
     {
       "ID": "achievement_38",
@@ -34028,7 +34033,7 @@
       "Name": "Night Hunter",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 142058
+      "UsersEstimate": 142059
     },
     {
       "ID": "achievement_40",
@@ -34060,7 +34065,7 @@
       "Name": "Slowpoke!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 77486
+      "UsersEstimate": 77487
     },
     {
       "ID": "achievement_44",
@@ -34068,7 +34073,7 @@
       "Name": "Being All Social",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 135601
+      "UsersEstimate": 135602
     },
     {
       "ID": "achievement_45",
@@ -34243,21 +34248,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 645720,
+      "Progressed": 645722,
       "Completed": 66
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 291164,
+      "Progressed": 291166,
       "Completed": 1434
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
   "LastChanged": "2023-11-02T01:39:59.0103172+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:25:22.2440441+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:08:21.6058095+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.3805969+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:14:17.1453753+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:25:22.2443092+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:57:26.4515888+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:08:21.6059723+00:00"
 }

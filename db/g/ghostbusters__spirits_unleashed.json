@@ -5,9 +5,9 @@
   "Ranking_Rating": 579,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 180,
-  "Ranking_EOS_Progress": 122,
+  "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2899,10 +2899,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2659,
       "NumberOfAwardsMax": 298
+    },
+    {
+      "Time": "2023-11-02T03:01:40.9821104+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2660,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2659,
+  "NumberOfAwards": 2660,
   "NumberOfAwardsMax": 298,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2946,7 +2952,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2979,7 +2985,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29607,
+  "EOS_Progressed": 29613,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 1915,
   "EOS_NewCompleters": 0,
@@ -17479,6 +17485,11 @@
       "Time": "2023-11-02T02:22:41.3088854+00:00",
       "NumProgressed": 29607,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-02T03:05:25.2230042+00:00",
+      "NumProgressed": 29613,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17490,7 +17501,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "Animated",
@@ -17578,7 +17589,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "Dont_Need_These",
@@ -17602,7 +17613,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "Escape_Artist",
@@ -17746,7 +17757,7 @@
       "Name": "Rivalry",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Seasoned",
@@ -17778,7 +17789,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "Stunner",
@@ -17794,7 +17805,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "Summoner",
@@ -17897,16 +17908,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29607,
+      "Progressed": 29613,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-02T01:43:53.4769773+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:22:41.3088849+00:00",
+  "LastChanged": "2023-11-02T03:01:40.9821101+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:05:25.2230038+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:19:13.4899549+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:22:41.3090555+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:01:40.982111+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:05:25.2231123+00:00"
 }

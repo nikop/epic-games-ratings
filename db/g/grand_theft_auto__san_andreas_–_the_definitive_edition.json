@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13356,
+  "EOS_Progressed": 13357,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13598,6 +13598,11 @@
       "Time": "2023-11-02T02:25:24.0727324+00:00",
       "NumProgressed": 13356,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-02T03:08:23.1311877+00:00",
+      "NumProgressed": 13357,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13609,7 +13614,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10952
+      "UsersEstimate": 10953
     },
     {
       "ID": "ACH02",
@@ -13625,7 +13630,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACH04",
@@ -13777,7 +13782,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH23",
@@ -13825,7 +13830,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACH29",
@@ -13888,7 +13893,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13356,
+      "Progressed": 13357,
       "Completed": 50
     }
   ],
@@ -13896,8 +13901,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:25:24.0727319+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:08:23.1311873+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:18:44.7191622+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:25:24.0728585+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:01:16.032996+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:08:23.1312662+00:00"
 }

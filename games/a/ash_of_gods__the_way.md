@@ -14,6 +14,7 @@
 | Surpass the teacher | 18.00% | ~2 |
 | By own strength | 18.00% | ~2 |
 | A solo player | 18.00% | ~2 |
+| Punish the Punisher | 18.00% | ~2 |
 | Blood and sand | 18.00% | ~2 |
 | Crimson rivers | 9.00% | ~1 |
 | Overplay the rogue | 9.00% | ~1 |
@@ -24,7 +25,6 @@
 | Vene, vidi, vici | 9.00% | ~1 |
 | All for one! | 9.00% | ~1 |
 | Deadly strike | 9.00% | ~1 |
-| Punish the Punisher | 9.00% | ~1 |
 | Protect the Healer! | 9.00% | ~1 |
 | Cunning plan | 9.00% | ~1 |
 | Do it yourself | 9.00% | ~1 |

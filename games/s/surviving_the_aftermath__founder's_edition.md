@@ -9,7 +9,7 @@ Number of Ratings: 836  (23.09.2022)
 | First Step | 73.00% | ~7,316 |
 | Leader | 61.00% | ~6,113 |
 | Explorer | 53.00% | ~5,312 |
-| Healer | 52.00% | ~5,211 |
+| Healer | 53.00% | ~5,312 |
 | Aspiring Inventor | 44.00% | ~4,410 |
 | Adventurer | 42.00% | ~4,209 |
 | Famous Healer | 38.00% | ~3,808 |
@@ -265,8 +265,8 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-11-02 | 10,022 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 350)  
-Sum: 724 (Ranked 287)  
-Diff (max vs sum): 63  
+Sum: 724 (Ranked 288)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

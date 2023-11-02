@@ -294,9 +294,9 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "special6",
@@ -511,8 +511,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:21:32.5394846+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:04:26.8582919+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.7362932+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:16:10.7927113+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:21:32.5395447+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:59:10.8538393+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:04:26.858326+00:00"
 }

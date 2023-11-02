@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1227,9 +1227,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_40",
@@ -1331,9 +1331,9 @@
       "ID": "achievement_8",
       "SetID": "2cpn27e",
       "Name": "Expert Conjuror",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_9",
@@ -1353,8 +1353,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:22:32.0527017+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:05:17.1059874+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:15:30.1251656+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:22:32.0527622+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:58:33.8541785+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:05:17.1060298+00:00"
 }

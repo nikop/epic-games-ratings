@@ -6,22 +6,22 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,632 |
-| Overkill | 35.00% | ~6,212 |
+| I'm not dead yet | 43.00% | ~7,633 |
+| Overkill | 35.00% | ~6,213 |
 | Vaccine Incoming | 33.00% | ~5,858 |
 | A normal day in Gloomhaven | 33.00% | ~5,858 |
 | Spread the plague | 30.00% | ~5,325 |
 | Get over here! | 25.00% | ~4,438 |
-| Just when I thought I was out... | 19.00% | ~3,372 |
+| Just when I thought I was out... | 19.00% | ~3,373 |
 | Precious! | 17.00% | ~3,018 |
 | Mine... All Mine... | 17.00% | ~3,018 |
-| Light of my life | 15.00% | ~2,662 |
-| Anatomy Lesson | 15.00% | ~2,662 |
+| Light of my life | 15.00% | ~2,663 |
+| Anatomy Lesson | 15.00% | ~2,663 |
 | Grizzled veteran | 14.00% | ~2,485 |
 | You activated my trap card! | 13.00% | ~2,308 |
 | Obstacle race | 13.00% | ~2,308 |
 | Augmented rat | 12.00% | ~2,130 |
-| Doom and gloom | 11.00% | ~1,952 |
+| Doom and gloom | 11.00% | ~1,953 |
 | Who's the Boss? | 10.00% | ~1,775 |
 | Dungeon Veteran | 8.00% | ~1,420 |
 | Pack leader | 8.00% | ~1,420 |
@@ -34,10 +34,10 @@ Number of Ratings: 68  (23.09.2022)
 | Pretty lights! | 5.00% | ~888 |
 | Now you see me... | 5.00% | ~888 |
 | Caught off guard | 4.00% | ~710 |
-| I hate portals | 3.00% | ~532 |
-| Merchant of doom | 3.00% | ~532 |
-| An eye for an eye | 3.00% | ~532 |
-| Grin and bear it | 3.00% | ~532 |
+| I hate portals | 3.00% | ~533 |
+| Merchant of doom | 3.00% | ~533 |
+| An eye for an eye | 3.00% | ~533 |
+| Grin and bear it | 3.00% | ~533 |
 | From Gloom, only greed and death emerges | 2.00% | ~355 |
 | The Rat King | 2.00% | ~355 |
 | How to train your Drake | 2.00% | ~355 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,750 (Ranked 135)  
+Progressed: 17,751 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
 | 2023-11-01 | 17,722 | 1 |
-| 2023-11-02 | 17,750 | 1 |
+| 2023-11-02 | 17,751 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
 Sum: 8,329 (Ranked 98)  

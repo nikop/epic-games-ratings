@@ -19,7 +19,7 @@ Rating: 4.60 (Ranked 406)
 | Data Archivist | 0.90% | ~131 |
 | Stogie for Fogey | 0.90% | ~131 |
 | Heal Thy Medic | 0.90% | ~131 |
-| Khan's Revenge | 0.80% | ~116 |
+| Khan's Revenge | 0.80% | ~117 |
 | Thorston Mayer | 0.60% | ~87 |
 | Doctor Approved | 0.50% | ~73 |
 | Bottoms up! | 0.50% | ~73 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 406)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,562 (Ranked 145)  
+Progressed: 14,563 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
-| 2023-11-02 | 14,562 | 28 |
+| 2023-11-02 | 14,563 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

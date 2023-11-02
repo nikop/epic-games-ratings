@@ -15,6 +15,8 @@
 | You have two wishes left | 6.00% | ~2 |
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
+| Bread and bocaua | 3.00% | ~1 |
+| Fanatacism is... poisonous | 3.00% | ~1 |
 | Jung's dream | 3.00% | ~1 |
 | A rival with no options | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
@@ -24,10 +26,9 @@
 | The battle of Great Britain | 3.00% | ~1 |
 | Pulp! Tales from the Crypt | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
+| ECO mode | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
-| Bread and bocaua | 0.00% | ~0 |
-| Fanatacism is... poisonous | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
@@ -45,7 +46,6 @@
 | Kirlian's best disciple | 0.00% | ~0 |
 | Thirst for Oleum | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |
-| ECO mode | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |
 | The happy farmer girl | 0.00% | ~0 |

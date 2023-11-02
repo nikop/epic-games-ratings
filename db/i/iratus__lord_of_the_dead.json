@@ -2269,9 +2269,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 43859,
+  "EOS_Progressed": 43860,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23504,6 +23504,11 @@
       "Time": "2023-11-02T02:25:38.2165165+00:00",
       "NumProgressed": 43859,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-02T03:08:34.9000176+00:00",
+      "NumProgressed": 43860,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -23555,7 +23560,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7018
     },
     {
       "ID": "achievements_15",
@@ -23619,7 +23624,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26315
+      "UsersEstimate": 26316
     },
     {
       "ID": "achievements_24",
@@ -23627,7 +23632,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 24122
+      "UsersEstimate": 24123
     },
     {
       "ID": "achievements_25",
@@ -23667,7 +23672,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "achievements_3",
@@ -23683,7 +23688,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 13596
+      "UsersEstimate": 13597
     },
     {
       "ID": "achievements_31",
@@ -23755,7 +23760,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7017
+      "UsersEstimate": 7018
     },
     {
       "ID": "achievements_4",
@@ -23763,7 +23768,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 28947
+      "UsersEstimate": 28948
     },
     {
       "ID": "achievements_40",
@@ -23819,7 +23824,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 37280
+      "UsersEstimate": 37281
     },
     {
       "ID": "achievements_47",
@@ -23851,7 +23856,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 22368
+      "UsersEstimate": 22369
     },
     {
       "ID": "achievements_50",
@@ -23891,7 +23896,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 18859
+      "UsersEstimate": 18860
     },
     {
       "ID": "achievements_55",
@@ -23987,7 +23992,7 @@
       "Name": "Nightmare of the Humanity - II",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 9210
+      "UsersEstimate": 9211
     },
     {
       "ID": "achievements_67",
@@ -24019,7 +24024,7 @@
       "Name": "Blind Rage",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 16666
+      "UsersEstimate": 16667
     },
     {
       "ID": "achievements_70",
@@ -24091,7 +24096,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 32017
+      "UsersEstimate": 32018
     },
     {
       "ID": "achievements_8",
@@ -24114,15 +24119,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 43859,
+      "Progressed": 43860,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-11-01T17:02:40.2286223+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:25:38.216516+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:08:34.9000172+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.4491819+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:19:54.4007508+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:25:38.2167518+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:02:59.6790642+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:08:34.9001884+00:00"
 }

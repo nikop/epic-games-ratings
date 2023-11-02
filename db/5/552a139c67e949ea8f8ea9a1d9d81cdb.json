@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1347,6 +1347,11 @@
       "Time": "2023-11-02T00:03:17.8999488+00:00",
       "NumProgressed": 805,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T03:03:42.0531898+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1359,7 +1364,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1407,7 +1412,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1615,7 +1620,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1623,7 +1628,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1702,20 +1707,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 473,
-      "Completed": 473
+      "Progressed": 474,
+      "Completed": 474
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:20:39.2873011+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:03:42.0531895+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:16:07.4402711+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:20:39.2873541+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:59:08.4413652+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:03:42.0532233+00:00"
 }

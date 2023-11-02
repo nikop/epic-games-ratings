@@ -369,9 +369,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -441,9 +441,9 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
@@ -552,8 +552,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:25:39.3779642+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:08:35.8619712+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:09.6973124+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:15:37.8851156+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:25:39.3779861+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:58:42.870801+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:08:35.8619861+00:00"
 }

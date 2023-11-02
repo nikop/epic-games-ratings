@@ -3,7 +3,7 @@
   "Name": "Remnant 2",
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 142,
-  "Ranking_Popularity": 111,
+  "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 241,
@@ -3631,18 +3631,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 4441,
       "NumberOfAwardsMax": 2003
+    },
+    {
+      "Time": "2023-11-02T03:03:12.3560693+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4456,
+      "NumberOfAwardsMax": 2018
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4441,
-  "NumberOfAwardsMax": 2003,
+  "NumberOfAwards": 4456,
+  "NumberOfAwardsMax": 2018,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2003
+      "Count": 2018
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3705,9 +3711,9 @@
       "Count": 258
     }
   ],
-  "EOS_Progressed": 216754,
+  "EOS_Progressed": 216761,
   "EOS_Completed": 425,
-  "EOS_NewPlayers": 15795,
+  "EOS_NewPlayers": 15794,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16020,6 +16026,11 @@
       "Time": "2023-11-02T02:21:19.5706542+00:00",
       "NumProgressed": 216754,
       "NumCompleted": 425
+    },
+    {
+      "Time": "2023-11-02T03:04:15.9766883+00:00",
+      "NumProgressed": 216761,
+      "NumCompleted": 425
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16080,7 +16091,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13005
+      "UsersEstimate": 13006
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -16112,7 +16123,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17340
+      "UsersEstimate": 17341
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16152,7 +16163,7 @@
       "Name": "Quest for Survival",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13005
+      "UsersEstimate": 13006
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -16184,7 +16195,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13005
+      "UsersEstimate": 13006
     },
     {
       "ID": "Meet_Meidra",
@@ -16264,7 +16275,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13005
+      "UsersEstimate": 13006
     },
     {
       "ID": "Obtain_Guns_A",
@@ -16408,7 +16419,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13005
+      "UsersEstimate": 13006
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -16431,16 +16442,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 216754,
+      "Progressed": 216761,
       "Completed": 425
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-01T23:03:01.4663241+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:21:19.5706536+00:00",
+  "LastChanged": "2023-11-02T03:03:12.3560692+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:04:15.9766878+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.5483711+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:20:06.8918911+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:21:19.570855+00:00"
+  "LastUpdate_Ratings": "2023-11-02T03:03:12.3560699+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:04:15.9767815+00:00"
 }

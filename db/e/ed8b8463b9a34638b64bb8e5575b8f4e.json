@@ -322,9 +322,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "cold_feet",
@@ -514,9 +514,9 @@
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-02T02:25:36.8251477+00:00",
+  "LastChanged_Achievements": "2023-11-02T03:08:33.6009139+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-11-02T02:14:21.7336151+00:00",
-  "LastUpdate_Achievements": "2023-11-02T02:25:36.8251695+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:57:32.2111749+00:00",
+  "LastUpdate_Achievements": "2023-11-02T03:08:33.6009304+00:00"
 }
