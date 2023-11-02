@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.35,
+  "EOS_Completed_Percentage": 6.34,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1685,6 +1685,11 @@
       "Time": "2023-11-02T17:09:01.8477404+00:00",
       "NumProgressed": 362,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-02T18:08:55.47809+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1694,9 +1699,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "END_GOOD",
@@ -1704,7 +1709,7 @@
       "Name": "In this together",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "META_ALL_LINK",
@@ -1790,9 +1795,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1832,7 +1837,7 @@
       "Name": "Champollion",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1862,9 +1867,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 76
     },
     {
       "ID": "PROGRESS_N3",
@@ -1895,14 +1900,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:09:01.8477398+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:08:55.4780895+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:01:43.9803254+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:09:01.8477899+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:01:35.7532764+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:08:55.4781101+00:00"
 }

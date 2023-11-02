@@ -1263,9 +1263,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 234604,
+  "EOS_Progressed": 234621,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1388,
+  "EOS_NewPlayers": 1394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17048,6 +17048,11 @@
       "Time": "2023-11-02T17:05:10.5280745+00:00",
       "NumProgressed": 234604,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-02T18:05:03.119414+00:00",
+      "NumProgressed": 234621,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17091,7 +17096,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "BookCollection",
@@ -17107,7 +17112,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11730
+      "UsersEstimate": 11731
     },
     {
       "ID": "Chapter2",
@@ -17115,7 +17120,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9384
+      "UsersEstimate": 9385
     },
     {
       "ID": "Chapter3",
@@ -17123,7 +17128,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "Chapter4",
@@ -17459,7 +17464,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14076
+      "UsersEstimate": 14077
     },
     {
       "ID": "DwarfElf15Support",
@@ -17491,7 +17496,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9384
+      "UsersEstimate": 9385
     },
     {
       "ID": "ElfEpic",
@@ -17507,7 +17512,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79765
+      "UsersEstimate": 79771
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17523,7 +17528,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9384
+      "UsersEstimate": 9385
     },
     {
       "ID": "EndCombatOneHp",
@@ -17531,7 +17536,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     },
     {
       "ID": "EndGameCursed",
@@ -17555,7 +17560,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16422
+      "UsersEstimate": 16423
     },
     {
       "ID": "FollowBraztok",
@@ -17611,7 +17616,7 @@
       "Name": "Gargantua",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "Orktobearfest",
@@ -17707,7 +17712,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9384
+      "UsersEstimate": 9385
     },
     {
       "ID": "SupportCount4",
@@ -17755,28 +17760,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7038
+      "UsersEstimate": 7039
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 234604,
+      "Progressed": 234621,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 234604,
+      "Progressed": 234621,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-10-31T22:59:55.4302135+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:05:10.528074+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:05:03.1194136+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:01:36.8832044+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:05:10.5282791+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:01:29.4724475+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:05:03.119568+00:00"
 }

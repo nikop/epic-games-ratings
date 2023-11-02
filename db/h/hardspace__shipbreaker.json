@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1837,6 +1837,11 @@
       "Time": "2023-11-02T10:05:57.4328982+00:00",
       "NumProgressed": 934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T18:08:39.4830021+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1856,7 +1861,7 @@
       "Name": "Act II Complete",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1888,7 +1893,7 @@
       "Name": "A successful procedure!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -1896,7 +1901,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1912,7 +1917,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -1928,7 +1933,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1944,7 +1949,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -1984,23 +1989,23 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
       "SetID": "108h92c",
       "Name": "I ain\u2019t afraid of no Ghost",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
       "SetID": "108h92c",
       "Name": "I can fix it!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2008,7 +2013,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2040,7 +2045,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2056,14 +2061,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 935,
       "Completed": 0
     }
   ],
@@ -2071,8 +2076,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:08:46.0337295+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:08:39.4830018+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:24.4421866+00:00",
-  "LastUpdate_Ratings": "2023-11-02T16:57:56.5851847+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:08:46.0337602+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:57:48.6669026+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:08:39.4830226+00:00"
 }

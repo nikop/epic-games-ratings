@@ -47,8 +47,8 @@
 | The Mentor | 12.00% | ~3 |
 | What They Don't Know Can't Hurt Them | 12.00% | ~3 |
 | Wilful Ignorance | 12.00% | ~3 |
+| Double Agent | 8.00% | ~2 |
 | Keeper of the People | 8.00% | ~2 |
-| Double Agent | 4.00% | ~1 |
 | The Archetype | 0.00% | ~0 |
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |

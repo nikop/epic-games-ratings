@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,633 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,513 |
-| Loose Ends | 34.00% | ~25,755 |
-| To the Victor Go the Spoils | 28.00% | ~21,210 |
+| First Step Into the Knight | 51.00% | ~38,634 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,514 |
+| Loose Ends | 34.00% | ~25,756 |
+| To the Victor Go the Spoils | 28.00% | ~21,211 |
 | Knighthood | 27.00% | ~20,453 |
 | Get ReQ'd | 25.00% | ~18,938 |
 | Whispered Words | 25.00% | ~18,938 |
 | The Batman Family | 23.00% | ~17,423 |
-| Lock and Key | 22.00% | ~16,665 |
+| Lock and Key | 22.00% | ~16,666 |
 | Something in the Clay | 21.00% | ~15,908 |
 | Quartzer Life Crisis | 21.00% | ~15,908 |
-| Working Hard or Harley Working? | 20.00% | ~15,150 |
-| Unstoppable Force | 20.00% | ~15,150 |
-| Bad Apples in Every Orchard | 20.00% | ~15,150 |
+| Working Hard or Harley Working? | 20.00% | ~15,151 |
+| Unstoppable Force | 20.00% | ~15,151 |
+| Bad Apples in Every Orchard | 20.00% | ~15,151 |
 | Snow Problem | 19.00% | ~14,393 |
-| The Show Mud Go On | 18.00% | ~13,635 |
-| From Inside Gotham's Walls | 18.00% | ~13,635 |
+| The Show Mud Go On | 18.00% | ~13,636 |
+| From Inside Gotham's Walls | 18.00% | ~13,636 |
 | Protector of Gotham | 17.00% | ~12,878 |
 | Universal Health Scare | 16.00% | ~12,120 |
 | In Your Element | 15.00% | ~11,363 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 918)
 | Element of Surprise | 0.20% | ~92 |
 | It's Nice to Be Wanted | 0.20% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,751 (Ranked 97)  
+Progressed: 75,753 (Ranked 97)  
 Completed: 122 (0.16%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 122 (0.16%) (Ranked 250)
 | 2023-10-30 | 75,482 | 122 |
 | 2023-10-31 | 75,588 | 122 |
 | 2023-11-01 | 75,689 | 122 |
-| 2023-11-02 | 75,751 | 122 |
+| 2023-11-02 | 75,753 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,893  (Ranked 98)  
 Sum: 4,901 (Ranked 137)  

@@ -25,7 +25,7 @@
 | The impatient one | 20.00% | ~16 |
 | Spectres from the past | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 422)  
+Progressed: 79 (Ranked 423)  
 Completed: 3 (3.80%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 3.00% | ~453 |
 | Good | 3.00% | ~453 |
 | Intrepid | 3.00% | ~453 |
+| Just | 3.00% | ~453 |
 | Learned | 3.00% | ~453 |
 | Mason | 3.00% | ~453 |
 | Noble | 3.00% | ~453 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~302 |
 | Glorious | 2.00% | ~302 |
 | Great | 2.00% | ~302 |
-| Just | 2.00% | ~302 |
 | Keystone | 2.00% | ~302 |
 | Magnificent | 2.00% | ~302 |
 | Warrior | 2.00% | ~302 |
@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 1.00% | ~151 |
 | Riders | 1.00% | ~151 |
 | Sages | 1.00% | ~151 |
+| Traders | 1.00% | ~151 |
 | Acropolis | 1.00% | ~151 |
 | Circus Maximus | 1.00% | ~151 |
 | Mausoleum | 1.00% | ~151 |
@@ -92,7 +93,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Statesmen | 0.90% | ~136 |
-| Traders | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
 | Temple of Solomon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.50% | ~75 |
 | Beja Archer | 0.50% | ~75 |
 | Old | 0.40% | ~60 |
+| Capturing Cities | 0.40% | ~60 |
 | Ten Crowns | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
 | Rmt n Kmt Buhen | 0.40% | ~60 |
@@ -164,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.30% | ~45 |
 | Pantheon of Gods | 0.30% | ~45 |
 | Play a Network Game | 0.30% | ~45 |
-| Capturing Cities | 0.30% | ~45 |
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,098 (Ranked 144)  
+Progressed: 15,099 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
-| 2023-11-02 | 15,098 | 5 |
+| 2023-11-02 | 15,099 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,866 (Ranked 212)  

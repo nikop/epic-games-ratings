@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.34 (Ranked 796)  
+Rating: 4.34 (Ranked 795)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 34  (23.09.2022)
 | Vengeance | 27.00% | ~152 |
 | Collectibles of Chapter II | 24.00% | ~135 |
 | Broken Hopes | 24.00% | ~135 |
-| Bullseye! | 23.00% | ~129 |
+| Bullseye! | 24.00% | ~135 |
 | It's Just an Accident | 22.00% | ~124 |
 | Sorrow | 21.00% | ~118 |
 | Food Massacre | 20.00% | ~113 |

@@ -6,31 +6,31 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,479 |
-| I'll Be Back | 85.00% | ~4,050 |
-| Sorry, I Dropped This | 77.00% | ~3,669 |
-| First Day on the Job | 77.00% | ~3,669 |
+| On My Own Two Feet | 94.00% | ~4,480 |
+| I'll Be Back | 85.00% | ~4,051 |
+| Sorry, I Dropped This | 77.00% | ~3,670 |
+| First Day on the Job | 77.00% | ~3,670 |
 | Butcher's Bill | 55.00% | ~2,621 |
 | P.A.X | 38.00% | ~1,811 |
 | Hey Listen | 37.00% | ~1,763 |
-| OPERATOR | 36.00% | ~1,715 |
-| It's Blue Light | 33.00% | ~1,572 |
+| OPERATOR | 36.00% | ~1,716 |
+| It's Blue Light | 33.00% | ~1,573 |
 | Most Wanted | 27.00% | ~1,287 |
 | Infidel | 24.00% | ~1,144 |
 | Firebug | 21.00% | ~1,001 |
 | GOLIATH | 21.00% | ~1,001 |
 | I Choose You | 18.00% | ~858 |
 | Nothing to Lose | 18.00% | ~858 |
-| Big Sister | 16.00% | ~762 |
-| SENTINEL | 16.00% | ~762 |
+| Big Sister | 16.00% | ~763 |
+| SENTINEL | 16.00% | ~763 |
 | Gear Up | 15.00% | ~715 |
-| Core Power | 13.00% | ~619 |
+| Core Power | 13.00% | ~620 |
 | The Black Cerberus | 12.00% | ~572 |
 | Watchman | 12.00% | ~572 |
 | CREO Killed the Video Star | 11.00% | ~524 |
 | Who's in Charge Here? | 11.00% | ~524 |
 | Shall Not Pass | 11.00% | ~524 |
-| Right Tool for the Job | 10.00% | ~476 |
+| Right Tool for the Job | 10.00% | ~477 |
 | Melting Down | 9.00% | ~429 |
 | Raging Drones | 9.00% | ~429 |
 | Overconfident | 9.00% | ~429 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Tools of War | 0.70% | ~33 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,765 (Ranked 183)  
+Progressed: 4,766 (Ranked 183)  
 Completed: 18 (0.38%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 18 (0.38%) (Ranked 208)
 | 2023-10-29 | 4,746 | 18 |
 | 2023-10-31 | 4,748 | 18 |
 | 2023-11-01 | 4,757 | 18 |
-| 2023-11-02 | 4,765 | 18 |
+| 2023-11-02 | 4,766 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 491)  
 Sum: 29 (Ranked 506)  

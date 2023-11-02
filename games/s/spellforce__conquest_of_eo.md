@@ -46,6 +46,7 @@
 | Defeat Raith | 10.00% | ~1 |
 | Defeat Undergast | 10.00% | ~1 |
 | Defeat Yria | 10.00% | ~1 |
+| Elynn's Tale | 10.00% | ~1 |
 | Lytra's Tale | 10.00% | ~1 |
 | Philo's Tale | 10.00% | ~1 |
 | Yngrid's Tale | 10.00% | ~1 |
@@ -60,7 +61,6 @@
 | Friend of Uram Gor | 10.00% | ~1 |
 | Magic Academy | 10.00% | ~1 |
 | A Joke | 10.00% | ~1 |
-| Elynn's Tale | 0.00% | ~0 |
 | Misty Coast Dragonbones | 0.00% | ~0 |
 | The Forge of Regan Gor | 0.00% | ~0 |
 | Silver Drift Hollow Mine | 0.00% | ~0 |

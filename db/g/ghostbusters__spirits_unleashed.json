@@ -2991,9 +2991,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29684,
+  "EOS_Progressed": 29699,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1927,
+  "EOS_NewPlayers": 1938,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17566,6 +17566,11 @@
       "Time": "2023-11-02T17:07:03.3611019+00:00",
       "NumProgressed": 29684,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-02T18:06:55.2671778+00:00",
+      "NumProgressed": 29699,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17577,7 +17582,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "Animated",
@@ -17665,7 +17670,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "Dont_Need_These",
@@ -17689,7 +17694,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "Escape_Artist",
@@ -17753,7 +17758,7 @@
       "Name": "Liability",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Line_Em_Up",
@@ -17865,7 +17870,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "Stunner",
@@ -17881,7 +17886,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "Summoner",
@@ -17905,7 +17910,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "Teamwork",
@@ -17984,7 +17989,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29684,
+      "Progressed": 29699,
       "Completed": 65
     }
   ],
@@ -17992,8 +17997,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-02T10:00:54.6441995+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:07:03.3611014+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:06:55.2671773+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:03:17.9864482+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:07:03.3612973+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:03:12.4321055+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:06:55.2672872+00:00"
 }

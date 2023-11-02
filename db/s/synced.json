@@ -3,12 +3,12 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 927,
-  "Ranking_Popularity": 383,
+  "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -939,9 +939,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65498,
+  "EOS_Progressed": 65507,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7629,6 +7629,11 @@
       "Time": "2023-11-02T17:07:19.1126398+00:00",
       "NumProgressed": 65498,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-02T18:07:11.33856+00:00",
+      "NumProgressed": 65507,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7641,7 +7646,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21614
+      "UsersEstimate": 21617
     },
     {
       "ID": "10",
@@ -7673,7 +7678,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "14",
@@ -7689,7 +7694,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "16",
@@ -7697,7 +7702,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "2",
@@ -7705,7 +7710,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11135
+      "UsersEstimate": 11136
     },
     {
       "ID": "3",
@@ -7713,7 +7718,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8515
+      "UsersEstimate": 8516
     },
     {
       "ID": "4",
@@ -7721,7 +7726,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "5",
@@ -7729,7 +7734,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5240
+      "UsersEstimate": 5241
     },
     {
       "ID": "6",
@@ -7745,7 +7750,7 @@
       "Name": "More Power to You",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "8",
@@ -7753,7 +7758,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "9",
@@ -7761,14 +7766,14 @@
       "Name": "Past Master",
       "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65498,
+      "Progressed": 65507,
       "Completed": 27
     }
   ],
@@ -7776,8 +7781,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-02T10:59:20.0334118+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:07:19.1126392+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:07:11.3385595+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:00:43.152223+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:07:19.112732+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:00:40.7885768+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:07:11.3386028+00:00"
 }

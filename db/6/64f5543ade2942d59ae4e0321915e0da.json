@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -261,9 +261,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AC_COMBO_2",
@@ -333,9 +333,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 45,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -357,9 +357,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -373,9 +373,9 @@
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:06:50.4962986+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:06:42.4009816+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:00:07.7686984+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:06:50.4963526+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:00:03.4817403+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:06:42.4010106+00:00"
 }

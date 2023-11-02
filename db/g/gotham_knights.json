@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3941,9 +3941,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75751,
+  "EOS_Progressed": 75753,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21161,6 +21161,11 @@
       "Time": "2023-11-02T17:05:33.4172481+00:00",
       "NumProgressed": 75751,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-11-02T18:05:25.661422+00:00",
+      "NumProgressed": 75753,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -21284,7 +21289,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13635
+      "UsersEstimate": 13636
     },
     {
       "ID": "CLAYFACE_3",
@@ -21396,7 +21401,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21210
+      "UsersEstimate": 21211
     },
     {
       "ID": "FREEZE_1_5",
@@ -21476,7 +21481,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26513
+      "UsersEstimate": 26514
     },
     {
       "ID": "HARLEY_2",
@@ -21492,7 +21497,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "HARLEY_4",
@@ -21516,7 +21521,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38633
+      "UsersEstimate": 38634
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21540,7 +21545,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -21564,7 +21569,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25755
+      "UsersEstimate": 25756
     },
     {
       "ID": "MYSTERY_02",
@@ -21580,7 +21585,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16665
+      "UsersEstimate": 16666
     },
     {
       "ID": "MYSTERY_04",
@@ -21588,7 +21593,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "MYSTERY_05",
@@ -21596,7 +21601,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13635
+      "UsersEstimate": 13636
     },
     {
       "ID": "MYSTERY_06",
@@ -21659,13 +21664,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75751,
+      "Progressed": 75753,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46031,
+      "Progressed": 46033,
       "Completed": 2673
     }
   ],
@@ -21673,8 +21678,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-02T16:00:56.9946482+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:05:33.4172476+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:05:25.6614214+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:02:22.3400493+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:05:33.41742+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:02:12.0056697+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:05:25.6615306+00:00"
 }

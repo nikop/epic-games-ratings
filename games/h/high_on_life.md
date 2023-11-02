@@ -11,13 +11,13 @@ Rating: 4.64 (Ranked 329)
 | Bring A Knife to a Gun Fight | 2.00% | ~488 |
 | RIP Davey Glutes | 2.00% | ~488 |
 | Sweezy Like Sunday Morning | 2.00% | ~488 |
+| We're All Very Impressed, Trust Me | 2.00% | ~488 |
 | First Bounty Down | 2.00% | ~488 |
 | G3 Graduation | 2.00% | ~488 |
 | Cold-Blooded Driller | 2.00% | ~488 |
 | Who's The Boss? | 2.00% | ~488 |
 | Don't Knife The Hand That Feeds | 2.00% | ~488 |
 | Lezduit! | 1.00% | ~244 |
-| We're All Very Impressed, Trust Me | 1.00% | ~244 |
 | Legendary Bounty Hunter | 1.00% | ~244 |
 | Hardest Battle In The Game | 1.00% | ~244 |
 | Self-Actualization | 1.00% | ~244 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 329)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,418 (Ranked 125)  
+Progressed: 24,419 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 13 (0.05%) (Ranked 293)
 | 2023-10-30 | 24,401 | 13 |
 | 2023-10-31 | 24,408 | 13 |
 | 2023-11-01 | 24,413 | 13 |
-| 2023-11-02 | 24,418 | 13 |
+| 2023-11-02 | 24,419 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

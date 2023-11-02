@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2023-11-02T13:13:16.3195617+00:00",
       "NumProgressed": 587,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-02T18:10:04.5024686+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1286,7 +1291,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "booty_call",
@@ -1294,7 +1299,7 @@
       "Name": "Booty Call",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "crash_and_burn",
@@ -1308,9 +1313,9 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 569
+      "UsersEstimate": 564
     },
     {
       "ID": "hold_my_beer",
@@ -1318,7 +1323,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1326,7 +1331,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "interrogation",
@@ -1340,9 +1345,9 @@
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 88
     },
     {
       "ID": "not_alone",
@@ -1358,7 +1363,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1405,7 +1410,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 9
     }
   ],
@@ -1413,8 +1418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:10:11.7617287+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:10:04.5024682+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:01:00.6643468+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:10:11.7617481+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:00:56.7911512+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:10:04.5024815+00:00"
 }

@@ -20,7 +20,7 @@ Rating: 4.60 (Ranked 407)
 | Data Archivist | 0.90% | ~131 |
 | Stogie for Fogey | 0.90% | ~131 |
 | Khan's Revenge | 0.90% | ~131 |
-| Thorston Mayer | 0.60% | ~87 |
+| Thorston Mayer | 0.70% | ~102 |
 | Doctor Approved | 0.50% | ~73 |
 | Bottoms up! | 0.50% | ~73 |
 | Miraculous Maya | 0.50% | ~73 |

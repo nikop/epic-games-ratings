@@ -1763,9 +1763,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 62341,
+  "EOS_Progressed": 62342,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23268,6 +23268,11 @@
       "Time": "2023-11-02T17:04:29.9346509+00:00",
       "NumProgressed": 62341,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-02T18:04:23.1138259+00:00",
+      "NumProgressed": 62342,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -23543,7 +23548,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24936
+      "UsersEstimate": 24937
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -23623,7 +23628,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15585
+      "UsersEstimate": 15586
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -23647,7 +23652,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 48626
+      "UsersEstimate": 48627
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -23743,22 +23748,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23066
+      "UsersEstimate": 23067
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 62341,
+      "Progressed": 62342,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-01T15:00:48.0077155+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:04:29.9346503+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:04:23.1138255+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:01.325984+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:02:49.963364+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:04:29.9348459+00:00"
+  "LastUpdate_Ratings": "2023-11-02T18:02:42.5996309+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:04:23.1139725+00:00"
 }

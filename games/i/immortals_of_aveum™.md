@@ -1,40 +1,40 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 991)  
+Rating: 3.98 (Ranked 990)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~114 |
-| Battlefields Have Memories | 88.00% | ~112 |
-| Enlisted | 87.00% | ~110 |
-| Maybe Engage a Little | 83.00% | ~105 |
-| No More Names | 68.00% | ~86 |
-| Initiate | 60.00% | ~76 |
+| Unforeseen | 89.00% | ~114 |
+| Battlefields Have Memories | 88.00% | ~113 |
+| Enlisted | 86.00% | ~110 |
+| Maybe Engage a Little | 82.00% | ~105 |
+| No More Names | 67.00% | ~86 |
+| Initiate | 59.00% | ~76 |
 | Thrada-Kul | 55.00% | ~70 |
 | Gravity-Challenged Rocks | 43.00% | ~55 |
 | All the Major Food Groups | 37.00% | ~47 |
-| Soldier | 35.00% | ~44 |
+| Soldier | 35.00% | ~45 |
 | Beggars Would Ride | 32.00% | ~41 |
-| Control is an Illusion | 31.00% | ~39 |
+| Control is an Illusion | 30.00% | ~38 |
 | Socialite | 30.00% | ~38 |
-| The Means to Save It | 24.00% | ~30 |
-| Resilience to Sin | 20.00% | ~25 |
-| A Familiar Nest | 20.00% | ~25 |
-| Periapt Alizarin | 19.00% | ~24 |
+| The Means to Save It | 24.00% | ~31 |
+| Resilience to Sin | 20.00% | ~26 |
+| A Familiar Nest | 20.00% | ~26 |
+| Periapt Alizarin | 20.00% | ~26 |
 | Geas Aristeya | 17.00% | ~22 |
 | Armsman | 17.00% | ~22 |
 | A Perfect Cycle | 14.00% | ~18 |
 | Recruit | 14.00% | ~18 |
 | Good Boy | 10.00% | ~13 |
-| Lights Army | 9.00% | ~11 |
-| Periapt Viridian | 9.00% | ~11 |
-| Shroudfane Explorer | 9.00% | ~11 |
-| Periapt Cerulean | 8.00% | ~10 |
-| Scholar | 6.00% | ~8 |
+| Lights Army | 9.00% | ~12 |
+| Periapt Cerulean | 9.00% | ~12 |
+| Periapt Viridian | 9.00% | ~12 |
+| Shroudfane Explorer | 9.00% | ~12 |
 | Best Dressed | 6.00% | ~8 |
 | Armaments Azure | 6.00% | ~8 |
 | Armaments Gules | 6.00% | ~8 |
+| Scholar | 5.00% | ~6 |
 | Veteran | 5.00% | ~6 |
 | Kitted Out | 4.00% | ~5 |
 | Armaments Vert | 4.00% | ~5 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 991)
 | Tip of the Spear | 2.00% | ~3 |
 | Fowl Play | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 386)  
-Completed: 1 (0.79%) (Ranked 170)  
+Progressed: 128 (Ranked 384)  
+Completed: 1 (0.78%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 1 (0.79%) (Ranked 170)
 | 2023-10-30 | 112 | 1 |
 | 2023-10-31 | 117 | 1 |
 | 2023-11-01 | 123 | 1 |
-| 2023-11-02 | 127 | 1 |
+| 2023-11-02 | 128 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

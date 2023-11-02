@@ -6,35 +6,36 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 137.00% | ~70 |
-| Adept Assembler | 118.00% | ~60 |
-| Greeno-B-Gone | 92.00% | ~47 |
-| Your Especially Earned Trajectory | 73.00% | ~37 |
-| Can We Keep It? | 53.00% | ~27 |
-| No Mountain Wide Enough | 37.00% | ~19 |
-| My Time Mansion | 33.00% | ~17 |
-| Finishing Touches | 29.00% | ~15 |
-| Happier-est Place on Earth | 29.00% | ~15 |
-| Call Me Fishmael | 29.00% | ~15 |
-| Yakmel Whisperer | 25.00% | ~13 |
-| Anti-Santa | 24.00% | ~12 |
-| You Don't Win Friends With Salad | 24.00% | ~12 |
-| Jewel of the Eufaula | 16.00% | ~8 |
-| Officially Official | 10.00% | ~5 |
-| Knowledge is Power | 8.00% | ~4 |
-| Jack of All Trades | 8.00% | ~4 |
-| On that Grindset | 8.00% | ~4 |
-| I Do! | 8.00% | ~4 |
-| Pack Mule | 4.00% | ~2 |
-| One of the Cool Kids | 4.00% | ~2 |
-| Panda-kin | 2.00% | ~1 |
+| Iron Chef | 141.00% | ~86 |
+| Adept Assembler | 123.00% | ~75 |
+| Greeno-B-Gone | 95.00% | ~58 |
+| Your Especially Earned Trajectory | 74.00% | ~45 |
+| Can We Keep It? | 49.00% | ~30 |
+| No Mountain Wide Enough | 39.00% | ~24 |
+| My Time Mansion | 34.00% | ~21 |
+| Happier-est Place on Earth | 31.00% | ~19 |
+| Finishing Touches | 30.00% | ~18 |
+| Call Me Fishmael | 26.00% | ~16 |
+| Anti-Santa | 23.00% | ~14 |
+| You Don't Win Friends With Salad | 23.00% | ~14 |
+| Yakmel Whisperer | 23.00% | ~14 |
+| Jewel of the Eufaula | 16.00% | ~10 |
+| I Do! | 13.00% | ~8 |
+| Officially Official | 11.00% | ~7 |
+| Knowledge is Power | 8.00% | ~5 |
+| On that Grindset | 8.00% | ~5 |
+| Jack of All Trades | 7.00% | ~4 |
+| Pack Mule | 5.00% | ~3 |
+| Better Late than Never | 5.00% | ~3 |
+| Panda-kin | 3.00% | ~2 |
+| One of the Cool Kids | 3.00% | ~2 |
+| Time Flies | 2.00% | ~1 |
 | Bridging the Gap | 2.00% | ~1 |
-| Better Late than Never | 2.00% | ~1 |
 | Pro Gamer | 2.00% | ~1 |
 | Just What I Always Wanted! | 2.00% | ~1 |
 | Sandrock's Hottest Club | 2.00% | ~1 |
+| Mole Masher | 2.00% | ~1 |
 | Diamonds are Forever | 2.00% | ~1 |
-| Time Flies | 0.00% | ~0 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
@@ -60,22 +61,21 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 0.00% | ~0 |
 | Sandrunning Speedster | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
-| Mole Masher | 0.00% | ~0 |
 | Unboxing | 0.00% | ~0 |
 | Do Your Part | 0.00% | ~0 |
 | Waste Not Want Not | 0.00% | ~0 |
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 457)  
+Progressed: 61 (Ranked 442)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-02 | 51 | 0 |
+| 2023-11-02 | 61 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
-Sum: 1,297 (Ranked 236)  
+Sum: 1,298 (Ranked 236)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -85,8 +85,8 @@ Diff (max vs sum): -42
 | This game is Extremely Fun | 79 |
 | This game has Quickly Understood Controls | 76 |
 | This game has Diverse Characters | 72 |
+| This game has Amazing Characters | 68 |
 | This game is Relaxing | 68 |
-| This game has Amazing Characters | 67 |
 | This game has Amazing Storytelling | 67 |
 | This game has Easy Combat | 65 |
 | This game has a Creative Community | 50 |
@@ -244,4 +244,4 @@ Diff (max vs sum): -42
 | 2023-10-28 | 4.68 | - | 575 | 1,237 |
 | 2023-10-29 | 4.68 | - | 575 | 1,291 |
 | 2023-10-30 | 4.68 | - | 575 | 1,293 |
-| 2023-11-02 | 4.68 | - | 576 | 1,297 |
+| 2023-11-02 | 4.68 | - | 576 | 1,298 |

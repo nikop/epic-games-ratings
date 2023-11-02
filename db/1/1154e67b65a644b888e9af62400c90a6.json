@@ -3,8 +3,8 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 742,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 458,
+  "Ranking_Popularity": 368,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 448,
@@ -131,18 +131,24 @@
       "Rating": 4.39,
       "NumberOfAwards": 76,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2023-11-02T17:59:42.213146+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 92,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 76,
-  "NumberOfAwardsMax": 76,
+  "NumberOfAwards": 92,
+  "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 76
+      "Count": 92
     }
   ],
   "EOS_Progressed": 0,
@@ -157,8 +163,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-02T13:02:51.4841168+00:00",
+  "LastChanged": "2023-11-02T17:59:42.2131458+00:00",
   "LastUpdate_AppInfo": "2023-10-31T17:57:11.1497458+00:00",
-  "LastUpdate_Ratings": "2023-11-02T16:59:45.9422666+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:06:43.791785+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:59:42.2131465+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:06:35.6248997+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.60 (Ranked 407)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,372 |
+| Azoria Beckons | 72.00% | ~5,373 |
 | A Thorny Situation | 70.00% | ~5,223 |
 | ... And Spit Back Out | 60.00% | ~4,477 |
-| Break-Net Speed | 48.00% | ~3,581 |
-| Bramble Breaker | 46.00% | ~3,432 |
-| Miner 49er | 43.00% | ~3,208 |
+| Break-Net Speed | 48.00% | ~3,582 |
+| Bramble Breaker | 46.00% | ~3,433 |
+| Miner 49er | 43.00% | ~3,209 |
 | Humble Collector | 42.00% | ~3,134 |
 | Calm Sailing | 36.00% | ~2,686 |
 | Open the Gate! | 33.00% | ~2,462 |
-| Mist Walker | 31.00% | ~2,313 |
+| Mist Walker | 32.00% | ~2,388 |
 | Lumberjack | 26.00% | ~1,940 |
 | Oui, Chef! | 23.00% | ~1,716 |
 | Clear the Air | 18.00% | ~1,343 |
-| Botanical Breakthrough | 17.00% | ~1,268 |
+| Botanical Breakthrough | 17.00% | ~1,269 |
 | Search for the Hairy Grell | 13.00% | ~970 |
 | Beach Comber | 13.00% | ~970 |
 | Higher Tax Bracket | 13.00% | ~970 |
-| Skilled | 9.00% | ~671 |
+| Skilled | 9.00% | ~672 |
 | Flaming Hot Completos | 8.00% | ~597 |
 | Got to Catch Them All | 8.00% | ~597 |
 | Rumble in the Jumble | 8.00% | ~597 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 407)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,461 (Ranked 166)  
+Progressed: 7,462 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 7,365 | 0 |
 | 2023-10-31 | 7,400 | 0 |
 | 2023-11-01 | 7,435 | 0 |
-| 2023-11-02 | 7,461 | 0 |
+| 2023-11-02 | 7,462 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

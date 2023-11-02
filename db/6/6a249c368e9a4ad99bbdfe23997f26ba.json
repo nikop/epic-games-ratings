@@ -556,9 +556,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "A6",
@@ -603,8 +603,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-02T17:07:27.875243+00:00",
+  "LastChanged_Achievements": "2023-11-02T18:07:19.8723306+00:00",
   "LastUpdate_AppInfo": "2023-10-31T07:57:18.4168742+00:00",
-  "LastUpdate_Ratings": "2023-11-02T17:00:02.9100287+00:00",
-  "LastUpdate_Achievements": "2023-11-02T17:07:27.8752914+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:59:59.1968415+00:00",
+  "LastUpdate_Achievements": "2023-11-02T18:07:19.8723542+00:00"
 }

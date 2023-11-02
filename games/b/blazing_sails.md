@@ -4,13 +4,13 @@
 Rating: 3.88 (Ranked 1,009)  
 ## Awards
 Max (Extremely Fun): 169  (Ranked 302)  
-Sum: 1,045 (Ranked 249)  
-Diff (max vs sum): 53  
+Sum: 1,051 (Ranked 248)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 181 |
 | This game is Extremely Fun | 169 |
-| This game is Highly Recommended | 160 |
+| This game is Highly Recommended | 166 |
 | This game has Competitive Players | 152 |
 | This game has Quickly Understood Controls | 149 |
 | This game has Amazing Characters | 148 |
