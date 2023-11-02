@@ -3013,9 +3013,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 36229,
+  "EOS_Progressed": 36230,
   "EOS_Completed": 295,
-  "EOS_NewPlayers": 929,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -24568,6 +24568,11 @@
       "Time": "2023-11-02T01:46:51.1865468+00:00",
       "NumProgressed": 36229,
       "NumCompleted": 295
+    },
+    {
+      "Time": "2023-11-02T02:21:44.0156883+00:00",
+      "NumProgressed": 36230,
+      "NumCompleted": 295
     }
   ],
   "TotalAchievements": 60,
@@ -24587,7 +24592,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16665
+      "UsersEstimate": 16666
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -24619,7 +24624,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 7970
+      "UsersEstimate": 7971
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -24627,7 +24632,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -24643,7 +24648,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 9057
+      "UsersEstimate": 9058
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -24691,7 +24696,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 17752
+      "UsersEstimate": 17753
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -24731,7 +24736,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -24803,7 +24808,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 13042
+      "UsersEstimate": 13043
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -24907,7 +24912,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10507
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -24963,7 +24968,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16665
+      "UsersEstimate": 16666
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -24971,7 +24976,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10506
+      "UsersEstimate": 10507
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -24979,7 +24984,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 25360
+      "UsersEstimate": 25361
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -24995,7 +25000,7 @@
       "Name": "Band of Brothers",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_Completed",
@@ -25058,15 +25063,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 36229,
+      "Progressed": 36230,
       "Completed": 295
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-02T01:39:31.6713787+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:46:51.1865465+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:21:44.0156879+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.8036406+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:39:31.6713791+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:46:51.1866919+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:13:44.5659469+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:21:44.0159173+00:00"
 }

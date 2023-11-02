@@ -3,8 +3,8 @@
   "Name": "Test SDK",
   "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:34.0331445+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:45:24.4262099+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:49:22.6528878+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:19:58.6427117+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:24:44.7572308+00:00"
 }

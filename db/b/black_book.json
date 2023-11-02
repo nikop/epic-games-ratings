@@ -603,9 +603,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 49257,
+  "EOS_Progressed": 49258,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 2378,
+  "EOS_NewPlayers": 2375,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8083,6 +8083,11 @@
       "Time": "2023-11-02T01:46:24.5251768+00:00",
       "NumProgressed": 49257,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-11-02T02:21:11.7881769+00:00",
+      "NumProgressed": 49258,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -8271,7 +8276,7 @@
       "Name": "Healer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     },
     {
       "ID": "HERBS_2",
@@ -8295,7 +8300,7 @@
       "Name": "Initiation",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13299
+      "UsersEstimate": 13300
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -8494,15 +8499,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 49257,
+      "Progressed": 49258,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-02T01:41:41.7400858+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:46:24.5251763+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:21:11.7881765+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:30.10489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:41:41.7400861+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:46:24.5252472+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:16:16.1126323+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:21:11.7882909+00:00"
 }

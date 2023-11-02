@@ -2,13 +2,13 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 248,
+  "Ranking_Rating": 249,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -13407,24 +13407,30 @@
       "Rating": 4.68,
       "NumberOfAwards": 1418288,
       "NumberOfAwardsMax": 311941
+    },
+    {
+      "Time": "2023-11-02T02:15:52.5102967+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1418462,
+      "NumberOfAwardsMax": 312016
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1418288,
-  "NumberOfAwardsMax": 311941,
+  "NumberOfAwards": 1418462,
+  "NumberOfAwardsMax": 312016,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 311941
+      "Count": 312016
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 148606
+      "Count": 148705
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13492,8 +13498,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-11-02T01:41:22.8552557+00:00",
+  "LastChanged": "2023-11-02T02:15:52.5102965+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:19.3808695+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:41:22.8552562+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:46:34.9951207+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:15:52.5102972+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:21:24.5387261+00:00"
 }

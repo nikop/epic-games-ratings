@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Backtracking Through Barovia | 0.20% | ~467 |
 | Nimble Escape | 0.20% | ~467 |
 | Useless Allies | 0.20% | ~467 |
+| Fugitives | 0.20% | ~467 |
 | Excavating History | 0.20% | ~467 |
 | Hopelessly Lost | 0.20% | ~467 |
 | Mad Cow Disease | 0.20% | ~467 |
@@ -302,7 +303,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~233 |
 | Stumbling Escape | 0.10% | ~233 |
 | Distracted Escape | 0.10% | ~200 |
-| Fugitives | 0.10% | ~233 |
 | From The Shadows | 0.10% | ~233 |
 | Spined Nuisances | 0.10% | ~233 |
 | Twilight Twist | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,414 (Ranked 62)  
+Progressed: 233,415 (Ranked 62)  
 Completed: 2,418 (1.04%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,7 +731,7 @@ Completed: 2,418 (1.04%) (Ranked 155)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,414 | 2,418 |
+| 2023-11-02 | 233,415 | 2,418 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,297 (Ranked 41)  

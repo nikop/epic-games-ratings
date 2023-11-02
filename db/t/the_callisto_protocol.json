@@ -8937,9 +8937,9 @@
       "ID": "RIOT_10_POWERUPS",
       "SetID": "6j5ggkc",
       "Name": "Subject Alpha",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "SPEND_20000",
@@ -9024,8 +9024,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-01T18:58:14.1972899+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:47:22.195074+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:22:21.112805+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:40:47.7478582+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:47:22.1951493+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:15:11.6207726+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:22:21.1129158+00:00"
 }

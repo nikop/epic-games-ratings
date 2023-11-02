@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77295,
+  "EOS_Progressed": 77297,
   "EOS_Completed": 816,
   "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 11,
@@ -21957,6 +21957,11 @@
       "Time": "2023-11-02T01:48:38.3043608+00:00",
       "NumProgressed": 77295,
       "NumCompleted": 816
+    },
+    {
+      "Time": "2023-11-02T02:23:51.5320782+00:00",
+      "NumProgressed": 77297,
+      "NumCompleted": 816
     }
   ],
   "TotalAchievements": 25,
@@ -22096,7 +22101,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12367
+      "UsersEstimate": 12368
     },
     {
       "ID": "Nothing Left to Say",
@@ -22112,7 +22117,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8502
+      "UsersEstimate": 8503
     },
     {
       "ID": "Right On Target",
@@ -22120,7 +22125,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10048
+      "UsersEstimate": 10049
     },
     {
       "ID": "Sniper",
@@ -22167,7 +22172,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77295,
+      "Progressed": 77297,
       "Completed": 816
     }
   ],
@@ -22175,8 +22180,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:48:38.3043604+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:23:51.5320776+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.5305099+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:40:14.8400505+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:48:38.3045019+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:14:36.995479+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:23:51.5322352+00:00"
 }

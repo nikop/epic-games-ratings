@@ -11,10 +11,10 @@ Number of Ratings: 21,082  (23.09.2022)
 | Master of the Household | 38.00% | ~513,535 |
 | Death of the Party | 36.00% | ~486,507 |
 | NEXUS-47 | 33.00% | ~445,965 |
-| The Last Tango | 31.00% | ~418,936 |
-| Nightmare Fuel | 30.00% | ~405,422 |
-| The Result of Previous Training | 28.00% | ~378,394 |
-| Tools of the Trade | 28.00% | ~378,394 |
+| The Last Tango | 31.00% | ~418,937 |
+| Nightmare Fuel | 30.00% | ~405,423 |
+| The Result of Previous Training | 28.00% | ~378,395 |
+| Tools of the Trade | 28.00% | ~378,395 |
 | Cleared for Field Duty | 27.00% | ~364,880 |
 | Seizing the Opportunity | 26.00% | ~351,366 |
 | Bullet Train | 21.00% | ~283,796 |
@@ -30,9 +30,9 @@ Number of Ratings: 21,082  (23.09.2022)
 | No Stone Unturned | 8.00% | ~108,113 |
 | Train Surfing | 8.00% | ~108,113 |
 | Icebreaker | 7.00% | ~94,599 |
-| Family Feud | 6.00% | ~81,084 |
-| Rich Harvest | 6.00% | ~81,084 |
-| Count Down From 47 | 6.00% | ~81,084 |
+| Family Feud | 6.00% | ~81,085 |
+| Rich Harvest | 6.00% | ~81,085 |
+| Count Down From 47 | 6.00% | ~81,085 |
 | Shortcut Killer | 5.00% | ~67,570 |
 | Stair Master | 5.00% | ~67,570 |
 | Followed the Trails | 5.00% | ~67,570 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,514 |
 | The Creative Assassin | 0.70% | ~9,460 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351,408 (Ranked 9)  
+Progressed: 1,351,409 (Ranked 9)  
 Completed: 2,173 (0.16%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 2,173 (0.16%) (Ranked 250)
 | 2023-10-30 | 1,350,770 | 2,168 |
 | 2023-10-31 | 1,351,062 | 2,169 |
 | 2023-11-01 | 1,351,389 | 2,173 |
-| 2023-11-02 | 1,351,408 | 2,173 |
+| 2023-11-02 | 1,351,409 | 2,173 |
 ## Awards
 Max (Diverse Characters): 10,497  (Ranked 38)  
 Sum: 73,008 (Ranked 21)  

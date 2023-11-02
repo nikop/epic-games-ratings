@@ -25,7 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.70% | ~1,089 |
 | Predator | 0.70% | ~1,092 |
 | Assimilation | 0.60% | ~936 |
-| Host | 0.60% | ~933 |
+| Host | 0.60% | ~934 |
 | Celebration | 0.60% | ~936 |
 | Hunt Down | 0.50% | ~780 |
 | Inevitable | 0.50% | ~780 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155,993 (Ranked 75)  
+Progressed: 156,001 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,11 +226,11 @@ Completed: 1 (0.00%) (Ranked 337)
 | 2023-10-30 | 155,658 | 1 |
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
-| 2023-11-02 | 155,993 | 1 |
+| 2023-11-02 | 156,001 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
-Sum: 339 (Ranked 351)  
-Diff (max vs sum): 73  
+Sum: 341 (Ranked 350)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
@@ -239,7 +239,7 @@ Diff (max vs sum): 73
 | This game has Challenging Combat | 43 |
 | This game is Extremely Fun | 43 |
 | This game has Amazing Storytelling | 41 |
-| This game has Amazing Characters | 34 |
+| This game has Amazing Characters | 36 |
 | This game has a Creative Community | 33 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -374,3 +374,4 @@ Diff (max vs sum): 73
 | 2023-10-30 | 4.59 | - | 49 | 330 |
 | 2023-10-31 | 4.59 | - | 50 | 337 |
 | 2023-11-01 | 4.59 | - | 50 | 339 |
+| 2023-11-02 | 4.58 | - | 50 | 341 |

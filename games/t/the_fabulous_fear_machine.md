@@ -19,8 +19,10 @@
 | A rival with no options | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
+| The scholar | 3.00% | ~1 |
 | The adventurer | 3.00% | ~1 |
 | The battle of Great Britain | 3.00% | ~1 |
+| Pulp! Tales from the Crypt | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
@@ -29,12 +31,10 @@
 | Giant | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
-| The scholar | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
-| Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Pulp! Terror Tales in the Night | 0.00% | ~0 |

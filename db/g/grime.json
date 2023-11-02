@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 442,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 351,
+  "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1277,10 +1277,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-02T02:15:29.613289+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 339,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1336,12 +1342,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34
+      "Count": 36
     }
   ],
-  "EOS_Progressed": 155993,
+  "EOS_Progressed": 156001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1351,
+  "EOS_NewPlayers": 1353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14009,6 +14015,11 @@
       "Time": "2023-11-02T01:48:59.1046604+00:00",
       "NumProgressed": 155993,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T02:24:16.6064812+00:00",
+      "NumProgressed": 156001,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14140,7 +14151,7 @@
       "Name": "Host",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -14387,21 +14398,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155576,
+      "Progressed": 155584,
       "Completed": 1184
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 155993,
+      "Progressed": 156001,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-01T19:58:30.081415+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:48:59.1046596+00:00",
+  "LastChanged": "2023-11-02T02:15:29.6132888+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:24:16.6064807+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:41:00.8339416+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:48:59.1047511+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:15:29.6132894+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:24:16.6066058+00:00"
 }

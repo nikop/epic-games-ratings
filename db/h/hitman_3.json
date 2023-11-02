@@ -11194,9 +11194,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1351408,
+  "EOS_Progressed": 1351409,
   "EOS_Completed": 2173,
-  "EOS_NewPlayers": 2463,
+  "EOS_NewPlayers": 2459,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -33474,6 +33474,11 @@
       "Time": "2023-11-02T01:50:38.4676014+00:00",
       "NumProgressed": 1351408,
       "NumCompleted": 2173
+    },
+    {
+      "Time": "2023-11-02T02:25:26.6069957+00:00",
+      "NumProgressed": 1351409,
+      "NumCompleted": 2173
     }
   ],
   "TotalAchievements": 47,
@@ -33485,7 +33490,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 378394
+      "UsersEstimate": 378395
     },
     {
       "ID": "ACH_001",
@@ -33549,7 +33554,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 378394
+      "UsersEstimate": 378395
     },
     {
       "ID": "ACH_009",
@@ -33653,7 +33658,7 @@
       "Name": "Family Feud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81084
+      "UsersEstimate": 81085
     },
     {
       "ID": "ACH_022",
@@ -33773,7 +33778,7 @@
       "Name": "The Last Tango",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 418936
+      "UsersEstimate": 418937
     },
     {
       "ID": "ACH_037",
@@ -33805,7 +33810,7 @@
       "Name": "Rich Harvest",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 81084
+      "UsersEstimate": 81085
     },
     {
       "ID": "ACH_041",
@@ -33821,7 +33826,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 405422
+      "UsersEstimate": 405423
     },
     {
       "ID": "ACH_043",
@@ -33837,7 +33842,7 @@
       "Name": "Count Down From 47",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81084
+      "UsersEstimate": 81085
     },
     {
       "ID": "ACH_045",
@@ -33860,15 +33865,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1351408,
+      "Progressed": 1351409,
       "Completed": 2173
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-11-01T22:58:17.6144022+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:50:38.4676011+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:25:26.6069953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.983467+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:41:14.7746119+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:50:38.4677315+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:15:44.826582+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:25:26.607182+00:00"
 }

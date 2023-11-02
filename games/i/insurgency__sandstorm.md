@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~23,686 |
+| Wallbanger | 5.00% | ~23,687 |
 | Exploitative | 4.00% | ~18,949 |
 | Point Shooting | 4.00% | ~18,949 |
 | Wet Feet | 4.00% | ~18,949 |
-| High Speed Low Drag | 3.00% | ~14,211 |
-| Lucky | 3.00% | ~14,211 |
-| Stylin' | 3.00% | ~14,211 |
-| Turf War | 3.00% | ~14,211 |
-| Banged | 2.00% | ~9,474 |
-| Checkpoint Victory | 2.00% | ~9,474 |
-| First Blood | 2.00% | ~9,474 |
-| Flaccid Paralysis | 2.00% | ~9,474 |
-| Push Victory | 2.00% | ~9,474 |
-| Self-destructive | 2.00% | ~9,474 |
+| High Speed Low Drag | 3.00% | ~14,212 |
+| Lucky | 3.00% | ~14,212 |
+| Stylin' | 3.00% | ~14,212 |
+| Turf War | 3.00% | ~14,212 |
+| Banged | 2.00% | ~9,475 |
+| Checkpoint Victory | 2.00% | ~9,475 |
+| First Blood | 2.00% | ~9,475 |
+| Flaccid Paralysis | 2.00% | ~9,475 |
+| Push Victory | 2.00% | ~9,475 |
+| Self-destructive | 2.00% | ~9,475 |
 | Blindfire | 1.00% | ~4,737 |
 | Ruthless | 1.00% | ~4,737 |
 | Semper Paratus | 1.00% | ~4,737 |
-| Carrying | 0.90% | ~4,263 |
-| Efficient | 0.90% | ~4,263 |
-| Mount & Gun | 0.90% | ~4,263 |
-| Personal | 0.90% | ~4,263 |
+| Carrying | 0.90% | ~4,264 |
+| Efficient | 0.90% | ~4,264 |
+| Mount & Gun | 0.90% | ~4,264 |
+| Personal | 0.90% | ~4,264 |
 | Grounded | 0.80% | ~3,790 |
 | Play to Win | 0.80% | ~3,790 |
 | #1 | 0.70% | ~3,316 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~474 |
 | Road Hazard | 0.10% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,713 (Ranked 39)  
+Progressed: 473,732 (Ranked 39)  
 Completed: 2 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 2 (0.00%) (Ranked 337)
 | 2023-10-30 | 472,069 | 2 |
 | 2023-10-31 | 472,796 | 2 |
 | 2023-11-01 | 473,589 | 2 |
-| 2023-11-02 | 473,713 | 2 |
+| 2023-11-02 | 473,732 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 394  (Ranked 224)  
 Sum: 3,123 (Ranked 171)  

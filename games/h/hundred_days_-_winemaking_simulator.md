@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,209 |
-| It's a good start | 10.00% | ~1,052 |
+| Bye Bye | 40.00% | ~4,210 |
+| It's a good start | 10.00% | ~1,053 |
 | Bonjour! | 7.00% | ~737 |
 | Quack | 7.00% | ~737 |
-| The Assistant | 6.00% | ~631 |
-| The Blue Marl | 6.00% | ~631 |
+| The Assistant | 6.00% | ~632 |
+| The Blue Marl | 6.00% | ~632 |
 | Ostinata | 5.00% | ~526 |
 | Better than nothing? | 5.00% | ~526 |
 | A long journey | 4.00% | ~421 |
@@ -19,14 +19,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~316 |
 | Surprise of Langhe | 3.00% | ~316 |
 | Famous | 3.00% | ~316 |
-| What is that? A castle? | 2.00% | ~210 |
-| A lot of space | 2.00% | ~210 |
-| A big garage | 2.00% | ~210 |
-| Millionaire | 2.00% | ~210 |
-| Exotic | 2.00% | ~210 |
-| Pastry Chef | 2.00% | ~210 |
-| Welcome to the club | 2.00% | ~210 |
-| Very Important Winemaker | 2.00% | ~210 |
+| What is that? A castle? | 2.00% | ~211 |
+| A lot of space | 2.00% | ~211 |
+| A big garage | 2.00% | ~211 |
+| Millionaire | 2.00% | ~211 |
+| Exotic | 2.00% | ~211 |
+| Pastry Chef | 2.00% | ~211 |
+| Welcome to the club | 2.00% | ~211 |
+| Very Important Winemaker | 2.00% | ~211 |
 | King of Langhe | 1.00% | ~105 |
 | Gem of Monferrato | 1.00% | ~105 |
 | Treasure of Roero | 0.70% | ~74 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~21 |
 | Master Winemaker | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,522 (Ranked 153)  
+Progressed: 10,526 (Ranked 153)  
 Completed: 10 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 10 (0.10%) (Ranked 265)
 | 2023-10-30 | 10,292 | 10 |
 | 2023-10-31 | 10,398 | 10 |
 | 2023-11-01 | 10,511 | 10 |
-| 2023-11-02 | 10,522 | 10 |
+| 2023-11-02 | 10,526 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 279)  
 Sum: 1,594 (Ranked 222)  

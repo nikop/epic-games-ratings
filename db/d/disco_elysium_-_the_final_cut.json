@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1418,9 +1418,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130354,
+  "EOS_Progressed": 130355,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20728,6 +20728,11 @@
       "Time": "2023-11-02T00:04:12.4796701+00:00",
       "NumProgressed": 130354,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-02T02:21:56.3687035+00:00",
+      "NumProgressed": 130355,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20851,7 +20856,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27374
+      "UsersEstimate": 27375
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -20899,7 +20904,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13035
+      "UsersEstimate": 13036
     },
     {
       "ID": "ACH_GLUTEN",
@@ -21058,15 +21063,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130354,
+      "Progressed": 130355,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-01T02:57:19.275442+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:47:01.6717871+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:21:56.3687029+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:39:55.2196093+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:47:01.6719012+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:14:10.3899032+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:21:56.3688903+00:00"
 }

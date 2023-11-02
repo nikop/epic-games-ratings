@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1927,
+  "EOS_Progressed": 1929,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4122,6 +4122,11 @@
       "Time": "2023-11-02T01:51:51.5624088+00:00",
       "NumProgressed": 1927,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T02:26:41.9711962+00:00",
+      "NumProgressed": 1929,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4142,7 +4147,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4166,7 +4171,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4190,7 +4195,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4206,7 +4211,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4222,7 +4227,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4326,7 +4331,7 @@
       "Name": "Exhausted but Happy",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -4342,7 +4347,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4422,7 +4427,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4430,7 +4435,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4438,7 +4443,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4525,14 +4530,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1927,
+      "Progressed": 1929,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:51:51.5624084+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:26:41.9711955+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:41:15.223119+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:51:51.5624661+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:15:45.384141+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:26:41.971268+00:00"
 }

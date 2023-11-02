@@ -40,7 +40,7 @@ Rating: 4.19 (Ranked 907)
 | Mugshot | 0.60% | ~98 |
 | Quick Pick | 0.60% | ~26 |
 | Instigator | 0.50% | ~22 |
-| Subject Alpha | 0.30% | ~13 |
+| Subject Alpha | 0.40% | ~17 |
 | Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~33 |
 | Hoard Mode | 0.20% | ~9 |

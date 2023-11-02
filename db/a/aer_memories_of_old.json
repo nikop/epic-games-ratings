@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23246,
+  "EOS_Progressed": 23247,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.93,
   "EosHistory": [
@@ -21433,6 +21433,11 @@
       "Time": "2023-11-02T01:47:24.3454027+00:00",
       "NumProgressed": 23246,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-11-02T02:22:23.6443313+00:00",
+      "NumProgressed": 23247,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21460,7 +21465,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -21564,7 +21569,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17899
+      "UsersEstimate": 17900
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21572,7 +21577,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "NORTH_FINISHED",
@@ -21603,15 +21608,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23246,
+      "Progressed": 23247,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:47:24.3454024+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:22:23.6443309+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:45:21.9659803+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:47:24.3455191+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:19:56.4884804+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:22:23.6445139+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7753,9 +7753,9 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233414,
+  "EOS_Progressed": 233415,
   "EOS_Completed": 2418,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29603,6 +29603,11 @@
       "Time": "2023-11-02T01:50:21.7800484+00:00",
       "NumProgressed": 233414,
       "NumCompleted": 2418
+    },
+    {
+      "Time": "2023-11-02T02:25:07.0249931+00:00",
+      "NumProgressed": 233415,
+      "NumCompleted": 2418
     }
   ],
   "TotalAchievements": 528,
@@ -31508,9 +31513,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_404",
@@ -33837,21 +33842,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199688,
-      "Completed": 3733
+      "Progressed": 199689,
+      "Completed": 3734
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233414,
+      "Progressed": 233415,
       "Completed": 2418
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T23:58:51.8420585+00:00",
-  "LastChanged_Achievements": "2023-11-02T01:50:21.780048+00:00",
+  "LastChanged_Achievements": "2023-11-02T02:25:07.0249925+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-02T01:41:35.0736209+00:00",
-  "LastUpdate_Achievements": "2023-11-02T01:50:21.7825786+00:00"
+  "LastUpdate_Ratings": "2023-11-02T02:16:07.0163512+00:00",
+  "LastUpdate_Achievements": "2023-11-02T02:25:07.0413679+00:00"
 }
