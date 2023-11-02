@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -1290,6 +1290,11 @@
       "Time": "2023-11-01T23:05:33.3547809+00:00",
       "NumProgressed": 611,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-02T11:06:16.951863+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1301,7 +1306,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1365,7 +1370,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1373,7 +1378,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1397,7 +1402,7 @@
       "Name": "Good Karma",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "INTERROGATION",
@@ -1453,14 +1458,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 8
     }
   ],
@@ -1468,8 +1473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:05:35.8121657+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:06:16.9518624+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:00:16.1087309+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:05:35.8122002+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:00:21.8311599+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:06:16.9518862+00:00"
 }

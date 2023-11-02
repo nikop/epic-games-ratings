@@ -18,10 +18,10 @@
 | The Cultists | 12.00% | ~36 |
 | The Forgotten Tower | 12.00% | ~36 |
 | Lover of classics | 9.00% | ~27 |
+| The Curse Is Real | 9.00% | ~27 |
 | Trapped | 9.00% | ~27 |
 | Modern Player | 8.00% | ~24 |
 | Rest In Peace | 8.00% | ~24 |
-| The Curse Is Real | 8.00% | ~24 |
 | What A Mansion | 7.00% | ~21 |
 | I Am The Gate Keeper! | 6.00% | ~18 |
 | Researcher | 5.00% | ~15 |

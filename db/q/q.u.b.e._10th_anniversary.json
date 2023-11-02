@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14426,
+  "EOS_Progressed": 14445,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4583,
+  "EOS_NewPlayers": 4575,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1694,6 +1694,11 @@
       "Time": "2023-11-02T10:08:55.5609473+00:00",
       "NumProgressed": 14426,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T11:09:26.7968304+00:00",
+      "NumProgressed": 14445,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1735,9 +1740,9 @@
       "ID": "ACH_CrushPhysicsCube",
       "SetID": "a3lf366",
       "Name": "Crush That Cube!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_Finale",
@@ -1831,9 +1836,9 @@
       "ID": "ACH_Sector1",
       "SetID": "a3lf366",
       "Name": "Sector 1",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_Sector2",
@@ -1896,7 +1901,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14426,
+      "Progressed": 14445,
       "Completed": 1
     }
   ],
@@ -1904,8 +1909,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T06:57:11.2594167+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:08:55.5609465+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:09:26.7968299+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:57:28.747693+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:08:55.5609917+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:57:31.4597686+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:09:26.7969528+00:00"
 }

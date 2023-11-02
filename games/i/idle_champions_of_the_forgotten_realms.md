@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.20% | ~399 |
 | Will of the Feywild | 0.20% | ~399 |
 | The Roots of Loomlurch | 0.20% | ~399 |
+| Supply Run | 0.20% | ~467 |
 | Best Laid Plans | 0.20% | ~399 |
 | The Howling Peaks of Yon | 0.20% | ~399 |
 | Overwhelmed with Knowledge | 0.20% | ~399 |
@@ -178,7 +179,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Frozen Feywild | 0.10% | ~200 |
 | The Loots of Loomlurch | 0.10% | ~200 |
 | The Lutes of Loomlurch | 0.10% | ~200 |
-| Supply Run | 0.10% | ~233 |
 | Pincushion Party | 0.10% | ~200 |
 | G. O. A. T. | 0.10% | ~200 |
 | Strength of Character | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,434 (Ranked 62)  
+Progressed: 233,437 (Ranked 62)  
 Completed: 2,421 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,10 +731,10 @@ Completed: 2,421 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,434 | 2,421 |
+| 2023-11-02 | 233,437 | 2,421 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
-Sum: 32,304 (Ranked 41)  
+Sum: 32,307 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -742,7 +742,7 @@ Diff (max vs sum): 28
 | This game has Diverse Characters | 5,464 |
 | This game has Quickly Understood Controls | 4,804 |
 | This game is Relaxing | 4,693 |
-| This game has Amazing Characters | 4,189 |
+| This game has Amazing Characters | 4,192 |
 | This game is Highly Recommended | 4,184 |
 | This game has Playful Visuals | 3,500 |
 ## Ratings History
@@ -1028,4 +1028,4 @@ Diff (max vs sum): 28
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
-| 2023-11-02 | 4.06 | - | 5,470 | 32,304 |
+| 2023-11-02 | 4.06 | - | 5,470 | 32,307 |

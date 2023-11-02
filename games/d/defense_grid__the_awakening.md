@@ -6,33 +6,33 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~396,037 |
-| Happy Returns | 78.00% | ~381,369 |
-| Hey! That's mine! | 78.00% | ~381,369 |
-| Field Promotion | 74.00% | ~361,812 |
-| Leadhead | 71.00% | ~347,144 |
-| Eradicator | 67.00% | ~327,586 |
+| First Blood | 81.00% | ~396,038 |
+| Happy Returns | 78.00% | ~381,370 |
+| Hey! That's mine! | 78.00% | ~381,370 |
+| Field Promotion | 74.00% | ~361,813 |
+| Leadhead | 71.00% | ~347,145 |
+| Eradicator | 67.00% | ~327,587 |
 | Surplus | 65.00% | ~317,808 |
-| I Spy | 64.00% | ~312,918 |
+| I Spy | 64.00% | ~312,919 |
 | Burn Baby Burn | 59.00% | ~288,472 |
 | Yellow Beats Green | 56.00% | ~273,804 |
 | Salvage Rights | 53.00% | ~259,136 |
 | Close Call | 50.00% | ~244,468 |
 | Pew Pew | 50.00% | ~244,468 |
 | What IS that? | 50.00% | ~244,468 |
-| Penny Pincher | 49.00% | ~239,578 |
-| Arsenal | 46.00% | ~224,910 |
+| Penny Pincher | 49.00% | ~239,579 |
+| Arsenal | 46.00% | ~224,911 |
 | Boot Camp | 45.00% | ~220,021 |
 | Flawless Victory | 42.00% | ~205,353 |
-| Confident | 41.00% | ~200,463 |
+| Confident | 41.00% | ~200,464 |
 | Exterminator | 36.00% | ~176,017 |
 | Sharpshooter | 34.00% | ~166,238 |
 | Not So Fast | 33.00% | ~161,349 |
-| Great Ball of Fire | 32.00% | ~156,459 |
+| Great Ball of Fire | 32.00% | ~156,460 |
 | No Sale | 31.00% | ~151,570 |
-| Kaboom! | 30.00% | ~146,680 |
+| Kaboom! | 30.00% | ~146,681 |
 | Liquidator | 29.00% | ~141,791 |
-| High Voltage | 24.00% | ~117,344 |
+| High Voltage | 24.00% | ~117,345 |
 | Filthy Rich | 19.00% | ~92,898 |
 | The Not-So-Friendly Skies | 18.00% | ~88,008 |
 | Power Builder | 17.00% | ~83,119 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~489 |
 | You Monster | 0.10% | ~489 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488,935 (Ranked 36)  
+Progressed: 488,936 (Ranked 36)  
 Completed: 4 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 4 (0.00%) (Ranked 339)
 | 2023-10-30 | 488,814 | 4 |
 | 2023-10-31 | 488,861 | 4 |
 | 2023-11-01 | 488,922 | 4 |
-| 2023-11-02 | 488,935 | 4 |
+| 2023-11-02 | 488,936 | 4 |
 ## Awards
 Max (Great for Beginners): 255  (Ranked 263)  
 Sum: 1,713 (Ranked 214)  

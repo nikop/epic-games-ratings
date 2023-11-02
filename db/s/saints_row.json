@@ -3993,9 +3993,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 76974,
+  "EOS_Progressed": 76975,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26118,6 +26118,11 @@
       "Time": "2023-11-02T10:04:24.8798828+00:00",
       "NumProgressed": 76974,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T11:05:03.3681905+00:00",
+      "NumProgressed": 76975,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26145,7 +26150,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13855
+      "UsersEstimate": 13856
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -26177,7 +26182,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20013
+      "UsersEstimate": 20014
     },
     {
       "ID": "complet_epilogue_mission",
@@ -26249,7 +26254,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26171
+      "UsersEstimate": 26172
     },
     {
       "ID": "customize_a_weapon",
@@ -26257,7 +26262,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28480
+      "UsersEstimate": 28481
     },
     {
       "ID": "cutting_edge_materials",
@@ -26281,7 +26286,7 @@
       "Name": "Bonus Round",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "disorganized_crime_instaces",
@@ -26297,7 +26302,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 7697
+      "UsersEstimate": 7698
     },
     {
       "ID": "empire_tier_2",
@@ -26305,7 +26310,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20013
+      "UsersEstimate": 20014
     },
     {
       "ID": "empire_tier_3",
@@ -26337,7 +26342,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25401
+      "UsersEstimate": 25402
     },
     {
       "ID": "fully_complete_a_building",
@@ -26353,7 +26358,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7697
+      "UsersEstimate": 7698
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -26361,7 +26366,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10776
+      "UsersEstimate": 10777
     },
     {
       "ID": "get_betrayed",
@@ -26513,7 +26518,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32329
+      "UsersEstimate": 32330
     },
     {
       "ID": "whole_map_purple",
@@ -26552,13 +26557,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76974,
+      "Progressed": 76975,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48611,
+      "Progressed": 48612,
       "Completed": 4232
     }
   ],
@@ -26566,8 +26571,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-31T23:03:05.5996254+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:04:24.8798815+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:05:03.3681897+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:02:48.0128574+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:04:24.8801045+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:03:19.6982383+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:05:03.3683679+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 927,
-  "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 363,
+  "Ranking_Popularity": 383,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 89,
@@ -871,18 +871,24 @@
       "Rating": 4.16,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2023-11-02T10:59:20.0334119+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
-  "NumberOfAwardsMax": 78,
+  "NumberOfAwards": 287,
+  "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has a Competitive Community",
@@ -933,9 +939,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65471,
+  "EOS_Progressed": 65474,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7588,6 +7594,11 @@
       "Time": "2023-11-02T10:04:59.2482032+00:00",
       "NumProgressed": 65471,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-02T11:05:39.190296+00:00",
+      "NumProgressed": 65474,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7600,7 +7611,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21605
+      "UsersEstimate": 21606
     },
     {
       "ID": "10",
@@ -7664,7 +7675,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11130
+      "UsersEstimate": 11131
     },
     {
       "ID": "3",
@@ -7672,7 +7683,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8511
+      "UsersEstimate": 8512
     },
     {
       "ID": "4",
@@ -7727,16 +7738,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65471,
+      "Progressed": 65474,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-02T02:16:39.9125075+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:04:59.2482027+00:00",
+  "LastChanged": "2023-11-02T10:59:20.0334118+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:05:39.1902955+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:59:17.4136358+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:04:59.2482592+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:59:20.0334129+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:05:39.1903515+00:00"
 }

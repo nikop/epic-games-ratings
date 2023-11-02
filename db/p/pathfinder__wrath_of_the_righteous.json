@@ -4067,9 +4067,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11988,
+  "EOS_Progressed": 11990,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14977,6 +14977,11 @@
       "Time": "2023-11-02T07:05:39.5472338+00:00",
       "NumProgressed": 11988,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T11:06:14.4217679+00:00",
+      "NumProgressed": 11990,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15004,7 +15009,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "04_FithCrusade",
@@ -15060,7 +15065,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "11_PathOfAeon",
@@ -15116,7 +15121,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "18_MythicChoices",
@@ -15124,7 +15129,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "19_EqualToAroden",
@@ -15196,7 +15201,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "29_StrategicVictory",
@@ -15332,7 +15337,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "46_AllPathsOpen",
@@ -15340,7 +15345,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -15412,7 +15417,7 @@
       "Name": "Next-Door Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "56_GetToad",
@@ -15915,21 +15920,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10770,
+      "Progressed": 10772,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11988,
+      "Progressed": 11990,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-02T06:58:18.060031+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:05:33.2812699+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:06:14.4217672+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:58:25.6171658+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:05:33.2816735+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:58:29.0008246+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:06:14.4220023+00:00"
 }

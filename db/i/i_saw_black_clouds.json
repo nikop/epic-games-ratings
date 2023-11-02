@@ -3,7 +3,7 @@
   "Name": "I Saw Black Clouds",
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -553,9 +553,9 @@
       "ID": "realist",
       "SetID": "8b5dfcp",
       "Name": "Realist",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 93
     },
     {
       "ID": "tough",
@@ -594,8 +594,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:03:15.8888137+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:03:51.928773+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:06.6020083+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:00:39.4406098+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:03:15.8888309+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:00:44.6972101+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:03:51.9287886+00:00"
 }

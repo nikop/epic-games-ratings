@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7449,
+  "EOS_Progressed": 7451,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
@@ -5889,6 +5889,11 @@
       "Time": "2023-11-02T07:09:08.3910761+00:00",
       "NumProgressed": 7449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T11:09:19.363342+00:00",
+      "NumProgressed": 7451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5901,7 +5906,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5365
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5909,7 +5914,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5216
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5925,7 +5930,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -5941,7 +5946,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -5957,7 +5962,7 @@
       "Name": "Fae Farmer",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -5981,7 +5986,7 @@
       "Name": "Angling Authority",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "COLLECT_LOGS",
@@ -5997,7 +6002,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3203
+      "UsersEstimate": 3204
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6013,7 +6018,7 @@
       "Name": "Beach Comber",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -6053,7 +6058,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4471
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6085,7 +6090,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -6093,7 +6098,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "HAVE_WEDDING",
@@ -6101,7 +6106,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -6117,7 +6122,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -6125,7 +6130,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -6149,7 +6154,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -6165,7 +6170,7 @@
       "Name": "House Proud",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -6173,29 +6178,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7449,
+      "Progressed": 7451,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 66,
-      "Completed": 66
+      "Progressed": 68,
+      "Completed": 68
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:08:47.7011506+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:09:19.3633416+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:00:10.8481188+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:08:47.7012555+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:00:17.0977887+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:09:19.363404+00:00"
 }

@@ -11499,9 +11499,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 444853,
+  "EOS_Progressed": 444880,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5289,
+  "EOS_NewPlayers": 5291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33864,6 +33864,11 @@
       "Time": "2023-11-02T10:05:13.7051979+00:00",
       "NumProgressed": 444853,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T11:05:54.2366261+00:00",
+      "NumProgressed": 444880,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34307,7 +34312,7 @@
       "Name": "Bright Spark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -34315,7 +34320,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8897
+      "UsersEstimate": 8898
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -34395,7 +34400,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8897
+      "UsersEstimate": 8898
     },
     {
       "ID": "achievement_colonial_management",
@@ -34603,7 +34608,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -34635,7 +34640,7 @@
       "Name": "Factionalism",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_fanatic_collectivist",
@@ -34707,7 +34712,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8897
+      "UsersEstimate": 8898
     },
     {
       "ID": "achievement_forever_golden",
@@ -34795,7 +34800,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -34875,7 +34880,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17794
+      "UsersEstimate": 17795
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35067,7 +35072,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_italian_ambition",
@@ -35739,7 +35744,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -35875,7 +35880,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8897
+      "UsersEstimate": 8898
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36219,7 +36224,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -36491,7 +36496,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "achievement_turkish_delight",
@@ -36539,7 +36544,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17794
+      "UsersEstimate": 17795
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36571,7 +36576,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17794
+      "UsersEstimate": 17795
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36706,21 +36711,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 444853,
+      "Progressed": 444880,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 444853,
+      "Progressed": 444880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-02T02:59:42.6408549+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:05:13.7051968+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:05:54.2366253+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:59:25.4679497+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:05:13.7067571+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:59:28.3810491+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:05:54.2378471+00:00"
 }

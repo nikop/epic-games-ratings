@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~73 |
-| Fire in the... nevermind | 53.00% | ~73 |
+| Chapter I | 52.00% | ~72 |
+| Fire in the... nevermind | 52.00% | ~72 |
 | Haute cuisine | 48.00% | ~66 |
 | Demolition expert | 40.00% | ~55 |
 | I didn't do it! | 40.00% | ~55 |
 | Wooooooow! | 37.00% | ~51 |
-| Open up wide | 36.00% | ~49 |
-| Keep away from children | 36.00% | ~49 |
+| Open up wide | 36.00% | ~50 |
+| Keep away from children | 36.00% | ~50 |
 | Artistic fool | 34.00% | ~47 |
-| Let the boot talk | 31.00% | ~42 |
+| Let the boot talk | 31.00% | ~43 |
 | Chapter II | 27.00% | ~37 |
-| Shadow on the wall | 26.00% | ~36 |
+| Shadow on the wall | 25.00% | ~34 |
 | Handyman | 24.00% | ~33 |
 | Achoo!! | 24.00% | ~33 |
-| Bubblekillerfamily | 23.00% | ~32 |
 | Chapter III | 23.00% | ~32 |
 | Like a moth in the Wind | 23.00% | ~32 |
+| Bubblekillerfamily | 22.00% | ~30 |
 | Quite a buggy game | 21.00% | ~29 |
-| Pacifist | 20.00% | ~27 |
-| Mirror mirror on the wall... | 20.00% | ~27 |
+| Pacifist | 20.00% | ~28 |
+| Mirror mirror on the wall... | 20.00% | ~28 |
 | Fastidious Clown | 19.00% | ~26 |
-| It's not easy being green! | 18.00% | ~25 |
 | Home is where the heart is | 18.00% | ~25 |
+| It's not easy being green! | 17.00% | ~23 |
 | Death is a part of life | 15.00% | ~21 |
 | Master of Thermodynamics | 14.00% | ~19 |
-| To err is human... | 12.00% | ~16 |
-| Unfullfilled dreams | 12.00% | ~16 |
+| To err is human... | 12.00% | ~17 |
+| Unfullfilled dreams | 12.00% | ~17 |
 | Useless but beautiful | 9.00% | ~12 |
 | Nothing can stop me | 9.00% | ~12 |
 | Mumbo Jumbo | 9.00% | ~12 |
@@ -41,7 +41,7 @@
 | Sadist | 6.00% | ~8 |
 | The hands of a healer | 6.00% | ~8 |
 | Fartjokes! | 5.00% | ~7 |
-| Shut up clown! | 4.00% | ~5 |
+| Shut up clown! | 4.00% | ~6 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |
 | Fine Listener | 2.00% | ~3 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 382)  
+Progressed: 138 (Ranked 381)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-13 | 133 | 0 |
 | 2023-10-16 | 134 | 0 |
 | 2023-10-19 | 136 | 0 |
-| 2023-11-02 | 137 | 0 |
+| 2023-11-02 | 138 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

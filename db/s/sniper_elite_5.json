@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3809,
+  "EOS_Progressed": 3810,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7611,6 +7611,11 @@
       "Time": "2023-11-02T10:03:49.1961194+00:00",
       "NumProgressed": 3809,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-02T11:04:27.1376295+00:00",
+      "NumProgressed": 3810,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7622,7 +7627,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7702,7 +7707,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7846,7 +7851,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7870,7 +7875,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7878,7 +7883,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -7886,7 +7891,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7998,7 +8003,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8014,7 +8019,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8124,9 +8129,9 @@
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
       "SetID": "83mdf7p",
       "Name": "Ghost of Falaise",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -8189,13 +8194,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3760,
+      "Progressed": 3761,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3809,
+      "Progressed": 3810,
       "Completed": 11
     }
   ],
@@ -8203,8 +8208,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:03:49.1961186+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:04:27.137629+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:00:13.3691094+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:03:49.1962381+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:00:19.5043126+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:04:27.1377595+00:00"
 }

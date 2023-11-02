@@ -27,13 +27,13 @@ Rating: 4.19 (Ranked 908)
 | I Do Belong Here | 4.00% | ~655 |
 | Terminated | 4.00% | ~655 |
 | What Lies Beneath | 4.00% | ~655 |
-| It's Time | 4.00% | ~172 |
+| It's Time | 4.00% | ~173 |
 | The Commonality | 3.00% | ~492 |
 | In Striking Distance | 2.00% | ~328 |
 | One Last Job | 2.00% | ~86 |
 | This Isn't About Escape | 1.00% | ~43 |
 | Big Spender | 0.90% | ~39 |
-| Armed to the Teeth | 0.80% | ~34 |
+| Armed to the Teeth | 0.80% | ~35 |
 | Grim Reaper | 0.70% | ~115 |
 | Parole Denied | 0.70% | ~30 |
 | Information Overload | 0.70% | ~30 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 908)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,385 (Ranked 140)  
+Progressed: 16,387 (Ranked 140)  
 Completed: 78 (0.48%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 78 (0.48%) (Ranked 196)
 | 2023-10-30 | 16,360 | 78 |
 | 2023-10-31 | 16,372 | 78 |
 | 2023-11-01 | 16,381 | 78 |
-| 2023-11-02 | 16,385 | 78 |
+| 2023-11-02 | 16,387 | 78 |
 ## Awards
 Max (Highly Recommended): 79  (Ranked 383)  
 Sum: 466 (Ranked 325)  

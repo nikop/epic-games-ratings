@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 892,
-  "Ranking_Popularity": 328,
+  "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 228,
@@ -1308,9 +1308,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27422,
+  "EOS_Progressed": 27424,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22343,6 +22343,11 @@
       "Time": "2023-11-02T10:08:41.9863867+00:00",
       "NumProgressed": 27422,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-02T11:09:13.2895601+00:00",
+      "NumProgressed": 27424,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22474,7 +22479,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5484
+      "UsersEstimate": 5485
     },
     {
       "ID": "1031",
@@ -22490,7 +22495,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10969
+      "UsersEstimate": 10970
     },
     {
       "ID": "1033",
@@ -22529,15 +22534,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27422,
+      "Progressed": 27424,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-01T16:03:00.5607124+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:08:41.9863862+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:09:13.2895597+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:02:55.445467+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:08:41.9865271+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:03:28.3691372+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:09:13.2897049+00:00"
 }

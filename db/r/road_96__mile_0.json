@@ -3,8 +3,8 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -1477,6 +1477,11 @@
       "Time": "2023-10-30T14:09:56.3894752+00:00",
       "NumProgressed": 439,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-02T11:09:30.6544505+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1488,7 +1493,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "completeact2",
@@ -1607,7 +1612,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 2
     }
   ],
@@ -1615,8 +1620,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:08:59.2780795+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:09:30.6544499+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.2908956+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:58:17.2110221+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:08:59.2781003+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:58:23.4675163+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:09:30.6544726+00:00"
 }

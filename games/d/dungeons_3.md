@@ -6,40 +6,40 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~25,372 |
-| The Evilest Evil | 58.00% | ~21,023 |
-| Twistram is devastated | 57.00% | ~20,660 |
-| The Gehenna Stones | 49.00% | ~17,761 |
-| No one has to die today! | 46.00% | ~16,673 |
-| Death and destruction! | 46.00% | ~16,673 |
-| The Swamplanders from the swamplands | 44.00% | ~15,948 |
-| The One-Huge-Army-Building Evil | 41.00% | ~14,861 |
-| Rusty Steel | 41.00% | ~14,861 |
-| Braiiiiins! | 38.00% | ~13,773 |
-| The last burger | 37.00% | ~13,411 |
-| Hands off the Dungeonheart! | 36.00% | ~13,049 |
-| A trip on sea, what fun it can be | 34.00% | ~12,324 |
-| Damned good | 33.00% | ~11,961 |
-| Stock Market Crash | 31.00% | ~11,236 |
-| Factory farming | 31.00% | ~11,236 |
-| Not-So-Overproud | 30.00% | ~10,874 |
-| For a handfull of Catapults | 29.00% | ~10,511 |
-| Shadow hunter | 29.00% | ~10,511 |
-| Thirst quencher | 28.00% | ~10,149 |
-| Ogre Solo! | 28.00% | ~10,149 |
-| Destroy the thing | 26.00% | ~9,424 |
-| Tide Master | 26.00% | ~9,424 |
+| The Shadow strikes | 70.00% | ~25,374 |
+| The Evilest Evil | 58.00% | ~21,024 |
+| Twistram is devastated | 57.00% | ~20,662 |
+| The Gehenna Stones | 49.00% | ~17,762 |
+| No one has to die today! | 46.00% | ~16,675 |
+| Death and destruction! | 46.00% | ~16,675 |
+| The Swamplanders from the swamplands | 44.00% | ~15,950 |
+| The One-Huge-Army-Building Evil | 41.00% | ~14,862 |
+| Rusty Steel | 41.00% | ~14,862 |
+| Braiiiiins! | 38.00% | ~13,775 |
+| The last burger | 37.00% | ~13,412 |
+| Hands off the Dungeonheart! | 36.00% | ~13,050 |
+| A trip on sea, what fun it can be | 34.00% | ~12,325 |
+| Damned good | 33.00% | ~11,962 |
+| Stock Market Crash | 31.00% | ~11,237 |
+| Factory farming | 31.00% | ~11,237 |
+| Not-So-Overproud | 30.00% | ~10,875 |
+| For a handfull of Catapults | 29.00% | ~10,512 |
+| Shadow hunter | 29.00% | ~10,512 |
+| Thirst quencher | 28.00% | ~10,150 |
+| Ogre Solo! | 28.00% | ~10,150 |
+| Destroy the thing | 26.00% | ~9,425 |
+| Tide Master | 26.00% | ~9,425 |
 | Difficult family relationships | 25.00% | ~9,062 |
-| MASS-O-BOT | 24.00% | ~8,699 |
-| Prepare the grave | 24.00% | ~8,699 |
-| Angel of Fire | 24.00% | ~8,699 |
+| MASS-O-BOT | 24.00% | ~8,700 |
+| Prepare the grave | 24.00% | ~8,700 |
+| Angel of Fire | 24.00% | ~8,700 |
 | Where there is Light, there is Shadow | 23.00% | ~8,337 |
-| At the foot of Mount Destiny | 22.00% | ~7,974 |
+| At the foot of Mount Destiny | 22.00% | ~7,975 |
 | The Force disturbed | 21.00% | ~7,612 |
-| The Victorious Evil | 20.00% | ~7,249 |
+| The Victorious Evil | 20.00% | ~7,250 |
 | Chorus of damnation | 19.00% | ~6,887 |
 | We don’t have time! | 19.00% | ~6,887 |
-| The Stones’ Power | 18.00% | ~6,524 |
+| The Stones’ Power | 18.00% | ~6,525 |
 | Flat as a pancake | 17.00% | ~6,162 |
 | Lifeguard | 17.00% | ~6,162 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~5,437 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~725 |
 | Sacrifices! | 2.00% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,246 (Ranked 119)  
+Progressed: 36,249 (Ranked 119)  
 Completed: 297 (0.82%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 297 (0.82%) (Ranked 167)
 | 2023-10-30 | 35,971 | 294 |
 | 2023-10-31 | 36,084 | 295 |
 | 2023-11-01 | 36,224 | 295 |
-| 2023-11-02 | 36,246 | 297 |
+| 2023-11-02 | 36,249 | 297 |
 ## Awards
 Max (Great for Beginners): 367  (Ranked 231)  
 Sum: 2,719 (Ranked 178)  

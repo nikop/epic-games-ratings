@@ -7,7 +7,7 @@ Number of Ratings: 401  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~14,353 |
-| Sweet Sorrow | 18.00% | ~7,176 |
+| Sweet Sorrow | 18.00% | ~7,177 |
 | Rules the Waves | 17.00% | ~6,778 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,980 |
 | Rival | 14.00% | ~5,582 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,791 |
 | Open Your Ears | 7.00% | ~2,791 |
 | The Ascent of Man | 7.00% | ~2,791 |
-| Zee Fever | 5.00% | ~1,993 |
+| Zee Fever | 5.00% | ~1,994 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,595 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,595 |
 | Storm's Curse | 3.00% | ~1,196 |
@@ -34,6 +34,7 @@ Number of Ratings: 401  (23.09.2022)
 | A buoyant escape | 1.00% | ~399 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~399 |
 | The Bell Tolls | 1.00% | ~399 |
+| The dragon in the zee | 1.00% | ~399 |
 | Thanks for all the fish | 1.00% | ~399 |
 | Knife, Cup and Bone | 1.00% | ~399 |
 | Those are pearls that were his eyes | 1.00% | ~399 |
@@ -42,7 +43,6 @@ Number of Ratings: 401  (23.09.2022)
 | Never Stop Sinking... | 0.90% | ~359 |
 | His bones in whispers | 0.90% | ~359 |
 | The beauty of the deep | 0.90% | ~359 |
-| The dragon in the zee | 0.90% | ~359 |
 | No regrets | 0.90% | ~359 |
 | Under the zee | 0.90% | ~359 |
 | Depth charge | 0.90% | ~359 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~40 |
 | Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,869 (Ranked 116)  
+Progressed: 39,870 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 4 (0.01%) (Ranked 317)
 | 2023-10-30 | 39,707 | 4 |
 | 2023-10-31 | 39,778 | 4 |
 | 2023-11-01 | 39,850 | 4 |
-| 2023-11-02 | 39,869 | 4 |
+| 2023-11-02 | 39,870 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 277)  
 Sum: 288 (Ranked 361)  

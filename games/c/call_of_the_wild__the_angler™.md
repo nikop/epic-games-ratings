@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 0.60% | ~37 |
+| Fish Just Got Reel | 0.70% | ~44 |
 | Hey Good Hookin | 0.60% | ~37 |
 | Can you smell what the Rod is Hooking | 0.50% | ~31 |
 | I'm on a Boat! | 0.50% | ~31 |
@@ -32,6 +32,7 @@ Number of Ratings: 281  (23.09.2022)
 | Taylor Made | 0.10% | ~6 |
 | Big Fish Small Pond | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
+| Gonna Need a Bigger Boat | 0.10% | ~6 |
 | Fish upon a Star | 0.10% | ~6 |
 | All Good Kings Must Come to an End | 0.10% | ~6 |
 | Three Square Meals | 0.10% | ~6 |
@@ -40,14 +41,13 @@ Number of Ratings: 281  (23.09.2022)
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
 | Buckaroo | 0.00% | ~0 |
-| Gonna Need a Bigger Boat | 0.00% | ~0 |
 | Rod and Troll | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Trollsporet Tale Teller | 0.00% | ~0 |
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,218 (Ranked 176)  
+Progressed: 6,219 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 6,167 | 0 |
 | 2023-10-31 | 6,177 | 0 |
 | 2023-11-01 | 6,212 | 0 |
-| 2023-11-02 | 6,218 | 0 |
+| 2023-11-02 | 6,219 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 186 (Ranked 402)  

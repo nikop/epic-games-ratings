@@ -23,6 +23,7 @@
 | Frigid Winds | 2.00% | ~1 |
 | The Guardian of Fire | 2.00% | ~1 |
 | Transformative Nature | 2.00% | ~1 |
+| Twin Thorns | 2.00% | ~1 |
 | Champion of Starspire | 2.00% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
@@ -60,7 +61,6 @@
 | Artisan Armaments | 0.00% | ~0 |
 | Reaching Vines | 0.00% | ~0 |
 | Holding Out | 0.00% | ~0 |
-| Twin Thorns | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 45 (Ranked 464)  

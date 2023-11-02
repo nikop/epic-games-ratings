@@ -185,6 +185,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
+| Pantheon in Roma | 0.20% | ~30 |
 | Randomized Leaders | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
@@ -280,7 +281,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~15 |
 | Colossus in Rhodes | 0.10% | ~15 |
 | Roman Papacy | 0.10% | ~15 |
-| Pantheon in Roma | 0.10% | ~15 |
 | Word of God | 0.10% | ~15 |
 | Great Ziggurat in Ur | 0.10% | ~15 |
 | No Characters | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,095 (Ranked 144)  
+Progressed: 15,096 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
-| 2023-11-02 | 15,095 | 5 |
+| 2023-11-02 | 15,096 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,866 (Ranked 212)  

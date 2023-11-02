@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39869,
+  "EOS_Progressed": 39870,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20710,6 +20710,11 @@
       "Time": "2023-11-02T10:08:34.9268312+00:00",
       "NumProgressed": 39869,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-02T11:09:06.1999756+00:00",
+      "NumProgressed": 39870,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -20983,9 +20988,9 @@
       "ID": "ach_portdragon",
       "SetID": "ammcm",
       "Name": "The dragon in the zee",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_portfish",
@@ -21049,7 +21054,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "ach_stranger",
@@ -21073,7 +21078,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7176
+      "UsersEstimate": 7177
     },
     {
       "ID": "ach_terror100",
@@ -21152,15 +21157,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39869,
+      "Progressed": 39870,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:08:34.9268303+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:09:06.199975+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:23.0924358+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:00:59.4058322+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:08:34.9270587+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:03:02.7344528+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:09:06.2001477+00:00"
 }

@@ -10,8 +10,8 @@
 | Recruit | 70.00% | ~636 |
 | Search and Rescue | 70.00% | ~636 |
 | Quarian Ally | 66.00% | ~600 |
+| Medal of Heroism | 64.00% | ~582 |
 | Honorarium of Corporate Service | 64.00% | ~582 |
-| Medal of Heroism | 63.00% | ~573 |
 | Council Legion of Merit | 58.00% | ~527 |
 | Medal of Honor | 56.00% | ~509 |
 | Meritorious Service Medal | 56.00% | ~509 |
@@ -46,10 +46,10 @@
 | Completionist | 35.00% | ~318 |
 | The Quarian | 35.00% | ~318 |
 | Broke, Blind, and Bedlam | 35.00% | ~318 |
+| A Personal Touch | 34.00% | ~309 |
 | The Assassin | 34.00% | ~309 |
 | The Justicar | 34.00% | ~309 |
 | The Prodigal | 34.00% | ~309 |
-| A Personal Touch | 33.00% | ~300 |
 | Battlemaster | 33.00% | ~300 |
 | Catharsis | 33.00% | ~300 |
 | Ghost of the Father | 33.00% | ~300 |

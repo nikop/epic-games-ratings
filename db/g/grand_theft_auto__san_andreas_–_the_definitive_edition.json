@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13364,
+  "EOS_Progressed": 13367,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13623,6 +13623,11 @@
       "Time": "2023-11-02T10:07:16.6724331+00:00",
       "NumProgressed": 13364,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-02T11:07:18.4670134+00:00",
+      "NumProgressed": 13367,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13634,7 +13639,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10958
+      "UsersEstimate": 10961
     },
     {
       "ID": "ACH02",
@@ -13642,7 +13647,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH03",
@@ -13690,7 +13695,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6816
+      "UsersEstimate": 6817
     },
     {
       "ID": "ACH09",
@@ -13714,7 +13719,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH12",
@@ -13730,7 +13735,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "ACH14",
@@ -13858,7 +13863,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "ACH30",
@@ -13913,7 +13918,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13364,
+      "Progressed": 13367,
       "Completed": 50
     }
   ],
@@ -13921,8 +13926,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:07:16.672432+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:07:18.4670124+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:00:36.5478655+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:07:16.6725452+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:00:41.0237678+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:07:18.4671164+00:00"
 }

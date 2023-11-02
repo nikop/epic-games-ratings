@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 796,
+  "EOS_Progressed": 797,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
@@ -2477,6 +2477,11 @@
       "Time": "2023-11-02T05:09:23.9034615+00:00",
       "NumProgressed": 796,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-02T11:09:38.9350484+00:00",
+      "NumProgressed": 797,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2487,9 +2492,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 231
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2497,7 +2502,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "_03_FinishAct1",
@@ -2545,7 +2550,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "_09_Completion_20",
@@ -2615,9 +2620,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 327
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2673,7 +2678,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2696,7 +2701,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 796,
+      "Progressed": 797,
       "Completed": 27
     }
   ],
@@ -2704,8 +2709,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-02T10:09:06.9323605+00:00",
+  "LastChanged_Achievements": "2023-11-02T11:09:38.9350476+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:59:26.8196426+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:09:06.9323952+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:59:29.5032085+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:09:38.9350829+00:00"
 }

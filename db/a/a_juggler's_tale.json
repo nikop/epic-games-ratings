@@ -4,7 +4,7 @@
   "ProductSlug": "a-jugglers-tale",
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-27T11:29:18+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.1585707+00:00",
   "LastChanged": "2023-03-31T05:58:47.1585708+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.9314019+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:59:01.937716+00:00",
-  "LastUpdate_Achievements": "2023-11-02T10:03:03.3982841+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:59:04.5501278+00:00",
+  "LastUpdate_Achievements": "2023-11-02T11:03:38.6477751+00:00"
 }
