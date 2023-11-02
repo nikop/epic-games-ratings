@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,775 |
-| Advancement | 5.00% | ~1,479 |
-| Discovery | 4.00% | ~1,183 |
-| Meticulously Efficient | 4.00% | ~1,183 |
-| Solo Capture | 4.00% | ~1,183 |
-| Clutch Capture | 3.00% | ~887 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~887 |
-| Cultured | 3.00% | ~887 |
-| Fully Upgraded | 3.00% | ~887 |
-| Swift Rift Removers | 3.00% | ~887 |
-| Teamwork | 3.00% | ~887 |
-| There you are! | 3.00% | ~887 |
-| Vaporous Expansion | 3.00% | ~887 |
-| Whoopsie | 3.00% | ~887 |
+| Stylish | 6.00% | ~1,776 |
+| Advancement | 5.00% | ~1,480 |
+| Discovery | 4.00% | ~1,184 |
+| Meticulously Efficient | 4.00% | ~1,184 |
+| Solo Capture | 4.00% | ~1,184 |
+| Clutch Capture | 3.00% | ~888 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~888 |
+| Cultured | 3.00% | ~888 |
+| Fully Upgraded | 3.00% | ~888 |
+| Swift Rift Removers | 3.00% | ~888 |
+| Teamwork | 3.00% | ~888 |
+| There you are! | 3.00% | ~888 |
+| Vaporous Expansion | 3.00% | ~888 |
+| Whoopsie | 3.00% | ~888 |
 | Animated | 2.00% | ~592 |
 | Back Off | 2.00% | ~592 |
 | We have the best insurance | 2.00% | ~592 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,580 (Ranked 121)  
+Progressed: 29,602 (Ranked 121)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
-| 2023-11-02 | 29,580 | 65 |
+| 2023-11-02 | 29,602 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
-Sum: 2,657 (Ranked 180)  
+Sum: 2,659 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -264,12 +264,12 @@ Diff (max vs sum): 64
 | This game is Great for Quick Sessions | 291 |
 | This game has Diverse Characters | 271 |
 | This game has Amazing Storytelling | 268 |
-| This game is Highly Recommended | 264 |
+| This game is Highly Recommended | 265 |
 | This game has Competitive Players | 262 |
 | This game is Extremely Fun | 259 |
 | This game is Relaxing | 258 |
 | This game has Quickly Understood Controls | 245 |
-| This game has Amazing Characters | 241 |
+| This game has Amazing Characters | 242 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -474,3 +474,4 @@ Diff (max vs sum): 64
 | 2023-10-30 | 4.50 | 297 | 2,620 |
 | 2023-10-31 | 4.50 | 298 | 2,637 |
 | 2023-11-01 | 4.50 | 298 | 2,657 |
+| 2023-11-02 | 4.50 | 298 | 2,659 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4200,
+  "EOS_Progressed": 4201,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7229,6 +7229,11 @@
       "Time": "2023-11-01T15:06:16.611396+00:00",
       "NumProgressed": 4200,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-02T01:48:51.8505063+00:00",
+      "NumProgressed": 4201,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7254,17 +7259,17 @@
       "ID": "Ach003",
       "SetID": "12n4k20",
       "Name": "This will cost you big time",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 420
     },
     {
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 336
     },
     {
       "ID": "Ach005",
@@ -7310,9 +7315,9 @@
       "ID": "Ach010",
       "SetID": "12n4k20",
       "Name": "I think I deserve some praise, here!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 42
     },
     {
       "ID": "Ach011",
@@ -7807,13 +7812,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4200,
+      "Progressed": 4201,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2721,
+      "Progressed": 2722,
       "Completed": 1930
     }
   ],
@@ -7821,8 +7826,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:06:08.3207685+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:48:51.850506+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:07.0872325+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:42.1996402+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:06:08.3208883+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:42:26.3051443+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:48:51.8505981+00:00"
 }

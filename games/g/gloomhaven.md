@@ -6,34 +6,34 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,625 |
-| Overkill | 35.00% | ~6,206 |
-| Vaccine Incoming | 33.00% | ~5,852 |
-| A normal day in Gloomhaven | 33.00% | ~5,852 |
-| Spread the plague | 30.00% | ~5,320 |
-| Get over here! | 25.00% | ~4,433 |
-| Just when I thought I was out... | 19.00% | ~3,369 |
-| Precious! | 17.00% | ~3,014 |
-| Mine... All Mine... | 17.00% | ~3,014 |
-| Light of my life | 15.00% | ~2,660 |
-| Anatomy Lesson | 15.00% | ~2,660 |
-| Grizzled veteran | 14.00% | ~2,482 |
-| You activated my trap card! | 13.00% | ~2,305 |
-| Obstacle race | 13.00% | ~2,305 |
-| Augmented rat | 12.00% | ~2,128 |
-| Doom and gloom | 11.00% | ~1,951 |
-| Who's the Boss? | 10.00% | ~1,773 |
+| I'm not dead yet | 43.00% | ~7,629 |
+| Overkill | 35.00% | ~6,210 |
+| Vaccine Incoming | 33.00% | ~5,855 |
+| A normal day in Gloomhaven | 33.00% | ~5,855 |
+| Spread the plague | 30.00% | ~5,323 |
+| Get over here! | 25.00% | ~4,436 |
+| Just when I thought I was out... | 19.00% | ~3,371 |
+| Precious! | 17.00% | ~3,016 |
+| Mine... All Mine... | 17.00% | ~3,016 |
+| Light of my life | 15.00% | ~2,661 |
+| Anatomy Lesson | 15.00% | ~2,661 |
+| Grizzled veteran | 14.00% | ~2,484 |
+| You activated my trap card! | 13.00% | ~2,306 |
+| Obstacle race | 13.00% | ~2,306 |
+| Augmented rat | 12.00% | ~2,129 |
+| Doom and gloom | 11.00% | ~1,952 |
+| Who's the Boss? | 10.00% | ~1,774 |
 | Dungeon Veteran | 8.00% | ~1,419 |
 | Pack leader | 8.00% | ~1,419 |
 | Pain is your friend | 8.00% | ~1,419 |
 | Black death | 8.00% | ~1,419 |
 | Play it again, Sam | 8.00% | ~1,419 |
-| Quad damage | 6.00% | ~1,064 |
+| Quad damage | 6.00% | ~1,065 |
 | Power Up! | 5.00% | ~887 |
 | The Pro from Dover | 5.00% | ~887 |
 | Pretty lights! | 5.00% | ~887 |
 | Now you see me... | 5.00% | ~887 |
-| Caught off guard | 4.00% | ~709 |
+| Caught off guard | 4.00% | ~710 |
 | I hate portals | 3.00% | ~532 |
 | Merchant of doom | 3.00% | ~532 |
 | An eye for an eye | 3.00% | ~532 |
@@ -59,16 +59,16 @@ Number of Ratings: 68  (23.09.2022)
 | Pull out the big guns | 0.30% | ~53 |
 | Crimson Tornado | 0.30% | ~53 |
 | The Cartographer | 0.20% | ~35 |
+| Beware my power | 0.20% | ~35 |
 | The Jaws of victory! | 0.20% | ~35 |
 | Murder Death Kill | 0.20% | ~35 |
 | A cult following | 0.10% | ~18 |
 | Over your dead body | 0.10% | ~18 |
 | The Guildmaster | 0.10% | ~18 |
 | Lara Who? | 0.10% | ~18 |
-| Beware my power | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,732 (Ranked 135)  
+Progressed: 17,742 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,15 +118,15 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
 | 2023-11-01 | 17,722 | 1 |
-| 2023-11-02 | 17,732 | 1 |
+| 2023-11-02 | 17,742 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
-Sum: 8,328 (Ranked 98)  
+Sum: 8,329 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,565 |
-| This game has Diverse Characters | 594 |
+| This game has Diverse Characters | 595 |
 | This game has Challenging Combat | 549 |
 | This game is Highly Recommended | 542 |
 | This game is Extremely Fun | 540 |
@@ -347,3 +347,4 @@ Diff (max vs sum): -8
 | 2023-10-29 | 4.47 | - | 3,563 | 8,323 |
 | 2023-10-31 | 4.47 | - | 3,565 | 8,327 |
 | 2023-11-01 | 4.47 | - | 3,565 | 8,328 |
+| 2023-11-02 | 4.47 | - | 3,565 | 8,329 |

@@ -21,11 +21,11 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 7.00% | ~214 |
 | Fashionista | 7.00% | ~214 |
 | Finally he zips it | 7.00% | ~214 |
+| G'Day Mate! | 7.00% | ~214 |
 | That pinch! | 7.00% | ~214 |
 | Tight lipslides | 7.00% | ~214 |
 | Commence the Hijinx! | 6.00% | ~183 |
 | Fulfilled the dream | 6.00% | ~183 |
-| G'Day Mate! | 6.00% | ~183 |
 | NAHELL! | 6.00% | ~183 |
 | Purple passion | 6.00% | ~183 |
 | Squad goals | 6.00% | ~183 |

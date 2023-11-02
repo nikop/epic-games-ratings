@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 794,
+  "EOS_Progressed": 795,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
@@ -2467,6 +2467,11 @@
       "Time": "2023-11-01T17:08:51.7199469+00:00",
       "NumProgressed": 794,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-02T01:51:37.6161212+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2477,9 +2482,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 230
+      "UsersEstimate": 238
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2487,7 +2492,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "_03_FinishAct1",
@@ -2519,7 +2524,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "_07_FinishAct3",
@@ -2535,7 +2540,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "_09_Completion_20",
@@ -2599,7 +2604,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2647,7 +2652,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2655,7 +2660,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -2686,7 +2691,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 794,
+      "Progressed": 795,
       "Completed": 27
     }
   ],
@@ -2694,8 +2699,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:09:17.5645625+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:51:37.6161209+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:24.4959139+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:09:17.5645966+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:42:07.9895374+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:51:37.6161476+00:00"
 }

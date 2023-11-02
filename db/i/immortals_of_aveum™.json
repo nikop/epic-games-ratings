@@ -6,9 +6,9 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -657,6 +657,11 @@
       "Time": "2023-11-01T22:03:09.9275139+00:00",
       "NumProgressed": 123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T01:45:47.3649769+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -667,7 +672,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
       "UsersEstimate": 112
     },
@@ -675,9 +680,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_11",
@@ -699,9 +704,9 @@
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_14",
@@ -717,7 +722,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_16",
@@ -725,7 +730,7 @@
       "Name": "Recruit",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_17",
@@ -755,7 +760,7 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 109
     },
@@ -811,7 +816,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 15,
       "UsersEstimate": 103
     },
@@ -835,9 +840,9 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_4",
@@ -851,17 +856,17 @@
       "ID": "achievement_41",
       "SetID": "18al4io",
       "Name": "Armaments Azure",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_43",
@@ -883,9 +888,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_46",
@@ -899,7 +904,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 107
     },
@@ -907,15 +912,15 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
       "UsersEstimate": 76
     },
@@ -963,9 +968,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_60",
@@ -1011,9 +1016,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_7",
@@ -1027,24 +1032,24 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 1
     }
   ],
@@ -1052,8 +1057,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:03:09.162428+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:45:47.3649764+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:11.2521323+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:03:09.1624782+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:41:51.2834895+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:45:47.3650182+00:00"
 }

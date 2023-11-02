@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -927,10 +927,10 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65448,
+  "EOS_Progressed": 65456,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 793,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 789,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -7542,6 +7542,11 @@
       "Time": "2023-11-02T00:05:16.4394271+00:00",
       "NumProgressed": 65448,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-02T01:47:51.7752862+00:00",
+      "NumProgressed": 65456,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7554,7 +7559,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21598
+      "UsersEstimate": 21600
     },
     {
       "ID": "10",
@@ -7562,7 +7567,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "11",
@@ -7570,7 +7575,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "12",
@@ -7578,7 +7583,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "13",
@@ -7618,7 +7623,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11126
+      "UsersEstimate": 11128
     },
     {
       "ID": "3",
@@ -7626,7 +7631,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8508
+      "UsersEstimate": 8509
     },
     {
       "ID": "4",
@@ -7634,7 +7639,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     },
     {
       "ID": "5",
@@ -7681,7 +7686,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65448,
+      "Progressed": 65456,
       "Completed": 27
     }
   ],
@@ -7689,8 +7694,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-01T16:58:50.1534037+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:05:16.4394266+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:47:51.7752858+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:10.9184288+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:14.8339327+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:05:16.4394803+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:41:55.866663+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:47:51.7753273+00:00"
 }

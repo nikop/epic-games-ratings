@@ -11,8 +11,8 @@
 | Green Ticket Roundup | 19.00% | ~492 |
 | Arranging Boxes | 15.00% | ~388 |
 | Jakob | 14.00% | ~363 |
+| Le Juif et la France | 14.00% | ~363 |
 | Jude | 13.00% | ~337 |
-| Le Juif et la France | 13.00% | ~337 |
 | Bernard | 12.00% | ~311 |
 | Nuremberg Laws | 12.00% | ~311 |
 | May Their Memories be a Blessing | 9.00% | ~233 |

@@ -85,6 +85,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Attrition Mission | 0.70% | ~969 |
 | Glittering Collection | 0.70% | ~969 |
 | Moment of Respite | 0.70% | ~969 |
+| King's Shadow | 0.70% | ~969 |
 | Master Recycler | 0.70% | ~969 |
 | Exotic Commodities | 0.70% | ~969 |
 | King's Blade | 0.70% | ~969 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.60% | ~831 |
 | Precision Engineering | 0.60% | ~831 |
 | Treasure Trove | 0.60% | ~831 |
-| King's Shadow | 0.60% | ~831 |
 | Economy of Scarce | 0.60% | ~831 |
 | Jackpot! | 0.50% | ~692 |
 | The Free Encyclopedia | 0.40% | ~554 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,446 (Ranked 77)  
+Progressed: 138,448 (Ranked 77)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-30 | 138,369 | 176 |
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
+| 2023-11-02 | 138,448 | 178 |
 ## Awards
 Max (Great for Beginners): 4,814  (Ranked 74)  
 Sum: 27,482 (Ranked 51)  

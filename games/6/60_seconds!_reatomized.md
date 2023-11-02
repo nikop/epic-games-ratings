@@ -5,21 +5,21 @@ Rating: 4.60 (Ranked 406)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,114 |
-| All thumbs | 92.00% | ~5,059 |
-| I will survive! | 92.00% | ~5,059 |
-| Home, sweet home | 91.00% | ~5,004 |
-| Survivalist | 90.00% | ~4,949 |
-| One way ticket | 85.00% | ~4,674 |
-| Last man standing | 80.00% | ~4,399 |
-| Family guy | 77.00% | ~4,234 |
-| Out of the Bag | 75.00% | ~4,124 |
-| The Dark Side | 70.00% | ~3,849 |
-| Souper! | 65.00% | ~3,574 |
-| Duck and cover! | 65.00% | ~3,574 |
-| Pacifist | 59.00% | ~3,244 |
-| 2-1-6 | 58.00% | ~3,189 |
-| A gift | 54.00% | ~2,969 |
+| Prepper | 93.00% | ~5,116 |
+| All thumbs | 92.00% | ~5,061 |
+| I will survive! | 92.00% | ~5,061 |
+| Home, sweet home | 91.00% | ~5,006 |
+| Survivalist | 90.00% | ~4,951 |
+| One way ticket | 85.00% | ~4,676 |
+| Last man standing | 80.00% | ~4,401 |
+| Family guy | 77.00% | ~4,236 |
+| Out of the Bag | 75.00% | ~4,126 |
+| The Dark Side | 70.00% | ~3,851 |
+| Souper! | 65.00% | ~3,576 |
+| Duck and cover! | 65.00% | ~3,576 |
+| Pacifist | 59.00% | ~3,246 |
+| 2-1-6 | 58.00% | ~3,191 |
+| A gift | 54.00% | ~2,971 |
 | Girl Power | 48.00% | ~2,640 |
 | What goes around... | 44.00% | ~2,420 |
 | Be Prepared | 38.00% | ~2,090 |
@@ -35,8 +35,8 @@ Rating: 4.60 (Ranked 406)
 | A New Hope | 16.00% | ~880 |
 | Enigma | 16.00% | ~880 |
 | Challenger | 13.00% | ~715 |
+| Men in Black | 13.00% | ~715 |
 | No stone unturned | 12.00% | ~660 |
-| Men in Black | 12.00% | ~660 |
 | Unplugged | 8.00% | ~440 |
 | Holidays! | 7.00% | ~385 |
 | Mad Hatter | 7.00% | ~385 |
@@ -56,17 +56,17 @@ Rating: 4.60 (Ranked 406)
 | Cuckoo's nest | 1.00% | ~55 |
 | Raining Cats and Dogs | 1.00% | ~55 |
 | Konrad style! | 1.00% | ~55 |
-| Bughunter | 0.90% | ~49 |
-| Cat Lady | 0.90% | ~49 |
-| Pro gamer | 0.70% | ~38 |
+| Bughunter | 0.90% | ~50 |
+| Cat Lady | 0.90% | ~50 |
+| Pro gamer | 0.70% | ~39 |
 | Naysayer | 0.60% | ~33 |
 | Manhattan Project | 0.60% | ~33 |
 | Fair Exchange | 0.40% | ~22 |
-| Miracle | 0.30% | ~16 |
+| Miracle | 0.30% | ~17 |
 | Tora! Tora! Tora! | 0.20% | ~11 |
-| Dead Hand | 0.10% | ~5 |
+| Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,499 (Ranked 180)  
+Progressed: 5,501 (Ranked 180)  
 Completed: 1 (0.02%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 1 (0.02%) (Ranked 310)
 | 2023-10-30 | 5,491 | 1 |
 | 2023-10-31 | 5,492 | 1 |
 | 2023-11-01 | 5,499 | 1 |
+| 2023-11-02 | 5,501 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

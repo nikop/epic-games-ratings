@@ -13,15 +13,15 @@ Rating: 4.86 (Ranked 28)
 | Thanks for the free chip, Peppermint! | 13.00% | ~546 |
 | You got this, Peppermint? | 12.00% | ~504 |
 | Perfect Parry | 12.00% | ~504 |
-| This will cost you big time | 11.00% | ~462 |
 | Alright, that felt AWESOME! | 11.00% | ~462 |
+| This will cost you big time | 10.00% | ~420 |
 | I play my own way! | 10.00% | ~420 |
 | Z-shielding's got nothing on us! | 10.00% | ~420 |
 | Uh, they were broken when I got here | 10.00% | ~420 |
 | Kissing the sky! | 10.00% | ~420 |
-| The Negotiator | 9.00% | ~378 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~378 |
 | I look cool. But I can look COOLER. | 9.00% | ~378 |
+| The Negotiator | 8.00% | ~336 |
 | Headliner | 8.00% | ~336 |
 | Time to pay up! | 8.00% | ~336 |
 | Who's the boss now? | 8.00% | ~336 |
@@ -37,13 +37,13 @@ Rating: 4.86 (Ranked 28)
 | Beat-hit mania | 4.00% | ~168 |
 | Chip-tuned | 3.00% | ~126 |
 | Wanna hear my playlist? | 3.00% | ~126 |
-| I think I deserve some praise, here! | 2.00% | ~84 |
 | I think I found your calling, Macaron | 2.00% | ~84 |
 | We're Jammin' | 2.00% | ~84 |
 | I hit things with a guitar really well. | 2.00% | ~84 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~84 |
 | Check out my moves! | 2.00% | ~84 |
 | Call me Turbo Chai | 2.00% | ~54 |
+| I think I deserve some praise, here! | 1.00% | ~42 |
 | This is a breeze! | 1.00% | ~42 |
 | I'm not done with you yet | 1.00% | ~42 |
 | First we parry, then we counter | 1.00% | ~42 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 28)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,200 (Ranked 186)  
+Progressed: 4,201 (Ranked 186)  
 Completed: 8 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 8 (0.19%) (Ranked 242)
 | 2023-10-29 | 4,193 | 8 |
 | 2023-10-31 | 4,196 | 8 |
 | 2023-11-01 | 4,200 | 8 |
+| 2023-11-02 | 4,201 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

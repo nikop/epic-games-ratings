@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~72 |
-| Fire in the... nevermind | 53.00% | ~72 |
-| Haute cuisine | 49.00% | ~67 |
-| Demolition expert | 40.00% | ~54 |
-| I didn't do it! | 40.00% | ~54 |
-| Wooooooow! | 38.00% | ~52 |
+| Chapter I | 53.00% | ~73 |
+| Fire in the... nevermind | 53.00% | ~73 |
+| Haute cuisine | 48.00% | ~66 |
+| Demolition expert | 40.00% | ~55 |
+| I didn't do it! | 40.00% | ~55 |
+| Wooooooow! | 37.00% | ~51 |
 | Open up wide | 36.00% | ~49 |
 | Keep away from children | 36.00% | ~49 |
-| Artistic fool | 35.00% | ~48 |
-| Let the boot talk | 32.00% | ~44 |
+| Artistic fool | 34.00% | ~47 |
+| Let the boot talk | 31.00% | ~42 |
 | Chapter II | 27.00% | ~37 |
-| Shadow on the wall | 25.00% | ~34 |
+| Shadow on the wall | 26.00% | ~36 |
 | Handyman | 24.00% | ~33 |
 | Achoo!! | 24.00% | ~33 |
-| Chapter III | 24.00% | ~33 |
-| Like a moth in the Wind | 24.00% | ~33 |
-| Bubblekillerfamily | 23.00% | ~31 |
+| Bubblekillerfamily | 23.00% | ~32 |
+| Chapter III | 23.00% | ~32 |
+| Like a moth in the Wind | 23.00% | ~32 |
 | Quite a buggy game | 21.00% | ~29 |
-| Mirror mirror on the wall... | 21.00% | ~29 |
 | Pacifist | 20.00% | ~27 |
+| Mirror mirror on the wall... | 20.00% | ~27 |
 | Fastidious Clown | 19.00% | ~26 |
-| It's not easy being green! | 18.00% | ~24 |
-| Home is where the heart is | 18.00% | ~24 |
-| Death is a part of life | 15.00% | ~20 |
+| It's not easy being green! | 18.00% | ~25 |
+| Home is where the heart is | 18.00% | ~25 |
+| Death is a part of life | 15.00% | ~21 |
 | Master of Thermodynamics | 14.00% | ~19 |
-| To err is human... | 13.00% | ~18 |
-| Unfullfilled dreams | 13.00% | ~18 |
-| Useless but beautiful | 10.00% | ~14 |
-| Nothing can stop me | 10.00% | ~14 |
-| Mumbo Jumbo | 10.00% | ~14 |
+| To err is human... | 12.00% | ~16 |
+| Unfullfilled dreams | 12.00% | ~16 |
+| Useless but beautiful | 9.00% | ~12 |
+| Nothing can stop me | 9.00% | ~12 |
+| Mumbo Jumbo | 9.00% | ~12 |
 | Lollipop | 8.00% | ~11 |
 | It's nothing personal | 8.00% | ~11 |
 | Where there is life, there is hope | 7.00% | ~10 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136 (Ranked 383)  
+Progressed: 137 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,6 +93,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-13 | 133 | 0 |
 | 2023-10-16 | 134 | 0 |
 | 2023-10-19 | 136 | 0 |
+| 2023-11-02 | 137 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

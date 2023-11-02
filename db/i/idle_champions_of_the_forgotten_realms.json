@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7753,10 +7753,10 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233410,
+  "EOS_Progressed": 233414,
   "EOS_Completed": 2418,
   "EOS_NewPlayers": 593,
-  "EOS_NewCompleters": 31,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -29598,6 +29598,11 @@
       "Time": "2023-11-02T00:07:21.6527068+00:00",
       "NumProgressed": 233410,
       "NumCompleted": 2418
+    },
+    {
+      "Time": "2023-11-02T01:50:21.7800484+00:00",
+      "NumProgressed": 233414,
+      "NumCompleted": 2418
     }
   ],
   "TotalAchievements": 528,
@@ -30199,9 +30204,9 @@
       "ID": "objective_completed_1147",
       "SetID": "415jc5c",
       "Name": "The Howling Peaks of Yon",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 399
     },
     {
       "ID": "objective_completed_1148",
@@ -31975,9 +31980,9 @@
       "ID": "objective_completed_571",
       "SetID": "cc37lbc",
       "Name": "Troublesome Prisoner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_572",
@@ -32767,9 +32772,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_72",
@@ -33832,21 +33837,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199684,
-      "Completed": 3732
+      "Progressed": 199688,
+      "Completed": 3733
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233410,
+      "Progressed": 233414,
       "Completed": 2418
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T23:58:51.8420585+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:07:21.6527059+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:50:21.780048+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:58:51.8420592+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:07:21.6557018+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:41:35.0736209+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:50:21.7825786+00:00"
 }

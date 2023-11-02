@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -581,7 +581,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13657,
+  "EOS_Progressed": 13658,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -10496,6 +10496,11 @@
       "Time": "2023-11-01T23:06:00.0278285+00:00",
       "NumProgressed": 13657,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T01:49:08.6195829+00:00",
+      "NumProgressed": 13658,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -10507,7 +10512,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12564
+      "UsersEstimate": 12565
     },
     {
       "ID": "ACH_02",
@@ -10515,7 +10520,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10789
+      "UsersEstimate": 10790
     },
     {
       "ID": "ACH_03",
@@ -10523,7 +10528,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10106
+      "UsersEstimate": 10107
     },
     {
       "ID": "ACH_04",
@@ -10531,7 +10536,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9696
+      "UsersEstimate": 9697
     },
     {
       "ID": "ACH_05",
@@ -10539,7 +10544,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "ACH_06",
@@ -10555,7 +10560,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8604
+      "UsersEstimate": 8605
     },
     {
       "ID": "ACH_08",
@@ -10571,7 +10576,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7921
+      "UsersEstimate": 7922
     },
     {
       "ID": "ACH_10",
@@ -10579,7 +10584,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7238
+      "UsersEstimate": 7239
     },
     {
       "ID": "ACH_11",
@@ -10619,7 +10624,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4643
+      "UsersEstimate": 4644
     },
     {
       "ID": "ACH_16",
@@ -10683,7 +10688,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "ACH_24",
@@ -10691,7 +10696,7 @@
       "Name": "Handful of pockets",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACH_25",
@@ -10715,7 +10720,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "ACH_28",
@@ -10723,7 +10728,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "ACH_29",
@@ -10786,7 +10791,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13657,
+      "Progressed": 13658,
       "Completed": 51
     }
   ],
@@ -10794,8 +10799,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-01T07:02:43.4251835+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:06:22.7484475+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:49:08.6195821+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.0645994+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:57:17.7080719+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:06:22.7485413+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:39:37.9472499+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:49:08.6196504+00:00"
 }

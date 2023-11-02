@@ -9,7 +9,7 @@ Number of Ratings: 71  (23.09.2022)
 | "Nice" to meet you | 77.00% | ~1,214 |
 | Freeze to death | 56.00% | ~883 |
 | Is she really dead? | 46.00% | ~725 |
-| Screwdriver | 44.00% | ~694 |
+| Screwdriver | 45.00% | ~710 |
 | Cutepie | 42.00% | ~662 |
 | Someone was here | 42.00% | ~662 |
 | Ghost Hunters | 41.00% | ~647 |

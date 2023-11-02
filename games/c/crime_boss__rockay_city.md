@@ -31,7 +31,7 @@ Rating: 3.94 (Ranked 999)
 | Foo Finder | 0.30% | ~268 |
 | Olympus Ascended | 0.30% | ~268 |
 | Ding Dong | 0.30% | ~268 |
-| All that Glitters | 0.30% | ~53 |
+| All that Glitters | 0.30% | ~54 |
 | Rockay Raider | 0.20% | ~179 |
 | Rockay Knight | 0.20% | ~179 |
 | Groundhog Days | 0.20% | ~179 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 999)
 | One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,485 (Ranked 90)  
+Progressed: 89,487 (Ranked 90)  
 Completed: 53 (0.06%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 53 (0.06%) (Ranked 287)
 | 2023-10-30 | 89,446 | 53 |
 | 2023-10-31 | 89,464 | 53 |
 | 2023-11-01 | 89,485 | 53 |
+| 2023-11-02 | 89,487 | 53 |
 ## Awards
 Max (Diverse Characters): 518  (Ranked 204)  
 Sum: 2,922 (Ranked 175)  

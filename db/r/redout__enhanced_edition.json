@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234742,
+  "EOS_Progressed": 234743,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20892,6 +20892,11 @@
       "Time": "2023-11-02T00:04:19.2802699+00:00",
       "NumProgressed": 234742,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-02T01:47:09.0660846+00:00",
+      "NumProgressed": 234743,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -20991,7 +20996,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46948
+      "UsersEstimate": 46949
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -21167,22 +21172,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96244
+      "UsersEstimate": 96245
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234742,
+      "Progressed": 234743,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:04:19.2802694+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:47:09.0660843+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.1893781+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:27.9893572+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:04:19.2804269+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:42:10.5762767+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:47:09.066201+00:00"
 }

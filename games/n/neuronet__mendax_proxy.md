@@ -46,9 +46,9 @@
 | The Spice of Life | 15.00% | ~4 |
 | The Mentor | 12.00% | ~3 |
 | What They Don't Know Can't Hurt Them | 12.00% | ~3 |
+| Keeper of the People | 8.00% | ~2 |
 | Wilful Ignorance | 8.00% | ~2 |
 | Double Agent | 4.00% | ~1 |
-| Keeper of the People | 4.00% | ~1 |
 | The Archetype | 0.00% | ~0 |
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |

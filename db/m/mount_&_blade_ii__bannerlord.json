@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8418,9 +8418,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64307,
+  "EOS_Progressed": 64309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29058,6 +29058,11 @@
       "Time": "2023-11-02T00:08:53.9264633+00:00",
       "NumProgressed": 64307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T01:51:09.9543817+00:00",
+      "NumProgressed": 64309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29261,7 +29266,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10932
+      "UsersEstimate": 10933
     },
     {
       "ID": "Kingslayer",
@@ -29277,7 +29282,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4501
+      "UsersEstimate": 4502
     },
     {
       "ID": "Lance-a-lot",
@@ -29293,7 +29298,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21221
+      "UsersEstimate": 21222
     },
     {
       "ID": "Lawbringer",
@@ -29301,7 +29306,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25080
+      "UsersEstimate": 25081
     },
     {
       "ID": "Lawmaker",
@@ -29325,7 +29330,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4501
+      "UsersEstimate": 4502
     },
     {
       "ID": "Minor Clan",
@@ -29421,7 +29426,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12218
+      "UsersEstimate": 12219
     },
     {
       "ID": "This Is Our Land",
@@ -29476,15 +29481,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64307,
+      "Progressed": 64309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-01T22:58:35.7910039+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:08:53.9264627+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:51:09.9543812+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:00.9740882+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:08:53.9266422+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:41:39.2180726+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:51:09.9545123+00:00"
 }

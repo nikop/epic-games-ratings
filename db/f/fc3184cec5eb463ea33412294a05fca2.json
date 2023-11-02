@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1342,9 +1342,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 95,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1358,9 +1358,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
@@ -1373,8 +1373,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:05:29.6356672+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:48:07.3708061+00:00",
   "LastUpdate_AppInfo": "2023-10-28T23:57:00.7114615+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:37.9426146+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:05:29.6356873+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:42:21.6758318+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:48:07.3708253+00:00"
 }

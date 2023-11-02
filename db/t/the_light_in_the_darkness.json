@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -6976,9 +6976,9 @@
       "ID": "Le Juif et la France",
       "SetID": "b40dflc",
       "Name": "Le Juif et la France",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 337
+      "UsersEstimate": 363
     },
     {
       "ID": "Little Helper",
@@ -7025,8 +7025,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:09:05.9007032+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:51:24.2406256+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2761666+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:40.4289864+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:09:05.9007515+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:42:24.9798883+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:51:24.240664+00:00"
 }

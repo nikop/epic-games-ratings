@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -1088,9 +1088,9 @@
       "ID": "8",
       "SetID": "4n5bj21",
       "Name": "I didn\u0027t know you where there!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 251
     },
     {
       "ID": "9",
@@ -1113,8 +1113,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:03:03.7557092+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:45:41.0483471+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:18.4858625+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:52.2437416+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:03:03.7557489+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:42:40.3386261+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:45:41.0483764+00:00"
 }

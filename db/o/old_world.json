@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1970,7 +1970,7 @@
   ],
   "EOS_Progressed": 15092,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16073,9 +16073,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -17967,8 +17967,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-01T18:58:59.8252859+00:00",
-  "LastChanged_Achievements": "2023-11-02T00:03:34.9956308+00:00",
+  "LastChanged_Achievements": "2023-11-02T01:46:17.5805588+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:59:07.8245568+00:00",
-  "LastUpdate_Achievements": "2023-11-02T00:03:34.9968001+00:00"
+  "LastUpdate_Ratings": "2023-11-02T01:41:46.9285786+00:00",
+  "LastUpdate_Achievements": "2023-11-02T01:46:17.5815496+00:00"
 }

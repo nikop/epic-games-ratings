@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Will of the Feywild | 0.20% | ~399 |
 | The Roots of Loomlurch | 0.20% | ~399 |
 | Best Laid Plans | 0.20% | ~399 |
+| The Howling Peaks of Yon | 0.20% | ~399 |
 | Overwhelmed with Knowledge | 0.20% | ~399 |
 | A Demi-god's Defender | 0.20% | ~399 |
 | Vecna Loots! | 0.20% | ~399 |
@@ -72,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~467 |
 | Slow and Steady | 0.20% | ~467 |
 | The Darkness Runs Deeper | 0.20% | ~467 |
+| Troublesome Prisoner | 0.20% | ~467 |
 | Dark Doppelgangers | 0.20% | ~467 |
 | Difficult Terrain | 0.20% | ~467 |
 | Running of the Saurs | 0.20% | ~467 |
@@ -87,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~399 |
 | Bel's Forge | 0.20% | ~399 |
 | Escort to Waterdeep | 0.20% | ~467 |
+| Constant Banditry | 0.20% | ~467 |
 | Waterdeep Detours | 0.20% | ~467 |
 | Rude Welcome | 0.20% | ~467 |
 | Underdeep Cartography | 0.20% | ~467 |
@@ -172,7 +175,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.10% | ~233 |
 | Pincushion Party | 0.10% | ~200 |
 | G. O. A. T. | 0.10% | ~200 |
-| The Howling Peaks of Yon | 0.10% | ~200 |
 | Strength of Character | 0.10% | ~200 |
 | The Invisible Wizards of Thay | 0.10% | ~200 |
 | Heavy Burden | 0.10% | ~233 |
@@ -350,7 +352,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~233 |
 | The Tallest of Kobolds | 0.10% | ~200 |
 | Patience is Key | 0.10% | ~233 |
-| Troublesome Prisoner | 0.10% | ~233 |
 | Faerûn's Most Wanted | 0.10% | ~200 |
 | Cold & Wet | 0.10% | ~233 |
 | Madcap Adventures | 0.10% | ~233 |
@@ -433,7 +434,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~200 |
 | Only Human | 0.10% | ~200 |
 | Close Escort | 0.10% | ~233 |
-| Constant Banditry | 0.10% | ~233 |
 | The Long Haul | 0.10% | ~233 |
 | Lost in the Deep | 0.10% | ~233 |
 | Easily Distracted | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,410 (Ranked 62)  
+Progressed: 233,414 (Ranked 62)  
 Completed: 2,418 (1.04%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,7 +731,7 @@ Completed: 2,418 (1.04%) (Ranked 155)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,410 | 2,418 |
+| 2023-11-02 | 233,414 | 2,418 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,297 (Ranked 41)  
