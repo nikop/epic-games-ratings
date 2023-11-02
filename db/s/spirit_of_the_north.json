@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 772,
+  "Ranking_Rating": 773,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 98,
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73026,
+  "EOS_Progressed": 73028,
   "EOS_Completed": 385,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -21838,6 +21838,11 @@
       "Time": "2023-11-01T23:08:40.0818334+00:00",
       "NumProgressed": 73026,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-11-02T00:08:33.4155304+00:00",
+      "NumProgressed": 73028,
+      "NumCompleted": 385
     }
   ],
   "TotalAchievements": 24,
@@ -21865,7 +21870,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49658
+      "UsersEstimate": 49659
     },
     {
       "ID": "BEST_FRIENDS",
@@ -21889,7 +21894,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15335
+      "UsersEstimate": 15336
     },
     {
       "ID": "FETCH",
@@ -21897,7 +21902,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20447
+      "UsersEstimate": 20448
     },
     {
       "ID": "FOXIN_AROUND",
@@ -21929,7 +21934,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38704
+      "UsersEstimate": 38705
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -21969,7 +21974,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6572
+      "UsersEstimate": 6573
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -21993,7 +21998,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15335
+      "UsersEstimate": 15336
     },
     {
       "ID": "SPIRIT_DASH",
@@ -22009,7 +22014,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12414
+      "UsersEstimate": 12415
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -22040,7 +22045,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73026,
+      "Progressed": 73028,
       "Completed": 385
     }
   ],
@@ -22048,8 +22053,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-01T23:08:40.0818328+00:00",
+  "LastChanged_Achievements": "2023-11-02T00:08:33.4155299+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:57:08.1871309+00:00",
-  "LastUpdate_Achievements": "2023-11-01T23:08:40.0819909+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:57:26.3426934+00:00",
+  "LastUpdate_Achievements": "2023-11-02T00:08:33.4156854+00:00"
 }

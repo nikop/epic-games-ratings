@@ -6,7 +6,7 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -7697,18 +7697,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32292,
       "NumberOfAwardsMax": 5465
+    },
+    {
+      "Time": "2023-11-01T23:58:51.8420587+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32297,
+      "NumberOfAwardsMax": 5470
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32292,
-  "NumberOfAwardsMax": 5465,
+  "NumberOfAwards": 32297,
+  "NumberOfAwardsMax": 5470,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5465
+      "Count": 5470
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7747,9 +7753,9 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233404,
+  "EOS_Progressed": 233410,
   "EOS_Completed": 2418,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29587,6 +29593,11 @@
       "Time": "2023-11-01T23:08:18.7452596+00:00",
       "NumProgressed": 233404,
       "NumCompleted": 2418
+    },
+    {
+      "Time": "2023-11-02T00:07:21.6527068+00:00",
+      "NumProgressed": 233410,
+      "NumCompleted": 2418
     }
   ],
   "TotalAchievements": 528,
@@ -30828,9 +30839,9 @@
       "ID": "objective_completed_17",
       "SetID": "cc37lbc",
       "Name": "March of the Undead",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_170",
@@ -31460,9 +31471,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 700
     },
     {
       "ID": "objective_completed_40",
@@ -33821,21 +33832,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199678,
+      "Progressed": 199684,
       "Completed": 3732
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233404,
+      "Progressed": 233410,
       "Completed": 2418
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-01T19:58:58.952511+00:00",
-  "LastChanged_Achievements": "2023-11-01T23:08:18.745259+00:00",
+  "LastChanged": "2023-11-01T23:58:51.8420585+00:00",
+  "LastChanged_Achievements": "2023-11-02T00:07:21.6527059+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:58:32.0160882+00:00",
-  "LastUpdate_Achievements": "2023-11-01T23:08:18.7480743+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:58:51.8420592+00:00",
+  "LastUpdate_Achievements": "2023-11-02T00:07:21.6557018+00:00"
 }

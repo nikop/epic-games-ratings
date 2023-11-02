@@ -7,10 +7,10 @@ Number of Ratings: 154  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~543 |
-| Newbie Hero | 80.00% | ~467 |
+| Newbie Hero | 81.00% | ~473 |
 | Welcome to Sonic CD | 71.00% | ~415 |
 | Welcome to Sonic 3 & Knuckles | 71.00% | ~415 |
-| Welcome to Sonic the Hedgehog 2 | 68.00% | ~397 |
+| Welcome to Sonic the Hedgehog 2 | 69.00% | ~403 |
 | Time Traveler | 66.00% | ~385 |
 | Ring Collector | 66.00% | ~385 |
 | Everyone's Hero | 62.00% | ~362 |
@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 12.00% | ~70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 584 (Ranked 280)  
-Completed: 44 (7.53%) (Ranked 49)  
+Completed: 44 (7.53%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

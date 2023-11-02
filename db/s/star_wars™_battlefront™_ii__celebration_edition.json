@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 12,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129946,
+  "EOS_Progressed": 130019,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 15314,
+  "EOS_NewPlayers": 15309,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4964,6 +4964,11 @@
       "Time": "2023-11-01T23:04:07.3213627+00:00",
       "NumProgressed": 129946,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-02T00:04:06.9586159+00:00",
+      "NumProgressed": 130019,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-09-21T18:08:11.0849905+00:00",
@@ -4976,7 +4981,7 @@
       "Name": "The Cleaner",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 88363
+      "UsersEstimate": 88413
     },
     {
       "ID": "achievement_10",
@@ -4984,7 +4989,7 @@
       "Name": "Cache Grab",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 53278
+      "UsersEstimate": 53308
     },
     {
       "ID": "achievement_11",
@@ -4992,7 +4997,7 @@
       "Name": "The Battle of Jakku",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 51978
+      "UsersEstimate": 52008
     },
     {
       "ID": "achievement_12",
@@ -5000,7 +5005,7 @@
       "Name": "Until Ashes",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 50679
+      "UsersEstimate": 50707
     },
     {
       "ID": "achievement_13",
@@ -5008,7 +5013,7 @@
       "Name": "Discoveries",
       "Percentage": 39,
       "XP": 65,
-      "UsersEstimate": 50679
+      "UsersEstimate": 50707
     },
     {
       "ID": "achievement_14",
@@ -5016,7 +5021,7 @@
       "Name": "Dark Forces",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 28588
+      "UsersEstimate": 28604
     },
     {
       "ID": "achievement_15",
@@ -5024,7 +5029,7 @@
       "Name": "Balance Point",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5201
     },
     {
       "ID": "achievement_16",
@@ -5032,7 +5037,7 @@
       "Name": "X-wing vs. TIE Fighter",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 36385
+      "UsersEstimate": 36405
     },
     {
       "ID": "achievement_17",
@@ -5040,7 +5045,7 @@
       "Name": "Master of Deception",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16902
     },
     {
       "ID": "achievement_18",
@@ -5048,7 +5053,7 @@
       "Name": "A Job Well Done",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 72770
+      "UsersEstimate": 72811
     },
     {
       "ID": "achievement_19",
@@ -5056,7 +5061,7 @@
       "Name": "Outbound Flight",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 48080
+      "UsersEstimate": 48107
     },
     {
       "ID": "achievement_2",
@@ -5064,7 +5069,7 @@
       "Name": "The Battle of Endor",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 77968
+      "UsersEstimate": 78011
     },
     {
       "ID": "achievement_20",
@@ -5072,7 +5077,7 @@
       "Name": "There Has Been An Awakening",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 64973
+      "UsersEstimate": 65010
     },
     {
       "ID": "achievement_21",
@@ -5080,7 +5085,7 @@
       "Name": "The Force is Strong With This One",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 25989
+      "UsersEstimate": 26004
     },
     {
       "ID": "achievement_22",
@@ -5088,7 +5093,7 @@
       "Name": "Not All Miss",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 16893
+      "UsersEstimate": 16902
     },
     {
       "ID": "achievement_23",
@@ -5096,7 +5101,7 @@
       "Name": "A Dominating Presence",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 32486
+      "UsersEstimate": 32505
     },
     {
       "ID": "achievement_24",
@@ -5104,7 +5109,7 @@
       "Name": "Sentry Mode Engaged",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 35085
+      "UsersEstimate": 35105
     },
     {
       "ID": "achievement_25",
@@ -5112,7 +5117,7 @@
       "Name": "Scoped",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 41583
+      "UsersEstimate": 41606
     },
     {
       "ID": "achievement_26",
@@ -5120,7 +5125,7 @@
       "Name": "The Interceptor",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9101
     },
     {
       "ID": "achievement_27",
@@ -5134,9 +5139,9 @@
       "ID": "achievement_28",
       "SetID": "8jemmoc",
       "Name": "Multi-tasking",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 910
     },
     {
       "ID": "achievement_29",
@@ -5144,7 +5149,7 @@
       "Name": "Complete Your Training",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 14294
+      "UsersEstimate": 14302
     },
     {
       "ID": "achievement_3",
@@ -5152,7 +5157,7 @@
       "Name": "The Dauntless",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 71470
+      "UsersEstimate": 71510
     },
     {
       "ID": "achievement_30",
@@ -5160,7 +5165,7 @@
       "Name": "There is No Such Thing As Luck",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 58476
+      "UsersEstimate": 58509
     },
     {
       "ID": "achievement_31",
@@ -5168,7 +5173,7 @@
       "Name": "Ignore Your Instincts At Your Peril",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9101
     },
     {
       "ID": "achievement_32",
@@ -5176,7 +5181,7 @@
       "Name": "What a Blast",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 42882
+      "UsersEstimate": 42906
     },
     {
       "ID": "achievement_33",
@@ -5184,7 +5189,7 @@
       "Name": "Strike Back",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 23390
+      "UsersEstimate": 23403
     },
     {
       "ID": "achievement_34",
@@ -5192,7 +5197,7 @@
       "Name": "Battle Beyond the Stars",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 84465
+      "UsersEstimate": 84512
     },
     {
       "ID": "achievement_35",
@@ -5200,7 +5205,7 @@
       "Name": "Choose Your Path",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 40283
+      "UsersEstimate": 40306
     },
     {
       "ID": "achievement_36",
@@ -5208,7 +5213,7 @@
       "Name": "Quick Strike",
       "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 92262
+      "UsersEstimate": 92313
     },
     {
       "ID": "achievement_37",
@@ -5216,7 +5221,7 @@
       "Name": "Heavy is the Hand",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 64973
+      "UsersEstimate": 65010
     },
     {
       "ID": "achievement_38",
@@ -5224,7 +5229,7 @@
       "Name": "Do. Or Do Not. There is no Try.",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 29888
+      "UsersEstimate": 29904
     },
     {
       "ID": "achievement_39",
@@ -5232,7 +5237,7 @@
       "Name": "A Galaxy at War",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9101
     },
     {
       "ID": "achievement_4",
@@ -5240,7 +5245,7 @@
       "Name": "The Observatory",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 70171
+      "UsersEstimate": 70210
     },
     {
       "ID": "achievement_40",
@@ -5248,7 +5253,7 @@
       "Name": "We are the Spark",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 48080
+      "UsersEstimate": 48107
     },
     {
       "ID": "achievement_41",
@@ -5256,7 +5261,7 @@
       "Name": "Project: Resurrection",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 38984
+      "UsersEstimate": 39006
     },
     {
       "ID": "achievement_42",
@@ -5264,7 +5269,7 @@
       "Name": "Ashes of the Empire",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 37684
+      "UsersEstimate": 37706
     },
     {
       "ID": "achievement_43",
@@ -5272,7 +5277,7 @@
       "Name": "Inferno",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 35085
+      "UsersEstimate": 35105
     },
     {
       "ID": "achievement_5",
@@ -5280,7 +5285,7 @@
       "Name": "The Storm",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 66272
+      "UsersEstimate": 66310
     },
     {
       "ID": "achievement_6",
@@ -5288,7 +5293,7 @@
       "Name": "Outcasts",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 63674
+      "UsersEstimate": 63709
     },
     {
       "ID": "achievement_7",
@@ -5296,7 +5301,7 @@
       "Name": "Royalty",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 62374
+      "UsersEstimate": 62409
     },
     {
       "ID": "achievement_8",
@@ -5304,7 +5309,7 @@
       "Name": "General Distress",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 59775
+      "UsersEstimate": 59809
     },
     {
       "ID": "achievement_9",
@@ -5312,29 +5317,29 @@
       "Name": "Under Covered Skies",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 55877
+      "UsersEstimate": 55908
     }
   ],
   "AchievementSets": [
     {
       "ID": "8jemmoc",
       "IsBase": true,
-      "Progressed": 129946,
+      "Progressed": 130019,
       "Completed": 35
     },
     {
       "ID": "2bpp440",
       "IsBase": false,
-      "Progressed": 129946,
-      "Completed": 35026
+      "Progressed": 130019,
+      "Completed": 35043
     }
   ],
   "FirstSeen": "2022-07-22T20:18:34.4284501+00:00",
   "FirstSeenRating": "2023-03-31T05:57:07.900261+00:00",
   "FirstSeenAchievements": "2023-07-29T00:02:18.6507664+00:00",
   "LastChanged": "2023-03-31T05:57:07.9002611+00:00",
-  "LastChanged_Achievements": "2023-11-01T23:04:07.3213621+00:00",
+  "LastChanged_Achievements": "2023-11-02T00:04:06.9586153+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:09.1442009+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:59:19.9348355+00:00",
-  "LastUpdate_Achievements": "2023-11-01T23:04:07.3214314+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:59:44.1083561+00:00",
+  "LastUpdate_Achievements": "2023-11-02T00:04:06.9586856+00:00"
 }

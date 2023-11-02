@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 44.00% | ~846 |
-| First Love | 43.00% | ~827 |
-| Clean Race | 41.00% | ~788 |
-| Hear That Roar! | 38.00% | ~731 |
-| Rivals to the End | 29.00% | ~558 |
-| Bitter Rivalry | 27.00% | ~519 |
+| Eat My Dust | 44.00% | ~847 |
+| First Love | 43.00% | ~828 |
+| Clean Race | 41.00% | ~790 |
+| Hear That Roar! | 38.00% | ~732 |
+| Rivals to the End | 29.00% | ~559 |
+| Bitter Rivalry | 27.00% | ~520 |
 | We're Going to Need a Bigger Garage | 24.00% | ~462 |
 | Champagne Spray | 24.00% | ~462 |
-| Restored and Ready | 19.00% | ~365 |
-| I Want One Too! | 19.00% | ~365 |
-| Legendary!!! | 19.00% | ~365 |
-| Quick Pit Stop | 18.00% | ~346 |
+| Restored and Ready | 19.00% | ~366 |
+| I Want One Too! | 19.00% | ~366 |
+| Legendary!!! | 19.00% | ~366 |
+| Quick Pit Stop | 18.00% | ~347 |
 | Go-Faster Stripes | 17.00% | ~327 |
 | I'm Here Too! | 17.00% | ~327 |
-| We've Just Begun | 10.00% | ~192 |
+| We've Just Begun | 10.00% | ~193 |
 | Stamina Star | 8.00% | ~154 |
 | Is It the Right Size? | 8.00% | ~154 |
-| Evangelist | 6.00% | ~115 |
+| Evangelist | 6.00% | ~116 |
 | Make It Your Own! | 5.00% | ~96 |
 | I Make the Rules! | 4.00% | ~77 |
 | Spoilt for Choice | 3.00% | ~58 |
@@ -30,11 +30,11 @@
 | The Road to Liberty | 3.00% | ~58 |
 | Romantic Races | 3.00% | ~58 |
 | Rounding Off | 3.00% | ~58 |
-| Iconic! | 2.00% | ~38 |
-| Back in Blighty | 2.00% | ~38 |
-| Still Here | 2.00% | ~38 |
-| My Work Here Is Done | 2.00% | ~38 |
-| Overtaking the Master | 2.00% | ~38 |
+| Iconic! | 2.00% | ~39 |
+| Back in Blighty | 2.00% | ~39 |
+| Still Here | 2.00% | ~39 |
+| My Work Here Is Done | 2.00% | ~39 |
+| Overtaking the Master | 2.00% | ~39 |
 | I'll Be the Best! | 1.00% | ~19 |
 | Next Level | 1.00% | ~19 |
 | I Don't Stop | 1.00% | ~19 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,923 (Ranked 217)  
+Progressed: 1,926 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,3 +116,4 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-30 | 1,878 | 0 |
 | 2023-10-31 | 1,900 | 0 |
 | 2023-11-01 | 1,923 | 0 |
+| 2023-11-02 | 1,926 | 0 |

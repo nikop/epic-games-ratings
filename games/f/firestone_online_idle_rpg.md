@@ -41,10 +41,10 @@ Rating: 4.10 (Ranked 952)
 | Scroll Master | 11.00% | ~230 |
 | Master Enchanter | 10.00% | ~209 |
 | The father of Dragons | 10.00% | ~209 |
+| Crystal Mining | 9.00% | ~188 |
 | Here We Go Again | 9.00% | ~188 |
 | Trader | 9.00% | ~188 |
 | Blueprint Upgrades | 8.00% | ~167 |
-| Crystal Mining | 8.00% | ~167 |
 | Dragon Slayer | 8.00% | ~167 |
 | Enchanting skill | 8.00% | ~167 |
 | Engineer Mastery | 8.00% | ~167 |

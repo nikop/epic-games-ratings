@@ -6,41 +6,41 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 62.00% | ~207 |
+| The Adventure Begins | 62.00% | ~208 |
 | Cartographer | 55.00% | ~184 |
-| A Strange Artefact | 51.00% | ~170 |
+| A Strange Artefact | 50.00% | ~168 |
 | Insomnia | 46.00% | ~154 |
 | From Whence we Came | 41.00% | ~137 |
 | Lost & Found & Lost Again | 40.00% | ~134 |
 | Fire and Flood | 38.00% | ~127 |
-| Spooky! | 36.00% | ~120 |
-| Shennong Herbalist | 33.00% | ~110 |
-| Treasure Hunt | 33.00% | ~110 |
+| Spooky! | 36.00% | ~121 |
+| Shennong Herbalist | 33.00% | ~111 |
+| Treasure Hunt | 33.00% | ~111 |
 | Good Mama | 31.00% | ~104 |
 | O Captain My Captain | 30.00% | ~100 |
 | Plunderer | 27.00% | ~90 |
 | Taxonomist | 26.00% | ~87 |
-| Uncertain Loyalties | 25.00% | ~84 |
 | Traveller | 24.00% | ~80 |
 | Nahua Seeker | 24.00% | ~80 |
-| Roll to Save | 22.00% | ~73 |
+| Uncertain Loyalties | 24.00% | ~80 |
+| Roll to Save | 21.00% | ~70 |
 | Veteran Explorer | 20.00% | ~67 |
 | Red Flag Pirate | 18.00% | ~60 |
 | Iron Man | 17.00% | ~57 |
-| Shortening of the Way | 16.00% | ~53 |
-| A Gentle Beast | 16.00% | ~53 |
-| Practical Palaeontology | 16.00% | ~53 |
+| Shortening of the Way | 16.00% | ~54 |
+| A Gentle Beast | 16.00% | ~54 |
+| Practical Palaeontology | 16.00% | ~54 |
 | For the Club! | 15.00% | ~50 |
 | Dapper | 15.00% | ~50 |
 | Adventurer | 14.00% | ~47 |
-| The New Director | 13.00% | ~43 |
-| The Director is Dead | 13.00% | ~43 |
-| And Here Is Your Statue | 13.00% | ~43 |
-| Discovery | 13.00% | ~43 |
-| Plays Well With Others | 13.00% | ~43 |
+| The New Director | 13.00% | ~44 |
+| The Director is Dead | 13.00% | ~44 |
+| And Here Is Your Statue | 13.00% | ~44 |
+| Discovery | 13.00% | ~44 |
+| Plays Well With Others | 13.00% | ~44 |
 | Very Classy | 12.00% | ~40 |
-| Under the Table | 10.00% | ~33 |
-| It's Complicated | 10.00% | ~33 |
+| Under the Table | 10.00% | ~34 |
+| It's Complicated | 10.00% | ~34 |
 | Cold Blood, Warm Heart | 9.00% | ~30 |
 | Errand Runner | 9.00% | ~30 |
 | SCHMETTERLING | 8.00% | ~27 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 319)  
+Progressed: 335 (Ranked 319)  
 Completed: 1 (0.30%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 1 (0.30%) (Ranked 221)
 | 2023-10-28 | 331 | 1 |
 | 2023-10-30 | 332 | 1 |
 | 2023-11-01 | 334 | 1 |
+| 2023-11-02 | 335 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

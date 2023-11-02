@@ -93,10 +93,10 @@
 | Fact Finder | 21.00% | ~190 |
 | Problem Solver | 21.00% | ~190 |
 | Under Pressure | 20.00% | ~181 |
+| Last Resort | 20.00% | ~181 |
 | No One Left Behind | 20.00% | ~181 |
 | Saboteur | 20.00% | ~181 |
 | Last Witness | 20.00% | ~181 |
-| Last Resort | 19.00% | ~172 |
 | Well Connected | 19.00% | ~172 |
 | Electronics Specialist | 17.00% | ~154 |
 | Sabotage Specialist | 17.00% | ~154 |

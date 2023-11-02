@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.40% | ~799 |
 | Were-verpowered | 0.30% | ~700 |
 | The Ring of Regeneration | 0.30% | ~700 |
+| Are Ya Chicken? | 0.30% | ~700 |
 | To Infinity's and Beyond | 0.30% | ~599 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
@@ -51,6 +52,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.20% | ~467 |
 | A Mysterious Summons | 0.20% | ~467 |
 | Building Trust | 0.20% | ~467 |
+| March of the Undead | 0.20% | ~467 |
 | Unearthed Evil | 0.20% | ~467 |
 | No Time To Rest | 0.20% | ~467 |
 | The Dinner Party | 0.20% | ~467 |
@@ -60,7 +62,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~467 |
 | Backtracking Through Barovia | 0.20% | ~467 |
 | Nimble Escape | 0.20% | ~467 |
-| Are Ya Chicken? | 0.20% | ~467 |
 | Useless Allies | 0.20% | ~467 |
 | Excavating History | 0.20% | ~467 |
 | Hopelessly Lost | 0.20% | ~467 |
@@ -230,7 +231,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.10% | ~233 |
 | Force Grey Unleashed | 0.10% | ~233 |
 | Vajra's Guards | 0.10% | ~233 |
-| March of the Undead | 0.10% | ~233 |
 | Wisdom Check | 0.10% | ~233 |
 | Sleuth It Out | 0.10% | ~233 |
 | The Newcomers of Notoriety | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,404 (Ranked 62)  
-Completed: 2,418 (1.04%) (Ranked 154)  
+Progressed: 233,410 (Ranked 62)  
+Completed: 2,418 (1.04%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -731,13 +731,14 @@ Completed: 2,418 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
+| 2023-11-02 | 233,410 | 2,418 |
 ## Awards
-Max (Great for Beginners): 5,465  (Ranked 69)  
-Sum: 32,292 (Ranked 41)  
+Max (Great for Beginners): 5,470  (Ranked 69)  
+Sum: 32,297 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,465 |
+| This game is Great for Beginners | 5,470 |
 | This game has Diverse Characters | 5,458 |
 | This game has Quickly Understood Controls | 4,803 |
 | This game is Relaxing | 4,693 |
@@ -1026,4 +1027,4 @@ Diff (max vs sum): 28
 | 2023-10-29 | 4.06 | - | 5,462 | 32,259 |
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
-| 2023-11-01 | 4.06 | - | 5,465 | 32,292 |
+| 2023-11-01 | 4.06 | - | 5,470 | 32,297 |

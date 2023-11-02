@@ -69,7 +69,7 @@ Rating: 4.18 (Ranked 916)
 | A Rest Among the Dead | 0.10% | ~1 |
 | A Trace of Venom | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,310 (Ranked 232)  
+Progressed: 1,312 (Ranked 232)  
 Completed: 1 (0.08%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,13 +84,14 @@ Completed: 1 (0.08%) (Ranked 280)
 | 2023-10-30 | 1,237 | 1 |
 | 2023-10-31 | 1,268 | 1 |
 | 2023-11-01 | 1,310 | 1 |
+| 2023-11-02 | 1,312 | 1 |
 ## Awards
-Max (Character Customization): 109  (Ranked 345)  
-Sum: 181 (Ranked 406)  
-Diff (max vs sum): -61  
+Max (Character Customization): 114  (Ranked 338)  
+Sum: 186 (Ranked 402)  
+Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 109 |
+| This game has Inclusive Character Customization | 114 |
 | This game has Great Boss Battles | 72 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -113,3 +114,4 @@ Diff (max vs sum): -61
 | 2023-10-30 | 4.18 | 106 | 172 |
 | 2023-10-31 | 4.19 | 109 | 178 |
 | 2023-11-01 | 4.20 | 109 | 181 |
+| 2023-11-02 | 4.18 | 114 | 186 |

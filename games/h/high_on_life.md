@@ -9,6 +9,7 @@ Rating: 4.64 (Ranked 329)
 | Satisfied Gus-tomer | 2.00% | ~488 |
 | Are You Packin'? | 2.00% | ~488 |
 | Bring A Knife to a Gun Fight | 2.00% | ~488 |
+| RIP Davey Glutes | 2.00% | ~488 |
 | Sweezy Like Sunday Morning | 2.00% | ~488 |
 | First Bounty Down | 2.00% | ~488 |
 | G3 Graduation | 2.00% | ~488 |
@@ -16,7 +17,6 @@ Rating: 4.64 (Ranked 329)
 | Who's The Boss? | 2.00% | ~488 |
 | Don't Knife The Hand That Feeds | 2.00% | ~488 |
 | Lezduit! | 1.00% | ~244 |
-| RIP Davey Glutes | 1.00% | ~244 |
 | We're All Very Impressed, Trust Me | 1.00% | ~244 |
 | Legendary Bounty Hunter | 1.00% | ~244 |
 | Hardest Battle In The Game | 1.00% | ~244 |

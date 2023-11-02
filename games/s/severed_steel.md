@@ -5,23 +5,23 @@ Rating: 4.69 (Ranked 228)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~204,194 |
-| 50 HEADSHOTS | 28.00% | ~190,581 |
-| SCIENCE AND INDUSTRY | 27.00% | ~183,775 |
-| FINISHED CHAPTER 1 | 26.00% | ~176,968 |
-| FINISHED CHAPTER 2 | 19.00% | ~129,323 |
-| 200 HEADSHOTS | 17.00% | ~115,710 |
-| FINISHED CHAPTER 3 | 16.00% | ~108,904 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,291 |
-| FINISH CHAPTER 5 | 12.00% | ~81,678 |
-| FINISH CHAPTER 6 | 10.00% | ~68,065 |
-| CATHARTIC ESCAPISM | 10.00% | ~68,065 |
-| 1000 KILLS | 9.00% | ~61,258 |
+| 100 KILLS | 30.00% | ~204,198 |
+| 50 HEADSHOTS | 28.00% | ~190,585 |
+| SCIENCE AND INDUSTRY | 27.00% | ~183,778 |
+| FINISHED CHAPTER 1 | 26.00% | ~176,971 |
+| FINISHED CHAPTER 2 | 19.00% | ~129,325 |
+| 200 HEADSHOTS | 17.00% | ~115,712 |
+| FINISHED CHAPTER 3 | 16.00% | ~108,905 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,292 |
+| FINISH CHAPTER 5 | 12.00% | ~81,679 |
+| FINISH CHAPTER 6 | 10.00% | ~68,066 |
+| CATHARTIC ESCAPISM | 10.00% | ~68,066 |
+| 1000 KILLS | 9.00% | ~61,259 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~27,226 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,613 |
 | FIRST BLOOD | 2.00% | ~13,613 |
-| PACEMAKER | 1.00% | ~6,806 |
-| TIME PARADOX | 1.00% | ~6,806 |
+| PACEMAKER | 1.00% | ~6,807 |
+| TIME PARADOX | 1.00% | ~6,807 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,126 |
 | OUT OF ORDER | 0.90% | ~6,126 |
 | PARTYHARD | 0.70% | ~4,765 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 228)
 | THE GAMBLER | 0.10% | ~681 |
 | WARRIOR IN A GARDEN | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,648 (Ranked 24)  
+Progressed: 680,659 (Ranked 24)  
 Completed: 81 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 81 (0.01%) (Ranked 317)
 | 2023-10-30 | 680,039 | 81 |
 | 2023-10-31 | 680,360 | 81 |
 | 2023-11-01 | 680,648 | 81 |
+| 2023-11-02 | 680,659 | 81 |
 ## Awards
 Max (Great Boss Battles): 373  (Ranked 227)  
 Sum: 373 (Ranked 340)  

@@ -1,7 +1,7 @@
 # Imagine Earth
 [Store](https://store.epicgames.com/en-US/p/imagine-earth-7498e4)  
 [View Rawdata](../../db/i/imagine_earth.json)  
-Rating: 4.30 (Ranked 825)  
+Rating: 4.32 (Ranked 814)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-02-18 | 4.34 | - | - | - |
 | 2023-02-19 | 4.30 | - | - | - |
 | 2023-03-31 | 4.30 | - | 0 | 0 |
+| 2023-11-02 | 4.32 | - | 0 | 0 |

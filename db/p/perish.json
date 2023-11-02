@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3608,
+  "EOS_Progressed": 3610,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3506,6 +3506,11 @@
       "Time": "2023-10-31T23:05:07.7774174+00:00",
       "NumProgressed": 3608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T00:04:35.7350052+00:00",
+      "NumProgressed": 3610,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3645,7 +3650,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_M_D1",
@@ -3821,7 +3826,7 @@
       "Name": "Lochos",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_OB_LS",
@@ -3893,7 +3898,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_R_A",
@@ -4020,7 +4025,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3608,
+      "Progressed": 3610,
       "Completed": 0
     }
   ],
@@ -4028,8 +4033,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-11-01T23:04:35.3266287+00:00",
+  "LastChanged_Achievements": "2023-11-02T00:04:35.7350043+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.3656873+00:00",
-  "LastUpdate_Ratings": "2023-11-01T23:00:24.9905946+00:00",
-  "LastUpdate_Achievements": "2023-11-01T23:04:35.3267122+00:00"
+  "LastUpdate_Ratings": "2023-11-02T00:00:59.4380581+00:00",
+  "LastUpdate_Achievements": "2023-11-02T00:04:35.7350864+00:00"
 }

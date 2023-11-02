@@ -6,7 +6,7 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
@@ -264,11 +264,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2113,
+  "EOS_Progressed": 2114,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -2834,6 +2834,11 @@
       "Time": "2023-11-01T22:08:43.6797318+00:00",
       "NumProgressed": 2113,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-02T00:08:55.5789917+00:00",
+      "NumProgressed": 2114,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2861,7 +2866,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHV_04",
@@ -2893,7 +2898,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACHV_08",
@@ -3045,7 +3050,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ACHV_27",
@@ -3061,7 +3066,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACHV_29",
@@ -3149,7 +3154,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "ACHV_40",
@@ -3300,7 +3305,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2113,
+      "Progressed": 2114,
       "Completed": 13
     }
   ],
@@ -3308,8 +3313,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-01T23:09:01.5624749+00:00",
+  "LastChanged_Achievements": "2023-11-02T00:08:55.5789911+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:57:13.0762251+00:00",
-  "LastUpdate_Achievements": "2023-11-01T23:09:01.5625451+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:57:31.6925471+00:00",
+  "LastUpdate_Achievements": "2023-11-02T00:08:55.5790622+00:00"
 }

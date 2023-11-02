@@ -22,7 +22,7 @@
 | The Famous Lemon Cake | 6.00% | ~9 |
 | A Loving Home | 6.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 374)  
+Progressed: 155 (Ranked 375)  
 Completed: 2 (1.29%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |

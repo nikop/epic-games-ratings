@@ -15,15 +15,16 @@
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
+| Jung's dream | 3.00% | ~1 |
 | A rival with no options | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
+| The battle of Great Britain | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
 | Bread and bocaua | 0.00% | ~0 |
 | Fanatacism is... poisonous | 0.00% | ~0 |
-| Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
 | The seer | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
-| The battle of Great Britain | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |

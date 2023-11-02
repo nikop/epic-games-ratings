@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1342,6 +1342,11 @@
       "Time": "2023-11-01T22:03:19.4464227+00:00",
       "NumProgressed": 804,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T00:03:17.8999488+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1354,7 +1359,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1482,7 +1487,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1520,9 +1525,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 161
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1594,7 +1599,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1690,27 +1695,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 472,
-      "Completed": 472
+      "Progressed": 473,
+      "Completed": 473
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-01T23:03:18.8463174+00:00",
+  "LastChanged_Achievements": "2023-11-02T00:03:17.8999482+00:00",
   "LastUpdate_AppInfo": "2023-10-26T02:12:25.7716637+00:00",
-  "LastUpdate_Ratings": "2023-11-01T22:58:32.6417711+00:00",
-  "LastUpdate_Achievements": "2023-11-01T23:03:18.8463614+00:00"
+  "LastUpdate_Ratings": "2023-11-01T23:58:52.4430821+00:00",
+  "LastUpdate_Achievements": "2023-11-02T00:03:17.8999914+00:00"
 }

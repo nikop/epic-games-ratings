@@ -30,10 +30,10 @@
 | All That Glistens | 39.00% | ~434 |
 | Stronger! | 39.00% | ~434 |
 | Frog Facts! | 38.00% | ~423 |
+| It's Pointy! | 38.00% | ~423 |
 | Spellbound | 37.00% | ~412 |
 | Extinct Again! | 37.00% | ~412 |
 | All Skilled Up! | 37.00% | ~412 |
-| It's Pointy! | 37.00% | ~412 |
 | Bird of Prey | 36.00% | ~401 |
 | Stardust | 36.00% | ~401 |
 | Heartbreaker | 36.00% | ~401 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 9.00% | ~100 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,114 (Ranked 241)  
-Completed: 85 (7.63%) (Ranked 48)  
+Completed: 85 (7.63%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

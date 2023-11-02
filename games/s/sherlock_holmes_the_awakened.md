@@ -18,7 +18,7 @@ Rating: 4.64 (Ranked 329)
 | Open Sesame | 47.00% | ~370 |
 | Sticky Fingers | 47.00% | ~370 |
 | Knives Out | 47.00% | ~370 |
-| Land, Ho! | 46.00% | ~362 |
+| Land, Ho! | 47.00% | ~370 |
 | Back In The Saddle | 45.00% | ~354 |
 | No Man Is An Island | 45.00% | ~354 |
 | At Wits' End | 45.00% | ~354 |

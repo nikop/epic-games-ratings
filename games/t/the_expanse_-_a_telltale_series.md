@@ -9,6 +9,7 @@ Rating: 4.60 (Ranked 406)
 | Bosmang | 2.00% | ~291 |
 | The Pit and the Pirates | 1.00% | ~146 |
 | Drug Gifter | 1.00% | ~146 |
+| Spore Taste | 1.00% | ~146 |
 | Martian Music | 1.00% | ~146 |
 | Drone Dodger | 1.00% | ~146 |
 | Call it Even | 1.00% | ~146 |
@@ -17,7 +18,6 @@ Rating: 4.60 (Ranked 406)
 | Impossible Objects | 1.00% | ~146 |
 | Data Archivist | 0.90% | ~131 |
 | Stogie for Fogey | 0.90% | ~131 |
-| Spore Taste | 0.90% | ~131 |
 | Heal Thy Medic | 0.90% | ~131 |
 | Khan's Revenge | 0.80% | ~116 |
 | Thorston Mayer | 0.60% | ~87 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 406)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,558 (Ranked 145)  
+Progressed: 14,559 (Ranked 145)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
+| 2023-11-02 | 14,559 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
