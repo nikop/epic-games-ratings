@@ -2,9 +2,9 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 560,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -101,6 +101,11 @@
       "Time": "2023-11-01T22:04:00.374787+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T12:05:21.9623783+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -110,7 +115,7 @@
       "ID": "collect1",
       "SetID": "c64if4d",
       "Name": "Crimson rivers",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "collect5",
       "SetID": "c64if4d",
       "Name": "Overplay the rogue",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -166,7 +171,7 @@
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -182,7 +187,7 @@
       "ID": "fights2",
       "SetID": "c64if4d",
       "Name": "The best apprentice",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "fights3",
       "SetID": "c64if4d",
       "Name": "The champion of the arena",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -214,7 +219,7 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "ID": "fights7",
       "SetID": "c64if4d",
       "Name": "Vene, vidi, vici",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -238,7 +243,7 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -270,7 +275,7 @@
       "ID": "special2",
       "SetID": "c64if4d",
       "Name": "By own strength",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -278,7 +283,7 @@
       "ID": "special3",
       "SetID": "c64if4d",
       "Name": "Deadly strike",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "special4",
       "SetID": "c64if4d",
       "Name": "A solo player",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -294,7 +299,7 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -302,7 +307,7 @@
       "ID": "special6",
       "SetID": "c64if4d",
       "Name": "Protect the Healer!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -326,7 +331,7 @@
       "ID": "special9",
       "SetID": "c64if4d",
       "Name": "Cunning plan",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -334,7 +339,7 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 109,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -342,7 +347,7 @@
       "ID": "story10",
       "SetID": "c64if4d",
       "Name": "Do it yourself",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -358,7 +363,7 @@
       "ID": "story12",
       "SetID": "c64if4d",
       "Name": "Help of the Gell",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -366,7 +371,7 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -390,7 +395,7 @@
       "ID": "story16",
       "SetID": "c64if4d",
       "Name": "All\u0027s fair in love and war",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -422,7 +427,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -446,7 +451,7 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -454,7 +459,7 @@
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -462,7 +467,7 @@
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -470,7 +475,7 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -478,7 +483,7 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -486,7 +491,7 @@
       "ID": "story8",
       "SetID": "c64if4d",
       "Name": "Blood and sand",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -494,7 +499,7 @@
       "ID": "story9",
       "SetID": "c64if4d",
       "Name": "She-Wolf",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -503,7 +508,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
@@ -511,8 +516,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:04:38.7578734+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:05:21.9623777+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.7362932+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:59:03.2513876+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:04:38.7579183+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:00:00.5637727+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:05:21.962426+00:00"
 }

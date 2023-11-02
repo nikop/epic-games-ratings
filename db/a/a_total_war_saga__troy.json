@@ -2,12 +2,12 @@
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
   "ProductSlug": "a-total-war-saga-troy",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 579,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-08-13T13:00:00+00:00",
@@ -6712,6 +6712,6 @@
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
   "LastChanged": "2023-11-02T01:43:56.5386628+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:20.5039884+00:00",
-  "LastUpdate_Ratings": "2023-11-02T11:03:00.6781195+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:06:51.5785847+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:03:01.497778+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:08:32.9470916+00:00"
 }

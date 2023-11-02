@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 109.00% | ~12 |
-| Suicide squad | 64.00% | ~7 |
-| First blood | 36.00% | ~4 |
-| Train hard, fight easy | 27.00% | ~3 |
-| Royal blessing | 27.00% | ~3 |
-| Under cover | 27.00% | ~3 |
-| A hidden snake | 27.00% | ~3 |
-| Surpass the teacher | 18.00% | ~2 |
-| By own strength | 18.00% | ~2 |
-| A solo player | 18.00% | ~2 |
-| Punish the Punisher | 18.00% | ~2 |
-| Blood and sand | 18.00% | ~2 |
-| Crimson rivers | 9.00% | ~1 |
-| Overplay the rogue | 9.00% | ~1 |
-| Berkanan Borgia | 9.00% | ~1 |
-| Power of Inquisition | 9.00% | ~1 |
-| The best apprentice | 9.00% | ~1 |
-| The champion of the arena | 9.00% | ~1 |
-| Vene, vidi, vici | 9.00% | ~1 |
-| All for one! | 9.00% | ~1 |
-| Deadly strike | 9.00% | ~1 |
-| Protect the Healer! | 9.00% | ~1 |
-| Cunning plan | 9.00% | ~1 |
-| Do it yourself | 9.00% | ~1 |
-| Help of the Gell | 9.00% | ~1 |
-| Trial by cold | 9.00% | ~1 |
-| All's fair in love and war | 9.00% | ~1 |
-| She-Wolf | 9.00% | ~1 |
+| First success | 100.00% | ~12 |
+| Suicide squad | 58.00% | ~7 |
+| First blood | 33.00% | ~4 |
+| Train hard, fight easy | 25.00% | ~3 |
+| Royal blessing | 25.00% | ~3 |
+| Under cover | 25.00% | ~3 |
+| A hidden snake | 25.00% | ~3 |
+| Surpass the teacher | 17.00% | ~2 |
+| By own strength | 17.00% | ~2 |
+| A solo player | 17.00% | ~2 |
+| Punish the Punisher | 17.00% | ~2 |
+| Blood and sand | 17.00% | ~2 |
+| Crimson rivers | 8.00% | ~1 |
+| Overplay the rogue | 8.00% | ~1 |
+| Berkanan Borgia | 8.00% | ~1 |
+| Power of Inquisition | 8.00% | ~1 |
+| The best apprentice | 8.00% | ~1 |
+| The champion of the arena | 8.00% | ~1 |
+| Vene, vidi, vici | 8.00% | ~1 |
+| All for one! | 8.00% | ~1 |
+| Deadly strike | 8.00% | ~1 |
+| Protect the Healer! | 8.00% | ~1 |
+| Cunning plan | 8.00% | ~1 |
+| Do it yourself | 8.00% | ~1 |
+| Help of the Gell | 8.00% | ~1 |
+| Trial by cold | 8.00% | ~1 |
+| All's fair in love and war | 8.00% | ~1 |
+| She-Wolf | 8.00% | ~1 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Berserk | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 560)  
+Progressed: 12 (Ranked 555)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-27 | 6 | 0 |
 | 2023-10-31 | 7 | 0 |
 | 2023-11-01 | 11 | 0 |
+| 2023-11-02 | 12 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

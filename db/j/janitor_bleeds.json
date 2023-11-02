@@ -4,7 +4,7 @@
   "ProductSlug": "janitor-bleeds-137dee",
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-07T12:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:02.8781009+00:00",
   "LastChanged": "2023-03-31T05:58:02.878101+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:18.5340169+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:59:14.3866771+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:09:37.4801904+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:00:18.8631931+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:10:20.4920129+00:00"
 }

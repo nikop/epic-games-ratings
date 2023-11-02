@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1596,9 +1596,9 @@
       "ID": "ETUA_Trapped",
       "SetID": "65jc0ap",
       "Name": "Trapped",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:07:13.2773587+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:09:04.2138491+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:58:39.5916396+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:07:13.2773991+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:59:21.1129288+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:09:04.213934+00:00"
 }

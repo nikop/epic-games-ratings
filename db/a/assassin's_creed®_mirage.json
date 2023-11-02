@@ -2,12 +2,12 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 327,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -973,10 +973,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 964,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2023-11-02T12:01:21.2855656+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 964,
+  "NumberOfAwards": 972,
   "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1026,13 +1032,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 84
+      "Count": 87
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 99
+      "Count": 104
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1059,8 +1065,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2023-11-02T10:59:55.3300002+00:00",
+  "LastChanged": "2023-11-02T12:01:21.2855651+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3169325+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:59:55.3300009+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:05:45.9885621+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:01:21.285566+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:06:57.876888+00:00"
 }

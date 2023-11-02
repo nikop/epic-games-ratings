@@ -31,24 +31,25 @@
 | Unbeatable | 15.00% | ~10 |
 | Favored by the Cosmos | 14.00% | ~9 |
 | Heavy Purger | 12.00% | ~8 |
+| Apian Hero | 12.00% | ~8 |
+| Anomaly Control | 11.00% | ~7 |
 | Stellar Haste | 11.00% | ~7 |
 | Wave Bender | 11.00% | ~7 |
-| Apian Hero | 11.00% | ~7 |
 | Behenian Hero | 11.00% | ~7 |
-| Anomaly Control | 9.00% | ~6 |
 | Denying Destiny | 9.00% | ~6 |
+| The Chaos Artisan | 9.00% | ~6 |
 | The Dark Moon | 9.00% | ~6 |
 | Lacertian Hero | 9.00% | ~6 |
 | Artificer | 8.00% | ~5 |
 | Can't touch this | 8.00% | ~5 |
+| Purification Avatar | 8.00% | ~5 |
 | Sadistic Plan | 8.00% | ~5 |
-| The Chaos Artisan | 8.00% | ~5 |
 | The Distorted Sage | 8.00% | ~5 |
 | If I Had Failed... | 6.00% | ~4 |
-| Purification Avatar | 6.00% | ~4 |
 | The Abyssal Terror | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
 | Astrarium of Holding | 5.00% | ~3 |
+| Critical Twist | 5.00% | ~3 |
 | Reflexive Mind | 5.00% | ~3 |
 | The Raging Skies | 5.00% | ~3 |
 | Aquarian Hero | 5.00% | ~3 |
@@ -56,7 +57,6 @@
 | Lacertian Mastery | 5.00% | ~3 |
 | Noctuan Hero | 5.00% | ~3 |
 | Noctuan Mastery | 5.00% | ~3 |
-| Critical Twist | 3.00% | ~2 |
 | Prestidigitation | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | The Ardent Prince | 3.00% | ~2 |

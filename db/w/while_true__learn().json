@@ -2,13 +2,13 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -499,9 +499,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 609008,
+  "EOS_Progressed": 609009,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22414,6 +22414,11 @@
       "Time": "2023-11-02T11:04:35.9610286+00:00",
       "NumProgressed": 609008,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-02T12:05:17.9436841+00:00",
+      "NumProgressed": 609009,
+      "NumCompleted": 541
     }
   ],
   "TotalAchievements": 28,
@@ -22553,7 +22558,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 566377
+      "UsersEstimate": 566378
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22585,7 +22590,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 401945
+      "UsersEstimate": 401946
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -22593,7 +22598,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 109621
+      "UsersEstimate": 109622
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -22601,7 +22606,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 322774
+      "UsersEstimate": 322775
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -22648,15 +22653,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 609008,
+      "Progressed": 609009,
       "Completed": 541
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-10-24T11:00:57.0724389+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:04:35.9610273+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:05:17.9436834+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:08.120773+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:59:47.2064841+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:04:35.9611834+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:01:10.0907365+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:05:17.9439569+00:00"
 }

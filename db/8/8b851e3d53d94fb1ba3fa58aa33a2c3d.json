@@ -4,7 +4,7 @@
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "APHRODITE",
       "SetID": "e4de54",
       "Name": "Aphrodite",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "APOLLO",
@@ -371,9 +371,9 @@
       "ID": "ARTEMIS",
       "SetID": "e4de54",
       "Name": "Artemis",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ATTENTIVENESS",
@@ -387,9 +387,9 @@
       "ID": "A_STRANGE_SPRING",
       "SetID": "e4de54",
       "Name": "A strange spring",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BAD_MUSICIAN",
@@ -411,9 +411,9 @@
       "ID": "BEVERAGE_OF_THE_GODS",
       "SetID": "e4de54",
       "Name": "Beverage of the gods",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CAREFULNESS",
@@ -483,9 +483,9 @@
       "ID": "HEBE",
       "SetID": "e4de54",
       "Name": "Hebe",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HERA",
@@ -547,9 +547,9 @@
       "ID": "MINOTAUR_CULT",
       "SetID": "e4de54",
       "Name": "Minotaur cult",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MINOTAUR_MENACE",
@@ -579,9 +579,9 @@
       "ID": "RED_HERRING",
       "SetID": "e4de54",
       "Name": "Red herring",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SELF_CONFIDENCE",
@@ -595,17 +595,17 @@
       "ID": "SPIDER",
       "SetID": "e4de54",
       "Name": "Spider",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "STEALTH_MASTER",
       "SetID": "e4de54",
       "Name": "Stealth master",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TAMER",
@@ -634,8 +634,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:06:45.0861391+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:08:23.3176704+00:00",
   "LastUpdate_AppInfo": "2023-10-28T03:57:19.6942887+00:00",
-  "LastUpdate_Ratings": "2023-11-02T11:03:11.8286698+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:06:45.0861735+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:03:17.9015846+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:08:23.31773+00:00"
 }

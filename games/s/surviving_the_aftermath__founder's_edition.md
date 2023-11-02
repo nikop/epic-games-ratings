@@ -1,23 +1,23 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 618)  
+Rating: 4.48 (Ranked 617)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 73.00% | ~7,323 |
-| Leader | 61.00% | ~6,119 |
-| Explorer | 53.00% | ~5,316 |
-| Healer | 53.00% | ~5,316 |
+| Leader | 61.00% | ~6,120 |
+| Explorer | 53.00% | ~5,317 |
+| Healer | 53.00% | ~5,317 |
 | Aspiring Inventor | 44.00% | ~4,414 |
 | Adventurer | 42.00% | ~4,213 |
 | Famous Healer | 38.00% | ~3,812 |
 | Local Leader | 35.00% | ~3,511 |
 | Famous Explorer | 34.00% | ~3,411 |
 | New Opportunities | 34.00% | ~3,411 |
-| Energized | 33.00% | ~3,310 |
-| The Long Haul | 33.00% | ~3,310 |
+| Energized | 33.00% | ~3,311 |
+| The Long Haul | 33.00% | ~3,311 |
 | Survivor | 32.00% | ~3,210 |
 | The Great Healer | 31.00% | ~3,110 |
 | Legendary Explorer | 28.00% | ~2,809 |
@@ -43,8 +43,8 @@ Number of Ratings: 836  (23.09.2022)
 | It's a Finnish Thing | 10.00% | ~1,003 |
 | Sky Burial | 10.00% | ~1,003 |
 | Trader | 9.00% | ~903 |
-| Bread and Circuses | 8.00% | ~802 |
-| Tailored to fit | 8.00% | ~802 |
+| Bread and Circuses | 8.00% | ~803 |
+| Tailored to fit | 8.00% | ~803 |
 | New Eden | 7.00% | ~702 |
 | Really Friendly | 6.00% | ~602 |
 | Amped Up | 6.00% | ~602 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,031 (Ranked 156)  
+Progressed: 10,032 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 9,973 | 0 |
 | 2023-10-31 | 9,998 | 0 |
 | 2023-11-01 | 10,020 | 0 |
-| 2023-11-02 | 10,031 | 0 |
+| 2023-11-02 | 10,032 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 350)  
 Sum: 724 (Ranked 288)  

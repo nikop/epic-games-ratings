@@ -2,12 +2,12 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1380,7 +1380,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10031,
+  "EOS_Progressed": 10032,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -16165,6 +16165,11 @@
       "Time": "2023-11-02T11:08:50.9581841+00:00",
       "NumProgressed": 10031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T12:09:14.0514057+00:00",
+      "NumProgressed": 10032,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16176,7 +16181,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6119
+      "UsersEstimate": 6120
     },
     {
       "ID": "10",
@@ -16208,7 +16213,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "14",
@@ -16256,7 +16261,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5316
+      "UsersEstimate": 5317
     },
     {
       "ID": "2",
@@ -16328,7 +16333,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "28",
@@ -16448,7 +16453,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "41",
@@ -16504,7 +16509,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "48",
@@ -16600,7 +16605,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "59",
@@ -16647,15 +16652,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10031,
+      "Progressed": 10032,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-01T19:00:45.0889475+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:08:50.9581836+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:09:14.051405+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-02T11:00:49.1049566+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:08:50.9583323+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:02:43.5390526+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:09:14.0516703+00:00"
 }

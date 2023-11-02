@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,11 +85,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 789,
+  "EOS_Progressed": 790,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2980,6 +2980,11 @@
       "Time": "2023-11-02T10:03:33.4378434+00:00",
       "NumProgressed": 789,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-02T12:04:41.6346101+00:00",
+      "NumProgressed": 790,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -3029,9 +3034,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 450
+      "UsersEstimate": 442
     },
     {
       "ID": "MQ03_1",
@@ -3039,7 +3044,7 @@
       "Name": "Fond Memories",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "MQ03_2",
@@ -3055,7 +3060,7 @@
       "Name": "History Check",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MQ03_4",
@@ -3071,7 +3076,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MQ04_1",
@@ -3111,7 +3116,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "MQ05_3",
@@ -3143,7 +3148,7 @@
       "Name": "Bookworm",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "MQ06_3",
@@ -3159,7 +3164,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "MQ07_1",
@@ -3175,7 +3180,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "MQ08_1",
@@ -3191,7 +3196,7 @@
       "Name": "Up In Flames",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "MQ08_3",
@@ -3199,7 +3204,7 @@
       "Name": "Fhtagn!",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "PLTN",
@@ -3214,7 +3219,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 789,
+      "Progressed": 790,
       "Completed": 26
     }
   ],
@@ -3222,8 +3227,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:04:10.6503793+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:04:41.6346093+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:58:07.3108603+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:04:10.6504194+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:58:37.3842312+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:04:41.634649+00:00"
 }

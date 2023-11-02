@@ -8,10 +8,10 @@ Rating: 4.64 (Ranked 330)
 | Read Between The Lines | 66.00% | ~521 |
 | To Hell In A Handcart | 66.00% | ~521 |
 | High Profile | 59.00% | ~466 |
-| Whispers In The Dark | 57.00% | ~450 |
-| Fond Memories | 54.00% | ~426 |
-| A Method To His Madness | 53.00% | ~418 |
-| History Check | 52.00% | ~410 |
+| Whispers In The Dark | 56.00% | ~442 |
+| Fond Memories | 54.00% | ~427 |
+| A Method To His Madness | 53.00% | ~419 |
+| History Check | 52.00% | ~411 |
 | Gaze Into The Abyss | 48.00% | ~379 |
 | The New World | 48.00% | ~379 |
 | Lock, Stock, And Barrel | 47.00% | ~371 |
@@ -19,12 +19,12 @@ Rating: 4.64 (Ranked 330)
 | Sticky Fingers | 47.00% | ~371 |
 | Knives Out | 47.00% | ~371 |
 | Land, Ho! | 46.00% | ~363 |
-| Back In The Saddle | 45.00% | ~355 |
-| No Man Is An Island | 45.00% | ~355 |
-| At Wits' End | 45.00% | ~355 |
-| Fhtagn! | 43.00% | ~339 |
-| Bookworm | 42.00% | ~331 |
-| Up In Flames | 42.00% | ~331 |
+| Back In The Saddle | 45.00% | ~356 |
+| No Man Is An Island | 45.00% | ~356 |
+| At Wits' End | 45.00% | ~356 |
+| Fhtagn! | 43.00% | ~340 |
+| Bookworm | 42.00% | ~332 |
+| Up In Flames | 42.00% | ~332 |
 | Going Once... | 39.00% | ~308 |
 | Let Me Be Frank | 37.00% | ~292 |
 | Brain Food | 35.00% | ~276 |
@@ -34,8 +34,8 @@ Rating: 4.64 (Ranked 330)
 | Big Breakthrough | 13.00% | ~103 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 261)  
-Completed: 26 (3.30%) (Ranked 89)  
+Progressed: 790 (Ranked 261)  
+Completed: 26 (3.29%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,7 +199,7 @@ Completed: 26 (3.30%) (Ranked 89)
 | 2023-10-30 | 774 | 26 |
 | 2023-10-31 | 780 | 26 |
 | 2023-11-01 | 787 | 26 |
-| 2023-11-02 | 789 | 26 |
+| 2023-11-02 | 790 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

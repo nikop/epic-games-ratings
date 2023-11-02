@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~845 |
-| Spectre Inductee | 81.00% | ~736 |
+| Spectre Inductee | 82.00% | ~745 |
 | Medal of Exploration I | 73.00% | ~664 |
 | Recruit | 70.00% | ~636 |
 | Search and Rescue | 70.00% | ~636 |
@@ -64,11 +64,11 @@
 | Cat's in the Cradle | 31.00% | ~282 |
 | Treason | 31.00% | ~282 |
 | Agent | 31.00% | ~282 |
+| Digital Exorcist | 31.00% | ~282 |
 | Driven | 31.00% | ~282 |
 | Bringer of War | 31.00% | ~282 |
 | Friend or Foe | 30.00% | ~273 |
 | Doppelganger | 30.00% | ~273 |
-| Digital Exorcist | 30.00% | ~273 |
 | Mission Accomplished | 29.00% | ~264 |
 | Mobilizer | 29.00% | ~264 |
 | Untouchable | 28.00% | ~255 |

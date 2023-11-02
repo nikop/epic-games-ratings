@@ -2,7 +2,7 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 171,
@@ -4781,7 +4781,7 @@
   ],
   "EOS_Progressed": 6656,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -9987,8 +9987,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-02T10:00:05.2507905+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:04:05.9833365+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:04:35.1101241+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.6849006+00:00",
-  "LastUpdate_Ratings": "2023-11-02T11:00:10.8027307+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:04:05.9834241+00:00"
+  "LastUpdate_Ratings": "2023-11-02T12:01:44.4425002+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:04:35.1102698+00:00"
 }

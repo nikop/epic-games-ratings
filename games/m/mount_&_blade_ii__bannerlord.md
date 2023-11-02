@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~25,087 |
-| Landlord | 33.00% | ~21,228 |
-| Bannerlord | 23.00% | ~14,795 |
-| Horde breaker | 23.00% | ~14,795 |
-| Lawmaker | 23.00% | ~14,795 |
-| Trained | 23.00% | ~14,795 |
-| The king is pleased | 19.00% | ~12,222 |
-| King Solomon | 17.00% | ~10,935 |
-| Apple of my eye | 16.00% | ~10,292 |
-| I can do it | 16.00% | ~10,292 |
-| God of the Arena | 13.00% | ~8,362 |
-| This Is Our Land | 13.00% | ~8,362 |
+| Lawbringer | 39.00% | ~25,088 |
+| Landlord | 33.00% | ~21,229 |
+| Bannerlord | 23.00% | ~14,796 |
+| Horde breaker | 23.00% | ~14,796 |
+| Lawmaker | 23.00% | ~14,796 |
+| Trained | 23.00% | ~14,796 |
+| The king is pleased | 19.00% | ~12,223 |
+| King Solomon | 17.00% | ~10,936 |
+| Apple of my eye | 16.00% | ~10,293 |
+| I can do it | 16.00% | ~10,293 |
+| God of the Arena | 13.00% | ~8,363 |
+| This Is Our Land | 13.00% | ~8,363 |
 | Against all odds | 12.00% | ~7,719 |
 | Duelist | 10.00% | ~6,433 |
 | Dynasty | 10.00% | ~6,433 |
 | I spit on your grave | 10.00% | ~6,433 |
 | Swordbearer | 10.00% | ~6,433 |
 | What have the Romans ever done for us? | 10.00% | ~6,433 |
-| Butterlord | 9.00% | ~5,789 |
+| Butterlord | 9.00% | ~5,790 |
 | Know your enemy | 7.00% | ~4,503 |
 | Mastery | 7.00% | ~4,503 |
 | Crowdfunded | 5.00% | ~3,216 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,326 (Ranked 102)  
+Progressed: 64,329 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 64,194 | 0 |
 | 2023-10-31 | 64,251 | 0 |
 | 2023-11-01 | 64,306 | 0 |
-| 2023-11-02 | 64,326 | 0 |
+| 2023-11-02 | 64,329 | 0 |
 ## Awards
 Max (Character Customization): 7,315  (Ranked 52)  
 Sum: 15,100 (Ranked 66)  

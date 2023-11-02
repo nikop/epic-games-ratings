@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 810,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1585,9 +1585,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "5k00jcd",
       "Name": "Extreme conditions",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1609,9 +1609,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "5k00jcd",
       "Name": "Eagle eye",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -1734,8 +1734,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-02T11:04:00.170308+00:00",
+  "LastChanged_Achievements": "2023-11-02T12:04:26.6074879+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-02T10:59:01.307662+00:00",
-  "LastUpdate_Achievements": "2023-11-02T11:04:00.1703533+00:00"
+  "LastUpdate_Ratings": "2023-11-02T11:59:57.9698642+00:00",
+  "LastUpdate_Achievements": "2023-11-02T12:04:26.6075624+00:00"
 }
