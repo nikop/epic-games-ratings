@@ -2,7 +2,7 @@
   "ID": "97071dce4a98441d9c0b7f0df92f7b31",
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
-  "Ranking_Rating": 86,
+  "Ranking_Rating": 85,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 38,
@@ -8082,10 +8082,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50947,
       "NumberOfAwardsMax": 6465
+    },
+    {
+      "Time": "2023-11-02T21:58:13.195348+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50948,
+      "NumberOfAwardsMax": 6465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50947,
+  "NumberOfAwards": 50948,
   "NumberOfAwardsMax": 6465,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8093,7 +8099,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6063
+      "Count": 6064
     },
     {
       "Text": "This game is Relaxing",
@@ -8156,9 +8162,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 475313,
+  "EOS_Progressed": 475314,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28206,6 +28212,11 @@
       "Time": "2023-11-02T21:07:17.6986263+00:00",
       "NumProgressed": 475313,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-02T22:06:06.8458358+00:00",
+      "NumProgressed": 475314,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -28273,7 +28284,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123581
+      "UsersEstimate": 123582
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -28401,7 +28412,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237656
+      "UsersEstimate": 237657
     },
     {
       "ID": "achievement_club_world_cup",
@@ -28417,7 +28428,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90309
+      "UsersEstimate": 90310
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -28449,7 +28460,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199631
+      "UsersEstimate": 199632
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -28537,7 +28548,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 194878
+      "UsersEstimate": 194879
     },
     {
       "ID": "achievement_head_to_head",
@@ -28609,7 +28620,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123581
+      "UsersEstimate": 123582
     },
     {
       "ID": "achievement_mr_delegator",
@@ -28761,7 +28772,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228150
+      "UsersEstimate": 228151
     },
     {
       "ID": "achievement_signed_a_player",
@@ -28769,7 +28780,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237656
+      "UsersEstimate": 237657
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -28793,7 +28804,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52284
+      "UsersEstimate": 52285
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -28849,7 +28860,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237656
+      "UsersEstimate": 237657
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -29000,15 +29011,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 475313,
+      "Progressed": 475314,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-11-02T18:58:20.8650806+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:07:17.6986259+00:00",
+  "LastChanged": "2023-11-02T21:58:13.1953478+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:06:06.8458352+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:45.9172625+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:58:32.0864832+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:07:17.6988679+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:58:13.1953485+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:06:06.8461074+00:00"
 }

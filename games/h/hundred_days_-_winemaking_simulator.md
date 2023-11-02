@@ -6,19 +6,19 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,257 |
-| It's a good start | 10.00% | ~1,064 |
-| Bonjour! | 7.00% | ~745 |
-| Quack | 7.00% | ~745 |
+| Bye Bye | 40.00% | ~4,261 |
+| It's a good start | 10.00% | ~1,065 |
+| Bonjour! | 7.00% | ~746 |
+| Quack | 7.00% | ~746 |
 | The Assistant | 6.00% | ~639 |
 | The Blue Marl | 6.00% | ~639 |
-| Ostinata | 5.00% | ~532 |
-| Better than nothing? | 5.00% | ~532 |
+| Ostinata | 5.00% | ~533 |
+| Better than nothing? | 5.00% | ~533 |
 | A long journey | 4.00% | ~426 |
-| Big Money | 3.00% | ~319 |
-| Keep the doctor away | 3.00% | ~319 |
-| Surprise of Langhe | 3.00% | ~319 |
-| Famous | 3.00% | ~319 |
+| Big Money | 3.00% | ~320 |
+| Keep the doctor away | 3.00% | ~320 |
+| Surprise of Langhe | 3.00% | ~320 |
+| Famous | 3.00% | ~320 |
 | What is that? A castle? | 2.00% | ~213 |
 | A lot of space | 2.00% | ~213 |
 | A big garage | 2.00% | ~213 |
@@ -27,8 +27,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~213 |
 | Welcome to the club | 2.00% | ~213 |
 | Very Important Winemaker | 2.00% | ~213 |
-| King of Langhe | 1.00% | ~106 |
-| Gem of Monferrato | 1.00% | ~106 |
+| King of Langhe | 1.00% | ~107 |
+| Gem of Monferrato | 1.00% | ~107 |
 | Treasure of Roero | 0.70% | ~75 |
 | Knight of Langhe | 0.50% | ~53 |
 | King of red wines | 0.30% | ~32 |
@@ -38,8 +38,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~21 |
 | Master Winemaker | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,643 (Ranked 153)  
-Completed: 10 (0.09%) (Ranked 272)  
+Progressed: 10,652 (Ranked 153)  
+Completed: 10 (0.09%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,11 +107,11 @@ Completed: 10 (0.09%) (Ranked 272)
 | 2023-10-30 | 10,292 | 10 |
 | 2023-10-31 | 10,398 | 10 |
 | 2023-11-01 | 10,511 | 10 |
-| 2023-11-02 | 10,643 | 10 |
+| 2023-11-02 | 10,652 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 279)  
-Sum: 1,594 (Ranked 222)  
-Diff (max vs sum): 57  
+Sum: 1,594 (Ranked 223)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 206 |

@@ -16,9 +16,9 @@
 | Medal of Honor | 56.00% | ~518 |
 | Meritorious Service Medal | 56.00% | ~518 |
 | Medal of Exploration II | 56.00% | ~518 |
+| Soldier | 54.00% | ~500 |
 | Turian Ally | 54.00% | ~500 |
 | Charismatic | 54.00% | ~500 |
-| Soldier | 53.00% | ~490 |
 | Asari Ally | 50.00% | ~462 |
 | Principled | 50.00% | ~462 |
 | Medal of Exploration III | 49.00% | ~453 |
@@ -60,11 +60,11 @@
 | Fade Away | 32.00% | ~296 |
 | Big Game Hunter | 32.00% | ~296 |
 | Revenge! | 32.00% | ~296 |
+| Focused | 31.00% | ~287 |
 | Cat's in the Cradle | 31.00% | ~287 |
 | Treason | 31.00% | ~287 |
 | Agent | 31.00% | ~287 |
 | Driven | 31.00% | ~287 |
-| Focused | 30.00% | ~278 |
 | Friend or Foe | 30.00% | ~278 |
 | Doppelganger | 30.00% | ~278 |
 | Digital Exorcist | 30.00% | ~278 |

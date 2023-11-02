@@ -6,19 +6,19 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~49,714 |
-| INFUSED WITH LIGHT | 53.00% | ~38,748 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~49,716 |
+| INFUSED WITH LIGHT | 53.00% | ~38,749 |
 | FOXIN' AROUND | 29.00% | ~21,202 |
 | FETCH | 28.00% | ~20,471 |
-| BLOOMS OF LIGHT | 26.00% | ~19,008 |
-| AWAKEN | 22.00% | ~16,084 |
-| BEST FRIENDS | 22.00% | ~16,084 |
-| ERADICATE | 21.00% | ~15,353 |
-| SPIRIT BARK | 21.00% | ~15,353 |
+| BLOOMS OF LIGHT | 26.00% | ~19,009 |
+| AWAKEN | 22.00% | ~16,085 |
+| BEST FRIENDS | 22.00% | ~16,085 |
+| ERADICATE | 21.00% | ~15,354 |
+| SPIRIT BARK | 21.00% | ~15,354 |
 | GARDEN OF LIGHT | 18.00% | ~13,160 |
 | SPIRIT FORM | 17.00% | ~12,429 |
-| WRITTEN IN STONE | 16.00% | ~11,697 |
-| UPROOTING DARKNESS | 15.00% | ~10,966 |
+| WRITTEN IN STONE | 16.00% | ~11,698 |
+| UPROOTING DARKNESS | 15.00% | ~10,967 |
 | WEIGHTLESS | 12.00% | ~8,773 |
 | SPIRIT DASH | 11.00% | ~8,042 |
 | OLD COMPANION | 9.00% | ~6,580 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,462 |
 | KINDRED SPIRITS | 0.60% | ~439 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,109 (Ranked 98)  
+Progressed: 73,112 (Ranked 98)  
 Completed: 385 (0.53%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 385 (0.53%) (Ranked 190)
 | 2023-10-30 | 72,858 | 383 |
 | 2023-10-31 | 72,949 | 383 |
 | 2023-11-01 | 73,026 | 385 |
-| 2023-11-02 | 73,109 | 385 |
+| 2023-11-02 | 73,112 | 385 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 509)  
 Sum: 115 (Ranked 430)  

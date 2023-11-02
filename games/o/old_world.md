@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent Difficulty | 0.30% | ~45 |
 | The Eternal Treaty | 0.30% | ~45 |
 | Run, Pheidippides, Run! | 0.30% | ~45 |
+| Nenikekamen | 0.30% | ~45 |
 | Assyria | 0.30% | ~45 |
 | Hatti | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
@@ -177,7 +178,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
-| Nenikekamen | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
 | Like a Lion | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,105 (Ranked 144)  
+Progressed: 15,106 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
-| 2023-11-02 | 15,105 | 5 |
+| 2023-11-02 | 15,106 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,866 (Ranked 212)  

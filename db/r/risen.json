@@ -2,7 +2,7 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 465,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 515,
@@ -199,9 +199,9 @@
       "ID": "id_15",
       "SetID": "bk9jib6",
       "Name": "Archaeologist",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "id_16",
@@ -576,8 +576,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:09:44.7360955+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:08:25.3246045+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:17.8152415+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:00:37.9659209+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:09:44.7361371+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:59:57.62169+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:08:25.3246529+00:00"
 }

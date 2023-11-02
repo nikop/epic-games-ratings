@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 987,
+  "Ranking_Rating": 988,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 78,
@@ -6835,7 +6835,7 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138488,
+  "EOS_Progressed": 138490,
   "EOS_Completed": 178,
   "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 6,
@@ -26880,6 +26880,11 @@
       "Time": "2023-11-02T21:09:00.5709341+00:00",
       "NumProgressed": 138488,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-02T22:07:36.7926631+00:00",
+      "NumProgressed": 138490,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27593,9 +27598,9 @@
       "ID": "polonia_a",
       "SetID": "anfd17p",
       "Name": "Scourge of the Seas",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 969
+      "UsersEstimate": 1108
     },
     {
       "ID": "quest01",
@@ -27786,15 +27791,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138488,
+      "Progressed": 138490,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-02T13:04:13.013022+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:09:00.5709336+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:07:36.7926625+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:02:07.8081794+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:09:00.5712079+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:01:22.9361214+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:07:36.7929316+00:00"
 }

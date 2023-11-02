@@ -11,7 +11,7 @@ Rating: 4.55 (Ranked 499)
 | Kuvaq Minigame-Master | 62.00% | ~278 |
 | FunScore | 56.00% | ~251 |
 | Funtime's over | 53.00% | ~237 |
-| Chunky | 50.00% | ~224 |
+| Chunky | 51.00% | ~228 |
 | Boat of love, boat of love | 49.00% | ~220 |
 | Shall we play a game? | 48.00% | ~215 |
 | School's out | 44.00% | ~197 |

@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 77,
+  "Ranking_Rating": 171,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 188,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -45,15 +45,21 @@
       "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-02T21:57:18.2219859+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3825,
+  "EOS_Progressed": 3831,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1666,
+  "EOS_NewPlayers": 1649,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1791,6 +1797,11 @@
       "Time": "2023-11-02T21:10:17.6950313+00:00",
       "NumProgressed": 3825,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T22:08:57.0884278+00:00",
+      "NumProgressed": 3831,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1811,7 +1822,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "BeLikeWater",
@@ -1843,7 +1854,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Eavesdropper",
@@ -1875,7 +1886,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1883,7 +1894,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "GarbageMan",
@@ -1947,7 +1958,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "NoMoreTotems",
@@ -1955,7 +1966,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "NotLikeTheOthers",
@@ -1987,7 +1998,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "TheOldSchoolWay",
@@ -1995,7 +2006,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "TheQuarterback",
@@ -2003,7 +2014,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ThisIsDharma",
@@ -2074,16 +2085,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3825,
+      "Progressed": 3831,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2023-11-01T18:01:19.2593354+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:10:17.6950303+00:00",
+  "LastChanged": "2023-11-02T21:57:18.2219856+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:08:57.0884249+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:57:33.6110051+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:10:17.6950674+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:57:18.2219868+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:08:57.0884639+00:00"
 }

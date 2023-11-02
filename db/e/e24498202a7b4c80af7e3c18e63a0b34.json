@@ -2,7 +2,7 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 153,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 173,
@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6614,
+  "EOS_Progressed": 6615,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 3,
@@ -4856,6 +4856,11 @@
       "Time": "2023-11-02T21:04:49.3271662+00:00",
       "NumProgressed": 6614,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-02T22:03:46.2861005+00:00",
+      "NumProgressed": 6615,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4868,7 +4873,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5688
+      "UsersEstimate": 5689
     },
     {
       "ID": "achievement_01_02",
@@ -4892,7 +4897,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4828
+      "UsersEstimate": 4829
     },
     {
       "ID": "achievement_01_05",
@@ -4908,7 +4913,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3902
+      "UsersEstimate": 3903
     },
     {
       "ID": "achievement_01_07",
@@ -4924,7 +4929,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "achievement_01_09",
@@ -5020,7 +5025,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_03_03",
@@ -5108,7 +5113,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "achievement_04_03",
@@ -5116,7 +5121,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "achievement_04_04",
@@ -5124,7 +5129,7 @@
       "Name": "Flawless Racer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "achievement_04_05",
@@ -5156,7 +5161,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5622
+      "UsersEstimate": 5623
     },
     {
       "ID": "achievement_04_09",
@@ -5171,7 +5176,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6614,
+      "Progressed": 6615,
       "Completed": 33
     }
   ],
@@ -5179,8 +5184,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:04:49.3271656+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:03:46.286099+00:00",
   "LastUpdate_AppInfo": "2023-11-02T20:57:08.8119241+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:00:21.5620971+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:04:49.3272243+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:59:45.0528665+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:03:46.2861597+00:00"
 }

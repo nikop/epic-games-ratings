@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.60 (Ranked 407)  
+Rating: 4.56 (Ranked 481)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.60 (Ranked 407)
 | Bosmang | 2.00% | ~292 |
 | The Pit and the Pirates | 1.00% | ~146 |
 | Data Archivist | 1.00% | ~146 |
+| Stogie for Fogey | 1.00% | ~146 |
 | Drug Gifter | 1.00% | ~146 |
 | Spore Taste | 1.00% | ~146 |
 | Martian Music | 1.00% | ~146 |
@@ -18,13 +19,12 @@ Rating: 4.60 (Ranked 407)
 | Captain Drummer | 1.00% | ~146 |
 | Celebrations are in Order | 1.00% | ~146 |
 | Impossible Objects | 1.00% | ~146 |
-| Stogie for Fogey | 0.90% | ~131 |
 | Khan's Revenge | 0.90% | ~131 |
 | Thorston Mayer | 0.70% | ~102 |
 | Bottoms up! | 0.60% | ~87 |
 | Miraculous Maya | 0.60% | ~87 |
 | Doctor Approved | 0.50% | ~73 |
-| Data Logger | 0.30% | ~44 |
+| Data Logger | 0.40% | ~58 |
 | No Belter Left Behind | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
 | Brother's Reaper | 0.20% | ~29 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 407)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,578 (Ranked 146)  
+Progressed: 14,581 (Ranked 146)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,7 +144,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-30 | 14,495 | 28 |
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
-| 2023-11-02 | 14,578 | 28 |
+| 2023-11-02 | 14,581 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -176,3 +176,4 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-24 | 4.60 | 0 | 0 |
 | 2023-10-26 | 4.59 | 0 | 0 |
 | 2023-10-28 | 4.60 | 0 | 0 |
+| 2023-11-02 | 4.56 | 0 | 0 |

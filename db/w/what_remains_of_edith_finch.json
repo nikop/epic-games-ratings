@@ -2,7 +2,7 @@
   "ID": "badger",
   "Name": "What Remains of Edith Finch",
   "ProductSlug": "what-remains-of-edith-finch",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 153,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 719,
@@ -281,6 +281,6 @@
   "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
   "LastChanged": "2023-06-25T02:37:36.2297695+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:00.4917554+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:01:31.5962013+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:06:28.6001535+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:00:49.3398552+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:05:23.6430523+00:00"
 }

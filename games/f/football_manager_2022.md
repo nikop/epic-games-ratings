@@ -1,17 +1,17 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 86)  
+Rating: 4.80 (Ranked 85)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,656 |
-| He's Signed! | 50.00% | ~237,656 |
-| First Victory | 50.00% | ~237,656 |
-| He's Sold! | 48.00% | ~228,150 |
-| I'm The Boss! | 42.00% | ~199,631 |
-| Hat-trick | 41.00% | ~194,878 |
+| Clean Sheet | 50.00% | ~237,657 |
+| He's Signed! | 50.00% | ~237,657 |
+| First Victory | 50.00% | ~237,657 |
+| He's Sold! | 48.00% | ~228,151 |
+| I'm The Boss! | 42.00% | ~199,632 |
+| Hat-trick | 41.00% | ~194,879 |
 | Scoring Streak | 38.00% | ~180,619 |
 | Unbeatable! | 37.00% | ~175,866 |
 | Thumping | 37.00% | ~175,866 |
@@ -28,8 +28,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're On Fire | 27.00% | ~128,335 |
 | Tremendous Trio | 27.00% | ~128,335 |
 | Record Sale | 27.00% | ~128,335 |
-| On A Roll | 26.00% | ~123,581 |
-| Unstoppable Force | 26.00% | ~123,581 |
+| On A Roll | 26.00% | ~123,582 |
+| Unstoppable Force | 26.00% | ~123,582 |
 | Armchair Expert | 25.00% | ~118,828 |
 | Fantastic Five | 24.00% | ~114,075 |
 | Full Faith | 24.00% | ~114,075 |
@@ -43,7 +43,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Cup Glory! | 22.00% | ~104,569 |
 | Irresistible Force | 20.00% | ~95,063 |
 | Excellent Match Cohesion | 20.00% | ~95,063 |
-| Do The Double | 19.00% | ~90,309 |
+| Do The Double | 19.00% | ~90,310 |
 | Top Form | 17.00% | ~80,803 |
 | Cash To Burn | 17.00% | ~80,803 |
 | Overachiever! | 16.00% | ~76,050 |
@@ -54,7 +54,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Comeback King! | 14.00% | ~66,544 |
 | You're Up! | 13.00% | ~61,791 |
 | Money, Money, Money | 12.00% | ~57,038 |
-| Invincible! | 11.00% | ~52,284 |
+| Invincible! | 11.00% | ~52,285 |
 | Superb Strike | 10.00% | ~47,531 |
 | International Superstar | 10.00% | ~47,531 |
 | Best In The World | 10.00% | ~47,531 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~475 |
 | Shoestring Budget | 0.10% | ~475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,313 (Ranked 38)  
+Progressed: 475,314 (Ranked 38)  
 Completed: 22 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,15 +301,15 @@ Completed: 22 (0.00%) (Ranked 339)
 | 2023-10-30 | 475,188 | 22 |
 | 2023-10-31 | 475,228 | 22 |
 | 2023-11-01 | 475,264 | 22 |
-| 2023-11-02 | 475,313 | 22 |
+| 2023-11-02 | 475,314 | 22 |
 ## Awards
 Max (Relaxing): 6,465  (Ranked 59)  
-Sum: 50,947 (Ranked 27)  
+Sum: 50,948 (Ranked 27)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,465 |
-| This game is Extremely Fun | 6,063 |
+| This game is Extremely Fun | 6,064 |
 | This game has Competitive Players | 5,904 |
 | This game is Highly Recommended | 5,886 |
 | This game has Quickly Understood Controls | 5,884 |
@@ -600,4 +600,4 @@ Diff (max vs sum): 32
 | 2023-10-30 | 4.80 | - | 6,465 | 50,935 |
 | 2023-10-31 | 4.80 | - | 6,465 | 50,938 |
 | 2023-11-01 | 4.80 | - | 6,465 | 50,946 |
-| 2023-11-02 | 4.80 | - | 6,465 | 50,947 |
+| 2023-11-02 | 4.80 | - | 6,465 | 50,948 |

@@ -210,9 +210,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytaleach12",
@@ -282,9 +282,9 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytaleach9",
@@ -305,8 +305,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:10:58.6477852+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:09:33.0371111+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7438301+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:57:49.7722145+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:10:58.6477977+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:57:32.7999133+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:09:33.0371247+00:00"
 }

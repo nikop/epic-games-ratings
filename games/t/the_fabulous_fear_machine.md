@@ -26,6 +26,7 @@
 | The battle of Great Britain | 3.00% | ~1 |
 | Pulp! Tales from the Crypt | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
+| Thirst for Oleum | 3.00% | ~1 |
 | ECO mode | 3.00% | ~1 |
 | Troy is burning! | 3.00% | ~1 |
 | Welcome to Hellville | 3.00% | ~1 |
@@ -44,7 +45,6 @@
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | A continent with chemistry | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
-| Thirst for Oleum | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
 | A new Hindenburg | 0.00% | ~0 |

@@ -2,7 +2,7 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 465,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 719,
@@ -5601,10 +5601,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 14659,
       "NumberOfAwardsMax": 1791
+    },
+    {
+      "Time": "2023-11-02T21:57:54.200236+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14660,
+      "NumberOfAwardsMax": 1791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14659,
+  "NumberOfAwards": 14660,
   "NumberOfAwardsMax": 1791,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5624,7 +5630,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1658
+      "Count": 1659
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5686,8 +5692,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-11-02T17:58:00.3699749+00:00",
+  "LastChanged": "2023-11-02T21:57:54.2002357+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.2155289+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:58:08.5178782+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:04:26.750278+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:57:54.2002365+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:03:26.5387306+00:00"
 }

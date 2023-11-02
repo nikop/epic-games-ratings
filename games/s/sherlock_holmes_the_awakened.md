@@ -12,14 +12,14 @@ Rating: 4.64 (Ranked 329)
 | Fond Memories | 54.00% | ~428 |
 | A Method To His Madness | 53.00% | ~420 |
 | History Check | 52.00% | ~412 |
+| The New World | 49.00% | ~388 |
 | Gaze Into The Abyss | 48.00% | ~380 |
-| The New World | 48.00% | ~380 |
 | Lock, Stock, And Barrel | 47.00% | ~372 |
 | Open Sesame | 47.00% | ~372 |
 | Sticky Fingers | 47.00% | ~372 |
 | Knives Out | 47.00% | ~372 |
 | Land, Ho! | 47.00% | ~372 |
-| Back In The Saddle | 45.00% | ~356 |
+| Back In The Saddle | 46.00% | ~364 |
 | No Man Is An Island | 45.00% | ~356 |
 | At Wits' End | 45.00% | ~356 |
 | Fhtagn! | 43.00% | ~341 |
@@ -35,7 +35,7 @@ Rating: 4.64 (Ranked 329)
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 792 (Ranked 262)  
-Completed: 26 (3.28%) (Ranked 89)  
+Completed: 26 (3.28%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

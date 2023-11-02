@@ -2,9 +2,9 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 443,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 111,
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39899,
+  "EOS_Progressed": 39904,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 448,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20760,6 +20760,11 @@
       "Time": "2023-11-02T21:10:16.5619318+00:00",
       "NumProgressed": 39899,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-02T22:08:56.0283137+00:00",
+      "NumProgressed": 39904,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -20787,7 +20792,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6783
+      "UsersEstimate": 6784
     },
     {
       "ID": "ach_antiquarian10",
@@ -20891,7 +20896,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14364
+      "UsersEstimate": 14365
     },
     {
       "ID": "ach_die10",
@@ -20979,7 +20984,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "ach_legacysalvager",
@@ -21123,7 +21128,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7182
+      "UsersEstimate": 7183
     },
     {
       "ID": "ach_terror100",
@@ -21139,7 +21144,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5985
+      "UsersEstimate": 5986
     },
     {
       "ID": "ach_undercurrent",
@@ -21195,22 +21200,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39899,
+      "Progressed": 39904,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:10:16.5619313+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:08:56.0283131+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:23.0924358+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:57:20.5590295+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:10:16.5620768+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:57:08.0009905+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:08:56.0284854+00:00"
 }

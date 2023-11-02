@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 987)  
+Rating: 3.99 (Ranked 988)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.80% | ~1,108 |
 | Miracle Alchemist | 0.80% | ~1,108 |
 | Seasoned Journeyman | 0.80% | ~1,108 |
+| Scourge of the Seas | 0.80% | ~1,108 |
 | Black Friday Special | 0.80% | ~1,108 |
 | Special Ingredient | 0.80% | ~1,108 |
 | Complete Monopoly | 0.80% | ~1,108 |
@@ -81,7 +82,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.70% | ~969 |
 | Master Merchant | 0.70% | ~969 |
 | Laden with Loot | 0.70% | ~969 |
-| Scourge of the Seas | 0.70% | ~969 |
 | Attrition Mission | 0.70% | ~969 |
 | Glittering Collection | 0.70% | ~969 |
 | Moment of Respite | 0.70% | ~969 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~138 |
 | To Hell and Back | 0.10% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,488 (Ranked 78)  
+Progressed: 138,490 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-30 | 138,369 | 176 |
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
-| 2023-11-02 | 138,488 | 178 |
+| 2023-11-02 | 138,490 | 178 |
 ## Awards
 Max (Great for Beginners): 4,814  (Ranked 74)  
 Sum: 27,484 (Ranked 51)  

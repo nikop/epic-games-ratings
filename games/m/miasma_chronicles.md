@@ -1,40 +1,40 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 685)  
+Rating: 4.43 (Ranked 686)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,444 |
-| Ranidaphobia | 77.00% | ~1,209 |
-| Aspiring Editor | 74.00% | ~1,162 |
-| Gun for Hire | 69.00% | ~1,083 |
-| I am the law! | 63.00% | ~989 |
-| Lumberjack | 53.00% | ~832 |
+| First Blood | 92.00% | ~1,445 |
+| Ranidaphobia | 77.00% | ~1,210 |
+| Aspiring Editor | 74.00% | ~1,163 |
+| Gun for Hire | 69.00% | ~1,084 |
+| I am the law! | 63.00% | ~990 |
+| Lumberjack | 53.00% | ~833 |
 | Croaked | 48.00% | ~754 |
 | Limp Richard | 48.00% | ~754 |
 | Exorcist | 47.00% | ~738 |
 | From Darkness to Light | 47.00% | ~738 |
-| Editor Adept | 46.00% | ~722 |
-| Giant Killer | 45.00% | ~706 |
-| Sensei | 43.00% | ~675 |
+| Editor Adept | 46.00% | ~723 |
+| Giant Killer | 45.00% | ~707 |
+| Sensei | 43.00% | ~676 |
 | Firestarter | 41.00% | ~644 |
 | The meaning of Kain | 41.00% | ~644 |
 | Technophobe | 40.00% | ~628 |
-| Recycler | 39.00% | ~612 |
+| Recycler | 39.00% | ~613 |
 | Are you not entertained? | 35.00% | ~550 |
 | Jarhead | 35.00% | ~550 |
 | Ganglord | 34.00% | ~534 |
 | Infiltrator | 34.00% | ~534 |
-| Experienced | 32.00% | ~502 |
-| Pushing Daisy | 32.00% | ~502 |
+| Experienced | 32.00% | ~503 |
+| Pushing Daisy | 32.00% | ~503 |
 | Hold The Line | 31.00% | ~487 |
 | Endgame | 27.00% | ~424 |
 | Savior | 27.00% | ~424 |
-| There Can Be Only One! | 25.00% | ~392 |
+| There Can Be Only One! | 25.00% | ~393 |
 | Silent but Violent | 24.00% | ~377 |
-| Chain Killer | 22.00% | ~345 |
-| The Watchers | 22.00% | ~345 |
+| Chain Killer | 22.00% | ~346 |
+| The Watchers | 22.00% | ~346 |
 | Commando | 16.00% | ~251 |
 | Dr Jones | 16.00% | ~251 |
 | Newtonian Knockout | 16.00% | ~251 |
@@ -47,7 +47,7 @@ Rating: 4.43 (Ranked 685)
 | Dressed To Kill | 7.00% | ~110 |
 | Wipe Out | 7.00% | ~110 |
 | Master Editor | 6.00% | ~94 |
-| Attenborough | 5.00% | ~78 |
+| Attenborough | 5.00% | ~79 |
 | Bookworm | 3.00% | ~47 |
 | Cruelty | 3.00% | ~47 |
 | Five Finger Deathcount | 1.00% | ~16 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 685)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,570 (Ranked 226)  
+Progressed: 1,571 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 1,559 | 0 |
 | 2023-10-31 | 1,562 | 0 |
 | 2023-11-01 | 1,566 | 0 |
-| 2023-11-02 | 1,570 | 0 |
+| 2023-11-02 | 1,571 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

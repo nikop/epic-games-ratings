@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7188,
+  "EOS_Progressed": 7189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8075,6 +8075,11 @@
       "Time": "2023-11-02T21:06:02.6483589+00:00",
       "NumProgressed": 7188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T22:05:00.7951102+00:00",
+      "NumProgressed": 7189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8118,7 +8123,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2156
+      "UsersEstimate": 2157
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8150,7 +8155,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8166,7 +8171,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "First_Major_Ally",
@@ -8190,7 +8195,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     },
     {
       "ID": "First_Race_Met",
@@ -8198,7 +8203,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5175
+      "UsersEstimate": 5176
     },
     {
       "ID": "First_Ship_Designed",
@@ -8222,7 +8227,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5535
+      "UsersEstimate": 5536
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8574,7 +8579,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4672
+      "UsersEstimate": 4673
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8638,7 +8643,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "Win_Quickly",
@@ -8661,15 +8666,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7188,
+      "Progressed": 7189,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-02T21:06:02.6483582+00:00",
+  "LastChanged_Achievements": "2023-11-02T22:05:00.7951094+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:01:07.3049693+00:00",
-  "LastUpdate_Achievements": "2023-11-02T21:06:02.6484811+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:00:30.6191576+00:00",
+  "LastUpdate_Achievements": "2023-11-02T22:05:00.7952169+00:00"
 }

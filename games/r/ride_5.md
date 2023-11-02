@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 44.00% | ~858 |
-| First Love | 43.00% | ~838 |
+| Eat My Dust | 44.00% | ~859 |
+| First Love | 43.00% | ~839 |
 | Clean Race | 41.00% | ~800 |
-| Hear That Roar! | 38.00% | ~741 |
+| Hear That Roar! | 38.00% | ~742 |
 | Rivals to the End | 29.00% | ~566 |
-| Bitter Rivalry | 27.00% | ~526 |
+| Bitter Rivalry | 27.00% | ~527 |
 | We're Going to Need a Bigger Garage | 24.00% | ~468 |
 | Champagne Spray | 24.00% | ~468 |
-| Restored and Ready | 19.00% | ~370 |
-| I Want One Too! | 19.00% | ~370 |
-| Legendary!!! | 19.00% | ~370 |
+| Restored and Ready | 19.00% | ~371 |
+| I Want One Too! | 19.00% | ~371 |
+| Legendary!!! | 19.00% | ~371 |
 | Quick Pit Stop | 18.00% | ~351 |
 | Go-Faster Stripes | 17.00% | ~332 |
 | I'm Here Too! | 17.00% | ~332 |
-| We've Just Begun | 11.00% | ~214 |
+| We've Just Begun | 11.00% | ~215 |
 | Stamina Star | 8.00% | ~156 |
 | Is It the Right Size? | 8.00% | ~156 |
 | Evangelist | 6.00% | ~117 |
 | Make It Your Own! | 5.00% | ~98 |
 | I Make the Rules! | 4.00% | ~78 |
-| Spoilt for Choice | 3.00% | ~58 |
-| Cherry Blossom and Temples | 3.00% | ~58 |
-| La Dolce Vita | 3.00% | ~58 |
-| The Road to Liberty | 3.00% | ~58 |
-| Romantic Races | 3.00% | ~58 |
-| Rounding Off | 3.00% | ~58 |
+| Spoilt for Choice | 3.00% | ~59 |
+| Cherry Blossom and Temples | 3.00% | ~59 |
+| La Dolce Vita | 3.00% | ~59 |
+| The Road to Liberty | 3.00% | ~59 |
+| Romantic Races | 3.00% | ~59 |
+| Rounding Off | 3.00% | ~59 |
 | Iconic! | 2.00% | ~39 |
 | Back in Blighty | 2.00% | ~39 |
 | Still Here | 2.00% | ~39 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,950 (Ranked 217)  
+Progressed: 1,952 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,4 +116,4 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 1,878 | 0 |
 | 2023-10-31 | 1,900 | 0 |
 | 2023-11-01 | 1,923 | 0 |
-| 2023-11-02 | 1,950 | 0 |
+| 2023-11-02 | 1,952 | 0 |
