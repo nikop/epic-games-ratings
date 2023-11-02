@@ -1,25 +1,25 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 561)  
+Rating: 4.51 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~158,925 |
-| FIRST BLOOD | 40.00% | ~141,266 |
-| KEVIN! | 30.00% | ~105,950 |
-| JACK OF ALL TRADES | 23.00% | ~81,228 |
-| CRIMINAL | 20.00% | ~70,633 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~38,848 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~31,785 |
-| HONORS STUDENT | 8.00% | ~28,253 |
-| BUTCHER | 6.00% | ~21,190 |
-| INDIVIDUAL APPROACH | 5.00% | ~17,658 |
-| RAMBO | 5.00% | ~17,658 |
-| HELL'S KITCHEN | 4.00% | ~14,127 |
-| CELEBRITY | 3.00% | ~10,595 |
-| MARTYR | 3.00% | ~10,595 |
-| GRATITUDE | 2.00% | ~7,063 |
+| MASTER CHEF | 45.00% | ~158,937 |
+| FIRST BLOOD | 40.00% | ~141,277 |
+| KEVIN! | 30.00% | ~105,958 |
+| JACK OF ALL TRADES | 23.00% | ~81,234 |
+| CRIMINAL | 20.00% | ~70,639 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~38,851 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~31,787 |
+| HONORS STUDENT | 8.00% | ~28,255 |
+| BUTCHER | 6.00% | ~21,192 |
+| INDIVIDUAL APPROACH | 5.00% | ~17,660 |
+| RAMBO | 5.00% | ~17,660 |
+| HELL'S KITCHEN | 4.00% | ~14,128 |
+| CELEBRITY | 3.00% | ~10,596 |
+| MARTYR | 3.00% | ~10,596 |
+| GRATITUDE | 2.00% | ~7,064 |
 | EXPERIMENTALIST | 1.00% | ~3,532 |
 | GOURMET | 1.00% | ~3,532 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,532 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 561)
 | MISTER ALL THUMBS | 0.10% | ~353 |
 | TRAVELER | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,166 (Ranked 44)  
+Progressed: 353,193 (Ranked 44)  
 Completed: 30 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 30 (0.01%) (Ranked 317)
 | 2023-10-30 | 350,741 | 26 |
 | 2023-10-31 | 351,812 | 28 |
 | 2023-11-01 | 352,877 | 30 |
-| 2023-11-02 | 353,166 | 30 |
+| 2023-11-02 | 353,193 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

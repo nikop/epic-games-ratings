@@ -2,7 +2,7 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 387,
@@ -690,9 +690,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_11",
@@ -1067,8 +1067,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:03:48.7817589+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:03:56.162171+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:59:30.3034155+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:03:48.7818064+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:46.4250971+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:03:56.1622212+00:00"
 }

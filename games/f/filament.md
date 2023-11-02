@@ -1,7 +1,7 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 805)  
+Rating: 4.33 (Ranked 806)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,7 +36,7 @@ Rating: 4.33 (Ranked 805)
 | Corrupted + | 0.40% | ~818 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 204,557 (Ranked 70)  
-Completed: 523 (0.26%) (Ranked 229)  
+Completed: 524 (0.26%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,7 +231,7 @@ Completed: 523 (0.26%) (Ranked 229)
 | 2023-10-30 | 204,429 | 523 |
 | 2023-10-31 | 204,475 | 523 |
 | 2023-11-01 | 204,534 | 523 |
-| 2023-11-02 | 204,557 | 523 |
+| 2023-11-02 | 204,557 | 524 |
 ## Awards
 Max (Challenging Puzzles): 567  (Ranked 198)  
 Sum: 661 (Ranked 300)  

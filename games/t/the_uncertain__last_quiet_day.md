@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 60.00% | ~340 |
-| Buckle up | 59.00% | ~334 |
-| Quick charge | 59.00% | ~334 |
-| Hands up! | 53.00% | ~300 |
-| Now you know | 53.00% | ~300 |
-| Short circuit | 53.00% | ~300 |
+| Buckle up | 59.00% | ~335 |
+| Quick charge | 59.00% | ~335 |
+| Hands up! | 53.00% | ~301 |
+| Now you know | 53.00% | ~301 |
+| Short circuit | 53.00% | ~301 |
 | Curious | 42.00% | ~238 |
-| Everybody lies | 36.00% | ~204 |
+| Everybody lies | 35.00% | ~198 |
 | Trick or Treat? | 23.00% | ~130 |
+| There is another way | 23.00% | ~130 |
 | Sysadmin | 22.00% | ~125 |
-| There is another way | 22.00% | ~125 |
 | Annoying | 20.00% | ~113 |
 | Every little helps | 20.00% | ~113 |
 | The Walking Robot Among Us | 20.00% | ~113 |
@@ -37,8 +37,8 @@
 | Accurate | 5.00% | ~28 |
 | Silent | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 281)  
-Completed: 18 (3.18%) (Ranked 93)  
+Progressed: 567 (Ranked 281)  
+Completed: 18 (3.17%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,6 +145,7 @@ Completed: 18 (3.18%) (Ranked 93)
 | 2023-10-28 | 563 | 18 |
 | 2023-10-29 | 565 | 18 |
 | 2023-10-30 | 566 | 18 |
+| 2023-11-02 | 567 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

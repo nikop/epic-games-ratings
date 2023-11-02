@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3759,
+  "EOS_Progressed": 3762,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1890,
+  "EOS_NewPlayers": 1884,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1731,6 +1731,11 @@
       "Time": "2023-11-02T08:09:00.5635845+00:00",
       "NumProgressed": 3759,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T09:08:41.3455305+00:00",
+      "NumProgressed": 3762,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1751,7 +1756,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "BeLikeWater",
@@ -1783,7 +1788,7 @@
       "Name": "Connection Lost",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Eavesdropper",
@@ -1887,7 +1892,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "NoMoreTotems",
@@ -1943,7 +1948,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ThisIsDharma",
@@ -2014,7 +2019,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3759,
+      "Progressed": 3762,
       "Completed": 3
     }
   ],
@@ -2022,8 +2027,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-01T18:01:19.2593354+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:09:00.5635835+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:08:41.3455301+00:00",
   "LastUpdate_AppInfo": "2023-10-26T10:57:21.6512102+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:57:07.4768326+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:09:00.5636217+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:57:21.0322868+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:08:41.3455671+00:00"
 }

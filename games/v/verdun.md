@@ -1,19 +1,19 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 532)  
+Rating: 4.53 (Ranked 533)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,599 |
-| Worth it | 63.00% | ~39,253 |
-| Eagle Eye | 55.00% | ~34,269 |
-| Corpseman I | 40.00% | ~24,923 |
-| Blast fishing | 37.00% | ~23,054 |
-| Not alone | 32.00% | ~19,938 |
-| Headhunter I | 26.00% | ~16,200 |
-| Manual Labour I | 25.00% | ~15,577 |
+| Setting an example | 78.00% | ~48,602 |
+| Worth it | 63.00% | ~39,255 |
+| Eagle Eye | 55.00% | ~34,270 |
+| Corpseman I | 40.00% | ~24,924 |
+| Blast fishing | 37.00% | ~23,055 |
+| Not alone | 32.00% | ~19,939 |
+| Headhunter I | 26.00% | ~16,201 |
+| Manual Labour I | 25.00% | ~15,578 |
 | Developers, Developers, Developers | 24.00% | ~14,954 |
 | Basic Training | 24.00% | ~14,954 |
 | Furchtlos und Treu | 13.00% | ~8,100 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,608 |
 | For King and Country | 9.00% | ~5,608 |
 | Battle hardened | 8.00% | ~4,985 |
-| Semper Fidelis! | 7.00% | ~4,361 |
-| Honneur et Patrie | 7.00% | ~4,361 |
-| In Treue Fest | 5.00% | ~3,115 |
-| Voor De Koning | 5.00% | ~3,115 |
-| Extreme Headhunter | 5.00% | ~3,115 |
+| Semper Fidelis! | 7.00% | ~4,362 |
+| Honneur et Patrie | 7.00% | ~4,362 |
+| In Treue Fest | 5.00% | ~3,116 |
+| Voor De Koning | 5.00% | ~3,116 |
+| Extreme Headhunter | 5.00% | ~3,116 |
 | Advance Australia | 4.00% | ~2,492 |
 | We Stand on Guard | 4.00% | ~2,492 |
 | Sidi Brahim | 4.00% | ~2,492 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,307 (Ranked 103)  
+Progressed: 62,310 (Ranked 103)  
 Completed: 4 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 4 (0.01%) (Ranked 317)
 | 2023-10-30 | 62,131 | 4 |
 | 2023-10-31 | 62,223 | 4 |
 | 2023-11-01 | 62,294 | 4 |
-| 2023-11-02 | 62,307 | 4 |
+| 2023-11-02 | 62,310 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 348)  
 Sum: 902 (Ranked 267)  

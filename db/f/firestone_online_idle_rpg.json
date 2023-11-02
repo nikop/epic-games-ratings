@@ -2,12 +2,12 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2092,
+  "EOS_Progressed": 2093,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6450,6 +6450,11 @@
       "Time": "2023-11-02T08:05:58.3565919+00:00",
       "NumProgressed": 2092,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-02T09:06:03.1524164+00:00",
+      "NumProgressed": 2093,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6635,9 +6640,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 398
     },
     {
       "ID": "fellowshippower",
@@ -6717,7 +6722,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "hunter",
@@ -6765,7 +6770,7 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "masterenchanter",
@@ -6805,7 +6810,7 @@
       "Name": "Missions Dedication",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "movinguptheladder",
@@ -6877,7 +6882,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "scientist",
@@ -6917,7 +6922,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "thealchemist",
@@ -6925,7 +6930,7 @@
       "Name": "The Alchemist",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "theexpeditioner",
@@ -6949,7 +6954,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "thepowerofawakening",
@@ -7060,7 +7065,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2092,
+      "Progressed": 2093,
       "Completed": 2
     }
   ],
@@ -7068,8 +7073,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-29T20:58:12.1525897+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:05:58.3565909+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:06:03.152416+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:59:00.9767056+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:05:58.3566975+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:18.9822571+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:06:03.1525274+00:00"
 }

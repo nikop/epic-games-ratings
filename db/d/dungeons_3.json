@@ -3019,9 +3019,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 36241,
+  "EOS_Progressed": 36242,
   "EOS_Completed": 296,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 929,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -24604,6 +24604,11 @@
       "Time": "2023-11-02T08:04:59.2627186+00:00",
       "NumProgressed": 36241,
       "NumCompleted": 296
+    },
+    {
+      "Time": "2023-11-02T09:05:05.1185561+00:00",
+      "NumProgressed": 36242,
+      "NumCompleted": 296
     }
   ],
   "TotalAchievements": 60,
@@ -24631,7 +24636,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 20657
+      "UsersEstimate": 20658
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -24711,7 +24716,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6523
+      "UsersEstimate": 6524
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -24727,7 +24732,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 17758
+      "UsersEstimate": 17759
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -24735,7 +24740,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -24775,7 +24780,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 13409
+      "UsersEstimate": 13410
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -24855,7 +24860,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -24871,7 +24876,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -24919,7 +24924,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 8335
+      "UsersEstimate": 8336
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -24983,7 +24988,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -25023,7 +25028,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -25063,7 +25068,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -25094,15 +25099,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 36241,
+      "Progressed": 36242,
       "Completed": 296
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-02T05:57:10.2690697+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:04:59.262718+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:05:05.1185556+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.8036406+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:57:13.5018682+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:59.2629153+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:57:28.72068+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:05:05.1187856+00:00"
 }

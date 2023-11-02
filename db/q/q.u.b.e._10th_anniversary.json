@@ -2,7 +2,7 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 146,
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14408,
+  "EOS_Progressed": 14418,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4605,
+  "EOS_NewPlayers": 4594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1684,6 +1684,11 @@
       "Time": "2023-11-02T08:09:26.9345694+00:00",
       "NumProgressed": 14408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T09:09:37.0184319+00:00",
+      "NumProgressed": 14418,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1733,9 +1738,9 @@
       "ID": "ACH_Finale",
       "SetID": "a3lf366",
       "Name": "Finale",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -1853,9 +1858,9 @@
       "ID": "ACH_Sector5",
       "SetID": "a3lf366",
       "Name": "Sector 5",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_Sector6",
@@ -1886,7 +1891,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14408,
+      "Progressed": 14418,
       "Completed": 1
     }
   ],
@@ -1894,8 +1899,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T06:57:11.2594167+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:09:26.9345688+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:09:37.0184311+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:57:18.4175466+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:09:26.9345992+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:57:32.7746448+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:09:37.0184598+00:00"
 }

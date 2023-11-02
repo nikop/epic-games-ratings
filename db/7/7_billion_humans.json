@@ -2,9 +2,12 @@
   "ID": "holly",
   "Name": "7 Billion Humans",
   "ProductSlug": "7-billion-humans",
-  "Ranking_EOS_Progress": 717,
+  "Ranking_Rating": 309,
+  "Ranking_Popularity": 545,
+  "Ranking_PopularitySum": 545,
+  "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2018-08-23T15:00:00+00:00",
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:40.386218+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-02T08:58:56.8401664+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:18.8628229+00:00",
   "FirstSeenRating": "2023-03-31T05:57:40.3862176+00:00",
-  "LastChanged": "2023-03-31T05:57:40.3862177+00:00",
+  "LastChanged": "2023-11-02T08:58:56.8401662+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:26.1130203+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:58:38.7851774+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:05:29.4583643+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:58:56.8401669+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:05:34.8943384+00:00"
 }

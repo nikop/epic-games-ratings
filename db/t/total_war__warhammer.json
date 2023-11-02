@@ -2,12 +2,12 @@
   "ID": "0c321ac6d5fe49139c153253b60702f4",
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 67,
-  "Ranking_EOS_Progress": 717,
+  "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
@@ -6493,10 +6493,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 14897,
       "NumberOfAwardsMax": 6490
+    },
+    {
+      "Time": "2023-11-02T09:02:07.6004481+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 14899,
+      "NumberOfAwardsMax": 6490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14897,
+  "NumberOfAwards": 14899,
   "NumberOfAwardsMax": 6490,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6510,7 +6516,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1033
+      "Count": 1034
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6546,7 +6552,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 895
+      "Count": 896
     },
     {
       "Text": "This game has Competitive Players",
@@ -6590,8 +6596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-11-01T23:02:36.5588889+00:00",
+  "LastChanged": "2023-11-02T09:02:07.6004478+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:33.8670688+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:02:52.2460347+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:10.4830386+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:02:07.6004486+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:04:17.5293023+00:00"
 }

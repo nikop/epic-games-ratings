@@ -1,34 +1,34 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 871)  
+Rating: 4.24 (Ranked 872)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,694 |
-| Don't I Know You...? | 77.00% | ~1,630 |
-| Jailbreak | 66.00% | ~1,397 |
-| HEADSHOT! | 38.00% | ~804 |
-| Suited and Booted | 38.00% | ~804 |
-| Sleeping With The Fishes | 36.00% | ~762 |
-| Overheated | 30.00% | ~635 |
-| High Performance | 30.00% | ~635 |
+| Rigged And Ready | 80.00% | ~1,695 |
+| Don't I Know You...? | 77.00% | ~1,632 |
+| Jailbreak | 66.00% | ~1,399 |
+| HEADSHOT! | 38.00% | ~805 |
+| Suited and Booted | 38.00% | ~805 |
+| Sleeping With The Fishes | 36.00% | ~763 |
+| Overheated | 30.00% | ~636 |
+| High Performance | 30.00% | ~636 |
 | Powered Up | 28.00% | ~593 |
-| Studied The Blade | 25.00% | ~529 |
+| Studied The Blade | 25.00% | ~530 |
 | Home Invasion | 23.00% | ~487 |
 | Luminary | 23.00% | ~487 |
 | It's a Trap | 22.00% | ~466 |
 | True Survivor | 21.00% | ~445 |
-| Offensive Defense | 20.00% | ~423 |
-| Shocking | 20.00% | ~423 |
-| Unforeseeable Consequences | 20.00% | ~423 |
-| Court Martial | 19.00% | ~402 |
-| Clean Cut | 19.00% | ~402 |
+| Offensive Defense | 20.00% | ~424 |
+| Shocking | 20.00% | ~424 |
+| Unforeseeable Consequences | 20.00% | ~424 |
+| Court Martial | 19.00% | ~403 |
+| Clean Cut | 19.00% | ~403 |
 | Dead Again | 18.00% | ~381 |
 | Full Arsenal | 17.00% | ~360 |
 | Can't Trust Banks | 15.00% | ~318 |
-| Mommy Dearest | 14.00% | ~296 |
-| Bad Dog | 14.00% | ~296 |
+| Mommy Dearest | 14.00% | ~297 |
+| Bad Dog | 13.00% | ~275 |
 | Where It All Began | 13.00% | ~275 |
 | Risk Tolerant | 13.00% | ~275 |
 | What A Catchy Song | 13.00% | ~275 |
@@ -38,9 +38,9 @@ Rating: 4.24 (Ranked 871)
 | Stimulating The Local Economy | 10.00% | ~212 |
 | Triplets | 10.00% | ~212 |
 | Denying Prophecy | 9.00% | ~191 |
-| Defense in Depth | 9.00% | ~191 |
-| A Little Banged Up | 8.00% | ~169 |
-| Following In Their Footsteps | 8.00% | ~169 |
+| A Little Banged Up | 8.00% | ~170 |
+| Following In Their Footsteps | 8.00% | ~170 |
+| Defense in Depth | 8.00% | ~170 |
 | Reverse Engineering | 7.00% | ~148 |
 | Reborn | 6.00% | ~127 |
 | Remote Surgery | 6.00% | ~127 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 871)
 | Loot, Pillage & Craft | 2.00% | ~42 |
 | Swiss Army Drone | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,117 (Ranked 212)  
+Progressed: 2,119 (Ranked 212)  
 Completed: 13 (0.61%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 13 (0.61%) (Ranked 177)
 | 2023-10-27 | 2,096 | 13 |
 | 2023-10-31 | 2,098 | 13 |
 | 2023-11-01 | 2,113 | 13 |
-| 2023-11-02 | 2,117 | 13 |
+| 2023-11-02 | 2,119 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

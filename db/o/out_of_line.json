@@ -2,12 +2,12 @@
   "ID": "0f58cd1c026441f49371d663a710fe83",
   "Name": "Out of Line",
   "ProductSlug": "out-of-line-209cbb",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
-  "Ranking_EOS_Progress": 717,
+  "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-06-23T07:00:00+00:00",
@@ -191,6 +191,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4516384+00:00",
   "LastChanged": "2023-10-29T21:00:31.1775105+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.1994552+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:00:59.022891+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:57.6479794+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:01:15.4639896+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:05:03.3717473+00:00"
 }

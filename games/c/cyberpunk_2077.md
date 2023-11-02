@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 329)  
+Rating: 4.64 (Ranked 330)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,18 +51,18 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.10% | ~895 |
 | It's Elementary | 0.10% | ~895 |
 | Legend of The Afterlife | 0.10% | ~895 |
-| The APB is Not Enough | 0.10% | ~23 |
-| Spin Doctor | 0.10% | ~23 |
-| All the President's Men | 0.10% | ~23 |
-| Judgement Day | 0.10% | ~23 |
-| Arachnophobia | 0.10% | ~23 |
-| King of Cups | 0.10% | ~23 |
-| King of Pentacles | 0.10% | ~23 |
-| King of Swords | 0.10% | ~23 |
-| King of Wands | 0.10% | ~23 |
-| The Tower | 0.10% | ~23 |
-| Dirty Deeds | 0.10% | ~23 |
-| Easy Come, Easy Go | 0.10% | ~23 |
+| The APB is Not Enough | 0.10% | ~24 |
+| Spin Doctor | 0.10% | ~24 |
+| All the President's Men | 0.10% | ~24 |
+| Judgement Day | 0.10% | ~24 |
+| Arachnophobia | 0.10% | ~24 |
+| King of Cups | 0.10% | ~24 |
+| King of Pentacles | 0.10% | ~24 |
+| King of Swords | 0.10% | ~24 |
+| King of Wands | 0.10% | ~24 |
+| The Tower | 0.10% | ~24 |
+| Dirty Deeds | 0.10% | ~24 |
+| Easy Come, Easy Go | 0.10% | ~24 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,872 (Ranked 15)  
-Completed: 2,737 (0.31%) (Ranked 216)  
+Progressed: 894,879 (Ranked 15)  
+Completed: 2,738 (0.31%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,10 +270,10 @@ Completed: 2,737 (0.31%) (Ranked 216)
 | 2023-10-30 | 894,580 | 2,734 |
 | 2023-10-31 | 894,703 | 2,736 |
 | 2023-11-01 | 894,844 | 2,736 |
-| 2023-11-02 | 894,872 | 2,737 |
+| 2023-11-02 | 894,879 | 2,738 |
 ## Awards
 Max (Character Customization): 103,284  (Ranked 9)  
-Sum: 338,726 (Ranked 10)  
+Sum: 338,823 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -285,8 +285,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 18,697 |
 | This game is Extremely Fun | 18,444 |
 | This game has Amazing Characters | 18,367 |
+| This game is Relaxing | 17,699 |
 | This game has Quickly Understood Controls | 17,627 |
-| This game is Relaxing | 17,602 |
 | This game has a Creative Community | 12,206 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -578,4 +578,4 @@ Diff (max vs sum): -1
 | 2023-10-30 | 4.64 | - | 102,927 | 335,582 |
 | 2023-10-31 | 4.64 | - | 103,117 | 336,927 |
 | 2023-11-01 | 4.64 | - | 103,284 | 338,204 |
-| 2023-11-02 | 4.64 | - | 103,284 | 338,726 |
+| 2023-11-02 | 4.64 | - | 103,284 | 338,823 |

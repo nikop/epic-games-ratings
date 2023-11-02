@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
@@ -7759,7 +7759,7 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233428,
+  "EOS_Progressed": 233429,
   "EOS_Completed": 2420,
   "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 32,
@@ -29634,6 +29634,11 @@
       "Time": "2023-11-02T08:03:38.9888862+00:00",
       "NumProgressed": 233428,
       "NumCompleted": 2420
+    },
+    {
+      "Time": "2023-11-02T09:03:46.9994469+00:00",
+      "NumProgressed": 233429,
+      "NumCompleted": 2420
     }
   ],
   "TotalAchievements": 528,
@@ -31419,9 +31424,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_389",
@@ -33868,21 +33873,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199702,
+      "Progressed": 199703,
       "Completed": 3734
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233428,
+      "Progressed": 233429,
       "Completed": 2420
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-02T06:58:49.4061482+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:03:38.9888854+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:03:46.9994464+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:59:11.6163337+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:03:38.9918087+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:28.9693082+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:03:47.0034633+00:00"
 }

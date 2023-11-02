@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -9817,10 +9817,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47203,
       "NumberOfAwardsMax": 23964
+    },
+    {
+      "Time": "2023-11-02T08:59:49.0271202+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47208,
+      "NumberOfAwardsMax": 23964
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47203,
+  "NumberOfAwards": 47208,
   "NumberOfAwardsMax": 23964,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9858,7 +9864,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1194
+      "Count": 1199
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9897,10 +9903,10 @@
       "Count": 760
     }
   ],
-  "EOS_Progressed": 300176,
-  "EOS_Completed": 498,
-  "EOS_NewPlayers": 1251,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 300178,
+  "EOS_Completed": 499,
+  "EOS_NewPlayers": 1252,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -30852,6 +30858,11 @@
       "Time": "2023-11-02T08:09:24.3436836+00:00",
       "NumProgressed": 300176,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-11-02T09:09:34.4824654+00:00",
+      "NumProgressed": 300178,
+      "NumCompleted": 499
     }
   ],
   "TotalAchievements": 45,
@@ -30863,7 +30874,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45026
+      "UsersEstimate": 45027
     },
     {
       "ID": "PFA_10",
@@ -30871,7 +30882,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_11",
@@ -30879,7 +30890,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_12",
@@ -30887,7 +30898,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_13",
@@ -30919,7 +30930,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_17",
@@ -30991,7 +31002,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_25",
@@ -31047,7 +31058,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_31",
@@ -31119,7 +31130,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33019
+      "UsersEstimate": 33020
     },
     {
       "ID": "PFA_4",
@@ -31222,16 +31233,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 300176,
-      "Completed": 498
+      "Progressed": 300178,
+      "Completed": 499
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-02T03:59:38.7836517+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:09:24.3436825+00:00",
+  "LastChanged": "2023-11-02T08:59:49.02712+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:09:34.4824649+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:59:32.553025+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:09:24.3438575+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:49.0271211+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:09:34.4826555+00:00"
 }

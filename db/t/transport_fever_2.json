@@ -3,11 +3,11 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 228,
-  "Ranking_Popularity": 448,
+  "Ranking_Popularity": 446,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -613,18 +613,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 301,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2023-11-02T08:58:09.0764602+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 302,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 301,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 302,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -683,7 +689,7 @@
   ],
   "EOS_Progressed": 1805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4915,9 +4921,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2023-10-27T19:01:06.1713618+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:09:32.3117281+00:00",
+  "LastChanged": "2023-11-02T08:58:09.07646+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:09:42.3706561+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:48.3657665+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:57:55.3646142+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:09:32.3118177+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:58:09.0764607+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:09:42.3707341+00:00"
 }

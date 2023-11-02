@@ -1,26 +1,26 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 629)  
+Rating: 4.47 (Ranked 630)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,641 |
-| Overkill | 35.00% | ~6,220 |
-| Vaccine Incoming | 33.00% | ~5,864 |
-| A normal day in Gloomhaven | 33.00% | ~5,864 |
-| Spread the plague | 30.00% | ~5,331 |
-| Get over here! | 25.00% | ~4,442 |
-| Just when I thought I was out... | 19.00% | ~3,376 |
-| Precious! | 17.00% | ~3,021 |
-| Mine... All Mine... | 17.00% | ~3,021 |
+| I'm not dead yet | 43.00% | ~7,643 |
+| Overkill | 35.00% | ~6,221 |
+| Vaccine Incoming | 33.00% | ~5,865 |
+| A normal day in Gloomhaven | 33.00% | ~5,865 |
+| Spread the plague | 30.00% | ~5,332 |
+| Get over here! | 25.00% | ~4,444 |
+| Just when I thought I was out... | 19.00% | ~3,377 |
+| Precious! | 17.00% | ~3,022 |
+| Mine... All Mine... | 17.00% | ~3,022 |
 | Light of my life | 15.00% | ~2,666 |
 | Anatomy Lesson | 15.00% | ~2,666 |
 | Grizzled veteran | 14.00% | ~2,488 |
-| You activated my trap card! | 13.00% | ~2,310 |
-| Obstacle race | 13.00% | ~2,310 |
-| Augmented rat | 12.00% | ~2,132 |
+| You activated my trap card! | 13.00% | ~2,311 |
+| Obstacle race | 13.00% | ~2,311 |
+| Augmented rat | 12.00% | ~2,133 |
 | Doom and gloom | 11.00% | ~1,955 |
 | Who's the Boss? | 10.00% | ~1,777 |
 | Dungeon Veteran | 8.00% | ~1,422 |
@@ -29,10 +29,10 @@ Number of Ratings: 68  (23.09.2022)
 | Black death | 8.00% | ~1,422 |
 | Play it again, Sam | 8.00% | ~1,422 |
 | Quad damage | 6.00% | ~1,066 |
-| Power Up! | 5.00% | ~888 |
-| The Pro from Dover | 5.00% | ~888 |
-| Pretty lights! | 5.00% | ~888 |
-| Now you see me... | 5.00% | ~888 |
+| Power Up! | 5.00% | ~889 |
+| The Pro from Dover | 5.00% | ~889 |
+| Pretty lights! | 5.00% | ~889 |
+| Now you see me... | 5.00% | ~889 |
 | Caught off guard | 4.00% | ~711 |
 | I hate portals | 3.00% | ~533 |
 | Merchant of doom | 3.00% | ~533 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,770 (Ranked 135)  
+Progressed: 17,774 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
 | 2023-11-01 | 17,722 | 1 |
-| 2023-11-02 | 17,770 | 1 |
+| 2023-11-02 | 17,774 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
 Sum: 8,329 (Ranked 98)  

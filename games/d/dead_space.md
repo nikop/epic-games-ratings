@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.63 (Ranked 346)  
+Rating: 4.63 (Ranked 347)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.63 (Ranked 346)
 | Brute Force | 65.00% | ~922 |
 | Cannon Fodder | 61.00% | ~866 |
 | Autofire | 58.00% | ~823 |
+| True Believer | 57.00% | ~809 |
 | Story Teller | 56.00% | ~795 |
-| True Believer | 56.00% | ~795 |
 | Raise the Stakes | 55.00% | ~780 |
 | Surgeon | 52.00% | ~738 |
 | Exterminator | 52.00% | ~738 |

@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 22,
@@ -6015,9 +6015,9 @@
       "Count": 414
     }
   ],
-  "EOS_Progressed": 710590,
+  "EOS_Progressed": 710603,
   "EOS_Completed": 2299,
-  "EOS_NewPlayers": 6355,
+  "EOS_NewPlayers": 6349,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -28320,6 +28320,11 @@
       "Time": "2023-11-02T08:04:25.7590036+00:00",
       "NumProgressed": 710590,
       "NumCompleted": 2299
+    },
+    {
+      "Time": "2023-11-02T09:04:32.3875318+00:00",
+      "NumProgressed": 710603,
+      "NumCompleted": 2299
     }
   ],
   "TotalAchievements": 45,
@@ -28667,7 +28672,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 42635
+      "UsersEstimate": 42636
     },
     {
       "ID": "ach_well_known_survivor",
@@ -28690,22 +28695,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 710590,
+      "Progressed": 710603,
       "Completed": 2299
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 36132,
-      "Completed": 36132
+      "Progressed": 36145,
+      "Completed": 36145
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-02T05:59:55.8591246+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:04:25.7590031+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:04:32.3875314+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:00:17.3935352+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:25.7591805+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:00:33.3209331+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:04:32.3877137+00:00"
 }

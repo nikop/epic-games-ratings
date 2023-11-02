@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 965)  
+Rating: 4.06 (Ranked 966)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.20% | ~467 |
 | Attack on the Manor | 0.20% | ~467 |
 | The Crumbling Temple | 0.20% | ~467 |
+| Flies on the Wall | 0.20% | ~467 |
 | Seeking Allies | 0.20% | ~467 |
 | Backtracking Through Barovia | 0.20% | ~467 |
 | Nimble Escape | 0.20% | ~467 |
@@ -296,7 +297,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~233 |
 | A Saurial's Resolve | 0.10% | ~233 |
 | Spirit of the Trickster Gods | 0.10% | ~200 |
-| Flies on the Wall | 0.10% | ~233 |
 | The Killer Mists | 0.10% | ~233 |
 | Class Vacation | 0.10% | ~233 |
 | A Nod from Strahd | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,428 (Ranked 62)  
+Progressed: 233,429 (Ranked 62)  
 Completed: 2,420 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,7 +731,7 @@ Completed: 2,420 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,428 | 2,420 |
+| 2023-11-02 | 233,429 | 2,420 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,298 (Ranked 41)  

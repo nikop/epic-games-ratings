@@ -1,39 +1,39 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.40 (Ranked 732)  
+Rating: 4.40 (Ranked 733)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~831 |
-| And so it begins | 73.00% | ~798 |
-| No pressure | 70.00% | ~765 |
+| And so it begins | 73.00% | ~799 |
+| No pressure | 70.00% | ~766 |
 | Memento | 62.00% | ~678 |
 | Let there be light | 60.00% | ~656 |
-| I think you dropped this | 55.00% | ~601 |
-| Soulmate? | 54.00% | ~590 |
-| Excellent service | 50.00% | ~546 |
+| I think you dropped this | 55.00% | ~602 |
+| Soulmate? | 54.00% | ~591 |
+| Excellent service | 50.00% | ~547 |
 | Roll with it | 47.00% | ~514 |
 | Humble beginnings | 45.00% | ~492 |
 | Love is in the air | 44.00% | ~481 |
 | Fine, I'll do it myself | 43.00% | ~470 |
 | Moving up | 42.00% | ~459 |
-| No need to call anyone | 41.00% | ~448 |
+| No need to call anyone | 40.00% | ~438 |
 | Big fortune | 33.00% | ~361 |
 | Still more work ahead | 30.00% | ~328 |
 | Kaboom | 28.00% | ~306 |
 | Aesop's fable | 28.00% | ~306 |
 | Hotel sleuthing | 28.00% | ~306 |
 | Nearly there | 26.00% | ~284 |
-| Broken heart | 24.00% | ~262 |
-| Island boy | 22.00% | ~240 |
+| Broken heart | 24.00% | ~263 |
+| Island boy | 22.00% | ~241 |
 | You're a star | 20.00% | ~219 |
 | Unstoppable | 19.00% | ~208 |
 | Reunited | 19.00% | ~208 |
 | King of hospitality | 11.00% | ~120 |
 | Top spot in town | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,093 (Ranked 243)  
+Progressed: 1,094 (Ranked 243)  
 Completed: 16 (1.46%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 16 (1.46%) (Ranked 136)
 | 2023-10-26 | 1,088 | 16 |
 | 2023-10-29 | 1,090 | 16 |
 | 2023-11-01 | 1,091 | 16 |
-| 2023-11-02 | 1,093 | 16 |
+| 2023-11-02 | 1,094 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,11 +1,11 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 519)  
+Rating: 4.54 (Ranked 520)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,635 |
+| Welcome To Hell-A | 6.00% | ~42,636 |
 | Break A Leg | 5.00% | ~35,530 |
 | Hotel California | 5.00% | ~35,530 |
 | Dr. Reed, I Presume? | 4.00% | ~28,424 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 519)
 | Donk! | 0.20% | ~1,421 |
 | Bucket List | 0.20% | ~1,421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,590 (Ranked 22)  
+Progressed: 710,603 (Ranked 22)  
 Completed: 2,299 (0.32%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 2,299 (0.32%) (Ranked 215)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,590 | 2,299 |
+| 2023-11-02 | 710,603 | 2,299 |
 ## Awards
 Max (Great Boss Battles): 6,801  (Ranked 54)  
 Sum: 10,257 (Ranked 90)  

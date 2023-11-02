@@ -2,12 +2,12 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 427,
-  "Ranking_Popularity": 211,
+  "Ranking_Rating": 428,
+  "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 152,
-  "Ranking_EOS_Progress": 717,
+  "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -8025,11 +8025,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 4031,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2023-11-02T09:02:06.0983212+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4040,
+      "NumberOfAwardsMax": 460
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4031,
-  "NumberOfAwardsMax": 454,
+  "NumberOfAwards": 4040,
+  "NumberOfAwardsMax": 460,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -8054,7 +8060,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 454
+      "Count": 460
     },
     {
       "Text": "This game is Relaxing",
@@ -8078,7 +8084,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 319
+      "Count": 322
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8117,8 +8123,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-11-02T08:02:50.8169612+00:00",
+  "LastChanged": "2023-11-02T09:02:06.098321+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:31.9229402+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:02:50.816962+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:09:27.9246868+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:02:06.0983218+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:09:37.8181047+00:00"
 }

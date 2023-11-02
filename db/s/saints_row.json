@@ -2,7 +2,7 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 1020,
+  "Ranking_Rating": 1021,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 96,
@@ -3993,9 +3993,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 76972,
+  "EOS_Progressed": 76973,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 775,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26108,6 +26108,11 @@
       "Time": "2023-11-02T08:05:20.2817268+00:00",
       "NumProgressed": 76972,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T09:05:26.0267695+00:00",
+      "NumProgressed": 76973,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26215,7 +26220,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23861
+      "UsersEstimate": 23862
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -26239,7 +26244,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26170
+      "UsersEstimate": 26171
     },
     {
       "ID": "customize_a_weapon",
@@ -26391,7 +26396,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15394
+      "UsersEstimate": 15395
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -26415,7 +26420,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26940
+      "UsersEstimate": 26941
     },
     {
       "ID": "one_third_purple",
@@ -26471,7 +26476,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20782
+      "UsersEstimate": 20783
     },
     {
       "ID": "two_thirds_purple",
@@ -26503,7 +26508,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32328
+      "UsersEstimate": 32329
     },
     {
       "ID": "whole_map_purple",
@@ -26542,13 +26547,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76972,
+      "Progressed": 76973,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48609,
+      "Progressed": 48610,
       "Completed": 4232
     }
   ],
@@ -26556,8 +26561,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-31T23:03:05.5996254+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:05:20.2817261+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:05:26.026769+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:03:12.0683948+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:05:20.2819095+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:03:18.2853109+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:05:26.0270042+00:00"
 }

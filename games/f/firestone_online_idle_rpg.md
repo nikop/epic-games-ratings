@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 952)  
+Rating: 4.10 (Ranked 953)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~1,946 |
 | World Map | 79.00% | ~1,653 |
-| Temple of Eternals | 57.00% | ~1,192 |
+| Temple of Eternals | 57.00% | ~1,193 |
 | Prestigious | 54.00% | ~1,130 |
 | Fellowship Power | 42.00% | ~879 |
 | Guild Power | 26.00% | ~544 |
 | Prestigious x10 | 23.00% | ~481 |
-| The game is on | 21.00% | ~439 |
-| Exotic Merchant | 20.00% | ~418 |
+| The game is on | 21.00% | ~440 |
+| Exotic Merchant | 19.00% | ~398 |
 | Dragon Clicker | 18.00% | ~377 |
 | Full Party | 17.00% | ~356 |
 | Inspection | 17.00% | ~356 |
@@ -50,11 +50,11 @@ Rating: 4.10 (Ranked 952)
 | Engineer Mastery | 8.00% | ~167 |
 | The Expeditioner | 8.00% | ~167 |
 | Weekly Quest Completionist | 8.00% | ~167 |
-| How Do You Turn This On? | 7.00% | ~146 |
-| Lock And Load | 7.00% | ~146 |
-| Missions Dedication | 7.00% | ~146 |
-| Sailor | 7.00% | ~146 |
-| The Alchemist | 7.00% | ~146 |
+| How Do You Turn This On? | 7.00% | ~147 |
+| Lock And Load | 7.00% | ~147 |
+| Missions Dedication | 7.00% | ~147 |
+| Sailor | 7.00% | ~147 |
+| The Alchemist | 7.00% | ~147 |
 | Active Member | 6.00% | ~126 |
 | Ancient Knowledge | 6.00% | ~126 |
 | Background Story | 6.00% | ~126 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 952)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,092 (Ranked 213)  
+Progressed: 2,093 (Ranked 213)  
 Completed: 2 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2 (0.10%) (Ranked 265)
 | 2023-10-30 | 2,084 | 2 |
 | 2023-10-31 | 2,087 | 2 |
 | 2023-11-01 | 2,090 | 2 |
-| 2023-11-02 | 2,092 | 2 |
+| 2023-11-02 | 2,093 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 487)  
 Sum: 79 (Ranked 453)  

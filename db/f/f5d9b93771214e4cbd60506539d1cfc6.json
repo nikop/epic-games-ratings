@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 76,
@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150933,
+  "EOS_Progressed": 150936,
   "EOS_Completed": 318,
   "EOS_NewPlayers": 1036,
   "EOS_NewCompleters": 9,
@@ -16638,6 +16638,11 @@
       "Time": "2023-11-02T08:04:53.5068036+00:00",
       "NumProgressed": 150933,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-11-02T09:04:59.5574462+00:00",
+      "NumProgressed": 150936,
+      "NumCompleted": 318
     }
   ],
   "TotalAchievements": 31,
@@ -16657,7 +16662,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105653
+      "UsersEstimate": 105655
     },
     {
       "ID": "EAwards_10",
@@ -16673,7 +16678,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31696
+      "UsersEstimate": 31697
     },
     {
       "ID": "EAwards_12",
@@ -16697,7 +16702,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 58864
+      "UsersEstimate": 58865
     },
     {
       "ID": "EAwards_15",
@@ -16721,7 +16726,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33205
+      "UsersEstimate": 33206
     },
     {
       "ID": "EAwards_18",
@@ -16729,7 +16734,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33205
+      "UsersEstimate": 33206
     },
     {
       "ID": "EAwards_19",
@@ -16745,7 +16750,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42261
+      "UsersEstimate": 42262
     },
     {
       "ID": "EAwards_20",
@@ -16833,7 +16838,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28677
+      "UsersEstimate": 28678
     },
     {
       "ID": "EAwards_30",
@@ -16865,7 +16870,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37733
+      "UsersEstimate": 37734
     },
     {
       "ID": "EAwards_7",
@@ -16881,7 +16886,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 55845
+      "UsersEstimate": 55846
     },
     {
       "ID": "EAwards_9",
@@ -16896,7 +16901,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 150933,
+      "Progressed": 150936,
       "Completed": 318
     }
   ],
@@ -16904,8 +16909,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:04:53.5068027+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:04:59.5574458+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:58:48.2919157+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:53.5069289+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:05.4999672+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:04:59.5576048+00:00"
 }

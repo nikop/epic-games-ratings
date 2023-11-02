@@ -2,9 +2,9 @@
   "ID": "f824b337a16d464eab50d0564bc3389a",
   "Name": "Abtos Covert",
   "ProductSlug": "abtos-covert-8e83e8",
-  "Ranking_EOS_Progress": 717,
+  "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9400471+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:58:08.6953338+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:41.312215+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:58:24.2747185+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:04:47.5736576+00:00"
 }

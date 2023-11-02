@@ -2,13 +2,13 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 329,
+  "Ranking_Rating": 330,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14472,10 +14472,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 338726,
       "NumberOfAwardsMax": 103284
+    },
+    {
+      "Time": "2023-11-02T08:59:04.8242534+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 338823,
+      "NumberOfAwardsMax": 103284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338726,
+  "NumberOfAwards": 338823,
   "NumberOfAwardsMax": 103284,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14501,7 +14507,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 17602
+      "Count": 17699
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14552,10 +14558,10 @@
       "Count": 12206
     }
   ],
-  "EOS_Progressed": 894872,
-  "EOS_Completed": 2737,
-  "EOS_NewPlayers": 1022,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 894879,
+  "EOS_Completed": 2738,
+  "EOS_NewPlayers": 1023,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36692,6 +36698,11 @@
       "Time": "2023-11-02T08:05:57.7840797+00:00",
       "NumProgressed": 894872,
       "NumCompleted": 2737
+    },
+    {
+      "Time": "2023-11-02T09:06:02.6212324+00:00",
+      "NumProgressed": 894879,
+      "NumCompleted": 2738
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37080,7 +37091,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Easycomeeasygo",
@@ -37104,7 +37115,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Kingofcups",
@@ -37160,7 +37171,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "HydraIsDead",
@@ -37168,7 +37179,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "IHateSpider",
@@ -37176,7 +37187,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KingOfTheCups",
@@ -37184,7 +37195,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KingOfThePentacles",
@@ -37192,7 +37203,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KingOfTheSwords",
@@ -37200,7 +37211,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KingOfTheWands",
@@ -37208,7 +37219,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TheTower",
@@ -37216,7 +37227,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DirtyWork",
@@ -37224,7 +37235,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "EasyComeEasyGo",
@@ -37232,28 +37243,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 894872,
-      "Completed": 2737
+      "Progressed": 894879,
+      "Completed": 2738
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23495,
+      "Progressed": 23502,
       "Completed": 10177
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-02T04:58:11.6789639+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:05:57.7840792+00:00",
+  "LastChanged": "2023-11-02T08:59:04.8242532+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:06:02.621232+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:58:47.6140579+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:05:57.78428+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:04.824254+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:06:02.6214284+00:00"
 }

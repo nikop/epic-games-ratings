@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Knowledge is Power | 0.00% | ~0 |
+| Knowledge is Power | 100.00% | ~1 |
 | Jack of All Trades | 0.00% | ~0 |
 | On that Grindset | 0.00% | ~0 |
 | Panda-kin | 0.00% | ~0 |
@@ -66,6 +66,13 @@ Number of Ratings: 892  (23.09.2022)
 | Waste Not Want Not | 0.00% | ~0 |
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 662)  
+Completed: 0 (0.00%) (Ranked 338)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-11-02 | 1 | 0 |
 ## Awards
 Max (Character Customization): 575  (Ranked 194)  
 Sum: 1,293 (Ranked 236)  

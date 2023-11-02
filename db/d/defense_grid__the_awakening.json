@@ -2,7 +2,7 @@
   "ID": "0dabb0f14acf4fef84bd2b2bf3085dfc",
   "Name": "Defense Grid: The Awakening",
   "ProductSlug": "defense-grid",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 36,
@@ -1968,7 +1968,7 @@
   ],
   "EOS_Progressed": 488933,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23254,8 +23254,8 @@
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-10-31T01:42:55.4090056+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:04:34.36576+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:04:40.8909739+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:08.4413098+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:00:09.8750621+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:04:34.3659929+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:00:25.703575+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:04:40.8912216+00:00"
 }

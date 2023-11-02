@@ -4,7 +4,7 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -331,9 +331,9 @@
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
       "SetID": "2d85n75",
       "Name": "Leave It to the Professionals",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MIND_CORE01",
@@ -379,9 +379,9 @@
       "ID": "QUIDNUNC",
       "SetID": "2d85n75",
       "Name": "Quidnunc",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RING_OF_FIRE",
@@ -411,9 +411,9 @@
       "ID": "SOCIAL_BUTTERFLY",
       "SetID": "2d85n75",
       "Name": "Social Butterfly",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TALINGREY07",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:07:37.4614399+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:07:39.7062258+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:18.0257381+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:02:40.1133264+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:07:37.461484+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:01:55.2884348+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:07:39.7062681+00:00"
 }

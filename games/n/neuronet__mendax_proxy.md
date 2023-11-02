@@ -31,15 +31,15 @@
 | That One Doesn't Count | 31.00% | ~8 |
 | Blood Begets Blood | 27.00% | ~7 |
 | Job Creator | 27.00% | ~7 |
+| Social Butterfly | 27.00% | ~7 |
 | Full Coverage | 23.00% | ~6 |
 | Obligatory Fraudulent Baking | 23.00% | ~6 |
-| Social Butterfly | 23.00% | ~6 |
+| Quidnunc | 23.00% | ~6 |
+| Leave It to the Professionals | 19.00% | ~5 |
 | Overseer | 19.00% | ~5 |
-| Quidnunc | 19.00% | ~5 |
 | Zonk! | 19.00% | ~5 |
 | A Little Eccentric | 15.00% | ~4 |
 | Couldn't Have Planned It Better Myself | 15.00% | ~4 |
-| Leave It to the Professionals | 15.00% | ~4 |
 | Ring of Fire | 15.00% | ~4 |
 | The Provocateur | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |

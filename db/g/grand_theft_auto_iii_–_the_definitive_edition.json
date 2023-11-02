@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 898,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 159,
@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8392,
+  "EOS_Progressed": 8393,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -10451,6 +10451,11 @@
       "Time": "2023-11-02T08:05:37.310965+00:00",
       "NumProgressed": 8392,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-02T09:05:42.504637+00:00",
+      "NumProgressed": 8393,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10462,7 +10467,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6965
+      "UsersEstimate": 6966
     },
     {
       "ID": "ACH02",
@@ -10470,7 +10475,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "ACH03",
@@ -10606,7 +10611,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH20",
@@ -10693,7 +10698,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8392,
+      "Progressed": 8393,
       "Completed": 56
     }
   ],
@@ -10701,8 +10706,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:05:37.3109639+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:05:42.5046364+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.2944998+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:01:36.2125076+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:05:37.3110487+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:01:52.3934969+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:05:42.5047532+00:00"
 }

@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 990)  
+Rating: 3.98 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 3.98 (Ranked 990)
 | All the Major Food Groups | 37.00% | ~47 |
 | Soldier | 36.00% | ~45 |
 | Beggars Would Ride | 33.00% | ~42 |
-| Control is an Illusion | 30.00% | ~38 |
+| Control is an Illusion | 31.00% | ~39 |
 | Socialite | 30.00% | ~38 |
 | The Means to Save It | 24.00% | ~30 |
 | Resilience to Sin | 20.00% | ~25 |

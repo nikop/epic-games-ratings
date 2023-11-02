@@ -1,11 +1,11 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 465)  
+Rating: 4.57 (Ranked 466)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 28.00% | ~916 |
+| Wakey Wakey | 29.00% | ~949 |
 | Sputnik 2049 | 25.00% | ~818 |
 | Infinite Growth... | 24.00% | ~785 |
 | Without Breaking Some Eggs... | 23.00% | ~753 |

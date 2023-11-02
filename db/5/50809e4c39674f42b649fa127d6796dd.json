@@ -154,9 +154,9 @@
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 100,
+      "Percentage": 109,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -186,9 +186,9 @@
       "ID": "FIRST_MINIBOSS_DEFEATED",
       "SetID": "apihg0e",
       "Name": "Unknown Threat",
-      "Percentage": 209,
+      "Percentage": 218,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -202,9 +202,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 127,
+      "Percentage": 136,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -274,9 +274,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 136,
+      "Percentage": 145,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -408,7 +408,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:03:48.1981439+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:58:13.1242711+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:03:48.198177+00:00"
+  "LastChanged_Achievements": "2023-11-02T09:03:55.6326154+00:00",
+  "LastUpdate_Ratings": "2023-11-02T08:58:28.8243143+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:03:55.6326463+00:00"
 }

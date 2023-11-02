@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.23 (Ranked 880)  
+Rating: 4.23 (Ranked 881)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -54,6 +54,7 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... V | 2.00% | ~86 |
 | The King's new clothes III | 2.00% | ~86 |
 | My precious... III | 2.00% | ~86 |
+| Lord of War | 2.00% | ~86 |
 | Plague strikes! | 2.00% | ~86 |
 | Completionist II | 2.00% | ~86 |
 | Genius | 2.00% | ~86 |
@@ -61,7 +62,6 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade III | 2.00% | ~86 |
 | When there's fire... | 1.00% | ~43 |
 | Survivalist | 1.00% | ~43 |
-| Lord of War | 1.00% | ~43 |
 | Builder IV | 1.00% | ~43 |
 | An honorable Governor III | 1.00% | ~43 |
 | Completionist III | 1.00% | ~43 |

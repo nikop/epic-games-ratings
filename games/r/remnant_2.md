@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,168 |
 | Proving Grounds | 0.90% | ~1,951 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,795 (Ranked 66)  
+Progressed: 216,802 (Ranked 66)  
 Completed: 425 (0.20%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,10 +165,10 @@ Completed: 425 (0.20%) (Ranked 241)
 | 2023-10-30 | 213,957 | 419 |
 | 2023-10-31 | 215,476 | 423 |
 | 2023-11-01 | 216,711 | 423 |
-| 2023-11-02 | 216,795 | 425 |
+| 2023-11-02 | 216,802 | 425 |
 ## Awards
 Max (Great Boss Battles): 2,018  (Ranked 110)  
-Sum: 4,458 (Ranked 143)  
+Sum: 4,460 (Ranked 143)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): -33
 | This game has Amazing Storytelling | 247 |
 | This game has Quickly Understood Controls | 241 |
 | This game has Amazing Characters | 236 |
-| This game has Unique Visuals | 203 |
+| This game has Unique Visuals | 205 |
 | This game has a Creative Community | 187 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -285,4 +285,4 @@ Diff (max vs sum): -33
 | 2023-10-30 | 4.76 | 1,963 | 4,356 |
 | 2023-10-31 | 4.75 | 1,980 | 4,401 |
 | 2023-11-01 | 4.75 | 2,003 | 4,441 |
-| 2023-11-02 | 4.75 | 2,018 | 4,458 |
+| 2023-11-02 | 4.75 | 2,018 | 4,460 |

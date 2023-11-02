@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 806,
+  "EOS_Progressed": 807,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1352,6 +1352,11 @@
       "Time": "2023-11-02T03:03:42.0531898+00:00",
       "NumProgressed": 806,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T09:04:06.9036437+00:00",
+      "NumProgressed": 807,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1364,7 +1369,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1372,7 +1377,7 @@
       "Name": "Acrobat",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1380,7 +1385,7 @@
       "Name": "Out of control",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1508,7 +1513,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1540,7 +1545,7 @@
       "Name": "The Scorpion",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1604,7 +1609,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1618,9 +1623,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 363
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1636,7 +1641,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -1700,27 +1705,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 806,
+      "Progressed": 807,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 474,
-      "Completed": 474
+      "Progressed": 475,
+      "Completed": 475
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:03:59.6302938+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:04:06.9036431+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:59:11.9547432+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:03:59.63034+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:29.3035466+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:04:06.9036874+00:00"
 }

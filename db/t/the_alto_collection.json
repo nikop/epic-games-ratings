@@ -802,9 +802,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44769,
+  "EOS_Progressed": 44771,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 803,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22872,6 +22872,11 @@
       "Time": "2023-11-02T08:06:22.1598309+00:00",
       "NumProgressed": 44769,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-02T09:06:26.3851405+00:00",
+      "NumProgressed": 44771,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22995,7 +23000,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "nomad",
@@ -23075,7 +23080,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "proximityFly1000",
@@ -23147,7 +23152,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6715
+      "UsersEstimate": 6716
     },
     {
       "ID": "unlockpaz",
@@ -23171,7 +23176,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "wanderer",
@@ -23194,15 +23199,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44769,
+      "Progressed": 44771,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-11-02T08:06:22.1598302+00:00",
+  "LastChanged_Achievements": "2023-11-02T09:06:26.38514+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:59:09.7696283+00:00",
-  "LastUpdate_Achievements": "2023-11-02T08:06:22.16+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:59:27.236683+00:00",
+  "LastUpdate_Achievements": "2023-11-02T09:06:26.3852761+00:00"
 }
