@@ -5,24 +5,24 @@ Rating: 4.24 (Ranked 872)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~359,217 |
-| Well educated | 37.00% | ~276,896 |
-| City Planner | 19.00% | ~142,190 |
-| Deforester | 17.00% | ~127,223 |
-| Big Hauling | 16.00% | ~119,739 |
-| Apprentice Manufacturer | 13.00% | ~97,288 |
-| Exporter | 13.00% | ~97,288 |
-| I would drive 500 tiles... | 12.00% | ~89,804 |
-| Landscaper | 12.00% | ~89,804 |
-| Railwayman | 8.00% | ~59,869 |
-| Penniless | 6.00% | ~44,902 |
-| Massive Gains | 6.00% | ~44,902 |
+| Entrepreneur | 48.00% | ~359,224 |
+| Well educated | 37.00% | ~276,902 |
+| City Planner | 19.00% | ~142,193 |
+| Deforester | 17.00% | ~127,225 |
+| Big Hauling | 16.00% | ~119,741 |
+| Apprentice Manufacturer | 13.00% | ~97,290 |
+| Exporter | 13.00% | ~97,290 |
+| I would drive 500 tiles... | 12.00% | ~89,806 |
+| Landscaper | 12.00% | ~89,806 |
+| Railwayman | 8.00% | ~59,871 |
+| Penniless | 6.00% | ~44,903 |
+| Massive Gains | 6.00% | ~44,903 |
 | Salesman | 3.00% | ~22,451 |
-| Engineer | 2.00% | ~14,967 |
-| High Flyer | 2.00% | ~14,967 |
+| Engineer | 2.00% | ~14,968 |
+| High Flyer | 2.00% | ~14,968 |
 | Captain | 0.80% | ~5,987 |
 | Billionaire | 0.70% | ~5,239 |
-| Vroom Vroom | 0.40% | ~2,993 |
+| Vroom Vroom | 0.40% | ~2,994 |
 | Excavator | 0.30% | ~2,245 |
 | Loan Ranger | 0.30% | ~2,245 |
 | [2130] Nature Lover | 0.10% | ~748 |
@@ -33,8 +33,8 @@ Rating: 4.24 (Ranked 872)
 | Master Builder | 0.10% | ~748 |
 | Hard working | 0.10% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 748,368 (Ranked 18)  
-Completed: 4 (0.00%) (Ranked 338)  
+Progressed: 748,383 (Ranked 18)  
+Completed: 4 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 4 (0.00%) (Ranked 338)
 | 2023-10-30 | 747,747 | 4 |
 | 2023-10-31 | 748,022 | 4 |
 | 2023-11-01 | 748,301 | 4 |
-| 2023-11-02 | 748,368 | 4 |
+| 2023-11-02 | 748,383 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

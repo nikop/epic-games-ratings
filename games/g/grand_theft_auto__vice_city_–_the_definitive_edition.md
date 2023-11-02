@@ -10,9 +10,9 @@ Rating: 4.53 (Ranked 533)
 | South American Connection | 26.00% | ~2,795 |
 | Life of the Party | 20.00% | ~2,150 |
 | Tommy Two-Wheels | 16.00% | ~1,720 |
-| Big Heat from Little Havana | 15.00% | ~1,612 |
-| Chauffeur | 15.00% | ~1,612 |
-| Salutations My Little Friend | 11.00% | ~1,182 |
+| Big Heat from Little Havana | 15.00% | ~1,613 |
+| Chauffeur | 15.00% | ~1,613 |
+| Salutations My Little Friend | 11.00% | ~1,183 |
 | Iron-y | 10.00% | ~1,075 |
 | Gun for Hire | 9.00% | ~968 |
 | Mischief Managed | 9.00% | ~968 |
@@ -23,13 +23,13 @@ Rating: 4.53 (Ranked 533)
 | Grand Theft Auto | 5.00% | ~538 |
 | High Quality H2O | 4.00% | ~430 |
 | Pie Guy | 4.00% | ~430 |
-| Running Rampant | 3.00% | ~322 |
-| Point A to Point B | 3.00% | ~322 |
-| Bull in a China Shop | 3.00% | ~322 |
-| Somebody Call the Wambulance? | 3.00% | ~322 |
-| Just Like the Real Thing | 3.00% | ~322 |
-| Don't Need Roads | 3.00% | ~322 |
-| City Sleuth | 3.00% | ~322 |
+| Running Rampant | 3.00% | ~323 |
+| Point A to Point B | 3.00% | ~323 |
+| Bull in a China Shop | 3.00% | ~323 |
+| Somebody Call the Wambulance? | 3.00% | ~323 |
+| Just Like the Real Thing | 3.00% | ~323 |
+| Don't Need Roads | 3.00% | ~323 |
+| City Sleuth | 3.00% | ~323 |
 | One is Better Than Two | 2.00% | ~215 |
 | Take the Cannoli | 2.00% | ~215 |
 | Chopper’d Up | 2.00% | ~215 |
@@ -38,9 +38,9 @@ Rating: 4.53 (Ranked 533)
 | I'm Famous! | 1.00% | ~108 |
 | Daredevil | 1.00% | ~108 |
 | Done it All | 1.00% | ~108 |
-| Kingpin | 0.60% | ~64 |
+| Kingpin | 0.60% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,750 (Ranked 152)  
+Progressed: 10,751 (Ranked 152)  
 Completed: 64 (0.60%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 64 (0.60%) (Ranked 179)
 | 2023-10-30 | 10,710 | 63 |
 | 2023-10-31 | 10,718 | 63 |
 | 2023-11-01 | 10,743 | 64 |
-| 2023-11-02 | 10,750 | 64 |
+| 2023-11-02 | 10,751 | 64 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 356)  
 Sum: 99 (Ranked 439)  

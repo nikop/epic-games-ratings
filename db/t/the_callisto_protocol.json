@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1409,9 +1409,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16383,
+  "EOS_Progressed": 16385,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8629,6 +8629,11 @@
       "Time": "2023-11-02T09:05:38.8602368+00:00",
       "NumProgressed": 16383,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-02T10:04:35.0131639+00:00",
+      "NumProgressed": 16385,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8744,7 +8749,7 @@
       "Name": "Get a Grip",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8792,7 +8797,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -8992,7 +8997,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9015,13 +9020,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16383,
+      "Progressed": 16385,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4309,
+      "Progressed": 4311,
       "Completed": 29
     }
   ],
@@ -9029,8 +9034,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-01T18:58:14.1972899+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:05:38.8602363+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:04:35.0131632+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:58:40.7220715+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:05:38.8603288+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:58:21.5418973+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:04:35.0133118+00:00"
 }

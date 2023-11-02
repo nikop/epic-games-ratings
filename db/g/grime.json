@@ -6,7 +6,7 @@
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -1283,10 +1283,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 341,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-02T09:58:34.7393926+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 342,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341,
+  "NumberOfAwards": 342,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1336,7 +1342,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1345,9 +1351,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 156039,
+  "EOS_Progressed": 156045,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14055,6 +14061,11 @@
       "Time": "2023-11-02T09:07:23.7366811+00:00",
       "NumProgressed": 156039,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T10:05:55.5685122+00:00",
+      "NumProgressed": 156045,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14192,9 +14203,9 @@
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
       "SetID": "ccc0dlh",
       "Name": "Hush",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 780
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -14433,21 +14444,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155622,
+      "Progressed": 155628,
       "Completed": 1185
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156039,
+      "Progressed": 156045,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-02T02:15:29.6132888+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:07:23.7366806+00:00",
+  "LastChanged": "2023-11-02T09:58:34.7393924+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:05:55.5685111+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:58:57.3314542+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:07:23.7368161+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:58:34.7393928+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:05:55.568712+00:00"
 }

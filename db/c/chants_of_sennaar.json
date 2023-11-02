@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.42,
+  "EOS_Completed_Percentage": 6.41,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1665,6 +1665,11 @@
       "Time": "2023-11-02T07:06:17.4773116+00:00",
       "NumProgressed": 358,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-02T10:06:49.54207+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1748,7 +1753,7 @@
       "Name": "A great audience",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1756,7 +1761,7 @@
       "Name": "For its own good",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1796,7 +1801,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1834,17 +1839,17 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "PROGRESS_N3",
@@ -1875,14 +1880,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:07:41.9499165+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:06:49.5420695+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:00:37.1443414+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:07:41.9499484+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:59:51.8596059+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:06:49.5421045+00:00"
 }

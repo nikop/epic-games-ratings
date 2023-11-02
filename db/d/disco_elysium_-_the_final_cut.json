@@ -1418,9 +1418,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130362,
+  "EOS_Progressed": 130363,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20758,6 +20758,11 @@
       "Time": "2023-11-02T09:05:16.4084654+00:00",
       "NumProgressed": 130362,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-02T10:04:17.6039813+00:00",
+      "NumProgressed": 130363,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20849,7 +20854,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36501
+      "UsersEstimate": 36502
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20865,7 +20870,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5215
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -21065,7 +21070,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5214
+      "UsersEstimate": 5215
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -21088,15 +21093,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130362,
+      "Progressed": 130363,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-01T02:57:19.275442+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:05:16.4084649+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:04:17.6039808+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:57:50.5471222+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:05:16.4086542+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:57:43.4041025+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:04:17.6041334+00:00"
 }

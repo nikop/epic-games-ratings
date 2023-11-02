@@ -2674,10 +2674,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1983,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2023-11-02T10:00:22.0545161+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1985,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1983,
+  "NumberOfAwards": 1985,
   "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2703,7 +2709,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 261
+      "Count": 263
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2742,9 +2748,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 537012,
+  "EOS_Progressed": 537014,
   "EOS_Completed": 1602,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -24227,6 +24233,11 @@
       "Time": "2023-11-02T09:06:30.2984193+00:00",
       "NumProgressed": 537012,
       "NumCompleted": 1602
+    },
+    {
+      "Time": "2023-11-02T10:05:14.6654067+00:00",
+      "NumProgressed": 537014,
+      "NumCompleted": 1602
     }
   ],
   "TotalAchievements": 37,
@@ -24294,7 +24305,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 445720
+      "UsersEstimate": 445722
     },
     {
       "ID": "HONED",
@@ -24302,7 +24313,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21480
+      "UsersEstimate": 21481
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -24310,7 +24321,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21480
+      "UsersEstimate": 21481
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -24350,7 +24361,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214805
+      "UsersEstimate": 214806
     },
     {
       "ID": "THE_CASTLE",
@@ -24358,7 +24369,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 59071
+      "UsersEstimate": 59072
     },
     {
       "ID": "THE_CAVE",
@@ -24382,7 +24393,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21480
+      "UsersEstimate": 21481
     },
     {
       "ID": "THE_DOME",
@@ -24414,7 +24425,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96662
+      "UsersEstimate": 96663
     },
     {
       "ID": "THE_KEEP",
@@ -24446,7 +24457,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21480
+      "UsersEstimate": 21481
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -24494,7 +24505,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 343688
+      "UsersEstimate": 343689
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -24533,15 +24544,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 537012,
+      "Progressed": 537014,
       "Completed": 1602
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-11-02T09:01:17.5432219+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:06:30.2984188+00:00",
+  "LastChanged": "2023-11-02T10:00:22.0545159+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:05:14.6654061+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:52.4412902+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:01:17.5432227+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:06:30.2986109+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:00:22.0545274+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:05:14.6655898+00:00"
 }

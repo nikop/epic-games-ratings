@@ -6,7 +6,7 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -475,9 +475,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3029,
+  "EOS_Progressed": 3031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3890,6 +3890,11 @@
       "Time": "2023-11-02T09:07:09.252003+00:00",
       "NumProgressed": 3029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T10:05:44.4061655+00:00",
+      "NumProgressed": 3031,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3910,7 +3915,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_11",
@@ -3934,7 +3939,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "achievement_14",
@@ -3998,7 +4003,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "achievement_21",
@@ -4054,7 +4059,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "achievement_9",
@@ -4062,14 +4067,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3029,
+      "Progressed": 3031,
       "Completed": 0
     }
   ],
@@ -4077,8 +4082,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-02T01:39:42.6542321+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:07:09.2520024+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:05:44.4061648+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:57:39.4157184+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:07:09.2526853+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:57:34.7056192+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:05:44.4062057+00:00"
 }

@@ -185,6 +185,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
+| Randomized Leaders | 0.20% | ~30 |
 | Necropolis in Waset | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the Great | 0.10% | ~15 |
@@ -285,7 +286,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Characters | 0.10% | ~15 |
 | One City Challenge | 0.10% | ~15 |
 | Randomized Families | 0.10% | ~15 |
-| Randomized Leaders | 0.10% | ~15 |
 | Role-Playing | 0.10% | ~15 |
 | Time Victory | 0.10% | ~15 |
 | Win a 1-v-1 Game | 0.10% | ~15 |

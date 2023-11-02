@@ -17417,9 +17417,9 @@
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_LEADERS",
       "SetID": "9201eeb",
       "Name": "Randomized Leaders",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ROLE_PLAYING",
@@ -17983,8 +17983,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-02T03:59:31.58049+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:04:30.4551037+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:03:41.9820191+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:59:42.4172308+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:04:30.4569442+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:59:09.8740092+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:03:41.9834199+00:00"
 }

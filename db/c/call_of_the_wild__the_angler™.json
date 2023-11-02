@@ -6,8 +6,8 @@
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -855,7 +855,7 @@
   ],
   "EOS_Progressed": 6218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9166,9 +9166,9 @@
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -9477,8 +9477,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:08:46.2729199+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:08:39.4229896+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:57:38.5679433+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:08:46.2730174+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:57:34.0087467+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:08:39.4230939+00:00"
 }

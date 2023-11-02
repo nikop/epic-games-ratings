@@ -3,8 +3,8 @@
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -586,8 +586,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:08:31.1131099+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:08:27.6208831+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:22.9703084+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:58:05.8572156+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:08:31.113126+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:57:55.2887057+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:08:27.6209059+00:00"
 }

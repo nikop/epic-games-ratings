@@ -2956,9 +2956,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 255
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_36",
@@ -3536,8 +3536,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:03:41.6155076+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:03:04.736445+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:01:05.5943131+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:03:41.6157405+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:00:12.517859+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:03:04.7366846+00:00"
 }

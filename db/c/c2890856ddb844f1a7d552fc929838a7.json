@@ -3,11 +3,11 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 537,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2458,9 +2458,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 377
     },
     {
       "ID": "AC24",
@@ -2562,9 +2562,9 @@
       "ID": "AC36",
       "SetID": "l4abp0",
       "Name": "Blessed Incense",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 330
     },
     {
       "ID": "AC37",
@@ -2651,8 +2651,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:09:39.9560683+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:08:57.9422271+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.1696365+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:58:22.6767112+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:09:39.9561362+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:58:06.1178938+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:08:57.9422798+00:00"
 }

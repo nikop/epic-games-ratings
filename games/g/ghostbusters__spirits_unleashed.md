@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,778 |
+| Stylish | 6.00% | ~1,779 |
 | Advancement | 5.00% | ~1,482 |
 | Meticulously Efficient | 5.00% | ~1,482 |
 | Discovery | 4.00% | ~1,186 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,639 (Ranked 122)  
+Progressed: 29,642 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
-| 2023-11-02 | 29,639 | 65 |
+| 2023-11-02 | 29,642 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
-Sum: 2,660 (Ranked 180)  
+Sum: 2,661 (Ranked 180)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -265,7 +265,7 @@ Diff (max vs sum): 64
 | This game has Diverse Characters | 272 |
 | This game has Amazing Storytelling | 268 |
 | This game is Highly Recommended | 265 |
-| This game has Competitive Players | 262 |
+| This game has Competitive Players | 263 |
 | This game is Extremely Fun | 259 |
 | This game is Relaxing | 258 |
 | This game has Quickly Understood Controls | 245 |
@@ -474,4 +474,4 @@ Diff (max vs sum): 64
 | 2023-10-30 | 4.50 | 297 | 2,620 |
 | 2023-10-31 | 4.50 | 298 | 2,637 |
 | 2023-11-01 | 4.50 | 298 | 2,657 |
-| 2023-11-02 | 4.50 | 298 | 2,660 |
+| 2023-11-02 | 4.50 | 298 | 2,661 |

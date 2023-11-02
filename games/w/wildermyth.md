@@ -14,9 +14,9 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 0.90% | ~13 |
 | Passing Shadow | 0.80% | ~12 |
 | This Too Shall Pass | 0.80% | ~12 |
+| War Endured | 0.60% | ~9 |
+| Core Failure | 0.60% | ~9 |
 | Let Me Get My Chisel | 0.50% | ~7 |
-| War Endured | 0.50% | ~7 |
-| Core Failure | 0.50% | ~7 |
 | Completing the Look | 0.40% | ~6 |
 | Echoes Die | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |
@@ -213,8 +213,8 @@ Completed: 6 (0.41%) (Ranked 204)
 | 2023-10-29 | 1,446 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 497)  
-Sum: 28 (Ranked 509)  
-Diff (max vs sum): -12  
+Sum: 28 (Ranked 510)  
+Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 28 |

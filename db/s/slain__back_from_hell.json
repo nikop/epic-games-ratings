@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39610,
+  "EOS_Progressed": 39611,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -21738,6 +21738,11 @@
       "Time": "2023-11-02T08:06:49.0698635+00:00",
       "NumProgressed": 39610,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-02T10:05:31.8692553+00:00",
+      "NumProgressed": 39611,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -21821,7 +21826,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -21980,7 +21985,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39610,
+      "Progressed": 39611,
       "Completed": 26
     }
   ],
@@ -21988,8 +21993,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:06:53.0640909+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:05:31.8692548+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:10.3969079+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:01:45.2969262+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:06:53.0642686+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:00:44.2557825+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:05:31.8694181+00:00"
 }

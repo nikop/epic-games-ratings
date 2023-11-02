@@ -22,12 +22,12 @@
 | He is just a child | 19.00% | ~108 |
 | Uncertain | 18.00% | ~102 |
 | Goody | 17.00% | ~96 |
+| Please oh pleeease! | 17.00% | ~96 |
 | Ace | 16.00% | ~91 |
 | Concrete painting | 16.00% | ~91 |
 | Found it! | 16.00% | ~91 |
 | Hipster | 16.00% | ~91 |
 | Not what it seems | 16.00% | ~91 |
-| Please oh pleeease! | 16.00% | ~91 |
 | That's much better! | 15.00% | ~85 |
 | Not as clumsy or random | 13.00% | ~74 |
 | Blade Runner | 10.00% | ~57 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -637,7 +637,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470084,
+  "EOS_Progressed": 470085,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
@@ -21102,6 +21102,11 @@
       "Time": "2023-11-02T08:09:50.3181062+00:00",
       "NumProgressed": 470084,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-02T10:09:13.3671011+00:00",
+      "NumProgressed": 470085,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21137,7 +21142,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103418
+      "UsersEstimate": 103419
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -21201,7 +21206,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310255
+      "UsersEstimate": 310256
     },
     {
       "ID": "achievement_story_landa",
@@ -21545,7 +21550,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141025
+      "UsersEstimate": 141026
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21625,7 +21630,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103418
+      "UsersEstimate": 103419
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -21744,21 +21749,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14018,
+      "Progressed": 14019,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470084,
+      "Progressed": 470085,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:10:00.0005497+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:09:13.3671005+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:01:08.4539068+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:10:00.0007975+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:00:14.9726511+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:09:13.3674685+00:00"
 }

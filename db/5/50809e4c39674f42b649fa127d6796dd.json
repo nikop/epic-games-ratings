@@ -2,8 +2,8 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": null,
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": null,
@@ -194,9 +194,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 200,
+      "Percentage": 209,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "FIRST_S_RANK",
@@ -408,7 +408,7 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:03:55.6326154+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:58:28.8243143+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:03:55.6326463+00:00"
+  "LastChanged_Achievements": "2023-11-02T10:03:15.1518432+00:00",
+  "LastUpdate_Ratings": "2023-11-02T09:58:10.5834557+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:03:15.1518748+00:00"
 }

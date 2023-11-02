@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1357,6 +1357,11 @@
       "Time": "2023-11-02T09:04:06.9036437+00:00",
       "NumProgressed": 807,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T10:03:23.752302+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1369,7 +1374,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 680
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1385,7 +1390,7 @@
       "Name": "Out of control",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1401,7 +1406,7 @@
       "Name": "Like lightning!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1417,7 +1422,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1425,7 +1430,7 @@
       "Name": "Versatile riding",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1433,7 +1438,7 @@
       "Name": "Masterful!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -1497,7 +1502,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1505,7 +1510,7 @@
       "Name": "International license",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -1513,7 +1518,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1529,7 +1534,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -1537,7 +1542,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1617,7 +1622,7 @@
       "Name": "Spendthrift",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -1625,7 +1630,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1649,7 +1654,7 @@
       "Name": "Perfectionist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -1681,7 +1686,7 @@
       "Name": "A little nest egg",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -1705,27 +1710,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 809,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 475,
-      "Completed": 475
+      "Progressed": 477,
+      "Completed": 477
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:04:06.9036431+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:03:23.7523014+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:59:29.3035466+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:04:06.9036874+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:58:59.0059997+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:03:23.7523515+00:00"
 }

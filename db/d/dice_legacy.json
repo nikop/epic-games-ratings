@@ -6,8 +6,8 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1145,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2042,6 +2042,11 @@
       "Time": "2023-11-01T19:06:17.6381062+00:00",
       "NumProgressed": 1145,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T10:05:53.5158319+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2051,9 +2056,9 @@
       "ID": "ACTIVATE_ALL_TYPEGROUPS",
       "SetID": "6ohhfoc",
       "Name": "Full house",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 80
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -2173,7 +2178,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2211,9 +2216,9 @@
       "ID": "EXILED_MERCHANT_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Greedy Ones",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 34
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -2237,7 +2242,7 @@
       "Name": "The City",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "GOLDMASTER",
@@ -2412,7 +2417,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1145,
+      "Progressed": 1146,
       "Completed": 0
     }
   ],
@@ -2420,8 +2425,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:07:21.0662389+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:05:53.5158312+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:09.081157+00:00",
-  "LastUpdate_Ratings": "2023-11-02T08:59:33.2819423+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:07:21.0662866+00:00"
+  "LastUpdate_Ratings": "2023-11-02T09:59:01.8364874+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:05:53.5158796+00:00"
 }

@@ -5,43 +5,43 @@ Rating: 4.54 (Ranked 520)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 6.00% | ~42,636 |
-| Break A Leg | 5.00% | ~35,530 |
-| Hotel California | 5.00% | ~35,530 |
-| Dr. Reed, I Presume? | 4.00% | ~28,424 |
-| Git Gutte! | 4.00% | ~28,424 |
-| Coup de Grâce | 4.00% | ~28,424 |
-| Hazardous Materials | 4.00% | ~28,424 |
-| Friends Like These | 4.00% | ~28,424 |
-| Apex Predator | 4.00% | ~28,424 |
-| Stacking the Deck | 4.00% | ~28,424 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,424 |
-| Anger Management | 3.00% | ~21,318 |
-| Bookworm | 3.00% | ~21,318 |
-| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,318 |
-| But Doctor, I am Butcho | 3.00% | ~21,318 |
-| Slayer Squad | 3.00% | ~21,318 |
-| Can't Handle the Truth | 3.00% | ~21,318 |
-| Like Riding a Bike | 3.00% | ~21,318 |
-| Zombologist | 3.00% | ~21,318 |
-| Ooh, Shiny! | 3.00% | ~21,318 |
-| A Patton Emerges | 3.00% | ~21,318 |
-| I Am the Resurrection | 3.00% | ~21,318 |
-| Our True Nature | 3.00% | ~21,318 |
-| This is My Weapon | 3.00% | ~21,318 |
-| Making Your Mark | 2.00% | ~14,212 |
-| Perks of the Job | 2.00% | ~14,212 |
-| Humanity Distilled | 2.00% | ~14,212 |
-| Down with the Sickness | 2.00% | ~14,212 |
-| Max Headroom | 2.00% | ~14,212 |
+| Welcome To Hell-A | 6.00% | ~42,638 |
+| Break A Leg | 5.00% | ~35,531 |
+| Hotel California | 5.00% | ~35,531 |
+| Dr. Reed, I Presume? | 4.00% | ~28,425 |
+| Git Gutte! | 4.00% | ~28,425 |
+| Coup de Grâce | 4.00% | ~28,425 |
+| Hazardous Materials | 4.00% | ~28,425 |
+| Friends Like These | 4.00% | ~28,425 |
+| Apex Predator | 4.00% | ~28,425 |
+| Stacking the Deck | 4.00% | ~28,425 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,425 |
+| Anger Management | 3.00% | ~21,319 |
+| Bookworm | 3.00% | ~21,319 |
+| I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,319 |
+| But Doctor, I am Butcho | 3.00% | ~21,319 |
+| Slayer Squad | 3.00% | ~21,319 |
+| Can't Handle the Truth | 3.00% | ~21,319 |
+| Like Riding a Bike | 3.00% | ~21,319 |
+| Zombologist | 3.00% | ~21,319 |
+| Ooh, Shiny! | 3.00% | ~21,319 |
+| A Patton Emerges | 3.00% | ~21,319 |
+| I Am the Resurrection | 3.00% | ~21,319 |
+| Our True Nature | 3.00% | ~21,319 |
+| This is My Weapon | 3.00% | ~21,319 |
+| Making Your Mark | 2.00% | ~14,213 |
+| Perks of the Job | 2.00% | ~14,213 |
+| Humanity Distilled | 2.00% | ~14,213 |
+| Down with the Sickness | 2.00% | ~14,213 |
+| Max Headroom | 2.00% | ~14,213 |
 | Smorgasbord | 1.00% | ~7,106 |
 | Not Even My Final Form | 1.00% | ~7,106 |
 | Internet Famous | 1.00% | ~7,106 |
 | Jumbo Keyring | 1.00% | ~7,106 |
 | Go, Bobcats! | 1.00% | ~7,106 |
 | Rising Star | 1.00% | ~7,106 |
-| On Safari | 0.90% | ~6,395 |
-| Variety is the Spice of Death | 0.90% | ~6,395 |
+| On Safari | 0.90% | ~6,396 |
+| Variety is the Spice of Death | 0.90% | ~6,396 |
 | Make it So | 0.80% | ~5,685 |
 | LA Influential | 0.70% | ~4,974 |
 | Gore Horse | 0.70% | ~4,974 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 520)
 | Donk! | 0.20% | ~1,421 |
 | Bucket List | 0.20% | ~1,421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,603 (Ranked 22)  
+Progressed: 710,629 (Ranked 22)  
 Completed: 2,299 (0.32%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 2,299 (0.32%) (Ranked 215)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,603 | 2,299 |
+| 2023-11-02 | 710,629 | 2,299 |
 ## Awards
 Max (Great Boss Battles): 6,801  (Ranked 54)  
-Sum: 10,257 (Ranked 90)  
+Sum: 10,261 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -259,7 +259,7 @@ Diff (max vs sum): -36
 | This game has Diverse Characters | 485 |
 | This game has Quickly Understood Controls | 456 |
 | This game is Relaxing | 437 |
-| This game has Amazing Storytelling | 414 |
+| This game has Amazing Storytelling | 418 |
 | This game is Highly Recommended | 402 |
 | This game is Extremely Fun | 390 |
 | This game has Amazing Characters | 375 |
@@ -461,4 +461,4 @@ Diff (max vs sum): -36
 | 2023-10-30 | 4.54 | 6,756 | 10,182 |
 | 2023-10-31 | 4.54 | 6,773 | 10,214 |
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
-| 2023-11-02 | 4.54 | 6,801 | 10,257 |
+| 2023-11-02 | 4.54 | 6,801 | 10,261 |

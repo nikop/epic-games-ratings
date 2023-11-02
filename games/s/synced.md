@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 927)
 | Runs for Your Money | 0.30% | ~196 |
 | Past Master | 0.30% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,469 (Ranked 101)  
+Progressed: 65,471 (Ranked 101)  
 Completed: 27 (0.04%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 27 (0.04%) (Ranked 298)
 | 2023-10-30 | 65,249 | 27 |
 | 2023-10-31 | 65,325 | 27 |
 | 2023-11-01 | 65,442 | 27 |
-| 2023-11-02 | 65,469 | 27 |
+| 2023-11-02 | 65,471 | 27 |
 ## Awards
 Max (Great for Beginners): 78  (Ranked 385)  
 Sum: 286 (Ranked 363)  

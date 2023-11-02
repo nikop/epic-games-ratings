@@ -28,12 +28,12 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.60% | ~934 |
 | Celebration | 0.60% | ~936 |
 | Hunt Down | 0.50% | ~780 |
+| Hush | 0.50% | ~780 |
 | Inevitable | 0.50% | ~780 |
 | All-Seeing | 0.50% | ~780 |
 | Dream | 0.50% | ~778 |
 | Breath | 0.40% | ~624 |
 | Artisan | 0.40% | ~624 |
-| Hush | 0.40% | ~624 |
 | Breathsmith | 0.40% | ~624 |
 | Bloodhunter | 0.30% | ~468 |
 | Zygote | 0.30% | ~467 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,039 (Ranked 75)  
-Completed: 1 (0.00%) (Ranked 338)  
+Progressed: 156,045 (Ranked 75)  
+Completed: 1 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -226,10 +226,10 @@ Completed: 1 (0.00%) (Ranked 338)
 | 2023-10-30 | 155,658 | 1 |
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
-| 2023-11-02 | 156,039 | 1 |
+| 2023-11-02 | 156,045 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
-Sum: 341 (Ranked 350)  
+Sum: 342 (Ranked 350)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -238,7 +238,7 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 47 |
 | This game has Challenging Combat | 43 |
 | This game is Extremely Fun | 43 |
-| This game has Amazing Storytelling | 41 |
+| This game has Amazing Storytelling | 42 |
 | This game has Amazing Characters | 36 |
 | This game has a Creative Community | 33 |
 | This game has Diverse Characters | 20 |
@@ -374,4 +374,4 @@ Diff (max vs sum): 74
 | 2023-10-30 | 4.59 | - | 49 | 330 |
 | 2023-10-31 | 4.59 | - | 50 | 337 |
 | 2023-11-01 | 4.59 | - | 50 | 339 |
-| 2023-11-02 | 4.58 | - | 50 | 341 |
+| 2023-11-02 | 4.58 | - | 50 | 342 |

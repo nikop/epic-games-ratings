@@ -3,7 +3,7 @@
   "Name": "Fire Commander",
   "ProductSlug": "fire-commander-df24ad",
   "Ranking_EOS_Progress": 718,
-  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.1330184+00:00",
   "LastChanged": "2023-03-31T05:58:30.1330185+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:33.6172014+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:00:54.914789+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:07:17.0259689+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:00:05.5007324+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:05:50.4546956+00:00"
 }

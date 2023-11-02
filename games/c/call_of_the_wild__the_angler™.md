@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 0.50% | ~31 |
 | More Fish in the Sea | 0.50% | ~31 |
 | Scaling up | 0.50% | ~31 |
-| Ready to Rod and Roll | 0.30% | ~19 |
+| Ready to Rod and Roll | 0.40% | ~25 |
 | Fish Out of Water | 0.30% | ~19 |
 | Things that go Splash in the Night | 0.30% | ~19 |
 | Goldfish? | 0.20% | ~12 |
@@ -48,7 +48,7 @@ Number of Ratings: 281  (23.09.2022)
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,218 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

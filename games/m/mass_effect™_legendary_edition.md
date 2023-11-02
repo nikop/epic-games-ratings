@@ -69,9 +69,9 @@
 | Friend or Foe | 30.00% | ~273 |
 | Doppelganger | 30.00% | ~273 |
 | Digital Exorcist | 30.00% | ~273 |
+| Mission Accomplished | 29.00% | ~264 |
 | Mobilizer | 29.00% | ~264 |
 | Untouchable | 28.00% | ~255 |
-| Mission Accomplished | 28.00% | ~255 |
 | Suicide Mission | 28.00% | ~255 |
 | Against All Odds | 28.00% | ~255 |
 | Giant Killer | 27.00% | ~245 |

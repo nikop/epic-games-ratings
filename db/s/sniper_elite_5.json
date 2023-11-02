@@ -4,10 +4,10 @@
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 639,
   "Ranking_Popularity": 532,
-  "Ranking_PopularitySum": 533,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3808,
+  "EOS_Progressed": 3809,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7606,6 +7606,11 @@
       "Time": "2023-11-02T09:04:39.6616807+00:00",
       "NumProgressed": 3808,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-02T10:03:49.1961194+00:00",
+      "NumProgressed": 3809,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7673,7 +7678,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7737,7 +7742,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7785,7 +7790,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7825,7 +7830,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7849,7 +7854,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -7953,7 +7958,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7985,7 +7990,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8184,13 +8189,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3759,
+      "Progressed": 3760,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3808,
+      "Progressed": 3809,
       "Completed": 11
     }
   ],
@@ -8198,8 +8203,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-02T09:04:39.6616803+00:00",
+  "LastChanged_Achievements": "2023-11-02T10:03:49.1961186+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-02T09:01:06.5932802+00:00",
-  "LastUpdate_Achievements": "2023-11-02T09:04:39.661806+00:00"
+  "LastUpdate_Ratings": "2023-11-02T10:00:13.3691094+00:00",
+  "LastUpdate_Achievements": "2023-11-02T10:03:49.1962381+00:00"
 }
