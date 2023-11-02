@@ -147,6 +147,7 @@
 | [Severed Steel](../games/s/severed_steel.md) | 52 | 1,000 |
 | [Ugly](../games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 52 | 1,000 |
 | [Unrailed!](../games/u/unrailed!.md) | 52 | 1,000 |
+| [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 |
 | [Ghostbusters: Spirits Unleashed Ecto Edition](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
@@ -209,7 +210,6 @@
 | [Trifox](../games/t/trifox.md) | 46 | 1,000 |
 | [Zombie Soup](../games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 46 | 1,000 |
 | [Aliens: Dark Descent](../games/a/aliens__dark_descent.md) | 45 | 1,000 |
-| [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
 | [Dice Legacy](../games/d/dice_legacy.md) | 45 | 1,000 |
 | [Frontier Hunter: Erza's Wheel of Fortune](../games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 45 | 1,000 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |

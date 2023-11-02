@@ -40,6 +40,7 @@
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
+| [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 |
@@ -195,7 +196,6 @@
 | [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 65 | 1,000 |
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
-| [Dead Island 2](../games/d/dead_island_2.md) | 45 | 1,000 |
 | [Dead Space](../games/d/dead_space.md) | 47 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
 | [Death Crown](../games/3/36c80652a9de4ac28ab9f990034dc847.md) | 22 | 1,000 |
