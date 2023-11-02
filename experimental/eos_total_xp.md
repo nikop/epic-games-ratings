@@ -325,6 +325,7 @@
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 55 | 1,000 |
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |
+| [Hanoi Puzzles - Solid Match](../games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 11 | 1,000 |
 | [Hardspace: Shipbreaker](../games/h/hardspace__shipbreaker.md) | 27 | 1,000 |
 | [Haunted House](../games/8/81970ccb964d4720adccf2e2244fe754.md) | 25 | 1,000 |
 | [Haven](../games/h/haven.md) | 30 | 1,000 |

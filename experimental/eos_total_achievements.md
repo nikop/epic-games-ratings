@@ -716,6 +716,7 @@
 | [100 Doors - Escape from Prison](../games/d/d00a1f7b44a14dddab853280118f8580.md) | 11 | 1,000 |
 | [Aerial Platforms](../games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 11 | 1,000 |
 | [Dolmenjord - Viking Islands](../games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 11 | 1,000 |
+| [Hanoi Puzzles - Solid Match](../games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 11 | 1,000 |
 | [Inspector Gadget - Mad Time Party](../games/i/inspector_gadget_-_mad_time_party.md) | 11 | 1,000 |
 | [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
 | [My Friend Peppa Pig](../games/m/my_friend_peppa_pig.md) | 11 | 1,000 |
