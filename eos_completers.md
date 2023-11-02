@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.75% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.73% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 34.78% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -55,13 +55,13 @@
 | 53 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.14% |
 | 54 | [Time Loader](games/t/time_loader.md) | 7.09% |
 | 55 | [Scorn](games/s/scorn.md) | 6.95% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.50% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.48% |
 | 57 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.45% |
 | 58 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 59 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 60 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.70% |
+| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.68% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 64 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5.26% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.13% |
@@ -109,10 +109,10 @@
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.63% |
 | 108 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 110 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2.53% |
-| 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 112 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
-| 113 | [Lamentum](games/l/lamentum.md) | 2.44% |
+| 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 111 | [Bloodshore](games/b/bloodshore.md) | 2.49% |
+| 112 | [Lamentum](games/l/lamentum.md) | 2.44% |
+| 113 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2.41% |
 | 114 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.40% |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 116 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.36% |
@@ -126,10 +126,10 @@
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
 | 126 | [Somerville](games/s/somerville.md) | 1.76% |
-| 127 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.75% |
 | 127 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.75% |
-| 129 | [Night Book](games/n/night_book.md) | 1.70% |
-| 130 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.69% |
+| 128 | [Night Book](games/n/night_book.md) | 1.70% |
+| 129 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.69% |
+| 130 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.67% |
 | 131 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.65% |
 | 132 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.57% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.56% |
@@ -147,7 +147,7 @@
 | 145 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.27% |
 | 145 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
 | 147 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
-| 148 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.23% |
+| 148 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.21% |
 | 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 149 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.16% |
 | 151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
@@ -166,10 +166,10 @@
 | 163 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.90% |
 | 165 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 166 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 167 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 167 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.81% |
-| 167 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.81% |
-| 170 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.80% |
+| 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
+| 168 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 168 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.81% |
+| 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.81% |
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
 | 172 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.71% |
 | 173 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
@@ -224,9 +224,9 @@
 | 221 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 221 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
 | 221 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 225 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.29% |
 | 225 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 225 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 227 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.28% |
 | 228 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 229 | [Filament](games/f/filament.md) | 0.26% |
 | 230 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.25% |

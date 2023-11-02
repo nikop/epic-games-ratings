@@ -110,7 +110,7 @@
 | 105 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,434 | 104 |
 | 105 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,712 | 121 |
 | 105 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 545 |
-| 105 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 960 | 155 |
+| 105 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 962 | 155 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 497 |
 | 113 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.77 | 74 | 394 |
 | 113 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 6,937 | 53 |
@@ -289,8 +289,8 @@
 | 273 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 545 |
 | 273 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 545 |
 | 273 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 545 |
-| 290 | [Black Book](games/b/black_book.md) | 4.66 | 81 | 379 |
-| 290 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 81 | 379 |
+| 290 | [Black Book](games/b/black_book.md) | 4.66 | 82 | 379 |
+| 290 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 81 | 380 |
 | 290 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,019 | 62 |
 | 290 | [Crashlands](games/c/crashlands.md) | 4.66 | 195 | 286 |
 | 290 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 173 | 300 |
@@ -532,7 +532,7 @@
 | 519 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 520 | 203 |
 | 519 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 381 |
 | 532 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 545 |
-| 532 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,341 | 18 |
+| 532 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,386 | 18 |
 | 532 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 525 |
 | 532 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 467 |
 | 532 | [Everything](games/e/everything.md) | 4.53 | 0 | 545 |
@@ -620,7 +620,7 @@
 | 617 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 458 |
 | 617 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.48 | 25 | 513 |
 | 617 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 545 |
-| 617 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 599,873 | 2 |
+| 617 | [Rocket League®](games/r/rocket_league®.md) | 4.48 | 601,361 | 2 |
 | 617 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 545 |
 | 617 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.48 | 0 | 545 |
 | 617 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.48 | 0 | 545 |
@@ -944,10 +944,10 @@
 | 936 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.14 | 0 | 545 |
 | 943 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 545 |
 | 943 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 21 | 532 |
-| 943 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.13 | 0 | 545 |
 | 943 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 545 |
-| 947 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 20 | 536 |
-| 947 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 545 |
+| 946 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 20 | 536 |
+| 946 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.12 | 0 | 545 |
+| 946 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 545 |
 | 949 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 545 |
 | 949 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.11 | 0 | 545 |
 | 949 | [Fangs](games/f/fangs.md) | 4.11 | 0 | 545 |
