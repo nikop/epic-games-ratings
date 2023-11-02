@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.58% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.48% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.45% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.51% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -56,12 +56,12 @@
 | 54 | [Scorn](games/s/scorn.md) | 6.94% |
 | 55 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.45% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.34% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.32% |
 | 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.68% |
+| 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.66% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 64 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5.13% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.00% |
@@ -86,8 +86,8 @@
 | 84 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
 | 84 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 86 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.38% |
-| 87 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.35% |
-| 88 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 87 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
+| 87 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.34% |
 | 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.28% |
 | 90 | [Doodle God](games/d/doodle_god.md) | 3.24% |
 | 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
@@ -131,11 +131,11 @@
 | 129 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.64% |
 | 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.57% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.56% |
-| 132 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.55% |
-| 133 | [Five Dates](games/f/five_dates.md) | 1.53% |
-| 134 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 132 | [Five Dates](games/f/five_dates.md) | 1.53% |
+| 133 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 133 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.48% |
 | 135 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.46% |
-| 136 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.45% |
+| 136 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.43% |
 | 137 | [Iron Danger](games/i/iron_danger.md) | 1.39% |
 | 138 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 139 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
@@ -156,9 +156,9 @@
 | 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 155 | [Sable](games/s/sable.md) | 1.01% |
 | 156 | [Trifox](games/t/trifox.md) | 0.98% |
-| 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
-| 158 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
-| 158 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
+| 157 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 157 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
+| 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
 | 160 | [The Devil's Face](games/t/the_devil's_face.md) | 0.93% |
 | 161 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.92% |
 | 162 | [Hades](games/h/hades.md) | 0.91% |
@@ -265,20 +265,20 @@
 | 262 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.11% |
 | 262 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
 | 265 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 265 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
 | 265 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 265 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 265 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
 | 265 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.10% |
 | 265 | [Supraland](games/s/supraland.md) | 0.10% |
-| 271 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
-| 271 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 271 | [Black Book](games/b/black_book.md) | 0.09% |
-| 271 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.09% |
-| 271 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
-| 271 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 271 | [Riverbond](games/r/riverbond.md) | 0.09% |
-| 271 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
-| 271 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 272 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
+| 272 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 272 | [Black Book](games/b/black_book.md) | 0.09% |
+| 272 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.09% |
+| 272 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 272 | [Riverbond](games/r/riverbond.md) | 0.09% |
+| 272 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
+| 272 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 280 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 280 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.08% |
 | 282 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.07% |
