@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 121)  
+Rating: 4.76 (Ranked 122)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -41,9 +41,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Capitulation Is Now Moot | 2.00% | ~240 |
 | Your First Big Enemy | 2.00% | ~240 |
 | Truly Important Deed | 2.00% | ~240 |
-| Stay Underground | 2.00% | ~215 |
-| Hanged Man's Notes | 2.00% | ~215 |
-| Sarkoris Will Be Green | 2.00% | ~215 |
+| Stay Underground | 2.00% | ~216 |
+| Hanged Man's Notes | 2.00% | ~216 |
+| Sarkoris Will Be Green | 2.00% | ~216 |
 | The Final Threshold | 1.00% | ~120 |
 | Path of the Legend | 1.00% | ~120 |
 | Strategic Victory | 1.00% | ~120 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,992 (Ranked 150)  
+Progressed: 11,993 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 11,942 | 0 |
 | 2023-10-31 | 11,961 | 0 |
 | 2023-11-01 | 11,984 | 0 |
-| 2023-11-02 | 11,992 | 0 |
+| 2023-11-02 | 11,993 | 0 |
 ## Awards
 Max (Character Customization): 1,731  (Ranked 120)  
 Sum: 7,015 (Ranked 119)  

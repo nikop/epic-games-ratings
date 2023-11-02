@@ -2,9 +2,9 @@
   "ID": "dad208fc27084f0fa6ac1cd333c53f57",
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
-  "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 756,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 1.08,
+  "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
     {
       "Time": "2023-10-29T23:05:30.6543669+00:00",
@@ -274,6 +274,11 @@
       "Time": "2023-11-02T13:09:53.8212645+00:00",
       "NumProgressed": 742,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-02T14:05:55.1094618+00:00",
+      "NumProgressed": 756,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -286,7 +291,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -294,7 +299,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -302,23 +307,23 @@
       "Name": "Collect the mask",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
       "SetID": "4d50jip",
       "Name": "Unlock the gate",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
       "SetID": "4d50jip",
       "Name": "Unlock the PC",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -326,7 +331,7 @@
       "Name": "Move the sofa",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -334,7 +339,7 @@
       "Name": "Turn on the TV",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -342,7 +347,7 @@
       "Name": "Wrong passcode",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -350,7 +355,7 @@
       "Name": "Finish The Hidden Room in Speedrun",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_HIDDENROOM",
@@ -358,15 +363,15 @@
       "Name": "Unlock the secret room in Speedrun",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_MASK",
       "SetID": "4d50jip",
       "Name": "Collect the mask in Speedrun",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_ONEMINUTE",
@@ -374,15 +379,15 @@
       "Name": "Speedrunner",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_OPENGATE",
       "SetID": "4d50jip",
       "Name": "Unlock the gate in Speedrun",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 30
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_PC",
@@ -413,14 +418,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 756,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:09:53.821264+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:05:55.109461+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:23.7565535+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:01:31.6980884+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:09:53.8212753+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:57:21.5740221+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:05:55.1094732+00:00"
 }

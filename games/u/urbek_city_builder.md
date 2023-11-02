@@ -14,7 +14,7 @@
 | I like books | 3.00% | ~11 |
 | I like my life | 3.00% | ~11 |
 | Clean energy | 3.00% | ~11 |
-| Bucolic city | 2.00% | ~7 |
+| Bucolic city | 3.00% | ~11 |
 | I love books! | 1.00% | ~4 |
 | I love parks | 1.00% | ~4 |
 | King of fish | 0.80% | ~3 |

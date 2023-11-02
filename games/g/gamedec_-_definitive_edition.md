@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.29 (Ranked 833)  
+Rating: 4.29 (Ranked 834)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,241 |
-| Powergamer | 27.00% | ~67,732 |
-| Write that down | 25.00% | ~62,715 |
-| Barely scratched the surface | 25.00% | ~62,715 |
+| I will finish what you started | 28.00% | ~70,242 |
+| Powergamer | 27.00% | ~67,733 |
+| Write that down | 25.00% | ~62,716 |
+| Barely scratched the surface | 25.00% | ~62,716 |
 | Guns, lots of guns | 13.00% | ~32,612 |
-| Collector | 12.00% | ~30,103 |
-| Elementary! | 9.00% | ~22,577 |
+| Collector | 12.00% | ~30,104 |
+| Elementary! | 9.00% | ~22,578 |
 | Griever | 8.00% | ~20,069 |
 | Pumpkin Jack | 8.00% | ~20,069 |
 | Wake up! | 8.00% | ~20,069 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~15,052 |
 | Good listener | 5.00% | ~12,543 |
 | Valedictorian | 5.00% | ~12,543 |
-| BOY! | 4.00% | ~10,034 |
-| Ka-ching! | 4.00% | ~10,034 |
-| So you like to read? | 4.00% | ~10,034 |
+| BOY! | 4.00% | ~10,035 |
+| Ka-ching! | 4.00% | ~10,035 |
+| So you like to read? | 4.00% | ~10,035 |
 | Hoarder | 3.00% | ~7,526 |
 | I like to sniff around | 3.00% | ~7,526 |
 | Mind reader | 3.00% | ~7,526 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~502 |
 | Memory 5 | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,859 (Ranked 56)  
+Progressed: 250,863 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.00%) (Ranked 339)
 | 2023-10-30 | 250,668 | 7 |
 | 2023-10-31 | 250,746 | 7 |
 | 2023-11-01 | 250,818 | 7 |
-| 2023-11-02 | 250,859 | 7 |
+| 2023-11-02 | 250,863 | 7 |
 ## Awards
 Max (Character Customization): 88  (Ranked 374)  
 Sum: 88 (Ranked 447)  

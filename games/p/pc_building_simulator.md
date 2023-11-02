@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,751,954 |
-| Easy to forget | 46.00% | ~1,644,692 |
-| Back in the black | 39.00% | ~1,394,413 |
-| That's what I'm talking about | 29.00% | ~1,036,871 |
-| The Best of Both Worlds | 25.00% | ~893,854 |
-| Get your wings | 20.00% | ~715,083 |
-| Double trouble | 16.00% | ~572,067 |
-| Smashing it | 11.00% | ~393,296 |
+| You need to plug it in... | 49.00% | ~1,751,959 |
+| Easy to forget | 46.00% | ~1,644,696 |
+| Back in the black | 39.00% | ~1,394,417 |
+| That's what I'm talking about | 29.00% | ~1,036,874 |
+| The Best of Both Worlds | 25.00% | ~893,857 |
+| Get your wings | 20.00% | ~715,085 |
+| Double trouble | 16.00% | ~572,068 |
+| Smashing it | 11.00% | ~393,297 |
 | But can it run Crysis? | 9.00% | ~321,788 |
 | My favourite feature... | 9.00% | ~321,788 |
-| From humble beginnings... | 7.00% | ~250,279 |
-| Customer satisfaction | 7.00% | ~250,279 |
+| From humble beginnings... | 7.00% | ~250,280 |
+| Customer satisfaction | 7.00% | ~250,280 |
 | Keeping things neat | 4.00% | ~143,017 |
 | Seems you're pretty good at this | 4.00% | ~143,017 |
 | Bending over backwards | 4.00% | ~143,017 |
 | Triple threat | 3.00% | ~107,263 |
 | You rock at this! | 3.00% | ~107,263 |
 | Your music sucks | 3.00% | ~107,263 |
-| I'm broke, Uncle! | 2.00% | ~71,508 |
-| Maybe you should try something else? | 2.00% | ~71,508 |
-| Taking care of business | 2.00% | ~71,508 |
-| Things are under control | 2.00% | ~71,508 |
-| Perfection | 2.00% | ~71,508 |
-| Calling in Sick | 2.00% | ~71,508 |
+| I'm broke, Uncle! | 2.00% | ~71,509 |
+| Maybe you should try something else? | 2.00% | ~71,509 |
+| Taking care of business | 2.00% | ~71,509 |
+| Things are under control | 2.00% | ~71,509 |
+| Perfection | 2.00% | ~71,509 |
+| Calling in Sick | 2.00% | ~71,509 |
 | Overvolted | 1.00% | ~35,754 |
 | If you fail the first time... | 1.00% | ~35,754 |
 | Amazonian | 1.00% | ~35,754 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,575 |
 | Treat yourself - GPU | 0.10% | ~3,575 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,575,417 (Ranked 5)  
+Progressed: 3,575,427 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 37 (0.00%) (Ranked 339)
 | 2023-10-30 | 3,574,551 | 36 |
 | 2023-10-31 | 3,574,901 | 36 |
 | 2023-11-01 | 3,575,254 | 36 |
-| 2023-11-02 | 3,575,417 | 37 |
+| 2023-11-02 | 3,575,427 | 37 |
 ## Awards
 Max (Great for Beginners): 1,095  (Ranked 142)  
 Sum: 8,098 (Ranked 102)  

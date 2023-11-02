@@ -8,6 +8,7 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Knowledge is Power | 67.00% | ~2 |
 | On that Grindset | 33.00% | ~1 |
+| Bridging the Gap | 33.00% | ~1 |
 | Jack of All Trades | 0.00% | ~0 |
 | Panda-kin | 0.00% | ~0 |
 | Time Flies | 0.00% | ~0 |
@@ -25,7 +26,6 @@ Number of Ratings: 892  (23.09.2022)
 | Kind of a Big Deal | 0.00% | ~0 |
 | Can We Keep It? | 0.00% | ~0 |
 | Finishing Touches | 0.00% | ~0 |
-| Bridging the Gap | 0.00% | ~0 |
 | Better Late than Never | 0.00% | ~0 |
 | Martle's Dream | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
@@ -74,13 +74,13 @@ Completed: 0 (0.00%) (Ranked 339)
 | ---- | ---------- | --------- |
 | 2023-11-02 | 3 | 0 |
 ## Awards
-Max (Character Customization): 575  (Ranked 194)  
-Sum: 1,293 (Ranked 236)  
+Max (Character Customization): 576  (Ranked 194)  
+Sum: 1,296 (Ranked 236)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 575 |
-| This game is Great for Beginners | 91 |
+| This game has Inclusive Character Customization | 576 |
+| This game is Great for Beginners | 93 |
 | This game is Highly Recommended | 83 |
 | This game is Extremely Fun | 79 |
 | This game has Quickly Understood Controls | 76 |
@@ -244,3 +244,4 @@ Diff (max vs sum): -42
 | 2023-10-28 | 4.68 | - | 575 | 1,237 |
 | 2023-10-29 | 4.68 | - | 575 | 1,291 |
 | 2023-10-30 | 4.68 | - | 575 | 1,293 |
+| 2023-11-02 | 4.68 | - | 576 | 1,296 |

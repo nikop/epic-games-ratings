@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 360,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.41,
+  "EOS_Completed_Percentage": 6.39,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1670,6 +1670,11 @@
       "Time": "2023-11-02T10:06:49.54207+00:00",
       "NumProgressed": 359,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-02T14:07:04.7007016+00:00",
+      "NumProgressed": 360,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1703,9 +1708,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1745,7 +1750,7 @@
       "Name": "Feels like springtime",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1777,7 +1782,7 @@
       "Name": "Alchemists Express",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1823,9 +1828,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1857,7 +1862,7 @@
       "Name": "A new dawn",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "PROGRESS_N4",
@@ -1880,14 +1885,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 360,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:10:54.4711803+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:07:04.7007008+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:04:04.5776805+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:10:54.4712042+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:00:24.6257971+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:07:04.7007336+00:00"
 }

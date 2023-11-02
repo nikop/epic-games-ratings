@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1373,9 +1373,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 6469,
+  "EOS_Progressed": 6470,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -11878,6 +11878,11 @@
       "Time": "2023-11-02T13:08:31.5583722+00:00",
       "NumProgressed": 6469,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-02T14:04:21.6126238+00:00",
+      "NumProgressed": 6470,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -11921,7 +11926,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -11945,7 +11950,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "HUNT_DEER_20",
@@ -11985,7 +11990,7 @@
       "Name": "Where Wolf?",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "HUNT_WOLF_5",
@@ -12009,7 +12014,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 3881
+      "UsersEstimate": 3882
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -12017,7 +12022,7 @@
       "Name": "Feast or Famine",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -12025,7 +12030,7 @@
       "Name": "Fit For A King",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -12033,7 +12038,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -12041,7 +12046,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -12065,7 +12070,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -12081,7 +12086,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -12089,7 +12094,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3558
+      "UsersEstimate": 3559
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -12097,7 +12102,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4334
+      "UsersEstimate": 4335
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12105,7 +12110,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2912
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -12113,7 +12118,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -12121,7 +12126,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3687
+      "UsersEstimate": 3688
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12136,15 +12141,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6469,
+      "Progressed": 6470,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-10-31T20:59:08.0682583+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:08:31.5583714+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:04:21.6126233+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.7294804+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:04:13.6331071+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:08:31.5584572+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:00:32.4820356+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:04:21.6126855+00:00"
 }

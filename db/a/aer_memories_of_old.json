@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23258,
+  "EOS_Progressed": 23261,
   "EOS_Completed": 448,
   "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 6,
@@ -21478,6 +21478,11 @@
       "Time": "2023-11-02T13:09:20.1880208+00:00",
       "NumProgressed": 23258,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-11-02T14:05:16.2277831+00:00",
+      "NumProgressed": 23261,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21505,7 +21510,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3256
+      "UsersEstimate": 3257
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -21521,7 +21526,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -21569,7 +21574,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "FOUND_MAMBA",
@@ -21577,7 +21582,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -21593,7 +21598,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "GAME_FINISHED",
@@ -21609,7 +21614,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17909
+      "UsersEstimate": 17911
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21633,7 +21638,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "WEST_FINISHED",
@@ -21641,22 +21646,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23258,
+      "Progressed": 23261,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:09:20.1880204+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:05:16.2277827+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:07:05.3812401+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:09:20.1881234+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:03:04.4251018+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:05:16.2279346+00:00"
 }

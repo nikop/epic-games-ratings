@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4034,6 +4034,11 @@
       "Time": "2023-11-02T12:10:30.847558+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T14:10:07.3650176+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4093,7 +4098,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "call_of_mana_2",
@@ -4141,7 +4146,7 @@
       "Name": "Collector 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "collector_2",
@@ -4237,7 +4242,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "elite_deck_2",
@@ -4285,7 +4290,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "glitter_of_gold_2",
@@ -4429,7 +4434,7 @@
       "Name": "Punctual 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "punctual_2",
@@ -4477,7 +4482,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "soul_shards_2",
@@ -4572,14 +4577,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:13:46.1846913+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:10:07.3650171+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:04:19.6608219+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:13:46.1847552+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:00:39.8068+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:10:07.3650904+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2094,
+  "EOS_Progressed": 2095,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6460,6 +6460,11 @@
       "Time": "2023-11-02T13:09:37.3903281+00:00",
       "NumProgressed": 2094,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-02T14:05:35.9437541+00:00",
+      "NumProgressed": 2095,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6549,9 +6554,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 168
     },
     {
       "ID": "dailyquestcompletionist",
@@ -6655,7 +6660,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "fourleafclover",
@@ -6703,7 +6708,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "herewegoagain",
@@ -6711,7 +6716,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "heroinspection",
@@ -6783,7 +6788,7 @@
       "Name": "Master Enchanter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "mastery",
@@ -6951,7 +6956,7 @@
       "Name": "The father of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "thegameison",
@@ -6991,7 +6996,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -7031,7 +7036,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "warmachinesarmy",
@@ -7063,14 +7068,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2094,
+      "Progressed": 2095,
       "Completed": 2
     }
   ],
@@ -7078,8 +7083,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-10-29T20:58:12.1525897+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:09:37.3903278+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:05:35.9437534+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:03:01.9855072+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:09:37.3904144+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:59:10.3574402+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:05:35.9438878+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1409,9 +1409,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16387,
+  "EOS_Progressed": 16388,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8639,6 +8639,11 @@
       "Time": "2023-11-02T11:05:13.8795331+00:00",
       "NumProgressed": 16387,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-02T14:05:14.0161078+00:00",
+      "NumProgressed": 16388,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8666,7 +8671,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -8674,7 +8679,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "DISARM_ENEMY",
@@ -8714,7 +8719,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -8786,7 +8791,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -8874,7 +8879,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -8976,9 +8981,9 @@
       "ID": "FIND_ALL_DATA_DRIVES",
       "SetID": "6j5ggkc",
       "Name": "Information Overload",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -9025,13 +9030,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16387,
+      "Progressed": 16388,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4313,
+      "Progressed": 4314,
       "Completed": 29
     }
   ],
@@ -9039,8 +9044,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-01T18:58:14.1972899+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:09:18.1800963+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:05:14.0161073+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:02:32.798907+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:09:18.1801564+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:58:35.199219+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:05:14.0161976+00:00"
 }

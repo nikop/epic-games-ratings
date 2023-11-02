@@ -116,6 +116,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Minimalist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
 | Champion of the Day | 0.10% | ~239 |
+| Down Under | 0.10% | ~239 |
 | Only The Best | 0.10% | ~239 |
 | Mastermind | 0.10% | ~239 |
 | No Swapsies | 0.10% | ~239 |
@@ -143,9 +144,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.10% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
-| Down Under | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238,987 (Ranked 59)  
+Progressed: 238,992 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 286 (0.12%) (Ranked 260)
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
-| 2023-11-02 | 238,987 | 286 |
+| 2023-11-02 | 238,992 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,500  (Ranked 128)  
 Sum: 11,643 (Ranked 83)  

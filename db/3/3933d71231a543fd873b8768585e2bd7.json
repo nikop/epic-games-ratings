@@ -262,9 +262,9 @@
       "ID": "achievements.completemission.islands.01",
       "SetID": "1kd1942",
       "Name": "I Will Survive",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievements.completemission.islands.02",
@@ -389,8 +389,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-11-02T13:12:39.6064464+00:00",
+  "LastChanged_Achievements": "2023-11-02T14:08:20.821703+00:00",
   "LastUpdate_AppInfo": "2023-10-27T13:57:39.1849316+00:00",
-  "LastUpdate_Ratings": "2023-11-02T13:06:50.1731975+00:00",
-  "LastUpdate_Achievements": "2023-11-02T13:12:39.6064579+00:00"
+  "LastUpdate_Ratings": "2023-11-02T14:02:41.8769637+00:00",
+  "LastUpdate_Achievements": "2023-11-02T14:08:20.8217168+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.22 (Ranked 887)
 | ---- | ---------- | ----- |
 | “Occupied!“ | 2.00% | ~33 |
 | Worlds best dad | 2.00% | ~33 |
-| Resignation Reprise | 0.80% | ~13 |
+| Resignation Reprise | 0.90% | ~15 |
 | Admiring the view | 0.70% | ~12 |
 | Blues Jam | 0.40% | ~7 |
 | “Here boy…“ | 0.40% | ~7 |
@@ -18,7 +18,7 @@ Rating: 4.22 (Ranked 887)
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,650 (Ranked 223)  
-Completed: 29 (1.76%) (Ranked 126)  
+Completed: 29 (1.76%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,25 +1,25 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.29 (Ranked 833)  
+Rating: 4.30 (Ranked 827)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~150,993 |
-| Doubled Pawn | 57.00% | ~122,951 |
-| Check | 55.00% | ~118,637 |
-| Absolute pin | 47.00% | ~101,381 |
-| Promotion | 31.00% | ~66,868 |
-| Checkmate | 30.00% | ~64,711 |
-| O-O | 24.00% | ~51,769 |
-| Spanish Bishop | 21.00% | ~45,298 |
-| Queen Sacrifice | 20.00% | ~43,141 |
+| Chop Wood | 70.00% | ~150,996 |
+| Doubled Pawn | 57.00% | ~122,954 |
+| Check | 55.00% | ~118,639 |
+| Absolute pin | 47.00% | ~101,383 |
+| Promotion | 31.00% | ~66,869 |
+| Checkmate | 30.00% | ~64,712 |
+| O-O | 24.00% | ~51,770 |
+| Spanish Bishop | 21.00% | ~45,299 |
+| Queen Sacrifice | 20.00% | ~43,142 |
 | Stalemate | 18.00% | ~38,827 |
 | O-O-O | 13.00% | ~28,042 |
 | Octopus | 13.00% | ~28,042 |
-| Stranger Danger | 12.00% | ~25,884 |
-| En Passant | 9.00% | ~19,413 |
-| Double Check | 7.00% | ~15,099 |
+| Stranger Danger | 12.00% | ~25,885 |
+| En Passant | 9.00% | ~19,414 |
+| Double Check | 7.00% | ~15,100 |
 | Piece Collector | 6.00% | ~12,942 |
 | ELO | 5.00% | ~10,785 |
 | Family Fork | 5.00% | ~10,785 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 833)
 | Tournament Master | 0.10% | ~216 |
 | Tournament Pro | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,704 (Ranked 67)  
+Progressed: 215,708 (Ranked 68)  
 Completed: 2 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 2 (0.00%) (Ranked 339)
 | 2023-10-30 | 215,323 | 2 |
 | 2023-10-31 | 215,477 | 2 |
 | 2023-11-01 | 215,636 | 2 |
-| 2023-11-02 | 215,704 | 2 |
+| 2023-11-02 | 215,708 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -302,3 +302,4 @@ Completed: 2 (0.00%) (Ranked 339)
 | 2023-10-02 | 4.29 | 0 | 0 |
 | 2023-10-03 | 4.28 | 0 | 0 |
 | 2023-10-19 | 4.29 | 0 | 0 |
+| 2023-11-02 | 4.30 | 0 | 0 |
