@@ -65,7 +65,7 @@
 | 63 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 545 |
 | 63 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 437 | 216 |
 | 63 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,764 | 119 |
-| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,994 | 63 |
+| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,998 | 63 |
 | 63 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 545 |
 | 63 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 473 |
 | 63 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 822 | 167 |
@@ -157,7 +157,7 @@
 | 154 | [Diabotical](games/d/diabotical.md) | 4.74 | 285 | 251 |
 | 154 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 545 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 832 | 165 |
-| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,048 | 23 |
+| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,154 | 22 |
 | 154 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 545 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 729 | 175 |
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 545 |
@@ -424,8 +424,8 @@
 | 406 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 48 | 432 |
 | 406 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 278 | 255 |
 | 406 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 525 |
-| 406 | [Warframe](games/w/warframe.md) | 4.60 | 18,101 | 22 |
-| 406 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 535 | 201 |
+| 406 | [Warframe](games/w/warframe.md) | 4.60 | 18,101 | 23 |
+| 406 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 538 | 201 |
 | 427 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 545 |
 | 427 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 454 | 211 |
 | 427 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 399 |
@@ -603,7 +603,7 @@
 | 601 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 33 | 478 |
 | 601 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 405 |
 | 601 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,009 | 111 |
-| 601 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,864 | 14 |
+| 601 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,887 | 14 |
 | 601 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 545 |
 | 601 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 545 |
 | 601 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 545 |
@@ -614,7 +614,7 @@
 | 601 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 356 |
 | 601 | [MythForce](games/m/mythforce.md) | 4.49 | 34 | 473 |
 | 601 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 545 |
-| 601 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 3,112 | 95 |
+| 601 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 3,118 | 95 |
 | 601 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 38 | 458 |
 | 617 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.48 | 0 | 545 |
 | 617 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.48 | 38 | 458 |
@@ -893,7 +893,7 @@
 | 891 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 124 | 328 |
 | 891 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 481 |
 | 891 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 545 |
-| 891 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,178 | 24 |
+| 891 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,205 | 24 |
 | 891 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 385 |
 | 891 | [Wreckfest](games/w/wreckfest.md) | 4.21 | 0 | 545 |
 | 897 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 127 | 324 |

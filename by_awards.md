@@ -13,7 +13,7 @@
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,934 | 4.58 | 442 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 48,043 | 4.61 | 381 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,903 | 4.74 | 154 |
-| 14 | [Destiny 2](games/d/destiny_2.md) | 38,864 | 4.49 | 601 |
+| 14 | [Destiny 2](games/d/destiny_2.md) | 38,887 | 4.49 | 601 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,154 | 4.51 | 561 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,119 | 4.64 | 329 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,964 | 4.76 | 121 |
@@ -21,9 +21,9 @@
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,656 | 4.26 | 858 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,126 | 4.57 | 465 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,691 | 4.89 | 10 |
-| 22 | [Warframe](games/w/warframe.md) | 18,101 | 4.60 | 406 |
-| 23 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,048 | 4.74 | 154 |
-| 24 | [League of Legends](games/l/league_of_legends.md) | 17,178 | 4.21 | 891 |
+| 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,154 | 4.74 | 154 |
+| 23 | [Warframe](games/w/warframe.md) | 18,101 | 4.60 | 406 |
+| 24 | [League of Legends](games/l/league_of_legends.md) | 17,205 | 4.21 | 891 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,761 | 4.76 | 121 |
 | 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,571 | 4.60 | 406 |
 | 27 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,570 | 4.58 | 442 |
@@ -62,7 +62,7 @@
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,388 | 4.75 | 142 |
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,081 | 4.79 | 95 |
 | 62 | [Cities: Skylines](games/c/cities__skylines.md) | 6,019 | 4.66 | 290 |
-| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,994 | 4.82 | 63 |
+| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,998 | 4.82 | 63 |
 | 64 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,987 | 4.64 | 329 |
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,939 | 4.66 | 290 |
 | 66 | [Prey](games/p/prey.md) | 5,754 | 4.62 | 361 |
@@ -94,7 +94,7 @@
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,374 | 4.76 | 121 |
 | 93 | [Hades](games/h/hades.md) | 3,343 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,339 | 4.57 | 465 |
-| 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,112 | 4.49 | 601 |
+| 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,118 | 4.49 | 601 |
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,046 | 4.34 | 795 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,947 | 4.50 | 579 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,893 | 4.18 | 916 |
@@ -200,7 +200,7 @@
 | 198 | [Filament](games/f/filament.md) | 567 | 4.33 | 805 |
 | 199 | [Godfall Ultimate Edition](games/g/godfall.md) | 557 | 4.07 | 963 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 548 | 4.61 | 381 |
-| 201 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 535 | 4.60 | 406 |
+| 201 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 538 | 4.60 | 406 |
 | 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 532 | 4.86 | 28 |
 | 203 | [Terraforming Mars](games/t/terraforming_mars.md) | 520 | 4.54 | 519 |
 | 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 518 | 3.94 | 999 |

@@ -440,6 +440,7 @@
 | [My Friend Peppa Pig](../games/m/my_friend_peppa_pig.md) | 11 | 1,000 |
 | [MY LITTLE PONY A Maretime Bay Adventure](../games/m/my_little_pony_a_maretime_bay_adventure.md) | 13 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
+| [My Time at Sandrock](../games/m/my_time_at_sandrock.md) | 60 | 1,000 |
 | [Mystery in the Office](../games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 10 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |
 | [Need for Speed™ Unbound Standard Edition](../games/n/need_for_speed™_unbound_standard_edition.md) | 41 | 1,000 |
