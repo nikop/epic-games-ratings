@@ -5,24 +5,24 @@ Rating: 3.98 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 90.00% | ~117 |
-| Battlefields Have Memories | 88.00% | ~114 |
-| Enlisted | 87.00% | ~113 |
+| Unforeseen | 89.00% | ~117 |
+| Battlefields Have Memories | 88.00% | ~115 |
+| Enlisted | 86.00% | ~113 |
 | Maybe Engage a Little | 82.00% | ~107 |
-| No More Names | 67.00% | ~87 |
-| Initiate | 58.00% | ~75 |
-| Thrada-Kul | 54.00% | ~70 |
+| No More Names | 66.00% | ~86 |
+| Initiate | 58.00% | ~76 |
+| Thrada-Kul | 53.00% | ~69 |
 | Gravity-Challenged Rocks | 42.00% | ~55 |
 | All the Major Food Groups | 36.00% | ~47 |
-| Soldier | 35.00% | ~46 |
-| Beggars Would Ride | 32.00% | ~42 |
+| Soldier | 34.00% | ~45 |
+| Beggars Would Ride | 31.00% | ~41 |
 | Control is an Illusion | 30.00% | ~39 |
 | Socialite | 30.00% | ~39 |
 | The Means to Save It | 24.00% | ~31 |
 | Resilience to Sin | 20.00% | ~26 |
 | A Familiar Nest | 20.00% | ~26 |
 | Periapt Alizarin | 19.00% | ~25 |
-| Geas Aristeya | 18.00% | ~23 |
+| Geas Aristeya | 18.00% | ~24 |
 | Armsman | 17.00% | ~22 |
 | A Perfect Cycle | 15.00% | ~20 |
 | Recruit | 15.00% | ~20 |
@@ -34,8 +34,8 @@ Rating: 3.98 (Ranked 992)
 | Best Dressed | 6.00% | ~8 |
 | Armaments Azure | 6.00% | ~8 |
 | Armaments Gules | 6.00% | ~8 |
-| Scholar | 5.00% | ~6 |
-| Veteran | 5.00% | ~6 |
+| Scholar | 5.00% | ~7 |
+| Veteran | 5.00% | ~7 |
 | Kitted Out | 4.00% | ~5 |
 | Armaments Vert | 4.00% | ~5 |
 | Backtracker | 4.00% | ~5 |
@@ -53,8 +53,8 @@ Rating: 3.98 (Ranked 992)
 | Tip of the Spear | 2.00% | ~3 |
 | Fowl Play | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 384)  
-Completed: 1 (0.77%) (Ranked 170)  
+Progressed: 131 (Ranked 384)  
+Completed: 1 (0.76%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 1 (0.77%) (Ranked 170)
 | 2023-10-30 | 112 | 1 |
 | 2023-10-31 | 117 | 1 |
 | 2023-11-01 | 123 | 1 |
-| 2023-11-02 | 130 | 1 |
+| 2023-11-02 | 131 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

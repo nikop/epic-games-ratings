@@ -4,10 +4,10 @@
   "ProductSlug": "yooka-laylee",
   "Ranking_Rating": 864,
   "Ranking_Popularity": 517,
-  "Ranking_PopularitySum": 469,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-19T15:00:00+00:00",
@@ -560,10 +560,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2023-11-02T22:57:28.6612378+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65,
+  "NumberOfAwards": 85,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -584,6 +590,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -597,8 +609,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2023-10-23T11:58:33.7833774+00:00",
+  "LastChanged": "2023-11-02T22:57:28.6612376+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:31.1173894+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:57:36.7847489+00:00",
-  "LastUpdate_Achievements": "2023-11-02T22:08:55.5913473+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:57:28.661239+00:00",
+  "LastUpdate_Achievements": "2023-11-02T23:08:38.2122952+00:00"
 }

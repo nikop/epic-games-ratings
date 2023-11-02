@@ -115,6 +115,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Masochist | 0.10% | ~239 |
 | Minimalist | 0.10% | ~239 |
 | Obsessed | 0.10% | ~239 |
+| Near Death Experience | 0.10% | ~239 |
 | Champion of the Day | 0.10% | ~239 |
 | Down Under | 0.10% | ~239 |
 | Only The Best | 0.10% | ~239 |
@@ -143,7 +144,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~0 |
 | What Doesn't Kill You | 0.10% | ~0 |
 | Never Too Many Hats | 0.00% | ~0 |
-| Near Death Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239,015 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  

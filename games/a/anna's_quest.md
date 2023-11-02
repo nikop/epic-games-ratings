@@ -10,12 +10,12 @@
 | My lost nightingale | 47.00% | ~28 |
 | Through the woods | 44.00% | ~26 |
 | Back to the anvil | 39.00% | ~23 |
+| Kekekeke... | 39.00% | ~23 |
 | Fussy eater | 37.00% | ~22 |
+| Far away from home | 37.00% | ~22 |
 | So soothing... | 37.00% | ~22 |
-| Kekekeke... | 37.00% | ~22 |
 | Mystery solved | 36.00% | ~21 |
 | Honey, honey, honey… | 36.00% | ~21 |
-| Far away from home | 36.00% | ~21 |
 | Sorry Grandpa | 36.00% | ~21 |
 | Roostwig has entered the building | 36.00% | ~21 |
 | Game Over! | 34.00% | ~20 |
@@ -29,10 +29,10 @@
 | You've got mail! | 31.00% | ~18 |
 | Memories | 29.00% | ~17 |
 | Beekeeper | 29.00% | ~17 |
+| Pain in the hands | 29.00% | ~17 |
 | Mischief maker | 29.00% | ~17 |
 | Close the deal | 27.00% | ~16 |
 | Ring-a-ding-ding | 27.00% | ~16 |
-| Pain in the hands | 27.00% | ~16 |
 | Turn the last page | 25.00% | ~15 |
 | Makeover | 24.00% | ~14 |
 | Singstar | 24.00% | ~14 |

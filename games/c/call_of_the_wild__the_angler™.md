@@ -20,6 +20,7 @@ Number of Ratings: 281  (23.09.2022)
 | Live by the Rod, Diez by the Rod! | 0.30% | ~17 |
 | License to Gill | 0.20% | ~12 |
 | Aguas Claras Conquistador | 0.20% | ~11 |
+| All Good Kings Must Come to an End | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
@@ -33,14 +34,13 @@ Number of Ratings: 281  (23.09.2022)
 | Taylor Made | 0.10% | ~6 |
 | Big Fish Small Pond | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
+| Buckaroo | 0.10% | ~6 |
 | Gonna Need a Bigger Boat | 0.10% | ~6 |
 | Fish upon a Star | 0.10% | ~6 |
-| All Good Kings Must Come to an End | 0.10% | ~6 |
 | Three Square Meals | 0.10% | ~6 |
 | Head for Heights | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
-| Buckaroo | 0.00% | ~0 |
 | Rod and Troll | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Trollsporet Tale Teller | 0.00% | ~0 |

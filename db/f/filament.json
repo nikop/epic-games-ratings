@@ -294,9 +294,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 204592,
+  "EOS_Progressed": 204598,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 453,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21404,6 +21404,11 @@
       "Time": "2023-11-02T22:03:42.7012585+00:00",
       "NumProgressed": 204592,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-11-02T23:03:22.575806+00:00",
+      "NumProgressed": 204598,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 29,
@@ -21439,7 +21444,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192316
+      "UsersEstimate": 192322
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -21599,7 +21604,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20459
+      "UsersEstimate": 20460
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -21615,7 +21620,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16367
+      "UsersEstimate": 16368
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -21646,7 +21651,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 204592,
+      "Progressed": 204598,
       "Completed": 524
     }
   ],
@@ -21654,8 +21659,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-31T04:00:18.6284781+00:00",
-  "LastChanged_Achievements": "2023-11-02T22:03:42.7012579+00:00",
+  "LastChanged_Achievements": "2023-11-02T23:03:22.5758056+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.7475217+00:00",
   "LastUpdate_Ratings": "2023-11-02T22:02:37.9014053+00:00",
-  "LastUpdate_Achievements": "2023-11-02T22:03:42.7014113+00:00"
+  "LastUpdate_Achievements": "2023-11-02T23:03:22.5759628+00:00"
 }

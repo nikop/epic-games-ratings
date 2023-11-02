@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 984,
+  "EOS_Progressed": 986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2023-11-02T21:07:14.0509327+00:00",
       "NumProgressed": 984,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T23:05:09.6316362+00:00",
+      "NumProgressed": 986,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1341,9 +1346,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1365,9 +1370,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 680
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1383,7 +1388,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1391,7 +1396,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -1399,7 +1404,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1431,7 +1436,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1526,14 +1531,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 984,
+      "Progressed": 986,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-02T22:06:03.6214677+00:00",
+  "LastChanged_Achievements": "2023-11-02T23:05:09.6316354+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:58:43.6940182+00:00",
-  "LastUpdate_Achievements": "2023-11-02T22:06:03.6214997+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:58:17.4711536+00:00",
+  "LastUpdate_Achievements": "2023-11-02T23:05:09.631665+00:00"
 }

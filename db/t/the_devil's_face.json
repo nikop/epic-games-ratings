@@ -2323,17 +2323,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 232
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2442,8 +2442,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-02T22:08:13.1200151+00:00",
+  "LastChanged_Achievements": "2023-11-02T23:07:16.9130566+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-02T22:02:26.6316392+00:00",
-  "LastUpdate_Achievements": "2023-11-02T22:08:13.1200427+00:00"
+  "LastUpdate_Ratings": "2023-11-02T23:01:08.4499863+00:00",
+  "LastUpdate_Achievements": "2023-11-02T23:07:16.9130854+00:00"
 }

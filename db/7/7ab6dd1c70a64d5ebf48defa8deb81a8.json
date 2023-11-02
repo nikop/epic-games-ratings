@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Progress": 429,
+  "Ranking_EOS_Completed": 142,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 76,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.37,
+  "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -305,6 +305,11 @@
       "Time": "2023-11-02T22:09:40.5112962+00:00",
       "NumProgressed": 73,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T23:09:14.4679158+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -316,7 +321,7 @@
       "Name": "Break Out",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_02",
@@ -330,7 +335,7 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -442,7 +447,7 @@
       "ID": "ACH_17",
       "SetID": "efe2lj",
       "Name": "Shatterer",
-      "Percentage": -1.4,
+      "Percentage": -1.3,
       "XP": 30,
       "UsersEstimate": -1
     },
@@ -450,7 +455,7 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -466,7 +471,7 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": -1.4,
+      "Percentage": -1.3,
       "XP": 40,
       "UsersEstimate": -1
     },
@@ -514,7 +519,7 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -570,7 +575,7 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -603,14 +608,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 76,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-02T22:09:40.5112958+00:00",
+  "LastChanged_Achievements": "2023-11-02T23:09:14.467915+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:59:18.0703712+00:00",
-  "LastUpdate_Achievements": "2023-11-02T22:09:40.5113222+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:58:42.462988+00:00",
+  "LastUpdate_Achievements": "2023-11-02T23:09:14.4679469+00:00"
 }

@@ -9421,9 +9421,9 @@
       "ID": "ACHIEVEMENT_029",
       "SetID": "1a05lfd",
       "Name": "Buckaroo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -9501,9 +9501,9 @@
       "ID": "ACHIEVEMENT_040",
       "SetID": "6jk25od",
       "Name": "All Good Kings Must Come to an End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -9532,8 +9532,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-10-29T22:02:34.4551654+00:00",
-  "LastChanged_Achievements": "2023-11-02T22:09:01.7976534+00:00",
+  "LastChanged_Achievements": "2023-11-02T23:08:43.6936656+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-02T21:57:35.8055579+00:00",
-  "LastUpdate_Achievements": "2023-11-02T22:09:01.7977408+00:00"
+  "LastUpdate_Ratings": "2023-11-02T22:57:27.6322993+00:00",
+  "LastUpdate_Achievements": "2023-11-02T23:08:43.6937547+00:00"
 }

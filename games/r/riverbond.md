@@ -6,30 +6,30 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,357 |
-| Now You're Talking | 62.00% | ~328,916 |
-| Steel Yourself | 62.00% | ~328,916 |
-| Window Dressing | 50.00% | ~265,255 |
-| Trigger Happy | 46.00% | ~244,035 |
-| Riverborn | 45.00% | ~238,730 |
-| Starry Eyed | 34.00% | ~180,373 |
-| Poking Around | 34.00% | ~180,373 |
-| Talk of the Town | 24.00% | ~127,322 |
-| AAARR! | 23.00% | ~122,017 |
-| Hello Darkness | 23.00% | ~122,017 |
-| Wind At Our Backs | 22.00% | ~116,712 |
-| To the Beat | 20.00% | ~106,102 |
-| Sunny Shores | 17.00% | ~90,187 |
-| Sunday Best | 16.00% | ~84,882 |
-| To Victory! | 15.00% | ~79,576 |
-| Two of a Kind | 14.00% | ~74,271 |
-| Keep On Trucking | 13.00% | ~68,966 |
-| Going on an Adventure | 11.00% | ~58,356 |
-| Make Peace, Not War | 11.00% | ~58,356 |
-| Walking The Line | 10.00% | ~53,051 |
-| Not So Cute Anymore | 10.00% | ~53,051 |
-| Road Less Travelled | 9.00% | ~47,746 |
-| Lost and Found | 9.00% | ~47,746 |
+| First Step | 70.00% | ~371,362 |
+| Now You're Talking | 62.00% | ~328,921 |
+| Steel Yourself | 62.00% | ~328,921 |
+| Window Dressing | 50.00% | ~265,258 |
+| Trigger Happy | 46.00% | ~244,038 |
+| Riverborn | 45.00% | ~238,733 |
+| Starry Eyed | 34.00% | ~180,376 |
+| Poking Around | 34.00% | ~180,376 |
+| Talk of the Town | 24.00% | ~127,324 |
+| AAARR! | 23.00% | ~122,019 |
+| Hello Darkness | 23.00% | ~122,019 |
+| Wind At Our Backs | 22.00% | ~116,714 |
+| To the Beat | 20.00% | ~106,103 |
+| Sunny Shores | 17.00% | ~90,188 |
+| Sunday Best | 16.00% | ~84,883 |
+| To Victory! | 15.00% | ~79,578 |
+| Two of a Kind | 14.00% | ~74,272 |
+| Keep On Trucking | 13.00% | ~68,967 |
+| Going on an Adventure | 11.00% | ~58,357 |
+| Make Peace, Not War | 11.00% | ~58,357 |
+| Walking The Line | 10.00% | ~53,052 |
+| Not So Cute Anymore | 10.00% | ~53,052 |
+| Road Less Travelled | 9.00% | ~47,747 |
+| Lost and Found | 9.00% | ~47,747 |
 | Under the Radar | 8.00% | ~42,441 |
 | Partner in Crime | 7.00% | ~37,136 |
 | Hard to Hear | 7.00% | ~37,136 |
@@ -42,18 +42,18 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,526 |
 | Rising Star | 5.00% | ~26,526 |
 | Slime Slayer | 5.00% | ~26,526 |
-| Privacy, Please! | 4.00% | ~21,220 |
-| Silky Smooth | 4.00% | ~21,220 |
-| Hash It Over | 4.00% | ~21,220 |
-| Biting Tongue | 4.00% | ~21,220 |
-| What a Catch! | 4.00% | ~21,220 |
-| Hit the Spot | 4.00% | ~21,220 |
-| Talk the Talk | 3.00% | ~15,915 |
-| Skin in the Game | 3.00% | ~15,915 |
-| Caving In | 3.00% | ~15,915 |
-| Page Turner | 3.00% | ~15,915 |
-| Spinal Adjustment | 3.00% | ~15,915 |
-| The Knowledge | 3.00% | ~15,915 |
+| Privacy, Please! | 4.00% | ~21,221 |
+| Silky Smooth | 4.00% | ~21,221 |
+| Hash It Over | 4.00% | ~21,221 |
+| Biting Tongue | 4.00% | ~21,221 |
+| What a Catch! | 4.00% | ~21,221 |
+| Hit the Spot | 4.00% | ~21,221 |
+| Talk the Talk | 3.00% | ~15,916 |
+| Skin in the Game | 3.00% | ~15,916 |
+| Caving In | 3.00% | ~15,916 |
+| Page Turner | 3.00% | ~15,916 |
+| Spinal Adjustment | 3.00% | ~15,916 |
+| The Knowledge | 3.00% | ~15,916 |
 | Seek the Rainbow | 2.00% | ~10,610 |
 | Words of Truth | 2.00% | ~10,610 |
 | Star Power | 2.00% | ~10,610 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,592 |
 | Point Taken | 0.20% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,510 (Ranked 35)  
-Completed: 493 (0.09%) (Ranked 271)  
+Progressed: 530,517 (Ranked 35)  
+Completed: 493 (0.09%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,10 +260,10 @@ Completed: 493 (0.09%) (Ranked 271)
 | 2023-10-30 | 530,326 | 490 |
 | 2023-10-31 | 530,383 | 492 |
 | 2023-11-01 | 530,437 | 492 |
-| 2023-11-02 | 530,510 | 493 |
+| 2023-11-02 | 530,517 | 493 |
 ## Awards
-Max (Relaxing): 20  (Ranked 537)  
-Sum: 20 (Ranked 538)  
+Max (Relaxing): 20  (Ranked 538)  
+Sum: 20 (Ranked 539)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
