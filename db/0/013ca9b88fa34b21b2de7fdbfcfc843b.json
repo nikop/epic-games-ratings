@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7452,
+  "EOS_Progressed": 7453,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
@@ -5899,6 +5899,11 @@
       "Time": "2023-11-02T12:09:54.5259326+00:00",
       "NumProgressed": 7452,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T13:13:20.967269+00:00",
+      "NumProgressed": 7453,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5911,7 +5916,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5365
+      "UsersEstimate": 5366
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5919,7 +5924,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5216
+      "UsersEstimate": 5217
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -5943,7 +5948,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6007,7 +6012,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6063,7 +6068,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6173,9 +6178,9 @@
       "ID": "UPGRADE_HOUSEMAX",
       "SetID": "9eia0f5",
       "Name": "House Proud",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 298
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -6190,22 +6195,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7452,
+      "Progressed": 7453,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 69,
-      "Completed": 69
+      "Progressed": 70,
+      "Completed": 70
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:09:54.525932+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:13:20.9672687+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-11-02T12:01:53.9969529+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:09:54.5260399+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:04:27.2087197+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:13:20.9673216+00:00"
 }

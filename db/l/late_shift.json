@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -1295,6 +1295,11 @@
       "Time": "2023-11-02T11:06:16.951863+00:00",
       "NumProgressed": 612,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-02T13:10:20.6974958+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1306,7 +1311,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1336,9 +1341,9 @@
       "ID": "ENDING_3",
       "SetID": "8eejhlh",
       "Name": "The Ploy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "ENDING_4",
@@ -1354,7 +1359,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ENDING_6",
@@ -1362,7 +1367,7 @@
       "Name": "The Bribe",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ENDING_7",
@@ -1394,7 +1399,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "GOOD_KARMA",
@@ -1408,9 +1413,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "OFFICE_CLERK",
@@ -1418,7 +1423,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1426,7 +1431,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PROTECTOR",
@@ -1434,7 +1439,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "SABOTAGE",
@@ -1442,7 +1447,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "SHILL_BIDDER",
@@ -1465,7 +1470,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 8
     }
   ],
@@ -1473,8 +1478,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:07:42.7179783+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:10:20.6974953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-11-02T12:02:01.9820102+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:07:42.7180155+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:04:32.5017453+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:10:20.697515+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.10 (Ranked 953)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,946 |
-| World Map | 79.00% | ~1,653 |
-| Temple of Eternals | 57.00% | ~1,193 |
-| Prestigious | 54.00% | ~1,130 |
+| Victor | 93.00% | ~1,947 |
+| World Map | 79.00% | ~1,654 |
+| Temple of Eternals | 57.00% | ~1,194 |
+| Prestigious | 54.00% | ~1,131 |
 | Fellowship Power | 42.00% | ~879 |
 | Guild Power | 26.00% | ~544 |
-| Prestigious x10 | 23.00% | ~481 |
+| Prestigious x10 | 23.00% | ~482 |
 | The game is on | 21.00% | ~440 |
 | Exotic Merchant | 20.00% | ~419 |
 | Dragon Clicker | 18.00% | ~377 |
@@ -44,12 +44,12 @@ Rating: 4.10 (Ranked 953)
 | Crystal Mining | 9.00% | ~188 |
 | Here We Go Again | 9.00% | ~188 |
 | Trader | 9.00% | ~188 |
-| Blueprint Upgrades | 8.00% | ~167 |
-| Dragon Slayer | 8.00% | ~167 |
-| Enchanting skill | 8.00% | ~167 |
-| Engineer Mastery | 8.00% | ~167 |
-| The Expeditioner | 8.00% | ~167 |
-| Weekly Quest Completionist | 8.00% | ~167 |
+| Blueprint Upgrades | 8.00% | ~168 |
+| Dragon Slayer | 8.00% | ~168 |
+| Enchanting skill | 8.00% | ~168 |
+| Engineer Mastery | 8.00% | ~168 |
+| The Expeditioner | 8.00% | ~168 |
+| Weekly Quest Completionist | 8.00% | ~168 |
 | How Do You Turn This On? | 7.00% | ~147 |
 | Lock And Load | 7.00% | ~147 |
 | Missions Dedication | 7.00% | ~147 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 953)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,093 (Ranked 213)  
+Progressed: 2,094 (Ranked 213)  
 Completed: 2 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2 (0.10%) (Ranked 265)
 | 2023-10-30 | 2,084 | 2 |
 | 2023-10-31 | 2,087 | 2 |
 | 2023-11-01 | 2,090 | 2 |
-| 2023-11-02 | 2,093 | 2 |
+| 2023-11-02 | 2,094 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 487)  
 Sum: 79 (Ranked 453)  

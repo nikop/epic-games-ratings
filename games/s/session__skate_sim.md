@@ -41,9 +41,9 @@ Number of Ratings: 111  (23.09.2022)
 | We get it, you're good | 5.00% | ~152 |
 | Cops called! | 4.00% | ~122 |
 | G.O.A.T. status | 4.00% | ~122 |
+| Hoarder | 4.00% | ~122 |
 | Pew-Pew | 4.00% | ~122 |
 | Prince of Philly | 4.00% | ~122 |
-| Hoarder | 3.00% | ~92 |
 | Cross lock country | 2.00% | ~61 |
 | Many plys later... | 2.00% | ~61 |
 | That was wheelie fun | 2.00% | ~61 |

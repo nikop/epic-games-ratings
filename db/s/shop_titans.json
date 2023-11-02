@@ -6773,10 +6773,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27482,
       "NumberOfAwardsMax": 4814
+    },
+    {
+      "Time": "2023-11-02T13:04:13.0130222+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27484,
+      "NumberOfAwardsMax": 4814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27482,
+  "NumberOfAwards": 27484,
   "NumberOfAwardsMax": 4814,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6802,7 +6808,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3717
+      "Count": 3718
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6826,12 +6832,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3769
+      "Count": 3770
     }
   ],
-  "EOS_Progressed": 138462,
+  "EOS_Progressed": 138466,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26829,6 +26835,11 @@
       "Time": "2023-11-02T12:08:11.9934083+00:00",
       "NumProgressed": 138462,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-02T13:10:40.8071925+00:00",
+      "NumProgressed": 138466,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27008,7 +27019,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "chest02",
@@ -27656,7 +27667,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "twinenchant01",
@@ -27735,15 +27746,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138462,
+      "Progressed": 138466,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-01T23:59:57.7297879+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:08:11.9934075+00:00",
+  "LastChanged": "2023-11-02T13:04:13.013022+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:10:40.8071922+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-02T12:01:32.9099835+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:08:11.9939052+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:04:13.0130226+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:10:40.8073904+00:00"
 }

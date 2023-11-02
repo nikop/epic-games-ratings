@@ -11,8 +11,8 @@ Rating: 4.49 (Ranked 601)
 | Can You Pet the Bogling? | 87.00% | ~5,791 |
 | The Past Made Present | 84.00% | ~5,591 |
 | Survivors, We Adapt | 80.00% | ~5,325 |
+| They Never Saw It Coming | 78.00% | ~5,192 |
 | Among the Masters | 78.00% | ~5,192 |
-| They Never Saw It Coming | 77.00% | ~5,125 |
 | Who Gives a Puck | 74.00% | ~4,925 |
 | For the Path | 66.00% | ~4,393 |
 | Mirror Match | 65.00% | ~4,326 |

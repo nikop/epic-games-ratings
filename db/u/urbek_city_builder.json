@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -1532,9 +1532,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1636,9 +1636,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "POPULATION_2",
@@ -1845,8 +1845,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:10:17.6704499+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:13:36.7229825+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:22.8230343+00:00",
-  "LastUpdate_Ratings": "2023-11-02T12:03:25.7815987+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:10:17.670602+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:07:04.2924817+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:13:36.7230692+00:00"
 }

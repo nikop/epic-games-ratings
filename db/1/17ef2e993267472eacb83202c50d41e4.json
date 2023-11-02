@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7642,
+  "EOS_Progressed": 7644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5532,6 +5532,11 @@
       "Time": "2023-11-02T12:10:32.5629737+00:00",
       "NumProgressed": 7642,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T13:13:47.72007+00:00",
+      "NumProgressed": 7644,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5600,7 +5605,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "DHUpgraded1",
@@ -5648,7 +5653,7 @@
       "Name": "Upgraded Fast Recharge to Level 3",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "GPurchased1",
@@ -5664,7 +5669,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "GamesPlayed10",
@@ -5752,7 +5757,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "HSPurchased1",
@@ -5936,7 +5941,7 @@
       "Name": "2000 Minion Eliminations",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "NIUpgraded1",
@@ -6040,7 +6045,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "SEUpgraded1",
@@ -6104,7 +6109,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "TSUPurchased1",
@@ -6135,7 +6140,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7642,
+      "Progressed": 7644,
       "Completed": 1
     }
   ],
@@ -6143,8 +6148,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:10:32.5629729+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:13:47.7200693+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-11-02T12:03:20.9666265+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:10:32.5632127+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:07:01.1716087+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:13:47.7201613+00:00"
 }

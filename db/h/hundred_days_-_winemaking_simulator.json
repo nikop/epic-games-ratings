@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 10561,
+  "EOS_Progressed": 10568,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8624,6 +8624,11 @@
       "Time": "2023-11-02T12:08:59.5413178+00:00",
       "NumProgressed": 10561,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-02T13:12:42.685675+00:00",
+      "NumProgressed": 10568,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8636,7 +8641,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "a_10",
@@ -8684,7 +8689,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4224
+      "UsersEstimate": 4227
     },
     {
       "ID": "a_19",
@@ -8692,7 +8697,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "a_2",
@@ -8724,7 +8729,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "a_23",
@@ -8732,7 +8737,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "a_25",
@@ -8883,7 +8888,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 10561,
+      "Progressed": 10568,
       "Completed": 10
     }
   ],
@@ -8891,8 +8896,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:08:59.5413171+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:12:42.6856746+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-11-02T11:59:07.8896261+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:08:59.5414384+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:02:36.3037815+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:12:42.6857309+00:00"
 }

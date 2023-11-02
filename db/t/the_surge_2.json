@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2119,
+  "EOS_Progressed": 2120,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2859,6 +2859,11 @@
       "Time": "2023-11-02T09:09:23.6534938+00:00",
       "NumProgressed": 2119,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-02T13:13:18.3725394+00:00",
+      "NumProgressed": 2120,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2886,7 +2891,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHV_04",
@@ -2910,7 +2915,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACHV_07",
@@ -2934,7 +2939,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHV_10",
@@ -3046,7 +3051,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHV_24",
@@ -3070,7 +3075,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ACHV_27",
@@ -3102,7 +3107,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHV_31",
@@ -3110,7 +3115,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHV_32",
@@ -3158,7 +3163,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACHV_38",
@@ -3166,7 +3171,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHV_39",
@@ -3190,7 +3195,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACHV_42",
@@ -3206,7 +3211,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHV_44",
@@ -3325,7 +3330,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2119,
+      "Progressed": 2120,
       "Completed": 13
     }
   ],
@@ -3333,8 +3338,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-02T12:09:50.7178274+00:00",
+  "LastChanged_Achievements": "2023-11-02T13:13:18.372539+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-02T11:58:07.1502365+00:00",
-  "LastUpdate_Achievements": "2023-11-02T12:09:50.7179532+00:00"
+  "LastUpdate_Ratings": "2023-11-02T13:01:52.3932352+00:00",
+  "LastUpdate_Achievements": "2023-11-02T13:13:18.3725956+00:00"
 }

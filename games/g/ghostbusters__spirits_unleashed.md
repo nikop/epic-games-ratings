@@ -6,19 +6,19 @@ Rating: 4.50 (Ranked 579)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 6.00% | ~1,779 |
-| Advancement | 5.00% | ~1,482 |
-| Meticulously Efficient | 5.00% | ~1,482 |
+| Advancement | 5.00% | ~1,483 |
+| Meticulously Efficient | 5.00% | ~1,483 |
 | Discovery | 4.00% | ~1,186 |
 | Solo Capture | 4.00% | ~1,186 |
-| Clutch Capture | 3.00% | ~889 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~889 |
-| Cultured | 3.00% | ~889 |
-| Fully Upgraded | 3.00% | ~889 |
-| Swift Rift Removers | 3.00% | ~889 |
-| Teamwork | 3.00% | ~889 |
-| There you are! | 3.00% | ~889 |
-| Vaporous Expansion | 3.00% | ~889 |
-| Whoopsie | 3.00% | ~889 |
+| Clutch Capture | 3.00% | ~890 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~890 |
+| Cultured | 3.00% | ~890 |
+| Fully Upgraded | 3.00% | ~890 |
+| Swift Rift Removers | 3.00% | ~890 |
+| Teamwork | 3.00% | ~890 |
+| There you are! | 3.00% | ~890 |
+| Vaporous Expansion | 3.00% | ~890 |
+| Whoopsie | 3.00% | ~890 |
 | Animated | 2.00% | ~593 |
 | Back Off | 2.00% | ~593 |
 | We have the best insurance | 2.00% | ~593 |
@@ -36,12 +36,12 @@ Rating: 4.50 (Ranked 579)
 | Stunner | 2.00% | ~593 |
 | Summoner | 2.00% | ~593 |
 | Welcome to the Crew | 2.00% | ~593 |
-| Collector | 1.00% | ~296 |
-| Diabolical | 1.00% | ~296 |
-| Escape Artist | 1.00% | ~296 |
-| Reckless | 1.00% | ~296 |
-| Terrifying | 1.00% | ~296 |
-| Tobin's Prodigy | 1.00% | ~296 |
+| Collector | 1.00% | ~297 |
+| Diabolical | 1.00% | ~297 |
+| Escape Artist | 1.00% | ~297 |
+| Reckless | 1.00% | ~297 |
+| Terrifying | 1.00% | ~297 |
+| Tobin's Prodigy | 1.00% | ~297 |
 | Rivalry | 0.90% | ~267 |
 | Fragile Panes | 0.70% | ~208 |
 | Liability | 0.70% | ~208 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,647 (Ranked 122)  
+Progressed: 29,651 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
-| 2023-11-02 | 29,647 | 65 |
+| 2023-11-02 | 29,651 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 244)  
 Sum: 2,661 (Ranked 180)  

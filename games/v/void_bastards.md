@@ -4,9 +4,9 @@
 Rating: 4.60 (Ranked 407)  
 Number of Ratings: 986  (23.09.2022)  
 ## Awards
-Max (Amazing Characters): 22  (Ranked 525)  
+Max (Amazing Characters): 22  (Ranked 526)  
 Sum: 66 (Ranked 468)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 22 |
