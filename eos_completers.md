@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.28% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.63% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.61% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.51% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -83,15 +83,15 @@
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.79% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 3.65% |
 | 83 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.57% |
-| 84 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.47% |
+| 84 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.46% |
 | 85 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.45% |
 | 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.39% |
 | 88 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
-| 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
+| 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.29% |
 | 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.28% |
-| 91 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.26% |
-| 92 | [Doodle God](games/d/doodle_god.md) | 3.24% |
+| 91 | [Doodle God](games/d/doodle_god.md) | 3.24% |
+| 92 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.19% |
 | 93 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.17% |
 | 94 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.10% |
 | 95 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
@@ -121,8 +121,8 @@
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 120 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.93% |
 | 121 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.92% |
-| 122 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.91% |
-| 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 122 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 123 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.83% |
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
 | 126 | [Somerville](games/s/somerville.md) | 1.76% |
@@ -131,9 +131,9 @@
 | 129 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.69% |
 | 130 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.65% |
 | 131 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.57% |
-| 132 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.56% |
 | 132 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.56% |
-| 134 | [Five Dates](games/f/five_dates.md) | 1.54% |
+| 133 | [Five Dates](games/f/five_dates.md) | 1.54% |
+| 134 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.52% |
 | 135 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 136 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.46% |
 | 137 | [Iron Danger](games/i/iron_danger.md) | 1.39% |
@@ -146,10 +146,10 @@
 | 144 | [Lemon Cake](games/l/lemon_cake.md) | 1.29% |
 | 145 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.27% |
 | 145 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
-| 147 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.26% |
+| 147 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
 | 148 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 149 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.15% |
-| 150 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.12% |
+| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.16% |
+| 150 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.10% |
 | 151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 152 | [Adios](games/a/adios.md) | 1.06% |
 | 153 | [Infindustry](games/i/infindustry.md) | 1.05% |
@@ -216,15 +216,15 @@
 | 214 | [Them and Us](games/t/them_and_us.md) | 0.34% |
 | 215 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 216 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 216 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.31% |
 | 216 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 216 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.31% |
 | 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.31% |
 | 216 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 221 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.30% |
-| 221 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
-| 221 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
-| 221 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
-| 221 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
+| 222 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
+| 222 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
+| 222 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
+| 222 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
 | 226 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 226 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 228 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
