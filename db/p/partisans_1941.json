@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3289,6 +3289,11 @@
       "Time": "2023-11-02T15:03:15.3542658+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T17:04:16.8128316+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3380,7 +3385,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "Everyone_is_here",
@@ -3492,7 +3497,7 @@
       "Name": "Mosquito bite",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "Scout",
@@ -3516,7 +3521,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "We_were_not_here",
@@ -3539,15 +3544,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:03:25.8393401+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:04:16.8128307+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-02T16:00:36.2296802+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:03:25.8394285+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:01:54.6287864+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:04:16.8129034+00:00"
 }

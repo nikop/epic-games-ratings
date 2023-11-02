@@ -3,8 +3,8 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-11-01T05:08:25.6436168+00:00",
       "NumProgressed": 74,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T17:04:48.668229+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -370,7 +375,7 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -378,7 +383,7 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -410,7 +415,7 @@
       "ID": "SG_CHARISMATIC",
       "SetID": "bj5g0n4",
       "Name": "Charismatic",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -426,7 +431,7 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -498,7 +503,7 @@
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -506,7 +511,7 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -522,7 +527,7 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -578,7 +583,7 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -651,14 +656,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:04:08.8370086+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:04:48.6682285+00:00",
   "LastUpdate_AppInfo": "2023-11-02T14:57:01.939859+00:00",
-  "LastUpdate_Ratings": "2023-11-02T16:02:57.0903396+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:04:08.8370612+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:03:28.1106579+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:04:48.6682755+00:00"
 }

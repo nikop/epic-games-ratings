@@ -3,8 +3,8 @@
   "Name": "Legendary Hoplite",
   "ProductSlug": "legendary-hoplite-07ce5f",
   "Ranking_EOS_Progress": 718,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-31T14:57:14.0409165+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:59:52.7758965+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:06:58.9439032+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:00:53.9133079+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:08:49.3520636+00:00"
 }

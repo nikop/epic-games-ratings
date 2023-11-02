@@ -6,33 +6,34 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 106.00% | ~51 |
-| Adept Assembler | 96.00% | ~46 |
-| Greeno-B-Gone | 77.00% | ~37 |
-| Your Especially Earned Trajectory | 60.00% | ~29 |
-| Can We Keep It? | 52.00% | ~25 |
-| No Mountain Wide Enough | 29.00% | ~14 |
-| My Time Mansion | 27.00% | ~13 |
-| Call Me Fishmael | 27.00% | ~13 |
-| Happier-est Place on Earth | 23.00% | ~11 |
-| Yakmel Whisperer | 23.00% | ~11 |
-| You Don't Win Friends With Salad | 21.00% | ~10 |
-| Finishing Touches | 19.00% | ~9 |
-| Anti-Santa | 19.00% | ~9 |
-| Jewel of the Eufaula | 15.00% | ~7 |
+| Iron Chef | 137.00% | ~70 |
+| Adept Assembler | 118.00% | ~60 |
+| Greeno-B-Gone | 92.00% | ~47 |
+| Your Especially Earned Trajectory | 73.00% | ~37 |
+| Can We Keep It? | 53.00% | ~27 |
+| No Mountain Wide Enough | 37.00% | ~19 |
+| My Time Mansion | 33.00% | ~17 |
+| Finishing Touches | 29.00% | ~15 |
+| Happier-est Place on Earth | 29.00% | ~15 |
+| Call Me Fishmael | 29.00% | ~15 |
+| Yakmel Whisperer | 25.00% | ~13 |
+| Anti-Santa | 24.00% | ~12 |
+| You Don't Win Friends With Salad | 24.00% | ~12 |
+| Jewel of the Eufaula | 16.00% | ~8 |
+| Officially Official | 10.00% | ~5 |
+| Knowledge is Power | 8.00% | ~4 |
 | Jack of All Trades | 8.00% | ~4 |
+| On that Grindset | 8.00% | ~4 |
 | I Do! | 8.00% | ~4 |
-| Knowledge is Power | 6.00% | ~3 |
-| On that Grindset | 6.00% | ~3 |
-| Officially Official | 4.00% | ~2 |
-| Pack Mule | 2.00% | ~1 |
+| Pack Mule | 4.00% | ~2 |
+| One of the Cool Kids | 4.00% | ~2 |
+| Panda-kin | 2.00% | ~1 |
 | Bridging the Gap | 2.00% | ~1 |
-| One of the Cool Kids | 2.00% | ~1 |
+| Better Late than Never | 2.00% | ~1 |
 | Pro Gamer | 2.00% | ~1 |
 | Just What I Always Wanted! | 2.00% | ~1 |
 | Sandrock's Hottest Club | 2.00% | ~1 |
 | Diamonds are Forever | 2.00% | ~1 |
-| Panda-kin | 0.00% | ~0 |
 | Time Flies | 0.00% | ~0 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
@@ -42,7 +43,6 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 0.00% | ~0 |
 | Builder of the Month | 0.00% | ~0 |
 | Kind of a Big Deal | 0.00% | ~0 |
-| Better Late than Never | 0.00% | ~0 |
 | Martle's Dream | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | What Plants Crave | 0.00% | ~0 |
@@ -67,12 +67,12 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 462)  
-Completed: 0 (0.00%) (Ranked 338)  
+Progressed: 51 (Ranked 457)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-02 | 48 | 0 |
+| 2023-11-02 | 51 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,297 (Ranked 236)  

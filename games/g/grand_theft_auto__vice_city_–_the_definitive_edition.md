@@ -13,7 +13,7 @@ Rating: 4.53 (Ranked 532)
 | Big Heat from Little Havana | 15.00% | ~1,613 |
 | Chauffeur | 15.00% | ~1,613 |
 | Salutations My Little Friend | 11.00% | ~1,183 |
-| Iron-y | 10.00% | ~1,075 |
+| Iron-y | 10.00% | ~1,076 |
 | Gun for Hire | 9.00% | ~968 |
 | Mischief Managed | 9.00% | ~968 |
 | Vice City Mogul | 7.00% | ~753 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 532)
 | Done it All | 1.00% | ~108 |
 | Kingpin | 0.60% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,754 (Ranked 152)  
+Progressed: 10,755 (Ranked 152)  
 Completed: 64 (0.60%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 64 (0.60%) (Ranked 179)
 | 2023-10-30 | 10,710 | 63 |
 | 2023-10-31 | 10,718 | 63 |
 | 2023-11-01 | 10,743 | 64 |
-| 2023-11-02 | 10,754 | 64 |
+| 2023-11-02 | 10,755 | 64 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 356)  
 Sum: 99 (Ranked 439)  

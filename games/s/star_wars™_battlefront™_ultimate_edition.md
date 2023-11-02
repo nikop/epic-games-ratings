@@ -16,9 +16,9 @@
 | The power of the Force | 15.00% | ~149 |
 | Together we can rule the galaxy | 15.00% | ~149 |
 | Collector | 14.00% | ~139 |
+| Survivor | 11.00% | ~109 |
 | Tell Jabba that I've got his money | 10.00% | ~99 |
 | Best star-pilot in the galaxy | 10.00% | ~99 |
-| Survivor | 10.00% | ~99 |
 | Never tell me the odds! | 9.00% | ~89 |
 | A cunning warrior | 9.00% | ~89 |
 | What's the cargo? | 8.00% | ~80 |

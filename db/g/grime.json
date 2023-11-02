@@ -6,8 +6,8 @@
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1351,7 +1351,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 156092,
+  "EOS_Progressed": 156101,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1341,
   "EOS_NewCompleters": 0,
@@ -14096,6 +14096,11 @@
       "Time": "2023-11-02T16:06:54.2025161+00:00",
       "NumProgressed": 156092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T17:08:42.3041012+00:00",
+      "NumProgressed": 156101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14187,7 +14192,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -14195,7 +14200,7 @@
       "Name": "Artisan",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -14235,7 +14240,7 @@
       "Name": "Hush",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -14275,7 +14280,7 @@
       "Name": "Inevitable",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -14315,7 +14320,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -14474,21 +14479,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155675,
+      "Progressed": 155684,
       "Completed": 1186
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156092,
+      "Progressed": 156101,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-02T09:58:34.7393924+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:06:54.2025154+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:08:42.3041007+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:59:00.8088645+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:06:54.2027603+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:59:29.9757276+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:08:42.304221+00:00"
 }

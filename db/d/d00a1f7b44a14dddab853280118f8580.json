@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 162,
-  "EOS_Completed": 36,
+  "EOS_Completed": 37,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 22.22,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 22.84,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -799,6 +799,11 @@
       "Time": "2023-10-28T19:05:30.6844009+00:00",
       "NumProgressed": 162,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2023-11-02T17:08:37.0609714+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -889,9 +894,9 @@
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 150,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
@@ -899,13 +904,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 162,
-      "Completed": 36
+      "Completed": 37
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:06:50.4708508+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:08:37.0609708+00:00",
   "LastUpdate_AppInfo": "2023-10-27T03:57:06.9569483+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:58:42.1044764+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:06:50.4708725+00:00"
+  "LastUpdate_Ratings": "2023-11-02T16:59:06.0825805+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:08:37.0609924+00:00"
 }

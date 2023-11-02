@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13371,
+  "EOS_Progressed": 13372,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13643,6 +13643,11 @@
       "Time": "2023-11-02T16:08:43.1565131+00:00",
       "NumProgressed": 13371,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T17:09:35.8494421+00:00",
+      "NumProgressed": 13372,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -13654,7 +13659,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10964
+      "UsersEstimate": 10965
     },
     {
       "ID": "ACH02",
@@ -13710,7 +13715,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "ACH09",
@@ -13750,7 +13755,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "ACH14",
@@ -13830,7 +13835,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "ACH24",
@@ -13878,7 +13883,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "ACH30",
@@ -13933,7 +13938,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13371,
+      "Progressed": 13372,
       "Completed": 51
     }
   ],
@@ -13941,8 +13946,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:08:43.1565125+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:09:35.8494415+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-02T16:01:22.3667938+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:08:43.1567359+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:02:55.3095695+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:09:35.8496228+00:00"
 }

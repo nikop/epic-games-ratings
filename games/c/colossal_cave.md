@@ -30,7 +30,7 @@
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 94 (Ranked 413)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

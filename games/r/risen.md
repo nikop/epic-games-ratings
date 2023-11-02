@@ -22,11 +22,11 @@ Rating: 4.57 (Ranked 466)
 | The fourth triplet | 33.00% | ~7 |
 | Sidelined | 33.00% | ~7 |
 | Wise man | 29.00% | ~6 |
+| Family man | 29.00% | ~6 |
 | Ogre friend | 29.00% | ~6 |
 | Hard worker | 29.00% | ~6 |
 | Workaholic | 29.00% | ~6 |
 | Fence | 29.00% | ~6 |
-| Family man | 24.00% | ~5 |
 | Death of a legend | 24.00% | ~5 |
 | Archaeologist | 24.00% | ~5 |
 | Defender | 24.00% | ~5 |
@@ -57,7 +57,7 @@ Rating: 4.57 (Ranked 466)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21 (Ranked 515)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

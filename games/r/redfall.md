@@ -44,6 +44,7 @@ Rating: 3.51 (Ranked 1,029)
 | I Spit On Your Grave | 0.30% | ~5 |
 | Revelations | 0.20% | ~4 |
 | What Lies Below | 0.20% | ~4 |
+| Bloody Initiate | 0.20% | ~4 |
 | So Anyway I Started Blasting | 0.20% | ~4 |
 | Blacklight Down | 0.20% | ~4 |
 | Under a Bushel | 0.20% | ~4 |
@@ -55,7 +56,6 @@ Rating: 3.51 (Ranked 1,029)
 | Friendgineering | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
-| Bloody Initiate | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Good Samaritan | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
@@ -73,7 +73,7 @@ Rating: 3.51 (Ranked 1,029)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,765 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

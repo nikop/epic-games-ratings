@@ -3082,9 +3082,9 @@
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_39",
@@ -3353,8 +3353,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:09:27.1435331+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:10:37.3054411+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-02T15:59:51.8066318+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:09:27.1436609+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:00:52.4199535+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:10:37.3055945+00:00"
 }

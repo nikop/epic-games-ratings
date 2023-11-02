@@ -40,8 +40,8 @@
 | Just Like Captain Cook | 0.00% | ~0 |
 | Wind it Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 609)  
-Completed: 0 (0.00%) (Ranked 338)  
+Progressed: 4 (Ranked 610)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

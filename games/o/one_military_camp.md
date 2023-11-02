@@ -12,7 +12,7 @@
 | There's something in those trees | 11.00% | ~21 |
 | Indebted | 11.00% | ~21 |
 | Desert Power | 10.00% | ~19 |
-| Desert Rat | 9.00% | ~17 |
+| Desert Rat | 10.00% | ~19 |
 | Perfect Soldier | 8.00% | ~15 |
 | Health Care | 8.00% | ~15 |
 | Ammo Tycoon | 8.00% | ~15 |
@@ -50,7 +50,7 @@
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 189 (Ranked 363)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

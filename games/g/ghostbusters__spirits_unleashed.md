@@ -5,37 +5,37 @@ Rating: 4.50 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,780 |
+| Stylish | 6.00% | ~1,781 |
 | Advancement | 5.00% | ~1,484 |
 | Meticulously Efficient | 5.00% | ~1,484 |
 | Discovery | 4.00% | ~1,187 |
 | Solo Capture | 4.00% | ~1,187 |
-| Clutch Capture | 3.00% | ~890 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~890 |
-| Cultured | 3.00% | ~890 |
-| Fully Upgraded | 3.00% | ~890 |
-| Swift Rift Removers | 3.00% | ~890 |
-| Teamwork | 3.00% | ~890 |
-| There you are! | 3.00% | ~890 |
-| Vaporous Expansion | 3.00% | ~890 |
-| Whoopsie | 3.00% | ~890 |
-| Animated | 2.00% | ~593 |
-| Back Off | 2.00% | ~593 |
-| We have the best insurance | 2.00% | ~593 |
-| Daily Dose | 2.00% | ~593 |
-| Ectoplasmic Entity | 2.00% | ~593 |
-| Ghostbuster In Training | 2.00% | ~593 |
-| Icing on the Cake | 2.00% | ~593 |
-| Legions | 2.00% | ~593 |
-| Pesky Jerks | 2.00% | ~593 |
-| Rift Destroyer | 2.00% | ~593 |
-| Right back at ya | 2.00% | ~593 |
-| Seasoned | 2.00% | ~593 |
-| Side Hustle | 2.00% | ~593 |
-| Skilled | 2.00% | ~593 |
-| Stunner | 2.00% | ~593 |
-| Summoner | 2.00% | ~593 |
-| Welcome to the Crew | 2.00% | ~593 |
+| Swift Rift Removers | 4.00% | ~1,187 |
+| Clutch Capture | 3.00% | ~891 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~891 |
+| Cultured | 3.00% | ~891 |
+| Fully Upgraded | 3.00% | ~891 |
+| Teamwork | 3.00% | ~891 |
+| There you are! | 3.00% | ~891 |
+| Vaporous Expansion | 3.00% | ~891 |
+| Whoopsie | 3.00% | ~891 |
+| Animated | 2.00% | ~594 |
+| Back Off | 2.00% | ~594 |
+| We have the best insurance | 2.00% | ~594 |
+| Daily Dose | 2.00% | ~594 |
+| Ectoplasmic Entity | 2.00% | ~594 |
+| Ghostbuster In Training | 2.00% | ~594 |
+| Icing on the Cake | 2.00% | ~594 |
+| Legions | 2.00% | ~594 |
+| Pesky Jerks | 2.00% | ~594 |
+| Rift Destroyer | 2.00% | ~594 |
+| Right back at ya | 2.00% | ~594 |
+| Seasoned | 2.00% | ~594 |
+| Side Hustle | 2.00% | ~594 |
+| Skilled | 2.00% | ~594 |
+| Stunner | 2.00% | ~594 |
+| Summoner | 2.00% | ~594 |
+| Welcome to the Crew | 2.00% | ~594 |
 | Collector | 1.00% | ~297 |
 | Diabolical | 1.00% | ~297 |
 | Escape Artist | 1.00% | ~297 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 579)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,674 (Ranked 122)  
+Progressed: 29,684 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-30 | 28,993 | 65 |
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
-| 2023-11-02 | 29,674 | 65 |
+| 2023-11-02 | 29,684 | 65 |
 ## Awards
 Max (Great for Beginners): 298  (Ranked 245)  
 Sum: 2,661 (Ranked 180)  

@@ -6,23 +6,23 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,805 |
-| Until death do us apart | 4.00% | ~17,805 |
-| Victorious! | 4.00% | ~17,805 |
-| That's a Grand Navy | 3.00% | ~13,353 |
-| That is mine! | 3.00% | ~13,353 |
-| Brothers in Arms | 2.00% | ~8,902 |
-| Cold War | 2.00% | ~8,902 |
-| For the Glory | 2.00% | ~8,902 |
-| Seriously?! | 2.00% | ~8,902 |
-| Defender of the Faith | 1.00% | ~4,451 |
-| It's all about luck | 1.00% | ~4,451 |
-| It's all about the money | 1.00% | ~4,451 |
-| Respected | 1.00% | ~4,451 |
-| The Princess is in this Castle | 1.00% | ~4,451 |
-| True Catholic | 1.00% | ~4,451 |
-| Truly Divine Ruler | 1.00% | ~4,451 |
-| Blockader | 0.90% | ~4,006 |
+| That's a Grand Army | 4.00% | ~17,807 |
+| Until death do us apart | 4.00% | ~17,807 |
+| Victorious! | 4.00% | ~17,807 |
+| That's a Grand Navy | 3.00% | ~13,355 |
+| That is mine! | 3.00% | ~13,355 |
+| Brothers in Arms | 2.00% | ~8,903 |
+| Cold War | 2.00% | ~8,903 |
+| For the Glory | 2.00% | ~8,903 |
+| Seriously?! | 2.00% | ~8,903 |
+| Defender of the Faith | 1.00% | ~4,452 |
+| It's all about luck | 1.00% | ~4,452 |
+| It's all about the money | 1.00% | ~4,452 |
+| Respected | 1.00% | ~4,452 |
+| The Princess is in this Castle | 1.00% | ~4,452 |
+| True Catholic | 1.00% | ~4,452 |
+| Truly Divine Ruler | 1.00% | ~4,452 |
+| Blockader | 0.90% | ~4,007 |
 | Double the Love | 0.80% | ~3,561 |
 | Royal Authority | 0.80% | ~3,561 |
 | Total Control | 0.80% | ~3,561 |
@@ -32,20 +32,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.50% | ~2,226 |
 | City of Cities | 0.50% | ~2,226 |
 | This navy can take it all | 0.50% | ~2,226 |
-| Bright Spark | 0.40% | ~1,780 |
-| The Emperors new clothes | 0.40% | ~1,780 |
-| Factionalism | 0.40% | ~1,780 |
-| Gentle Persuasion | 0.40% | ~1,780 |
-| Isn't this the way to India? | 0.40% | ~1,780 |
-| Queen of Conquest | 0.40% | ~1,780 |
-| The Five Colonies | 0.40% | ~1,780 |
-| Trustworthy | 0.40% | ~1,780 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,335 |
-| Down Under | 0.30% | ~1,335 |
-| Electable! | 0.30% | ~1,335 |
-| A Golden Empire | 0.30% | ~1,335 |
-| Market Control | 0.30% | ~1,335 |
-| Populists in Government | 0.30% | ~1,335 |
+| Bright Spark | 0.40% | ~1,781 |
+| The Emperors new clothes | 0.40% | ~1,781 |
+| Factionalism | 0.40% | ~1,781 |
+| Gentle Persuasion | 0.40% | ~1,781 |
+| Isn't this the way to India? | 0.40% | ~1,781 |
+| Queen of Conquest | 0.40% | ~1,781 |
+| The Five Colonies | 0.40% | ~1,781 |
+| Trustworthy | 0.40% | ~1,781 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,336 |
+| Down Under | 0.30% | ~1,336 |
+| Electable! | 0.30% | ~1,336 |
+| A Golden Empire | 0.30% | ~1,336 |
+| Market Control | 0.30% | ~1,336 |
+| Populists in Government | 0.30% | ~1,336 |
 | A Decent Reserve | 0.20% | ~890 |
 | Absolutely | 0.20% | ~890 |
 | All belongs to Mother Russia | 0.20% | ~890 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 445,115 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 338)  
+Progressed: 445,169 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -557,15 +557,15 @@ Completed: 1 (0.00%) (Ranked 338)
 | 2023-10-30 | 443,336 | 1 |
 | 2023-10-31 | 443,969 | 1 |
 | 2023-11-01 | 444,668 | 1 |
-| 2023-11-02 | 445,115 | 1 |
+| 2023-11-02 | 445,169 | 1 |
 ## Awards
 Max (Educational): 6,780  (Ranked 55)  
-Sum: 55,763 (Ranked 24)  
+Sum: 55,773 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,780 |
-| This game has Diverse Characters | 6,478 |
+| This game has Diverse Characters | 6,488 |
 | This game is Highly Recommended | 6,474 |
 | This game has Challenging Combat | 6,408 |
 | This game is Extremely Fun | 6,401 |
@@ -866,4 +866,4 @@ Diff (max vs sum): 31
 | 2023-10-30 | 4.69 | - | 6,749 | 55,482 |
 | 2023-10-31 | 4.69 | - | 6,765 | 55,595 |
 | 2023-11-01 | 4.69 | - | 6,780 | 55,704 |
-| 2023-11-02 | 4.69 | - | 6,780 | 55,763 |
+| 2023-11-02 | 4.69 | - | 6,780 | 55,773 |

@@ -28,7 +28,7 @@
 | Spiders In My Head | 11.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 573)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

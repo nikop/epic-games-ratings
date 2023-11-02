@@ -30,7 +30,7 @@
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 55 (Ranked 451)  
-Completed: 0 (0.00%) (Ranked 338)  
+Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

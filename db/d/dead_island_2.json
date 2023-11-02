@@ -6,7 +6,7 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -6039,9 +6039,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 710794,
+  "EOS_Progressed": 710836,
   "EOS_Completed": 2301,
-  "EOS_NewPlayers": 6294,
+  "EOS_NewPlayers": 6277,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -28384,392 +28384,445 @@
       "Time": "2023-11-02T16:04:34.963708+00:00",
       "NumProgressed": 710794,
       "NumCompleted": 2301
+    },
+    {
+      "Time": "2023-11-02T17:05:25.636121+00:00",
+      "NumProgressed": 710836,
+      "NumCompleted": 2301
     }
   ],
-  "TotalAchievements": 45,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 51,
+  "TotalAchievementsXP": 1150,
   "Achievements": [
     {
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 14216
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_ammo_ran",
       "SetID": "7km39fm",
       "Name": "Git Gutte!",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
       "SetID": "7km39fm",
       "Name": "Make it So",
-      "Percentage": 0.8,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_big_name_in_town",
       "SetID": "7km39fm",
       "Name": "LA Influential",
-      "Percentage": 0.7,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 4976
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 14216
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 35540
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 0.9,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 6397
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 7108
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7108
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 5,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 35540
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_impressive_aim",
       "SetID": "7km39fm",
       "Name": "Donk!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_internet_famous",
       "SetID": "7km39fm",
       "Name": "Internet Famous",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7108
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_investigator",
       "SetID": "7km39fm",
       "Name": "Sole Survivor",
-      "Percentage": 0.5,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3554
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_jumbo_keyring",
       "SetID": "7km39fm",
       "Name": "Jumbo Keyring",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7108
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.7,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 4976
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 14216
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 14216
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_secrets_of_la",
       "SetID": "7km39fm",
       "Name": "Sharpest Tool in the Box",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 4265
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 4,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 28432
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_survival_expert",
       "SetID": "7km39fm",
       "Name": "Survival Skills",
-      "Percentage": 0.5,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3554
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 14216
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 7108
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 3,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 21324
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.9,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 6397
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 6,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42648
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 7108
+      "UsersEstimate": 711
     },
     {
       "ID": "ach_well_trained",
       "SetID": "7km39fm",
       "Name": "Bucket List",
-      "Percentage": 0.2,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1422
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_brink_of_success",
+      "SetID": "344c43k",
+      "Name": "One of Us",
+      "Percentage": 0.1,
+      "XP": 60,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "ach_dark_magic",
+      "SetID": "344c43k",
+      "Name": "Whatever It Takes",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "ach_gardening_tools",
+      "SetID": "344c43k",
+      "Name": "Lawn and Order",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "ach_pork_chops",
+      "SetID": "344c43k",
+      "Name": "Pork Chopped",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "ach_this_is_deeper_v2",
+      "SetID": "344c43k",
+      "Name": "Wilhelm",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "ach_zombie_predator",
+      "SetID": "344c43k",
+      "Name": "Top That, Tisha!",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 710794,
+      "Progressed": 710836,
       "Completed": 2301
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 36336,
-      "Completed": 36336
+      "Progressed": 36378,
+      "Completed": 36351
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-02T16:00:24.8204316+00:00",
-  "LastChanged_Achievements": "2023-11-02T16:04:34.9637072+00:00",
+  "LastChanged_Achievements": "2023-11-02T17:05:25.6361204+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-02T16:00:24.8204328+00:00",
-  "LastUpdate_Achievements": "2023-11-02T16:04:34.9640889+00:00"
+  "LastUpdate_Ratings": "2023-11-02T17:01:38.4751062+00:00",
+  "LastUpdate_Achievements": "2023-11-02T17:05:25.6364433+00:00"
 }

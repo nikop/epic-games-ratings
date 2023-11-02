@@ -5,11 +5,11 @@ Rating: 4.75 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,522 |
-| The Killing Jar | 8.00% | ~17,353 |
-| Expanding Horizons | 7.00% | ~15,184 |
-| Quest for Survival | 7.00% | ~15,184 |
-| Not Your Average Trait | 7.00% | ~15,184 |
+| First of Many | 9.00% | ~19,523 |
+| The Killing Jar | 8.00% | ~17,354 |
+| Expanding Horizons | 7.00% | ~15,185 |
+| Quest for Survival | 7.00% | ~15,185 |
+| Not Your Average Trait | 7.00% | ~15,185 |
 | Gleaming the Cube | 6.00% | ~13,015 |
 | Familiar Face | 6.00% | ~13,015 |
 | Boss'n Up | 6.00% | ~13,015 |
@@ -23,24 +23,24 @@ Rating: 4.75 (Ranked 142)
 | Almost There | 5.00% | ~10,846 |
 | Make Some Room | 5.00% | ~10,846 |
 | Good, But Could Be Better! | 5.00% | ~10,846 |
-| Chaos | 4.00% | ~8,676 |
-| Traitor | 4.00% | ~8,676 |
-| Power Surge | 4.00% | ~8,676 |
-| The God Gambit | 4.00% | ~8,676 |
-| Dark Designs | 4.00% | ~8,676 |
-| Madman's Paradise | 4.00% | ~8,676 |
-| Shhh...It's a Secret | 4.00% | ~8,676 |
-| Was This Supposed To Happen? | 4.00% | ~8,676 |
-| The Web | 4.00% | ~8,676 |
-| All These Traits� | 4.00% | ~8,676 |
-| Am I Seeing This? | 3.00% | ~6,507 |
-| Forever is a Long Time Coming | 3.00% | ~6,507 |
-| The Agenda | 3.00% | ~6,507 |
-| Tall Tales | 3.00% | ~6,507 |
-| Bad Moon Rising | 3.00% | ~6,507 |
-| Strapped | 3.00% | ~6,507 |
-| Edgelord | 3.00% | ~6,507 |
-| Scrap Collector | 3.00% | ~6,507 |
+| Chaos | 4.00% | ~8,677 |
+| Traitor | 4.00% | ~8,677 |
+| Power Surge | 4.00% | ~8,677 |
+| The God Gambit | 4.00% | ~8,677 |
+| Dark Designs | 4.00% | ~8,677 |
+| Madman's Paradise | 4.00% | ~8,677 |
+| Shhh...It's a Secret | 4.00% | ~8,677 |
+| Was This Supposed To Happen? | 4.00% | ~8,677 |
+| The Web | 4.00% | ~8,677 |
+| All These Traits� | 4.00% | ~8,677 |
+| Am I Seeing This? | 3.00% | ~6,508 |
+| Forever is a Long Time Coming | 3.00% | ~6,508 |
+| The Agenda | 3.00% | ~6,508 |
+| Tall Tales | 3.00% | ~6,508 |
+| Bad Moon Rising | 3.00% | ~6,508 |
+| Strapped | 3.00% | ~6,508 |
+| Edgelord | 3.00% | ~6,508 |
+| Scrap Collector | 3.00% | ~6,508 |
 | Crafty | 2.00% | ~4,338 |
 | Only Human | 2.00% | ~4,338 |
 | Red Room | 2.00% | ~4,338 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,169 |
 | Proving Grounds | 0.90% | ~1,952 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,912 (Ranked 66)  
+Progressed: 216,924 (Ranked 66)  
 Completed: 426 (0.20%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 426 (0.20%) (Ranked 241)
 | 2023-10-30 | 213,957 | 419 |
 | 2023-10-31 | 215,476 | 423 |
 | 2023-11-01 | 216,711 | 423 |
-| 2023-11-02 | 216,912 | 426 |
+| 2023-11-02 | 216,924 | 426 |
 ## Awards
 Max (Great Boss Battles): 2,018  (Ranked 110)  
 Sum: 4,477 (Ranked 143)  

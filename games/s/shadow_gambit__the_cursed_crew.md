@@ -11,8 +11,8 @@ Rating: 4.74 (Ranked 154)
 | With Great Power… | 40.00% | ~320 |
 | This Belongs in a Museum | 37.00% | ~296 |
 | The Gambit Has Begun | 34.00% | ~272 |
+| Somewhere Deep in the Lost Caribbean | 30.00% | ~240 |
 | Powder Monkey | 30.00% | ~240 |
-| Somewhere Deep in the Lost Caribbean | 29.00% | ~232 |
 | Mirror Mirror on the Wall | 29.00% | ~232 |
 | Pirates Assemble! | 27.00% | ~216 |
 | Buccaneer | 24.00% | ~192 |
@@ -32,8 +32,8 @@ Rating: 4.74 (Ranked 154)
 | Marauder | 4.00% | ~32 |
 | Welcome Back Jester | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 260)  
-Completed: 27 (3.38%) (Ranked 87)  
+Progressed: 799 (Ranked 261)  
+Completed: 27 (3.38%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
