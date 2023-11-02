@@ -135,6 +135,7 @@
 | [Nightingale](games/n/nightingale.md) | 2024-02-22 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-29 | - |  | - | - |
+| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 447 | - | 0 |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-03-29 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
@@ -154,7 +155,7 @@
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 215,470 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 215,508 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
