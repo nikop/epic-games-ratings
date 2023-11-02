@@ -3001,7 +3001,7 @@
       "Count": 248
     }
   ],
-  "EOS_Progressed": 81104,
+  "EOS_Progressed": 81105,
   "EOS_Completed": 152,
   "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 5,
@@ -24726,6 +24726,11 @@
       "Time": "2023-11-02T04:08:30.2151601+00:00",
       "NumProgressed": 81104,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-11-02T06:07:08.5006799+00:00",
+      "NumProgressed": 81105,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 30,
@@ -24777,7 +24782,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8921
+      "UsersEstimate": 8922
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -24793,7 +24798,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8921
+      "UsersEstimate": 8922
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -24817,7 +24822,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30008
+      "UsersEstimate": 30009
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -24833,7 +24838,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25953
+      "UsersEstimate": 25954
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -24897,7 +24902,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -24913,7 +24918,7 @@
       "Name": "Final touch",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 29197
+      "UsersEstimate": 29198
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -24937,7 +24942,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -24953,7 +24958,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9732
+      "UsersEstimate": 9733
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -24976,15 +24981,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 81104,
+      "Progressed": 81105,
       "Completed": 152
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-01T18:01:05.3381795+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:08:21.7148057+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:07:08.5006796+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.4679734+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:00:18.4214586+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:08:21.7149636+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:01:05.2366473+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:07:08.5007833+00:00"
 }

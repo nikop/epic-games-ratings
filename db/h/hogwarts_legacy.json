@@ -9897,9 +9897,9 @@
       "Count": 760
     }
   ],
-  "EOS_Progressed": 300171,
+  "EOS_Progressed": 300174,
   "EOS_Completed": 498,
-  "EOS_NewPlayers": 1255,
+  "EOS_NewPlayers": 1253,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30837,6 +30837,11 @@
       "Time": "2023-11-02T05:09:10.2726997+00:00",
       "NumProgressed": 300171,
       "NumCompleted": 498
+    },
+    {
+      "Time": "2023-11-02T06:09:10.8929478+00:00",
+      "NumProgressed": 300174,
+      "NumCompleted": 498
     }
   ],
   "TotalAchievements": 45,
@@ -30968,7 +30973,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "PFA_24",
@@ -31152,7 +31157,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27015
+      "UsersEstimate": 27016
     },
     {
       "ID": "PFA_45",
@@ -31184,7 +31189,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "PFA_8",
@@ -31200,14 +31205,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27015
+      "UsersEstimate": 27016
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 300171,
+      "Progressed": 300174,
       "Completed": 498
     }
   ],
@@ -31215,8 +31220,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-02T03:59:38.7836517+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:09:10.2726996+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:09:10.8929474+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:58:44.6234149+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:09:10.2728108+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:59:15.5613209+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:09:10.8930723+00:00"
 }

@@ -7753,9 +7753,9 @@
       "Count": 3500
     }
   ],
-  "EOS_Progressed": 233419,
+  "EOS_Progressed": 233423,
   "EOS_Completed": 2419,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29618,6 +29618,11 @@
       "Time": "2023-11-02T05:03:04.4366603+00:00",
       "NumProgressed": 233419,
       "NumCompleted": 2419
+    },
+    {
+      "Time": "2023-11-02T06:03:22.2366931+00:00",
+      "NumProgressed": 233423,
+      "NumCompleted": 2419
     }
   ],
   "TotalAchievements": 528,
@@ -30987,9 +30992,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 467
     },
     {
       "ID": "objective_completed_210",
@@ -33852,21 +33857,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199693,
+      "Progressed": 199697,
       "Completed": 3734
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233419,
+      "Progressed": 233423,
       "Completed": 2419
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-01T23:58:51.8420585+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:03:04.4366601+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:03:22.2366928+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:58:28.8204488+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:03:04.4388096+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:58:58.7463493+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:03:22.2389147+00:00"
 }

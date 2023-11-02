@@ -4,7 +4,7 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 758,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 717,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 444,
@@ -1043,10 +1043,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 383,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2023-11-02T05:58:39.3727972+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 383,
+  "NumberOfAwards": 387,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1090,7 +1096,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1123,8 +1129,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2023-11-02T02:15:43.0551986+00:00",
+  "LastChanged": "2023-11-02T05:58:39.372797+00:00",
   "LastUpdate_AppInfo": "2023-10-26T15:57:14.8169098+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:58:13.6861956+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:03:04.9144735+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:58:39.3727975+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:03:22.1264124+00:00"
 }

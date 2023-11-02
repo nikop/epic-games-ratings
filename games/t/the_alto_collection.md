@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~2,238 |
 | One With The Board | 5.00% | ~2,238 |
 | Voyager | 5.00% | ~2,238 |
-| Izel Has Arrived | 4.00% | ~1,790 |
+| Izel Has Arrived | 4.00% | ~1,791 |
 | Junkie | 3.00% | ~1,343 |
 | Traveler | 3.00% | ~1,343 |
 | Journeyer | 3.00% | ~1,343 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~45 |
 | Windswept | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,762 (Ranked 111)  
+Progressed: 44,763 (Ranked 111)  
 Completed: 5 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 5 (0.01%) (Ranked 317)
 | 2023-10-30 | 44,525 | 5 |
 | 2023-10-31 | 44,629 | 5 |
 | 2023-11-01 | 44,738 | 5 |
-| 2023-11-02 | 44,762 | 5 |
+| 2023-11-02 | 44,763 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 432)  
 Sum: 370 (Ranked 341)  

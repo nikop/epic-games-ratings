@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1382,7 +1382,7 @@
   ],
   "EOS_Progressed": 10025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16234,9 +16234,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5213
+      "UsersEstimate": 5313
     },
     {
       "ID": "2",
@@ -16634,8 +16634,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-01T19:00:45.0889475+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:08:35.4113648+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:08:33.4251267+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:00:11.7954403+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:08:35.411462+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:00:57.8686512+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:08:33.4252134+00:00"
 }

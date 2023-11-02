@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -474,9 +474,9 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 95,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "the_petition",
@@ -529,8 +529,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:08:40.0561987+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:08:38.5562008+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:57:22.3049364+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:08:40.0562145+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:57:40.4098931+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:08:38.5562161+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4461,9 +4461,9 @@
       "Count": 522
     }
   ],
-  "EOS_Progressed": 11290,
+  "EOS_Progressed": 11291,
   "EOS_Completed": 269,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -17546,6 +17546,11 @@
       "Time": "2023-11-02T04:03:44.8683113+00:00",
       "NumProgressed": 11290,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-11-02T06:03:42.1899755+00:00",
+      "NumProgressed": 11291,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 15,
@@ -17557,7 +17562,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Banker",
@@ -17573,7 +17578,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "Chef_Cook",
@@ -17621,7 +17626,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "Goofys_Investor",
@@ -17629,7 +17634,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 7903
+      "UsersEstimate": 7904
     },
     {
       "ID": "Miner",
@@ -17645,7 +17650,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7790
+      "UsersEstimate": 7791
     },
     {
       "ID": "Renovator",
@@ -17661,7 +17666,7 @@
       "Name": "Thorn Cleaner",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Valleys_Helper",
@@ -17676,7 +17681,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11290,
+      "Progressed": 11291,
       "Completed": 269
     }
   ],
@@ -17684,8 +17689,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-02T04:00:25.4559272+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:03:23.3171236+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:03:42.1899751+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:11.7317557+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:59:17.4483736+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:03:23.3172352+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:59:54.4168715+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:03:42.1900362+00:00"
 }

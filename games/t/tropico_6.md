@@ -20,7 +20,7 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 11.00% | ~633 |
 | Happy Ending? | 10.00% | ~576 |
 | Of Seals And Men | 10.00% | ~576 |
-| Shackadelic | 10.00% | ~576 |
+| Shackadelic | 9.00% | ~518 |
 | Double Trouble | 8.00% | ~461 |
 | Firestarter | 8.00% | ~461 |
 | I Owe You Nothing | 7.00% | ~403 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~52 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,757 (Ranked 178)  
+Progressed: 5,758 (Ranked 178)  
 Completed: 2 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 2 (0.03%) (Ranked 304)
 | 2023-10-30 | 5,732 | 2 |
 | 2023-10-31 | 5,740 | 2 |
 | 2023-11-01 | 5,754 | 2 |
-| 2023-11-02 | 5,757 | 2 |
+| 2023-11-02 | 5,758 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 354)  
 Sum: 723 (Ranked 289)  

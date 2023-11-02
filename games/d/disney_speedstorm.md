@@ -5,14 +5,14 @@ Rating: 4.41 (Ranked 713)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 6.00% | ~16,308 |
-| EXTRA BOOST | 3.00% | ~8,154 |
-| IT MAKES BOOM! | 3.00% | ~8,154 |
-| PROTECTED | 2.00% | ~5,436 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,436 |
-| PRO | 2.00% | ~5,436 |
-| A TIGER'S FEAR | 1.00% | ~2,718 |
-| AGGRESSIVE RACER | 1.00% | ~2,718 |
+| ROOKIE | 6.00% | ~16,312 |
+| EXTRA BOOST | 3.00% | ~8,156 |
+| IT MAKES BOOM! | 3.00% | ~8,156 |
+| PROTECTED | 2.00% | ~5,437 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,437 |
+| PRO | 2.00% | ~5,437 |
+| A TIGER'S FEAR | 1.00% | ~2,719 |
+| AGGRESSIVE RACER | 1.00% | ~2,719 |
 | IT'S A LONG WAY TO THE TOP | 0.60% | ~1,631 |
 | DEFEAT OUR CHAMPION | 0.50% | ~1,359 |
 | ACE SPEEDSTER | 0.50% | ~1,359 |
@@ -20,18 +20,18 @@ Rating: 4.41 (Ranked 713)
 | BE OUR GUEST | 0.40% | ~1,087 |
 | THE EYE OF THE HUNTER | 0.40% | ~1,087 |
 | LEGENDARY HERO | 0.40% | ~1,087 |
-| TRAINING HARD | 0.30% | ~815 |
-| EXPERIENCED CREW | 0.30% | ~815 |
-| ACE BRAWLER | 0.30% | ~815 |
-| ACE DEFENDER | 0.30% | ~815 |
-| FRIENDLY | 0.30% | ~815 |
-| MASTER | 0.30% | ~815 |
+| TRAINING HARD | 0.30% | ~816 |
+| EXPERIENCED CREW | 0.30% | ~816 |
+| ACE BRAWLER | 0.30% | ~816 |
+| ACE DEFENDER | 0.30% | ~816 |
+| FRIENDLY | 0.30% | ~816 |
+| MASTER | 0.30% | ~816 |
 | PERFECTLY POISED | 0.20% | ~544 |
 | FRAMED! | 0.20% | ~544 |
 | ACE TRICKSTER | 0.20% | ~544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271,808 (Ranked 53)  
-Completed: 248 (0.09%) (Ranked 271)  
+Progressed: 271,863 (Ranked 53)  
+Completed: 249 (0.09%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,7 +222,7 @@ Completed: 248 (0.09%) (Ranked 271)
 | 2023-10-30 | 268,010 | 245 |
 | 2023-10-31 | 269,606 | 248 |
 | 2023-11-01 | 271,352 | 248 |
-| 2023-11-02 | 271,808 | 248 |
+| 2023-11-02 | 271,863 | 249 |
 ## Awards
 Max (Great for Beginners): 47  (Ranked 436)  
 Sum: 401 (Ranked 334)  

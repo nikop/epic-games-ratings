@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 250840,
+  "EOS_Progressed": 250842,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22382,6 +22382,11 @@
       "Time": "2023-11-02T05:03:13.1212963+00:00",
       "NumProgressed": 250840,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-02T06:03:31.0752556+00:00",
+      "NumProgressed": 250842,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22537,7 +22542,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70235
+      "UsersEstimate": 70236
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -22673,7 +22678,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15050
+      "UsersEstimate": 15051
     },
     {
       "ID": "ACH_MEMORY5",
@@ -22761,7 +22766,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15050
+      "UsersEstimate": 15051
     },
     {
       "ID": "ACH_TROLLKING",
@@ -22808,7 +22813,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 250840,
+      "Progressed": 250842,
       "Completed": 7
     }
   ],
@@ -22816,8 +22821,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:03:13.121296+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:03:31.0752552+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:59:39.5352382+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:03:13.1214071+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:00:19.0645373+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:03:31.075393+00:00"
 }

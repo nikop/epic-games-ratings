@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1235,6 +1235,11 @@
       "Time": "2023-11-02T04:05:49.4166952+00:00",
       "NumProgressed": 973,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T06:05:10.8908666+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1327,7 +1332,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1343,7 +1348,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1391,7 +1396,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1447,7 +1452,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -1486,14 +1491,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:04:43.6869867+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:05:10.8908663+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:57:46.6584786+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:04:43.6870185+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:58:08.3095555+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:05:10.8908852+00:00"
 }

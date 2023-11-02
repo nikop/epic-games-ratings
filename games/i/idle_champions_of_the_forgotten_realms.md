@@ -56,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | March of the Undead | 0.20% | ~467 |
 | Unearthed Evil | 0.20% | ~467 |
 | No Time To Rest | 0.20% | ~467 |
+| Invisible Shadows | 0.20% | ~467 |
 | The Dinner Party | 0.20% | ~467 |
 | The Botched Kidnapping | 0.20% | ~467 |
 | Attack on the Manor | 0.20% | ~467 |
@@ -248,7 +249,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.10% | ~200 |
 | The Mists of Ravenloft | 0.10% | ~233 |
 | The Hunt for Owl-y | 0.10% | ~233 |
-| Invisible Shadows | 0.10% | ~233 |
 | Werewolves in the Mist | 0.10% | ~233 |
 | We're not in Faerûn Anymore | 0.10% | ~233 |
 | Family Entanglements | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,419 (Ranked 62)  
+Progressed: 233,423 (Ranked 62)  
 Completed: 2,419 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,7 +731,7 @@ Completed: 2,419 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,419 | 2,419 |
+| 2023-11-02 | 233,423 | 2,419 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,297 (Ranked 41)  

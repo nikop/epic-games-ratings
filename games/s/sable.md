@@ -12,7 +12,7 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~24,247 |
 | Got Your Nose | 24.00% | ~23,277 |
 | The Gift of Gab | 24.00% | ~23,277 |
-| Wrapping Up | 22.00% | ~21,337 |
+| Wrapping Up | 22.00% | ~21,338 |
 | More Than A Box Of Sand | 18.00% | ~17,458 |
 | The Dunboyne | 17.00% | ~16,488 |
 | Badge Hobbyist | 17.00% | ~16,488 |
@@ -22,12 +22,12 @@ Number of Ratings: 43  (23.09.2022)
 | Bubble Up | 16.00% | ~15,518 |
 | Thread The Needle | 15.00% | ~14,548 |
 | Power to the People | 14.00% | ~13,578 |
-| Take That! | 13.00% | ~12,608 |
-| Nesting Giant | 13.00% | ~12,608 |
-| Treasure Tracker | 13.00% | ~12,608 |
-| Big Spender | 13.00% | ~12,608 |
-| Badge Collector | 12.00% | ~11,638 |
-| Quite The Catch | 12.00% | ~11,638 |
+| Take That! | 13.00% | ~12,609 |
+| Nesting Giant | 13.00% | ~12,609 |
+| Treasure Tracker | 13.00% | ~12,609 |
+| Big Spender | 13.00% | ~12,609 |
+| Badge Collector | 12.00% | ~11,639 |
+| Quite The Catch | 12.00% | ~11,639 |
 | Rowleys Way | 11.00% | ~10,669 |
 | The Machinist Mask | 10.00% | ~9,699 |
 | The Cartographer Mask | 10.00% | ~9,699 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,819 |
 | The Gliding | 5.00% | ~4,849 |
 | The Entertainer Mask | 5.00% | ~4,849 |
-| The Quick and the Curious | 4.00% | ~3,879 |
-| Bike Aficionado | 4.00% | ~3,879 |
+| The Quick and the Curious | 4.00% | ~3,880 |
+| Bike Aficionado | 4.00% | ~3,880 |
 | Chum Expert | 3.00% | ~2,910 |
 | Gastric Bypass | 3.00% | ~2,910 |
 | The Angler Mask | 3.00% | ~2,910 |
 | Vivacious Vivarium | 2.00% | ~1,940 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,987 (Ranked 87)  
+Progressed: 96,989 (Ranked 87)  
 Completed: 983 (1.01%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 983 (1.01%) (Ranked 156)
 | 2023-10-30 | 96,682 | 978 |
 | 2023-10-31 | 96,822 | 980 |
 | 2023-11-01 | 96,951 | 982 |
-| 2023-11-02 | 96,987 | 983 |
+| 2023-11-02 | 96,989 | 983 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 513)  
 Sum: 91 (Ranked 443)  

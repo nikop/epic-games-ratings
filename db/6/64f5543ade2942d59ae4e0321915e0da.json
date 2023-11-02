@@ -221,9 +221,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AC_BOSS_01",
@@ -317,9 +317,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -349,9 +349,9 @@
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -453,9 +453,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:04:38.8897813+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:05:05.6351239+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:58:24.8369803+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:04:38.8898145+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:58:54.3335967+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:05:05.6351455+00:00"
 }

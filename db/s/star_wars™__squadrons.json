@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16034,
+  "EOS_Progressed": 16038,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2359,
+  "EOS_NewPlayers": 2357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5094,6 +5094,11 @@
       "Time": "2023-11-02T05:09:30.3133864+00:00",
       "NumProgressed": 16034,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T06:09:32.2347887+00:00",
+      "NumProgressed": 16038,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -5106,7 +5111,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "achievement_10",
@@ -5122,7 +5127,7 @@
       "Name": "Great Shot, Kid",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_12",
@@ -5154,7 +5159,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "achievement_16",
@@ -5226,7 +5231,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_24",
@@ -5314,7 +5319,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "achievement_34",
@@ -5330,7 +5335,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 15232
+      "UsersEstimate": 15236
     },
     {
       "ID": "achievement_36",
@@ -5338,7 +5343,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_37",
@@ -5346,7 +5351,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "achievement_38",
@@ -5354,7 +5359,7 @@
       "Name": "Temporary Guardian",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_39",
@@ -5362,7 +5367,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "achievement_4",
@@ -5386,7 +5391,7 @@
       "Name": "Baited",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_42",
@@ -5466,7 +5471,7 @@
       "Name": "A Better Idea",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4010
     },
     {
       "ID": "achievement_9",
@@ -5481,7 +5486,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 16034,
+      "Progressed": 16038,
       "Completed": 1
     }
   ],
@@ -5489,8 +5494,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-02T05:09:30.313386+00:00",
+  "LastChanged_Achievements": "2023-11-02T06:09:32.2347884+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:10.8562879+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:02:52.2911883+00:00",
-  "LastUpdate_Achievements": "2023-11-02T05:09:30.3134507+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:03:01.4571475+00:00",
+  "LastUpdate_Achievements": "2023-11-02T06:09:32.2348481+00:00"
 }

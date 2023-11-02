@@ -8,14 +8,14 @@ Rating: 4.54 (Ranked 519)
 | Welcome To Hell-A | 6.00% | ~42,634 |
 | Break A Leg | 5.00% | ~35,528 |
 | Hotel California | 5.00% | ~35,528 |
-| Dr. Reed, I Presume? | 4.00% | ~28,422 |
-| Git Gutte! | 4.00% | ~28,422 |
-| Coup de Grâce | 4.00% | ~28,422 |
-| Hazardous Materials | 4.00% | ~28,422 |
-| Friends Like These | 4.00% | ~28,422 |
-| Apex Predator | 4.00% | ~28,422 |
-| Stacking the Deck | 4.00% | ~28,422 |
-| Personal Assistant Personally Assisted | 4.00% | ~28,422 |
+| Dr. Reed, I Presume? | 4.00% | ~28,423 |
+| Git Gutte! | 4.00% | ~28,423 |
+| Coup de Grâce | 4.00% | ~28,423 |
+| Hazardous Materials | 4.00% | ~28,423 |
+| Friends Like These | 4.00% | ~28,423 |
+| Apex Predator | 4.00% | ~28,423 |
+| Stacking the Deck | 4.00% | ~28,423 |
+| Personal Assistant Personally Assisted | 4.00% | ~28,423 |
 | Anger Management | 3.00% | ~21,317 |
 | Bookworm | 3.00% | ~21,317 |
 | I Got a Zombie Army and You Can't Harm Me | 3.00% | ~21,317 |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 519)
 | Rising Star | 1.00% | ~7,106 |
 | On Safari | 0.90% | ~6,395 |
 | Variety is the Spice of Death | 0.90% | ~6,395 |
-| Make it So | 0.80% | ~5,684 |
+| Make it So | 0.80% | ~5,685 |
 | LA Influential | 0.70% | ~4,974 |
 | Gore Horse | 0.70% | ~4,974 |
 | Sharpest Tool in the Box | 0.60% | ~4,263 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 519)
 | Donk! | 0.20% | ~1,421 |
 | Bucket List | 0.20% | ~1,421 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,559 (Ranked 22)  
-Completed: 2,298 (0.32%) (Ranked 215)  
+Progressed: 710,570 (Ranked 22)  
+Completed: 2,299 (0.32%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,10 +247,10 @@ Completed: 2,298 (0.32%) (Ranked 215)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,559 | 2,298 |
+| 2023-11-02 | 710,570 | 2,299 |
 ## Awards
 Max (Great Boss Battles): 6,801  (Ranked 54)  
-Sum: 10,254 (Ranked 90)  
+Sum: 10,257 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -258,7 +258,7 @@ Diff (max vs sum): -36
 | This game is Great for Beginners | 497 |
 | This game has Diverse Characters | 485 |
 | This game has Quickly Understood Controls | 456 |
-| This game is Relaxing | 434 |
+| This game is Relaxing | 437 |
 | This game has Amazing Storytelling | 414 |
 | This game is Highly Recommended | 402 |
 | This game is Extremely Fun | 390 |
@@ -461,3 +461,4 @@ Diff (max vs sum): -36
 | 2023-10-30 | 4.54 | 6,756 | 10,182 |
 | 2023-10-31 | 4.54 | 6,773 | 10,214 |
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
+| 2023-11-02 | 4.54 | 6,801 | 10,257 |
