@@ -214,7 +214,7 @@
 | 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 112 | 342 |
 | 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 442 | 214 |
 | 211 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,755 | 47 |
-| 211 | [For The King](games/f/for_the_king.md) | 4.70 | 401 | 222 |
+| 211 | [For The King](games/f/for_the_king.md) | 4.70 | 402 | 222 |
 | 211 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,335 | 135 |
 | 211 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 140 | 317 |
 | 211 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,918 | 114 |
@@ -407,7 +407,7 @@
 | 381 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 545 |
 | 406 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.60 | 0 | 545 |
 | 406 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 28 | 497 |
-| 406 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,556 | 27 |
+| 406 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,571 | 26 |
 | 406 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 545 |
 | 406 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,815 | 73 |
 | 406 | [Control](games/c/control.md) | 4.60 | 8,647 | 42 |
@@ -463,7 +463,7 @@
 | 442 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,490 | 58 |
 | 442 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 545 |
 | 442 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 222 | 271 |
-| 442 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,570 | 26 |
+| 442 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,570 | 27 |
 | 465 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 545 |
 | 465 | [Among Us](games/a/among_us.md) | 4.57 | 2,794 | 99 |
 | 465 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 545 |

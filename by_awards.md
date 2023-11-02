@@ -25,8 +25,8 @@
 | 23 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,048 | 4.74 | 154 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 17,178 | 4.21 | 891 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,761 | 4.76 | 122 |
-| 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,570 | 4.58 | 442 |
-| 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,556 | 4.60 | 406 |
+| 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,571 | 4.60 | 406 |
+| 27 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,570 | 4.58 | 442 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,916 | 4.60 | 406 |
 | 29 | [Maneater](games/m/maneater.md) | 13,772 | 4.49 | 601 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,496 | 4.43 | 684 |
@@ -221,7 +221,7 @@
 | 219 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 427 | 4.73 | 172 |
 | 220 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 425 | 4.50 | 579 |
 | 221 | [Slime Rancher](games/s/slime_rancher.md) | 423 | 4.82 | 63 |
-| 222 | [For The King](games/f/for_the_king.md) | 401 | 4.70 | 211 |
+| 222 | [For The King](games/f/for_the_king.md) | 402 | 4.70 | 211 |
 | 223 | [Nuclear Throne](games/n/nuclear_throne.md) | 397 | 4.79 | 95 |
 | 224 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 394 | 4.62 | 361 |
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 393 | 4.76 | 122 |
