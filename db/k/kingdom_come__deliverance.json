@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -8265,9 +8265,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806814,
+  "EOS_Progressed": 806815,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 791,
+  "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30185,6 +30185,11 @@
       "Time": "2023-11-02T06:06:02.7471702+00:00",
       "NumProgressed": 806814,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T07:05:37.5417999+00:00",
+      "NumProgressed": 806815,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30276,7 +30281,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258180
+      "UsersEstimate": 258181
     },
     {
       "ID": "Bookworm",
@@ -30356,7 +30361,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80681
+      "UsersEstimate": 80682
     },
     {
       "ID": "DavidHorak",
@@ -30851,15 +30856,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806814,
+      "Progressed": 806815,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-02T01:41:16.1220161+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:06:02.7471698+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:05:37.5417995+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:14.6949247+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:58:41.8101481+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:06:02.7473485+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:58:36.6487151+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:05:37.5420302+00:00"
 }

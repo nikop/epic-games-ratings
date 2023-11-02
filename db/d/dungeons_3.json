@@ -3019,9 +3019,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 36239,
+  "EOS_Progressed": 36240,
   "EOS_Completed": 296,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -24594,6 +24594,11 @@
       "Time": "2023-11-02T06:04:30.7395337+00:00",
       "NumProgressed": 36239,
       "NumCompleted": 296
+    },
+    {
+      "Time": "2023-11-02T07:04:13.1442144+00:00",
+      "NumProgressed": 36240,
+      "NumCompleted": 296
     }
   ],
   "TotalAchievements": 60,
@@ -24621,7 +24626,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 20656
+      "UsersEstimate": 20657
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -24693,7 +24698,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 12321
+      "UsersEstimate": 12322
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -24717,7 +24722,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 17757
+      "UsersEstimate": 17758
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -24749,7 +24754,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8697
+      "UsersEstimate": 8698
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -24765,7 +24770,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 13408
+      "UsersEstimate": 13409
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -24773,7 +24778,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8697
+      "UsersEstimate": 8698
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -24789,7 +24794,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8697
+      "UsersEstimate": 8698
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -24813,7 +24818,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 15945
+      "UsersEstimate": 15946
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -24877,7 +24882,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6885
+      "UsersEstimate": 6886
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -24933,7 +24938,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10509
+      "UsersEstimate": 10510
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -24997,7 +25002,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10509
+      "UsersEstimate": 10510
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -25005,7 +25010,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 25367
+      "UsersEstimate": 25368
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -25037,7 +25042,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 6885
+      "UsersEstimate": 6886
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -25084,15 +25089,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 36239,
+      "Progressed": 36240,
       "Completed": 296
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-02T05:57:10.2690697+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:04:30.7395333+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:04:13.1442139+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.8036406+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:57:10.2690704+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:04:30.7396819+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:57:07.3234863+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:04:13.1444097+00:00"
 }

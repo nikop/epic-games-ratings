@@ -802,7 +802,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 44763,
+  "EOS_Progressed": 44765,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 801,
   "EOS_NewCompleters": 0,
@@ -22862,6 +22862,11 @@
       "Time": "2023-11-02T06:05:40.9504837+00:00",
       "NumProgressed": 44763,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-02T07:05:17.3912035+00:00",
+      "NumProgressed": 44765,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -22913,7 +22918,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12086
+      "UsersEstimate": 12087
     },
     {
       "ID": "goals180",
@@ -23081,7 +23086,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11638
+      "UsersEstimate": 11639
     },
     {
       "ID": "sandboarder",
@@ -23137,7 +23142,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6714
+      "UsersEstimate": 6715
     },
     {
       "ID": "unlockpaz",
@@ -23145,7 +23150,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "vandal",
@@ -23184,15 +23189,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 44763,
+      "Progressed": 44765,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-10-28T07:57:28.1389341+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:05:40.9504833+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:05:17.391203+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.5305673+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:58:57.4932333+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:05:40.9506117+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:58:48.2478136+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:05:17.391367+00:00"
 }

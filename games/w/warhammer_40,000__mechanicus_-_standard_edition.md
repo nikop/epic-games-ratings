@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 684)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,818 |
-| This is only the beginning | 19.00% | ~42,983 |
+| No aid from the Omnissiah | 26.00% | ~58,820 |
+| This is only the beginning | 19.00% | ~42,984 |
 | Knowledge is power | 12.00% | ~27,147 |
-| Galvanic Rifle | 10.00% | ~22,622 |
-| Power Ranger | 9.00% | ~20,360 |
-| Taser Goad | 9.00% | ~20,360 |
-| Radium Ready | 9.00% | ~20,360 |
-| Half a cog | 9.00% | ~20,360 |
+| Galvanic Rifle | 10.00% | ~22,623 |
+| Power Ranger | 9.00% | ~20,361 |
+| Taser Goad | 9.00% | ~20,361 |
+| Radium Ready | 9.00% | ~20,361 |
+| Half a cog | 9.00% | ~20,361 |
 | Watch them crumble | 6.00% | ~13,574 |
 | Competent Cohort | 4.00% | ~9,049 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,049 |
 | One with the Machine | 4.00% | ~9,049 |
 | Legio Cybernetica | 3.00% | ~6,787 |
 | Fleshy Disposal | 3.00% | ~6,787 |
-| Battle Servitor | 2.00% | ~4,524 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,524 |
-| Impatient destruction | 2.00% | ~4,524 |
-| Vivisected Vizier | 2.00% | ~4,524 |
-| Architect Abortion | 2.00% | ~4,524 |
+| Battle Servitor | 2.00% | ~4,525 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,525 |
+| Impatient destruction | 2.00% | ~4,525 |
+| Vivisected Vizier | 2.00% | ~4,525 |
+| Architect Abortion | 2.00% | ~4,525 |
 | Cohortus Maximus | 0.80% | ~1,810 |
 | Mother of Xenarites | 0.40% | ~905 |
 | False God | 0.30% | ~679 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 684)
 | Perma-live | 0.10% | ~226 |
 | Purge the Heretek | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,225 (Ranked 65)  
+Progressed: 226,229 (Ranked 65)  
 Completed: 5 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 5 (0.00%) (Ranked 337)
 | 2023-10-30 | 226,057 | 5 |
 | 2023-10-31 | 226,140 | 5 |
 | 2023-11-01 | 226,213 | 5 |
-| 2023-11-02 | 226,225 | 5 |
+| 2023-11-02 | 226,229 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 250)  
 Sum: 2,180 (Ranked 199)  

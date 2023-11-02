@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 974,
+  "EOS_Progressed": 976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-11-02T06:05:10.8908666+00:00",
       "NumProgressed": 974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T07:04:49.8883662+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1268,7 +1273,7 @@
       "Name": "Turret Syndrome",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_BIOGRAPHER",
@@ -1284,7 +1289,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1300,7 +1305,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1308,7 +1313,7 @@
       "Name": "Pest Control",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1332,7 +1337,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1340,7 +1345,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1348,7 +1353,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1356,7 +1361,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -1491,14 +1496,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 974,
+      "Progressed": 976,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:05:10.8908663+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:04:49.8883657+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:58:08.3095555+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:05:10.8908852+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:58:04.0096359+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:04:49.8883973+00:00"
 }

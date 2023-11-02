@@ -74,6 +74,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.20% | ~467 |
 | The Dead Three | 0.20% | ~467 |
 | Slow and Steady | 0.20% | ~467 |
+| A Hero's Entourage | 0.20% | ~467 |
 | The Darkness Runs Deeper | 0.20% | ~467 |
 | Troublesome Prisoner | 0.20% | ~467 |
 | Dark Doppelgangers | 0.20% | ~467 |
@@ -333,7 +334,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Familiar Friend | 0.10% | ~200 |
 | A Tale of Two Champions | 0.10% | ~233 |
 | A Tale of Two Years | 0.10% | ~200 |
-| A Hero's Entourage | 0.10% | ~233 |
 | Sneak Attack | 0.10% | ~200 |
 | Flying Monkey Skulls of Doom | 0.10% | ~233 |
 | Lair of the Xanathar | 0.10% | ~233 |
@@ -734,13 +734,13 @@ Completed: 2,419 (1.04%) (Ranked 154)
 | 2023-11-02 | 233,423 | 2,419 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
-Sum: 32,297 (Ranked 41)  
+Sum: 32,298 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,470 |
 | This game has Diverse Characters | 5,458 |
-| This game has Quickly Understood Controls | 4,803 |
+| This game has Quickly Understood Controls | 4,804 |
 | This game is Relaxing | 4,693 |
 | This game has Amazing Characters | 4,189 |
 | This game is Highly Recommended | 4,184 |
@@ -1028,3 +1028,4 @@ Diff (max vs sum): 28
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
+| 2023-11-02 | 4.06 | - | 5,470 | 32,298 |

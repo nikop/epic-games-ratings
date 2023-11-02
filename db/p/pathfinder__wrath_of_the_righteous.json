@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 121,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
@@ -3987,10 +3987,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7014,
       "NumberOfAwardsMax": 1731
+    },
+    {
+      "Time": "2023-11-02T06:58:18.0600313+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7015,
+      "NumberOfAwardsMax": 1731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7014,
+  "NumberOfAwards": 7015,
   "NumberOfAwardsMax": 1731,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4010,7 +4016,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 653
+      "Count": 654
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4061,9 +4067,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 11987,
+  "EOS_Progressed": 11988,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14966,6 +14972,11 @@
       "Time": "2023-11-02T06:06:04.9791193+00:00",
       "NumProgressed": 11987,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T07:05:39.5472338+00:00",
+      "NumProgressed": 11988,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15017,7 +15028,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "07_FinalThreshold",
@@ -15161,7 +15172,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "25_MasterfulDispell",
@@ -15177,7 +15188,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "28_GreatUpstart",
@@ -15209,7 +15220,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "32_MythicReinforcements",
@@ -15217,7 +15228,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "33_DefendersHeart",
@@ -15353,7 +15364,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -15409,7 +15420,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "57_PathOfDevil",
@@ -15904,21 +15915,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10769,
+      "Progressed": 10770,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11987,
+      "Progressed": 11988,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-02T01:40:52.6475656+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:06:04.9791187+00:00",
+  "LastChanged": "2023-11-02T06:58:18.060031+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:05:39.5472335+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:58:21.6588833+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:06:04.9792675+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:58:18.0600318+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:05:39.5474684+00:00"
 }

@@ -3993,7 +3993,7 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 76966,
+  "EOS_Progressed": 76967,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 0,
@@ -26098,6 +26098,11 @@
       "Time": "2023-11-02T06:04:48.5471584+00:00",
       "NumProgressed": 76966,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T07:04:29.3485811+00:00",
+      "NumProgressed": 76967,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26205,7 +26210,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23859
+      "UsersEstimate": 23860
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -26229,7 +26234,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26168
+      "UsersEstimate": 26169
     },
     {
       "ID": "customize_a_weapon",
@@ -26237,7 +26242,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28477
+      "UsersEstimate": 28478
     },
     {
       "ID": "cutting_edge_materials",
@@ -26389,7 +26394,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21550
+      "UsersEstimate": 21551
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26532,22 +26537,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 76966,
+      "Progressed": 76967,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48603,
-      "Completed": 4231
+      "Progressed": 48604,
+      "Completed": 4232
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-10-31T23:03:05.5996254+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:04:48.5471579+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:04:29.3485801+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:02:59.8642208+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:04:48.5472977+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:02:52.8519173+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:04:29.3487646+00:00"
 }

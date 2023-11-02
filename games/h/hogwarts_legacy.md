@@ -1,12 +1,12 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 122)  
+Rating: 4.76 (Ranked 121)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 15.00% | ~45,026 |
-| First Class Student | 14.00% | ~42,024 |
+| First Class Student | 14.00% | ~42,025 |
 | A Keen Sense of Spell | 13.00% | ~39,023 |
 | Troll with the Punches | 13.00% | ~39,023 |
 | That's a Keeper | 12.00% | ~36,021 |
@@ -17,9 +17,9 @@ Rating: 4.76 (Ranked 122)
 | Loom for Improvement | 11.00% | ~33,019 |
 | A Talent for Spending | 11.00% | ~33,019 |
 | Coasting Along | 11.00% | ~33,019 |
-| The Hero of Hogwarts | 10.00% | ~30,017 |
-| Challenge Accepted | 10.00% | ~30,017 |
-| Followed the Butterflies | 10.00% | ~30,017 |
+| The Hero of Hogwarts | 10.00% | ~30,018 |
+| Challenge Accepted | 10.00% | ~30,018 |
+| Followed the Butterflies | 10.00% | ~30,018 |
 | The Spell Master | 9.00% | ~27,016 |
 | Rising From the Ashes | 9.00% | ~27,016 |
 | The Avenging Gazelle | 8.00% | ~24,014 |
@@ -40,10 +40,10 @@ Rating: 4.76 (Ranked 122)
 | Put Down Roots | 3.00% | ~9,005 |
 | The Auror's Apprentice | 3.00% | ~9,005 |
 | Floo Around the World | 3.00% | ~9,005 |
-| The Good Samaritan | 2.00% | ~6,003 |
-| Rise to the Challenges | 2.00% | ~6,003 |
-| Finishing Touches | 2.00% | ~6,003 |
-| A Forte for Achievement | 2.00% | ~6,003 |
+| The Good Samaritan | 2.00% | ~6,004 |
+| Rise to the Challenges | 2.00% | ~6,004 |
+| Finishing Touches | 2.00% | ~6,004 |
+| A Forte for Achievement | 2.00% | ~6,004 |
 | Savvy Spender | 1.00% | ~3,002 |
 | Merlin's Beard! | 1.00% | ~3,002 |
 | Demiguise Dread | 1.00% | ~3,002 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 122)
 | The Nature of the Beast | 0.70% | ~2,101 |
 | Collector's Edition | 0.30% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,174 (Ranked 49)  
+Progressed: 300,175 (Ranked 49)  
 Completed: 498 (0.17%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 498 (0.17%) (Ranked 247)
 | 2023-10-30 | 299,853 | 498 |
 | 2023-10-31 | 299,993 | 498 |
 | 2023-11-01 | 300,130 | 498 |
-| 2023-11-02 | 300,174 | 498 |
+| 2023-11-02 | 300,175 | 498 |
 ## Awards
 Max (Character Customization): 23,964  (Ranked 17)  
 Sum: 47,203 (Ranked 30)  

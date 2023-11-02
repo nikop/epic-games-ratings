@@ -5,36 +5,36 @@ Rating: 4.64 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 66.00% | ~519 |
-| To Hell In A Handcart | 66.00% | ~519 |
-| High Profile | 59.00% | ~464 |
+| Read Between The Lines | 66.00% | ~520 |
+| To Hell In A Handcart | 66.00% | ~520 |
+| High Profile | 59.00% | ~465 |
 | Whispers In The Dark | 57.00% | ~449 |
-| Fond Memories | 54.00% | ~425 |
-| A Method To His Madness | 53.00% | ~417 |
-| History Check | 52.00% | ~409 |
+| Fond Memories | 54.00% | ~426 |
+| A Method To His Madness | 53.00% | ~418 |
+| History Check | 52.00% | ~410 |
 | Gaze Into The Abyss | 48.00% | ~378 |
 | The New World | 48.00% | ~378 |
 | Lock, Stock, And Barrel | 47.00% | ~370 |
 | Open Sesame | 47.00% | ~370 |
 | Sticky Fingers | 47.00% | ~370 |
 | Knives Out | 47.00% | ~370 |
-| Land, Ho! | 47.00% | ~370 |
-| Back In The Saddle | 45.00% | ~354 |
-| No Man Is An Island | 45.00% | ~354 |
-| At Wits' End | 45.00% | ~354 |
-| Fhtagn! | 43.00% | ~338 |
+| Land, Ho! | 46.00% | ~362 |
+| Back In The Saddle | 45.00% | ~355 |
+| No Man Is An Island | 45.00% | ~355 |
+| At Wits' End | 45.00% | ~355 |
+| Fhtagn! | 43.00% | ~339 |
 | Bookworm | 42.00% | ~331 |
 | Up In Flames | 42.00% | ~331 |
 | Going Once... | 39.00% | ~307 |
-| Let Me Be Frank | 37.00% | ~291 |
-| Brain Food | 35.00% | ~275 |
-| No Stone Unturned | 35.00% | ~275 |
+| Let Me Be Frank | 37.00% | ~292 |
+| Brain Food | 35.00% | ~276 |
+| No Stone Unturned | 35.00% | ~276 |
 | Read It And Weep | 21.00% | ~165 |
 | Curiosity Killed The Cat | 19.00% | ~150 |
 | Big Breakthrough | 13.00% | ~102 |
-| Reawakened | 4.00% | ~31 |
+| Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 787 (Ranked 261)  
+Progressed: 788 (Ranked 261)  
 Completed: 26 (3.30%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,6 +199,7 @@ Completed: 26 (3.30%) (Ranked 90)
 | 2023-10-30 | 774 | 26 |
 | 2023-10-31 | 780 | 26 |
 | 2023-11-01 | 787 | 26 |
+| 2023-11-02 | 788 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

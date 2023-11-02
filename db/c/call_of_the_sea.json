@@ -2,7 +2,7 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 743,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 82,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127756,
+  "EOS_Progressed": 127758,
   "EOS_Completed": 1093,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1211,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -22485,6 +22485,11 @@
       "Time": "2023-11-02T06:05:10.9250025+00:00",
       "NumProgressed": 127756,
       "NumCompleted": 1093
+    },
+    {
+      "Time": "2023-11-02T07:04:49.9876609+00:00",
+      "NumProgressed": 127758,
+      "NumCompleted": 1093
     }
   ],
   "TotalAchievements": 34,
@@ -22520,7 +22525,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37049
+      "UsersEstimate": 37050
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -22552,7 +22557,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 102205
+      "UsersEstimate": 102206
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -22568,7 +22573,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 71543
+      "UsersEstimate": 71544
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -22584,7 +22589,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 49825
+      "UsersEstimate": 49826
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -22592,7 +22597,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 34494
+      "UsersEstimate": 34495
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -22648,7 +22653,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19163
+      "UsersEstimate": 19164
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -22664,7 +22669,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 34494
+      "UsersEstimate": 34495
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -22696,7 +22701,7 @@
       "Name": "Naacalvision",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19163
+      "UsersEstimate": 19164
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -22704,7 +22709,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 31939
+      "UsersEstimate": 31940
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -22712,7 +22717,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30661
+      "UsersEstimate": 30662
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -22744,7 +22749,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30661
+      "UsersEstimate": 30662
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -22767,7 +22772,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 127756,
+      "Progressed": 127758,
       "Completed": 1093
     }
   ],
@@ -22775,8 +22780,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:05:10.9250023+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:04:49.9876602+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:36.8190277+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:00:21.090506+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:05:10.925108+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:59:58.8505928+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:04:49.9878259+00:00"
 }

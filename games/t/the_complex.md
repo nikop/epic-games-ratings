@@ -21,7 +21,7 @@
 | Get Out Of This Alive | 10.00% | ~61 |
 | The Promise | 9.00% | ~55 |
 | People Pleaser | 9.00% | ~55 |
-| The Nano Glitches And The Martyr | 7.00% | ~43 |
+| The Nano Glitches And The Martyr | 8.00% | ~49 |
 | Second Chances | 7.00% | ~43 |
 | Not A People Person | 4.00% | ~25 |
 ## Popularity (Based on EOS Achievements)

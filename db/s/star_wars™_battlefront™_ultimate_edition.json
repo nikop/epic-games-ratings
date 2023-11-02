@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 985,
+  "EOS_Progressed": 987,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2794,6 +2794,11 @@
       "Time": "2023-11-02T01:51:29.7597914+00:00",
       "NumProgressed": 985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T07:09:20.9491259+00:00",
+      "NumProgressed": 987,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2910,7 +2915,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_22",
@@ -2998,7 +3003,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_32",
@@ -3006,7 +3011,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_33",
@@ -3022,7 +3027,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_35",
@@ -3030,7 +3035,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 886
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_36",
@@ -3046,7 +3051,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "achievement_38",
@@ -3054,7 +3059,7 @@
       "Name": "Survivor",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_39",
@@ -3078,7 +3083,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "achievement_41",
@@ -3110,7 +3115,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_45",
@@ -3246,7 +3251,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_60",
@@ -3309,13 +3314,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 985,
+      "Progressed": 987,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 985,
+      "Progressed": 987,
       "Completed": 1
     }
   ],
@@ -3323,8 +3328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:09:18.5174626+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:09:20.9491254+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:59:23.2487442+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:09:18.5175164+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:59:10.8288401+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:09:20.9492182+00:00"
 }

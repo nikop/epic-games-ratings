@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1418,9 +1418,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130357,
+  "EOS_Progressed": 130359,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -20743,6 +20743,11 @@
       "Time": "2023-11-02T05:04:15.9649148+00:00",
       "NumProgressed": 130357,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-02T07:04:21.911562+00:00",
+      "NumProgressed": 130359,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -20786,7 +20791,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23464
+      "UsersEstimate": 23465
     },
     {
       "ID": "ACH_COP_BAD",
@@ -20834,7 +20839,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36500
+      "UsersEstimate": 36501
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -20882,7 +20887,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16946
+      "UsersEstimate": 16947
     },
     {
       "ID": "ACH_COP_STAR",
@@ -20946,7 +20951,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7821
+      "UsersEstimate": 7822
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -21018,7 +21023,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -21073,15 +21078,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130357,
+      "Progressed": 130359,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-01T02:57:19.275442+00:00",
-  "LastChanged_Achievements": "2023-11-02T06:04:40.4273176+00:00",
+  "LastChanged_Achievements": "2023-11-02T07:04:21.9115616+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.4741729+00:00",
-  "LastUpdate_Ratings": "2023-11-02T05:57:32.0179078+00:00",
-  "LastUpdate_Achievements": "2023-11-02T06:04:40.4274227+00:00"
+  "LastUpdate_Ratings": "2023-11-02T06:57:28.0783316+00:00",
+  "LastUpdate_Achievements": "2023-11-02T07:04:21.9116963+00:00"
 }

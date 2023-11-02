@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 122)  
+Rating: 4.76 (Ranked 121)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Defender's Heart | 15.00% | ~1,798 |
 | Mythic Choices | 14.00% | ~1,678 |
 | Banner over the Citadel | 13.00% | ~1,558 |
-| Queen's Gratitude | 12.00% | ~1,438 |
+| Queen's Gratitude | 12.00% | ~1,439 |
 | Fifth Crusade | 8.00% | ~959 |
 | Embrace of the Abyss | 6.00% | ~719 |
 | Path of the Angel | 6.00% | ~719 |
@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~599 |
 | All Paths Open | 5.00% | ~599 |
 | Next-Door Play | 5.00% | ~599 |
-| Heart of the Fallen Land | 4.00% | ~479 |
-| The Legacy | 4.00% | ~479 |
-| Divide and Rule | 4.00% | ~479 |
-| Mythic Reinforcements | 4.00% | ~479 |
-| A Flame | 4.00% | ~479 |
-| Get the Toad | 4.00% | ~479 |
+| Heart of the Fallen Land | 4.00% | ~480 |
+| The Legacy | 4.00% | ~480 |
+| Divide and Rule | 4.00% | ~480 |
+| Mythic Reinforcements | 4.00% | ~480 |
+| A Flame | 4.00% | ~480 |
+| Get the Toad | 4.00% | ~480 |
 | Path of the Trickster | 3.00% | ~360 |
 | Heroic Victory | 3.00% | ~360 |
 | Core of the Riddle | 3.00% | ~360 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,987 (Ranked 150)  
+Progressed: 11,988 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,15 +319,15 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-30 | 11,942 | 0 |
 | 2023-10-31 | 11,961 | 0 |
 | 2023-11-01 | 11,984 | 0 |
-| 2023-11-02 | 11,987 | 0 |
+| 2023-11-02 | 11,988 | 0 |
 ## Awards
 Max (Character Customization): 1,731  (Ranked 120)  
-Sum: 7,014 (Ranked 119)  
+Sum: 7,015 (Ranked 119)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,731 |
-| This game is Extremely Fun | 653 |
+| This game is Extremely Fun | 654 |
 | This game is Highly Recommended | 642 |
 | This game has Amazing Characters | 638 |
 | This game has Diverse Characters | 635 |
@@ -590,4 +590,4 @@ Diff (max vs sum): 1
 | 2023-10-30 | 4.76 | - | 1,731 | 7,010 |
 | 2023-10-31 | 4.76 | - | 1,731 | 7,012 |
 | 2023-11-01 | 4.76 | - | 1,731 | 7,013 |
-| 2023-11-02 | 4.76 | - | 1,731 | 7,014 |
+| 2023-11-02 | 4.76 | - | 1,731 | 7,015 |
