@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10800,9 +10800,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 50946,
+  "EOS_Progressed": 50947,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28445,6 +28445,11 @@
       "Time": "2023-11-02T04:07:33.3375379+00:00",
       "NumProgressed": 50946,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-02T05:06:03.9983926+00:00",
+      "NumProgressed": 50947,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -28536,7 +28541,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32605
+      "UsersEstimate": 32606
     },
     {
       "ID": "CutTree",
@@ -28552,7 +28557,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31077
+      "UsersEstimate": 31078
     },
     {
       "ID": "DeliveryGrapes",
@@ -28584,7 +28589,7 @@
       "Name": "The plot thickens",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8152
     },
     {
       "ID": "FertilizeFirst",
@@ -28600,7 +28605,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 16,
       "XP": 55,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8152
     },
     {
       "ID": "HarvestedFirst",
@@ -28640,7 +28645,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 25473
+      "UsersEstimate": 25474
     },
     {
       "ID": "Mission",
@@ -28656,7 +28661,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 19359
+      "UsersEstimate": 19360
     },
     {
       "ID": "Money",
@@ -28664,7 +28669,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27001
+      "UsersEstimate": 27002
     },
     {
       "ID": "NumBeehives",
@@ -28680,7 +28685,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20378
+      "UsersEstimate": 20379
     },
     {
       "ID": "NumPlaceables",
@@ -28696,7 +28701,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8152
     },
     {
       "ID": "NumVehiclesLarge",
@@ -28760,7 +28765,7 @@
       "Name": "Field Trip",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 22416
+      "UsersEstimate": 22417
     },
     {
       "ID": "TruckDriving",
@@ -28768,7 +28773,7 @@
       "Name": "Long haul",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8151
+      "UsersEstimate": 8152
     },
     {
       "ID": "VehicleRepaint",
@@ -28799,15 +28804,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 50946,
+      "Progressed": 50947,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-01T18:01:18.6280417+00:00",
-  "LastChanged_Achievements": "2023-11-02T04:07:33.3375374+00:00",
+  "LastChanged_Achievements": "2023-11-02T05:06:03.9983924+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:20.3592022+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:02:02.3937738+00:00",
-  "LastUpdate_Achievements": "2023-11-02T04:07:33.3376565+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:00:28.4298894+00:00",
+  "LastUpdate_Achievements": "2023-11-02T05:06:03.9984937+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -581,9 +581,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13659,
+  "EOS_Progressed": 13660,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10506,6 +10506,11 @@
       "Time": "2023-11-02T04:07:32.9002656+00:00",
       "NumProgressed": 13659,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T05:06:03.6435962+00:00",
+      "NumProgressed": 13660,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -10517,7 +10522,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12566
+      "UsersEstimate": 12567
     },
     {
       "ID": "ACH_02",
@@ -10541,7 +10546,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9698
+      "UsersEstimate": 9699
     },
     {
       "ID": "ACH_05",
@@ -10557,7 +10562,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 9015
+      "UsersEstimate": 9016
     },
     {
       "ID": "ACH_07",
@@ -10565,7 +10570,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8605
+      "UsersEstimate": 8606
     },
     {
       "ID": "ACH_08",
@@ -10573,7 +10578,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8332
+      "UsersEstimate": 8333
     },
     {
       "ID": "ACH_09",
@@ -10581,7 +10586,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7922
+      "UsersEstimate": 7923
     },
     {
       "ID": "ACH_10",
@@ -10589,7 +10594,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7239
+      "UsersEstimate": 7240
     },
     {
       "ID": "ACH_11",
@@ -10621,7 +10626,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "ACH_15",
@@ -10645,7 +10650,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ACH_18",
@@ -10796,7 +10801,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13659,
+      "Progressed": 13660,
       "Completed": 51
     }
   ],
@@ -10804,8 +10809,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-01T07:02:43.4251835+00:00",
-  "LastChanged_Achievements": "2023-11-02T04:07:32.9002651+00:00",
+  "LastChanged_Achievements": "2023-11-02T05:06:03.6435959+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.0645994+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:57:12.4135317+00:00",
-  "LastUpdate_Achievements": "2023-11-02T04:07:32.9003368+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:57:03.9487514+00:00",
+  "LastUpdate_Achievements": "2023-11-02T05:06:03.6436664+00:00"
 }

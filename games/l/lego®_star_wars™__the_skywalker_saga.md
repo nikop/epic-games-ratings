@@ -25,7 +25,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Rise of Skywalker | 20.00% | ~10,383 |
 | ''It's true... all of it'' | 19.00% | ~9,864 |
 | ''Get the crews to their fighters'' | 19.00% | ~9,864 |
-| ''Raw, untamed power'' | 8.00% | ~4,153 |
+| ''Raw, untamed power'' | 9.00% | ~4,672 |
 | Rishi Maze | 5.00% | ~2,596 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,596 |
 | ''You may fire when ready'' | 4.00% | ~2,077 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.4,
+  "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2472,6 +2472,11 @@
       "Time": "2023-11-02T01:51:37.6161212+00:00",
       "NumProgressed": 795,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-02T05:09:23.9034615+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2484,7 +2489,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2500,7 +2505,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2508,7 +2513,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "_05_FinishAct2",
@@ -2516,7 +2521,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2548,7 +2553,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "_10_Completion_30",
@@ -2572,7 +2577,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "_13_Completion_60",
@@ -2610,9 +2615,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 318
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2644,7 +2649,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2676,7 +2681,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2691,7 +2696,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 27
     }
   ],
@@ -2699,8 +2704,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-02T04:09:49.228943+00:00",
+  "LastChanged_Achievements": "2023-11-02T05:09:23.903461+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:59:53.9551178+00:00",
-  "LastUpdate_Achievements": "2023-11-02T04:09:49.2289694+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:58:56.0228543+00:00",
+  "LastUpdate_Achievements": "2023-11-02T05:09:23.9034868+00:00"
 }

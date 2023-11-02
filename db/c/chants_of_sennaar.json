@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.48,
+  "EOS_Completed_Percentage": 6.46,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1650,6 +1650,11 @@
       "Time": "2023-11-02T01:49:16.5443535+00:00",
       "NumProgressed": 355,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-02T05:06:10.1861792+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1659,9 +1664,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "END_GOOD",
@@ -1683,9 +1688,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1829,7 +1834,7 @@
       "Name": "The great escape",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "PROGRESS_N3",
@@ -1843,9 +1848,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "PROGRESS_N5",
@@ -1860,14 +1865,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-02T04:07:41.3609152+00:00",
+  "LastChanged_Achievements": "2023-11-02T05:06:10.1861789+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:00:30.8125102+00:00",
-  "LastUpdate_Achievements": "2023-11-02T04:07:41.3609388+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:59:21.529579+00:00",
+  "LastUpdate_Achievements": "2023-11-02T05:06:10.1862056+00:00"
 }

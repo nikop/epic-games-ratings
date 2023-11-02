@@ -1,46 +1,46 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 560)  
+Rating: 4.51 (Ranked 561)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~59,338 |
-| Zealous | 5.00% | ~49,448 |
-| Skillful | 5.00% | ~49,448 |
-| Not half bad | 4.00% | ~39,559 |
-| Apt Survivor | 4.00% | ~39,559 |
-| Survival Treasures | 4.00% | ~39,559 |
-| Make Some Noise | 4.00% | ~39,559 |
-| The Grand Sacrifice | 3.00% | ~29,669 |
-| No one left behind | 3.00% | ~29,669 |
-| Medic | 3.00% | ~29,669 |
-| Handyman | 3.00% | ~29,669 |
-| Bloody Millionaire | 3.00% | ~29,669 |
-| I | 3.00% | ~29,669 |
-| Sorted | 3.00% | ~29,669 |
-| Healthy Obsession | 3.00% | ~29,669 |
-| Resurgence | 3.00% | ~29,669 |
-| Preemptive Strike | 3.00% | ~29,669 |
-| Humanitarian | 3.00% | ~29,669 |
-| Escape Artist | 2.00% | ~19,779 |
-| Agonizing Escape | 2.00% | ~19,779 |
-| Backdoor Escape | 2.00% | ~19,779 |
-| I've got your back | 2.00% | ~19,779 |
-| Nerves of steel | 2.00% | ~19,779 |
-| Perfect Escape | 2.00% | ~19,779 |
-| Perfect Killing | 2.00% | ~19,779 |
-| Apt Killer | 2.00% | ~19,779 |
-| Risk it all | 2.00% | ~19,779 |
-| Vulture | 2.00% | ~19,779 |
-| II | 2.00% | ~19,779 |
-| III | 2.00% | ~19,779 |
-| Engineer | 2.00% | ~19,779 |
-| Wounded Healer | 2.00% | ~19,779 |
-| Close Shave | 2.00% | ~19,779 |
-| With Scars to Show | 2.00% | ~19,779 |
-| Second Act | 2.00% | ~19,779 |
+| It wakes | 6.00% | ~59,342 |
+| Zealous | 5.00% | ~49,452 |
+| Skillful | 5.00% | ~49,452 |
+| Not half bad | 4.00% | ~39,561 |
+| Apt Survivor | 4.00% | ~39,561 |
+| Survival Treasures | 4.00% | ~39,561 |
+| Make Some Noise | 4.00% | ~39,561 |
+| The Grand Sacrifice | 3.00% | ~29,671 |
+| No one left behind | 3.00% | ~29,671 |
+| Medic | 3.00% | ~29,671 |
+| Handyman | 3.00% | ~29,671 |
+| Bloody Millionaire | 3.00% | ~29,671 |
+| I | 3.00% | ~29,671 |
+| Sorted | 3.00% | ~29,671 |
+| Healthy Obsession | 3.00% | ~29,671 |
+| Resurgence | 3.00% | ~29,671 |
+| Preemptive Strike | 3.00% | ~29,671 |
+| Humanitarian | 3.00% | ~29,671 |
+| Escape Artist | 2.00% | ~19,781 |
+| Agonizing Escape | 2.00% | ~19,781 |
+| Backdoor Escape | 2.00% | ~19,781 |
+| I've got your back | 2.00% | ~19,781 |
+| Nerves of steel | 2.00% | ~19,781 |
+| Perfect Escape | 2.00% | ~19,781 |
+| Perfect Killing | 2.00% | ~19,781 |
+| Apt Killer | 2.00% | ~19,781 |
+| Risk it all | 2.00% | ~19,781 |
+| Vulture | 2.00% | ~19,781 |
+| II | 2.00% | ~19,781 |
+| III | 2.00% | ~19,781 |
+| Engineer | 2.00% | ~19,781 |
+| Wounded Healer | 2.00% | ~19,781 |
+| Close Shave | 2.00% | ~19,781 |
+| With Scars to Show | 2.00% | ~19,781 |
+| Second Act | 2.00% | ~19,781 |
 | Blood on your hands | 1.00% | ~9,890 |
 | Made it out alive! | 1.00% | ~9,890 |
 | Gifts for the Fog | 1.00% | ~9,890 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~989 |
 | Adept Ripley | 0.10% | ~989 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 988,965 (Ranked 14)  
+Progressed: 989,037 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -432,7 +432,7 @@ Completed: 52 (0.01%) (Ranked 317)
 | 2023-10-30 | 982,402 | 52 |
 | 2023-10-31 | 985,437 | 52 |
 | 2023-11-01 | 988,523 | 52 |
-| 2023-11-02 | 988,965 | 52 |
+| 2023-11-02 | 989,037 | 52 |
 ## Awards
 Max (Diverse Characters): 35,154  (Ranked 15)  
 Sum: 270,233 (Ranked 13)  

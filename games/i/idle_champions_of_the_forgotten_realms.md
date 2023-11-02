@@ -103,6 +103,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.20% | ~399 |
 | The Bleeding Citadel | 0.20% | ~399 |
 | Idyllglen | 0.20% | ~399 |
+| The Radiant Nightmare | 0.20% | ~399 |
 | The Battle of High Hall Tower | 0.20% | ~399 |
 | Elturel's Last Stand | 0.20% | ~399 |
 | Pure Energy | 0.20% | ~467 |
@@ -460,7 +461,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Going To Eleven | 0.10% | ~200 |
 | The Madness of Yeenoghu | 0.10% | ~200 |
 | Reya Reborn | 0.10% | ~200 |
-| The Radiant Nightmare | 0.10% | ~200 |
 | Quick Thinking | 0.10% | ~200 |
 | Tough Acting | 0.10% | ~200 |
 | Witty Riposting | 0.10% | ~200 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,418 (Ranked 62)  
+Progressed: 233,419 (Ranked 62)  
 Completed: 2,419 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,7 +731,7 @@ Completed: 2,419 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,418 | 2,419 |
+| 2023-11-02 | 233,419 | 2,419 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,297 (Ranked 41)  

@@ -78,7 +78,7 @@ Rating: 4.46 (Ranked 638)
 | Going Overboard | 0.60% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,807 (Ranked 188)  
-Completed: 11 (0.29%) (Ranked 225)  
+Completed: 11 (0.29%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

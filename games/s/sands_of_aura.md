@@ -13,6 +13,7 @@
 | A Sandwyrm's Hoard | 7.00% | ~3 |
 | Advanced Armaments | 7.00% | ~3 |
 | Let Me Solo Them | 4.00% | ~2 |
+| Sovereignty of Irons | 4.00% | ~2 |
 | Overboard | 2.00% | ~1 |
 | Sommelier | 2.00% | ~1 |
 | Bladesmith | 2.00% | ~1 |
@@ -21,7 +22,6 @@
 | The River Styx | 2.00% | ~1 |
 | Frigid Winds | 2.00% | ~1 |
 | The Guardian of Fire | 2.00% | ~1 |
-| Sovereignty of Irons | 2.00% | ~1 |
 | Transformative Nature | 2.00% | ~1 |
 | Champion of Starspire | 2.00% | ~1 |
 | No Salvation | 0.00% | ~0 |

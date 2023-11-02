@@ -6,7 +6,7 @@ Rating: 3.98 (Ranked 990)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 90.00% | ~112 |
-| Battlefields Have Memories | 87.00% | ~109 |
+| Battlefields Have Memories | 88.00% | ~110 |
 | Enlisted | 86.00% | ~108 |
 | Maybe Engage a Little | 82.00% | ~102 |
 | No More Names | 67.00% | ~84 |
@@ -15,7 +15,7 @@ Rating: 3.98 (Ranked 990)
 | Gravity-Challenged Rocks | 43.00% | ~54 |
 | All the Major Food Groups | 37.00% | ~46 |
 | Soldier | 35.00% | ~44 |
-| Beggars Would Ride | 31.00% | ~39 |
+| Beggars Would Ride | 32.00% | ~40 |
 | Control is an Illusion | 30.00% | ~38 |
 | Socialite | 30.00% | ~38 |
 | The Means to Save It | 24.00% | ~30 |

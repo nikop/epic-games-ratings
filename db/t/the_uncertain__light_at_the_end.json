@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 122,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 559,
+  "EOS_Progressed": 560,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -873,6 +873,11 @@
       "Time": "2023-11-01T15:06:49.349954+00:00",
       "NumProgressed": 559,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-02T05:06:13.9951513+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -908,7 +913,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Doors_Closing",
@@ -964,7 +969,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Healthy_Child",
@@ -972,7 +977,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Hitman",
@@ -980,7 +985,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Illustrator",
@@ -1004,7 +1009,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Leisurely_Strol",
@@ -1060,7 +1065,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Paparazzi",
@@ -1115,7 +1120,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 559,
+      "Progressed": 560,
       "Completed": 6
     }
   ],
@@ -1123,8 +1128,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-02T04:07:46.439645+00:00",
+  "LastChanged_Achievements": "2023-11-02T05:06:13.9951509+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:44.8805574+00:00",
-  "LastUpdate_Ratings": "2023-11-02T04:03:17.1807855+00:00",
-  "LastUpdate_Achievements": "2023-11-02T04:07:46.439667+00:00"
+  "LastUpdate_Ratings": "2023-11-02T05:03:01.125981+00:00",
+  "LastUpdate_Achievements": "2023-11-02T05:06:13.9951713+00:00"
 }

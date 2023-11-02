@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15408,
+  "EOS_Progressed": 15409,
   "EOS_Completed": 161,
-  "EOS_NewPlayers": 1522,
+  "EOS_NewPlayers": 1513,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -7389,6 +7389,11 @@
       "Time": "2023-11-02T04:07:56.2406675+00:00",
       "NumProgressed": 15408,
       "NumCompleted": 161
+    },
+    {
+      "Time": "2023-11-02T05:08:10.9914864+00:00",
+      "NumProgressed": 15409,
+      "NumCompleted": 161
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -7433,7 +7438,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 8474
+      "UsersEstimate": 8475
     },
     {
       "ID": "achievement_14",
@@ -7441,7 +7446,7 @@
       "Name": "Visiting Alderaan Places",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "achievement_15",
@@ -7449,7 +7454,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 7858
+      "UsersEstimate": 7859
     },
     {
       "ID": "achievement_16",
@@ -7473,7 +7478,7 @@
       "Name": "Back At You",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 11248
+      "UsersEstimate": 11249
     },
     {
       "ID": "achievement_19",
@@ -7481,7 +7486,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 8166
+      "UsersEstimate": 8167
     },
     {
       "ID": "achievement_2",
@@ -7489,7 +7494,7 @@
       "Name": "Collector",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "achievement_20",
@@ -7529,7 +7534,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6471
+      "UsersEstimate": 6472
     },
     {
       "ID": "achievement_25",
@@ -7561,7 +7566,7 @@
       "Name": "Bank Shot",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 8474
+      "UsersEstimate": 8475
     },
     {
       "ID": "achievement_29",
@@ -7569,7 +7574,7 @@
       "Name": "Blade Master",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "achievement_3",
@@ -7617,7 +7622,7 @@
       "Name": "Data Disk",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "achievement_35",
@@ -7625,7 +7630,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 12326
+      "UsersEstimate": 12327
     },
     {
       "ID": "achievement_36",
@@ -7633,7 +7638,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 7858
+      "UsersEstimate": 7859
     },
     {
       "ID": "achievement_37",
@@ -7689,7 +7694,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 15408
+      "UsersEstimate": 15409
     },
     {
       "ID": "achievement_8",
@@ -7697,7 +7702,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 14329
+      "UsersEstimate": 14330
     },
     {
       "ID": "achievement_9",
@@ -7705,14 +7710,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 12172
+      "UsersEstimate": 12173
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 15408,
+      "Progressed": 15409,
       "Completed": 161
     }
   ],
@@ -7720,8 +7725,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-10-25T21:00:05.5582178+00:00",
-  "LastChanged_Achievements": "2023-11-02T04:07:56.240667+00:00",
+  "LastChanged_Achievements": "2023-11-02T05:08:10.9914862+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:44.1681656+00:00",
-  "LastUpdate_Ratings": "2023-11-02T03:58:21.8013174+00:00",
-  "LastUpdate_Achievements": "2023-11-02T04:07:56.2407249+00:00"
+  "LastUpdate_Ratings": "2023-11-02T04:57:53.6991573+00:00",
+  "LastUpdate_Achievements": "2023-11-02T05:08:10.9915481+00:00"
 }

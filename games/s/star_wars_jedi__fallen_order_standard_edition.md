@@ -5,30 +5,30 @@ Rating: 4.66 (Ranked 290)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~15,408 |
-| A Long Time Ago | 93.00% | ~14,329 |
-| Sabersmith | 80.00% | ~12,326 |
-| The Obstacle is the Way | 79.00% | ~12,172 |
-| Back At You | 73.00% | ~11,248 |
+| The Mantis | 100.00% | ~15,409 |
+| A Long Time Ago | 93.00% | ~14,330 |
+| Sabersmith | 80.00% | ~12,327 |
+| The Obstacle is the Way | 79.00% | ~12,173 |
+| Back At You | 73.00% | ~11,249 |
 | Happy Go Wookiee | 70.00% | ~10,786 |
 | Everything is Connected | 61.00% | ~9,399 |
-| Her Name Was Masana Tide | 55.00% | ~8,474 |
-| Bank Shot | 55.00% | ~8,474 |
-| Perfect Timing | 53.00% | ~8,166 |
-| Gorgara Falls | 51.00% | ~7,858 |
-| The Full Glow-Up | 51.00% | ~7,858 |
+| Her Name Was Masana Tide | 55.00% | ~8,475 |
+| Bank Shot | 55.00% | ~8,475 |
+| Perfect Timing | 53.00% | ~8,167 |
+| Gorgara Falls | 51.00% | ~7,859 |
+| The Full Glow-Up | 51.00% | ~7,859 |
 | For A More Civilized Age | 49.00% | ~7,550 |
 | I Knew He Was No Good | 47.00% | ~7,242 |
 | The Holocron Awaits | 46.00% | ~7,088 |
 | Look Out Below | 44.00% | ~6,780 |
 | Scum and Villainy | 44.00% | ~6,780 |
 | Trust Only In The Force | 44.00% | ~6,780 |
-| Don't Mess with BD-1 | 42.00% | ~6,471 |
-| Blade Master | 39.00% | ~6,009 |
+| Don't Mess with BD-1 | 42.00% | ~6,472 |
+| Blade Master | 39.00% | ~6,010 |
 | Full House | 36.00% | ~5,547 |
 | Legendary Beasts | 22.00% | ~3,390 |
 | Echo Location | 20.00% | ~3,082 |
-| Visiting Alderaan Places | 18.00% | ~2,773 |
+| Visiting Alderaan Places | 18.00% | ~2,774 |
 | Triple Take | 14.00% | ~2,157 |
 | Cal Got Your Tongue? | 14.00% | ~2,157 |
 | Big Bang | 12.00% | ~1,849 |
@@ -36,8 +36,8 @@ Rating: 4.66 (Ranked 290)
 | Can't Touch This | 9.00% | ~1,387 |
 | Medical Droid | 8.00% | ~1,233 |
 | Data Collector | 8.00% | ~1,233 |
-| Collector | 6.00% | ~924 |
-| Data Disk | 6.00% | ~924 |
+| Collector | 6.00% | ~925 |
+| Data Disk | 6.00% | ~925 |
 | Kickoff | 4.00% | ~616 |
 | Green Thumb | 4.00% | ~616 |
 | A Galaxy Far, Far Away | 4.00% | ~616 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 290)
 | What Goes Around... | 3.00% | ~462 |
 | Not So Fast | 1.00% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,408 (Ranked 143)  
+Progressed: 15,409 (Ranked 143)  
 Completed: 161 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 161 (1.04%) (Ranked 154)
 | 2023-10-30 | 14,981 | 157 |
 | 2023-10-31 | 15,165 | 157 |
 | 2023-11-01 | 15,371 | 160 |
-| 2023-11-02 | 15,408 | 161 |
+| 2023-11-02 | 15,409 | 161 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

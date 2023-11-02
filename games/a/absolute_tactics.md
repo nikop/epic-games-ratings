@@ -26,7 +26,7 @@
 | The Hordes of Mercy | 20.00% | ~1 |
 | Thinning the Horde | 20.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 599)  
+Progressed: 5 (Ranked 600)  
 Completed: 1 (20.00%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
