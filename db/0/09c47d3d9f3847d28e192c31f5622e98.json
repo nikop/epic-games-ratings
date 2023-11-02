@@ -3,9 +3,9 @@
   "Name": "APE SQUAD",
   "ProductSlug": "apesquad-f24b7f",
   "Ranking_EOS_Progress": 717,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-26T01:00:00+00:00",
     "PcReleaseDate": "2023-09-26T01:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-09-27T03:57:24.1435127+00:00",
   "FirstSeenAchievements": "2023-09-26T01:46:07.8862255+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:04:35.0517855+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:05:27.6627068+00:00",
   "LastUpdate_AppInfo": "2023-10-31T03:56:52.4921834+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:58:43.5739724+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:04:35.0517888+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:59:02.1564546+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:05:27.6627126+00:00"
 }

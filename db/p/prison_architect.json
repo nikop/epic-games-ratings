@@ -6,9 +6,9 @@
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6477,9 +6477,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 189750,
+  "EOS_Progressed": 189758,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2422,
+  "EOS_NewPlayers": 2425,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28692,6 +28692,11 @@
       "Time": "2023-11-02T07:08:59.5139425+00:00",
       "NumProgressed": 189750,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-02T08:09:05.5797776+00:00",
+      "NumProgressed": 189758,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -28719,7 +28724,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5693
     },
     {
       "ID": "Achievement_11",
@@ -28727,7 +28732,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5693
     },
     {
       "ID": "Achievement_12",
@@ -28735,7 +28740,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30360
+      "UsersEstimate": 30361
     },
     {
       "ID": "Achievement_13",
@@ -28759,7 +28764,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5693
     },
     {
       "ID": "Achievement_2",
@@ -28767,7 +28772,7 @@
       "Name": "Reformation",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "Achievement_3",
@@ -28783,7 +28788,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 47438
+      "UsersEstimate": 47440
     },
     {
       "ID": "Achievement_5",
@@ -28830,15 +28835,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 189750,
+      "Progressed": 189758,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-01T20:58:26.5681937+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:08:59.5139415+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:09:05.579777+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:12.0759193+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:58:34.2422304+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:08:59.5140927+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:58:50.03721+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:09:05.5799452+00:00"
 }

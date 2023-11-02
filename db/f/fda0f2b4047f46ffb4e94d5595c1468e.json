@@ -6,9 +6,9 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -1951,10 +1951,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4189,
       "NumberOfAwardsMax": 1401
+    },
+    {
+      "Time": "2023-11-02T08:02:51.6777143+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4193,
+      "NumberOfAwardsMax": 1401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4189,
+  "NumberOfAwards": 4193,
   "NumberOfAwardsMax": 1401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1980,7 +1986,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 319
+      "Count": 323
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6614,9 +6620,9 @@
       "ID": "ach07",
       "SetID": "47in8n6",
       "Name": "Beaten And Broken",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4604
     },
     {
       "ID": "ach08",
@@ -6974,9 +6980,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-02T06:02:42.1312137+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:03:40.4360405+00:00",
+  "LastChanged": "2023-11-02T08:02:51.6777141+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:04:17.0749472+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:00:47.6180948+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:03:40.4361197+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:02:51.6777147+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:04:17.0750227+00:00"
 }

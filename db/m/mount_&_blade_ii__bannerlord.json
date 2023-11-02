@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8430,9 +8430,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64313,
+  "EOS_Progressed": 64314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29085,6 +29085,11 @@
       "Time": "2023-11-02T05:09:00.2622072+00:00",
       "NumProgressed": 64313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T08:09:11.5042599+00:00",
+      "NumProgressed": 64314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29320,7 +29325,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21223
+      "UsersEstimate": 21224
     },
     {
       "ID": "Lawbringer",
@@ -29448,7 +29453,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "This Is Our Land",
@@ -29503,15 +29508,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64313,
+      "Progressed": 64314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-02T05:59:02.5973795+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:09:04.2473594+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:09:11.5042593+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:58:53.0895875+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:09:04.247531+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:59:16.6329632+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:09:11.5044324+00:00"
 }

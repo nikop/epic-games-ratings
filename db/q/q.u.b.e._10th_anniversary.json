@@ -6,9 +6,9 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -124,11 +124,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14393,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 4608,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 14408,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 4605,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -1679,6 +1679,11 @@
       "Time": "2023-11-02T07:09:15.9653571+00:00",
       "NumProgressed": 14393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T08:09:26.9345694+00:00",
+      "NumProgressed": 14408,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1816,9 +1821,9 @@
       "ID": "ACH_Sector1",
       "SetID": "a3lf366",
       "Name": "Sector 1",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_Sector2",
@@ -1872,25 +1877,25 @@
       "ID": "ACH_TurnBallBlack",
       "SetID": "a3lf366",
       "Name": "Did That Work? -- No!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14393,
-      "Completed": 0
+      "Progressed": 14408,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T06:57:11.2594167+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:09:15.9653565+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:09:26.9345688+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:57:11.2594175+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:09:15.9653856+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:57:18.4175466+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:09:26.9345992+00:00"
 }

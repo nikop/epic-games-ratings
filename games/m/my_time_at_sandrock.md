@@ -3,6 +3,69 @@
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
 Rating: 4.68 (Ranked 249)  
 Number of Ratings: 892  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Knowledge is Power | 0.00% | ~0 |
+| Jack of All Trades | 0.00% | ~0 |
+| On that Grindset | 0.00% | ~0 |
+| Panda-kin | 0.00% | ~0 |
+| Time Flies | 0.00% | ~0 |
+| It's High Noon... | 0.00% | ~0 |
+| Strong Arms | 0.00% | ~0 |
+| Big Game Hunter | 0.00% | ~0 |
+| Super Spelunker | 0.00% | ~0 |
+| Adept Assembler | 0.00% | ~0 |
+| Pack Mule | 0.00% | ~0 |
+| Commissions, commissions...! | 0.00% | ~0 |
+| Iron Chef | 0.00% | ~0 |
+| My Time Mansion | 0.00% | ~0 |
+| Financially Secure | 0.00% | ~0 |
+| Builder of the Month | 0.00% | ~0 |
+| Kind of a Big Deal | 0.00% | ~0 |
+| Can We Keep It? | 0.00% | ~0 |
+| Finishing Touches | 0.00% | ~0 |
+| Bridging the Gap | 0.00% | ~0 |
+| Better Late than Never | 0.00% | ~0 |
+| Martle's Dream | 0.00% | ~0 |
+| The Little Wood that Could | 0.00% | ~0 |
+| What Plants Crave | 0.00% | ~0 |
+| Jewel of the Eufaula | 0.00% | ~0 |
+| Sepia Toned Memories | 0.00% | ~0 |
+| Officially Official | 0.00% | ~0 |
+| He Can Spin A Yarn... | 0.00% | ~0 |
+| Greeno-B-Gone | 0.00% | ~0 |
+| Your Especially Earned Trajectory | 0.00% | ~0 |
+| Elementary, My Dear | 0.00% | ~0 |
+| Happier-est Place on Earth | 0.00% | ~0 |
+| No Mountain Wide Enough | 0.00% | ~0 |
+| Lifeline Pipeline | 0.00% | ~0 |
+| Got the Flow Back | 0.00% | ~0 |
+| Anti-Santa | 0.00% | ~0 |
+| Cardistry | 0.00% | ~0 |
+| Chatterbox | 0.00% | ~0 |
+| Got Served | 0.00% | ~0 |
+| One of the Cool Kids | 0.00% | ~0 |
+| Pro Gamer | 0.00% | ~0 |
+| Who Ya Gonna Call...? | 0.00% | ~0 |
+| Santa In Training | 0.00% | ~0 |
+| Got the Receipt? | 0.00% | ~0 |
+| Just What I Always Wanted! | 0.00% | ~0 |
+| First Love | 0.00% | ~0 |
+| I Do! | 0.00% | ~0 |
+| Sandrock's Hottest Club | 0.00% | ~0 |
+| Sandrunning Speedster | 0.00% | ~0 |
+| Winner and Still Champeen | 0.00% | ~0 |
+| Mole Masher | 0.00% | ~0 |
+| You Don't Win Friends With Salad | 0.00% | ~0 |
+| Yakmel Whisperer | 0.00% | ~0 |
+| Unboxing | 0.00% | ~0 |
+| Do Your Part | 0.00% | ~0 |
+| Call Me Fishmael | 0.00% | ~0 |
+| Diamonds are Forever | 0.00% | ~0 |
+| Waste Not Want Not | 0.00% | ~0 |
+| Newton | 0.00% | ~0 |
+| It Belongs in a Museum! | 0.00% | ~0 |
 ## Awards
 Max (Character Customization): 575  (Ranked 194)  
 Sum: 1,293 (Ranked 236)  

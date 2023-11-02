@@ -5,7 +5,7 @@ Rating: 4.39 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 0.60% | ~86 |
+| Sector 1 | 0.70% | ~101 |
 | Crush That Cube! | 0.50% | ~72 |
 | Sector 2 | 0.50% | ~72 |
 | Sector 3 | 0.40% | ~58 |
@@ -15,6 +15,7 @@ Rating: 4.39 (Ranked 742)
 | Squished | 0.20% | ~29 |
 | Sector 5 | 0.20% | ~29 |
 | Sector 6 | 0.20% | ~29 |
+| Did That Work? -- No! | 0.20% | ~29 |
 | The Collector | 0.10% | ~14 |
 | Finale | 0.10% | ~14 |
 | Bronze Trophy | 0.10% | ~14 |
@@ -28,10 +29,9 @@ Rating: 4.39 (Ranked 742)
 | Master Room | 0.10% | ~14 |
 | Maxed Out | 0.10% | ~14 |
 | Sector 7 | 0.10% | ~14 |
-| Did That Work? -- No! | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,393 (Ranked 146)  
-Completed: 0 (0.00%) (Ranked 337)  
+Progressed: 14,408 (Ranked 146)  
+Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 337)
 | 2023-10-30 | 13,351 | 0 |
 | 2023-10-31 | 13,819 | 0 |
 | 2023-11-01 | 14,311 | 0 |
-| 2023-11-02 | 14,393 | 0 |
+| 2023-11-02 | 14,408 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

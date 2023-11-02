@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~2,334 |
 | Beast Intentions | 0.50% | ~1,167 |
 | The Cursed Farmer | 0.50% | ~1,167 |
-| Foul Play | 0.50% | ~998 |
+| Foul Play | 0.50% | ~999 |
 | The Mad Wizard | 0.40% | ~934 |
 | The Jungles of Doomspace | 0.40% | ~799 |
 | The Arena of Blood | 0.40% | ~799 |
@@ -92,6 +92,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Questlines | 0.20% | ~399 |
 | Bel's Forge | 0.20% | ~399 |
 | Escort to Waterdeep | 0.20% | ~467 |
+| The Everlasting Rime | 0.20% | ~399 |
 | Constant Banditry | 0.20% | ~467 |
 | Waterdeep Detours | 0.20% | ~467 |
 | Rude Welcome | 0.20% | ~467 |
@@ -430,7 +431,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~200 |
 | Giant-Size Adventure | 0.10% | ~200 |
 | Power of Three | 0.10% | ~200 |
-| The Everlasting Rime | 0.10% | ~200 |
 | Enemy Summit | 0.10% | ~200 |
 | Mirage Arcane | 0.10% | ~200 |
 | Only Human | 0.10% | ~200 |
@@ -535,8 +535,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,423 (Ranked 62)  
-Completed: 2,419 (1.04%) (Ranked 154)  
+Progressed: 233,428 (Ranked 62)  
+Completed: 2,420 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -731,7 +731,7 @@ Completed: 2,419 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,423 | 2,419 |
+| 2023-11-02 | 233,428 | 2,420 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,298 (Ranked 41)  

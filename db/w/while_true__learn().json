@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -499,9 +499,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 608999,
+  "EOS_Progressed": 609000,
   "EOS_Completed": 541,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22394,6 +22394,11 @@
       "Time": "2023-11-02T07:04:01.7940967+00:00",
       "NumProgressed": 608999,
       "NumCompleted": 541
+    },
+    {
+      "Time": "2023-11-02T08:04:44.8278538+00:00",
+      "NumProgressed": 609000,
+      "NumCompleted": 541
     }
   ],
   "TotalAchievements": 28,
@@ -22469,7 +22474,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 371489
+      "UsersEstimate": 371490
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -22533,7 +22538,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 566369
+      "UsersEstimate": 566370
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -22565,7 +22570,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 401939
+      "UsersEstimate": 401940
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -22581,7 +22586,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 322769
+      "UsersEstimate": 322770
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -22628,15 +22633,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 608999,
+      "Progressed": 609000,
       "Completed": 541
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-10-24T11:00:57.0724389+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:04:01.7940963+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:04:44.8278533+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:08.120773+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:59:32.8114143+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:04:01.7942531+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:00:10.0980299+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:04:44.828019+00:00"
 }

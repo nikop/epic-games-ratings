@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6605,
+  "EOS_Progressed": 6606,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4811,6 +4811,11 @@
       "Time": "2023-11-02T06:03:21.8277234+00:00",
       "NumProgressed": 6605,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-02T08:03:37.7980642+00:00",
+      "NumProgressed": 6606,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4823,7 +4828,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "achievement_01_02",
@@ -4839,7 +4844,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4161
+      "UsersEstimate": 4162
     },
     {
       "ID": "achievement_01_04",
@@ -4855,7 +4860,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "achievement_01_06",
@@ -4863,7 +4868,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "achievement_01_07",
@@ -4887,7 +4892,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "achievement_01_10",
@@ -4911,7 +4916,7 @@
       "Name": "Amateur Champion",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "achievement_02_03",
@@ -4935,7 +4940,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "achievement_02_06",
@@ -4951,7 +4956,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "achievement_02_08",
@@ -4967,7 +4972,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1850
     },
     {
       "ID": "achievement_03_02",
@@ -5015,7 +5020,7 @@
       "Name": "Golden Amateur Champion",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "achievement_03_08",
@@ -5063,7 +5068,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "achievement_04_03",
@@ -5103,7 +5108,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "achievement_04_08",
@@ -5111,7 +5116,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "achievement_04_09",
@@ -5126,7 +5131,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6605,
+      "Progressed": 6606,
       "Completed": 33
     }
   ],
@@ -5134,8 +5139,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:03:09.6625886+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:03:37.7980637+00:00",
   "LastUpdate_AppInfo": "2023-10-26T19:57:27.064074+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:58:49.2705028+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:03:09.662657+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:59:11.4509244+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:03:37.7981541+00:00"
 }

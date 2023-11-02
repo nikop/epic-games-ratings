@@ -6,9 +6,9 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 64,
-  "Ranking_EOS_Completed": 337,
+  "Ranking_EOS_Completed": 338,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -509,7 +509,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 229979,
+  "EOS_Progressed": 229984,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1417,
   "EOS_NewCompleters": 0,
@@ -12174,6 +12174,11 @@
       "Time": "2023-11-02T07:09:11.1757576+00:00",
       "NumProgressed": 229979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T08:09:20.7177139+00:00",
+      "NumProgressed": 229984,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12242,7 +12247,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48296
+      "UsersEstimate": 48297
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -12250,7 +12255,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20698
+      "UsersEstimate": 20699
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -12282,7 +12287,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6899
+      "UsersEstimate": 6900
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -12290,7 +12295,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6899
+      "UsersEstimate": 6900
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -12370,7 +12375,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 29897
+      "UsersEstimate": 29898
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -12442,7 +12447,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57495
+      "UsersEstimate": 57496
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -12457,7 +12462,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 229979,
+      "Progressed": 229984,
       "Completed": 0
     }
   ],
@@ -12465,8 +12470,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-01T08:57:14.6791597+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:09:11.1757555+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:09:20.7177135+00:00",
   "LastUpdate_AppInfo": "2023-10-27T01:38:17.8974997+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:57:28.5959307+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:09:11.1758541+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:57:37.4216832+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:09:20.7178019+00:00"
 }

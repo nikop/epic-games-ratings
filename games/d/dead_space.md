@@ -10,7 +10,7 @@ Rating: 4.63 (Ranked 346)
 | Lab Rat | 74.00% | ~1,050 |
 | All Systems Go | 65.00% | ~922 |
 | Brute Force | 65.00% | ~922 |
-| Cannon Fodder | 60.00% | ~851 |
+| Cannon Fodder | 61.00% | ~866 |
 | Autofire | 58.00% | ~823 |
 | Story Teller | 56.00% | ~795 |
 | True Believer | 56.00% | ~795 |
@@ -33,8 +33,8 @@ Rating: 4.63 (Ranked 346)
 | Mindless Prey | 36.00% | ~511 |
 | Front Toward Enemy | 34.00% | ~482 |
 | A Cut Above | 32.00% | ~454 |
+| Set A Benchmark | 29.00% | ~412 |
 | Whole Again | 28.00% | ~397 |
-| Set A Benchmark | 28.00% | ~397 |
 | Full Contact | 26.00% | ~369 |
 | Pack Rat | 26.00% | ~369 |
 | Final Regeneration | 25.00% | ~355 |

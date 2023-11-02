@@ -5,15 +5,15 @@ Rating: 4.84 (Ranked 48)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~226,997 |
-| Private Club | 74.00% | ~184,591 |
+| Forgotten Sorority | 91.00% | ~226,998 |
+| Private Club | 74.00% | ~184,592 |
 | Rogue Guild | 65.00% | ~162,141 |
 | I Watched the Intro | 57.00% | ~142,185 |
 | Covert Consortium | 55.00% | ~137,196 |
 | Goat Queen | 53.00% | ~132,207 |
 | Reach the Stratosphere | 50.00% | ~124,724 |
-| Synchronization Complete | 47.00% | ~117,240 |
-| Secret Society | 45.00% | ~112,251 |
+| Synchronization Complete | 47.00% | ~117,241 |
+| Secret Society | 45.00% | ~112,252 |
 | Shadow Syndicate | 38.00% | ~94,790 |
 | What a Waste of Money | 33.00% | ~82,318 |
 | New Goat Order | 30.00% | ~74,834 |
@@ -23,7 +23,7 @@ Rating: 4.84 (Ranked 48)
 | Raider of the Lost Parking Garage | 26.00% | ~64,856 |
 | Welcome to Earth | 25.00% | ~62,362 |
 | Into the Matrix | 19.00% | ~47,395 |
-| Egg Simulator | 18.00% | ~44,900 |
+| Egg Simulator | 18.00% | ~44,901 |
 | Where is It? | 17.00% | ~42,406 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,417 |
 | Black Market | 14.00% | ~34,923 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 48)
 | Move! That! Bus! | 0.60% | ~1,497 |
 | G.O.A.T | 0.30% | ~748 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,447 (Ranked 57)  
+Progressed: 249,448 (Ranked 57)  
 Completed: 868 (0.35%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 868 (0.35%) (Ranked 212)
 | 2023-10-30 | 249,235 | 868 |
 | 2023-10-31 | 249,321 | 868 |
 | 2023-11-01 | 249,424 | 868 |
-| 2023-11-02 | 249,447 | 868 |
+| 2023-11-02 | 249,448 | 868 |
 ## Awards
 Max (Great for Beginners): 439  (Ranked 215)  
 Sum: 3,713 (Ranked 158)  

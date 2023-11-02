@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 987,
+  "EOS_Progressed": 989,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2799,6 +2799,11 @@
       "Time": "2023-11-02T07:09:20.9491259+00:00",
       "NumProgressed": 987,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T08:09:33.5505213+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2979,7 +2984,7 @@
       "Name": "On the ball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_3",
@@ -3019,7 +3024,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_34",
@@ -3035,7 +3040,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 890
     },
     {
       "ID": "achievement_36",
@@ -3051,7 +3056,7 @@
       "Name": "Off to a good start",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_38",
@@ -3075,7 +3080,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_40",
@@ -3083,7 +3088,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_41",
@@ -3131,7 +3136,7 @@
       "Name": "Patience you must have",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_47",
@@ -3299,7 +3304,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_9",
@@ -3314,13 +3319,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 987,
+      "Progressed": 989,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 987,
+      "Progressed": 989,
       "Completed": 1
     }
   ],
@@ -3328,8 +3333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:09:20.9491254+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:09:33.5505203+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:59:10.8288401+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:09:20.9492182+00:00"
+  "LastUpdate_Ratings": "2023-11-02T07:59:40.6528532+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:09:33.5506073+00:00"
 }

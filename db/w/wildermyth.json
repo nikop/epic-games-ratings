@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2126,9 +2126,9 @@
       "ID": "theme_skeleton_terrify10Enemies",
       "SetID": "95dc8p",
       "Name": "I\u0027m Not Smiling",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "theme_star_kill20EnemiesWithFallingStars",
@@ -2190,8 +2190,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:09:01.4643598+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:09:08.1236837+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:14.4460326+00:00",
-  "LastUpdate_Ratings": "2023-11-02T06:59:34.8902436+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:09:01.4644231+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:00:12.2019306+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:09:08.1237469+00:00"
 }

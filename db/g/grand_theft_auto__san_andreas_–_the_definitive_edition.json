@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 122,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1393,9 +1393,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13362,
+  "EOS_Progressed": 13363,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13613,6 +13613,11 @@
       "Time": "2023-11-02T06:08:29.1275404+00:00",
       "NumProgressed": 13362,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-02T08:08:35.09114+00:00",
+      "NumProgressed": 13363,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 35,
@@ -13624,7 +13629,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 10957
+      "UsersEstimate": 10958
     },
     {
       "ID": "ACH02",
@@ -13672,7 +13677,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2673
     },
     {
       "ID": "ACH08",
@@ -13816,7 +13821,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH26",
@@ -13903,7 +13908,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13362,
+      "Progressed": 13363,
       "Completed": 50
     }
   ],
@@ -13911,8 +13916,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-01T12:01:30.4689419+00:00",
-  "LastChanged_Achievements": "2023-11-02T07:08:35.878954+00:00",
+  "LastChanged_Achievements": "2023-11-02T08:08:35.0911394+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
-  "LastUpdate_Ratings": "2023-11-02T07:00:24.7085795+00:00",
-  "LastUpdate_Achievements": "2023-11-02T07:08:35.8790617+00:00"
+  "LastUpdate_Ratings": "2023-11-02T08:01:19.1978423+00:00",
+  "LastUpdate_Achievements": "2023-11-02T08:08:35.0912445+00:00"
 }
