@@ -1,9 +1,9 @@
 {
   "ID": "3ee6cb949927486a847f9d81e61ff644",
   "Name": "cavatelli Production",
-  "Ranking_EOS_Progress": 718,
+  "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:48.4303444+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:02:50.0190167+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:06:25.5362218+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:03:52.9292488+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:08:49.5446107+00:00"
 }

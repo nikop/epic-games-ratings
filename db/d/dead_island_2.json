@@ -6045,10 +6045,10 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 710957,
-  "EOS_Completed": 2303,
-  "EOS_NewPlayers": 6231,
-  "EOS_NewCompleters": 36,
+  "EOS_Progressed": 710997,
+  "EOS_Completed": 2305,
+  "EOS_NewPlayers": 6228,
+  "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -28410,6 +28410,11 @@
       "Time": "2023-11-02T20:04:08.9730249+00:00",
       "NumProgressed": 710957,
       "NumCompleted": 2303
+    },
+    {
+      "Time": "2023-11-02T21:05:42.5758996+00:00",
+      "NumProgressed": 710997,
+      "NumCompleted": 2305
     }
   ],
   "TotalAchievements": 51,
@@ -28781,7 +28786,7 @@
       "Name": "One of Us",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_dark_magic",
@@ -28789,7 +28794,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_gardening_tools",
@@ -28797,7 +28802,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_pork_chops",
@@ -28805,7 +28810,7 @@
       "Name": "Pork Chopped",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -28813,7 +28818,7 @@
       "Name": "Wilhelm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_zombie_predator",
@@ -28821,29 +28826,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 710957,
-      "Completed": 2303
+      "Progressed": 710997,
+      "Completed": 2305
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 36499,
-      "Completed": 36353
+      "Progressed": 36539,
+      "Completed": 36355
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-02T19:01:19.5110714+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:04:08.9730245+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:05:42.5758992+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:00:02.9520647+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:04:08.9731845+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:01:49.7490208+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:05:42.5760613+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1159,9 +1159,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257964,
+  "EOS_Progressed": 257971,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20339,6 +20339,11 @@
       "Time": "2023-11-02T20:03:28.7649166+00:00",
       "NumProgressed": 257964,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T21:04:48.4707635+00:00",
+      "NumProgressed": 257971,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20350,7 +20355,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18057
+      "UsersEstimate": 18058
     },
     {
       "ID": "Act2",
@@ -20398,7 +20403,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79969
+      "UsersEstimate": 79971
     },
     {
       "ID": "BackHomeNTimes",
@@ -20406,7 +20411,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12898
+      "UsersEstimate": 12899
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -20454,7 +20459,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25796
+      "UsersEstimate": 25797
     },
     {
       "ID": "CreditLevel2",
@@ -20478,7 +20483,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12898
+      "UsersEstimate": 12899
     },
     {
       "ID": "CreedsInBank2",
@@ -20638,7 +20643,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59332
+      "UsersEstimate": 59333
     },
     {
       "ID": "KillOthers2",
@@ -20742,7 +20747,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25796
+      "UsersEstimate": 25797
     },
     {
       "ID": "ReachNDays2",
@@ -20797,7 +20802,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257964,
+      "Progressed": 257971,
       "Completed": 3
     }
   ],
@@ -20805,8 +20810,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-30T00:03:12.5174707+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:03:28.7649159+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:04:48.4707626+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:07.0523364+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:57:55.1911241+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:03:28.7650177+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:58:41.344728+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:04:48.4709161+00:00"
 }

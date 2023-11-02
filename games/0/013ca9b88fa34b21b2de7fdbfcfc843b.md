@@ -32,8 +32,8 @@ Rating: 4.60 (Ranked 407)
 | Azorian Anniversary | 6.00% | ~448 |
 | I Now Pronounce You... | 5.00% | ~373 |
 | Chatty Neighbor | 4.00% | ~299 |
+| House Proud | 4.00% | ~299 |
 | Right Tool For the Job | 3.00% | ~224 |
-| House Proud | 3.00% | ~224 |
 | Captain of Cozy | 2.00% | ~149 |
 | Angling Authority | 1.00% | ~75 |
 | Cloverfield Island | 0.20% | ~15 |

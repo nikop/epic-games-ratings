@@ -475,9 +475,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3037,
+  "EOS_Progressed": 3038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3915,6 +3915,11 @@
       "Time": "2023-11-02T19:07:57.2263974+00:00",
       "NumProgressed": 3037,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T21:08:43.9973694+00:00",
+      "NumProgressed": 3038,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -3927,7 +3932,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "achievement_10",
@@ -4023,7 +4028,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "achievement_21",
@@ -4055,7 +4060,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "achievement_6",
@@ -4094,7 +4099,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3037,
+      "Progressed": 3038,
       "Completed": 0
     }
   ],
@@ -4102,8 +4107,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-02T01:39:42.6542321+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:06:21.3476206+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:08:43.997369+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:57:25.4011663+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:06:21.3476482+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:57:55.8610564+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:08:43.9974079+00:00"
 }

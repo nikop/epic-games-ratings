@@ -50,15 +50,15 @@ Rating: 4.54 (Ranked 520)
 | Welcome To Hell-A | 0.10% | ~711 |
 | Rising Star | 0.10% | ~711 |
 | Bucket List | 0.10% | ~711 |
-| One of Us | 0.10% | ~36 |
-| Whatever It Takes | 0.10% | ~36 |
-| Lawn and Order | 0.10% | ~36 |
-| Pork Chopped | 0.10% | ~36 |
-| Wilhelm | 0.10% | ~36 |
-| Top That, Tisha! | 0.10% | ~36 |
+| One of Us | 0.10% | ~37 |
+| Whatever It Takes | 0.10% | ~37 |
+| Lawn and Order | 0.10% | ~37 |
+| Pork Chopped | 0.10% | ~37 |
+| Wilhelm | 0.10% | ~37 |
+| Top That, Tisha! | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 710,957 (Ranked 22)  
-Completed: 2,303 (0.32%) (Ranked 216)  
+Progressed: 710,997 (Ranked 22)  
+Completed: 2,305 (0.32%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,7 +253,7 @@ Completed: 2,303 (0.32%) (Ranked 216)
 | 2023-10-30 | 708,790 | 2,285 |
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
-| 2023-11-02 | 710,957 | 2,303 |
+| 2023-11-02 | 710,997 | 2,305 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 54)  
 Sum: 10,317 (Ranked 90)  

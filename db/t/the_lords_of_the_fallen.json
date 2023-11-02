@@ -4,10 +4,10 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 908,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -337,10 +337,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 186,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-11-02T21:04:13.23882+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 194,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 186,
+  "NumberOfAwards": 194,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -354,12 +360,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 72
+      "Count": 80
     }
   ],
   "EOS_Progressed": 1344,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1999,9 +2005,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-02T17:03:54.7087666+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:05:38.9041359+00:00",
+  "LastChanged": "2023-11-02T21:04:13.2388194+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:07:46.1434038+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.0141073+00:00",
-  "LastUpdate_Ratings": "2023-11-02T20:03:02.6431755+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:05:38.9042013+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:04:13.2388203+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:07:46.1435328+00:00"
 }

@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,008 (Ranked 59)  
+Progressed: 239,012 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,11 +341,11 @@ Completed: 286 (0.12%) (Ranked 260)
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
-| 2023-11-02 | 239,008 | 286 |
+| 2023-11-02 | 239,012 | 286 |
 ## Awards
-Max (Quickly Understood Controls): 1,502  (Ranked 128)  
+Max (Quickly Understood Controls): 1,502  (Ranked 129)  
 Sum: 11,647 (Ranked 83)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,506 |

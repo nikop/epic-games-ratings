@@ -4379,7 +4379,7 @@
   ],
   "EOS_Progressed": 89504,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24124,9 +24124,9 @@
       "ID": "ACH_0600",
       "SetID": "3kam13l",
       "Name": "Rockay Rex",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 716
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH_1010",
@@ -24179,8 +24179,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-02T17:57:12.9165962+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:08:44.9940057+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:10:11.3886341+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.3098014+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:57:01.866373+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:08:44.9941865+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:57:21.0213522+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:10:11.388787+00:00"
 }

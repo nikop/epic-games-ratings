@@ -6,24 +6,24 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,715 |
-| First Steps | 80.00% | ~35,024 |
-| Control the Shadows | 67.00% | ~29,333 |
-| Tools of the Trade | 63.00% | ~27,581 |
-| Apprentice | 60.00% | ~26,268 |
-| Secret Seeker | 57.00% | ~24,955 |
-| Forge of Assassins | 55.00% | ~24,079 |
-| Revenant | 52.00% | ~22,766 |
-| I don’t Care! | 45.00% | ~19,701 |
+| Awakening | 93.00% | ~40,717 |
+| First Steps | 80.00% | ~35,026 |
+| Control the Shadows | 67.00% | ~29,334 |
+| Tools of the Trade | 63.00% | ~27,583 |
+| Apprentice | 60.00% | ~26,269 |
+| Secret Seeker | 57.00% | ~24,956 |
+| Forge of Assassins | 55.00% | ~24,080 |
+| Revenant | 52.00% | ~22,767 |
+| I don’t Care! | 45.00% | ~19,702 |
 | Bird of Prey | 37.00% | ~16,199 |
 | Engraved with Power | 32.00% | ~14,010 |
 | Lady | 31.00% | ~13,572 |
 | Fashionable Assassin | 27.00% | ~11,821 |
-| Apex Predator | 24.00% | ~10,507 |
+| Apex Predator | 24.00% | ~10,508 |
 | Embers | 22.00% | ~9,632 |
 | Soul Reaver | 22.00% | ~9,632 |
 | Wall Lizard | 20.00% | ~8,756 |
-| Clinging to Life | 18.00% | ~7,880 |
+| Clinging to Life | 18.00% | ~7,881 |
 | Burning | 17.00% | ~7,443 |
 | Look Behind You | 16.00% | ~7,005 |
 | Sleeping on the Job | 16.00% | ~7,005 |
@@ -36,8 +36,8 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,940 |
 | Get Over Here | 9.00% | ~3,940 |
 | The Hidden Village | 9.00% | ~3,940 |
-| Denouement | 8.00% | ~3,502 |
-| A Pleasant Stay | 8.00% | ~3,502 |
+| Denouement | 8.00% | ~3,503 |
+| A Pleasant Stay | 8.00% | ~3,503 |
 | Pilgrimage | 7.00% | ~3,065 |
 | The Lookout | 5.00% | ~2,189 |
 | The Spirit of Vengeance | 5.00% | ~2,189 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~876 |
 | Legacy | 2.00% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,780 (Ranked 113)  
+Progressed: 43,782 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 239 (0.55%) (Ranked 187)
 | 2023-10-30 | 43,754 | 239 |
 | 2023-10-31 | 43,768 | 239 |
 | 2023-11-01 | 43,776 | 239 |
-| 2023-11-02 | 43,780 | 239 |
+| 2023-11-02 | 43,782 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

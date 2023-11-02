@@ -6,76 +6,76 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 141.00% | ~127 |
-| Adept Assembler | 113.00% | ~102 |
-| Greeno-B-Gone | 78.00% | ~70 |
-| Your Especially Earned Trajectory | 57.00% | ~51 |
-| Can We Keep It? | 39.00% | ~35 |
-| No Mountain Wide Enough | 29.00% | ~26 |
-| My Time Mansion | 27.00% | ~24 |
-| Yakmel Whisperer | 22.00% | ~20 |
-| Happier-est Place on Earth | 21.00% | ~19 |
-| You Don't Win Friends With Salad | 21.00% | ~19 |
-| Call Me Fishmael | 21.00% | ~19 |
-| Finishing Touches | 20.00% | ~18 |
-| Anti-Santa | 19.00% | ~17 |
-| Jewel of the Eufaula | 13.00% | ~12 |
-| I Do! | 13.00% | ~12 |
-| Knowledge is Power | 12.00% | ~11 |
+| Iron Chef | 157.00% | ~148 |
+| Adept Assembler | 122.00% | ~115 |
+| Greeno-B-Gone | 84.00% | ~79 |
+| Your Especially Earned Trajectory | 60.00% | ~56 |
+| Can We Keep It? | 40.00% | ~38 |
+| No Mountain Wide Enough | 30.00% | ~28 |
+| My Time Mansion | 27.00% | ~25 |
+| Happier-est Place on Earth | 23.00% | ~22 |
+| You Don't Win Friends With Salad | 22.00% | ~21 |
+| Call Me Fishmael | 22.00% | ~21 |
+| Finishing Touches | 21.00% | ~20 |
+| Yakmel Whisperer | 21.00% | ~20 |
+| Anti-Santa | 20.00% | ~19 |
+| On that Grindset | 17.00% | ~16 |
+| I Do! | 15.00% | ~14 |
+| Jewel of the Eufaula | 14.00% | ~13 |
+| Knowledge is Power | 13.00% | ~12 |
 | Officially Official | 12.00% | ~11 |
-| On that Grindset | 10.00% | ~9 |
-| Jack of All Trades | 7.00% | ~6 |
-| Better Late than Never | 7.00% | ~6 |
+| Better Late than Never | 9.00% | ~8 |
+| Jack of All Trades | 7.00% | ~7 |
+| First Love | 5.00% | ~5 |
 | Panda-kin | 4.00% | ~4 |
 | Pack Mule | 4.00% | ~4 |
-| First Love | 4.00% | ~4 |
+| Pro Gamer | 4.00% | ~4 |
+| Just What I Always Wanted! | 4.00% | ~4 |
+| Mole Masher | 4.00% | ~4 |
 | One of the Cool Kids | 3.00% | ~3 |
-| Just What I Always Wanted! | 3.00% | ~3 |
-| Pro Gamer | 2.00% | ~2 |
-| Mole Masher | 2.00% | ~2 |
-| Diamonds are Forever | 2.00% | ~2 |
-| Time Flies | 1.00% | ~1 |
+| Diamonds are Forever | 3.00% | ~3 |
+| Time Flies | 2.00% | ~2 |
+| Commissions, commissions...! | 1.00% | ~1 |
 | Kind of a Big Deal | 1.00% | ~1 |
 | Bridging the Gap | 1.00% | ~1 |
 | Martle's Dream | 1.00% | ~1 |
+| What Plants Crave | 1.00% | ~1 |
+| He Can Spin A Yarn... | 1.00% | ~1 |
 | Cardistry | 1.00% | ~1 |
+| Chatterbox | 1.00% | ~1 |
 | Sandrock's Hottest Club | 1.00% | ~1 |
+| Unboxing | 1.00% | ~1 |
+| Waste Not Want Not | 1.00% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |
-| Commissions, commissions...! | 0.00% | ~0 |
 | Financially Secure | 0.00% | ~0 |
 | Builder of the Month | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
-| What Plants Crave | 0.00% | ~0 |
 | Sepia Toned Memories | 0.00% | ~0 |
-| He Can Spin A Yarn... | 0.00% | ~0 |
 | Elementary, My Dear | 0.00% | ~0 |
 | Lifeline Pipeline | 0.00% | ~0 |
 | Got the Flow Back | 0.00% | ~0 |
-| Chatterbox | 0.00% | ~0 |
 | Got Served | 0.00% | ~0 |
 | Who Ya Gonna Call...? | 0.00% | ~0 |
 | Santa In Training | 0.00% | ~0 |
 | Got the Receipt? | 0.00% | ~0 |
 | Sandrunning Speedster | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
-| Unboxing | 0.00% | ~0 |
 | Do Your Part | 0.00% | ~0 |
-| Waste Not Want Not | 0.00% | ~0 |
 | Newton | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90 (Ranked 416)  
+Progressed: 94 (Ranked 413)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-02 | 90 | 0 |
+| 2023-11-02 | 94 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
-Sum: 1,298 (Ranked 236)  
+Sum: 1,299 (Ranked 236)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -83,7 +83,7 @@ Diff (max vs sum): -42
 | This game is Great for Beginners | 93 |
 | This game is Highly Recommended | 84 |
 | This game is Extremely Fun | 79 |
-| This game has Quickly Understood Controls | 76 |
+| This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 72 |
 | This game has Amazing Characters | 68 |
 | This game is Relaxing | 68 |
@@ -244,4 +244,4 @@ Diff (max vs sum): -42
 | 2023-10-28 | 4.68 | - | 575 | 1,237 |
 | 2023-10-29 | 4.68 | - | 575 | 1,291 |
 | 2023-10-30 | 4.68 | - | 575 | 1,293 |
-| 2023-11-02 | 4.68 | - | 576 | 1,298 |
+| 2023-11-02 | 4.68 | - | 576 | 1,299 |

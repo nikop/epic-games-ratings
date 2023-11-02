@@ -18,10 +18,10 @@ Rating: 3.38 (Ranked 1,031)
 | Fighting for Survival | 9.00% | ~157 |
 | Keeping Busy | 9.00% | ~157 |
 | Stocking Up | 9.00% | ~157 |
+| Exterminator | 8.00% | ~140 |
 | Silver Competitor | 8.00% | ~140 |
 | Captain | 8.00% | ~140 |
 | Factory Expansion | 8.00% | ~140 |
-| Exterminator | 7.00% | ~122 |
 | Brothers in Arms | 6.00% | ~105 |
 | Know The Enemy | 5.00% | ~87 |
 | Player Betrayer | 5.00% | ~87 |

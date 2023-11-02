@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -51,9 +51,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3823,
+  "EOS_Progressed": 3825,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1697,
+  "EOS_NewPlayers": 1666,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1786,6 +1786,11 @@
       "Time": "2023-11-02T20:08:49.8304648+00:00",
       "NumProgressed": 3823,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-02T21:10:17.6950313+00:00",
+      "NumProgressed": 3825,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1940,9 +1945,9 @@
       "ID": "Nasty",
       "SetID": "acc6ea0",
       "Name": "Nasty!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 459
     },
     {
       "ID": "NoMoreTotems",
@@ -2036,9 +2041,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 230
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2069,7 +2074,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3823,
+      "Progressed": 3825,
       "Completed": 3
     }
   ],
@@ -2077,8 +2082,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-01T18:01:19.2593354+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:08:49.8304643+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:10:17.6950303+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:57:09.3754343+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:08:49.830503+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:57:33.6110051+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:10:17.6950674+00:00"
 }

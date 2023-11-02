@@ -5,9 +5,9 @@
   "Ranking_Rating": 657,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 17,
-  "Ranking_EOS_Progress": 718,
+  "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -13160,10 +13160,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 96016,
       "NumberOfAwardsMax": 12159
+    },
+    {
+      "Time": "2023-11-02T21:01:20.0654576+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 96044,
+      "NumberOfAwardsMax": 12159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 96016,
+  "NumberOfAwards": 96044,
   "NumberOfAwardsMax": 12159,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -13177,13 +13183,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10151
+      "Count": 10162
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9497
+      "Count": 9506
     },
     {
       "Text": "This game is Relaxing",
@@ -13231,7 +13237,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 6240
+      "Count": 6248
     }
   ],
   "EOS_Progressed": 0,
@@ -13245,8 +13251,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-11-02T17:01:09.6768517+00:00",
+  "LastChanged": "2023-11-02T21:01:20.0654571+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:56.2711045+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:59:41.7355882+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:05:02.5984942+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:01:20.065458+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:06:56.9481568+00:00"
 }

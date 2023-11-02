@@ -697,9 +697,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_10",
@@ -785,9 +785,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_20",
@@ -929,9 +929,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_49",
@@ -1082,8 +1082,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-10-19T01:40:50.9497834+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:03:38.0237078+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:05:01.0955638+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:59:17.76082+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:03:38.0237473+00:00"
+  "LastUpdate_Ratings": "2023-11-02T21:00:46.9021283+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:05:01.0956129+00:00"
 }

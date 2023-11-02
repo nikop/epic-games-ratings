@@ -2322,9 +2322,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 613
     },
     {
       "ID": "AC07",
@@ -2651,8 +2651,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-10-20T16:58:11.272097+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:09:13.3694507+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:10:50.4131648+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.1696365+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:58:03.5113187+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:09:13.3694956+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:58:52.5351432+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:10:50.4132105+00:00"
 }

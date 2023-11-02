@@ -6,17 +6,17 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,534 |
-| Worker Specialization | 77.00% | ~5,534 |
+| Colonize a Planet | 77.00% | ~5,535 |
+| Worker Specialization | 77.00% | ~5,535 |
 | First Contact | 72.00% | ~5,175 |
 | Win a Battle | 65.00% | ~4,672 |
-| Anomaly Researcher | 61.00% | ~4,384 |
-| Unleash My Power | 61.00% | ~4,384 |
+| Anomaly Researcher | 61.00% | ~4,385 |
+| Unleash My Power | 61.00% | ~4,385 |
 | Own 30 Planets | 33.00% | ~2,372 |
 | Xenocide | 31.00% | ~2,228 |
 | Design a Civilization | 31.00% | ~2,228 |
 | Commodity Trader | 30.00% | ~2,156 |
-| Design a Ship | 27.00% | ~1,940 |
+| Design a Ship | 27.00% | ~1,941 |
 | Commodity Seller | 24.00% | ~1,725 |
 | Prestige Victory! | 13.00% | ~934 |
 | Galactic War | 10.00% | ~719 |
@@ -26,8 +26,8 @@ Number of Ratings: 429  (23.09.2022)
 | Gain an Ally | 6.00% | ~431 |
 | Win with a Custom Faction | 6.00% | ~431 |
 | War with the Unknown | 5.00% | ~359 |
-| Conquest Victory! | 4.00% | ~287 |
-| Win Quickly | 4.00% | ~287 |
+| Conquest Victory! | 4.00% | ~288 |
+| Win Quickly | 4.00% | ~288 |
 | Pirate Cleansing | 3.00% | ~216 |
 | Win an Immense Game | 3.00% | ~216 |
 | Artifact Mastery | 2.00% | ~144 |
@@ -39,7 +39,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 0.90% | ~65 |
 | Win as Festron | 0.90% | ~65 |
 | Win as the Navigators | 0.90% | ~65 |
-| Win as Torians | 0.80% | ~57 |
+| Win as Torians | 0.80% | ~58 |
 | Win as the Drengin | 0.70% | ~50 |
 | Win as the Krynn | 0.70% | ~50 |
 | Win as the Manti | 0.70% | ~50 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,187 (Ranked 168)  
+Progressed: 7,188 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,11 +275,11 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 7,163 | 0 |
 | 2023-10-31 | 7,165 | 0 |
 | 2023-11-01 | 7,177 | 0 |
-| 2023-11-02 | 7,187 | 0 |
+| 2023-11-02 | 7,188 | 0 |
 ## Awards
-Max (Diverse Characters): 94  (Ranked 367)  
+Max (Diverse Characters): 94  (Ranked 368)  
 Sum: 681 (Ranked 295)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 94 |

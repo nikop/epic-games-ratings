@@ -1386,9 +1386,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10044,
+  "EOS_Progressed": 10045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16206,6 +16206,11 @@
       "Time": "2023-11-02T20:08:33.0343264+00:00",
       "NumProgressed": 10044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T21:09:54.7919317+00:00",
+      "NumProgressed": 10045,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16225,7 +16230,7 @@
       "Name": "Friendly",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "11",
@@ -16249,7 +16254,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "14",
@@ -16265,7 +16270,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "16",
@@ -16273,7 +16278,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "17",
@@ -16295,9 +16300,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5223
+      "UsersEstimate": 5324
     },
     {
       "ID": "2",
@@ -16305,7 +16310,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "20",
@@ -16329,7 +16334,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7332
+      "UsersEstimate": 7333
     },
     {
       "ID": "23",
@@ -16353,7 +16358,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "26",
@@ -16361,7 +16366,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "27",
@@ -16425,7 +16430,7 @@
       "Name": "Around the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "34",
@@ -16441,7 +16446,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "36",
@@ -16457,7 +16462,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "38",
@@ -16465,7 +16470,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4419
+      "UsersEstimate": 4420
     },
     {
       "ID": "39",
@@ -16481,7 +16486,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "40",
@@ -16537,7 +16542,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "47",
@@ -16688,15 +16693,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10044,
+      "Progressed": 10045,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-02T17:57:08.0386111+00:00",
-  "LastChanged_Achievements": "2023-11-02T20:08:33.034326+00:00",
+  "LastChanged_Achievements": "2023-11-02T21:09:54.7919312+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:56:58.0331668+00:00",
-  "LastUpdate_Achievements": "2023-11-02T20:08:33.0345045+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:57:15.0884017+00:00",
+  "LastUpdate_Achievements": "2023-11-02T21:09:54.7920752+00:00"
 }

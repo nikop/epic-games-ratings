@@ -16,8 +16,8 @@ Rating: 3.94 (Ranked 1,002)
 | Off the Rocks | 0.90% | ~806 |
 | Raider’s Ruin | 0.90% | ~806 |
 | Dragonslayer | 0.90% | ~806 |
+| Rockay Rex | 0.90% | ~806 |
 | Case Closed | 0.80% | ~716 |
-| Rockay Rex | 0.80% | ~716 |
 | Hidden Sonata | 0.70% | ~627 |
 | Track Star | 0.60% | ~537 |
 | Headhunter | 0.60% | ~537 |

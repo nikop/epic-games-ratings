@@ -6,10 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 0.70% | ~6,265 |
+| V for Vendetta | 0.80% | ~7,160 |
 | Gun Fu | 0.40% | ~3,580 |
 | Relic Ruler | 0.30% | ~71 |
 | Full Body Conversion | 0.20% | ~1,790 |
+| True Soldier | 0.20% | ~1,790 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -45,7 +46,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.10% | ~895 |
 | Greetings from Pacifica! | 0.10% | ~895 |
 | The Jungle | 0.10% | ~895 |
-| True Soldier | 0.10% | ~895 |
 | True Warrior | 0.10% | ~895 |
 | Two Heads, One Bullet | 0.10% | ~895 |
 | Judy vs Night City | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,945 (Ranked 15)  
+Progressed: 894,954 (Ranked 15)  
 Completed: 2,738 (0.31%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 2,738 (0.31%) (Ranked 217)
 | 2023-10-30 | 894,580 | 2,734 |
 | 2023-10-31 | 894,703 | 2,736 |
 | 2023-11-01 | 894,844 | 2,736 |
-| 2023-11-02 | 894,945 | 2,738 |
+| 2023-11-02 | 894,954 | 2,738 |
 ## Awards
 Max (Character Customization): 103,503  (Ranked 9)  
-Sum: 339,365 (Ranked 10)  
+Sum: 339,428 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 18,367 |
 | This game is Relaxing | 17,699 |
 | This game has Quickly Understood Controls | 17,627 |
-| This game has a Creative Community | 12,206 |
+| This game has a Creative Community | 12,269 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -578,4 +578,4 @@ Diff (max vs sum): -1
 | 2023-10-30 | 4.64 | - | 102,927 | 335,582 |
 | 2023-10-31 | 4.64 | - | 103,117 | 336,927 |
 | 2023-11-01 | 4.64 | - | 103,284 | 338,204 |
-| 2023-11-02 | 4.64 | - | 103,503 | 339,365 |
+| 2023-11-02 | 4.64 | - | 103,503 | 339,428 |

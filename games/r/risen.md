@@ -24,10 +24,10 @@ Rating: 4.57 (Ranked 466)
 | Sidelined | 33.00% | ~7 |
 | Wise man | 29.00% | ~6 |
 | Family man | 29.00% | ~6 |
+| Death of a legend | 29.00% | ~6 |
 | Hard worker | 29.00% | ~6 |
 | Workaholic | 29.00% | ~6 |
 | Fence | 29.00% | ~6 |
-| Death of a legend | 24.00% | ~5 |
 | Archaeologist | 24.00% | ~5 |
 | Defender | 24.00% | ~5 |
 | Pandora's box | 24.00% | ~5 |

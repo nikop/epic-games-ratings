@@ -12,8 +12,8 @@
 | Don't fear the baldness | 42.00% | ~90 |
 | Instinct | 39.00% | ~83 |
 | Blow | 38.00% | ~81 |
+| I bless the rain down in London | 34.00% | ~73 |
 | Just like me | 34.00% | ~73 |
-| I bless the rain down in London | 33.00% | ~71 |
 | Brown nosing | 29.00% | ~62 |
 | Cheat | 29.00% | ~62 |
 | Delusions | 29.00% | ~62 |
