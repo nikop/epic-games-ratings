@@ -8191,10 +8191,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28142,
       "NumberOfAwardsMax": 7571
+    },
+    {
+      "Time": "2023-11-02T19:58:42.9021055+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28144,
+      "NumberOfAwardsMax": 7571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28142,
+  "NumberOfAwards": 28144,
   "NumberOfAwardsMax": 7571,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8208,7 +8214,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5549
+      "Count": 5551
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8277,9 +8283,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 806887,
+  "EOS_Progressed": 806888,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 803,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30262,6 +30268,11 @@
       "Time": "2023-11-02T19:07:39.1060977+00:00",
       "NumProgressed": 806887,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-02T20:06:07.1795662+00:00",
+      "NumProgressed": 806888,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30345,7 +30356,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32275
+      "UsersEstimate": 32276
     },
     {
       "ID": "BlacksmithsSon",
@@ -30369,7 +30380,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96826
+      "UsersEstimate": 96827
     },
     {
       "ID": "Casanova",
@@ -30569,7 +30580,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32275
+      "UsersEstimate": 32276
     },
     {
       "ID": "ICanStop",
@@ -30745,7 +30756,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32275
+      "UsersEstimate": 32276
     },
     {
       "ID": "Ranger",
@@ -30753,7 +30764,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161377
+      "UsersEstimate": 161378
     },
     {
       "ID": "RevenantOfLedechko",
@@ -30793,7 +30804,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161377
+      "UsersEstimate": 161378
     },
     {
       "ID": "SerialKiller",
@@ -30849,7 +30860,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96826
+      "UsersEstimate": 96827
     },
     {
       "ID": "TisButAScratch",
@@ -30928,15 +30939,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 806887,
+      "Progressed": 806888,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-02T17:59:46.9195728+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:07:39.1060975+00:00",
+  "LastChanged": "2023-11-02T19:58:42.9021053+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:06:07.1795659+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:14.6949247+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:59:36.3394055+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:07:39.1062879+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:58:42.9021059+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:06:07.1798125+00:00"
 }

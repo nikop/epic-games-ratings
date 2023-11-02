@@ -27,26 +27,26 @@
 | The Apartment | 24.00% | ~7 |
 | A rude awakening | 21.00% | ~6 |
 | Nathaniel Dryden | 21.00% | ~6 |
+| Well-acquainted | 17.00% | ~5 |
+| Truth from within | 17.00% | ~5 |
+| Anastasia Babanin | 17.00% | ~5 |
+| Zakariya Demir | 17.00% | ~5 |
 | Bartholomew | 17.00% | ~5 |
 | The Scheme | 17.00% | ~5 |
-| Well-acquainted | 14.00% | ~4 |
-| Truth from within | 14.00% | ~4 |
-| Anastasia Babanin | 14.00% | ~4 |
-| Zakariya Demir | 14.00% | ~4 |
-| A curious phrase | 10.00% | ~3 |
+| A curious phrase | 14.00% | ~4 |
+| Evelyn Lakshmi Warbeck | 10.00% | ~3 |
+| Johan Kristiansen | 10.00% | ~3 |
+| The Suspects | 10.00% | ~3 |
 | The Denouement | 7.00% | ~2 |
 | Well-travelled | 7.00% | ~2 |
 | A treasured heirloom | 7.00% | ~2 |
 | A peculiar fellow | 7.00% | ~2 |
 | The Penitent Magdalene | 7.00% | ~2 |
 | A true performance | 7.00% | ~2 |
-| Evelyn Lakshmi Warbeck | 7.00% | ~2 |
 | Florence Farquhar | 7.00% | ~2 |
 | Horace Mountjoy | 7.00% | ~2 |
-| Johan Kristiansen | 7.00% | ~2 |
 | Mortimer Ailsworth | 7.00% | ~2 |
 | Perkins | 7.00% | ~2 |
-| The Suspects | 7.00% | ~2 |
 | The Secrets | 7.00% | ~2 |
 | The Investigation Starts Anew | 7.00% | ~2 |
 | A perilous journey | 3.00% | ~1 |

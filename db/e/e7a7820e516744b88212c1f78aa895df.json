@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1056,9 +1056,9 @@
       "ID": "achSponsor20",
       "SetID": "7ji07dj",
       "Name": "Corporate Cooperator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "achSponsor5",
@@ -1191,8 +1191,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:05:26.4485533+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:04:26.185055+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:19.6547048+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:00:10.8870922+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:05:26.4485761+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:59:12.5154846+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:04:26.1850786+00:00"
 }

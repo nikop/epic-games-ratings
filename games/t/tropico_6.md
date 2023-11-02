@@ -6,10 +6,10 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,318 |
-| Un-Lonely Island | 47.00% | ~2,706 |
-| The Beginning of a Servantship | 45.00% | ~2,591 |
-| Trade Is My Trait | 37.00% | ~2,130 |
+| Just One...More...Term... | 75.00% | ~4,319 |
+| Un-Lonely Island | 47.00% | ~2,707 |
+| The Beginning of a Servantship | 45.00% | ~2,592 |
+| Trade Is My Trait | 37.00% | ~2,131 |
 | Number 18 | 24.00% | ~1,382 |
 | We Don't Have Time For That | 19.00% | ~1,094 |
 | The Governator | 17.00% | ~979 |
@@ -26,8 +26,8 @@ Number of Ratings: 398  (23.09.2022)
 | I Owe You Nothing | 7.00% | ~403 |
 | Make Tropico Great Again! | 7.00% | ~403 |
 | French Connection | 7.00% | ~403 |
-| Don't Panic! | 6.00% | ~345 |
-| Beware The Betman | 6.00% | ~345 |
+| Don't Panic! | 6.00% | ~346 |
+| Beware The Betman | 6.00% | ~346 |
 | Viva Tropico! | 5.00% | ~288 |
 | Computer Says "No" | 5.00% | ~288 |
 | Watch The World Burn | 5.00% | ~288 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~52 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,758 (Ranked 178)  
+Progressed: 5,759 (Ranked 178)  
 Completed: 2 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,17 +243,17 @@ Completed: 2 (0.03%) (Ranked 304)
 | 2023-10-30 | 5,732 | 2 |
 | 2023-10-31 | 5,740 | 2 |
 | 2023-11-01 | 5,754 | 2 |
-| 2023-11-02 | 5,758 | 2 |
+| 2023-11-02 | 5,759 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 354)  
-Sum: 723 (Ranked 289)  
+Sum: 724 (Ranked 289)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 102 |
 | This game is Highly Recommended | 101 |
-| This game is Relaxing | 96 |
+| This game is Relaxing | 97 |
 | This game has Amazing Storytelling | 92 |
 | This game is Educational | 89 |
 | This game is Extremely Fun | 88 |
@@ -420,3 +420,4 @@ Diff (max vs sum): 65
 | 2023-10-26 | 4.65 | - | 102 | 719 |
 | 2023-10-28 | 4.65 | - | 102 | 721 |
 | 2023-11-01 | 4.65 | - | 102 | 723 |
+| 2023-11-02 | 4.65 | - | 102 | 724 |

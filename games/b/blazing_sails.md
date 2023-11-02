@@ -4,8 +4,8 @@
 Rating: 3.88 (Ranked 1,010)  
 ## Awards
 Max (Extremely Fun): 169  (Ranked 302)  
-Sum: 1,051 (Ranked 248)  
-Diff (max vs sum): 54  
+Sum: 1,051 (Ranked 249)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 181 |

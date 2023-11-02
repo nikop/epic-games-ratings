@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Introduction completed | 76.00% | ~16 |
-| Chapter 1 | 38.00% | ~8 |
+| Chapter 1 | 43.00% | ~9 |
 | Chapter 2 | 38.00% | ~8 |
 | Your Days Are Numbered | 38.00% | ~8 |
+| It's In My Nature | 38.00% | ~8 |
 | Chapter 3 | 33.00% | ~7 |
 | Chapter 4 | 33.00% | ~7 |
 | All Materials | 33.00% | ~7 |
-| It's In My Nature | 33.00% | ~7 |
 | Chapter 5 | 29.00% | ~6 |
 | Chapter 6 | 19.00% | ~4 |
 | Ads Fan | 14.00% | ~3 |

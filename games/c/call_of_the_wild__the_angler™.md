@@ -1,24 +1,24 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.17 (Ranked 924)  
+Rating: 4.17 (Ranked 923)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 0.90% | ~56 |
+| Hey Good Hookin | 0.80% | ~50 |
 | Can you smell what the Rod is Hooking | 0.70% | ~44 |
-| Hey Good Hookin | 0.70% | ~44 |
+| I'm on a Boat! | 0.70% | ~44 |
 | More Fish in the Sea | 0.70% | ~44 |
-| I'm on a Boat! | 0.60% | ~37 |
-| Scaling up | 0.60% | ~37 |
-| Ready to Rod and Roll | 0.40% | ~25 |
+| Scaling up | 0.70% | ~44 |
+| Ready to Rod and Roll | 0.50% | ~31 |
+| Fish Out of Water | 0.40% | ~25 |
 | Things that go Splash in the Night | 0.40% | ~25 |
-| Fish Out of Water | 0.30% | ~19 |
 | Goldfish? | 0.30% | ~19 |
 | Going for Gold | 0.30% | ~19 |
+| Live by the Rod, Diez by the Rod! | 0.30% | ~17 |
 | License to Gill | 0.20% | ~12 |
-| Live by the Rod, Diez by the Rod! | 0.20% | ~11 |
 | Aguas Claras Conquistador | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,237 (Ranked 176)  
+Progressed: 6,240 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-30 | 6,167 | 0 |
 | 2023-10-31 | 6,177 | 0 |
 | 2023-11-01 | 6,212 | 0 |
-| 2023-11-02 | 6,237 | 0 |
+| 2023-11-02 | 6,240 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 186 (Ranked 402)  

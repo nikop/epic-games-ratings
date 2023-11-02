@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7186,
+  "EOS_Progressed": 7187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8065,6 +8065,11 @@
       "Time": "2023-11-02T19:05:22.5805934+00:00",
       "NumProgressed": 7186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-02T20:04:23.348441+00:00",
+      "NumProgressed": 7187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8116,7 +8121,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "Control_All_Relics",
@@ -8180,7 +8185,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5533
+      "UsersEstimate": 5534
     },
     {
       "ID": "First_Race_Met",
@@ -8188,7 +8193,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "First_Ship_Designed",
@@ -8212,7 +8217,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5533
+      "UsersEstimate": 5534
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8292,7 +8297,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "Play_1000_Hours",
@@ -8396,7 +8401,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8564,7 +8569,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8651,15 +8656,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7186,
+      "Progressed": 7187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:05:22.5805931+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:04:23.3484403+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:00:35.2122701+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:05:22.5806683+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:59:33.3990026+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:04:23.3485241+00:00"
 }

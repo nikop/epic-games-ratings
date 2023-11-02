@@ -126,12 +126,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.70% | ~106 |
 | Veneration | 0.70% | ~106 |
 | Mounted Lancer | 0.70% | ~106 |
+| Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
 | Devout | 0.60% | ~91 |
 | Clerics | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
-| Turreted Elephant | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | The Great Mage | 0.60% | ~91 |
 | Kmt Unified | 0.60% | ~91 |
@@ -272,6 +272,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 4 - Strong | 0.10% | ~15 |
 | Macedonian Wars | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
+| Merchants of the Levant | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
 | Play a 1-v-1 Game | 0.10% | ~15 |
 | Play a Hotseat Game | 0.10% | ~15 |
@@ -345,11 +346,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
-| Merchants of the Levant | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,100 (Ranked 144)  
+Progressed: 15,104 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -545,7 +545,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-30 | 15,055 | 5 |
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
-| 2023-11-02 | 15,100 | 5 |
+| 2023-11-02 | 15,104 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,866 (Ranked 212)  

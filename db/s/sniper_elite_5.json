@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3811,
+  "EOS_Progressed": 3812,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7621,6 +7621,11 @@
       "Time": "2023-11-02T13:08:31.0855312+00:00",
       "NumProgressed": 3811,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-02T20:04:15.4615946+00:00",
+      "NumProgressed": 3812,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7712,7 +7717,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7768,7 +7773,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7784,7 +7789,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7840,7 +7845,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7968,7 +7973,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8128,7 +8133,7 @@
       "Name": "Siegebreaker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8199,13 +8204,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3762,
+      "Progressed": 3763,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3811,
+      "Progressed": 3812,
       "Completed": 11
     }
   ],
@@ -8213,8 +8218,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:05:11.9572831+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:04:15.4615942+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:01:57.6924609+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:05:11.9573577+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:00:36.2123917+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:04:15.4617075+00:00"
 }

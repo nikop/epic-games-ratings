@@ -2,9 +2,9 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -1300,6 +1300,11 @@
       "Time": "2023-11-02T13:10:20.6974958+00:00",
       "NumProgressed": 613,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-02T20:06:12.3487578+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1311,7 +1316,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1383,7 +1388,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1399,7 +1404,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "GOOD_KARMA",
@@ -1455,7 +1460,7 @@
       "Name": "Shill Bidder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1463,14 +1468,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 8
     }
   ],
@@ -1478,8 +1483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:07:45.2124271+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:06:12.3487572+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:02:02.4638165+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:07:45.2124429+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:00:38.4502345+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:06:12.3487786+00:00"
 }

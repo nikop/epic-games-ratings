@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.00% | ~0 |
 | Near Death Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,005 (Ranked 59)  
+Progressed: 239,008 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,10 +341,10 @@ Completed: 286 (0.12%) (Ranked 260)
 | 2023-10-30 | 238,853 | 286 |
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
-| 2023-11-02 | 239,005 | 286 |
+| 2023-11-02 | 239,008 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,502  (Ranked 128)  
-Sum: 11,646 (Ranked 83)  
+Sum: 11,647 (Ranked 83)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): 45
 | This game is Relaxing | 1,433 |
 | This game has Challenging Combat | 1,432 |
 | This game is Extremely Fun | 1,409 |
-| This game is Highly Recommended | 1,376 |
+| This game is Highly Recommended | 1,377 |
 | This game has Amazing Storytelling | 1,320 |
 | This game has Amazing Characters | 1,222 |
 | This game has Unique Visuals | 1,213 |
@@ -558,4 +558,4 @@ Diff (max vs sum): 45
 | 2023-10-30 | 4.58 | - | 1,500 | 11,640 |
 | 2023-10-31 | 4.58 | - | 1,500 | 11,641 |
 | 2023-11-01 | 4.58 | - | 1,500 | 11,643 |
-| 2023-11-02 | 4.58 | - | 1,502 | 11,646 |
+| 2023-11-02 | 4.58 | - | 1,502 | 11,647 |

@@ -6,38 +6,38 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,689 |
-| Overkill | 34.00% | ~6,080 |
-| Vaccine Incoming | 33.00% | ~5,901 |
-| A normal day in Gloomhaven | 33.00% | ~5,901 |
-| Spread the plague | 30.00% | ~5,365 |
-| Get over here! | 25.00% | ~4,470 |
-| Just when I thought I was out... | 19.00% | ~3,398 |
-| Precious! | 17.00% | ~3,040 |
-| Mine... All Mine... | 17.00% | ~3,040 |
-| Light of my life | 15.00% | ~2,682 |
-| Anatomy Lesson | 15.00% | ~2,682 |
-| Grizzled veteran | 14.00% | ~2,503 |
-| You activated my trap card! | 13.00% | ~2,325 |
-| Obstacle race | 13.00% | ~2,325 |
-| Augmented rat | 12.00% | ~2,146 |
-| Doom and gloom | 11.00% | ~1,967 |
-| Who's the Boss? | 10.00% | ~1,788 |
-| Dungeon Veteran | 8.00% | ~1,431 |
-| Pack leader | 8.00% | ~1,431 |
-| Pain is your friend | 8.00% | ~1,431 |
-| Black death | 8.00% | ~1,431 |
-| Play it again, Sam | 8.00% | ~1,431 |
-| Quad damage | 6.00% | ~1,073 |
-| Power Up! | 5.00% | ~894 |
-| The Pro from Dover | 5.00% | ~894 |
-| Pretty lights! | 5.00% | ~894 |
-| Now you see me... | 5.00% | ~894 |
-| Caught off guard | 4.00% | ~715 |
-| I hate portals | 3.00% | ~536 |
-| Merchant of doom | 3.00% | ~536 |
-| An eye for an eye | 3.00% | ~536 |
-| Grin and bear it | 3.00% | ~536 |
+| I'm not dead yet | 43.00% | ~7,696 |
+| Overkill | 34.00% | ~6,085 |
+| Vaccine Incoming | 33.00% | ~5,906 |
+| A normal day in Gloomhaven | 33.00% | ~5,906 |
+| Spread the plague | 30.00% | ~5,369 |
+| Get over here! | 25.00% | ~4,474 |
+| Just when I thought I was out... | 19.00% | ~3,400 |
+| Precious! | 17.00% | ~3,042 |
+| Mine... All Mine... | 17.00% | ~3,042 |
+| Light of my life | 15.00% | ~2,685 |
+| Anatomy Lesson | 15.00% | ~2,685 |
+| Grizzled veteran | 14.00% | ~2,506 |
+| You activated my trap card! | 13.00% | ~2,327 |
+| Obstacle race | 13.00% | ~2,327 |
+| Augmented rat | 12.00% | ~2,148 |
+| Doom and gloom | 11.00% | ~1,969 |
+| Who's the Boss? | 10.00% | ~1,790 |
+| Dungeon Veteran | 8.00% | ~1,432 |
+| Pack leader | 8.00% | ~1,432 |
+| Pain is your friend | 8.00% | ~1,432 |
+| Black death | 8.00% | ~1,432 |
+| Play it again, Sam | 8.00% | ~1,432 |
+| Quad damage | 6.00% | ~1,074 |
+| Power Up! | 5.00% | ~895 |
+| The Pro from Dover | 5.00% | ~895 |
+| Pretty lights! | 5.00% | ~895 |
+| Now you see me... | 5.00% | ~895 |
+| Caught off guard | 4.00% | ~716 |
+| I hate portals | 3.00% | ~537 |
+| Merchant of doom | 3.00% | ~537 |
+| An eye for an eye | 3.00% | ~537 |
+| Grin and bear it | 3.00% | ~537 |
 | From Gloom, only greed and death emerges | 2.00% | ~358 |
 | The Rat King | 2.00% | ~358 |
 | How to train your Drake | 2.00% | ~358 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~18 |
 | Hard-travelling Heroes | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,882 (Ranked 135)  
+Progressed: 17,897 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 1 (0.01%) (Ranked 317)
 | 2023-10-30 | 17,315 | 1 |
 | 2023-10-31 | 17,501 | 1 |
 | 2023-11-01 | 17,722 | 1 |
-| 2023-11-02 | 17,882 | 1 |
+| 2023-11-02 | 17,897 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
-Sum: 8,330 (Ranked 98)  
+Sum: 8,331 (Ranked 98)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -133,7 +133,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 488 |
 | This game is Relaxing | 487 |
 | This game has Amazing Storytelling | 486 |
-| This game has Quickly Understood Controls | 484 |
+| This game has Quickly Understood Controls | 485 |
 | This game has Unique Visuals | 379 |
 | This game has a Creative Community | 214 |
 | This game has Obsessive Gameplay | 152 |
@@ -347,4 +347,4 @@ Diff (max vs sum): -8
 | 2023-10-29 | 4.47 | - | 3,563 | 8,323 |
 | 2023-10-31 | 4.47 | - | 3,565 | 8,327 |
 | 2023-11-01 | 4.47 | - | 3,565 | 8,328 |
-| 2023-11-02 | 4.47 | - | 3,565 | 8,330 |
+| 2023-11-02 | 4.47 | - | 3,565 | 8,331 |

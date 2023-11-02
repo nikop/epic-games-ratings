@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 90.00% | ~896 |
-| Off to a good start | 68.00% | ~677 |
+| Off to a good start | 69.00% | ~687 |
 | Do... or do not. There is no try | 51.00% | ~507 |
 | A good blaster at your side | 33.00% | ~328 |
 | I suggest a new strategy | 20.00% | ~199 |

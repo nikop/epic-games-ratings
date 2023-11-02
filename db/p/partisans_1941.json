@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1542,
+  "EOS_Progressed": 1543,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3294,6 +3294,11 @@
       "Time": "2023-11-02T17:04:16.8128316+00:00",
       "NumProgressed": 1542,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T20:03:17.1572829+00:00",
+      "NumProgressed": 1543,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3417,7 +3422,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "Hard_Serpent",
@@ -3457,7 +3462,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "KillAllM2",
@@ -3489,7 +3494,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MoskitoBite",
@@ -3544,15 +3549,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1542,
+      "Progressed": 1543,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:03:57.4412917+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:03:17.1572824+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:01:33.1955185+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:03:57.441326+00:00"
+  "LastUpdate_Ratings": "2023-11-02T20:00:16.0247094+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:03:17.1573322+00:00"
 }

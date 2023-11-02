@@ -16,22 +16,22 @@
 | A good beginning | 14.00% | ~51 |
 | The darkness | 14.00% | ~51 |
 | One last step | 14.00% | ~51 |
+| In this together | 13.00% | ~47 |
 | Peace walker | 13.00% | ~47 |
 | Half the way | 13.00% | ~47 |
-| In this together | 12.00% | ~44 |
 | Champollion | 12.00% | ~44 |
 | Feels like springtime | 11.00% | ~40 |
 | Alchemists Express | 11.00% | ~40 |
 | Open door | 10.00% | ~36 |
 | Free at last | 9.00% | ~33 |
 | A Link to the Past | 9.00% | ~33 |
+| For its own good | 7.00% | ~25 |
 | Rascal | 7.00% | ~25 |
 | A great audience | 6.00% | ~22 |
-| For its own good | 6.00% | ~22 |
 | Fashion victim | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 364 (Ranked 314)  
-Completed: 23 (6.32%) (Ranked 57)  
+Completed: 23 (6.32%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

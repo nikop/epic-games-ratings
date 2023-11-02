@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,775 |
-| Alt+F4 | 7.00% | ~16,424 |
-| Where's that freaking Dwarf? | 6.00% | ~14,078 |
+| Sowwy! | 34.00% | ~79,780 |
+| Alt+F4 | 7.00% | ~16,425 |
+| Where's that freaking Dwarf? | 6.00% | ~14,079 |
 | Déjà vu | 5.00% | ~11,732 |
-| A beer, two curses, three companions | 4.00% | ~9,385 |
-| Sock! SOCK! | 4.00% | ~9,385 |
-| GG EZ | 4.00% | ~9,385 |
-| Speedrun | 4.00% | ~9,385 |
+| A beer, two curses, three companions | 4.00% | ~9,386 |
+| Sock! SOCK! | 4.00% | ~9,386 |
+| GG EZ | 4.00% | ~9,386 |
+| Speedrun | 4.00% | ~9,386 |
 | Way of the Wimp | 3.00% | ~7,039 |
 | The plot thickens... At the tavern | 3.00% | ~7,039 |
 | DM intervention | 3.00% | ~7,039 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,346 |
 | Gargantua | 0.90% | ~2,112 |
 | In Navalu's footsteps | 0.80% | ~1,877 |
-| Lëgal Legend | 0.70% | ~1,642 |
+| Lëgal Legend | 0.70% | ~1,643 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,408 |
 | We come in peace | 0.60% | ~1,408 |
 | Holistic Adventuring Party | 0.50% | ~1,173 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~235 |
 | Dwarf Candy | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,633 (Ranked 61)  
+Progressed: 234,647 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,14 +250,14 @@ Completed: 7 (0.00%) (Ranked 339)
 | 2023-10-30 | 234,124 | 7 |
 | 2023-10-31 | 234,284 | 7 |
 | 2023-11-01 | 234,476 | 7 |
-| 2023-11-02 | 234,633 | 7 |
+| 2023-11-02 | 234,647 | 7 |
 ## Awards
-Max (Character Customization): 225  (Ranked 270)  
-Sum: 449 (Ranked 328)  
-Diff (max vs sum): -58  
+Max (Character Customization): 226  (Ranked 269)  
+Sum: 450 (Ranked 328)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 225 |
+| This game has Inclusive Character Customization | 226 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
@@ -437,3 +437,4 @@ Diff (max vs sum): -58
 | 2023-10-28 | 4.58 | - | 225 | 445 |
 | 2023-10-29 | 4.58 | - | 225 | 447 |
 | 2023-10-31 | 4.58 | - | 225 | 449 |
+| 2023-11-02 | 4.58 | - | 226 | 450 |

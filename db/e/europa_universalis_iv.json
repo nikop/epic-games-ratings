@@ -11455,11 +11455,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 55773,
       "NumberOfAwardsMax": 6780
+    },
+    {
+      "Time": "2023-11-02T19:59:34.4491158+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55791,
+      "NumberOfAwardsMax": 6798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55773,
-  "NumberOfAwardsMax": 6780,
+  "NumberOfAwards": 55791,
+  "NumberOfAwardsMax": 6798,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -11490,7 +11496,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6780
+      "Count": 6798
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11529,7 +11535,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 445275,
+  "EOS_Progressed": 445323,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5383,
   "EOS_NewCompleters": 0,
@@ -33939,6 +33945,11 @@
       "Time": "2023-11-02T19:07:15.7367452+00:00",
       "NumProgressed": 445275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-02T20:05:49.9924258+00:00",
+      "NumProgressed": 445323,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34230,7 +34241,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -34342,7 +34353,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4007
+      "UsersEstimate": 4008
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -34462,7 +34473,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "achievement_cold_war",
@@ -34606,7 +34617,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -34950,7 +34961,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17811
+      "UsersEstimate": 17813
     },
     {
       "ID": "achievement_grand_coalition",
@@ -34974,7 +34985,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13358
+      "UsersEstimate": 13360
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35902,7 +35913,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -36230,7 +36241,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13358
+      "UsersEstimate": 13360
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -36454,7 +36465,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -36502,7 +36513,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -36614,7 +36625,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17811
+      "UsersEstimate": 17813
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36646,7 +36657,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17811
+      "UsersEstimate": 17813
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36781,21 +36792,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 445275,
+      "Progressed": 445323,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 445275,
+      "Progressed": 445323,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-02T17:00:57.9797952+00:00",
-  "LastChanged_Achievements": "2023-11-02T19:07:15.736745+00:00",
+  "LastChanged": "2023-11-02T19:59:34.4491157+00:00",
+  "LastChanged_Achievements": "2023-11-02T20:05:49.9924255+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-02T19:00:38.2515624+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:07:15.7377849+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:59:34.4491163+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:05:49.9936572+00:00"
 }

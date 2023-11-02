@@ -19,11 +19,11 @@ Rating: 4.57 (Ranked 466)
 | Ferocious wild boars | 48.00% | ~10 |
 | Idiot | 43.00% | ~9 |
 | Beast slayer | 33.00% | ~7 |
+| Ogre friend | 33.00% | ~7 |
 | The fourth triplet | 33.00% | ~7 |
 | Sidelined | 33.00% | ~7 |
 | Wise man | 29.00% | ~6 |
 | Family man | 29.00% | ~6 |
-| Ogre friend | 29.00% | ~6 |
 | Hard worker | 29.00% | ~6 |
 | Workaholic | 29.00% | ~6 |
 | Fence | 29.00% | ~6 |

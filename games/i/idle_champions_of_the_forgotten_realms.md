@@ -10,45 +10,45 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.50% | ~1,167 |
 | The Cursed Farmer | 0.50% | ~1,167 |
 | Foul Play | 0.50% | ~999 |
+| Spelljammers in Training | 0.50% | ~999 |
 | The Mad Wizard | 0.40% | ~934 |
 | The Jungles of Doomspace | 0.40% | ~799 |
 | The Arena of Blood | 0.40% | ~799 |
-| Spelljammers in Training | 0.40% | ~799 |
 | Were-verpowered | 0.30% | ~700 |
 | The Ring of Regeneration | 0.30% | ~700 |
 | Are Ya Chicken? | 0.30% | ~700 |
 | To Infinity's and Beyond | 0.30% | ~599 |
 | Fowl Play | 0.30% | ~599 |
 | Maddening | 0.20% | ~467 |
-| Tall Tales | 0.20% | ~399 |
-| The Witchlight Carnival | 0.20% | ~399 |
-| Thieves of the Coven | 0.20% | ~399 |
-| Hither of the Feywild | 0.20% | ~399 |
-| The Prince of a Thousand Enemies | 0.20% | ~399 |
-| Downfall | 0.20% | ~399 |
+| Tall Tales | 0.20% | ~400 |
+| The Witchlight Carnival | 0.20% | ~400 |
+| Thieves of the Coven | 0.20% | ~400 |
+| Hither of the Feywild | 0.20% | ~400 |
+| The Prince of a Thousand Enemies | 0.20% | ~400 |
+| Downfall | 0.20% | ~400 |
 | The Silken Swamp | 0.20% | ~467 |
-| Slack-jawed Lorna | 0.20% | ~399 |
-| The Fairy Rings of Thither | 0.20% | ~399 |
-| Will of the Feywild | 0.20% | ~399 |
-| The Roots of Loomlurch | 0.20% | ~399 |
+| Slack-jawed Lorna | 0.20% | ~400 |
+| The Fairy Rings of Thither | 0.20% | ~400 |
+| Will of the Feywild | 0.20% | ~400 |
+| The Roots of Loomlurch | 0.20% | ~400 |
 | Supply Run | 0.20% | ~467 |
-| Best Laid Plans | 0.20% | ~399 |
-| The Howling Peaks of Yon | 0.20% | ~399 |
-| Overwhelmed with Knowledge | 0.20% | ~399 |
-| A Demi-god's Defender | 0.20% | ~399 |
-| Vecna Loots! | 0.20% | ~399 |
-| Well Equipped | 0.20% | ~399 |
-| Return to the Tomb | 0.20% | ~399 |
-| Heatwave | 0.20% | ~399 |
-| The Dread Domain of Tovag | 0.20% | ~399 |
-| The Castle of a Thousand Vecnas | 0.20% | ~399 |
-| The Sanctum of the Sword | 0.20% | ~399 |
-| Get Back In The Castle | 0.20% | ~399 |
-| Checkmate | 0.20% | ~399 |
-| Vecna Out! | 0.20% | ~399 |
+| Best Laid Plans | 0.20% | ~400 |
+| The Howling Peaks of Yon | 0.20% | ~400 |
+| Overwhelmed with Knowledge | 0.20% | ~400 |
+| A Demi-god's Defender | 0.20% | ~400 |
+| Vecna Loots! | 0.20% | ~400 |
+| Well Equipped | 0.20% | ~400 |
+| Return to the Tomb | 0.20% | ~400 |
+| Heatwave | 0.20% | ~400 |
+| The Dread Domain of Tovag | 0.20% | ~400 |
+| The Castle of a Thousand Vecnas | 0.20% | ~400 |
+| The Sanctum of the Sword | 0.20% | ~400 |
+| Get Back In The Castle | 0.20% | ~400 |
+| Checkmate | 0.20% | ~400 |
+| Vecna Out! | 0.20% | ~400 |
 | A Persistent Buzzing | 0.20% | ~467 |
-| No One Can Hear You Scream | 0.20% | ~399 |
-| Welcome to the Rock | 0.20% | ~399 |
+| No One Can Hear You Scream | 0.20% | ~400 |
+| Welcome to the Rock | 0.20% | ~400 |
 | Beast Mode | 0.20% | ~467 |
 | Terror in the Dark | 0.20% | ~467 |
 | Low Initiative | 0.20% | ~467 |
@@ -86,16 +86,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~467 |
 | Elturel Has Fallen | 0.20% | ~467 |
 | Resolve Amongst Chaos | 0.20% | ~467 |
-| Into The Fire | 0.20% | ~399 |
-| Dreamscape | 0.20% | ~399 |
-| The Path of Dreams | 0.20% | ~399 |
-| The Lost Hollyphant | 0.20% | ~399 |
-| The Wandering Emporium | 0.20% | ~399 |
-| Tiamat's Army | 0.20% | ~399 |
-| Questlines | 0.20% | ~399 |
-| Bel's Forge | 0.20% | ~399 |
+| Into The Fire | 0.20% | ~400 |
+| Dreamscape | 0.20% | ~400 |
+| The Path of Dreams | 0.20% | ~400 |
+| The Lost Hollyphant | 0.20% | ~400 |
+| The Wandering Emporium | 0.20% | ~400 |
+| Tiamat's Army | 0.20% | ~400 |
+| Questlines | 0.20% | ~400 |
+| Bel's Forge | 0.20% | ~400 |
 | Escort to Waterdeep | 0.20% | ~467 |
-| The Everlasting Rime | 0.20% | ~399 |
+| The Everlasting Rime | 0.20% | ~400 |
 | Close Escort | 0.20% | ~467 |
 | Constant Banditry | 0.20% | ~467 |
 | Waterdeep Detours | 0.20% | ~467 |
@@ -103,30 +103,30 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rude Welcome | 0.20% | ~467 |
 | Underdeep Cartography | 0.20% | ~467 |
 | Friendly Imps | 0.20% | ~467 |
-| Moose Tracks | 0.20% | ~399 |
-| Civilization | 0.20% | ~399 |
-| The Sibriex | 0.20% | ~399 |
-| Wrecked Flying Fortress | 0.20% | ~399 |
-| Dwarven Rumors | 0.20% | ~399 |
-| Sunblight | 0.20% | ~399 |
-| The Bleeding Citadel | 0.20% | ~399 |
-| Idyllglen | 0.20% | ~399 |
-| The Radiant Nightmare | 0.20% | ~399 |
-| Waiting on Sunrise | 0.20% | ~399 |
-| The Battle of High Hall Tower | 0.20% | ~399 |
-| Elturel's Last Stand | 0.20% | ~399 |
+| Moose Tracks | 0.20% | ~400 |
+| Civilization | 0.20% | ~400 |
+| The Sibriex | 0.20% | ~400 |
+| Wrecked Flying Fortress | 0.20% | ~400 |
+| Dwarven Rumors | 0.20% | ~400 |
+| Sunblight | 0.20% | ~400 |
+| The Bleeding Citadel | 0.20% | ~400 |
+| Idyllglen | 0.20% | ~400 |
+| The Radiant Nightmare | 0.20% | ~400 |
+| Waiting on Sunrise | 0.20% | ~400 |
+| The Battle of High Hall Tower | 0.20% | ~400 |
+| Elturel's Last Stand | 0.20% | ~400 |
 | Pure Energy | 0.20% | ~467 |
-| The Court of Storms | 0.20% | ~399 |
-| Rocky Reception | 0.20% | ~399 |
-| Rock and Roll | 0.20% | ~399 |
-| Flight of the Kindori Pod | 0.20% | ~399 |
-| Topolah's Tower | 0.20% | ~399 |
-| The Hunt for The Last Breath | 0.20% | ~399 |
-| Legends and Lore | 0.20% | ~399 |
-| The End | 0.20% | ~399 |
-| Slow Down Showdown | 0.20% | ~399 |
-| Entrance of the Gladiators | 0.20% | ~399 |
-| Time Out | 0.20% | ~399 |
+| The Court of Storms | 0.20% | ~400 |
+| Rocky Reception | 0.20% | ~400 |
+| Rock and Roll | 0.20% | ~400 |
+| Flight of the Kindori Pod | 0.20% | ~400 |
+| Topolah's Tower | 0.20% | ~400 |
+| The Hunt for The Last Breath | 0.20% | ~400 |
+| Legends and Lore | 0.20% | ~400 |
+| The End | 0.20% | ~400 |
+| Slow Down Showdown | 0.20% | ~400 |
+| Entrance of the Gladiators | 0.20% | ~400 |
+| Time Out | 0.20% | ~400 |
 | Pros and CONs | 0.10% | ~233 |
 | Upholding the Law | 0.10% | ~233 |
 | Starving in the Jungle | 0.10% | ~233 |
@@ -535,7 +535,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,473 (Ranked 62)  
+Progressed: 233,481 (Ranked 62)  
 Completed: 2,422 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -731,10 +731,10 @@ Completed: 2,422 (1.04%) (Ranked 154)
 | 2023-10-30 | 233,274 | 2,408 |
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
-| 2023-11-02 | 233,473 | 2,422 |
+| 2023-11-02 | 233,481 | 2,422 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
-Sum: 32,309 (Ranked 41)  
+Sum: 32,313 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -744,7 +744,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,695 |
 | This game has Amazing Characters | 4,192 |
 | This game is Highly Recommended | 4,184 |
-| This game has Playful Visuals | 3,500 |
+| This game has Playful Visuals | 3,504 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1028,4 +1028,4 @@ Diff (max vs sum): 28
 | 2023-10-30 | 4.06 | - | 5,462 | 32,271 |
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
-| 2023-11-02 | 4.06 | - | 5,470 | 32,309 |
+| 2023-11-02 | 4.06 | - | 5,470 | 32,313 |

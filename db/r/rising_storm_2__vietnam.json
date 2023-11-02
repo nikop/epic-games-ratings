@@ -2,12 +2,12 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 579,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 159,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 718,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 2871,
   "RatingHistory": [
     {
@@ -7210,10 +7210,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7635,
       "NumberOfAwardsMax": 866
+    },
+    {
+      "Time": "2023-11-02T19:56:56.9659423+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7636,
+      "NumberOfAwardsMax": 866
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7635,
+  "NumberOfAwards": 7636,
   "NumberOfAwardsMax": 866,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7281,7 +7287,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 657
+      "Count": 658
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7301,8 +7307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-11-02T16:57:18.6981584+00:00",
+  "LastChanged": "2023-11-02T19:56:56.9659422+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:17.3881993+00:00",
-  "LastUpdate_Ratings": "2023-11-02T18:57:07.3936002+00:00",
-  "LastUpdate_Achievements": "2023-11-02T19:06:41.6431905+00:00"
+  "LastUpdate_Ratings": "2023-11-02T19:56:56.9659427+00:00",
+  "LastUpdate_Achievements": "2023-11-02T20:05:22.5183992+00:00"
 }
