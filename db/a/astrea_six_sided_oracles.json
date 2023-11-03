@@ -3,9 +3,9 @@
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 436,
-  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -909,9 +909,9 @@
       "ID": "TheDistortedSage",
       "SetID": "1jeo1g7",
       "Name": "The Distorted Sage",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TheGoddesAvatar",
@@ -1093,9 +1093,9 @@
       "ID": "LacertianHero",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Hero",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LacertianMastery",
@@ -1140,8 +1140,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:03:10.5393238+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:14:05.6817428+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.6564177+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:58:30.7846444+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:03:10.5394027+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:59:28.1107353+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:14:05.6819124+00:00"
 }

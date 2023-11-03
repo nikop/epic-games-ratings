@@ -6,9 +6,9 @@
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1386,9 +1386,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10054,
+  "EOS_Progressed": 10055,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16246,6 +16246,11 @@
       "Time": "2023-11-03T11:08:24.7774155+00:00",
       "NumProgressed": 10054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T12:20:35.7078067+00:00",
+      "NumProgressed": 10055,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16257,7 +16262,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6133
+      "UsersEstimate": 6134
     },
     {
       "ID": "10",
@@ -16297,7 +16302,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "15",
@@ -16369,7 +16374,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7339
+      "UsersEstimate": 7340
     },
     {
       "ID": "23",
@@ -16377,7 +16382,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "24",
@@ -16385,7 +16390,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "25",
@@ -16433,7 +16438,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "30",
@@ -16473,7 +16478,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "35",
@@ -16519,9 +16524,9 @@
       "ID": "4",
       "SetID": "8idi9ml",
       "Name": "Catastrofan",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2815
+      "UsersEstimate": 2916
     },
     {
       "ID": "40",
@@ -16601,7 +16606,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2313
     },
     {
       "ID": "5",
@@ -16625,7 +16630,7 @@
       "Name": "Sky Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "52",
@@ -16705,7 +16710,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "8",
@@ -16728,15 +16733,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10054,
+      "Progressed": 10055,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-02T17:57:08.0386111+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:08:24.7774151+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:20:35.7078062+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:57:10.6624989+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:08:24.7775079+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:57:30.9416425+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:20:35.7079589+00:00"
 }

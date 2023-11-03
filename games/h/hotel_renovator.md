@@ -1,18 +1,18 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.40 (Ranked 733)  
+Rating: 4.40 (Ranked 734)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~834 |
-| And so it begins | 73.00% | ~801 |
-| No pressure | 70.00% | ~768 |
-| Memento | 62.00% | ~680 |
-| Let there be light | 60.00% | ~658 |
-| I think you dropped this | 55.00% | ~603 |
-| Soulmate? | 54.00% | ~592 |
-| Excellent service | 50.00% | ~548 |
+| And so it begins | 73.00% | ~802 |
+| No pressure | 70.00% | ~769 |
+| Memento | 62.00% | ~681 |
+| Let there be light | 60.00% | ~659 |
+| I think you dropped this | 55.00% | ~604 |
+| Soulmate? | 54.00% | ~593 |
+| Excellent service | 50.00% | ~549 |
 | Roll with it | 47.00% | ~516 |
 | Humble beginnings | 45.00% | ~494 |
 | Love is in the air | 44.00% | ~483 |
@@ -25,15 +25,15 @@ Rating: 4.40 (Ranked 733)
 | Aesop's fable | 28.00% | ~307 |
 | Hotel sleuthing | 28.00% | ~307 |
 | Nearly there | 26.00% | ~285 |
-| Broken heart | 24.00% | ~263 |
-| Island boy | 22.00% | ~241 |
-| You're a star | 20.00% | ~219 |
-| Unstoppable | 19.00% | ~208 |
-| Reunited | 19.00% | ~208 |
+| Broken heart | 24.00% | ~264 |
+| Island boy | 22.00% | ~242 |
+| You're a star | 20.00% | ~220 |
+| Unstoppable | 19.00% | ~209 |
+| Reunited | 18.00% | ~198 |
 | King of hospitality | 11.00% | ~121 |
 | Top spot in town | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,097 (Ranked 243)  
+Progressed: 1,098 (Ranked 243)  
 Completed: 16 (1.46%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 16 (1.46%) (Ranked 134)
 | 2023-10-29 | 1,090 | 16 |
 | 2023-11-01 | 1,091 | 16 |
 | 2023-11-02 | 1,096 | 16 |
-| 2023-11-03 | 1,097 | 16 |
+| 2023-11-03 | 1,098 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 181,
+  "EOS_Progressed": 182,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -847,6 +847,11 @@
       "Time": "2023-11-03T08:08:54.3151524+00:00",
       "NumProgressed": 181,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T12:21:01.8040388+00:00",
+      "NumProgressed": 182,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -921,7 +926,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_CARROT",
       "SetID": "5lffoo5",
       "Name": "Golden Carrot",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -937,7 +942,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
       "SetID": "5lffoo5",
       "Name": "Golden Scarf",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -945,7 +950,7 @@
       "ID": "ACHIEVEMENT_MAIN_NAUGHTY",
       "SetID": "5lffoo5",
       "Name": "Naughty list",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -953,7 +958,7 @@
       "ID": "ACHIEVEMENT_MAIN_SHINY",
       "SetID": "5lffoo5",
       "Name": "Bling Bling",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -985,7 +990,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
       "SetID": "5lffoo5",
       "Name": "Silver Scarf",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -993,7 +998,7 @@
       "ID": "ACHIEVEMENT_MAIN_WRONG_PATH",
       "SetID": "5lffoo5",
       "Name": "So close!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     }
@@ -1002,13 +1007,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 181,
+      "Progressed": 182,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:08:43.6902133+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:21:01.8040383+00:00",
   "LastUpdate_AppInfo": "2023-10-29T20:57:20.4448218+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:58:12.4679407+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:08:43.6902279+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:59:00.4798647+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:21:01.8040611+00:00"
 }

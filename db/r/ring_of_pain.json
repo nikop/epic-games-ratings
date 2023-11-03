@@ -24284,9 +24284,9 @@
       "ID": "LOTSOFHATS",
       "SetID": "5l8oe0h",
       "Name": "Never Too Many Hats",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 239
     },
     {
       "ID": "MAKEAWISH",
@@ -24827,8 +24827,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-02T20:02:59.7295598+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:09:23.0692277+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:21:55.3427529+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-11-03T11:02:46.7157066+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:09:23.0694548+00:00"
+  "LastUpdate_Ratings": "2023-11-03T12:13:17.8229115+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:21:55.3431128+00:00"
 }

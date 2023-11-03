@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18269,
+  "EOS_Progressed": 18270,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15297,6 +15297,11 @@
       "Time": "2023-11-03T10:06:28.919966+00:00",
       "NumProgressed": 18269,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-03T12:19:32.1225262+00:00",
+      "NumProgressed": 18270,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15316,7 +15321,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5115
+      "UsersEstimate": 5116
     },
     {
       "ID": "Deadline",
@@ -15372,7 +15377,7 @@
       "Name": "I Am The Storm",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "Make_Rock_Not_War",
@@ -15404,7 +15409,7 @@
       "Name": "Shooting Shark",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 9134
+      "UsersEstimate": 9135
     },
     {
       "ID": "Sole_Survivor",
@@ -15420,7 +15425,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "The_Reaper",
@@ -15435,15 +15440,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18269,
+      "Progressed": 18270,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:06:34.7433647+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:19:32.1225258+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:35.1048935+00:00",
-  "LastUpdate_Ratings": "2023-11-03T11:00:17.5749452+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:06:34.7434296+00:00"
+  "LastUpdate_Ratings": "2023-11-03T12:11:23.3179525+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:19:32.122637+00:00"
 }

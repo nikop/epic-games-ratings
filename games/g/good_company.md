@@ -6,17 +6,17 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,719 |
+| Level: Returning Home | 49.00% | ~2,720 |
 | Returning Home: Quick Learner | 26.00% | ~1,443 |
 | Level: Charlie's Circuits | 22.00% | ~1,221 |
-| Level: Rising Markets | 9.00% | ~499 |
+| Level: Rising Markets | 9.00% | ~500 |
 | Peddler | 8.00% | ~444 |
-| Level: Extra Life | 7.00% | ~388 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~388 |
-| Data Churn Type I | 7.00% | ~388 |
+| Level: Extra Life | 7.00% | ~389 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~389 |
+| Data Churn Type I | 7.00% | ~389 |
 | Millionaire | 6.00% | ~333 |
-| Data Churn Type II | 5.00% | ~277 |
-| Speedy | 5.00% | ~277 |
+| Data Churn Type II | 5.00% | ~278 |
+| Speedy | 5.00% | ~278 |
 | Extra Life: Wish Granted | 4.00% | ~222 |
 | High Five! | 4.00% | ~222 |
 | Modular Progress | 4.00% | ~222 |
@@ -35,13 +35,13 @@ Number of Ratings: 75  (23.09.2022)
 | Module Maniac | 2.00% | ~111 |
 | Overproducer | 2.00% | ~111 |
 | Natural Talent | 2.00% | ~111 |
-| Level: A Happy Taskforce | 1.00% | ~55 |
-| Level: The Machinery | 1.00% | ~55 |
-| Extra Life: Knowledge Cap | 1.00% | ~55 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~55 |
-| Entrepreneur | 1.00% | ~55 |
-| Data Churn Type IV | 1.00% | ~55 |
-| Keen Eye | 1.00% | ~55 |
+| Level: A Happy Taskforce | 1.00% | ~56 |
+| Level: The Machinery | 1.00% | ~56 |
+| Extra Life: Knowledge Cap | 1.00% | ~56 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~56 |
+| Entrepreneur | 1.00% | ~56 |
+| Data Churn Type IV | 1.00% | ~56 |
+| Keen Eye | 1.00% | ~56 |
 | Level: Topple The Top | 0.90% | ~50 |
 | Tycoon | 0.90% | ~50 |
 | Bet On Bots: Safety First | 0.80% | ~44 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,549 (Ranked 179)  
+Progressed: 5,550 (Ranked 179)  
 Completed: 1 (0.02%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 1 (0.02%) (Ranked 311)
 | 2023-10-31 | 5,541 | 1 |
 | 2023-11-01 | 5,545 | 1 |
 | 2023-11-02 | 5,548 | 1 |
-| 2023-11-03 | 5,549 | 1 |
+| 2023-11-03 | 5,550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

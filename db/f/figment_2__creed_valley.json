@@ -2,10 +2,10 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 498,
-  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_Progress": 499,
+  "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:09:19.0890378+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:21:50.3546629+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:54.5268321+00:00",
-  "LastUpdate_Ratings": "2023-11-03T11:00:40.9568508+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:09:19.0890496+00:00"
+  "LastUpdate_Ratings": "2023-11-03T12:11:54.3869935+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:21:50.3546777+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 574,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -132,9 +132,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytale3_ach_18",
@@ -196,9 +196,9 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "creepytale3_ach_26",
@@ -276,17 +276,17 @@
       "ID": "creepytale3_ach_37",
       "SetID": "7idcjbn",
       "Name": "Inspector",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_38",
       "SetID": "7idcjbn",
       "Name": "Paranoia",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "creepytale3_ach_39",
@@ -355,8 +355,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:05:13.0046107+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:17:41.4640595+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7439656+00:00",
-  "LastUpdate_Ratings": "2023-11-03T11:02:48.5396987+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:05:13.004632+00:00"
+  "LastUpdate_Ratings": "2023-11-03T12:13:24.5079413+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:17:41.4640954+00:00"
 }

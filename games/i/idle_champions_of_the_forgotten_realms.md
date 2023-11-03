@@ -9,6 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Beginning is the End | 0.60% | ~1,199 |
 | The End is the Beginning | 0.30% | ~599 |
 | Tomb of Champions | 0.20% | ~400 |
+| See You on the Flipside | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
 | Maddening | 0.10% | ~234 |
 | Pros and CONs | 0.10% | ~234 |
@@ -48,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Silken Swamp | 0.10% | ~234 |
 | Slack-jawed Lorna | 0.10% | ~200 |
 | I'm Sure I Saw It Move! | 0.10% | ~200 |
+| End of the Line | 0.10% | ~200 |
 | A Steadfast Love | 0.10% | ~200 |
 | The Fairy Rings of Thither | 0.10% | ~200 |
 | Bully for You! | 0.10% | ~200 |
@@ -76,9 +78,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lutes of Loomlurch | 0.10% | ~200 |
 | Supply Run | 0.10% | ~234 |
 | Best Laid Plans | 0.10% | ~200 |
+| Pincushion Party | 0.10% | ~200 |
 | G. O. A. T. | 0.10% | ~200 |
 | The Howling Peaks of Yon | 0.10% | ~200 |
 | Strength of Character | 0.10% | ~200 |
+| The Invisible Wizards of Thay | 0.10% | ~200 |
 | Heavy Burden | 0.10% | ~234 |
 | Seeds of Destruction | 0.10% | ~200 |
 | Speeds of Destruction | 0.10% | ~200 |
@@ -306,6 +310,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Faerûn's Most Neglected | 0.10% | ~200 |
 | Vault of Dragons | 0.10% | ~234 |
 | Vault of Pixies | 0.10% | ~234 |
+| Vault of Poison | 0.10% | ~234 |
 | Vault of Cuteness | 0.10% | ~200 |
 | Champions of Waterdeep | 0.10% | ~234 |
 | On The Job Learning | 0.10% | ~234 |
@@ -440,6 +445,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fire and Ice | 0.10% | ~200 |
 | Frozen Vengeance | 0.10% | ~200 |
 | Mimic Vengeance | 0.10% | ~200 |
+| REALLY Frozen Vengeance | 0.10% | ~200 |
 | The Battle of High Hall Tower | 0.10% | ~200 |
 | Might Makes Right | 0.10% | ~200 |
 | The Stunning Tower Battle | 0.10% | ~200 |
@@ -455,6 +461,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 1 | 0.10% | ~200 |
 | Ending the Rime - Part 2 | 0.10% | ~200 |
 | Ambitious Speakers - Part 2 | 0.10% | ~200 |
+| Shady Sidekicks - Part 2 | 0.10% | ~200 |
 | Reghed Glacier Mysteries | 0.10% | ~200 |
 | Mysteries Unlocked | 0.10% | ~200 |
 | Male Pattern Boldness | 0.10% | ~200 |
@@ -472,6 +479,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.10% | ~200 |
 | An Icewind Dale Reunion | 0.10% | ~200 |
 | The Netherese Necropolis | 0.10% | ~200 |
+| Ineffectual Intellectuals | 0.10% | ~200 |
 | The Templar's Camp | 0.10% | ~234 |
 | The Haunted Jungle | 0.10% | ~234 |
 | Poor Guidance | 0.10% | ~234 |
@@ -487,6 +495,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Not That Type of Helm! | 0.10% | ~200 |
 | Tiny Treaty | 0.10% | ~200 |
 | All The World's A Stage | 0.10% | ~200 |
+| Calcryx Tricks | 0.10% | ~200 |
 | Goblin Halls: the Next Generation | 0.10% | ~200 |
 | Bazaar Companions | 0.10% | ~200 |
 | Bahamut's Army | 0.10% | ~200 |
@@ -515,16 +524,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~200 |
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
-| See You on the Flipside | 0.10% | ~200 |
 | Don't Blast the Brigands | 0.00% | ~0 |
 | Always Watching | 0.00% | ~0 |
-| End of the Line | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | The Demon Lords of the Abyss | 0.00% | ~0 |
-| Pincushion Party | 0.00% | ~0 |
-| The Invisible Wizards of Thay | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
-| Vault of Poison | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
@@ -532,15 +536,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| REALLY Frozen Vengeance | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
-| Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
-| Calcryx Tricks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,533 (Ranked 62)  
-Completed: 2,425 (1.04%) (Ranked 154)  
+Progressed: 233,538 (Ranked 62)  
+Completed: 2,425 (1.04%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,533 | 2,425 |
+| 2023-11-03 | 233,538 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

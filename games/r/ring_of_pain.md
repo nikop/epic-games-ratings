@@ -80,6 +80,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Illuminate, Eliminate | 0.10% | ~239 |
 | Illuminate, Annihilate | 0.10% | ~239 |
 | Path To Enlightenment | 0.10% | ~239 |
+| Never Too Many Hats | 0.10% | ~239 |
 | A Donation | 0.10% | ~239 |
 | Chain Reaction | 0.10% | ~239 |
 | C-C-Combo | 0.10% | ~239 |
@@ -143,7 +144,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dominant Twin | 0.10% | ~1 |
 | Expensive Look | 0.10% | ~1 |
 | What Doesn't Kill You | 0.10% | ~1 |
-| Never Too Many Hats | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239,043 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  

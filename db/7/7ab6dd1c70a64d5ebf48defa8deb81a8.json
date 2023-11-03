@@ -3,9 +3,9 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 418,
-  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 88,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -350,6 +350,11 @@
       "Time": "2023-11-03T11:09:18.2296103+00:00",
       "NumProgressed": 86,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T12:21:49.3124517+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -361,13 +366,13 @@
       "Name": "Break Out",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -375,7 +380,7 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -487,7 +492,7 @@
       "ID": "ACH_17",
       "SetID": "efe2lj",
       "Name": "Shatterer",
-      "Percentage": -1.2,
+      "Percentage": -1.1,
       "XP": 30,
       "UsersEstimate": -1
     },
@@ -511,7 +516,7 @@
       "ID": "ACH_20",
       "SetID": "efe2lj",
       "Name": "Flawless Victory",
-      "Percentage": -1.2,
+      "Percentage": -1.1,
       "XP": 40,
       "UsersEstimate": -1
     },
@@ -591,9 +596,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_31",
@@ -648,14 +653,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 88,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:09:18.22961+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:21:49.3124512+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:58:43.127411+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:09:18.2296333+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:59:54.69708+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:21:49.330563+00:00"
 }

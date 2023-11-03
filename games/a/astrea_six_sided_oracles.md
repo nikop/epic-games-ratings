@@ -37,14 +37,14 @@
 | The Dark Moon | 11.00% | ~7 |
 | Wave Bender | 11.00% | ~7 |
 | Behenian Hero | 11.00% | ~7 |
+| Lacertian Hero | 11.00% | ~7 |
 | Denying Destiny | 9.00% | ~6 |
 | The Chaos Artisan | 9.00% | ~6 |
-| Lacertian Hero | 9.00% | ~6 |
+| The Distorted Sage | 9.00% | ~6 |
 | Artificer | 8.00% | ~5 |
 | Can't touch this | 8.00% | ~5 |
 | Purification Avatar | 8.00% | ~5 |
 | Sadistic Plan | 8.00% | ~5 |
-| The Distorted Sage | 8.00% | ~5 |
 | If I Had Failed... | 6.00% | ~4 |
 | The Abyssal Terror | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
@@ -104,7 +104,7 @@
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66 (Ranked 436)  
-Completed: 0 (0.00%) (Ranked 339)  
+Completed: 0 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

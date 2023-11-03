@@ -3,9 +3,9 @@
   "Name": null,
   "ProductSlug": "steelseries-gg",
   "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-03T04:56:49.5636009+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235106+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:57:47.3196158+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:06:33.5906127+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:58:23.4754604+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:13:47.7584996+00:00"
 }

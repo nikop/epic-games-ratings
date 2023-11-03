@@ -25,6 +25,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 0.30% | ~4 |
 | Pyrrhic Victory | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |
+| Turncoat | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
@@ -36,7 +37,6 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |
-| Turncoat | 0.10% | ~1 |
 | Bears are Scary | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,446 (Ranked 230)  
+Progressed: 1,446 (Ranked 231)  
 Completed: 6 (0.41%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,8 +213,8 @@ Completed: 6 (0.41%) (Ranked 204)
 | 2023-10-29 | 1,446 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 498)  
-Sum: 28 (Ranked 512)  
-Diff (max vs sum): -14  
+Sum: 28 (Ranked 513)  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 28 |

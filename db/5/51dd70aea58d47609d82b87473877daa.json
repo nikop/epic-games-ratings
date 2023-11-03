@@ -3,9 +3,9 @@
   "Name": "The Backroom Project",
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 176,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.31,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -849,6 +849,11 @@
       "Time": "2023-11-03T09:09:05.5077746+00:00",
       "NumProgressed": 173,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-03T12:21:23.6110625+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -858,9 +863,9 @@
       "ID": "ACH_CORPSE",
       "SetID": "c2kf3nm",
       "Name": "Are you still Alive?",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_DIE",
@@ -868,7 +873,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_DULLER",
@@ -876,7 +881,7 @@
       "Name": "STAY AWAY",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_ENTERLEVELRUN",
@@ -892,7 +897,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_FRIEND",
@@ -900,7 +905,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_GET_IN",
@@ -908,7 +913,7 @@
       "Name": "Lab Rat",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_GET_OUT",
@@ -916,7 +921,7 @@
       "Name": "Time Heals NOTHING",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_HABITABLE",
@@ -932,7 +937,7 @@
       "Name": "GET THE HANG OF IT",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_HOUND",
@@ -946,9 +951,9 @@
       "ID": "ACH_KEY",
       "SetID": "c2kf3nm",
       "Name": "Key to your Death",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_PIPEDREAMS",
@@ -956,7 +961,7 @@
       "Name": "DO NOT ENTER",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_PITFALLS",
@@ -964,7 +969,7 @@
       "Name": "Pitfalls",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -972,15 +977,15 @@
       "Name": "One Wrong Step",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_RUN",
       "SetID": "c2kf3nm",
       "Name": "RUN FOR YOUR LIFE",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_STAIRS",
@@ -996,21 +1001,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 176,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:08:59.5347687+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:21:23.6110618+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:58:21.9803965+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:08:59.53478+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:59:13.6706616+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:21:23.6110873+00:00"
 }

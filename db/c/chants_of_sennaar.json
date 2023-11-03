@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 376,
+  "EOS_Progressed": 378,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.12,
+  "EOS_Completed_Percentage": 6.08,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1745,6 +1745,11 @@
       "Time": "2023-11-03T11:07:58.4874049+00:00",
       "NumProgressed": 376,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T12:20:06.2715403+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1820,7 +1825,7 @@
       "Name": "Feels like springtime",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1842,9 +1847,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1852,7 +1857,7 @@
       "Name": "Alchemists Express",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1868,7 +1873,7 @@
       "Name": "True G3M4R",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1876,7 +1881,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1890,9 +1895,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1908,7 +1913,7 @@
       "Name": "Scholar",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "PROGRESS_N1",
@@ -1916,7 +1921,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "PROGRESS_N2",
@@ -1955,14 +1960,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 376,
+      "Progressed": 378,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:07:58.4874044+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:20:06.2715395+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T11:00:01.4552602+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:07:58.4874276+00:00"
+  "LastUpdate_Ratings": "2023-11-03T12:09:45.5598852+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:20:06.2715897+00:00"
 }

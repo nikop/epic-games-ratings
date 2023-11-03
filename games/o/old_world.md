@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.90% | ~136 |
 | Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
+| Phalangite | 0.90% | ~136 |
 | Double Victory | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
 | Capable | 0.80% | ~121 |
@@ -116,7 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.80% | ~121 |
 | Gnosticism | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
-| Phalangite | 0.80% | ~121 |
+| Mounted Lancer | 0.80% | ~121 |
 | Ambition Victory | 0.80% | ~121 |
 | Devout | 0.70% | ~106 |
 | Ready | 0.70% | ~106 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.70% | ~106 |
 | Enlightenment | 0.70% | ~106 |
 | Veneration | 0.70% | ~106 |
-| Mounted Lancer | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
 | Clerics | 0.60% | ~91 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,113 (Ranked 144)  
+Progressed: 15,114 (Ranked 144)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -546,7 +546,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
 | 2023-11-02 | 15,108 | 5 |
-| 2023-11-03 | 15,113 | 5 |
+| 2023-11-03 | 15,114 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,866 (Ranked 212)  

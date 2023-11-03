@@ -3,12 +3,12 @@
   "Name": "Moving Out",
   "ProductSlug": "moving-out",
   "Ranking_Rating": 443,
-  "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 534,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-12-28T16:00:00+00:00",
     "PcReleaseDate": "2020-04-28T16:00:00+00:00",
@@ -509,6 +509,6 @@
   "FirstSeen": "2022-07-22T20:18:42.4467794+00:00",
   "LastChanged": "2023-08-19T08:04:21.6026228+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:12.7666336+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:57:08.6748196+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:08:21.7122938+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:57:28.2288864+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:20:32.0570856+00:00"
 }

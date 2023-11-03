@@ -6,9 +6,9 @@
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6254,
+  "EOS_Progressed": 6258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9229,6 +9229,11 @@
       "Time": "2023-11-03T11:08:45.3707365+00:00",
       "NumProgressed": 6254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T12:21:04.0689671+00:00",
+      "NumProgressed": 6258,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9246,17 +9251,17 @@
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -9294,9 +9299,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9526,9 +9531,9 @@
       "ID": "ACHIEVEMENT_038",
       "SetID": "6jk25od",
       "Name": "Live by the Rod, Diez by the Rod!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -9559,13 +9564,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6254,
+      "Progressed": 6258,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5626,
+      "Progressed": 5630,
       "Completed": 113
     }
   ],
@@ -9573,8 +9578,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-03T04:58:08.7883599+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:08:45.3707362+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:21:04.0689666+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:57:37.727135+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:08:45.370792+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:58:06.3833543+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:21:04.0690561+00:00"
 }

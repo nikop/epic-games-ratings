@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 0.30% | ~110 |
+| Whatever It Takes | 0.40% | ~147 |
 | One of Us | 0.20% | ~74 |
 | Pork Chopped | 0.20% | ~74 |
 | Dr. Reed, I Presume? | 0.10% | ~711 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~37 |
 | Top That, Tisha! | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,276 (Ranked 22)  
-Completed: 2,306 (0.32%) (Ranked 216)  
+Progressed: 711,306 (Ranked 22)  
+Completed: 2,307 (0.32%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,10 +254,10 @@ Completed: 2,306 (0.32%) (Ranked 216)
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
-| 2023-11-03 | 711,276 | 2,306 |
+| 2023-11-03 | 711,306 | 2,307 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 54)  
-Sum: 10,336 (Ranked 90)  
+Sum: 10,349 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -265,9 +265,9 @@ Diff (max vs sum): -36
 | This game is Great for Beginners | 502 |
 | This game has Diverse Characters | 486 |
 | This game has Quickly Understood Controls | 458 |
-| This game is Relaxing | 437 |
+| This game is Relaxing | 445 |
 | This game has Amazing Storytelling | 424 |
-| This game is Highly Recommended | 403 |
+| This game is Highly Recommended | 408 |
 | This game is Extremely Fun | 401 |
 | This game has Amazing Characters | 378 |
 ## Ratings History
@@ -469,4 +469,4 @@ Diff (max vs sum): -36
 | 2023-10-31 | 4.54 | 6,773 | 10,214 |
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
-| 2023-11-03 | 4.54 | 6,847 | 10,336 |
+| 2023-11-03 | 4.54 | 6,847 | 10,349 |

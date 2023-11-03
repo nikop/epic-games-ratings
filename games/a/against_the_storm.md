@@ -17,21 +17,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~858 |
 | Royal Outpost | 5.00% | ~858 |
 | A Real Challenge | 5.00% | ~858 |
-| Homesick | 4.00% | ~686 |
-| Ruined Armory | 4.00% | ~686 |
-| Bandit Camp | 4.00% | ~686 |
-| Barren Lands | 4.00% | ~686 |
-| Sparkdew Crystals | 4.00% | ~686 |
-| Haunted Forest | 4.00% | ~686 |
-| Levitating Monument | 4.00% | ~686 |
-| Flooded Mines | 4.00% | ~686 |
-| Monastery of the Holy Flame | 4.00% | ~686 |
-| Lost Colonies | 4.00% | ~686 |
-| Statue of the Forefathers | 4.00% | ~686 |
-| Corrosive Torrent | 4.00% | ~686 |
-| Watchtower | 4.00% | ~686 |
-| Cursed Lands | 4.00% | ~686 |
-| Trade Baron | 4.00% | ~686 |
+| Homesick | 4.00% | ~687 |
+| Ruined Armory | 4.00% | ~687 |
+| Bandit Camp | 4.00% | ~687 |
+| Barren Lands | 4.00% | ~687 |
+| Sparkdew Crystals | 4.00% | ~687 |
+| Haunted Forest | 4.00% | ~687 |
+| Levitating Monument | 4.00% | ~687 |
+| Flooded Mines | 4.00% | ~687 |
+| Monastery of the Holy Flame | 4.00% | ~687 |
+| Lost Colonies | 4.00% | ~687 |
+| Statue of the Forefathers | 4.00% | ~687 |
+| Corrosive Torrent | 4.00% | ~687 |
+| Watchtower | 4.00% | ~687 |
+| Cursed Lands | 4.00% | ~687 |
+| Trade Baron | 4.00% | ~687 |
 | Serving Ale | 3.00% | ~515 |
 | Refinery | 3.00% | ~515 |
 | Against All Odds | 3.00% | ~515 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~515 |
 | Defying the Crown | 3.00% | ~515 |
 | Into the Forest | 3.00% | ~515 |
+| Feeding The People | 2.00% | ~343 |
 | Efficient Explorer | 2.00% | ~343 |
 | Victory through Prosperity | 2.00% | ~343 |
-| Feeding The People | 1.00% | ~172 |
 | Prestigious Expedition | 1.00% | ~172 |
 | Blood Flower Farmer | 1.00% | ~172 |
 | Lizard Utopia | 0.90% | ~154 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~51 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,162 (Ranked 138)  
-Completed: 53 (0.31%) (Ranked 218)  
+Progressed: 17,164 (Ranked 138)  
+Completed: 53 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,7 +254,7 @@ Completed: 53 (0.31%) (Ranked 218)
 | 2023-10-31 | 17,131 | 52 |
 | 2023-11-01 | 17,143 | 53 |
 | 2023-11-02 | 17,154 | 53 |
-| 2023-11-03 | 17,162 | 53 |
+| 2023-11-03 | 17,164 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 216)  
 Sum: 3,204 (Ranked 170)  

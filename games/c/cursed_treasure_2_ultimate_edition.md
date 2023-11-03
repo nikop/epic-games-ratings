@@ -26,7 +26,7 @@
 | Sharpshooter | 69.00% | ~119 |
 | The Apotheosis of War | 68.00% | ~118 |
 | Stasis Alcatraz | 68.00% | ~118 |
-| Tastes Like Chicken | 63.00% | ~109 |
+| Tastes Like Chicken | 64.00% | ~111 |
 | Brilliant: Holy Mountain | 62.00% | ~107 |
 | Combo Breaker | 62.00% | ~107 |
 | Thunderstorm | 62.00% | ~107 |
@@ -58,7 +58,7 @@
 | Loveless | 19.00% | ~33 |
 | Hostile Waters | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 366)  
+Progressed: 173 (Ranked 367)  
 Completed: 26 (15.03%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |

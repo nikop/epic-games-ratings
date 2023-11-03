@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5549,
+  "EOS_Progressed": 5550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4128,6 +4128,11 @@
       "Time": "2023-11-03T03:03:53.1463169+00:00",
       "NumProgressed": 5549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T12:16:08.7279388+00:00",
+      "NumProgressed": 5550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4203,7 +4208,7 @@
       "Name": "Level: A Happy Taskforce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_campaign_progress11",
@@ -4227,7 +4232,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_campaign_progress3",
@@ -4251,7 +4256,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4259,7 +4264,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ach_campaign_progress7",
@@ -4283,7 +4288,7 @@
       "Name": "Level: The Machinery",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_campaign_special1",
@@ -4387,7 +4392,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_campaign_special5",
@@ -4403,7 +4408,7 @@
       "Name": "Extra Life: Knowledge Cap",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_campaign_special7",
@@ -4419,7 +4424,7 @@
       "Name": "Merry-Go-Around: Debt-Be-Gone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_campaign_special9",
@@ -4547,7 +4552,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_frp_many_products5",
@@ -4563,7 +4568,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -4571,7 +4576,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -4587,7 +4592,7 @@
       "Name": "Data Churn Type IV",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_frp_veryhigh_networth",
@@ -4659,7 +4664,7 @@
       "Name": "Keen Eye",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_prof_goals",
@@ -4731,7 +4736,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ach_trait_overload",
@@ -4746,15 +4751,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5549,
+      "Progressed": 5550,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:04:15.9786031+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:16:08.7279378+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:39.3994423+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:59:21.5095136+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:04:15.9786721+00:00"
+  "LastUpdate_Ratings": "2023-11-03T12:01:02.0781322+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:16:08.7280541+00:00"
 }

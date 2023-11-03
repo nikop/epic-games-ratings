@@ -6,9 +6,9 @@
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 123,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1357,9 +1357,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156234,
+  "EOS_Progressed": 156243,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1346,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14197,6 +14197,11 @@
       "Time": "2023-11-03T11:07:46.4530971+00:00",
       "NumProgressed": 156234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T12:19:48.8315507+00:00",
+      "NumProgressed": 156243,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14272,7 +14277,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14424,7 +14429,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14575,21 +14580,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155817,
+      "Progressed": 155826,
       "Completed": 1186
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156234,
+      "Progressed": 156243,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-03T07:02:00.5334568+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:07:46.4530967+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:19:48.8315501+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:58:37.856963+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:07:46.4531706+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:59:46.1390188+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:19:48.8316746+00:00"
 }

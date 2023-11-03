@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~542,308 |
-| Every story has a beginning | 36.00% | ~244,039 |
-| The first of many | 31.00% | ~210,144 |
-| Positive word of mouth | 18.00% | ~122,019 |
-| Lawn in the U.S.A. | 15.00% | ~101,683 |
-| Blade Runner | 9.00% | ~61,010 |
-| Credible | 7.00% | ~47,452 |
-| Teamwork makes the dream work | 6.00% | ~40,673 |
-| Where there's muck there's brass | 4.00% | ~27,115 |
-| Bigger and better | 4.00% | ~27,115 |
-| Aggressive expansion | 4.00% | ~27,115 |
+| The dream begins | 80.00% | ~542,330 |
+| Every story has a beginning | 36.00% | ~244,048 |
+| The first of many | 31.00% | ~210,153 |
+| Positive word of mouth | 18.00% | ~122,024 |
+| Lawn in the U.S.A. | 15.00% | ~101,687 |
+| Blade Runner | 9.00% | ~61,012 |
+| Credible | 7.00% | ~47,454 |
+| Teamwork makes the dream work | 6.00% | ~40,675 |
+| Where there's muck there's brass | 4.00% | ~27,116 |
+| Bigger and better | 4.00% | ~27,116 |
+| Aggressive expansion | 4.00% | ~27,116 |
 | Size isn't everything | 3.00% | ~20,337 |
 | Close shave | 3.00% | ~20,337 |
 | Established | 3.00% | ~20,337 |
@@ -61,8 +61,8 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~678 |
 | Mo mowers, mo problems | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,885 (Ranked 25)  
-Completed: 17 (0.00%) (Ranked 339)  
+Progressed: 677,912 (Ranked 25)  
+Completed: 17 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,11 +258,11 @@ Completed: 17 (0.00%) (Ranked 339)
 | 2023-10-31 | 677,254 | 17 |
 | 2023-11-01 | 677,514 | 17 |
 | 2023-11-02 | 677,749 | 17 |
-| 2023-11-03 | 677,885 | 17 |
+| 2023-11-03 | 677,912 | 17 |
 ## Awards
-Max (Quickly Understood Controls): 182  (Ranked 292)  
+Max (Quickly Understood Controls): 182  (Ranked 293)  
 Sum: 983 (Ranked 260)  
-Diff (max vs sum): 32  
+Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 182 |

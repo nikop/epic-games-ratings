@@ -4,7 +4,7 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 789,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 223,
+  "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 81,
@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 10716,
+  "EOS_Progressed": 10727,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1009,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8739,6 +8739,11 @@
       "Time": "2023-11-03T11:08:17.0257777+00:00",
       "NumProgressed": 10716,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-03T12:20:25.3007494+00:00",
+      "NumProgressed": 10727,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8751,7 +8756,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "a_10",
@@ -8759,7 +8764,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_11",
@@ -8767,7 +8772,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_12",
@@ -8775,7 +8780,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_15",
@@ -8783,7 +8788,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "a_16",
@@ -8791,7 +8796,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_18",
@@ -8799,7 +8804,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4291
     },
     {
       "ID": "a_19",
@@ -8807,7 +8812,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "a_2",
@@ -8823,7 +8828,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "a_21",
@@ -8831,7 +8836,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "a_22",
@@ -8847,7 +8852,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "a_25",
@@ -8863,7 +8868,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_27",
@@ -8871,7 +8876,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "a_28",
@@ -8879,7 +8884,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_3",
@@ -8887,7 +8892,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "a_30",
@@ -8935,7 +8940,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "a_36",
@@ -8983,7 +8988,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "a_9",
@@ -8991,14 +8996,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 10716,
+      "Progressed": 10727,
       "Completed": 10
     }
   ],
@@ -9006,8 +9011,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-03T11:08:17.0257773+00:00",
+  "LastChanged_Achievements": "2023-11-03T12:20:25.3007488+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:58:31.0377023+00:00",
-  "LastUpdate_Achievements": "2023-11-03T11:08:17.0258344+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:59:28.9281903+00:00",
+  "LastUpdate_Achievements": "2023-11-03T12:20:25.3008197+00:00"
 }
