@@ -18,8 +18,8 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 56.00% | ~1,014 |
 | Transport millionaire | 55.00% | ~996 |
 | Cadet | 54.00% | ~978 |
+| Transport master | 53.00% | ~960 |
 | Cargo hub | 53.00% | ~960 |
-| Transport master | 52.00% | ~942 |
 | Settled down | 49.00% | ~887 |
 | Sculpturer | 49.00% | ~887 |
 | First electric train arrived | 47.00% | ~851 |
@@ -63,13 +63,13 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign tycoon | 1.00% | ~18 |
 | Trans-Siberian Railway | 1.00% | ~18 |
 | Train Fever | 1.00% | ~18 |
-| Louis Favre | 0.90% | ~16 |
+| Louis Favre | 1.00% | ~18 |
 | Big spender | 0.60% | ~11 |
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,811 (Ranked 219)  
-Completed: 1 (0.06%) (Ranked 287)  
+Completed: 1 (0.06%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,9 +255,9 @@ Completed: 1 (0.06%) (Ranked 287)
 | 2023-11-02 | 1,809 | 1 |
 | 2023-11-03 | 1,811 | 1 |
 ## Awards
-Max (Highly Recommended): 43  (Ranked 446)  
+Max (Highly Recommended): 43  (Ranked 447)  
 Sum: 302 (Ranked 356)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 43 |

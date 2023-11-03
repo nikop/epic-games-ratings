@@ -2,13 +2,13 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 71,
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-01T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -5619,10 +5619,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 14662,
       "NumberOfAwardsMax": 1791
+    },
+    {
+      "Time": "2023-11-03T19:57:53.5035304+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14664,
+      "NumberOfAwardsMax": 1791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14662,
+  "NumberOfAwards": 14664,
   "NumberOfAwardsMax": 1791,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5636,7 +5642,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1659
+      "Count": 1660
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5654,7 +5660,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1732
+      "Count": 1733
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5704,8 +5710,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-11-03T11:58:23.2889549+00:00",
+  "LastChanged": "2023-11-03T19:57:53.5035303+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.2155289+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:04.9066284+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:34.4716114+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:53.503531+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:25.0900104+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -552,9 +552,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16143,
+  "EOS_Progressed": 16144,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -13347,6 +13347,11 @@
       "Time": "2023-11-03T18:07:09.9022225+00:00",
       "NumProgressed": 16143,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-03T20:06:29.6800605+00:00",
+      "NumProgressed": 16144,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13398,7 +13403,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5328
     },
     {
       "ID": "tpote_achievement_15",
@@ -13446,7 +13451,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5327
+      "UsersEstimate": 5328
     },
     {
       "ID": "tpote_achievement_20",
@@ -13574,7 +13579,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "tpote_achievement_35",
@@ -13622,7 +13627,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6457
+      "UsersEstimate": 6458
     },
     {
       "ID": "tpote_achievement_40",
@@ -13646,7 +13651,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "tpote_achievement_6",
@@ -13654,7 +13659,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "tpote_achievement_7",
@@ -13685,15 +13690,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16143,
+      "Progressed": 16144,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:07:09.902222+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:06:29.68006+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:39.1516457+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:07:09.9023109+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:28.6234775+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:06:29.6801955+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -355,6 +355,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2023-11-03T19:57:08.446102+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 202,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
@@ -375,9 +381,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 1368,
+  "EOS_Progressed": 1370,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1565,6 +1571,11 @@
       "Time": "2023-11-03T18:06:28.3824982+00:00",
       "NumProgressed": 1368,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T20:05:50.0518628+00:00",
+      "NumProgressed": 1370,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2080,16 +2091,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1368,
+      "Progressed": 1370,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-03T04:03:05.7015972+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:06:28.3824977+00:00",
+  "LastChanged": "2023-11-03T19:57:08.4461019+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:05:50.0518622+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.0141073+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:18.5225864+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:06:28.382552+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:08.4461024+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:05:50.0519324+00:00"
 }

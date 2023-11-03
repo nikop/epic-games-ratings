@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.17 (Ranked 924)  
+Rating: 4.17 (Ranked 926)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,17 +11,17 @@ Number of Ratings: 281  (23.09.2022)
 | Hey Good Hookin | 1.00% | ~63 |
 | More Fish in the Sea | 1.00% | ~63 |
 | Scaling up | 1.00% | ~63 |
-| I'm on a Boat! | 0.90% | ~56 |
+| I'm on a Boat! | 0.90% | ~57 |
 | Ready to Rod and Roll | 0.70% | ~44 |
-| Fish Out of Water | 0.50% | ~31 |
-| Things that go Splash in the Night | 0.50% | ~31 |
+| Fish Out of Water | 0.60% | ~38 |
+| Things that go Splash in the Night | 0.60% | ~38 |
 | Goldfish? | 0.50% | ~31 |
 | Going for Gold | 0.40% | ~25 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~23 |
+| Aguas Claras Conquistador | 0.30% | ~17 |
 | License to Gill | 0.20% | ~13 |
 | School's Out for Summer | 0.20% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~13 |
-| Aguas Claras Conquistador | 0.20% | ~11 |
 | All Good Kings Must Come to an End | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
@@ -47,8 +47,8 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,275 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 341)  
+Progressed: 6,278 (Ranked 177)  
+Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 341)
 | 2023-10-31 | 6,177 | 0 |
 | 2023-11-01 | 6,212 | 0 |
 | 2023-11-02 | 6,244 | 0 |
-| 2023-11-03 | 6,275 | 0 |
+| 2023-11-03 | 6,278 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 188 (Ranked 402)  

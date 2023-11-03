@@ -2,13 +2,13 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 807,
+  "Ranking_Rating": 808,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 204630,
+  "EOS_Progressed": 204633,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -21484,6 +21484,11 @@
       "Time": "2023-11-03T18:03:47.2624877+00:00",
       "NumProgressed": 204630,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2023-11-03T20:03:37.9012622+00:00",
+      "NumProgressed": 204633,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 29,
@@ -21519,7 +21524,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192352
+      "UsersEstimate": 192355
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -21695,7 +21700,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16370
+      "UsersEstimate": 16371
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -21726,7 +21731,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 204630,
+      "Progressed": 204633,
       "Completed": 524
     }
   ],
@@ -21734,8 +21739,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-10-31T04:00:18.6284781+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:03:47.2624872+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:03:37.9012612+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.7475217+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:31.5559142+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:47.2626056+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:21.4577305+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:37.9014155+00:00"
 }

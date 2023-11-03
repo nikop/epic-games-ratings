@@ -3,9 +3,9 @@
   "Name": "Bus World",
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -1057,9 +1057,9 @@
       "ID": "Dangerous_dose",
       "SetID": "cjfnji1",
       "Name": "Dangerous dose",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Dissatisfaction",
@@ -1168,8 +1168,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:43.8606062+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:04:33.5333782+00:00",
   "LastUpdate_AppInfo": "2023-10-30T23:57:11.9435893+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:19.164115+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:43.8606211+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:09.0690554+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:04:33.5333967+00:00"
 }

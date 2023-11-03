@@ -2,13 +2,13 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2139,
+  "EOS_Progressed": 2140,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2924,6 +2924,11 @@
       "Time": "2023-11-03T18:09:09.6831863+00:00",
       "NumProgressed": 2139,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-03T20:08:56.8395419+00:00",
+      "NumProgressed": 2140,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2983,7 +2988,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHV_08",
@@ -2991,7 +2996,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACHV_09",
@@ -3135,7 +3140,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ACHV_27",
@@ -3151,7 +3156,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHV_29",
@@ -3239,7 +3244,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACHV_40",
@@ -3295,7 +3300,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHV_47",
@@ -3390,7 +3395,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2139,
+      "Progressed": 2140,
       "Completed": 13
     }
   ],
@@ -3398,8 +3403,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:09.6831858+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:08:56.8395413+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:07.2774434+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:09.6832437+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:55.8667635+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:08:56.8396148+00:00"
 }

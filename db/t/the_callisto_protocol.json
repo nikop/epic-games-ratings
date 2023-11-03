@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 909,
-  "Ranking_Popularity": 384,
+  "Ranking_Rating": 911,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1427,9 +1427,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16397,
+  "EOS_Progressed": 16398,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8702,6 +8702,11 @@
       "Time": "2023-11-03T15:09:07.2062901+00:00",
       "NumProgressed": 16397,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-03T20:05:16.6491236+00:00",
+      "NumProgressed": 16398,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -9088,13 +9093,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16397,
+      "Progressed": 16398,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4323,
+      "Progressed": 4324,
       "Completed": 29
     }
   ],
@@ -9102,8 +9107,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-03T09:58:39.5708669+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:05:49.7576679+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:05:16.6491231+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:41.8418891+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:05:49.7577368+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:30.0710816+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:05:16.6492104+00:00"
 }

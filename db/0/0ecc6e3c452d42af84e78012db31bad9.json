@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3795,
+  "EOS_Progressed": 3799,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -9129,6 +9129,11 @@
       "Time": "2023-11-03T15:06:11.8229644+00:00",
       "NumProgressed": 3795,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-03T20:03:17.7209627+00:00",
+      "NumProgressed": 3799,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 16,
@@ -9140,7 +9145,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -9156,7 +9161,7 @@
       "Name": "Artist in the making",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ach_animals_completed",
@@ -9172,7 +9177,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2925
     },
     {
       "ID": "ach_architecture_completed",
@@ -9188,15 +9193,15 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1254
     },
     {
       "ID": "ach_bomb",
       "SetID": "3h4khpo",
       "Name": "Cannoneer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1026
     },
     {
       "ID": "ach_color_splash",
@@ -9204,7 +9209,7 @@
       "Name": "Color flood",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1216
     },
     {
       "ID": "ach_first_picture",
@@ -9212,7 +9217,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3115
     },
     {
       "ID": "ach_food_completed",
@@ -9228,7 +9233,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1368
     },
     {
       "ID": "ach_game_opened",
@@ -9236,7 +9241,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2849
     },
     {
       "ID": "ach_magic_wand",
@@ -9244,7 +9249,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1140
     },
     {
       "ID": "ach_no_boosters",
@@ -9252,7 +9257,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1482
     },
     {
       "ID": "ach_tornado",
@@ -9260,21 +9265,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3795,
+      "Progressed": 3799,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:03:26.4411872+00:00",
-  "LastUpdate_AppInfo": "2023-10-27T18:57:14.9249176+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:08.3204501+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:26.4412832+00:00"
+  "LastChanged_Achievements": "2023-11-03T20:03:17.7209622+00:00",
+  "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
+  "LastUpdate_Ratings": "2023-11-03T19:57:56.8878181+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:17.7210342+00:00"
 }

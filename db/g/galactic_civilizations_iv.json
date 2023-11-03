@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 924,
-  "Ranking_Popularity": 368,
+  "Ranking_Rating": 926,
+  "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7199,
+  "EOS_Progressed": 7200,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8120,6 +8120,11 @@
       "Time": "2023-11-03T18:04:45.1375235+00:00",
       "NumProgressed": 7199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T20:04:34.7880951+00:00",
+      "NumProgressed": 7200,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8171,7 +8176,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "Control_All_Relics",
@@ -8235,7 +8240,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5543
+      "UsersEstimate": 5544
     },
     {
       "ID": "First_Race_Met",
@@ -8243,7 +8248,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "First_Ship_Designed",
@@ -8267,7 +8272,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5543
+      "UsersEstimate": 5544
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8451,7 +8456,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8473,9 +8478,9 @@
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 432
     },
     {
       "ID": "Win_As_Altarian",
@@ -8619,7 +8624,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4679
+      "UsersEstimate": 4680
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8706,15 +8711,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7199,
+      "Progressed": 7200,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:45.137523+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:04:34.7880943+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:11.5751218+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:45.1376164+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:26.7529879+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:04:34.7882439+00:00"
 }

@@ -1,35 +1,35 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 500)  
+Rating: 4.55 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~391 |
-| And again, and again, and... | 64.00% | ~287 |
-| Burn, Elysium, burn! | 63.00% | ~283 |
+| Huzza, he's back. | 87.00% | ~392 |
+| And again, and again, and... | 64.00% | ~288 |
+| Burn, Elysium, burn! | 62.00% | ~279 |
 | Kuvaq Minigame-Master | 61.00% | ~274 |
-| FunScore | 55.00% | ~247 |
+| FunScore | 55.00% | ~248 |
 | Funtime's over | 53.00% | ~238 |
-| Chunky | 51.00% | ~229 |
-| Shall we play a game? | 49.00% | ~220 |
+| Chunky | 51.00% | ~230 |
 | Boat of love, boat of love | 49.00% | ~220 |
+| Shall we play a game? | 48.00% | ~216 |
 | School's out | 44.00% | ~198 |
 | Elysian Minigame-Master | 38.00% | ~171 |
 | Scaffolding Expert | 37.00% | ~166 |
-| Sole Music | 35.00% | ~157 |
+| Sole Music | 35.00% | ~158 |
 | No man left behind! | 30.00% | ~135 |
 | Portals come in packs | 30.00% | ~135 |
-| Photo Friend | 27.00% | ~121 |
+| Photo Friend | 26.00% | ~117 |
 | Brainfreeze | 21.00% | ~94 |
 | And everything comes full circle. | 20.00% | ~90 |
-| Masseltov | 19.00% | ~85 |
+| Masseltov | 19.00% | ~86 |
 | Quickdraw | 16.00% | ~72 |
 | Thuna...? | 14.00% | ~63 |
 | Monstrous Harassment | 14.00% | ~63 |
 | Heading the inverter | 14.00% | ~63 |
 | Blast from the Past | 12.00% | ~54 |
-| Play it again, Ronny | 11.00% | ~49 |
+| Play it again, Ronny | 11.00% | ~50 |
 | Goat Team | 10.00% | ~45 |
 | Paradox! | 10.00% | ~45 |
 | Weapons 101 | 8.00% | ~36 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 500)
 | Every man for himself! | 5.00% | ~22 |
 | 1001 Jackalopes | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 297)  
-Completed: 6 (1.34%) (Ranked 139)  
+Progressed: 450 (Ranked 297)  
+Completed: 6 (1.33%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 6 (1.34%) (Ranked 139)
 | 2023-10-21 | 445 | 6 |
 | 2023-10-23 | 446 | 6 |
 | 2023-10-29 | 448 | 6 |
-| 2023-11-03 | 449 | 6 |
+| 2023-11-03 | 450 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

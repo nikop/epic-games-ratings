@@ -1,37 +1,37 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.55 (Ranked 1,030)  
+Rating: 3.55 (Ranked 1,031)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,039 |
-| Master, Commander | 21.00% | ~16,264 |
-| Hard Worker | 20.00% | ~15,490 |
-| Mechanic | 19.00% | ~14,715 |
-| Adios, Friendo | 18.00% | ~13,941 |
-| Bottom's Up | 18.00% | ~13,941 |
-| Nice Try | 16.00% | ~12,392 |
-| Right On Target | 13.00% | ~10,068 |
-| Piano Man | 11.00% | ~8,519 |
-| Lazy Bones | 9.00% | ~6,970 |
-| Vinyl Vibes | 8.00% | ~6,196 |
-| Nothing Left to Say | 7.00% | ~5,421 |
-| Sniper | 7.00% | ~5,421 |
+| Be Seeing You | 22.00% | ~17,041 |
+| Master, Commander | 21.00% | ~16,266 |
+| Hard Worker | 20.00% | ~15,491 |
+| Mechanic | 19.00% | ~14,717 |
+| Adios, Friendo | 18.00% | ~13,942 |
+| Bottom's Up | 18.00% | ~13,942 |
+| Nice Try | 16.00% | ~12,393 |
+| Right On Target | 13.00% | ~10,069 |
+| Piano Man | 11.00% | ~8,520 |
+| Lazy Bones | 9.00% | ~6,971 |
+| Vinyl Vibes | 8.00% | ~6,197 |
+| Nothing Left to Say | 7.00% | ~5,422 |
+| Sniper | 7.00% | ~5,422 |
 | Cut Call | 6.00% | ~4,647 |
-| Magnetic Miracles | 5.00% | ~3,872 |
+| Magnetic Miracles | 5.00% | ~3,873 |
 | Butcher | 4.00% | ~3,098 |
 | Spicy | 4.00% | ~3,098 |
-| A Man Of Taste | 3.00% | ~2,323 |
-| Ace in the Hole | 3.00% | ~2,323 |
-| Fair's Fair | 3.00% | ~2,323 |
-| Hearty | 3.00% | ~2,323 |
-| Meaty | 3.00% | ~2,323 |
-| Taco Toto | 3.00% | ~2,323 |
+| A Man Of Taste | 3.00% | ~2,324 |
+| Ace in the Hole | 3.00% | ~2,324 |
+| Fair's Fair | 3.00% | ~2,324 |
+| Hearty | 3.00% | ~2,324 |
+| Meaty | 3.00% | ~2,324 |
+| Taco Toto | 3.00% | ~2,324 |
 | Audiophile | 2.00% | ~1,549 |
 | Tape Head | 2.00% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,448 (Ranked 95)  
+Progressed: 77,457 (Ranked 95)  
 Completed: 819 (1.06%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 819 (1.06%) (Ranked 151)
 | 2023-10-31 | 77,202 | 815 |
 | 2023-11-01 | 77,284 | 816 |
 | 2023-11-02 | 77,380 | 818 |
-| 2023-11-03 | 77,448 | 819 |
+| 2023-11-03 | 77,457 | 819 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

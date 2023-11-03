@@ -2,10 +2,10 @@
   "ID": "4885ae8497a54a0d95073db643c65ea0",
   "Name": "Naheulbeuk\u0027s Dungeon Master",
   "ProductSlug": "naheulbeuks-dungeon-master-b2694b",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-15T14:00:00+00:00",
     "PcReleaseDate": "2023-11-15T14:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-07T16:06:00.6109966+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:03:16.657042+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:03:08.0051992+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:38.5203914+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:59:12.2219248+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:16.6570473+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:59.1893318+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:08.005207+00:00"
 }

@@ -1,16 +1,16 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 580)  
+Rating: 4.50 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,793 |
-| Advancement | 5.00% | ~1,495 |
-| Meticulously Efficient | 5.00% | ~1,495 |
-| Discovery | 4.00% | ~1,196 |
-| Solo Capture | 4.00% | ~1,196 |
-| Swift Rift Removers | 4.00% | ~1,196 |
+| Stylish | 6.00% | ~1,795 |
+| Advancement | 5.00% | ~1,496 |
+| Meticulously Efficient | 5.00% | ~1,496 |
+| Discovery | 4.00% | ~1,197 |
+| Solo Capture | 4.00% | ~1,197 |
+| Swift Rift Removers | 4.00% | ~1,197 |
 | Clutch Capture | 3.00% | ~897 |
 | I collect Spores, Molds, and Fungi | 3.00% | ~897 |
 | Cultured | 3.00% | ~897 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 580)
 | Fragile Panes | 0.80% | ~239 |
 | Liability | 0.80% | ~239 |
 | Surprise! | 0.80% | ~239 |
-| Therapeutic | 0.50% | ~149 |
+| Therapeutic | 0.50% | ~150 |
 | Rift Seeker | 0.40% | ~120 |
 | Master Collector | 0.30% | ~90 |
 | Ghost Expert | 0.20% | ~60 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,891 (Ranked 122)  
+Progressed: 29,915 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,11 +254,11 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
-| 2023-11-03 | 29,891 | 65 |
+| 2023-11-03 | 29,915 | 65 |
 ## Awards
 Max (Great for Beginners): 300  (Ranked 245)  
-Sum: 2,674 (Ranked 180)  
-Diff (max vs sum): 65  
+Sum: 2,676 (Ranked 179)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 300 |
@@ -267,8 +267,8 @@ Diff (max vs sum): 65
 | This game has Amazing Storytelling | 270 |
 | This game is Highly Recommended | 268 |
 | This game has Competitive Players | 263 |
+| This game is Extremely Fun | 261 |
 | This game is Relaxing | 260 |
-| This game is Extremely Fun | 259 |
 | This game has Quickly Understood Controls | 245 |
 | This game has Amazing Characters | 243 |
 | This game has Playful Visuals | 94 |
@@ -476,4 +476,4 @@ Diff (max vs sum): 65
 | 2023-10-31 | 4.50 | 298 | 2,637 |
 | 2023-11-01 | 4.50 | 298 | 2,657 |
 | 2023-11-02 | 4.50 | 298 | 2,663 |
-| 2023-11-03 | 4.50 | 300 | 2,674 |
+| 2023-11-03 | 4.50 | 300 | 2,676 |

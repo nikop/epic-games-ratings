@@ -43,9 +43,9 @@ Rating: 4.82 (Ranked 63)
 | True power | 16.00% | ~419 |
 | Meltridge | 16.00% | ~419 |
 | Cloven Dell Headquarters | 16.00% | ~419 |
+| I smell fear | 14.00% | ~367 |
 | Embrace the darkness | 13.00% | ~340 |
 | Whispers in the Woods IV | 13.00% | ~340 |
-| I smell fear | 13.00% | ~340 |
 | The end of the experiments | 13.00% | ~340 |
 | The Great City of Demacia | 13.00% | ~340 |
 | Call it 'redistribution of magic | 13.00% | ~340 |

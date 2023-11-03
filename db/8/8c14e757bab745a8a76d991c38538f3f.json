@@ -2,10 +2,10 @@
   "ID": "8c14e757bab745a8a76d991c38538f3f",
   "Name": "Voor De Kroon",
   "ProductSlug": "voor-de-kroon-4820a4",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-12-09T09:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-31T07:57:18.5658256+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:02:54.0212394+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:06:59.2074147+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:02:45.1314565+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:06:19.567134+00:00"
 }

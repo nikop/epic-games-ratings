@@ -2,10 +2,10 @@
   "ID": "f6a9fcbf437b48b59cf3d54a75c20932",
   "Name": "Traffic Brains 2",
   "ProductSlug": "traffic-brains-2-c0ce5e",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-03T10:00:00+00:00",
     "PcReleaseDate": "2023-08-03T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-08T18:57:32.162392+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:22.4905242+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:03:09.6345461+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:05:57.5460117+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:03:00.1564304+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:05:24.6773375+00:00"
 }

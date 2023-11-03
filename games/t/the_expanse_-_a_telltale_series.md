@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 482)  
+Rating: 4.56 (Ranked 483)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,19 +20,19 @@ Rating: 4.56 (Ranked 482)
 | Captain Drummer | 1.00% | ~146 |
 | Celebrations are in Order | 1.00% | ~146 |
 | Impossible Objects | 1.00% | ~146 |
-| Thorston Mayer | 0.70% | ~102 |
+| Thorston Mayer | 0.80% | ~117 |
 | Bottoms up! | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
 | Doctor Approved | 0.50% | ~73 |
 | Data Logger | 0.40% | ~58 |
 | No Belter Left Behind | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
+| Safe Cracker | 0.30% | ~2 |
 | Zen Master | 0.30% | ~2 |
 | Brother's Reaper | 0.20% | ~29 |
 | Debris Spree | 0.20% | ~29 |
 | Data Recoverer | 0.20% | ~29 |
 | Keep Arjun in Check | 0.20% | ~1 |
-| Safe Cracker | 0.20% | ~1 |
 | Master Negotiator | 0.20% | ~1 |
 | Madame Undersecretary | 0.20% | ~1 |
 | Urshanabi Hoarder | 0.10% | ~15 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 482)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,599 (Ranked 146)  
-Completed: 29 (0.20%) (Ranked 241)  
+Progressed: 14,603 (Ranked 146)  
+Completed: 30 (0.21%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,7 +145,7 @@ Completed: 29 (0.20%) (Ranked 241)
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
-| 2023-11-03 | 14,599 | 29 |
+| 2023-11-03 | 14,603 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 132,
-  "Ranking_EOS_Completed": 311,
+  "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18764,
+  "EOS_Progressed": 18765,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12588,6 +12588,11 @@
       "Time": "2023-11-03T11:04:29.9447136+00:00",
       "NumProgressed": 18764,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-03T20:04:32.3484299+00:00",
+      "NumProgressed": 18765,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12599,7 +12604,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "0002",
@@ -12886,7 +12891,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18764,
+      "Progressed": 18765,
       "Completed": 4
     }
   ],
@@ -12894,8 +12899,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:42.7594677+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:04:32.3484291+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:53.1001002+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:42.7595486+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:41.6945506+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:04:32.3485561+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 564,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -203,9 +203,9 @@
       "ID": "DEL_VII",
       "SetID": "35d3i7a",
       "Name": "This is my son.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEL_VIII",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:20.7487818+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:09:08.0871787+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.5973589+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:28.1110118+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:20.7488183+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:17.9408455+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:08.0872375+00:00"
 }

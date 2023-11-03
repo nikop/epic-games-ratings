@@ -29,10 +29,10 @@ Rating: 4.64 (Ranked 330)
 | Eye Scream, You Scream | 0.90% | ~220 |
 | We Came, We Chainsaw, We Conquered | 0.90% | ~15 |
 | Mux Ado About Shipping | 0.70% | ~12 |
+| Sequel-Bait | 0.40% | ~98 |
 | Gunning For Your Job | 0.40% | ~98 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.40% | ~98 |
 | Fall In Love With A Parasite | 0.40% | ~7 |
-| Sequel-Bait | 0.30% | ~73 |
 | Playing Favorites | 0.30% | ~73 |
 | Mods Please Ban | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |
@@ -51,7 +51,7 @@ Rating: 4.64 (Ranked 330)
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,425 (Ranked 125)  
-Completed: 13 (0.05%) (Ranked 293)  
+Completed: 13 (0.05%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

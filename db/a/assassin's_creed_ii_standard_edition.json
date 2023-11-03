@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 121,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 371,
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_PopularitySum": 372,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -1017,6 +1017,6 @@
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
   "LastChanged": "2023-11-03T18:03:07.5725675+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.9352526+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:03:07.5725683+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:00.5999188+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:02:58.1876105+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:50.9521428+00:00"
 }

@@ -29,13 +29,13 @@ Number of Ratings: 371  (23.09.2022)
 | Exterminator | 1.00% | ~33 |
 | Efficient Killer | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
+| Junk Banishment | 1.00% | ~33 |
 | A Gift Spurned | 1.00% | ~33 |
 | Long Distance Call | 1.00% | ~33 |
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
 | Fleetmaster | 0.90% | ~30 |
 | Mind Like a Fortress | 0.90% | ~30 |
-| Junk Banishment | 0.90% | ~30 |
 | Tactical Flexibility | 0.90% | ~30 |
 | For the Machine God | 0.80% | ~26 |
 | Death Comes For All | 0.80% | ~26 |
@@ -76,7 +76,7 @@ Number of Ratings: 371  (23.09.2022)
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,289 (Ranked 198)  
-Completed: 0 (0.00%) (Ranked 341)  
+Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

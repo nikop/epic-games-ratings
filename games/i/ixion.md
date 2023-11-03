@@ -1,26 +1,26 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 466)  
+Rating: 4.57 (Ranked 467)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~949 |
-| Sputnik 2049 | 25.00% | ~818 |
+| Wakey Wakey | 29.00% | ~950 |
+| Sputnik 2049 | 25.00% | ~819 |
 | Infinite Growth... | 24.00% | ~786 |
 | Without Breaking Some Eggs... | 23.00% | ~753 |
 | Space Society | 17.00% | ~557 |
 | A Thousand Strong | 17.00% | ~557 |
 | Ready for a New World | 17.00% | ~557 |
 | Permanent Redesigns | 15.00% | ~491 |
-| Fully Recycled | 14.00% | ~458 |
-| The Ship of Theseus | 14.00% | ~458 |
+| Fully Recycled | 14.00% | ~459 |
+| The Ship of Theseus | 14.00% | ~459 |
 | Guy de Borderlands | 13.00% | ~426 |
 | Ain't Nobody Got Time for That | 13.00% | ~426 |
 | Hope Seeker | 12.00% | ~393 |
 | Exceeding Capacity | 11.00% | ~360 |
 | Breaking Protocol | 11.00% | ~360 |
-| A Hunk of Junk | 10.00% | ~327 |
+| A Hunk of Junk | 10.00% | ~328 |
 | Man's Best Friend | 8.00% | ~262 |
 | Power Outage | 8.00% | ~262 |
 | Please Make it Stop! | 8.00% | ~262 |
@@ -43,11 +43,11 @@ Rating: 4.57 (Ranked 466)
 | Drill-dozer | 3.00% | ~98 |
 | Help of the Forgotten Member | 3.00% | ~98 |
 | Pulsar Disciple | 3.00% | ~98 |
-| Mutual Loyalty | 2.00% | ~65 |
-| Tiqqun Contender | 2.00% | ~65 |
-| Catastrophe Avoided | 2.00% | ~65 |
-| Space Greenhouse | 2.00% | ~65 |
-| Tiqqun Unchained | 2.00% | ~65 |
+| Mutual Loyalty | 2.00% | ~66 |
+| Tiqqun Contender | 2.00% | ~66 |
+| Catastrophe Avoided | 2.00% | ~66 |
+| Space Greenhouse | 2.00% | ~66 |
+| Tiqqun Unchained | 2.00% | ~66 |
 | Better Him Than Me | 1.00% | ~33 |
 | Remember the Dead | 1.00% | ~33 |
 | You Had One Job... | 1.00% | ~33 |
@@ -63,8 +63,8 @@ Rating: 4.57 (Ranked 466)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,274 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 341)  
+Progressed: 3,275 (Ranked 199)  
+Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 0 (0.00%) (Ranked 341)
 | 2023-10-31 | 3,271 | 0 |
 | 2023-11-01 | 3,272 | 0 |
 | 2023-11-02 | 3,273 | 0 |
-| 2023-11-03 | 3,274 | 0 |
+| 2023-11-03 | 3,275 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
     "PcReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -415,9 +415,9 @@
       "ID": "GREEN_SLIME_SHEEN",
       "SetID": "ca3djk0",
       "Name": "Green Sheen",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -488,8 +488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:08:44.8141633+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:08:31.8503065+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.4659207+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:52.2886675+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:08:44.8141747+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:40.9436617+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:08:31.8503197+00:00"
 }

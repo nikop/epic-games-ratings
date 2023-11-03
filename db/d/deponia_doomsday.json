@@ -2,13 +2,13 @@
   "ID": "2c8de17b8e2d4d908b63eaf751b639a3",
   "Name": "Deponia Doomsday",
   "ProductSlug": "deponia-doomsday-1848dd",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -540,6 +540,11 @@
       "Time": "2023-11-03T18:09:26.9700432+00:00",
       "NumProgressed": 449,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-03T20:09:14.5888175+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -551,7 +556,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "dep4_achievement_10",
@@ -559,7 +564,7 @@
       "Name": "Sole Music",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "dep4_achievement_11",
@@ -575,7 +580,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "dep4_achievement_13",
@@ -589,9 +594,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 216
     },
     {
       "ID": "dep4_achievement_15",
@@ -623,7 +628,7 @@
       "Name": "Chunky",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "dep4_achievement_19",
@@ -631,7 +636,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "dep4_achievement_2",
@@ -639,7 +644,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "dep4_achievement_20",
@@ -653,9 +658,9 @@
       "ID": "dep4_achievement_21",
       "SetID": "5d32b60",
       "Name": "Photo Friend",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "dep4_achievement_22",
@@ -725,9 +730,9 @@
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 279
     },
     {
       "ID": "dep4_achievement_30",
@@ -751,7 +756,7 @@
       "Name": "Play it again, Ronny",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "dep4_achievement_33",
@@ -838,7 +843,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 6
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:26.9700427+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:09:14.5888168+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.725617+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:20.0505557+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:26.9700689+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:08.9983047+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:14.5888538+00:00"
 }

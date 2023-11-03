@@ -10,20 +10,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 4.00% | ~605 |
 | Settler | 4.00% | ~605 |
 | Friendly Family | 4.00% | ~605 |
-| Able | 3.00% | ~453 |
-| Architect | 3.00% | ~453 |
-| Good | 3.00% | ~453 |
-| Intrepid | 3.00% | ~453 |
-| Just | 3.00% | ~453 |
-| Learned | 3.00% | ~453 |
-| Mason | 3.00% | ~453 |
-| Noble | 3.00% | ~453 |
-| Pioneer | 3.00% | ~453 |
-| Strong | 3.00% | ~453 |
-| Hanging Gardens | 3.00% | ~453 |
-| Oracle | 3.00% | ~453 |
-| Naming Landmarks | 3.00% | ~453 |
-| Trade Caravan | 3.00% | ~453 |
+| Able | 3.00% | ~454 |
+| Architect | 3.00% | ~454 |
+| Good | 3.00% | ~454 |
+| Intrepid | 3.00% | ~454 |
+| Just | 3.00% | ~454 |
+| Learned | 3.00% | ~454 |
+| Mason | 3.00% | ~454 |
+| Noble | 3.00% | ~454 |
+| Pioneer | 3.00% | ~454 |
+| Strong | 3.00% | ~454 |
+| Hanging Gardens | 3.00% | ~454 |
+| Oracle | 3.00% | ~454 |
+| Naming Landmarks | 3.00% | ~454 |
+| Trade Caravan | 3.00% | ~454 |
 | Ambitious | 2.00% | ~302 |
 | Drillmaster | 2.00% | ~302 |
 | Brilliant | 2.00% | ~302 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,115 (Ranked 145)  
-Completed: 5 (0.03%) (Ranked 305)  
+Progressed: 15,117 (Ranked 145)  
+Completed: 5 (0.03%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -546,16 +546,16 @@ Completed: 5 (0.03%) (Ranked 305)
 | 2023-10-31 | 15,074 | 5 |
 | 2023-11-01 | 15,092 | 5 |
 | 2023-11-02 | 15,108 | 5 |
-| 2023-11-03 | 15,115 | 5 |
+| 2023-11-03 | 15,117 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
-Sum: 1,866 (Ranked 212)  
+Sum: 1,867 (Ranked 212)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |
 | This game has Diverse Characters | 218 |
-| This game is Highly Recommended | 216 |
+| This game is Highly Recommended | 217 |
 | This game is Extremely Fun | 214 |
 | This game is Educational | 212 |
 | This game has Challenging Combat | 202 |
@@ -725,3 +725,4 @@ Diff (max vs sum): 57
 | 2023-10-31 | 4.65 | - | 225 | 1,862 |
 | 2023-11-01 | 4.65 | - | 226 | 1,864 |
 | 2023-11-02 | 4.65 | - | 226 | 1,866 |
+| 2023-11-03 | 4.65 | - | 226 | 1,867 |

@@ -3,12 +3,12 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 229,
-  "Ranking_Popularity": 446,
+  "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -4467,9 +4467,9 @@
       "ID": "achAccumulate10M",
       "SetID": "dgl390n",
       "Name": "Transport master",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 960
     },
     {
       "ID": "achAccumulate1B",
@@ -4931,9 +4931,9 @@
       "ID": "achTunnelLength",
       "SetID": "dgl390n",
       "Name": "Louis Favre",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -4947,8 +4947,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-02T08:58:09.07646+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:25.4767011+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:09:12.9619935+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:48.3657665+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:18.9732676+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:25.4767693+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:07.9725036+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:12.9620757+00:00"
 }

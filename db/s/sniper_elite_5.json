@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 534,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3817,
+  "EOS_Progressed": 3818,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7651,6 +7651,11 @@
       "Time": "2023-11-03T15:07:47.7046045+00:00",
       "NumProgressed": 3817,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-03T20:04:26.7239971+00:00",
+      "NumProgressed": 3818,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7686,7 +7691,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7694,7 +7699,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7702,7 +7707,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7710,7 +7715,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7790,7 +7795,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7878,7 +7883,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7910,7 +7915,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7998,7 +8003,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8156,9 +8161,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8229,13 +8234,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3768,
+      "Progressed": 3769,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3817,
+      "Progressed": 3818,
       "Completed": 11
     }
   ],
@@ -8243,8 +8248,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:37.6788519+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:04:26.7239966+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:55.9141737+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:37.6789443+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:00:09.1096677+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:04:26.7241144+00:00"
 }

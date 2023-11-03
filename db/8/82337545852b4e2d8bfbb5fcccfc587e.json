@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -564,9 +564,9 @@
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "EpicACHV_15",
@@ -636,9 +636,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 70,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "EpicACHV_8",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:26.599378+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:04:16.0960919+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.6715429+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:36.4720389+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:26.5993971+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:26.4035543+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:04:16.0961163+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Lost Abroad Cafe - A Language Learning Management",
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 243,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 528,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 9,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-05-22T02:10:23.0997287+00:00",
@@ -2384,6 +2384,11 @@
       "Time": "2023-11-03T13:09:07.2104427+00:00",
       "NumProgressed": 526,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T20:03:07.7058514+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 8,
@@ -2395,7 +2400,7 @@
       "Name": "Barista",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "coffee_100",
@@ -2411,15 +2416,15 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "countertop",
       "SetID": "56hff7o",
       "Name": "Countertop Champion",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "get_lost",
@@ -2427,7 +2432,7 @@
       "Name": "Get Lost!",
       "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 468
+      "UsersEstimate": 470
     },
     {
       "ID": "tea_10",
@@ -2435,7 +2440,7 @@
       "Name": "Tea-ser",
       "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "tea_100",
@@ -2458,14 +2463,14 @@
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 526,
-      "Completed": 0
+      "Progressed": 528,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:03:16.1933648+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:03:07.7058508+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:49.7054695+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:11.4973567+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:16.1933877+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:26.4272106+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:07.705879+00:00"
 }

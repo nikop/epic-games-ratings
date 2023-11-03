@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 969,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7795,9 +7795,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233562,
+  "EOS_Progressed": 233569,
   "EOS_Completed": 2425,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29840,6 +29840,11 @@
       "Time": "2023-11-03T18:04:06.0246629+00:00",
       "NumProgressed": 233562,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-03T20:03:56.0723557+00:00",
+      "NumProgressed": 233569,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 532,
@@ -34106,21 +34111,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199836,
-      "Completed": 3847
+      "Progressed": 199843,
+      "Completed": 3852
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233562,
+      "Progressed": 233569,
       "Completed": 2425
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:06.0246624+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:03:56.0723552+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:59:48.0743503+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:06.0272123+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:02.46672+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:56.0753104+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b8877a4db3f04eec83b7410484e80473",
   "Name": "Railbreak",
   "ProductSlug": "railbreak-f87a0c",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -32,7 +32,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-10-27T18:57:14.6852388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:58.4598946+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:06:30.8512222+00:00"
+  "LastUpdate_AppInfo": "2023-11-03T19:57:06.7197128+00:00",
+  "LastUpdate_Ratings": "2023-11-03T20:00:11.4955182+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:05:52.3766469+00:00"
 }

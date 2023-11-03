@@ -2,10 +2,10 @@
   "ID": "ba12e8eb6a7f4f2d803a2bd73dd7efde",
   "Name": "Time Commando",
   "ProductSlug": "time-commando-a27942",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-18T12:30:00+00:00",
     "PcReleaseDate": "1996-07-31T12:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T15:57:25.2599511+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:48.5231724+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:25.0174739+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:37.4705266+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:16.2496102+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 761,
-  "EOS_Completed": 88,
+  "EOS_Completed": 89,
   "EOS_NewPlayers": 4,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.56,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 11.7,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2744,6 +2744,11 @@
       "Time": "2023-11-02T23:09:17.2673154+00:00",
       "NumProgressed": 761,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-11-03T20:09:24.2319646+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -2969,9 +2974,9 @@
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_029",
@@ -2995,13 +3000,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 761,
-      "Completed": 88
+      "Completed": 89
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:36.9922615+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:09:24.2319639+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.2776095+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:59:48.5895045+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:36.9922892+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:02.9790927+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:24.2320048+00:00"
 }

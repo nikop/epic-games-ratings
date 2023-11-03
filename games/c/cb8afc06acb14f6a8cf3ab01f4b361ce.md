@@ -1,53 +1,53 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.19 (Ranked 909)  
+Rating: 4.19 (Ranked 911)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~114,163 |
-| May the Torchbearer light our way | 36.00% | ~108,154 |
-| A powerful aura was here | 24.00% | ~72,103 |
-| Let's raise the stakes!! | 11.00% | ~33,047 |
-| Rumors are true | 6.00% | ~18,026 |
-| Your wounds… They are healing so fast! | 6.00% | ~18,026 |
-| We'll be careful | 5.00% | ~15,021 |
-| Pride is a sin, young Knight | 5.00% | ~15,021 |
-| Bring it on! | 5.00% | ~15,021 |
-| Back to your senses | 3.00% | ~9,013 |
-| They tricked me | 3.00% | ~9,013 |
-| They won't last long | 3.00% | ~9,013 |
-| We need to talk | 2.00% | ~6,009 |
-| I feel drawn to it | 2.00% | ~6,009 |
-| I took a risk | 2.00% | ~6,009 |
-| Here to stay | 1.00% | ~3,004 |
-| Counting on you | 1.00% | ~3,004 |
-| This is the end | 1.00% | ~3,004 |
-| We can choose to fight | 1.00% | ~3,004 |
-| Their fate is sealed | 1.00% | ~3,004 |
-| Not even from this world | 0.80% | ~2,403 |
-| You want more? I've got more! | 0.50% | ~1,502 |
+| The touch of Chaos | 38.00% | ~114,209 |
+| May the Torchbearer light our way | 36.00% | ~108,198 |
+| A powerful aura was here | 24.00% | ~72,132 |
+| Let's raise the stakes!! | 11.00% | ~33,060 |
+| Rumors are true | 6.00% | ~18,033 |
+| Your wounds… They are healing so fast! | 6.00% | ~18,033 |
+| We'll be careful | 5.00% | ~15,027 |
+| Pride is a sin, young Knight | 5.00% | ~15,027 |
+| Bring it on! | 5.00% | ~15,027 |
+| Back to your senses | 3.00% | ~9,016 |
+| They tricked me | 3.00% | ~9,016 |
+| They won't last long | 3.00% | ~9,016 |
+| We need to talk | 2.00% | ~6,011 |
+| I feel drawn to it | 2.00% | ~6,011 |
+| I took a risk | 2.00% | ~6,011 |
+| Here to stay | 1.00% | ~3,005 |
+| Counting on you | 1.00% | ~3,005 |
+| This is the end | 1.00% | ~3,005 |
+| We can choose to fight | 1.00% | ~3,005 |
+| Their fate is sealed | 1.00% | ~3,005 |
+| Not even from this world | 0.80% | ~2,404 |
+| You want more? I've got more! | 0.50% | ~1,503 |
 | No damsels in distress | 0.40% | ~1,202 |
-| The Ashen Knight | 0.30% | ~901 |
+| The Ashen Knight | 0.30% | ~902 |
 | The Shade | 0.20% | ~601 |
 | Through the Veil | 0.20% | ~601 |
-| The immortal is bound to reborn | 0.10% | ~300 |
-| A legend among Chimeras | 0.10% | ~300 |
-| It's only pain | 0.10% | ~300 |
-| I know how to handle it | 0.10% | ~300 |
-| Settle this once and for all | 0.10% | ~300 |
-| Call this the Judge's mercy | 0.10% | ~300 |
-| There's too many of them! | 0.10% | ~300 |
-| I've been waiting for this! | 0.10% | ~300 |
-| I'm just warming up | 0.10% | ~300 |
-| We learned it the hard way | 0.10% | ~300 |
-| They wanted yet another monster… | 0.10% | ~300 |
-| Something... unnatural | 0.10% | ~300 |
-| We strike as one | 0.10% | ~300 |
-| Chaos be damned! | 0.10% | ~300 |
+| The immortal is bound to reborn | 0.10% | ~301 |
+| A legend among Chimeras | 0.10% | ~301 |
+| It's only pain | 0.10% | ~301 |
+| I know how to handle it | 0.10% | ~301 |
+| Settle this once and for all | 0.10% | ~301 |
+| Call this the Judge's mercy | 0.10% | ~301 |
+| There's too many of them! | 0.10% | ~301 |
+| I've been waiting for this! | 0.10% | ~301 |
+| I'm just warming up | 0.10% | ~301 |
+| We learned it the hard way | 0.10% | ~301 |
+| They wanted yet another monster… | 0.10% | ~301 |
+| Something... unnatural | 0.10% | ~301 |
+| We strike as one | 0.10% | ~301 |
+| Chaos be damned! | 0.10% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,428 (Ranked 50)  
-Completed: 1 (0.00%) (Ranked 341)  
+Progressed: 300,549 (Ranked 49)  
+Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 1 (0.00%) (Ranked 341)
 | 2023-10-31 | 297,037 | 1 |
 | 2023-11-01 | 297,965 | 1 |
 | 2023-11-02 | 299,191 | 1 |
-| 2023-11-03 | 300,428 | 1 |
+| 2023-11-03 | 300,549 | 1 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 429)  
 Sum: 49 (Ranked 479)  

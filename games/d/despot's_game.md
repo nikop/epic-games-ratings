@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 580)  
+Rating: 4.50 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 580)
 | Assemble a Meganewbie | 26.00% | ~113 |
 | Frugal | 22.00% | ~95 |
 | Feed a God | 22.00% | ~95 |
-| To the Moon and Back | 20.00% | ~87 |
+| To the Moon and Back | 21.00% | ~91 |
 | Great Flight | 19.00% | ~82 |
 | Holy Vengeance | 16.00% | ~69 |
 | Honorary Cultist | 13.00% | ~56 |

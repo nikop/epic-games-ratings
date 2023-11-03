@@ -2,10 +2,10 @@
   "ID": "5b2c27f1a98b4852bc20317fbee6968e",
   "Name": "Extreme Bus Driver 2024",
   "ProductSlug": "extreme-bus-driver-simulator-b7a96d",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-13T15:00:00+00:00",
     "PcReleaseDate": "2023-08-31T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-28T19:03:20.7165919+00:00",
   "LastUpdate_AppInfo": "2023-10-29T20:57:19.8856843+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:25.4700406+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:03:51.9318353+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:15.3201582+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:42.6182577+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "2325c580f06d4eb4ba6814c1b6802bed",
   "Name": "Don Duality",
   "ProductSlug": "don-duality-0ee268",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-30T21:57:18.7782088+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:49.7994274+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:24.7236978+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:00:03.1548709+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:12.0847138+00:00"
 }

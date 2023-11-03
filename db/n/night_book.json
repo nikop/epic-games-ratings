@@ -4,8 +4,8 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "hopeful",
@@ -390,9 +390,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "marriage_is_off",
@@ -406,9 +406,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "off_his_meds",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:06:28.6003322+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:05:50.4075799+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.4525421+00:00",
   "LastUpdate_Ratings": "2023-11-03T18:01:13.3788038+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:06:28.6003457+00:00"
+  "LastUpdate_Achievements": "2023-11-03T20:05:50.4075944+00:00"
 }

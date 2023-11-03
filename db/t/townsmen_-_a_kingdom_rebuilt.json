@@ -2,13 +2,13 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4326,
+  "EOS_Progressed": 4327,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1449,6 +1449,11 @@
       "Time": "2023-11-03T09:09:27.5867294+00:00",
       "NumProgressed": 4326,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T20:09:26.1841546+00:00",
+      "NumProgressed": 4327,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1812,7 +1817,7 @@
       "Name": "Eureka!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2267,15 +2272,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4326,
+      "Progressed": 4327,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-10-21T14:59:27.3816446+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:39.3155827+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:09:26.1841535+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:14.3422793+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:46.5022948+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:39.3156868+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:34.6743586+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:26.1843328+00:00"
 }

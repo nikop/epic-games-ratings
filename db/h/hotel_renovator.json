@@ -2,13 +2,13 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 735,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2201,9 +2201,9 @@
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2330,8 +2330,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-02T04:58:00.5676492+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:07:09.3694649+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:06:28.962503+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:29.2346589+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:46.8753582+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:07:09.3694903+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:35.0637173+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:06:28.9625327+00:00"
 }

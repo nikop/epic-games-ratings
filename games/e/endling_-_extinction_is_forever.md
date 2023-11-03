@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~499 |
-| A Friend in Need | 60.00% | ~315 |
+| Home Sweet Home | 95.00% | ~500 |
+| A Friend in Need | 60.00% | ~316 |
 | Surviving | 43.00% | ~226 |
-| Detox diet | 41.00% | ~215 |
+| Detox diet | 41.00% | ~216 |
 | Never Give Up | 40.00% | ~210 |
-| Tasty | 37.00% | ~194 |
+| Tasty | 37.00% | ~195 |
 | Lullaby | 31.00% | ~163 |
-| You Can Pet The Fox | 29.00% | ~152 |
+| You Can Pet The Fox | 29.00% | ~153 |
 | Hard Fox Life | 24.00% | ~126 |
 | Never Let Down | 23.00% | ~121 |
-| A Barking Fox Doesn't Bite | 22.00% | ~116 |
+| A Barking Fox Doesn't Bite | 21.00% | ~110 |
 | Chicken Dinner | 21.00% | ~110 |
-| Peaceful Instinct | 18.00% | ~94 |
+| Peaceful Instinct | 18.00% | ~95 |
 | Maternity | 16.00% | ~84 |
 | Barking in The Rain | 15.00% | ~79 |
 | Family Reunion | 14.00% | ~74 |
-| Never Run Around | 14.00% | ~74 |
 | Beyond Words | 14.00% | ~74 |
-| Three Little Foxes | 10.00% | ~52 |
-| Two Peas in a Pod | 10.00% | ~52 |
-| All For One | 10.00% | ~52 |
-| Extinction is Forever | 10.00% | ~52 |
+| Never Run Around | 13.00% | ~68 |
+| Three Little Foxes | 10.00% | ~53 |
+| Two Peas in a Pod | 10.00% | ~53 |
+| All For One | 10.00% | ~53 |
+| Extinction is Forever | 10.00% | ~53 |
 | We Are a Family | 9.00% | ~47 |
 | Mother Love | 4.00% | ~21 |
 | For a Better Tomorrow | 3.00% | ~16 |
-| Omnivore | 2.00% | ~10 |
-| Easter Egg | 2.00% | ~10 |
+| Omnivore | 2.00% | ~11 |
+| Easter Egg | 2.00% | ~11 |
 | Endling | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525 (Ranked 288)  
+Progressed: 526 (Ranked 288)  
 Completed: 3 (0.57%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 3 (0.57%) (Ranked 183)
 | 2023-10-31 | 517 | 3 |
 | 2023-11-01 | 518 | 3 |
 | 2023-11-02 | 521 | 3 |
-| 2023-11-03 | 525 | 3 |
+| 2023-11-03 | 526 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

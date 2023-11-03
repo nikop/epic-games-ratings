@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 482)  
+Rating: 4.56 (Ranked 483)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 98  (23.09.2022)
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,110 (Ranked 169)  
-Completed: 9 (0.13%) (Ranked 254)  
+Completed: 9 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,12 +246,12 @@ Completed: 9 (0.13%) (Ranked 254)
 | 2023-11-03 | 7,110 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 463)  
-Sum: 271 (Ranked 370)  
-Diff (max vs sum): 93  
+Sum: 272 (Ranked 369)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
-| This game is Extremely Fun | 33 |
+| This game is Extremely Fun | 34 |
 | This game has Diverse Characters | 33 |
 | This game has Realistic Visuals | 33 |
 | This game has Amazing Characters | 31 |
@@ -376,3 +376,4 @@ Diff (max vs sum): 93
 | 2023-09-23 | 4.56 | - | 36 | 274 |
 | 2023-10-28 | 4.57 | - | 36 | 271 |
 | 2023-10-29 | 4.56 | - | 36 | 271 |
+| 2023-11-03 | 4.56 | - | 36 | 272 |

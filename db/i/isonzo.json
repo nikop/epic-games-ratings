@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 483,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 370,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -785,10 +785,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-03T19:59:53.8175739+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 272,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -802,7 +808,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6796,9 +6802,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-10-29T04:58:39.1460571+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:01.4459032+00:00",
+  "LastChanged": "2023-11-03T19:59:53.8175736+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:03:51.8733815+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.4558053+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:40.2899871+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:01.445961+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:53.8175755+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:03:51.8734403+00:00"
 }

@@ -1,33 +1,33 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 533)  
+Rating: 4.53 (Ranked 534)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,707 |
-| Worth it | 63.00% | ~39,340 |
-| Eagle Eye | 55.00% | ~34,345 |
-| Corpseman I | 40.00% | ~24,978 |
-| Blast fishing | 37.00% | ~23,105 |
-| Not alone | 32.00% | ~19,982 |
-| Headhunter I | 26.00% | ~16,236 |
-| Manual Labour I | 25.00% | ~15,611 |
-| Developers, Developers, Developers | 24.00% | ~14,987 |
-| Basic Training | 24.00% | ~14,987 |
-| Furchtlos und Treu | 13.00% | ~8,118 |
-| Gott Mit Uns | 12.00% | ~7,493 |
-| This We'll Defend! | 9.00% | ~5,620 |
-| Anker wirf! | 9.00% | ~5,620 |
-| Providentiea Memor | 9.00% | ~5,620 |
-| For King and Country | 9.00% | ~5,620 |
+| Setting an example | 78.00% | ~48,712 |
+| Worth it | 63.00% | ~39,344 |
+| Eagle Eye | 55.00% | ~34,348 |
+| Corpseman I | 40.00% | ~24,980 |
+| Blast fishing | 37.00% | ~23,107 |
+| Not alone | 32.00% | ~19,984 |
+| Headhunter I | 26.00% | ~16,237 |
+| Manual Labour I | 25.00% | ~15,613 |
+| Developers, Developers, Developers | 24.00% | ~14,988 |
+| Basic Training | 24.00% | ~14,988 |
+| Furchtlos und Treu | 13.00% | ~8,119 |
+| Gott Mit Uns | 12.00% | ~7,494 |
+| This We'll Defend! | 9.00% | ~5,621 |
+| Anker wirf! | 9.00% | ~5,621 |
+| Providentiea Memor | 9.00% | ~5,621 |
+| For King and Country | 9.00% | ~5,621 |
 | Battle hardened | 8.00% | ~4,996 |
-| Semper Fidelis! | 7.00% | ~4,371 |
-| Honneur et Patrie | 7.00% | ~4,371 |
-| In Treue Fest | 5.00% | ~3,122 |
-| Voor De Koning | 5.00% | ~3,122 |
-| Extreme Headhunter | 5.00% | ~3,122 |
+| Semper Fidelis! | 7.00% | ~4,372 |
+| Honneur et Patrie | 7.00% | ~4,372 |
+| In Treue Fest | 5.00% | ~3,123 |
+| Voor De Koning | 5.00% | ~3,123 |
+| Extreme Headhunter | 5.00% | ~3,123 |
 | Advance Australia | 4.00% | ~2,498 |
 | We Stand on Guard | 4.00% | ~2,498 |
 | Sidi Brahim | 4.00% | ~2,498 |
@@ -35,22 +35,22 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,498 |
 | There is no I in team | 4.00% | ~2,498 |
 | Corpseman II | 4.00% | ~2,498 |
-| Offense is the best defence | 3.00% | ~1,873 |
-| Veteran | 3.00% | ~1,873 |
-| Manual Labour II | 3.00% | ~1,873 |
-| In My Defens God Me Defend | 3.00% | ~1,873 |
-| Silver x100 | 3.00% | ~1,873 |
-| Impavidum Ferient Bella! | 3.00% | ~1,873 |
+| Offense is the best defence | 3.00% | ~1,874 |
+| Veteran | 3.00% | ~1,874 |
+| Manual Labour II | 3.00% | ~1,874 |
+| In My Defens God Me Defend | 3.00% | ~1,874 |
+| Silver x100 | 3.00% | ~1,874 |
+| Impavidum Ferient Bella! | 3.00% | ~1,874 |
 | Bronze x100 | 2.00% | ~1,249 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,249 |
-| Gold x100 | 1.00% | ~624 |
-| Hunting the Hun | 1.00% | ~624 |
-| #1 | 1.00% | ~624 |
-| Golden Headhunter | 1.00% | ~624 |
-| That's another one down! | 1.00% | ~624 |
-| Do you even die? | 1.00% | ~624 |
-| Headhunter II | 1.00% | ~624 |
-| Corpseman III | 1.00% | ~624 |
+| Gold x100 | 1.00% | ~625 |
+| Hunting the Hun | 1.00% | ~625 |
+| #1 | 1.00% | ~625 |
+| Golden Headhunter | 1.00% | ~625 |
+| That's another one down! | 1.00% | ~625 |
+| Do you even die? | 1.00% | ~625 |
+| Headhunter II | 1.00% | ~625 |
+| Corpseman III | 1.00% | ~625 |
 | Elite Player | 0.80% | ~500 |
 | Manual Labour III | 0.40% | ~250 |
 | Buddy | 0.30% | ~187 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,445 (Ranked 104)  
-Completed: 4 (0.01%) (Ranked 318)  
+Progressed: 62,451 (Ranked 104)  
+Completed: 4 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,11 +263,11 @@ Completed: 4 (0.01%) (Ranked 318)
 | 2023-10-31 | 62,223 | 4 |
 | 2023-11-01 | 62,294 | 4 |
 | 2023-11-02 | 62,371 | 4 |
-| 2023-11-03 | 62,445 | 4 |
+| 2023-11-03 | 62,451 | 4 |
 ## Awards
-Max (Great for Beginners): 106  (Ranked 348)  
+Max (Great for Beginners): 106  (Ranked 349)  
 Sum: 902 (Ranked 269)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

@@ -2,10 +2,10 @@
   "ID": "f40f434ad05949c1bab03b97126a2972",
   "Name": "Morbid The Lords of Ire",
   "ProductSlug": "morbid-the-lords-of-ire-2d2563",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.7503383+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:03:00.814137+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:09.7631298+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:02:51.4581317+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:08:56.9208184+00:00"
 }

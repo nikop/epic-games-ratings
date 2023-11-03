@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2941,10 +2941,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2674,
       "NumberOfAwardsMax": 300
+    },
+    {
+      "Time": "2023-11-03T19:57:21.3960591+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2676,
+      "NumberOfAwardsMax": 300
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2674,
+  "NumberOfAwards": 2676,
   "NumberOfAwardsMax": 300,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2976,7 +2982,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 259
+      "Count": 261
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3021,9 +3027,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29891,
+  "EOS_Progressed": 29915,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2008,
+  "EOS_NewPlayers": 2012,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17721,6 +17727,11 @@
       "Time": "2023-11-03T18:06:04.7912812+00:00",
       "NumProgressed": 29891,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-03T20:05:32.0753425+00:00",
+      "NumProgressed": 29915,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17732,7 +17743,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "Animated",
@@ -17820,7 +17831,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "Dont_Need_These",
@@ -17844,7 +17855,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "Escape_Artist",
@@ -18020,7 +18031,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "Stunner",
@@ -18036,7 +18047,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1795
     },
     {
       "ID": "Summoner",
@@ -18060,7 +18071,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "Teamwork",
@@ -18084,7 +18095,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "There_You_Are",
@@ -18139,16 +18150,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29891,
+      "Progressed": 29915,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-03T13:02:53.7428489+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:06:04.7912807+00:00",
+  "LastChanged": "2023-11-03T19:57:21.396059+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:05:32.075342+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:57:31.5253993+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:06:04.7913913+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:57:21.3960603+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:05:32.075461+00:00"
 }

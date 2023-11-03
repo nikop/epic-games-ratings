@@ -2,10 +2,10 @@
   "ID": "3e6d17638fed463b9384aa5f98ab6fce",
   "Name": "Tank Battle North Africa",
   "ProductSlug": "tank-battle-north-africa-552efe",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-13T11:00:00+00:00",
     "PcReleaseDate": "2016-07-12T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-13T19:02:21.2475347+00:00",
   "LastUpdate_AppInfo": "2023-11-01T18:57:16.8213171+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:43.9518959+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:08:30.7271252+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:57.5686053+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:08:19.0127793+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,752,213 |
-| Easy to forget | 46.00% | ~1,644,935 |
-| Back in the black | 39.00% | ~1,394,619 |
-| That's what I'm talking about | 29.00% | ~1,037,024 |
-| The Best of Both Worlds | 25.00% | ~893,986 |
-| Get your wings | 20.00% | ~715,189 |
-| Double trouble | 16.00% | ~572,151 |
-| Smashing it | 11.00% | ~393,354 |
-| But can it run Crysis? | 9.00% | ~321,835 |
-| My favourite feature... | 9.00% | ~321,835 |
-| From humble beginnings... | 7.00% | ~250,316 |
-| Customer satisfaction | 7.00% | ~250,316 |
-| Keeping things neat | 4.00% | ~143,038 |
-| Seems you're pretty good at this | 4.00% | ~143,038 |
-| Bending over backwards | 4.00% | ~143,038 |
-| Triple threat | 3.00% | ~107,278 |
-| You rock at this! | 3.00% | ~107,278 |
-| Your music sucks | 3.00% | ~107,278 |
-| I'm broke, Uncle! | 2.00% | ~71,519 |
-| Maybe you should try something else? | 2.00% | ~71,519 |
-| Taking care of business | 2.00% | ~71,519 |
-| Things are under control | 2.00% | ~71,519 |
-| Perfection | 2.00% | ~71,519 |
-| Calling in Sick | 2.00% | ~71,519 |
-| Overvolted | 1.00% | ~35,759 |
-| If you fail the first time... | 1.00% | ~35,759 |
-| Amazonian | 1.00% | ~35,759 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~35,759 |
-| Building isn't cheap! | 1.00% | ~35,759 |
-| Majority Shareholder | 1.00% | ~35,759 |
-| Owner | 1.00% | ~35,759 |
+| You need to plug it in... | 49.00% | ~1,752,231 |
+| Easy to forget | 46.00% | ~1,644,951 |
+| Back in the black | 39.00% | ~1,394,633 |
+| That's what I'm talking about | 29.00% | ~1,037,034 |
+| The Best of Both Worlds | 25.00% | ~893,995 |
+| Get your wings | 20.00% | ~715,196 |
+| Double trouble | 16.00% | ~572,157 |
+| Smashing it | 11.00% | ~393,358 |
+| But can it run Crysis? | 9.00% | ~321,838 |
+| My favourite feature... | 9.00% | ~321,838 |
+| From humble beginnings... | 7.00% | ~250,319 |
+| Customer satisfaction | 7.00% | ~250,319 |
+| Keeping things neat | 4.00% | ~143,039 |
+| Seems you're pretty good at this | 4.00% | ~143,039 |
+| Bending over backwards | 4.00% | ~143,039 |
+| Triple threat | 3.00% | ~107,279 |
+| You rock at this! | 3.00% | ~107,279 |
+| Your music sucks | 3.00% | ~107,279 |
+| I'm broke, Uncle! | 2.00% | ~71,520 |
+| Maybe you should try something else? | 2.00% | ~71,520 |
+| Taking care of business | 2.00% | ~71,520 |
+| Things are under control | 2.00% | ~71,520 |
+| Perfection | 2.00% | ~71,520 |
+| Calling in Sick | 2.00% | ~71,520 |
+| Overvolted | 1.00% | ~35,760 |
+| If you fail the first time... | 1.00% | ~35,760 |
+| Amazonian | 1.00% | ~35,760 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~35,760 |
+| Building isn't cheap! | 1.00% | ~35,760 |
+| Majority Shareholder | 1.00% | ~35,760 |
+| Owner | 1.00% | ~35,760 |
 | Show off | 0.90% | ~32,184 |
 | Work ethic 101 | 0.70% | ~25,032 |
 | Building momentum | 0.60% | ~21,456 |
@@ -59,8 +59,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,576 |
 | Treat yourself - GPU | 0.10% | ~3,576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,575,945 (Ranked 5)  
-Completed: 37 (0.00%) (Ranked 341)  
+Progressed: 3,575,981 (Ranked 5)  
+Completed: 37 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,10 +256,10 @@ Completed: 37 (0.00%) (Ranked 341)
 | 2023-10-31 | 3,574,901 | 36 |
 | 2023-11-01 | 3,575,254 | 36 |
 | 2023-11-02 | 3,575,624 | 37 |
-| 2023-11-03 | 3,575,945 | 37 |
+| 2023-11-03 | 3,575,981 | 37 |
 ## Awards
 Max (Great for Beginners): 1,095  (Ranked 142)  
-Sum: 8,102 (Ranked 103)  
+Sum: 8,103 (Ranked 103)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): 39
 | This game has Quickly Understood Controls | 951 |
 | This game is Highly Recommended | 903 |
 | This game has Amazing Storytelling | 827 |
-| This game has Amazing Characters | 668 |
+| This game has Amazing Characters | 669 |
 | This game has Obsessive Gameplay | 664 |
 | This game has a Creative Community | 657 |
 ## Ratings History
@@ -519,4 +519,4 @@ Diff (max vs sum): 39
 | 2023-10-31 | 4.65 | - | 1,094 | 8,093 |
 | 2023-11-01 | 4.65 | - | 1,094 | 8,094 |
 | 2023-11-02 | 4.65 | - | 1,095 | 8,099 |
-| 2023-11-03 | 4.65 | - | 1,095 | 8,102 |
+| 2023-11-03 | 4.65 | - | 1,095 | 8,103 |

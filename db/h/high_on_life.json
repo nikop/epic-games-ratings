@@ -6,9 +6,9 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -303,7 +303,7 @@
   "Tags": [],
   "EOS_Progressed": 24425,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6507,9 +6507,9 @@
       "ID": "ACH_HUMAN_HAVEN",
       "SetID": "cdkbb11",
       "Name": "Sequel-Bait",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 45,
-      "UsersEstimate": 73
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_JUGGLE_SKILLS",
@@ -6762,8 +6762,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-10-25T00:00:44.125645+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:04:17.622338+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:04:07.1367953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:16.0229367+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:59:03.5772651+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:04:17.6223964+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:51.3256629+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:04:07.1368692+00:00"
 }

@@ -1,7 +1,7 @@
 # Crashlands
 [Store](https://store.epicgames.com/en-US/p/crashlands)  
 [View Rawdata](../../db/c/crashlands.json)  
-Rating: 4.66 (Ranked 290)  
+Rating: 4.65 (Ranked 309)  
 Number of Ratings: 517  (23.09.2022)  
 ## Awards
 Max (Character Customization): 195  (Ranked 286)  
@@ -109,3 +109,4 @@ Diff (max vs sum): -77
 | 2023-10-11 | 4.65 | - | 194 | 286 |
 | 2023-10-21 | 4.66 | - | 194 | 286 |
 | 2023-10-29 | 4.66 | - | 195 | 287 |
+| 2023-11-03 | 4.65 | - | 195 | 287 |

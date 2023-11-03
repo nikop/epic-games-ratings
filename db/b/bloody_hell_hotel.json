@@ -2,10 +2,10 @@
   "ID": "c3f4101f6646497388e000133b620cf9",
   "Name": "Bloody Hell Hotel",
   "ProductSlug": "bloody-hell-hotel-1fe561",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T17:57:40.5315815+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:06.5477994+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:06:40.3982418+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:21.3671354+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:06:01.022279+00:00"
 }

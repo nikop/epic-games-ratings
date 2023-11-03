@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 520)  
+Rating: 4.54 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 0.50% | ~185 |
+| Whatever It Takes | 0.50% | ~186 |
+| Pork Chopped | 0.40% | ~149 |
 | One of Us | 0.30% | ~111 |
-| Pork Chopped | 0.30% | ~111 |
 | Dr. Reed, I Presume? | 0.10% | ~712 |
 | Making Your Mark | 0.10% | ~712 |
 | Git Gutte! | 0.10% | ~712 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 520)
 | Wilhelm | 0.10% | ~37 |
 | Top That, Tisha! | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,528 (Ranked 22)  
-Completed: 2,314 (0.33%) (Ranked 216)  
+Progressed: 711,611 (Ranked 22)  
+Completed: 2,315 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,7 +254,7 @@ Completed: 2,314 (0.33%) (Ranked 216)
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
-| 2023-11-03 | 711,528 | 2,314 |
+| 2023-11-03 | 711,611 | 2,315 |
 ## Awards
 Max (Great Boss Battles): 6,934  (Ranked 54)  
 Sum: 10,449 (Ranked 90)  

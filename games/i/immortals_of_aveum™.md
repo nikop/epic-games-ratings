@@ -1,11 +1,11 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.95 (Ranked 998)  
+Rating: 3.95 (Ranked 999)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~121 |
+| Unforeseen | 89.00% | ~123 |
 | Battlefields Have Memories | 87.00% | ~120 |
 | Enlisted | 86.00% | ~119 |
 | Maybe Engage a Little | 81.00% | ~112 |
@@ -15,10 +15,10 @@ Rating: 3.95 (Ranked 998)
 | Gravity-Challenged Rocks | 41.00% | ~57 |
 | All the Major Food Groups | 36.00% | ~50 |
 | Soldier | 34.00% | ~47 |
-| Beggars Would Ride | 30.00% | ~41 |
-| Control is an Illusion | 29.00% | ~40 |
+| Beggars Would Ride | 31.00% | ~43 |
+| Control is an Illusion | 30.00% | ~41 |
 | Socialite | 29.00% | ~40 |
-| The Means to Save It | 22.00% | ~30 |
+| The Means to Save It | 23.00% | ~32 |
 | Resilience to Sin | 20.00% | ~28 |
 | A Familiar Nest | 19.00% | ~26 |
 | Periapt Alizarin | 18.00% | ~25 |
@@ -53,7 +53,7 @@ Rating: 3.95 (Ranked 998)
 | Tip of the Spear | 1.00% | ~1 |
 | Fowl Play | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 383)  
+Progressed: 138 (Ranked 384)  
 Completed: 1 (0.72%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

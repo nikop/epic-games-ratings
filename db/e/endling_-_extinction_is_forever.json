@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 526,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2023-11-03T18:09:35.2481381+00:00",
       "NumProgressed": 525,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T20:09:22.5542311+00:00",
+      "NumProgressed": 526,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -841,7 +846,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TROP003",
@@ -849,7 +854,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TROP004",
@@ -857,7 +862,7 @@
       "Name": "All For One",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TROP005",
@@ -865,7 +870,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "TROP006",
@@ -889,7 +894,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "TROP009",
@@ -913,7 +918,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TROP012",
@@ -935,9 +940,9 @@
       "ID": "TROP014",
       "SetID": "9n0dl35",
       "Name": "Never Run Around",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 68
     },
     {
       "ID": "TROP015",
@@ -961,7 +966,7 @@
       "Name": "Omnivore",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TROP018",
@@ -985,7 +990,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "TROP021",
@@ -993,15 +998,15 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "TROP022",
       "SetID": "9n0dl35",
       "Name": "A Barking Fox Doesn\u0027t Bite",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 110
     },
     {
       "ID": "TROP023",
@@ -1009,7 +1014,7 @@
       "Name": "Detox diet",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "TROP024",
@@ -1017,7 +1022,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "TROP025",
@@ -1041,14 +1046,14 @@
       "Name": "Easter Egg",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 526,
       "Completed": 3
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-03T18:09:35.2481375+00:00",
+  "LastChanged_Achievements": "2023-11-03T20:09:22.5542306+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.3335592+00:00",
-  "LastUpdate_Ratings": "2023-11-03T18:00:07.2676369+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:35.2481569+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:59:22.0234824+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:22.5542567+00:00"
 }

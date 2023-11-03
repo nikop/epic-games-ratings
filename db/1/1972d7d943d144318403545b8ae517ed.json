@@ -2,10 +2,10 @@
   "ID": "1972d7d943d144318403545b8ae517ed",
   "Name": "Moonray",
   "ProductSlug": "moonray-52967b",
-  "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T23:57:01.2652345+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:58:21.2378019+00:00",
-  "LastUpdate_Achievements": "2023-11-03T18:09:31.9545846+00:00"
+  "LastUpdate_Ratings": "2023-11-03T19:58:10.1295688+00:00",
+  "LastUpdate_Achievements": "2023-11-03T20:09:19.3735084+00:00"
 }
