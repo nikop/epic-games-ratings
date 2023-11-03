@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 375,
+  "EOS_Progressed": 376,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.13,
+  "EOS_Completed_Percentage": 6.12,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1740,6 +1740,11 @@
       "Time": "2023-11-03T10:06:53.5512203+00:00",
       "NumProgressed": 375,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T11:07:58.4874049+00:00",
+      "NumProgressed": 376,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1823,7 +1828,7 @@
       "Name": "A great audience",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1831,15 +1836,15 @@
       "Name": "For its own good",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1885,9 +1890,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1950,14 +1955,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 375,
+      "Progressed": 376,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:06:53.5512197+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:07:58.4874044+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:00:14.3854605+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:06:53.551244+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:00:01.4552602+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:07:58.4874276+00:00"
 }

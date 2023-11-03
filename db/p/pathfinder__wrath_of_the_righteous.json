@@ -4079,7 +4079,7 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 12003,
+  "EOS_Progressed": 12004,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -15049,6 +15049,11 @@
       "Time": "2023-11-03T10:06:22.6054765+00:00",
       "NumProgressed": 12003,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T11:06:27.8651148+00:00",
+      "NumProgressed": 12004,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15076,7 +15081,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "04_FithCrusade",
@@ -15196,7 +15201,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "19_EqualToAroden",
@@ -15308,7 +15313,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15987,21 +15992,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10785,
+      "Progressed": 10786,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12003,
+      "Progressed": 12004,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-02T21:58:59.5792614+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:06:22.6054762+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:06:27.8651143+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:58:45.387474+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:06:22.6056566+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:58:30.9106363+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:06:27.8652693+00:00"
 }

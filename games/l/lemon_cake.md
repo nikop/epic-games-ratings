@@ -23,7 +23,7 @@
 | A Loving Home | 6.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155 (Ranked 375)  
-Completed: 2 (1.29%) (Ranked 142)  
+Completed: 2 (1.29%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

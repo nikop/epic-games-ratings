@@ -7795,9 +7795,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233525,
+  "EOS_Progressed": 233533,
   "EOS_Completed": 2425,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29800,6 +29800,11 @@
       "Time": "2023-11-03T10:03:53.2969047+00:00",
       "NumProgressed": 233525,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-03T11:03:50.6092128+00:00",
+      "NumProgressed": 233533,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 532,
@@ -30089,9 +30094,9 @@
       "ID": "objective_completed_1086",
       "SetID": "415jc5c",
       "Name": "First Third Out",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1087",
@@ -32529,9 +32534,9 @@
       "ID": "objective_completed_622",
       "SetID": "415jc5c",
       "Name": "Misty Undermountain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_623",
@@ -32825,9 +32830,9 @@
       "ID": "objective_completed_677",
       "SetID": "415jc5c",
       "Name": "Fire and Brimstone",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_680",
@@ -33577,9 +33582,9 @@
       "ID": "objective_completed_904",
       "SetID": "415jc5c",
       "Name": "Working for the Weak End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_918",
@@ -33729,9 +33734,9 @@
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1360",
@@ -34066,21 +34071,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199799,
-      "Completed": 3824
+      "Progressed": 199807,
+      "Completed": 3828
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233525,
+      "Progressed": 233533,
       "Completed": 2425
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:03:53.296904+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:03:50.6092123+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:59:16.9622318+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:03:53.2994791+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:59:03.0435752+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:03:50.6115016+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,539 |
-| The Killing Jar | 8.00% | ~17,368 |
+| First of Many | 9.00% | ~19,540 |
+| The Killing Jar | 8.00% | ~17,369 |
 | Expanding Horizons | 7.00% | ~15,197 |
 | Quest for Survival | 7.00% | ~15,197 |
 | Not Your Average Trait | 7.00% | ~15,197 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,171 |
 | Proving Grounds | 0.90% | ~1,954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,096 (Ranked 66)  
+Progressed: 217,107 (Ranked 66)  
 Completed: 428 (0.20%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,10 +166,10 @@ Completed: 428 (0.20%) (Ranked 241)
 | 2023-10-31 | 215,476 | 423 |
 | 2023-11-01 | 216,711 | 423 |
 | 2023-11-02 | 217,009 | 426 |
-| 2023-11-03 | 217,096 | 428 |
+| 2023-11-03 | 217,107 | 428 |
 ## Awards
 Max (Great Boss Battles): 2,040  (Ranked 110)  
-Sum: 4,506 (Ranked 143)  
+Sum: 4,509 (Ranked 143)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 241 |
 | This game has Amazing Characters | 238 |
 | This game has Unique Visuals | 205 |
-| This game has a Creative Community | 187 |
+| This game has a Creative Community | 190 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -287,4 +287,4 @@ Diff (max vs sum): -33
 | 2023-10-31 | 4.75 | 1,980 | 4,401 |
 | 2023-11-01 | 4.75 | 2,003 | 4,441 |
 | 2023-11-02 | 4.75 | 2,018 | 4,481 |
-| 2023-11-03 | 4.75 | 2,040 | 4,506 |
+| 2023-11-03 | 4.75 | 2,040 | 4,509 |

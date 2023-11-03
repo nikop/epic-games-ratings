@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -2166,9 +2166,9 @@
       "ID": "theme_wolf_killEveryEnemyType",
       "SetID": "95dc8p",
       "Name": "Lochias\u0027s Hunger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ulstryx_killCalabyneInOneTurn",
@@ -2190,8 +2190,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:08:49.140175+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:08:48.6508321+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:14.4460326+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:00:06.0318781+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:08:49.1402188+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:59:51.6752432+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:08:48.6508713+00:00"
 }

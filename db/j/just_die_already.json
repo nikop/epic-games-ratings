@@ -2,7 +2,7 @@
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 719,
@@ -1638,10 +1638,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 849,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-11-03T10:59:54.5304929+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 850,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 849,
+  "NumberOfAwards": 850,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1697,7 +1703,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game has Easy Combat",
@@ -1729,8 +1735,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-10-31T01:42:58.5884435+00:00",
+  "LastChanged": "2023-11-03T10:59:54.5304928+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:11.0195211+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:00:09.3837347+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:03:28.5524924+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:59:54.5304932+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:03:20.3180089+00:00"
 }

@@ -41,6 +41,7 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
 | I'm Not Smiling | 0.10% | ~1 |
+| Lochias's Hunger | 0.10% | ~1 |
 | No Time for Clawmonsters | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
@@ -61,7 +62,6 @@ Number of Ratings: 45  (23.09.2022)
 | Tempest | 0.00% | ~0 |
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
-| Lochias's Hunger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,446 (Ranked 230)  
 Completed: 6 (0.41%) (Ranked 204)  

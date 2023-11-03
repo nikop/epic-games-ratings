@@ -8,10 +8,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,541 |
 | Titan's First Steps | 4.00% | ~5,541 |
-| Basic in Bulk | 3.00% | ~4,155 |
-| Disintermediation | 3.00% | ~4,155 |
-| Tinkle of Coins | 3.00% | ~4,155 |
-| Capitalism Ho! | 3.00% | ~4,155 |
+| Basic in Bulk | 3.00% | ~4,156 |
+| Disintermediation | 3.00% | ~4,156 |
+| Tinkle of Coins | 3.00% | ~4,156 |
+| Capitalism Ho! | 3.00% | ~4,156 |
 | The Daily Grind | 2.00% | ~2,770 |
 | One Easy Payment | 2.00% | ~2,770 |
 | Some Assembly Required | 2.00% | ~2,770 |
@@ -44,13 +44,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,385 |
 | Arcane Industries | 1.00% | ~1,385 |
 | Tax not Included | 0.90% | ~1,247 |
+| For the Hoard! | 0.90% | ~1,247 |
 | Trash to Treasure | 0.90% | ~1,247 |
 | Royal Ransom | 0.90% | ~1,247 |
 | Magical Harmony | 0.90% | ~1,247 |
 | A Notch Above the Rest | 0.80% | ~1,108 |
 | The King's Caprice | 0.80% | ~1,108 |
 | Big Game Hunting | 0.80% | ~1,108 |
-| For the Hoard! | 0.80% | ~1,108 |
 | Scrapbooker | 0.80% | ~1,108 |
 | Locally Sourced | 0.80% | ~1,108 |
 | Flying off the Shelves | 0.80% | ~1,108 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,516 (Ranked 78)  
+Progressed: 138,518 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,516 | 178 |
+| 2023-11-03 | 138,518 | 178 |
 ## Awards
 Max (Great for Beginners): 4,817  (Ranked 74)  
 Sum: 27,491 (Ranked 51)  

@@ -13,7 +13,7 @@
 | Open up wide | 36.00% | ~50 |
 | Keep away from children | 36.00% | ~50 |
 | Artistic fool | 35.00% | ~49 |
-| Let the boot talk | 31.00% | ~43 |
+| Let the boot talk | 32.00% | ~44 |
 | Chapter II | 27.00% | ~38 |
 | Shadow on the wall | 25.00% | ~35 |
 | Handyman | 24.00% | ~33 |
@@ -31,7 +31,7 @@
 | Master of Thermodynamics | 14.00% | ~19 |
 | To err is human... | 12.00% | ~17 |
 | Unfullfilled dreams | 12.00% | ~17 |
-| Useless but beautiful | 9.00% | ~13 |
+| Useless but beautiful | 10.00% | ~14 |
 | Nothing can stop me | 9.00% | ~13 |
 | Mumbo Jumbo | 9.00% | ~13 |
 | Lollipop | 8.00% | ~11 |

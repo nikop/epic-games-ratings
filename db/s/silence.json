@@ -339,9 +339,9 @@
       "ID": "0000_achv_kickEverything",
       "SetID": "dhn82m5",
       "Name": "Let the boot talk",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "0000_achv_noskip",
@@ -387,9 +387,9 @@
       "ID": "0000_achv_spotinteract",
       "SetID": "dhn82m5",
       "Name": "Useless but beautiful",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "0000_achv_spotlick",
@@ -676,8 +676,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:05:54.0989956+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:05:57.588707+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.3962652+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:59:52.8731682+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:05:54.0990272+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:59:39.9482199+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:05:57.5887417+00:00"
 }

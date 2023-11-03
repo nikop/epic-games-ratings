@@ -3691,10 +3691,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4506,
       "NumberOfAwardsMax": 2040
+    },
+    {
+      "Time": "2023-11-03T11:02:51.3216572+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4509,
+      "NumberOfAwardsMax": 2040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4506,
+  "NumberOfAwards": 4509,
   "NumberOfAwardsMax": 2040,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3744,7 +3750,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 187
+      "Count": 190
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3765,9 +3771,9 @@
       "Count": 264
     }
   ],
-  "EOS_Progressed": 217096,
+  "EOS_Progressed": 217107,
   "EOS_Completed": 428,
-  "EOS_NewPlayers": 13284,
+  "EOS_NewPlayers": 13213,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16240,6 +16246,11 @@
       "Time": "2023-11-03T10:04:29.6601183+00:00",
       "NumProgressed": 217096,
       "NumCompleted": 428
+    },
+    {
+      "Time": "2023-11-03T11:04:26.8387232+00:00",
+      "NumProgressed": 217107,
+      "NumCompleted": 428
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16332,7 +16343,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17368
+      "UsersEstimate": 17369
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16436,7 +16447,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19539
+      "UsersEstimate": 19540
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -16651,16 +16662,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 217096,
+      "Progressed": 217107,
       "Completed": 428
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-03T09:02:59.863047+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:04:29.6601178+00:00",
+  "LastChanged": "2023-11-03T11:02:51.321657+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:04:26.8387227+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.5483711+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:03:03.9030067+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:04:29.6602119+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:02:51.3216576+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:04:26.8388167+00:00"
 }

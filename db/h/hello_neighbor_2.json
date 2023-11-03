@@ -453,9 +453,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3156,
+  "EOS_Progressed": 3157,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -4458,6 +4458,11 @@
       "Time": "2023-11-03T09:03:57.3096153+00:00",
       "NumProgressed": 3156,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2023-11-03T11:04:03.3898291+00:00",
+      "NumProgressed": 3157,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 14,
@@ -4517,7 +4522,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -4541,7 +4546,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_REUNION",
@@ -4549,7 +4554,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -4565,7 +4570,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -4580,7 +4585,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3156,
+      "Progressed": 3157,
       "Completed": 130
     }
   ],
@@ -4588,8 +4593,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-02T17:03:31.5383359+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:04:06.3428366+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:04:03.3898287+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:43.5143827+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:02:47.1053148+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:04:06.3428646+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:02:33.5442141+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:04:03.3898575+00:00"
 }

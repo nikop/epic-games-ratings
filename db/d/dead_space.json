@@ -4616,9 +4616,9 @@
       "ID": "achievement_29",
       "SetID": "222fo9l",
       "Name": "Legend Teller",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_3",
@@ -4833,8 +4833,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:05:20.7861673+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:05:18.7719342+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:02:49.8994314+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:05:20.7862176+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:02:36.7487094+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:05:18.7719766+00:00"
 }

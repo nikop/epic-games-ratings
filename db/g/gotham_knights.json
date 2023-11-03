@@ -3959,9 +3959,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75815,
+  "EOS_Progressed": 75816,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 824,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21259,6 +21259,11 @@
       "Time": "2023-11-03T10:04:26.6645914+00:00",
       "NumProgressed": 75815,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-11-03T11:04:23.8730908+00:00",
+      "NumProgressed": 75816,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -21318,7 +21323,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17437
+      "UsersEstimate": 17438
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -21574,7 +21579,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26535
+      "UsersEstimate": 26536
     },
     {
       "ID": "HARLEY_2",
@@ -21598,7 +21603,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12130
+      "UsersEstimate": 12131
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -21678,7 +21683,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16679
+      "UsersEstimate": 16680
     },
     {
       "ID": "MYSTERY_04",
@@ -21757,13 +21762,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75815,
+      "Progressed": 75816,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46095,
+      "Progressed": 46096,
       "Completed": 2673
     }
   ],
@@ -21771,8 +21776,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-03T03:00:36.6701892+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:04:26.6645909+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:04:23.8730904+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:00:40.0790917+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:04:26.6647166+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:00:27.5263884+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:04:23.8731938+00:00"
 }

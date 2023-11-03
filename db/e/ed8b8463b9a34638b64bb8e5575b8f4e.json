@@ -327,9 +327,9 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "cold_feet",
@@ -359,9 +359,9 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "if_the_suit_fits",
@@ -495,9 +495,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "the_swell_celebration",
@@ -534,8 +534,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:08:29.7353443+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:08:29.4019344+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:58:01.6606411+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:08:29.7353604+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:57:54.4668383+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:08:29.4019512+00:00"
 }

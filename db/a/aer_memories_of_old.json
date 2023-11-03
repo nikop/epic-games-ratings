@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23318,
+  "EOS_Progressed": 23320,
   "EOS_Completed": 448,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
@@ -21573,6 +21573,11 @@
       "Time": "2023-11-03T10:05:19.8480818+00:00",
       "NumProgressed": 23318,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-11-03T11:05:17.8015927+00:00",
+      "NumProgressed": 23320,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21680,7 +21685,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -21704,7 +21709,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 17955
+      "UsersEstimate": 17956
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21720,7 +21725,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -21736,22 +21741,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23318,
+      "Progressed": 23320,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:05:19.8480812+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:05:17.8015922+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-11-03T10:02:56.3689495+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:05:19.8481899+00:00"
+  "LastUpdate_Ratings": "2023-11-03T11:02:44.0574017+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:05:17.8017011+00:00"
 }

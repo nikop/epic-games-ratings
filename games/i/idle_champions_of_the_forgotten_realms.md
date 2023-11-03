@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Birds | 0.10% | ~200 |
 | Where the Magic Happens | 0.10% | ~200 |
 | Downfall | 0.10% | ~200 |
+| First Third Out | 0.10% | ~200 |
 | Second Third Out | 0.10% | ~200 |
 | Third Third Out | 0.10% | ~200 |
 | The Silken Swamp | 0.10% | ~234 |
@@ -338,6 +339,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.10% | ~234 |
 | An Illithid Undertaking | 0.10% | ~200 |
 | An Illithid Ambush | 0.10% | ~200 |
+| Misty Undermountain | 0.10% | ~200 |
 | An Owlbear of an Undertaking | 0.10% | ~200 |
 | Déjà Vu | 0.10% | ~200 |
 | Wait, What? | 0.10% | ~200 |
@@ -374,6 +376,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.10% | ~200 |
 | Bel's Forge | 0.10% | ~200 |
 | Extreme Heat | 0.10% | ~200 |
+| Fire and Brimstone | 0.10% | ~200 |
 | Into the Unknown | 0.10% | ~200 |
 | A Tenday at Golgamann's | 0.10% | ~200 |
 | A Nightmare Occasion | 0.10% | ~200 |
@@ -458,6 +461,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.10% | ~234 |
 | Tekeli-li's Hunt | 0.10% | ~200 |
 | Cackling Horror | 0.10% | ~200 |
+| Working for the Weak End | 0.10% | ~200 |
 | Neutral No More | 0.10% | ~200 |
 | Fungal Excitation | 0.10% | ~200 |
 | Crimson Perception | 0.10% | ~200 |
@@ -474,6 +478,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~234 |
 | Rescue in the Jungle | 0.10% | ~234 |
 | The Court of Storms | 0.10% | ~200 |
+| Coasting to the Finish | 0.10% | ~200 |
 | Beware the Jabberwock | 0.10% | ~200 |
 | Quick or Quack | 0.10% | ~200 |
 | Willing to Sacrifice | 0.10% | ~200 |
@@ -513,7 +518,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~200 |
 | Don't Blast the Brigands | 0.00% | ~0 |
 | Always Watching | 0.00% | ~0 |
-| First Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | The Demon Lords of the Abyss | 0.00% | ~0 |
@@ -522,8 +526,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Acererak's Puzzle | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| Misty Undermountain | 0.00% | ~0 |
-| Fire and Brimstone | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
@@ -533,13 +535,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
-| Working for the Weak End | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
-| Coasting to the Finish | 0.00% | ~0 |
 | Calcryx Tricks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,525 (Ranked 62)  
+Progressed: 233,533 (Ranked 62)  
 Completed: 2,425 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,525 | 2,425 |
+| 2023-11-03 | 233,533 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

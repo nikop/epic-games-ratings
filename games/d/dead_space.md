@@ -27,8 +27,8 @@ Rating: 4.63 (Ranked 347)
 | Wreckage | 41.00% | ~593 |
 | Keeper of the Faith | 39.00% | ~564 |
 | Betrayed | 37.00% | ~535 |
+| Legend Teller | 37.00% | ~535 |
 | Exodus | 36.00% | ~521 |
-| Legend Teller | 36.00% | ~521 |
 | There's Always Peng! | 36.00% | ~521 |
 | Mindless Prey | 36.00% | ~521 |
 | Front Toward Enemy | 33.00% | ~477 |

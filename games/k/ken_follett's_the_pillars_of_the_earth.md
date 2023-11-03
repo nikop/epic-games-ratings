@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,452 |
-| Man of politics | 34.00% | ~5,484 |
+| Man of politics | 34.00% | ~5,485 |
 | Friends of sorts | 33.00% | ~5,323 |
 | Yet another secret | 33.00% | ~5,323 |
 | Let there be darkness | 32.00% | ~5,162 |
@@ -15,11 +15,11 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~3,871 |
 | Full house | 24.00% | ~3,871 |
 | Wannabe knight | 23.00% | ~3,710 |
-| Help an old friend | 21.00% | ~3,387 |
+| Help an old friend | 21.00% | ~3,388 |
 | Two of us | 20.00% | ~3,226 |
-| Negotiation skills | 18.00% | ~2,903 |
-| Workers' union | 18.00% | ~2,903 |
-| End of Book Two | 18.00% | ~2,903 |
+| Negotiation skills | 18.00% | ~2,904 |
+| Workers' union | 18.00% | ~2,904 |
+| End of Book Two | 18.00% | ~2,904 |
 | Everything's in order | 17.00% | ~2,742 |
 | Twist of Fate | 14.00% | ~2,258 |
 | Jack was here! | 14.00% | ~2,258 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,290 |
 | Silentium est aureum | 7.00% | ~1,129 |
 | Rebel without a cause | 6.00% | ~968 |
-| Staring contest champion | 5.00% | ~806 |
-| Lone wolf | 5.00% | ~806 |
-| Vox Populi | 5.00% | ~806 |
+| Staring contest champion | 5.00% | ~807 |
+| Lone wolf | 5.00% | ~807 |
+| Vox Populi | 5.00% | ~807 |
 | Revenge | 4.00% | ~645 |
 | Self-defense | 4.00% | ~645 |
 | Countess Aliena | 4.00% | ~645 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~484 |
 | Boy of mystery | 2.00% | ~323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,130 (Ranked 142)  
+Progressed: 16,131 (Ranked 142)  
 Completed: 114 (0.71%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 114 (0.71%) (Ranked 172)
 | 2023-10-31 | 16,079 | 114 |
 | 2023-11-01 | 16,104 | 114 |
 | 2023-11-02 | 16,125 | 114 |
-| 2023-11-03 | 16,130 | 114 |
+| 2023-11-03 | 16,131 | 114 |
 ## Awards
 Max (Easy Puzzles): 154  (Ranked 309)  
 Sum: 197 (Ranked 397)  

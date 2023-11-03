@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -250,6 +250,11 @@
       "Time": "2023-11-03T01:50:11.602172+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T11:05:20.3706072+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -460,7 +465,7 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -636,7 +641,7 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -662,7 +667,7 @@
       "Name": "Setting Sail",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -725,7 +730,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
@@ -733,8 +738,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:05:22.3059492+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:05:20.3706068+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.7042066+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:59:13.5082148+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:05:22.3059958+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:58:58.2716184+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:05:20.3706428+00:00"
 }

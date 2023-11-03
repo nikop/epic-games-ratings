@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18763,
+  "EOS_Progressed": 18764,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12583,6 +12583,11 @@
       "Time": "2023-11-03T09:04:23.2531463+00:00",
       "NumProgressed": 18763,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-03T11:04:29.9447136+00:00",
+      "NumProgressed": 18764,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12650,7 +12655,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "0009",
@@ -12658,7 +12663,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "0010",
@@ -12786,7 +12791,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "0026",
@@ -12810,7 +12815,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4315
+      "UsersEstimate": 4316
     },
     {
       "ID": "0029",
@@ -12826,7 +12831,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "0031",
@@ -12881,7 +12886,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18763,
+      "Progressed": 18764,
       "Completed": 4
     }
   ],
@@ -12889,8 +12894,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-03T10:04:32.6472067+00:00",
+  "LastChanged_Achievements": "2023-11-03T11:04:29.944713+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:57:41.0164531+00:00",
-  "LastUpdate_Achievements": "2023-11-03T10:04:32.6472873+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:57:34.3292878+00:00",
+  "LastUpdate_Achievements": "2023-11-03T11:04:29.9447753+00:00"
 }
