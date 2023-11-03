@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,905,733 | 4.29 | 835 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,908,737 | 4.29 | 835 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 602,896 | 4.48 | 618 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 312,089 | 4.68 | 249 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 252,966 | 4.68 | 249 |
@@ -25,8 +25,8 @@
 | 23 | [Warframe](games/w/warframe.md) | 18,118 | 4.60 | 408 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 17,205 | 4.21 | 893 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,774 | 4.76 | 122 |
-| 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,573 | 4.58 | 443 |
-| 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,571 | 4.60 | 408 |
+| 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,587 | 4.60 | 408 |
+| 27 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,573 | 4.58 | 443 |
 | 28 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,922 | 4.60 | 408 |
 | 29 | [Maneater](games/m/maneater.md) | 13,772 | 4.49 | 602 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 13,512 | 4.43 | 686 |
@@ -40,7 +40,7 @@
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,509 | 4.78 | 105 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,339 | 4.61 | 383 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,792 | 4.58 | 443 |
-| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,244 | 4.58 | 443 |
+| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,263 | 4.58 | 443 |
 | 42 | [Control](games/c/control.md) | 8,655 | 4.60 | 408 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,549 | 4.89 | 10 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,414 | 4.48 | 618 |
@@ -68,13 +68,13 @@
 | 66 | [Prey](games/p/prey.md) | 5,756 | 4.62 | 363 |
 | 67 | [Rogue Company](games/r/rogue_company.md) | 5,610 | 4.31 | 823 |
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,607 | 4.85 | 43 |
-| 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,470 | 4.06 | 968 |
+| 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,474 | 4.06 | 968 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,369 | 4.69 | 229 |
 | 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,183 | 4.68 | 249 |
 | 72 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,957 | 4.76 | 122 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,822 | 4.60 | 408 |
-| 74 | [Shop Titans](games/s/shop_titans.md) | 4,814 | 3.99 | 989 |
-| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,755 | 4.56 | 482 |
+| 74 | [Shop Titans](games/s/shop_titans.md) | 4,814 | 3.99 | 988 |
+| 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,764 | 4.56 | 482 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,749 | 4.56 | 482 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,654 | 4.70 | 212 |
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,595 | 4.70 | 212 |
@@ -109,11 +109,11 @@
 | 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,222 | 4.41 | 715 |
 | 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,157 | 4.37 | 768 |
 | 109 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,055 | 4.71 | 197 |
-| 110 | [Remnant 2](games/r/remnant_2.md) | 2,018 | 4.75 | 142 |
+| 110 | [Remnant 2](games/r/remnant_2.md) | 2,040 | 4.75 | 142 |
 | 111 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,009 | 4.49 | 602 |
 | 112 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,931 | 4.66 | 291 |
 | 113 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,924 | 4.90 | 6 |
-| 114 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,918 | 4.70 | 212 |
+| 114 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,920 | 4.70 | 212 |
 | 115 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,817 | 4.56 | 482 |
 | 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,809 | 4.50 | 580 |
 | 117 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,796 | 4.63 | 347 |
@@ -227,7 +227,7 @@
 | 225 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 394 | 4.62 | 363 |
 | 226 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 387 | 4.62 | 363 |
 | 227 | [Severed Steel](games/s/severed_steel.md) | 376 | 4.69 | 229 |
-| 228 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 989 |
+| 228 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 988 |
 | 229 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 371 | 4.66 | 291 |
 | 230 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 370 | 4.56 | 482 |
 | 231 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 369 | 4.31 | 823 |
