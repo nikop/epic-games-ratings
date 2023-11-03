@@ -19,9 +19,9 @@ Rating: 4.37 (Ranked 767)
 | Sector 7 | 0.50% | ~74 |
 | Did That Work? -- No! | 0.50% | ~74 |
 | The Puzzle Master | 0.30% | ~45 |
+| Master Room | 0.30% | ~45 |
 | Bronze Trophy | 0.20% | ~30 |
 | Phew! | 0.20% | ~30 |
-| Master Room | 0.20% | ~30 |
 | The Collector | 0.10% | ~15 |
 | Master Of The Collectables | 0.10% | ~15 |
 | Gold Trophy | 0.10% | ~15 |
@@ -30,7 +30,7 @@ Rating: 4.37 (Ranked 767)
 | Completed It. | 0.10% | ~15 |
 | Maxed Out | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,834 (Ranked 145)  
+Progressed: 14,849 (Ranked 145)  
 Completed: 3 (0.02%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 3 (0.02%) (Ranked 310)
 | 2023-10-31 | 13,819 | 0 |
 | 2023-11-01 | 14,311 | 0 |
 | 2023-11-02 | 14,773 | 2 |
-| 2023-11-03 | 14,834 | 3 |
+| 2023-11-03 | 14,849 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

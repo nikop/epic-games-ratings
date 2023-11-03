@@ -6,47 +6,48 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 171.00% | ~212 |
-| Adept Assembler | 127.00% | ~157 |
-| Greeno-B-Gone | 82.00% | ~102 |
-| Your Especially Earned Trajectory | 61.00% | ~76 |
-| Can We Keep It? | 40.00% | ~50 |
-| No Mountain Wide Enough | 31.00% | ~38 |
-| My Time Mansion | 27.00% | ~33 |
-| Happier-est Place on Earth | 21.00% | ~26 |
-| Call Me Fishmael | 21.00% | ~26 |
-| Anti-Santa | 20.00% | ~25 |
+| Iron Chef | 171.00% | ~219 |
+| Adept Assembler | 127.00% | ~163 |
+| Greeno-B-Gone | 83.00% | ~106 |
+| Your Especially Earned Trajectory | 63.00% | ~81 |
+| Can We Keep It? | 40.00% | ~51 |
+| No Mountain Wide Enough | 31.00% | ~40 |
+| My Time Mansion | 27.00% | ~35 |
+| Happier-est Place on Earth | 21.00% | ~27 |
+| Call Me Fishmael | 21.00% | ~27 |
+| Anti-Santa | 20.00% | ~26 |
 | On that Grindset | 19.00% | ~24 |
 | Finishing Touches | 19.00% | ~24 |
-| You Don't Win Friends With Salad | 18.00% | ~22 |
-| Yakmel Whisperer | 18.00% | ~22 |
-| I Do! | 15.00% | ~19 |
-| Officially Official | 14.00% | ~17 |
-| Jewel of the Eufaula | 12.00% | ~15 |
+| Yakmel Whisperer | 18.00% | ~23 |
+| You Don't Win Friends With Salad | 17.00% | ~22 |
+| Officially Official | 15.00% | ~19 |
+| I Do! | 14.00% | ~18 |
+| Jewel of the Eufaula | 13.00% | ~17 |
 | Knowledge is Power | 11.00% | ~14 |
-| Better Late than Never | 9.00% | ~11 |
-| Mole Masher | 8.00% | ~10 |
-| Pack Mule | 7.00% | ~9 |
-| Jack of All Trades | 6.00% | ~7 |
-| First Love | 6.00% | ~7 |
-| Diamonds are Forever | 6.00% | ~7 |
+| Better Late than Never | 9.00% | ~12 |
+| Mole Masher | 9.00% | ~12 |
+| Pack Mule | 8.00% | ~10 |
+| Jack of All Trades | 6.00% | ~8 |
 | Panda-kin | 5.00% | ~6 |
+| First Love | 5.00% | ~6 |
+| Diamonds are Forever | 5.00% | ~6 |
 | He Can Spin A Yarn... | 4.00% | ~5 |
+| One of the Cool Kids | 4.00% | ~5 |
 | Just What I Always Wanted! | 4.00% | ~5 |
-| One of the Cool Kids | 3.00% | ~4 |
 | Pro Gamer | 3.00% | ~4 |
-| Time Flies | 2.00% | ~2 |
-| Big Game Hunter | 2.00% | ~2 |
-| Commissions, commissions...! | 2.00% | ~2 |
-| Kind of a Big Deal | 2.00% | ~2 |
-| What Plants Crave | 2.00% | ~2 |
-| Cardistry | 2.00% | ~2 |
-| Chatterbox | 2.00% | ~2 |
-| Santa In Training | 2.00% | ~2 |
-| Got the Receipt? | 2.00% | ~2 |
-| Do Your Part | 2.00% | ~2 |
-| Newton | 2.00% | ~2 |
-| Financially Secure | 0.80% | ~1 |
+| Time Flies | 2.00% | ~3 |
+| Big Game Hunter | 2.00% | ~3 |
+| Commissions, commissions...! | 2.00% | ~3 |
+| Financially Secure | 2.00% | ~3 |
+| Kind of a Big Deal | 2.00% | ~3 |
+| What Plants Crave | 2.00% | ~3 |
+| Cardistry | 2.00% | ~3 |
+| Chatterbox | 2.00% | ~3 |
+| Santa In Training | 2.00% | ~3 |
+| Got the Receipt? | 2.00% | ~3 |
+| Do Your Part | 2.00% | ~3 |
+| Waste Not Want Not | 2.00% | ~3 |
+| Newton | 2.00% | ~3 |
 | Bridging the Gap | 0.80% | ~1 |
 | Martle's Dream | 0.80% | ~1 |
 | Elementary, My Dear | 0.80% | ~1 |
@@ -55,7 +56,6 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 0.80% | ~1 |
 | Sandrunning Speedster | 0.80% | ~1 |
 | Unboxing | 0.80% | ~1 |
-| Waste Not Want Not | 0.80% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |
@@ -67,13 +67,13 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 390)  
+Progressed: 128 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
-| 2023-11-03 | 126 | 0 |
+| 2023-11-03 | 128 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,299 (Ranked 237)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 563,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "MEM_XXII",
       "SetID": "35d3i7a",
       "Name": "Failed attempts.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XXIII",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-11-03T03:08:58.4777404+00:00",
+  "LastChanged_Achievements": "2023-11-03T04:09:20.5155693+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.5973589+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:20:25.9635938+00:00",
-  "LastUpdate_Achievements": "2023-11-03T03:08:58.4777928+00:00"
+  "LastUpdate_Ratings": "2023-11-03T03:57:00.5191625+00:00",
+  "LastUpdate_Achievements": "2023-11-03T04:09:20.5156209+00:00"
 }

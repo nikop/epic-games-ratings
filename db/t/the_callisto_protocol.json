@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 909,
+  "Ranking_Rating": 910,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 140,
@@ -1415,7 +1415,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 16393,
+  "EOS_Progressed": 16394,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
@@ -8670,6 +8670,11 @@
       "Time": "2023-11-03T02:22:51.3632365+00:00",
       "NumProgressed": 16393,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2023-11-03T04:05:03.8217413+00:00",
+      "NumProgressed": 16394,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 47,
@@ -8857,7 +8862,7 @@
       "Name": "Paper Jams",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "SHARE_PHOTO",
@@ -9056,13 +9061,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16393,
+      "Progressed": 16394,
       "Completed": 78
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4319,
+      "Progressed": 4320,
       "Completed": 29
     }
   ],
@@ -9070,8 +9075,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-03T01:42:48.352984+00:00",
-  "LastChanged_Achievements": "2023-11-03T03:04:57.6267483+00:00",
+  "LastChanged_Achievements": "2023-11-03T04:05:03.8217408+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:58:24.9165031+00:00",
-  "LastUpdate_Achievements": "2023-11-03T03:04:57.626846+00:00"
+  "LastUpdate_Ratings": "2023-11-03T03:58:27.8257015+00:00",
+  "LastUpdate_Achievements": "2023-11-03T04:05:03.8218264+00:00"
 }

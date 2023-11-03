@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7789,7 +7789,7 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233505,
+  "EOS_Progressed": 233507,
   "EOS_Completed": 2424,
   "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 36,
@@ -29759,6 +29759,11 @@
       "Time": "2023-11-03T03:03:26.1924855+00:00",
       "NumProgressed": 233505,
       "NumCompleted": 2424
+    },
+    {
+      "Time": "2023-11-03T04:03:43.6599537+00:00",
+      "NumProgressed": 233507,
+      "NumCompleted": 2424
     }
   ],
   "TotalAchievements": 532,
@@ -31296,9 +31301,9 @@
       "ID": "objective_completed_253",
       "SetID": "cc37lbc",
       "Name": "Distribute Your Weight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_254",
@@ -31568,9 +31573,9 @@
       "ID": "objective_completed_390",
       "SetID": "cc37lbc",
       "Name": "Class Vacation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_391",
@@ -31600,9 +31605,9 @@
       "ID": "objective_completed_395",
       "SetID": "cc37lbc",
       "Name": "Late Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_396",
@@ -32456,9 +32461,9 @@
       "ID": "objective_completed_618",
       "SetID": "415jc5c",
       "Name": "Smooth Talkers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_62",
@@ -32736,9 +32741,9 @@
       "ID": "objective_completed_667",
       "SetID": "415jc5c",
       "Name": "Fight Dragons with Dragons",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_670",
@@ -32792,9 +32797,9 @@
       "ID": "objective_completed_680",
       "SetID": "415jc5c",
       "Name": "Into the Unknown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_681",
@@ -33992,9 +33997,9 @@
       "ID": "objective_completed_1547",
       "SetID": "415jc5c",
       "Name": "The Beginning is the End",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 799
     },
     {
       "ID": "objective_completed_1548",
@@ -34025,21 +34030,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199779,
-      "Completed": 3790
+      "Progressed": 199781,
+      "Completed": 3797
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233505,
+      "Progressed": 233507,
       "Completed": 2424
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-02T22:59:07.0075621+00:00",
-  "LastChanged_Achievements": "2023-11-03T03:03:26.192485+00:00",
+  "LastChanged_Achievements": "2023-11-03T04:03:43.6599532+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:59:05.9112021+00:00",
-  "LastUpdate_Achievements": "2023-11-03T03:03:26.1953882+00:00"
+  "LastUpdate_Ratings": "2023-11-03T03:59:08.6509519+00:00",
+  "LastUpdate_Achievements": "2023-11-03T04:03:43.6628424+00:00"
 }

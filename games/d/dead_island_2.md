@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 0.20% | ~73 |
+| Whatever It Takes | 0.30% | ~110 |
 | Pork Chopped | 0.20% | ~73 |
 | Dr. Reed, I Presume? | 0.10% | ~711 |
 | Making Your Mark | 0.10% | ~711 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~37 |
 | Top That, Tisha! | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,137 (Ranked 22)  
-Completed: 2,305 (0.32%) (Ranked 216)  
+Progressed: 711,144 (Ranked 22)  
+Completed: 2,306 (0.32%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,7 +254,7 @@ Completed: 2,305 (0.32%) (Ranked 216)
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
-| 2023-11-03 | 711,137 | 2,305 |
+| 2023-11-03 | 711,144 | 2,306 |
 ## Awards
 Max (Great Boss Battles): 6,847  (Ranked 54)  
 Sum: 10,322 (Ranked 90)  

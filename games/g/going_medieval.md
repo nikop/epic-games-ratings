@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,870 |
-| Having A Field Day | 75.00% | ~4,870 |
-| Reap What You Sow | 72.00% | ~4,676 |
-| The First Day | 69.00% | ~4,481 |
-| Green Thumb | 67.00% | ~4,351 |
-| Novice Researcher | 67.00% | ~4,351 |
-| Home Cooked Meal | 60.00% | ~3,896 |
-| Onward | 57.00% | ~3,702 |
-| The First Week | 55.00% | ~3,572 |
-| Beam Me Up | 52.00% | ~3,377 |
-| Studious Researcher | 52.00% | ~3,377 |
-| Putting Food on the Table | 50.00% | ~3,247 |
-| Adept Researcher | 44.00% | ~2,857 |
-| Retribution | 42.00% | ~2,727 |
-| ...And Don’t Come Back! | 42.00% | ~2,727 |
+| Get A Room | 75.00% | ~4,872 |
+| Having A Field Day | 75.00% | ~4,872 |
+| Reap What You Sow | 72.00% | ~4,677 |
+| The First Day | 69.00% | ~4,482 |
+| Green Thumb | 67.00% | ~4,352 |
+| Novice Researcher | 67.00% | ~4,352 |
+| Home Cooked Meal | 60.00% | ~3,898 |
+| Onward | 57.00% | ~3,703 |
+| The First Week | 55.00% | ~3,573 |
+| Beam Me Up | 52.00% | ~3,378 |
+| Studious Researcher | 52.00% | ~3,378 |
+| Putting Food on the Table | 50.00% | ~3,248 |
+| Adept Researcher | 44.00% | ~2,858 |
+| Retribution | 42.00% | ~2,728 |
+| ...And Don’t Come Back! | 42.00% | ~2,728 |
 | Feast or Famine | 41.00% | ~2,663 |
-| Fit For A King | 31.00% | ~2,013 |
-| Heating Up | 31.00% | ~2,013 |
-| Luminary Researcher | 31.00% | ~2,013 |
-| Winter Is Coming | 28.00% | ~1,818 |
+| Fit For A King | 31.00% | ~2,014 |
+| Heating Up | 31.00% | ~2,014 |
+| Luminary Researcher | 31.00% | ~2,014 |
+| Winter Is Coming | 28.00% | ~1,819 |
 | Winter Is Here | 24.00% | ~1,559 |
 | Disassembled | 22.00% | ~1,429 |
 | Oh Deer! | 22.00% | ~1,429 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~130 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,494 (Ranked 174)  
+Progressed: 6,496 (Ranked 174)  
 Completed: 14 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,15 +214,15 @@ Completed: 14 (0.22%) (Ranked 234)
 | 2023-10-31 | 6,431 | 14 |
 | 2023-11-01 | 6,454 | 14 |
 | 2023-11-02 | 6,490 | 14 |
-| 2023-11-03 | 6,494 | 14 |
+| 2023-11-03 | 6,496 | 14 |
 ## Awards
-Max (Great for Beginners): 123  (Ranked 332)  
-Sum: 1,002 (Ranked 255)  
-Diff (max vs sum): 77  
+Max (Great for Beginners): 124  (Ranked 330)  
+Sum: 1,003 (Ranked 255)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 124 |
 | This game is Relaxing | 123 |
-| This game is Great for Beginners | 123 |
 | This game has Diverse Characters | 112 |
 | This game has Quickly Understood Controls | 106 |
 | This game is Extremely Fun | 105 |
@@ -380,4 +380,4 @@ Diff (max vs sum): 77
 | 2023-10-28 | 4.60 | - | 123 | 999 |
 | 2023-10-31 | 4.60 | - | 123 | 1,000 |
 | 2023-11-02 | 4.60 | - | 123 | 1,001 |
-| 2023-11-03 | 4.60 | - | 123 | 1,002 |
+| 2023-11-03 | 4.60 | - | 124 | 1,003 |

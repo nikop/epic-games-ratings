@@ -24,27 +24,27 @@
 | Too many crates | 14.00% | ~14 |
 | Complete Level 3-1 | 14.00% | ~14 |
 | Baby steps | 12.00% | ~12 |
-| Complete Level 3-2 | 11.00% | ~11 |
-| Engineer-warrior hybrid | 11.00% | ~11 |
+| Complete Level 3-2 | 12.00% | ~12 |
+| Engineer-warrior hybrid | 12.00% | ~12 |
 | Party popper | 11.00% | ~11 |
+| Should have left me alone | 10.00% | ~10 |
 | Drink up | 10.00% | ~10 |
 | Mage-warrior hybrid | 10.00% | ~10 |
-| Should have left me alone | 9.00% | ~9 |
-| Complete Level 3-3 | 8.00% | ~8 |
+| Complete Level 3-3 | 9.00% | ~9 |
 | Mage specialist | 8.00% | ~8 |
-| Defeat the mage boss | 6.00% | ~6 |
+| Defeat the mage boss | 7.00% | ~7 |
 | Remote retrieved | 6.00% | ~6 |
 | Engineer specialist | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
+| Rich | 5.00% | ~5 |
+| Delicious | 5.00% | ~5 |
 | Way of the engineer | 5.00% | ~5 |
-| Rich | 4.00% | ~4 |
-| Delicious | 4.00% | ~4 |
 | Warrior specialist | 4.00% | ~4 |
 | The True Trifox | 4.00% | ~4 |
 | Way of the warrior | 4.00% | ~4 |
+| Master of destruction | 3.00% | ~3 |
 | Halfway | 3.00% | ~3 |
 | Bye bye Wilson | 2.00% | ~2 |
-| Master of destruction | 2.00% | ~2 |
 | Completionist | 1.00% | ~1 |
 | Angel of death | 1.00% | ~1 |
 | Found them all! | 1.00% | ~1 |

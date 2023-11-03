@@ -3753,9 +3753,9 @@
       "Count": 264
     }
   ],
-  "EOS_Progressed": 217053,
+  "EOS_Progressed": 217059,
   "EOS_Completed": 428,
-  "EOS_NewPlayers": 13994,
+  "EOS_NewPlayers": 13854,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16193,6 +16193,11 @@
       "Time": "2023-11-03T03:04:03.2863764+00:00",
       "NumProgressed": 217053,
       "NumCompleted": 428
+    },
+    {
+      "Time": "2023-11-03T04:04:20.4759986+00:00",
+      "NumProgressed": 217059,
+      "NumCompleted": 428
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16253,7 +16258,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13023
+      "UsersEstimate": 13024
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -16285,7 +16290,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17364
+      "UsersEstimate": 17365
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16357,7 +16362,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13023
+      "UsersEstimate": 13024
     },
     {
       "ID": "Meet_Meidra",
@@ -16437,7 +16442,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13023
+      "UsersEstimate": 13024
     },
     {
       "ID": "Obtain_Guns_A",
@@ -16525,7 +16530,7 @@
       "Name": "Proving Grounds",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "Obtain_Water_Harp_Item",
@@ -16581,7 +16586,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13023
+      "UsersEstimate": 13024
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -16604,7 +16609,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 217053,
+      "Progressed": 217059,
       "Completed": 428
     }
   ],
@@ -16612,8 +16617,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-02T20:03:04.6915225+00:00",
-  "LastChanged_Achievements": "2023-11-03T03:04:03.2863757+00:00",
+  "LastChanged_Achievements": "2023-11-03T04:04:20.4759969+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.5483711+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:02:49.19241+00:00",
-  "LastUpdate_Achievements": "2023-11-03T03:04:03.2864966+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:03:07.964429+00:00",
+  "LastUpdate_Achievements": "2023-11-03T04:04:20.4761199+00:00"
 }

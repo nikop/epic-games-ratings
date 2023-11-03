@@ -6,48 +6,48 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~301,108 |
-| Full garage | 61.00% | ~251,611 |
-| To the eyeballs! | 51.00% | ~210,363 |
-| Individual delivery | 46.00% | ~189,739 |
-| Non-Stop | 45.00% | ~185,615 |
-| Juggler | 36.00% | ~148,492 |
-| Forgot something | 35.00% | ~144,367 |
-| Close call! | 30.00% | ~123,743 |
-| Get out my way | 28.00% | ~115,494 |
-| Common cause | 26.00% | ~107,244 |
-| Critical care | 26.00% | ~107,244 |
-| Mega-railroad | 23.00% | ~94,870 |
-| Upgrade complete | 23.00% | ~94,870 |
-| Just in time! | 18.00% | ~74,246 |
-| Builder | 17.00% | ~70,121 |
-| Long Haul | 17.00% | ~70,009 |
-| Steam Age | 16.00% | ~65,996 |
-| Multilevel road | 15.00% | ~61,872 |
-| Bridgemania | 14.00% | ~57,747 |
-| Need to think | 14.00% | ~57,747 |
-| The Tortoise | 12.00% | ~49,497 |
-| Beginner | 11.00% | ~45,372 |
-| Without a lunch break | 11.00% | ~45,372 |
-| One way | 10.00% | ~41,248 |
-| Relocation | 10.00% | ~41,248 |
-| Industrial Age | 9.00% | ~37,123 |
-| Just One More Valley | 9.00% | ~37,064 |
-| Prick of conscience | 8.00% | ~32,998 |
-| Missed it! | 7.00% | ~28,873 |
+| Dealmaker | 73.00% | ~301,116 |
+| Full garage | 61.00% | ~251,618 |
+| To the eyeballs! | 51.00% | ~210,369 |
+| Individual delivery | 46.00% | ~189,744 |
+| Non-Stop | 45.00% | ~185,620 |
+| Juggler | 36.00% | ~148,496 |
+| Forgot something | 35.00% | ~144,371 |
+| Close call! | 30.00% | ~123,746 |
+| Get out my way | 28.00% | ~115,497 |
+| Common cause | 26.00% | ~107,247 |
+| Critical care | 26.00% | ~107,247 |
+| Mega-railroad | 23.00% | ~94,872 |
+| Upgrade complete | 23.00% | ~94,872 |
+| Just in time! | 18.00% | ~74,248 |
+| Builder | 17.00% | ~70,123 |
+| Long Haul | 17.00% | ~70,011 |
+| Steam Age | 16.00% | ~65,998 |
+| Multilevel road | 15.00% | ~61,873 |
+| Bridgemania | 14.00% | ~57,748 |
+| Need to think | 14.00% | ~57,748 |
+| The Tortoise | 12.00% | ~49,499 |
+| Beginner | 11.00% | ~45,374 |
+| Without a lunch break | 11.00% | ~45,374 |
+| One way | 10.00% | ~41,249 |
+| Relocation | 10.00% | ~41,249 |
+| Industrial Age | 9.00% | ~37,124 |
+| Just One More Valley | 9.00% | ~37,065 |
+| Prick of conscience | 8.00% | ~32,999 |
+| Missed it! | 7.00% | ~28,874 |
 | At the last moment! | 6.00% | ~24,749 |
 | Overseer | 6.00% | ~24,749 |
 | Highlander | 5.00% | ~20,624 |
 | Jewelry accuracy | 5.00% | ~20,624 |
 | Stargazer | 5.00% | ~20,624 |
-| Bridge builder | 4.00% | ~16,499 |
-| Electrical Age | 4.00% | ~16,499 |
-| Large construction | 4.00% | ~16,499 |
-| Squander | 4.00% | ~16,499 |
-| Engineer | 3.00% | ~12,374 |
-| Globalisation Age | 3.00% | ~12,374 |
-| Living it large | 3.00% | ~12,374 |
-| Sabotage | 3.00% | ~12,374 |
+| Bridge builder | 4.00% | ~16,500 |
+| Electrical Age | 4.00% | ~16,500 |
+| Large construction | 4.00% | ~16,500 |
+| Squander | 4.00% | ~16,500 |
+| Engineer | 3.00% | ~12,375 |
+| Globalisation Age | 3.00% | ~12,375 |
+| Living it large | 3.00% | ~12,375 |
+| Sabotage | 3.00% | ~12,375 |
 | Test Batch | 3.00% | ~12,355 |
 | Astronomer | 2.00% | ~8,250 |
 | Innovator | 2.00% | ~8,250 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,250 |
 | Will work | 2.00% | ~8,250 |
 | Woodcutter | 2.00% | ~8,250 |
-| Occupied! | 2.00% | ~8,236 |
+| Occupied! | 2.00% | ~8,237 |
 | Achiever | 1.00% | ~4,125 |
 | Environmental activist | 1.00% | ~4,125 |
 | Metro builder | 1.00% | ~4,125 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~412 |
 | World Zapper | 0.10% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,477 (Ranked 43)  
+Progressed: 412,488 (Ranked 43)  
 Completed: 20 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 20 (0.00%) (Ranked 339)
 | 2023-10-31 | 411,879 | 20 |
 | 2023-11-01 | 412,153 | 20 |
 | 2023-11-02 | 412,436 | 20 |
-| 2023-11-03 | 412,477 | 20 |
+| 2023-11-03 | 412,488 | 20 |
 ## Awards
 Max (Challenging Puzzles): 841  (Ranked 162)  
 Sum: 1,690 (Ranked 217)  

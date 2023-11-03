@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.2,
+  "EOS_Completed_Percentage": 6.18,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1720,6 +1720,11 @@
       "Time": "2023-11-03T03:07:29.6184591+00:00",
       "NumProgressed": 371,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T04:08:23.9382052+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1851,7 +1856,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1891,7 +1896,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PROGRESS_N2",
@@ -1930,14 +1935,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T03:07:29.6184586+00:00",
+  "LastChanged_Achievements": "2023-11-03T04:08:23.9382047+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:00:12.0852487+00:00",
-  "LastUpdate_Achievements": "2023-11-03T03:07:29.6184853+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:00:09.7631197+00:00",
+  "LastUpdate_Achievements": "2023-11-03T04:08:23.9382338+00:00"
 }

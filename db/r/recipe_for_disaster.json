@@ -2,7 +2,7 @@
   "ID": "615a4dc5c85c4c28a390dda4298acd80",
   "Name": "Recipe for Disaster",
   "ProductSlug": "recipe-for-disaster-83726f",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 719,
@@ -324,6 +324,6 @@
   "FirstSeenRating": "2023-02-11T02:06:38.6725347+00:00",
   "LastChanged": "2023-11-02T17:58:31.6206483+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:08.0467086+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:58:01.5712078+00:00",
-  "LastUpdate_Achievements": "2023-11-03T03:05:28.3609446+00:00"
+  "LastUpdate_Ratings": "2023-11-03T03:58:05.9166314+00:00",
+  "LastUpdate_Achievements": "2023-11-03T04:05:34.2519708+00:00"
 }

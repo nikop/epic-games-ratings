@@ -9,13 +9,13 @@
 | Powerful Allies | 12.00% | ~10 |
 | Find Allies | 11.00% | ~9 |
 | A Taste of Wrath | 11.00% | ~9 |
-| Trinity | 10.00% | ~8 |
+| Trinity | 11.00% | ~9 |
+| I Found It | 11.00% | ~9 |
 | Adventurer | 10.00% | ~8 |
-| I Found It | 10.00% | ~8 |
 | The Collector | 10.00% | ~8 |
+| Fashion Victim | 9.00% | ~7 |
 | Scholar | 9.00% | ~7 |
 | Essence Blow | 7.00% | ~6 |
-| Fashion Victim | 7.00% | ~6 |
 | Geared Up | 6.00% | ~5 |
 | Airborne | 5.00% | ~4 |
 | Miner | 5.00% | ~4 |

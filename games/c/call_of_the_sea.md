@@ -5,8 +5,8 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~102,319 |
-| 74 miles East of Otaheité | 56.00% | ~71,623 |
+| A Family Heirloom | 80.00% | ~102,321 |
+| 74 miles East of Otaheité | 56.00% | ~71,625 |
 | Interesting... | 42.00% | ~53,718 |
 | The Everhart Expedition | 39.00% | ~49,881 |
 | The Vanishing of the Lady Shannon | 30.00% | ~38,370 |
@@ -40,8 +40,8 @@ Rating: 4.39 (Ranked 744)
 | Gently down the stream... | 1.00% | ~1,279 |
 | Meta-reference | 1.00% | ~1,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,899 (Ranked 82)  
-Completed: 1,095 (0.86%) (Ranked 164)  
+Progressed: 127,901 (Ranked 82)  
+Completed: 1,095 (0.86%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,7 +237,7 @@ Completed: 1,095 (0.86%) (Ranked 164)
 | 2023-10-31 | 127,550 | 1,092 |
 | 2023-11-01 | 127,719 | 1,092 |
 | 2023-11-02 | 127,881 | 1,095 |
-| 2023-11-03 | 127,899 | 1,095 |
+| 2023-11-03 | 127,901 | 1,095 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 0.30% | ~599 |
+| The Beginning is the End | 0.40% | ~799 |
 | The End is the Beginning | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
 | Maddening | 0.10% | ~234 |
@@ -177,6 +177,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Form Ranks | 0.10% | ~234 |
 | Drop of Time | 0.10% | ~200 |
 | The Wyrmheart Mine | 0.10% | ~234 |
+| Distribute Your Weight | 0.10% | ~234 |
 | Tower on the Lake | 0.10% | ~234 |
 | Only the Strong Survive | 0.10% | ~234 |
 | Shorty's Day Off | 0.10% | ~234 |
@@ -208,9 +209,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flies on the Wall | 0.10% | ~234 |
 | The Killer Mists | 0.10% | ~234 |
 | Seeking Allies | 0.10% | ~234 |
+| Class Vacation | 0.10% | ~234 |
 | A Nod from Strahd | 0.10% | ~200 |
 | Backtracking Through Barovia | 0.10% | ~234 |
 | Diversity Day-Trip | 0.10% | ~234 |
+| Late Game | 0.10% | ~234 |
 | Shadowfell Stalwarts | 0.10% | ~200 |
 | Nimble Escape | 0.10% | ~234 |
 | Nimblest Escape | 0.10% | ~234 |
@@ -311,6 +314,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.10% | ~200 |
 | Wyllowwood | 0.10% | ~234 |
 | Displaced Anger | 0.10% | ~234 |
+| Smooth Talkers | 0.10% | ~200 |
 | Relay Race | 0.10% | ~234 |
 | An Illithid Undertaking | 0.10% | ~200 |
 | An Illithid Ambush | 0.10% | ~200 |
@@ -344,11 +348,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | When the Going Gets Tough | 0.10% | ~200 |
 | Tiamat's Army | 0.10% | ~200 |
 | Show of Strength | 0.10% | ~200 |
+| Fight Dragons with Dragons | 0.10% | ~200 |
 | Questlines | 0.10% | ~200 |
 | Raggadragga's Crew | 0.10% | ~200 |
 | Just The Worst | 0.10% | ~200 |
 | Bel's Forge | 0.10% | ~200 |
 | Extreme Heat | 0.10% | ~200 |
+| Into the Unknown | 0.10% | ~200 |
 | A Tenday at Golgamann's | 0.10% | ~200 |
 | A Nightmare Occasion | 0.10% | ~200 |
 | The Prison of Velkynvelve | 0.10% | ~200 |
@@ -488,22 +494,16 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
 | They Who Smelt It | 0.00% | ~0 |
-| Distribute Your Weight | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Class Vacation | 0.00% | ~0 |
-| Late Game | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
 | The Tallest of Kobolds | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | Ettercap Swarm | 0.00% | ~0 |
-| Smooth Talkers | 0.00% | ~0 |
 | Misty Undermountain | 0.00% | ~0 |
-| Fight Dragons with Dragons | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
-| Into the Unknown | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,505 (Ranked 62)  
+Progressed: 233,507 (Ranked 62)  
 Completed: 2,424 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,424 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,505 | 2,424 |
+| 2023-11-03 | 233,507 | 2,424 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,315 (Ranked 41)  
