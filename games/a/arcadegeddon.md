@@ -6,20 +6,20 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,427 |
-| Photogenic | 85.00% | ~8,049 |
+| Let's Get This Party Started | 89.00% | ~8,428 |
+| Photogenic | 85.00% | ~8,050 |
 | Surge Gauntlet Jockey | 82.00% | ~7,765 |
-| Plug It In | 81.00% | ~7,670 |
-| Adventure Time | 77.00% | ~7,291 |
+| Plug It In | 81.00% | ~7,671 |
+| Adventure Time | 77.00% | ~7,292 |
 | Playing With Power | 75.00% | ~7,102 |
-| Coup d'Etat | 57.00% | ~5,397 |
+| Coup d'Etat | 57.00% | ~5,398 |
 | You're Fired | 56.00% | ~5,303 |
 | Get Furious | 55.00% | ~5,208 |
-| Hacks In Stacks | 54.00% | ~5,113 |
+| Hacks In Stacks | 54.00% | ~5,114 |
 | Gunplay And Cosplay | 53.00% | ~5,019 |
-| Meching Enemies | 47.00% | ~4,450 |
+| Meching Enemies | 47.00% | ~4,451 |
 | Ticket Toddler | 43.00% | ~4,072 |
-| Booty Bashing | 38.00% | ~3,598 |
+| Booty Bashing | 38.00% | ~3,599 |
 | Field Medic | 37.00% | ~3,504 |
 | Here Comes a New Challenger | 37.00% | ~3,504 |
 | Rapid Response | 32.00% | ~3,030 |
@@ -40,8 +40,8 @@ Number of Ratings: 801  (23.09.2022)
 | Rescue Ranger | 8.00% | ~758 |
 | Surge Gauntlet Scholar | 6.00% | ~568 |
 | Ticket Titan | 6.00% | ~568 |
-| Master of Arms | 5.00% | ~473 |
-| Stop Hitting Yourself | 5.00% | ~473 |
+| Master of Arms | 5.00% | ~474 |
+| Stop Hitting Yourself | 5.00% | ~474 |
 | Ground Control | 4.00% | ~379 |
 | No Chill | 4.00% | ~379 |
 | Start Your Collection | 4.00% | ~379 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,469 (Ranked 158)  
+Progressed: 9,470 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 1 (0.01%) (Ranked 318)
 | 2023-10-31 | 9,445 | 1 |
 | 2023-11-01 | 9,459 | 1 |
 | 2023-11-02 | 9,467 | 1 |
-| 2023-11-03 | 9,469 | 1 |
+| 2023-11-03 | 9,470 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 405)  
 Sum: 463 (Ranked 327)  

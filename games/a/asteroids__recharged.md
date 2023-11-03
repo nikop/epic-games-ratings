@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hero | 70.00% | ~74 |
+| The Hero | 71.00% | ~75 |
 | Now I'm Here | 68.00% | ~71 |
-| The Hitman | 52.00% | ~55 |
-| Keep Yourself Alive | 48.00% | ~50 |
-| All Dead, All Dead | 40.00% | ~42 |
-| Misfire | 38.00% | ~40 |
-| The Miracle | 35.00% | ~37 |
-| The Invisible Man | 33.00% | ~35 |
+| The Hitman | 53.00% | ~56 |
+| Keep Yourself Alive | 49.00% | ~51 |
+| All Dead, All Dead | 41.00% | ~43 |
+| Misfire | 39.00% | ~41 |
+| The Miracle | 36.00% | ~38 |
+| The Invisible Man | 34.00% | ~36 |
 | We Will Rock You | 28.00% | ~29 |
 | Rock It | 23.00% | ~24 |
 | Friends Will Be Friends | 10.00% | ~10 |

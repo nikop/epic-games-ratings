@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151059,
+  "EOS_Progressed": 151060,
   "EOS_Completed": 318,
-  "EOS_NewPlayers": 1075,
+  "EOS_NewPlayers": 1070,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16728,6 +16728,11 @@
       "Time": "2023-11-03T02:22:19.8117542+00:00",
       "NumProgressed": 151059,
       "NumCompleted": 318
+    },
+    {
+      "Time": "2023-11-03T03:04:16.3380093+00:00",
+      "NumProgressed": 151060,
+      "NumCompleted": 318
     }
   ],
   "TotalAchievements": 31,
@@ -16747,7 +16752,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 105741
+      "UsersEstimate": 105742
     },
     {
       "ID": "EAwards_10",
@@ -16763,7 +16768,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31722
+      "UsersEstimate": 31723
     },
     {
       "ID": "EAwards_12",
@@ -16851,7 +16856,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16616
+      "UsersEstimate": 16617
     },
     {
       "ID": "EAwards_22",
@@ -16947,7 +16952,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16616
+      "UsersEstimate": 16617
     },
     {
       "ID": "EAwards_6",
@@ -16986,7 +16991,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151059,
+      "Progressed": 151060,
       "Completed": 318
     }
   ],
@@ -16994,8 +16999,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:22:19.8117534+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:04:16.3380086+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.4919914+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:16:41.6091473+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:22:19.8118816+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:58:45.8322957+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:04:16.3381364+00:00"
 }

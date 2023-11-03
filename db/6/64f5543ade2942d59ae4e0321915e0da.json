@@ -325,9 +325,9 @@
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -365,9 +365,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -429,9 +429,9 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:22:56.7197843+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:05:02.8387769+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:17:01.6193196+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:22:56.7198211+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:59:02.7115284+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:05:02.8388162+00:00"
 }

@@ -6615,9 +6615,9 @@
       "ID": "ach_silver_rewards_50",
       "SetID": "bm61c2p",
       "Name": "Silver Achiever",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_headquarters_10",
@@ -6856,8 +6856,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:25:26.8613788+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:07:31.0553449+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:16:06.9720648+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:25:26.8614762+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:58:09.8729946+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:07:31.0554162+00:00"
 }

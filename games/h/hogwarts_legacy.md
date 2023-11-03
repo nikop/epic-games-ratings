@@ -5,23 +5,23 @@ Rating: 4.76 (Ranked 122)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~45,052 |
-| First Class Student | 14.00% | ~42,049 |
-| A Keen Sense of Spell | 13.00% | ~39,045 |
-| Troll with the Punches | 13.00% | ~39,045 |
-| That's a Keeper | 12.00% | ~36,042 |
-| Grappling with a Graphorn | 11.00% | ~33,038 |
-| The One Who Mastered Memories | 11.00% | ~33,038 |
-| The Hallowed Hero | 11.00% | ~33,038 |
-| The Defender of Dragons | 11.00% | ~33,038 |
-| Loom for Improvement | 11.00% | ~33,038 |
-| A Talent for Spending | 11.00% | ~33,038 |
-| Coasting Along | 11.00% | ~33,038 |
-| The Hero of Hogwarts | 10.00% | ~30,035 |
-| Challenge Accepted | 10.00% | ~30,035 |
-| Followed the Butterflies | 10.00% | ~30,035 |
-| The Spell Master | 9.00% | ~27,031 |
-| Rising From the Ashes | 9.00% | ~27,031 |
+| The Sort Who Makes an Entrance | 15.00% | ~45,053 |
+| First Class Student | 14.00% | ~42,050 |
+| A Keen Sense of Spell | 13.00% | ~39,046 |
+| Troll with the Punches | 13.00% | ~39,046 |
+| That's a Keeper | 12.00% | ~36,043 |
+| Grappling with a Graphorn | 11.00% | ~33,039 |
+| The One Who Mastered Memories | 11.00% | ~33,039 |
+| The Hallowed Hero | 11.00% | ~33,039 |
+| The Defender of Dragons | 11.00% | ~33,039 |
+| Loom for Improvement | 11.00% | ~33,039 |
+| A Talent for Spending | 11.00% | ~33,039 |
+| Coasting Along | 11.00% | ~33,039 |
+| The Hero of Hogwarts | 10.00% | ~30,036 |
+| Challenge Accepted | 10.00% | ~30,036 |
+| Followed the Butterflies | 10.00% | ~30,036 |
+| The Spell Master | 9.00% | ~27,032 |
+| Rising From the Ashes | 9.00% | ~27,032 |
 | The Avenging Gazelle | 8.00% | ~24,028 |
 | Beast Friends | 8.00% | ~24,028 |
 | A Sallow Grave | 8.00% | ~24,028 |
@@ -30,28 +30,28 @@ Rating: 4.76 (Ranked 122)
 | The Root of the Problem | 6.00% | ~18,021 |
 | Third Time's a Charm | 6.00% | ~18,021 |
 | Raising Expectations | 6.00% | ~18,021 |
-| The Toast of the Town | 5.00% | ~15,017 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,017 |
-| The Ends Petrify the Means | 5.00% | ~15,017 |
+| The Toast of the Town | 5.00% | ~15,018 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,018 |
+| The Ends Petrify the Means | 5.00% | ~15,018 |
 | Going Through the Potions | 4.00% | ~12,014 |
 | Room with a View | 4.00% | ~12,014 |
 | The Intrepid Explorer | 4.00% | ~12,014 |
 | The Wise Owl | 4.00% | ~12,014 |
-| Put Down Roots | 3.00% | ~9,010 |
-| The Auror's Apprentice | 3.00% | ~9,010 |
-| Floo Around the World | 3.00% | ~9,010 |
+| Put Down Roots | 3.00% | ~9,011 |
+| The Auror's Apprentice | 3.00% | ~9,011 |
+| Floo Around the World | 3.00% | ~9,011 |
 | The Good Samaritan | 2.00% | ~6,007 |
 | Rise to the Challenges | 2.00% | ~6,007 |
 | Finishing Touches | 2.00% | ~6,007 |
 | A Forte for Achievement | 2.00% | ~6,007 |
-| Savvy Spender | 1.00% | ~3,003 |
-| Merlin's Beard! | 1.00% | ~3,003 |
-| Demiguise Dread | 1.00% | ~3,003 |
+| Savvy Spender | 1.00% | ~3,004 |
+| Merlin's Beard! | 1.00% | ~3,004 |
+| Demiguise Dread | 1.00% | ~3,004 |
 | Spilled Milk | 0.90% | ~2,703 |
 | The Nature of the Beast | 0.70% | ~2,102 |
 | Collector's Edition | 0.30% | ~901 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,349 (Ranked 49)  
+Progressed: 300,355 (Ranked 49)  
 Completed: 500 (0.17%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 500 (0.17%) (Ranked 247)
 | 2023-10-31 | 299,993 | 498 |
 | 2023-11-01 | 300,130 | 498 |
 | 2023-11-02 | 300,315 | 500 |
-| 2023-11-03 | 300,349 | 500 |
+| 2023-11-03 | 300,355 | 500 |
 ## Awards
 Max (Character Customization): 23,989  (Ranked 17)  
-Sum: 47,266 (Ranked 30)  
+Sum: 47,269 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,128 |
 | This game has Quickly Understood Controls | 1,075 |
 | This game has Beautiful Visuals | 994 |
-| This game has a Creative Community | 760 |
+| This game has a Creative Community | 763 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -494,3 +494,4 @@ Diff (max vs sum): -13
 | 2023-10-31 | 4.76 | 23,929 | 47,120 |
 | 2023-11-01 | 4.76 | 23,964 | 47,195 |
 | 2023-11-02 | 4.76 | 23,989 | 47,266 |
+| 2023-11-03 | 4.76 | 23,989 | 47,269 |

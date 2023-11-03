@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 475,
+  "EOS_Progressed": 476,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -1565,6 +1565,11 @@
       "Time": "2023-11-03T00:08:34.5683079+00:00",
       "NumProgressed": 475,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T03:08:30.3329665+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1593,7 +1598,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_12",
@@ -1601,7 +1606,7 @@
       "Name": "From Way Downtown",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_13",
@@ -1633,7 +1638,7 @@
       "Name": "Star Power",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_17",
@@ -1641,7 +1646,7 @@
       "Name": "Clean Sheet",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "achievement_18",
@@ -1673,15 +1678,15 @@
       "Name": "From Many, One",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_5",
       "SetID": "7ldgi7j",
       "Name": "Golf\u0027s Original Championship",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_6",
@@ -1705,7 +1710,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_9",
@@ -1720,13 +1725,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 475,
+      "Progressed": 476,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:25:56.122656+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:08:30.3329658+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
   "LastUpdate_Ratings": "2023-11-03T02:20:25.8068435+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:25:56.1226811+00:00"
+  "LastUpdate_Achievements": "2023-11-03T03:08:30.3329919+00:00"
 }

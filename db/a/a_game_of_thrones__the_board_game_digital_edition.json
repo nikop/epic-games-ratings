@@ -1308,9 +1308,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27473,
+  "EOS_Progressed": 27476,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22423,6 +22423,11 @@
       "Time": "2023-11-03T02:26:29.9767703+00:00",
       "NumProgressed": 27473,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-03T03:08:44.4430924+00:00",
+      "NumProgressed": 27476,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22442,7 +22447,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "1017",
@@ -22450,7 +22455,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "1018",
@@ -22482,7 +22487,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "1022",
@@ -22490,7 +22495,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "1023",
@@ -22514,7 +22519,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "1026",
@@ -22538,7 +22543,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "1029",
@@ -22562,7 +22567,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "1032",
@@ -22570,7 +22575,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10989
+      "UsersEstimate": 10990
     },
     {
       "ID": "1033",
@@ -22594,7 +22599,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "1036",
@@ -22609,15 +22614,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27473,
+      "Progressed": 27476,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-01T16:03:00.5607124+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:26:29.9767698+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:08:44.4430919+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:20:54.1108333+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:26:29.9769121+00:00"
+  "LastUpdate_Ratings": "2023-11-03T03:02:48.6930466+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:08:44.4432423+00:00"
 }

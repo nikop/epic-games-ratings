@@ -4,10 +4,10 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 122,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 376,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-10-14T08:00:00+00:00",
@@ -908,10 +908,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 247,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-03T02:59:02.689276+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 247,
+  "NumberOfAwards": 248,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -955,7 +961,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -969,8 +975,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2023-11-02T02:16:02.0456612+00:00",
+  "LastChanged": "2023-11-03T02:59:02.6892759+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:14.5585208+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:17:01.6181904+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:23:04.1167286+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:59:02.6892765+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:05:10.0903915+00:00"
 }

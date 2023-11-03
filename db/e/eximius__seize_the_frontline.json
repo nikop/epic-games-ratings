@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199416,
+  "EOS_Progressed": 199419,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
@@ -21232,6 +21232,11 @@
       "Time": "2023-11-03T01:50:13.4917194+00:00",
       "NumProgressed": 199416,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-03T03:05:02.2580342+00:00",
+      "NumProgressed": 199419,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -21243,7 +21248,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15953
+      "UsersEstimate": 15954
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -21251,7 +21256,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141585
+      "UsersEstimate": 141587
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -21267,7 +21272,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "ACH_INITIATION",
@@ -21370,7 +21375,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199416,
+      "Progressed": 199419,
       "Completed": 4
     }
   ],
@@ -21378,8 +21383,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:22:56.0006741+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:05:02.2580336+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.8845341+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:15:35.7086566+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:22:56.0008077+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:57:36.7554408+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:05:02.2581767+00:00"
 }

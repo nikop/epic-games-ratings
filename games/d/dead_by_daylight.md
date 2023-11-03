@@ -6,43 +6,43 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~59,493 |
-| Zealous | 5.00% | ~49,578 |
-| Skillful | 5.00% | ~49,578 |
-| Not half bad | 4.00% | ~39,662 |
-| Apt Survivor | 4.00% | ~39,662 |
-| Survival Treasures | 4.00% | ~39,662 |
-| Make Some Noise | 4.00% | ~39,662 |
-| The Grand Sacrifice | 3.00% | ~29,746 |
-| No one left behind | 3.00% | ~29,746 |
-| Medic | 3.00% | ~29,746 |
-| Handyman | 3.00% | ~29,746 |
-| Perfect Escape | 3.00% | ~29,746 |
-| Bloody Millionaire | 3.00% | ~29,746 |
-| I | 3.00% | ~29,746 |
-| Sorted | 3.00% | ~29,746 |
-| Healthy Obsession | 3.00% | ~29,746 |
-| Resurgence | 3.00% | ~29,746 |
-| Preemptive Strike | 3.00% | ~29,746 |
-| Humanitarian | 3.00% | ~29,746 |
-| Escape Artist | 2.00% | ~19,831 |
-| Agonizing Escape | 2.00% | ~19,831 |
-| Backdoor Escape | 2.00% | ~19,831 |
-| I've got your back | 2.00% | ~19,831 |
-| Nerves of steel | 2.00% | ~19,831 |
-| Perfect Killing | 2.00% | ~19,831 |
-| Apt Killer | 2.00% | ~19,831 |
-| Risk it all | 2.00% | ~19,831 |
-| Vulture | 2.00% | ~19,831 |
-| II | 2.00% | ~19,831 |
-| III | 2.00% | ~19,831 |
-| Engineer | 2.00% | ~19,831 |
-| Wounded Healer | 2.00% | ~19,831 |
-| First to the Punch | 2.00% | ~19,831 |
-| Close Shave | 2.00% | ~19,831 |
-| With Scars to Show | 2.00% | ~19,831 |
-| A Fast Death | 2.00% | ~19,831 |
-| Second Act | 2.00% | ~19,831 |
+| It wakes | 6.00% | ~59,497 |
+| Zealous | 5.00% | ~49,581 |
+| Skillful | 5.00% | ~49,581 |
+| Not half bad | 4.00% | ~39,665 |
+| Apt Survivor | 4.00% | ~39,665 |
+| Survival Treasures | 4.00% | ~39,665 |
+| Make Some Noise | 4.00% | ~39,665 |
+| The Grand Sacrifice | 3.00% | ~29,748 |
+| No one left behind | 3.00% | ~29,748 |
+| Medic | 3.00% | ~29,748 |
+| Handyman | 3.00% | ~29,748 |
+| Perfect Escape | 3.00% | ~29,748 |
+| Bloody Millionaire | 3.00% | ~29,748 |
+| I | 3.00% | ~29,748 |
+| Sorted | 3.00% | ~29,748 |
+| Healthy Obsession | 3.00% | ~29,748 |
+| Resurgence | 3.00% | ~29,748 |
+| Preemptive Strike | 3.00% | ~29,748 |
+| Humanitarian | 3.00% | ~29,748 |
+| Escape Artist | 2.00% | ~19,832 |
+| Agonizing Escape | 2.00% | ~19,832 |
+| Backdoor Escape | 2.00% | ~19,832 |
+| I've got your back | 2.00% | ~19,832 |
+| Nerves of steel | 2.00% | ~19,832 |
+| Perfect Killing | 2.00% | ~19,832 |
+| Apt Killer | 2.00% | ~19,832 |
+| Risk it all | 2.00% | ~19,832 |
+| Vulture | 2.00% | ~19,832 |
+| II | 2.00% | ~19,832 |
+| III | 2.00% | ~19,832 |
+| Engineer | 2.00% | ~19,832 |
+| Wounded Healer | 2.00% | ~19,832 |
+| First to the Punch | 2.00% | ~19,832 |
+| Close Shave | 2.00% | ~19,832 |
+| With Scars to Show | 2.00% | ~19,832 |
+| A Fast Death | 2.00% | ~19,832 |
+| Second Act | 2.00% | ~19,832 |
 | Blood on your hands | 1.00% | ~9,916 |
 | Made it out alive! | 1.00% | ~9,916 |
 | Gifts for the Fog | 1.00% | ~9,916 |
@@ -75,31 +75,31 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 1.00% | ~9,916 |
 | One More Step | 1.00% | ~9,916 |
 | MU/TH/UR Dearest | 1.00% | ~9,916 |
-| A bite for the Entity | 0.90% | ~8,924 |
-| Blood on your face | 0.90% | ~8,924 |
-| Hemophobia | 0.90% | ~8,924 |
-| Serial Killer | 0.90% | ~8,924 |
-| Shrine Apparatus | 0.90% | ~8,924 |
-| Selfless Survival | 0.90% | ~8,924 |
-| Outrun the Overlap | 0.90% | ~8,924 |
-| Extraterrestrial | 0.90% | ~8,924 |
-| Game Over | 0.80% | ~7,932 |
-| Devoted Gatekeeping | 0.80% | ~7,932 |
-| Broken Bodies | 0.80% | ~7,932 |
-| End of Days | 0.80% | ~7,932 |
-| Insult and Injury | 0.80% | ~7,932 |
-| Complete the Evolution | 0.80% | ~7,932 |
+| A bite for the Entity | 0.90% | ~8,925 |
+| Blood on your face | 0.90% | ~8,925 |
+| Hemophobia | 0.90% | ~8,925 |
+| Serial Killer | 0.90% | ~8,925 |
+| Shrine Apparatus | 0.90% | ~8,925 |
+| Selfless Survival | 0.90% | ~8,925 |
+| Outrun the Overlap | 0.90% | ~8,925 |
+| Extraterrestrial | 0.90% | ~8,925 |
+| Game Over | 0.80% | ~7,933 |
+| Devoted Gatekeeping | 0.80% | ~7,933 |
+| Broken Bodies | 0.80% | ~7,933 |
+| End of Days | 0.80% | ~7,933 |
+| Insult and Injury | 0.80% | ~7,933 |
+| Complete the Evolution | 0.80% | ~7,933 |
 | Jump Scares | 0.70% | ~6,941 |
 | Deep Cleansing | 0.70% | ~6,941 |
 | Texas BBQ | 0.70% | ~6,941 |
 | Party Crasher | 0.70% | ~6,941 |
 | High Speed Pursuit | 0.70% | ~6,941 |
 | Kitted Out | 0.70% | ~6,941 |
-| Outrage | 0.60% | ~5,949 |
-| Heavy Burden | 0.60% | ~5,949 |
-| I See You | 0.60% | ~5,949 |
-| Prowler | 0.60% | ~5,949 |
-| Triage | 0.60% | ~5,949 |
+| Outrage | 0.60% | ~5,950 |
+| Heavy Burden | 0.60% | ~5,950 |
+| I See You | 0.60% | ~5,950 |
+| Prowler | 0.60% | ~5,950 |
+| Triage | 0.60% | ~5,950 |
 | Blood in your mouth | 0.50% | ~4,958 |
 | Whiffing to Success | 0.50% | ~4,958 |
 | Power Moves | 0.50% | ~4,958 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~992 |
 | Adept Ripley | 0.10% | ~992 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 991,550 (Ranked 14)  
+Progressed: 991,614 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -433,7 +433,7 @@ Completed: 52 (0.01%) (Ranked 318)
 | 2023-10-31 | 985,437 | 52 |
 | 2023-11-01 | 988,523 | 52 |
 | 2023-11-02 | 991,243 | 52 |
-| 2023-11-03 | 991,550 | 52 |
+| 2023-11-03 | 991,614 | 52 |
 ## Awards
 Max (Diverse Characters): 35,215  (Ranked 15)  
 Sum: 270,455 (Ranked 13)  

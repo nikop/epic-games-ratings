@@ -6,9 +6,9 @@
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1341,11 +1341,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 21735,
-  "EOS_Completed": 81,
-  "EOS_NewPlayers": 723,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_Progressed": 21736,
+  "EOS_Completed": 82,
+  "EOS_NewPlayers": 719,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:29.1266167+00:00",
@@ -22751,6 +22751,11 @@
       "Time": "2023-11-03T02:24:17.0020875+00:00",
       "NumProgressed": 21735,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2023-11-03T03:07:22.0939527+00:00",
+      "NumProgressed": 21736,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 45,
@@ -22914,7 +22919,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "ObedientMachine",
@@ -22938,7 +22943,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "OutOfOrder",
@@ -22946,7 +22951,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9563
+      "UsersEstimate": 9564
     },
     {
       "ID": "Perfection",
@@ -22954,7 +22959,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "PreempativeStrike",
@@ -22994,7 +22999,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "Scrapped",
@@ -23034,7 +23039,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13258
+      "UsersEstimate": 13259
     },
     {
       "ID": "SwordToAGunfight",
@@ -23080,9 +23085,9 @@
       "ID": "Wallrunner",
       "SetID": "6ce5bmd",
       "Name": "Wallrunner",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 11520
+      "UsersEstimate": 11737
     },
     {
       "ID": "WaveOfMutilation",
@@ -23114,28 +23119,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6520
+      "UsersEstimate": 6521
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 21735,
+      "Progressed": 21736,
       "Completed": 53
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 21735,
-      "Completed": 81
+      "Progressed": 21736,
+      "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-01T23:58:43.4945528+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:24:17.0020869+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:07:22.0939516+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.5772527+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:16:58.5297426+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:24:17.0022335+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:58:58.0776576+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:07:22.0941281+00:00"
 }

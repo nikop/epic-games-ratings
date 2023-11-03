@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 124,
@@ -1051,9 +1051,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -1514,8 +1514,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:23:56.373209+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:06:01.9786449+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:16:22.7063675+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:23:56.3733086+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:58:25.3088263+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:06:01.9787612+00:00"
 }

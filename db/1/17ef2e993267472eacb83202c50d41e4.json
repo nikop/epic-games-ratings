@@ -5949,9 +5949,9 @@
       "ID": "MaxNeutralKills150",
       "SetID": "12d07c7",
       "Name": "Eliminated 150 Neutral units in a single match",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "MaxPlayerKills10",
@@ -6198,8 +6198,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:27:02.8195788+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:09:16.9134209+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:20:39.893084+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:27:02.8196819+00:00"
+  "LastUpdate_Ratings": "2023-11-03T03:02:35.3715204+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:09:16.9135435+00:00"
 }

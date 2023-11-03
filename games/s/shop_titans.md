@@ -43,10 +43,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,385 |
 | Did we pack lunch? | 1.00% | ~1,385 |
 | Arcane Industries | 1.00% | ~1,385 |
-| Tax not Included | 0.90% | ~1,246 |
-| Trash to Treasure | 0.90% | ~1,246 |
-| Royal Ransom | 0.90% | ~1,246 |
-| Magical Harmony | 0.90% | ~1,246 |
+| Tax not Included | 0.90% | ~1,247 |
+| Trash to Treasure | 0.90% | ~1,247 |
+| Royal Ransom | 0.90% | ~1,247 |
+| Magical Harmony | 0.90% | ~1,247 |
 | A Notch Above the Rest | 0.80% | ~1,108 |
 | The King's Caprice | 0.80% | ~1,108 |
 | Big Game Hunting | 0.80% | ~1,108 |
@@ -64,32 +64,32 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.80% | ~1,108 |
 | Special Ingredient | 0.80% | ~1,108 |
 | Complete Monopoly | 0.80% | ~1,108 |
-| Cream of the Crop | 0.70% | ~969 |
-| Proud Paladin | 0.70% | ~969 |
-| Above the Norm | 0.70% | ~969 |
-| A Ronin Reborn | 0.70% | ~969 |
-| Booty by the Boatload | 0.70% | ~969 |
-| Archivist | 0.70% | ~969 |
-| Omae wa Mou Shindeiru | 0.70% | ~969 |
-| Master of Transmutation | 0.70% | ~969 |
-| Supercharged | 0.70% | ~969 |
-| Ritualist | 0.70% | ~969 |
-| Cranked up to 11 | 0.70% | ~969 |
-| Fit for a King | 0.70% | ~969 |
-| By Your Powers Combined... | 0.70% | ~969 |
-| Wealth Beyond Measure | 0.70% | ~969 |
-| Fat Cat Tag Team | 0.70% | ~969 |
-| Necromancer Queen | 0.70% | ~969 |
-| Master Merchant | 0.70% | ~969 |
-| Laden with Loot | 0.70% | ~969 |
-| Attrition Mission | 0.70% | ~969 |
-| Glittering Collection | 0.70% | ~969 |
-| Treasure Trove | 0.70% | ~969 |
-| Moment of Respite | 0.70% | ~969 |
-| King's Shadow | 0.70% | ~969 |
-| Master Recycler | 0.70% | ~969 |
-| Exotic Commodities | 0.70% | ~969 |
-| King's Blade | 0.70% | ~969 |
+| Cream of the Crop | 0.70% | ~970 |
+| Proud Paladin | 0.70% | ~970 |
+| Above the Norm | 0.70% | ~970 |
+| A Ronin Reborn | 0.70% | ~970 |
+| Booty by the Boatload | 0.70% | ~970 |
+| Archivist | 0.70% | ~970 |
+| Omae wa Mou Shindeiru | 0.70% | ~970 |
+| Master of Transmutation | 0.70% | ~970 |
+| Supercharged | 0.70% | ~970 |
+| Ritualist | 0.70% | ~970 |
+| Cranked up to 11 | 0.70% | ~970 |
+| Fit for a King | 0.70% | ~970 |
+| By Your Powers Combined... | 0.70% | ~970 |
+| Wealth Beyond Measure | 0.70% | ~970 |
+| Fat Cat Tag Team | 0.70% | ~970 |
+| Necromancer Queen | 0.70% | ~970 |
+| Master Merchant | 0.70% | ~970 |
+| Laden with Loot | 0.70% | ~970 |
+| Attrition Mission | 0.70% | ~970 |
+| Glittering Collection | 0.70% | ~970 |
+| Treasure Trove | 0.70% | ~970 |
+| Moment of Respite | 0.70% | ~970 |
+| King's Shadow | 0.70% | ~970 |
+| Master Recycler | 0.70% | ~970 |
+| Exotic Commodities | 0.70% | ~970 |
+| King's Blade | 0.70% | ~970 |
 | Top of the World | 0.60% | ~831 |
 | Constellated | 0.60% | ~831 |
 | Thirst for Knowledge | 0.60% | ~831 |
@@ -100,26 +100,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.60% | ~831 |
 | Precision Engineering | 0.60% | ~831 |
 | Economy of Scarce | 0.60% | ~831 |
-| Jackpot! | 0.50% | ~692 |
+| Jackpot! | 0.50% | ~693 |
 | The Free Encyclopedia | 0.40% | ~554 |
 | Thank You Tom Nook | 0.40% | ~554 |
 | Eternal Crusade | 0.40% | ~554 |
 | All Accounted For | 0.40% | ~554 |
-| JACKPOT!!! | 0.30% | ~415 |
-| Anything not Nailed Down | 0.30% | ~415 |
-| The Greatest Grind | 0.30% | ~415 |
-| All or Nothing! | 0.30% | ~415 |
-| Marvels from the World Over | 0.30% | ~415 |
+| JACKPOT!!! | 0.30% | ~416 |
+| Anything not Nailed Down | 0.30% | ~416 |
+| The Greatest Grind | 0.30% | ~416 |
+| All or Nothing! | 0.30% | ~416 |
+| Marvels from the World Over | 0.30% | ~416 |
 | Bane of Legends | 0.20% | ~277 |
 | Ultimate Collector | 0.20% | ~277 |
 | Oligarch Monarch | 0.20% | ~277 |
 | Unleashed Potential | 0.20% | ~277 |
 | Merchant Extraordinaire | 0.20% | ~277 |
 | Cash Only Please | 0.20% | ~277 |
-| Capitalist Camaraderie | 0.10% | ~138 |
-| To Hell and Back | 0.10% | ~138 |
+| Capitalist Camaraderie | 0.10% | ~139 |
+| To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,498 (Ranked 78)  
+Progressed: 138,501 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,498 | 178 |
+| 2023-11-03 | 138,501 | 178 |
 ## Awards
 Max (Great for Beginners): 4,814  (Ranked 74)  
 Sum: 27,484 (Ranked 51)  

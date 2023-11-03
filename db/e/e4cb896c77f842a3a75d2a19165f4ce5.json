@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -1619,6 +1619,11 @@
       "Time": "2023-11-03T02:21:53.1647244+00:00",
       "NumProgressed": 531,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-03T03:03:49.5793268+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 11,
@@ -1630,7 +1635,7 @@
       "Name": "Pit-house",
       "Percentage": 93,
       "XP": 45,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "LEVEL_003",
@@ -1638,7 +1643,7 @@
       "Name": "Smith house",
       "Percentage": 85,
       "XP": 45,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "LEVEL_004",
@@ -1652,9 +1657,9 @@
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 319
+      "UsersEstimate": 325
     },
     {
       "ID": "LEVEL_012",
@@ -1684,9 +1689,9 @@
       "ID": "LEVEL_023",
       "SetID": "7jk5g4e",
       "Name": "Farmhouse",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 95,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_025",
@@ -1717,14 +1722,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:21:53.1647239+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:03:49.5793261+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:16:09.1996712+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:21:53.1647406+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:58:11.6685283+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:03:49.5793482+00:00"
 }

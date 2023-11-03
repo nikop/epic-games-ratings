@@ -19,7 +19,7 @@
 | In this together | 13.00% | ~48 |
 | Peace walker | 13.00% | ~48 |
 | Half the way | 13.00% | ~48 |
-| Champollion | 12.00% | ~44 |
+| Champollion | 12.00% | ~45 |
 | Feels like springtime | 11.00% | ~41 |
 | Alchemists Express | 11.00% | ~41 |
 | Open door | 10.00% | ~37 |
@@ -30,8 +30,8 @@
 | For its own good | 6.00% | ~22 |
 | Fashion victim | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370 (Ranked 313)  
-Completed: 23 (6.22%) (Ranked 60)  
+Progressed: 371 (Ranked 313)  
+Completed: 23 (6.20%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,4 +134,4 @@ Completed: 23 (6.22%) (Ranked 60)
 | 2023-10-31 | 338 | 22 |
 | 2023-11-01 | 354 | 23 |
 | 2023-11-02 | 368 | 23 |
-| 2023-11-03 | 370 | 23 |
+| 2023-11-03 | 371 | 23 |

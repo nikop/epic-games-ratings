@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,655 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,528 |
-| Loose Ends | 34.00% | ~25,770 |
-| To the Victor Go the Spoils | 28.00% | ~21,222 |
-| Knighthood | 27.00% | ~20,464 |
-| Get ReQ'd | 25.00% | ~18,948 |
-| Whispered Words | 25.00% | ~18,948 |
+| First Step Into the Knight | 51.00% | ~38,656 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,529 |
+| Loose Ends | 34.00% | ~25,771 |
+| To the Victor Go the Spoils | 28.00% | ~21,223 |
+| Knighthood | 27.00% | ~20,465 |
+| Get ReQ'd | 25.00% | ~18,949 |
+| Whispered Words | 25.00% | ~18,949 |
 | The Batman Family | 23.00% | ~17,433 |
 | Lock and Key | 22.00% | ~16,675 |
 | Something in the Clay | 21.00% | ~15,917 |
@@ -23,21 +23,21 @@ Rating: 4.18 (Ranked 918)
 | The Show Mud Go On | 18.00% | ~13,643 |
 | From Inside Gotham's Walls | 18.00% | ~13,643 |
 | Protector of Gotham | 17.00% | ~12,885 |
-| Universal Health Scare | 16.00% | ~12,127 |
-| In Your Element | 15.00% | ~11,369 |
-| Voiceless | 15.00% | ~11,369 |
-| Rock and a Hard Place | 14.00% | ~10,611 |
-| Cooldown | 14.00% | ~10,611 |
-| Seeking Asylum | 14.00% | ~10,611 |
-| Not On My Watch | 13.00% | ~9,853 |
-| Shock Til They Drop | 13.00% | ~9,853 |
-| End of an Era | 12.00% | ~9,095 |
-| Bulldozed | 12.00% | ~9,095 |
-| Gotham Knight | 12.00% | ~9,095 |
-| Gotham City Confidential | 11.00% | ~8,337 |
-| Drone You Out | 10.00% | ~7,579 |
-| Out of Their League | 9.00% | ~6,821 |
-| Solid Alibi | 9.00% | ~6,821 |
+| Universal Health Scare | 16.00% | ~12,128 |
+| In Your Element | 15.00% | ~11,370 |
+| Voiceless | 15.00% | ~11,370 |
+| Rock and a Hard Place | 14.00% | ~10,612 |
+| Cooldown | 14.00% | ~10,612 |
+| Seeking Asylum | 14.00% | ~10,612 |
+| Not On My Watch | 13.00% | ~9,854 |
+| Shock Til They Drop | 13.00% | ~9,854 |
+| End of an Era | 12.00% | ~9,096 |
+| Bulldozed | 12.00% | ~9,096 |
+| Gotham Knight | 12.00% | ~9,096 |
+| Gotham City Confidential | 11.00% | ~8,338 |
+| Drone You Out | 10.00% | ~7,580 |
+| Out of Their League | 9.00% | ~6,822 |
+| Solid Alibi | 9.00% | ~6,822 |
 | Fusion Expert | 7.00% | ~5,306 |
 | Family Meeting | 6.00% | ~4,548 |
 | A Worthy Successor | 6.00% | ~4,548 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 918)
 | Element of Surprise | 0.20% | ~92 |
 | It's Nice to Be Wanted | 0.20% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,794 (Ranked 97)  
+Progressed: 75,797 (Ranked 97)  
 Completed: 122 (0.16%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,17 +264,17 @@ Completed: 122 (0.16%) (Ranked 250)
 | 2023-10-31 | 75,588 | 122 |
 | 2023-11-01 | 75,689 | 122 |
 | 2023-11-02 | 75,782 | 122 |
-| 2023-11-03 | 75,794 | 122 |
+| 2023-11-03 | 75,797 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,897  (Ranked 98)  
-Sum: 4,906 (Ranked 137)  
+Sum: 4,907 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,897 |
 | This game is Relaxing | 256 |
+| This game is Extremely Fun | 255 |
 | This game has Diverse Characters | 255 |
-| This game is Extremely Fun | 254 |
 | This game has Quickly Understood Controls | 252 |
 | This game is Great for Beginners | 252 |
 | This game has Amazing Characters | 249 |
@@ -535,3 +535,4 @@ Diff (max vs sum): -39
 | 2023-10-31 | 4.18 | 2,890 | 4,886 |
 | 2023-11-01 | 4.18 | 2,893 | 4,894 |
 | 2023-11-02 | 4.18 | 2,897 | 4,906 |
+| 2023-11-03 | 4.18 | 2,897 | 4,907 |

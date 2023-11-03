@@ -16,9 +16,9 @@
 | Together we can rule the galaxy | 15.00% | ~151 |
 | Shoot first | 15.00% | ~151 |
 | Collector | 14.00% | ~141 |
+| Survivor | 11.00% | ~110 |
 | Tell Jabba that I've got his money | 10.00% | ~100 |
 | Best star-pilot in the galaxy | 10.00% | ~100 |
-| Survivor | 10.00% | ~100 |
 | Never tell me the odds! | 9.00% | ~90 |
 | A cunning warrior | 9.00% | ~90 |
 | What's the cargo? | 8.00% | ~80 |

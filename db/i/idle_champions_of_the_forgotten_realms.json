@@ -7789,7 +7789,7 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233504,
+  "EOS_Progressed": 233505,
   "EOS_Completed": 2424,
   "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 36,
@@ -29754,6 +29754,11 @@
       "Time": "2023-11-03T02:21:28.5696986+00:00",
       "NumProgressed": 233504,
       "NumCompleted": 2424
+    },
+    {
+      "Time": "2023-11-03T03:03:26.1924855+00:00",
+      "NumProgressed": 233505,
+      "NumCompleted": 2424
     }
   ],
   "TotalAchievements": 532,
@@ -30179,9 +30184,9 @@
       "ID": "objective_completed_1106",
       "SetID": "415jc5c",
       "Name": "Thoughts on the Menu",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1107",
@@ -30227,9 +30232,9 @@
       "ID": "objective_completed_1117",
       "SetID": "415jc5c",
       "Name": "It\u0027s So Pretty\u2026",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_112",
@@ -30699,9 +30704,9 @@
       "ID": "objective_completed_124",
       "SetID": "cc37lbc",
       "Name": "Homecoming",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_125",
@@ -31131,9 +31136,9 @@
       "ID": "objective_completed_210",
       "SetID": "cc37lbc",
       "Name": "Werewolves in the Mist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_211",
@@ -31267,9 +31272,9 @@
       "ID": "objective_completed_249",
       "SetID": "415jc5c",
       "Name": "Drop of Time",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_251",
@@ -31339,9 +31344,9 @@
       "ID": "objective_completed_267",
       "SetID": "cc37lbc",
       "Name": "Seeds of Deceit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_268",
@@ -31427,9 +31432,9 @@
       "ID": "objective_completed_286",
       "SetID": "415jc5c",
       "Name": "Review by the Blackstaff",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_3",
@@ -31539,9 +31544,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_389",
@@ -31667,9 +31672,9 @@
       "ID": "objective_completed_404",
       "SetID": "cc37lbc",
       "Name": "From The Shadows",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_405",
@@ -31883,9 +31888,9 @@
       "ID": "objective_completed_435",
       "SetID": "cc37lbc",
       "Name": "Dino Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_436",
@@ -31915,9 +31920,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_541",
@@ -32355,9 +32360,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_606",
@@ -32491,9 +32496,9 @@
       "ID": "objective_completed_623",
       "SetID": "415jc5c",
       "Name": "An Owlbear of an Undertaking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_625",
@@ -32531,9 +32536,9 @@
       "ID": "objective_completed_630",
       "SetID": "415jc5c",
       "Name": "Into The Fire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_631",
@@ -32667,9 +32672,9 @@
       "ID": "objective_completed_656",
       "SetID": "415jc5c",
       "Name": "Elder Rune Attack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_657",
@@ -32755,9 +32760,9 @@
       "ID": "objective_completed_672",
       "SetID": "415jc5c",
       "Name": "Just The Worst",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_675",
@@ -33243,9 +33248,9 @@
       "ID": "objective_completed_848",
       "SetID": "415jc5c",
       "Name": "Quick Thinking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_849",
@@ -34003,9 +34008,9 @@
       "ID": "objective_completed_1552",
       "SetID": "415jc5c",
       "Name": "The End is the Beginning",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 400
     },
     {
       "ID": "objective_completed_1553",
@@ -34020,21 +34025,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199778,
-      "Completed": 3785
+      "Progressed": 199779,
+      "Completed": 3790
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233504,
+      "Progressed": 233505,
       "Completed": 2424
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-02T22:59:07.0075621+00:00",
-  "LastChanged_Achievements": "2023-11-03T02:21:28.569698+00:00",
+  "LastChanged_Achievements": "2023-11-03T03:03:26.192485+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T02:17:05.0122119+00:00",
-  "LastUpdate_Achievements": "2023-11-03T02:21:28.5727743+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:59:05.9112021+00:00",
+  "LastUpdate_Achievements": "2023-11-03T03:03:26.1953882+00:00"
 }

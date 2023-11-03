@@ -6,13 +6,13 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Taking Action | 7.00% | ~1,201 |
 | No Deaths | 7.00% | ~1,201 |
 | First Real Expedition | 6.00% | ~1,029 |
 | Overcoming Difficulty | 6.00% | ~1,029 |
 | Coral Forest | 6.00% | ~1,029 |
 | The Marshlands | 6.00% | ~1,029 |
 | The Scarlet Orchard | 6.00% | ~1,029 |
-| Taking Action | 6.00% | ~1,029 |
 | Ancient Battleground | 5.00% | ~858 |
 | Fertile Meadows | 5.00% | ~858 |
 | Royal Outpost | 5.00% | ~858 |

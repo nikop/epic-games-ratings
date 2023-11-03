@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 993)  
+Rating: 3.95 (Ranked 998)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 3.98 (Ranked 993)
 | A Familiar Nest | 20.00% | ~26 |
 | Periapt Alizarin | 19.00% | ~25 |
 | Geas Aristeya | 18.00% | ~24 |
-| Armsman | 17.00% | ~22 |
+| Armsman | 18.00% | ~24 |
 | A Perfect Cycle | 15.00% | ~20 |
 | Recruit | 15.00% | ~20 |
 | Good Boy | 11.00% | ~14 |
@@ -110,3 +110,4 @@ Completed: 1 (0.76%) (Ranked 170)
 | 2023-10-03 | 4.03 | 0 | 0 |
 | 2023-10-13 | 4.05 | 0 | 0 |
 | 2023-10-19 | 3.98 | 0 | 0 |
+| 2023-11-03 | 3.95 | 0 | 0 |

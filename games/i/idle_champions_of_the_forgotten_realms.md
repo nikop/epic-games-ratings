@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Beginning is the End | 0.30% | ~599 |
+| The End is the Beginning | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
 | Maddening | 0.10% | ~234 |
 | Pros and CONs | 0.10% | ~234 |
@@ -46,11 +47,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wet Feet | 0.10% | ~234 |
 | The Dark Heart | 0.10% | ~200 |
 | The Alien Underdark | 0.10% | ~200 |
+| Thoughts on the Menu | 0.10% | ~200 |
 | Brains on Ice | 0.10% | ~200 |
 | Hatchlings Underfoot | 0.10% | ~234 |
 | The Oozing Hunger | 0.10% | ~200 |
 | Levelheaded | 0.10% | ~200 |
 | The Madness of Zuggtmoy | 0.10% | ~200 |
+| It's So Pretty… | 0.10% | ~200 |
 | Don't Look Up! | 0.10% | ~234 |
 | The Cult of Lolth | 0.10% | ~200 |
 | Head over Heals | 0.10% | ~200 |
@@ -104,6 +107,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~200 |
 | Xanathaaaaaaar! | 0.10% | ~200 |
 | A Whale of a Time | 0.10% | ~200 |
+| Homecoming | 0.10% | ~234 |
 | Anti-Dexterous Explorers | 0.10% | ~234 |
 | Struggling Toward Omu | 0.10% | ~234 |
 | Wagon Train | 0.10% | ~234 |
@@ -154,6 +158,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.10% | ~234 |
 | The Hunt for Owl-y | 0.10% | ~234 |
 | Invisible Shadows | 0.10% | ~234 |
+| Werewolves in the Mist | 0.10% | ~234 |
 | We're not in Faerûn Anymore | 0.10% | ~234 |
 | Family Entanglements | 0.10% | ~234 |
 | Haunted Fortunes | 0.10% | ~234 |
@@ -170,11 +175,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Immortal Warrior | 0.10% | ~234 |
 | Hold for the Red Wizards | 0.10% | ~234 |
 | Form Ranks | 0.10% | ~234 |
+| Drop of Time | 0.10% | ~200 |
 | The Wyrmheart Mine | 0.10% | ~234 |
 | Tower on the Lake | 0.10% | ~234 |
 | Only the Strong Survive | 0.10% | ~234 |
 | Shorty's Day Off | 0.10% | ~234 |
 | Intelligence Hunt | 0.10% | ~234 |
+| Seeds of Deceit | 0.10% | ~234 |
 | Visions of Strahd | 0.10% | ~234 |
 | Seeds of Corruption | 0.10% | ~234 |
 | The Strahd Squad | 0.10% | ~200 |
@@ -185,6 +192,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.10% | ~234 |
 | The Trepidatious Trio | 0.10% | ~234 |
 | Our Time To Shine | 0.10% | ~234 |
+| Review by the Blackstaff | 0.10% | ~200 |
 | The Cursed Farmer | 0.10% | ~234 |
 | The Ring of Regeneration | 0.10% | ~234 |
 | The Crumbling Temple | 0.10% | ~234 |
@@ -197,6 +205,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.10% | ~234 |
 | A Saurial's Lament | 0.10% | ~234 |
 | A Saurial's Resolve | 0.10% | ~234 |
+| Flies on the Wall | 0.10% | ~234 |
 | The Killer Mists | 0.10% | ~234 |
 | Seeking Allies | 0.10% | ~234 |
 | A Nod from Strahd | 0.10% | ~200 |
@@ -210,6 +219,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Stumbling Escape | 0.10% | ~234 |
 | Distracted Escape | 0.10% | ~200 |
 | Fugitives | 0.10% | ~234 |
+| From The Shadows | 0.10% | ~234 |
 | Spined Nuisances | 0.10% | ~234 |
 | Twilight Twist | 0.10% | ~200 |
 | Excavating History | 0.10% | ~234 |
@@ -235,9 +245,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | And a Pixie in a Pear Treant | 0.10% | ~200 |
 | Orcs Are Wild | 0.10% | ~234 |
 | An Abyssal Situation | 0.10% | ~234 |
+| Dino Nightmare | 0.10% | ~234 |
 | A Familiar Friend | 0.10% | ~200 |
 | Mad Cow Disease | 0.10% | ~234 |
 | Exploring Port Nyanzaru | 0.10% | ~234 |
+| A Tale of Two Cities | 0.10% | ~234 |
 | A Tale of Two Fiends | 0.10% | ~234 |
 | A Tale of Two Champions | 0.10% | ~234 |
 | A Tale of Two Years | 0.10% | ~200 |
@@ -289,6 +301,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~234 |
 | Earthquake! | 0.10% | ~200 |
 | Hailstorm! | 0.10% | ~200 |
+| Resolve Amongst Chaos | 0.10% | ~234 |
 | All You Know Is Wrong | 0.10% | ~234 |
 | Shadow Stalkers | 0.10% | ~200 |
 | Avernus Frozen Over | 0.10% | ~200 |
@@ -301,10 +314,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relay Race | 0.10% | ~234 |
 | An Illithid Undertaking | 0.10% | ~200 |
 | An Illithid Ambush | 0.10% | ~200 |
+| An Owlbear of an Undertaking | 0.10% | ~200 |
 | Déjà Vu | 0.10% | ~200 |
 | Wait, What? | 0.10% | ~200 |
 | Ireena von Zarovich | 0.10% | ~200 |
 | Déjà Vu All Over Again | 0.10% | ~200 |
+| Into The Fire | 0.10% | ~200 |
 | A Difficult Descent | 0.10% | ~200 |
 | The Devil Arrives | 0.10% | ~200 |
 | Hearts Aflame | 0.10% | ~200 |
@@ -321,6 +336,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Friend Search Squad! | 0.10% | ~200 |
 | An Even Worse Time in Avernus | 0.10% | ~200 |
 | Alterdeep | 0.10% | ~200 |
+| Elder Rune Attack | 0.10% | ~200 |
 | The Gargoyle | 0.10% | ~200 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~200 |
 | The Wandering Emporium | 0.10% | ~200 |
@@ -330,6 +346,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Show of Strength | 0.10% | ~200 |
 | Questlines | 0.10% | ~200 |
 | Raggadragga's Crew | 0.10% | ~200 |
+| Just The Worst | 0.10% | ~200 |
 | Bel's Forge | 0.10% | ~200 |
 | Extreme Heat | 0.10% | ~200 |
 | A Tenday at Golgamann's | 0.10% | ~200 |
@@ -382,6 +399,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Madness of Yeenoghu | 0.10% | ~200 |
 | Reya Reborn | 0.10% | ~200 |
 | The Radiant Nightmare | 0.10% | ~200 |
+| Quick Thinking | 0.10% | ~200 |
 | Tough Acting | 0.10% | ~200 |
 | Waiting on Sunrise | 0.10% | ~200 |
 | Frontline Fighters | 0.10% | ~200 |
@@ -447,7 +465,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
 | Tomb of Champions | 0.10% | ~200 |
-| The End is the Beginning | 0.10% | ~200 |
 | See You on the Flipside | 0.10% | ~200 |
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
@@ -462,45 +479,29 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zarak's Revenge | 0.00% | ~0 |
 | Undergeared | 0.00% | ~0 |
 | Underdark Chill | 0.00% | ~0 |
-| Thoughts on the Menu | 0.00% | ~0 |
-| It's So Pretty… | 0.00% | ~0 |
 | The Demon Lords of the Abyss | 0.00% | ~0 |
 | Pincushion Party | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | Speeds of Destruction | 0.00% | ~0 |
-| Homecoming | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
-| Werewolves in the Mist | 0.00% | ~0 |
-| Drop of Time | 0.00% | ~0 |
 | They Who Smelt It | 0.00% | ~0 |
 | Distribute Your Weight | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
-| Seeds of Deceit | 0.00% | ~0 |
-| Review by the Blackstaff | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Flies on the Wall | 0.00% | ~0 |
 | Class Vacation | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
-| From The Shadows | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
-| Dino Nightmare | 0.00% | ~0 |
-| A Tale of Two Cities | 0.00% | ~0 |
 | The Tallest of Kobolds | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
-| Resolve Amongst Chaos | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | Ettercap Swarm | 0.00% | ~0 |
 | Smooth Talkers | 0.00% | ~0 |
 | Misty Undermountain | 0.00% | ~0 |
-| An Owlbear of an Undertaking | 0.00% | ~0 |
-| Into The Fire | 0.00% | ~0 |
-| Elder Rune Attack | 0.00% | ~0 |
 | Fight Dragons with Dragons | 0.00% | ~0 |
-| Just The Worst | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
 | Into the Unknown | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
@@ -509,7 +510,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Quick Thinking | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,504 (Ranked 62)  
+Progressed: 233,505 (Ranked 62)  
 Completed: 2,424 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,424 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,504 | 2,424 |
+| 2023-11-03 | 233,505 | 2,424 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,315 (Ranked 41)  
