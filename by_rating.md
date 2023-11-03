@@ -24,7 +24,7 @@
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 545 |
 | 23 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.87 | 23 | 524 |
 | 23 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 292 | 248 |
-| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,481 | 131 |
+| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,483 | 131 |
 | 23 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 734 | 175 |
 | 23 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 545 |
 | 28 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 545 |
@@ -95,7 +95,7 @@
 | 87 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 509 |
 | 87 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 545 |
 | 95 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,552 | 125 |
-| 95 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 598 | 190 |
+| 95 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 605 | 190 |
 | 95 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 163 | 304 |
 | 95 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 545 |
 | 95 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,072 | 145 |
@@ -502,7 +502,7 @@
 | 500 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 545 |
 | 500 | [Costume Quest](games/c/costume_quest.md) | 4.55 | 0 | 545 |
 | 500 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 545 |
-| 500 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,623 | 123 |
+| 500 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,625 | 123 |
 | 500 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 467 |
 | 500 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 29 | 491 |
 | 500 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 163 | 304 |
@@ -950,10 +950,10 @@
 | 947 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.13 | 21 | 533 |
 | 949 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.12 | 20 | 538 |
 | 949 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.12 | 0 | 545 |
+| 949 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.12 | 0 | 545 |
 | 949 | [Model Builder](games/m/model_builder.md) | 4.12 | 0 | 545 |
-| 952 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 545 |
-| 952 | [Fangs](games/f/fangs.md) | 4.11 | 0 | 545 |
-| 952 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.11 | 0 | 545 |
+| 953 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.11 | 0 | 545 |
+| 953 | [Fangs](games/f/fangs.md) | 4.11 | 0 | 545 |
 | 955 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 95 | 363 |
 | 955 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 30 | 487 |
 | 955 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 0 | 545 |

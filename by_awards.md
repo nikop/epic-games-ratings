@@ -122,7 +122,7 @@
 | 120 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,733 | 4.76 | 122 |
 | 121 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,720 | 4.78 | 105 |
 | 122 | [Celeste](games/c/celeste.md) | 1,674 | 4.92 | 4 |
-| 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,623 | 4.55 | 500 |
+| 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,625 | 4.55 | 500 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,589 | 4.62 | 363 |
 | 125 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,552 | 4.79 | 95 |
 | 126 | [Conan Exiles](games/c/conan_exiles.md) | 1,526 | 4.54 | 521 |
@@ -130,7 +130,7 @@
 | 128 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,521 | 4.63 | 347 |
 | 129 | [Ring of Pain](games/r/ring_of_pain.md) | 1,502 | 4.58 | 443 |
 | 130 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,497 | 4.53 | 532 |
-| 131 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,481 | 4.87 | 23 |
+| 131 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,483 | 4.87 | 23 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,474 | 4.41 | 715 |
 | 133 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 1,413 | 4.47 | 630 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,341 | 4.55 | 500 |
@@ -189,7 +189,7 @@
 | 187 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 626 | 4.73 | 172 |
 | 188 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 620 | 4.63 | 347 |
 | 189 | [Dark Deity](games/d/dark_deity.md) | 619 | 4.16 | 929 |
-| 190 | [Dishonored 2](games/d/dishonored_2.md) | 598 | 4.79 | 95 |
+| 190 | [Dishonored 2](games/d/dishonored_2.md) | 605 | 4.79 | 95 |
 | 191 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 595 | 4.39 | 744 |
 | 191 | [Star Trek Online](games/s/star_trek_online.md) | 595 | 4.44 | 674 |
 | 193 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 594 | 4.62 | 363 |
