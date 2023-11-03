@@ -4079,7 +4079,7 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 12002,
+  "EOS_Progressed": 12003,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -15044,6 +15044,11 @@
       "Time": "2023-11-03T01:51:31.2245777+00:00",
       "NumProgressed": 12002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T10:06:22.6054765+00:00",
+      "NumProgressed": 12003,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15063,7 +15068,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2040
+      "UsersEstimate": 2041
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -15189,9 +15194,9 @@
       "ID": "18_MythicChoices",
       "SetID": "989of5o",
       "Name": "Mythic Choices",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1800
     },
     {
       "ID": "19_EqualToAroden",
@@ -15423,7 +15428,7 @@
       "Name": "A Spark",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "49_Flame",
@@ -15982,21 +15987,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10784,
+      "Progressed": 10785,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12002,
+      "Progressed": 12003,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-02T21:58:59.5792614+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:06:09.848964+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:06:22.6054762+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:58:32.0612104+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:06:09.8492197+00:00"
+  "LastUpdate_Ratings": "2023-11-03T09:58:45.387474+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:06:22.6056566+00:00"
 }

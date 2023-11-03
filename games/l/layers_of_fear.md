@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 68.00% | ~27 |
-| Something important | 63.00% | ~25 |
-| A piece of the story | 48.00% | ~19 |
-| Do what you have to | 38.00% | ~15 |
-| Finished it | 33.00% | ~13 |
-| The artist’s impression | 30.00% | ~12 |
-| Refuse to look | 28.00% | ~11 |
-| Scraps of love | 25.00% | ~10 |
-| Sign of weakness | 25.00% | ~10 |
+| Wanderer | 68.00% | ~28 |
+| Something important | 63.00% | ~26 |
+| A piece of the story | 46.00% | ~19 |
+| Do what you have to | 37.00% | ~15 |
+| Finished it | 32.00% | ~13 |
+| The artist’s impression | 29.00% | ~12 |
+| Refuse to look | 27.00% | ~11 |
+| Scraps of love | 24.00% | ~10 |
+| Sign of weakness | 24.00% | ~10 |
 | It's covered up for a reason | 20.00% | ~8 |
 | Face your fears | 20.00% | ~8 |
 | First steps | 15.00% | ~6 |
 | Playtime | 15.00% | ~6 |
 | Tough conversation | 15.00% | ~6 |
-| Breaking free | 13.00% | ~5 |
-| The tragedy unfolds | 13.00% | ~5 |
-| True Reflection | 13.00% | ~5 |
+| Breaking free | 12.00% | ~5 |
+| The tragedy unfolds | 12.00% | ~5 |
+| True Reflection | 12.00% | ~5 |
 | A Slice of Life | 10.00% | ~4 |
 | Debut | 10.00% | ~4 |
 | The art of movement | 10.00% | ~4 |
-| A new way | 8.00% | ~3 |
-| We Are Not Alone | 8.00% | ~3 |
-| Sound Bite | 8.00% | ~3 |
-| Heavy Burden | 8.00% | ~3 |
-| Whispers long forgotten | 8.00% | ~3 |
+| A new way | 7.00% | ~3 |
+| We Are Not Alone | 7.00% | ~3 |
+| Sound Bite | 7.00% | ~3 |
+| Heavy Burden | 7.00% | ~3 |
+| Whispers long forgotten | 7.00% | ~3 |
 | Another perspective | 5.00% | ~2 |
 | Casting Finished | 5.00% | ~2 |
 | Lights! Camera! Action! | 5.00% | ~2 |
 | The Perfect Storm | 5.00% | ~2 |
 | Fisherman | 5.00% | ~2 |
-| Something to think about | 3.00% | ~1 |
-| Body of Work | 3.00% | ~1 |
-| Full Scoop | 3.00% | ~1 |
-| Se7en Seas | 3.00% | ~1 |
-| A Mosaic of Misery | 3.00% | ~1 |
+| Something to think about | 2.00% | ~1 |
+| Body of Work | 2.00% | ~1 |
+| Full Scoop | 2.00% | ~1 |
+| Se7en Seas | 2.00% | ~1 |
+| A Mosaic of Misery | 2.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
 | I remember It Like Was Yesterday | 0.00% | ~0 |
 | Dark correspondence | 0.00% | ~0 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 476)  
+Progressed: 41 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,3 +75,4 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 33 | 0 |
 | 2023-11-01 | 39 | 0 |
 | 2023-11-02 | 40 | 0 |
+| 2023-11-03 | 41 | 0 |

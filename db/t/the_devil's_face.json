@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -2314,6 +2314,11 @@
       "Time": "2023-11-02T16:08:27.2782252+00:00",
       "NumProgressed": 539,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-03T10:08:12.4421675+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2323,9 +2328,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 238
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2381,7 +2386,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2397,7 +2402,7 @@
       "Name": "Unholy lands",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2436,14 +2441,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:06:48.3207233+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:08:12.4421671+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:00:50.2629849+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:06:48.3207565+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:01:06.4223464+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:08:12.4421842+00:00"
 }

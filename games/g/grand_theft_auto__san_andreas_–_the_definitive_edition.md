@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 82.00% | ~10,986 |
-| Pay 'n' Spray | 51.00% | ~6,833 |
-| All Dressed Up for San Fierro | 26.00% | ~3,483 |
+| Getting Started | 82.00% | ~10,988 |
+| Pay 'n' Spray | 51.00% | ~6,834 |
+| All Dressed Up for San Fierro | 26.00% | ~3,484 |
 | The American Dream | 20.00% | ~2,680 |
 | School's Out | 19.00% | ~2,546 |
 | Smooth Moves | 17.00% | ~2,278 |
@@ -25,13 +25,13 @@ Rating: 4.56 (Ranked 482)
 | Bike or Biker | 3.00% | ~402 |
 | What the City Needs | 3.00% | ~402 |
 | Yes I Speak English | 3.00% | ~402 |
+| Public Enemy No. 1 | 3.00% | ~402 |
 | A Legitimate Business | 2.00% | ~268 |
 | I’ll Have Two Number 9s | 2.00% | ~268 |
 | Who Needs Directions? | 2.00% | ~268 |
 | Swiss Army Strife | 2.00% | ~268 |
 | Double or Nothin' | 2.00% | ~268 |
 | Assassin | 2.00% | ~268 |
-| Public Enemy No. 1 | 2.00% | ~268 |
 | Ain’t Nothing But a G Thing | 2.00% | ~268 |
 | Hoopin' it Up | 1.00% | ~134 |
 | Lucky Spinner | 1.00% | ~134 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 482)
 | ...Here we go again | 0.50% | ~67 |
 | I Ain't No Buster | 0.40% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,398 (Ranked 148)  
-Completed: 51 (0.38%) (Ranked 208)  
+Progressed: 13,400 (Ranked 148)  
+Completed: 51 (0.38%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,7 +238,7 @@ Completed: 51 (0.38%) (Ranked 208)
 | 2023-10-31 | 13,318 | 50 |
 | 2023-11-01 | 13,352 | 50 |
 | 2023-11-02 | 13,385 | 51 |
-| 2023-11-03 | 13,398 | 51 |
+| 2023-11-03 | 13,400 | 51 |
 ## Awards
 Max (Great Boss Battles): 370  (Ranked 230)  
 Sum: 587 (Ranked 308)  

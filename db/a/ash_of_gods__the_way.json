@@ -253,9 +253,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "special10",
@@ -349,9 +349,9 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 100,
+      "Percentage": 107,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "story10",
@@ -526,8 +526,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:04:30.5319081+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:04:39.5846031+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.7362932+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:59:06.0457525+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:04:30.5319541+00:00"
+  "LastUpdate_Ratings": "2023-11-03T09:59:19.0091837+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:04:39.5846387+00:00"
 }

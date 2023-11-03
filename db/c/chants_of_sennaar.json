@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.15,
+  "EOS_Completed_Percentage": 6.13,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1735,6 +1735,11 @@
       "Time": "2023-11-03T09:06:39.7273404+00:00",
       "NumProgressed": 374,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T10:06:53.5512203+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1746,7 +1751,7 @@
       "Name": "I did it",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "END_GOOD",
@@ -1770,7 +1775,7 @@
       "Name": "Cable guy",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1778,7 +1783,7 @@
       "Name": "A good beginning",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "META_HALF_LINK",
@@ -1794,7 +1799,7 @@
       "Name": "Open door",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1888,9 +1893,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1930,7 +1935,7 @@
       "Name": "The darkness",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PROGRESS_N5",
@@ -1938,21 +1943,21 @@
       "Name": "One last step",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:06:39.7273399+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:06:53.5512197+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:59:59.06879+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:06:39.7273786+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:00:14.3854605+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:06:53.551244+00:00"
 }

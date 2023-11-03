@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 831,
+  "EOS_Progressed": 832,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1427,6 +1427,11 @@
       "Time": "2023-11-03T09:03:51.226684+00:00",
       "NumProgressed": 831,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T10:04:00.0693609+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1439,7 +1444,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1495,7 +1500,7 @@
       "Name": "Versatile riding",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1567,7 +1572,7 @@
       "Name": "Solo",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1583,7 +1588,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1615,7 +1620,7 @@
       "Name": "The Scorpion",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1679,7 +1684,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1703,7 +1708,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1775,27 +1780,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 831,
+      "Progressed": 832,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 499,
-      "Completed": 499
+      "Progressed": 500,
+      "Completed": 500
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:03:51.2266837+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:04:00.0693604+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:59:05.4208396+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:03:51.2267303+00:00"
+  "LastUpdate_Ratings": "2023-11-03T09:59:18.7502459+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:04:00.0693956+00:00"
 }

@@ -858,9 +858,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 226305,
+  "EOS_Progressed": 226306,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22393,6 +22393,11 @@
       "Time": "2023-11-03T09:09:06.2428144+00:00",
       "NumProgressed": 226305,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-03T10:09:11.0968627+00:00",
+      "NumProgressed": 226306,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22412,7 +22417,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58839
+      "UsersEstimate": 58840
     },
     {
       "ID": "ACH_BASE_11",
@@ -22444,7 +22449,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20367
+      "UsersEstimate": 20368
     },
     {
       "ID": "ACH_BASE_16",
@@ -22452,7 +22457,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22630
+      "UsersEstimate": 22631
     },
     {
       "ID": "ACH_BASE_17",
@@ -22460,7 +22465,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20367
+      "UsersEstimate": 20368
     },
     {
       "ID": "ACH_BASE_18",
@@ -22468,7 +22473,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20367
+      "UsersEstimate": 20368
     },
     {
       "ID": "ACH_BASE_19",
@@ -22668,14 +22673,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20367
+      "UsersEstimate": 20368
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226305,
+      "Progressed": 226306,
       "Completed": 5
     }
   ],
@@ -22683,8 +22688,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-03T04:02:49.212683+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:09:06.2428139+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:09:11.0968623+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:02:40.5726127+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:09:06.2430318+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:02:45.5241688+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:09:11.0969656+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3167,9 +3167,9 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 17160,
+  "EOS_Progressed": 17162,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -12957,6 +12957,11 @@
       "Time": "2023-11-03T07:08:48.0180179+00:00",
       "NumProgressed": 17160,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-03T10:05:27.1562219+00:00",
+      "NumProgressed": 17162,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -12982,9 +12987,9 @@
       "ID": "AllNeeds",
       "SetID": "cfbk359",
       "Name": "Paradise",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "AllServices",
@@ -13367,15 +13372,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17160,
+      "Progressed": 17162,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-02T23:02:31.1945601+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:05:14.9587303+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:05:27.1562212+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.3582421+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:00:54.8964985+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:05:14.9588666+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:02:40.5719533+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:05:27.1562981+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1974,
+  "EOS_Progressed": 1975,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2609,6 +2609,11 @@
       "Time": "2023-11-03T00:06:14.7364703+00:00",
       "NumProgressed": 1974,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-03T10:06:27.6232212+00:00",
+      "NumProgressed": 1975,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2620,7 +2625,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2628,7 +2633,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2700,7 +2705,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -2812,7 +2817,7 @@
       "Name": "\u0027Ma Barker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_MONSTER_HUNTER",
@@ -2852,7 +2857,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2868,7 +2873,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2980,7 +2985,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -2996,7 +3001,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3004,7 +3009,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3043,15 +3048,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1974,
+      "Progressed": 1975,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:06:14.6438899+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:06:27.6232209+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:59:51.2465976+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:06:14.6439508+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:00:07.1788985+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:06:27.6232679+00:00"
 }

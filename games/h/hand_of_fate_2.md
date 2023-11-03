@@ -7,7 +7,7 @@ Number of Ratings: 780  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 72.00% | ~478,164 |
-| Apprentice | 58.00% | ~385,187 |
+| Apprentice | 58.00% | ~385,188 |
 | Close Shave | 25.00% | ~166,029 |
 | Mercenary | 23.00% | ~152,747 |
 | Ninja | 23.00% | ~152,747 |
@@ -16,7 +16,7 @@ Number of Ratings: 780  (23.09.2022)
 | Master of Arms | 12.00% | ~79,694 |
 | Gambler | 10.00% | ~66,412 |
 | Dice Master | 10.00% | ~66,412 |
-| Swordsman | 9.00% | ~59,770 |
+| Swordsman | 9.00% | ~59,771 |
 | Knight | 8.00% | ~53,129 |
 | Cure for Corruption | 8.00% | ~53,129 |
 | Focused | 8.00% | ~53,129 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,847 |
 | Jack of all Trades | 5.00% | ~33,206 |
 | Smithy | 5.00% | ~33,206 |
-| Leap of Faith | 3.00% | ~19,923 |
-| Combat Ready | 3.00% | ~19,923 |
-| Stuffed Potato | 3.00% | ~19,923 |
+| Leap of Faith | 3.00% | ~19,924 |
+| Combat Ready | 3.00% | ~19,924 |
+| Stuffed Potato | 3.00% | ~19,924 |
 | Card Sharp | 2.00% | ~13,282 |
 | Magician | 2.00% | ~13,282 |
 | Draknar's Bane | 2.00% | ~13,282 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,116 (Ranked 26)  
+Progressed: 664,117 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 171 (0.03%) (Ranked 304)
 | 2023-10-31 | 664,022 | 171 |
 | 2023-11-01 | 664,050 | 171 |
 | 2023-11-02 | 664,098 | 171 |
-| 2023-11-03 | 664,116 | 171 |
+| 2023-11-03 | 664,117 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 467)  
 Sum: 189 (Ranked 401)  

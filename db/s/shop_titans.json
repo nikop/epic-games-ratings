@@ -6779,11 +6779,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27484,
       "NumberOfAwardsMax": 4814
+    },
+    {
+      "Time": "2023-11-03T10:00:20.6705922+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27491,
+      "NumberOfAwardsMax": 4817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27484,
-  "NumberOfAwardsMax": 4814,
+  "NumberOfAwards": 27491,
+  "NumberOfAwardsMax": 4817,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6802,7 +6808,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4814
+      "Count": 4817
     },
     {
       "Text": "This game has Easy Combat",
@@ -6814,7 +6820,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4022
+      "Count": 4026
     },
     {
       "Text": "This game is Relaxing",
@@ -6835,9 +6841,9 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138515,
+  "EOS_Progressed": 138516,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26935,6 +26941,11 @@
       "Time": "2023-11-03T09:06:29.5388032+00:00",
       "NumProgressed": 138515,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-03T10:06:43.2581886+00:00",
+      "NumProgressed": 138516,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26944,9 +26955,9 @@
       "ID": "advlevel01",
       "SetID": "anfd17p",
       "Name": "The Daily Grind",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1385
+      "UsersEstimate": 2770
     },
     {
       "ID": "advlevel02",
@@ -27841,15 +27852,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138515,
+      "Progressed": 138516,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-02T13:04:13.013022+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:06:29.5388028+00:00",
+  "LastChanged": "2023-11-03T10:00:20.670592+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:06:43.2581882+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-03T09:00:07.253602+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:06:29.5391173+00:00"
+  "LastUpdate_Ratings": "2023-11-03T10:00:20.6705927+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:06:43.2584156+00:00"
 }

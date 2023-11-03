@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 52.00% | ~72 |
-| Fire in the... nevermind | 52.00% | ~72 |
-| Haute cuisine | 47.00% | ~65 |
+| Chapter I | 53.00% | ~74 |
+| Fire in the... nevermind | 53.00% | ~74 |
+| Haute cuisine | 48.00% | ~67 |
 | Demolition expert | 40.00% | ~56 |
 | I didn't do it! | 40.00% | ~56 |
 | Wooooooow! | 37.00% | ~51 |
+| Open up wide | 36.00% | ~50 |
+| Keep away from children | 36.00% | ~50 |
 | Artistic fool | 35.00% | ~49 |
-| Open up wide | 35.00% | ~49 |
-| Keep away from children | 35.00% | ~49 |
 | Let the boot talk | 31.00% | ~43 |
 | Chapter II | 27.00% | ~38 |
 | Shadow on the wall | 25.00% | ~35 |
@@ -22,8 +22,8 @@
 | Like a moth in the Wind | 23.00% | ~32 |
 | Bubblekillerfamily | 22.00% | ~31 |
 | Quite a buggy game | 21.00% | ~29 |
+| Pacifist | 20.00% | ~28 |
 | Mirror mirror on the wall... | 20.00% | ~28 |
-| Pacifist | 19.00% | ~26 |
 | Fastidious Clown | 19.00% | ~26 |
 | Home is where the heart is | 18.00% | ~25 |
 | It's not easy being green! | 17.00% | ~24 |
@@ -39,8 +39,8 @@
 | Where there is life, there is hope | 7.00% | ~10 |
 | Artistic master | 6.00% | ~8 |
 | Sadist | 6.00% | ~8 |
+| Fartjokes! | 6.00% | ~8 |
 | The hands of a healer | 6.00% | ~8 |
-| Fartjokes! | 5.00% | ~7 |
 | Shut up clown! | 4.00% | ~6 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 381)  
+Progressed: 139 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |

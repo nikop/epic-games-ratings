@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 0.50% | ~999 |
+| The Beginning is the End | 0.60% | ~1,199 |
 | The End is the Beginning | 0.30% | ~599 |
 | Tomb of Champions | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
@@ -445,6 +445,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Underdark | 0.10% | ~200 |
 | Visions of Hornfirth | 0.10% | ~200 |
 | Leemooggoogoon Rises | 0.10% | ~200 |
+| Stragglers | 0.10% | ~200 |
 | Volo's Guide to Kuo-toa | 0.10% | ~200 |
 | Ending the Rime - Part 1 | 0.10% | ~200 |
 | Ambitious Speakers - Part 1 | 0.10% | ~200 |
@@ -531,7 +532,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
-| Stragglers | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.00% | ~0 |
 | Calcryx Tricks | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,521 (Ranked 62)  
+Progressed: 233,525 (Ranked 62)  
 Completed: 2,425 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,521 | 2,425 |
+| 2023-11-03 | 233,525 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

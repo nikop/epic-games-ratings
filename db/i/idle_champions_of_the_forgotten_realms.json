@@ -7795,9 +7795,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233521,
+  "EOS_Progressed": 233525,
   "EOS_Completed": 2425,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29795,6 +29795,11 @@
       "Time": "2023-11-03T09:03:44.4087488+00:00",
       "NumProgressed": 233521,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-03T10:03:53.2969047+00:00",
+      "NumProgressed": 233525,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 532,
@@ -33460,9 +33465,9 @@
       "ID": "objective_completed_883",
       "SetID": "415jc5c",
       "Name": "Stragglers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_884",
@@ -34028,9 +34033,9 @@
       "ID": "objective_completed_1547",
       "SetID": "415jc5c",
       "Name": "The Beginning is the End",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 999
+      "UsersEstimate": 1199
     },
     {
       "ID": "objective_completed_1548",
@@ -34061,21 +34066,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199795,
-      "Completed": 3823
+      "Progressed": 199799,
+      "Completed": 3824
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233521,
+      "Progressed": 233525,
       "Completed": 2425
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:03:44.4087483+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:03:53.296904+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:59:03.7943008+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:03:44.4124857+00:00"
+  "LastUpdate_Ratings": "2023-11-03T09:59:16.9622318+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:03:53.2994791+00:00"
 }

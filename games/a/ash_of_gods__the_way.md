@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 100.00% | ~14 |
+| First success | 107.00% | ~15 |
 | Suicide squad | 57.00% | ~8 |
 | First blood | 29.00% | ~4 |
 | Train hard, fight easy | 21.00% | ~3 |
@@ -12,6 +12,7 @@
 | Under cover | 21.00% | ~3 |
 | A hidden snake | 21.00% | ~3 |
 | Surpass the teacher | 14.00% | ~2 |
+| All for one! | 14.00% | ~2 |
 | By own strength | 14.00% | ~2 |
 | A solo player | 14.00% | ~2 |
 | Punish the Punisher | 14.00% | ~2 |
@@ -23,7 +24,6 @@
 | The best apprentice | 7.00% | ~1 |
 | The champion of the arena | 7.00% | ~1 |
 | Vene, vidi, vici | 7.00% | ~1 |
-| All for one! | 7.00% | ~1 |
 | Deadly strike | 7.00% | ~1 |
 | Protect the Healer! | 7.00% | ~1 |
 | Cunning plan | 7.00% | ~1 |

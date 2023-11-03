@@ -12,6 +12,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,155 |
 | Tinkle of Coins | 3.00% | ~4,155 |
 | Capitalism Ho! | 3.00% | ~4,155 |
+| The Daily Grind | 2.00% | ~2,770 |
 | One Easy Payment | 2.00% | ~2,770 |
 | Some Assembly Required | 2.00% | ~2,770 |
 | Another Satisfied Customer | 2.00% | ~2,770 |
@@ -21,7 +22,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,770 |
 | Through Repetition, Perfection | 2.00% | ~2,770 |
 | Own the Means of Production | 2.00% | ~2,770 |
-| The Daily Grind | 1.00% | ~1,385 |
 | On the Path to Greatness | 1.00% | ~1,385 |
 | Ascended | 1.00% | ~1,385 |
 | Research & Development | 1.00% | ~1,385 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,515 (Ranked 78)  
+Progressed: 138,516 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,16 +316,16 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,515 | 178 |
+| 2023-11-03 | 138,516 | 178 |
 ## Awards
-Max (Great for Beginners): 4,814  (Ranked 74)  
-Sum: 27,484 (Ranked 51)  
+Max (Great for Beginners): 4,817  (Ranked 74)  
+Sum: 27,491 (Ranked 51)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,814 |
+| This game is Great for Beginners | 4,817 |
 | This game is Relaxing | 4,034 |
-| This game has Quickly Understood Controls | 4,022 |
+| This game has Quickly Understood Controls | 4,026 |
 | This game has Diverse Characters | 3,931 |
 | This game is Highly Recommended | 3,770 |
 | This game has Easy Combat | 3,718 |
@@ -611,3 +611,4 @@ Diff (max vs sum): 23
 | 2023-10-31 | 3.99 | - | 4,812 | 27,477 |
 | 2023-11-01 | 3.99 | - | 4,814 | 27,482 |
 | 2023-11-02 | 3.99 | - | 4,814 | 27,484 |
+| 2023-11-03 | 3.99 | - | 4,817 | 27,491 |

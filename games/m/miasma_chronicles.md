@@ -5,22 +5,22 @@ Rating: 4.43 (Ranked 686)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,445 |
+| First Blood | 92.00% | ~1,446 |
 | Ranidaphobia | 77.00% | ~1,210 |
 | Aspiring Editor | 74.00% | ~1,163 |
-| Gun for Hire | 69.00% | ~1,084 |
+| Gun for Hire | 69.00% | ~1,085 |
 | I am the law! | 63.00% | ~990 |
 | Lumberjack | 53.00% | ~833 |
-| Croaked | 48.00% | ~754 |
-| Limp Richard | 48.00% | ~754 |
-| Exorcist | 47.00% | ~738 |
-| From Darkness to Light | 47.00% | ~738 |
+| Croaked | 48.00% | ~755 |
+| Limp Richard | 48.00% | ~755 |
+| Exorcist | 47.00% | ~739 |
+| From Darkness to Light | 47.00% | ~739 |
 | Editor Adept | 46.00% | ~723 |
 | Giant Killer | 45.00% | ~707 |
 | Sensei | 43.00% | ~676 |
-| Firestarter | 42.00% | ~660 |
-| The meaning of Kain | 41.00% | ~644 |
-| Technophobe | 40.00% | ~628 |
+| Firestarter | 41.00% | ~645 |
+| The meaning of Kain | 41.00% | ~645 |
+| Technophobe | 40.00% | ~629 |
 | Recycler | 39.00% | ~613 |
 | Are you not entertained? | 35.00% | ~550 |
 | Jarhead | 35.00% | ~550 |
@@ -35,9 +35,9 @@ Rating: 4.43 (Ranked 686)
 | Silent but Violent | 24.00% | ~377 |
 | Chain Killer | 22.00% | ~346 |
 | The Watchers | 22.00% | ~346 |
-| Commando | 16.00% | ~251 |
-| Dr Jones | 16.00% | ~251 |
-| Newtonian Knockout | 16.00% | ~251 |
+| Commando | 16.00% | ~252 |
+| Dr Jones | 16.00% | ~252 |
+| Newtonian Knockout | 16.00% | ~252 |
 | Chaos Theory | 15.00% | ~236 |
 | Ruthless | 14.00% | ~220 |
 | Side Order | 11.00% | ~173 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 686)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,571 (Ranked 226)  
+Progressed: 1,572 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 1,562 | 0 |
 | 2023-11-01 | 1,566 | 0 |
 | 2023-11-02 | 1,571 | 0 |
+| 2023-11-03 | 1,572 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,11 +11,11 @@ Number of Ratings: 38  (23.09.2022)
 | Hug therapy | 44.00% | ~661 |
 | Life’s short, ride long | 44.00% | ~661 |
 | Over my dead body | 40.00% | ~601 |
-| Shake the rust off their feet | 21.00% | ~315 |
-| My little pony | 20.00% | ~300 |
-| Strike! | 19.00% | ~285 |
-| A love supreme | 19.00% | ~285 |
-| In my shoes | 17.00% | ~255 |
+| Shake the rust off their feet | 21.00% | ~316 |
+| My little pony | 20.00% | ~301 |
+| Strike! | 19.00% | ~286 |
+| A love supreme | 19.00% | ~286 |
+| In my shoes | 17.00% | ~256 |
 | Like new! | 15.00% | ~225 |
 | Heartstrings | 14.00% | ~210 |
 | Don't look back | 13.00% | ~195 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~30 |
 | À la carte | 2.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,502 (Ranked 229)  
+Progressed: 1,503 (Ranked 229)  
 Completed: 9 (0.60%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 9 (0.60%) (Ranked 179)
 | 2023-10-29 | 1,499 | 9 |
 | 2023-11-01 | 1,500 | 9 |
 | 2023-11-02 | 1,502 | 9 |
+| 2023-11-03 | 1,503 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3528,
+  "EOS_Progressed": 3529,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -5399,6 +5399,11 @@
       "Time": "2023-11-03T03:03:09.5107838+00:00",
       "NumProgressed": 3528,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T10:03:32.7286075+00:00",
+      "NumProgressed": 3529,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5450,7 +5455,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5466,7 +5471,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -5514,7 +5519,7 @@
       "Name": "Regicide",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -5570,7 +5575,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5602,7 +5607,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5634,7 +5639,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5674,7 +5679,7 @@
       "Name": "The Spire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_MISSION_11",
@@ -5682,7 +5687,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH_MISSION_12",
@@ -5714,7 +5719,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5730,7 +5735,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -5762,14 +5767,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3528,
+      "Progressed": 3529,
       "Completed": 3
     }
   ],
@@ -5777,8 +5782,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-03T09:03:24.9171121+00:00",
+  "LastChanged_Achievements": "2023-11-03T10:03:32.728607+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.9783069+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:58:58.0577196+00:00",
-  "LastUpdate_Achievements": "2023-11-03T09:03:24.9171915+00:00"
+  "LastUpdate_Ratings": "2023-11-03T09:59:11.2212207+00:00",
+  "LastUpdate_Achievements": "2023-11-03T10:03:32.7286554+00:00"
 }
