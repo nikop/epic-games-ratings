@@ -92,9 +92,9 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -106,8 +106,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:49:07.4349746+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:22:09.1238448+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.3377864+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:42:16.6070663+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:49:07.4349831+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:16:00.3791115+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:22:09.1238706+00:00"
 }

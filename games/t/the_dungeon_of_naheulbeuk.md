@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.70% | ~1,643 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,408 |
 | We come in peace | 0.60% | ~1,408 |
-| Holistic Adventuring Party | 0.50% | ~1,173 |
-| Law and Order | 0.50% | ~1,173 |
+| Holistic Adventuring Party | 0.50% | ~1,174 |
+| Law and Order | 0.50% | ~1,174 |
 | Scholar of the Lands of Fangh | 0.40% | ~939 |
 | It's been a hard day's night | 0.40% | ~939 |
 | Friendly fire | 0.30% | ~704 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~235 |
 | Dwarf Candy | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,699 (Ranked 61)  
+Progressed: 234,701 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 7 (0.00%) (Ranked 339)
 | 2023-10-31 | 234,284 | 7 |
 | 2023-11-01 | 234,476 | 7 |
 | 2023-11-02 | 234,679 | 7 |
-| 2023-11-03 | 234,699 | 7 |
+| 2023-11-03 | 234,701 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 269)  
 Sum: 450 (Ranked 328)  

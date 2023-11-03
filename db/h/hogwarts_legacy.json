@@ -9933,9 +9933,9 @@
       "Count": 760
     }
   ],
-  "EOS_Progressed": 300345,
+  "EOS_Progressed": 300349,
   "EOS_Completed": 500,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1302,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -30973,6 +30973,11 @@
       "Time": "2023-11-03T01:53:36.9760749+00:00",
       "NumProgressed": 300345,
       "NumCompleted": 500
+    },
+    {
+      "Time": "2023-11-03T02:26:42.7208974+00:00",
+      "NumProgressed": 300349,
+      "NumCompleted": 500
     }
   ],
   "TotalAchievements": 45,
@@ -31016,7 +31021,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30034
+      "UsersEstimate": 30035
     },
     {
       "ID": "PFA_14",
@@ -31088,7 +31093,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30034
+      "UsersEstimate": 30035
     },
     {
       "ID": "PFA_22",
@@ -31208,7 +31213,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30034
+      "UsersEstimate": 30035
     },
     {
       "ID": "PFA_36",
@@ -31312,7 +31317,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42048
+      "UsersEstimate": 42049
     },
     {
       "ID": "PFA_7",
@@ -31328,7 +31333,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36041
+      "UsersEstimate": 36042
     },
     {
       "ID": "PFA_9",
@@ -31343,7 +31348,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 300345,
+      "Progressed": 300349,
       "Completed": 500
     }
   ],
@@ -31351,8 +31356,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-02T22:59:22.6021847+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:53:36.9760741+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:26:42.7208968+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.1120303+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:44:08.9331864+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:53:36.9762875+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:17:23.5445687+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:26:42.7210667+00:00"
 }

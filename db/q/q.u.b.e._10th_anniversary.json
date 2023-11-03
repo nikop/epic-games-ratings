@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14820,
+  "EOS_Progressed": 14826,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4381,
+  "EOS_NewPlayers": 4372,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1775,6 +1775,11 @@
       "Time": "2023-11-03T01:53:38.7522796+00:00",
       "NumProgressed": 14820,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T02:26:43.963002+00:00",
+      "NumProgressed": 14826,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -1784,9 +1789,9 @@
       "ID": "ACH_BlueIntro",
       "SetID": "a3lf366",
       "Name": "Feeling the Blues",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_CollectAll",
@@ -1818,7 +1823,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_Finale",
@@ -1914,7 +1919,7 @@
       "Name": "Sector 1",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_Sector2",
@@ -1922,7 +1927,7 @@
       "Name": "Sector 2",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_Sector3",
@@ -1930,7 +1935,7 @@
       "Name": "Sector 3",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_Sector4",
@@ -1977,7 +1982,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14820,
+      "Progressed": 14826,
       "Completed": 3
     }
   ],
@@ -1985,8 +1990,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T13:01:37.1364146+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:53:38.7522788+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:26:43.9630015+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:41:18.9600173+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:53:38.7523075+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:15:17.3768872+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:26:43.9630316+00:00"
 }

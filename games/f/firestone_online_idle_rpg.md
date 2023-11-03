@@ -58,9 +58,9 @@ Rating: 4.10 (Ranked 955)
 | Active Member | 6.00% | ~126 |
 | Ancient Knowledge | 6.00% | ~126 |
 | Background Story | 6.00% | ~126 |
+| Ebony Jungle Liberator | 6.00% | ~126 |
 | Legendary | 6.00% | ~126 |
 | Arena Challenger | 5.00% | ~105 |
-| Ebony Jungle Liberator | 5.00% | ~105 |
 | Gear Enchanting | 4.00% | ~84 |
 | Mythic Power | 4.00% | ~84 |
 | What lies behind the bush | 4.00% | ~84 |

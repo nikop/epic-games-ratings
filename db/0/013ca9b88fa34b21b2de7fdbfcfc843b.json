@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7475,
+  "EOS_Progressed": 7476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5954,6 +5954,11 @@
       "Time": "2023-11-03T01:53:29.1521276+00:00",
       "NumProgressed": 7475,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T02:26:37.1185932+00:00",
+      "NumProgressed": 7476,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5966,7 +5971,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -5974,7 +5979,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6062,7 +6067,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3214
+      "UsersEstimate": 3215
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6110,7 +6115,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -6118,7 +6123,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4485
+      "UsersEstimate": 4486
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6126,7 +6131,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6142,7 +6147,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3438
+      "UsersEstimate": 3439
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6198,7 +6203,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -6245,22 +6250,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7475,
+      "Progressed": 7476,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 92,
-      "Completed": 92
+      "Progressed": 93,
+      "Completed": 93
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:53:29.1520987+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:26:37.1185926+00:00",
   "LastUpdate_AppInfo": "2023-10-27T06:57:16.3862437+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:45:42.4516658+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:53:29.1521945+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:18:28.7040045+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:26:37.1186547+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -2792,9 +2792,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 652
     },
     {
       "ID": "achievement_125",
@@ -2816,9 +2816,9 @@
       "ID": "achievement_127",
       "SetID": "d252ncf",
       "Name": "Bruiser",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_13",
@@ -3596,8 +3596,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:47:58.6820625+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:21:19.4166391+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:45:46.506979+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:47:58.682295+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:18:30.399263+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:21:19.4168731+00:00"
 }

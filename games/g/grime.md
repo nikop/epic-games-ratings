@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,178 (Ranked 75)  
+Progressed: 156,182 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 1 (0.00%) (Ranked 339)
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
-| 2023-11-03 | 156,178 | 1 |
+| 2023-11-03 | 156,182 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 342 (Ranked 350)  

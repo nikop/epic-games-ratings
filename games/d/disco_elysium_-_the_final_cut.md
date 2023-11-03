@@ -8,13 +8,13 @@ Number of Ratings: 1,611  (23.09.2022)
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,509 |
 | Biggest Communism Builder | 24.00% | ~31,293 |
-| The World's Most Laughable Centrist | 21.00% | ~27,381 |
+| The World's Most Laughable Centrist | 21.00% | ~27,382 |
 | Il Coppo Del'Arte! | 18.00% | ~23,470 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,862 |
 | Hyperstellar Law Official | 16.00% | ~20,862 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,254 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,254 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,950 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,951 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,343 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,039 |
 | Unbelievably Boring **** | 9.00% | ~11,735 |
@@ -30,9 +30,9 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,608 |
 | Massive Torque Dork | 1.00% | ~1,304 |
 | Avowed Inframaterialist | 1.00% | ~1,304 |
-| Committee of la Responsabilité | 0.90% | ~1,173 |
-| Venture into the HARDCORE | 0.90% | ~1,173 |
-| Real Musor | 0.90% | ~1,173 |
+| Committee of la Responsabilité | 0.90% | ~1,174 |
+| Venture into the HARDCORE | 0.90% | ~1,174 |
+| Real Musor | 0.90% | ~1,174 |
 | Baddest Brow in Town | 0.80% | ~1,043 |
 | Networthy Individual | 0.70% | ~913 |
 | Leopard Mindset | 0.60% | ~782 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,388 (Ranked 81)  
+Progressed: 130,389 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 28 (0.02%) (Ranked 310)
 | 2023-10-31 | 130,326 | 28 |
 | 2023-11-01 | 130,353 | 28 |
 | 2023-11-02 | 130,386 | 28 |
-| 2023-11-03 | 130,388 | 28 |
+| 2023-11-03 | 130,389 | 28 |
 ## Awards
 Max (Character Customization): 734  (Ranked 175)  
 Sum: 1,112 (Ranked 245)  

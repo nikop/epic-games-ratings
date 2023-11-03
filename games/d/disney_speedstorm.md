@@ -5,19 +5,19 @@ Rating: 4.41 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 7.00% | ~19,194 |
-| IT MAKES BOOM! | 4.00% | ~10,968 |
-| EXTRA BOOST | 3.00% | ~8,226 |
-| PROTECTED | 2.00% | ~5,484 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,484 |
-| AGGRESSIVE RACER | 2.00% | ~5,484 |
-| PRO | 2.00% | ~5,484 |
-| A TIGER'S FEAR | 1.00% | ~2,742 |
-| IT'S A LONG WAY TO THE TOP | 0.90% | ~2,468 |
+| ROOKIE | 7.00% | ~19,201 |
+| IT MAKES BOOM! | 4.00% | ~10,972 |
+| EXTRA BOOST | 3.00% | ~8,229 |
+| PROTECTED | 3.00% | ~8,229 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,486 |
+| AGGRESSIVE RACER | 2.00% | ~5,486 |
+| PRO | 2.00% | ~5,486 |
+| A TIGER'S FEAR | 1.00% | ~2,743 |
+| IT'S A LONG WAY TO THE TOP | 0.90% | ~2,469 |
 | ACE SPEEDSTER | 0.80% | ~2,194 |
-| RELEASE THE KRAKEN | 0.60% | ~1,645 |
-| DEFEAT OUR CHAMPION | 0.60% | ~1,645 |
-| LEGENDARY HERO | 0.60% | ~1,645 |
+| RELEASE THE KRAKEN | 0.60% | ~1,646 |
+| DEFEAT OUR CHAMPION | 0.60% | ~1,646 |
+| LEGENDARY HERO | 0.60% | ~1,646 |
 | TRAINING HARD | 0.50% | ~1,371 |
 | BE OUR GUEST | 0.50% | ~1,371 |
 | THE EYE OF THE HUNTER | 0.50% | ~1,371 |
@@ -26,12 +26,12 @@ Rating: 4.41 (Ranked 715)
 | ACE BRAWLER | 0.30% | ~823 |
 | ACE DEFENDER | 0.30% | ~823 |
 | MASTER | 0.30% | ~823 |
-| PERFECTLY POISED | 0.20% | ~548 |
-| FRAMED! | 0.20% | ~548 |
-| ACE TRICKSTER | 0.20% | ~548 |
+| PERFECTLY POISED | 0.20% | ~549 |
+| FRAMED! | 0.20% | ~549 |
+| ACE TRICKSTER | 0.20% | ~549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274,206 (Ranked 53)  
-Completed: 261 (0.10%) (Ranked 265)  
+Progressed: 274,295 (Ranked 53)  
+Completed: 262 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 261 (0.10%) (Ranked 265)
 | 2023-10-31 | 269,606 | 248 |
 | 2023-11-01 | 271,352 | 248 |
 | 2023-11-02 | 273,691 | 260 |
-| 2023-11-03 | 274,206 | 261 |
+| 2023-11-03 | 274,295 | 262 |
 ## Awards
 Max (Great for Quick Sessions): 49  (Ranked 428)  
 Sum: 383 (Ranked 338)  

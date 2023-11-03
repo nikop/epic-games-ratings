@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~15,469 |
-| A Better Idea | 25.00% | ~4,071 |
-| Safety in the Storm | 24.00% | ~3,908 |
+| Fracture at Fostar Haven | 95.00% | ~15,472 |
+| A Better Idea | 25.00% | ~4,072 |
+| Safety in the Storm | 24.00% | ~3,909 |
 | Begin the Ceremony | 20.00% | ~3,257 |
 | Mission Accomplished | 19.00% | ~3,094 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,442 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,443 |
 | A Starfighter of Your Own | 14.00% | ~2,280 |
 | Asset Secured | 13.00% | ~2,117 |
 | Unkillable | 8.00% | ~1,303 |
@@ -24,10 +24,10 @@
 | Back From the Brink | 4.00% | ~651 |
 | Temporary Guardian | 4.00% | ~651 |
 | Baited | 4.00% | ~651 |
-| Stronger Together | 3.00% | ~488 |
-| Squadron Hunter | 3.00% | ~488 |
-| Punch It | 3.00% | ~488 |
-| Combat Pilot | 3.00% | ~488 |
+| Stronger Together | 3.00% | ~489 |
+| Squadron Hunter | 3.00% | ~489 |
+| Punch It | 3.00% | ~489 |
+| Combat Pilot | 3.00% | ~489 |
 | Stun 'Em | 2.00% | ~326 |
 | Dressed for the Job You Want | 2.00% | ~326 |
 | I Have You Now | 1.00% | ~163 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~16 |
 | The Galaxy's Finest (Ace) | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,283 (Ranked 141)  
+Progressed: 16,286 (Ranked 141)  
 Completed: 1 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 1 (0.01%) (Ranked 318)
 | 2023-10-31 | 15,677 | 1 |
 | 2023-11-01 | 15,985 | 1 |
 | 2023-11-02 | 16,249 | 1 |
-| 2023-11-03 | 16,283 | 1 |
+| 2023-11-03 | 16,286 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

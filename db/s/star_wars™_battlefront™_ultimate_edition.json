@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1002,
+  "EOS_Progressed": 1004,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2849,6 +2849,11 @@
       "Time": "2023-11-03T01:53:47.2688489+00:00",
       "NumProgressed": 1002,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T02:26:50.2306579+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -2933,7 +2938,7 @@
       "Name": "The power of the Force",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_19",
@@ -2957,7 +2962,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "achievement_21",
@@ -3005,7 +3010,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_27",
@@ -3053,7 +3058,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_32",
@@ -3061,7 +3066,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_33",
@@ -3085,7 +3090,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_36",
@@ -3101,7 +3106,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_38",
@@ -3125,7 +3130,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_40",
@@ -3133,7 +3138,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_41",
@@ -3213,7 +3218,7 @@
       "Name": "Shoot first",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_50",
@@ -3301,7 +3306,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_60",
@@ -3364,13 +3369,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1002,
+      "Progressed": 1004,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1002,
+      "Progressed": 1004,
       "Completed": 1
     }
   ],
@@ -3378,8 +3383,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:53:47.2688481+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:26:50.2306572+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:44:18.4805691+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:53:47.268941+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:17:31.2117927+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:26:50.2307457+00:00"
 }

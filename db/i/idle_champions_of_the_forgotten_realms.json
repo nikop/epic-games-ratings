@@ -7789,9 +7789,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233502,
+  "EOS_Progressed": 233504,
   "EOS_Completed": 2424,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29749,6 +29749,11 @@
       "Time": "2023-11-03T01:48:10.777123+00:00",
       "NumProgressed": 233502,
       "NumCompleted": 2424
+    },
+    {
+      "Time": "2023-11-03T02:21:28.5696986+00:00",
+      "NumProgressed": 233504,
+      "NumCompleted": 2424
     }
   ],
   "TotalAchievements": 532,
@@ -29982,9 +29987,9 @@
       "ID": "objective_completed_1076",
       "SetID": "415jc5c",
       "Name": "Icequake",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1077",
@@ -30958,9 +30963,9 @@
       "ID": "objective_completed_165",
       "SetID": "cc37lbc",
       "Name": "Street War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_166",
@@ -31678,9 +31683,9 @@
       "ID": "objective_completed_406",
       "SetID": "415jc5c",
       "Name": "Twilight Twist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_408",
@@ -32806,9 +32811,9 @@
       "ID": "objective_completed_685",
       "SetID": "415jc5c",
       "Name": "The Prison of Velkynvelve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_686",
@@ -33070,9 +33075,9 @@
       "ID": "objective_completed_813",
       "SetID": "415jc5c",
       "Name": "The Archduke\u0027s Blessing",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_814",
@@ -33374,9 +33379,9 @@
       "ID": "objective_completed_873",
       "SetID": "415jc5c",
       "Name": "Gargauth\u0027s Betrayal",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_877",
@@ -33638,17 +33643,17 @@
       "ID": "objective_completed_95",
       "SetID": "cc37lbc",
       "Name": "The Haunted Jungle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_96",
       "SetID": "cc37lbc",
       "Name": "Poor Guidance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_97",
@@ -34015,21 +34020,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199776,
-      "Completed": 3784
+      "Progressed": 199778,
+      "Completed": 3785
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233502,
+      "Progressed": 233504,
       "Completed": 2424
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-02T22:59:07.0075621+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:48:10.7771223+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:21:28.569698+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:43:43.3397985+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:48:10.7805701+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:17:05.0122119+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:21:28.5727743+00:00"
 }

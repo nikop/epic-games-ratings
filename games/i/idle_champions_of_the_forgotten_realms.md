@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Squeeze the Spiders | 0.10% | ~200 |
 | The Spire of Iriolarthas | 0.10% | ~200 |
 | The Fall of Ythryn | 0.10% | ~200 |
+| Icequake | 0.10% | ~200 |
 | A Lesson in Classes | 0.10% | ~200 |
 | The Prince of a Thousand Enemies | 0.10% | ~200 |
 | Uncommon Allies | 0.10% | ~200 |
@@ -133,6 +134,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~234 |
 | Low Initiative | 0.10% | ~234 |
 | A Mysterious Summons | 0.10% | ~234 |
+| Street War | 0.10% | ~234 |
 | Force Grey Unleashed | 0.10% | ~234 |
 | Vajra's Guards | 0.10% | ~234 |
 | Building Trust | 0.10% | ~234 |
@@ -209,6 +211,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Distracted Escape | 0.10% | ~200 |
 | Fugitives | 0.10% | ~234 |
 | Spined Nuisances | 0.10% | ~234 |
+| Twilight Twist | 0.10% | ~200 |
 | Excavating History | 0.10% | ~234 |
 | Premature Betrayal | 0.10% | ~234 |
 | Frantic Excavation | 0.10% | ~234 |
@@ -331,6 +334,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Extreme Heat | 0.10% | ~200 |
 | A Tenday at Golgamann's | 0.10% | ~200 |
 | A Nightmare Occasion | 0.10% | ~200 |
+| The Prison of Velkynvelve | 0.10% | ~200 |
 | Prisoners of Lolth | 0.10% | ~200 |
 | Prisoners of Unknown Choices | 0.10% | ~200 |
 | Escort to Waterdeep | 0.10% | ~234 |
@@ -363,6 +367,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.10% | ~234 |
 | Lone Wolf Party | 0.10% | ~200 |
 | The Sibriex | 0.10% | ~200 |
+| The Archduke's Blessing | 0.10% | ~200 |
 | Wrecked Flying Fortress | 0.10% | ~200 |
 | Relentless Peril | 0.10% | ~200 |
 | Expert Opinion | 0.10% | ~234 |
@@ -389,6 +394,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Might Makes Right | 0.10% | ~200 |
 | The Stunning Tower Battle | 0.10% | ~200 |
 | Elturel's Last Stand | 0.10% | ~200 |
+| Gargauth's Betrayal | 0.10% | ~200 |
 | Lost in the Underdark | 0.10% | ~200 |
 | Visions of Hornfirth | 0.10% | ~200 |
 | Leemooggoogoon Rises | 0.10% | ~200 |
@@ -410,6 +416,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~200 |
 | The Netherese Necropolis | 0.10% | ~200 |
 | The Templar's Camp | 0.10% | ~234 |
+| The Haunted Jungle | 0.10% | ~234 |
+| Poor Guidance | 0.10% | ~234 |
 | Overwhelming Force | 0.10% | ~234 |
 | Rescue in the Jungle | 0.10% | ~234 |
 | The Court of Storms | 0.10% | ~200 |
@@ -448,7 +456,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Patron Party | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
 | Always Watching | 0.00% | ~0 |
-| Icequake | 0.00% | ~0 |
 | First Third Out | 0.00% | ~0 |
 | Third Third Out | 0.00% | ~0 |
 | End of the Line | 0.00% | ~0 |
@@ -465,7 +472,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
-| Street War | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
 | Werewolves in the Mist | 0.00% | ~0 |
 | Drop of Time | 0.00% | ~0 |
@@ -479,7 +485,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Class Vacation | 0.00% | ~0 |
 | Late Game | 0.00% | ~0 |
 | From The Shadows | 0.00% | ~0 |
-| Twilight Twist | 0.00% | ~0 |
 | Screams of the Dead | 0.00% | ~0 |
 | Dino Nightmare | 0.00% | ~0 |
 | A Tale of Two Cities | 0.00% | ~0 |
@@ -498,8 +503,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Just The Worst | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
 | Into the Unknown | 0.00% | ~0 |
-| The Prison of Velkynvelve | 0.00% | ~0 |
-| The Archduke's Blessing | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
@@ -511,7 +514,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Chilling Encounter | 0.00% | ~0 |
 | Dive Bomb | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
-| Gargauth's Betrayal | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | Stragglers | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
@@ -523,8 +525,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Alien Allies | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
-| The Haunted Jungle | 0.00% | ~0 |
-| Poor Guidance | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | All's Well That Ends Well | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,502 (Ranked 62)  
+Progressed: 233,504 (Ranked 62)  
 Completed: 2,424 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,424 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,502 | 2,424 |
+| 2023-11-03 | 233,504 | 2,424 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,315 (Ranked 41)  

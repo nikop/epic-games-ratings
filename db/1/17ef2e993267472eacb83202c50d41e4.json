@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7660,
+  "EOS_Progressed": 7661,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5582,6 +5582,11 @@
       "Time": "2023-11-03T01:54:04.0004157+00:00",
       "NumProgressed": 7660,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T02:27:02.8195794+00:00",
+      "NumProgressed": 7661,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5738,7 +5743,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "GamesWon10",
@@ -6002,7 +6007,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "NeutralKills200",
@@ -6090,7 +6095,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "SEUpgraded1",
@@ -6185,7 +6190,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7660,
+      "Progressed": 7661,
       "Completed": 1
     }
   ],
@@ -6193,8 +6198,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:54:04.0004149+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:27:02.8195788+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:46:54.3374238+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:54:04.0008995+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:20:39.893084+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:27:02.8196819+00:00"
 }

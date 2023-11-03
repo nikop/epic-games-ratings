@@ -6,16 +6,16 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~13,374 |
-| Student | 21.00% | ~10,402 |
+| Initiation | 27.00% | ~13,375 |
+| Student | 21.00% | ~10,403 |
 | Knower | 15.00% | ~7,430 |
 | Aspen Tree | 14.00% | ~6,935 |
 | Listener | 14.00% | ~6,935 |
-| Healer | 13.00% | ~6,439 |
+| Healer | 13.00% | ~6,440 |
 | Scientist | 11.00% | ~5,449 |
 | Soldier | 11.00% | ~5,449 |
-| Cow Level | 10.00% | ~4,953 |
-| Water | 10.00% | ~4,953 |
+| Cow Level | 10.00% | ~4,954 |
+| Water | 10.00% | ~4,954 |
 | Old Friend | 9.00% | ~4,458 |
 | Herbalist | 9.00% | ~4,458 |
 | New Spirits | 9.00% | ~4,458 |
@@ -25,14 +25,14 @@ Number of Ratings: 96  (23.09.2022)
 | Pine Tree | 8.00% | ~3,963 |
 | Collector | 8.00% | ~3,963 |
 | Wolf | 8.00% | ~3,963 |
-| Worthy | 7.00% | ~3,467 |
-| Black Book | 7.00% | ~3,467 |
-| Dead Man | 7.00% | ~3,467 |
-| Fern | 7.00% | ~3,467 |
-| 100 Friends | 7.00% | ~3,467 |
-| Dead Friend | 7.00% | ~3,467 |
-| Researcher | 7.00% | ~3,467 |
-| Savvy | 7.00% | ~3,467 |
+| Worthy | 7.00% | ~3,468 |
+| Black Book | 7.00% | ~3,468 |
+| Dead Man | 7.00% | ~3,468 |
+| Fern | 7.00% | ~3,468 |
+| 100 Friends | 7.00% | ~3,468 |
+| Dead Friend | 7.00% | ~3,468 |
+| Researcher | 7.00% | ~3,468 |
+| Savvy | 7.00% | ~3,468 |
 | Black Sorcerer | 6.00% | ~2,972 |
 | Encyclopedist | 6.00% | ~2,972 |
 | Witch | 6.00% | ~2,972 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~495 |
 | Word Master | 0.20% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,533 (Ranked 109)  
+Progressed: 49,536 (Ranked 109)  
 Completed: 43 (0.09%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 43 (0.09%) (Ranked 271)
 | 2023-10-31 | 48,954 | 43 |
 | 2023-11-01 | 49,236 | 43 |
 | 2023-11-02 | 49,505 | 43 |
-| 2023-11-03 | 49,533 | 43 |
+| 2023-11-03 | 49,536 | 43 |
 ## Awards
 Max (Character Customization): 82  (Ranked 381)  
 Sum: 82 (Ranked 453)  

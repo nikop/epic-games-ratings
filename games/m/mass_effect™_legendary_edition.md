@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 93.00% | ~866 |
 | Spectre Inductee | 81.00% | ~754 |
 | Medal of Exploration I | 73.00% | ~680 |
-| Recruit | 69.00% | ~642 |
+| Recruit | 70.00% | ~652 |
 | Search and Rescue | 69.00% | ~642 |
 | Quarian Ally | 66.00% | ~614 |
 | Medal of Heroism | 63.00% | ~587 |
@@ -108,7 +108,7 @@
 | Mail Slot | 14.00% | ~130 |
 | Long Service Medal | 14.00% | ~130 |
 | Combined Arms | 13.00% | ~121 |
-| Bruiser | 12.00% | ~112 |
+| Bruiser | 13.00% | ~121 |
 | Overload Specialist | 11.00% | ~102 |
 | Warp Mastery | 11.00% | ~102 |
 | Always Prepared | 10.00% | ~93 |

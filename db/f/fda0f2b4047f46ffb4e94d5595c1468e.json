@@ -1987,10 +1987,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4220,
       "NumberOfAwardsMax": 1413
+    },
+    {
+      "Time": "2023-11-03T02:20:32.260469+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4225,
+      "NumberOfAwardsMax": 1413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4220,
+  "NumberOfAwards": 4225,
   "NumberOfAwardsMax": 1413,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2004,7 +2010,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 262
+      "Count": 267
     },
     {
       "Text": "This game has Competitive Players",
@@ -2069,7 +2075,7 @@
   ],
   "EOS_Progressed": 8231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6645,9 +6651,9 @@
       "ID": "ach02",
       "SetID": "47in8n6",
       "Name": "Eye Of The TaiGore",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1975
+      "UsersEstimate": 2058
     },
     {
       "ID": "ach03",
@@ -7045,9 +7051,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-03T01:46:42.085155+00:00",
-  "LastChanged_Achievements": "2023-11-03T01:48:43.1337299+00:00",
+  "LastChanged": "2023-11-03T02:20:32.2604689+00:00",
+  "LastChanged_Achievements": "2023-11-03T02:21:51.3951876+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-11-03T01:46:42.0851557+00:00",
-  "LastUpdate_Achievements": "2023-11-03T01:48:43.1338147+00:00"
+  "LastUpdate_Ratings": "2023-11-03T02:20:32.2604695+00:00",
+  "LastUpdate_Achievements": "2023-11-03T02:21:51.3952519+00:00"
 }
