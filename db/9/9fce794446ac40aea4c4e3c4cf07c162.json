@@ -219,9 +219,9 @@
       "ID": "DEL_X",
       "SetID": "35d3i7a",
       "Name": "Where is my heir?",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEL_XI",
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:09:09.1161616+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:23:28.4731275+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.5973589+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:57:27.6690513+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:09:09.1162114+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:59:55.1272167+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:23:28.4731603+00:00"
 }

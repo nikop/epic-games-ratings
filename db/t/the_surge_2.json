@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2141,
+  "EOS_Progressed": 2142,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2934,6 +2934,11 @@
       "Time": "2023-11-03T21:08:55.8457216+00:00",
       "NumProgressed": 2141,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-03T22:23:17.3884642+00:00",
+      "NumProgressed": 2142,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2953,7 +2958,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACHV_03",
@@ -2961,7 +2966,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHV_04",
@@ -2969,7 +2974,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACHV_05",
@@ -2977,7 +2982,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACHV_06",
@@ -2985,7 +2990,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHV_07",
@@ -3049,7 +3054,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_15",
@@ -3145,7 +3150,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "ACHV_27",
@@ -3153,7 +3158,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACHV_28",
@@ -3177,7 +3182,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHV_31",
@@ -3193,7 +3198,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_33",
@@ -3217,7 +3222,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "ACHV_36",
@@ -3321,7 +3326,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_49",
@@ -3353,7 +3358,7 @@
       "Name": "Juiced Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_53",
@@ -3385,7 +3390,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHV_57",
@@ -3400,7 +3405,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2141,
+      "Progressed": 2142,
       "Completed": 13
     }
   ],
@@ -3408,8 +3413,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:08:55.845721+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:23:17.388464+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.415955+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:58:15.0329466+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:08:55.8457901+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:08:17.1576444+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:23:17.3885072+00:00"
 }

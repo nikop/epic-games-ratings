@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.56 (Ranked 483)  
+Rating: 4.55 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.56 (Ranked 483)
 | The Pit and the Pirates | 2.00% | ~292 |
 | Drug Gifter | 2.00% | ~292 |
 | Bosmang | 2.00% | ~292 |
+| Celebrations are in Order | 2.00% | ~292 |
 | Data Archivist | 1.00% | ~146 |
 | Stogie for Fogey | 1.00% | ~146 |
 | Spore Taste | 1.00% | ~146 |
@@ -18,22 +19,21 @@ Rating: 4.56 (Ranked 483)
 | Khan's Revenge | 1.00% | ~146 |
 | Call it Even | 1.00% | ~146 |
 | Captain Drummer | 1.00% | ~146 |
-| Celebrations are in Order | 1.00% | ~146 |
 | Impossible Objects | 1.00% | ~146 |
 | Thorston Mayer | 0.80% | ~117 |
+| Doctor Approved | 0.60% | ~88 |
 | Bottoms up! | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
-| Doctor Approved | 0.50% | ~73 |
 | Data Logger | 0.40% | ~58 |
+| Safe Cracker | 0.40% | ~2 |
 | Zen Master | 0.40% | ~2 |
 | No Belter Left Behind | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
-| Safe Cracker | 0.30% | ~2 |
+| Keep Arjun in Check | 0.30% | ~2 |
 | Madame Undersecretary | 0.30% | ~2 |
 | Brother's Reaper | 0.20% | ~29 |
 | Debris Spree | 0.20% | ~29 |
 | Data Recoverer | 0.20% | ~29 |
-| Keep Arjun in Check | 0.20% | ~1 |
 | Master Negotiator | 0.20% | ~1 |
 | Urshanabi Hoarder | 0.10% | ~15 |
 | Data Miner | 0.10% | ~15 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 483)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,604 (Ranked 146)  
-Completed: 30 (0.21%) (Ranked 235)  
+Progressed: 14,606 (Ranked 146)  
+Completed: 31 (0.21%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,7 +145,7 @@ Completed: 30 (0.21%) (Ranked 235)
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
-| 2023-11-03 | 14,604 | 30 |
+| 2023-11-03 | 14,606 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -178,3 +178,4 @@ Completed: 30 (0.21%) (Ranked 235)
 | 2023-10-26 | 4.59 | 0 | 0 |
 | 2023-10-28 | 4.60 | 0 | 0 |
 | 2023-11-02 | 4.56 | 0 | 0 |
+| 2023-11-03 | 4.55 | 0 | 0 |

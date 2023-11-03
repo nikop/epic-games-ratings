@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -865,9 +865,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6283,
+  "EOS_Progressed": 6285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9275,6 +9275,11 @@
       "Time": "2023-11-03T21:08:48.1294795+00:00",
       "NumProgressed": 6283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T22:23:10.3928255+00:00",
+      "NumProgressed": 6285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9324,9 +9329,9 @@
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -9605,13 +9610,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6283,
+      "Progressed": 6285,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5655,
+      "Progressed": 5657,
       "Completed": 113
     }
   ],
@@ -9619,8 +9624,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-03T13:03:31.1059337+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:08:48.1294788+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:23:10.3928253+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:58:02.0466634+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:08:48.129564+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:06:04.5181959+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:23:10.3928762+00:00"
 }

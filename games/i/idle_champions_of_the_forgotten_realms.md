@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,573 (Ranked 62)  
+Progressed: 233,579 (Ranked 62)  
 Completed: 2,426 (1.04%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,426 (1.04%) (Ranked 153)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,573 | 2,426 |
+| 2023-11-03 | 233,579 | 2,426 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

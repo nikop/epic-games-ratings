@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,518 |
-| Biggest Communism Builder | 24.00% | ~31,301 |
-| The World's Most Laughable Centrist | 21.00% | ~27,388 |
+| Goodest Of The Good Cops | 28.00% | ~36,519 |
+| Biggest Communism Builder | 24.00% | ~31,302 |
+| The World's Most Laughable Centrist | 21.00% | ~27,389 |
 | Il Coppo Del'Arte! | 18.00% | ~23,476 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,867 |
-| Hyperstellar Law Official | 16.00% | ~20,867 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,259 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,259 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,868 |
+| Hyperstellar Law Official | 16.00% | ~20,868 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,260 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,260 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,955 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,346 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,347 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,042 |
 | Unbelievably Boring **** | 9.00% | ~11,738 |
 | Enemy Of The Physical Realm | 8.00% | ~10,434 |
-| Hardie's Heroes | 6.00% | ~7,825 |
+| Hardie's Heroes | 6.00% | ~7,826 |
 | The Lawbringer | 4.00% | ~5,217 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,217 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,913 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,421 (Ranked 81)  
+Progressed: 130,425 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,11 +244,11 @@ Completed: 28 (0.02%) (Ranked 312)
 | 2023-10-31 | 130,326 | 28 |
 | 2023-11-01 | 130,353 | 28 |
 | 2023-11-02 | 130,386 | 28 |
-| 2023-11-03 | 130,421 | 28 |
+| 2023-11-03 | 130,425 | 28 |
 ## Awards
-Max (Character Customization): 735  (Ranked 174)  
+Max (Character Customization): 735  (Ranked 175)  
 Sum: 1,113 (Ranked 246)  
-Diff (max vs sum): -72  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 735 |

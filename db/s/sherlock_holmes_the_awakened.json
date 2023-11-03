@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -85,9 +85,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 794,
+  "EOS_Progressed": 795,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
@@ -3005,6 +3005,11 @@
       "Time": "2023-11-03T14:04:58.9834848+00:00",
       "NumProgressed": 794,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-03T22:18:38.7348931+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 28,
@@ -3016,7 +3021,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "MQ01_2",
@@ -3024,7 +3029,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "MQ02_1",
@@ -3032,7 +3037,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "MQ02_2",
@@ -3072,7 +3077,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "MQ03_3",
@@ -3088,7 +3093,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MQ03_5",
@@ -3120,7 +3125,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "MQ05_1",
@@ -3128,7 +3133,7 @@
       "Name": "Open Sesame",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MQ05_2",
@@ -3136,7 +3141,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "MQ05_3",
@@ -3144,7 +3149,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MQ05_4",
@@ -3152,7 +3157,7 @@
       "Name": "Knives Out",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MQ06_1",
@@ -3168,7 +3173,7 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "MQ06_3",
@@ -3176,7 +3181,7 @@
       "Name": "Land, Ho!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "MQ06_4",
@@ -3184,7 +3189,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "MQ07_1",
@@ -3200,7 +3205,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "MQ08_1",
@@ -3216,7 +3221,7 @@
       "Name": "Up In Flames",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "MQ08_3",
@@ -3224,7 +3229,7 @@
       "Name": "Fhtagn!",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "PLTN",
@@ -3239,7 +3244,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 794,
+      "Progressed": 795,
       "Completed": 26
     }
   ],
@@ -3247,8 +3252,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:04:45.0037935+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:18:38.7348928+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:58:34.6001381+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:04:45.0038324+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:11:52.8263847+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:18:38.7349234+00:00"
 }

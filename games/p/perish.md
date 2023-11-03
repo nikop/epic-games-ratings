@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Suffer is to Learn | 6.00% | ~217 |
-| Lochos | 6.00% | ~217 |
 | Initiate's Resolve | 6.00% | ~217 |
 | Missilis | 5.00% | ~181 |
 | Modest Earnings | 5.00% | ~181 |
 | Armaments of the Pantheon | 5.00% | ~181 |
 | Persephone's Guidance | 5.00% | ~181 |
+| Lochos | 5.00% | ~181 |
 | Strength of Herakles | 5.00% | ~181 |
 | Reign in Blood | 5.00% | ~181 |
 | Immolator | 4.00% | ~145 |
@@ -19,18 +19,18 @@
 | Symbols of Heresy | 4.00% | ~145 |
 | The Sons of Minos | 4.00% | ~145 |
 | Eidola | 4.00% | ~145 |
-| Comedy and Tragedy | 3.00% | ~108 |
-| Pillars of Eternity | 3.00% | ~108 |
-| War Chest | 3.00% | ~108 |
-| Chthonic Investor | 3.00% | ~108 |
-| First Fragment | 3.00% | ~108 |
-| Sisters of the Pantheon | 3.00% | ~108 |
-| Labour of Apollo | 3.00% | ~108 |
-| Siege Unit | 3.00% | ~108 |
-| Divine Assemblage | 3.00% | ~108 |
-| Ophiolatreia | 3.00% | ~108 |
-| Halls of Marble | 3.00% | ~108 |
-| Serpentine | 3.00% | ~108 |
+| Comedy and Tragedy | 3.00% | ~109 |
+| Pillars of Eternity | 3.00% | ~109 |
+| War Chest | 3.00% | ~109 |
+| Chthonic Investor | 3.00% | ~109 |
+| First Fragment | 3.00% | ~109 |
+| Sisters of the Pantheon | 3.00% | ~109 |
+| Labour of Apollo | 3.00% | ~109 |
+| Siege Unit | 3.00% | ~109 |
+| Divine Assemblage | 3.00% | ~109 |
+| Ophiolatreia | 3.00% | ~109 |
+| Halls of Marble | 3.00% | ~109 |
+| Serpentine | 3.00% | ~109 |
 | Wayward Son of Hephaestus | 2.00% | ~72 |
 | Lament of the Constellations | 2.00% | ~72 |
 | Forged in Fire | 2.00% | ~72 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,616 (Ranked 194)  
+Progressed: 3,619 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-10-30 | 3,601 | 0 |
 | 2023-10-31 | 3,608 | 0 |
 | 2023-11-02 | 3,611 | 0 |
-| 2023-11-03 | 3,616 | 0 |
+| 2023-11-03 | 3,619 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

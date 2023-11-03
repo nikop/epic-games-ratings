@@ -33,6 +33,7 @@ Rating: 3.51 (Ranked 1,032)
 | Harvest’s End | 0.50% | ~9 |
 | Silence Is Golden | 0.40% | ~7 |
 | You Clean It Up | 0.40% | ~7 |
+| I Spit On Your Grave | 0.40% | ~7 |
 | Contingency Plans | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
@@ -41,7 +42,6 @@ Rating: 3.51 (Ranked 1,032)
 | Nice Try | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
 | Curious Finch | 0.30% | ~5 |
-| I Spit On Your Grave | 0.30% | ~5 |
 | Revelations | 0.20% | ~4 |
 | What Lies Below | 0.20% | ~4 |
 | Bloody Initiate | 0.20% | ~4 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2893,9 +2893,9 @@
       "ID": "Achievement_071",
       "SetID": "6b34g18",
       "Name": "I Spit On Your Grave",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -2910,8 +2910,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:05:56.2330416+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:20:49.6243464+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:31.9378506+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:59:49.0540012+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:05:56.2331272+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:15:22.1601058+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:20:49.6244252+00:00"
 }

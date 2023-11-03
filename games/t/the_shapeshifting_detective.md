@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strong Silent Type | 90.00% | ~202 |
+| Strong Silent Type | 91.00% | ~204 |
 | Play It Again Sam | 89.00% | ~199 |
 | Play Me By The Hour | 69.00% | ~155 |
 | Patient Listener | 46.00% | ~103 |

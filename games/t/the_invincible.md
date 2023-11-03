@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 300.00% | ~3 |
-| The Teleprobe | 100.00% | ~1 |
-| The Alliance | 100.00% | ~1 |
-| Volcanologist | 100.00% | ~1 |
-| I leave no man behind | 100.00% | ~1 |
-| No more mistakes | 100.00% | ~1 |
-| The field base | 100.00% | ~1 |
-| The City | 100.00% | ~1 |
+| The Camp | 200.00% | ~4 |
+| The Teleprobe | 50.00% | ~1 |
+| The Alliance | 50.00% | ~1 |
+| Volcanologist | 50.00% | ~1 |
+| I leave no man behind | 50.00% | ~1 |
+| No more mistakes | 50.00% | ~1 |
+| The field base | 50.00% | ~1 |
+| The City | 50.00% | ~1 |
 | I remember everything! | 0.00% | ~0 |
 | On her own | 0.00% | ~0 |
 | Fierce fight | 0.00% | ~0 |
@@ -34,9 +34,9 @@
 | The End | 0.00% | ~0 |
 | Beyond divisions | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 665)  
+Progressed: 2 (Ranked 633)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-03 | 1 | 0 |
+| 2023-11-03 | 2 | 0 |

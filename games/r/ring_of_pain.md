@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dominant Twin | 0.10% | ~1 |
 | What Doesn't Kill You | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,075 (Ranked 59)  
+Progressed: 239,079 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 286 (0.12%) (Ranked 261)
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
 | 2023-11-02 | 239,015 | 286 |
-| 2023-11-03 | 239,075 | 286 |
+| 2023-11-03 | 239,079 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 129)  
 Sum: 11,651 (Ranked 83)  

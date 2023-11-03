@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.24,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -309,6 +309,11 @@
       "Time": "2023-10-30T18:04:38.3253917+00:00",
       "NumProgressed": 247,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T22:21:30.039+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -320,7 +325,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "605742",
@@ -328,7 +333,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "605752",
@@ -336,7 +341,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "605762",
@@ -344,7 +349,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "605772",
@@ -360,7 +365,7 @@
       "Name": "Creator of Technology",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "605792",
@@ -384,7 +389,7 @@
       "Name": "God of Fun",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "605822",
@@ -432,7 +437,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "605892",
@@ -440,7 +445,7 @@
       "Name": "Similar to Similar",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "605912",
@@ -486,16 +491,16 @@
       "ID": "844452",
       "SetID": "4lpaifm",
       "Name": "Heavenly Virtues",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 8
     }
   ],
@@ -503,8 +508,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:06:46.7349171+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:21:30.0389997+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:24.8803716+00:00",
-  "LastUpdate_Ratings": "2023-11-03T21:00:42.0828989+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:06:46.7349347+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:16:25.5492876+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:21:30.0390119+00:00"
 }

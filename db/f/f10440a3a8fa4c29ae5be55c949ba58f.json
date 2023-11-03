@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "ao2gjap",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:20:08.6603983+00:00",
   "LastUpdate_AppInfo": "2023-10-29T14:57:14.8607472+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:58:55.3707014+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:05:31.7591711+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:13:44.1709446+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:20:08.6604001+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 357,
+  "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10801,
+  "EOS_Progressed": 10803,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12169,6 +12169,11 @@
       "Time": "2023-11-03T20:06:05.772953+00:00",
       "NumProgressed": 10801,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-03T22:21:45.878798+00:00",
+      "NumProgressed": 10803,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12284,7 +12289,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4536
+      "UsersEstimate": 4537
     },
     {
       "ID": "ACH15",
@@ -12340,7 +12345,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4968
+      "UsersEstimate": 4969
     },
     {
       "ID": "ACH22",
@@ -12348,7 +12353,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH23",
@@ -12356,7 +12361,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2809
     },
     {
       "ID": "ACH24",
@@ -12451,7 +12456,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10801,
+      "Progressed": 10803,
       "Completed": 64
     }
   ],
@@ -12459,8 +12464,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:07:05.3623756+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:21:45.8787978+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-03T21:02:49.9227918+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:07:05.3624696+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:17:12.0935268+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:21:45.8788548+00:00"
 }

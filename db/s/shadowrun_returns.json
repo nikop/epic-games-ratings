@@ -3,8 +3,8 @@
   "Name": "Shadowrun Returns",
   "ProductSlug": "shadowrun-returns",
   "Ranking_Rating": 716,
-  "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 464,
+  "Ranking_Popularity": 398,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
@@ -524,18 +524,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 70,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2023-11-03T22:16:28.698544+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70,
-  "NumberOfAwardsMax": 70,
+  "NumberOfAwards": 71,
+  "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 70
+      "Count": 71
     }
   ],
   "EOS_Progressed": 0,
@@ -549,8 +555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
-  "LastChanged": "2023-11-03T19:59:57.5955651+00:00",
+  "LastChanged": "2023-11-03T22:16:28.6985438+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:30.8859873+00:00",
-  "LastUpdate_Ratings": "2023-11-03T21:00:46.6882686+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:05:37.6909497+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:16:28.6985443+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:20:13.6613703+00:00"
 }

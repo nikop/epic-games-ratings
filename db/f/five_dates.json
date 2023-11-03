@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -1409,9 +1409,9 @@
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 197
     },
     {
       "ID": "planting_the_seed",
@@ -1458,8 +1458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:08:52.3734436+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:23:14.4765701+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-11-03T21:00:09.9683067+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:08:52.3734651+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:15:46.6437434+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:23:14.4765812+00:00"
 }

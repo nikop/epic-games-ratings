@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6366,
+  "EOS_Progressed": 6367,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 2692,
+  "EOS_NewPlayers": 2690,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -2100,6 +2100,11 @@
       "Time": "2023-11-03T20:06:00.0436556+00:00",
       "NumProgressed": 6366,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-11-03T22:21:40.2085855+00:00",
+      "NumProgressed": 6367,
+      "NumCompleted": 84
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -2112,7 +2117,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 5920
+      "UsersEstimate": 5921
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2120,7 +2125,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2184,7 +2189,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -2208,7 +2213,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -2296,7 +2301,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -2320,7 +2325,7 @@
       "Name": "What I Want Is You",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3757
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2328,7 +2333,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3566
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2352,7 +2357,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2390,9 +2395,9 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "7opfcp",
       "Name": "David",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1783
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -2424,7 +2429,7 @@
       "Name": "Drama King",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -2447,7 +2452,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 6366,
+      "Progressed": 6367,
       "Completed": 84
     }
   ],
@@ -2455,8 +2460,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-03T13:07:05.8172495+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:06:58.8345187+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:21:40.2085851+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:21.9852903+00:00",
-  "LastUpdate_Ratings": "2023-11-03T21:00:58.3885018+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:06:58.8345653+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:16:38.4273113+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:21:40.2086211+00:00"
 }

@@ -5,20 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 43.00% | ~41 |
-| Trinity | 19.00% | ~18 |
-| I Found It | 15.00% | ~14 |
-| The Collector | 15.00% | ~14 |
-| Find Allies | 14.00% | ~13 |
+| Trinity | 21.00% | ~20 |
+| Find Allies | 16.00% | ~15 |
+| A Taste of Wrath | 16.00% | ~15 |
+| I Found It | 16.00% | ~15 |
+| The Collector | 16.00% | ~15 |
+| Powerful Allies | 14.00% | ~13 |
 | Adventurer | 14.00% | ~13 |
 | Shatter Them All | 14.00% | ~13 |
+| Scholar | 14.00% | ~13 |
 | Fashion Victim | 13.00% | ~12 |
-| Scholar | 13.00% | ~12 |
-| Powerful Allies | 12.00% | ~11 |
-| A Taste of Wrath | 12.00% | ~11 |
-| Geared Up | 11.00% | ~10 |
-| Essence Blow | 9.00% | ~9 |
-| Tributes of Caladrias | 6.00% | ~6 |
-| Stone Collection | 6.00% | ~6 |
+| Geared Up | 12.00% | ~11 |
+| Essence Blow | 11.00% | ~10 |
+| Tributes of Caladrias | 7.00% | ~7 |
+| Stone Collection | 7.00% | ~7 |
 | Calm before the Storm | 5.00% | ~5 |
 | Airborne | 5.00% | ~5 |
 | Miner | 5.00% | ~5 |

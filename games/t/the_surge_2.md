@@ -5,17 +5,17 @@ Rating: 4.24 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,713 |
+| Rigged And Ready | 80.00% | ~1,714 |
 | Don't I Know You...? | 77.00% | ~1,649 |
-| Jailbreak | 66.00% | ~1,413 |
+| Jailbreak | 66.00% | ~1,414 |
 | HEADSHOT! | 38.00% | ~814 |
 | Suited and Booted | 38.00% | ~814 |
-| Sleeping With The Fishes | 35.00% | ~749 |
-| Overheated | 30.00% | ~642 |
-| High Performance | 30.00% | ~642 |
-| Powered Up | 28.00% | ~599 |
-| Studied The Blade | 25.00% | ~535 |
-| Home Invasion | 23.00% | ~492 |
+| Sleeping With The Fishes | 35.00% | ~750 |
+| Overheated | 30.00% | ~643 |
+| High Performance | 30.00% | ~643 |
+| Powered Up | 28.00% | ~600 |
+| Studied The Blade | 25.00% | ~536 |
+| Home Invasion | 23.00% | ~493 |
 | Luminary | 22.00% | ~471 |
 | It's a Trap | 22.00% | ~471 |
 | True Survivor | 21.00% | ~450 |
@@ -24,7 +24,7 @@ Rating: 4.24 (Ranked 875)
 | Court Martial | 19.00% | ~407 |
 | Clean Cut | 19.00% | ~407 |
 | Unforeseeable Consequences | 19.00% | ~407 |
-| Dead Again | 18.00% | ~385 |
+| Dead Again | 18.00% | ~386 |
 | Full Arsenal | 17.00% | ~364 |
 | Can't Trust Banks | 15.00% | ~321 |
 | Mommy Dearest | 14.00% | ~300 |
@@ -42,11 +42,11 @@ Rating: 4.24 (Ranked 875)
 | Following In Their Footsteps | 8.00% | ~171 |
 | Defense in Depth | 8.00% | ~171 |
 | Reverse Engineering | 7.00% | ~150 |
-| Reborn | 6.00% | ~128 |
-| Remote Surgery | 6.00% | ~128 |
-| Turbo Booster | 6.00% | ~128 |
-| Juiced Up | 6.00% | ~128 |
-| Squid Pro Quo | 6.00% | ~128 |
+| Reborn | 6.00% | ~129 |
+| Remote Surgery | 6.00% | ~129 |
+| Turbo Booster | 6.00% | ~129 |
+| Juiced Up | 6.00% | ~129 |
+| Squid Pro Quo | 6.00% | ~129 |
 | Hello Darkness My Old Friend | 5.00% | ~107 |
 | Counter-Sniper | 5.00% | ~107 |
 | Shrimp Cocktail | 5.00% | ~107 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 875)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,141 (Ranked 212)  
+Progressed: 2,142 (Ranked 212)  
 Completed: 13 (0.61%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 13 (0.61%) (Ranked 177)
 | 2023-10-31 | 2,098 | 13 |
 | 2023-11-01 | 2,113 | 13 |
 | 2023-11-02 | 2,131 | 13 |
-| 2023-11-03 | 2,141 | 13 |
+| 2023-11-03 | 2,142 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -34,9 +34,9 @@
 | Spiritual essence well spent | 1.00% | ~3 |
 | Pet The Dog | 1.00% | ~3 |
 | The 5th Element | 1.00% | ~3 |
+| Before The Eclipse | 0.70% | ~2 |
 | Box Of Ploutus | 0.70% | ~2 |
 | Survival Hero | 0.70% | ~2 |
-| Before The Eclipse | 0.30% | ~1 |
 | Chosen One | 0.30% | ~1 |
 | Die Another Day | 0.30% | ~1 |
 | Dressed to Kill | 0.30% | ~1 |

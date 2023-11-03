@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 69.00% | ~29 |
-| Something important | 67.00% | ~28 |
-| A piece of the story | 50.00% | ~21 |
-| Do what you have to | 36.00% | ~15 |
-| The artist’s impression | 31.00% | ~13 |
-| Finished it | 31.00% | ~13 |
-| Refuse to look | 26.00% | ~11 |
-| Scraps of love | 26.00% | ~11 |
-| It's covered up for a reason | 24.00% | ~10 |
-| Sign of weakness | 24.00% | ~10 |
-| Face your fears | 19.00% | ~8 |
+| Wanderer | 70.00% | ~31 |
+| Something important | 68.00% | ~30 |
+| A piece of the story | 52.00% | ~23 |
+| Do what you have to | 36.00% | ~16 |
+| The artist’s impression | 34.00% | ~15 |
+| Scraps of love | 30.00% | ~13 |
+| Finished it | 30.00% | ~13 |
+| Refuse to look | 27.00% | ~12 |
+| It's covered up for a reason | 25.00% | ~11 |
+| Sign of weakness | 25.00% | ~11 |
+| Face your fears | 18.00% | ~8 |
 | First steps | 14.00% | ~6 |
 | Playtime | 14.00% | ~6 |
 | Tough conversation | 14.00% | ~6 |
-| Breaking free | 12.00% | ~5 |
-| The tragedy unfolds | 12.00% | ~5 |
-| True Reflection | 12.00% | ~5 |
-| A Slice of Life | 10.00% | ~4 |
-| Debut | 10.00% | ~4 |
-| The art of movement | 10.00% | ~4 |
+| Breaking free | 11.00% | ~5 |
+| The tragedy unfolds | 11.00% | ~5 |
+| True Reflection | 11.00% | ~5 |
+| A Slice of Life | 9.00% | ~4 |
+| Debut | 9.00% | ~4 |
+| The art of movement | 9.00% | ~4 |
 | A new way | 7.00% | ~3 |
 | We Are Not Alone | 7.00% | ~3 |
 | Sound Bite | 7.00% | ~3 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 474)  
+Progressed: 44 (Ranked 471)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-10-31 | 33 | 0 |
 | 2023-11-01 | 39 | 0 |
 | 2023-11-02 | 40 | 0 |
-| 2023-11-03 | 42 | 0 |
+| 2023-11-03 | 44 | 0 |

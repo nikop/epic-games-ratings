@@ -16,6 +16,7 @@
 | Frigid Winds | 4.00% | ~2 |
 | The Guardian of Fire | 4.00% | ~2 |
 | Sovereignty of Irons | 4.00% | ~2 |
+| Twin Thorns | 4.00% | ~2 |
 | Overboard | 2.00% | ~1 |
 | Sommelier | 2.00% | ~1 |
 | Bladesmith | 2.00% | ~1 |
@@ -23,7 +24,6 @@
 | Explorer | 2.00% | ~1 |
 | The River Styx | 2.00% | ~1 |
 | Transformative Nature | 2.00% | ~1 |
-| Twin Thorns | 2.00% | ~1 |
 | Champion of Starspire | 2.00% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |

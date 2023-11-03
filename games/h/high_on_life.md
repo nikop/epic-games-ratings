@@ -5,19 +5,19 @@ Rating: 4.64 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Creature Feature | 2.00% | ~488 |
-| Satisfied Gus-tomer | 2.00% | ~488 |
-| Are You Packin'? | 2.00% | ~488 |
-| Bring A Knife to a Gun Fight | 2.00% | ~488 |
-| RIP Davey Glutes | 2.00% | ~488 |
-| Sweezy Like Sunday Morning | 2.00% | ~488 |
-| We're All Very Impressed, Trust Me | 2.00% | ~488 |
-| First Bounty Down | 2.00% | ~488 |
-| G3 Graduation | 2.00% | ~488 |
-| Hardest Battle In The Game | 2.00% | ~488 |
-| Cold-Blooded Driller | 2.00% | ~488 |
-| Who's The Boss? | 2.00% | ~488 |
-| Don't Knife The Hand That Feeds | 2.00% | ~488 |
+| Creature Feature | 2.00% | ~489 |
+| Satisfied Gus-tomer | 2.00% | ~489 |
+| Are You Packin'? | 2.00% | ~489 |
+| Bring A Knife to a Gun Fight | 2.00% | ~489 |
+| RIP Davey Glutes | 2.00% | ~489 |
+| Sweezy Like Sunday Morning | 2.00% | ~489 |
+| We're All Very Impressed, Trust Me | 2.00% | ~489 |
+| First Bounty Down | 2.00% | ~489 |
+| G3 Graduation | 2.00% | ~489 |
+| Hardest Battle In The Game | 2.00% | ~489 |
+| Cold-Blooded Driller | 2.00% | ~489 |
+| Who's The Boss? | 2.00% | ~489 |
+| Don't Knife The Hand That Feeds | 2.00% | ~489 |
 | Lezduit! | 1.00% | ~244 |
 | Legendary Bounty Hunter | 1.00% | ~244 |
 | Self-Actualization | 1.00% | ~244 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 329)
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 | It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,425 (Ranked 125)  
+Progressed: 24,428 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 13 (0.05%) (Ranked 294)
 | 2023-10-31 | 24,408 | 13 |
 | 2023-11-01 | 24,413 | 13 |
 | 2023-11-02 | 24,422 | 13 |
-| 2023-11-03 | 24,425 | 13 |
+| 2023-11-03 | 24,428 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

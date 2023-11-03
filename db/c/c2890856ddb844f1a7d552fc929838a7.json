@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2397,9 +2397,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 227
     },
     {
       "ID": "AC15",
@@ -2662,8 +2662,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:09:12.405095+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:23:31.029841+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.1696365+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:58:40.3130297+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:09:12.4051492+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:12:19.9069135+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:23:31.0298726+00:00"
 }

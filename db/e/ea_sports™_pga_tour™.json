@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.66,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1590,6 +1590,11 @@
       "Time": "2023-11-03T21:08:32.1045995+00:00",
       "NumProgressed": 480,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T22:22:57.4182839+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1602,7 +1607,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_10",
@@ -1658,7 +1663,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_17",
@@ -1666,7 +1671,7 @@
       "Name": "Clean Sheet",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_18",
@@ -1674,7 +1679,7 @@
       "Name": "Perfect Round",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_2",
@@ -1714,7 +1719,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_7",
@@ -1722,15 +1727,15 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 283
+      "UsersEstimate": 279
     },
     {
       "ID": "achievement_9",
@@ -1745,13 +1750,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:08:32.1045989+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:22:57.4182837+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:57:27.4324014+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:08:32.1046224+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:59:55.8733766+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:22:57.4183012+00:00"
 }

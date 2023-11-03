@@ -2,9 +2,9 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-11-03T12:19:59.2774474+00:00",
       "NumProgressed": 43,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T22:22:26.6930493+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -352,7 +357,7 @@
       "ID": "ach24",
       "SetID": "baneh2j",
       "Name": "Researcher",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
       "UsersEstimate": 19
     },
@@ -376,7 +381,7 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 35,
       "UsersEstimate": 34
     },
@@ -386,13 +391,13 @@
       "Name": "Start",
       "Percentage": 93,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach29",
       "SetID": "baneh2j",
       "Name": "My first team",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
       "UsersEstimate": 18
     },
@@ -440,7 +445,7 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 70,
+      "Percentage": 68,
       "XP": 35,
       "UsersEstimate": 30
     },
@@ -473,14 +478,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-03T21:07:54.4255816+00:00",
+  "LastChanged_Achievements": "2023-11-03T22:22:26.693049+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.3156204+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:57:27.8261041+00:00",
-  "LastUpdate_Achievements": "2023-11-03T21:07:54.4256056+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:59:55.4232464+00:00",
+  "LastUpdate_Achievements": "2023-11-03T22:22:26.6930679+00:00"
 }
