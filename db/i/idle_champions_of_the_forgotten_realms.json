@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7795,9 +7795,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233538,
+  "EOS_Progressed": 233541,
   "EOS_Completed": 2425,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29810,6 +29810,11 @@
       "Time": "2023-11-03T12:15:11.7040308+00:00",
       "NumProgressed": 233538,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-03T13:10:01.0403964+00:00",
+      "NumProgressed": 233541,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 532,
@@ -31139,9 +31144,9 @@
       "ID": "objective_completed_187",
       "SetID": "415jc5c",
       "Name": "Acererak\u0027s Puzzle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_19",
@@ -33139,9 +33144,9 @@
       "ID": "objective_completed_814",
       "SetID": "415jc5c",
       "Name": "A Neutral Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_817",
@@ -33235,9 +33240,9 @@
       "ID": "objective_completed_835",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Every Day",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_837",
@@ -34076,21 +34081,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199812,
-      "Completed": 3828
+      "Progressed": 199815,
+      "Completed": 3830
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233538,
+      "Progressed": 233541,
       "Completed": 2425
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:15:11.7040296+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:10:01.040396+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:00:25.0820798+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:15:11.7076381+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:05:28.2220639+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:10:01.0429039+00:00"
 }

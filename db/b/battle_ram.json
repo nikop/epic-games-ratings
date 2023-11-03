@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1214,6 +1214,11 @@
       "Time": "2023-11-03T08:05:14.3982627+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T13:11:02.5298022+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1225,7 +1230,7 @@
       "Name": "START",
       "Percentage": 93,
       "XP": 45,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ach_10",
@@ -1313,7 +1318,7 @@
       "Name": "Ram Corporal",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ach_20",
@@ -1345,7 +1350,7 @@
       "Name": "Ram Sergeant",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach_4",
@@ -1353,7 +1358,7 @@
       "Name": "Ram Staff Sergeant",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach_5",
@@ -1400,14 +1405,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:16:56.1876991+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:11:02.5298018+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:23.6225706+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:00:22.6761419+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:16:56.1877234+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:05:25.5788953+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:11:02.5298204+00:00"
 }

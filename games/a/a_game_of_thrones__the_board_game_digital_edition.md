@@ -6,18 +6,18 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~10,997 |
-| Battering Crew | 20.00% | ~5,498 |
+| Conqueror | 40.00% | ~10,999 |
+| Battering Crew | 20.00% | ~5,499 |
 | The Kingsroad | 18.00% | ~4,949 |
-| Well Stocked | 14.00% | ~3,849 |
-| Royal Fleet | 13.00% | ~3,574 |
-| The Kraken’s Grasp | 9.00% | ~2,474 |
-| Daggers in the Dark | 8.00% | ~2,199 |
-| Alliance | 8.00% | ~2,199 |
-| A Long Journey | 8.00% | ~2,199 |
-| Winter is Coming | 7.00% | ~1,924 |
-| Oathkeeper | 7.00% | ~1,924 |
-| Influential | 7.00% | ~1,924 |
+| Well Stocked | 14.00% | ~3,850 |
+| Royal Fleet | 13.00% | ~3,575 |
+| The Kraken’s Grasp | 9.00% | ~2,475 |
+| Daggers in the Dark | 8.00% | ~2,200 |
+| Alliance | 8.00% | ~2,200 |
+| A Long Journey | 8.00% | ~2,200 |
+| Winter is Coming | 7.00% | ~1,925 |
+| Oathkeeper | 7.00% | ~1,925 |
+| Influential | 7.00% | ~1,925 |
 | Ours is the Fury | 6.00% | ~1,650 |
 | We Do Not Sow | 6.00% | ~1,650 |
 | Hear me Roar! | 6.00% | ~1,650 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | King in the North | 2.00% | ~550 |
 | War of the Five Kings | 1.00% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,492 (Ranked 124)  
+Progressed: 27,497 (Ranked 124)  
 Completed: 74 (0.27%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,14 +226,14 @@ Completed: 74 (0.27%) (Ranked 228)
 | 2023-10-31 | 27,317 | 74 |
 | 2023-11-01 | 27,403 | 74 |
 | 2023-11-02 | 27,466 | 74 |
-| 2023-11-03 | 27,492 | 74 |
+| 2023-11-03 | 27,497 | 74 |
 ## Awards
-Max (Quickly Understood Controls): 124  (Ranked 330)  
-Sum: 794 (Ranked 279)  
-Diff (max vs sum): 51  
+Max (Quickly Understood Controls): 126  (Ranked 327)  
+Sum: 796 (Ranked 278)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 124 |
+| This game has Quickly Understood Controls | 126 |
 | This game is Highly Recommended | 111 |
 | This game is Extremely Fun | 110 |
 | This game has Competitive Players | 100 |
@@ -333,3 +333,4 @@ Diff (max vs sum): 51
 | 2023-10-30 | 4.21 | - | 124 | 792 |
 | 2023-10-31 | 4.21 | - | 124 | 793 |
 | 2023-11-01 | 4.21 | - | 124 | 794 |
+| 2023-11-03 | 4.21 | - | 126 | 796 |

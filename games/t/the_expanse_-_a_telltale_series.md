@@ -30,6 +30,7 @@ Rating: 4.56 (Ranked 482)
 | Brother's Reaper | 0.20% | ~29 |
 | Debris Spree | 0.20% | ~29 |
 | Data Recoverer | 0.20% | ~29 |
+| Zen Master | 0.20% | ~1 |
 | Urshanabi Hoarder | 0.10% | ~15 |
 | Data Miner | 0.10% | ~15 |
 | Scavenger Star | 0.10% | ~15 |
@@ -37,7 +38,6 @@ Rating: 4.56 (Ranked 482)
 | Grave Robber | 0.10% | ~15 |
 | Keep Arjun in Check | 0.10% | ~1 |
 | Safe Cracker | 0.10% | ~1 |
-| Zen Master | 0.10% | ~1 |
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)

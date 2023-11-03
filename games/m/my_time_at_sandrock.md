@@ -6,24 +6,24 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 190.00% | ~289 |
-| Adept Assembler | 135.00% | ~205 |
-| Greeno-B-Gone | 87.00% | ~132 |
-| Your Especially Earned Trajectory | 65.00% | ~99 |
-| Can We Keep It? | 39.00% | ~59 |
-| No Mountain Wide Enough | 32.00% | ~49 |
-| My Time Mansion | 30.00% | ~46 |
-| Happier-est Place on Earth | 22.00% | ~33 |
-| Call Me Fishmael | 22.00% | ~33 |
-| Finishing Touches | 20.00% | ~30 |
-| Anti-Santa | 20.00% | ~30 |
-| On that Grindset | 18.00% | ~27 |
-| You Don't Win Friends With Salad | 18.00% | ~27 |
-| Yakmel Whisperer | 18.00% | ~27 |
+| Iron Chef | 197.00% | ~301 |
+| Adept Assembler | 138.00% | ~211 |
+| Greeno-B-Gone | 89.00% | ~136 |
+| Your Especially Earned Trajectory | 67.00% | ~103 |
+| Can We Keep It? | 42.00% | ~64 |
+| No Mountain Wide Enough | 33.00% | ~50 |
+| My Time Mansion | 31.00% | ~47 |
+| Happier-est Place on Earth | 23.00% | ~35 |
+| Call Me Fishmael | 23.00% | ~35 |
+| Finishing Touches | 22.00% | ~34 |
+| Anti-Santa | 21.00% | ~32 |
+| On that Grindset | 18.00% | ~28 |
+| You Don't Win Friends With Salad | 18.00% | ~28 |
+| Yakmel Whisperer | 18.00% | ~28 |
+| Knowledge is Power | 14.00% | ~21 |
+| Jewel of the Eufaula | 14.00% | ~21 |
+| Officially Official | 14.00% | ~21 |
 | I Do! | 14.00% | ~21 |
-| Knowledge is Power | 13.00% | ~20 |
-| Jewel of the Eufaula | 13.00% | ~20 |
-| Officially Official | 13.00% | ~20 |
 | Mole Masher | 13.00% | ~20 |
 | Better Late than Never | 10.00% | ~15 |
 | Pack Mule | 9.00% | ~14 |
@@ -34,17 +34,17 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 5.00% | ~8 |
 | He Can Spin A Yarn... | 5.00% | ~8 |
 | Chatterbox | 4.00% | ~6 |
+| One of the Cool Kids | 4.00% | ~6 |
 | Pro Gamer | 4.00% | ~6 |
 | Big Game Hunter | 3.00% | ~5 |
 | Commissions, commissions...! | 3.00% | ~5 |
 | Kind of a Big Deal | 3.00% | ~5 |
 | What Plants Crave | 3.00% | ~5 |
 | Cardistry | 3.00% | ~5 |
-| One of the Cool Kids | 3.00% | ~5 |
 | Just What I Always Wanted! | 3.00% | ~5 |
 | Unboxing | 3.00% | ~5 |
+| Do Your Part | 3.00% | ~5 |
 | Newton | 3.00% | ~5 |
-| Do Your Part | 2.00% | ~3 |
 | Time Flies | 1.00% | ~2 |
 | Martle's Dream | 1.00% | ~2 |
 | Got Served | 1.00% | ~2 |
@@ -54,6 +54,8 @@ Number of Ratings: 892  (23.09.2022)
 | Bridging the Gap | 0.70% | ~1 |
 | Elementary, My Dear | 0.70% | ~1 |
 | Lifeline Pipeline | 0.70% | ~1 |
+| Got the Flow Back | 0.70% | ~1 |
+| Who Ya Gonna Call...? | 0.70% | ~1 |
 | Sandrock's Hottest Club | 0.70% | ~1 |
 | Sandrunning Speedster | 0.70% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
@@ -62,18 +64,16 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Sepia Toned Memories | 0.00% | ~0 |
-| Got the Flow Back | 0.00% | ~0 |
-| Who Ya Gonna Call...? | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 376)  
+Progressed: 153 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
-| 2023-11-03 | 152 | 0 |
+| 2023-11-03 | 153 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,249 (Ranked 238)  

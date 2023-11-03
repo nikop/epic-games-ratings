@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -487,7 +487,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3069,
+  "EOS_Progressed": 3070,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
@@ -3982,6 +3982,11 @@
       "Time": "2023-11-03T07:09:55.6457314+00:00",
       "NumProgressed": 3069,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T13:09:07.6972389+00:00",
+      "NumProgressed": 3070,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4002,7 +4007,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "achievement_11",
@@ -4090,7 +4095,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "achievement_21",
@@ -4161,7 +4166,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3069,
+      "Progressed": 3070,
       "Completed": 0
     }
   ],
@@ -4169,8 +4174,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-03T04:58:08.9758469+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:13:47.3408316+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:09:07.6972385+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-03T11:58:06.1918994+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:13:47.3419121+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:03:30.9470755+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:09:07.6973081+00:00"
 }

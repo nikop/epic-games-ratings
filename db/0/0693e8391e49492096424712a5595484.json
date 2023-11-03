@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2335,9 +2335,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -2390,8 +2390,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:18:41.9314695+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:12:26.7385468+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:04.8206185+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:12:59.646448+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:18:41.9315207+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:08:44.8856389+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:12:26.7385842+00:00"
 }

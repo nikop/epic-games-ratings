@@ -1,11 +1,11 @@
 # KINGDOM HEARTS HD 1.5+2.5 ReMIX
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-hd-1-5-2-5-remix)  
 [View Rawdata](../../db/k/kingdom_hearts_hd_1.5+2.5_remix.json)  
-Rating: 4.82 (Ranked 64)  
+Rating: 4.82 (Ranked 63)  
 Number of Ratings: 4,283  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 825  (Ranked 167)  
-Sum: 6,343 (Ranked 126)  
+Sum: 6,345 (Ranked 126)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 41
 | This game has Amazing Storytelling | 815 |
 | This game is Relaxing | 789 |
 | This game has Diverse Characters | 771 |
-| This game is Highly Recommended | 755 |
+| This game is Highly Recommended | 757 |
 | This game has Quickly Understood Controls | 754 |
 | This game has Challenging Combat | 404 |
 | This game has Obsessive Gameplay | 269 |
@@ -309,4 +309,4 @@ Diff (max vs sum): 41
 | 2023-10-31 | 4.82 | - | 820 | 6,299 |
 | 2023-11-01 | 4.82 | - | 822 | 6,315 |
 | 2023-11-02 | 4.82 | - | 825 | 6,336 |
-| 2023-11-03 | 4.82 | - | 825 | 6,343 |
+| 2023-11-03 | 4.82 | - | 825 | 6,345 |

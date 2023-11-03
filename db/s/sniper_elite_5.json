@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3815,
+  "EOS_Progressed": 3816,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7641,6 +7641,11 @@
       "Time": "2023-11-03T02:22:04.6847279+00:00",
       "NumProgressed": 3815,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-03T13:10:38.5409763+00:00",
+      "NumProgressed": 3816,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7652,7 +7657,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7660,7 +7665,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7716,7 +7721,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7732,7 +7737,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7788,7 +7793,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7820,7 +7825,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7860,7 +7865,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7892,7 +7897,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7908,7 +7913,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8020,7 +8025,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8219,13 +8224,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3766,
+      "Progressed": 3767,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3815,
+      "Progressed": 3816,
       "Completed": 11
     }
   ],
@@ -8233,8 +8238,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:16:21.2139054+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:10:38.5409757+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:11:34.8665032+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:16:21.2141119+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:07:07.9716947+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:10:38.5410686+00:00"
 }

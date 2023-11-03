@@ -4,8 +4,8 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
     "PcReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -116,17 +116,17 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "energy800",
       "SetID": "bbgli2k",
       "Name": "Energy Expert",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "gadx",
@@ -220,9 +220,9 @@
       "ID": "lightbulbs50",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Expert",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "neighenergy.east",
@@ -388,9 +388,9 @@
       "ID": "squeak100",
       "SetID": "bbgli2k",
       "Name": "OK, I heard you!!",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "wireboxes.all",
@@ -413,8 +413,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:15:01.9455805+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:09:53.7813552+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:25.0777759+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:12:51.7333807+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:15:01.9456234+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:08:40.7771409+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:09:53.78138+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 40.00% | ~35 |
+| Break Out | 41.00% | ~36 |
 | Shatter Them All | 14.00% | ~12 |
 | A Taste of Wrath | 13.00% | ~11 |
 | Trinity | 13.00% | ~11 |
@@ -12,15 +12,15 @@
 | The Collector | 13.00% | ~11 |
 | Find Allies | 11.00% | ~10 |
 | Powerful Allies | 11.00% | ~10 |
+| Scholar | 11.00% | ~10 |
 | Adventurer | 10.00% | ~9 |
 | Fashion Victim | 10.00% | ~9 |
-| Scholar | 10.00% | ~9 |
+| Essence Blow | 8.00% | ~7 |
 | Geared Up | 8.00% | ~7 |
-| Essence Blow | 7.00% | ~6 |
 | Airborne | 6.00% | ~5 |
 | Miner | 6.00% | ~5 |
+| Calm before the Storm | 5.00% | ~4 |
 | Stone Collection | 5.00% | ~4 |
-| Calm before the Storm | 3.00% | ~3 |
 | To Battle | 3.00% | ~3 |
 | Godslayer | 3.00% | ~3 |
 | The Mentor | 3.00% | ~3 |
@@ -32,6 +32,7 @@
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
+| Flawless Victory | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 | Shatterer | -1.10% | ~-1 |
-| Flawless Victory | -1.10% | ~-1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 418)  
 Completed: 1 (1.14%) (Ranked 149)  

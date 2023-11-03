@@ -1,28 +1,28 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 630)  
+Rating: 4.47 (Ranked 631)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,386 |
-| Now You're Talking | 62.00% | ~328,942 |
-| Steel Yourself | 62.00% | ~328,942 |
-| Window Dressing | 50.00% | ~265,276 |
-| Trigger Happy | 46.00% | ~244,054 |
-| Riverborn | 45.00% | ~238,748 |
+| First Step | 70.00% | ~371,388 |
+| Now You're Talking | 62.00% | ~328,943 |
+| Steel Yourself | 62.00% | ~328,943 |
+| Window Dressing | 50.00% | ~265,277 |
+| Trigger Happy | 46.00% | ~244,055 |
+| Riverborn | 45.00% | ~238,749 |
 | Starry Eyed | 34.00% | ~180,388 |
 | Poking Around | 34.00% | ~180,388 |
-| Talk of the Town | 24.00% | ~127,332 |
+| Talk of the Town | 24.00% | ~127,333 |
 | AAARR! | 23.00% | ~122,027 |
 | Hello Darkness | 23.00% | ~122,027 |
-| Wind At Our Backs | 22.00% | ~116,721 |
-| To the Beat | 20.00% | ~106,110 |
+| Wind At Our Backs | 22.00% | ~116,722 |
+| To the Beat | 20.00% | ~106,111 |
 | Sunny Shores | 17.00% | ~90,194 |
-| Sunday Best | 16.00% | ~84,888 |
+| Sunday Best | 16.00% | ~84,889 |
 | To Victory! | 15.00% | ~79,583 |
-| Two of a Kind | 14.00% | ~74,277 |
+| Two of a Kind | 14.00% | ~74,278 |
 | Keep On Trucking | 13.00% | ~68,972 |
 | Going on an Adventure | 11.00% | ~58,361 |
 | Make Peace, Not War | 11.00% | ~58,361 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,592 |
 | Point Taken | 0.20% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,552 (Ranked 35)  
-Completed: 494 (0.09%) (Ranked 271)  
+Progressed: 530,554 (Ranked 35)  
+Completed: 494 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 494 (0.09%) (Ranked 271)
 | 2023-10-31 | 530,383 | 492 |
 | 2023-11-01 | 530,437 | 492 |
 | 2023-11-02 | 530,517 | 493 |
-| 2023-11-03 | 530,552 | 494 |
+| 2023-11-03 | 530,554 | 494 |
 ## Awards
 Max (Relaxing): 20  (Ranked 538)  
 Sum: 20 (Ranked 539)  

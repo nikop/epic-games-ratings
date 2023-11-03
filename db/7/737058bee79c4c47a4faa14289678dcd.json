@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 601,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 123,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-10-27T12:00:00+00:00",
     "PcReleaseDate": "2023-10-27T12:00:00+00:00",
@@ -142,9 +142,9 @@
       "ID": "MagmaAdmirer",
       "SetID": "4j06hlp",
       "Name": "Magma Admirer",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterOfMazes",
@@ -228,8 +228,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:17:55.7231162+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:11:45.3229297+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:21.9513911+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:12:27.4272325+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:17:55.7231336+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:07:39.6413259+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:11:45.3229415+00:00"
 }

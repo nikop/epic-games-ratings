@@ -3,8 +3,8 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 893,
-  "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 279,
+  "Ranking_Popularity": 327,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 107,
@@ -1246,11 +1246,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 794,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-11-03T13:09:00.6049787+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 796,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 794,
-  "NumberOfAwardsMax": 124,
+  "NumberOfAwards": 796,
+  "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1287,7 +1293,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 124
+      "Count": 126
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1308,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27492,
+  "EOS_Progressed": 27497,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 2,
@@ -22463,6 +22469,11 @@
       "Time": "2023-11-03T11:08:47.551642+00:00",
       "NumProgressed": 27492,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-03T13:14:45.5369497+00:00",
+      "NumProgressed": 27497,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22506,7 +22517,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "1020",
@@ -22546,7 +22557,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "1025",
@@ -22562,7 +22573,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "1027",
@@ -22570,7 +22581,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2474
+      "UsersEstimate": 2475
     },
     {
       "ID": "1028",
@@ -22586,7 +22597,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "1030",
@@ -22594,7 +22605,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "1031",
@@ -22602,7 +22613,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "1032",
@@ -22610,7 +22621,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10997
+      "UsersEstimate": 10999
     },
     {
       "ID": "1033",
@@ -22626,7 +22637,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "1035",
@@ -22634,7 +22645,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "1036",
@@ -22642,22 +22653,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27492,
+      "Progressed": 27497,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2023-11-01T16:03:00.5607124+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:21:06.8925738+00:00",
+  "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:14:45.5369492+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:13:30.9918205+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:21:06.8928286+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:09:00.6049789+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:14:45.5370587+00:00"
 }

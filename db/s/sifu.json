@@ -2,13 +2,13 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7437,9 +7437,9 @@
       "Count": 417
     }
   ],
-  "EOS_Progressed": 716127,
+  "EOS_Progressed": 716128,
   "EOS_Completed": 12930,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24722,6 +24722,11 @@
       "Time": "2023-11-03T12:18:26.1845617+00:00",
       "NumProgressed": 716127,
       "NumCompleted": 12930
+    },
+    {
+      "Time": "2023-11-03T13:12:14.7238912+00:00",
+      "NumProgressed": 716128,
+      "NumCompleted": 12930
     }
   ],
   "TotalAchievements": 60,
@@ -25212,21 +25217,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25428,
+      "Progressed": 25429,
       "Completed": 10730
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716127,
+      "Progressed": 716128,
       "Completed": 12930
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-03T06:01:33.3691719+00:00",
-  "LastChanged_Achievements": "2023-11-03T12:18:26.1845612+00:00",
+  "LastChanged_Achievements": "2023-11-03T13:12:14.7238904+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2233354+00:00",
-  "LastUpdate_Ratings": "2023-11-03T12:07:41.7049091+00:00",
-  "LastUpdate_Achievements": "2023-11-03T12:18:26.184855+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:06:24.1809818+00:00",
+  "LastUpdate_Achievements": "2023-11-03T13:12:14.7240101+00:00"
 }

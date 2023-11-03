@@ -171,6 +171,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.10% | ~234 |
 | The Soulmonger Calls | 0.10% | ~234 |
 | Azaka's Procession - Part 2 | 0.10% | ~234 |
+| Acererak's Puzzle | 0.10% | ~200 |
 | Unearthed Evil | 0.10% | ~234 |
 | No Time To Rest | 0.10% | ~234 |
 | The Mists of Ravenloft | 0.10% | ~234 |
@@ -419,6 +420,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lone Wolf Party | 0.10% | ~200 |
 | The Sibriex | 0.10% | ~200 |
 | The Archduke's Blessing | 0.10% | ~200 |
+| A Neutral Party | 0.10% | ~200 |
 | Wrecked Flying Fortress | 0.10% | ~200 |
 | Relentless Peril | 0.10% | ~200 |
 | Expert Opinion | 0.10% | ~234 |
@@ -428,6 +430,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sunblight | 0.10% | ~200 |
 | Fortress Assault | 0.10% | ~200 |
 | Hats off to you! | 0.10% | ~200 |
+| It's Cold Out There Every Day | 0.10% | ~200 |
 | The Bleeding Citadel | 0.10% | ~200 |
 | Don't Pick at the Scab | 0.10% | ~200 |
 | Idyllglen | 0.10% | ~200 |
@@ -528,18 +531,15 @@ Number of Ratings: 9,041  (23.09.2022)
 | Always Watching | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | The Demon Lords of the Abyss | 0.00% | ~0 |
-| Acererak's Puzzle | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| A Neutral Party | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
-| It's Cold Out There Every Day | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,538 (Ranked 62)  
+Progressed: 233,541 (Ranked 62)  
 Completed: 2,425 (1.04%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 155)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,538 | 2,425 |
+| 2023-11-03 | 233,541 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

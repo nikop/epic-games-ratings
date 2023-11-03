@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~151 |
 | Building Wonders | 1.00% | ~151 |
 | Mythology | 1.00% | ~151 |
+| Double Victory | 1.00% | ~151 |
 | Points Victory | 1.00% | ~151 |
 | Win a Single Player Game | 1.00% | ~151 |
 | Kushite Pyramids | 1.00% | ~151 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | Phalangite | 0.90% | ~136 |
-| Double Victory | 0.90% | ~136 |
 | The Clergy | 0.90% | ~136 |
 | Capable | 0.80% | ~121 |
 | Strong Difficulty | 0.80% | ~121 |
