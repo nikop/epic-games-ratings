@@ -13,7 +13,7 @@
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 62,989 | 4.58 | 443 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 48,104 | 4.61 | 383 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 40,953 | 4.74 | 154 |
-| 14 | [Destiny 2](games/d/destiny_2.md) | 38,887 | 4.49 | 602 |
+| 14 | [Destiny 2](games/d/destiny_2.md) | 38,912 | 4.49 | 602 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,215 | 4.51 | 562 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,119 | 4.64 | 330 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 23,989 | 4.76 | 122 |
@@ -21,7 +21,7 @@
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,697 | 4.26 | 860 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,144 | 4.57 | 466 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,707 | 4.89 | 10 |
-| 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,154 | 4.74 | 154 |
+| 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,278 | 4.74 | 154 |
 | 23 | [Warframe](games/w/warframe.md) | 18,118 | 4.60 | 408 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 17,205 | 4.21 | 893 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,774 | 4.76 | 122 |
@@ -98,7 +98,7 @@
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,055 | 4.34 | 796 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,950 | 4.50 | 580 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,897 | 4.18 | 918 |
-| 99 | [Among Us](games/a/among_us.md) | 2,794 | 4.57 | 466 |
+| 99 | [Among Us](games/a/among_us.md) | 2,798 | 4.57 | 466 |
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,671 | 4.61 | 383 |
 | 101 | [RAGE 2](games/r/rage_2.md) | 2,631 | 4.27 | 851 |
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 955 |
@@ -301,7 +301,7 @@
 | 299 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 775 |
 | 299 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 173 | 4.66 | 291 |
 | 299 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 843 |
-| 302 | [Blazing Sails](games/b/blazing_sails.md) | 169 | 3.88 | 1,011 |
+| 302 | [Blazing Sails](games/b/blazing_sails.md) | 171 | 3.89 | 1,011 |
 | 303 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 165 | 4.38 | 759 |
 | 304 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 163 | 4.79 | 95 |
 | 304 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 163 | 4.55 | 500 |

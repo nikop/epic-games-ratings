@@ -157,7 +157,7 @@
 | 154 | [Diabotical](games/d/diabotical.md) | 4.74 | 285 | 253 |
 | 154 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 545 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 832 | 165 |
-| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,154 | 22 |
+| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,278 | 22 |
 | 154 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 545 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 729 | 176 |
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 545 |
@@ -466,7 +466,7 @@
 | 443 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 222 | 271 |
 | 443 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,573 | 27 |
 | 466 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 545 |
-| 466 | [Among Us](games/a/among_us.md) | 4.57 | 2,794 | 99 |
+| 466 | [Among Us](games/a/among_us.md) | 4.57 | 2,798 | 99 |
 | 466 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 545 |
 | 466 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.57 | 0 | 545 |
 | 466 | [Hob](games/h/hob.md) | 4.57 | 0 | 545 |
@@ -604,7 +604,7 @@
 | 602 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 33 | 478 |
 | 602 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 405 |
 | 602 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,009 | 111 |
-| 602 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,887 | 14 |
+| 602 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,912 | 14 |
 | 602 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 545 |
 | 602 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 545 |
 | 602 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 545 |
@@ -1010,7 +1010,7 @@
 | 1,007 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.91 | 0 | 545 |
 | 1,009 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 29 | 491 |
 | 1,009 | [Warface](games/w/warface.md) | 3.90 | 434 | 218 |
-| 1,011 | [Blazing Sails](games/b/blazing_sails.md) | 3.88 | 169 | 302 |
+| 1,011 | [Blazing Sails](games/b/blazing_sails.md) | 3.89 | 171 | 302 |
 | 1,012 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 545 |
 | 1,013 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 545 |
 | 1,014 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 545 |
