@@ -29,16 +29,16 @@ Rating: 4.27 (Ranked 851)
 | The Mad | 1.00% | ~11 |
 | Like the dream | 0.90% | ~10 |
 | Charismatic Leader | 0.70% | ~8 |
-| Metropolis | 0.60% | ~7 |
+| Metropolis | 0.70% | ~8 |
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
 | The Great Winter | 0.50% | ~6 |
 | Red Tape | 0.40% | ~5 |
 | It's spreading | 0.30% | ~3 |
+| The Flail | 0.30% | ~3 |
 | The Incarnate | 0.30% | ~3 |
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
-| The Flail | 0.20% | ~2 |
 | Aesthetics | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
 | The Corrupted | 0.10% | ~1 |

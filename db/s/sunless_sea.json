@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39941,
+  "EOS_Progressed": 39944,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20830,6 +20830,11 @@
       "Time": "2023-11-03T14:09:03.8688115+00:00",
       "NumProgressed": 39941,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-03T15:12:07.1593476+00:00",
+      "NumProgressed": 39944,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -20961,7 +20966,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14379
+      "UsersEstimate": 14380
     },
     {
       "ID": "ach_die10",
@@ -21193,7 +21198,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7189
+      "UsersEstimate": 7190
     },
     {
       "ID": "ach_terror100",
@@ -21209,7 +21214,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5992
     },
     {
       "ID": "ach_undercurrent",
@@ -21249,7 +21254,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     },
     {
       "ID": "ach_year10",
@@ -21272,15 +21277,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39941,
+      "Progressed": 39944,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:09:03.8688093+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:12:07.1593472+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:23.0924358+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:57:44.7335109+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:09:03.8689774+00:00"
+  "LastUpdate_Ratings": "2023-11-03T14:59:29.9317367+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:12:07.1595136+00:00"
 }

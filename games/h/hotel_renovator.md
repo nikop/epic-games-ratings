@@ -5,26 +5,26 @@ Rating: 4.40 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~834 |
+| Good start | 76.00% | ~835 |
 | And so it begins | 73.00% | ~802 |
 | No pressure | 70.00% | ~769 |
 | Memento | 62.00% | ~681 |
 | Let there be light | 60.00% | ~659 |
 | I think you dropped this | 55.00% | ~604 |
 | Soulmate? | 54.00% | ~593 |
-| Excellent service | 50.00% | ~549 |
-| Roll with it | 47.00% | ~516 |
-| Humble beginnings | 45.00% | ~494 |
-| Love is in the air | 44.00% | ~483 |
-| Fine, I'll do it myself | 43.00% | ~472 |
-| Moving up | 42.00% | ~461 |
-| No need to call anyone | 40.00% | ~439 |
-| Big fortune | 33.00% | ~362 |
-| Still more work ahead | 30.00% | ~329 |
-| Kaboom | 28.00% | ~307 |
-| Aesop's fable | 28.00% | ~307 |
-| Hotel sleuthing | 28.00% | ~307 |
-| Nearly there | 26.00% | ~285 |
+| Excellent service | 50.00% | ~550 |
+| Roll with it | 47.00% | ~517 |
+| Humble beginnings | 45.00% | ~495 |
+| Love is in the air | 44.00% | ~484 |
+| Fine, I'll do it myself | 43.00% | ~473 |
+| Moving up | 42.00% | ~462 |
+| No need to call anyone | 40.00% | ~440 |
+| Big fortune | 33.00% | ~363 |
+| Still more work ahead | 30.00% | ~330 |
+| Aesop's fable | 28.00% | ~308 |
+| Hotel sleuthing | 28.00% | ~308 |
+| Kaboom | 27.00% | ~297 |
+| Nearly there | 26.00% | ~286 |
 | Broken heart | 24.00% | ~264 |
 | Island boy | 22.00% | ~242 |
 | You're a star | 20.00% | ~220 |
@@ -33,7 +33,7 @@ Rating: 4.40 (Ranked 734)
 | King of hospitality | 11.00% | ~121 |
 | Top spot in town | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,098 (Ranked 243)  
+Progressed: 1,099 (Ranked 243)  
 Completed: 16 (1.46%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 16 (1.46%) (Ranked 134)
 | 2023-10-29 | 1,090 | 16 |
 | 2023-11-01 | 1,091 | 16 |
 | 2023-11-02 | 1,096 | 16 |
-| 2023-11-03 | 1,098 | 16 |
+| 2023-11-03 | 1,099 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

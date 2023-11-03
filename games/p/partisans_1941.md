@@ -8,9 +8,9 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | E1M1 | 42.00% | ~651 |
 | War Never Changes | 42.00% | ~651 |
-| Grenadier | 41.00% | ~635 |
+| Grenadier | 41.00% | ~636 |
 | Heroes Never Die | 38.00% | ~589 |
-| Mosquito bite | 36.00% | ~558 |
+| Mosquito bite | 35.00% | ~542 |
 | Spice It Up | 32.00% | ~496 |
 | Bomberman | 27.00% | ~418 |
 | Agent 47 | 26.00% | ~403 |
@@ -22,13 +22,13 @@ Number of Ratings: 98  (23.09.2022)
 | The Big Bertha | 12.00% | ~186 |
 | Game Over | 11.00% | ~170 |
 | Lock, Stock | 8.00% | ~124 |
-| Payback Time | 7.00% | ~108 |
-| No Witness | 5.00% | ~77 |
+| Payback Time | 7.00% | ~109 |
+| No Witness | 5.00% | ~78 |
 | Strategist | 4.00% | ~62 |
 | Unbreakable Wall | 2.00% | ~31 |
 | Experienced Strategist | 2.00% | ~31 |
-| Do a Barrel Roll! | 1.00% | ~15 |
-| How?! | 1.00% | ~15 |
+| Do a Barrel Roll! | 1.00% | ~16 |
+| How?! | 1.00% | ~16 |
 | Tough as Nails | 0.50% | ~8 |
 | Commandos | 0.30% | ~5 |
 | We Weren't There | 0.20% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | A Little Culture | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549 (Ranked 228)  
+Progressed: 1,550 (Ranked 228)  
 Completed: 1 (0.06%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 1 (0.06%) (Ranked 287)
 | 2023-10-31 | 1,528 | 1 |
 | 2023-11-01 | 1,540 | 1 |
 | 2023-11-02 | 1,548 | 1 |
-| 2023-11-03 | 1,549 | 1 |
+| 2023-11-03 | 1,550 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

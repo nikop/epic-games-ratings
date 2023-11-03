@@ -22,7 +22,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 20.00% | ~1,422 |
 | Ragazzi del '99 | 19.00% | ~1,351 |
 | The Lion of the Isonzo | 18.00% | ~1,279 |
-| Luigi Cadorna | 15.00% | ~1,066 |
+| Luigi Cadorna | 16.00% | ~1,137 |
 | Dirty Dozen | 14.00% | ~995 |
 | Shaken, Not Stirred | 14.00% | ~995 |
 | Uomo Universale | 14.00% | ~995 |

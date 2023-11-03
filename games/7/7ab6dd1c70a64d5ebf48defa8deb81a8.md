@@ -5,34 +5,34 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 41.00% | ~36 |
+| Trinity | 14.00% | ~12 |
 | Shatter Them All | 14.00% | ~12 |
 | I Found It | 14.00% | ~12 |
+| Find Allies | 13.00% | ~11 |
 | A Taste of Wrath | 13.00% | ~11 |
-| Trinity | 13.00% | ~11 |
 | The Collector | 13.00% | ~11 |
-| Find Allies | 11.00% | ~10 |
 | Powerful Allies | 11.00% | ~10 |
 | Adventurer | 11.00% | ~10 |
 | Scholar | 11.00% | ~10 |
 | Fashion Victim | 10.00% | ~9 |
+| Geared Up | 9.00% | ~8 |
 | Essence Blow | 8.00% | ~7 |
-| Geared Up | 8.00% | ~7 |
 | Airborne | 6.00% | ~5 |
 | Miner | 6.00% | ~5 |
 | Calm before the Storm | 5.00% | ~4 |
+| To Battle | 5.00% | ~4 |
+| Godslayer | 5.00% | ~4 |
 | Stone Collection | 5.00% | ~4 |
-| To Battle | 3.00% | ~3 |
-| Godslayer | 3.00% | ~3 |
 | The Mentor | 3.00% | ~3 |
 | Tributes of Caladrias | 3.00% | ~3 |
 | Alchemist | 3.00% | ~3 |
 | A Queen's Tale | 2.00% | ~2 |
+| Clear Sight | 1.00% | ~1 |
+| Slayer | 1.00% | ~1 |
 | Big Bazar | 1.00% | ~1 |
 | Fine Feathers Make Fine Birds | 1.00% | ~1 |
-| Clear Sight | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
-| Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

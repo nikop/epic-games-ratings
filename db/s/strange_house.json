@@ -2,10 +2,10 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 621,
+  "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-11-01T01:50:58.7171663+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T15:07:53.6169545+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -68,7 +73,7 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -92,7 +97,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -101,13 +106,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:05:31.7507858+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:07:53.6169542+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.3377864+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:58:53.9949909+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:05:31.7507951+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:01:05.7496135+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:07:53.616964+00:00"
 }

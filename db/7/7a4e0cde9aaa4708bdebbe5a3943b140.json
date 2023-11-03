@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "Upgrade5",
       "SetID": "ag762md",
       "Name": "Fifth Upgrade",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -166,8 +166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:07:26.5784841+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:10:14.2520765+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:58.9790204+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:59:41.1219771+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:07:26.5784947+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:01:32.8222424+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:10:14.2520866+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10791,
+  "EOS_Progressed": 10792,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12149,6 +12149,11 @@
       "Time": "2023-11-03T14:07:26.2044219+00:00",
       "NumProgressed": 10791,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-03T15:10:13.9053303+00:00",
+      "NumProgressed": 10792,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12248,7 +12253,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH13",
@@ -12264,7 +12269,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "ACH15",
@@ -12431,7 +12436,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10791,
+      "Progressed": 10792,
       "Completed": 64
     }
   ],
@@ -12439,8 +12444,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:07:26.2044211+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:10:13.9053295+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:03:21.9952732+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:07:26.204517+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:05:05.9308705+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:10:13.9054242+00:00"
 }

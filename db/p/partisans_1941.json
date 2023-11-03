@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3314,6 +3314,11 @@
       "Time": "2023-11-03T03:03:07.9683237+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T15:06:29.5987302+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3341,7 +3346,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Big_Bertha",
@@ -3437,7 +3442,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "Hard_Serpent",
@@ -3461,7 +3466,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "How",
@@ -3469,7 +3474,7 @@
       "Name": "How?!",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Its_very_spicy",
@@ -3485,7 +3490,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Kultprosvet",
@@ -3515,9 +3520,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 542
     },
     {
       "ID": "Scout",
@@ -3564,15 +3569,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:04:10.4605827+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:06:29.5987298+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:01:48.2319604+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:04:10.460626+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:03:49.7557502+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:06:29.5987732+00:00"
 }

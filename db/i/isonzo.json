@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -6562,9 +6562,9 @@
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
       "SetID": "akchbl3",
       "Name": "Luigi Cadorna",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1137
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -6787,8 +6787,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-10-29T04:58:39.1460571+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:04:38.5970122+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:06:59.3902835+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:22.4558053+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:01:44.7891745+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:04:38.597084+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:03:46.3396685+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:06:59.3903536+00:00"
 }

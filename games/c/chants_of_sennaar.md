@@ -7,7 +7,7 @@
 | That's the spirit | 25.00% | ~96 |
 | Welcome to the Tower | 23.00% | ~88 |
 | The great escape | 21.00% | ~80 |
-| The Preacher's fate | 19.00% | ~73 |
+| The Preacher's fate | 20.00% | ~77 |
 | A new dawn | 17.00% | ~65 |
 | True G3M4R | 15.00% | ~57 |
 | Scholar | 15.00% | ~57 |
@@ -23,8 +23,8 @@
 | Feels like springtime | 11.00% | ~42 |
 | Alchemists Express | 11.00% | ~42 |
 | Open door | 10.00% | ~38 |
+| A Link to the Past | 9.00% | ~34 |
 | Free at last | 8.00% | ~31 |
-| A Link to the Past | 8.00% | ~31 |
 | For its own good | 7.00% | ~27 |
 | Rascal | 7.00% | ~27 |
 | A great audience | 6.00% | ~23 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 318,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -10774,10 +10774,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 42040,
       "NumberOfAwardsMax": 5369
+    },
+    {
+      "Time": "2023-11-03T14:59:52.4011808+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 42047,
+      "NumberOfAwardsMax": 5369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42040,
+  "NumberOfAwards": 42047,
   "NumberOfAwardsMax": 5369,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10791,7 +10797,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4229
+      "Count": 4236
     },
     {
       "Text": "This game is Educational",
@@ -10854,9 +10860,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51008,
+  "EOS_Progressed": 51009,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28629,6 +28635,11 @@
       "Time": "2023-11-03T14:08:14.2626448+00:00",
       "NumProgressed": 51008,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-03T15:11:09.6717329+00:00",
+      "NumProgressed": 51009,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -28664,7 +28675,7 @@
       "Name": "Fluffyness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "CarDriving",
@@ -28672,7 +28683,7 @@
       "Name": "Road Trip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "CollectiblesAlpine",
@@ -28720,7 +28731,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32645
+      "UsersEstimate": 32646
     },
     {
       "ID": "CutTree",
@@ -28792,7 +28803,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38256
+      "UsersEstimate": 38257
     },
     {
       "ID": "HorseJumps",
@@ -28822,9 +28833,9 @@
       "ID": "LoadedOldSavegame",
       "SetID": "636ci4d",
       "Name": "It\u0027s never too late to farm",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 25504
+      "UsersEstimate": 26015
     },
     {
       "ID": "Mission",
@@ -28832,7 +28843,7 @@
       "Name": "Helper A does not stop \u2026 ever",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "MissionFirst",
@@ -28848,7 +28859,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27034
+      "UsersEstimate": 27035
     },
     {
       "ID": "NumBeehives",
@@ -28856,7 +28867,7 @@
       "Name": "Bringing in the Honey",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "NumDrivables",
@@ -28864,7 +28875,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20403
+      "UsersEstimate": 20404
     },
     {
       "ID": "NumPlaceables",
@@ -28904,7 +28915,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14282
+      "UsersEstimate": 14283
     },
     {
       "ID": "PlayTime",
@@ -28928,7 +28939,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31625
+      "UsersEstimate": 31626
     },
     {
       "ID": "Stones",
@@ -28983,15 +28994,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51008,
+      "Progressed": 51009,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-11-03T13:57:54.9782605+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:08:14.2626437+00:00",
+  "LastChanged": "2023-11-03T14:59:52.4011801+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:11:09.6717325+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:20.3592022+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:57:54.9782611+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:08:14.2627843+00:00"
+  "LastUpdate_Ratings": "2023-11-03T14:59:52.4011818+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:11:09.6718706+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664128,
+  "EOS_Progressed": 664130,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19629,6 +19629,11 @@
       "Time": "2023-11-03T14:03:43.7646457+00:00",
       "NumProgressed": 664128,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-03T15:05:59.9352538+00:00",
+      "NumProgressed": 664130,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19640,7 +19645,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478172
+      "UsersEstimate": 478174
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -19648,7 +19653,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385194
+      "UsersEstimate": 385195
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -19656,7 +19661,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152749
+      "UsersEstimate": 152750
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -19776,7 +19781,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152749
+      "UsersEstimate": 152750
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -19880,7 +19885,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79695
+      "UsersEstimate": 79696
     },
     {
       "ID": "Achievement_32_Karma",
@@ -20023,15 +20028,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664128,
+      "Progressed": 664130,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:03:43.7646452+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:05:59.935253+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.5060191+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:00:59.1806458+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:03:43.7648115+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:02:55.8568689+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:05:59.9354344+00:00"
 }

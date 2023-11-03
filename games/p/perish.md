@@ -53,7 +53,7 @@
 | Rites at Sea | 1.00% | ~36 |
 | Close Shut the Doors | 1.00% | ~36 |
 | Scrap Metal | 1.00% | ~36 |
-| Athenian Treasury | 0.90% | ~32 |
+| Athenian Treasury | 0.90% | ~33 |
 | Invicta | 0.80% | ~29 |
 | Olympian | 0.50% | ~18 |
 | Hipparchia's Labour | 0.40% | ~14 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,611 (Ranked 194)  
+Progressed: 3,612 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,6 +248,7 @@ Completed: 0 (0.00%) (Ranked 340)
 | 2023-10-30 | 3,601 | 0 |
 | 2023-10-31 | 3,608 | 0 |
 | 2023-11-02 | 3,611 | 0 |
+| 2023-11-03 | 3,612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

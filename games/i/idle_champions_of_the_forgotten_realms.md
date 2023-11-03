@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | End of the Line | 0.10% | ~200 |
 | A Steadfast Love | 0.10% | ~200 |
 | The Fairy Rings of Thither | 0.10% | ~200 |
+| Zarak's Revenge | 0.10% | ~200 |
 | Bully for You! | 0.10% | ~200 |
 | Beast Intentions | 0.10% | ~234 |
 | Wet Feet | 0.10% | ~234 |
@@ -70,6 +71,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Look Up! | 0.10% | ~234 |
 | The Cult of Lolth | 0.10% | ~200 |
 | Head over Heals | 0.10% | ~200 |
+| The Demon Lords of the Abyss | 0.10% | ~200 |
 | Speed Demons | 0.10% | ~200 |
 | Will of the Feywild | 0.10% | ~200 |
 | All Damage, All The Time | 0.10% | ~200 |
@@ -457,6 +459,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel's Last Stand | 0.10% | ~200 |
 | Gargauth's Betrayal | 0.10% | ~200 |
 | Lost in the Underdark | 0.10% | ~200 |
+| Demons Here, Demons There | 0.10% | ~200 |
 | Visions of Hornfirth | 0.10% | ~200 |
 | Leemooggoogoon Rises | 0.10% | ~200 |
 | Stragglers | 0.10% | ~200 |
@@ -530,16 +533,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
 | Always Watching | 0.00% | ~0 |
-| Zarak's Revenge | 0.00% | ~0 |
-| The Demon Lords of the Abyss | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Demons Here, Demons There | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,546 (Ranked 62)  
+Progressed: 233,555 (Ranked 62)  
 Completed: 2,425 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,546 | 2,425 |
+| 2023-11-03 | 233,555 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

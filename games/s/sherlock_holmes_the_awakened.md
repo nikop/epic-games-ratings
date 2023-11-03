@@ -22,14 +22,14 @@ Rating: 4.64 (Ranked 330)
 | Back In The Saddle | 46.00% | ~365 |
 | No Man Is An Island | 46.00% | ~365 |
 | At Wits' End | 45.00% | ~357 |
+| Bookworm | 43.00% | ~341 |
 | Fhtagn! | 43.00% | ~341 |
-| Bookworm | 42.00% | ~333 |
 | Up In Flames | 42.00% | ~333 |
 | Going Once... | 39.00% | ~310 |
 | Let Me Be Frank | 37.00% | ~294 |
 | Brain Food | 36.00% | ~286 |
 | No Stone Unturned | 35.00% | ~278 |
-| Read It And Weep | 21.00% | ~167 |
+| Read It And Weep | 22.00% | ~175 |
 | Curiosity Killed The Cat | 19.00% | ~151 |
 | Big Breakthrough | 13.00% | ~103 |
 | Reawakened | 4.00% | ~32 |

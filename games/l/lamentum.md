@@ -25,7 +25,7 @@ Rating: 4.37 (Ranked 769)
 | Sacrifice | 3.00% | ~10 |
 | Lamentum | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328 (Ranked 321)  
+Progressed: 328 (Ranked 322)  
 Completed: 8 (2.44%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |

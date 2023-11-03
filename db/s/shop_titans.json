@@ -6841,9 +6841,9 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138525,
+  "EOS_Progressed": 138527,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26966,6 +26966,11 @@
       "Time": "2023-11-03T14:08:08.847839+00:00",
       "NumProgressed": 138525,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-03T15:11:03.685793+00:00",
+      "NumProgressed": 138527,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -26977,7 +26982,7 @@
       "Name": "The Daily Grind",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "advlevel02",
@@ -27057,7 +27062,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "bigsale02",
@@ -27081,7 +27086,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "blueprint02",
@@ -27329,7 +27334,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "energy02",
@@ -27353,7 +27358,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "expansion02",
@@ -27457,7 +27462,7 @@
       "Name": "Pretty Penny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "gold03",
@@ -27529,7 +27534,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "jackslot02",
@@ -27561,7 +27566,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "level02",
@@ -27633,7 +27638,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "master02",
@@ -27703,9 +27708,9 @@
       "ID": "quest03",
       "SetID": "anfd17p",
       "Name": "Eternal Crusade",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 693
     },
     {
       "ID": "quest04",
@@ -27841,7 +27846,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "workers02",
@@ -27872,15 +27877,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138525,
+      "Progressed": 138527,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-03T10:00:20.670592+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:08:08.8478385+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:11:03.6857926+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:01:46.97347+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:08:08.8481236+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:03:48.2689045+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:11:03.686069+00:00"
 }

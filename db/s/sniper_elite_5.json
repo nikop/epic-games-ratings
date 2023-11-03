@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3816,
+  "EOS_Progressed": 3817,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7646,6 +7646,11 @@
       "Time": "2023-11-03T13:10:38.5409763+00:00",
       "NumProgressed": 3816,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-03T15:07:47.7046045+00:00",
+      "NumProgressed": 3817,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7841,7 +7846,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -7881,7 +7886,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7921,7 +7926,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -7929,7 +7934,7 @@
       "Name": "From Paris with Love",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -7937,7 +7942,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -7945,7 +7950,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -7969,7 +7974,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8033,7 +8038,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8049,7 +8054,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8057,7 +8062,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -8224,13 +8229,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3767,
+      "Progressed": 3768,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3816,
+      "Progressed": 3817,
       "Completed": 11
     }
   ],
@@ -8238,8 +8243,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:05:26.4533529+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:07:47.7046041+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:02:05.3672311+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:05:26.4534702+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:04:12.222084+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:07:47.7047202+00:00"
 }

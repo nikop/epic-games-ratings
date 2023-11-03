@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5620,9 +5620,9 @@
       "ID": "ACH_BASE_21",
       "SetID": "92iocjf",
       "Name": "Wakey Wakey",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 949
     },
     {
       "ID": "ACH_BASE_22",
@@ -6003,8 +6003,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:07:12.5560397+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:09:58.2320141+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:19.5860477+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:00:24.3609298+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:07:12.5561345+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:02:15.7292281+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:09:58.232107+00:00"
 }

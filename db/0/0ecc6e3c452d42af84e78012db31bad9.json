@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3794,
+  "EOS_Progressed": 3795,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -9124,6 +9124,11 @@
       "Time": "2023-11-03T13:09:18.741121+00:00",
       "NumProgressed": 3794,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-03T15:06:11.8229644+00:00",
+      "NumProgressed": 3795,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 16,
@@ -9167,7 +9172,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "ach_architecture_completed",
@@ -9191,7 +9196,7 @@
       "Name": "Cannoneer",
       "Percentage": 28,
       "XP": 65,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ach_color_splash",
@@ -9207,7 +9212,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "ach_food_completed",
@@ -9255,21 +9260,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3794,
+      "Progressed": 3795,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-03T14:03:54.4152557+00:00",
+  "LastChanged_Achievements": "2023-11-03T15:06:11.822964+00:00",
   "LastUpdate_AppInfo": "2023-10-27T18:57:14.9249176+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:58:26.1764033+00:00",
-  "LastUpdate_Achievements": "2023-11-03T14:03:54.415333+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:00:42.4120255+00:00",
+  "LastUpdate_Achievements": "2023-11-03T15:06:11.8230269+00:00"
 }

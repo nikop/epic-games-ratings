@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 99.00% | ~211 |
 | Hidden History | 84.00% | ~179 |
-| Commencing of Quests | 79.00% | ~168 |
+| Commencing of Quests | 80.00% | ~170 |
 | Budding Conjuror | 79.00% | ~168 |
 | Man-Machine Master | 72.00% | ~153 |
 | Mountain Splitter | 68.00% | ~145 |
 | Fusion Conjuror | 67.00% | ~143 |
 | Memory Rouser | 67.00% | ~143 |
 | Charmed by the Hunt | 66.00% | ~141 |
-| Subsistence Skills | 63.00% | ~134 |
+| Subsistence Skills | 64.00% | ~136 |
 | Kemono Hunter | 62.00% | ~132 |
 | Expert Conjuror | 61.00% | ~130 |
 | Distance Devourer | 57.00% | ~121 |
