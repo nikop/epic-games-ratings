@@ -6,21 +6,21 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,689 |
-| Incurious | 17.00% | ~112,095 |
-| Climate Change | 16.00% | ~105,501 |
-| Stroller | 15.00% | ~98,907 |
-| Advanced Hiker | 13.00% | ~85,720 |
-| Toy Train | 13.00% | ~85,720 |
-| Hiker | 12.00% | ~79,126 |
-| Mojave Courier | 6.00% | ~39,563 |
-| Saved by Nausicaä | 5.00% | ~32,969 |
-| Advanced Voyager | 4.00% | ~26,375 |
-| Expert Stroller | 4.00% | ~26,375 |
-| Voyager | 3.00% | ~19,781 |
-| Orient Express | 3.00% | ~19,781 |
-| Marathon | 3.00% | ~19,781 |
-| Destructionist | 3.00% | ~19,781 |
+| Advanced Stroller | 18.00% | ~118,691 |
+| Incurious | 17.00% | ~112,097 |
+| Climate Change | 16.00% | ~105,503 |
+| Stroller | 15.00% | ~98,909 |
+| Advanced Hiker | 13.00% | ~85,721 |
+| Toy Train | 13.00% | ~85,721 |
+| Hiker | 12.00% | ~79,127 |
+| Mojave Courier | 6.00% | ~39,564 |
+| Saved by Nausicaä | 5.00% | ~32,970 |
+| Advanced Voyager | 4.00% | ~26,376 |
+| Expert Stroller | 4.00% | ~26,376 |
+| Voyager | 3.00% | ~19,782 |
+| Orient Express | 3.00% | ~19,782 |
+| Marathon | 3.00% | ~19,782 |
+| Destructionist | 3.00% | ~19,782 |
 | Expert Hiker | 2.00% | ~13,188 |
 | Lost | 2.00% | ~13,188 |
 | Rocketman | 0.80% | ~5,275 |
@@ -59,8 +59,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~659 |
 | 20 Miles under the Sea | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,382 (Ranked 27)  
-Completed: 12 (0.00%) (Ranked 340)  
+Progressed: 659,395 (Ranked 27)  
+Completed: 12 (0.00%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,11 +256,11 @@ Completed: 12 (0.00%) (Ranked 340)
 | 2023-10-31 | 658,648 | 12 |
 | 2023-11-01 | 658,897 | 12 |
 | 2023-11-02 | 659,163 | 12 |
-| 2023-11-03 | 659,382 | 12 |
+| 2023-11-03 | 659,395 | 12 |
 ## Awards
-Max (Great for Beginners): 201  (Ranked 281)  
+Max (Great for Beginners): 201  (Ranked 282)  
 Sum: 1,589 (Ranked 226)  
-Diff (max vs sum): 55  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 201 |

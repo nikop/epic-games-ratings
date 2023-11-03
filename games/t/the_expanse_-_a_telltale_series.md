@@ -7,10 +7,10 @@ Rating: 4.56 (Ranked 482)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 4.00% | ~584 |
 | The Pit and the Pirates | 2.00% | ~292 |
+| Drug Gifter | 2.00% | ~292 |
 | Bosmang | 2.00% | ~292 |
 | Data Archivist | 1.00% | ~146 |
 | Stogie for Fogey | 1.00% | ~146 |
-| Drug Gifter | 1.00% | ~146 |
 | Spore Taste | 1.00% | ~146 |
 | Martian Music | 1.00% | ~146 |
 | Drone Dodger | 1.00% | ~146 |
@@ -33,15 +33,15 @@ Rating: 4.56 (Ranked 482)
 | Data Recoverer | 0.20% | ~29 |
 | Keep Arjun in Check | 0.20% | ~1 |
 | Safe Cracker | 0.20% | ~1 |
+| Master Negotiator | 0.20% | ~1 |
 | Madame Undersecretary | 0.20% | ~1 |
 | Urshanabi Hoarder | 0.10% | ~15 |
 | Data Miner | 0.10% | ~15 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
-| Master Negotiator | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,597 (Ranked 146)  
+Progressed: 14,599 (Ranked 146)  
 Completed: 29 (0.20%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 29 (0.20%) (Ranked 241)
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
-| 2023-11-03 | 14,597 | 29 |
+| 2023-11-03 | 14,599 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

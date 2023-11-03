@@ -1,28 +1,28 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.27 (Ranked 851)  
+Rating: 4.27 (Ranked 850)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 62.00% | ~271 |
-| Scrap Gatherer | 58.00% | ~253 |
-| Mushroom Picker | 56.00% | ~245 |
-| Scrapper | 45.00% | ~197 |
-| Teleport | 45.00% | ~197 |
-| Cook | 43.00% | ~188 |
-| Scrap Master | 38.00% | ~166 |
-| Smelter | 35.00% | ~153 |
-| Digger | 32.00% | ~140 |
-| Electro-Scrap Gatherer | 32.00% | ~140 |
-| Robot Destroyer | 30.00% | ~131 |
-| Survivor | 30.00% | ~131 |
-| Lumberjack | 29.00% | ~127 |
-| Herbalist | 28.00% | ~122 |
-| Prepper | 25.00% | ~109 |
-| Electro-Scrap Master | 24.00% | ~105 |
-| Robot Hunter | 21.00% | ~92 |
+| My New Home | 61.00% | ~268 |
+| Scrap Gatherer | 57.00% | ~251 |
+| Mushroom Picker | 56.00% | ~246 |
+| Scrapper | 45.00% | ~198 |
+| Teleport | 44.00% | ~194 |
+| Cook | 43.00% | ~189 |
+| Scrap Master | 38.00% | ~167 |
+| Smelter | 35.00% | ~154 |
+| Digger | 32.00% | ~141 |
+| Electro-Scrap Gatherer | 32.00% | ~141 |
+| Survivor | 30.00% | ~132 |
+| Lumberjack | 29.00% | ~128 |
+| Robot Destroyer | 29.00% | ~128 |
+| Herbalist | 28.00% | ~123 |
+| Prepper | 25.00% | ~110 |
+| Electro-Scrap Master | 23.00% | ~101 |
+| Robot Hunter | 20.00% | ~88 |
 | Advanced Survivalist | 18.00% | ~79 |
 | Master Of Technology | 16.00% | ~70 |
 | Treasure Hunter | 15.00% | ~66 |
@@ -31,14 +31,14 @@ Number of Ratings: 38  (23.09.2022)
 | Master Of Management | 10.00% | ~44 |
 | Forest Lord | 10.00% | ~44 |
 | Smelting Master | 10.00% | ~44 |
-| Fuel | 9.00% | ~39 |
+| Fuel | 9.00% | ~40 |
 | Black Gold | 7.00% | ~31 |
-| Survival Master | 4.00% | ~17 |
+| Survival Master | 4.00% | ~18 |
 | Traveler | 3.00% | ~13 |
 | Forest Killer | 2.00% | ~9 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 302)  
+Progressed: 440 (Ranked 301)  
 Completed: 1 (0.23%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 1 (0.23%) (Ranked 232)
 | 2023-10-31 | 429 | 1 |
 | 2023-11-01 | 431 | 1 |
 | 2023-11-02 | 434 | 1 |
-| 2023-11-03 | 437 | 1 |
+| 2023-11-03 | 440 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

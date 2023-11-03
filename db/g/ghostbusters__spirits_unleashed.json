@@ -3021,9 +3021,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29884,
+  "EOS_Progressed": 29891,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2003,
+  "EOS_NewPlayers": 2008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17716,6 +17716,11 @@
       "Time": "2023-11-03T17:06:46.7417295+00:00",
       "NumProgressed": 29884,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-03T18:06:04.7912812+00:00",
+      "NumProgressed": 29891,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17727,7 +17732,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "Animated",
@@ -17815,7 +17820,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "Dont_Need_These",
@@ -17839,7 +17844,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "Escape_Artist",
@@ -18015,7 +18020,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "Stunner",
@@ -18045,9 +18050,9 @@
       "ID": "Surprise",
       "SetID": "819popo",
       "Name": "Surprise!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 239
     },
     {
       "ID": "Swift_Removers",
@@ -18055,7 +18060,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "Teamwork",
@@ -18134,7 +18139,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29884,
+      "Progressed": 29891,
       "Completed": 65
     }
   ],
@@ -18142,8 +18147,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-03T13:02:53.7428489+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:06:46.7417289+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:06:04.7912807+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:57:41.5408229+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:06:46.7418763+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:57:31.5253993+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:06:04.7913913+00:00"
 }

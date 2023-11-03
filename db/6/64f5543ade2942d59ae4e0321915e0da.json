@@ -3,8 +3,8 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -333,9 +333,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 45,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:06:35.8814223+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:05:55.337158+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:00:23.0599412+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:06:35.8814594+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:59:11.9572068+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:05:55.3371867+00:00"
 }

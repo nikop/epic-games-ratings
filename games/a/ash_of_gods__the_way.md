@@ -12,6 +12,7 @@
 | Under cover | 20.00% | ~3 |
 | A hidden snake | 20.00% | ~3 |
 | Blood and sand | 20.00% | ~3 |
+| Crimson rivers | 13.00% | ~2 |
 | Power of Inquisition | 13.00% | ~2 |
 | The champion of the arena | 13.00% | ~2 |
 | Surpass the teacher | 13.00% | ~2 |
@@ -21,13 +22,12 @@
 | A solo player | 13.00% | ~2 |
 | Punish the Punisher | 13.00% | ~2 |
 | Protect the Healer! | 13.00% | ~2 |
+| Cunning plan | 13.00% | ~2 |
 | She-Wolf | 13.00% | ~2 |
-| Crimson rivers | 7.00% | ~1 |
 | Overplay the rogue | 7.00% | ~1 |
 | Berkanan Borgia | 7.00% | ~1 |
 | The best apprentice | 7.00% | ~1 |
 | Deadly strike | 7.00% | ~1 |
-| Cunning plan | 7.00% | ~1 |
 | Do it yourself | 7.00% | ~1 |
 | Help of the Gell | 7.00% | ~1 |
 | Trial by cold | 7.00% | ~1 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15 (Ranked 541)  
-Completed: 0 (0.00%) (Ranked 340)  
+Completed: 0 (0.00%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

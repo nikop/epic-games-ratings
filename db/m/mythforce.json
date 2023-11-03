@@ -8762,9 +8762,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1106
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8786,8 +8786,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:09:55.8723336+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:09:33.0708319+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:01:45.2949775+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:09:55.8724072+00:00"
+  "LastUpdate_Ratings": "2023-11-03T18:00:27.2623736+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:09:33.0708859+00:00"
 }

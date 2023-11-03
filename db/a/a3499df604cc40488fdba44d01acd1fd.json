@@ -3,8 +3,8 @@
   "Name": "Champions Ascension",
   "ProductSlug": "champions-ascension-aa77be",
   "Ranking_EOS_Progress": 719,
-  "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-01T15:56:59.821152+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:59:46.7784257+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:04:29.5262262+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:58:47.9374146+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:03:46.3381365+00:00"
 }

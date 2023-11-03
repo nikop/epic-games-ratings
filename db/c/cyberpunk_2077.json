@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14630,10 +14630,10 @@
       "Count": 12269
     }
   ],
-  "EOS_Progressed": 895061,
-  "EOS_Completed": 2739,
-  "EOS_NewPlayers": 1012,
-  "EOS_NewCompleters": 22,
+  "EOS_Progressed": 895066,
+  "EOS_Completed": 2740,
+  "EOS_NewPlayers": 1008,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36935,6 +36935,11 @@
       "Time": "2023-11-03T17:06:52.7846068+00:00",
       "NumProgressed": 895061,
       "NumCompleted": 2739
+    },
+    {
+      "Time": "2023-11-03T18:06:09.8887749+00:00",
+      "NumProgressed": 895066,
+      "NumCompleted": 2740
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37273,9 +37278,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8951
     },
     {
       "ID": "YipMan",
@@ -37482,21 +37487,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895061,
-      "Completed": 2739
+      "Progressed": 895066,
+      "Completed": 2740
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23684,
+      "Progressed": 23689,
       "Completed": 10180
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-03T15:59:56.7510211+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:06:52.7846062+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:06:09.8887743+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:00:05.9432696+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:06:52.7848109+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:58:57.4793741+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:06:09.8889296+00:00"
 }

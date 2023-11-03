@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1341,9 +1341,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5767,
+  "EOS_Progressed": 5768,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12171,6 +12171,11 @@
       "Time": "2023-11-03T15:13:05.3521393+00:00",
       "NumProgressed": 5767,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-03T18:09:32.3196892+00:00",
+      "NumProgressed": 5768,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12278,7 +12283,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12334,7 +12339,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -12342,7 +12347,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12438,7 +12443,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12501,15 +12506,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5767,
+      "Progressed": 5768,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-02T19:57:52.4024935+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:09:55.0512567+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:09:32.3196887+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:49.6627944+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:58:52.622619+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:09:55.0513731+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:58:18.8468675+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:09:32.3197667+00:00"
 }

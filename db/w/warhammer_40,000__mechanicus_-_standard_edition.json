@@ -6,7 +6,7 @@
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 65,
-  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -864,9 +864,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 226322,
+  "EOS_Progressed": 226325,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22439,6 +22439,11 @@
       "Time": "2023-11-03T17:09:37.8471602+00:00",
       "NumProgressed": 226322,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-03T18:09:17.3943259+00:00",
+      "NumProgressed": 226325,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22450,7 +22455,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43001
+      "UsersEstimate": 43002
     },
     {
       "ID": "ACH_BASE_10",
@@ -22530,7 +22535,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13579
+      "UsersEstimate": 13580
     },
     {
       "ID": "ACH_BASE_20",
@@ -22721,7 +22726,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226322,
+      "Progressed": 226325,
       "Completed": 5
     }
   ],
@@ -22729,8 +22734,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-03T14:03:13.4438355+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:09:37.8471596+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:09:17.3943251+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:03:03.2901671+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:09:37.847335+00:00"
+  "LastUpdate_Ratings": "2023-11-03T18:02:53.6433533+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:09:17.3944489+00:00"
 }

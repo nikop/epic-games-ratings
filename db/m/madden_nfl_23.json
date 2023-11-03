@@ -2,11 +2,11 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 340,
+  "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2022-12-16T08:57:24.917077+00:00",
@@ -753,6 +753,12 @@
     {
       "Time": "2023-10-31T19:57:33.9766438+00:00",
       "Rating": 4.28,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-11-03T17:58:37.0997182+00:00",
+      "Rating": 4.27,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 35
     }
@@ -4787,9 +4793,9 @@
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-10-31T19:57:33.9766437+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:04:21.6702052+00:00",
+  "LastChanged": "2023-11-03T17:58:37.0997181+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:03:39.7432997+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:59:28.0431704+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:04:21.6702574+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:58:37.0997185+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:03:39.7433373+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 91,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -360,6 +360,11 @@
       "Time": "2023-11-03T17:10:17.6215079+00:00",
       "NumProgressed": 89,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T18:09:34.2666078+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -369,7 +374,7 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -441,9 +446,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_11",
@@ -473,7 +478,7 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -585,9 +590,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_29",
@@ -609,15 +614,15 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -625,9 +630,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_35",
@@ -658,14 +663,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 91,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:10:17.621507+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:09:34.2666073+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:00:04.7762325+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:10:17.6215398+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:58:56.5801427+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:09:34.2666318+00:00"
 }

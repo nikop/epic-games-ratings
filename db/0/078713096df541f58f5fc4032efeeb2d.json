@@ -3,8 +3,8 @@
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 564,
-  "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -105,9 +105,9 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "creepytale3_ach_12",
@@ -360,8 +360,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-03T17:06:25.0380677+00:00",
+  "LastChanged_Achievements": "2023-11-03T18:05:46.3480996+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7439656+00:00",
-  "LastUpdate_Ratings": "2023-11-03T17:03:22.6327337+00:00",
-  "LastUpdate_Achievements": "2023-11-03T17:06:25.0381008+00:00"
+  "LastUpdate_Ratings": "2023-11-03T18:03:07.7767307+00:00",
+  "LastUpdate_Achievements": "2023-11-03T18:05:46.3481194+00:00"
 }

@@ -27,11 +27,11 @@ Number of Ratings: 46  (23.09.2022)
 | Assimilation | 0.60% | ~938 |
 | Host | 0.60% | ~935 |
 | Celebration | 0.60% | ~938 |
-| Hunt Down | 0.50% | ~781 |
-| Artisan | 0.50% | ~781 |
-| Hush | 0.50% | ~781 |
-| Inevitable | 0.50% | ~781 |
-| All-Seeing | 0.50% | ~781 |
+| Hunt Down | 0.50% | ~782 |
+| Artisan | 0.50% | ~782 |
+| Hush | 0.50% | ~782 |
+| Inevitable | 0.50% | ~782 |
+| All-Seeing | 0.50% | ~782 |
 | Dream | 0.50% | ~779 |
 | Breath | 0.40% | ~625 |
 | Breathsmith | 0.40% | ~625 |
@@ -39,11 +39,11 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 0.30% | ~469 |
 | Zygote | 0.30% | ~468 |
 | Passage | 0.30% | ~469 |
+| Listen | 0.30% | ~468 |
 | Proportions | 0.30% | ~469 |
 | Kinship | 0.20% | ~313 |
 | Weakness | 0.20% | ~313 |
 | Kin | 0.20% | ~312 |
-| Listen | 0.20% | ~312 |
 | Intensify | 0.20% | ~312 |
 | Spiral Heart | 0.10% | ~156 |
 | Skinmaker | 0.10% | ~156 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,294 (Ranked 75)  
-Completed: 1 (0.00%) (Ranked 340)  
+Progressed: 156,308 (Ranked 75)  
+Completed: 1 (0.00%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 1 (0.00%) (Ranked 340)
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
-| 2023-11-03 | 156,294 | 1 |
+| 2023-11-03 | 156,308 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 343 (Ranked 349)  

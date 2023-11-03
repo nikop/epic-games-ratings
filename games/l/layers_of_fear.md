@@ -8,8 +8,8 @@
 | Something important | 66.00% | ~27 |
 | A piece of the story | 49.00% | ~20 |
 | Do what you have to | 37.00% | ~15 |
+| The artist’s impression | 32.00% | ~13 |
 | Finished it | 32.00% | ~13 |
-| The artist’s impression | 29.00% | ~12 |
 | Refuse to look | 27.00% | ~11 |
 | Scraps of love | 27.00% | ~11 |
 | Sign of weakness | 24.00% | ~10 |
@@ -58,7 +58,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 476)  
-Completed: 0 (0.00%) (Ranked 340)  
+Completed: 0 (0.00%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
