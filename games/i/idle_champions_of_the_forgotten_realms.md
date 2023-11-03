@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Starving in the Jungle | 0.10% | ~234 |
 | Cold as Ice | 0.10% | ~200 |
 | Friends and Foes | 0.10% | ~200 |
+| And Your Enemies Closer | 0.10% | ~200 |
 | Tall Tales | 0.10% | ~200 |
 | Nightmare Rats! | 0.10% | ~200 |
 | An Unexpected Geist | 0.10% | ~200 |
@@ -23,8 +24,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.10% | ~200 |
 | A Monarch Among Us | 0.10% | ~200 |
 | A Dragon Against Us | 0.10% | ~200 |
+| A Familiar Behind Us | 0.10% | ~200 |
 | Thieves of the Coven | 0.10% | ~200 |
 | Sticky Fingers | 0.10% | ~200 |
+| Patron Party | 0.10% | ~200 |
 | Go Fourth | 0.10% | ~200 |
 | Hither of the Feywild | 0.10% | ~200 |
 | Don't Breathe the Marsh Gas | 0.10% | ~200 |
@@ -70,6 +73,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Laid Plans | 0.10% | ~200 |
 | G. O. A. T. | 0.10% | ~200 |
 | The Howling Peaks of Yon | 0.10% | ~200 |
+| Strength of Character | 0.10% | ~200 |
 | Heavy Burden | 0.10% | ~234 |
 | Seeds of Destruction | 0.10% | ~200 |
 | Speeds of Destruction | 0.10% | ~200 |
@@ -127,6 +131,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Nimble Approach | 0.10% | ~200 |
 | The Palace of Heart's Desire | 0.10% | ~200 |
 | No One Can Hear You Scream | 0.10% | ~200 |
+| Anchors Aweigh | 0.10% | ~200 |
 | Welcome to the Rock | 0.10% | ~200 |
 | Welcome to the Band | 0.10% | ~200 |
 | Beast Mode | 0.10% | ~234 |
@@ -300,6 +305,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.10% | ~234 |
 | Lost in the Goblin Halls | 0.10% | ~234 |
 | Batiri in the Goblin Halls | 0.10% | ~234 |
+| Temporal Rift in the Goblin Halls | 0.10% | ~200 |
 | The Twilight Grove | 0.10% | ~234 |
 | The Nimble Grove | 0.10% | ~234 |
 | The Misty Grove | 0.10% | ~200 |
@@ -416,6 +422,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frontline Fighters | 0.10% | ~200 |
 | How Far Away is Thay | 0.10% | ~200 |
 | Deekin's Mission | 0.10% | ~200 |
+| Dive Bomb | 0.10% | ~200 |
 | Fire and Ice | 0.10% | ~200 |
 | Frozen Vengeance | 0.10% | ~200 |
 | Mimic Vengeance | 0.10% | ~200 |
@@ -453,6 +460,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Willing to Sacrifice | 0.10% | ~200 |
 | Devilishly Cold | 0.10% | ~200 |
 | The Champion's Guide to Wildspace | 0.10% | ~200 |
+| Not That Type of Helm! | 0.10% | ~200 |
 | Tiny Treaty | 0.10% | ~200 |
 | Bazaar Companions | 0.10% | ~200 |
 | Bahamut's Army | 0.10% | ~200 |
@@ -466,10 +474,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Krux's Speed Run | 0.10% | ~200 |
 | Animated Giff | 0.10% | ~200 |
 | The Hunt for The Last Breath | 0.10% | ~200 |
+| The Chaotic Hunt for The Last Breath | 0.10% | ~200 |
 | To Infinity's and Beyond | 0.10% | ~200 |
 | There's a Flying Snake in my Boot! | 0.10% | ~200 |
 | Legends and Lore | 0.10% | ~200 |
 | The End | 0.10% | ~200 |
+| All's Well That Ends Well | 0.10% | ~200 |
 | The Jungles of Doomspace | 0.10% | ~200 |
 | Slow Down Showdown | 0.10% | ~200 |
 | The Arena of Blood | 0.10% | ~200 |
@@ -479,9 +489,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Time Out | 0.10% | ~200 |
 | See You on the Flipside | 0.10% | ~200 |
 | Keep Your Friends Close | 0.00% | ~0 |
-| And Your Enemies Closer | 0.00% | ~0 |
-| A Familiar Behind Us | 0.00% | ~0 |
-| Patron Party | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
 | Always Watching | 0.00% | ~0 |
 | First Third Out | 0.00% | ~0 |
@@ -492,16 +499,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdark Chill | 0.00% | ~0 |
 | The Demon Lords of the Abyss | 0.00% | ~0 |
 | Pincushion Party | 0.00% | ~0 |
-| Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
-| Anchors Aweigh | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
 | They Who Smelt It | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
-| Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | Ettercap Swarm | 0.00% | ~0 |
 | Misty Undermountain | 0.00% | ~0 |
@@ -514,7 +518,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Going To Eleven | 0.00% | ~0 |
 | Witty Riposting | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
-| Dive Bomb | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | Stragglers | 0.00% | ~0 |
@@ -530,16 +533,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.00% | ~0 |
 | Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
-| Not That Type of Helm! | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Calcryx Tricks | 0.00% | ~0 |
 | Goblin Halls: the Next Generation | 0.00% | ~0 |
-| The Chaotic Hunt for The Last Breath | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
-| All's Well That Ends Well | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,509 (Ranked 62)  
+Progressed: 233,511 (Ranked 62)  
 Completed: 2,424 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,424 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,509 | 2,424 |
+| 2023-11-03 | 233,511 | 2,424 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,315 (Ranked 41)  

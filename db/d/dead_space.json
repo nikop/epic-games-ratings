@@ -6,7 +6,7 @@
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
@@ -683,11 +683,11 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 1441,
+  "EOS_Progressed": 1442,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
     {
       "Time": "2023-09-19T18:06:12.9172474+00:00",
@@ -4418,6 +4418,11 @@
       "Time": "2023-11-03T04:05:05.8856739+00:00",
       "NumProgressed": 1441,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T06:06:38.2875988+00:00",
+      "NumProgressed": 1442,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -4430,7 +4435,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "achievement_10",
@@ -4446,7 +4451,7 @@
       "Name": "Betrayed",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_12",
@@ -4470,7 +4475,7 @@
       "Name": "Whole Again",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_15",
@@ -4502,7 +4507,7 @@
       "Name": "Full Arsenal",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_19",
@@ -4510,7 +4515,7 @@
       "Name": "Built To Order",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "achievement_2",
@@ -4518,7 +4523,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_20",
@@ -4558,7 +4563,7 @@
       "Name": "Eviscerator",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "achievement_25",
@@ -4590,7 +4595,7 @@
       "Name": "Story Teller",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_29",
@@ -4630,15 +4635,15 @@
       "Name": "Surgeon",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_33",
       "SetID": "222fo9l",
       "Name": "Wishbone",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_34",
@@ -4724,9 +4729,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_44",
@@ -4766,15 +4771,15 @@
       "Name": "True Believer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 750
     },
     {
       "ID": "achievement_7",
@@ -4782,7 +4787,7 @@
       "Name": "S.O.S.",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_8",
@@ -4805,7 +4810,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1441,
+      "Progressed": 1442,
       "Completed": 8
     }
   ],
@@ -4813,8 +4818,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-10-27T07:00:27.7647676+00:00",
-  "LastChanged_Achievements": "2023-11-03T05:06:42.1367857+00:00",
+  "LastChanged_Achievements": "2023-11-03T06:06:38.2875984+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.9689029+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:03:28.7418898+00:00",
-  "LastUpdate_Achievements": "2023-11-03T05:06:42.136876+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:03:46.0498858+00:00",
+  "LastUpdate_Achievements": "2023-11-03T06:06:38.287672+00:00"
 }

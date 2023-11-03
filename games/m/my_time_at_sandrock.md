@@ -6,45 +6,46 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 173.00% | ~228 |
-| Adept Assembler | 127.00% | ~168 |
-| Greeno-B-Gone | 83.00% | ~110 |
-| Your Especially Earned Trajectory | 63.00% | ~83 |
-| Can We Keep It? | 40.00% | ~53 |
-| No Mountain Wide Enough | 32.00% | ~42 |
-| My Time Mansion | 28.00% | ~37 |
-| Happier-est Place on Earth | 21.00% | ~28 |
-| Call Me Fishmael | 21.00% | ~28 |
-| Finishing Touches | 20.00% | ~26 |
-| Anti-Santa | 20.00% | ~26 |
+| Iron Chef | 177.00% | ~234 |
+| Adept Assembler | 130.00% | ~172 |
+| Greeno-B-Gone | 85.00% | ~112 |
+| Your Especially Earned Trajectory | 64.00% | ~84 |
+| Can We Keep It? | 42.00% | ~55 |
+| No Mountain Wide Enough | 33.00% | ~44 |
+| My Time Mansion | 30.00% | ~40 |
+| Happier-est Place on Earth | 23.00% | ~30 |
+| Call Me Fishmael | 23.00% | ~30 |
+| Finishing Touches | 21.00% | ~28 |
+| Anti-Santa | 21.00% | ~28 |
 | On that Grindset | 18.00% | ~24 |
+| You Don't Win Friends With Salad | 18.00% | ~24 |
 | Yakmel Whisperer | 18.00% | ~24 |
-| You Don't Win Friends With Salad | 17.00% | ~22 |
+| Knowledge is Power | 14.00% | ~18 |
+| Jewel of the Eufaula | 14.00% | ~18 |
 | Officially Official | 14.00% | ~18 |
 | I Do! | 14.00% | ~18 |
-| Knowledge is Power | 13.00% | ~17 |
-| Jewel of the Eufaula | 13.00% | ~17 |
-| Better Late than Never | 9.00% | ~12 |
+| Better Late than Never | 10.00% | ~13 |
 | Mole Masher | 9.00% | ~12 |
 | Pack Mule | 8.00% | ~11 |
-| Jack of All Trades | 6.00% | ~8 |
-| Diamonds are Forever | 6.00% | ~8 |
+| Jack of All Trades | 7.00% | ~9 |
+| Diamonds are Forever | 7.00% | ~9 |
 | Panda-kin | 5.00% | ~7 |
 | He Can Spin A Yarn... | 5.00% | ~7 |
 | First Love | 5.00% | ~7 |
 | One of the Cool Kids | 4.00% | ~5 |
+| Pro Gamer | 4.00% | ~5 |
 | Just What I Always Wanted! | 4.00% | ~5 |
-| Pro Gamer | 3.00% | ~4 |
+| Cardistry | 3.00% | ~4 |
 | Time Flies | 2.00% | ~3 |
 | Big Game Hunter | 2.00% | ~3 |
 | Commissions, commissions...! | 2.00% | ~3 |
 | Financially Secure | 2.00% | ~3 |
 | Kind of a Big Deal | 2.00% | ~3 |
 | What Plants Crave | 2.00% | ~3 |
-| Cardistry | 2.00% | ~3 |
 | Chatterbox | 2.00% | ~3 |
 | Santa In Training | 2.00% | ~3 |
 | Got the Receipt? | 2.00% | ~3 |
+| Unboxing | 2.00% | ~3 |
 | Do Your Part | 2.00% | ~3 |
 | Waste Not Want Not | 2.00% | ~3 |
 | Newton | 2.00% | ~3 |
@@ -55,7 +56,6 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 0.80% | ~1 |
 | Sandrock's Hottest Club | 0.80% | ~1 |
 | Sandrunning Speedster | 0.80% | ~1 |
-| Unboxing | 0.80% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |

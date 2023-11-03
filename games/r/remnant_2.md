@@ -6,23 +6,23 @@ Rating: 4.75 (Ranked 142)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,536 |
-| The Killing Jar | 8.00% | ~17,365 |
-| Expanding Horizons | 7.00% | ~15,194 |
-| Quest for Survival | 7.00% | ~15,194 |
-| Not Your Average Trait | 7.00% | ~15,194 |
+| The Killing Jar | 8.00% | ~17,366 |
+| Expanding Horizons | 7.00% | ~15,195 |
+| Quest for Survival | 7.00% | ~15,195 |
+| Not Your Average Trait | 7.00% | ~15,195 |
 | Gleaming the Cube | 6.00% | ~13,024 |
 | Familiar Face | 6.00% | ~13,024 |
 | Boss'n Up | 6.00% | ~13,024 |
 | Trait Chaser | 6.00% | ~13,024 |
-| Not So Special Now | 5.00% | ~10,853 |
-| Not a Janitor | 5.00% | ~10,853 |
-| Equal Measures | 5.00% | ~10,853 |
-| Blue Goddess | 5.00% | ~10,853 |
-| Duality | 5.00% | ~10,853 |
-| Top Performer | 5.00% | ~10,853 |
-| Almost There | 5.00% | ~10,853 |
-| Make Some Room | 5.00% | ~10,853 |
-| Good, But Could Be Better! | 5.00% | ~10,853 |
+| Not So Special Now | 5.00% | ~10,854 |
+| Not a Janitor | 5.00% | ~10,854 |
+| Equal Measures | 5.00% | ~10,854 |
+| Blue Goddess | 5.00% | ~10,854 |
+| Duality | 5.00% | ~10,854 |
+| Top Performer | 5.00% | ~10,854 |
+| Almost There | 5.00% | ~10,854 |
+| Make Some Room | 5.00% | ~10,854 |
+| Good, But Could Be Better! | 5.00% | ~10,854 |
 | Chaos | 4.00% | ~8,683 |
 | Traitor | 4.00% | ~8,683 |
 | Power Surge | 4.00% | ~8,683 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,171 |
 | Proving Grounds | 0.90% | ~1,954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,064 (Ranked 66)  
+Progressed: 217,071 (Ranked 66)  
 Completed: 428 (0.20%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 428 (0.20%) (Ranked 241)
 | 2023-10-31 | 215,476 | 423 |
 | 2023-11-01 | 216,711 | 423 |
 | 2023-11-02 | 217,009 | 426 |
-| 2023-11-03 | 217,064 | 428 |
+| 2023-11-03 | 217,071 | 428 |
 ## Awards
 Max (Great Boss Battles): 2,018  (Ranked 110)  
 Sum: 4,481 (Ranked 143)  

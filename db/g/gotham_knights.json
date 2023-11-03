@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3959,9 +3959,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75804,
+  "EOS_Progressed": 75807,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 832,
+  "EOS_NewPlayers": 830,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21234,6 +21234,11 @@
       "Time": "2023-11-03T05:05:33.9395084+00:00",
       "NumProgressed": 75804,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2023-11-03T06:05:37.4909515+00:00",
+      "NumProgressed": 75807,
+      "NumCompleted": 122
     }
   ],
   "TotalAchievements": 61,
@@ -21293,7 +21298,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17435
+      "UsersEstimate": 17436
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -21325,7 +21330,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "APPLY_STATUS",
@@ -21421,7 +21426,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -21429,7 +21434,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6823
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -21461,7 +21466,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "FREEZE_1",
@@ -21469,7 +21474,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21225
+      "UsersEstimate": 21226
     },
     {
       "ID": "FREEZE_1_5",
@@ -21549,7 +21554,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26531
+      "UsersEstimate": 26532
     },
     {
       "ID": "HARLEY_2",
@@ -21557,7 +21562,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18951
+      "UsersEstimate": 18952
     },
     {
       "ID": "HARLEY_3",
@@ -21589,7 +21594,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38660
+      "UsersEstimate": 38662
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21621,7 +21626,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20467
+      "UsersEstimate": 20468
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -21637,7 +21642,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25773
+      "UsersEstimate": 25774
     },
     {
       "ID": "MYSTERY_02",
@@ -21645,7 +21650,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18951
+      "UsersEstimate": 18952
     },
     {
       "ID": "MYSTERY_03",
@@ -21653,7 +21658,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16677
+      "UsersEstimate": 16678
     },
     {
       "ID": "MYSTERY_04",
@@ -21693,7 +21698,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "SECRET_CACHE",
@@ -21701,7 +21706,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8338
+      "UsersEstimate": 8339
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -21709,7 +21714,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6823
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -21732,13 +21737,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75804,
+      "Progressed": 75807,
       "Completed": 122
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46084,
+      "Progressed": 46087,
       "Completed": 2673
     }
   ],
@@ -21746,8 +21751,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-03T03:00:36.6701892+00:00",
-  "LastChanged_Achievements": "2023-11-03T05:05:33.9395079+00:00",
+  "LastChanged_Achievements": "2023-11-03T06:05:37.4909509+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:02:22.5706389+00:00",
-  "LastUpdate_Achievements": "2023-11-03T05:05:33.9397229+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:02:28.514424+00:00",
+  "LastUpdate_Achievements": "2023-11-03T06:05:37.4911395+00:00"
 }

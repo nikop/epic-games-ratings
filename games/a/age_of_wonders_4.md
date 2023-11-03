@@ -7,15 +7,15 @@ Rating: 4.60 (Ranked 408)
 | ---- | ---------- | ----- |
 | Secret Technique | 9.00% | ~474 |
 | Walls Cannot Stop Us | 8.00% | ~421 |
-| Realm Estate | 7.00% | ~368 |
-| A Wonderful Discovery | 7.00% | ~368 |
-| Bone Peddler | 7.00% | ~368 |
-| From Friends to Family | 7.00% | ~368 |
-| Stronger Together | 7.00% | ~368 |
-| Magical Synergy | 7.00% | ~368 |
-| Seat of Power | 7.00% | ~368 |
-| Intimidation Tactics | 7.00% | ~368 |
-| Tipping the Scales | 7.00% | ~368 |
+| Realm Estate | 7.00% | ~369 |
+| A Wonderful Discovery | 7.00% | ~369 |
+| Bone Peddler | 7.00% | ~369 |
+| From Friends to Family | 7.00% | ~369 |
+| Stronger Together | 7.00% | ~369 |
+| Magical Synergy | 7.00% | ~369 |
+| Seat of Power | 7.00% | ~369 |
+| Intimidation Tactics | 7.00% | ~369 |
+| Tipping the Scales | 7.00% | ~369 |
 | There Can Only Be One! | 6.00% | ~316 |
 | Full Ascension | 6.00% | ~316 |
 | My Final Form | 6.00% | ~316 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 408)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,264 (Ranked 181)  
+Progressed: 5,265 (Ranked 181)  
 Completed: 7 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 7 (0.13%) (Ranked 254)
 | 2023-10-30 | 5,254 | 6 |
 | 2023-10-31 | 5,262 | 6 |
 | 2023-11-01 | 5,264 | 7 |
+| 2023-11-03 | 5,265 | 7 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 487)  
 Sum: 30 (Ranked 505)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3862,
+  "EOS_Progressed": 3863,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1568,
+  "EOS_NewPlayers": 1562,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1837,6 +1837,11 @@
       "Time": "2023-11-03T05:09:37.7231281+00:00",
       "NumProgressed": 3862,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T06:10:03.9470463+00:00",
+      "NumProgressed": 3863,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1863,9 +1868,9 @@
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "Bikemaggedon",
@@ -1887,9 +1892,9 @@
       "ID": "ConnectionLost",
       "SetID": "acc6ea0",
       "Name": "Connection Lost",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 386
     },
     {
       "ID": "Eavesdropper",
@@ -1921,7 +1926,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "FuneralForTheDeath",
@@ -1993,7 +1998,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "NoMoreTotems",
@@ -2073,7 +2078,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -2105,7 +2110,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "k01101110",
@@ -2113,14 +2118,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3862,
+      "Progressed": 3863,
       "Completed": 3
     }
   ],
@@ -2128,8 +2133,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-02T21:57:18.2219856+00:00",
-  "LastChanged_Achievements": "2023-11-03T05:09:37.7231275+00:00",
+  "LastChanged_Achievements": "2023-11-03T06:10:03.9470456+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-03T04:57:45.6982362+00:00",
-  "LastUpdate_Achievements": "2023-11-03T05:09:37.7231679+00:00"
+  "LastUpdate_Ratings": "2023-11-03T05:57:54.2450247+00:00",
+  "LastUpdate_Achievements": "2023-11-03T06:10:03.9470825+00:00"
 }

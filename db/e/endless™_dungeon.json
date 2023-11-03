@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 989,
+  "EOS_Progressed": 990,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
@@ -1290,6 +1290,11 @@
       "Time": "2023-11-03T01:50:20.2584742+00:00",
       "NumProgressed": 989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T06:06:47.1661946+00:00",
+      "NumProgressed": 990,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1350,7 +1355,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1374,7 +1379,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -1382,7 +1387,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1398,7 +1403,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1414,7 +1419,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1446,7 +1451,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1541,14 +1546,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 989,
+      "Progressed": 990,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-03T05:06:52.1646579+00:00",
+  "LastChanged_Achievements": "2023-11-03T06:06:47.1661941+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.0665007+00:00",
-  "LastUpdate_Ratings": "2023-11-03T04:59:12.9561747+00:00",
-  "LastUpdate_Achievements": "2023-11-03T05:06:52.1646866+00:00"
+  "LastUpdate_Ratings": "2023-11-03T05:59:20.0318654+00:00",
+  "LastUpdate_Achievements": "2023-11-03T06:06:47.1662239+00:00"
 }

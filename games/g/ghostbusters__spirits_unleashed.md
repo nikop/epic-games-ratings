@@ -8,17 +8,17 @@ Rating: 4.50 (Ranked 580)
 | Stylish | 6.00% | ~1,789 |
 | Advancement | 5.00% | ~1,491 |
 | Meticulously Efficient | 5.00% | ~1,491 |
-| Discovery | 4.00% | ~1,192 |
-| Solo Capture | 4.00% | ~1,192 |
-| Swift Rift Removers | 4.00% | ~1,192 |
-| Clutch Capture | 3.00% | ~894 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~894 |
-| Cultured | 3.00% | ~894 |
-| Fully Upgraded | 3.00% | ~894 |
-| Teamwork | 3.00% | ~894 |
-| There you are! | 3.00% | ~894 |
-| Vaporous Expansion | 3.00% | ~894 |
-| Whoopsie | 3.00% | ~894 |
+| Discovery | 4.00% | ~1,193 |
+| Solo Capture | 4.00% | ~1,193 |
+| Swift Rift Removers | 4.00% | ~1,193 |
+| Clutch Capture | 3.00% | ~895 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~895 |
+| Cultured | 3.00% | ~895 |
+| Fully Upgraded | 3.00% | ~895 |
+| Teamwork | 3.00% | ~895 |
+| There you are! | 3.00% | ~895 |
+| Vaporous Expansion | 3.00% | ~895 |
+| Whoopsie | 3.00% | ~895 |
 | Animated | 2.00% | ~596 |
 | Back Off | 2.00% | ~596 |
 | We have the best insurance | 2.00% | ~596 |
@@ -43,8 +43,8 @@ Rating: 4.50 (Ranked 580)
 | Terrifying | 1.00% | ~298 |
 | Tobin's Prodigy | 1.00% | ~298 |
 | Rivalry | 0.90% | ~268 |
-| Fragile Panes | 0.80% | ~238 |
-| Liability | 0.80% | ~238 |
+| Fragile Panes | 0.80% | ~239 |
+| Liability | 0.80% | ~239 |
 | Surprise! | 0.70% | ~209 |
 | Therapeutic | 0.50% | ~149 |
 | Rift Seeker | 0.40% | ~119 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,812 (Ranked 122)  
+Progressed: 29,818 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
-| 2023-11-03 | 29,812 | 65 |
+| 2023-11-03 | 29,818 | 65 |
 ## Awards
 Max (Great for Beginners): 300  (Ranked 245)  
 Sum: 2,667 (Ranked 180)  

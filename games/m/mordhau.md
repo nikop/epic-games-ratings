@@ -5,14 +5,14 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~759,803 |
-| The ABCs | 43.00% | ~666,766 |
-| Home Run | 41.00% | ~635,754 |
-| Keeps Coming Off | 41.00% | ~635,754 |
-| Guts | 20.00% | ~310,124 |
+| Justice from the Grave | 49.00% | ~759,805 |
+| The ABCs | 43.00% | ~666,768 |
+| Home Run | 41.00% | ~635,755 |
+| Keeps Coming Off | 41.00% | ~635,755 |
+| Guts | 20.00% | ~310,125 |
 | Meat Grinder | 19.00% | ~294,618 |
-| Burning Man | 16.00% | ~248,099 |
-| Lived to Tell the Tale | 12.00% | ~186,074 |
+| Burning Man | 16.00% | ~248,100 |
+| Lived to Tell the Tale | 12.00% | ~186,075 |
 | Highlander | 10.00% | ~155,062 |
 | Unstoppable | 10.00% | ~155,062 |
 | Just a Scratch | 9.00% | ~139,556 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 744)
 | That’s No Ordinary Cold | 0.10% | ~1,551 |
 | Stairway to Hell | 0.10% | ~1,551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550,619 (Ranked 7)  
+Progressed: 1,550,623 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,11 +241,11 @@ Completed: 68 (0.00%) (Ranked 339)
 | 2023-10-31 | 1,549,578 | 68 |
 | 2023-11-01 | 1,550,042 | 68 |
 | 2023-11-02 | 1,550,542 | 68 |
-| 2023-11-03 | 1,550,619 | 68 |
+| 2023-11-03 | 1,550,623 | 68 |
 ## Awards
 Max (Diverse Characters): 868  (Ranked 159)  
-Sum: 4,053 (Ranked 151)  
-Diff (max vs sum): 8  
+Sum: 4,053 (Ranked 152)  
+Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 868 |

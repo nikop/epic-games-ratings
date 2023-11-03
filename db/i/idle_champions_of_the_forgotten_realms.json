@@ -7789,9 +7789,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233509,
+  "EOS_Progressed": 233511,
   "EOS_Completed": 2424,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29769,6 +29769,11 @@
       "Time": "2023-11-03T05:04:46.6133139+00:00",
       "NumProgressed": 233509,
       "NumCompleted": 2424
+    },
+    {
+      "Time": "2023-11-03T06:04:56.2413261+00:00",
+      "NumProgressed": 233511,
+      "NumCompleted": 2424
     }
   ],
   "TotalAchievements": 532,
@@ -29842,9 +29847,9 @@
       "ID": "objective_completed_1046",
       "SetID": "415jc5c",
       "Name": "And Your Enemies Closer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1050",
@@ -29906,9 +29911,9 @@
       "ID": "objective_completed_1058",
       "SetID": "415jc5c",
       "Name": "A Familiar Behind Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1060",
@@ -29930,9 +29935,9 @@
       "ID": "objective_completed_1062",
       "SetID": "415jc5c",
       "Name": "Patron Party",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1063",
@@ -30378,9 +30383,9 @@
       "ID": "objective_completed_1148",
       "SetID": "415jc5c",
       "Name": "Strength of Character",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1149",
@@ -30858,9 +30863,9 @@
       "ID": "objective_completed_1346",
       "SetID": "415jc5c",
       "Name": "Anchors Aweigh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1350",
@@ -32290,9 +32295,9 @@
       "ID": "objective_completed_592",
       "SetID": "415jc5c",
       "Name": "Temporal Rift in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_595",
@@ -33322,9 +33327,9 @@
       "ID": "objective_completed_858",
       "SetID": "415jc5c",
       "Name": "Dive Bomb",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_859",
@@ -33746,9 +33751,9 @@
       "ID": "objective_completed_1220",
       "SetID": "415jc5c",
       "Name": "Not That Type of Helm!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1327",
@@ -33882,9 +33887,9 @@
       "ID": "objective_completed_1396",
       "SetID": "415jc5c",
       "Name": "The Chaotic Hunt for The Last Breath",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1400",
@@ -33930,9 +33935,9 @@
       "ID": "objective_completed_1371",
       "SetID": "415jc5c",
       "Name": "All\u0027s Well That Ends Well",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1405",
@@ -34035,21 +34040,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199783,
-      "Completed": 3802
+      "Progressed": 199785,
+      "Completed": 3807
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233509,
+      "Progressed": 233511,
       "Completed": 2424
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-02T22:59:07.0075621+00:00",
-  "LastChanged_Achievements": "2023-11-03T05:04:46.6133133+00:00",
+  "LastChanged_Achievements": "2023-11-03T06:04:56.2413253+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:00:20.6693765+00:00",
-  "LastUpdate_Achievements": "2023-11-03T05:04:46.6169098+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:00:22.322237+00:00",
+  "LastUpdate_Achievements": "2023-11-03T06:04:56.2445827+00:00"
 }

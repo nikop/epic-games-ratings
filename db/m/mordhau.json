@@ -4,7 +4,7 @@
   "ProductSlug": "mordhau",
   "Ranking_Rating": 744,
   "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 151,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 33,
@@ -5463,9 +5463,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1550619,
+  "EOS_Progressed": 1550623,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 3765,
+  "EOS_NewPlayers": 3759,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27878,6 +27878,11 @@
       "Time": "2023-11-03T05:04:30.3756725+00:00",
       "NumProgressed": 1550619,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-03T06:04:41.5607736+00:00",
+      "NumProgressed": 1550623,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 38,
@@ -27897,7 +27902,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 248099
+      "UsersEstimate": 248100
     },
     {
       "ID": "Chambermaid",
@@ -27969,7 +27974,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 310124
+      "UsersEstimate": 310125
     },
     {
       "ID": "Highlander",
@@ -27985,7 +27990,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 635754
+      "UsersEstimate": 635755
     },
     {
       "ID": "JustScratch",
@@ -28001,7 +28006,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 759803
+      "UsersEstimate": 759805
     },
     {
       "ID": "KeepsComingOff",
@@ -28009,7 +28014,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 635754
+      "UsersEstimate": 635755
     },
     {
       "ID": "KungFu",
@@ -28025,7 +28030,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 186074
+      "UsersEstimate": 186075
     },
     {
       "ID": "LivingSculpture",
@@ -28121,7 +28126,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 666766
+      "UsersEstimate": 666768
     },
     {
       "ID": "ToughNut",
@@ -28192,7 +28197,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1550619,
+      "Progressed": 1550623,
       "Completed": 68
     }
   ],
@@ -28200,8 +28205,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-02T23:00:53.2997796+00:00",
-  "LastChanged_Achievements": "2023-11-03T05:04:30.3756718+00:00",
+  "LastChanged_Achievements": "2023-11-03T06:04:41.5607732+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:56.7385024+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:02:42.2018742+00:00",
-  "LastUpdate_Achievements": "2023-11-03T05:04:30.3758604+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:02:54.8849016+00:00",
+  "LastUpdate_Achievements": "2023-11-03T06:04:41.5609246+00:00"
 }
