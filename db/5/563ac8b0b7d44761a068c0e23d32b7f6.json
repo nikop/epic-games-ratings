@@ -2,10 +2,10 @@
   "ID": "563ac8b0b7d44761a068c0e23d32b7f6",
   "Name": "Party Monsterzz",
   "ProductSlug": "party-monsterzz-f42535",
-  "Ranking_EOS_Progress": 473,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-20T17:00:00+00:00",
     "PcReleaseDate": "2023-10-20T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.76,
+  "EOS_Completed_Percentage": 4.65,
   "EosHistory": [
     {
       "Time": "2023-10-24T09:04:07.3513375+00:00",
@@ -194,6 +194,11 @@
       "Time": "2023-11-03T13:12:18.7442379+00:00",
       "NumProgressed": 42,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-03T14:07:05.498325+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-24T09:04:07.3513415+00:00",
@@ -204,9 +209,9 @@
       "ID": "Achievement_0",
       "SetID": "8556mdl",
       "Name": "One of Us! One of Us!",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_1",
@@ -228,9 +233,9 @@
       "ID": "Achievement_3",
       "SetID": "8556mdl",
       "Name": "Welcome to the party!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 200,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement_4",
@@ -245,14 +250,14 @@
     {
       "ID": "8556mdl",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-11-03T13:12:18.7442374+00:00",
+  "LastChanged_Achievements": "2023-11-03T14:07:05.4983245+00:00",
   "LastUpdate_AppInfo": "2023-10-27T13:57:38.9270861+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:02:50.4303813+00:00",
-  "LastUpdate_Achievements": "2023-11-03T13:12:18.7442443+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:57:34.6848759+00:00",
+  "LastUpdate_Achievements": "2023-11-03T14:07:05.4983339+00:00"
 }

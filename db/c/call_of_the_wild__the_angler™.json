@@ -5,10 +5,10 @@
   "Ranking_Rating": 924,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 402,
-  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -865,9 +865,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6263,
+  "EOS_Progressed": 6265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9245,6 +9245,11 @@
       "Time": "2023-11-03T13:14:43.3598985+00:00",
       "NumProgressed": 6263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T14:09:09.7443538+00:00",
+      "NumProgressed": 6265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9310,9 +9315,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9358,9 +9363,9 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -9575,13 +9580,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6263,
+      "Progressed": 6265,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5635,
+      "Progressed": 5637,
       "Completed": 113
     }
   ],
@@ -9589,8 +9594,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-03T13:03:31.1059337+00:00",
-  "LastChanged_Achievements": "2023-11-03T13:14:43.359898+00:00",
+  "LastChanged_Achievements": "2023-11-03T14:09:09.7443531+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:03:31.1059341+00:00",
-  "LastUpdate_Achievements": "2023-11-03T13:14:43.3599638+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:58:12.095856+00:00",
+  "LastUpdate_Achievements": "2023-11-03T14:09:09.7444409+00:00"
 }

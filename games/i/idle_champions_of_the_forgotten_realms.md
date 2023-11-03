@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 0.60% | ~1,199 |
+| The Beginning is the End | 0.70% | ~1,399 |
+| Tomb of Champions | 0.30% | ~599 |
 | The End is the Beginning | 0.30% | ~599 |
-| Tomb of Champions | 0.20% | ~400 |
 | See You on the Flipside | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
 | Maddening | 0.10% | ~234 |
@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Go Fourth | 0.10% | ~200 |
 | Hither of the Feywild | 0.10% | ~200 |
 | Don't Breathe the Marsh Gas | 0.10% | ~200 |
+| Don't Blast the Brigands | 0.10% | ~200 |
 | Don't Squeeze the Spiders | 0.10% | ~200 |
 | The Spire of Iriolarthas | 0.10% | ~200 |
 | The Fall of Ythryn | 0.10% | ~200 |
@@ -442,6 +443,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Witty Riposting | 0.10% | ~200 |
 | Waiting on Sunrise | 0.10% | ~200 |
 | Frontline Fighters | 0.10% | ~200 |
+| A Chilling Encounter | 0.10% | ~200 |
 | How Far Away is Thay | 0.10% | ~200 |
 | Deekin's Mission | 0.10% | ~200 |
 | Dive Bomb | 0.10% | ~200 |
@@ -527,7 +529,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~200 |
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
-| Don't Blast the Brigands | 0.00% | ~0 |
 | Always Watching | 0.00% | ~0 |
 | Zarak's Revenge | 0.00% | ~0 |
 | The Demon Lords of the Abyss | 0.00% | ~0 |
@@ -535,12 +536,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| A Chilling Encounter | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,541 (Ranked 62)  
-Completed: 2,425 (1.04%) (Ranked 155)  
+Progressed: 233,546 (Ranked 62)  
+Completed: 2,425 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 155)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,541 | 2,425 |
+| 2023-11-03 | 233,546 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

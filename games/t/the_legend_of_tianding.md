@@ -8,13 +8,13 @@
 | Eat the Rich | 56.00% | ~9 |
 | Death Battle | 44.00% | ~7 |
 | Phantom Kunoichi | 44.00% | ~7 |
-| Killing Machine | 38.00% | ~6 |
+| Killing Machine | 44.00% | ~7 |
 | Final Showdown | 38.00% | ~6 |
 | Divine Retribution | 38.00% | ~6 |
 | Dispel Rumors | 38.00% | ~6 |
 | The End of an Outlaw | 38.00% | ~6 |
 | Captain Mustache | 38.00% | ~6 |
-| Urban Explorer | 25.00% | ~4 |
+| Urban Explorer | 31.00% | ~5 |
 | Steal Her Away | 25.00% | ~4 |
 | Sewer Rat | 25.00% | ~4 |
 | Not Today | 25.00% | ~4 |

@@ -7,11 +7,11 @@
 | Star Power | 86.00% | ~410 |
 | Makin' the Cut | 69.00% | ~329 |
 | From Way Downtown | 67.00% | ~320 |
-| Clean Sheet | 63.00% | ~301 |
+| Clean Sheet | 64.00% | ~305 |
 | Winner's Circle | 58.00% | ~277 |
-| Holey Moley | 56.00% | ~267 |
+| Holey Moley | 57.00% | ~272 |
 | Bomb's Away | 52.00% | ~248 |
-| Perfect Round | 48.00% | ~229 |
+| Perfect Round | 49.00% | ~234 |
 | Competitor's Spirit | 41.00% | ~196 |
 | The Strongest Field in Golf | 33.00% | ~157 |
 | Ace in the Hole | 32.00% | ~153 |

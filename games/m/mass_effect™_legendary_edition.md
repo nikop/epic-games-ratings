@@ -65,10 +65,10 @@
 | Agent | 31.00% | ~290 |
 | Driven | 31.00% | ~290 |
 | Focused | 30.00% | ~281 |
+| Friend or Foe | 30.00% | ~281 |
 | Doppelganger | 30.00% | ~281 |
 | Digital Exorcist | 30.00% | ~281 |
 | Bringer of War | 30.00% | ~281 |
-| Friend or Foe | 29.00% | ~272 |
 | Mobilizer | 29.00% | ~272 |
 | Mission Accomplished | 28.00% | ~262 |
 | Suicide Mission | 28.00% | ~262 |

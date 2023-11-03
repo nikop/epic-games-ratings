@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Break Out | 41.00% | ~36 |
 | Shatter Them All | 14.00% | ~12 |
+| I Found It | 14.00% | ~12 |
 | A Taste of Wrath | 13.00% | ~11 |
 | Trinity | 13.00% | ~11 |
-| I Found It | 13.00% | ~11 |
 | The Collector | 13.00% | ~11 |
 | Find Allies | 11.00% | ~10 |
 | Powerful Allies | 11.00% | ~10 |
+| Adventurer | 11.00% | ~10 |
 | Scholar | 11.00% | ~10 |
-| Adventurer | 10.00% | ~9 |
 | Fashion Victim | 10.00% | ~9 |
 | Essence Blow | 8.00% | ~7 |
 | Geared Up | 8.00% | ~7 |
@@ -28,12 +28,12 @@
 | Alchemist | 3.00% | ~3 |
 | A Queen's Tale | 2.00% | ~2 |
 | Big Bazar | 1.00% | ~1 |
+| Fine Feathers Make Fine Birds | 1.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
-| Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |

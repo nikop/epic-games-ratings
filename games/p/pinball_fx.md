@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~227,330 |
-| I know the Rules | 35.00% | ~97,031 |
-| I Found it! | 11.00% | ~30,496 |
-| Contender | 10.00% | ~27,723 |
-| First but not Last | 4.00% | ~11,089 |
-| Ready Steady Score | 3.00% | ~8,317 |
-| Dress Code | 3.00% | ~8,317 |
+| Ball Launched | 82.00% | ~227,346 |
+| I know the Rules | 35.00% | ~97,038 |
+| I Found it! | 11.00% | ~30,498 |
+| Contender | 10.00% | ~27,725 |
+| First but not Last | 4.00% | ~11,090 |
+| Ready Steady Score | 3.00% | ~8,318 |
+| Dress Code | 3.00% | ~8,318 |
 | Full Loot Madness | 2.00% | ~5,545 |
-| My Table, my Rules | 1.00% | ~2,772 |
-| Nine Zeroes | 1.00% | ~2,772 |
+| My Table, my Rules | 1.00% | ~2,773 |
+| Nine Zeroes | 1.00% | ~2,773 |
 | Shiny Memento | 0.30% | ~832 |
 | Pinball Hoarder | 0.30% | ~832 |
 | Interior Designer | 0.30% | ~832 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277,232 (Ranked 52)  
+Progressed: 277,251 (Ranked 52)  
 Completed: 0 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,14 +234,14 @@ Completed: 0 (0.00%) (Ranked 340)
 | 2023-10-31 | 276,304 | 0 |
 | 2023-11-01 | 276,584 | 0 |
 | 2023-11-02 | 276,933 | 0 |
-| 2023-11-03 | 277,232 | 0 |
+| 2023-11-03 | 277,251 | 0 |
 ## Awards
-Max (Great for Beginners): 198  (Ranked 284)  
-Sum: 1,589 (Ranked 225)  
+Max (Great for Beginners): 199  (Ranked 284)  
+Sum: 1,590 (Ranked 225)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 198 |
+| This game is Great for Beginners | 199 |
 | This game is Great for Quick Sessions | 188 |
 | This game has Quickly Understood Controls | 165 |
 | This game is Relaxing | 164 |
@@ -437,3 +437,4 @@ Diff (max vs sum): 59
 | 2023-10-30 | 4.06 | - | 197 | 1,584 |
 | 2023-11-01 | 4.06 | - | 198 | 1,587 |
 | 2023-11-02 | 4.06 | - | 198 | 1,589 |
+| 2023-11-03 | 4.06 | - | 199 | 1,590 |

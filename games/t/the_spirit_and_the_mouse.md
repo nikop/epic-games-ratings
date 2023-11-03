@@ -9,7 +9,7 @@
 | Grilled Mouse | 86.00% | ~66 |
 | Lightbulbs Collector | 79.00% | ~61 |
 | Energy Collector | 75.00% | ~58 |
-| East Street Energy | 51.00% | ~39 |
+| East Street Energy | 52.00% | ~40 |
 | Lightbulbs Expert | 47.00% | ~36 |
 | Energy Expert | 45.00% | ~35 |
 | That's one way to travel | 44.00% | ~34 |

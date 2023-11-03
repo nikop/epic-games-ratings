@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,672 |
-| Incurious | 17.00% | ~112,079 |
-| Climate Change | 16.00% | ~105,486 |
-| Stroller | 15.00% | ~98,893 |
-| Advanced Hiker | 13.00% | ~85,708 |
-| Toy Train | 13.00% | ~85,708 |
-| Hiker | 12.00% | ~79,115 |
-| Mojave Courier | 6.00% | ~39,557 |
-| Saved by Nausicaä | 5.00% | ~32,964 |
+| Advanced Stroller | 18.00% | ~118,674 |
+| Incurious | 17.00% | ~112,081 |
+| Climate Change | 16.00% | ~105,488 |
+| Stroller | 15.00% | ~98,895 |
+| Advanced Hiker | 13.00% | ~85,709 |
+| Toy Train | 13.00% | ~85,709 |
+| Hiker | 12.00% | ~79,116 |
+| Mojave Courier | 6.00% | ~39,558 |
+| Saved by Nausicaä | 5.00% | ~32,965 |
 | Advanced Voyager | 4.00% | ~26,372 |
 | Expert Stroller | 4.00% | ~26,372 |
 | Voyager | 3.00% | ~19,779 |
@@ -28,8 +28,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Shopaholic | 0.70% | ~4,615 |
 | Nanuk | 0.60% | ~3,956 |
 | Dynamite Fishing | 0.60% | ~3,956 |
-| Scrooge | 0.50% | ~3,296 |
-| Terminal Station | 0.50% | ~3,296 |
+| Scrooge | 0.50% | ~3,297 |
+| Terminal Station | 0.50% | ~3,297 |
 | Wayfarer | 0.40% | ~2,637 |
 | Advanced Wayfarer | 0.40% | ~2,637 |
 | Tough Nut! | 0.40% | ~2,637 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~659 |
 | 20 Miles under the Sea | 0.10% | ~659 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,289 (Ranked 27)  
+Progressed: 659,302 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,11 +256,11 @@ Completed: 12 (0.00%) (Ranked 340)
 | 2023-10-31 | 658,648 | 12 |
 | 2023-11-01 | 658,897 | 12 |
 | 2023-11-02 | 659,163 | 12 |
-| 2023-11-03 | 659,289 | 12 |
+| 2023-11-03 | 659,302 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 281)  
-Sum: 1,589 (Ranked 225)  
-Diff (max vs sum): 56  
+Sum: 1,589 (Ranked 226)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 201 |

@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1593,9 +1593,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_11",
@@ -1649,17 +1649,17 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_18",
       "SetID": "7ldgi7j",
       "Name": "Perfect Round",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 229
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_2",
@@ -1735,8 +1735,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-03T13:14:29.16012+00:00",
+  "LastChanged_Achievements": "2023-11-03T14:08:54.687625+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:02:48.7358153+00:00",
-  "LastUpdate_Achievements": "2023-11-03T13:14:29.1601372+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:57:32.918224+00:00",
+  "LastUpdate_Achievements": "2023-11-03T14:08:54.6876482+00:00"
 }

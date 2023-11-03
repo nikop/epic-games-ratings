@@ -6841,9 +6841,9 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138522,
+  "EOS_Progressed": 138525,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26961,6 +26961,11 @@
       "Time": "2023-11-03T13:13:19.4982831+00:00",
       "NumProgressed": 138522,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-03T14:08:08.847839+00:00",
+      "NumProgressed": 138525,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27650,9 +27655,9 @@
       "ID": "master04",
       "SetID": "anfd17p",
       "Name": "Precision Engineering",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 970
     },
     {
       "ID": "master05",
@@ -27867,15 +27872,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138522,
+      "Progressed": 138525,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-03T10:00:20.670592+00:00",
-  "LastChanged_Achievements": "2023-11-03T13:13:19.4982824+00:00",
+  "LastChanged_Achievements": "2023-11-03T14:08:08.8478385+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:06:46.6715012+00:00",
-  "LastUpdate_Achievements": "2023-11-03T13:13:19.4984919+00:00"
+  "LastUpdate_Ratings": "2023-11-03T14:01:46.97347+00:00",
+  "LastUpdate_Achievements": "2023-11-03T14:08:08.8481236+00:00"
 }

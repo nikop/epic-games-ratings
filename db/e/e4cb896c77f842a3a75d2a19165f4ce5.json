@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 559,
+  "EOS_Progressed": 560,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
@@ -1669,6 +1669,11 @@
       "Time": "2023-11-03T13:10:24.1749967+00:00",
       "NumProgressed": 559,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-03T14:05:05.6312824+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 11,
@@ -1680,7 +1685,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "LEVEL_003",
@@ -1688,7 +1693,7 @@
       "Name": "Smith house",
       "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "LEVEL_004",
@@ -1696,15 +1701,15 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 335
+      "UsersEstimate": 342
     },
     {
       "ID": "LEVEL_012",
@@ -1767,14 +1772,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 559,
+      "Progressed": 560,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-03T13:10:24.1749959+00:00",
+  "LastChanged_Achievements": "2023-11-03T14:05:05.6312813+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:04:29.3602995+00:00",
-  "LastUpdate_Achievements": "2023-11-03T13:10:24.1750129+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:59:27.6978255+00:00",
+  "LastUpdate_Achievements": "2023-11-03T14:05:05.631304+00:00"
 }

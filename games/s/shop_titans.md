@@ -83,6 +83,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.70% | ~970 |
 | Master Merchant | 0.70% | ~970 |
 | Laden with Loot | 0.70% | ~970 |
+| Precision Engineering | 0.70% | ~970 |
 | Attrition Mission | 0.70% | ~970 |
 | Glittering Collection | 0.70% | ~970 |
 | Treasure Trove | 0.70% | ~970 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.60% | ~831 |
 | A Legend is Born | 0.60% | ~831 |
 | Bountiful Harvest | 0.60% | ~831 |
-| Precision Engineering | 0.60% | ~831 |
 | Economy of Scarce | 0.60% | ~831 |
 | Jackpot! | 0.50% | ~693 |
 | The Free Encyclopedia | 0.40% | ~554 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,522 (Ranked 78)  
+Progressed: 138,525 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,522 | 178 |
+| 2023-11-03 | 138,525 | 178 |
 ## Awards
 Max (Great for Beginners): 4,817  (Ranked 74)  
 Sum: 27,491 (Ranked 51)  

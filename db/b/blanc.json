@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2872,
+  "EOS_Progressed": 2873,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3941,6 +3941,11 @@
       "Time": "2023-11-03T02:21:32.3754373+00:00",
       "NumProgressed": 2872,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-03T14:04:40.2272892+00:00",
+      "NumProgressed": 2873,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3984,7 +3989,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "REUNION",
@@ -4055,7 +4060,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2872,
+      "Progressed": 2873,
       "Completed": 6
     }
   ],
@@ -4063,8 +4068,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-03T13:09:59.7012759+00:00",
+  "LastChanged_Achievements": "2023-11-03T14:04:40.2272888+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.0919863+00:00",
-  "LastUpdate_Ratings": "2023-11-03T13:03:06.0509994+00:00",
-  "LastUpdate_Achievements": "2023-11-03T13:09:59.7013013+00:00"
+  "LastUpdate_Ratings": "2023-11-03T13:57:46.6169723+00:00",
+  "LastUpdate_Achievements": "2023-11-03T14:04:40.2273209+00:00"
 }

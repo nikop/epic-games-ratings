@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~1 |
 | What Doesn't Kill You | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,044 (Ranked 59)  
+Progressed: 239,050 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 286 (0.12%) (Ranked 260)
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
 | 2023-11-02 | 239,015 | 286 |
-| 2023-11-03 | 239,044 | 286 |
+| 2023-11-03 | 239,050 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,502  (Ranked 129)  
 Sum: 11,647 (Ranked 83)  
