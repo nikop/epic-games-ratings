@@ -18,7 +18,7 @@ Rating: 4.40 (Ranked 735)
 | Love is in the air | 44.00% | ~484 |
 | Fine, I'll do it myself | 43.00% | ~473 |
 | Moving up | 42.00% | ~462 |
-| No need to call anyone | 40.00% | ~440 |
+| No need to call anyone | 41.00% | ~451 |
 | Big fortune | 33.00% | ~363 |
 | Still more work ahead | 30.00% | ~330 |
 | Aesop's fable | 28.00% | ~308 |

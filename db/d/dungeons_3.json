@@ -3025,9 +3025,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 36453,
+  "EOS_Progressed": 36454,
   "EOS_Completed": 298,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -24785,6 +24785,11 @@
       "Time": "2023-11-03T22:20:08.3106683+00:00",
       "NumProgressed": 36453,
       "NumCompleted": 298
+    },
+    {
+      "Time": "2023-11-03T23:04:42.1775692+00:00",
+      "NumProgressed": 36454,
+      "NumCompleted": 298
     }
   ],
   "TotalAchievements": 60,
@@ -24804,7 +24809,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16768
+      "UsersEstimate": 16769
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -24812,7 +24817,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 20778
+      "UsersEstimate": 20779
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -24860,7 +24865,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -24932,7 +24937,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -24988,7 +24993,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 13852
+      "UsersEstimate": 13853
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -25004,7 +25009,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -25124,7 +25129,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10571
+      "UsersEstimate": 10572
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -25156,7 +25161,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 11300
+      "UsersEstimate": 11301
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -25172,7 +25177,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 12029
+      "UsersEstimate": 12030
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -25180,7 +25185,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 16768
+      "UsersEstimate": 16769
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -25188,7 +25193,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10571
+      "UsersEstimate": 10572
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -25196,7 +25201,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 25517
+      "UsersEstimate": 25518
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -25275,15 +25280,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 36453,
+      "Progressed": 36454,
       "Completed": 298
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-03T11:57:53.4243342+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:20:08.310668+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:04:42.1775688+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.8036406+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:04:15.5894355+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:20:08.3108384+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:57:30.1061736+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:04:42.1777633+00:00"
 }

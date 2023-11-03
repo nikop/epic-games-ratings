@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -267,9 +267,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67843,
+  "EOS_Progressed": 67846,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14067,6 +14067,11 @@
       "Time": "2023-11-03T22:21:50.9153909+00:00",
       "NumProgressed": 67843,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-03T23:06:01.5133968+00:00",
+      "NumProgressed": 67846,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -14180,9 +14185,9 @@
       "ID": "ACH_PHONEGATHER",
       "SetID": "6ccjg6f",
       "Name": "Phone Bill",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_READCLUES",
@@ -14237,7 +14242,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67843,
+      "Progressed": 67846,
       "Completed": 17
     }
   ],
@@ -14245,8 +14250,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:21:50.9153906+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:06:01.5133962+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:13:47.6348767+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:21:50.915463+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:58:21.9713382+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:06:01.513501+00:00"
 }

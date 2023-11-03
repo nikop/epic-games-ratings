@@ -4,7 +4,7 @@
   "ProductSlug": "butchers-dont-surf-56b0c2",
   "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-23T02:00:00+00:00",
@@ -216,8 +216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:37.954949+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:23:19.8526057+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:08:46.9823769+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.7619623+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:12:12.0285804+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:23:19.8526147+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:58:05.5114247+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:08:46.9823905+00:00"
 }

@@ -22,27 +22,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,771 |
 | Through Repetition, Perfection | 2.00% | ~2,771 |
 | Own the Means of Production | 2.00% | ~2,771 |
-| On the Path to Greatness | 1.00% | ~1,385 |
-| Ascended | 1.00% | ~1,385 |
-| Research & Development | 1.00% | ~1,385 |
-| Vanity, Verily | 1.00% | ~1,385 |
-| Bounty Hunters | 1.00% | ~1,385 |
-| Fated Encounters | 1.00% | ~1,385 |
-| Blank Page Syndrome | 1.00% | ~1,385 |
-| Demand for Supplies | 1.00% | ~1,385 |
-| Flooding the Market | 1.00% | ~1,385 |
-| Where it Hurts | 1.00% | ~1,385 |
-| Power of Love | 1.00% | ~1,385 |
-| Efficient Floor Space | 1.00% | ~1,385 |
-| Flawless Fusion | 1.00% | ~1,385 |
-| Gem Expert | 1.00% | ~1,385 |
-| Gild-Gotten Goods | 1.00% | ~1,385 |
-| Helping Hand | 1.00% | ~1,385 |
-| Accomplished Merchant | 1.00% | ~1,385 |
-| Dungeon Imports | 1.00% | ~1,385 |
-| Natural 20 | 1.00% | ~1,385 |
-| Did we pack lunch? | 1.00% | ~1,385 |
-| Arcane Industries | 1.00% | ~1,385 |
+| On the Path to Greatness | 1.00% | ~1,386 |
+| Ascended | 1.00% | ~1,386 |
+| Research & Development | 1.00% | ~1,386 |
+| Vanity, Verily | 1.00% | ~1,386 |
+| Bounty Hunters | 1.00% | ~1,386 |
+| Fated Encounters | 1.00% | ~1,386 |
+| Blank Page Syndrome | 1.00% | ~1,386 |
+| Demand for Supplies | 1.00% | ~1,386 |
+| Flooding the Market | 1.00% | ~1,386 |
+| Where it Hurts | 1.00% | ~1,386 |
+| Power of Love | 1.00% | ~1,386 |
+| Efficient Floor Space | 1.00% | ~1,386 |
+| Flawless Fusion | 1.00% | ~1,386 |
+| Gem Expert | 1.00% | ~1,386 |
+| Gild-Gotten Goods | 1.00% | ~1,386 |
+| Helping Hand | 1.00% | ~1,386 |
+| Accomplished Merchant | 1.00% | ~1,386 |
+| Dungeon Imports | 1.00% | ~1,386 |
+| Natural 20 | 1.00% | ~1,386 |
+| Did we pack lunch? | 1.00% | ~1,386 |
+| Arcane Industries | 1.00% | ~1,386 |
 | Tax not Included | 0.90% | ~1,247 |
 | For the Hoard! | 0.90% | ~1,247 |
 | Trash to Treasure | 0.90% | ~1,247 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,549 (Ranked 78)  
+Progressed: 138,550 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,17 +316,17 @@ Completed: 178 (0.13%) (Ranked 255)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,549 | 178 |
+| 2023-11-03 | 138,550 | 178 |
 ## Awards
 Max (Great for Beginners): 4,817  (Ranked 74)  
-Sum: 27,491 (Ranked 51)  
+Sum: 27,492 (Ranked 51)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,817 |
 | This game is Relaxing | 4,034 |
 | This game has Quickly Understood Controls | 4,026 |
-| This game has Diverse Characters | 3,931 |
+| This game has Diverse Characters | 3,932 |
 | This game is Highly Recommended | 3,770 |
 | This game has Easy Combat | 3,718 |
 | This game has Playful Visuals | 3,195 |
@@ -611,4 +611,4 @@ Diff (max vs sum): 23
 | 2023-10-31 | 3.99 | - | 4,812 | 27,477 |
 | 2023-11-01 | 3.99 | - | 4,814 | 27,482 |
 | 2023-11-02 | 3.99 | - | 4,814 | 27,484 |
-| 2023-11-03 | 3.99 | - | 4,817 | 27,491 |
+| 2023-11-03 | 3.99 | - | 4,817 | 27,492 |

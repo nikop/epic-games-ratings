@@ -12,7 +12,7 @@
 | Unholy lands | 19.00% | ~103 |
 | Unveiling the Magnitude of Sin | 12.00% | ~65 |
 | The court | 9.00% | ~49 |
-| Holy Nails | 7.00% | ~38 |
+| Holy Nails | 8.00% | ~43 |
 | The crucifixion | 6.00% | ~33 |
 | Flagellation | 6.00% | ~33 |
 | The choice | 4.00% | ~22 |

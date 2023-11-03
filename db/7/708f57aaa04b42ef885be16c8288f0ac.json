@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3970,
+  "EOS_Progressed": 3974,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1359,
+  "EOS_NewPlayers": 1350,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1923,6 +1923,11 @@
       "Time": "2023-11-03T22:23:06.8478218+00:00",
       "NumProgressed": 3970,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T23:08:35.1737813+00:00",
+      "NumProgressed": 3974,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1943,7 +1948,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "BeLikeWater",
@@ -2007,7 +2012,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2015,7 +2020,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "GarbageMan",
@@ -2087,7 +2092,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "NotLikeTheOthers",
@@ -2135,7 +2140,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ThisIsDharma",
@@ -2159,7 +2164,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -2206,7 +2211,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3970,
+      "Progressed": 3974,
       "Completed": 3
     }
   ],
@@ -2214,8 +2219,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:23:06.8478212+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:08:35.1737806+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:03:25.7534284+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:23:06.847853+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:57:25.2570976+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:08:35.1738169+00:00"
 }

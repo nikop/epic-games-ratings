@@ -21,6 +21,7 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 0.30% | ~19 |
 | Aguas Claras Conquistador | 0.30% | ~17 |
 | School's Out for Summer | 0.20% | ~13 |
+| I'm Hooked! | 0.20% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~13 |
 | All Good Kings Must Come to an End | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
@@ -29,7 +30,6 @@ Number of Ratings: 281  (23.09.2022)
 | The Beetles | 0.10% | ~6 |
 | Lake Me up Before You Go Go | 0.10% | ~6 |
 | Marathon | 0.10% | ~6 |
-| I'm Hooked! | 0.10% | ~6 |
 | Diamond in the Rough | 0.10% | ~6 |
 | No Fin left to give | 0.10% | ~6 |
 | Taylor Made | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,285 (Ranked 177)  
+Progressed: 6,286 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-10-31 | 6,177 | 0 |
 | 2023-11-01 | 6,212 | 0 |
 | 2023-11-02 | 6,244 | 0 |
-| 2023-11-03 | 6,285 | 0 |
+| 2023-11-03 | 6,286 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 188 (Ranked 402)  

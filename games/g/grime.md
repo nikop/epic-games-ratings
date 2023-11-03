@@ -8,20 +8,20 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,254 |
 | Imprint | 4.00% | ~6,254 |
-| The Hunt | 3.00% | ~4,690 |
-| Ravenous | 3.00% | ~4,690 |
+| The Hunt | 3.00% | ~4,691 |
+| Ravenous | 3.00% | ~4,691 |
 | Weeper | 2.00% | ~3,127 |
-| Harmless | 1.00% | ~1,563 |
-| Feast | 1.00% | ~1,563 |
-| Silenced Whispers | 1.00% | ~1,563 |
-| Devourer | 1.00% | ~1,563 |
-| Yank | 1.00% | ~1,563 |
-| Sharpened Vessel | 1.00% | ~1,563 |
+| Harmless | 1.00% | ~1,564 |
+| Feast | 1.00% | ~1,564 |
+| Silenced Whispers | 1.00% | ~1,564 |
+| Devourer | 1.00% | ~1,564 |
+| Yank | 1.00% | ~1,564 |
+| Sharpened Vessel | 1.00% | ~1,564 |
 | Scion | 0.90% | ~1,403 |
 | Jawcrab | 0.90% | ~1,407 |
 | Jawstag | 0.90% | ~1,407 |
 | Shapely | 0.80% | ~1,251 |
-| Glare | 0.80% | ~1,247 |
+| Glare | 0.80% | ~1,248 |
 | Watcher | 0.80% | ~1,251 |
 | Predator | 0.70% | ~1,094 |
 | Assimilation | 0.60% | ~938 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,349 (Ranked 75)  
+Progressed: 156,356 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
-| 2023-11-03 | 156,349 | 1 |
+| 2023-11-03 | 156,356 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 343 (Ranked 349)  

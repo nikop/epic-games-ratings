@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rickety Rubble | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,579 (Ranked 62)  
+Progressed: 233,584 (Ranked 62)  
 Completed: 2,426 (1.04%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,10 +736,10 @@ Completed: 2,426 (1.04%) (Ranked 153)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,579 | 2,426 |
+| 2023-11-03 | 233,584 | 2,426 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
-Sum: 32,319 (Ranked 41)  
+Sum: 32,323 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -747,7 +747,7 @@ Diff (max vs sum): 28
 | This game has Diverse Characters | 5,464 |
 | This game has Quickly Understood Controls | 4,804 |
 | This game is Relaxing | 4,695 |
-| This game has Amazing Characters | 4,192 |
+| This game has Amazing Characters | 4,196 |
 | This game is Highly Recommended | 4,186 |
 | This game has Playful Visuals | 3,504 |
 ## Ratings History
@@ -1034,4 +1034,4 @@ Diff (max vs sum): 28
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
 | 2023-11-02 | 4.06 | - | 5,470 | 32,315 |
-| 2023-11-03 | 4.06 | - | 5,474 | 32,319 |
+| 2023-11-03 | 4.06 | - | 5,474 | 32,323 |

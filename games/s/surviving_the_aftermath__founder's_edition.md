@@ -1,30 +1,30 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 619)  
+Rating: 4.48 (Ranked 618)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,348 |
-| Leader | 61.00% | ~6,140 |
-| Explorer | 53.00% | ~5,335 |
-| Healer | 52.00% | ~5,234 |
+| First Step | 73.00% | ~7,349 |
+| Leader | 61.00% | ~6,141 |
+| Explorer | 53.00% | ~5,336 |
+| Healer | 52.00% | ~5,235 |
 | Aspiring Inventor | 44.00% | ~4,429 |
 | Adventurer | 42.00% | ~4,228 |
 | Famous Healer | 38.00% | ~3,825 |
 | Local Leader | 35.00% | ~3,523 |
-| Famous Explorer | 34.00% | ~3,422 |
-| New Opportunities | 34.00% | ~3,422 |
+| Famous Explorer | 34.00% | ~3,423 |
+| New Opportunities | 34.00% | ~3,423 |
 | Energized | 33.00% | ~3,322 |
 | The Long Haul | 33.00% | ~3,322 |
 | Survivor | 32.00% | ~3,221 |
-| The Great Healer | 31.00% | ~3,120 |
+| The Great Healer | 31.00% | ~3,121 |
 | Catastrofan | 29.00% | ~2,919 |
-| Legendary Explorer | 28.00% | ~2,818 |
-| Cleaner | 28.00% | ~2,818 |
+| Legendary Explorer | 28.00% | ~2,819 |
+| Cleaner | 28.00% | ~2,819 |
 | Finders, Keepers | 26.00% | ~2,617 |
-| Top Notch | 25.00% | ~2,516 |
+| Top Notch | 25.00% | ~2,517 |
 | Great Leader | 23.00% | ~2,315 |
 | Ice Lakes | 23.00% | ~2,315 |
 | Mentor | 23.00% | ~2,315 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,066 (Ranked 156)  
+Progressed: 10,067 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,11 +263,11 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-10-31 | 9,998 | 0 |
 | 2023-11-01 | 10,020 | 0 |
 | 2023-11-02 | 10,047 | 0 |
-| 2023-11-03 | 10,066 | 0 |
+| 2023-11-03 | 10,067 | 0 |
 ## Awards
-Max (Extremely Fun): 103  (Ranked 352)  
+Max (Extremely Fun): 103  (Ranked 353)  
 Sum: 725 (Ranked 288)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |

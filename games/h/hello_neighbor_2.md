@@ -1,13 +1,13 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.48 (Ranked 619)  
+Rating: 4.48 (Ranked 618)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Raven Brooks | 78.00% | ~2,466 |
+| Shovel Night | 38.00% | ~1,201 |
 | Case Closed | 37.00% | ~1,170 |
-| Shovel Night | 37.00% | ~1,170 |
 | Easy As Pie | 35.00% | ~1,106 |
 | Family Lost | 33.00% | ~1,043 |
 | Treasure Hunt | 31.00% | ~980 |

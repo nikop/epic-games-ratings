@@ -20,10 +20,10 @@ Number of Ratings: 75  (23.09.2022)
 | Extra Life: Wish Granted | 4.00% | ~222 |
 | High Five! | 4.00% | ~222 |
 | Modular Progress | 4.00% | ~222 |
-| Campaign: Lesson Learned | 3.00% | ~166 |
-| Level: Bet On Bots | 3.00% | ~166 |
-| Modular Performance | 3.00% | ~166 |
-| Salesperson | 3.00% | ~166 |
+| Campaign: Lesson Learned | 3.00% | ~167 |
+| Level: Bet On Bots | 3.00% | ~167 |
+| Modular Performance | 3.00% | ~167 |
+| Salesperson | 3.00% | ~167 |
 | Level: Merry-Go-Around | 2.00% | ~111 |
 | Charlies's Circuits: Artist | 2.00% | ~111 |
 | Modular Peak | 2.00% | ~111 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,550 (Ranked 179)  
+Progressed: 5,551 (Ranked 179)  
 Completed: 1 (0.02%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 1 (0.02%) (Ranked 312)
 | 2023-10-31 | 5,541 | 1 |
 | 2023-11-01 | 5,545 | 1 |
 | 2023-11-02 | 5,548 | 1 |
-| 2023-11-03 | 5,550 | 1 |
+| 2023-11-03 | 5,551 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

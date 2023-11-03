@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1155,7 +1155,7 @@
   ],
   "EOS_Progressed": 3052,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5824,9 +5824,9 @@
       "ID": "ACH_MANY-PLYS-LATER",
       "SetID": "72olkc5",
       "Name": "Many plys later...",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_NAHELL",
@@ -6024,8 +6024,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-03T21:01:16.2604961+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:17:43.8460011+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:03:16.6620203+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.1163993+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:16:53.2150899+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:17:43.8460465+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:02:29.7312578+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:03:16.66208+00:00"
 }

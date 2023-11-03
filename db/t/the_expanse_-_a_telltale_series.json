@@ -211,7 +211,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14606,
+  "EOS_Progressed": 14608,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 4,
@@ -10316,6 +10316,11 @@
       "Time": "2023-11-03T22:21:08.0008815+00:00",
       "NumProgressed": 14606,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-03T23:05:19.6785901+00:00",
+      "NumProgressed": 14608,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10430,9 +10435,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 292
     },
     {
       "ID": "22",
@@ -10582,17 +10587,17 @@
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "35",
@@ -10607,22 +10612,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14606,
+      "Progressed": 14608,
       "Completed": 31
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 560,
-      "Completed": 310
+      "Progressed": 562,
+      "Completed": 312
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:21:08.0008812+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:05:19.6785892+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:15:14.0368985+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:21:08.0009491+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:58:53.43232+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:05:19.6786859+00:00"
 }

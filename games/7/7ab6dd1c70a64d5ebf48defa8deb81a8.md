@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Break Out | 43.00% | ~41 |
 | Trinity | 21.00% | ~20 |
-| Find Allies | 16.00% | ~15 |
+| Find Allies | 17.00% | ~16 |
 | A Taste of Wrath | 16.00% | ~15 |
 | I Found It | 16.00% | ~15 |
 | The Collector | 16.00% | ~15 |
+| Shatter Them All | 15.00% | ~14 |
+| Fashion Victim | 15.00% | ~14 |
 | Powerful Allies | 14.00% | ~13 |
 | Adventurer | 14.00% | ~13 |
-| Shatter Them All | 14.00% | ~13 |
+| Geared Up | 14.00% | ~13 |
 | Scholar | 14.00% | ~13 |
-| Fashion Victim | 13.00% | ~12 |
-| Geared Up | 12.00% | ~11 |
 | Essence Blow | 11.00% | ~10 |
+| Airborne | 7.00% | ~7 |
 | Tributes of Caladrias | 7.00% | ~7 |
 | Stone Collection | 7.00% | ~7 |
 | Calm before the Storm | 5.00% | ~5 |
-| Airborne | 5.00% | ~5 |
 | Miner | 5.00% | ~5 |
 | To Battle | 4.00% | ~4 |
 | Godslayer | 4.00% | ~4 |
+| Alchemist | 4.00% | ~4 |
 | The Mentor | 3.00% | ~3 |
-| Alchemist | 3.00% | ~3 |
 | A Queen's Tale | 3.00% | ~3 |
 | Big Bazar | 2.00% | ~2 |
 | Clear Sight | 1.00% | ~1 |

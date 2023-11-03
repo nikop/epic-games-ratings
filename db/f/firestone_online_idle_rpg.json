@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2102,
+  "EOS_Progressed": 2103,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6501,6 +6501,11 @@
       "Time": "2023-11-03T20:05:37.8300904+00:00",
       "NumProgressed": 2102,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-03T23:05:29.5267881+00:00",
+      "NumProgressed": 2103,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6616,7 +6621,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "dragonmaster",
@@ -6686,9 +6691,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 400
     },
     {
       "ID": "fellowshippower",
@@ -6720,7 +6725,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "gearenchanting",
@@ -6784,7 +6789,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "jewelenchanting",
@@ -6848,7 +6853,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "missionsdedication",
@@ -6904,7 +6909,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "prestigiousx10",
@@ -6912,7 +6917,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "relicofthepast",
@@ -6968,7 +6973,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "thealchemist",
@@ -7000,7 +7005,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "thepowerofawakening",
@@ -7072,7 +7077,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "warmachinesarmy",
@@ -7111,7 +7116,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2102,
+      "Progressed": 2103,
       "Completed": 2
     }
   ],
@@ -7119,8 +7124,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:21:18.0177224+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:05:29.5267877+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:14:56.5214283+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:21:18.0177952+00:00"
+  "LastUpdate_Ratings": "2023-11-03T22:58:44.8846658+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:05:29.5269059+00:00"
 }

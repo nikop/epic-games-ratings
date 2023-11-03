@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -361,9 +361,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "earn_all_trophies",
@@ -577,9 +577,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "something_important",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-03T22:20:01.833045+00:00",
+  "LastChanged_Achievements": "2023-11-03T23:04:36.0247693+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:17:20.5353819+00:00",
-  "LastUpdate_Achievements": "2023-11-03T22:20:01.8331007+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:02:54.7325221+00:00",
+  "LastUpdate_Achievements": "2023-11-03T23:04:36.0248147+00:00"
 }

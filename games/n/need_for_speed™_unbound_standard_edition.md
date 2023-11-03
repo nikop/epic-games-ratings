@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 93.00% | ~7,997 |
-| Cool Whip | 90.00% | ~7,739 |
-| Fashion Killa | 88.00% | ~7,567 |
-| Drop the Beat | 86.00% | ~7,395 |
-| Hey Lakeshore | 85.00% | ~7,309 |
-| 100 Miles and Runnin' | 84.00% | ~7,223 |
-| Public Enemy | 82.00% | ~7,051 |
-| Rebel Without a Pause | 68.00% | ~5,847 |
-| Hey Speedie! | 68.00% | ~5,847 |
-| Most Wanted | 64.00% | ~5,503 |
-| New Crew | 63.00% | ~5,417 |
-| Serious Guap | 54.00% | ~4,643 |
-| Escape Artist | 54.00% | ~4,643 |
-| Style it Out | 53.00% | ~4,557 |
-| Untouchable | 53.00% | ~4,557 |
-| Oh, It's On | 51.00% | ~4,385 |
+| Throwing up Tags | 93.00% | ~7,999 |
+| Cool Whip | 90.00% | ~7,741 |
+| Fashion Killa | 88.00% | ~7,569 |
+| Drop the Beat | 86.00% | ~7,397 |
+| Hey Lakeshore | 85.00% | ~7,311 |
+| 100 Miles and Runnin' | 84.00% | ~7,225 |
+| Public Enemy | 82.00% | ~7,053 |
+| Rebel Without a Pause | 68.00% | ~5,849 |
+| Hey Speedie! | 68.00% | ~5,849 |
+| Most Wanted | 64.00% | ~5,505 |
+| New Crew | 63.00% | ~5,419 |
+| Serious Guap | 54.00% | ~4,645 |
+| Escape Artist | 54.00% | ~4,645 |
+| Style it Out | 53.00% | ~4,559 |
+| Untouchable | 53.00% | ~4,559 |
+| Oh, It's On | 51.00% | ~4,387 |
 | Rydell's Rydes | 49.00% | ~4,214 |
 | Cash Money Millionaire | 46.00% | ~3,956 |
 | Lake Better Watch Out | 40.00% | ~3,440 |
@@ -29,7 +29,7 @@
 | The Collector | 30.00% | ~2,580 |
 | Kick it | 30.00% | ~2,580 |
 | In the Flow | 29.00% | ~2,494 |
-| Top Billin' | 23.00% | ~1,978 |
+| Top Billin' | 22.00% | ~1,892 |
 | Teacher's Pet | 21.00% | ~1,806 |
 | Full House | 19.00% | ~1,634 |
 | Superstar | 19.00% | ~1,634 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 2.00% | ~172 |
 | Cleaning Up | 2.00% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,599 (Ranked 159)  
+Progressed: 8,601 (Ranked 159)  
 Completed: 45 (0.52%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,4 +95,4 @@ Completed: 45 (0.52%) (Ranked 193)
 | 2023-10-31 | 8,228 | 44 |
 | 2023-11-01 | 8,346 | 45 |
 | 2023-11-02 | 8,453 | 45 |
-| 2023-11-03 | 8,599 | 45 |
+| 2023-11-03 | 8,601 | 45 |
