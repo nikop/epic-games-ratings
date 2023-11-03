@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 13.00% | ~4,710,720 |
-| Snowflake | 13.00% | ~4,710,720 |
-| Fall Throttle | 12.00% | ~4,348,357 |
-| Big Bully | 10.00% | ~3,623,631 |
-| Face First | 9.00% | ~3,261,268 |
-| Style Points | 9.00% | ~3,261,268 |
-| One to Watch | 8.00% | ~2,898,905 |
-| Troublemaker | 8.00% | ~2,898,905 |
-| Flawless Victory | 7.00% | ~2,536,541 |
-| Fall Bae | 7.00% | ~2,536,541 |
-| Ahead of the Pack | 7.00% | ~2,536,541 |
-| Stumble Chums | 7.00% | ~2,536,541 |
-| Victory! | 6.00% | ~2,174,178 |
-| Bargain Bucket | 5.00% | ~1,811,815 |
-| Household Name | 4.00% | ~1,449,452 |
-| One giant leap | 4.00% | ~1,449,452 |
-| Catwalk Model | 3.00% | ~1,087,089 |
-| Head Turner | 3.00% | ~1,087,089 |
-| Quite Dashing | 3.00% | ~1,087,089 |
-| Squad Goals | 3.00% | ~1,087,089 |
-| Big Air | 2.00% | ~724,726 |
-| Down to the Wire | 2.00% | ~724,726 |
-| Star of the Show | 2.00% | ~724,726 |
-| Shopping Spree | 2.00% | ~724,726 |
-| Top Tier | 2.00% | ~724,726 |
-| Low Baller | 1.00% | ~362,363 |
-| Mad Trendy | 1.00% | ~362,363 |
-| Veteran Status | 0.90% | ~326,127 |
-| Show Off | 0.90% | ~326,127 |
-| Track Star | 0.70% | ~253,654 |
-| Golden Guy | 0.70% | ~253,654 |
-| Big Tease | 0.40% | ~144,945 |
-| Fall Guy Fashionista | 0.40% | ~144,945 |
-| Infallible | 0.30% | ~108,709 |
+| One small trip | 13.00% | ~4,710,813 |
+| Snowflake | 13.00% | ~4,710,813 |
+| Fall Throttle | 12.00% | ~4,348,443 |
+| Big Bully | 10.00% | ~3,623,703 |
+| Face First | 9.00% | ~3,261,332 |
+| Style Points | 9.00% | ~3,261,332 |
+| One to Watch | 8.00% | ~2,898,962 |
+| Troublemaker | 8.00% | ~2,898,962 |
+| Flawless Victory | 7.00% | ~2,536,592 |
+| Fall Bae | 7.00% | ~2,536,592 |
+| Ahead of the Pack | 7.00% | ~2,536,592 |
+| Stumble Chums | 7.00% | ~2,536,592 |
+| Victory! | 6.00% | ~2,174,222 |
+| Bargain Bucket | 5.00% | ~1,811,851 |
+| Household Name | 4.00% | ~1,449,481 |
+| One giant leap | 4.00% | ~1,449,481 |
+| Catwalk Model | 3.00% | ~1,087,111 |
+| Head Turner | 3.00% | ~1,087,111 |
+| Quite Dashing | 3.00% | ~1,087,111 |
+| Squad Goals | 3.00% | ~1,087,111 |
+| Big Air | 2.00% | ~724,741 |
+| Down to the Wire | 2.00% | ~724,741 |
+| Star of the Show | 2.00% | ~724,741 |
+| Shopping Spree | 2.00% | ~724,741 |
+| Top Tier | 2.00% | ~724,741 |
+| Low Baller | 1.00% | ~362,370 |
+| Mad Trendy | 1.00% | ~362,370 |
+| Veteran Status | 0.90% | ~326,133 |
+| Show Off | 0.90% | ~326,133 |
+| Track Star | 0.70% | ~253,659 |
+| Golden Guy | 0.70% | ~253,659 |
+| Big Tease | 0.40% | ~144,948 |
+| Fall Guy Fashionista | 0.40% | ~144,948 |
+| Infallible | 0.30% | ~108,711 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,236,307 (Ranked 1)  
-Completed: 45,410 (0.13%) (Ranked 254)  
+Progressed: 36,237,026 (Ranked 1)  
+Completed: 45,413 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,9 +238,10 @@ Completed: 45,410 (0.13%) (Ranked 254)
 | 2023-10-31 | 36,206,710 | 45,276 |
 | 2023-11-01 | 36,221,145 | 45,336 |
 | 2023-11-02 | 36,236,307 | 45,410 |
+| 2023-11-03 | 36,237,026 | 45,413 |
 ## Awards
 Max (Great for Beginners): 150,973  (Ranked 7)  
-Sum: 1,380,545 (Ranked 5)  
+Sum: 1,380,560 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -252,7 +253,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 129,541 |
 | This game is Extremely Fun | 122,284 |
 | This game is Highly Recommended | 116,309 |
-| This game has Amazing Characters | 112,984 |
+| This game has Amazing Characters | 112,999 |
 | This game has Amazing Storytelling | 107,430 |
 | This game has Playful Visuals | 103,780 |
 ## Ratings History
@@ -539,4 +540,4 @@ Diff (max vs sum): 2
 | 2023-10-30 | 4.51 | - | 150,880 | 1,379,865 |
 | 2023-10-31 | 4.51 | - | 150,924 | 1,380,066 |
 | 2023-11-01 | 4.51 | - | 150,973 | 1,380,287 |
-| 2023-11-02 | 4.51 | - | 150,973 | 1,380,545 |
+| 2023-11-02 | 4.51 | - | 150,973 | 1,380,560 |

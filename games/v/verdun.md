@@ -1,18 +1,18 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 532)  
+Rating: 4.53 (Ranked 531)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,649 |
+| Setting an example | 78.00% | ~48,650 |
 | Worth it | 63.00% | ~39,294 |
-| Eagle Eye | 55.00% | ~34,304 |
-| Corpseman I | 40.00% | ~24,948 |
-| Blast fishing | 37.00% | ~23,077 |
+| Eagle Eye | 55.00% | ~34,305 |
+| Corpseman I | 40.00% | ~24,949 |
+| Blast fishing | 37.00% | ~23,078 |
 | Not alone | 32.00% | ~19,959 |
-| Headhunter I | 26.00% | ~16,216 |
+| Headhunter I | 26.00% | ~16,217 |
 | Manual Labour I | 25.00% | ~15,593 |
 | Developers, Developers, Developers | 24.00% | ~14,969 |
 | Basic Training | 24.00% | ~14,969 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,371 (Ranked 104)  
-Completed: 4 (0.01%) (Ranked 317)  
+Progressed: 62,372 (Ranked 104)  
+Completed: 4 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,6 +263,7 @@ Completed: 4 (0.01%) (Ranked 317)
 | 2023-10-31 | 62,223 | 4 |
 | 2023-11-01 | 62,294 | 4 |
 | 2023-11-02 | 62,371 | 4 |
+| 2023-11-03 | 62,372 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 348)  
 Sum: 902 (Ranked 267)  

@@ -8,16 +8,16 @@ Number of Ratings: 706  (23.09.2022)
 | ---- | ---------- | ----- |
 | Get A Room | 75.00% | ~4,868 |
 | Having A Field Day | 75.00% | ~4,868 |
-| Reap What You Sow | 72.00% | ~4,673 |
-| The First Day | 69.00% | ~4,478 |
-| Green Thumb | 67.00% | ~4,348 |
-| Novice Researcher | 67.00% | ~4,348 |
-| Home Cooked Meal | 60.00% | ~3,894 |
-| Onward | 57.00% | ~3,699 |
+| Reap What You Sow | 72.00% | ~4,674 |
+| The First Day | 69.00% | ~4,479 |
+| Green Thumb | 67.00% | ~4,349 |
+| Novice Researcher | 67.00% | ~4,349 |
+| Home Cooked Meal | 60.00% | ~3,895 |
+| Onward | 57.00% | ~3,700 |
 | The First Week | 55.00% | ~3,570 |
 | Beam Me Up | 52.00% | ~3,375 |
 | Studious Researcher | 52.00% | ~3,375 |
-| Putting Food on the Table | 50.00% | ~3,245 |
+| Putting Food on the Table | 50.00% | ~3,246 |
 | Adept Researcher | 44.00% | ~2,856 |
 | Retribution | 42.00% | ~2,726 |
 | ...And Don’t Come Back! | 42.00% | ~2,726 |
@@ -34,11 +34,11 @@ Number of Ratings: 706  (23.09.2022)
 | Nothing Wasted | 13.00% | ~844 |
 | Don't Cry Wolf | 13.00% | ~844 |
 | Deerly Departed | 8.00% | ~519 |
-| Where Wolf? | 5.00% | ~324 |
+| Where Wolf? | 5.00% | ~325 |
 | Food Chain | 2.00% | ~130 |
 | Wabbit Season | 0.50% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,490 (Ranked 174)  
+Progressed: 6,491 (Ranked 174)  
 Completed: 14 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,9 +214,10 @@ Completed: 14 (0.22%) (Ranked 234)
 | 2023-10-31 | 6,431 | 14 |
 | 2023-11-01 | 6,454 | 14 |
 | 2023-11-02 | 6,490 | 14 |
+| 2023-11-03 | 6,491 | 14 |
 ## Awards
 Max (Great for Beginners): 123  (Ranked 332)  
-Sum: 1,001 (Ranked 255)  
+Sum: 1,002 (Ranked 255)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -229,7 +230,7 @@ Diff (max vs sum): 77
 | This game has Amazing Characters | 92 |
 | This game has Amazing Storytelling | 87 |
 | This game has Unique Visuals | 83 |
-| This game has a Creative Community | 68 |
+| This game has a Creative Community | 69 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
 ## Ratings History
@@ -379,3 +380,4 @@ Diff (max vs sum): 77
 | 2023-10-28 | 4.60 | - | 123 | 999 |
 | 2023-10-31 | 4.60 | - | 123 | 1,000 |
 | 2023-11-02 | 4.60 | - | 123 | 1,001 |
+| 2023-11-03 | 4.60 | - | 123 | 1,002 |

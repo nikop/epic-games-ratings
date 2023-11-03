@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 85.00% | ~56 |
-| Killing Spree | 70.00% | ~46 |
-| Merchant Prince I | 55.00% | ~36 |
-| 5Gb HDD | 53.00% | ~35 |
-| Dominating | 35.00% | ~23 |
+| First Blood | 85.00% | ~57 |
+| Killing Spree | 69.00% | ~46 |
+| Merchant Prince I | 54.00% | ~36 |
+| 5Gb HDD | 52.00% | ~35 |
+| Dominating | 34.00% | ~23 |
 | Fighting Fit I | 33.00% | ~22 |
-| Rambo I | 29.00% | ~19 |
-| 10Gb HDD | 29.00% | ~19 |
+| Rambo I | 28.00% | ~19 |
+| 10Gb HDD | 28.00% | ~19 |
 | The Vette | 27.00% | ~18 |
-| Mega Kill | 23.00% | ~15 |
+| Mega Kill | 22.00% | ~15 |
 | Stoic | 18.00% | ~12 |
 | Almost There I | 18.00% | ~12 |
-| Omicron Alpha | 17.00% | ~11 |
+| Omicron Alpha | 16.00% | ~11 |
 | Galactic Cadet | 15.00% | ~10 |
 | Bronze Prince of Ball-air | 12.00% | ~8 |
 | Pacifist | 12.00% | ~8 |
 | 25Gb HDD | 12.00% | ~8 |
 | Collateral Damage I | 12.00% | ~8 |
-| Rambo II | 11.00% | ~7 |
-| Defrosted | 11.00% | ~7 |
-| Unstoppable | 11.00% | ~7 |
+| Rambo II | 10.00% | ~7 |
+| Defrosted | 10.00% | ~7 |
+| Unstoppable | 10.00% | ~7 |
 | Sectoral Ensign | 9.00% | ~6 |
 | Golden Prince of Ball-air | 9.00% | ~6 |
 | Space Surfer | 9.00% | ~6 |
 | Silver Prince of Ball-air | 9.00% | ~6 |
 | Merchant Prince II | 9.00% | ~6 |
-| Hitchhiker | 8.00% | ~5 |
-| Hoarder | 8.00% | ~5 |
-| Usurper I | 8.00% | ~5 |
-| Flower Power | 8.00% | ~5 |
-| Galactic Lieutenant | 8.00% | ~5 |
-| Sectoral Captain | 8.00% | ~5 |
-| Collateral Damage II | 8.00% | ~5 |
-| Fighting Fit II | 8.00% | ~5 |
+| Hitchhiker | 7.00% | ~5 |
+| Hoarder | 7.00% | ~5 |
+| Usurper I | 7.00% | ~5 |
+| Flower Power | 7.00% | ~5 |
+| Galactic Lieutenant | 7.00% | ~5 |
+| Sectoral Captain | 7.00% | ~5 |
+| Collateral Damage II | 7.00% | ~5 |
+| Fighting Fit II | 7.00% | ~5 |
 | Bronze Foundation | 6.00% | ~4 |
 | System Ensign | 6.00% | ~4 |
 | Bronze Pest Control | 6.00% | ~4 |
@@ -55,17 +55,17 @@
 | 50Gb HDD | 6.00% | ~4 |
 | Silver Foundation | 6.00% | ~4 |
 | Silver Pest Control | 6.00% | ~4 |
-| Bronze BBQ | 5.00% | ~3 |
-| Pilgrim | 5.00% | ~3 |
-| Golden Foundation | 5.00% | ~3 |
-| Golden Pest Control | 5.00% | ~3 |
-| 80Gb HDD | 5.00% | ~3 |
-| Galactic Captain | 5.00% | ~3 |
-| System Captain | 5.00% | ~3 |
-| Mysterious Skin | 5.00% | ~3 |
-| Beetle | 5.00% | ~3 |
-| Anger Management | 5.00% | ~3 |
-| Almost There II | 5.00% | ~3 |
+| Bronze BBQ | 4.00% | ~3 |
+| Pilgrim | 4.00% | ~3 |
+| Golden Foundation | 4.00% | ~3 |
+| Golden Pest Control | 4.00% | ~3 |
+| 80Gb HDD | 4.00% | ~3 |
+| Galactic Captain | 4.00% | ~3 |
+| System Captain | 4.00% | ~3 |
+| Mysterious Skin | 4.00% | ~3 |
+| Beetle | 4.00% | ~3 |
+| Anger Management | 4.00% | ~3 |
+| Almost There II | 4.00% | ~3 |
 | Revenge | 3.00% | ~2 |
 | Bronze Tovarish | 3.00% | ~2 |
 | Archer's Bronze Fate | 3.00% | ~2 |
@@ -88,30 +88,30 @@
 | Silver BBQ | 3.00% | ~2 |
 | Collateral Damage III | 3.00% | ~2 |
 | Merchant Prince III | 3.00% | ~2 |
-| Magic Bronze mirror; on the wall | 2.00% | ~1 |
-| Rambo VI | 2.00% | ~1 |
-| Space Odysseus | 2.00% | ~1 |
-| Freedom Fighter | 2.00% | ~1 |
-| Goodbye Terror | 2.00% | ~1 |
-| Namaste | 2.00% | ~1 |
-| Burrow Deep | 2.00% | ~1 |
-| Omicron Gamma | 2.00% | ~1 |
-| Unbalanced | 2.00% | ~1 |
-| Golden Tovarish | 2.00% | ~1 |
-| Archer's Golden Fate | 2.00% | ~1 |
-| Magic Golden mirror; on the wall | 2.00% | ~1 |
-| Godlike | 2.00% | ~1 |
-| Usurper IV | 2.00% | ~1 |
-| Rampage | 2.00% | ~1 |
-| Usurper V | 2.00% | ~1 |
-| Five-O | 2.00% | ~1 |
-| Galactic Colonel | 2.00% | ~1 |
-| Galactic Major | 2.00% | ~1 |
-| Magic Silver mirror; on the wall | 2.00% | ~1 |
-| Galactic Captain | 2.00% | ~1 |
-| Consumist | 2.00% | ~1 |
-| Collateral Damage IV | 2.00% | ~1 |
-| Fighting Fit IV | 2.00% | ~1 |
+| Magic Bronze mirror; on the wall | 1.00% | ~1 |
+| Rambo VI | 1.00% | ~1 |
+| Space Odysseus | 1.00% | ~1 |
+| Freedom Fighter | 1.00% | ~1 |
+| Goodbye Terror | 1.00% | ~1 |
+| Namaste | 1.00% | ~1 |
+| Burrow Deep | 1.00% | ~1 |
+| Omicron Gamma | 1.00% | ~1 |
+| Unbalanced | 1.00% | ~1 |
+| Golden Tovarish | 1.00% | ~1 |
+| Archer's Golden Fate | 1.00% | ~1 |
+| Magic Golden mirror; on the wall | 1.00% | ~1 |
+| Godlike | 1.00% | ~1 |
+| Usurper IV | 1.00% | ~1 |
+| Rampage | 1.00% | ~1 |
+| Usurper V | 1.00% | ~1 |
+| Five-O | 1.00% | ~1 |
+| Galactic Colonel | 1.00% | ~1 |
+| Galactic Major | 1.00% | ~1 |
+| Magic Silver mirror; on the wall | 1.00% | ~1 |
+| Galactic Captain | 1.00% | ~1 |
+| Consumist | 1.00% | ~1 |
+| Collateral Damage IV | 1.00% | ~1 |
+| Fighting Fit IV | 1.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 435)  
+Progressed: 67 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,3 +183,4 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-09-26 | 64 | 0 |
 | 2023-10-20 | 65 | 0 |
 | 2023-11-01 | 66 | 0 |
+| 2023-11-03 | 67 | 0 |

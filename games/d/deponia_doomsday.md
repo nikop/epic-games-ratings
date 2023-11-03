@@ -20,7 +20,7 @@ Rating: 4.55 (Ranked 499)
 | Sole Music | 35.00% | ~157 |
 | No man left behind! | 30.00% | ~134 |
 | Portals come in packs | 30.00% | ~134 |
-| Photo Friend | 26.00% | ~116 |
+| Photo Friend | 27.00% | ~121 |
 | Brainfreeze | 21.00% | ~94 |
 | And everything comes full circle. | 20.00% | ~90 |
 | Masseltov | 19.00% | ~85 |

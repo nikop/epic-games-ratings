@@ -1912,9 +1912,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 211473,
+  "EOS_Progressed": 211479,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1346,
+  "EOS_NewPlayers": 1348,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -24307,6 +24307,11 @@
       "Time": "2023-11-02T23:04:05.9886539+00:00",
       "NumProgressed": 211473,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-11-03T00:04:17.7106222+00:00",
+      "NumProgressed": 211479,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 44,
@@ -24318,7 +24323,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21147
+      "UsersEstimate": 21148
     },
     {
       "ID": "AtheistOx",
@@ -24326,7 +24331,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "ChickenDinner",
@@ -24342,7 +24347,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12689
     },
     {
       "ID": "CompleteMastery",
@@ -24374,7 +24379,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12689
     },
     {
       "ID": "GearUp",
@@ -24406,7 +24411,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "HighFiveTheMoon",
@@ -24422,7 +24427,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "ItsRainingMen",
@@ -24438,7 +24443,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "Mercyful",
@@ -24470,7 +24475,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12689
     },
     {
       "ID": "NoGimmicks",
@@ -24478,7 +24483,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "Noboru",
@@ -24502,7 +24507,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "PraiseTheShogun",
@@ -24606,7 +24611,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21147
+      "UsersEstimate": 21148
     },
     {
       "ID": "TimeParadox",
@@ -24638,7 +24643,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12688
+      "UsersEstimate": 12689
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -24654,7 +24659,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4230
     },
     {
       "ID": "Yabu",
@@ -24662,22 +24667,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 211473,
+      "Progressed": 211479,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-02T21:59:42.8209786+00:00",
-  "LastChanged_Achievements": "2023-11-02T23:04:05.9886534+00:00",
+  "LastChanged_Achievements": "2023-11-03T00:04:17.710622+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-11-02T22:59:03.4258534+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:04:05.9888298+00:00"
+  "LastUpdate_Ratings": "2023-11-02T23:59:13.729665+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:04:17.710745+00:00"
 }

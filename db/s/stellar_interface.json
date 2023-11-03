@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -344,6 +344,11 @@
       "Time": "2023-11-01T14:03:51.4080787+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T00:04:08.3594036+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -409,7 +414,7 @@
       "ID": "BronzeMirrorBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Magic Bronze mirror; on the wall",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -449,7 +454,7 @@
       "ID": "BronzeSpaceWinnerBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze BBQ",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -473,7 +478,7 @@
       "ID": "Cleared1000LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo VI",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -489,7 +494,7 @@
       "ID": "Cleared10LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo I",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -529,7 +534,7 @@
       "ID": "Cleared50LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo II",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -537,7 +542,7 @@
       "ID": "ClearedAllLevels10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Odysseus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -545,7 +550,7 @@
       "ID": "ClearedAllLevels1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Hitchhiker",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -561,7 +566,7 @@
       "ID": "ClearedAllLevels2TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Pilgrim",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -609,7 +614,7 @@
       "ID": "CompleteFullRunWithEagleAchievement",
       "SetID": "a8djcgh",
       "Name": "Freedom Fighter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -617,7 +622,7 @@
       "ID": "CompleteFullRunWithErebusAchievement",
       "SetID": "a8djcgh",
       "Name": "Goodbye Terror",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -641,7 +646,7 @@
       "ID": "CompleteFullRunWithLotusAchievement",
       "SetID": "a8djcgh",
       "Name": "Namaste",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -649,7 +654,7 @@
       "ID": "CompleteFullRunWithMoleAchievement",
       "SetID": "a8djcgh",
       "Name": "Burrow Deep",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -689,7 +694,7 @@
       "ID": "ConsumableUsed10TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Alpha",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -697,7 +702,7 @@
       "ID": "ConsumableUsed500TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Omicron Gamma",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -713,7 +718,7 @@
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -745,7 +750,7 @@
       "ID": "EnlargeProjShrinkShipAchievement",
       "SetID": "a8djcgh",
       "Name": "Unbalanced",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -753,7 +758,7 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -793,7 +798,7 @@
       "ID": "GoldBabushkaBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Tovarish",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -809,7 +814,7 @@
       "ID": "GoldGilgameshBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Archer\u0027s Golden Fate",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -817,7 +822,7 @@
       "ID": "GoldHoberMallowBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Foundation",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -833,7 +838,7 @@
       "ID": "GoldMirrorBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Magic Golden mirror; on the wall",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -881,7 +886,7 @@
       "ID": "GoldTheHiveBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Pest Control",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -921,7 +926,7 @@
       "ID": "Killed100000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Godlike",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -945,7 +950,7 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -953,7 +958,7 @@
       "ID": "Killed100BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper IV",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -961,7 +966,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -969,7 +974,7 @@
       "ID": "Killed10BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper I",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -979,7 +984,7 @@
       "Name": "First Blood",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -993,7 +998,7 @@
       "ID": "Killed50000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Rampage",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1001,7 +1006,7 @@
       "ID": "Killed5000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Unstoppable",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -1009,7 +1014,7 @@
       "ID": "Killed500BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper V",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1017,7 +1022,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -1033,7 +1038,7 @@
       "ID": "LilySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Flower Power",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1041,7 +1046,7 @@
       "ID": "MultipleProjectileAchievement",
       "SetID": "a8djcgh",
       "Name": "Five-O",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1057,7 +1062,7 @@
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -1081,7 +1086,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -1089,7 +1094,7 @@
       "ID": "PerksUnlocked80Achievement",
       "SetID": "a8djcgh",
       "Name": "80Gb HDD",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1097,7 +1102,7 @@
       "ID": "PlayedFor10HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Captain",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1105,7 +1110,7 @@
       "ID": "PlayedFor1DayAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Colonel",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1121,7 +1126,7 @@
       "ID": "PlayedFor20HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Major",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1129,7 +1134,7 @@
       "ID": "PlayedFor5HoursAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Lieutenant",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1193,7 +1198,7 @@
       "ID": "SilverMirrorBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Magic Silver mirror; on the wall",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1201,7 +1206,7 @@
       "ID": "SilverMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Captain",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1209,7 +1214,7 @@
       "ID": "SilverMissionsCompleted20Achievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Captain",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1217,7 +1222,7 @@
       "ID": "SilverMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Captain",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1249,7 +1254,7 @@
       "ID": "SkinPerksAchievement",
       "SetID": "a8djcgh",
       "Name": "Mysterious Skin",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1257,7 +1262,7 @@
       "ID": "StagSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Beetle",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1265,7 +1270,7 @@
       "ID": "StarFurySpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Anger Management",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1273,7 +1278,7 @@
       "ID": "UsedAllConsumablesAchievement",
       "SetID": "a8djcgh",
       "Name": "Consumist",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1289,7 +1294,7 @@
       "ID": "VisitLostLord100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage IV",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1297,7 +1302,7 @@
       "ID": "VisitLostLord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage II",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1337,7 +1342,7 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -1353,7 +1358,7 @@
       "ID": "VisitOverlord10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Almost There II",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1377,7 +1382,7 @@
       "ID": "VisitRegular1000TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit IV",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1385,7 +1390,7 @@
       "ID": "VisitRegular100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit II",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1410,14 +1415,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-11-02T23:03:56.06969+00:00",
+  "LastChanged_Achievements": "2023-11-03T00:04:08.359403+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.5982804+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:00:37.3470598+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:03:56.0698983+00:00"
+  "LastUpdate_Ratings": "2023-11-03T00:00:49.5735838+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:04:08.3595652+00:00"
 }

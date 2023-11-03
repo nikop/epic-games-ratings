@@ -6051,9 +6051,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 711055,
+  "EOS_Progressed": 711085,
   "EOS_Completed": 2305,
-  "EOS_NewPlayers": 6224,
+  "EOS_NewPlayers": 6233,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -28431,6 +28431,11 @@
       "Time": "2023-11-02T23:04:04.1627178+00:00",
       "NumProgressed": 711055,
       "NumCompleted": 2305
+    },
+    {
+      "Time": "2023-11-03T00:04:15.9011389+00:00",
+      "NumProgressed": 711085,
+      "NumCompleted": 2305
     }
   ],
   "TotalAchievements": 51,
@@ -28808,9 +28813,9 @@
       "ID": "ach_dark_magic",
       "SetID": "344c43k",
       "Name": "Whatever It Takes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_gardening_tools",
@@ -28849,22 +28854,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 711055,
+      "Progressed": 711085,
       "Completed": 2305
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 36597,
-      "Completed": 36358
+      "Progressed": 36627,
+      "Completed": 36359
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-02T23:00:04.4574881+00:00",
-  "LastChanged_Achievements": "2023-11-02T23:04:04.1627173+00:00",
+  "LastChanged_Achievements": "2023-11-03T00:04:15.9011385+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:00:04.4574889+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:04:04.1628891+00:00"
+  "LastUpdate_Ratings": "2023-11-03T00:00:13.3448676+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:04:15.9012615+00:00"
 }

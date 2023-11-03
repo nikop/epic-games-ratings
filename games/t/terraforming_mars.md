@@ -1,18 +1,18 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 520)  
+Rating: 4.53 (Ranked 531)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~30,046 |
-| Final touch | 36.00% | ~29,234 |
+| It's a steal! | 37.00% | ~30,047 |
+| Final touch | 36.00% | ~29,235 |
 | Prop-M Rover | 32.00% | ~25,986 |
-| Changing the Planet | 28.00% | ~22,737 |
-| Sojourner | 26.00% | ~21,113 |
-| Beagle 2 | 24.00% | ~19,489 |
-| New Home | 23.00% | ~18,677 |
+| Changing the Planet | 28.00% | ~22,738 |
+| Sojourner | 26.00% | ~21,114 |
+| Beagle 2 | 24.00% | ~19,490 |
+| New Home | 23.00% | ~18,678 |
 | Winner Winner Terraformer | 21.00% | ~17,053 |
 | Project Manager | 19.00% | ~15,429 |
 | Curiosity | 19.00% | ~15,429 |
@@ -28,16 +28,16 @@ Number of Ratings: 2,731  (23.09.2022)
 | Grand champion | 12.00% | ~9,745 |
 | Landlord | 11.00% | ~8,933 |
 | Most Achievements | 11.00% | ~8,933 |
-| Spirit | 10.00% | ~8,120 |
-| Ultimate success | 10.00% | ~8,120 |
-| Variety Expert | 9.00% | ~7,308 |
-| Frequent tester | 8.00% | ~6,496 |
-| Determined | 8.00% | ~6,496 |
+| Spirit | 10.00% | ~8,121 |
+| Ultimate success | 10.00% | ~8,121 |
+| Variety Expert | 9.00% | ~7,309 |
+| Frequent tester | 8.00% | ~6,497 |
+| Determined | 8.00% | ~6,497 |
 | Terraformer | 4.00% | ~3,248 |
 | Team Effort | 3.00% | ~2,436 |
 | Opportunity | 3.00% | ~2,436 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,205 (Ranked 93)  
+Progressed: 81,207 (Ranked 93)  
 Completed: 154 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 154 (0.19%) (Ranked 242)
 | 2023-10-31 | 80,969 | 151 |
 | 2023-11-01 | 81,084 | 152 |
 | 2023-11-02 | 81,205 | 154 |
+| 2023-11-03 | 81,207 | 154 |
 ## Awards
 Max (Relaxing): 520  (Ranked 203)  
 Sum: 3,222 (Ranked 169)  
@@ -452,3 +453,4 @@ Diff (max vs sum): 34
 | 2023-10-31 | 4.54 | - | 520 | 3,217 |
 | 2023-11-01 | 4.54 | - | 520 | 3,218 |
 | 2023-11-02 | 4.54 | - | 520 | 3,222 |
+| 2023-11-03 | 4.53 | - | 520 | 3,222 |

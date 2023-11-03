@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,114 |
-| Finding Your Footing | 26.00% | ~11,665 |
-| Nomad | 17.00% | ~7,627 |
-| Picking Up Speed | 16.00% | ~7,178 |
-| Welcome Maya | 15.00% | ~6,730 |
-| Scout | 11.00% | ~4,935 |
-| Sightseer | 11.00% | ~4,935 |
-| Amateur | 10.00% | ~4,486 |
-| Unlock Maya | 8.00% | ~3,589 |
-| Wanderer | 8.00% | ~3,589 |
+| Rookie | 27.00% | ~12,116 |
+| Finding Your Footing | 26.00% | ~11,668 |
+| Nomad | 17.00% | ~7,629 |
+| Picking Up Speed | 16.00% | ~7,180 |
+| Welcome Maya | 15.00% | ~6,731 |
+| Scout | 11.00% | ~4,936 |
+| Sightseer | 11.00% | ~4,936 |
+| Amateur | 10.00% | ~4,488 |
+| Unlock Maya | 8.00% | ~3,590 |
+| Wanderer | 8.00% | ~3,590 |
 | Enter Paz | 7.00% | ~3,141 |
 | Aviator | 6.00% | ~2,692 |
-| My Little Friend | 5.00% | ~2,243 |
-| One With The Board | 5.00% | ~2,243 |
-| Voyager | 5.00% | ~2,243 |
+| My Little Friend | 5.00% | ~2,244 |
+| One With The Board | 5.00% | ~2,244 |
+| Voyager | 5.00% | ~2,244 |
 | Izel Has Arrived | 4.00% | ~1,795 |
 | Junkie | 3.00% | ~1,346 |
 | Traveler | 3.00% | ~1,346 |
@@ -28,10 +28,10 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Paz | 3.00% | ~1,346 |
 | Human Flight | 3.00% | ~1,346 |
 | Sandboarder | 3.00% | ~1,346 |
-| Explorer | 2.00% | ~897 |
-| Pro | 2.00% | ~897 |
-| Unlock Izel | 2.00% | ~897 |
-| Here Comes Felipe | 2.00% | ~897 |
+| Explorer | 2.00% | ~898 |
+| Pro | 2.00% | ~898 |
+| Unlock Izel | 2.00% | ~898 |
+| Here Comes Felipe | 2.00% | ~898 |
 | Hoist the Mainsail | 1.00% | ~449 |
 | Daredevil | 1.00% | ~449 |
 | Introducing Sumara | 1.00% | ~449 |
@@ -46,8 +46,8 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~45 |
 | Windswept | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,865 (Ranked 111)  
-Completed: 5 (0.01%) (Ranked 317)  
+Progressed: 44,875 (Ranked 111)  
+Completed: 5 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -243,9 +243,10 @@ Completed: 5 (0.01%) (Ranked 317)
 | 2023-10-31 | 44,629 | 5 |
 | 2023-11-01 | 44,738 | 5 |
 | 2023-11-02 | 44,865 | 5 |
+| 2023-11-03 | 44,875 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 432)  
-Sum: 370 (Ranked 341)  
+Sum: 371 (Ranked 341)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +257,7 @@ Diff (max vs sum): 91
 | This game has Quickly Understood Controls | 38 |
 | This game is Extremely Fun | 37 |
 | This game is Relaxing | 35 |
-| This game has Diverse Characters | 30 |
+| This game has Diverse Characters | 31 |
 | This game has Amazing Storytelling | 29 |
 | This game has Amazing Characters | 26 |
 ## Ratings History
@@ -370,3 +371,4 @@ Diff (max vs sum): 91
 | 2023-10-21 | 4.70 | - | 48 | 367 |
 | 2023-10-22 | 4.70 | - | 48 | 369 |
 | 2023-10-28 | 4.70 | - | 48 | 370 |
+| 2023-11-02 | 4.70 | - | 48 | 371 |

@@ -1,7 +1,7 @@
 # Beyond Blue
 [Store](https://store.epicgames.com/en-US/p/beyond-blue)  
 [View Rawdata](../../db/b/beyond_blue.json)  
-Rating: 4.37 (Ranked 765)  
+Rating: 4.38 (Ranked 758)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -53,3 +53,4 @@ Rating: 4.37 (Ranked 765)
 | 2023-10-11 | 4.35 | 0 | 0 |
 | 2023-10-14 | 4.36 | 0 | 0 |
 | 2023-10-30 | 4.37 | 0 | 0 |
+| 2023-11-02 | 4.38 | 0 | 0 |

@@ -60,7 +60,7 @@ Rating: 4.16 (Ranked 928)
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42,393 (Ranked 115)  
-Completed: 3 (0.01%) (Ranked 317)  
+Completed: 3 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,8 +258,8 @@ Completed: 3 (0.01%) (Ranked 317)
 | 2023-11-02 | 42,393 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 491)  
-Sum: 29 (Ranked 506)  
-Diff (max vs sum): -15  
+Sum: 29 (Ranked 507)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

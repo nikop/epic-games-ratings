@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8408,
+  "EOS_Progressed": 8409,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -10496,6 +10496,11 @@
       "Time": "2023-11-02T23:05:02.5712866+00:00",
       "NumProgressed": 8408,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-03T00:05:11.6862449+00:00",
+      "NumProgressed": 8409,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10547,7 +10552,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "ACH07",
@@ -10579,7 +10584,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2354
+      "UsersEstimate": 2355
     },
     {
       "ID": "ACH11",
@@ -10611,7 +10616,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ACH15",
@@ -10738,7 +10743,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8408,
+      "Progressed": 8409,
       "Completed": 56
     }
   ],
@@ -10746,8 +10751,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-02T23:05:02.5712861+00:00",
+  "LastChanged_Achievements": "2023-11-03T00:05:11.6862445+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.2944998+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:01:14.3077258+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:05:02.5713722+00:00"
+  "LastUpdate_Ratings": "2023-11-03T00:02:42.3898835+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:05:11.6863127+00:00"
 }

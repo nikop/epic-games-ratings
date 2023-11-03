@@ -6,10 +6,10 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,736 |
-| Self-Improvement | 71.00% | ~1,401 |
-| Perky | 65.00% | ~1,282 |
-| Let’s Ride | 60.00% | ~1,184 |
+| Unforgiven | 88.00% | ~1,737 |
+| Self-Improvement | 71.00% | ~1,402 |
+| Perky | 65.00% | ~1,283 |
+| Let’s Ride | 59.00% | ~1,165 |
 | Dead or Alive | 56.00% | ~1,105 |
 | Welcome to the Weird West | 56.00% | ~1,105 |
 | Full House | 37.00% | ~730 |
@@ -17,19 +17,19 @@ Number of Ratings: 125  (23.09.2022)
 | Justice Served | 30.00% | ~592 |
 | Chain Reaction | 26.00% | ~513 |
 | Through Their Eyes | 26.00% | ~513 |
-| Dishonored | 25.00% | ~493 |
-| Rain of Death | 25.00% | ~493 |
-| Scholar | 25.00% | ~493 |
+| Dishonored | 25.00% | ~494 |
+| Rain of Death | 25.00% | ~494 |
+| Scholar | 25.00% | ~494 |
 | The Great Escape | 23.00% | ~454 |
 | That’s All, Folks | 19.00% | ~375 |
 | Fallen Star | 16.00% | ~316 |
 | Here Comes Santa Claus | 16.00% | ~316 |
 | Winds of War | 16.00% | ~316 |
 | For Balance | 15.00% | ~296 |
-| Dog Days | 13.00% | ~256 |
-| Out on the Ebb Tide | 13.00% | ~256 |
-| Turning the Tables | 13.00% | ~256 |
-| Workers' Rights | 13.00% | ~256 |
+| Dog Days | 13.00% | ~257 |
+| Out on the Ebb Tide | 13.00% | ~257 |
+| Turning the Tables | 13.00% | ~257 |
+| Workers' Rights | 13.00% | ~257 |
 | Elusive Prey | 12.00% | ~237 |
 | Power Behind the Pulpit | 12.00% | ~237 |
 | Something Wicked This Way Comes… | 11.00% | ~217 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,973 (Ranked 216)  
+Progressed: 1,974 (Ranked 216)  
 Completed: 7 (0.35%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,10 +210,11 @@ Completed: 7 (0.35%) (Ranked 212)
 | 2023-10-31 | 1,967 | 7 |
 | 2023-11-01 | 1,972 | 7 |
 | 2023-11-02 | 1,973 | 7 |
+| 2023-11-03 | 1,974 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 498)  
-Sum: 28 (Ranked 511)  
-Diff (max vs sum): -13  
+Sum: 28 (Ranked 512)  
+Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 28 |

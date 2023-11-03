@@ -84,6 +84,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.70% | ~969 |
 | Attrition Mission | 0.70% | ~969 |
 | Glittering Collection | 0.70% | ~969 |
+| Treasure Trove | 0.70% | ~969 |
 | Moment of Respite | 0.70% | ~969 |
 | King's Shadow | 0.70% | ~969 |
 | Master Recycler | 0.70% | ~969 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Item of Renown | 0.60% | ~831 |
 | Bountiful Harvest | 0.60% | ~831 |
 | Precision Engineering | 0.60% | ~831 |
-| Treasure Trove | 0.60% | ~831 |
 | Economy of Scarce | 0.60% | ~831 |
 | Jackpot! | 0.50% | ~692 |
 | The Free Encyclopedia | 0.40% | ~554 |

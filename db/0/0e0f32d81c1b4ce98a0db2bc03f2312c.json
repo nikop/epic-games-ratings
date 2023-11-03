@@ -4,7 +4,7 @@
   "ProductSlug": "prince-of-persia-warrior-within",
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-22T15:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T16:58:25.4707754+00:00",
   "LastUpdate_AppInfo": "2023-10-27T02:57:09.3310423+00:00",
-  "LastUpdate_Ratings": "2023-11-02T22:58:51.7115859+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:06:00.0995642+00:00"
+  "LastUpdate_Ratings": "2023-11-02T23:59:00.2188372+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:06:07.0824645+00:00"
 }

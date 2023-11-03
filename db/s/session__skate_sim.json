@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1147,9 +1147,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3050,
+  "EOS_Progressed": 3051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5607,6 +5607,11 @@
       "Time": "2023-11-01T10:09:07.7289186+00:00",
       "NumProgressed": 3050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T00:08:37.4448246+00:00",
+      "NumProgressed": 3051,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5666,7 +5671,7 @@
       "Name": "Dipped!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_DIY-BOSS",
@@ -5674,7 +5679,7 @@
       "Name": "DIY Boss",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -5746,7 +5751,7 @@
       "Name": "Good vibes",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_HOARDER",
@@ -5762,7 +5767,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -5778,7 +5783,7 @@
       "Name": "Laid back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -5786,7 +5791,7 @@
       "Name": "Lines for days",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -5802,7 +5807,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -5858,7 +5863,7 @@
       "Name": "Renaissance man",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -5866,7 +5871,7 @@
       "Name": "Skatepark hero",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -5890,7 +5895,7 @@
       "Name": "Tank commander",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -5954,7 +5959,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -5978,7 +5983,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -5994,22 +5999,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3050,
+      "Progressed": 3051,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-02T21:02:57.5859366+00:00",
-  "LastChanged_Achievements": "2023-11-02T23:08:34.0152289+00:00",
+  "LastChanged_Achievements": "2023-11-03T00:08:37.4448239+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.1163993+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:00:54.5212375+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:08:34.0152977+00:00"
+  "LastUpdate_Ratings": "2023-11-03T00:01:00.8694894+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:08:37.4448699+00:00"
 }

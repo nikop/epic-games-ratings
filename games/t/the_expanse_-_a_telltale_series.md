@@ -21,8 +21,8 @@ Rating: 4.56 (Ranked 481)
 | Impossible Objects | 1.00% | ~146 |
 | Khan's Revenge | 0.90% | ~131 |
 | Thorston Mayer | 0.70% | ~102 |
-| Bottoms up! | 0.60% | ~87 |
-| Miraculous Maya | 0.60% | ~87 |
+| Bottoms up! | 0.60% | ~88 |
+| Miraculous Maya | 0.60% | ~88 |
 | Doctor Approved | 0.50% | ~73 |
 | Data Logger | 0.40% | ~58 |
 | No Belter Left Behind | 0.30% | ~44 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 481)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,582 (Ranked 146)  
+Progressed: 14,584 (Ranked 146)  
 Completed: 28 (0.19%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 28 (0.19%) (Ranked 242)
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
+| 2023-11-03 | 14,584 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

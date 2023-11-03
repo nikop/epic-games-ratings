@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17775,
+  "EOS_Progressed": 17777,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 1604,
+  "EOS_NewPlayers": 1606,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -5093,6 +5093,11 @@
       "Time": "2023-11-02T23:05:33.5808333+00:00",
       "NumProgressed": 17775,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-11-03T00:05:41.7160407+00:00",
+      "NumProgressed": 17777,
+      "NumCompleted": 83
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -5105,7 +5110,7 @@
       "Name": "It Took Two",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 7643
+      "UsersEstimate": 7644
     },
     {
       "ID": "achievement_10",
@@ -5129,7 +5134,7 @@
       "Name": "On Rails Experience",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 10132
+      "UsersEstimate": 10133
     },
     {
       "ID": "achievement_13",
@@ -5209,7 +5214,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 15464
+      "UsersEstimate": 15466
     },
     {
       "ID": "achievement_4",
@@ -5217,7 +5222,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 15642
+      "UsersEstimate": 15644
     },
     {
       "ID": "achievement_5",
@@ -5241,7 +5246,7 @@
       "Name": "Look At Him Go",
       "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 14042
+      "UsersEstimate": 14044
     },
     {
       "ID": "achievement_8",
@@ -5249,7 +5254,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 7643
+      "UsersEstimate": 7644
     },
     {
       "ID": "achievement_9",
@@ -5257,20 +5262,20 @@
       "Name": "A Daring Devil",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 9421
+      "UsersEstimate": 9422
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 17775,
+      "Progressed": 17777,
       "Completed": 83
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-02T23:05:33.5808328+00:00",
+  "LastChanged_Achievements": "2023-11-03T00:05:41.7160401+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:20.7066091+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:02:32.5203638+00:00",
-  "LastUpdate_Achievements": "2023-11-02T23:05:33.5808818+00:00"
+  "LastUpdate_Ratings": "2023-11-03T00:02:46.2775949+00:00",
+  "LastUpdate_Achievements": "2023-11-03T00:05:41.7160844+00:00"
 }

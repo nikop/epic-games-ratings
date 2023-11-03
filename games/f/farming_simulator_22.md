@@ -51,7 +51,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Raisin the stakes | 0.30% | ~153 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50,982 (Ranked 107)  
-Completed: 6 (0.01%) (Ranked 317)  
+Completed: 6 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
