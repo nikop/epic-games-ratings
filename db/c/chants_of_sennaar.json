@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 383,
+  "EOS_Progressed": 384,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.01,
+  "EOS_Completed_Percentage": 5.99,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1760,6 +1760,11 @@
       "Time": "2023-11-03T14:08:20.9291252+00:00",
       "NumProgressed": 383,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T16:09:15.0800303+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1859,7 +1864,7 @@
       "Name": "A Link to the Past",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1883,7 +1888,7 @@
       "Name": "True G3M4R",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1899,7 +1904,7 @@
       "Name": "Fashion victim",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1913,9 +1918,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1923,15 +1928,15 @@
       "Name": "Scholar",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "PROGRESS_N2",
@@ -1939,7 +1944,7 @@
       "Name": "The great escape",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "PROGRESS_N3",
@@ -1970,14 +1975,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 383,
+      "Progressed": 384,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:11:17.2712813+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:09:15.0800298+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:03:41.0802606+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:11:17.2713134+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:02:05.2827401+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:09:15.0800626+00:00"
 }

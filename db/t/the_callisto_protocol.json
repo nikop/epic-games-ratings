@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 141,
@@ -1429,7 +1429,7 @@
   ],
   "EOS_Progressed": 16397,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8879,9 +8879,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 984
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9102,8 +9102,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-03T09:58:39.5708669+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:09:07.2062888+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:07:05.0354001+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:05.5588186+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:01:35.5288762+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:09:07.2063748+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:59:30.9727876+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:07:05.0355016+00:00"
 }

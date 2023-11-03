@@ -1,23 +1,23 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 532)  
+Rating: 4.53 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~4,964 |
-| Greasy Palms | 42.00% | ~4,533 |
-| South American Connection | 26.00% | ~2,806 |
-| Life of the Party | 20.00% | ~2,158 |
+| Legal Counsel | 46.00% | ~4,966 |
+| Greasy Palms | 42.00% | ~4,534 |
+| South American Connection | 26.00% | ~2,807 |
+| Life of the Party | 20.00% | ~2,159 |
 | Tommy Two-Wheels | 16.00% | ~1,727 |
 | Big Heat from Little Havana | 15.00% | ~1,619 |
 | Chauffeur | 15.00% | ~1,619 |
-| Salutations My Little Friend | 11.00% | ~1,187 |
-| Iron-y | 10.00% | ~1,079 |
-| Gun for Hire | 9.00% | ~971 |
-| Mischief Managed | 9.00% | ~971 |
-| Vice City Mogul | 7.00% | ~755 |
-| Bloodstained Hands | 7.00% | ~755 |
+| Salutations My Little Friend | 11.00% | ~1,188 |
+| Iron-y | 10.00% | ~1,080 |
+| Gun for Hire | 9.00% | ~972 |
+| Mischief Managed | 9.00% | ~972 |
+| Vice City Mogul | 7.00% | ~756 |
+| Bloodstained Hands | 7.00% | ~756 |
 | Catch Me if You Can | 6.00% | ~648 |
 | Not my First Time | 5.00% | ~540 |
 | Grand Theft Auto | 5.00% | ~540 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 532)
 | Done it All | 1.00% | ~108 |
 | Kingpin | 0.60% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,792 (Ranked 153)  
+Progressed: 10,796 (Ranked 153)  
 Completed: 64 (0.59%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 64 (0.59%) (Ranked 180)
 | 2023-10-31 | 10,718 | 63 |
 | 2023-11-01 | 10,743 | 64 |
 | 2023-11-02 | 10,771 | 64 |
-| 2023-11-03 | 10,792 | 64 |
+| 2023-11-03 | 10,796 | 64 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 356)  
 Sum: 99 (Ranked 439)  

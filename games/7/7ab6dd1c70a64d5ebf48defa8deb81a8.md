@@ -13,8 +13,8 @@
 | The Collector | 13.00% | ~11 |
 | Powerful Allies | 11.00% | ~10 |
 | Adventurer | 11.00% | ~10 |
+| Fashion Victim | 11.00% | ~10 |
 | Scholar | 11.00% | ~10 |
-| Fashion Victim | 10.00% | ~9 |
 | Geared Up | 9.00% | ~8 |
 | Essence Blow | 8.00% | ~7 |
 | Airborne | 6.00% | ~5 |

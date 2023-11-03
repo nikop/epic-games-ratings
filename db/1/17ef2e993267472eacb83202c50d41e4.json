@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,7 +47,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7668,
+  "EOS_Progressed": 7669,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -5622,6 +5622,11 @@
       "Time": "2023-11-03T12:21:54.6246592+00:00",
       "NumProgressed": 7668,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T16:11:01.8047346+00:00",
+      "NumProgressed": 7669,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5690,7 +5695,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "DHUpgraded1",
@@ -5746,7 +5751,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "GamesPlayed1",
@@ -5826,7 +5831,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "HAUpgraded1",
@@ -5842,7 +5847,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "HSPurchased1",
@@ -6194,7 +6199,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "TSUPurchased1",
@@ -6225,7 +6230,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7668,
+      "Progressed": 7669,
       "Completed": 1
     }
   ],
@@ -6233,8 +6238,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:13:18.9080549+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:11:01.8047341+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:05:02.5985274+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:13:18.9081682+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:03:26.1883807+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:11:01.8048734+00:00"
 }

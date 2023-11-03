@@ -17,6 +17,7 @@
 | A Light in the Dark | 42.00% | ~11 |
 | Warning: Fragile | 42.00% | ~11 |
 | Socially Acceptable Insanity | 38.00% | ~10 |
+| They Flock to Him | 38.00% | ~10 |
 | A Real Headache | 35.00% | ~9 |
 | A Total Riot | 35.00% | ~9 |
 | The Guardian | 35.00% | ~9 |
@@ -26,7 +27,6 @@
 | Knock Knock | 35.00% | ~9 |
 | The Partner | 35.00% | ~9 |
 | The Companion | 35.00% | ~9 |
-| They Flock to Him | 35.00% | ~9 |
 | The Counsellor | 35.00% | ~9 |
 | That One Doesn't Count | 31.00% | ~8 |
 | Blood Begets Blood | 27.00% | ~7 |
@@ -34,13 +34,13 @@
 | Social Butterfly | 27.00% | ~7 |
 | Full Coverage | 23.00% | ~6 |
 | Obligatory Fraudulent Baking | 23.00% | ~6 |
+| Overseer | 23.00% | ~6 |
 | Quidnunc | 23.00% | ~6 |
 | Zonk! | 23.00% | ~6 |
+| A Little Eccentric | 19.00% | ~5 |
 | Leave It to the Professionals | 19.00% | ~5 |
-| Overseer | 19.00% | ~5 |
-| A Little Eccentric | 15.00% | ~4 |
+| Ring of Fire | 19.00% | ~5 |
 | Couldn't Have Planned It Better Myself | 15.00% | ~4 |
-| Ring of Fire | 15.00% | ~4 |
 | The Provocateur | 15.00% | ~4 |
 | Tastes Like Regret | 15.00% | ~4 |
 | The Spice of Life | 15.00% | ~4 |

@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2873,
+  "EOS_Progressed": 2876,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3946,6 +3946,11 @@
       "Time": "2023-11-03T14:04:40.2272892+00:00",
       "NumProgressed": 2873,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-03T16:05:05.2783683+00:00",
+      "NumProgressed": 2876,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3973,7 +3978,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -4021,7 +4026,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4045,7 +4050,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4060,7 +4065,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2873,
+      "Progressed": 2876,
       "Completed": 6
     }
   ],
@@ -4068,8 +4073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:07:01.2402505+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:05:05.2783677+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.0919863+00:00",
-  "LastUpdate_Ratings": "2023-11-03T14:59:35.6123685+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:07:01.2402858+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:57:56.6105082+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:05:05.2784079+00:00"
 }

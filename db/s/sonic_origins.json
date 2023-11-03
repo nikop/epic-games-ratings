@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2801,9 +2801,9 @@
       "ID": "ID_27_SOUND_MANIA",
       "SetID": "7o8nc5m",
       "Name": "Sound Savant",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 111
     },
     {
       "ID": "ID_28_ART_MANIA",
@@ -2881,8 +2881,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:13:16.7539875+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:10:59.6768896+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.3085662+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:02:53.1388547+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:13:16.7540279+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:00:54.7346008+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:10:59.6769345+00:00"
 }

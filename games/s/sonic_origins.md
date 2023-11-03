@@ -34,7 +34,7 @@ Number of Ratings: 154  (23.09.2022)
 | All Clear! | 29.00% | ~170 |
 | To the Mirror World | 27.00% | ~158 |
 | Movie Maniac | 19.00% | ~111 |
-| Sound Savant | 18.00% | ~105 |
+| Sound Savant | 19.00% | ~111 |
 | Sonic the Hedgehog Mission Master | 17.00% | ~100 |
 | Beware Rhinobots! | 15.00% | ~88 |
 | Art Appreciator | 15.00% | ~88 |

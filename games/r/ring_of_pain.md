@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Expensive Look | 0.10% | ~1 |
 | What Doesn't Kill You | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,054 (Ranked 59)  
+Progressed: 239,057 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,16 +342,16 @@ Completed: 286 (0.12%) (Ranked 260)
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
 | 2023-11-02 | 239,015 | 286 |
-| 2023-11-03 | 239,054 | 286 |
+| 2023-11-03 | 239,057 | 286 |
 ## Awards
-Max (Quickly Understood Controls): 1,502  (Ranked 129)  
-Sum: 11,647 (Ranked 83)  
+Max (Quickly Understood Controls): 1,503  (Ranked 129)  
+Sum: 11,650 (Ranked 83)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,506 |
-| This game has Quickly Understood Controls | 1,502 |
-| This game is Relaxing | 1,433 |
+| This game has Quickly Understood Controls | 1,503 |
+| This game is Relaxing | 1,435 |
 | This game has Challenging Combat | 1,432 |
 | This game is Extremely Fun | 1,409 |
 | This game is Highly Recommended | 1,377 |
@@ -560,3 +560,4 @@ Diff (max vs sum): 46
 | 2023-10-31 | 4.58 | - | 1,500 | 11,641 |
 | 2023-11-01 | 4.58 | - | 1,500 | 11,643 |
 | 2023-11-02 | 4.58 | - | 1,502 | 11,647 |
+| 2023-11-03 | 4.58 | - | 1,503 | 11,650 |

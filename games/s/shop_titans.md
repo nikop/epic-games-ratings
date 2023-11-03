@@ -102,9 +102,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.60% | ~831 |
 | Jackpot! | 0.50% | ~693 |
 | Eternal Crusade | 0.50% | ~693 |
+| All Accounted For | 0.50% | ~693 |
 | The Free Encyclopedia | 0.40% | ~554 |
 | Thank You Tom Nook | 0.40% | ~554 |
-| All Accounted For | 0.40% | ~554 |
 | JACKPOT!!! | 0.30% | ~416 |
 | Anything not Nailed Down | 0.30% | ~416 |
 | The Greatest Grind | 0.30% | ~416 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,527 (Ranked 78)  
+Progressed: 138,532 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,527 | 178 |
+| 2023-11-03 | 138,532 | 178 |
 ## Awards
 Max (Great for Beginners): 4,817  (Ranked 74)  
 Sum: 27,491 (Ranked 51)  

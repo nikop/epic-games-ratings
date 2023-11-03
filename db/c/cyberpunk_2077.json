@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14544,18 +14544,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 340384,
       "NumberOfAwardsMax": 103503
+    },
+    {
+      "Time": "2023-11-03T15:59:56.7510213+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 340643,
+      "NumberOfAwardsMax": 103657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340384,
-  "NumberOfAwardsMax": 103503,
+  "NumberOfAwards": 340643,
+  "NumberOfAwardsMax": 103657,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 103503
+      "Count": 103657
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14567,7 +14573,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 19711
+      "Count": 19816
     },
     {
       "Text": "This game is Relaxing",
@@ -14624,9 +14630,9 @@
       "Count": 12269
     }
   ],
-  "EOS_Progressed": 895043,
+  "EOS_Progressed": 895052,
   "EOS_Completed": 2739,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36919,6 +36925,11 @@
       "Time": "2023-11-03T15:09:33.9161009+00:00",
       "NumProgressed": 895043,
       "NumCompleted": 2739
+    },
+    {
+      "Time": "2023-11-03T16:07:32.4744147+00:00",
+      "NumProgressed": 895052,
+      "NumCompleted": 2739
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -36961,9 +36972,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 1790
     },
     {
       "ID": "FollowingTheRiver",
@@ -37001,9 +37012,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3580
+      "UsersEstimate": 4475
     },
     {
       "ID": "Gunslinger",
@@ -37466,21 +37477,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895043,
+      "Progressed": 895052,
       "Completed": 2739
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23666,
-      "Completed": 10178
+      "Progressed": 23675,
+      "Completed": 10179
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-03T13:05:03.6715213+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:09:33.9161004+00:00",
+  "LastChanged": "2023-11-03T15:59:56.7510211+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:07:32.4744142+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:01:59.4245893+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:09:33.9162915+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:59:56.7510218+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:07:32.4746044+00:00"
 }

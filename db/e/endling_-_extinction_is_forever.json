@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-11-03T05:10:26.5427024+00:00",
       "NumProgressed": 522,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T16:10:57.4395378+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -839,7 +844,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TROP004",
@@ -847,7 +852,7 @@
       "Name": "All For One",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TROP005",
@@ -855,7 +860,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "TROP006",
@@ -879,7 +884,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "TROP009",
@@ -887,7 +892,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "TROP010",
@@ -895,7 +900,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "TROP011",
@@ -903,7 +908,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TROP012",
@@ -919,7 +924,7 @@
       "Name": "Never Let Down",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "TROP014",
@@ -983,7 +988,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "TROP022",
@@ -1005,9 +1010,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 152
     },
     {
       "ID": "TROP025",
@@ -1038,7 +1043,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 3
     }
   ],
@@ -1046,8 +1051,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:13:14.508791+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:10:57.4395371+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.3335592+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:02:55.284037+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:13:14.5088172+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:01:00.2539548+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:10:57.4395683+00:00"
 }

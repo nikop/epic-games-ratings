@@ -6,14 +6,14 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,380 |
+| Sink Beneath the Waves | 36.00% | ~14,381 |
 | Sweet Sorrow | 18.00% | ~7,190 |
-| Rules the Waves | 17.00% | ~6,790 |
+| Rules the Waves | 17.00% | ~6,791 |
 | Thou, All-Shaking Thunder | 15.00% | ~5,992 |
 | Rival | 14.00% | ~5,592 |
-| Correspondent | 12.00% | ~4,793 |
-| Lose Your Mind | 12.00% | ~4,793 |
-| Sound Mind? | 12.00% | ~4,793 |
+| Correspondent | 12.00% | ~4,794 |
+| Lose Your Mind | 12.00% | ~4,794 |
+| Sound Mind? | 12.00% | ~4,794 |
 | Salt's Curse | 11.00% | ~4,394 |
 | HE SUN THE SUN THE SUN T | 11.00% | ~4,394 |
 | The Fall of the House | 11.00% | ~4,394 |
@@ -40,12 +40,12 @@ Number of Ratings: 401  (23.09.2022)
 | Those are pearls that were his eyes | 1.00% | ~399 |
 | Rosewater sailor | 1.00% | ~399 |
 | A current under zee | 1.00% | ~399 |
-| Never Stop Sinking... | 0.90% | ~359 |
-| His bones in whispers | 0.90% | ~359 |
-| The beauty of the deep | 0.90% | ~359 |
-| No regrets | 0.90% | ~359 |
-| Under the zee | 0.90% | ~359 |
-| Depth charge | 0.90% | ~359 |
+| Never Stop Sinking... | 0.90% | ~360 |
+| His bones in whispers | 0.90% | ~360 |
+| The beauty of the deep | 0.90% | ~360 |
+| No regrets | 0.90% | ~360 |
+| Under the zee | 0.90% | ~360 |
+| Depth charge | 0.90% | ~360 |
 | A zee-change | 0.80% | ~320 |
 | Leviathan | 0.80% | ~320 |
 | What lies beneath | 0.70% | ~280 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~40 |
 | Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,944 (Ranked 116)  
+Progressed: 39,946 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 4 (0.01%) (Ranked 318)
 | 2023-10-31 | 39,778 | 4 |
 | 2023-11-01 | 39,850 | 4 |
 | 2023-11-02 | 39,910 | 4 |
-| 2023-11-03 | 39,944 | 4 |
+| 2023-11-03 | 39,946 | 4 |
 ## Awards
 Max (Character Customization): 215  (Ranked 277)  
 Sum: 288 (Ranked 362)  

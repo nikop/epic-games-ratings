@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -736,7 +736,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 350650,
+  "EOS_Progressed": 350655,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 0,
@@ -23056,6 +23056,11 @@
       "Time": "2023-11-03T15:09:47.4099785+00:00",
       "NumProgressed": 350650,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-03T16:07:45.7877324+00:00",
+      "NumProgressed": 350655,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -23075,7 +23080,7 @@
       "Name": "Boxing Them In",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach003",
@@ -23083,7 +23088,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42078
+      "UsersEstimate": 42079
     },
     {
       "ID": "ach004",
@@ -23107,7 +23112,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach007",
@@ -23123,7 +23128,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 42078
+      "UsersEstimate": 42079
     },
     {
       "ID": "ach009",
@@ -23131,7 +23136,7 @@
       "Name": "Backroom Empire",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach010",
@@ -23147,7 +23152,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach012",
@@ -23179,7 +23184,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach016",
@@ -23187,7 +23192,7 @@
       "Name": "Corner Control",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach017",
@@ -23195,7 +23200,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45584
+      "UsersEstimate": 45585
     },
     {
       "ID": "ach018",
@@ -23235,7 +23240,7 @@
       "Name": "Full House",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach023",
@@ -23275,7 +23280,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 164806
+      "UsersEstimate": 164808
     },
     {
       "ID": "ach028",
@@ -23363,7 +23368,7 @@
       "Name": "The Rubber Meets the Road",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach039",
@@ -23371,7 +23376,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35065
+      "UsersEstimate": 35066
     },
     {
       "ID": "ach040",
@@ -23379,7 +23384,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach041",
@@ -23395,7 +23400,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach043",
@@ -23419,7 +23424,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45584
+      "UsersEstimate": 45585
     },
     {
       "ID": "ach046",
@@ -23459,7 +23464,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach051",
@@ -23507,7 +23512,7 @@
       "Name": "Cat\u2019s Meow Clubs",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach057",
@@ -23531,7 +23536,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35065
+      "UsersEstimate": 35066
     },
     {
       "ID": "ach060",
@@ -23579,7 +23584,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49091
+      "UsersEstimate": 49092
     },
     {
       "ID": "ach067",
@@ -23587,7 +23592,7 @@
       "Name": "Stepping It Up",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ach068",
@@ -23595,7 +23600,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56104
+      "UsersEstimate": 56105
     },
     {
       "ID": "ach069",
@@ -23603,7 +23608,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49091
+      "UsersEstimate": 49092
     },
     {
       "ID": "ach070",
@@ -23619,7 +23624,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ach072",
@@ -23706,7 +23711,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 350650,
+      "Progressed": 350655,
       "Completed": 7
     }
   ],
@@ -23714,8 +23719,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-03T12:00:54.9425355+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:09:47.4099777+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:07:45.787732+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:35.1846079+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:02:44.8737624+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:09:47.4101766+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:00:44.802291+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:07:45.7880073+00:00"
 }

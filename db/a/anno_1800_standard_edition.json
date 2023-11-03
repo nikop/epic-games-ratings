@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9963,11 +9963,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 13716,
       "NumberOfAwardsMax": 1764
+    },
+    {
+      "Time": "2023-11-03T15:59:04.1630821+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 13723,
+      "NumberOfAwardsMax": 1771
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13716,
-  "NumberOfAwardsMax": 1764,
+  "NumberOfAwards": 13723,
+  "NumberOfAwardsMax": 1771,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -10010,7 +10016,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1764
+      "Count": 1771
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -10048,8 +10054,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-11-03T04:58:50.1707651+00:00",
+  "LastChanged": "2023-11-03T15:59:04.1630818+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:25.7884951+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:01:04.7893245+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:09:56.8288138+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:59:04.1630827+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:07:55.4184801+00:00"
 }

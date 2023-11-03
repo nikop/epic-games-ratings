@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Statesmen | 0.90% | ~136 |
+| Hittite Iron | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
 | Temple of Solomon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.80% | ~121 |
 | Strong Difficulty | 0.80% | ~121 |
 | Hunters | 0.80% | ~121 |
-| Hittite Iron | 0.80% | ~121 |
 | Church of the Holy Sepulchre | 0.80% | ~121 |
 | Pantheon | 0.80% | ~121 |
 | Learn to Play 4 | 0.80% | ~121 |

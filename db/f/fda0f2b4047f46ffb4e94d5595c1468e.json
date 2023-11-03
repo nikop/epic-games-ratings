@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2093,7 +2093,7 @@
   ],
   "EOS_Progressed": 8244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6959,9 +6959,9 @@
       "ID": "ach32",
       "SetID": "47in8n6",
       "Name": "Who Da Boss??",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2226
     },
     {
       "ID": "ach33",
@@ -7063,9 +7063,9 @@
       "ID": "ach45",
       "SetID": "47in8n6",
       "Name": "There Is No Knowledge That Is Not Power",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 907
     },
     {
       "ID": "ach46",
@@ -7120,8 +7120,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-03T12:12:42.3001593+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:07:27.4137145+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:05:34.9358989+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:04:53.209309+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:07:27.4137896+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:03:14.4054157+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:05:34.9359893+00:00"
 }

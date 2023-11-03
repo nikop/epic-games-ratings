@@ -6,15 +6,15 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~405 |
+| Getting started | 78.00% | ~406 |
 | Close call! | 72.00% | ~374 |
 | Builder | 52.00% | ~270 |
 | Pangs of conscience | 45.00% | ~234 |
-| Living it large! | 44.00% | ~228 |
-| Collector | 43.00% | ~223 |
+| Living it large! | 44.00% | ~229 |
+| Collector | 43.00% | ~224 |
 | Need to think | 42.00% | ~218 |
 | Completely nuts! | 40.00% | ~208 |
-| Just in time! | 33.00% | ~171 |
+| Just in time! | 33.00% | ~172 |
 | Europe | 31.00% | ~161 |
 | It's no coincidence. | 30.00% | ~156 |
 | Madness! | 30.00% | ~156 |
@@ -25,7 +25,7 @@ Number of Ratings: 28  (23.09.2022)
 | Foreman | 21.00% | ~109 |
 | Russia | 19.00% | ~99 |
 | Missed it! | 19.00% | ~99 |
-| America | 18.00% | ~93 |
+| America | 18.00% | ~94 |
 | Sabotage | 16.00% | ~83 |
 | Achtung! | 12.00% | ~62 |
 | Japan | 11.00% | ~57 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519 (Ranked 289)  
-Completed: 2 (0.39%) (Ranked 206)  
+Progressed: 520 (Ranked 290)  
+Completed: 2 (0.38%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,6 +154,7 @@ Completed: 2 (0.39%) (Ranked 206)
 | 2023-10-24 | 517 | 2 |
 | 2023-10-30 | 518 | 2 |
 | 2023-11-02 | 519 | 2 |
+| 2023-11-03 | 520 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

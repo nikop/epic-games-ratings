@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -1147,9 +1147,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3051,
+  "EOS_Progressed": 3052,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -5612,6 +5612,11 @@
       "Time": "2023-11-03T00:08:37.4448246+00:00",
       "NumProgressed": 3051,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T16:04:16.8096246+00:00",
+      "NumProgressed": 3052,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 48,
@@ -5775,7 +5780,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -5999,22 +6004,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3051,
+      "Progressed": 3052,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-02T21:02:57.5859366+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:06:14.0306323+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:04:16.8096241+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:18.1163993+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:04:31.8893764+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:06:14.0306993+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:02:54.7410832+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:04:16.8096955+00:00"
 }

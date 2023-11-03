@@ -3,9 +3,9 @@
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 488,
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 34,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 8.82,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 11.76,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -184,6 +184,11 @@
       "Time": "2023-11-02T20:09:19.5847653+00:00",
       "NumProgressed": 34,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T16:10:47.4662934+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -290,9 +295,9 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -300,13 +305,13 @@
       "ID": "bnif31p",
       "IsBase": true,
       "Progressed": 34,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-03T15:12:54.4558282+00:00",
+  "LastChanged_Achievements": "2023-11-03T16:10:47.4662927+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7438301+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:00:13.3760835+00:00",
-  "LastUpdate_Achievements": "2023-11-03T15:12:54.4558409+00:00"
+  "LastUpdate_Ratings": "2023-11-03T15:58:20.4485464+00:00",
+  "LastUpdate_Achievements": "2023-11-03T16:10:47.4663071+00:00"
 }
