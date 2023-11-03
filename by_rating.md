@@ -260,7 +260,7 @@
 | 249 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 5,183 | 71 |
 | 249 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 712 | 180 |
 | 249 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.68 | 0 | 545 |
-| 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 312,016 | 3 |
+| 249 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 312,089 | 3 |
 | 249 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 252,966 | 4 |
 | 249 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 545 |
 | 249 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 545 |

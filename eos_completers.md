@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.58% |
 | 5 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
 | 6 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.29% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 39.28% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.51% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -90,7 +90,7 @@
 | 88 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.28% |
 | 89 | [Doodle God](games/d/doodle_god.md) | 3.24% |
 | 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
-| 91 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
+| 91 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.20% |
 | 92 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.16% |
 | 93 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.10% |
 | 94 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
@@ -101,8 +101,8 @@
 | 99 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.88% |
 | 100 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 101 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 102 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.80% |
-| 103 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
+| 102 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
+| 102 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.78% |
 | 104 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 105 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.67% |
 | 106 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
@@ -140,14 +140,14 @@
 | 137 | [Poosh XL](games/p/poosh_xl.md) | 1.35% |
 | 139 | [Chorus](games/c/chorus.md) | 1.34% |
 | 139 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.34% |
-| 139 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.34% |
+| 141 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 1.32% |
 | 142 | [Late Shift](games/l/late_shift.md) | 1.30% |
 | 143 | [Lemon Cake](games/l/lemon_cake.md) | 1.29% |
 | 144 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.28% |
-| 145 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.27% |
 | 145 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.27% |
 | 145 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
-| 148 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
+| 147 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
+| 147 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 1.25% |
 | 149 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 150 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.07% |
 | 151 | [Adios](games/a/adios.md) | 1.06% |
@@ -164,8 +164,8 @@
 | 162 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.90% |
 | 162 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.90% |
 | 164 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
-| 165 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.85% |
-| 166 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
+| 165 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
+| 165 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.84% |
 | 167 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.82% |
 | 169 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 0.81% |

@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,905,733 | 4.29 | 835 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 602,896 | 4.48 | 618 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 312,016 | 4.68 | 249 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 312,089 | 4.68 | 249 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 252,966 | 4.68 | 249 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 209,883 | 4.18 | 918 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 193,505 | 4.88 | 16 |

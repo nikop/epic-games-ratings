@@ -1165,7 +1165,7 @@
 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 715 | 0 | 545 |
 | [Genesis Noir](games/g/genesis_noir.md) | - | - | 0 | - |
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | - | - | - | - |
-| [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 249 | 312,016 | 3 |
+| [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 249 | 312,089 | 3 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | - | - | 0 | - |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | - | - | 0 | - |
 | [Georifters](games/g/georifters.md) | - | - | - | - |
@@ -1473,8 +1473,8 @@
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 443 | 39 | 455 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
 | [Joyville](games/8/828033f9503242d5aded3a1a0f3d3c91.md) | - | - | 0 | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 363 | 593 | 193 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 154 | 729 | 176 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 851 | 3,836 | 86 |
@@ -3134,8 +3134,8 @@
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
 | [Tower Defense 3D Fusion](games/d/d668f571588d42a4906a583e4149c32a.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 767 | 276 | 257 |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.37 | 767 | 276 | 257 |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 212 | 0 | 545 |
@@ -3225,8 +3225,8 @@
 | [Uncontained](games/f/f997635f6f6a4d62b592943e93fe7931.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | - | - | - | - |
-| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
+| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Undergrave](games/u/undergrave.md) | - | - | 0 | - |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | - | - | - | - |
 | [Underworld Defense](games/2/229da97a621d443dafe527f874375f3b.md) | - | - | 0 | - |
