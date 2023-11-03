@@ -9,7 +9,7 @@ Rating: 4.49 (Ranked 602)
 | For Saw Gerrera | 98.00% | ~6,592 |
 | Grab Some Seat | 92.00% | ~6,189 |
 | Can You Pet the Bogling? | 87.00% | ~5,852 |
-| The Past Made Present | 83.00% | ~5,583 |
+| The Past Made Present | 84.00% | ~5,651 |
 | Survivors, We Adapt | 80.00% | ~5,382 |
 | Among the Masters | 78.00% | ~5,247 |
 | They Never Saw It Coming | 77.00% | ~5,180 |

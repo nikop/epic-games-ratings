@@ -6,7 +6,7 @@
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 113,
-  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43783,
+  "EOS_Progressed": 43784,
   "EOS_Completed": 239,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17204,6 +17204,11 @@
       "Time": "2023-11-03T02:21:24.3449874+00:00",
       "NumProgressed": 43783,
       "NumCompleted": 239
+    },
+    {
+      "Time": "2023-11-03T08:03:53.0606883+00:00",
+      "NumProgressed": 43784,
+      "NumCompleted": 239
     }
   ],
   "TotalAchievements": 44,
@@ -17215,7 +17220,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24956
+      "UsersEstimate": 24957
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17271,7 +17276,7 @@
       "Name": "Bonds",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -17319,7 +17324,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -17335,7 +17340,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35026
+      "UsersEstimate": 35027
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17359,7 +17364,7 @@
       "Name": "Get Over Here",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -17383,7 +17388,7 @@
       "Name": "The Hidden Village",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -17455,7 +17460,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27583
+      "UsersEstimate": 27584
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17463,7 +17468,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11821
+      "UsersEstimate": 11822
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -17519,7 +17524,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19702
+      "UsersEstimate": 19703
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -17543,7 +17548,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1313
+      "UsersEstimate": 1314
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -17551,7 +17556,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40718
+      "UsersEstimate": 40719
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17559,14 +17564,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22767
+      "UsersEstimate": 22768
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43783,
+      "Progressed": 43784,
       "Completed": 239
     }
   ],
@@ -17574,8 +17579,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-03T07:05:40.5875907+00:00",
+  "LastChanged_Achievements": "2023-11-03T08:03:53.060688+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:20.1111445+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:03:44.825284+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:05:40.5877303+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:00:48.0002881+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:03:53.0608378+00:00"
 }

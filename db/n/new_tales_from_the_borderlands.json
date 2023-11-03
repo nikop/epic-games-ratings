@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3681,
+  "EOS_Progressed": 3682,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1707,6 +1707,11 @@
       "Time": "2023-10-29T01:48:24.9858145+00:00",
       "NumProgressed": 3681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T08:05:49.8247578+00:00",
+      "NumProgressed": 3682,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1718,7 +1723,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1750,7 +1755,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1766,7 +1771,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1814,7 +1819,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1838,7 +1843,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1841
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1886,7 +1891,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1925,7 +1930,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3681,
+      "Progressed": 3682,
       "Completed": 0
     }
   ],
@@ -1933,8 +1938,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-11-03T07:08:36.8546723+00:00",
+  "LastChanged_Achievements": "2023-11-03T08:05:49.8247574+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:00.4235632+00:00",
-  "LastUpdate_Ratings": "2023-11-03T06:59:54.2262791+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:08:36.854699+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:58:21.4365282+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:05:49.8247765+00:00"
 }

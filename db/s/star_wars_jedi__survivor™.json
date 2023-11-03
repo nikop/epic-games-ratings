@@ -4799,7 +4799,7 @@
   ],
   "EOS_Progressed": 6727,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -9921,9 +9921,9 @@
       "ID": "achievement_a4",
       "SetID": "3m4b0pk",
       "Name": "The Past Made Present",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 5583
+      "UsersEstimate": 5651
     },
     {
       "ID": "achievement_a40",
@@ -10090,8 +10090,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-03T01:45:29.6358752+00:00",
-  "LastChanged_Achievements": "2023-11-03T07:07:20.0933073+00:00",
+  "LastChanged_Achievements": "2023-11-03T08:04:18.6679588+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.6849006+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:03:58.5923657+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:07:20.0934171+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:01:03.4516852+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:04:18.6680076+00:00"
 }

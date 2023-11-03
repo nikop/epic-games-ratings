@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 39.00% | ~32 |
-| Shatter Them All | 15.00% | ~12 |
+| Shatter Them All | 14.00% | ~12 |
 | A Taste of Wrath | 13.00% | ~11 |
 | Find Allies | 12.00% | ~10 |
 | Powerful Allies | 12.00% | ~10 |
@@ -15,11 +15,11 @@
 | Adventurer | 11.00% | ~9 |
 | Scholar | 11.00% | ~9 |
 | Fashion Victim | 10.00% | ~8 |
-| Geared Up | 9.00% | ~7 |
+| Geared Up | 8.00% | ~7 |
 | Essence Blow | 7.00% | ~6 |
 | Airborne | 6.00% | ~5 |
+| Miner | 6.00% | ~5 |
 | Stone Collection | 5.00% | ~4 |
-| Miner | 5.00% | ~4 |
 | Calm before the Storm | 4.00% | ~3 |
 | To Battle | 4.00% | ~3 |
 | Godslayer | 4.00% | ~3 |
@@ -41,8 +41,8 @@
 | Shatterer | -1.20% | ~-1 |
 | Flawless Victory | -1.20% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 422)  
-Completed: 1 (1.22%) (Ranked 148)  
+Progressed: 83 (Ranked 422)  
+Completed: 1 (1.20%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,4 +68,4 @@ Completed: 1 (1.22%) (Ranked 148)
 | 2023-10-31 | 41 | 1 |
 | 2023-11-01 | 55 | 1 |
 | 2023-11-02 | 76 | 1 |
-| 2023-11-03 | 82 | 1 |
+| 2023-11-03 | 83 | 1 |

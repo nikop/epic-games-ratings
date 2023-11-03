@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,382 |
-| A thief's beginning | 10.00% | ~21,152 |
-| Thorough | 10.00% | ~21,152 |
-| Disguised | 9.00% | ~19,037 |
-| Rollin' | 9.00% | ~19,037 |
-| Tanuki Time | 9.00% | ~19,037 |
+| Genin | 12.00% | ~25,383 |
+| A thief's beginning | 10.00% | ~21,153 |
+| Thorough | 10.00% | ~21,153 |
+| Disguised | 9.00% | ~19,038 |
+| Rollin' | 9.00% | ~19,038 |
+| Tanuki Time | 9.00% | ~19,038 |
 | Rescue Takuma | 8.00% | ~16,922 |
 | Stoned Ox | 8.00% | ~16,922 |
-| Happy Planning | 7.00% | ~14,806 |
-| Ice Ice Yuki | 7.00% | ~14,806 |
-| Jonin | 7.00% | ~14,806 |
-| Yabu | 7.00% | ~14,806 |
-| Chunin | 6.00% | ~12,691 |
-| Flying Rocks | 6.00% | ~12,691 |
-| Mugen Unchained | 6.00% | ~12,691 |
-| Warzone | 6.00% | ~12,691 |
+| Happy Planning | 7.00% | ~14,807 |
+| Ice Ice Yuki | 7.00% | ~14,807 |
+| Jonin | 7.00% | ~14,807 |
+| Yabu | 7.00% | ~14,807 |
+| Chunin | 6.00% | ~12,692 |
+| Flying Rocks | 6.00% | ~12,692 |
+| Mugen Unchained | 6.00% | ~12,692 |
+| Warzone | 6.00% | ~12,692 |
 | Okkoto | 5.00% | ~10,576 |
 | Prisoners | 5.00% | ~10,576 |
 | Too Early | 5.00% | ~10,576 |
@@ -32,10 +32,10 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~6,346 |
 | Stoned | 3.00% | ~6,346 |
 | The Old Way | 3.00% | ~6,346 |
-| Atheist Ox | 2.00% | ~4,230 |
-| No Gimmicks | 2.00% | ~4,230 |
-| Old Man | 2.00% | ~4,230 |
-| Winner Winner | 2.00% | ~4,230 |
+| Atheist Ox | 2.00% | ~4,231 |
+| No Gimmicks | 2.00% | ~4,231 |
+| Old Man | 2.00% | ~4,231 |
+| Winner Winner | 2.00% | ~4,231 |
 | Meticulous | 1.00% | ~2,115 |
 | The End | 1.00% | ~2,115 |
 | Undeserved Honor | 1.00% | ~2,115 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~212 |
 | Release the Kraken | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,520 (Ranked 69)  
+Progressed: 211,528 (Ranked 69)  
 Completed: 93 (0.04%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 93 (0.04%) (Ranked 298)
 | 2023-10-31 | 211,148 | 92 |
 | 2023-11-01 | 211,306 | 93 |
 | 2023-11-02 | 211,473 | 93 |
-| 2023-11-03 | 211,520 | 93 |
+| 2023-11-03 | 211,528 | 93 |
 ## Awards
 Max (Great for Beginners): 569  (Ranked 197)  
 Sum: 4,820 (Ranked 139)  

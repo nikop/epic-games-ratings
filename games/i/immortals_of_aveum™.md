@@ -10,12 +10,12 @@ Rating: 3.95 (Ranked 998)
 | Enlisted | 86.00% | ~114 |
 | Maybe Engage a Little | 81.00% | ~107 |
 | No More Names | 66.00% | ~87 |
-| Initiate | 58.00% | ~77 |
+| Initiate | 59.00% | ~78 |
 | Thrada-Kul | 54.00% | ~71 |
 | Gravity-Challenged Rocks | 42.00% | ~55 |
 | All the Major Food Groups | 37.00% | ~49 |
 | Soldier | 35.00% | ~46 |
-| Beggars Would Ride | 31.00% | ~41 |
+| Beggars Would Ride | 32.00% | ~42 |
 | Control is an Illusion | 30.00% | ~40 |
 | Socialite | 30.00% | ~40 |
 | The Means to Save It | 23.00% | ~30 |
@@ -53,7 +53,7 @@ Rating: 3.95 (Ranked 998)
 | Tip of the Spear | 2.00% | ~3 |
 | Fowl Play | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 384)  
+Progressed: 132 (Ranked 385)  
 Completed: 1 (0.76%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |

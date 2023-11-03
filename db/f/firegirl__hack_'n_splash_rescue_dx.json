@@ -4,7 +4,7 @@
   "ProductSlug": "firegirl-29bf39",
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-10-11T15:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.8280616+00:00",
   "LastChanged": "2023-03-31T05:58:18.8280617+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.2860214+00:00",
-  "LastUpdate_Ratings": "2023-11-03T06:57:34.4442907+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:08:59.5860447+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:57:02.6831479+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:06:16.5357065+00:00"
 }

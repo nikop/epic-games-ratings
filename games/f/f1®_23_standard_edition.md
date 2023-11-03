@@ -5,31 +5,31 @@ Rating: 4.69 (Ranked 229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~4,088 |
-| On the Top Step | 86.00% | ~3,781 |
-| Setting up for Success | 75.00% | ~3,297 |
-| Team Orders | 73.00% | ~3,209 |
-| Engineer | 54.00% | ~2,374 |
-| Familiar Faces | 48.00% | ~2,110 |
-| Going the Extra Mile | 42.00% | ~1,846 |
-| Sharing the Love | 40.00% | ~1,758 |
-| Hitting a Season | 36.00% | ~1,583 |
-| Challenge Yourself | 32.00% | ~1,407 |
-| Making History | 31.00% | ~1,363 |
-| A Dozen Pieces | 30.00% | ~1,319 |
-| Network Success | 25.00% | ~1,099 |
-| Writing a new Chapter | 25.00% | ~1,099 |
-| Spring Cleaning | 23.00% | ~1,011 |
-| Reduce | 20.00% | ~879 |
-| Ups and Downs | 20.00% | ~879 |
-| Crucial Combo | 18.00% | ~791 |
-| Reuse | 17.00% | ~747 |
-| One for the Book | 17.00% | ~747 |
-| Proving Them Wrong | 16.00% | ~703 |
-| Gathering Dust | 15.00% | ~659 |
-| Oil and Water | 14.00% | ~615 |
-| Hitting a Bullseye | 14.00% | ~615 |
-| Lightning Round the World | 13.00% | ~571 |
+| Getting on the Step | 93.00% | ~4,092 |
+| On the Top Step | 86.00% | ~3,784 |
+| Setting up for Success | 75.00% | ~3,300 |
+| Team Orders | 73.00% | ~3,212 |
+| Engineer | 54.00% | ~2,376 |
+| Familiar Faces | 48.00% | ~2,112 |
+| Going the Extra Mile | 42.00% | ~1,848 |
+| Sharing the Love | 40.00% | ~1,760 |
+| Hitting a Season | 36.00% | ~1,584 |
+| Challenge Yourself | 32.00% | ~1,408 |
+| Making History | 31.00% | ~1,364 |
+| A Dozen Pieces | 30.00% | ~1,320 |
+| Network Success | 25.00% | ~1,100 |
+| Writing a new Chapter | 25.00% | ~1,100 |
+| Spring Cleaning | 23.00% | ~1,012 |
+| Reduce | 20.00% | ~880 |
+| Ups and Downs | 20.00% | ~880 |
+| Crucial Combo | 18.00% | ~792 |
+| Reuse | 17.00% | ~748 |
+| One for the Book | 17.00% | ~748 |
+| Proving Them Wrong | 16.00% | ~704 |
+| Gathering Dust | 15.00% | ~660 |
+| Oil and Water | 14.00% | ~616 |
+| Hitting a Bullseye | 14.00% | ~616 |
+| Lightning Round the World | 13.00% | ~572 |
 | Eagle Eye | 12.00% | ~528 |
 | All in a Weekend's Work | 12.00% | ~528 |
 | Spinning Around | 12.00% | ~528 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 229)
 | Elite Racer | 0.10% | ~4 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,396 (Ranked 185)  
+Progressed: 4,400 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 3,962 | 0 |
 | 2023-11-01 | 4,159 | 0 |
 | 2023-11-02 | 4,338 | 0 |
-| 2023-11-03 | 4,396 | 0 |
+| 2023-11-03 | 4,400 | 0 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 533)  
 Sum: 21 (Ranked 534)  

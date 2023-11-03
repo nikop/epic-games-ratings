@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Upholding the Law | 0.10% | ~234 |
 | Starving in the Jungle | 0.10% | ~234 |
 | Cold as Ice | 0.10% | ~200 |
+| Keep Your Friends Close | 0.10% | ~200 |
 | Friends and Foes | 0.10% | ~200 |
 | And Your Enemies Closer | 0.10% | ~200 |
 | Tall Tales | 0.10% | ~200 |
@@ -328,6 +329,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Mode | 0.10% | ~200 |
 | Wyllowwood | 0.10% | ~234 |
 | Displaced Anger | 0.10% | ~234 |
+| Ettercap Swarm | 0.10% | ~200 |
 | Smooth Talkers | 0.10% | ~200 |
 | Relay Race | 0.10% | ~234 |
 | An Illithid Undertaking | 0.10% | ~200 |
@@ -415,6 +417,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fortress Assault | 0.10% | ~200 |
 | Hats off to you! | 0.10% | ~200 |
 | The Bleeding Citadel | 0.10% | ~200 |
+| Don't Pick at the Scab | 0.10% | ~200 |
 | Idyllglen | 0.10% | ~200 |
 | The Madness of Yeenoghu | 0.10% | ~200 |
 | Reya Reborn | 0.10% | ~200 |
@@ -455,6 +458,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Watchful Eyes | 0.10% | ~200 |
 | Maroon Madness | 0.10% | ~200 |
 | The Rite of the Arcane Octad | 0.10% | ~200 |
+| Alien Allies | 0.10% | ~200 |
 | An Icewind Dale Reunion | 0.10% | ~200 |
 | The Netherese Necropolis | 0.10% | ~200 |
 | The Templar's Camp | 0.10% | ~234 |
@@ -464,11 +468,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.10% | ~234 |
 | The Court of Storms | 0.10% | ~200 |
 | Beware the Jabberwock | 0.10% | ~200 |
+| Quick or Quack | 0.10% | ~200 |
 | Willing to Sacrifice | 0.10% | ~200 |
 | Devilishly Cold | 0.10% | ~200 |
 | The Champion's Guide to Wildspace | 0.10% | ~200 |
 | Not That Type of Helm! | 0.10% | ~200 |
 | Tiny Treaty | 0.10% | ~200 |
+| All The World's A Stage | 0.10% | ~200 |
+| Goblin Halls: the Next Generation | 0.10% | ~200 |
 | Bazaar Companions | 0.10% | ~200 |
 | Bahamut's Army | 0.10% | ~200 |
 | Rocky Reception | 0.10% | ~200 |
@@ -485,6 +492,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~200 |
 | There's a Flying Snake in my Boot! | 0.10% | ~200 |
 | Legends and Lore | 0.10% | ~200 |
+| Unearthed Arcana | 0.10% | ~200 |
 | The End | 0.10% | ~200 |
 | All's Well That Ends Well | 0.10% | ~200 |
 | The Jungles of Doomspace | 0.10% | ~200 |
@@ -496,7 +504,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
 | See You on the Flipside | 0.10% | ~200 |
-| Keep Your Friends Close | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
 | Always Watching | 0.00% | ~0 |
 | First Third Out | 0.00% | ~0 |
@@ -512,14 +519,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mongrelfolk Incursion | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
-| Ettercap Swarm | 0.00% | ~0 |
 | Misty Undermountain | 0.00% | ~0 |
 | Fire and Brimstone | 0.00% | ~0 |
 | A Neutral Party | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
 | It's Cold Out There Today | 0.00% | ~0 |
 | It's Cold Out There Every Day | 0.00% | ~0 |
-| Don't Pick at the Scab | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
@@ -529,17 +534,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Fungal Excitation | 0.00% | ~0 |
-| Alien Allies | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
-| Quick or Quack | 0.00% | ~0 |
-| All The World's A Stage | 0.00% | ~0 |
 | Calcryx Tricks | 0.00% | ~0 |
-| Goblin Halls: the Next Generation | 0.00% | ~0 |
-| Unearthed Arcana | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,514 (Ranked 62)  
+Progressed: 233,516 (Ranked 62)  
 Completed: 2,425 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,514 | 2,425 |
+| 2023-11-03 | 233,516 | 2,425 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

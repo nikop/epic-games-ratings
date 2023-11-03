@@ -6835,9 +6835,9 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138510,
+  "EOS_Progressed": 138512,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 325,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -26925,6 +26925,11 @@
       "Time": "2023-11-03T07:10:05.0302748+00:00",
       "NumProgressed": 138510,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-03T08:07:42.8587889+00:00",
+      "NumProgressed": 138512,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27710,9 +27715,9 @@
       "ID": "sell01",
       "SetID": "anfd17p",
       "Name": "Capitalism Ho!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2770
+      "UsersEstimate": 4155
     },
     {
       "ID": "sell02",
@@ -27831,15 +27836,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138510,
+      "Progressed": 138512,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-02T13:04:13.013022+00:00",
-  "LastChanged_Achievements": "2023-11-03T07:10:05.0302741+00:00",
+  "LastChanged_Achievements": "2023-11-03T08:07:42.8587887+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:03:48.6768361+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:10:05.0307323+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:00:53.8475053+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:07:42.8589805+00:00"
 }

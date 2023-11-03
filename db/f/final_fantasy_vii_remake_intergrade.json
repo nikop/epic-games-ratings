@@ -4,10 +4,10 @@
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 43,
   "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 79,
+  "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-12-16T14:30:00+00:00",
@@ -4442,6 +4442,6 @@
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
   "LastChanged": "2023-11-03T00:02:51.5199174+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:34.5805165+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:04:44.1507358+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:11:04.5933736+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:02:31.6245787+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:09:07.6653297+00:00"
 }

@@ -6,56 +6,56 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 185.00% | ~239 |
-| Adept Assembler | 135.00% | ~174 |
-| Greeno-B-Gone | 88.00% | ~114 |
-| Your Especially Earned Trajectory | 67.00% | ~86 |
-| Can We Keep It? | 43.00% | ~55 |
-| No Mountain Wide Enough | 35.00% | ~45 |
-| My Time Mansion | 30.00% | ~39 |
-| Happier-est Place on Earth | 24.00% | ~31 |
-| Call Me Fishmael | 24.00% | ~31 |
-| Finishing Touches | 22.00% | ~28 |
-| Anti-Santa | 22.00% | ~28 |
-| On that Grindset | 19.00% | ~25 |
-| You Don't Win Friends With Salad | 19.00% | ~25 |
-| Yakmel Whisperer | 19.00% | ~25 |
-| I Do! | 16.00% | ~21 |
-| Officially Official | 15.00% | ~19 |
-| Knowledge is Power | 14.00% | ~18 |
-| Jewel of the Eufaula | 14.00% | ~18 |
-| Better Late than Never | 10.00% | ~13 |
-| Mole Masher | 10.00% | ~13 |
-| Pack Mule | 9.00% | ~12 |
-| Jack of All Trades | 7.00% | ~9 |
-| Diamonds are Forever | 7.00% | ~9 |
-| Panda-kin | 5.00% | ~6 |
-| He Can Spin A Yarn... | 5.00% | ~6 |
-| First Love | 5.00% | ~6 |
-| One of the Cool Kids | 4.00% | ~5 |
-| Pro Gamer | 4.00% | ~5 |
-| Just What I Always Wanted! | 4.00% | ~5 |
+| Iron Chef | 178.00% | ~251 |
+| Adept Assembler | 129.00% | ~182 |
+| Greeno-B-Gone | 84.00% | ~118 |
+| Your Especially Earned Trajectory | 65.00% | ~92 |
+| Can We Keep It? | 40.00% | ~56 |
+| No Mountain Wide Enough | 34.00% | ~48 |
+| My Time Mansion | 28.00% | ~39 |
+| Happier-est Place on Earth | 24.00% | ~34 |
+| Finishing Touches | 22.00% | ~31 |
+| Call Me Fishmael | 22.00% | ~31 |
+| Anti-Santa | 21.00% | ~30 |
+| On that Grindset | 18.00% | ~25 |
+| You Don't Win Friends With Salad | 18.00% | ~25 |
+| Yakmel Whisperer | 17.00% | ~24 |
+| Jewel of the Eufaula | 14.00% | ~20 |
+| I Do! | 14.00% | ~20 |
+| Knowledge is Power | 13.00% | ~18 |
+| Officially Official | 13.00% | ~18 |
+| Mole Masher | 11.00% | ~16 |
+| Pack Mule | 9.00% | ~13 |
+| Better Late than Never | 9.00% | ~13 |
+| Jack of All Trades | 7.00% | ~10 |
+| Diamonds are Forever | 6.00% | ~8 |
+| First Love | 5.00% | ~7 |
+| Panda-kin | 4.00% | ~6 |
+| He Can Spin A Yarn... | 4.00% | ~6 |
+| Cardistry | 4.00% | ~6 |
+| Chatterbox | 4.00% | ~6 |
+| One of the Cool Kids | 4.00% | ~6 |
+| Pro Gamer | 4.00% | ~6 |
+| Just What I Always Wanted! | 4.00% | ~6 |
 | Kind of a Big Deal | 3.00% | ~4 |
-| Cardistry | 3.00% | ~4 |
-| Chatterbox | 3.00% | ~4 |
-| Time Flies | 2.00% | ~3 |
 | Big Game Hunter | 2.00% | ~3 |
 | Commissions, commissions...! | 2.00% | ~3 |
 | Financially Secure | 2.00% | ~3 |
 | What Plants Crave | 2.00% | ~3 |
-| Santa In Training | 2.00% | ~3 |
-| Got the Receipt? | 2.00% | ~3 |
-| Unboxing | 2.00% | ~3 |
 | Do Your Part | 2.00% | ~3 |
-| Waste Not Want Not | 2.00% | ~3 |
-| Newton | 2.00% | ~3 |
-| Bridging the Gap | 0.80% | ~1 |
-| Martle's Dream | 0.80% | ~1 |
-| Elementary, My Dear | 0.80% | ~1 |
-| Lifeline Pipeline | 0.80% | ~1 |
-| Got Served | 0.80% | ~1 |
-| Sandrock's Hottest Club | 0.80% | ~1 |
-| Sandrunning Speedster | 0.80% | ~1 |
+| Time Flies | 1.00% | ~1 |
+| Santa In Training | 1.00% | ~1 |
+| Got the Receipt? | 1.00% | ~1 |
+| Unboxing | 1.00% | ~1 |
+| Waste Not Want Not | 1.00% | ~1 |
+| Newton | 1.00% | ~1 |
+| Bridging the Gap | 0.70% | ~1 |
+| Martle's Dream | 0.70% | ~1 |
+| Elementary, My Dear | 0.70% | ~1 |
+| Lifeline Pipeline | 0.70% | ~1 |
+| Got Served | 0.70% | ~1 |
+| Sandrock's Hottest Club | 0.70% | ~1 |
+| Sandrunning Speedster | 0.70% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |
@@ -67,13 +67,13 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 385)  
+Progressed: 141 (Ranked 381)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
-| 2023-11-03 | 132 | 0 |
+| 2023-11-03 | 141 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,299 (Ranked 237)  

@@ -2765,9 +2765,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 659214,
+  "EOS_Progressed": 659217,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1886,
+  "EOS_NewPlayers": 1879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25125,6 +25125,11 @@
       "Time": "2023-11-03T07:10:52.3739815+00:00",
       "NumProgressed": 659214,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-03T08:08:49.7860462+00:00",
+      "NumProgressed": 659217,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -25136,7 +25141,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 98882
+      "UsersEstimate": 98883
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -25152,7 +25157,7 @@
       "Name": "Voyager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19776
+      "UsersEstimate": 19777
     },
     {
       "ID": "_01_03_DISTANCE_1000_EASY",
@@ -25232,7 +25237,7 @@
       "Name": "Expert Voyager",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4614
+      "UsersEstimate": 4615
     },
     {
       "ID": "_01_13_DISTANCE_1000_HARD",
@@ -25264,7 +25269,7 @@
       "Name": "Orient Express",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 19776
+      "UsersEstimate": 19777
     },
     {
       "ID": "_01_22_TRACKS_2000",
@@ -25304,7 +25309,7 @@
       "Name": "Marathon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19776
+      "UsersEstimate": 19777
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -25336,7 +25341,7 @@
       "Name": "Destructionist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 19776
+      "UsersEstimate": 19777
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -25384,7 +25389,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112066
+      "UsersEstimate": 112067
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -25424,7 +25429,7 @@
       "Name": "Shopaholic",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4614
+      "UsersEstimate": 4615
     },
     {
       "ID": "_04_00_COLLECTOR",
@@ -25456,7 +25461,7 @@
       "Name": "Climate Change",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 105474
+      "UsersEstimate": 105475
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -25551,15 +25556,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 659214,
+      "Progressed": 659217,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-01T01:47:12.9011919+00:00",
-  "LastChanged_Achievements": "2023-11-03T07:10:52.3739807+00:00",
+  "LastChanged_Achievements": "2023-11-03T08:08:49.7860459+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:04.114706+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:04:07.9437782+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:10:52.3743+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:01:16.4099885+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:08:49.7861602+00:00"
 }

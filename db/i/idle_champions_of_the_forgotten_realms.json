@@ -7795,9 +7795,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233514,
+  "EOS_Progressed": 233516,
   "EOS_Completed": 2425,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29785,6 +29785,11 @@
       "Time": "2023-11-03T07:05:46.7277678+00:00",
       "NumProgressed": 233514,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-03T08:04:01.8027385+00:00",
+      "NumProgressed": 233516,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 532,
@@ -29842,9 +29847,9 @@
       "ID": "objective_completed_1041",
       "SetID": "415jc5c",
       "Name": "Keep Your Friends Close",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1045",
@@ -32474,9 +32479,9 @@
       "ID": "objective_completed_617",
       "SetID": "415jc5c",
       "Name": "Ettercap Swarm",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_618",
@@ -33226,9 +33231,9 @@
       "ID": "objective_completed_838",
       "SetID": "415jc5c",
       "Name": "Don\u0027t Pick at the Scab",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_839",
@@ -33626,9 +33631,9 @@
       "ID": "objective_completed_929",
       "SetID": "415jc5c",
       "Name": "Alien Allies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_930",
@@ -33730,9 +33735,9 @@
       "ID": "objective_completed_1361",
       "SetID": "415jc5c",
       "Name": "Quick or Quack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1042",
@@ -33778,9 +33783,9 @@
       "ID": "objective_completed_1332",
       "SetID": "415jc5c",
       "Name": "All The World\u0027s A Stage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_568",
@@ -33794,9 +33799,9 @@
       "ID": "objective_completed_593",
       "SetID": "415jc5c",
       "Name": "Goblin Halls: the Next Generation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_663",
@@ -33930,9 +33935,9 @@
       "ID": "objective_completed_1366",
       "SetID": "415jc5c",
       "Name": "Unearthed Arcana",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1370",
@@ -34051,21 +34056,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199788,
-      "Completed": 3814
+      "Progressed": 199790,
+      "Completed": 3818
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233514,
+      "Progressed": 233516,
       "Completed": 2425
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
-  "LastChanged_Achievements": "2023-11-03T07:05:46.7277668+00:00",
+  "LastChanged_Achievements": "2023-11-03T08:04:01.8027382+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:02:34.1738974+00:00",
-  "LastUpdate_Achievements": "2023-11-03T07:05:46.7331119+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:59:28.3079713+00:00",
+  "LastUpdate_Achievements": "2023-11-03T08:04:01.8049069+00:00"
 }

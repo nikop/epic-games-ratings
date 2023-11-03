@@ -10,9 +10,9 @@
 | Demolition expert | 40.00% | ~56 |
 | I didn't do it! | 40.00% | ~56 |
 | Wooooooow! | 37.00% | ~51 |
+| Artistic fool | 35.00% | ~49 |
 | Open up wide | 35.00% | ~49 |
 | Keep away from children | 35.00% | ~49 |
-| Artistic fool | 34.00% | ~47 |
 | Let the boot talk | 31.00% | ~43 |
 | Chapter II | 27.00% | ~38 |
 | Shadow on the wall | 25.00% | ~35 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139 (Ranked 381)  
+Progressed: 139 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |

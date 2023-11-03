@@ -40,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 2.00% | ~302 |
 | Strong Cities | 2.00% | ~302 |
 | Able Difficulty | 2.00% | ~302 |
+| Artisans | 2.00% | ~302 |
 | Furious Family | 2.00% | ~302 |
 | Apadana | 2.00% | ~302 |
 | Colossus | 2.00% | ~302 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 1.00% | ~151 |
 | Good Difficulty | 1.00% | ~151 |
 | Just Difficulty | 1.00% | ~151 |
-| Artisans | 1.00% | ~151 |
 | Champions | 1.00% | ~151 |
 | Patrons | 1.00% | ~151 |
 | Riders | 1.00% | ~151 |

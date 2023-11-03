@@ -14,10 +14,10 @@ Rating: 4.86 (Ranked 28)
 | You got this, Peppermint? | 12.00% | ~504 |
 | Perfect Parry | 12.00% | ~504 |
 | This will cost you big time | 11.00% | ~462 |
+| Uh, they were broken when I got here | 11.00% | ~462 |
 | Alright, that felt AWESOME! | 11.00% | ~462 |
 | I play my own way! | 10.00% | ~420 |
 | Z-shielding's got nothing on us! | 10.00% | ~420 |
-| Uh, they were broken when I got here | 10.00% | ~420 |
 | Kissing the sky! | 10.00% | ~420 |
 | The Negotiator | 9.00% | ~378 |
 | Whoa! There's ANOTHER health bar!? | 9.00% | ~378 |
