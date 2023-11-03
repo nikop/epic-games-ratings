@@ -421,6 +421,7 @@
 | [Lucky Goal](../games/7/7a78425e9d094942bd44700957de54da.md) | 29 | 1,000 |
 | [Q.U.B.E. 2](../games/q/q.u.b.e._2.md) | 29 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
+| [The Invincible](../games/t/the_invincible.md) | 29 | 1,000 |
 | [The Uncertain: Light at the End](../games/t/the_uncertain__light_at_the_end.md) | 29 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
