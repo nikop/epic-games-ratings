@@ -80,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 1.00% | ~151 |
 | Acropolis | 1.00% | ~151 |
 | Circus Maximus | 1.00% | ~151 |
+| Temple of Solomon | 1.00% | ~151 |
 | Mausoleum | 1.00% | ~151 |
 | Learn to Play 3 | 1.00% | ~151 |
 | Greece | 1.00% | ~151 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.90% | ~136 |
 | Hittite Iron | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
-| Temple of Solomon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
 | Economic Reform | 0.90% | ~136 |
 | Military Prestige | 0.90% | ~136 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,115 (Ranked 144)  
-Completed: 5 (0.03%) (Ranked 304)  
+Completed: 5 (0.03%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

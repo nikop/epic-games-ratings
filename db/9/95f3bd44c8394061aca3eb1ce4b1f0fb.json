@@ -2,9 +2,9 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -529,6 +529,11 @@
       "Time": "2023-11-02T18:06:12.2357426+00:00",
       "NumProgressed": 110,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T17:06:07.5739135+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -572,21 +577,21 @@
       "Name": "Friendship",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:06:40.4137502+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:06:07.5739129+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.0909066+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:00:08.7874574+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:06:40.4137615+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:15.3482359+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:06:07.573924+00:00"
 }

@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1753,
+  "EOS_Progressed": 1754,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6544,6 +6544,11 @@
       "Time": "2023-11-03T16:09:17.3498192+00:00",
       "NumProgressed": 1753,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T17:08:32.7112932+00:00",
+      "NumProgressed": 1754,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6641,9 +6646,9 @@
       "ID": "objective_headquarters_15",
       "SetID": "bm61c2p",
       "Name": "Moving On Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 105
     },
     {
       "ID": "objective_headquarters_20",
@@ -6858,7 +6863,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1753,
+      "Progressed": 1754,
       "Completed": 1
     }
   ],
@@ -6866,8 +6871,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:17.3498187+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:08:32.7112923+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:15.5356942+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:17.3498997+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:59:15.6470476+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:08:32.711368+00:00"
 }

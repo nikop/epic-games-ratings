@@ -1942,17 +1942,17 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "PROGRESS_N4",
@@ -1981,8 +1981,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:15.0800298+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:08:30.8537696+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:02:05.2827401+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:15.0800626+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:01:59.4421696+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:08:30.8538066+00:00"
 }

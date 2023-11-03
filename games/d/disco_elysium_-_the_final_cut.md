@@ -7,16 +7,16 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,516 |
-| Biggest Communism Builder | 24.00% | ~31,299 |
+| Biggest Communism Builder | 24.00% | ~31,300 |
 | The World's Most Laughable Centrist | 21.00% | ~27,387 |
-| Il Coppo Del'Arte! | 18.00% | ~23,474 |
+| Il Coppo Del'Arte! | 18.00% | ~23,475 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,866 |
 | Hyperstellar Law Official | 16.00% | ~20,866 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,258 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,258 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,954 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,345 |
-| The Figurines Won't Win Her Back | 10.00% | ~13,041 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,346 |
+| The Figurines Won't Win Her Back | 10.00% | ~13,042 |
 | Unbelievably Boring **** | 9.00% | ~11,737 |
 | Enemy Of The Physical Realm | 8.00% | ~10,433 |
 | Hardie's Heroes | 6.00% | ~7,825 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~130 |
 | What body? | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,413 (Ranked 81)  
+Progressed: 130,415 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,14 +244,14 @@ Completed: 28 (0.02%) (Ranked 311)
 | 2023-10-31 | 130,326 | 28 |
 | 2023-11-01 | 130,353 | 28 |
 | 2023-11-02 | 130,386 | 28 |
-| 2023-11-03 | 130,413 | 28 |
+| 2023-11-03 | 130,415 | 28 |
 ## Awards
-Max (Character Customization): 734  (Ranked 175)  
-Sum: 1,112 (Ranked 246)  
-Diff (max vs sum): -71  
+Max (Character Customization): 735  (Ranked 174)  
+Sum: 1,113 (Ranked 246)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 734 |
+| This game has Inclusive Character Customization | 735 |
 | This game has Amazing Storytelling | 49 |
 | This game is Educational | 45 |
 | This game is Highly Recommended | 44 |
@@ -411,3 +411,4 @@ Diff (max vs sum): -71
 | 2023-10-26 | 4.87 | - | 734 | 1,110 |
 | 2023-10-29 | 4.87 | - | 734 | 1,111 |
 | 2023-11-01 | 4.87 | - | 734 | 1,112 |
+| 2023-11-03 | 4.87 | - | 735 | 1,113 |

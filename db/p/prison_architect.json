@@ -6519,7 +6519,7 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 190256,
+  "EOS_Progressed": 190274,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 2494,
   "EOS_NewCompleters": 0,
@@ -28899,6 +28899,11 @@
       "Time": "2023-11-03T16:10:11.1341378+00:00",
       "NumProgressed": 190256,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T17:09:19.436142+00:00",
+      "NumProgressed": 190274,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -28942,7 +28947,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30441
+      "UsersEstimate": 30444
     },
     {
       "ID": "Achievement_13",
@@ -28990,7 +28995,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 47564
+      "UsersEstimate": 47568
     },
     {
       "ID": "Achievement_5",
@@ -29022,7 +29027,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17123
+      "UsersEstimate": 17125
     },
     {
       "ID": "Achievement_9",
@@ -29030,22 +29035,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9513
+      "UsersEstimate": 9514
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 190256,
+      "Progressed": 190274,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-03T15:59:59.4068419+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:10:11.1341373+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:09:19.4361414+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:12.0759193+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:59.4068426+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:10:11.1343125+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:08.4409269+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:09:19.4363029+00:00"
 }

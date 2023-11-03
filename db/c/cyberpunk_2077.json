@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14630,9 +14630,9 @@
       "Count": 12269
     }
   ],
-  "EOS_Progressed": 895052,
+  "EOS_Progressed": 895061,
   "EOS_Completed": 2739,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -36930,6 +36930,11 @@
       "Time": "2023-11-03T16:07:32.4744147+00:00",
       "NumProgressed": 895052,
       "NumCompleted": 2739
+    },
+    {
+      "Time": "2023-11-03T17:06:52.7846068+00:00",
+      "NumProgressed": 895061,
+      "NumCompleted": 2739
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37270,7 +37275,7 @@
       "Name": "V for Vendetta",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8055
+      "UsersEstimate": 8056
     },
     {
       "ID": "YipMan",
@@ -37477,21 +37482,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895052,
+      "Progressed": 895061,
       "Completed": 2739
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23675,
-      "Completed": 10179
+      "Progressed": 23684,
+      "Completed": 10180
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-03T15:59:56.7510211+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:07:32.4744142+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:06:52.7846062+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:56.7510218+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:07:32.4746044+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:05.9432696+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:06:52.7848109+00:00"
 }

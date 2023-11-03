@@ -4,7 +4,7 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -207,6 +207,11 @@
       "Time": "2023-10-18T12:06:30.1900211+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T17:04:31.6189653+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -216,7 +221,7 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 20,
       "UsersEstimate": 21
     },
@@ -224,7 +229,7 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -232,7 +237,7 @@
       "ID": "11",
       "SetID": "6ljhbe4",
       "Name": "Think Positive",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -256,7 +261,7 @@
       "ID": "14",
       "SetID": "6ljhbe4",
       "Name": "Festival Fever",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -296,7 +301,7 @@
       "ID": "19",
       "SetID": "6ljhbe4",
       "Name": "Landscaper",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -304,7 +309,7 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -328,7 +333,7 @@
       "ID": "22",
       "SetID": "6ljhbe4",
       "Name": "Just One More Go",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -360,7 +365,7 @@
       "ID": "3",
       "SetID": "6ljhbe4",
       "Name": "Kingdom Party Time",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -392,7 +397,7 @@
       "ID": "7",
       "SetID": "6ljhbe4",
       "Name": "Lecturer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -408,7 +413,7 @@
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 60,
       "UsersEstimate": 12
     }
@@ -417,7 +422,7 @@
     {
       "ID": "6ljhbe4",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
@@ -425,8 +430,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:04:44.5435696+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:04:31.6189647+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.3428798+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:31.536145+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:04:44.5435936+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:59:34.2028346+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:04:31.6190339+00:00"
 }

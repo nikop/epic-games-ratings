@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~25,114 |
-| Landlord | 33.00% | ~21,250 |
+| Lawbringer | 39.00% | ~25,115 |
+| Landlord | 33.00% | ~21,251 |
 | Bannerlord | 23.00% | ~14,811 |
 | Horde breaker | 23.00% | ~14,811 |
 | Lawmaker | 23.00% | ~14,811 |
 | Trained | 23.00% | ~14,811 |
 | The king is pleased | 19.00% | ~12,235 |
 | King Solomon | 17.00% | ~10,947 |
-| Apple of my eye | 16.00% | ~10,303 |
-| I can do it | 16.00% | ~10,303 |
-| God of the Arena | 13.00% | ~8,371 |
-| This Is Our Land | 13.00% | ~8,371 |
-| Against all odds | 12.00% | ~7,727 |
+| Apple of my eye | 16.00% | ~10,304 |
+| I can do it | 16.00% | ~10,304 |
+| God of the Arena | 13.00% | ~8,372 |
+| This Is Our Land | 13.00% | ~8,372 |
+| Against all odds | 12.00% | ~7,728 |
 | Duelist | 10.00% | ~6,440 |
 | Dynasty | 10.00% | ~6,440 |
 | I spit on your grave | 10.00% | ~6,440 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,395 (Ranked 102)  
+Progressed: 64,397 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,10 +255,10 @@ Completed: 0 (0.00%) (Ranked 340)
 | 2023-10-31 | 64,251 | 0 |
 | 2023-11-01 | 64,306 | 0 |
 | 2023-11-02 | 64,362 | 0 |
-| 2023-11-03 | 64,395 | 0 |
+| 2023-11-03 | 64,397 | 0 |
 ## Awards
 Max (Character Customization): 7,317  (Ranked 52)  
-Sum: 15,108 (Ranked 66)  
+Sum: 15,109 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -14
 | This game is Highly Recommended | 915 |
 | This game is Extremely Fun | 863 |
 | This game has Amazing Characters | 850 |
-| This game has Amazing Storytelling | 848 |
+| This game has Amazing Storytelling | 849 |
 | This game is Relaxing | 845 |
 | This game has Quickly Understood Controls | 822 |
 | This game has a Creative Community | 628 |
@@ -569,4 +569,4 @@ Diff (max vs sum): -14
 | 2023-10-31 | 4.74 | - | 7,306 | 15,074 |
 | 2023-11-01 | 4.74 | - | 7,315 | 15,096 |
 | 2023-11-02 | 4.74 | - | 7,317 | 15,107 |
-| 2023-11-03 | 4.74 | - | 7,317 | 15,108 |
+| 2023-11-03 | 4.74 | - | 7,317 | 15,109 |

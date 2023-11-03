@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 29.00% | ~20 |
+| Pioneer | 28.00% | ~20 |
 | Firefighter | 7.00% | ~5 |
 | Collector | 6.00% | ~4 |
 | Summoner | 4.00% | ~3 |
@@ -21,7 +21,7 @@
 | Runner | 1.00% | ~1 |
 | Legendary knight | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 432)  
+Progressed: 71 (Ranked 432)  
 Completed: 0 (0.00%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 340)
 | 2023-10-29 | 68 | 0 |
 | 2023-10-30 | 69 | 0 |
 | 2023-10-31 | 70 | 0 |
+| 2023-11-03 | 71 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

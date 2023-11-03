@@ -2,9 +2,9 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -983,9 +983,9 @@
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 303
     },
     {
       "ID": "SILENT",
@@ -1048,8 +1048,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:54.0258184+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:09:04.8310326+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:37.7430888+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:02:28.404485+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:54.0258516+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:02:19.829733+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:09:04.8310648+00:00"
 }

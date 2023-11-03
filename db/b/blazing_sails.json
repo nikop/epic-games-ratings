@@ -4,10 +4,10 @@
   "ProductSlug": "blazing-sails",
   "Ranking_Rating": 1011,
   "Ranking_Popularity": 288,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -807,10 +807,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 1116,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-11-03T16:57:56.4495772+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 1123,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1116,
+  "NumberOfAwards": 1123,
   "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -872,7 +878,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 139
+      "Count": 146
     }
   ],
   "EOS_Progressed": 0,
@@ -887,8 +893,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-11-03T11:57:46.8009436+00:00",
+  "LastChanged": "2023-11-03T16:57:56.4495771+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:29.5059424+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:58:06.3032497+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:50.7860284+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:57:56.4495777+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:09:01.8598806+00:00"
 }

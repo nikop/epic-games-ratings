@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2833,9 +2833,9 @@
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 275
+      "UsersEstimate": 281
     },
     {
       "ID": "ID_32_SONICCD_CLEAR_ALL_STAGE",
@@ -2881,8 +2881,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:10:59.6768896+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:10:20.726892+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:11.3085662+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:00:54.7346008+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:10:59.6769345+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:55.5363549+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:10:20.7269343+00:00"
 }

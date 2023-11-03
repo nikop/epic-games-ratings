@@ -2,9 +2,9 @@
   "ID": "aafa05b8be6a44019e376f516640f173",
   "Name": "Fabular: Once Upon a Spacetime",
   "ProductSlug": "fabular-once-upon-a-spacetime-b73ba1",
-  "Ranking_EOS_Progress": 574,
+  "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-10T15:00:00+00:00",
@@ -124,6 +124,6 @@
   "LastChanged": "2023-03-31T05:58:05.2361399+00:00",
   "LastChanged_Achievements": "2023-11-03T16:04:26.48932+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:25.7727814+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:58:32.2043918+00:00",
+  "LastUpdate_Ratings": "2023-11-03T16:58:23.7996863+00:00",
   "LastUpdate_Achievements": "2023-11-03T16:04:26.4893287+00:00"
 }

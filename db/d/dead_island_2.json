@@ -6007,18 +6007,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 10353,
       "NumberOfAwardsMax": 6847
+    },
+    {
+      "Time": "2023-11-03T17:01:52.0203437+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10440,
+      "NumberOfAwardsMax": 6934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10353,
-  "NumberOfAwardsMax": 6847,
+  "NumberOfAwards": 10440,
+  "NumberOfAwardsMax": 6934,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6847
+      "Count": 6934
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6069,11 +6075,11 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 711437,
-  "EOS_Completed": 2311,
-  "EOS_NewPlayers": 6095,
-  "EOS_NewCompleters": 37,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 711481,
+  "EOS_Completed": 2314,
+  "EOS_NewPlayers": 6068,
+  "EOS_NewCompleters": 40,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.991885+00:00",
@@ -28534,6 +28540,11 @@
       "Time": "2023-11-03T16:05:44.9320402+00:00",
       "NumProgressed": 711437,
       "NumCompleted": 2311
+    },
+    {
+      "Time": "2023-11-03T17:05:19.4207614+00:00",
+      "NumProgressed": 711481,
+      "NumCompleted": 2314
     }
   ],
   "TotalAchievements": 51,
@@ -28903,9 +28914,9 @@
       "ID": "ach_brink_of_success",
       "SetID": "344c43k",
       "Name": "One of Us",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_dark_magic",
@@ -28952,22 +28963,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 711437,
-      "Completed": 2311
+      "Progressed": 711481,
+      "Completed": 2314
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 36979,
-      "Completed": 36383
+      "Progressed": 37023,
+      "Completed": 36384
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-03T13:06:32.7887996+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:05:44.9320393+00:00",
+  "LastChanged": "2023-11-03T17:01:52.0203435+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:05:19.4207608+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:01:50.8698676+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:05:44.9322754+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:01:52.0203442+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:05:19.4209592+00:00"
 }

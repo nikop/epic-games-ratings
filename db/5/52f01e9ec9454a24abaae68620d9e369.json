@@ -4,7 +4,7 @@
   "ProductSlug": "video-game-trivia-5db425",
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-11T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T14:57:17.9794288+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:09.6979285+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:08:28.5658403+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:59:10.7657738+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:07:50.539074+00:00"
 }

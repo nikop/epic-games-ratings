@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 520)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 0.40% | ~148 |
+| One of Us | 0.30% | ~111 |
 | Pork Chopped | 0.30% | ~111 |
-| One of Us | 0.20% | ~74 |
 | Dr. Reed, I Presume? | 0.10% | ~711 |
 | Making Your Mark | 0.10% | ~711 |
 | Git Gutte! | 0.10% | ~711 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 520)
 | Wilhelm | 0.10% | ~37 |
 | Top That, Tisha! | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,437 (Ranked 22)  
-Completed: 2,311 (0.32%) (Ranked 216)  
+Progressed: 711,481 (Ranked 22)  
+Completed: 2,314 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -254,14 +254,14 @@ Completed: 2,311 (0.32%) (Ranked 216)
 | 2023-10-31 | 709,584 | 2,291 |
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
-| 2023-11-03 | 711,437 | 2,311 |
+| 2023-11-03 | 711,481 | 2,314 |
 ## Awards
-Max (Great Boss Battles): 6,847  (Ranked 54)  
-Sum: 10,353 (Ranked 90)  
+Max (Great Boss Battles): 6,934  (Ranked 54)  
+Sum: 10,440 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,847 |
+| This game has Great Boss Battles | 6,934 |
 | This game is Great for Beginners | 502 |
 | This game has Diverse Characters | 486 |
 | This game has Quickly Understood Controls | 458 |
@@ -469,4 +469,4 @@ Diff (max vs sum): -36
 | 2023-10-31 | 4.54 | 6,773 | 10,214 |
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
-| 2023-11-03 | 4.54 | 6,847 | 10,353 |
+| 2023-11-03 | 4.54 | 6,934 | 10,440 |

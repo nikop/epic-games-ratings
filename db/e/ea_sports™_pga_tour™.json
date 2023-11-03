@@ -1718,9 +1718,9 @@
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 277
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_9",
@@ -1740,8 +1740,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:54.8583574+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:09:05.5143314+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:57:40.6501763+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:54.8583908+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:57:37.2023911+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:09:05.5143598+00:00"
 }

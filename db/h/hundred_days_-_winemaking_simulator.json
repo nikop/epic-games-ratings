@@ -6,7 +6,7 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 10759,
+  "EOS_Progressed": 10764,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8764,6 +8764,11 @@
       "Time": "2023-11-03T16:09:34.1712183+00:00",
       "NumProgressed": 10759,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-03T17:08:47.4248934+00:00",
+      "NumProgressed": 10764,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8824,7 +8829,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4306
     },
     {
       "ID": "a_19",
@@ -8864,7 +8869,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "a_23",
@@ -9023,7 +9028,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 10759,
+      "Progressed": 10764,
       "Completed": 10
     }
   ],
@@ -9031,8 +9036,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:34.1712177+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:08:47.4248927+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:27.5126995+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:36.0340065+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:34.1712953+00:00"
+  "LastUpdate_Ratings": "2023-11-03T16:59:42.6296268+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:08:47.4249723+00:00"
 }

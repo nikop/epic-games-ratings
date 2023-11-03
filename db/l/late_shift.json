@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 617,
+  "EOS_Progressed": 618,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -1320,6 +1320,11 @@
       "Time": "2023-11-03T16:08:35.4573474+00:00",
       "NumProgressed": 617,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T17:07:56.6350823+00:00",
+      "NumProgressed": 618,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 20,
@@ -1331,7 +1336,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1379,7 +1384,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ENDING_6",
@@ -1395,7 +1400,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -1481,16 +1486,16 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 284
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 617,
+      "Progressed": 618,
       "Completed": 8
     }
   ],
@@ -1498,8 +1503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:08:35.457347+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:07:56.6350815+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:45.4949281+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:02:38.3365793+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:08:35.4573863+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:02:28.0778909+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:07:56.6351076+00:00"
 }

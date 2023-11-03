@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_BOSS_04",
@@ -301,9 +301,9 @@
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_DEATH_3",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:07:12.7438435+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:06:35.8814223+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:00:18.3343305+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:07:12.7438843+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:23.0599412+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:06:35.8814594+00:00"
 }

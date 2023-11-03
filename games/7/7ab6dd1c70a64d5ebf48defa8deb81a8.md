@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 41.00% | ~36 |
-| Trinity | 14.00% | ~12 |
-| Shatter Them All | 14.00% | ~12 |
-| I Found It | 14.00% | ~12 |
-| Find Allies | 13.00% | ~11 |
-| A Taste of Wrath | 13.00% | ~11 |
-| The Collector | 13.00% | ~11 |
+| Break Out | 42.00% | ~37 |
+| Trinity | 13.00% | ~12 |
+| Shatter Them All | 13.00% | ~12 |
+| I Found It | 13.00% | ~12 |
+| Find Allies | 12.00% | ~11 |
+| A Taste of Wrath | 12.00% | ~11 |
+| The Collector | 12.00% | ~11 |
 | Powerful Allies | 11.00% | ~10 |
 | Adventurer | 11.00% | ~10 |
 | Fashion Victim | 11.00% | ~10 |
@@ -19,10 +19,10 @@
 | Essence Blow | 8.00% | ~7 |
 | Airborne | 6.00% | ~5 |
 | Miner | 6.00% | ~5 |
-| Calm before the Storm | 5.00% | ~4 |
-| To Battle | 5.00% | ~4 |
-| Godslayer | 5.00% | ~4 |
-| Stone Collection | 5.00% | ~4 |
+| Calm before the Storm | 4.00% | ~4 |
+| To Battle | 4.00% | ~4 |
+| Godslayer | 4.00% | ~4 |
+| Stone Collection | 4.00% | ~4 |
 | The Mentor | 3.00% | ~3 |
 | Tributes of Caladrias | 3.00% | ~3 |
 | Alchemist | 3.00% | ~3 |
@@ -41,8 +41,8 @@
 | Summiter | 0.00% | ~0 |
 | Shatterer | -1.10% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 418)  
-Completed: 1 (1.14%) (Ranked 149)  
+Progressed: 89 (Ranked 418)  
+Completed: 1 (1.12%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,4 +68,4 @@ Completed: 1 (1.14%) (Ranked 149)
 | 2023-10-31 | 41 | 1 |
 | 2023-11-01 | 55 | 1 |
 | 2023-11-02 | 76 | 1 |
-| 2023-11-03 | 88 | 1 |
+| 2023-11-03 | 89 | 1 |

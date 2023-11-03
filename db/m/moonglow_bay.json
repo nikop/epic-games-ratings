@@ -4,7 +4,7 @@
   "ProductSlug": "moonglow-bay",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -403,8 +403,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:31.4203157+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:08:44.7570237+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:01.4602315+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:02:59.2885196+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:31.4203521+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:02:48.2981182+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:08:44.7570537+00:00"
 }

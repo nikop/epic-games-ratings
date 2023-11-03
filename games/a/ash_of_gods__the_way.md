@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 100.00% | ~15 |
+| First success | 107.00% | ~16 |
 | Suicide squad | 53.00% | ~8 |
 | First blood | 27.00% | ~4 |
 | Train hard, fight easy | 20.00% | ~3 |

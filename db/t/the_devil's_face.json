@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 2,
@@ -2324,6 +2324,11 @@
       "Time": "2023-11-03T16:09:25.8306173+00:00",
       "NumProgressed": 541,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-03T17:08:40.3667061+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2333,9 +2338,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 243
+      "UsersEstimate": 238
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2351,7 +2356,7 @@
       "Name": "The crucifixion",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2383,7 +2388,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2391,7 +2396,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2439,21 +2444,21 @@
       "Name": "Flagellation",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:09:25.8306167+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:08:40.3667055+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:03:07.0200326+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:09:25.8306464+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:02:55.003204+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:08:40.3667351+00:00"
 }

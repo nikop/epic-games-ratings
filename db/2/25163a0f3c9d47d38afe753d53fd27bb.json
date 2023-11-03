@@ -2913,17 +2913,17 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 91
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 55,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_023",
@@ -3000,8 +3000,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:10:59.3698343+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:10:20.4506811+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.2776095+00:00",
-  "LastUpdate_Ratings": "2023-11-03T16:00:24.0163762+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:10:59.36988+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:28.0604235+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:10:20.4507254+00:00"
 }

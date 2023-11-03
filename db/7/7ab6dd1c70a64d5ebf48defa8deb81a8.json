@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -355,6 +355,11 @@
       "Time": "2023-11-03T12:21:49.3124517+00:00",
       "NumProgressed": 88,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T17:10:17.6215079+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -364,15 +369,15 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -388,7 +393,7 @@
       "ID": "ACH_04",
       "SetID": "efe2lj",
       "Name": "Calm before the Storm",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -396,7 +401,7 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -404,7 +409,7 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -420,7 +425,7 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -436,7 +441,7 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -500,7 +505,7 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -580,7 +585,7 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -604,7 +609,7 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -620,7 +625,7 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -653,14 +658,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-03T16:10:56.2049877+00:00",
+  "LastChanged_Achievements": "2023-11-03T17:10:17.621507+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-03T15:59:55.4386612+00:00",
-  "LastUpdate_Achievements": "2023-11-03T16:10:56.2050187+00:00"
+  "LastUpdate_Ratings": "2023-11-03T17:00:04.7762325+00:00",
+  "LastUpdate_Achievements": "2023-11-03T17:10:17.6215398+00:00"
 }

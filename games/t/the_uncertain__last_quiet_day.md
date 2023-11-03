@@ -8,8 +8,8 @@
 | Buckle up | 59.00% | ~337 |
 | Quick charge | 59.00% | ~337 |
 | Now you know | 53.00% | ~303 |
+| Short circuit | 53.00% | ~303 |
 | Hands up! | 52.00% | ~297 |
-| Short circuit | 52.00% | ~297 |
 | Curious | 42.00% | ~240 |
 | Everybody lies | 35.00% | ~200 |
 | Trick or Treat? | 23.00% | ~131 |
@@ -37,7 +37,7 @@
 | Accurate | 5.00% | ~29 |
 | Silent | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 281)  
+Progressed: 571 (Ranked 282)  
 Completed: 18 (3.15%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
