@@ -6,14 +6,14 @@ Rating: 4.60 (Ranked 408)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,388 |
-| A Thorny Situation | 70.00% | ~5,238 |
+| A Thorny Situation | 70.00% | ~5,239 |
 | ... And Spit Back Out | 60.00% | ~4,490 |
 | Break-Net Speed | 48.00% | ~3,592 |
-| Bramble Breaker | 46.00% | ~3,442 |
+| Bramble Breaker | 46.00% | ~3,443 |
 | Miner 49er | 43.00% | ~3,218 |
 | Humble Collector | 42.00% | ~3,143 |
 | Calm Sailing | 36.00% | ~2,694 |
-| Open the Gate! | 33.00% | ~2,469 |
+| Open the Gate! | 33.00% | ~2,470 |
 | Mist Walker | 31.00% | ~2,320 |
 | Lumberjack | 26.00% | ~1,946 |
 | Oui, Chef! | 23.00% | ~1,721 |
@@ -22,7 +22,7 @@ Rating: 4.60 (Ranked 408)
 | Search for the Hairy Grell | 13.00% | ~973 |
 | Beach Comber | 13.00% | ~973 |
 | Higher Tax Bracket | 13.00% | ~973 |
-| Skilled | 9.00% | ~673 |
+| Skilled | 9.00% | ~674 |
 | Flaming Hot Completos | 8.00% | ~599 |
 | Got to Catch Them All | 8.00% | ~599 |
 | Rumble in the Jumble | 8.00% | ~599 |
@@ -33,7 +33,7 @@ Rating: 4.60 (Ranked 408)
 | I Now Pronounce You... | 5.00% | ~374 |
 | Chatty Neighbor | 4.00% | ~299 |
 | House Proud | 4.00% | ~299 |
-| Right Tool For the Job | 3.00% | ~224 |
+| Right Tool For the Job | 3.00% | ~225 |
 | Captain of Cozy | 2.00% | ~150 |
 | Angling Authority | 1.00% | ~75 |
 | Cloverfield Island | 0.20% | ~15 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 408)
 | Giving the People What They Want | 0.10% | ~7 |
 | Very Skilled | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,483 (Ranked 166)  
+Progressed: 7,484 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 7,400 | 0 |
 | 2023-11-01 | 7,435 | 0 |
 | 2023-11-02 | 7,472 | 0 |
-| 2023-11-03 | 7,483 | 0 |
+| 2023-11-03 | 7,484 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2333,9 +2333,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 18005,
+  "EOS_Progressed": 18007,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1681,
+  "EOS_NewPlayers": 1680,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7823,6 +7823,11 @@
       "Time": "2023-11-03T08:06:32.5561464+00:00",
       "NumProgressed": 18005,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T09:05:36.7785221+00:00",
+      "NumProgressed": 18007,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -7843,7 +7848,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "Achievement_Trophy03",
@@ -7875,7 +7880,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "Achievement_Trophy07",
@@ -8019,7 +8024,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7742
+      "UsersEstimate": 7743
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8091,7 +8096,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "Achievement_Trophy34",
@@ -8123,7 +8128,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4501
+      "UsersEstimate": 4502
     },
     {
       "ID": "Achievement_Trophy38",
@@ -8147,7 +8152,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "Achievement_Trophy41",
@@ -8163,7 +8168,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "Achievement_Trophy43",
@@ -8203,7 +8208,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "Achievement_Trophy48",
@@ -8322,7 +8327,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 18005,
+      "Progressed": 18007,
       "Completed": 1
     }
   ],
@@ -8330,8 +8335,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-02T23:58:08.6356093+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:06:32.5561461+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:05:36.7785217+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:53.0174168+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:58:11.5891543+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:06:32.5562155+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:58:07.3562211+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:05:36.7786579+00:00"
 }

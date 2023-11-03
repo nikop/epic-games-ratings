@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 39.00% | ~32 |
+| Break Out | 40.00% | ~33 |
 | Shatter Them All | 14.00% | ~12 |
 | A Taste of Wrath | 13.00% | ~11 |
 | Find Allies | 12.00% | ~10 |
@@ -13,8 +13,8 @@
 | I Found It | 12.00% | ~10 |
 | The Collector | 12.00% | ~10 |
 | Adventurer | 11.00% | ~9 |
+| Fashion Victim | 11.00% | ~9 |
 | Scholar | 11.00% | ~9 |
-| Fashion Victim | 10.00% | ~8 |
 | Geared Up | 8.00% | ~7 |
 | Essence Blow | 7.00% | ~6 |
 | Airborne | 6.00% | ~5 |
@@ -23,15 +23,15 @@
 | Calm before the Storm | 4.00% | ~3 |
 | To Battle | 4.00% | ~3 |
 | Godslayer | 4.00% | ~3 |
+| Tributes of Caladrias | 4.00% | ~3 |
 | The Mentor | 2.00% | ~2 |
-| Tributes of Caladrias | 2.00% | ~2 |
 | Alchemist | 2.00% | ~2 |
 | A Queen's Tale | 2.00% | ~2 |
+| Big Bazar | 1.00% | ~1 |
 | Clear Sight | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
-| Big Bazar | 0.00% | ~0 |
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |

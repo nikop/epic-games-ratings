@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7483,
+  "EOS_Progressed": 7484,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -5979,6 +5979,11 @@
       "Time": "2023-11-03T08:09:09.3445897+00:00",
       "NumProgressed": 7483,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T09:09:01.0079963+00:00",
+      "NumProgressed": 7484,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -5999,7 +6004,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5238
+      "UsersEstimate": 5239
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6015,7 +6020,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6167,7 +6172,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3442
+      "UsersEstimate": 3443
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6239,7 +6244,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -6263,29 +6268,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7483,
+      "Progressed": 7484,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 100,
-      "Completed": 100
+      "Progressed": 101,
+      "Completed": 101
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:09:09.3445894+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:09:01.0079958+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:01:11.9720516+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:09:09.344629+00:00"
+  "LastUpdate_Ratings": "2023-11-03T09:00:20.6591976+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:09:01.0080719+00:00"
 }

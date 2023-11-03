@@ -14,14 +14,14 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 0.90% | ~13 |
 | Passing Shadow | 0.80% | ~12 |
 | This Too Shall Pass | 0.80% | ~12 |
+| Completing the Look | 0.60% | ~9 |
 | War Endured | 0.60% | ~9 |
 | Core Failure | 0.60% | ~9 |
 | Let Me Get My Chisel | 0.50% | ~7 |
-| Completing the Look | 0.40% | ~6 |
+| Who's Counting? | 0.40% | ~6 |
 | Echoes Die | 0.40% | ~6 |
 | A Mythic Menagerie | 0.30% | ~4 |
 | Empty the Caves | 0.30% | ~4 |
-| Who's Counting? | 0.30% | ~4 |
 | Thematic Divergence | 0.30% | ~4 |
 | Pyrrhic Victory | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |

@@ -6,12 +6,12 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~7,742 |
+| I'm not dead yet | 43.00% | ~7,743 |
 | Overkill | 35.00% | ~6,302 |
 | Vaccine Incoming | 33.00% | ~5,942 |
 | A normal day in Gloomhaven | 33.00% | ~5,942 |
 | Spread the plague | 30.00% | ~5,402 |
-| Get over here! | 25.00% | ~4,501 |
+| Get over here! | 25.00% | ~4,502 |
 | Just when I thought I was out... | 19.00% | ~3,421 |
 | Precious! | 17.00% | ~3,061 |
 | Mine... All Mine... | 17.00% | ~3,061 |
@@ -22,12 +22,12 @@ Number of Ratings: 68  (23.09.2022)
 | Obstacle race | 13.00% | ~2,341 |
 | Augmented rat | 12.00% | ~2,161 |
 | Doom and gloom | 11.00% | ~1,981 |
-| Who's the Boss? | 10.00% | ~1,800 |
-| Dungeon Veteran | 8.00% | ~1,440 |
-| Pack leader | 8.00% | ~1,440 |
-| Pain is your friend | 8.00% | ~1,440 |
-| Black death | 8.00% | ~1,440 |
-| Play it again, Sam | 8.00% | ~1,440 |
+| Who's the Boss? | 10.00% | ~1,801 |
+| Dungeon Veteran | 8.00% | ~1,441 |
+| Pack leader | 8.00% | ~1,441 |
+| Pain is your friend | 8.00% | ~1,441 |
+| Black death | 8.00% | ~1,441 |
+| Play it again, Sam | 8.00% | ~1,441 |
 | Quad damage | 6.00% | ~1,080 |
 | Power Up! | 5.00% | ~900 |
 | The Pro from Dover | 5.00% | ~900 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~18 |
 | Murder Death Kill | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,005 (Ranked 135)  
+Progressed: 18,007 (Ranked 135)  
 Completed: 1 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.01%) (Ranked 318)
 | 2023-10-31 | 17,501 | 1 |
 | 2023-11-01 | 17,722 | 1 |
 | 2023-11-02 | 17,944 | 1 |
-| 2023-11-03 | 18,005 | 1 |
+| 2023-11-03 | 18,007 | 1 |
 ## Awards
 Max (Character Customization): 3,565  (Ranked 90)  
 Sum: 8,333 (Ranked 98)  

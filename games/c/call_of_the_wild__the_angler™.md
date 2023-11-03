@@ -19,12 +19,12 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 0.40% | ~25 |
 | Live by the Rod, Diez by the Rod! | 0.30% | ~17 |
 | License to Gill | 0.20% | ~13 |
+| School's Out for Summer | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~11 |
 | All Good Kings Must Come to an End | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
-| School's Out for Summer | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
 | Lake Me up Before You Go Go | 0.10% | ~6 |
 | Marathon | 0.10% | ~6 |

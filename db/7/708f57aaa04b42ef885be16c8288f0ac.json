@@ -57,9 +57,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3871,
+  "EOS_Progressed": 3877,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1547,
+  "EOS_NewPlayers": 1538,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1852,6 +1852,11 @@
       "Time": "2023-11-03T08:08:50.939301+00:00",
       "NumProgressed": 3871,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T09:08:48.3241961+00:00",
+      "NumProgressed": 3877,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1864,7 +1869,7 @@
       "Name": "All Jacked Up",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "BabySteps",
@@ -1872,7 +1877,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "BeLikeWater",
@@ -1896,7 +1901,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ConnectionLost",
@@ -1904,7 +1909,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Eavesdropper",
@@ -1936,7 +1941,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2048,7 +2053,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TheOldSchoolWay",
@@ -2056,7 +2061,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "TheQuarterback",
@@ -2064,7 +2069,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ThisIsDharma",
@@ -2104,7 +2109,7 @@
       "Name": "Digestive Issues",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2135,7 +2140,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3871,
+      "Progressed": 3877,
       "Completed": 3
     }
   ],
@@ -2143,8 +2148,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-02T21:57:18.2219856+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:08:50.9393009+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:08:48.3241956+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:57:17.1734117+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:08:50.9393263+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:57:28.4543184+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:08:48.3242382+00:00"
 }

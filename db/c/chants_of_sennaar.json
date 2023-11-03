@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 373,
+  "EOS_Progressed": 374,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.17,
+  "EOS_Completed_Percentage": 6.15,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1730,6 +1730,11 @@
       "Time": "2023-11-03T07:10:14.9569126+00:00",
       "NumProgressed": 373,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T09:06:39.7273404+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1749,7 +1754,7 @@
       "Name": "In this together",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "META_ALL_LINK",
@@ -1757,7 +1762,7 @@
       "Name": "Peace walker",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1781,7 +1786,7 @@
       "Name": "Half the way",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1909,7 +1914,7 @@
       "Name": "The great escape",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PROGRESS_N3",
@@ -1917,7 +1922,7 @@
       "Name": "A new dawn",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PROGRESS_N4",
@@ -1940,14 +1945,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 373,
+      "Progressed": 374,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:07:56.8012862+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:06:39.7273399+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:00:45.3330428+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:07:56.8013039+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:59:59.06879+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:06:39.7273786+00:00"
 }

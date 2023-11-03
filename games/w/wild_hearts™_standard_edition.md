@@ -20,7 +20,7 @@
 | Master of the Skies | 55.00% | ~116 |
 | Helpful Heart | 55.00% | ~116 |
 | Bonds of Enmity | 54.00% | ~113 |
-| Flawless Crystal | 52.00% | ~109 |
+| Flawless Crystal | 53.00% | ~111 |
 | Counter Specialist | 51.00% | ~107 |
 | Axer of Auspice | 47.00% | ~99 |
 | Fair Means or Foul | 45.00% | ~94 |

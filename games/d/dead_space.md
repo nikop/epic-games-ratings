@@ -5,28 +5,28 @@ Rating: 4.63 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 94.00% | ~1,357 |
-| Welcome Aboard | 85.00% | ~1,227 |
-| Lab Rat | 75.00% | ~1,083 |
+| Marksman | 94.00% | ~1,358 |
+| Welcome Aboard | 85.00% | ~1,228 |
+| Lab Rat | 75.00% | ~1,084 |
 | All Systems Go | 65.00% | ~939 |
 | Brute Force | 65.00% | ~939 |
-| Cannon Fodder | 60.00% | ~866 |
+| Cannon Fodder | 60.00% | ~867 |
 | Autofire | 58.00% | ~838 |
 | Story Teller | 56.00% | ~809 |
 | True Believer | 56.00% | ~809 |
-| Raise the Stakes | 55.00% | ~794 |
+| Raise the Stakes | 55.00% | ~795 |
 | Surgeon | 52.00% | ~751 |
-| Freeze | 51.00% | ~736 |
-| Exterminator | 51.00% | ~736 |
-| Greenhouse Effect | 51.00% | ~736 |
+| Freeze | 51.00% | ~737 |
+| Exterminator | 51.00% | ~737 |
+| Greenhouse Effect | 51.00% | ~737 |
 | Full Arsenal | 45.00% | ~650 |
 | S.O.S. | 45.00% | ~650 |
 | Get Off My Ship! | 43.00% | ~621 |
 | Strange Transmissions | 43.00% | ~621 |
 | Live with the Hot Ones | 41.00% | ~592 |
 | Wreckage | 41.00% | ~592 |
-| Keeper of the Faith | 39.00% | ~563 |
-| Betrayed | 37.00% | ~534 |
+| Keeper of the Faith | 39.00% | ~564 |
+| Betrayed | 37.00% | ~535 |
 | Exodus | 36.00% | ~520 |
 | Legend Teller | 36.00% | ~520 |
 | There's Always Peng! | 36.00% | ~520 |
@@ -34,9 +34,9 @@ Rating: 4.63 (Ranked 347)
 | Front Toward Enemy | 33.00% | ~477 |
 | A Cut Above | 32.00% | ~462 |
 | Set A Benchmark | 29.00% | ~419 |
-| Whole Again | 28.00% | ~404 |
-| Full Contact | 26.00% | ~375 |
-| Pack Rat | 26.00% | ~375 |
+| Whole Again | 28.00% | ~405 |
+| Full Contact | 26.00% | ~376 |
+| Pack Rat | 26.00% | ~376 |
 | Final Regeneration | 25.00% | ~361 |
 | Full Clearance | 24.00% | ~347 |
 | Pusher | 22.00% | ~318 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 347)
 | Untouchable | 2.00% | ~29 |
 | One Gun | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,444 (Ranked 231)  
+Progressed: 1,445 (Ranked 231)  
 Completed: 8 (0.55%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 8 (0.55%) (Ranked 185)
 | 2023-10-31 | 1,372 | 7 |
 | 2023-11-01 | 1,411 | 8 |
 | 2023-11-02 | 1,435 | 8 |
-| 2023-11-03 | 1,444 | 8 |
+| 2023-11-03 | 1,445 | 8 |
 ## Awards
 Max (Great Boss Battles): 107  (Ranked 346)  
 Sum: 107 (Ranked 435)  

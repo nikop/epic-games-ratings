@@ -12,25 +12,25 @@ Rating: 4.38 (Ranked 759)
 | Sector 3 | 2.00% | ~298 |
 | Sector 4 | 2.00% | ~298 |
 | Sector 5 | 1.00% | ~149 |
-| Feeling the Blues | 0.80% | ~119 |
+| Feeling the Blues | 0.90% | ~134 |
 | Sector 6 | 0.80% | ~119 |
 | Squished | 0.60% | ~89 |
 | Finale | 0.60% | ~89 |
+| Sector 7 | 0.60% | ~89 |
 | Did That Work? -- No! | 0.60% | ~89 |
-| Sector 7 | 0.50% | ~75 |
 | The Puzzle Master | 0.30% | ~45 |
 | Master Room | 0.30% | ~45 |
 | Bronze Trophy | 0.20% | ~30 |
+| Master Of The Collectables | 0.20% | ~30 |
 | Gold Trophy | 0.20% | ~30 |
 | Hopefully that's all of them! | 0.20% | ~30 |
 | Phew! | 0.20% | ~30 |
 | Silver Trophy | 0.20% | ~30 |
 | Completed It. | 0.20% | ~30 |
+| Maxed Out | 0.20% | ~30 |
 | The Collector | 0.10% | ~15 |
-| Master Of The Collectables | 0.10% | ~15 |
-| Maxed Out | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,901 (Ranked 145)  
+Progressed: 14,913 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 5 (0.03%) (Ranked 304)
 | 2023-10-31 | 13,819 | 0 |
 | 2023-11-01 | 14,311 | 0 |
 | 2023-11-02 | 14,773 | 2 |
-| 2023-11-03 | 14,901 | 5 |
+| 2023-11-03 | 14,913 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

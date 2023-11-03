@@ -1386,7 +1386,7 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10052,
+  "EOS_Progressed": 10053,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -16236,6 +16236,11 @@
       "Time": "2023-11-03T07:10:37.5333203+00:00",
       "NumProgressed": 10052,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T09:08:32.2084326+00:00",
+      "NumProgressed": 10053,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16325,9 +16330,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5328
     },
     {
       "ID": "2",
@@ -16335,7 +16340,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3518
+      "UsersEstimate": 3519
     },
     {
       "ID": "20",
@@ -16359,7 +16364,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7338
+      "UsersEstimate": 7339
     },
     {
       "ID": "23",
@@ -16407,7 +16412,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "29",
@@ -16503,7 +16508,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "4",
@@ -16703,7 +16708,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "9",
@@ -16718,15 +16723,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10052,
+      "Progressed": 10053,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-02T17:57:08.0386111+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:08:29.4107335+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:08:32.208432+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:57:03.4199004+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:08:29.4108298+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:57:17.5426574+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:08:32.2086272+00:00"
 }

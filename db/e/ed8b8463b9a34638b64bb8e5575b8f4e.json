@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -304,6 +304,11 @@
       "Time": "2023-11-02T00:08:34.2117791+00:00",
       "NumProgressed": 57,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T09:08:36.3721065+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -322,7 +327,7 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -394,7 +399,7 @@
       "ID": "lessons_never_learnt",
       "SetID": "7i36ba9",
       "Name": "Lessons Never Learnt",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -410,7 +415,7 @@
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -418,7 +423,7 @@
       "ID": "skipper",
       "SetID": "7i36ba9",
       "Name": "Skipper",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -458,7 +463,7 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 95,
       "UsersEstimate": 21
     },
@@ -490,7 +495,7 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -506,7 +511,7 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -523,14 +528,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:08:35.3297644+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:08:36.372106+00:00",
   "LastUpdate_AppInfo": "2023-10-28T02:10:39.1528027+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:57:56.4827125+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:08:35.3297786+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:57:57.3235022+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:08:36.3721299+00:00"
 }

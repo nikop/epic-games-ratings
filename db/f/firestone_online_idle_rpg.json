@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2098,
+  "EOS_Progressed": 2099,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6481,6 +6481,11 @@
       "Time": "2023-11-03T07:09:02.4317297+00:00",
       "NumProgressed": 2098,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-03T09:05:27.1976527+00:00",
+      "NumProgressed": 2099,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6676,7 +6681,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "fourleafclover",
@@ -6724,7 +6729,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "herewegoagain",
@@ -7052,7 +7057,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "warmachinesarmy",
@@ -7084,14 +7089,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2098,
+      "Progressed": 2099,
       "Completed": 2
     }
   ],
@@ -7099,8 +7104,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:06:20.0513645+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:05:27.1976523+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:59:18.8931777+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:06:20.0514381+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:58:57.488726+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:05:27.1977921+00:00"
 }

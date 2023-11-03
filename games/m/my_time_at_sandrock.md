@@ -6,56 +6,56 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 178.00% | ~251 |
-| Adept Assembler | 129.00% | ~182 |
-| Greeno-B-Gone | 84.00% | ~118 |
-| Your Especially Earned Trajectory | 65.00% | ~92 |
-| Can We Keep It? | 40.00% | ~56 |
-| No Mountain Wide Enough | 34.00% | ~48 |
-| My Time Mansion | 28.00% | ~39 |
-| Happier-est Place on Earth | 24.00% | ~34 |
-| Finishing Touches | 22.00% | ~31 |
-| Call Me Fishmael | 22.00% | ~31 |
-| Anti-Santa | 21.00% | ~30 |
-| On that Grindset | 18.00% | ~25 |
-| You Don't Win Friends With Salad | 18.00% | ~25 |
-| Yakmel Whisperer | 17.00% | ~24 |
-| Jewel of the Eufaula | 14.00% | ~20 |
-| I Do! | 14.00% | ~20 |
-| Knowledge is Power | 13.00% | ~18 |
-| Officially Official | 13.00% | ~18 |
-| Mole Masher | 11.00% | ~16 |
-| Pack Mule | 9.00% | ~13 |
-| Better Late than Never | 9.00% | ~13 |
-| Jack of All Trades | 7.00% | ~10 |
-| Diamonds are Forever | 6.00% | ~8 |
+| Iron Chef | 193.00% | ~257 |
+| Adept Assembler | 139.00% | ~185 |
+| Greeno-B-Gone | 90.00% | ~120 |
+| Your Especially Earned Trajectory | 70.00% | ~93 |
+| Can We Keep It? | 43.00% | ~57 |
+| No Mountain Wide Enough | 36.00% | ~48 |
+| My Time Mansion | 32.00% | ~43 |
+| Happier-est Place on Earth | 26.00% | ~35 |
+| Finishing Touches | 23.00% | ~31 |
+| Call Me Fishmael | 23.00% | ~31 |
+| Anti-Santa | 22.00% | ~29 |
+| On that Grindset | 20.00% | ~27 |
+| You Don't Win Friends With Salad | 20.00% | ~27 |
+| Yakmel Whisperer | 19.00% | ~25 |
+| Jewel of the Eufaula | 15.00% | ~20 |
+| I Do! | 15.00% | ~20 |
+| Knowledge is Power | 14.00% | ~19 |
+| Officially Official | 14.00% | ~19 |
+| Mole Masher | 12.00% | ~16 |
+| Pack Mule | 10.00% | ~13 |
+| Better Late than Never | 10.00% | ~13 |
+| Jack of All Trades | 8.00% | ~11 |
+| Diamonds are Forever | 7.00% | ~9 |
+| Panda-kin | 5.00% | ~7 |
+| He Can Spin A Yarn... | 5.00% | ~7 |
+| Pro Gamer | 5.00% | ~7 |
 | First Love | 5.00% | ~7 |
-| Panda-kin | 4.00% | ~6 |
-| He Can Spin A Yarn... | 4.00% | ~6 |
-| Cardistry | 4.00% | ~6 |
-| Chatterbox | 4.00% | ~6 |
-| One of the Cool Kids | 4.00% | ~6 |
-| Pro Gamer | 4.00% | ~6 |
-| Just What I Always Wanted! | 4.00% | ~6 |
-| Kind of a Big Deal | 3.00% | ~4 |
+| Financially Secure | 4.00% | ~5 |
+| Kind of a Big Deal | 4.00% | ~5 |
+| What Plants Crave | 4.00% | ~5 |
+| Cardistry | 4.00% | ~5 |
+| Chatterbox | 4.00% | ~5 |
+| One of the Cool Kids | 4.00% | ~5 |
+| Just What I Always Wanted! | 4.00% | ~5 |
+| Commissions, commissions...! | 3.00% | ~4 |
+| Time Flies | 2.00% | ~3 |
 | Big Game Hunter | 2.00% | ~3 |
-| Commissions, commissions...! | 2.00% | ~3 |
-| Financially Secure | 2.00% | ~3 |
-| What Plants Crave | 2.00% | ~3 |
+| Santa In Training | 2.00% | ~3 |
+| Got the Receipt? | 2.00% | ~3 |
+| Unboxing | 2.00% | ~3 |
 | Do Your Part | 2.00% | ~3 |
-| Time Flies | 1.00% | ~1 |
-| Santa In Training | 1.00% | ~1 |
-| Got the Receipt? | 1.00% | ~1 |
-| Unboxing | 1.00% | ~1 |
-| Waste Not Want Not | 1.00% | ~1 |
-| Newton | 1.00% | ~1 |
-| Bridging the Gap | 0.70% | ~1 |
-| Martle's Dream | 0.70% | ~1 |
-| Elementary, My Dear | 0.70% | ~1 |
-| Lifeline Pipeline | 0.70% | ~1 |
-| Got Served | 0.70% | ~1 |
-| Sandrock's Hottest Club | 0.70% | ~1 |
-| Sandrunning Speedster | 0.70% | ~1 |
+| Waste Not Want Not | 2.00% | ~3 |
+| Newton | 2.00% | ~3 |
+| Bridging the Gap | 0.80% | ~1 |
+| Martle's Dream | 0.80% | ~1 |
+| Elementary, My Dear | 0.80% | ~1 |
+| Lifeline Pipeline | 0.80% | ~1 |
+| Got Served | 0.80% | ~1 |
+| Sandrock's Hottest Club | 0.80% | ~1 |
+| Sandrunning Speedster | 0.80% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 381)  
+Progressed: 133 (Ranked 384)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |

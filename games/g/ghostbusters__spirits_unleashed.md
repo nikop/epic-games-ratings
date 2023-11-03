@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,789 |
+| Stylish | 6.00% | ~1,790 |
 | Advancement | 5.00% | ~1,491 |
 | Meticulously Efficient | 5.00% | ~1,491 |
 | Discovery | 4.00% | ~1,193 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 580)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,823 (Ranked 122)  
+Progressed: 29,825 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
-| 2023-11-03 | 29,823 | 65 |
+| 2023-11-03 | 29,825 | 65 |
 ## Awards
 Max (Great for Beginners): 300  (Ranked 245)  
 Sum: 2,667 (Ranked 180)  

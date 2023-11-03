@@ -4819,9 +4819,9 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 249552,
+  "EOS_Progressed": 249553,
   "EOS_Completed": 869,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 775,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26269,6 +26269,11 @@
       "Time": "2023-11-03T08:09:24.5698733+00:00",
       "NumProgressed": 249552,
       "NumCompleted": 869
+    },
+    {
+      "Time": "2023-11-03T09:09:12.1341237+00:00",
+      "NumProgressed": 249553,
+      "NumCompleted": 869
     }
   ],
   "TotalAchievements": 39,
@@ -26344,7 +26349,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227092
+      "UsersEstimate": 227093
     },
     {
       "ID": "AchievementClownID",
@@ -26376,7 +26381,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 44919
+      "UsersEstimate": 44920
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -26440,7 +26445,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112298
+      "UsersEstimate": 112299
     },
     {
       "ID": "AchievementIntroID",
@@ -26512,7 +26517,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 184668
+      "UsersEstimate": 184669
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -26560,7 +26565,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117289
+      "UsersEstimate": 117290
     },
     {
       "ID": "AchievementTrinketID",
@@ -26591,7 +26596,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 249552,
+      "Progressed": 249553,
       "Completed": 869
     }
   ],
@@ -26599,8 +26604,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-02T23:58:49.3579912+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:09:24.5698731+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:09:12.1341231+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.9944721+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:59:00.512423+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:09:24.5699986+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:58:42.4642416+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:09:12.1343186+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7193,
+  "EOS_Progressed": 7194,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8095,6 +8095,11 @@
       "Time": "2023-11-03T04:04:25.4396182+00:00",
       "NumProgressed": 7193,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T09:04:25.5893426+00:00",
+      "NumProgressed": 7194,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8218,7 +8223,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5179
+      "UsersEstimate": 5180
     },
     {
       "ID": "First_Ship_Designed",
@@ -8410,7 +8415,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8594,7 +8599,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4676
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8602,7 +8607,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "Win_Conquest",
@@ -8681,15 +8686,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7193,
+      "Progressed": 7194,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:04:57.7488573+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:04:25.5893421+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-03T08:00:03.2046241+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:04:57.7489347+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:59:30.3548608+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:04:25.5895023+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,540 |
-| Titan's First Steps | 4.00% | ~5,540 |
+| Sponsored by Argon | 4.00% | ~5,541 |
+| Titan's First Steps | 4.00% | ~5,541 |
 | Basic in Bulk | 3.00% | ~4,155 |
 | Disintermediation | 3.00% | ~4,155 |
 | Tinkle of Coins | 3.00% | ~4,155 |
@@ -80,6 +80,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.70% | ~970 |
 | Fat Cat Tag Team | 0.70% | ~970 |
 | Necromancer Queen | 0.70% | ~970 |
+| Item of Renown | 0.70% | ~970 |
 | Master Merchant | 0.70% | ~970 |
 | Laden with Loot | 0.70% | ~970 |
 | Attrition Mission | 0.70% | ~970 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.60% | ~831 |
 | Industrial Evolution | 0.60% | ~831 |
 | A Legend is Born | 0.60% | ~831 |
-| Item of Renown | 0.60% | ~831 |
 | Bountiful Harvest | 0.60% | ~831 |
 | Precision Engineering | 0.60% | ~831 |
 | Economy of Scarce | 0.60% | ~831 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,512 (Ranked 78)  
+Progressed: 138,515 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 178 (0.13%) (Ranked 254)
 | 2023-10-31 | 138,410 | 178 |
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
-| 2023-11-03 | 138,512 | 178 |
+| 2023-11-03 | 138,515 | 178 |
 ## Awards
 Max (Great for Beginners): 4,814  (Ranked 74)  
 Sum: 27,484 (Ranked 51)  

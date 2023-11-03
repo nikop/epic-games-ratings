@@ -12,6 +12,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.20% | ~1,790 |
 | True Soldier | 0.20% | ~1,790 |
 | All the President's Men | 0.20% | ~47 |
+| Arachnophobia | 0.20% | ~47 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -55,7 +56,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The APB is Not Enough | 0.10% | ~24 |
 | Spin Doctor | 0.10% | ~24 |
 | Judgement Day | 0.10% | ~24 |
-| Arachnophobia | 0.10% | ~24 |
 | King of Cups | 0.10% | ~24 |
 | King of Pentacles | 0.10% | ~24 |
 | King of Swords | 0.10% | ~24 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 894,996 (Ranked 15)  
+Progressed: 894,997 (Ranked 15)  
 Completed: 2,738 (0.31%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 2,738 (0.31%) (Ranked 217)
 | 2023-10-31 | 894,703 | 2,736 |
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
-| 2023-11-03 | 894,996 | 2,738 |
+| 2023-11-03 | 894,997 | 2,738 |
 ## Awards
 Max (Character Customization): 103,503  (Ranked 9)  
 Sum: 340,028 (Ranked 10)  

@@ -2,7 +2,7 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 185,
+  "Ranking_Rating": 186,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 128,
@@ -1341,9 +1341,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 21748,
+  "EOS_Progressed": 21749,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -22776,6 +22776,11 @@
       "Time": "2023-11-03T08:03:11.6316487+00:00",
       "NumProgressed": 21748,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-11-03T09:03:06.5938462+00:00",
+      "NumProgressed": 21749,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 45,
@@ -22803,7 +22808,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "BackToHell",
@@ -22851,7 +22856,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 5654
+      "UsersEstimate": 5655
     },
     {
       "ID": "GRProjectComplete",
@@ -22923,7 +22928,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 16528
+      "UsersEstimate": 16529
     },
     {
       "ID": "MoreThanHuman",
@@ -22971,7 +22976,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9569
+      "UsersEstimate": 9570
     },
     {
       "ID": "Perfection",
@@ -22979,7 +22984,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 6959
+      "UsersEstimate": 6960
     },
     {
       "ID": "PreempativeStrike",
@@ -23059,7 +23064,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13266
+      "UsersEstimate": 13267
     },
     {
       "ID": "SwordToAGunfight",
@@ -23105,9 +23110,9 @@
       "ID": "Wallrunner",
       "SetID": "6ce5bmd",
       "Name": "Wallrunner",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 11526
+      "UsersEstimate": 11744
     },
     {
       "ID": "WaveOfMutilation",
@@ -23123,7 +23128,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8699
+      "UsersEstimate": 8700
     },
     {
       "ID": "WhereHeStood",
@@ -23139,28 +23144,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 21748,
+      "Progressed": 21749,
       "Completed": 54
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 21748,
+      "Progressed": 21749,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-01T23:58:43.4945528+00:00",
-  "LastChanged_Achievements": "2023-11-03T08:03:11.6316485+00:00",
+  "LastChanged_Achievements": "2023-11-03T09:03:06.5938458+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.5772527+00:00",
-  "LastUpdate_Ratings": "2023-11-03T07:59:19.4492243+00:00",
-  "LastUpdate_Achievements": "2023-11-03T08:03:11.6317514+00:00"
+  "LastUpdate_Ratings": "2023-11-03T08:58:57.8629963+00:00",
+  "LastUpdate_Achievements": "2023-11-03T09:03:06.5940419+00:00"
 }

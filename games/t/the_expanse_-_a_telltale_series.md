@@ -15,11 +15,11 @@ Rating: 4.56 (Ranked 482)
 | Martian Music | 1.00% | ~146 |
 | Drone Dodger | 1.00% | ~146 |
 | Heal Thy Medic | 1.00% | ~146 |
+| Khan's Revenge | 1.00% | ~146 |
 | Call it Even | 1.00% | ~146 |
 | Captain Drummer | 1.00% | ~146 |
 | Celebrations are in Order | 1.00% | ~146 |
 | Impossible Objects | 1.00% | ~146 |
-| Khan's Revenge | 0.90% | ~131 |
 | Thorston Mayer | 0.70% | ~102 |
 | Bottoms up! | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |

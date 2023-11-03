@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 13.00% | ~562 |
 | Tax-man I | 12.00% | ~519 |
 | A new beginning | 12.00% | ~519 |
-| Friends from the past | 10.00% | ~432 |
+| Friends from the past | 10.00% | ~433 |
 | I like to build stuff... I | 9.00% | ~389 |
 | Builder I | 8.00% | ~346 |
 | An honorable Governor I | 8.00% | ~346 |
@@ -49,17 +49,17 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game IV | 3.00% | ~130 |
 | Tools of the trade II | 3.00% | ~130 |
 | Out of the frying pan | 3.00% | ~130 |
-| The Art of War | 2.00% | ~86 |
-| Five brews are a schnitzel | 2.00% | ~86 |
-| I like to build stuff... V | 2.00% | ~86 |
-| The King's new clothes III | 2.00% | ~86 |
-| My precious... III | 2.00% | ~86 |
-| Lord of War | 2.00% | ~86 |
-| Plague strikes! | 2.00% | ~86 |
-| Completionist II | 2.00% | ~86 |
-| Genius | 2.00% | ~86 |
-| I've been everywhere V | 2.00% | ~86 |
-| Tools of the trade III | 2.00% | ~86 |
+| The Art of War | 2.00% | ~87 |
+| Five brews are a schnitzel | 2.00% | ~87 |
+| I like to build stuff... V | 2.00% | ~87 |
+| The King's new clothes III | 2.00% | ~87 |
+| My precious... III | 2.00% | ~87 |
+| Lord of War | 2.00% | ~87 |
+| Plague strikes! | 2.00% | ~87 |
+| Completionist II | 2.00% | ~87 |
+| Genius | 2.00% | ~87 |
+| I've been everywhere V | 2.00% | ~87 |
+| Tools of the trade III | 2.00% | ~87 |
 | When there's fire... | 1.00% | ~43 |
 | Survivalist | 1.00% | ~43 |
 | Builder IV | 1.00% | ~43 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,325 (Ranked 186)  
+Progressed: 4,326 (Ranked 186)  
 Completed: 3 (0.07%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 3 (0.07%) (Ranked 282)
 | 2023-10-31 | 4,318 | 3 |
 | 2023-11-01 | 4,321 | 3 |
 | 2023-11-02 | 4,324 | 3 |
-| 2023-11-03 | 4,325 | 3 |
+| 2023-11-03 | 4,326 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
