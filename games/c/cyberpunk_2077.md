@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 330)  
+Rating: 4.64 (Ranked 329)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,074 (Ranked 15)  
-Completed: 2,740 (0.31%) (Ranked 219)  
+Progressed: 895,080 (Ranked 15)  
+Completed: 2,741 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,10 +271,10 @@ Completed: 2,740 (0.31%) (Ranked 219)
 | 2023-10-31 | 894,703 | 2,736 |
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
-| 2023-11-03 | 895,074 | 2,740 |
+| 2023-11-03 | 895,080 | 2,741 |
 ## Awards
 Max (Character Customization): 103,657  (Ranked 9)  
-Sum: 340,643 (Ranked 10)  
+Sum: 340,708 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -288,7 +288,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 18,466 |
 | This game is Relaxing | 17,813 |
 | This game has Quickly Understood Controls | 17,723 |
-| This game has a Creative Community | 12,269 |
+| This game has a Creative Community | 12,334 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -580,4 +580,4 @@ Diff (max vs sum): -1
 | 2023-10-31 | 4.64 | - | 103,117 | 336,927 |
 | 2023-11-01 | 4.64 | - | 103,284 | 338,204 |
 | 2023-11-02 | 4.64 | - | 103,503 | 339,526 |
-| 2023-11-03 | 4.64 | - | 103,657 | 340,643 |
+| 2023-11-03 | 4.64 | - | 103,657 | 340,708 |

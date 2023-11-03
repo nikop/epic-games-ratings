@@ -7,10 +7,10 @@
 | Setting Sail | 82.00% | ~41 |
 | A Small Thirsty Thing | 18.00% | ~9 |
 | Spirit Within | 14.00% | ~7 |
+| Rain Must Fall | 8.00% | ~4 |
 | Dousing a Venerable Flame | 8.00% | ~4 |
 | Leisis Bless You | 8.00% | ~4 |
 | Advanced Armaments | 8.00% | ~4 |
-| Rain Must Fall | 6.00% | ~3 |
 | A Sandwyrm's Hoard | 6.00% | ~3 |
 | Let Me Solo Them | 4.00% | ~2 |
 | Frigid Winds | 4.00% | ~2 |

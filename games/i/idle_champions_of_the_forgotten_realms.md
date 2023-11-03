@@ -431,12 +431,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dwarven Rumors | 0.10% | ~200 |
 | Mimic Perception | 0.10% | ~200 |
 | Frozen in Fear | 0.10% | ~200 |
+| It's Cold Out There Today | 0.10% | ~200 |
 | Sunblight | 0.10% | ~200 |
 | Fortress Assault | 0.10% | ~200 |
 | Hats off to you! | 0.10% | ~200 |
 | It's Cold Out There Every Day | 0.10% | ~200 |
 | The Bleeding Citadel | 0.10% | ~200 |
 | Don't Pick at the Scab | 0.10% | ~200 |
+| Going To Eleven | 0.10% | ~200 |
 | Idyllglen | 0.10% | ~200 |
 | The Madness of Yeenoghu | 0.10% | ~200 |
 | Reya Reborn | 0.10% | ~200 |
@@ -535,12 +537,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Time Out | 0.10% | ~200 |
 | Always Watching | 0.00% | ~0 |
 | Rickety Rubble | 0.00% | ~0 |
-| It's Cold Out There Today | 0.00% | ~0 |
-| Going To Eleven | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,569 (Ranked 62)  
-Completed: 2,425 (1.04%) (Ranked 154)  
+Progressed: 233,573 (Ranked 62)  
+Completed: 2,426 (1.04%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -736,7 +736,7 @@ Completed: 2,425 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,569 | 2,425 |
+| 2023-11-03 | 233,573 | 2,426 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,319 (Ranked 41)  

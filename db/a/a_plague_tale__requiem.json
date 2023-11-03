@@ -587,9 +587,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13691,
+  "EOS_Progressed": 13692,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10612,6 +10612,11 @@
       "Time": "2023-11-03T20:06:44.4463078+00:00",
       "NumProgressed": 13691,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-03T21:07:53.4375973+00:00",
+      "NumProgressed": 13692,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -10623,7 +10628,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12596
+      "UsersEstimate": 12597
     },
     {
       "ID": "ACH_02",
@@ -10631,7 +10636,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10816
+      "UsersEstimate": 10817
     },
     {
       "ID": "ACH_03",
@@ -10639,7 +10644,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10131
+      "UsersEstimate": 10132
     },
     {
       "ID": "ACH_04",
@@ -10661,9 +10666,9 @@
       "ID": "ACH_06",
       "SetID": "9d4cf4c",
       "Name": "Leaving all Behind",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 9036
+      "UsersEstimate": 8900
     },
     {
       "ID": "ACH_07",
@@ -10671,7 +10676,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8625
+      "UsersEstimate": 8626
     },
     {
       "ID": "ACH_08",
@@ -10695,7 +10700,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7256
+      "UsersEstimate": 7257
     },
     {
       "ID": "ACH_11",
@@ -10719,7 +10724,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5476
+      "UsersEstimate": 5477
     },
     {
       "ID": "ACH_14",
@@ -10902,7 +10907,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13691,
+      "Progressed": 13692,
       "Completed": 51
     }
   ],
@@ -10910,8 +10915,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-02T07:57:22.5400887+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:06:44.4463073+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:07:53.4375964+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:38.0645994+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:57:43.2701404+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:06:44.4463946+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:57:59.6615803+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:07:53.4376829+00:00"
 }

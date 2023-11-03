@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2023-10-31T12:05:46.9066341+00:00",
       "NumProgressed": 437,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T21:08:09.5765165+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1008,9 +1013,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1074,7 +1079,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 332
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2305,14 +2310,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:08:18.4553048+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:08:09.5765159+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:19.7206099+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:59:20.7823159+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:08:18.4556708+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:59:59.2587899+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:08:09.5768726+00:00"
 }

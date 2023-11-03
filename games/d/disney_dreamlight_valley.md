@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~7,958 |
+| Goofy's Investor | 70.00% | ~7,959 |
 | Photographer | 69.00% | ~7,845 |
 | Valley's Helper | 62.00% | ~7,049 |
-| Constructor | 51.00% | ~5,798 |
-| Renovator | 51.00% | ~5,798 |
-| Bestest Friend | 47.00% | ~5,343 |
+| Constructor | 51.00% | ~5,799 |
+| Renovator | 51.00% | ~5,799 |
+| Bestest Friend | 47.00% | ~5,344 |
 | Banker | 39.00% | ~4,434 |
-| Gardener | 31.00% | ~3,524 |
+| Gardener | 31.00% | ~3,525 |
 | Generous | 25.00% | ~2,842 |
-| Chef Cook | 18.00% | ~2,046 |
+| Chef Cook | 18.00% | ~2,047 |
 | Miner | 10.00% | ~1,137 |
 | Duty Bound | 7.00% | ~796 |
 | Angler | 5.00% | ~568 |
 | Thorn Cleaner | 5.00% | ~568 |
 | Chit Chatter | 3.00% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,369 (Ranked 151)  
+Progressed: 11,370 (Ranked 151)  
 Completed: 270 (2.37%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,16 +170,16 @@ Completed: 270 (2.37%) (Ranked 113)
 | 2023-10-31 | 11,236 | 267 |
 | 2023-11-01 | 11,282 | 268 |
 | 2023-11-02 | 11,340 | 270 |
-| 2023-11-03 | 11,369 | 270 |
+| 2023-11-03 | 11,370 | 270 |
 ## Awards
 Max (Great for Beginners): 1,045  (Ranked 148)  
-Sum: 7,832 (Ranked 107)  
+Sum: 7,840 (Ranked 107)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,045 |
-| This game has Diverse Characters | 880 |
-| This game is Highly Recommended | 819 |
+| This game has Diverse Characters | 886 |
+| This game is Highly Recommended | 821 |
 | This game has Amazing Characters | 819 |
 | This game is Relaxing | 807 |
 | This game has Amazing Storytelling | 773 |
@@ -426,4 +426,4 @@ Diff (max vs sum): 41
 | 2023-10-31 | 4.76 | - | 1,040 | 7,803 |
 | 2023-11-01 | 4.76 | - | 1,043 | 7,811 |
 | 2023-11-02 | 4.76 | - | 1,043 | 7,827 |
-| 2023-11-03 | 4.76 | - | 1,045 | 7,832 |
+| 2023-11-03 | 4.76 | - | 1,045 | 7,840 |

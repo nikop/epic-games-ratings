@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 330,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 262,
@@ -3054,9 +3054,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 461
     },
     {
       "ID": "MQ03_1",
@@ -3222,9 +3222,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 341
+      "UsersEstimate": 349
     },
     {
       "ID": "PLTN",
@@ -3247,8 +3247,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:04:08.8077663+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:04:45.0037935+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:58:12.4891427+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:04:08.8078057+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:58:34.6001381+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:04:45.0038324+00:00"
 }

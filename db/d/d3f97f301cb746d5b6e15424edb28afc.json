@@ -1368,9 +1368,9 @@
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -1519,8 +1519,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:06:25.4964349+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:07:28.9057874+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:58:30.1966711+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:06:25.496559+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:58:56.5300616+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:07:28.9058939+00:00"
 }

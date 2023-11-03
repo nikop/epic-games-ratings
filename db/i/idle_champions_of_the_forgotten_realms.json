@@ -6,7 +6,7 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -7795,10 +7795,10 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233569,
-  "EOS_Completed": 2425,
-  "EOS_NewPlayers": 611,
-  "EOS_NewCompleters": 36,
+  "EOS_Progressed": 233573,
+  "EOS_Completed": 2426,
+  "EOS_NewPlayers": 605,
+  "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -29845,6 +29845,11 @@
       "Time": "2023-11-03T20:03:56.0723557+00:00",
       "NumProgressed": 233569,
       "NumCompleted": 2425
+    },
+    {
+      "Time": "2023-11-03T21:04:29.6774199+00:00",
+      "NumProgressed": 233573,
+      "NumCompleted": 2426
     }
   ],
   "TotalAchievements": 532,
@@ -33238,9 +33243,9 @@
       "ID": "objective_completed_830",
       "SetID": "415jc5c",
       "Name": "It\u0027s Cold Out There Today",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_832",
@@ -33294,9 +33299,9 @@
       "ID": "objective_completed_839",
       "SetID": "415jc5c",
       "Name": "Going To Eleven",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_842",
@@ -34111,21 +34116,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199843,
-      "Completed": 3852
+      "Progressed": 199847,
+      "Completed": 3854
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233569,
-      "Completed": 2425
+      "Progressed": 233573,
+      "Completed": 2426
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:03:56.0723552+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:04:29.6774192+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:59:02.46672+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:03:56.0753104+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:59:36.7904058+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:04:29.6807305+00:00"
 }

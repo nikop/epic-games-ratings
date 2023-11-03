@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
@@ -1585,6 +1585,11 @@
       "Time": "2023-11-03T18:08:50.3016523+00:00",
       "NumProgressed": 479,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-03T21:08:32.1045995+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1603,9 +1608,9 @@
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 273
+      "UsersEstimate": 269
     },
     {
       "ID": "achievement_11",
@@ -1613,7 +1618,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "achievement_12",
@@ -1621,7 +1626,7 @@
       "Name": "From Way Downtown",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_13",
@@ -1629,7 +1634,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "achievement_14",
@@ -1651,9 +1656,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 408
     },
     {
       "ID": "achievement_17",
@@ -1733,20 +1738,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:08:37.1091965+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:08:32.1045989+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.745221+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:57:17.7845244+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:08:37.1092203+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:57:27.4324014+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:08:32.1046224+00:00"
 }

@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 843,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1557,9 +1557,9 @@
       "ID": "ML_ACHIEVEMENT_11",
       "SetID": "5k00jcd",
       "Name": "It\u0027s me you have to beat",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 126
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -1797,9 +1797,9 @@
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -1834,8 +1834,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:03:59.6009319+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:04:33.6281163+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:59:03.8522832+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:03:59.6009813+00:00"
+  "LastUpdate_Ratings": "2023-11-03T20:59:38.4396242+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:04:33.6281688+00:00"
 }

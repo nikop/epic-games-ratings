@@ -97,8 +97,8 @@
   "Tags": [],
   "EOS_Progressed": 6366,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 2698,
-  "EOS_NewCompleters": 59,
+  "EOS_NewPlayers": 2692,
+  "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
     {
@@ -2374,9 +2374,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7opfcp",
       "Name": "Go Clean up In Your Own Way",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2228
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -2455,8 +2455,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-03T13:07:05.8172495+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:06:00.0436551+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:06:58.8345187+00:00",
   "LastUpdate_AppInfo": "2023-10-27T21:57:21.9852903+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:00:07.3940539+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:06:00.0437043+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:00:58.3885018+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:06:58.8345653+00:00"
 }

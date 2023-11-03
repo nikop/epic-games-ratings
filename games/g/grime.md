@@ -25,7 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 0.80% | ~1,251 |
 | Predator | 0.70% | ~1,094 |
 | Assimilation | 0.60% | ~938 |
-| Host | 0.60% | ~935 |
+| Host | 0.60% | ~936 |
 | Celebration | 0.60% | ~938 |
 | Hunt Down | 0.50% | ~782 |
 | Artisan | 0.50% | ~782 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,326 (Ranked 75)  
+Progressed: 156,336 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-10-31 | 155,810 | 1 |
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
-| 2023-11-03 | 156,326 | 1 |
+| 2023-11-03 | 156,336 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 343 (Ranked 349)  

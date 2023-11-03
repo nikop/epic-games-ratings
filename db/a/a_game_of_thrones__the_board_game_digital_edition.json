@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27526,
+  "EOS_Progressed": 27532,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 1,
@@ -22504,6 +22504,11 @@
       "Time": "2023-11-03T20:08:51.9332601+00:00",
       "NumProgressed": 27526,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2023-11-03T21:08:50.1312939+00:00",
+      "NumProgressed": 27532,
+      "NumCompleted": 74
     }
   ],
   "TotalAchievements": 22,
@@ -22539,7 +22544,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "1019",
@@ -22555,7 +22560,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "1021",
@@ -22587,7 +22592,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "1025",
@@ -22611,7 +22616,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "1028",
@@ -22619,7 +22624,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "1029",
@@ -22627,7 +22632,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     },
     {
       "ID": "1030",
@@ -22635,7 +22640,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5505
+      "UsersEstimate": 5506
     },
     {
       "ID": "1031",
@@ -22651,7 +22656,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11010
+      "UsersEstimate": 11013
     },
     {
       "ID": "1033",
@@ -22675,7 +22680,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "1036",
@@ -22683,22 +22688,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2202
+      "UsersEstimate": 2203
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27526,
+      "Progressed": 27532,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:08:51.9332593+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:08:50.1312934+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:02:59.997368+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:08:51.9334397+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:03:00.5948093+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:08:50.1314363+00:00"
 }

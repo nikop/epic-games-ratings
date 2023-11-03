@@ -17,6 +17,7 @@ Rating: 4.19 (Ranked 911)
 | If the SHU Fits... | 5.00% | ~820 |
 | Without A Paddle | 5.00% | ~820 |
 | In the Pipe, Five by Five | 5.00% | ~820 |
+| What Lies Beneath | 5.00% | ~820 |
 | Desperate Times | 5.00% | ~820 |
 | Crash Site | 5.00% | ~820 |
 | Full Circle | 5.00% | ~820 |
@@ -26,7 +27,6 @@ Rating: 4.19 (Ranked 911)
 | You Need a Gun | 4.00% | ~656 |
 | I Do Belong Here | 4.00% | ~656 |
 | Terminated | 4.00% | ~656 |
-| What Lies Beneath | 4.00% | ~656 |
 | It's Time | 4.00% | ~173 |
 | The Commonality | 3.00% | ~492 |
 | In Striking Distance | 2.00% | ~328 |

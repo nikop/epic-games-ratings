@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1429,6 +1429,11 @@
       "Time": "2023-11-03T20:05:05.1455064+00:00",
       "NumProgressed": 442,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T21:05:51.5416685+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1440,7 +1445,7 @@
       "Name": "Digger",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1520,7 +1525,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1528,7 +1533,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_COOK",
@@ -1574,9 +1579,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_KILL_100",
@@ -1584,7 +1589,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_KILL_20",
@@ -1592,7 +1597,7 @@
       "Name": "Scrapper",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_KILL_50",
@@ -1632,7 +1637,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1678,16 +1683,16 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 1
     }
   ],
@@ -1695,8 +1700,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-10-28T14:03:22.2767403+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:05:05.145506+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:05:51.5416678+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:28.6453179+00:00",
-  "LastUpdate_Ratings": "2023-11-03T20:02:55.4093519+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:05:05.1455343+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:02:55.0915196+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:05:51.5416992+00:00"
 }

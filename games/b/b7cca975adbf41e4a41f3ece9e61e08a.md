@@ -15,8 +15,8 @@ Rating: 4.80 (Ranked 86)
 | Love Actually | 47.00% | ~2,992 |
 | Drama King | 40.00% | ~2,546 |
 | You're Really Something Else | 36.00% | ~2,292 |
+| Go Clean up In Your Own Way | 35.00% | ~2,228 |
 | ONE PUNCH | 34.00% | ~2,164 |
-| Go Clean up In Your Own Way | 34.00% | ~2,164 |
 | Happy Family | 33.00% | ~2,101 |
 | Drama CP: Reel to Real | 33.00% | ~2,101 |
 | Worthless Speech | 33.00% | ~2,101 |

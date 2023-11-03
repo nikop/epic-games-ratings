@@ -13,6 +13,7 @@
 | A hidden snake | 20.00% | ~3 |
 | Blood and sand | 20.00% | ~3 |
 | Crimson rivers | 13.00% | ~2 |
+| Berkanan Borgia | 13.00% | ~2 |
 | Power of Inquisition | 13.00% | ~2 |
 | The champion of the arena | 13.00% | ~2 |
 | Surpass the teacher | 13.00% | ~2 |
@@ -23,25 +24,24 @@
 | Punish the Punisher | 13.00% | ~2 |
 | Protect the Healer! | 13.00% | ~2 |
 | Cunning plan | 13.00% | ~2 |
+| Help of the Gell | 13.00% | ~2 |
+| Trial by cold | 13.00% | ~2 |
 | She-Wolf | 13.00% | ~2 |
 | Overplay the rogue | 7.00% | ~1 |
-| Berkanan Borgia | 7.00% | ~1 |
 | The best apprentice | 7.00% | ~1 |
+| Stronger than Gellian steel | 7.00% | ~1 |
+| Rage | 7.00% | ~1 |
+| The power of persuasion | 7.00% | ~1 |
 | Deadly strike | 7.00% | ~1 |
 | Do it yourself | 7.00% | ~1 |
-| Help of the Gell | 7.00% | ~1 |
-| Trial by cold | 7.00% | ~1 |
 | All's fair in love and war | 7.00% | ~1 |
 | For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
-| Stronger than Gellian steel | 0.00% | ~0 |
 | First among Frisians | 0.00% | ~0 |
 | Defeat the bear | 0.00% | ~0 |
-| Rage | 0.00% | ~0 |
-| The power of persuasion | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |

@@ -25,7 +25,7 @@ Rating: 4.63 (Ranked 347)
 | Strange Transmissions | 42.00% | ~613 |
 | Live with the Hot Ones | 41.00% | ~598 |
 | Wreckage | 41.00% | ~598 |
-| Keeper of the Faith | 38.00% | ~554 |
+| Keeper of the Faith | 39.00% | ~569 |
 | Betrayed | 37.00% | ~540 |
 | Exodus | 36.00% | ~525 |
 | Legend Teller | 36.00% | ~525 |

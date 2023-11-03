@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7200,
+  "EOS_Progressed": 7202,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -8125,6 +8125,11 @@
       "Time": "2023-11-03T20:04:34.7880951+00:00",
       "NumProgressed": 7200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T21:05:15.1218064+00:00",
+      "NumProgressed": 7202,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8168,7 +8173,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8176,7 +8181,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "Control_All_Relics",
@@ -8200,7 +8205,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8216,7 +8221,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "First_Major_Ally",
@@ -8240,7 +8245,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5546
     },
     {
       "ID": "First_Race_Met",
@@ -8248,7 +8253,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5185
     },
     {
       "ID": "First_Ship_Designed",
@@ -8256,7 +8261,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "First_Stream_Travel",
@@ -8272,7 +8277,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5544
+      "UsersEstimate": 5546
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8352,7 +8357,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "Play_1000_Hours",
@@ -8456,7 +8461,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4392
+      "UsersEstimate": 4393
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8478,9 +8483,9 @@
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 360
     },
     {
       "ID": "Win_As_Altarian",
@@ -8624,7 +8629,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4680
+      "UsersEstimate": 4681
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8711,15 +8716,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7200,
+      "Progressed": 7202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-03T20:04:34.7880943+00:00",
+  "LastChanged_Achievements": "2023-11-03T21:05:15.1218058+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-03T19:59:26.7529879+00:00",
-  "LastUpdate_Achievements": "2023-11-03T20:04:34.7882439+00:00"
+  "LastUpdate_Ratings": "2023-11-03T21:00:06.8672758+00:00",
+  "LastUpdate_Achievements": "2023-11-03T21:05:15.1219238+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 43.00% | ~40 |
-| Trinity | 18.00% | ~17 |
+| Break Out | 43.00% | ~41 |
+| Trinity | 19.00% | ~18 |
 | I Found It | 15.00% | ~14 |
+| The Collector | 15.00% | ~14 |
 | Find Allies | 14.00% | ~13 |
-| The Collector | 14.00% | ~13 |
-| Adventurer | 13.00% | ~12 |
-| Shatter Them All | 13.00% | ~12 |
+| Adventurer | 14.00% | ~13 |
+| Shatter Them All | 14.00% | ~13 |
+| Fashion Victim | 13.00% | ~12 |
+| Scholar | 13.00% | ~12 |
 | Powerful Allies | 12.00% | ~11 |
 | A Taste of Wrath | 12.00% | ~11 |
-| Fashion Victim | 12.00% | ~11 |
-| Scholar | 11.00% | ~10 |
-| Essence Blow | 9.00% | ~8 |
-| Geared Up | 9.00% | ~8 |
+| Geared Up | 11.00% | ~10 |
+| Essence Blow | 9.00% | ~9 |
+| Tributes of Caladrias | 6.00% | ~6 |
+| Stone Collection | 6.00% | ~6 |
+| Calm before the Storm | 5.00% | ~5 |
 | Airborne | 5.00% | ~5 |
-| Tributes of Caladrias | 5.00% | ~5 |
-| Stone Collection | 5.00% | ~5 |
 | Miner | 5.00% | ~5 |
-| Calm before the Storm | 4.00% | ~4 |
 | To Battle | 4.00% | ~4 |
 | Godslayer | 4.00% | ~4 |
 | The Mentor | 3.00% | ~3 |
@@ -31,18 +31,18 @@
 | Clear Sight | 1.00% | ~1 |
 | Shardbearer | 1.00% | ~1 |
 | Slayer | 1.00% | ~1 |
+| Flawless Victory | 1.00% | ~1 |
 | Fine Feathers Make Fine Birds | 1.00% | ~1 |
 | Forgemaster | 0.00% | ~0 |
-| Flawless Victory | 0.00% | ~0 |
+| Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
-| Shatterer | -1.10% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 416)  
-Completed: 1 (1.08%) (Ranked 149)  
+Progressed: 95 (Ranked 413)  
+Completed: 1 (1.05%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,4 +68,4 @@ Completed: 1 (1.08%) (Ranked 149)
 | 2023-10-31 | 41 | 1 |
 | 2023-11-01 | 55 | 1 |
 | 2023-11-02 | 76 | 1 |
-| 2023-11-03 | 93 | 1 |
+| 2023-11-03 | 95 | 1 |

@@ -25,23 +25,23 @@ Rating: 4.56 (Ranked 483)
 | Miraculous Maya | 0.60% | ~88 |
 | Doctor Approved | 0.50% | ~73 |
 | Data Logger | 0.40% | ~58 |
+| Zen Master | 0.40% | ~2 |
 | No Belter Left Behind | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
 | Safe Cracker | 0.30% | ~2 |
-| Zen Master | 0.30% | ~2 |
+| Madame Undersecretary | 0.30% | ~2 |
 | Brother's Reaper | 0.20% | ~29 |
 | Debris Spree | 0.20% | ~29 |
 | Data Recoverer | 0.20% | ~29 |
 | Keep Arjun in Check | 0.20% | ~1 |
 | Master Negotiator | 0.20% | ~1 |
-| Madame Undersecretary | 0.20% | ~1 |
 | Urshanabi Hoarder | 0.10% | ~15 |
 | Data Miner | 0.10% | ~15 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,603 (Ranked 146)  
+Progressed: 14,604 (Ranked 146)  
 Completed: 30 (0.21%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 30 (0.21%) (Ranked 235)
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
-| 2023-11-03 | 14,603 | 30 |
+| 2023-11-03 | 14,604 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
