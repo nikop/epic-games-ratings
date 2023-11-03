@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6425,
+  "EOS_Progressed": 6426,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6041,6 +6041,11 @@
       "Time": "2023-11-02T22:07:09.6655491+00:00",
       "NumProgressed": 6425,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T07:09:45.0256197+00:00",
+      "NumProgressed": 6426,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6108,7 +6113,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Bride",
@@ -6188,7 +6193,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "DoNotBurn",
@@ -6372,7 +6377,7 @@
       "Name": "Relentless",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Penguinfucker",
@@ -6460,7 +6465,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "SuckerPunch",
@@ -6603,21 +6608,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3464,
+      "Progressed": 3465,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6425,
+      "Progressed": 6426,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:08:12.995068+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:09:45.0256189+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.0046301+00:00",
-  "LastUpdate_Ratings": "2023-11-03T06:02:37.8930087+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:08:12.9951992+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:04:14.1362859+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:09:45.0257389+00:00"
 }

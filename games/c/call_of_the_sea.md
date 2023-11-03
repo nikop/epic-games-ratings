@@ -5,10 +5,10 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~102,330 |
-| 74 miles East of Otaheité | 56.00% | ~71,631 |
-| Interesting... | 42.00% | ~53,723 |
-| The Everhart Expedition | 39.00% | ~49,886 |
+| A Family Heirloom | 80.00% | ~102,332 |
+| 74 miles East of Otaheité | 56.00% | ~71,632 |
+| Interesting... | 42.00% | ~53,724 |
+| The Everhart Expedition | 39.00% | ~49,887 |
 | The Vanishing of the Lady Shannon | 30.00% | ~38,374 |
 | Seaside Serenade | 30.00% | ~38,374 |
 | Halfway there | 29.00% | ~37,095 |
@@ -16,12 +16,12 @@ Rating: 4.39 (Ranked 744)
 | 506 East Hampden Avenue | 28.00% | ~35,816 |
 | Weekend at Walakea's | 27.00% | ~34,537 |
 | Quite a Show | 27.00% | ~34,537 |
-| Dark Water Ride | 25.00% | ~31,978 |
-| Sunken | 24.00% | ~30,699 |
-| Deep Cut | 24.00% | ~30,699 |
+| Dark Water Ride | 25.00% | ~31,979 |
+| Sunken | 24.00% | ~30,700 |
+| Deep Cut | 24.00% | ~30,700 |
 | FHALGOF'N' | 23.00% | ~29,420 |
 | Marsh Cannery | 21.00% | ~26,862 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,745 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,746 |
 | The only thing I have now | 16.00% | ~20,466 |
 | Not Another Boring Slideshow! | 15.00% | ~19,187 |
 | Naacalvision | 15.00% | ~19,187 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 744)
 | Gently down the stream... | 1.00% | ~1,279 |
 | Meta-reference | 1.00% | ~1,279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,913 (Ranked 82)  
+Progressed: 127,915 (Ranked 82)  
 Completed: 1,095 (0.86%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 1,095 (0.86%) (Ranked 165)
 | 2023-10-31 | 127,550 | 1,092 |
 | 2023-11-01 | 127,719 | 1,092 |
 | 2023-11-02 | 127,881 | 1,095 |
-| 2023-11-03 | 127,913 | 1,095 |
+| 2023-11-03 | 127,915 | 1,095 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

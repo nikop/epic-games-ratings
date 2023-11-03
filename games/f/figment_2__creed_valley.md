@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 33.00% | ~9 |
+| Black Hog Down | 37.00% | ~10 |
 | Slam-KABAM | 22.00% | ~6 |
 | A heavy thinker | 22.00% | ~6 |
 | Ouch, that hurt! | 22.00% | ~6 |

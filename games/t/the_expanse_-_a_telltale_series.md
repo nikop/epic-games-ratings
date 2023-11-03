@@ -6,8 +6,8 @@ Rating: 4.56 (Ranked 482)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 4.00% | ~584 |
+| The Pit and the Pirates | 2.00% | ~292 |
 | Bosmang | 2.00% | ~292 |
-| The Pit and the Pirates | 1.00% | ~146 |
 | Data Archivist | 1.00% | ~146 |
 | Stogie for Fogey | 1.00% | ~146 |
 | Drug Gifter | 1.00% | ~146 |

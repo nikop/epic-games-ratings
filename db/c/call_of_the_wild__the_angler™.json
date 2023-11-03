@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -859,9 +859,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 6251,
+  "EOS_Progressed": 6252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9219,6 +9219,11 @@
       "Time": "2023-11-03T05:09:43.1950833+00:00",
       "NumProgressed": 6251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T07:10:56.8829334+00:00",
+      "NumProgressed": 6252,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9276,9 +9281,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9549,13 +9554,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6251,
+      "Progressed": 6252,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5623,
+      "Progressed": 5624,
       "Completed": 113
     }
   ],
@@ -9563,8 +9568,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-03T04:58:08.7883599+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:10:08.7489003+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:10:56.8829325+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:46.9998787+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:58:14.476132+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:10:08.7489805+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:58:26.2145597+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:10:56.8830808+00:00"
 }

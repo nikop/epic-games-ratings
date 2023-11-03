@@ -11473,10 +11473,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 55815,
       "NumberOfAwardsMax": 6798
+    },
+    {
+      "Time": "2023-11-03T07:03:11.303012+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55828,
+      "NumberOfAwardsMax": 6798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55815,
+  "NumberOfAwards": 55828,
   "NumberOfAwardsMax": 6798,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11538,7 +11544,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5232
+      "Count": 5245
     },
     {
       "Text": "This game has Unique Visuals",
@@ -11547,9 +11553,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 445560,
+  "EOS_Progressed": 445571,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5422,
+  "EOS_NewPlayers": 5419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34012,6 +34018,11 @@
       "Time": "2023-11-03T06:07:50.3815605+00:00",
       "NumProgressed": 445560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T07:09:26.8654303+00:00",
+      "NumProgressed": 445571,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34679,7 +34690,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -35023,7 +35034,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17822
+      "UsersEstimate": 17823
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35975,7 +35986,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -36575,7 +36586,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -36687,7 +36698,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17822
+      "UsersEstimate": 17823
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36719,7 +36730,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17822
+      "UsersEstimate": 17823
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -36854,21 +36865,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 445560,
+      "Progressed": 445571,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 445560,
+      "Progressed": 445571,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-02T22:00:31.5524343+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:07:50.3815601+00:00",
+  "LastChanged": "2023-11-03T07:03:11.3030117+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:09:26.8654297+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-03T06:01:06.1379051+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:07:50.3834351+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:03:11.3030127+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:09:26.8668755+00:00"
 }

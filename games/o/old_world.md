@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
 | Economic Reform | 0.90% | ~136 |
+| Military Prestige | 0.90% | ~136 |
 | Legalism | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
 | Cimmerian Archer | 0.90% | ~136 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.80% | ~121 |
 | Carthage | 0.80% | ~121 |
 | One True Faith | 0.80% | ~121 |
-| Military Prestige | 0.80% | ~121 |
 | Dualism | 0.80% | ~121 |
 | Gnosticism | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.50% | ~76 |
 | Beja Archer | 0.50% | ~76 |
 | Old | 0.40% | ~60 |
+| Pantheon of Gods | 0.40% | ~60 |
 | Capturing Cities | 0.40% | ~60 |
 | Ten Crowns | 0.40% | ~60 |
 | No Undo | 0.40% | ~60 |
@@ -164,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.30% | ~45 |
 | Hatti | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
-| Pantheon of Gods | 0.30% | ~45 |
 | Play a Network Game | 0.30% | ~45 |
 | Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |

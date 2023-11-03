@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 313,
+  "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 78,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 372,
+  "EOS_Progressed": 373,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.18,
+  "EOS_Completed_Percentage": 6.17,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1725,6 +1725,11 @@
       "Time": "2023-11-03T04:08:23.9382052+00:00",
       "NumProgressed": 372,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-03T07:10:14.9569126+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1880,7 +1885,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1935,14 +1940,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 372,
+      "Progressed": 373,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:09:18.0273544+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:10:14.956912+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T06:01:54.8814864+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:09:18.0273886+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:03:42.9533957+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:10:14.9569605+00:00"
 }

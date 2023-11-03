@@ -6,43 +6,43 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 177.00% | ~234 |
-| Adept Assembler | 130.00% | ~172 |
-| Greeno-B-Gone | 85.00% | ~112 |
-| Your Especially Earned Trajectory | 64.00% | ~84 |
-| Can We Keep It? | 42.00% | ~55 |
-| No Mountain Wide Enough | 33.00% | ~44 |
-| My Time Mansion | 30.00% | ~40 |
-| Happier-est Place on Earth | 23.00% | ~30 |
-| Call Me Fishmael | 23.00% | ~30 |
-| Finishing Touches | 21.00% | ~28 |
-| Anti-Santa | 21.00% | ~28 |
-| On that Grindset | 18.00% | ~24 |
-| You Don't Win Friends With Salad | 18.00% | ~24 |
-| Yakmel Whisperer | 18.00% | ~24 |
+| Iron Chef | 185.00% | ~239 |
+| Adept Assembler | 135.00% | ~174 |
+| Greeno-B-Gone | 88.00% | ~114 |
+| Your Especially Earned Trajectory | 67.00% | ~86 |
+| Can We Keep It? | 43.00% | ~55 |
+| No Mountain Wide Enough | 35.00% | ~45 |
+| My Time Mansion | 30.00% | ~39 |
+| Happier-est Place on Earth | 24.00% | ~31 |
+| Call Me Fishmael | 24.00% | ~31 |
+| Finishing Touches | 22.00% | ~28 |
+| Anti-Santa | 22.00% | ~28 |
+| On that Grindset | 19.00% | ~25 |
+| You Don't Win Friends With Salad | 19.00% | ~25 |
+| Yakmel Whisperer | 19.00% | ~25 |
+| I Do! | 16.00% | ~21 |
+| Officially Official | 15.00% | ~19 |
 | Knowledge is Power | 14.00% | ~18 |
 | Jewel of the Eufaula | 14.00% | ~18 |
-| Officially Official | 14.00% | ~18 |
-| I Do! | 14.00% | ~18 |
 | Better Late than Never | 10.00% | ~13 |
-| Mole Masher | 9.00% | ~12 |
-| Pack Mule | 8.00% | ~11 |
+| Mole Masher | 10.00% | ~13 |
+| Pack Mule | 9.00% | ~12 |
 | Jack of All Trades | 7.00% | ~9 |
 | Diamonds are Forever | 7.00% | ~9 |
-| Panda-kin | 5.00% | ~7 |
-| He Can Spin A Yarn... | 5.00% | ~7 |
-| First Love | 5.00% | ~7 |
+| Panda-kin | 5.00% | ~6 |
+| He Can Spin A Yarn... | 5.00% | ~6 |
+| First Love | 5.00% | ~6 |
 | One of the Cool Kids | 4.00% | ~5 |
 | Pro Gamer | 4.00% | ~5 |
 | Just What I Always Wanted! | 4.00% | ~5 |
+| Kind of a Big Deal | 3.00% | ~4 |
 | Cardistry | 3.00% | ~4 |
+| Chatterbox | 3.00% | ~4 |
 | Time Flies | 2.00% | ~3 |
 | Big Game Hunter | 2.00% | ~3 |
 | Commissions, commissions...! | 2.00% | ~3 |
 | Financially Secure | 2.00% | ~3 |
-| Kind of a Big Deal | 2.00% | ~3 |
 | What Plants Crave | 2.00% | ~3 |
-| Chatterbox | 2.00% | ~3 |
 | Santa In Training | 2.00% | ~3 |
 | Got the Receipt? | 2.00% | ~3 |
 | Unboxing | 2.00% | ~3 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132 (Ranked 384)  
+Progressed: 129 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14881,
+  "EOS_Progressed": 14890,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4350,
+  "EOS_NewPlayers": 4347,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2023-11-03T06:10:27.5603415+00:00",
       "NumProgressed": 14881,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T07:11:12.2502647+00:00",
+      "NumProgressed": 14890,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -1945,7 +1950,7 @@
       "Name": "Sector 1",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_Sector2",
@@ -1999,16 +2004,16 @@
       "ID": "ACH_TurnBallBlack",
       "SetID": "a3lf366",
       "Name": "Did That Work? -- No!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14881,
+      "Progressed": 14890,
       "Completed": 3
     }
   ],
@@ -2016,8 +2021,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-03T05:58:06.8931009+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:10:27.5603409+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:11:12.2502639+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:58:06.8931015+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:10:27.5603726+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:58:18.0295491+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:11:12.2503163+00:00"
 }

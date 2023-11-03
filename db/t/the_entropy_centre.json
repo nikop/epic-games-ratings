@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 392,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1140,8 +1140,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:09:12.2814395+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:10:10.2248657+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:09.584063+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:58:36.2682161+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:09:12.2814652+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:59:10.2320052+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:10:10.2249085+00:00"
 }

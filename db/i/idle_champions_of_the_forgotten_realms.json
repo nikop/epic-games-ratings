@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7739,18 +7739,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32315,
       "NumberOfAwardsMax": 5470
+    },
+    {
+      "Time": "2023-11-03T07:02:34.1738969+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32319,
+      "NumberOfAwardsMax": 5474
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32315,
-  "NumberOfAwardsMax": 5470,
+  "NumberOfAwards": 32319,
+  "NumberOfAwardsMax": 5474,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5470
+      "Count": 5474
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7789,10 +7795,10 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233511,
-  "EOS_Completed": 2424,
-  "EOS_NewPlayers": 601,
-  "EOS_NewCompleters": 36,
+  "EOS_Progressed": 233514,
+  "EOS_Completed": 2425,
+  "EOS_NewPlayers": 602,
+  "EOS_NewCompleters": 37,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -29774,6 +29780,11 @@
       "Time": "2023-11-03T06:04:56.2413261+00:00",
       "NumProgressed": 233511,
       "NumCompleted": 2424
+    },
+    {
+      "Time": "2023-11-03T07:05:46.7277678+00:00",
+      "NumProgressed": 233514,
+      "NumCompleted": 2425
     }
   ],
   "TotalAchievements": 532,
@@ -30847,9 +30858,9 @@
       "ID": "objective_completed_1341",
       "SetID": "415jc5c",
       "Name": "The Egg of Nat\u0027s Desire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1345",
@@ -31303,9 +31314,9 @@
       "ID": "objective_completed_252",
       "SetID": "cc37lbc",
       "Name": "They Who Smelt It",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 234
     },
     {
       "ID": "objective_completed_253",
@@ -31551,9 +31562,9 @@
       "ID": "objective_completed_386",
       "SetID": "415jc5c",
       "Name": "Spirit of the Trickster Gods",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_388",
@@ -33279,9 +33290,9 @@
       "ID": "objective_completed_850",
       "SetID": "415jc5c",
       "Name": "Witty Riposting",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_852",
@@ -33487,9 +33498,9 @@
       "ID": "objective_completed_893",
       "SetID": "415jc5c",
       "Name": "Ambitious Speakers - Part 2",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_894",
@@ -33575,9 +33586,9 @@
       "ID": "objective_completed_920",
       "SetID": "415jc5c",
       "Name": "Crimson Perception",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_923",
@@ -33711,9 +33722,9 @@
       "ID": "objective_completed_1360",
       "SetID": "415jc5c",
       "Name": "Beware the Jabberwock",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1361",
@@ -33967,9 +33978,9 @@
       "ID": "objective_completed_1411",
       "SetID": "415jc5c",
       "Name": "Entrance of the Gladiators",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1415",
@@ -34007,9 +34018,9 @@
       "ID": "objective_completed_1547",
       "SetID": "415jc5c",
       "Name": "The Beginning is the End",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 799
+      "UsersEstimate": 999
     },
     {
       "ID": "objective_completed_1548",
@@ -34040,21 +34051,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199785,
-      "Completed": 3807
+      "Progressed": 199788,
+      "Completed": 3814
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233511,
-      "Completed": 2424
+      "Progressed": 233514,
+      "Completed": 2425
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-02T22:59:07.0075621+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:04:56.2413253+00:00",
+  "LastChanged": "2023-11-03T07:02:34.1738966+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:05:46.7277668+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-03T06:00:22.322237+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:04:56.2445827+00:00"
+  "LastUpdate_Ratings": "2023-11-03T07:02:34.1738974+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:05:46.7331119+00:00"
 }

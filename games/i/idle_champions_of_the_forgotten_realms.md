@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 0.40% | ~799 |
+| The Beginning is the End | 0.50% | ~999 |
 | Tomb of Champions | 0.20% | ~400 |
 | The End is the Beginning | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
@@ -130,6 +130,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Bitter End | 0.10% | ~200 |
 | A Nimble Approach | 0.10% | ~200 |
 | The Palace of Heart's Desire | 0.10% | ~200 |
+| The Egg of Nat's Desire | 0.10% | ~200 |
 | No One Can Hear You Scream | 0.10% | ~200 |
 | Anchors Aweigh | 0.10% | ~200 |
 | Welcome to the Rock | 0.10% | ~200 |
@@ -185,6 +186,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Form Ranks | 0.10% | ~234 |
 | Drop of Time | 0.10% | ~200 |
 | The Wyrmheart Mine | 0.10% | ~234 |
+| They Who Smelt It | 0.10% | ~234 |
 | Distribute Your Weight | 0.10% | ~234 |
 | Tower on the Lake | 0.10% | ~234 |
 | Only the Strong Survive | 0.10% | ~234 |
@@ -214,6 +216,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Love | 0.10% | ~234 |
 | A Saurial's Lament | 0.10% | ~234 |
 | A Saurial's Resolve | 0.10% | ~234 |
+| Spirit of the Trickster Gods | 0.10% | ~200 |
 | Flies on the Wall | 0.10% | ~234 |
 | The Killer Mists | 0.10% | ~234 |
 | Seeking Allies | 0.10% | ~234 |
@@ -418,6 +421,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Radiant Nightmare | 0.10% | ~200 |
 | Quick Thinking | 0.10% | ~200 |
 | Tough Acting | 0.10% | ~200 |
+| Witty Riposting | 0.10% | ~200 |
 | Waiting on Sunrise | 0.10% | ~200 |
 | Frontline Fighters | 0.10% | ~200 |
 | How Far Away is Thay | 0.10% | ~200 |
@@ -438,6 +442,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ending the Rime - Part 1 | 0.10% | ~200 |
 | Ambitious Speakers - Part 1 | 0.10% | ~200 |
 | Ending the Rime - Part 2 | 0.10% | ~200 |
+| Ambitious Speakers - Part 2 | 0.10% | ~200 |
 | Reghed Glacier Mysteries | 0.10% | ~200 |
 | Mysteries Unlocked | 0.10% | ~200 |
 | Male Pattern Boldness | 0.10% | ~200 |
@@ -445,6 +450,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tekeli-li's Hunt | 0.10% | ~200 |
 | Cackling Horror | 0.10% | ~200 |
 | Neutral No More | 0.10% | ~200 |
+| Crimson Perception | 0.10% | ~200 |
 | Encroaching Madness | 0.10% | ~200 |
 | Watchful Eyes | 0.10% | ~200 |
 | Maroon Madness | 0.10% | ~200 |
@@ -457,6 +463,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~234 |
 | Rescue in the Jungle | 0.10% | ~234 |
 | The Court of Storms | 0.10% | ~200 |
+| Beware the Jabberwock | 0.10% | ~200 |
 | Willing to Sacrifice | 0.10% | ~200 |
 | Devilishly Cold | 0.10% | ~200 |
 | The Champion's Guide to Wildspace | 0.10% | ~200 |
@@ -483,6 +490,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Jungles of Doomspace | 0.10% | ~200 |
 | Slow Down Showdown | 0.10% | ~200 |
 | The Arena of Blood | 0.10% | ~200 |
+| Entrance of the Gladiators | 0.10% | ~200 |
 | Foul Play | 0.10% | ~200 |
 | Fowl Play | 0.10% | ~200 |
 | Spelljammers in Training | 0.10% | ~200 |
@@ -500,11 +508,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Demon Lords of the Abyss | 0.00% | ~0 |
 | Pincushion Party | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| The Egg of Nat's Desire | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
-| They Who Smelt It | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
-| Spirit of the Trickster Gods | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
 | Ettercap Swarm | 0.00% | ~0 |
@@ -516,31 +521,26 @@ Number of Ratings: 9,041  (23.09.2022)
 | It's Cold Out There Every Day | 0.00% | ~0 |
 | Don't Pick at the Scab | 0.00% | ~0 |
 | Going To Eleven | 0.00% | ~0 |
-| Witty Riposting | 0.00% | ~0 |
 | A Chilling Encounter | 0.00% | ~0 |
 | REALLY Frozen Vengeance | 0.00% | ~0 |
 | Demons Here, Demons There | 0.00% | ~0 |
 | Stragglers | 0.00% | ~0 |
 | Shady Sidekicks - Part 1 | 0.00% | ~0 |
-| Ambitious Speakers - Part 2 | 0.00% | ~0 |
 | Shady Sidekicks - Part 2 | 0.00% | ~0 |
 | Working for the Weak End | 0.00% | ~0 |
 | Fungal Excitation | 0.00% | ~0 |
-| Crimson Perception | 0.00% | ~0 |
 | Alien Allies | 0.00% | ~0 |
 | Ineffectual Intellectuals | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 | Coasting to the Finish | 0.00% | ~0 |
-| Beware the Jabberwock | 0.00% | ~0 |
 | Quick or Quack | 0.00% | ~0 |
 | All The World's A Stage | 0.00% | ~0 |
 | Calcryx Tricks | 0.00% | ~0 |
 | Goblin Halls: the Next Generation | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
-| Entrance of the Gladiators | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,511 (Ranked 62)  
-Completed: 2,424 (1.04%) (Ranked 154)  
+Progressed: 233,514 (Ranked 62)  
+Completed: 2,425 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -736,14 +736,14 @@ Completed: 2,424 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,511 | 2,424 |
+| 2023-11-03 | 233,514 | 2,425 |
 ## Awards
-Max (Great for Beginners): 5,470  (Ranked 69)  
-Sum: 32,315 (Ranked 41)  
+Max (Great for Beginners): 5,474  (Ranked 69)  
+Sum: 32,319 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,470 |
+| This game is Great for Beginners | 5,474 |
 | This game has Diverse Characters | 5,464 |
 | This game has Quickly Understood Controls | 4,804 |
 | This game is Relaxing | 4,695 |
@@ -1034,3 +1034,4 @@ Diff (max vs sum): 28
 | 2023-10-31 | 4.06 | - | 5,465 | 32,284 |
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
 | 2023-11-02 | 4.06 | - | 5,470 | 32,315 |
+| 2023-11-03 | 4.06 | - | 5,474 | 32,319 |

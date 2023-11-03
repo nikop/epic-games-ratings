@@ -6,34 +6,34 @@
 | ---- | ---------- | ----- |
 | Chapter I | 52.00% | ~72 |
 | Fire in the... nevermind | 52.00% | ~72 |
-| Haute cuisine | 48.00% | ~66 |
-| Demolition expert | 40.00% | ~55 |
-| I didn't do it! | 40.00% | ~55 |
+| Haute cuisine | 47.00% | ~65 |
+| Demolition expert | 40.00% | ~56 |
+| I didn't do it! | 40.00% | ~56 |
 | Wooooooow! | 37.00% | ~51 |
-| Open up wide | 36.00% | ~50 |
-| Keep away from children | 36.00% | ~50 |
+| Open up wide | 35.00% | ~49 |
+| Keep away from children | 35.00% | ~49 |
 | Artistic fool | 34.00% | ~47 |
 | Let the boot talk | 31.00% | ~43 |
-| Chapter II | 27.00% | ~37 |
-| Shadow on the wall | 25.00% | ~34 |
+| Chapter II | 27.00% | ~38 |
+| Shadow on the wall | 25.00% | ~35 |
 | Handyman | 24.00% | ~33 |
 | Achoo!! | 24.00% | ~33 |
 | Chapter III | 23.00% | ~32 |
 | Like a moth in the Wind | 23.00% | ~32 |
-| Bubblekillerfamily | 22.00% | ~30 |
+| Bubblekillerfamily | 22.00% | ~31 |
 | Quite a buggy game | 21.00% | ~29 |
-| Pacifist | 20.00% | ~28 |
 | Mirror mirror on the wall... | 20.00% | ~28 |
+| Pacifist | 19.00% | ~26 |
 | Fastidious Clown | 19.00% | ~26 |
 | Home is where the heart is | 18.00% | ~25 |
-| It's not easy being green! | 17.00% | ~23 |
+| It's not easy being green! | 17.00% | ~24 |
 | Death is a part of life | 15.00% | ~21 |
 | Master of Thermodynamics | 14.00% | ~19 |
 | To err is human... | 12.00% | ~17 |
 | Unfullfilled dreams | 12.00% | ~17 |
-| Useless but beautiful | 9.00% | ~12 |
-| Nothing can stop me | 9.00% | ~12 |
-| Mumbo Jumbo | 9.00% | ~12 |
+| Useless but beautiful | 9.00% | ~13 |
+| Nothing can stop me | 9.00% | ~13 |
+| Mumbo Jumbo | 9.00% | ~13 |
 | Lollipop | 8.00% | ~11 |
 | It's nothing personal | 8.00% | ~11 |
 | Where there is life, there is hope | 7.00% | ~10 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 381)  
+Progressed: 139 (Ranked 381)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-16 | 134 | 0 |
 | 2023-10-19 | 136 | 0 |
 | 2023-11-02 | 138 | 0 |
+| 2023-11-03 | 139 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

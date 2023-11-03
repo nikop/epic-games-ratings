@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3068,
+  "EOS_Progressed": 3069,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3977,6 +3977,11 @@
       "Time": "2023-11-03T06:08:24.5240983+00:00",
       "NumProgressed": 3068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T07:09:55.6457314+00:00",
+      "NumProgressed": 3069,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4029,7 +4034,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "achievement_15",
@@ -4077,7 +4082,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_20",
@@ -4156,7 +4161,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3068,
+      "Progressed": 3069,
       "Completed": 0
     }
   ],
@@ -4164,8 +4169,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-03T04:58:08.9758469+00:00",
-  "LastChanged_Achievements": "2023-11-03T06:08:24.5240961+00:00",
+  "LastChanged_Achievements": "2023-11-03T07:09:55.6457261+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-03T05:58:14.8128512+00:00",
-  "LastUpdate_Achievements": "2023-11-03T06:08:24.5241449+00:00"
+  "LastUpdate_Ratings": "2023-11-03T06:58:26.3290177+00:00",
+  "LastUpdate_Achievements": "2023-11-03T07:09:55.6459534+00:00"
 }
