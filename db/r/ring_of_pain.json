@@ -2,12 +2,12 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 443,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3274,9 +3274,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 239018,
+  "EOS_Progressed": 239022,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -23654,6 +23654,11 @@
       "Time": "2023-11-03T00:09:22.3282385+00:00",
       "NumProgressed": 239018,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-03T01:54:04.8877217+00:00",
+      "NumProgressed": 239022,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24641,7 +24646,7 @@
       "Name": "Scrounger Appreciation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHGAMELOWCHANCESTATS",
@@ -24649,7 +24654,7 @@
       "Name": "Who Needs Luck?",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -24657,7 +24662,7 @@
       "Name": "Explosives Expert",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHGAMENOSTATS",
@@ -24665,7 +24670,7 @@
       "Name": "All Natural",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHRUNALLCLERIC",
@@ -24673,7 +24678,7 @@
       "Name": "Diviner",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -24681,7 +24686,7 @@
       "Name": "Soul Kin",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHRUNALLONLYEQUIPMULTICLASS",
@@ -24689,7 +24694,7 @@
       "Name": "Multiclass",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHRUNALLROGUE",
@@ -24697,7 +24702,7 @@
       "Name": "Stalker",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISHRUNALLWARRIOR",
@@ -24705,7 +24710,7 @@
       "Name": "Brute",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILLALLCREATURESINONETURN",
@@ -24713,7 +24718,7 @@
       "Name": "Nuclear",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -24729,7 +24734,7 @@
       "Name": "Raw Power",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILLCREATUREWITHSAMESTATS",
@@ -24737,7 +24742,7 @@
       "Name": "Dominant Twin",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
@@ -24745,7 +24750,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -24753,7 +24758,7 @@
       "Name": "What Doesn\u0027t Kill You",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -24761,20 +24766,20 @@
       "Name": "Matching",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239018,
+      "Progressed": 239022,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 498,
+      "Progressed": 502,
       "Completed": 358
     }
   ],
@@ -24782,8 +24787,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-02T20:02:59.7295598+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:09:22.328238+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:54:04.8877207+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:30.6368259+00:00",
-  "LastUpdate_Ratings": "2023-11-03T00:03:06.836313+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:09:22.3285299+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:47:11.594446+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:54:04.8881478+00:00"
 }

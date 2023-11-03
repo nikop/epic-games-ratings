@@ -1,27 +1,27 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.84 (Ranked 48)  
+Rating: 4.84 (Ranked 49)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Quinceañera Time | 98.00% | ~5,072 |
 | The Journey Begins | 98.00% | ~5,072 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,036 |
-| There is No Escape | 71.00% | ~3,674 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,260 |
-| Royal Flush | 62.00% | ~3,208 |
-| Timber! | 60.00% | ~3,105 |
-| Survive the Bombsequences | 59.00% | ~3,053 |
-| Killed 20 Jerks | 54.00% | ~2,794 |
-| Death Defied | 54.00% | ~2,794 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,037 |
+| There is No Escape | 71.00% | ~3,675 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,261 |
+| Royal Flush | 62.00% | ~3,209 |
+| Timber! | 60.00% | ~3,106 |
+| Survive the Bombsequences | 59.00% | ~3,054 |
+| Killed 20 Jerks | 54.00% | ~2,795 |
+| Death Defied | 54.00% | ~2,795 |
 | Fortunate Soul | 50.00% | ~2,588 |
-| Jerk-Slayer | 43.00% | ~2,225 |
+| Jerk-Slayer | 43.00% | ~2,226 |
 | Employee of the Month | 37.00% | ~1,915 |
 | I Believe I Can Fly | 37.00% | ~1,915 |
-| Bone Collector | 35.00% | ~1,811 |
-| Fe-Festival | 35.00% | ~1,811 |
+| Bone Collector | 35.00% | ~1,812 |
+| Fe-Festival | 35.00% | ~1,812 |
 | Top of the Food Chain | 32.00% | ~1,656 |
 | Humerus Achievement | 32.00% | ~1,656 |
 | Pardon my Slob | 32.00% | ~1,656 |
@@ -44,7 +44,7 @@ Number of Ratings: 63  (23.09.2022)
 | It's Been a Blast | 9.00% | ~466 |
 | For Rock and Stone! | 9.00% | ~466 |
 | Don't Get Too Greedy | 7.00% | ~362 |
-| You're In a Cult, Call Your Dad | 6.00% | ~310 |
+| You're In a Cult, Call Your Dad | 6.00% | ~311 |
 | Survived The Slaughter | 5.00% | ~259 |
 | The Poison You Just Drank | 4.00% | ~207 |
 | Eternal Frenemies | 4.00% | ~207 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,175 (Ranked 182)  
+Progressed: 5,176 (Ranked 182)  
 Completed: 30 (0.58%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,6 +136,7 @@ Completed: 30 (0.58%) (Ranked 182)
 | 2023-10-28 | 5,172 | 30 |
 | 2023-10-29 | 5,174 | 30 |
 | 2023-10-31 | 5,175 | 30 |
+| 2023-11-03 | 5,176 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

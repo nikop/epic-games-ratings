@@ -2,8 +2,8 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 121,
-  "Ranking_Popularity": 149,
+  "Ranking_Rating": 122,
+  "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 113,
@@ -4417,11 +4417,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7827,
       "NumberOfAwardsMax": 1043
+    },
+    {
+      "Time": "2023-11-03T01:45:02.0111774+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7829,
+      "NumberOfAwardsMax": 1045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7827,
-  "NumberOfAwardsMax": 1043,
+  "NumberOfAwards": 7829,
+  "NumberOfAwardsMax": 1045,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4434,7 +4440,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1043
+      "Count": 1045
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4493,7 +4499,7 @@
   ],
   "EOS_Progressed": 11342,
   "EOS_Completed": 270,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -17808,9 +17814,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-02T22:01:07.5645197+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:03:57.4197002+00:00",
+  "LastChanged": "2023-11-03T01:45:02.0111771+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:48:26.3705742+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:11.7317557+00:00",
-  "LastUpdate_Ratings": "2023-11-03T00:00:12.8488649+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:03:57.4197898+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:45:02.011178+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:48:26.3707476+00:00"
 }

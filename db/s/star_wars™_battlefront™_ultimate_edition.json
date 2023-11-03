@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1002,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2844,6 +2844,11 @@
       "Time": "2023-11-02T23:09:05.9634328+00:00",
       "NumProgressed": 999,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-03T01:53:47.2688489+00:00",
+      "NumProgressed": 1002,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3080,7 +3085,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 899
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_36",
@@ -3096,15 +3101,15 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 681
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_39",
@@ -3128,7 +3133,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 511
     },
     {
       "ID": "achievement_41",
@@ -3160,7 +3165,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_45",
@@ -3206,9 +3211,9 @@
       "ID": "achievement_5",
       "SetID": "271ol84",
       "Name": "Shoot first",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_50",
@@ -3222,9 +3227,9 @@
       "ID": "achievement_51",
       "SetID": "cemm4l8",
       "Name": "You have your moments",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_52",
@@ -3302,9 +3307,9 @@
       "ID": "achievement_60",
       "SetID": "cemm4l8",
       "Name": "What will you become?",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_61",
@@ -3359,13 +3364,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1002,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 999,
+      "Progressed": 1002,
       "Completed": 1
     }
   ],
@@ -3373,8 +3378,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:09:08.7838779+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:53:47.2688481+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:59:39.5665694+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:09:08.7839586+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:44:18.4805691+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:53:47.268941+00:00"
 }

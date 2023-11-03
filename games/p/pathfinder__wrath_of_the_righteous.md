@@ -1,12 +1,12 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 121)  
+Rating: 4.76 (Ranked 122)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,120 |
+| Devoured by Darkness | 26.00% | ~3,121 |
 | A Spark | 18.00% | ~2,160 |
 | Burning City | 17.00% | ~2,040 |
 | Defender's Heart | 15.00% | ~1,800 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~360 |
 | Core of the Riddle | 3.00% | ~360 |
 | Hey, I Know You! | 3.00% | ~360 |
-| The Lady of the Forest | 3.00% | ~323 |
-| Beware Still Water | 3.00% | ~323 |
+| The Lady of the Forest | 3.00% | ~324 |
+| Beware Still Water | 3.00% | ~324 |
 | Path of the Demon | 2.00% | ~240 |
 | Path of the Aeon | 2.00% | ~240 |
 | Path of the Lich | 2.00% | ~240 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,001 (Ranked 150)  
+Progressed: 12,002 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,6 +320,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 11,961 | 0 |
 | 2023-11-01 | 11,984 | 0 |
 | 2023-11-02 | 12,001 | 0 |
+| 2023-11-03 | 12,002 | 0 |
 ## Awards
 Max (Character Customization): 1,733  (Ranked 120)  
 Sum: 7,018 (Ranked 119)  

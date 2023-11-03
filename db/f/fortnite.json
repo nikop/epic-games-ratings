@@ -2,7 +2,7 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 719,
@@ -7100,10 +7100,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 13599052,
       "NumberOfAwardsMax": 1905733
+    },
+    {
+      "Time": "2023-11-03T01:42:55.3585155+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 13600020,
+      "NumberOfAwardsMax": 1905733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13599052,
+  "NumberOfAwards": 13600020,
   "NumberOfAwardsMax": 1905733,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -7123,7 +7129,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1823549
+      "Count": 1824517
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7167,8 +7173,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-11-02T21:58:59.9138092+00:00",
+  "LastChanged": "2023-11-03T01:42:55.3585152+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:29.5320542+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:58:37.4241962+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:06:53.0528477+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:42:55.3585161+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:52:31.5521888+00:00"
 }

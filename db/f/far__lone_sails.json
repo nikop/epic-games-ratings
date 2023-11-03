@@ -2,7 +2,7 @@
   "ID": "64f6e25cee7441e9967524a50b08dddd",
   "Name": "FAR: Lone Sails",
   "ProductSlug": "far-lone-sails",
-  "Ranking_Rating": 346,
+  "Ranking_Rating": 347,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 719,
@@ -142,6 +142,6 @@
   "FirstSeenRating": "2022-08-23T01:00:21.0913154+00:00",
   "LastChanged": "2023-10-19T07:58:02.0316598+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:12.4840075+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:58:33.2382526+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:06:19.0807886+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:42:49.8597356+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:51:44.4413854+00:00"
 }

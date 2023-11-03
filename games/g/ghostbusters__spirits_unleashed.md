@@ -1,41 +1,41 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 579)  
+Rating: 4.50 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,786 |
-| Advancement | 5.00% | ~1,489 |
-| Meticulously Efficient | 5.00% | ~1,489 |
-| Discovery | 4.00% | ~1,191 |
-| Solo Capture | 4.00% | ~1,191 |
-| Swift Rift Removers | 4.00% | ~1,191 |
-| Clutch Capture | 3.00% | ~893 |
-| I collect Spores, Molds, and Fungi | 3.00% | ~893 |
-| Cultured | 3.00% | ~893 |
-| Fully Upgraded | 3.00% | ~893 |
-| Teamwork | 3.00% | ~893 |
-| There you are! | 3.00% | ~893 |
-| Vaporous Expansion | 3.00% | ~893 |
-| Whoopsie | 3.00% | ~893 |
-| Animated | 2.00% | ~595 |
-| Back Off | 2.00% | ~595 |
-| We have the best insurance | 2.00% | ~595 |
-| Daily Dose | 2.00% | ~595 |
-| Ectoplasmic Entity | 2.00% | ~595 |
-| Ghostbuster In Training | 2.00% | ~595 |
-| Icing on the Cake | 2.00% | ~595 |
-| Legions | 2.00% | ~595 |
-| Pesky Jerks | 2.00% | ~595 |
-| Rift Destroyer | 2.00% | ~595 |
-| Right back at ya | 2.00% | ~595 |
-| Seasoned | 2.00% | ~595 |
-| Side Hustle | 2.00% | ~595 |
-| Skilled | 2.00% | ~595 |
-| Stunner | 2.00% | ~595 |
-| Summoner | 2.00% | ~595 |
-| Welcome to the Crew | 2.00% | ~595 |
+| Stylish | 6.00% | ~1,787 |
+| Advancement | 5.00% | ~1,490 |
+| Meticulously Efficient | 5.00% | ~1,490 |
+| Discovery | 4.00% | ~1,192 |
+| Solo Capture | 4.00% | ~1,192 |
+| Swift Rift Removers | 4.00% | ~1,192 |
+| Clutch Capture | 3.00% | ~894 |
+| I collect Spores, Molds, and Fungi | 3.00% | ~894 |
+| Cultured | 3.00% | ~894 |
+| Fully Upgraded | 3.00% | ~894 |
+| Teamwork | 3.00% | ~894 |
+| There you are! | 3.00% | ~894 |
+| Vaporous Expansion | 3.00% | ~894 |
+| Whoopsie | 3.00% | ~894 |
+| Animated | 2.00% | ~596 |
+| Back Off | 2.00% | ~596 |
+| We have the best insurance | 2.00% | ~596 |
+| Daily Dose | 2.00% | ~596 |
+| Ectoplasmic Entity | 2.00% | ~596 |
+| Ghostbuster In Training | 2.00% | ~596 |
+| Icing on the Cake | 2.00% | ~596 |
+| Legions | 2.00% | ~596 |
+| Pesky Jerks | 2.00% | ~596 |
+| Rift Destroyer | 2.00% | ~596 |
+| Right back at ya | 2.00% | ~596 |
+| Seasoned | 2.00% | ~596 |
+| Side Hustle | 2.00% | ~596 |
+| Skilled | 2.00% | ~596 |
+| Stunner | 2.00% | ~596 |
+| Summoner | 2.00% | ~596 |
+| Welcome to the Crew | 2.00% | ~596 |
 | Collector | 1.00% | ~298 |
 | Diabolical | 1.00% | ~298 |
 | Escape Artist | 1.00% | ~298 |
@@ -43,21 +43,21 @@ Rating: 4.50 (Ranked 579)
 | Terrifying | 1.00% | ~298 |
 | Tobin's Prodigy | 1.00% | ~298 |
 | Rivalry | 0.90% | ~268 |
+| Fragile Panes | 0.80% | ~238 |
 | Liability | 0.80% | ~238 |
-| Fragile Panes | 0.70% | ~208 |
-| Surprise! | 0.70% | ~208 |
+| Surprise! | 0.70% | ~209 |
 | Therapeutic | 0.50% | ~149 |
 | Rift Seeker | 0.40% | ~119 |
 | Master Collector | 0.30% | ~89 |
 | Ghost Expert | 0.20% | ~60 |
+| Little Help Here | 0.20% | ~60 |
 | Catostrophic Destroyer | 0.10% | ~30 |
 | I don't need these | 0.10% | ~30 |
 | Line em' up | 0.10% | ~30 |
-| Little Help Here | 0.10% | ~30 |
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,771 (Ranked 122)  
+Progressed: 29,790 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,14 +254,14 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-10-31 | 29,304 | 65 |
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
-| 2023-11-03 | 29,771 | 65 |
+| 2023-11-03 | 29,790 | 65 |
 ## Awards
-Max (Great for Beginners): 298  (Ranked 245)  
-Sum: 2,663 (Ranked 180)  
+Max (Great for Beginners): 300  (Ranked 245)  
+Sum: 2,665 (Ranked 180)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 298 |
+| This game is Great for Beginners | 300 |
 | This game is Great for Quick Sessions | 293 |
 | This game has Diverse Characters | 272 |
 | This game has Amazing Storytelling | 268 |
@@ -476,3 +476,4 @@ Diff (max vs sum): 65
 | 2023-10-31 | 4.50 | 298 | 2,637 |
 | 2023-11-01 | 4.50 | 298 | 2,657 |
 | 2023-11-02 | 4.50 | 298 | 2,663 |
+| 2023-11-03 | 4.50 | 300 | 2,665 |

@@ -1,27 +1,27 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.55 (Ranked 1,029)  
+Rating: 3.55 (Ranked 1,030)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,025 |
-| Master, Commander | 21.00% | ~16,251 |
-| Hard Worker | 20.00% | ~15,477 |
-| Mechanic | 19.00% | ~14,703 |
-| Adios, Friendo | 18.00% | ~13,929 |
-| Bottom's Up | 18.00% | ~13,929 |
-| Nice Try | 16.00% | ~12,382 |
-| Right On Target | 13.00% | ~10,060 |
-| Piano Man | 11.00% | ~8,512 |
+| Be Seeing You | 22.00% | ~17,026 |
+| Master, Commander | 21.00% | ~16,252 |
+| Hard Worker | 20.00% | ~15,478 |
+| Mechanic | 19.00% | ~14,704 |
+| Adios, Friendo | 18.00% | ~13,931 |
+| Bottom's Up | 18.00% | ~13,931 |
+| Nice Try | 16.00% | ~12,383 |
+| Right On Target | 13.00% | ~10,061 |
+| Piano Man | 11.00% | ~8,513 |
 | Lazy Bones | 9.00% | ~6,965 |
 | Vinyl Vibes | 8.00% | ~6,191 |
 | Nothing Left to Say | 7.00% | ~5,417 |
 | Sniper | 7.00% | ~5,417 |
-| Cut Call | 6.00% | ~4,643 |
-| Magnetic Miracles | 5.00% | ~3,869 |
-| Butcher | 4.00% | ~3,095 |
-| Spicy | 4.00% | ~3,095 |
+| Cut Call | 6.00% | ~4,644 |
+| Magnetic Miracles | 5.00% | ~3,870 |
+| Butcher | 4.00% | ~3,096 |
+| Spicy | 4.00% | ~3,096 |
 | A Man Of Taste | 3.00% | ~2,322 |
 | Ace in the Hole | 3.00% | ~2,322 |
 | Fair's Fair | 3.00% | ~2,322 |
@@ -31,7 +31,7 @@ Rating: 3.55 (Ranked 1,029)
 | Audiophile | 2.00% | ~1,548 |
 | Tape Head | 2.00% | ~1,548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,386 (Ranked 95)  
+Progressed: 77,392 (Ranked 95)  
 Completed: 818 (1.06%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 818 (1.06%) (Ranked 151)
 | 2023-10-31 | 77,202 | 815 |
 | 2023-11-01 | 77,284 | 816 |
 | 2023-11-02 | 77,380 | 818 |
-| 2023-11-03 | 77,386 | 818 |
+| 2023-11-03 | 77,392 | 818 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

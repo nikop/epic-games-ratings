@@ -1,61 +1,61 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 248)  
+Rating: 4.68 (Ranked 249)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 168.00% | ~185 |
-| Adept Assembler | 125.00% | ~138 |
-| Greeno-B-Gone | 84.00% | ~92 |
-| Your Especially Earned Trajectory | 60.00% | ~66 |
-| Can We Keep It? | 42.00% | ~46 |
-| No Mountain Wide Enough | 30.00% | ~33 |
-| My Time Mansion | 26.00% | ~29 |
-| Call Me Fishmael | 24.00% | ~26 |
-| Happier-est Place on Earth | 22.00% | ~24 |
-| Anti-Santa | 22.00% | ~24 |
-| Finishing Touches | 20.00% | ~22 |
-| You Don't Win Friends With Salad | 20.00% | ~22 |
-| Yakmel Whisperer | 19.00% | ~21 |
-| On that Grindset | 17.00% | ~19 |
-| I Do! | 15.00% | ~16 |
-| Knowledge is Power | 13.00% | ~14 |
-| Officially Official | 13.00% | ~14 |
-| Jewel of the Eufaula | 12.00% | ~13 |
-| Better Late than Never | 9.00% | ~10 |
-| Jack of All Trades | 6.00% | ~7 |
-| Pack Mule | 6.00% | ~7 |
-| Mole Masher | 6.00% | ~7 |
+| Iron Chef | 160.00% | ~202 |
+| Adept Assembler | 118.00% | ~149 |
+| Greeno-B-Gone | 78.00% | ~98 |
+| Your Especially Earned Trajectory | 57.00% | ~72 |
+| Can We Keep It? | 38.00% | ~48 |
+| No Mountain Wide Enough | 29.00% | ~37 |
+| My Time Mansion | 25.00% | ~32 |
+| Call Me Fishmael | 21.00% | ~26 |
+| Happier-est Place on Earth | 20.00% | ~25 |
+| Anti-Santa | 19.00% | ~24 |
+| Finishing Touches | 18.00% | ~23 |
+| On that Grindset | 17.00% | ~21 |
+| You Don't Win Friends With Salad | 17.00% | ~21 |
+| Yakmel Whisperer | 17.00% | ~21 |
+| I Do! | 13.00% | ~16 |
+| Jewel of the Eufaula | 12.00% | ~15 |
+| Knowledge is Power | 11.00% | ~14 |
+| Officially Official | 11.00% | ~14 |
+| Better Late than Never | 9.00% | ~11 |
+| Mole Masher | 8.00% | ~10 |
+| Jack of All Trades | 6.00% | ~8 |
+| Pack Mule | 6.00% | ~8 |
+| First Love | 6.00% | ~8 |
 | Panda-kin | 5.00% | ~6 |
-| Just What I Always Wanted! | 5.00% | ~6 |
-| First Love | 5.00% | ~6 |
-| He Can Spin A Yarn... | 4.00% | ~4 |
-| One of the Cool Kids | 4.00% | ~4 |
-| Pro Gamer | 4.00% | ~4 |
-| Diamonds are Forever | 4.00% | ~4 |
-| Time Flies | 2.00% | ~2 |
-| What Plants Crave | 2.00% | ~2 |
-| Chatterbox | 2.00% | ~2 |
-| Santa In Training | 2.00% | ~2 |
-| Big Game Hunter | 0.90% | ~1 |
-| Commissions, commissions...! | 0.90% | ~1 |
-| Financially Secure | 0.90% | ~1 |
-| Kind of a Big Deal | 0.90% | ~1 |
-| Bridging the Gap | 0.90% | ~1 |
-| Martle's Dream | 0.90% | ~1 |
-| Elementary, My Dear | 0.90% | ~1 |
-| Lifeline Pipeline | 0.90% | ~1 |
-| Cardistry | 0.90% | ~1 |
-| Got Served | 0.90% | ~1 |
-| Got the Receipt? | 0.90% | ~1 |
-| Sandrock's Hottest Club | 0.90% | ~1 |
-| Sandrunning Speedster | 0.90% | ~1 |
-| Unboxing | 0.90% | ~1 |
-| Do Your Part | 0.90% | ~1 |
-| Waste Not Want Not | 0.90% | ~1 |
-| Newton | 0.90% | ~1 |
+| Diamonds are Forever | 5.00% | ~6 |
+| Just What I Always Wanted! | 4.00% | ~5 |
+| He Can Spin A Yarn... | 3.00% | ~4 |
+| One of the Cool Kids | 3.00% | ~4 |
+| Pro Gamer | 3.00% | ~4 |
+| Time Flies | 2.00% | ~3 |
+| Big Game Hunter | 2.00% | ~3 |
+| Kind of a Big Deal | 2.00% | ~3 |
+| What Plants Crave | 2.00% | ~3 |
+| Cardistry | 2.00% | ~3 |
+| Chatterbox | 2.00% | ~3 |
+| Santa In Training | 2.00% | ~3 |
+| Got the Receipt? | 2.00% | ~3 |
+| Commissions, commissions...! | 0.80% | ~1 |
+| Financially Secure | 0.80% | ~1 |
+| Bridging the Gap | 0.80% | ~1 |
+| Martle's Dream | 0.80% | ~1 |
+| Elementary, My Dear | 0.80% | ~1 |
+| Lifeline Pipeline | 0.80% | ~1 |
+| Got Served | 0.80% | ~1 |
+| Sandrock's Hottest Club | 0.80% | ~1 |
+| Sandrunning Speedster | 0.80% | ~1 |
+| Unboxing | 0.80% | ~1 |
+| Do Your Part | 0.80% | ~1 |
+| Waste Not Want Not | 0.80% | ~1 |
+| Newton | 0.80% | ~1 |
 | It's High Noon... | 0.00% | ~0 |
 | Strong Arms | 0.00% | ~0 |
 | Super Spelunker | 0.00% | ~0 |
@@ -67,13 +67,13 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 396)  
+Progressed: 126 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
-| 2023-11-03 | 110 | 0 |
+| 2023-11-03 | 126 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,299 (Ranked 237)  

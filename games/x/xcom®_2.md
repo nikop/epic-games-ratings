@@ -1,12 +1,12 @@
 # XCOM® 2
 [Store](https://store.epicgames.com/en-US/p/xcom-2)  
 [View Rawdata](../../db/x/xcom®_2.json)  
-Rating: 4.55 (Ranked 499)  
+Rating: 4.55 (Ranked 500)  
 Number of Ratings: 7,396  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 1,341  (Ranked 134)  
-Sum: 10,918 (Ranked 85)  
-Diff (max vs sum): 49  
+Sum: 10,918 (Ranked 86)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 1,341 |

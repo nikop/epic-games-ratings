@@ -1,26 +1,26 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 308)  
+Rating: 4.65 (Ranked 309)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,160 |
-| A Grove Replanted | 53.00% | ~3,937 |
-| Fields Watered | 41.00% | ~3,046 |
-| Seekers Found | 41.00% | ~3,046 |
-| Settling the Skies | 41.00% | ~3,046 |
+| A Small Community | 56.00% | ~4,161 |
+| A Grove Replanted | 53.00% | ~3,938 |
+| Fields Watered | 41.00% | ~3,047 |
+| Seekers Found | 41.00% | ~3,047 |
+| Settling the Skies | 41.00% | ~3,047 |
 | Wind Powered | 40.00% | ~2,972 |
-| It Takes a Village | 34.00% | ~2,526 |
-| On the Town | 28.00% | ~2,080 |
+| It Takes a Village | 34.00% | ~2,527 |
+| On the Town | 28.00% | ~2,081 |
 | Daylight Found | 26.00% | ~1,932 |
-| Irons Scorched | 25.00% | ~1,857 |
-| Islands Connected | 25.00% | ~1,857 |
-| Travelers Returned | 24.00% | ~1,783 |
+| Irons Scorched | 25.00% | ~1,858 |
+| Islands Connected | 25.00% | ~1,858 |
 | Harp Tuned | 23.00% | ~1,709 |
 | Pyre Ignited | 23.00% | ~1,709 |
-| Hopes Hoisted | 22.00% | ~1,634 |
+| Travelers Returned | 23.00% | ~1,709 |
+| Hopes Hoisted | 22.00% | ~1,635 |
 | Knowledge Shared | 20.00% | ~1,486 |
 | Relic Finder | 20.00% | ~1,486 |
 | Worthy of the Title | 19.00% | ~1,412 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~149 |
 | A True Challenge | 2.00% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,429 (Ranked 167)  
+Progressed: 7,431 (Ranked 167)  
 Completed: 56 (0.75%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,6 +230,7 @@ Completed: 56 (0.75%) (Ranked 171)
 | 2023-10-31 | 7,422 | 55 |
 | 2023-11-01 | 7,425 | 56 |
 | 2023-11-02 | 7,429 | 56 |
+| 2023-11-03 | 7,431 | 56 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

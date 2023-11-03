@@ -1,23 +1,23 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 211)  
+Rating: 4.70 (Ranked 212)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,116 |
-| Finding Your Footing | 26.00% | ~11,668 |
-| Nomad | 17.00% | ~7,629 |
-| Picking Up Speed | 16.00% | ~7,180 |
-| Welcome Maya | 15.00% | ~6,731 |
-| Scout | 11.00% | ~4,936 |
-| Sightseer | 11.00% | ~4,936 |
+| Rookie | 27.00% | ~12,118 |
+| Finding Your Footing | 26.00% | ~11,670 |
+| Nomad | 17.00% | ~7,630 |
+| Picking Up Speed | 16.00% | ~7,181 |
+| Welcome Maya | 15.00% | ~6,732 |
+| Scout | 11.00% | ~4,937 |
+| Sightseer | 11.00% | ~4,937 |
 | Amateur | 10.00% | ~4,488 |
-| Unlock Maya | 8.00% | ~3,590 |
-| Wanderer | 8.00% | ~3,590 |
-| Enter Paz | 7.00% | ~3,141 |
-| Aviator | 6.00% | ~2,692 |
+| Unlock Maya | 8.00% | ~3,591 |
+| Wanderer | 8.00% | ~3,591 |
+| Enter Paz | 7.00% | ~3,142 |
+| Aviator | 6.00% | ~2,693 |
 | My Little Friend | 5.00% | ~2,244 |
 | One With The Board | 5.00% | ~2,244 |
 | Voyager | 5.00% | ~2,244 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~45 |
 | Windswept | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,875 (Ranked 111)  
+Progressed: 44,883 (Ranked 111)  
 Completed: 5 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,11 +243,11 @@ Completed: 5 (0.01%) (Ranked 318)
 | 2023-10-31 | 44,629 | 5 |
 | 2023-11-01 | 44,738 | 5 |
 | 2023-11-02 | 44,865 | 5 |
-| 2023-11-03 | 44,875 | 5 |
+| 2023-11-03 | 44,883 | 5 |
 ## Awards
-Max (Great for Quick Sessions): 48  (Ranked 432)  
+Max (Great for Quick Sessions): 48  (Ranked 433)  
 Sum: 371 (Ranked 341)  
-Diff (max vs sum): 91  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |

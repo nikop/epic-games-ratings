@@ -1,12 +1,12 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 442)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Matching | 0.30% | ~1 |
+| Matching | 0.30% | ~2 |
 | Not Touching You | 0.20% | ~1 |
 | Thank You, Friend | 0.10% | ~239 |
 | Achievement Hunter | 0.10% | ~239 |
@@ -129,23 +129,23 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nudie Run | 0.10% | ~239 |
 | Precious | 0.10% | ~239 |
 | You Call That A Knife? | 0.10% | ~239 |
-| Scrounger Appreciation | 0.10% | ~0 |
-| Who Needs Luck? | 0.10% | ~0 |
-| Explosives Expert | 0.10% | ~0 |
-| All Natural | 0.10% | ~0 |
-| Diviner | 0.10% | ~0 |
-| Soul Kin | 0.10% | ~0 |
-| Multiclass | 0.10% | ~0 |
-| Stalker | 0.10% | ~0 |
-| Brute | 0.10% | ~0 |
-| Nuclear | 0.10% | ~0 |
-| Raw Power | 0.10% | ~0 |
-| Dominant Twin | 0.10% | ~0 |
-| Expensive Look | 0.10% | ~0 |
-| What Doesn't Kill You | 0.10% | ~0 |
+| Scrounger Appreciation | 0.10% | ~1 |
+| Who Needs Luck? | 0.10% | ~1 |
+| Explosives Expert | 0.10% | ~1 |
+| All Natural | 0.10% | ~1 |
+| Diviner | 0.10% | ~1 |
+| Soul Kin | 0.10% | ~1 |
+| Multiclass | 0.10% | ~1 |
+| Stalker | 0.10% | ~1 |
+| Brute | 0.10% | ~1 |
+| Nuclear | 0.10% | ~1 |
+| Raw Power | 0.10% | ~1 |
+| Dominant Twin | 0.10% | ~1 |
+| Expensive Look | 0.10% | ~1 |
+| What Doesn't Kill You | 0.10% | ~1 |
 | Never Too Many Hats | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,018 (Ranked 59)  
+Progressed: 239,022 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 286 (0.12%) (Ranked 260)
 | 2023-10-31 | 238,914 | 286 |
 | 2023-11-01 | 238,974 | 286 |
 | 2023-11-02 | 239,015 | 286 |
-| 2023-11-03 | 239,018 | 286 |
+| 2023-11-03 | 239,022 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,502  (Ranked 129)  
 Sum: 11,647 (Ranked 83)  

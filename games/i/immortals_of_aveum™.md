@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 992)  
+Rating: 3.98 (Ranked 993)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,8 +11,8 @@ Rating: 3.98 (Ranked 992)
 | Maybe Engage a Little | 82.00% | ~107 |
 | No More Names | 66.00% | ~86 |
 | Initiate | 59.00% | ~77 |
-| Thrada-Kul | 53.00% | ~69 |
-| Gravity-Challenged Rocks | 42.00% | ~55 |
+| Thrada-Kul | 54.00% | ~71 |
+| Gravity-Challenged Rocks | 43.00% | ~56 |
 | All the Major Food Groups | 37.00% | ~48 |
 | Soldier | 35.00% | ~46 |
 | Beggars Would Ride | 31.00% | ~41 |

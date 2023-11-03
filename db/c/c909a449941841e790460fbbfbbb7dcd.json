@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.83,
+  "EOS_Completed_Percentage": 2.8,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -484,6 +484,11 @@
       "Time": "2023-11-03T00:08:59.1300125+00:00",
       "NumProgressed": 106,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T01:53:34.5292277+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -494,9 +499,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -518,7 +523,7 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 60,
       "UsersEstimate": 60
     },
@@ -528,7 +533,7 @@
       "Name": "Murderer",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -558,9 +563,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -622,7 +627,7 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 87
     }
@@ -631,14 +636,14 @@
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:08:59.130012+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:53:34.5292267+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:57:47.541173+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:08:59.1300225+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:41:44.7177162+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:53:34.5292453+00:00"
 }

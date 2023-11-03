@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 308)  
+Rating: 4.65 (Ranked 309)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 2.00% | ~302 |
 | Lighthouse | 2.00% | ~302 |
 | Musaeum | 2.00% | ~302 |
+| Necropolis | 2.00% | ~302 |
 | Pyramids | 2.00% | ~302 |
 | Learn to Play 1 | 2.00% | ~302 |
 | Learn to Play 2 | 2.00% | ~302 |
@@ -80,7 +81,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis | 1.00% | ~151 |
 | Circus Maximus | 1.00% | ~151 |
 | Mausoleum | 1.00% | ~151 |
-| Necropolis | 1.00% | ~151 |
 | Learn to Play 3 | 1.00% | ~151 |
 | Greece | 1.00% | ~151 |
 | Power to the People | 1.00% | ~151 |
@@ -181,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~30 |
 | Like a Lion | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
+| Learn By Playing 1 - Able | 0.20% | ~30 |
 | Medo-Babylonian Conquest | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
@@ -266,7 +267,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Toppling the Giants | 0.10% | ~15 |
 | Rule of Pharaohs | 0.10% | ~15 |
 | Knowledge of the Ancients | 0.10% | ~15 |
-| Learn By Playing 1 - Able | 0.10% | ~15 |
 | Learn By Playing 2 - Just | 0.10% | ~15 |
 | Learn By Playing 3 - Good | 0.10% | ~15 |
 | Learn By Playing 4 - Strong | 0.10% | ~15 |

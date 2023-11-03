@@ -1,20 +1,20 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,818 |
-| Until death do us apart | 4.00% | ~17,818 |
-| Victorious! | 4.00% | ~17,818 |
-| That's a Grand Navy | 3.00% | ~13,364 |
-| That is mine! | 3.00% | ~13,364 |
-| Brothers in Arms | 2.00% | ~8,909 |
-| Cold War | 2.00% | ~8,909 |
-| For the Glory | 2.00% | ~8,909 |
-| Seriously?! | 2.00% | ~8,909 |
+| That's a Grand Army | 4.00% | ~17,820 |
+| Until death do us apart | 4.00% | ~17,820 |
+| Victorious! | 4.00% | ~17,820 |
+| That's a Grand Navy | 3.00% | ~13,365 |
+| That is mine! | 3.00% | ~13,365 |
+| Brothers in Arms | 2.00% | ~8,910 |
+| Cold War | 2.00% | ~8,910 |
+| For the Glory | 2.00% | ~8,910 |
+| Seriously?! | 2.00% | ~8,910 |
 | Defender of the Faith | 1.00% | ~4,455 |
 | It's all about luck | 1.00% | ~4,455 |
 | It's all about the money | 1.00% | ~4,455 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 445,461 (Ranked 41)  
+Progressed: 445,490 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -558,7 +558,7 @@ Completed: 1 (0.00%) (Ranked 339)
 | 2023-10-31 | 443,969 | 1 |
 | 2023-11-01 | 444,668 | 1 |
 | 2023-11-02 | 445,439 | 1 |
-| 2023-11-03 | 445,461 | 1 |
+| 2023-11-03 | 445,490 | 1 |
 ## Awards
 Max (Educational): 6,798  (Ranked 55)  
 Sum: 55,815 (Ranked 24)  

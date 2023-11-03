@@ -2,12 +2,12 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 122,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4079,9 +4079,9 @@
       "Count": 391
     }
   ],
-  "EOS_Progressed": 12001,
+  "EOS_Progressed": 12002,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15039,6 +15039,11 @@
       "Time": "2023-11-02T22:07:07.7945283+00:00",
       "NumProgressed": 12001,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T01:51:31.2245777+00:00",
+      "NumProgressed": 12002,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15050,7 +15055,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3120
+      "UsersEstimate": 3121
     },
     {
       "ID": "02_BurningCity",
@@ -15962,7 +15967,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -15970,28 +15975,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10783,
+      "Progressed": 10784,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12001,
+      "Progressed": 12002,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-02T21:58:59.5792614+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:06:09.4379232+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:51:31.2245766+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:58:37.188435+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:06:09.4380733+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:42:54.900683+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:51:31.2248291+00:00"
 }

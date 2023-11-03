@@ -2,7 +2,7 @@
   "ID": "2579ddfa98e94a18aff45d1525f666d4",
   "Name": "LEGO\u00AE Brawls",
   "ProductSlug": "lego-brawls",
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 719,
@@ -53,6 +53,6 @@
   "FirstSeenRating": "2023-03-31T05:57:53.1081024+00:00",
   "LastChanged": "2023-10-17T10:58:50.1320518+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.2675684+00:00",
-  "LastUpdate_Ratings": "2023-11-03T00:00:41.7133154+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:03:21.5350794+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:45:46.1288346+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:47:36.6563739+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 639,
+  "Ranking_Rating": 640,
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3813,
+  "EOS_Progressed": 3814,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7631,6 +7631,11 @@
       "Time": "2023-11-02T21:05:51.767081+00:00",
       "NumProgressed": 3813,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-03T01:49:01.0897494+00:00",
+      "NumProgressed": 3814,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7722,7 +7727,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7762,7 +7767,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7810,7 +7815,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7842,7 +7847,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7954,7 +7959,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8106,7 +8111,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8209,13 +8214,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3764,
+      "Progressed": 3765,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3813,
+      "Progressed": 3814,
       "Completed": 11
     }
   ],
@@ -8223,8 +8228,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-10-27T11:58:52.389297+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:04:22.2145275+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:49:01.0897487+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.96445+00:00",
-  "LastUpdate_Ratings": "2023-11-03T00:00:45.9364641+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:04:22.2146183+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:45:47.8792199+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:49:01.0898667+00:00"
 }

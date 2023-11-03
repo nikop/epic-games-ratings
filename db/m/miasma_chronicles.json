@@ -3942,9 +3942,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 660
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4183,8 +4183,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:08:56.983467+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:53:31.3618034+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.6571532+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:59:46.1482696+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:08:56.9835191+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:44:28.166244+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:53:31.3618876+00:00"
 }

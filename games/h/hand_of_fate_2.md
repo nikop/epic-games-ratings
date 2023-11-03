@@ -1,18 +1,18 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 499)  
+Rating: 4.55 (Ranked 500)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,151 |
-| Apprentice | 58.00% | ~385,177 |
-| Close Shave | 25.00% | ~166,025 |
-| Mercenary | 23.00% | ~152,743 |
-| Ninja | 23.00% | ~152,743 |
-| Northern Scourge | 17.00% | ~112,897 |
-| Thief Bane | 14.00% | ~92,974 |
+| The Fool | 72.00% | ~478,155 |
+| Apprentice | 58.00% | ~385,180 |
+| Close Shave | 25.00% | ~166,026 |
+| Mercenary | 23.00% | ~152,744 |
+| Ninja | 23.00% | ~152,744 |
+| Northern Scourge | 17.00% | ~112,898 |
+| Thief Bane | 14.00% | ~92,975 |
 | Master of Arms | 12.00% | ~79,692 |
 | Gambler | 10.00% | ~66,410 |
 | Dice Master | 10.00% | ~66,410 |
@@ -44,7 +44,7 @@ Number of Ratings: 780  (23.09.2022)
 | Gamester | 0.70% | ~4,649 |
 | Hero | 0.60% | ~3,985 |
 | Rebel | 0.60% | ~3,985 |
-| Dungeon Master | 0.50% | ~3,320 |
+| Dungeon Master | 0.50% | ~3,321 |
 | Pilgrim | 0.40% | ~2,656 |
 | Smiths Honour | 0.40% | ~2,656 |
 | Peaceful Coast | 0.30% | ~1,992 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,099 (Ranked 26)  
+Progressed: 664,104 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 171 (0.03%) (Ranked 304)
 | 2023-10-31 | 664,022 | 171 |
 | 2023-11-01 | 664,050 | 171 |
 | 2023-11-02 | 664,098 | 171 |
-| 2023-11-03 | 664,099 | 171 |
+| 2023-11-03 | 664,104 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 467)  
 Sum: 189 (Ranked 401)  

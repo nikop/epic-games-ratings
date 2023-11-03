@@ -2,13 +2,13 @@
   "ID": "e24498202a7b4c80af7e3c18e63a0b34",
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 154,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6618,
+  "EOS_Progressed": 6623,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4871,6 +4871,11 @@
       "Time": "2023-11-03T00:03:38.9950378+00:00",
       "NumProgressed": 6618,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-03T01:48:01.4322863+00:00",
+      "NumProgressed": 6623,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -4883,7 +4888,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5696
     },
     {
       "ID": "achievement_01_02",
@@ -4891,7 +4896,7 @@
       "Name": "Tournament Star",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "achievement_01_03",
@@ -4899,7 +4904,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4172
     },
     {
       "ID": "achievement_01_04",
@@ -4907,7 +4912,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4831
+      "UsersEstimate": 4835
     },
     {
       "ID": "achievement_01_05",
@@ -4915,7 +4920,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3113
     },
     {
       "ID": "achievement_01_06",
@@ -4923,7 +4928,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3908
     },
     {
       "ID": "achievement_01_07",
@@ -4931,7 +4936,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2715
     },
     {
       "ID": "achievement_01_08",
@@ -4939,7 +4944,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4897
+      "UsersEstimate": 4901
     },
     {
       "ID": "achievement_01_09",
@@ -4947,7 +4952,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2846
+      "UsersEstimate": 2848
     },
     {
       "ID": "achievement_01_10",
@@ -4955,7 +4960,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3576
     },
     {
       "ID": "achievement_02_01",
@@ -4995,7 +5000,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1656
     },
     {
       "ID": "achievement_02_06",
@@ -5011,7 +5016,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3177
+      "UsersEstimate": 3179
     },
     {
       "ID": "achievement_02_08",
@@ -5027,7 +5032,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "achievement_03_02",
@@ -5035,7 +5040,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_03_03",
@@ -5051,7 +5056,7 @@
       "Name": "Italy - Check!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_03_05",
@@ -5115,7 +5120,7 @@
       "Name": "Long Time on the Road",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "achievement_04_02",
@@ -5123,7 +5128,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3047
     },
     {
       "ID": "achievement_04_03",
@@ -5131,7 +5136,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3375
+      "UsersEstimate": 3378
     },
     {
       "ID": "achievement_04_04",
@@ -5139,7 +5144,7 @@
       "Name": "Flawless Racer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "achievement_04_05",
@@ -5147,7 +5152,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2186
     },
     {
       "ID": "achievement_04_06",
@@ -5163,7 +5168,7 @@
       "Name": "Nitro Saver",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 3243
+      "UsersEstimate": 3245
     },
     {
       "ID": "achievement_04_08",
@@ -5171,7 +5176,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5625
+      "UsersEstimate": 5630
     },
     {
       "ID": "achievement_04_09",
@@ -5179,14 +5184,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2252
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6618,
+      "Progressed": 6623,
       "Completed": 33
     }
   ],
@@ -5194,8 +5199,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:03:38.9950373+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:48:01.4322855+00:00",
   "LastUpdate_AppInfo": "2023-11-02T20:57:08.8119241+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:59:14.9774729+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:03:38.9950825+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:43:42.8852581+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:48:01.4323576+00:00"
 }

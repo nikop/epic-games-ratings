@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 766,
+  "Ranking_Rating": 767,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14796,
+  "EOS_Progressed": 14820,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4396,
+  "EOS_NewPlayers": 4381,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2023-11-03T00:09:02.1748434+00:00",
       "NumProgressed": 14796,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T01:53:38.7522796+00:00",
+      "NumProgressed": 14820,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 24,
@@ -1795,9 +1800,9 @@
       "ID": "ACH_CrushEnemy",
       "SetID": "a3lf366",
       "Name": "Squished",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -1939,9 +1944,9 @@
       "ID": "ACH_Sector5",
       "SetID": "a3lf366",
       "Name": "Sector 5",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_Sector6",
@@ -1963,16 +1968,16 @@
       "ID": "ACH_TurnBallBlack",
       "SetID": "a3lf366",
       "Name": "Did That Work? -- No!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 14796,
+      "Progressed": 14820,
       "Completed": 3
     }
   ],
@@ -1980,8 +1985,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-02T13:01:37.1364146+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:09:02.1748429+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:53:38.7522788+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:57:31.8373593+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:09:02.1748664+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:41:18.9600173+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:53:38.7523075+00:00"
 }

@@ -1,32 +1,32 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 153)  
+Rating: 4.74 (Ranked 154)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~25,102 |
-| Landlord | 33.00% | ~21,240 |
-| Bannerlord | 23.00% | ~14,803 |
-| Horde breaker | 23.00% | ~14,803 |
-| Lawmaker | 23.00% | ~14,803 |
-| Trained | 23.00% | ~14,803 |
-| The king is pleased | 19.00% | ~12,229 |
+| Lawbringer | 39.00% | ~25,103 |
+| Landlord | 33.00% | ~21,241 |
+| Bannerlord | 23.00% | ~14,804 |
+| Horde breaker | 23.00% | ~14,804 |
+| Lawmaker | 23.00% | ~14,804 |
+| Trained | 23.00% | ~14,804 |
+| The king is pleased | 19.00% | ~12,230 |
 | King Solomon | 17.00% | ~10,942 |
-| Apple of my eye | 16.00% | ~10,298 |
-| I can do it | 16.00% | ~10,298 |
-| God of the Arena | 13.00% | ~8,367 |
-| This Is Our Land | 13.00% | ~8,367 |
+| Apple of my eye | 16.00% | ~10,299 |
+| I can do it | 16.00% | ~10,299 |
+| God of the Arena | 13.00% | ~8,368 |
+| This Is Our Land | 13.00% | ~8,368 |
 | Against all odds | 12.00% | ~7,724 |
-| Duelist | 10.00% | ~6,436 |
-| Dynasty | 10.00% | ~6,436 |
-| I spit on your grave | 10.00% | ~6,436 |
-| Swordbearer | 10.00% | ~6,436 |
-| What have the Romans ever done for us? | 10.00% | ~6,436 |
+| Duelist | 10.00% | ~6,437 |
+| Dynasty | 10.00% | ~6,437 |
+| I spit on your grave | 10.00% | ~6,437 |
+| Swordbearer | 10.00% | ~6,437 |
+| What have the Romans ever done for us? | 10.00% | ~6,437 |
 | Butterlord | 9.00% | ~5,793 |
-| Know your enemy | 7.00% | ~4,505 |
-| Mastery | 7.00% | ~4,505 |
+| Know your enemy | 7.00% | ~4,506 |
+| Mastery | 7.00% | ~4,506 |
 | Crowdfunded | 5.00% | ~3,218 |
 | Crush your enemies | 5.00% | ~3,218 |
 | My way | 5.00% | ~3,218 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,363 (Ranked 102)  
+Progressed: 64,367 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 64,251 | 0 |
 | 2023-11-01 | 64,306 | 0 |
 | 2023-11-02 | 64,362 | 0 |
-| 2023-11-03 | 64,363 | 0 |
+| 2023-11-03 | 64,367 | 0 |
 ## Awards
 Max (Character Customization): 7,317  (Ranked 52)  
 Sum: 15,107 (Ranked 66)  

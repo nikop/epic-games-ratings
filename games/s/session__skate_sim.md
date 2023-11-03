@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.69 (Ranked 228)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,12 +12,12 @@ Number of Ratings: 111  (23.09.2022)
 | The finer things in life | 20.00% | ~610 |
 | Backpacker | 15.00% | ~458 |
 | Go with the Flow | 14.00% | ~427 |
+| Keep the dream alive | 10.00% | ~305 |
 | Plastic Surgeon | 10.00% | ~305 |
 | The flip trick crown jewel | 10.00% | ~305 |
 | The hard way | 10.00% | ~305 |
 | Upfront shredder | 10.00% | ~305 |
 | Good vibes | 9.00% | ~275 |
-| Keep the dream alive | 9.00% | ~275 |
 | Bottom ply killer | 7.00% | ~214 |
 | Fashionista | 7.00% | ~214 |
 | Finally he zips it | 7.00% | ~214 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,051 (Ranked 202)  
+Progressed: 3,051 (Ranked 203)  
 Completed: 1 (0.03%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |

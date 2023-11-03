@@ -2,7 +2,7 @@
   "ID": "ab2f9078bcb04065a5c6c2fede9cb3b0",
   "Name": "Baldur\u0027s Gate: Enhanced Edition",
   "ProductSlug": "baldurs-gate-enhanced-edition",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 719,
@@ -308,6 +308,6 @@
   "FirstSeen": "2022-07-22T20:19:45.8967483+00:00",
   "LastChanged": "2023-10-19T01:45:06.6119164+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.7421704+00:00",
-  "LastUpdate_Ratings": "2023-11-03T00:03:12.7118098+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:06:12.3550771+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:47:20.8885758+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:51:35.0124096+00:00"
 }

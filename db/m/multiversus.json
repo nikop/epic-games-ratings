@@ -2,7 +2,7 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 481,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 76,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 12,
@@ -3804,11 +3804,17 @@
       "Rating": 4.56,
       "NumberOfAwards": 45738,
       "NumberOfAwardsMax": 4748
+    },
+    {
+      "Time": "2023-11-03T01:41:22.4296324+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45740,
+      "NumberOfAwardsMax": 4749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45738,
-  "NumberOfAwardsMax": 4748,
+  "NumberOfAwards": 45740,
+  "NumberOfAwardsMax": 4749,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3827,7 +3833,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4748
+      "Count": 4749
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3887,7 +3893,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3407
+      "Count": 3408
     }
   ],
   "EOS_Progressed": 1081096,
@@ -11275,9 +11281,9 @@
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2023-11-02T05:57:16.7173457+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:05:19.3846665+00:00",
+  "LastChanged": "2023-11-03T01:41:22.4296321+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:50:21.6280344+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.0779381+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:57:34.0734175+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:05:19.3847156+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:41:22.4296329+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:50:21.6281359+00:00"
 }

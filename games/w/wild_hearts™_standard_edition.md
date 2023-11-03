@@ -34,9 +34,9 @@
 | Artful Assister | 34.00% | ~71 |
 | Karakuri Isle | 33.00% | ~69 |
 | Left Arm Leverager | 30.00% | ~62 |
+| Human Believer | 29.00% | ~60 |
 | Canyon of Karakuri | 28.00% | ~58 |
 | Style Seeker | 28.00% | ~58 |
-| Human Believer | 28.00% | ~58 |
 | Unrivaled in Arms | 28.00% | ~58 |
 | Karakuri Minato | 28.00% | ~58 |
 | Threaded Harmony | 26.00% | ~54 |

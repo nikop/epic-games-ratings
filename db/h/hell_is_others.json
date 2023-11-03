@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 54,
@@ -1159,9 +1159,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 257981,
+  "EOS_Progressed": 257986,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20359,6 +20359,11 @@
       "Time": "2023-11-03T00:03:38.4384875+00:00",
       "NumProgressed": 257981,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-03T01:48:00.5504493+00:00",
+      "NumProgressed": 257986,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20418,7 +20423,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79974
+      "UsersEstimate": 79976
     },
     {
       "ID": "BackHomeNTimes",
@@ -20474,7 +20479,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25798
+      "UsersEstimate": 25799
     },
     {
       "ID": "CreditLevel2",
@@ -20482,7 +20487,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7739
+      "UsersEstimate": 7740
     },
     {
       "ID": "CreditLevel3",
@@ -20642,7 +20647,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7739
+      "UsersEstimate": 7740
     },
     {
       "ID": "KillOtherWithMine",
@@ -20658,7 +20663,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59336
+      "UsersEstimate": 59337
     },
     {
       "ID": "KillOthers2",
@@ -20762,7 +20767,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25798
+      "UsersEstimate": 25799
     },
     {
       "ID": "ReachNDays2",
@@ -20817,7 +20822,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 257981,
+      "Progressed": 257986,
       "Completed": 3
     }
   ],
@@ -20825,8 +20830,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-10-30T00:03:12.5174707+00:00",
-  "LastChanged_Achievements": "2023-11-03T00:03:38.438487+00:00",
+  "LastChanged_Achievements": "2023-11-03T01:48:00.5504483+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:07.0523364+00:00",
-  "LastUpdate_Ratings": "2023-11-02T23:58:11.0867261+00:00",
-  "LastUpdate_Achievements": "2023-11-03T00:03:38.4386155+00:00"
+  "LastUpdate_Ratings": "2023-11-03T01:42:14.8396609+00:00",
+  "LastUpdate_Achievements": "2023-11-03T01:48:00.5506148+00:00"
 }
