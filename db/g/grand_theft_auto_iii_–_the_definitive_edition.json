@@ -511,7 +511,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8412,
+  "EOS_Progressed": 8413,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -10516,6 +10516,11 @@
       "Time": "2023-11-03T04:05:06.3781632+00:00",
       "NumProgressed": 8412,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-03T05:06:42.8070507+00:00",
+      "NumProgressed": 8413,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10527,7 +10532,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6982
+      "UsersEstimate": 6983
     },
     {
       "ID": "ACH02",
@@ -10599,7 +10604,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "ACH11",
@@ -10639,7 +10644,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH16",
@@ -10758,7 +10763,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8412,
+      "Progressed": 8413,
       "Completed": 56
     }
   ],
@@ -10766,8 +10771,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:05:06.3781628+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:06:42.8070501+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:14.2944998+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:57:00.8774928+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:05:06.3782449+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:57:20.7636129+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:06:42.8071572+00:00"
 }

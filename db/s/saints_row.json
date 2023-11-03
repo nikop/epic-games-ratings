@@ -3999,7 +3999,7 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77052,
+  "EOS_Progressed": 77054,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 0,
@@ -26209,6 +26209,11 @@
       "Time": "2023-11-03T03:04:47.2323728+00:00",
       "NumProgressed": 77052,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-03T05:06:24.5688541+00:00",
+      "NumProgressed": 77054,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26236,7 +26241,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13869
+      "UsersEstimate": 13870
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -26316,7 +26321,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23886
+      "UsersEstimate": 23887
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -26332,7 +26337,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36214
+      "UsersEstimate": 36215
     },
     {
       "ID": "customize_a_vehicle",
@@ -26348,7 +26353,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28509
+      "UsersEstimate": 28510
     },
     {
       "ID": "cutting_edge_materials",
@@ -26428,7 +26433,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25427
+      "UsersEstimate": 25428
     },
     {
       "ID": "fully_complete_a_building",
@@ -26452,7 +26457,7 @@
       "Name": "Kitted Out",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "get_betrayed",
@@ -26476,7 +26481,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12328
+      "UsersEstimate": 12329
     },
     {
       "ID": "infinite_boost_refill",
@@ -26492,7 +26497,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15410
+      "UsersEstimate": 15411
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -26516,7 +26521,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26968
+      "UsersEstimate": 26969
     },
     {
       "ID": "one_third_purple",
@@ -26572,7 +26577,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20804
+      "UsersEstimate": 20805
     },
     {
       "ID": "two_thirds_purple",
@@ -26604,7 +26609,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32362
+      "UsersEstimate": 32363
     },
     {
       "ID": "whole_map_purple",
@@ -26636,29 +26641,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77052,
+      "Progressed": 77054,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48689,
-      "Completed": 4239
+      "Progressed": 48691,
+      "Completed": 4241
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-03T04:03:01.1909189+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:04:53.591338+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:06:24.5688536+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.4748895+00:00",
-  "LastUpdate_Ratings": "2023-11-03T04:03:01.1909207+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:04:53.5915292+00:00"
+  "LastUpdate_Ratings": "2023-11-03T05:03:40.8303258+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:06:24.5690635+00:00"
 }

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 537,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.18,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1629,6 +1629,11 @@
       "Time": "2023-11-03T04:04:06.8431968+00:00",
       "NumProgressed": 535,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-03T05:05:18.8501223+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 11,
@@ -1640,7 +1645,7 @@
       "Name": "Pit-house",
       "Percentage": 93,
       "XP": 45,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "LEVEL_003",
@@ -1648,7 +1653,7 @@
       "Name": "Smith house",
       "Percentage": 85,
       "XP": 45,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "LEVEL_004",
@@ -1656,7 +1661,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "LEVEL_006",
@@ -1664,7 +1669,7 @@
       "Name": "Market",
       "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "LEVEL_012",
@@ -1672,7 +1677,7 @@
       "Name": "Poultry house",
       "Percentage": 29,
       "XP": 95,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_017",
@@ -1694,9 +1699,9 @@
       "ID": "LEVEL_023",
       "SetID": "7jk5g4e",
       "Name": "Farmhouse",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 95,
-      "UsersEstimate": 70
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_025",
@@ -1727,14 +1732,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 537,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:04:06.8431964+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:05:18.8501218+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:58:19.3308824+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:04:06.8432175+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:59:09.7351359+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:05:18.8501394+00:00"
 }

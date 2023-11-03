@@ -6,7 +6,7 @@
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73138,
+  "EOS_Progressed": 73139,
   "EOS_Completed": 385,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -21978,6 +21978,11 @@
       "Time": "2023-11-03T04:08:49.2009137+00:00",
       "NumProgressed": 73138,
       "NumCompleted": 385
+    },
+    {
+      "Time": "2023-11-03T05:09:20.9033013+00:00",
+      "NumProgressed": 73139,
+      "NumCompleted": 385
     }
   ],
   "TotalAchievements": 24,
@@ -21997,7 +22002,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16090
+      "UsersEstimate": 16091
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -22005,7 +22010,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49734
+      "UsersEstimate": 49735
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22013,7 +22018,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16090
+      "UsersEstimate": 16091
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -22069,7 +22074,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38763
+      "UsersEstimate": 38764
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -22109,7 +22114,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -22149,7 +22154,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12433
+      "UsersEstimate": 12434
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -22180,7 +22185,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73138,
+      "Progressed": 73139,
       "Completed": 385
     }
   ],
@@ -22188,8 +22193,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:08:49.2009133+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:09:20.9033008+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:23.6319042+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:57:41.838728+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:08:49.2010679+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:58:17.9892448+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:09:20.9035042+00:00"
 }

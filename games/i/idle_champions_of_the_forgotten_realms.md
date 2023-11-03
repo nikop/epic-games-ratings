@@ -7,6 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Beginning is the End | 0.40% | ~799 |
+| Tomb of Champions | 0.20% | ~400 |
 | The End is the Beginning | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
 | Maddening | 0.10% | ~234 |
@@ -21,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Back to Nature | 0.10% | ~200 |
 | The Witchlight Carnival | 0.10% | ~200 |
 | A Monarch Among Us | 0.10% | ~200 |
+| A Dragon Against Us | 0.10% | ~200 |
 | Thieves of the Coven | 0.10% | ~200 |
 | Sticky Fingers | 0.10% | ~200 |
 | Go Fourth | 0.10% | ~200 |
@@ -70,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~200 |
 | Heavy Burden | 0.10% | ~234 |
 | Seeds of Destruction | 0.10% | ~200 |
+| Speeds of Destruction | 0.10% | ~200 |
 | Owlbear Necessities | 0.10% | ~200 |
 | The Evacuation of Waterdeep | 0.10% | ~200 |
 | Flapjacks and Waffles | 0.10% | ~200 |
@@ -226,6 +229,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spined Nuisances | 0.10% | ~234 |
 | Twilight Twist | 0.10% | ~200 |
 | Excavating History | 0.10% | ~234 |
+| Screams of the Dead | 0.10% | ~234 |
 | Premature Betrayal | 0.10% | ~234 |
 | Frantic Excavation | 0.10% | ~234 |
 | Birds of a Feather | 0.10% | ~200 |
@@ -276,6 +280,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Evergreens with an Evergreen | 0.10% | ~200 |
 | Meepo's Quest | 0.10% | ~234 |
 | She's Harmless! | 0.10% | ~234 |
+| The Tallest of Kobolds | 0.10% | ~200 |
 | Patience is Key | 0.10% | ~234 |
 | The Darkness Runs Deeper | 0.10% | ~234 |
 | Troublesome Prisoner | 0.10% | ~234 |
@@ -463,6 +468,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for The Last Breath | 0.10% | ~200 |
 | To Infinity's and Beyond | 0.10% | ~200 |
 | There's a Flying Snake in my Boot! | 0.10% | ~200 |
+| Legends and Lore | 0.10% | ~200 |
+| The End | 0.10% | ~200 |
 | The Jungles of Doomspace | 0.10% | ~200 |
 | Slow Down Showdown | 0.10% | ~200 |
 | The Arena of Blood | 0.10% | ~200 |
@@ -470,11 +477,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~200 |
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
-| Tomb of Champions | 0.10% | ~200 |
 | See You on the Flipside | 0.10% | ~200 |
 | Keep Your Friends Close | 0.00% | ~0 |
 | And Your Enemies Closer | 0.00% | ~0 |
-| A Dragon Against Us | 0.00% | ~0 |
 | A Familiar Behind Us | 0.00% | ~0 |
 | Patron Party | 0.00% | ~0 |
 | Don't Blast the Brigands | 0.00% | ~0 |
@@ -489,15 +494,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pincushion Party | 0.00% | ~0 |
 | Strength of Character | 0.00% | ~0 |
 | The Invisible Wizards of Thay | 0.00% | ~0 |
-| Speeds of Destruction | 0.00% | ~0 |
 | The Egg of Nat's Desire | 0.00% | ~0 |
 | Anchors Aweigh | 0.00% | ~0 |
 | Acererak's Puzzle | 0.00% | ~0 |
 | They Who Smelt It | 0.00% | ~0 |
 | Mongrelfolk Incursion | 0.00% | ~0 |
 | Spirit of the Trickster Gods | 0.00% | ~0 |
-| Screams of the Dead | 0.00% | ~0 |
-| The Tallest of Kobolds | 0.00% | ~0 |
 | Vault of Poison | 0.00% | ~0 |
 | Temporal Rift in the Goblin Halls | 0.00% | ~0 |
 | Thrice More Into The Breach | 0.00% | ~0 |
@@ -533,13 +535,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Calcryx Tricks | 0.00% | ~0 |
 | Goblin Halls: the Next Generation | 0.00% | ~0 |
 | The Chaotic Hunt for The Last Breath | 0.00% | ~0 |
-| Legends and Lore | 0.00% | ~0 |
 | Unearthed Arcana | 0.00% | ~0 |
-| The End | 0.00% | ~0 |
 | All's Well That Ends Well | 0.00% | ~0 |
 | Entrance of the Gladiators | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,507 (Ranked 62)  
+Progressed: 233,509 (Ranked 62)  
 Completed: 2,424 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -736,7 +736,7 @@ Completed: 2,424 (1.04%) (Ranked 154)
 | 2023-10-31 | 233,340 | 2,413 |
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
-| 2023-11-03 | 233,507 | 2,424 |
+| 2023-11-03 | 233,509 | 2,424 |
 ## Awards
 Max (Great for Beginners): 5,470  (Ranked 69)  
 Sum: 32,315 (Ranked 41)  

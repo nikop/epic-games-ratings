@@ -131,17 +131,17 @@
       "ID": "BOSS_06",
       "SetID": "35d3i7a",
       "Name": "Who am I?",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_07",
       "SetID": "35d3i7a",
       "Name": "This is not me.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEL_I",
@@ -403,9 +403,9 @@
       "ID": "MEM_XXI",
       "SetID": "35d3i7a",
       "Name": "Obstetric tenderness.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEM_XXII",
@@ -443,17 +443,17 @@
       "ID": "MEM_XXVI",
       "SetID": "35d3i7a",
       "Name": "I\u2019M UGLY!",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PART_I",
       "SetID": "35d3i7a",
       "Name": "The Dream.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PART_II",
@@ -507,9 +507,9 @@
       "ID": "PROJ_V",
       "SetID": "35d3i7a",
       "Name": "Monster.",
-      "Percentage": 9,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -522,8 +522,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:09:20.5155693+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:10:05.7498714+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.5973589+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:57:00.5191625+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:09:20.5156209+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:57:20.1895856+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:10:05.7499206+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~904 |
-| Off to a good start | 68.00% | ~683 |
-| Do... or do not. There is no try | 51.00% | ~513 |
+| New Recruit | 90.00% | ~906 |
+| Off to a good start | 68.00% | ~685 |
+| Do... or do not. There is no try | 51.00% | ~514 |
 | A good blaster at your side | 33.00% | ~332 |
 | I suggest a new strategy | 20.00% | ~201 |
 | Scrap collector | 19.00% | ~191 |
@@ -17,11 +17,11 @@
 | Together we can rule the galaxy | 15.00% | ~151 |
 | Collector | 14.00% | ~141 |
 | Survivor | 11.00% | ~111 |
-| Tell Jabba that I've got his money | 10.00% | ~100 |
-| Best star-pilot in the galaxy | 10.00% | ~100 |
-| Never tell me the odds! | 9.00% | ~90 |
-| A cunning warrior | 9.00% | ~90 |
-| What's the cargo? | 8.00% | ~80 |
+| Tell Jabba that I've got his money | 10.00% | ~101 |
+| Best star-pilot in the galaxy | 10.00% | ~101 |
+| Never tell me the odds! | 9.00% | ~91 |
+| A cunning warrior | 9.00% | ~91 |
+| What's the cargo? | 8.00% | ~81 |
 | "Gonk? Gonk!" | 7.00% | ~70 |
 | Impressive. Most impressive. | 7.00% | ~70 |
 | Judge me by my size, do you? | 7.00% | ~70 |
@@ -40,6 +40,7 @@
 | Precision shot | 3.00% | ~30 |
 | City in the Clouds | 3.00% | ~30 |
 | That's no moon | 3.00% | ~30 |
+| What will you become? | 3.00% | ~30 |
 | Disturbed tranquility | 3.00% | ~30 |
 | Hold the line! | 2.00% | ~20 |
 | Playing the objective | 2.00% | ~20 |
@@ -48,7 +49,6 @@
 | This is a new day, a new beginning | 2.00% | ~20 |
 | Alternative solution | 2.00% | ~20 |
 | Onwards! | 2.00% | ~20 |
-| What will you become? | 2.00% | ~20 |
 | The circle is now complete | 2.00% | ~20 |
 | No such thing as luck | 1.00% | ~10 |
 | Do we take prisoners? | 1.00% | ~10 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,005 (Ranked 247)  
+Progressed: 1,007 (Ranked 247)  
 Completed: 1 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.10%) (Ranked 265)
 | 2023-10-31 | 957 | 1 |
 | 2023-11-01 | 983 | 1 |
 | 2023-11-02 | 999 | 1 |
-| 2023-11-03 | 1,005 | 1 |
+| 2023-11-03 | 1,007 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

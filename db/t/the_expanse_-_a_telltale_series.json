@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14587,
+  "EOS_Progressed": 14589,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -10255,6 +10255,11 @@
       "Time": "2023-11-03T04:05:14.066757+00:00",
       "NumProgressed": 14587,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-03T05:06:53.7789215+00:00",
+      "NumProgressed": 14589,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10299,7 +10304,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "14",
@@ -10546,22 +10551,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14587,
+      "Progressed": 14589,
       "Completed": 29
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 541,
-      "Completed": 289
+      "Progressed": 543,
+      "Completed": 290
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-02T21:59:50.3843724+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:05:14.066756+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:06:53.7789209+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:59:10.8786884+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:05:14.0668388+00:00"
+  "LastUpdate_Ratings": "2023-11-03T05:00:24.006113+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:06:53.7790231+00:00"
 }

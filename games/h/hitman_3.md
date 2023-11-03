@@ -6,30 +6,30 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~621,817 |
-| Death From Above | 45.00% | ~608,300 |
-| Master of the Household | 38.00% | ~513,675 |
-| Death of the Party | 36.00% | ~486,640 |
-| NEXUS-47 | 33.00% | ~446,086 |
-| The Last Tango | 31.00% | ~419,051 |
-| Nightmare Fuel | 30.00% | ~405,533 |
-| The Result of Previous Training | 28.00% | ~378,498 |
-| Tools of the Trade | 28.00% | ~378,498 |
-| Cleared for Field Duty | 27.00% | ~364,980 |
-| Seizing the Opportunity | 26.00% | ~351,462 |
-| Bullet Train | 21.00% | ~283,873 |
-| Stylish Assassin | 20.00% | ~270,355 |
-| Silent Assassin | 14.00% | ~189,249 |
-| Rise Up | 12.00% | ~162,213 |
-| Evil Wine Club | 11.00% | ~148,695 |
-| Console Cowboy | 10.00% | ~135,178 |
-| Last Stop | 10.00% | ~135,178 |
-| A New Profile | 9.00% | ~121,660 |
-| Full House | 9.00% | ~121,660 |
-| Dune Raider | 8.00% | ~108,142 |
-| No Stone Unturned | 8.00% | ~108,142 |
-| Train Surfing | 8.00% | ~108,142 |
-| Icebreaker | 7.00% | ~94,624 |
+| Unseen Assassin | 46.00% | ~621,822 |
+| Death From Above | 45.00% | ~608,304 |
+| Master of the Household | 38.00% | ~513,679 |
+| Death of the Party | 36.00% | ~486,643 |
+| NEXUS-47 | 33.00% | ~446,089 |
+| The Last Tango | 31.00% | ~419,054 |
+| Nightmare Fuel | 30.00% | ~405,536 |
+| The Result of Previous Training | 28.00% | ~378,500 |
+| Tools of the Trade | 28.00% | ~378,500 |
+| Cleared for Field Duty | 27.00% | ~364,982 |
+| Seizing the Opportunity | 26.00% | ~351,464 |
+| Bullet Train | 21.00% | ~283,875 |
+| Stylish Assassin | 20.00% | ~270,357 |
+| Silent Assassin | 14.00% | ~189,250 |
+| Rise Up | 12.00% | ~162,214 |
+| Evil Wine Club | 11.00% | ~148,696 |
+| Console Cowboy | 10.00% | ~135,179 |
+| Last Stop | 10.00% | ~135,179 |
+| A New Profile | 9.00% | ~121,661 |
+| Full House | 9.00% | ~121,661 |
+| Dune Raider | 8.00% | ~108,143 |
+| No Stone Unturned | 8.00% | ~108,143 |
+| Train Surfing | 8.00% | ~108,143 |
+| Icebreaker | 7.00% | ~94,625 |
 | Family Feud | 6.00% | ~81,107 |
 | Rich Harvest | 6.00% | ~81,107 |
 | Count Down From 47 | 6.00% | ~81,107 |
@@ -42,19 +42,19 @@ Number of Ratings: 21,082  (23.09.2022)
 | The Great Outdoors | 4.00% | ~54,071 |
 | Partied Out | 4.00% | ~54,071 |
 | Surveillance Master | 4.00% | ~54,071 |
-| Training Escalated | 3.00% | ~40,553 |
-| Keep Your Eyes Peeled | 3.00% | ~40,553 |
-| Warehouse Veteran | 3.00% | ~40,553 |
-| Future Shock | 3.00% | ~40,553 |
-| Hack the Planet | 3.00% | ~40,553 |
-| Master the Terroir | 3.00% | ~40,553 |
-| Vineyard Virtuoso | 3.00% | ~40,553 |
+| Training Escalated | 3.00% | ~40,554 |
+| Keep Your Eyes Peeled | 3.00% | ~40,554 |
+| Warehouse Veteran | 3.00% | ~40,554 |
+| Future Shock | 3.00% | ~40,554 |
+| Hack the Planet | 3.00% | ~40,554 |
+| Master the Terroir | 3.00% | ~40,554 |
+| Vineyard Virtuoso | 3.00% | ~40,554 |
 | Bird Art | 2.00% | ~27,036 |
 | Top of the Class | 1.00% | ~13,518 |
 | Ripe for the Picking | 1.00% | ~13,518 |
-| The Creative Assassin | 0.70% | ~9,462 |
+| The Creative Assassin | 0.70% | ~9,463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351,777 (Ranked 9)  
+Progressed: 1,351,786 (Ranked 9)  
 Completed: 2,174 (0.16%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,16 +251,16 @@ Completed: 2,174 (0.16%) (Ranked 250)
 | 2023-10-31 | 1,351,062 | 2,169 |
 | 2023-11-01 | 1,351,389 | 2,173 |
 | 2023-11-02 | 1,351,728 | 2,173 |
-| 2023-11-03 | 1,351,777 | 2,174 |
+| 2023-11-03 | 1,351,786 | 2,174 |
 ## Awards
 Max (Diverse Characters): 10,509  (Ranked 38)  
-Sum: 73,048 (Ranked 21)  
+Sum: 73,060 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 10,509 |
 | This game is Highly Recommended | 9,600 |
-| This game is Extremely Fun | 9,292 |
+| This game is Extremely Fun | 9,304 |
 | This game has Amazing Storytelling | 9,158 |
 | This game has Amazing Characters | 8,984 |
 | This game has Quickly Understood Controls | 8,608 |
@@ -580,4 +580,4 @@ Diff (max vs sum): 17
 | 2023-10-31 | 4.78 | - | 10,487 | 72,954 |
 | 2023-11-01 | 4.78 | - | 10,497 | 73,008 |
 | 2023-11-02 | 4.78 | - | 10,509 | 73,033 |
-| 2023-11-03 | 4.78 | - | 10,509 | 73,048 |
+| 2023-11-03 | 4.78 | - | 10,509 | 73,060 |

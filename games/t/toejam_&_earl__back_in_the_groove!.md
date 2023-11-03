@@ -13,9 +13,9 @@ Rating: 4.33 (Ranked 807)
 | Sunflower Master | 5.00% | ~2,881 |
 | Hi Fiver | 3.00% | ~1,729 |
 | A Timely Splash | 3.00% | ~1,729 |
-| Backer Visitor | 2.00% | ~1,152 |
-| Hate That Randomizer | 2.00% | ~1,152 |
-| Feet on Funkotron | 2.00% | ~1,152 |
+| Backer Visitor | 2.00% | ~1,153 |
+| Hate That Randomizer | 2.00% | ~1,153 |
+| Feet on Funkotron | 2.00% | ~1,153 |
 | Elf Chaser | 1.00% | ~576 |
 | Fool Me Twice | 1.00% | ~576 |
 | Old School Jammin' | 1.00% | ~576 |
@@ -28,12 +28,12 @@ Rating: 4.33 (Ranked 807)
 | Totally Bummed Again | 0.60% | ~346 |
 | I Can't Believe I've Done This | 0.50% | ~288 |
 | Piece O' Cake | 0.50% | ~288 |
-| Boom Box Baby | 0.40% | ~230 |
-| Flying Present Ultimate Master | 0.40% | ~230 |
-| Ridiculously Generous | 0.40% | ~230 |
-| Harsh Love | 0.40% | ~230 |
-| Made It Through | 0.40% | ~230 |
-| I'm A Total Saint | 0.40% | ~230 |
+| Boom Box Baby | 0.40% | ~231 |
+| Flying Present Ultimate Master | 0.40% | ~231 |
+| Ridiculously Generous | 0.40% | ~231 |
+| Harsh Love | 0.40% | ~231 |
+| Made It Through | 0.40% | ~231 |
+| I'm A Total Saint | 0.40% | ~231 |
 | Map Explorer | 0.30% | ~173 |
 | Nine Funkotronians | 0.30% | ~173 |
 | Struck By Love | 0.30% | ~173 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 807)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,625 (Ranked 105)  
+Progressed: 57,626 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 6 (0.01%) (Ranked 318)
 | 2023-10-31 | 57,580 | 6 |
 | 2023-11-01 | 57,603 | 6 |
 | 2023-11-02 | 57,620 | 6 |
-| 2023-11-03 | 57,625 | 6 |
+| 2023-11-03 | 57,626 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

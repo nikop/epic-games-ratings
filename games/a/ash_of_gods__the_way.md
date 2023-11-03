@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 108.00% | ~13 |
-| Suicide squad | 58.00% | ~7 |
-| First blood | 33.00% | ~4 |
-| Train hard, fight easy | 25.00% | ~3 |
-| Royal blessing | 25.00% | ~3 |
-| Under cover | 25.00% | ~3 |
-| A hidden snake | 25.00% | ~3 |
-| Surpass the teacher | 17.00% | ~2 |
-| By own strength | 17.00% | ~2 |
-| A solo player | 17.00% | ~2 |
-| Punish the Punisher | 17.00% | ~2 |
-| Blood and sand | 17.00% | ~2 |
+| First success | 100.00% | ~13 |
+| Suicide squad | 54.00% | ~7 |
+| First blood | 31.00% | ~4 |
+| Train hard, fight easy | 23.00% | ~3 |
+| Royal blessing | 23.00% | ~3 |
+| Under cover | 23.00% | ~3 |
+| A hidden snake | 23.00% | ~3 |
+| Surpass the teacher | 15.00% | ~2 |
+| By own strength | 15.00% | ~2 |
+| A solo player | 15.00% | ~2 |
+| Punish the Punisher | 15.00% | ~2 |
+| Blood and sand | 15.00% | ~2 |
 | Crimson rivers | 8.00% | ~1 |
 | Overplay the rogue | 8.00% | ~1 |
 | Berkanan Borgia | 8.00% | ~1 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 557)  
+Progressed: 13 (Ranked 548)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 7 | 0 |
 | 2023-11-01 | 11 | 0 |
 | 2023-11-02 | 12 | 0 |
+| 2023-11-03 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

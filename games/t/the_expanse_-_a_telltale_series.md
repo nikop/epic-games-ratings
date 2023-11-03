@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 4.00% | ~583 |
+| Oyedang, Kopengs | 4.00% | ~584 |
 | Bosmang | 2.00% | ~292 |
 | The Pit and the Pirates | 1.00% | ~146 |
 | Data Archivist | 1.00% | ~146 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 482)
 | Master Negotiator | 0.10% | ~1 |
 | Madame Undersecretary | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,587 (Ranked 146)  
+Progressed: 14,589 (Ranked 146)  
 Completed: 29 (0.20%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 29 (0.20%) (Ranked 241)
 | 2023-10-31 | 14,517 | 28 |
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
-| 2023-11-03 | 14,587 | 29 |
+| 2023-11-03 | 14,589 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

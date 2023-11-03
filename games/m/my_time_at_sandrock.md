@@ -6,32 +6,32 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 171.00% | ~219 |
-| Adept Assembler | 127.00% | ~163 |
-| Greeno-B-Gone | 83.00% | ~106 |
-| Your Especially Earned Trajectory | 63.00% | ~81 |
-| Can We Keep It? | 40.00% | ~51 |
-| No Mountain Wide Enough | 31.00% | ~40 |
-| My Time Mansion | 27.00% | ~35 |
-| Happier-est Place on Earth | 21.00% | ~27 |
-| Call Me Fishmael | 21.00% | ~27 |
+| Iron Chef | 173.00% | ~228 |
+| Adept Assembler | 127.00% | ~168 |
+| Greeno-B-Gone | 83.00% | ~110 |
+| Your Especially Earned Trajectory | 63.00% | ~83 |
+| Can We Keep It? | 40.00% | ~53 |
+| No Mountain Wide Enough | 32.00% | ~42 |
+| My Time Mansion | 28.00% | ~37 |
+| Happier-est Place on Earth | 21.00% | ~28 |
+| Call Me Fishmael | 21.00% | ~28 |
+| Finishing Touches | 20.00% | ~26 |
 | Anti-Santa | 20.00% | ~26 |
-| On that Grindset | 19.00% | ~24 |
-| Finishing Touches | 19.00% | ~24 |
-| Yakmel Whisperer | 18.00% | ~23 |
+| On that Grindset | 18.00% | ~24 |
+| Yakmel Whisperer | 18.00% | ~24 |
 | You Don't Win Friends With Salad | 17.00% | ~22 |
-| Officially Official | 15.00% | ~19 |
+| Officially Official | 14.00% | ~18 |
 | I Do! | 14.00% | ~18 |
+| Knowledge is Power | 13.00% | ~17 |
 | Jewel of the Eufaula | 13.00% | ~17 |
-| Knowledge is Power | 11.00% | ~14 |
 | Better Late than Never | 9.00% | ~12 |
 | Mole Masher | 9.00% | ~12 |
-| Pack Mule | 8.00% | ~10 |
+| Pack Mule | 8.00% | ~11 |
 | Jack of All Trades | 6.00% | ~8 |
-| Panda-kin | 5.00% | ~6 |
-| First Love | 5.00% | ~6 |
-| Diamonds are Forever | 5.00% | ~6 |
-| He Can Spin A Yarn... | 4.00% | ~5 |
+| Diamonds are Forever | 6.00% | ~8 |
+| Panda-kin | 5.00% | ~7 |
+| He Can Spin A Yarn... | 5.00% | ~7 |
+| First Love | 5.00% | ~7 |
 | One of the Cool Kids | 4.00% | ~5 |
 | Just What I Always Wanted! | 4.00% | ~5 |
 | Pro Gamer | 3.00% | ~4 |
@@ -67,13 +67,13 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 | It Belongs in a Museum! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128 (Ranked 385)  
+Progressed: 132 (Ranked 384)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
-| 2023-11-03 | 128 | 0 |
+| 2023-11-03 | 132 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,299 (Ranked 237)  

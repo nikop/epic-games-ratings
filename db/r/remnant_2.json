@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 12,
+  "Ranking_EOS_NewPlayers": 13,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3753,10 +3753,10 @@
       "Count": 264
     }
   ],
-  "EOS_Progressed": 217059,
+  "EOS_Progressed": 217064,
   "EOS_Completed": 428,
-  "EOS_NewPlayers": 13854,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 13718,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -16198,6 +16198,11 @@
       "Time": "2023-11-03T04:04:20.4759986+00:00",
       "NumProgressed": 217059,
       "NumCompleted": 428
+    },
+    {
+      "Time": "2023-11-03T05:05:37.9328082+00:00",
+      "NumProgressed": 217064,
+      "NumCompleted": 428
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16250,7 +16255,7 @@
       "Name": "Chaos",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Defeat_Cube",
@@ -16266,7 +16271,7 @@
       "Name": "Traitor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -16282,7 +16287,7 @@
       "Name": "Power Surge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Defeat_Mantis",
@@ -16298,7 +16303,7 @@
       "Name": "The God Gambit",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -16306,7 +16311,7 @@
       "Name": "Dark Designs",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -16322,7 +16327,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Defeat_World_Boss",
@@ -16394,7 +16399,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19535
+      "UsersEstimate": 19536
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -16418,7 +16423,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -16434,7 +16439,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -16482,7 +16487,7 @@
       "Name": "The Web",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Obtain_Relics",
@@ -16522,7 +16527,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8682
+      "UsersEstimate": 8683
     },
     {
       "ID": "Obtain_Traits_C",
@@ -16609,7 +16614,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 217059,
+      "Progressed": 217064,
       "Completed": 428
     }
   ],
@@ -16617,8 +16622,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-02T20:03:04.6915225+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:04:20.4759969+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:05:37.9328076+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.5483711+00:00",
-  "LastUpdate_Ratings": "2023-11-03T04:03:07.964429+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:04:20.4761199+00:00"
+  "LastUpdate_Ratings": "2023-11-03T05:03:53.1302632+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:05:37.9329287+00:00"
 }

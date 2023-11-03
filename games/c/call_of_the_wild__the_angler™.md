@@ -6,19 +6,19 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 1.00% | ~62 |
+| Fish Just Got Reel | 1.00% | ~63 |
+| Hey Good Hookin | 0.90% | ~56 |
 | Can you smell what the Rod is Hooking | 0.80% | ~50 |
-| Hey Good Hookin | 0.80% | ~50 |
+| I'm on a Boat! | 0.80% | ~50 |
 | More Fish in the Sea | 0.80% | ~50 |
 | Scaling up | 0.80% | ~50 |
-| I'm on a Boat! | 0.70% | ~44 |
 | Ready to Rod and Roll | 0.50% | ~31 |
 | Fish Out of Water | 0.40% | ~25 |
 | Things that go Splash in the Night | 0.40% | ~25 |
 | Goldfish? | 0.40% | ~25 |
-| Going for Gold | 0.30% | ~19 |
+| Going for Gold | 0.40% | ~25 |
 | Live by the Rod, Diez by the Rod! | 0.30% | ~17 |
-| License to Gill | 0.20% | ~12 |
+| License to Gill | 0.20% | ~13 |
 | Aguas Claras Conquistador | 0.20% | ~11 |
 | All Good Kings Must Come to an End | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,248 (Ranked 176)  
+Progressed: 6,251 (Ranked 176)  
 Completed: 0 (0.00%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,18 +244,18 @@ Completed: 0 (0.00%) (Ranked 339)
 | 2023-10-31 | 6,177 | 0 |
 | 2023-11-01 | 6,212 | 0 |
 | 2023-11-02 | 6,244 | 0 |
-| 2023-11-03 | 6,248 | 0 |
+| 2023-11-03 | 6,251 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
-Sum: 186 (Ranked 403)  
-Diff (max vs sum): 60  
+Sum: 187 (Ranked 402)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |
 | This game has Amazing Storytelling | 34 |
 | This game is Highly Recommended | 33 |
 | This game is Great for Beginners | 33 |
-| This game is Extremely Fun | 29 |
+| This game is Extremely Fun | 30 |
 | This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -344,3 +344,4 @@ Diff (max vs sum): 60
 | 2023-10-24 | 4.16 | - | 36 | 184 |
 | 2023-10-25 | 4.16 | - | 36 | 186 |
 | 2023-10-29 | 4.17 | - | 36 | 186 |
+| 2023-11-03 | 4.17 | - | 36 | 187 |

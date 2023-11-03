@@ -1,10 +1,10 @@
 {
   "ID": "50b6612049324d0faf8642014139b082",
-  "Name": "WRC Standard Edition",
+  "Name": "WRC",
   "ProductSlug": "wrc",
   "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -13,12 +13,12 @@
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {
-      "isPrepurchase": "true"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -30,7 +30,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:54.5573047+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:58:08.2721143+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:09:21.959262+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:58:52.1961925+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:10:07.7179393+00:00"
 }

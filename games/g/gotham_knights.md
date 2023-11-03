@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,659 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,530 |
-| Loose Ends | 34.00% | ~25,772 |
-| To the Victor Go the Spoils | 28.00% | ~21,224 |
-| Knighthood | 27.00% | ~20,466 |
-| Get ReQ'd | 25.00% | ~18,950 |
-| Whispered Words | 25.00% | ~18,950 |
-| The Batman Family | 23.00% | ~17,434 |
-| Lock and Key | 22.00% | ~16,676 |
-| Something in the Clay | 21.00% | ~15,918 |
-| Quartzer Life Crisis | 21.00% | ~15,918 |
-| Working Hard or Harley Working? | 20.00% | ~15,160 |
-| Unstoppable Force | 20.00% | ~15,160 |
-| Bad Apples in Every Orchard | 20.00% | ~15,160 |
-| Snow Problem | 19.00% | ~14,402 |
-| The Show Mud Go On | 18.00% | ~13,644 |
-| From Inside Gotham's Walls | 18.00% | ~13,644 |
-| Protector of Gotham | 17.00% | ~12,886 |
-| Universal Health Scare | 16.00% | ~12,128 |
-| In Your Element | 15.00% | ~11,370 |
-| Voiceless | 15.00% | ~11,370 |
-| Rock and a Hard Place | 14.00% | ~10,612 |
-| Cooldown | 14.00% | ~10,612 |
-| Seeking Asylum | 14.00% | ~10,612 |
-| Not On My Watch | 13.00% | ~9,854 |
-| Shock Til They Drop | 13.00% | ~9,854 |
+| First Step Into the Knight | 51.00% | ~38,660 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,531 |
+| Loose Ends | 34.00% | ~25,773 |
+| To the Victor Go the Spoils | 28.00% | ~21,225 |
+| Knighthood | 27.00% | ~20,467 |
+| Get ReQ'd | 25.00% | ~18,951 |
+| Whispered Words | 25.00% | ~18,951 |
+| The Batman Family | 23.00% | ~17,435 |
+| Lock and Key | 22.00% | ~16,677 |
+| Something in the Clay | 21.00% | ~15,919 |
+| Quartzer Life Crisis | 21.00% | ~15,919 |
+| Working Hard or Harley Working? | 20.00% | ~15,161 |
+| Unstoppable Force | 20.00% | ~15,161 |
+| Bad Apples in Every Orchard | 20.00% | ~15,161 |
+| Snow Problem | 19.00% | ~14,403 |
+| The Show Mud Go On | 18.00% | ~13,645 |
+| From Inside Gotham's Walls | 18.00% | ~13,645 |
+| Protector of Gotham | 17.00% | ~12,887 |
+| Universal Health Scare | 16.00% | ~12,129 |
+| In Your Element | 15.00% | ~11,371 |
+| Voiceless | 15.00% | ~11,371 |
+| Rock and a Hard Place | 14.00% | ~10,613 |
+| Cooldown | 14.00% | ~10,613 |
+| Seeking Asylum | 14.00% | ~10,613 |
+| Not On My Watch | 13.00% | ~9,855 |
+| Shock Til They Drop | 13.00% | ~9,855 |
 | End of an Era | 12.00% | ~9,096 |
 | Bulldozed | 12.00% | ~9,096 |
 | Gotham Knight | 12.00% | ~9,096 |
@@ -55,9 +55,9 @@ Rating: 4.18 (Ranked 918)
 | History Major | 0.80% | ~606 |
 | A Sophisticated Mallet | 0.80% | ~369 |
 | Read Owl About It | 0.70% | ~531 |
-| Gotham's Greatest Depths | 0.60% | ~276 |
-| Don't Mecha Big Deal About It | 0.60% | ~276 |
-| Confronting Your Demon | 0.60% | ~276 |
+| Gotham's Greatest Depths | 0.60% | ~277 |
+| Don't Mecha Big Deal About It | 0.60% | ~277 |
+| Confronting Your Demon | 0.60% | ~277 |
 | That's Showbiz, Clayby | 0.50% | ~230 |
 | Hammer and Icicle | 0.40% | ~184 |
 | Renewable Enemy Source | 0.40% | ~184 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 918)
 | Element of Surprise | 0.20% | ~92 |
 | It's Nice to Be Wanted | 0.20% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,801 (Ranked 97)  
+Progressed: 75,804 (Ranked 97)  
 Completed: 122 (0.16%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 122 (0.16%) (Ranked 250)
 | 2023-10-31 | 75,588 | 122 |
 | 2023-11-01 | 75,689 | 122 |
 | 2023-11-02 | 75,782 | 122 |
-| 2023-11-03 | 75,801 | 122 |
+| 2023-11-03 | 75,804 | 122 |
 ## Awards
 Max (Great Boss Battles): 2,897  (Ranked 98)  
 Sum: 4,907 (Ranked 137)  

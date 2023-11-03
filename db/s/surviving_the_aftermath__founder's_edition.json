@@ -1386,9 +1386,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10050,
+  "EOS_Progressed": 10051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16226,6 +16226,11 @@
       "Time": "2023-11-03T01:52:49.7054627+00:00",
       "NumProgressed": 10050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-03T05:09:16.4190866+00:00",
+      "NumProgressed": 10051,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16237,7 +16242,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6130
+      "UsersEstimate": 6131
     },
     {
       "ID": "10",
@@ -16269,7 +16274,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5326
+      "UsersEstimate": 5327
     },
     {
       "ID": "14",
@@ -16315,9 +16320,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5327
     },
     {
       "ID": "2",
@@ -16349,7 +16354,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7336
+      "UsersEstimate": 7337
     },
     {
       "ID": "23",
@@ -16389,7 +16394,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "28",
@@ -16405,7 +16410,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "3",
@@ -16437,7 +16442,7 @@
       "Name": "Slimy yet Satisfying",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "33",
@@ -16549,7 +16554,7 @@
       "Name": "Look, no Hands!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "46",
@@ -16565,7 +16570,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3316
+      "UsersEstimate": 3317
     },
     {
       "ID": "48",
@@ -16573,7 +16578,7 @@
       "Name": "Feng Shui",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "49",
@@ -16589,7 +16594,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "50",
@@ -16613,7 +16618,7 @@
       "Name": "A Closer Look",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "53",
@@ -16629,7 +16634,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "55",
@@ -16708,15 +16713,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10050,
+      "Progressed": 10051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-02T17:57:08.0386111+00:00",
-  "LastChanged_Achievements": "2023-11-03T04:08:45.8925301+00:00",
+  "LastChanged_Achievements": "2023-11-03T05:09:16.4190859+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-03T03:57:07.2273266+00:00",
-  "LastUpdate_Achievements": "2023-11-03T04:08:45.8926591+00:00"
+  "LastUpdate_Ratings": "2023-11-03T04:57:31.2783905+00:00",
+  "LastUpdate_Achievements": "2023-11-03T05:09:16.4192825+00:00"
 }
