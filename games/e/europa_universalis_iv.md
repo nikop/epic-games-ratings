@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,855 |
-| Until death do us apart | 4.00% | ~17,855 |
-| Victorious! | 4.00% | ~17,855 |
-| That's a Grand Navy | 3.00% | ~13,391 |
-| That is mine! | 3.00% | ~13,391 |
+| That's a Grand Army | 4.00% | ~17,856 |
+| Until death do us apart | 4.00% | ~17,856 |
+| Victorious! | 4.00% | ~17,856 |
+| That's a Grand Navy | 3.00% | ~13,392 |
+| That is mine! | 3.00% | ~13,392 |
 | Brothers in Arms | 2.00% | ~8,928 |
 | Cold War | 2.00% | ~8,928 |
 | For the Glory | 2.00% | ~8,928 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,464 |
 | True Catholic | 1.00% | ~4,464 |
 | Truly Divine Ruler | 1.00% | ~4,464 |
-| Blockader | 0.90% | ~4,017 |
+| Blockader | 0.90% | ~4,018 |
 | Double the Love | 0.80% | ~3,571 |
 | Royal Authority | 0.80% | ~3,571 |
 | Total Control | 0.80% | ~3,571 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 446,381 (Ranked 41)  
+Progressed: 446,411 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,10 +559,10 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 444,668 | 1 |
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
-| 2023-11-04 | 446,381 | 1 |
+| 2023-11-04 | 446,411 | 1 |
 ## Awards
 Max (Educational): 6,817  (Ranked 55)  
-Sum: 55,956 (Ranked 24)  
+Sum: 55,971 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -574,7 +574,7 @@ Diff (max vs sum): 31
 | This game is Relaxing | 6,260 |
 | This game has Competitive Players | 6,100 |
 | This game has Amazing Storytelling | 5,678 |
-| This game has Amazing Characters | 5,245 |
+| This game has Amazing Characters | 5,260 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -870,3 +870,4 @@ Diff (max vs sum): 31
 | 2023-11-01 | 4.69 | - | 6,780 | 55,704 |
 | 2023-11-02 | 4.69 | - | 6,798 | 55,815 |
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
+| 2023-11-04 | 4.69 | - | 6,817 | 55,971 |

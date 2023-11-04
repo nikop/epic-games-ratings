@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,870 |
+| Sowwy! | 34.00% | ~79,872 |
 | Where's that freaking Dwarf? | 7.00% | ~16,444 |
 | Alt+F4 | 7.00% | ~16,444 |
 | Déjà vu | 5.00% | ~11,746 |
@@ -14,10 +14,10 @@ Number of Ratings: 118  (23.09.2022)
 | Sock! SOCK! | 4.00% | ~9,397 |
 | GG EZ | 4.00% | ~9,397 |
 | Speedrun | 4.00% | ~9,397 |
-| Way of the Wimp | 3.00% | ~7,047 |
-| The plot thickens... At the tavern | 3.00% | ~7,047 |
-| DM intervention | 3.00% | ~7,047 |
-| Fireproof Wizardess | 3.00% | ~7,047 |
+| Way of the Wimp | 3.00% | ~7,048 |
+| The plot thickens... At the tavern | 3.00% | ~7,048 |
+| DM intervention | 3.00% | ~7,048 |
+| Fireproof Wizardess | 3.00% | ~7,048 |
 | Livin' in a dwarven paradise | 2.00% | ~4,698 |
 | Shiny and Crôm | 2.00% | ~4,698 |
 | The demons' feast | 2.00% | ~4,698 |
@@ -46,8 +46,8 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.90% | ~2,114 |
 | In Navalu's footsteps | 0.80% | ~1,879 |
 | Lëgal Legend | 0.70% | ~1,644 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,409 |
-| We come in peace | 0.60% | ~1,409 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,410 |
+| We come in peace | 0.60% | ~1,410 |
 | Holistic Adventuring Party | 0.50% | ~1,175 |
 | Law and Order | 0.50% | ~1,175 |
 | Scholar of the Lands of Fangh | 0.40% | ~940 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~235 |
 | Dwarf Candy | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,913 (Ranked 60)  
+Progressed: 234,919 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.00%) (Ranked 342)
 | 2023-11-01 | 234,476 | 7 |
 | 2023-11-02 | 234,679 | 7 |
 | 2023-11-03 | 234,863 | 7 |
-| 2023-11-04 | 234,913 | 7 |
+| 2023-11-04 | 234,919 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 269)  
 Sum: 451 (Ranked 328)  

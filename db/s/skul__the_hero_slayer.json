@@ -2,13 +2,13 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 185,
+  "Ranking_Rating": 184,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1061,9 +1061,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 8261,
+  "EOS_Progressed": 8262,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5131,6 +5131,11 @@
       "Time": "2023-11-03T22:22:34.0812648+00:00",
       "NumProgressed": 8261,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-04T07:08:23.4210612+00:00",
+      "NumProgressed": 8262,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5166,7 +5171,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5205
     },
     {
       "ID": "DemonCastleRestoration",
@@ -5198,7 +5203,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -5268,9 +5273,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5205
     },
     {
       "ID": "SavedElderEnt_2",
@@ -5278,7 +5283,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "SkeletonKing",
@@ -5294,7 +5299,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "TheLegendBegins",
@@ -5302,7 +5307,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7683
+      "UsersEstimate": 7684
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5326,22 +5331,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6939
+      "UsersEstimate": 6940
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8261,
+      "Progressed": 8262,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-03T04:03:09.5652469+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:08:14.912477+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:08:23.4210609+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:36.5277741+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:03:05.5082724+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:08:14.9125199+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:03:15.3859061+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:08:23.4210934+00:00"
 }

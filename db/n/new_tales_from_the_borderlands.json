@@ -3,12 +3,12 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 962,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3682,
+  "EOS_Progressed": 3683,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1712,6 +1712,11 @@
       "Time": "2023-11-03T08:05:49.8247578+00:00",
       "NumProgressed": 3682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T07:05:25.1903655+00:00",
+      "NumProgressed": 3683,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1763,7 +1768,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1779,7 +1784,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1795,7 +1800,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1843,7 +1848,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1859,7 +1864,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1899,7 +1904,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -1930,7 +1935,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3682,
+      "Progressed": 3683,
       "Completed": 0
     }
   ],
@@ -1938,8 +1943,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:05:38.9778132+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:05:25.1903651+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:00.4235632+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:58:45.2714434+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:05:38.9778422+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:58:33.1439212+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:05:25.1903917+00:00"
 }

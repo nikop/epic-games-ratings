@@ -14,8 +14,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.20% | ~1,790 |
 | Stanislavski's Method | 0.20% | ~1,790 |
 | True Soldier | 0.20% | ~1,790 |
-| All the President's Men | 0.20% | ~47 |
-| Arachnophobia | 0.20% | ~47 |
+| All the President's Men | 0.20% | ~48 |
+| Arachnophobia | 0.20% | ~48 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | Bushido and Chill | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,122 (Ranked 15)  
+Progressed: 895,127 (Ranked 15)  
 Completed: 2,742 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,742 (0.31%) (Ranked 219)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,122 | 2,742 |
+| 2023-11-04 | 895,127 | 2,742 |
 ## Awards
 Max (Character Customization): 103,657  (Ranked 9)  
 Sum: 341,243 (Ranked 10)  

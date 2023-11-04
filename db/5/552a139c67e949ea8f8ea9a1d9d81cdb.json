@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 852,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1505,9 +1505,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1854,8 +1854,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:04:19.1506762+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:04:17.9940294+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:43.8227877+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:04:19.1507341+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:19.4236544+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:04:17.994064+00:00"
 }

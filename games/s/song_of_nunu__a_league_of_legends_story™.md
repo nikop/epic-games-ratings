@@ -8,10 +8,10 @@
 | I Broke It | 68.00% | ~252 |
 | Better On Ice | 64.00% | ~237 |
 | Notai Notes | 62.00% | ~230 |
+| Blue Dreams | 61.00% | ~226 |
 | He's Famous! | 61.00% | ~226 |
-| Blue Dreams | 60.00% | ~223 |
 | Cutie Poro | 59.00% | ~219 |
-| Krugmazing | 56.00% | ~208 |
+| Krugmazing | 57.00% | ~211 |
 | Moneyball | 55.00% | ~204 |
 | The Fire Below the Mountain | 54.00% | ~200 |
 | No Bites | 44.00% | ~163 |
@@ -19,7 +19,7 @@
 | Tear of Freedom | 42.00% | ~156 |
 | Boom Things | 42.00% | ~156 |
 | Rhythm Of Willump | 40.00% | ~148 |
-| My Darkest Day | 38.00% | ~141 |
+| My Darkest Day | 39.00% | ~145 |
 | True Legends | 37.00% | ~137 |
 | The Relentless Storm | 34.00% | ~126 |
 | The Finisher | 33.00% | ~122 |
@@ -28,8 +28,8 @@
 | Never Gets Old | 32.00% | ~119 |
 | 3000 Year Blackout | 31.00% | ~115 |
 | Snowy Poro | 31.00% | ~115 |
+| Bullseye | 29.00% | ~108 |
 | So Close | 28.00% | ~104 |
-| Bullseye | 28.00% | ~104 |
 | You Get Used To It | 27.00% | ~100 |
 | Boosted! | 26.00% | ~96 |
 | Family | 25.00% | ~93 |

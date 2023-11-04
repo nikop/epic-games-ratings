@@ -21,8 +21,8 @@ Rating: 4.55 (Ranked 500)
 | Captain Drummer | 1.00% | ~146 |
 | Impossible Objects | 1.00% | ~146 |
 | Thorston Mayer | 0.80% | ~117 |
-| Bottoms up! | 0.70% | ~102 |
 | Doctor Approved | 0.60% | ~88 |
+| Bottoms up! | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
 | Zen Master | 0.60% | ~3 |
 | Keep Arjun in Check | 0.50% | ~3 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,615 (Ranked 146)  
+Progressed: 14,616 (Ranked 146)  
 Completed: 31 (0.21%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 31 (0.21%) (Ranked 235)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,615 | 31 |
+| 2023-11-04 | 14,616 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_Rating": 760,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 32,
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15371,
+  "EOS_Progressed": 15381,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4039,
+  "EOS_NewPlayers": 4028,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1921,6 +1921,11 @@
       "Time": "2023-11-04T06:09:10.6113422+00:00",
       "NumProgressed": 15371,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-04T07:09:10.6399742+00:00",
+      "NumProgressed": 15381,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 24,
@@ -1986,9 +1991,9 @@
       "ID": "ACH_S8AllCubes",
       "SetID": "a3lf366",
       "Name": "Master Of The Collectables",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_S8AllGold",
@@ -2020,7 +2025,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -2092,7 +2097,7 @@
       "Name": "Sector 5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_Sector6",
@@ -2123,7 +2128,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 15371,
+      "Progressed": 15381,
       "Completed": 8
     }
   ],
@@ -2131,8 +2136,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-03T05:58:06.8931009+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:09:10.6113417+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:09:10.6399738+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:58:02.7022734+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:09:10.6113739+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:57:58.9637255+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:09:10.6399961+00:00"
 }

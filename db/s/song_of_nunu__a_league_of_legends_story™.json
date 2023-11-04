@@ -477,17 +477,17 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 226
     },
     {
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "EV_ACH03",
@@ -597,9 +597,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "EV_ACH17",
@@ -645,9 +645,9 @@
       "ID": "EV_ACH22",
       "SetID": "6jeac23",
       "Name": "Bullseye",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "EV_ACH23",
@@ -836,8 +836,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:09:09.1460707+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:09:09.4138074+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.241403+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:38.5119853+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:09:09.1461138+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:14.7466982+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:09:09.4138368+00:00"
 }

@@ -27,13 +27,13 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Ashley | 0.70% | ~45 |
 | The Crush | 0.70% | ~45 |
 | Vickie | 0.70% | ~45 |
+| Casanova | 0.60% | ~39 |
 | Now It's a Party! | 0.60% | ~39 |
 | Stephanie | 0.60% | ~39 |
 | The Magic Number | 0.60% | ~39 |
 | Te Amo Lety | 0.60% | ~39 |
 | Benedict Brahrnold | 0.50% | ~32 |
 | I'll Be Back | 0.50% | ~32 |
-| Casanova | 0.50% | ~32 |
 | Deck the Balls | 0.50% | ~17 |
 | Love Conquers All | 0.50% | ~32 |
 | Ashley | 0.40% | ~26 |

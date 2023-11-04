@@ -3,9 +3,9 @@
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.18 (Ranked 920)  
 ## Awards
-Max (Diverse Characters): 26  (Ranked 510)  
+Max (Diverse Characters): 26  (Ranked 511)  
 Sum: 76 (Ranked 460)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |

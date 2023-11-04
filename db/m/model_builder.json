@@ -3,12 +3,12 @@
   "Name": "Model Builder",
   "ProductSlug": "model-builder-f9b456",
   "Ranking_Rating": 952,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-16T17:00:00+00:00",
     "PcReleaseDate": "2022-02-08T17:00:00+00:00",
@@ -827,8 +827,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1160749+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6201537+00:00",
   "LastChanged": "2023-11-03T11:59:33.6127362+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:09:29.9859322+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:09:26.7613999+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:08.8560538+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:08.1173895+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:09:29.9860068+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:58:51.1741807+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:09:26.7614591+00:00"
 }

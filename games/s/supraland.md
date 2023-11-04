@@ -106,7 +106,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Top of the world | 0.10% | ~732 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 731,547 (Ranked 19)  
-Completed: 756 (0.10%) (Ranked 266)  
+Completed: 756 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

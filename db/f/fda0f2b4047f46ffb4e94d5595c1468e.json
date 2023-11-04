@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2035,10 +2035,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4266,
       "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2023-11-04T07:02:58.2523554+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4269,
+      "NumberOfAwardsMax": 1419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4266,
+  "NumberOfAwards": 4269,
   "NumberOfAwardsMax": 1419,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2082,7 +2088,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 282
+      "Count": 285
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2115,7 +2121,7 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 8267,
+  "EOS_Progressed": 8268,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -6790,6 +6796,11 @@
       "Time": "2023-11-04T06:04:33.3969993+00:00",
       "NumProgressed": 8267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T07:04:29.943113+00:00",
+      "NumProgressed": 8268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6802,7 +6813,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2894
     },
     {
       "ID": "ach02",
@@ -6842,7 +6853,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "ach07",
@@ -6858,7 +6869,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "ach09",
@@ -6922,7 +6933,7 @@
       "Name": "Test Your Might",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ach17",
@@ -6986,15 +6997,15 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "ach25",
       "SetID": "47in8n6",
       "Name": "Talis-Mania",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1984
     },
     {
       "ID": "ach26",
@@ -7010,7 +7021,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "ach28",
@@ -7042,7 +7053,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "ach32",
@@ -7098,7 +7109,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "ach39",
@@ -7106,7 +7117,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "ach40",
@@ -7114,7 +7125,7 @@
       "Name": "Found You",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "ach41",
@@ -7130,7 +7141,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "ach43",
@@ -7138,7 +7149,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "ach44",
@@ -7194,23 +7205,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8267,
+      "Progressed": 8268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-04T05:00:34.645554+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:04:33.3969987+00:00",
+  "LastChanged": "2023-11-04T07:02:58.2523552+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:04:29.9431128+00:00",
   "LastUpdate_AppInfo": "2023-10-28T08:57:05.3662304+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:02:44.49194+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:04:33.3970864+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:02:58.2523556+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:04:29.9431639+00:00"
 }

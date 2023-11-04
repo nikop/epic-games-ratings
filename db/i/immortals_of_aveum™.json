@@ -3,12 +3,12 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 995,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -791,17 +791,17 @@
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_15",
@@ -975,9 +975,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_46",
@@ -1055,9 +1055,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_60",
@@ -1144,8 +1144,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-04T02:27:45.141984+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:04:08.9682558+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:04:08.7026593+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:57.9253299+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:04:08.9682987+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:30.593935+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:04:08.7026961+00:00"
 }

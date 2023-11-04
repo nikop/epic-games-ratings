@@ -3,12 +3,12 @@
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
   "Ranking_Rating": 829,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -425,9 +425,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216045,
+  "EOS_Progressed": 216046,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1215,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22860,6 +22860,11 @@
       "Time": "2023-11-04T06:07:11.9636887+00:00",
       "NumProgressed": 216045,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-04T07:06:43.6041649+00:00",
+      "NumProgressed": 216046,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -22871,7 +22876,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 101541
+      "UsersEstimate": 101542
     },
     {
       "ID": "AlekhinesGun",
@@ -23111,7 +23116,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 45369
+      "UsersEstimate": 45370
     },
     {
       "ID": "Stalemate",
@@ -23127,7 +23132,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25925
+      "UsersEstimate": 25926
     },
     {
       "ID": "TournamentAmateur",
@@ -23174,7 +23179,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 216045,
+      "Progressed": 216046,
       "Completed": 2
     }
   ],
@@ -23182,8 +23187,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-02T13:59:03.1975077+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:07:11.9636881+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:06:43.6041646+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.0461041+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:27.5873199+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:07:11.9638506+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:06.8420776+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:06:43.6042895+00:00"
 }

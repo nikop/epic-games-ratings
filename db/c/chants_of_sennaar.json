@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 80,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 402,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.74,
+  "EOS_Completed_Percentage": 5.72,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1805,6 +1805,11 @@
       "Time": "2023-11-04T06:08:09.1259542+00:00",
       "NumProgressed": 401,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-04T07:08:18.5714793+00:00",
+      "NumProgressed": 402,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1822,9 +1827,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "META_ALL_LINK",
@@ -1926,17 +1931,17 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 88
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1960,15 +1965,15 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "PROGRESS_N1",
@@ -1976,7 +1981,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "PROGRESS_N2",
@@ -2015,14 +2020,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 402,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:08:09.1259536+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:08:18.5714789+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:00:41.8427965+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:08:09.1259936+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:00:04.9876608+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:08:18.5715014+00:00"
 }

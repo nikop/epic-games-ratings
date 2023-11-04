@@ -14660,9 +14660,9 @@
       "Count": 12334
     }
   ],
-  "EOS_Progressed": 895122,
+  "EOS_Progressed": 895127,
   "EOS_Completed": 2742,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 970,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37025,6 +37025,11 @@
       "Time": "2023-11-04T06:06:04.840875+00:00",
       "NumProgressed": 895122,
       "NumCompleted": 2742
+    },
+    {
+      "Time": "2023-11-04T07:05:47.0532506+00:00",
+      "NumProgressed": 895127,
+      "NumCompleted": 2742
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37493,7 +37498,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "HydraIsDead",
@@ -37509,7 +37514,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KingOfTheCups",
@@ -37572,21 +37577,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895122,
+      "Progressed": 895127,
       "Completed": 2742
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23745,
+      "Progressed": 23750,
       "Completed": 10183
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-04T05:59:21.4026822+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:06:04.8408743+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:05:47.0532504+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:21.4026829+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:06:04.8410617+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:01.9167944+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:05:47.053393+00:00"
 }

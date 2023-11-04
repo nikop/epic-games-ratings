@@ -3,8 +3,8 @@
   "Name": "Mercury",
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:52.397626+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:00:52.7365876+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:08:24.9157903+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:00:13.5637135+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:08:32.1746021+00:00"
 }

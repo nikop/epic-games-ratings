@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "aq_achievement_23",
       "SetID": "7jh86ne",
       "Name": "Fussy eater",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "aq_achievement_24",
@@ -586,8 +586,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:09:24.155703+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:09:22.2967207+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.9708486+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:58:17.1146167+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:09:24.1557693+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:58:10.4826098+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:09:22.2967476+00:00"
 }

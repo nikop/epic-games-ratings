@@ -6,9 +6,9 @@
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2025,9 +2025,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21243,
+  "EOS_Progressed": 21244,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10065,6 +10065,11 @@
       "Time": "2023-11-04T00:06:26.9532668+00:00",
       "NumProgressed": 21243,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-04T07:05:31.5909195+00:00",
+      "NumProgressed": 21244,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10124,7 +10129,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20181
+      "UsersEstimate": 20182
     },
     {
       "ID": "GameOver",
@@ -10236,7 +10241,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6585
+      "UsersEstimate": 6586
     },
     {
       "ID": "VeronicaLiptson",
@@ -10259,15 +10264,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21243,
+      "Progressed": 21244,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-04T01:39:07.0141071+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:05:46.8584126+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:05:31.5909192+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:58.2691301+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:57:26.4808369+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:05:46.8584939+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:57:29.1114447+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:05:31.5909685+00:00"
 }

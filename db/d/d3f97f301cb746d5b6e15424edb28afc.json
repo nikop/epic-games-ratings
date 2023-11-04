@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1144,9 +1144,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -1264,9 +1264,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -1304,9 +1304,9 @@
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 2",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
@@ -1360,17 +1360,17 @@
       "ID": "GSS_ACH_64_POPULARITY_04",
       "SetID": "5fn8ia4",
       "Name": "Local Celebrity",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "GSS_ACH_65_POPULARITY_05",
       "SetID": "5fn8ia4",
       "Name": "Talk of the Town",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "GSS_ACH_66_POPULARITY_06",
@@ -1464,9 +1464,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -1519,8 +1519,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:06:58.0225845+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:06:31.9566865+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:02.4461125+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:06:58.0226884+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:58:46.5726369+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:06:31.9567855+00:00"
 }

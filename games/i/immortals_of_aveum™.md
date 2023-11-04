@@ -11,7 +11,7 @@ Rating: 3.98 (Ranked 995)
 | Maybe Engage a Little | 79.00% | ~113 |
 | No More Names | 65.00% | ~93 |
 | Initiate | 57.00% | ~82 |
-| Thrada-Kul | 52.00% | ~74 |
+| Thrada-Kul | 53.00% | ~76 |
 | Gravity-Challenged Rocks | 41.00% | ~59 |
 | All the Major Food Groups | 36.00% | ~51 |
 | Soldier | 34.00% | ~49 |
@@ -20,10 +20,10 @@ Rating: 3.98 (Ranked 995)
 | Socialite | 28.00% | ~40 |
 | The Means to Save It | 23.00% | ~33 |
 | Resilience to Sin | 20.00% | ~29 |
-| A Familiar Nest | 19.00% | ~27 |
+| A Familiar Nest | 20.00% | ~29 |
+| Periapt Alizarin | 19.00% | ~27 |
+| Geas Aristeya | 17.00% | ~24 |
 | Armsman | 17.00% | ~24 |
-| Periapt Alizarin | 17.00% | ~24 |
-| Geas Aristeya | 16.00% | ~23 |
 | A Perfect Cycle | 14.00% | ~20 |
 | Recruit | 14.00% | ~20 |
 | Good Boy | 10.00% | ~14 |

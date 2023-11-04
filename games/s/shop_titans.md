@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,542 |
-| Titan's First Steps | 4.00% | ~5,542 |
+| Sponsored by Argon | 4.00% | ~5,543 |
+| Titan's First Steps | 4.00% | ~5,543 |
 | Basic in Bulk | 3.00% | ~4,157 |
 | Disintermediation | 3.00% | ~4,157 |
 | Tinkle of Coins | 3.00% | ~4,157 |
@@ -48,23 +48,23 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.90% | ~1,247 |
 | Royal Ransom | 0.90% | ~1,247 |
 | Magical Harmony | 0.90% | ~1,247 |
-| A Notch Above the Rest | 0.80% | ~1,108 |
-| The King's Caprice | 0.80% | ~1,108 |
-| Big Game Hunting | 0.80% | ~1,108 |
-| Scrapbooker | 0.80% | ~1,108 |
-| Locally Sourced | 0.80% | ~1,108 |
-| Flying off the Shelves | 0.80% | ~1,108 |
-| This Power Level...! | 0.80% | ~1,108 |
-| Hidden Potential | 0.80% | ~1,108 |
-| Expansion in Session | 0.80% | ~1,108 |
-| Mammonite | 0.80% | ~1,108 |
-| Miracle Alchemist | 0.80% | ~1,108 |
-| Laden with Loot | 0.80% | ~1,108 |
-| Seasoned Journeyman | 0.80% | ~1,108 |
-| Scourge of the Seas | 0.80% | ~1,108 |
-| Black Friday Special | 0.80% | ~1,108 |
-| Special Ingredient | 0.80% | ~1,108 |
-| Complete Monopoly | 0.80% | ~1,108 |
+| A Notch Above the Rest | 0.80% | ~1,109 |
+| The King's Caprice | 0.80% | ~1,109 |
+| Big Game Hunting | 0.80% | ~1,109 |
+| Scrapbooker | 0.80% | ~1,109 |
+| Locally Sourced | 0.80% | ~1,109 |
+| Flying off the Shelves | 0.80% | ~1,109 |
+| This Power Level...! | 0.80% | ~1,109 |
+| Hidden Potential | 0.80% | ~1,109 |
+| Expansion in Session | 0.80% | ~1,109 |
+| Mammonite | 0.80% | ~1,109 |
+| Miracle Alchemist | 0.80% | ~1,109 |
+| Laden with Loot | 0.80% | ~1,109 |
+| Seasoned Journeyman | 0.80% | ~1,109 |
+| Scourge of the Seas | 0.80% | ~1,109 |
+| Black Friday Special | 0.80% | ~1,109 |
+| Special Ingredient | 0.80% | ~1,109 |
+| Complete Monopoly | 0.80% | ~1,109 |
 | Cream of the Crop | 0.70% | ~970 |
 | Proud Paladin | 0.70% | ~970 |
 | Above the Norm | 0.70% | ~970 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,560 (Ranked 78)  
+Progressed: 138,563 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 178 (0.13%) (Ranked 255)
 | 2023-11-01 | 138,446 | 178 |
 | 2023-11-02 | 138,491 | 178 |
 | 2023-11-03 | 138,550 | 178 |
-| 2023-11-04 | 138,560 | 178 |
+| 2023-11-04 | 138,563 | 178 |
 ## Awards
 Max (Great for Beginners): 4,817  (Ranked 74)  
 Sum: 27,497 (Ranked 51)  

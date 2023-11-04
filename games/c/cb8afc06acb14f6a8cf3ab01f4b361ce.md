@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~114,416 |
-| May the Torchbearer light our way | 36.00% | ~108,395 |
-| A powerful aura was here | 24.00% | ~72,263 |
-| Let's raise the stakes!! | 11.00% | ~33,121 |
-| Rumors are true | 6.00% | ~18,066 |
-| Your wounds… They are healing so fast! | 6.00% | ~18,066 |
-| We'll be careful | 5.00% | ~15,055 |
-| Pride is a sin, young Knight | 5.00% | ~15,055 |
-| Bring it on! | 5.00% | ~15,055 |
-| Back to your senses | 3.00% | ~9,033 |
-| They tricked me | 3.00% | ~9,033 |
-| They won't last long | 3.00% | ~9,033 |
-| We need to talk | 2.00% | ~6,022 |
-| I feel drawn to it | 2.00% | ~6,022 |
-| I took a risk | 2.00% | ~6,022 |
+| The touch of Chaos | 38.00% | ~114,431 |
+| May the Torchbearer light our way | 36.00% | ~108,408 |
+| A powerful aura was here | 24.00% | ~72,272 |
+| Let's raise the stakes!! | 11.00% | ~33,125 |
+| Rumors are true | 6.00% | ~18,068 |
+| Your wounds… They are healing so fast! | 6.00% | ~18,068 |
+| We'll be careful | 5.00% | ~15,057 |
+| Pride is a sin, young Knight | 5.00% | ~15,057 |
+| Bring it on! | 5.00% | ~15,057 |
+| Back to your senses | 3.00% | ~9,034 |
+| They tricked me | 3.00% | ~9,034 |
+| They won't last long | 3.00% | ~9,034 |
+| We need to talk | 2.00% | ~6,023 |
+| I feel drawn to it | 2.00% | ~6,023 |
+| I took a risk | 2.00% | ~6,023 |
 | Here to stay | 1.00% | ~3,011 |
 | Counting on you | 1.00% | ~3,011 |
 | This is the end | 1.00% | ~3,011 |
 | We can choose to fight | 1.00% | ~3,011 |
 | Their fate is sealed | 1.00% | ~3,011 |
 | Not even from this world | 0.80% | ~2,409 |
-| You want more? I've got more! | 0.50% | ~1,505 |
-| No damsels in distress | 0.40% | ~1,204 |
+| You want more? I've got more! | 0.50% | ~1,506 |
+| No damsels in distress | 0.40% | ~1,205 |
 | The Ashen Knight | 0.30% | ~903 |
 | The Shade | 0.20% | ~602 |
 | Through the Veil | 0.20% | ~602 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 911)
 | We strike as one | 0.10% | ~301 |
 | Chaos be damned! | 0.10% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,096 (Ranked 49)  
+Progressed: 301,133 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 297,965 | 1 |
 | 2023-11-02 | 299,191 | 1 |
 | 2023-11-03 | 300,744 | 1 |
-| 2023-11-04 | 301,096 | 1 |
+| 2023-11-04 | 301,133 | 1 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 429)  
 Sum: 49 (Ranked 479)  

@@ -3,12 +3,12 @@
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
   "Ranking_Rating": 364,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554,
+  "EOS_Progressed": 1555,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3334,6 +3334,11 @@
       "Time": "2023-11-04T02:30:52.2476096+00:00",
       "NumProgressed": 1554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T07:03:50.7433462+00:00",
+      "NumProgressed": 1555,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3369,7 +3374,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Boy",
@@ -3457,7 +3462,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "Hard_Serpent",
@@ -3497,7 +3502,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "KillAllM2",
@@ -3535,9 +3540,9 @@
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 544
     },
     {
       "ID": "Scout",
@@ -3584,15 +3589,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1554,
+      "Progressed": 1555,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:03:46.8798675+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:03:50.7433458+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:00:49.2034774+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:03:46.8799181+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:00:10.6897198+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:03:50.7433767+00:00"
 }

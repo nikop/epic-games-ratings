@@ -9,7 +9,7 @@
 | Ooh, it's shiny! | 55.00% | ~34 |
 | My lost nightingale | 45.00% | ~28 |
 | Through the woods | 42.00% | ~26 |
-| Fussy eater | 37.00% | ~23 |
+| Fussy eater | 39.00% | ~24 |
 | Back to the anvil | 37.00% | ~23 |
 | So soothing... | 37.00% | ~23 |
 | Kekekeke... | 37.00% | ~23 |

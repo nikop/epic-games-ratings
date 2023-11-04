@@ -32,9 +32,9 @@
 | Event Amateur | 19.00% | ~76 |
 | Feeling Hot Hot Hot! | 17.00% | ~68 |
 | Feeling Dizzy? | 17.00% | ~68 |
+| Ferry Good! | 17.00% | ~68 |
 | Assert Dominance | 17.00% | ~68 |
 | Drift King! | 16.00% | ~64 |
-| Ferry Good! | 16.00% | ~64 |
 | Speed of light | 16.00% | ~64 |
 | Out of this League | 13.00% | ~52 |
 | Special Forces | 12.00% | ~48 |

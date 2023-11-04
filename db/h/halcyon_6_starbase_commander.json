@@ -3,12 +3,12 @@
   "Name": "Halcyon 6 Starbase Commander",
   "ProductSlug": "halcyon-6",
   "Ranking_Rating": 633,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-02-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -406,6 +406,6 @@
   "FirstSeen": "2022-07-22T20:18:35.8946593+00:00",
   "LastChanged": "2023-11-03T17:59:07.1750601+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:19.9713981+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:32.9225947+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:06:40.4943929+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:10.8215923+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:06:17.0600968+00:00"
 }

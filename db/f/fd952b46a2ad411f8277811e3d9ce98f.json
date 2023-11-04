@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 7,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 233731,
+  "EOS_Progressed": 234156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26399,
+  "EOS_NewPlayers": 26786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7247,6 +7247,11 @@
       "Time": "2023-11-04T06:08:08.7863342+00:00",
       "NumProgressed": 233731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T07:08:18.2433148+00:00",
+      "NumProgressed": 234156,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -7355,7 +7360,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 133227
+      "UsersEstimate": 133469
     },
     {
       "ID": "kills_100",
@@ -7363,7 +7368,7 @@
       "Name": "Rookie Riot",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2342
     },
     {
       "ID": "kills_1000",
@@ -7411,7 +7416,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 25710
+      "UsersEstimate": 25757
     },
     {
       "ID": "revives_25",
@@ -7506,13 +7511,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 233731,
+      "Progressed": 234156,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:08:08.7863335+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:08:18.2433143+00:00",
   "LastUpdate_AppInfo": "2023-11-01T15:57:00.3323398+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:00:13.5940059+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:08:08.786422+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:42.4050468+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:08:18.2433691+00:00"
 }

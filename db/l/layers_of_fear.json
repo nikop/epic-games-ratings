@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "do_what_you_have_to",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:05:05.036269+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:04:56.721017+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.3423398+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:03:02.6305321+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:05:05.0363759+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:03:13.0171429+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:04:56.721051+00:00"
 }

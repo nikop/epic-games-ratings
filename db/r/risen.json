@@ -3,12 +3,12 @@
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
   "Ranking_Rating": 466,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -49,7 +49,7 @@
   "Tags": [],
   "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:08:25.5499238+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:08:32.693805+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:17.8152415+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:50.7390992+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:08:25.5499893+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:25.1936511+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:08:32.6938422+00:00"
 }

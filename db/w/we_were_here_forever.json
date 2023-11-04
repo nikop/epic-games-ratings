@@ -3,12 +3,12 @@
   "Name": "We Were Here Forever",
   "ProductSlug": "we-were-here-forever",
   "Ranking_Rating": 250,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-10T11:00:00+00:00",
     "PcReleaseDate": "2022-05-10T11:00:00+00:00",
@@ -329,6 +329,6 @@
   "FirstSeen": "2022-07-22T20:17:15.5524229+00:00",
   "LastChanged": "2023-10-23T19:01:06.8311087+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:38.703448+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:01:01.3166907+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:08:37.5368244+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:00:20.2516306+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:08:42.5330814+00:00"
 }

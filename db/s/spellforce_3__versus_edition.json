@@ -3,12 +3,12 @@
   "Name": "SpellForce 3: Versus Edition",
   "ProductSlug": "spellforce-3-versus",
   "Ranking_Rating": 1023,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-14T18:00:00+00:00",
     "PcReleaseDate": "2020-12-14T18:00:00+00:00",
@@ -339,6 +339,6 @@
   "FirstSeen": "2022-07-22T20:22:51.1807363+00:00",
   "LastChanged": "2023-10-20T23:00:37.2279261+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:47.0870501+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:00:09.8647192+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:06:38.6833218+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:59:39.3755398+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:06:15.3672142+00:00"
 }

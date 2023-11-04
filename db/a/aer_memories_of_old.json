@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 642,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 545,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,7 +413,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23381,
+  "EOS_Progressed": 23382,
   "EOS_Completed": 448,
   "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 3,
@@ -21663,6 +21663,11 @@
       "Time": "2023-11-04T06:05:44.0916206+00:00",
       "NumProgressed": 23381,
       "NumCompleted": 448
+    },
+    {
+      "Time": "2023-11-04T07:05:29.4776897+00:00",
+      "NumProgressed": 23382,
+      "NumCompleted": 448
     }
   ],
   "TotalAchievements": 20,
@@ -21794,7 +21799,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18003
+      "UsersEstimate": 18004
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -21833,15 +21838,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23381,
+      "Progressed": 23382,
       "Completed": 448
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:05:44.0916198+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:05:29.4776893+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:26.9884374+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:02:56.5592264+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:05:44.0917847+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:03:08.0059849+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:05:29.4777992+00:00"
 }

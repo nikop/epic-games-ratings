@@ -4829,7 +4829,7 @@
   ],
   "EOS_Progressed": 6812,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -9811,9 +9811,9 @@
       "ID": "achievement_a12",
       "SetID": "3m4b0pk",
       "Name": "Into the Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3270
     },
     {
       "ID": "achievement_a13",
@@ -10220,8 +10220,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-03T22:16:31.6547527+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:04:25.5128141+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:04:23.456592+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:39.6849006+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:00:54.5690532+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:04:25.5128933+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:00:15.0579053+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:04:23.4566538+00:00"
 }

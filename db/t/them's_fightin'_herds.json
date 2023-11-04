@@ -3,12 +3,12 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 346,
-  "Ranking_Popularity": 514,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 515,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231858,
+  "EOS_Progressed": 231860,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20516,6 +20516,11 @@
       "Time": "2023-11-04T05:06:16.4527156+00:00",
       "NumProgressed": 231858,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T07:06:36.7478116+00:00",
+      "NumProgressed": 231860,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20591,7 +20596,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83469
+      "UsersEstimate": 83470
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -20750,7 +20755,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231858,
+      "Progressed": 231860,
       "Completed": 5
     }
   ],
@@ -20758,8 +20763,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:07:03.4088024+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:06:36.7478114+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.2502965+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:58:41.5897337+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:07:03.4089709+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:58:30.1521387+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:06:36.7479207+00:00"
 }

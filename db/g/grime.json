@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1363,9 +1363,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156413,
+  "EOS_Progressed": 156420,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1356,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14293,6 +14293,11 @@
       "Time": "2023-11-04T06:07:07.9645248+00:00",
       "NumProgressed": 156413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T07:06:40.2622256+00:00",
+      "NumProgressed": 156420,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14328,7 +14333,7 @@
       "Name": "Assimilation",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -14352,7 +14357,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -14406,9 +14411,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1560
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -14446,9 +14451,9 @@
       "ID": "DEFEAT_JAWCRAB",
       "SetID": "ccc0dlh",
       "Name": "Jawcrab",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1564
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -14464,7 +14469,7 @@
       "Name": "Celebration",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -14576,7 +14581,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -14671,21 +14676,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155996,
+      "Progressed": 156003,
       "Completed": 1188
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156413,
+      "Progressed": 156420,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-04T03:58:34.9086303+00:00",
-  "LastChanged_Achievements": "2023-11-04T06:07:07.9645241+00:00",
+  "LastChanged_Achievements": "2023-11-04T07:06:40.2622253+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:59:14.3136014+00:00",
-  "LastUpdate_Achievements": "2023-11-04T06:07:07.9646444+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:58:56.1220802+00:00",
+  "LastUpdate_Achievements": "2023-11-04T07:06:40.2623142+00:00"
 }
