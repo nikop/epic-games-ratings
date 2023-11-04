@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.40% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.38% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.25% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -41,14 +41,14 @@
 | 39 | [Anna's Quest](games/a/anna's_quest.md) | 9.52% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
+| 42 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 43 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
 | 44 | [greensheen Production](games/g/greensheen_production.md) | 8.33% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.87% |
 | 46 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 46 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 46 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.69% |
-| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.67% |
+| 49 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.64% |
 | 50 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.50% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.29% |
@@ -65,11 +65,11 @@
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 64 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 65 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
-| 66 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 4.82% |
-| 67 | [Bugsnax](games/b/bugsnax.md) | 4.79% |
+| 66 | [Bugsnax](games/b/bugsnax.md) | 4.79% |
+| 67 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 4.76% |
 | 68 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 69 | [JARS](games/j/jars.md) | 4.65% |
-| 70 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.59% |
+| 70 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.58% |
 | 71 | [ZZT!](games/z/zzt!.md) | 4.57% |
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 73 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.48% |
@@ -153,12 +153,12 @@
 | 151 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 151 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 153 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
-| 154 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.02% |
-| 155 | [Sable](games/s/sable.md) | 1.01% |
+| 154 | [Sable](games/s/sable.md) | 1.01% |
+| 154 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.01% |
 | 156 | [Trifox](games/t/trifox.md) | 0.98% |
 | 157 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 157 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 157 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.95% |
+| 159 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.94% |
 | 160 | [The Devil's Face](games/t/the_devil's_face.md) | 0.92% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
 | 161 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.91% |
