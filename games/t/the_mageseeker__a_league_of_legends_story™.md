@@ -38,9 +38,9 @@ Rating: 4.82 (Ranked 63)
 | Terbisia | 18.00% | ~472 |
 | Whispers in the Woods III | 17.00% | ~445 |
 | Friendly fire | 17.00% | ~445 |
+| True power | 17.00% | ~445 |
 | The Central Headquarters | 17.00% | ~445 |
 | My heart and sword always for Demacia | 16.00% | ~419 |
-| True power | 16.00% | ~419 |
 | Meltridge | 16.00% | ~419 |
 | Cloven Dell Headquarters | 16.00% | ~419 |
 | I smell fear | 14.00% | ~367 |

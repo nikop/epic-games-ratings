@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | Getting somewhere | 64.00% | ~32 |
 | Poor things... | 60.00% | ~30 |
-| So far so good... | 48.00% | ~24 |
-| Slay it! | 36.00% | ~18 |
+| So far so good... | 50.00% | ~25 |
+| Slay it! | 38.00% | ~19 |
 | Top notch! | 36.00% | ~18 |
-| Bling bling! | 26.00% | ~13 |
+| Bling bling! | 28.00% | ~14 |
 | Slaughter | 22.00% | ~11 |
 | Still alive! | 20.00% | ~10 |
 | Lives lost | 20.00% | ~10 |
 | Slay that one too! | 14.00% | ~7 |
+| You monster! | 10.00% | ~5 |
 | Massive slaughter | 10.00% | ~5 |
 | ... And that one! | 8.00% | ~4 |
-| You monster! | 8.00% | ~4 |
 | Endurance test! | 4.00% | ~2 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

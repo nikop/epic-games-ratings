@@ -2,7 +2,7 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 80,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.17,
+  "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -564,6 +564,11 @@
       "Time": "2023-11-04T05:09:08.519635+00:00",
       "NumProgressed": 126,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T06:09:06.7990399+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -576,7 +581,7 @@
       "Name": "Kaboom!",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -584,7 +589,7 @@
       "Name": "Laser Beam",
       "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -608,7 +613,7 @@
       "Name": "Murderer",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -616,7 +621,7 @@
       "Name": "Killer",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -632,7 +637,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -648,7 +653,7 @@
       "Name": "Fairfort is safe!",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -656,15 +661,15 @@
       "Name": "Northbarrow is safe!",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -688,7 +693,7 @@
       "Name": "Powerful",
       "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -711,14 +716,14 @@
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:09:08.5196345+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:09:06.7990394+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T04:58:00.3464994+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:09:08.5196524+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:58:18.7219302+00:00",
+  "LastUpdate_Achievements": "2023-11-04T06:09:06.799074+00:00"
 }

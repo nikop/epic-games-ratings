@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4007,
+  "EOS_Progressed": 4009,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1303,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1958,6 +1958,11 @@
       "Time": "2023-11-04T05:08:53.579745+00:00",
       "NumProgressed": 4007,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T06:08:49.0189011+00:00",
+      "NumProgressed": 4009,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2042,7 +2047,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2170,7 +2175,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ThisIsDharma",
@@ -2178,7 +2183,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -2210,7 +2215,7 @@
       "Name": "Digestive Issues",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2241,7 +2246,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4007,
+      "Progressed": 4009,
       "Completed": 3
     }
   ],
@@ -2249,8 +2254,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:08:53.579737+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:08:49.0189005+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-04T04:57:40.6470608+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:08:53.5798593+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:57:53.8311697+00:00",
+  "LastUpdate_Achievements": "2023-11-04T06:08:49.0189489+00:00"
 }

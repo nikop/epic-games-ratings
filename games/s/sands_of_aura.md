@@ -7,14 +7,14 @@
 | Setting Sail | 83.00% | ~44 |
 | A Small Thirsty Thing | 17.00% | ~9 |
 | Spirit Within | 13.00% | ~7 |
+| Dousing a Venerable Flame | 9.00% | ~5 |
 | Rain Must Fall | 8.00% | ~4 |
-| Dousing a Venerable Flame | 8.00% | ~4 |
 | Leisis Bless You | 8.00% | ~4 |
 | Advanced Armaments | 8.00% | ~4 |
+| The Guardian of Fire | 6.00% | ~3 |
 | A Sandwyrm's Hoard | 6.00% | ~3 |
 | Let Me Solo Them | 4.00% | ~2 |
 | Frigid Winds | 4.00% | ~2 |
-| The Guardian of Fire | 4.00% | ~2 |
 | Sovereignty of Irons | 4.00% | ~2 |
 | Twin Thorns | 4.00% | ~2 |
 | Overboard | 2.00% | ~1 |

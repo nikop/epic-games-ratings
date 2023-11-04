@@ -7,6 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.70% | ~178 |
+| Life is your teacher | 0.50% | ~3,581 |
 | Project Arena | 0.50% | ~127 |
 | The Old Grandmaster | 0.40% | ~2,865 |
 | The Assault | 0.40% | ~2,865 |
@@ -17,7 +18,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.40% | ~2,865 |
 | Stuntmaster | 0.40% | ~2,865 |
 | Street Fighting | 0.40% | ~2,865 |
-| Life is your teacher | 0.40% | ~2,865 |
 | State of constant learning | 0.40% | ~2,865 |
 | Qi Gong: Breath | 0.40% | ~2,865 |
 | Qi Gong: Essence | 0.40% | ~2,865 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,159 (Ranked 20)  
+Progressed: 716,160 (Ranked 20)  
 Completed: 12,931 (1.81%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 12,931 (1.81%) (Ranked 123)
 | 2023-11-01 | 716,098 | 12,928 |
 | 2023-11-02 | 716,120 | 12,930 |
 | 2023-11-03 | 716,149 | 12,930 |
-| 2023-11-04 | 716,159 | 12,931 |
+| 2023-11-04 | 716,160 | 12,931 |
 ## Awards
 Max (Great Boss Battles): 6,756  (Ranked 56)  
 Sum: 11,790 (Ranked 82)  

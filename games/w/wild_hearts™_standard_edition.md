@@ -21,7 +21,7 @@
 | Helpful Heart | 54.00% | ~119 |
 | Bonds of Enmity | 53.00% | ~117 |
 | Flawless Crystal | 52.00% | ~114 |
-| Counter Specialist | 50.00% | ~110 |
+| Counter Specialist | 51.00% | ~112 |
 | Axer of Auspice | 46.00% | ~101 |
 | Fair Means or Foul | 44.00% | ~97 |
 | Single Minded | 42.00% | ~92 |
@@ -30,14 +30,14 @@
 | Karakuri Trail | 40.00% | ~88 |
 | Kemono at Heart | 38.00% | ~84 |
 | Team Hunter | 35.00% | ~77 |
-| Artful Assister | 34.00% | ~75 |
-| Reincarnation Cycle Stopper | 33.00% | ~73 |
+| Artful Assister | 35.00% | ~77 |
+| Reincarnation Cycle Stopper | 34.00% | ~75 |
 | Karakuri Isle | 32.00% | ~70 |
 | Left Arm Leverager | 30.00% | ~66 |
 | Canyon of Karakuri | 28.00% | ~62 |
+| Human Believer | 28.00% | ~62 |
+| Unrivaled in Arms | 28.00% | ~62 |
 | Style Seeker | 27.00% | ~59 |
-| Human Believer | 27.00% | ~59 |
-| Unrivaled in Arms | 27.00% | ~59 |
 | Karakuri Minato | 27.00% | ~59 |
 | Threaded Harmony | 25.00% | ~55 |
 | Karakuri Fortress | 24.00% | ~53 |

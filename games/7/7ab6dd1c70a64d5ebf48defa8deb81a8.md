@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 44.00% | ~43 |
-| Trinity | 22.00% | ~21 |
+| Trinity | 21.00% | ~21 |
 | Find Allies | 16.00% | ~16 |
 | A Taste of Wrath | 16.00% | ~16 |
+| Adventurer | 16.00% | ~16 |
 | I Found It | 16.00% | ~16 |
 | The Collector | 16.00% | ~16 |
 | Powerful Allies | 15.00% | ~15 |
-| Adventurer | 15.00% | ~15 |
 | Shatter Them All | 15.00% | ~15 |
 | Fashion Victim | 15.00% | ~15 |
 | Scholar | 15.00% | ~15 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 412)  
-Completed: 1 (1.03%) (Ranked 154)  
+Progressed: 98 (Ranked 411)  
+Completed: 1 (1.02%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,4 +69,4 @@ Completed: 1 (1.03%) (Ranked 154)
 | 2023-11-01 | 55 | 1 |
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
-| 2023-11-04 | 97 | 1 |
+| 2023-11-04 | 98 | 1 |

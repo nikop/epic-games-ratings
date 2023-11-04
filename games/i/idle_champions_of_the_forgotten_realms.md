@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Beginning is the End | 0.90% | ~1,799 |
+| Tomb of Champions | 0.40% | ~800 |
 | The End is the Beginning | 0.40% | ~800 |
-| Tomb of Champions | 0.30% | ~600 |
 | See You on the Flipside | 0.20% | ~400 |
 | A Brief Tour of the Realms | 0.10% | ~234 |
 | Maddening | 0.10% | ~234 |
@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Blast the Brigands | 0.10% | ~200 |
 | Don't Squeeze the Spiders | 0.10% | ~200 |
 | The Spire of Iriolarthas | 0.10% | ~200 |
+| Always Watching | 0.10% | ~200 |
 | The Fall of Ythryn | 0.10% | ~200 |
 | Icequake | 0.10% | ~200 |
 | A Lesson in Classes | 0.10% | ~200 |
@@ -536,10 +537,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~200 |
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
-| Always Watching | 0.00% | ~0 |
 | The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,602 (Ranked 62)  
+Progressed: 233,603 (Ranked 63)  
 Completed: 2,426 (1.04%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -737,7 +737,7 @@ Completed: 2,426 (1.04%) (Ranked 152)
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
 | 2023-11-03 | 233,584 | 2,426 |
-| 2023-11-04 | 233,602 | 2,426 |
+| 2023-11-04 | 233,603 | 2,426 |
 ## Awards
 Max (Great for Beginners): 5,474  (Ranked 69)  
 Sum: 32,330 (Ranked 41)  

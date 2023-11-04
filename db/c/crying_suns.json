@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470245,
+  "EOS_Progressed": 470246,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21312,6 +21312,11 @@
       "Time": "2023-11-04T05:09:28.1715834+00:00",
       "NumProgressed": 470245,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-04T06:09:31.0790192+00:00",
+      "NumProgressed": 470246,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21363,7 +21368,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47024
+      "UsersEstimate": 47025
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -21443,7 +21448,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117561
+      "UsersEstimate": 117562
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -21507,7 +21512,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159883
+      "UsersEstimate": 159884
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21954,21 +21959,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14179,
+      "Progressed": 14180,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470245,
+      "Progressed": 470246,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:09:28.1715827+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:09:31.0790187+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
   "LastUpdate_Ratings": "2023-11-04T05:00:20.4373854+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:09:28.1719657+00:00"
+  "LastUpdate_Achievements": "2023-11-04T06:09:31.0792301+00:00"
 }

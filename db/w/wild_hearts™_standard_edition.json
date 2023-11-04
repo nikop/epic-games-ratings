@@ -1118,9 +1118,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_2",
@@ -1246,9 +1246,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_34",
@@ -1262,9 +1262,9 @@
       "ID": "achievement_35",
       "SetID": "2cpn27e",
       "Name": "Unrivaled in Arms",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_36",
@@ -1342,9 +1342,9 @@
       "ID": "achievement_44",
       "SetID": "2cpn27e",
       "Name": "Artful Assister",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_45",
@@ -1382,9 +1382,9 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_6",
@@ -1428,8 +1428,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:05:16.8285611+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:05:51.4757013+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-11-04T04:58:45.4874001+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:05:16.8286193+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:59:15.1842891+00:00",
+  "LastUpdate_Achievements": "2023-11-04T06:05:51.4757514+00:00"
 }

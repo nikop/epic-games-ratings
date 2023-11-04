@@ -52,12 +52,12 @@
 | A Personal Touch | 33.00% | ~314 |
 | Ghost of the Father | 33.00% | ~314 |
 | The Cure | 33.00% | ~314 |
+| Shopaholic | 33.00% | ~314 |
 | Battlemaster | 32.00% | ~305 |
 | Catharsis | 32.00% | ~305 |
 | Big Game Hunter | 32.00% | ~305 |
 | Revenge! | 32.00% | ~305 |
 | Heart of Darkness | 32.00% | ~305 |
-| Shopaholic | 32.00% | ~305 |
 | Archivist | 31.00% | ~295 |
 | Fade Away | 31.00% | ~295 |
 | Agent | 31.00% | ~295 |

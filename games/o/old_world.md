@@ -179,6 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
+| Get the Hellas Out | 0.20% | ~30 |
 | The Turning Point | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
 | Like a Lion | 0.20% | ~30 |
@@ -233,7 +234,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.10% | ~15 |
 | That Also Works | 0.10% | ~15 |
 | Defend Where? | 0.10% | ~15 |
-| Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
 | Still Fighting | 0.10% | ~15 |
 | They Shall Not Pass | 0.10% | ~15 |

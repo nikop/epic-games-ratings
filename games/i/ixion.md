@@ -18,9 +18,9 @@ Rating: 4.57 (Ranked 466)
 | Guy de Borderlands | 13.00% | ~426 |
 | Ain't Nobody Got Time for That | 13.00% | ~426 |
 | Hope Seeker | 12.00% | ~393 |
+| A Hunk of Junk | 11.00% | ~360 |
 | Exceeding Capacity | 11.00% | ~360 |
 | Breaking Protocol | 11.00% | ~360 |
-| A Hunk of Junk | 10.00% | ~328 |
 | Man's Best Friend | 8.00% | ~262 |
 | Power Outage | 8.00% | ~262 |
 | Please Make it Stop! | 8.00% | ~262 |

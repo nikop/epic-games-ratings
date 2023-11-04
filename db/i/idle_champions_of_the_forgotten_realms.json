@@ -5,7 +5,7 @@
   "Ranking_Rating": 969,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 62,
+  "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 7,
@@ -7807,9 +7807,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233602,
+  "EOS_Progressed": 233603,
   "EOS_Completed": 2426,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29902,6 +29902,11 @@
       "Time": "2023-11-04T05:04:01.2622422+00:00",
       "NumProgressed": 233602,
       "NumCompleted": 2426
+    },
+    {
+      "Time": "2023-11-04T06:04:20.3772403+00:00",
+      "NumProgressed": 233603,
+      "NumCompleted": 2426
     }
   ],
   "TotalAchievements": 532,
@@ -30119,9 +30124,9 @@
       "ID": "objective_completed_1071",
       "SetID": "415jc5c",
       "Name": "Always Watching",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_1075",
@@ -34143,9 +34148,9 @@
       "ID": "objective_completed_1548",
       "SetID": "415jc5c",
       "Name": "Tomb of Champions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 800
     },
     {
       "ID": "objective_completed_1552",
@@ -34168,21 +34173,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199876,
+      "Progressed": 199877,
       "Completed": 3862
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233602,
+      "Progressed": 233603,
       "Completed": 2426
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-04T02:59:59.8198822+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:04:01.2622416+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:04:20.3772397+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-04T04:59:11.8090665+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:04:01.2656214+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:59:41.9553392+00:00",
+  "LastUpdate_Achievements": "2023-11-04T06:04:20.3807082+00:00"
 }

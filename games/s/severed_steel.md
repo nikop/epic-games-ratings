@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~204,444 |
-| 50 HEADSHOTS | 28.00% | ~190,814 |
-| SCIENCE AND INDUSTRY | 27.00% | ~183,999 |
-| FINISHED CHAPTER 1 | 26.00% | ~177,185 |
-| FINISHED CHAPTER 2 | 19.00% | ~129,481 |
-| 200 HEADSHOTS | 17.00% | ~115,851 |
-| FINISHED CHAPTER 3 | 16.00% | ~109,037 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,407 |
-| FINISH CHAPTER 5 | 12.00% | ~81,777 |
-| FINISH CHAPTER 6 | 10.00% | ~68,148 |
-| CATHARTIC ESCAPISM | 10.00% | ~68,148 |
-| 1000 KILLS | 9.00% | ~61,333 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,259 |
+| 100 KILLS | 30.00% | ~204,449 |
+| 50 HEADSHOTS | 28.00% | ~190,819 |
+| SCIENCE AND INDUSTRY | 27.00% | ~184,004 |
+| FINISHED CHAPTER 1 | 26.00% | ~177,189 |
+| FINISHED CHAPTER 2 | 19.00% | ~129,485 |
+| 200 HEADSHOTS | 17.00% | ~115,855 |
+| FINISHED CHAPTER 3 | 16.00% | ~109,040 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,410 |
+| FINISH CHAPTER 5 | 12.00% | ~81,780 |
+| FINISH CHAPTER 6 | 10.00% | ~68,150 |
+| CATHARTIC ESCAPISM | 10.00% | ~68,150 |
+| 1000 KILLS | 9.00% | ~61,335 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,260 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,630 |
 | FIRST BLOOD | 2.00% | ~13,630 |
 | PACEMAKER | 1.00% | ~6,815 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 229)
 | THE GAMBLER | 0.10% | ~681 |
 | WARRIOR IN A GARDEN | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681,479 (Ranked 24)  
+Progressed: 681,498 (Ranked 24)  
 Completed: 81 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 81 (0.01%) (Ranked 319)
 | 2023-11-01 | 680,648 | 81 |
 | 2023-11-02 | 680,965 | 81 |
 | 2023-11-03 | 681,368 | 81 |
-| 2023-11-04 | 681,479 | 81 |
+| 2023-11-04 | 681,498 | 81 |
 ## Awards
 Max (Great Boss Battles): 381  (Ranked 227)  
 Sum: 381 (Ranked 339)  

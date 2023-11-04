@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-third-power-682886",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.42,
+  "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -179,6 +179,11 @@
       "Time": "2023-11-03T17:06:02.523318+00:00",
       "NumProgressed": 146,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T06:05:18.4939852+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 21,
@@ -244,9 +249,9 @@
       "ID": "Feast",
       "SetID": "4nce15l",
       "Name": "Feast",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "Geared",
@@ -260,9 +265,9 @@
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "MasterCrafter",
@@ -294,13 +299,13 @@
       "Name": "Opulent",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 118
     },
@@ -326,7 +331,7 @@
       "Name": "Side Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Sparkly",
@@ -348,16 +353,16 @@
       "ID": "Teamwork",
       "SetID": "4nce15l",
       "Name": "Teamwork",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 5
     }
   ],
@@ -365,8 +370,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:04:50.0674768+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:05:18.4939842+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:19.3742234+00:00",
-  "LastUpdate_Ratings": "2023-11-04T04:58:56.8999653+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:04:50.0674954+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:59:29.846617+00:00",
+  "LastUpdate_Achievements": "2023-11-04T06:05:18.4940034+00:00"
 }

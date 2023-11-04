@@ -10,7 +10,7 @@ Rating: 4.46 (Ranked 642)
 | The Kraken Wakes | 37.00% | ~1,414 |
 | It's Starting to Crack | 34.00% | ~1,299 |
 | Change the Channel | 31.00% | ~1,185 |
-| Lord of War | 30.00% | ~1,146 |
+| Lord of War | 30.00% | ~1,147 |
 | Taking it back | 29.00% | ~1,108 |
 | Resourceful | 27.00% | ~1,032 |
 | Target America | 27.00% | ~1,032 |
@@ -23,8 +23,8 @@ Rating: 4.46 (Ranked 642)
 | Gunslinger | 18.00% | ~688 |
 | Just a Flesh Wound | 17.00% | ~650 |
 | Der Geist | 17.00% | ~650 |
-| Climbing the Ladder | 16.00% | ~611 |
-| Close Quarters | 16.00% | ~611 |
+| Climbing the Ladder | 16.00% | ~612 |
+| Close Quarters | 16.00% | ~612 |
 | Snake in the Grass | 15.00% | ~573 |
 | Brains of the Operation | 15.00% | ~573 |
 | No Stone Unturned | 14.00% | ~535 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 642)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,821 (Ranked 189)  
+Progressed: 3,822 (Ranked 189)  
 Completed: 11 (0.29%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 11 (0.29%) (Ranked 225)
 | 2023-11-01 | 3,805 | 11 |
 | 2023-11-02 | 3,813 | 11 |
 | 2023-11-03 | 3,818 | 11 |
-| 2023-11-04 | 3,821 | 11 |
+| 2023-11-04 | 3,822 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 525)  
 Sum: 23 (Ranked 527)  

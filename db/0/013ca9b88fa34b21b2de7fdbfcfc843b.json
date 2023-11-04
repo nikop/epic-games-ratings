@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7508,
+  "EOS_Progressed": 7509,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -6044,6 +6044,11 @@
       "Time": "2023-11-04T05:09:05.7652051+00:00",
       "NumProgressed": 7508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T06:09:03.4788459+00:00",
+      "NumProgressed": 7509,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6088,7 +6093,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6152,15 +6157,15 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3679
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6192,7 +6197,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6200,7 +6205,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -6216,7 +6221,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6280,7 +6285,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -6288,7 +6293,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -6335,22 +6340,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7508,
+      "Progressed": 7509,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 125,
-      "Completed": 125
+      "Progressed": 126,
+      "Completed": 126
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-04T05:09:05.7652045+00:00",
+  "LastChanged_Achievements": "2023-11-04T06:09:03.4788452+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-04T05:00:16.2362884+00:00",
-  "LastUpdate_Achievements": "2023-11-04T05:09:05.7653129+00:00"
+  "LastUpdate_Ratings": "2023-11-04T06:01:01.8354101+00:00",
+  "LastUpdate_Achievements": "2023-11-04T06:09:03.4789337+00:00"
 }
