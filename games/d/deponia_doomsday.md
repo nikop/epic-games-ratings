@@ -15,8 +15,8 @@ Rating: 4.55 (Ranked 499)
 | Shall we play a game? | 49.00% | ~221 |
 | Boat of love, boat of love | 49.00% | ~221 |
 | School's out | 44.00% | ~198 |
+| Elysian Minigame-Master | 38.00% | ~171 |
 | Scaffolding Expert | 37.00% | ~167 |
-| Elysian Minigame-Master | 37.00% | ~167 |
 | Sole Music | 35.00% | ~158 |
 | No man left behind! | 30.00% | ~135 |
 | Portals come in packs | 30.00% | ~135 |

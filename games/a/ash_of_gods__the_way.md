@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 106.00% | ~19 |
-| Suicide squad | 56.00% | ~10 |
-| First blood | 28.00% | ~5 |
-| Train hard, fight easy | 22.00% | ~4 |
-| Royal blessing | 22.00% | ~4 |
-| Under cover | 22.00% | ~4 |
-| Surpass the teacher | 17.00% | ~3 |
-| All for one! | 17.00% | ~3 |
-| By own strength | 17.00% | ~3 |
-| A hidden snake | 17.00% | ~3 |
-| Blood and sand | 17.00% | ~3 |
+| First success | 100.00% | ~19 |
+| Suicide squad | 53.00% | ~10 |
+| First blood | 26.00% | ~5 |
+| Train hard, fight easy | 21.00% | ~4 |
+| Royal blessing | 21.00% | ~4 |
+| Under cover | 21.00% | ~4 |
+| Surpass the teacher | 16.00% | ~3 |
+| All for one! | 16.00% | ~3 |
+| By own strength | 16.00% | ~3 |
+| A hidden snake | 16.00% | ~3 |
+| Blood and sand | 16.00% | ~3 |
 | Crimson rivers | 11.00% | ~2 |
 | Overplay the rogue | 11.00% | ~2 |
 | Berkanan Borgia | 11.00% | ~2 |
@@ -28,18 +28,18 @@
 | Help of the Gell | 11.00% | ~2 |
 | Trial by cold | 11.00% | ~2 |
 | She-Wolf | 11.00% | ~2 |
-| For the greater good | 6.00% | ~1 |
-| Collector | 6.00% | ~1 |
-| The best apprentice | 6.00% | ~1 |
-| Stronger than Gellian steel | 6.00% | ~1 |
-| First among Frisians | 6.00% | ~1 |
-| Rage | 6.00% | ~1 |
-| The power of persuasion | 6.00% | ~1 |
-| Deadly strike | 6.00% | ~1 |
-| Do it yourself | 6.00% | ~1 |
-| All's fair in love and war | 6.00% | ~1 |
-| The End | 6.00% | ~1 |
-| Nothing is settled | 6.00% | ~1 |
+| For the greater good | 5.00% | ~1 |
+| Collector | 5.00% | ~1 |
+| The best apprentice | 5.00% | ~1 |
+| Stronger than Gellian steel | 5.00% | ~1 |
+| First among Frisians | 5.00% | ~1 |
+| Rage | 5.00% | ~1 |
+| The power of persuasion | 5.00% | ~1 |
+| Deadly strike | 5.00% | ~1 |
+| Do it yourself | 5.00% | ~1 |
+| All's fair in love and war | 5.00% | ~1 |
+| The End | 5.00% | ~1 |
+| Nothing is settled | 5.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 528)  
+Progressed: 19 (Ranked 527)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 11 | 0 |
 | 2023-11-02 | 12 | 0 |
 | 2023-11-03 | 15 | 0 |
-| 2023-11-04 | 18 | 0 |
+| 2023-11-04 | 19 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

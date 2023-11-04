@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,805 |
-| Advancement | 5.00% | ~1,504 |
-| Meticulously Efficient | 5.00% | ~1,504 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,203 |
-| Discovery | 4.00% | ~1,203 |
-| Fully Upgraded | 4.00% | ~1,203 |
-| Solo Capture | 4.00% | ~1,203 |
-| Swift Rift Removers | 4.00% | ~1,203 |
-| Clutch Capture | 3.00% | ~902 |
-| Cultured | 3.00% | ~902 |
-| Teamwork | 3.00% | ~902 |
-| There you are! | 3.00% | ~902 |
-| Vaporous Expansion | 3.00% | ~902 |
-| Whoopsie | 3.00% | ~902 |
+| Stylish | 6.00% | ~1,806 |
+| Advancement | 5.00% | ~1,505 |
+| Meticulously Efficient | 5.00% | ~1,505 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,204 |
+| Discovery | 4.00% | ~1,204 |
+| Fully Upgraded | 4.00% | ~1,204 |
+| Solo Capture | 4.00% | ~1,204 |
+| Swift Rift Removers | 4.00% | ~1,204 |
+| Clutch Capture | 3.00% | ~903 |
+| Cultured | 3.00% | ~903 |
+| Teamwork | 3.00% | ~903 |
+| There you are! | 3.00% | ~903 |
+| Vaporous Expansion | 3.00% | ~903 |
+| Whoopsie | 3.00% | ~903 |
 | Animated | 2.00% | ~602 |
 | Back Off | 2.00% | ~602 |
 | We have the best insurance | 2.00% | ~602 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 582)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,077 (Ranked 122)  
+Progressed: 30,099 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,23 +255,23 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
-| 2023-11-04 | 30,077 | 65 |
+| 2023-11-04 | 30,099 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
-Sum: 2,684 (Ranked 180)  
+Sum: 2,689 (Ranked 180)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 302 |
 | This game is Great for Quick Sessions | 294 |
 | This game has Diverse Characters | 273 |
-| This game has Amazing Storytelling | 270 |
+| This game has Amazing Storytelling | 273 |
 | This game is Highly Recommended | 270 |
 | This game has Competitive Players | 263 |
 | This game is Extremely Fun | 261 |
 | This game is Relaxing | 260 |
 | This game has Quickly Understood Controls | 248 |
-| This game has Amazing Characters | 243 |
+| This game has Amazing Characters | 245 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -478,4 +478,4 @@ Diff (max vs sum): 66
 | 2023-11-01 | 4.50 | 298 | 2,657 |
 | 2023-11-02 | 4.50 | 298 | 2,663 |
 | 2023-11-03 | 4.50 | 300 | 2,676 |
-| 2023-11-04 | 4.50 | 302 | 2,684 |
+| 2023-11-04 | 4.50 | 302 | 2,689 |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -784,6 +784,11 @@
       "Time": "2023-11-04T20:04:11.9175284+00:00",
       "NumProgressed": 152,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T21:15:18.612724+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -794,9 +799,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_10",
@@ -812,15 +817,15 @@
       "Name": "The Means to Save It",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_13",
@@ -828,7 +833,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_14",
@@ -884,7 +889,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_20",
@@ -938,9 +943,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 116
     },
     {
       "ID": "achievement_36",
@@ -972,7 +977,7 @@
       "Name": "No More Names",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_41",
@@ -1012,7 +1017,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_46",
@@ -1026,9 +1031,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_49",
@@ -1036,7 +1041,7 @@
       "Name": "Soldier",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_5",
@@ -1138,9 +1143,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_7",
@@ -1154,9 +1159,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_9",
@@ -1171,7 +1176,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 1
     }
   ],
@@ -1179,8 +1184,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-04T02:27:45.141984+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:04:11.9175279+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:15:18.6127233+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:00:03.5636598+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:04:11.9175644+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:03:40.6964166+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:15:18.6127613+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 428,
-  "EOS_Completed": 25,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 97,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.84,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 6.07,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1870,6 +1870,11 @@
       "Time": "2023-11-04T20:07:11.8754622+00:00",
       "NumProgressed": 428,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-04T21:18:36.4776049+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 25,
@@ -1911,9 +1916,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "META_HALF_LINK",
@@ -2039,9 +2044,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "PROGRESS_N2",
@@ -2055,9 +2060,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "PROGRESS_N4",
@@ -2081,13 +2086,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 428,
-      "Completed": 25
+      "Completed": 26
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:07:11.8754619+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:18:36.4776041+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:00:46.3716441+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:07:11.8754833+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:08:29.68545+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:18:36.4776284+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14633,
+  "EOS_Progressed": 14637,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10391,6 +10391,11 @@
       "Time": "2023-11-04T20:05:54.4817573+00:00",
       "NumProgressed": 14633,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-04T21:17:11.8205792+00:00",
+      "NumProgressed": 14637,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10577,9 +10582,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 293
     },
     {
       "ID": "30",
@@ -10673,31 +10678,31 @@
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14633,
+      "Progressed": 14637,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 587,
-      "Completed": 347
+      "Progressed": 591,
+      "Completed": 351
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:05:54.4817567+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:17:11.8205789+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:59:51.2445348+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:05:54.4818258+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:01:44.7646987+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:17:11.820648+00:00"
 }

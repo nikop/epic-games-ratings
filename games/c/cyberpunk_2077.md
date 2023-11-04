@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 1.00% | ~8,952 |
-| Gun Fu | 0.60% | ~5,371 |
-| Relic Ruler | 0.40% | ~95 |
+| V for Vendetta | 1.00% | ~8,953 |
+| Gun Fu | 0.60% | ~5,372 |
+| Relic Ruler | 0.40% | ~96 |
 | Full Body Conversion | 0.30% | ~2,686 |
 | True Soldier | 0.30% | ~2,686 |
-| Bushido and Chill | 0.20% | ~1,790 |
-| Right Back At Ya | 0.20% | ~1,790 |
-| Christmas Tree Attack | 0.20% | ~1,790 |
-| The Quick and the Dead | 0.20% | ~1,790 |
-| Life of the Road | 0.20% | ~1,790 |
-| Stanislavski's Method | 0.20% | ~1,790 |
-| The Hermit | 0.20% | ~1,790 |
-| The Lovers | 0.20% | ~1,790 |
-| The Wheel of Fortune | 0.20% | ~1,790 |
-| True Warrior | 0.20% | ~1,790 |
-| Legend of The Afterlife | 0.20% | ~1,790 |
+| Bushido and Chill | 0.20% | ~1,791 |
+| Right Back At Ya | 0.20% | ~1,791 |
+| Christmas Tree Attack | 0.20% | ~1,791 |
+| The Quick and the Dead | 0.20% | ~1,791 |
+| Life of the Road | 0.20% | ~1,791 |
+| Stanislavski's Method | 0.20% | ~1,791 |
+| The Hermit | 0.20% | ~1,791 |
+| The Lovers | 0.20% | ~1,791 |
+| The Wheel of Fortune | 0.20% | ~1,791 |
+| True Warrior | 0.20% | ~1,791 |
+| Legend of The Afterlife | 0.20% | ~1,791 |
 | Spin Doctor | 0.20% | ~48 |
 | All the President's Men | 0.20% | ~48 |
 | Arachnophobia | 0.20% | ~48 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,245 (Ranked 15)  
+Progressed: 895,253 (Ranked 15)  
 Completed: 2,743 (0.31%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,743 (0.31%) (Ranked 220)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,245 | 2,743 |
+| 2023-11-04 | 895,253 | 2,743 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 341,879 (Ranked 10)  

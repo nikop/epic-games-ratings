@@ -5,44 +5,44 @@ Rating: 4.43 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,447 |
-| Ranidaphobia | 77.00% | ~1,211 |
-| Aspiring Editor | 74.00% | ~1,164 |
-| Gun for Hire | 69.00% | ~1,085 |
-| I am the law! | 63.00% | ~991 |
+| First Blood | 92.00% | ~1,448 |
+| Ranidaphobia | 77.00% | ~1,212 |
+| Aspiring Editor | 74.00% | ~1,165 |
+| Gun for Hire | 69.00% | ~1,086 |
+| I am the law! | 63.00% | ~992 |
 | Lumberjack | 53.00% | ~834 |
-| Croaked | 48.00% | ~755 |
-| Limp Richard | 48.00% | ~755 |
-| Exorcist | 47.00% | ~739 |
-| From Darkness to Light | 47.00% | ~739 |
-| Editor Adept | 46.00% | ~724 |
+| Croaked | 48.00% | ~756 |
+| Limp Richard | 48.00% | ~756 |
+| Editor Adept | 47.00% | ~740 |
+| Exorcist | 47.00% | ~740 |
+| From Darkness to Light | 47.00% | ~740 |
 | Giant Killer | 45.00% | ~708 |
-| Sensei | 43.00% | ~676 |
+| Sensei | 43.00% | ~677 |
 | Firestarter | 42.00% | ~661 |
 | The meaning of Kain | 41.00% | ~645 |
-| Technophobe | 40.00% | ~629 |
-| Recycler | 39.00% | ~613 |
+| Technophobe | 40.00% | ~630 |
+| Recycler | 39.00% | ~614 |
 | Are you not entertained? | 35.00% | ~551 |
 | Jarhead | 35.00% | ~551 |
 | Ganglord | 34.00% | ~535 |
 | Infiltrator | 34.00% | ~535 |
-| Experienced | 32.00% | ~503 |
-| Hold The Line | 32.00% | ~503 |
-| Pushing Daisy | 32.00% | ~503 |
+| Experienced | 32.00% | ~504 |
+| Hold The Line | 32.00% | ~504 |
+| Pushing Daisy | 32.00% | ~504 |
 | Endgame | 27.00% | ~425 |
 | Savior | 27.00% | ~425 |
 | There Can Be Only One! | 26.00% | ~409 |
 | Silent but Violent | 24.00% | ~378 |
 | Chain Killer | 22.00% | ~346 |
 | The Watchers | 22.00% | ~346 |
-| Commando | 17.00% | ~267 |
+| Commando | 17.00% | ~268 |
 | Dr Jones | 16.00% | ~252 |
 | Newtonian Knockout | 16.00% | ~252 |
 | Chaos Theory | 15.00% | ~236 |
 | Ruthless | 14.00% | ~220 |
 | Side Order | 11.00% | ~173 |
+| Bot Whisperer | 9.00% | ~142 |
 | Chain Reaction | 9.00% | ~142 |
-| Bot Whisperer | 8.00% | ~126 |
 | Curveball | 8.00% | ~126 |
 | Dressed To Kill | 7.00% | ~110 |
 | Wipe Out | 7.00% | ~110 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 687)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,573 (Ranked 226)  
+Progressed: 1,574 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 1,566 | 0 |
 | 2023-11-02 | 1,571 | 0 |
 | 2023-11-03 | 1,572 | 0 |
-| 2023-11-04 | 1,573 | 0 |
+| 2023-11-04 | 1,574 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

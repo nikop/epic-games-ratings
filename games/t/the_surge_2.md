@@ -5,26 +5,26 @@ Rating: 4.24 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,721 |
-| Don't I Know You...? | 77.00% | ~1,656 |
-| Jailbreak | 66.00% | ~1,420 |
-| HEADSHOT! | 38.00% | ~817 |
-| Suited and Booted | 38.00% | ~817 |
-| Sleeping With The Fishes | 36.00% | ~774 |
-| Overheated | 30.00% | ~645 |
-| High Performance | 30.00% | ~645 |
-| Powered Up | 28.00% | ~602 |
-| Studied The Blade | 25.00% | ~538 |
+| Rigged And Ready | 80.00% | ~1,722 |
+| Don't I Know You...? | 77.00% | ~1,658 |
+| Jailbreak | 66.00% | ~1,421 |
+| HEADSHOT! | 38.00% | ~818 |
+| Suited and Booted | 38.00% | ~818 |
+| Sleeping With The Fishes | 36.00% | ~775 |
+| Overheated | 30.00% | ~646 |
+| High Performance | 30.00% | ~646 |
+| Powered Up | 28.00% | ~603 |
+| Studied The Blade | 24.00% | ~517 |
 | Home Invasion | 23.00% | ~495 |
-| Luminary | 22.00% | ~473 |
-| It's a Trap | 22.00% | ~473 |
+| Luminary | 22.00% | ~474 |
+| It's a Trap | 22.00% | ~474 |
 | True Survivor | 21.00% | ~452 |
-| Offensive Defense | 20.00% | ~430 |
-| Shocking | 20.00% | ~430 |
+| Offensive Defense | 20.00% | ~431 |
+| Shocking | 20.00% | ~431 |
 | Court Martial | 19.00% | ~409 |
 | Clean Cut | 19.00% | ~409 |
 | Unforeseeable Consequences | 19.00% | ~409 |
-| Dead Again | 18.00% | ~387 |
+| Dead Again | 18.00% | ~388 |
 | Full Arsenal | 17.00% | ~366 |
 | Can't Trust Banks | 15.00% | ~323 |
 | Mommy Dearest | 14.00% | ~301 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 875)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,151 (Ranked 212)  
+Progressed: 2,153 (Ranked 212)  
 Completed: 13 (0.60%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 13 (0.60%) (Ranked 178)
 | 2023-11-01 | 2,113 | 13 |
 | 2023-11-02 | 2,131 | 13 |
 | 2023-11-03 | 2,143 | 13 |
-| 2023-11-04 | 2,151 | 13 |
+| 2023-11-04 | 2,153 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

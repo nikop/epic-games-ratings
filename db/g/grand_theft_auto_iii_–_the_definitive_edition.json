@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8449,
+  "EOS_Progressed": 8451,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10616,6 +10616,11 @@
       "Time": "2023-11-04T20:03:18.2753407+00:00",
       "NumProgressed": 8449,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-04T21:14:20.9583889+00:00",
+      "NumProgressed": 8451,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10627,7 +10632,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7013
+      "UsersEstimate": 7014
     },
     {
       "ID": "ACH02",
@@ -10659,7 +10664,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH06",
@@ -10675,7 +10680,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH08",
@@ -10683,7 +10688,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH09",
@@ -10707,7 +10712,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH12",
@@ -10715,7 +10720,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH13",
@@ -10731,7 +10736,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH15",
@@ -10747,7 +10752,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "ACH17",
@@ -10771,7 +10776,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH20",
@@ -10779,7 +10784,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH21",
@@ -10803,7 +10808,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH24",
@@ -10811,7 +10816,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ACH25",
@@ -10827,7 +10832,7 @@
       "Name": "Furious First Responder",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH27",
@@ -10858,7 +10863,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8449,
+      "Progressed": 8451,
       "Completed": 56
     }
   ],
@@ -10866,8 +10871,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:03:18.2753402+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:14:20.9583886+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:57:51.9288065+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:03:18.275393+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:57:56.6440413+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:14:20.9584533+00:00"
 }

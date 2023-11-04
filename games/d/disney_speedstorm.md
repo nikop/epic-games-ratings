@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 733)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 7.00% | ~19,539 |
-| IT MAKES BOOM! | 5.00% | ~13,956 |
-| EXTRA BOOST | 4.00% | ~11,165 |
-| PROTECTED | 3.00% | ~8,374 |
-| PRO | 3.00% | ~8,374 |
-| A TIGER'S FEAR | 2.00% | ~5,583 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,583 |
-| AGGRESSIVE RACER | 2.00% | ~5,583 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,791 |
-| ACE SPEEDSTER | 0.90% | ~2,512 |
-| RELEASE THE KRAKEN | 0.70% | ~1,954 |
-| DEFEAT OUR CHAMPION | 0.70% | ~1,954 |
-| LEGENDARY HERO | 0.70% | ~1,954 |
-| BE OUR GUEST | 0.60% | ~1,675 |
-| THE EYE OF THE HUNTER | 0.60% | ~1,675 |
-| TRAINING HARD | 0.50% | ~1,396 |
+| ROOKIE | 7.00% | ~19,551 |
+| IT MAKES BOOM! | 5.00% | ~13,965 |
+| EXTRA BOOST | 4.00% | ~11,172 |
+| PROTECTED | 3.00% | ~8,379 |
+| PRO | 3.00% | ~8,379 |
+| A TIGER'S FEAR | 2.00% | ~5,586 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,586 |
+| AGGRESSIVE RACER | 2.00% | ~5,586 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,793 |
+| ACE SPEEDSTER | 0.90% | ~2,514 |
+| RELEASE THE KRAKEN | 0.70% | ~1,955 |
+| DEFEAT OUR CHAMPION | 0.70% | ~1,955 |
+| LEGENDARY HERO | 0.70% | ~1,955 |
+| TRAINING HARD | 0.60% | ~1,676 |
+| BE OUR GUEST | 0.60% | ~1,676 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,676 |
 | EXPERIENCED CREW | 0.50% | ~1,396 |
 | FRIENDLY | 0.50% | ~1,396 |
 | MASTER | 0.40% | ~1,117 |
-| ACE BRAWLER | 0.30% | ~837 |
-| ACE DEFENDER | 0.30% | ~837 |
-| PERFECTLY POISED | 0.20% | ~558 |
-| FRAMED! | 0.20% | ~558 |
-| ACE TRICKSTER | 0.20% | ~558 |
+| ACE BRAWLER | 0.30% | ~838 |
+| ACE DEFENDER | 0.30% | ~838 |
+| PERFECTLY POISED | 0.20% | ~559 |
+| FRAMED! | 0.20% | ~559 |
+| ACE TRICKSTER | 0.20% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,130 (Ranked 52)  
+Progressed: 279,297 (Ranked 52)  
 Completed: 268 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 268 (0.10%) (Ranked 265)
 | 2023-11-01 | 271,352 | 248 |
 | 2023-11-02 | 273,691 | 260 |
 | 2023-11-03 | 276,886 | 266 |
-| 2023-11-04 | 279,130 | 268 |
+| 2023-11-04 | 279,297 | 268 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 423)  
 Sum: 406 (Ranked 334)  

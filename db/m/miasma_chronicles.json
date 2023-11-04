@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1573,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3767,6 +3767,11 @@
       "Time": "2023-11-04T15:08:26.6090916+00:00",
       "NumProgressed": 1573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T21:19:47.9844293+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3794,7 +3799,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3816,9 +3821,9 @@
       "ID": "BOT_WHISPERER",
       "SetID": "9a4jnji",
       "Name": "Bot Whisperer",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 142
     },
     {
       "ID": "CHAIN_KILLER",
@@ -3850,7 +3855,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "CROAKED",
@@ -3858,7 +3863,7 @@
       "Name": "Croaked",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "CRUELTY",
@@ -3890,7 +3895,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3920,9 +3925,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 740
     },
     {
       "ID": "ENDGAME",
@@ -3938,7 +3943,7 @@
       "Name": "Exorcist",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "EXPERIENCED",
@@ -3946,7 +3951,7 @@
       "Name": "Experienced",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "FIRESTARTER",
@@ -3962,7 +3967,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3986,7 +3991,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "GIANT_KILLER",
@@ -4010,7 +4015,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4018,7 +4023,7 @@
       "Name": "Hold The Line",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "IM_THE_LAW",
@@ -4026,7 +4031,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "INFILTRATOR",
@@ -4066,7 +4071,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -4082,7 +4087,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "RECYCLER",
@@ -4090,7 +4095,7 @@
       "Name": "Recycler",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "RUTHLESS",
@@ -4114,7 +4119,7 @@
       "Name": "Sensei",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4146,7 +4151,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4185,7 +4190,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1573,
+      "Progressed": 1574,
       "Completed": 0
     }
   ],
@@ -4193,8 +4198,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:08:39.099984+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:19:47.9844286+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:48.9063785+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:00:20.6400097+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:08:39.1000271+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:05:36.9530332+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:19:47.9844789+00:00"
 }

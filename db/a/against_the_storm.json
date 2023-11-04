@@ -3173,9 +3173,9 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 17192,
+  "EOS_Progressed": 17193,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13058,6 +13058,11 @@
       "Time": "2023-11-04T20:05:52.7870174+00:00",
       "NumProgressed": 17192,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-04T21:17:09.860934+00:00",
+      "NumProgressed": 17193,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13155,9 +13160,9 @@
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1204
     },
     {
       "ID": "WinHard",
@@ -13405,7 +13410,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "WinWithResolve",
@@ -13445,7 +13450,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "WinWithoutOrders",
@@ -13468,15 +13473,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17192,
+      "Progressed": 17193,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-04T13:57:31.0953921+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:05:52.7870168+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:17:09.8609337+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:57:24.8485661+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:05:52.7870848+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:57:31.0107143+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:17:09.8610146+00:00"
 }

@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
 | Military Prestige | 0.90% | ~136 |
+| Gnosticism | 0.90% | ~136 |
 | Legalism | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
 | Cimmerian Archer | 0.90% | ~136 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.80% | ~121 |
 | Industrial Progress | 0.80% | ~121 |
 | Dualism | 0.80% | ~121 |
-| Gnosticism | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
 | Mounted Lancer | 0.80% | ~121 |
 | Ambition Victory | 0.80% | ~121 |

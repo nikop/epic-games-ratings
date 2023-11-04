@@ -519,17 +519,17 @@
       "ID": "making_a_murderer",
       "SetID": "202dmm8",
       "Name": "Making a murderer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "sorry_kiddo",
@@ -543,9 +543,9 @@
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "the_whole_truth",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:08:13.5702598+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:18:59.4406038+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.2705596+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:58:31.3666357+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:08:13.5702726+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:58:39.223378+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:18:59.4406155+00:00"
 }

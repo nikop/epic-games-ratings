@@ -5,16 +5,16 @@ Rating: 4.81 (Ranked 77)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~6,222 |
-| I Challenge You To Save More Money! | 87.00% | ~5,820 |
-| I Love How Tough You Are | 73.00% | ~4,884 |
-| Wanna Come To My Place For Dinner? | 66.00% | ~4,415 |
-| What I Want Is You | 60.00% | ~4,014 |
-| To Be Or Not To Be | 56.00% | ~3,746 |
-| Are You Alright? | 48.00% | ~3,211 |
-| Love Actually | 47.00% | ~3,144 |
-| Drama King | 41.00% | ~2,743 |
-| You're Really Something Else | 36.00% | ~2,408 |
+| Last Night...Did We... | 93.00% | ~6,224 |
+| I Challenge You To Save More Money! | 87.00% | ~5,822 |
+| I Love How Tough You Are | 73.00% | ~4,885 |
+| Wanna Come To My Place For Dinner? | 66.00% | ~4,417 |
+| What I Want Is You | 60.00% | ~4,015 |
+| To Be Or Not To Be | 56.00% | ~3,748 |
+| Are You Alright? | 48.00% | ~3,212 |
+| Love Actually | 47.00% | ~3,145 |
+| Drama King | 41.00% | ~2,744 |
+| You're Really Something Else | 36.00% | ~2,409 |
 | Go Clean up In Your Own Way | 35.00% | ~2,342 |
 | Happy Family | 34.00% | ~2,275 |
 | ONE PUNCH | 34.00% | ~2,275 |
@@ -22,10 +22,10 @@ Rating: 4.81 (Ranked 77)
 | Drama CP: Reel to Real | 33.00% | ~2,208 |
 | Worthless Speech | 33.00% | ~2,208 |
 | Absolutely Elegant | 32.00% | ~2,141 |
-| Still Single | 31.00% | ~2,074 |
-| Go Get Some Fries On The Pier | 29.00% | ~1,940 |
-| Days Of Innocence | 28.00% | ~1,873 |
-| David | 28.00% | ~1,873 |
+| Still Single | 31.00% | ~2,075 |
+| Go Get Some Fries On The Pier | 29.00% | ~1,941 |
+| Days Of Innocence | 28.00% | ~1,874 |
+| David | 28.00% | ~1,874 |
 | All I Have Is Money | 24.00% | ~1,606 |
 | Lover In Dark Alley | 24.00% | ~1,606 |
 | A Slap In The Face! | 23.00% | ~1,539 |
@@ -41,14 +41,14 @@ Rating: 4.81 (Ranked 77)
 | My Dear Love! | 8.00% | ~535 |
 | Life Is A Rollercoaster | 8.00% | ~535 |
 | Boys Need To Protect Themselves | 8.00% | ~535 |
+| Counting Sheep? | 8.00% | ~535 |
 | This Ain't Right In Many Ways... | 8.00% | ~535 |
-| Counting Sheep? | 7.00% | ~468 |
 | Stubborn Noob | 7.00% | ~468 |
 | Tall; Grande; Venti | 2.00% | ~134 |
 | Limerence | 2.00% | ~134 |
 | Hurrah! | 1.00% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,690 (Ranked 173)  
+Progressed: 6,692 (Ranked 173)  
 Completed: 89 (1.33%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 89 (1.33%) (Ranked 140)
 | 2023-11-01 | 5,755 | 67 |
 | 2023-11-02 | 6,090 | 78 |
 | 2023-11-03 | 6,370 | 84 |
-| 2023-11-04 | 6,690 | 89 |
+| 2023-11-04 | 6,692 | 89 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -21,8 +21,8 @@
 | Game Over! | 33.00% | ~21 |
 | A very special drink | 33.00% | ~21 |
 | NOW GO AWAY! | 33.00% | ~21 |
+| Shattered | 32.00% | ~20 |
 | Show me your true self | 30.00% | ~19 |
-| Shattered | 30.00% | ~19 |
 | No posters allowed | 30.00% | ~19 |
 | Little genius | 30.00% | ~19 |
 | GG | 29.00% | ~18 |

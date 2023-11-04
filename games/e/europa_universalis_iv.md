@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,883 |
-| Until death do us apart | 4.00% | ~17,883 |
-| Victorious! | 4.00% | ~17,883 |
-| That's a Grand Navy | 3.00% | ~13,412 |
-| That is mine! | 3.00% | ~13,412 |
-| Brothers in Arms | 2.00% | ~8,942 |
-| Cold War | 2.00% | ~8,942 |
-| For the Glory | 2.00% | ~8,942 |
-| Seriously?! | 2.00% | ~8,942 |
+| That's a Grand Army | 4.00% | ~17,886 |
+| Until death do us apart | 4.00% | ~17,886 |
+| Victorious! | 4.00% | ~17,886 |
+| That's a Grand Navy | 3.00% | ~13,414 |
+| That is mine! | 3.00% | ~13,414 |
+| Brothers in Arms | 2.00% | ~8,943 |
+| Cold War | 2.00% | ~8,943 |
+| For the Glory | 2.00% | ~8,943 |
+| Seriously?! | 2.00% | ~8,943 |
 | Defender of the Faith | 1.00% | ~4,471 |
 | It's all about luck | 1.00% | ~4,471 |
 | It's all about the money | 1.00% | ~4,471 |
@@ -27,19 +27,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,577 |
 | Total Control | 0.80% | ~3,577 |
 | My armies are invincible! | 0.70% | ~3,130 |
-| Agressive Expander | 0.60% | ~2,682 |
-| Combined Arms | 0.60% | ~2,682 |
-| Azur semé de lis or | 0.50% | ~2,235 |
-| City of Cities | 0.50% | ~2,235 |
-| This navy can take it all | 0.50% | ~2,235 |
-| Bright Spark | 0.40% | ~1,788 |
-| The Emperors new clothes | 0.40% | ~1,788 |
-| Factionalism | 0.40% | ~1,788 |
-| Gentle Persuasion | 0.40% | ~1,788 |
-| Isn't this the way to India? | 0.40% | ~1,788 |
-| Queen of Conquest | 0.40% | ~1,788 |
-| The Five Colonies | 0.40% | ~1,788 |
-| Trustworthy | 0.40% | ~1,788 |
+| Agressive Expander | 0.60% | ~2,683 |
+| Combined Arms | 0.60% | ~2,683 |
+| Azur semé de lis or | 0.50% | ~2,236 |
+| City of Cities | 0.50% | ~2,236 |
+| This navy can take it all | 0.50% | ~2,236 |
+| Bright Spark | 0.40% | ~1,789 |
+| The Emperors new clothes | 0.40% | ~1,789 |
+| Factionalism | 0.40% | ~1,789 |
+| Gentle Persuasion | 0.40% | ~1,789 |
+| Isn't this the way to India? | 0.40% | ~1,789 |
+| Queen of Conquest | 0.40% | ~1,789 |
+| The Five Colonies | 0.40% | ~1,789 |
+| Trustworthy | 0.40% | ~1,789 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,341 |
 | Down Under | 0.30% | ~1,341 |
 | Electable! | 0.30% | ~1,341 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447,078 (Ranked 41)  
+Progressed: 447,143 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 444,668 | 1 |
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
-| 2023-11-04 | 447,078 | 1 |
+| 2023-11-04 | 447,143 | 1 |
 ## Awards
 Max (Educational): 6,817  (Ranked 55)  
 Sum: 56,054 (Ranked 24)  

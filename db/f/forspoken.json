@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42420,
+  "EOS_Progressed": 42422,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11777,6 +11777,11 @@
       "Time": "2023-11-04T20:03:34.9115699+00:00",
       "NumProgressed": 42420,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T21:14:39.2765085+00:00",
+      "NumProgressed": 42422,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11940,7 +11945,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "CUFF_ATTACK",
@@ -12028,7 +12033,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -12211,22 +12216,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42420,
+      "Progressed": 42422,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7257,
-      "Completed": 7257
+      "Progressed": 7259,
+      "Completed": 7259
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-04T20:03:34.9115694+00:00",
+  "LastChanged_Achievements": "2023-11-04T21:14:39.2765082+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.2731446+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:59:33.9975036+00:00",
-  "LastUpdate_Achievements": "2023-11-04T20:03:34.9116633+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:00:01.1476288+00:00",
+  "LastUpdate_Achievements": "2023-11-04T21:14:39.2765997+00:00"
 }
