@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42416,
+  "EOS_Progressed": 42418,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11762,6 +11762,11 @@
       "Time": "2023-11-04T17:07:38.7582287+00:00",
       "NumProgressed": 42416,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T18:04:07.3477362+00:00",
+      "NumProgressed": 42418,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -11789,7 +11794,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -11837,7 +11842,7 @@
       "Name": "The Interloper",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -11909,7 +11914,7 @@
       "Name": "Awakening",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CRAFT_ALL",
@@ -11949,7 +11954,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "JUSTCOUNTER",
@@ -11981,7 +11986,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "LOCATION_TEN",
@@ -12077,7 +12082,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "PARKOUR_TIME",
@@ -12109,7 +12114,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "SPRING_ALL",
@@ -12196,22 +12201,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42416,
+      "Progressed": 42418,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7253,
-      "Completed": 7253
+      "Progressed": 7255,
+      "Completed": 7255
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:07:38.758228+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:57:13.7285192+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:03:58.254182+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:07:38.7583502+00:00"
+  "LastChanged_Achievements": "2023-11-04T18:04:07.3477355+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T17:57:26.2731446+00:00",
+  "LastUpdate_Ratings": "2023-11-04T17:59:35.2596591+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:04:07.3479369+00:00"
 }

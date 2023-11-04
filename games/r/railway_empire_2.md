@@ -5,7 +5,7 @@ Rating: 4.45 (Ranked 657)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,565 |
+| Country Bumpkin | 76.00% | ~1,586 |
 | A new Journey | 74.00% | ~1,544 |
 | From X to Y | 73.00% | ~1,524 |
 | Departure | 73.00% | ~1,524 |

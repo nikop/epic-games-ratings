@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 4.00% | ~585 |
+| Oyedang, Kopengs | 5.00% | ~731 |
 | The Pit and the Pirates | 2.00% | ~293 |
 | Drug Gifter | 2.00% | ~293 |
 | Drone Dodger | 2.00% | ~293 |
@@ -20,17 +20,17 @@ Rating: 4.55 (Ranked 500)
 | Khan's Revenge | 1.00% | ~146 |
 | Call it Even | 1.00% | ~146 |
 | Captain Drummer | 1.00% | ~146 |
+| Zen Master | 0.90% | ~5 |
 | Thorston Mayer | 0.80% | ~117 |
-| Zen Master | 0.80% | ~5 |
+| Safe Cracker | 0.80% | ~5 |
 | Bottoms up! | 0.70% | ~102 |
 | Miraculous Maya | 0.70% | ~102 |
-| Safe Cracker | 0.70% | ~4 |
 | Madame Undersecretary | 0.70% | ~4 |
 | Doctor Approved | 0.60% | ~88 |
 | Keep Arjun in Check | 0.60% | ~3 |
+| Master Negotiator | 0.50% | ~3 |
 | Data Logger | 0.40% | ~59 |
 | Data Master | 0.40% | ~59 |
-| Master Negotiator | 0.40% | ~2 |
 | Brother's Reaper | 0.30% | ~44 |
 | No Belter Left Behind | 0.30% | ~44 |
 | Debris Spree | 0.20% | ~29 |

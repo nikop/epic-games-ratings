@@ -2025,9 +2025,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21247,
+  "EOS_Progressed": 21248,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10085,6 +10085,11 @@
       "Time": "2023-11-04T17:10:02.9152081+00:00",
       "NumProgressed": 21247,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-04T18:06:07.6823525+00:00",
+      "NumProgressed": 21248,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10144,7 +10149,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20185
+      "UsersEstimate": 20186
     },
     {
       "ID": "GameOver",
@@ -10232,7 +10237,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "SeniorEstateAgent",
@@ -10248,7 +10253,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3824
+      "UsersEstimate": 3825
     },
     {
       "ID": "Strongman",
@@ -10279,15 +10284,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21247,
+      "Progressed": 21248,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-04T01:39:07.0141071+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:10:02.9152075+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:06:07.6823517+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:58.2691301+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:00:19.6881067+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:10:02.9152743+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:57:57.3916664+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:06:07.682507+00:00"
 }

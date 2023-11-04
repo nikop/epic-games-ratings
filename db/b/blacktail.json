@@ -2,12 +2,12 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 249,
+  "Ranking_Rating": 250,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 736,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2111,6 +2111,11 @@
       "Time": "2023-11-04T08:08:42.4098219+00:00",
       "NumProgressed": 734,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T18:09:11.1600803+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2170,7 +2175,7 @@
       "Name": "Devoted",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "EyeSpy",
@@ -2210,7 +2215,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "GossipGirl",
@@ -2362,7 +2367,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "YagaProfessional",
@@ -2377,7 +2382,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 736,
       "Completed": 1
     }
   ],
@@ -2385,8 +2390,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:12:50.4611391+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:09:11.1600797+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:11.2415814+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:06:20.4807563+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:12:50.4611763+00:00"
+  "LastUpdate_Ratings": "2023-11-04T18:03:19.3419734+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:09:11.1601175+00:00"
 }

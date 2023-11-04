@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -213,7 +213,7 @@
   "Tags": [],
   "EOS_Progressed": 14629,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10423,9 +10423,9 @@
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 731
     },
     {
       "ID": "14",
@@ -10639,15 +10639,15 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -10655,9 +10655,9 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "35",
@@ -10679,15 +10679,15 @@
       "ID": "9nnpo9n",
       "IsBase": false,
       "Progressed": 583,
-      "Completed": 340
+      "Completed": 342
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:10:11.046034+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:06:14.4110429+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:04:22.81789+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:10:11.0461241+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:50.080536+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:06:14.4111732+00:00"
 }

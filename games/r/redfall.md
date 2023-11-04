@@ -28,11 +28,11 @@ Rating: 3.51 (Ranked 1,032)
 | Sic Transit Umbra | 0.60% | ~11 |
 | Bell-ringer | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |
+| Silence Is Golden | 0.50% | ~9 |
 | Good Morning | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Harvest’s End | 0.50% | ~9 |
 | Contingency Plans | 0.40% | ~7 |
-| Silence Is Golden | 0.40% | ~7 |
 | You Clean It Up | 0.40% | ~7 |
 | Check, Please! | 0.40% | ~7 |
 | Curious Finch | 0.40% | ~7 |

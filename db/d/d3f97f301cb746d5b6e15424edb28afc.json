@@ -797,9 +797,9 @@
       "ID": "ACH_CAR_WASH_02",
       "SetID": "5fn8ia4",
       "Name": "Car Wash Lvl. 2",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_CAR_WASH_03",
@@ -1317,9 +1317,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -1477,9 +1477,9 @@
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
       "SetID": "5fn8ia4",
       "Name": "Expert in the Field",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -1501,9 +1501,9 @@
       "ID": "GSS_ACH_88_DECORATION_02",
       "SetID": "5fn8ia4",
       "Name": "Decorating Better",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "GSS_ACH_89_DECORATION_03",
@@ -1524,8 +1524,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:11:18.3887189+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:07:10.943299+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:03:31.6270998+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:11:18.3888344+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:15.8774656+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:07:10.9434606+00:00"
 }

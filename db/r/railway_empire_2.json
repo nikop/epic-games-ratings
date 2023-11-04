@@ -5703,9 +5703,9 @@
       "ID": "A20",
       "SetID": "9b7p7eo",
       "Name": "Country Bumpkin",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1586
     },
     {
       "ID": "A21",
@@ -5992,8 +5992,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-26T15:57:24.51616+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:06:45.6699063+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:03:40.6920001+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:53.0495513+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:05:01.6469481+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:06:45.6699933+00:00"
+  "LastUpdate_Ratings": "2023-11-04T18:00:16.0679892+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:03:40.6921133+00:00"
 }

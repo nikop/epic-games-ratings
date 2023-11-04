@@ -2541,9 +2541,9 @@
       "ID": "Achievement_023",
       "SetID": "6b34g18",
       "Name": "Silence Is Golden",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_024",
@@ -2910,8 +2910,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:09:51.0859122+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:05:58.1504333+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:31.9378506+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:04:32.6869945+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:09:51.086002+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:57.6855027+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:05:58.1505267+00:00"
 }

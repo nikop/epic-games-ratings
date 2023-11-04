@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "ID": "achievement_5",
       "SetID": "2cpn27e",
       "Name": "Reincarnation Cycle Stopper",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_6",
@@ -1438,8 +1438,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:10:08.5289634+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:06:12.3270763+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:03:47.8227556+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:10:08.5290146+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:26.5384711+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:06:12.3272232+00:00"
 }

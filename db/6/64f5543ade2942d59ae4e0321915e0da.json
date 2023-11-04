@@ -165,9 +165,9 @@
       "ID": "AC_ALL_MONEYSACKS",
       "SetID": "16i2akc",
       "Name": "Bowels",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -389,9 +389,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_FULL_MAP",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:10:05.9570233+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:06:10.3739168+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:04:13.570572+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:10:05.9570616+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:44.693679+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:06:10.3739661+00:00"
 }

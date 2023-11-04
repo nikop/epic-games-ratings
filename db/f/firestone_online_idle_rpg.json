@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2107,
+  "EOS_Progressed": 2108,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6521,6 +6521,11 @@
       "Time": "2023-11-04T17:10:23.287642+00:00",
       "NumProgressed": 2107,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-04T18:06:25.324535+00:00",
+      "NumProgressed": 2108,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6706,9 +6711,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 401
     },
     {
       "ID": "fellowshippower",
@@ -6788,7 +6793,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "hunter",
@@ -6836,7 +6841,7 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "masterenchanter",
@@ -6876,7 +6881,7 @@
       "Name": "Missions Dedication",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "movinguptheladder",
@@ -6948,7 +6953,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "scientist",
@@ -6988,7 +6993,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "thealchemist",
@@ -6996,7 +7001,7 @@
       "Name": "The Alchemist",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "theexpeditioner",
@@ -7020,7 +7025,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "thepowerofawakening",
@@ -7131,7 +7136,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2107,
+      "Progressed": 2108,
       "Completed": 2
     }
   ],
@@ -7139,8 +7144,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:10:23.2876409+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:06:25.3245344+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:04:06.767282+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:10:23.287765+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:41.5896279+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:06:25.3246544+00:00"
 }

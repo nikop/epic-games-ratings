@@ -1,7 +1,7 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 249)  
+Rating: 4.68 (Ranked 250)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 366)  
+Progressed: 178 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,13 +77,13 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-04 | 195 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
-Sum: 1,255 (Ranked 238)  
+Sum: 1,257 (Ranked 238)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 576 |
-| This game is Great for Beginners | 96 |
-| This game is Highly Recommended | 84 |
+| This game is Great for Beginners | 97 |
+| This game is Highly Recommended | 85 |
 | This game is Extremely Fun | 80 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 74 |
@@ -248,3 +248,4 @@ Diff (max vs sum): -44
 | 2023-10-30 | 4.68 | - | 575 | 1,293 |
 | 2023-11-02 | 4.68 | - | 576 | 1,299 |
 | 2023-11-03 | 4.68 | - | 576 | 1,255 |
+| 2023-11-04 | 4.68 | - | 576 | 1,257 |

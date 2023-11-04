@@ -2,7 +2,7 @@
   "ID": "aa5ef9d2f8394731a034504c562e292c",
   "Name": "Bad North",
   "ProductSlug": "bad-north",
-  "Ranking_Rating": 249,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 721,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 859,
   "RatingHistory": [
     {
@@ -609,6 +609,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-04T18:03:12.9040952+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -633,8 +639,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:59.5016567+00:00",
-  "LastChanged": "2023-10-24T15:57:51.5876261+00:00",
+  "LastChanged": "2023-11-04T18:03:12.904095+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:41.4087046+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:06:12.0338492+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:11:28.0258744+00:00"
+  "LastUpdate_Ratings": "2023-11-04T18:03:12.9040957+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:08:28.7052538+00:00"
 }

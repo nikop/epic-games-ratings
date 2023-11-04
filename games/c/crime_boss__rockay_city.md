@@ -7,11 +7,11 @@ Rating: 3.94 (Ranked 1,004)
 | ---- | ---------- | ----- |
 | First One’s Free | 2.00% | ~1,791 |
 | Downed but Not Outed | 2.00% | ~1,791 |
-| Neophyte Ninja | 1.00% | ~895 |
-| Underworld Initiate | 1.00% | ~895 |
-| Too Old for This | 1.00% | ~895 |
-| Fancy Pants | 1.00% | ~895 |
-| Off the Rocks | 1.00% | ~895 |
+| Neophyte Ninja | 1.00% | ~896 |
+| Underworld Initiate | 1.00% | ~896 |
+| Too Old for This | 1.00% | ~896 |
+| Fancy Pants | 1.00% | ~896 |
+| Off the Rocks | 1.00% | ~896 |
 | Roid Ranger | 0.90% | ~806 |
 | King of the Hill | 0.90% | ~806 |
 | Raider’s Ruin | 0.90% | ~806 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,549 (Ranked 91)  
+Progressed: 89,550 (Ranked 91)  
 Completed: 54 (0.06%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,18 +245,18 @@ Completed: 54 (0.06%) (Ranked 289)
 | 2023-11-01 | 89,485 | 53 |
 | 2023-11-02 | 89,504 | 53 |
 | 2023-11-03 | 89,528 | 54 |
-| 2023-11-04 | 89,549 | 54 |
+| 2023-11-04 | 89,550 | 54 |
 ## Awards
 Max (Diverse Characters): 521  (Ranked 204)  
-Sum: 2,938 (Ranked 175)  
+Sum: 2,942 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 521 |
 | This game is Highly Recommended | 495 |
 | This game has Quickly Understood Controls | 493 |
+| This game is Extremely Fun | 482 |
 | This game has Challenging Combat | 480 |
-| This game is Extremely Fun | 478 |
 | This game has Amazing Characters | 471 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -480,4 +480,4 @@ Diff (max vs sum): 29
 | 2023-11-01 | 3.94 | 518 | 2,922 |
 | 2023-11-02 | 3.94 | 518 | 2,928 |
 | 2023-11-03 | 3.94 | 521 | 2,934 |
-| 2023-11-04 | 3.94 | 521 | 2,938 |
+| 2023-11-04 | 3.94 | 521 | 2,942 |

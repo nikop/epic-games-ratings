@@ -11,7 +11,7 @@
 | Pest Control | 26.00% | ~263 |
 | Exhaustive Explorer | 26.00% | ~263 |
 | How Low Can We Go? | 23.00% | ~233 |
-| Team Builder | 19.00% | ~192 |
+| Team Builder | 20.00% | ~202 |
 | Long Live Rock | 15.00% | ~152 |
 | Aggressive Antivirus | 14.00% | ~142 |
 | Effective Efficiency | 13.00% | ~131 |

@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 464)  
+Progressed: 49 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |

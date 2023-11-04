@@ -74,6 +74,7 @@
 | Arcanite | 0.60% | ~1 |
 | The Last Voyage | 0.60% | ~1 |
 | Tax Evasion | 0.60% | ~1 |
+| Theory to Practice | 0.60% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -99,7 +100,6 @@
 | Settler | 0.00% | ~0 |
 | What Lies Below | 0.00% | ~0 |
 | Rage Repressed | 0.00% | ~0 |
-| Theory to Practice | 0.00% | ~0 |
 | Defiant | 0.00% | ~0 |
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |

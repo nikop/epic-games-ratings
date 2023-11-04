@@ -2,7 +2,7 @@
   "ID": "97f91a3e4a7449fa9f4505a09efe1645",
   "Name": "Hellpoint",
   "ProductSlug": "hellpoint",
-  "Ranking_Rating": 829,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 721,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 20,
   "RatingHistory": [
     {
@@ -77,6 +77,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-04T17:59:27.2781327+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -95,8 +101,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:35.2519959+00:00",
   "FirstSeenRating": "2022-09-19T18:31:22.5343042+00:00",
-  "LastChanged": "2023-04-26T21:58:06.61007+00:00",
+  "LastChanged": "2023-11-04T17:59:27.2781323+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.8023753+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:03:48.6385064+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:08:15.2848989+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:59:27.2781332+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:04:37.1914819+00:00"
 }

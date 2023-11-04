@@ -4,7 +4,7 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-11-04T08:09:11.1039869+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T18:09:37.5900409+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -605,7 +610,7 @@
       "Name": "Tinkerer",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -645,7 +650,7 @@
       "Name": "Self-Defence",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -653,7 +658,7 @@
       "Name": "Freezing Cold",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -813,7 +818,7 @@
       "Name": "Welcome to the Club",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -899,7 +904,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -923,31 +928,31 @@
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 111,
-      "Completed": 111
+      "Progressed": 112,
+      "Completed": 112
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:13:23.0488834+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:09:37.5900402+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:56.6225511+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:02:44.7164862+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:13:23.0489247+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:58:51.7258857+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:09:37.5900849+00:00"
 }

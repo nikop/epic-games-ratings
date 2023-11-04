@@ -6,9 +6,11 @@ Rating: 4.54 (Ranked 521)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 0.80% | ~303 |
-| Pork Chopped | 0.60% | ~227 |
-| One of Us | 0.50% | ~189 |
+| Pork Chopped | 0.60% | ~228 |
+| One of Us | 0.50% | ~190 |
 | Break A Leg | 0.20% | ~1,425 |
+| Coup de Grâce | 0.20% | ~1,425 |
+| Hazardous Materials | 0.20% | ~1,425 |
 | Hotel California | 0.20% | ~1,425 |
 | Welcome To Hell-A | 0.20% | ~1,425 |
 | Dr. Reed, I Presume? | 0.10% | ~712 |
@@ -25,10 +27,8 @@ Rating: 4.54 (Ranked 521)
 | Slayer Squad | 0.10% | ~712 |
 | Smorgasbord | 0.10% | ~712 |
 | Can't Handle the Truth | 0.10% | ~712 |
-| Coup de Grâce | 0.10% | ~712 |
 | Like Riding a Bike | 0.10% | ~712 |
 | Not Even My Final Form | 0.10% | ~712 |
-| Hazardous Materials | 0.10% | ~712 |
 | Friends Like These | 0.10% | ~712 |
 | Donk! | 0.10% | ~712 |
 | Internet Famous | 0.10% | ~712 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,322 (Ranked 22)  
+Progressed: 712,383 (Ranked 22)  
 Completed: 2,322 (0.33%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 2,322 (0.33%) (Ranked 215)
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
-| 2023-11-04 | 712,322 | 2,322 |
+| 2023-11-04 | 712,383 | 2,322 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,557 (Ranked 89)  

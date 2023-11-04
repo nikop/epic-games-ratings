@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 47.00% | ~51 |
+| Break Out | 49.00% | ~53 |
 | Trinity | 21.00% | ~23 |
 | Find Allies | 19.00% | ~21 |
+| Fashion Victim | 19.00% | ~21 |
 | Scholar | 18.00% | ~20 |
 | Powerful Allies | 17.00% | ~19 |
 | A Taste of Wrath | 17.00% | ~19 |
 | Adventurer | 17.00% | ~19 |
-| Fashion Victim | 17.00% | ~19 |
 | I Found It | 17.00% | ~19 |
 | The Collector | 17.00% | ~19 |
 | Shatter Them All | 15.00% | ~16 |
@@ -24,8 +24,8 @@
 | Calm before the Storm | 5.00% | ~5 |
 | To Battle | 5.00% | ~5 |
 | Godslayer | 5.00% | ~5 |
+| Big Bazar | 5.00% | ~5 |
 | Alchemist | 5.00% | ~5 |
-| Big Bazar | 4.00% | ~4 |
 | The Mentor | 3.00% | ~3 |
 | A Queen's Tale | 3.00% | ~3 |
 | Clear Sight | 2.00% | ~2 |

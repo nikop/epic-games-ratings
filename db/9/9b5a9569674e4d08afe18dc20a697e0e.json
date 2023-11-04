@@ -90,9 +90,9 @@
       "ID": "DRAGON",
       "SetID": "40o4f14",
       "Name": "How to train your...",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DRESSED",
@@ -218,9 +218,9 @@
       "ID": "PRISON",
       "SetID": "40o4f14",
       "Name": "The prison",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RECOVERING",
@@ -296,8 +296,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-04T17:07:38.8223804+00:00",
+  "LastChanged_Achievements": "2023-11-04T18:04:07.406234+00:00",
   "LastUpdate_AppInfo": "2023-11-01T20:57:07.3462919+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:05:10.8871625+00:00",
-  "LastUpdate_Achievements": "2023-11-04T17:07:38.8224093+00:00"
+  "LastUpdate_Ratings": "2023-11-04T18:00:20.0512723+00:00",
+  "LastUpdate_Achievements": "2023-11-04T18:04:07.4062757+00:00"
 }
