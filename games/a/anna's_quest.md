@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 76.00% | ~48 |
+| Escape artist | 78.00% | ~49 |
 | Book Worm | 56.00% | ~35 |
 | Ooh, it's shiny! | 54.00% | ~34 |
 | My lost nightingale | 46.00% | ~29 |
 | Through the woods | 43.00% | ~27 |
-| Fussy eater | 38.00% | ~24 |
+| Fussy eater | 40.00% | ~25 |
 | Back to the anvil | 38.00% | ~24 |
 | So soothing... | 38.00% | ~24 |
 | Kekekeke... | 38.00% | ~24 |

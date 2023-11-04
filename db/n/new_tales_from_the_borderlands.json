@@ -3,12 +3,12 @@
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
   "Ranking_Rating": 962,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3683,
+  "EOS_Progressed": 3684,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1717,6 +1717,11 @@
       "Time": "2023-11-04T07:05:25.1903655+00:00",
       "NumProgressed": 3683,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T16:06:33.4755187+00:00",
+      "NumProgressed": 3684,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1760,7 +1765,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1792,7 +1797,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1840,7 +1845,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1856,7 +1861,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1872,7 +1877,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -1912,7 +1917,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1920,7 +1925,7 @@
       "Name": "Murderous Mascot Mayhem",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "WISH_FOR_MORE_TACOS",
@@ -1935,7 +1940,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3683,
+      "Progressed": 3684,
       "Completed": 0
     }
   ],
@@ -1943,8 +1948,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:05:07.9906271+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:06:33.4755183+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:00.4235632+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:58:23.9702609+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:05:07.990651+00:00"
+  "LastUpdate_Ratings": "2023-11-04T15:59:23.4654012+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:06:33.4755663+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Anno 2070",
   "ProductSlug": "anno-2070",
   "Ranking_Rating": 582,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": "2011-11-17T16:00:00+00:00",
@@ -248,7 +248,7 @@
   "FirstSeen": "2022-07-22T20:30:09.4589428+00:00",
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
   "LastChanged": "2023-10-13T20:00:13.7444125+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T14:57:29.6077367+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:58:39.0191029+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:04:20.4557266+00:00"
+  "LastUpdate_AppInfo": "2023-11-04T15:57:07.2737658+00:00",
+  "LastUpdate_Ratings": "2023-11-04T15:59:43.6697878+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:05:33.2137763+00:00"
 }

@@ -6,12 +6,12 @@ Rating: 4.55 (Ranked 500)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 4.00% | ~585 |
-| The Pit and the Pirates | 2.00% | ~292 |
-| Drug Gifter | 2.00% | ~292 |
-| Drone Dodger | 2.00% | ~292 |
-| Bosmang | 2.00% | ~292 |
-| Celebrations are in Order | 2.00% | ~292 |
-| Impossible Objects | 2.00% | ~292 |
+| The Pit and the Pirates | 2.00% | ~293 |
+| Drug Gifter | 2.00% | ~293 |
+| Drone Dodger | 2.00% | ~293 |
+| Bosmang | 2.00% | ~293 |
+| Celebrations are in Order | 2.00% | ~293 |
+| Impossible Objects | 2.00% | ~293 |
 | Data Archivist | 1.00% | ~146 |
 | Stogie for Fogey | 1.00% | ~146 |
 | Spore Taste | 1.00% | ~146 |
@@ -23,12 +23,12 @@ Rating: 4.55 (Ranked 500)
 | Thorston Mayer | 0.80% | ~117 |
 | Zen Master | 0.80% | ~5 |
 | Bottoms up! | 0.70% | ~102 |
+| Miraculous Maya | 0.70% | ~102 |
 | Safe Cracker | 0.70% | ~4 |
 | Doctor Approved | 0.60% | ~88 |
-| Miraculous Maya | 0.60% | ~88 |
 | Keep Arjun in Check | 0.60% | ~3 |
 | Madame Undersecretary | 0.60% | ~3 |
-| Data Logger | 0.40% | ~58 |
+| Data Logger | 0.40% | ~59 |
 | Master Negotiator | 0.40% | ~2 |
 | Brother's Reaper | 0.30% | ~44 |
 | No Belter Left Behind | 0.30% | ~44 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,624 (Ranked 146)  
+Progressed: 14,626 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 32 (0.22%) (Ranked 233)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,624 | 32 |
+| 2023-11-04 | 14,626 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

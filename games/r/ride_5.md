@@ -42,12 +42,12 @@
 | In Search of Perfection | 0.60% | ~12 |
 | Globe-trotter | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
+| Breathtaking Views | 0.20% | ~4 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
 | At the Top | 0.20% | ~4 |
 | There's a Great View up Here | 0.20% | ~4 |
 | Absolute Champion | 0.20% | ~4 |
-| Breathtaking Views | 0.10% | ~2 |
 | Beyond the Limiter | 0.10% | ~2 |
 | Endless | 0.10% | ~2 |
 | Dream Chaser | 0.00% | ~0 |

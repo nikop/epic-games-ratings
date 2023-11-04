@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -471,6 +471,11 @@
       "Time": "2023-11-03T17:04:44.6773825+00:00",
       "NumProgressed": 322,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T16:04:52.7892113+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 15,
@@ -522,7 +527,7 @@
       "Name": "Escape",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "help",
@@ -544,9 +549,9 @@
       "ID": "jack",
       "SetID": "8b5dfcp",
       "Name": "Jack",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "nonconsensual",
@@ -568,9 +573,9 @@
       "ID": "realist",
       "SetID": "8b5dfcp",
       "Name": "Realist",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 90
     },
     {
       "ID": "tough",
@@ -601,7 +606,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 5
     }
   ],
@@ -609,8 +614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:03:49.1253793+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:04:52.7892107+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:06.6020083+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:02:31.0493884+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:03:49.125392+00:00"
+  "LastUpdate_Ratings": "2023-11-04T16:03:08.4086902+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:04:52.7892237+00:00"
 }

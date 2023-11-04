@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -4465,9 +4465,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "c7hf6a4",
       "Name": "Breathtaking Views",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -4696,8 +4696,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:08:46.7004684+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:10:08.4786505+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:58:56.3114434+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:08:46.7005236+00:00"
+  "LastUpdate_Ratings": "2023-11-04T16:00:06.1300916+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:10:08.4787033+00:00"
 }

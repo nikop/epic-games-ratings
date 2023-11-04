@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 48.00% | ~50 |
-| Trinity | 22.00% | ~23 |
+| Break Out | 47.00% | ~50 |
+| Trinity | 21.00% | ~22 |
 | Find Allies | 20.00% | ~21 |
 | Fashion Victim | 18.00% | ~19 |
+| Scholar | 18.00% | ~19 |
+| I Found It | 18.00% | ~19 |
 | The Collector | 18.00% | ~19 |
-| Scholar | 17.00% | ~18 |
+| Adventurer | 17.00% | ~18 |
+| Powerful Allies | 16.00% | ~17 |
 | A Taste of Wrath | 16.00% | ~17 |
-| Adventurer | 16.00% | ~17 |
-| I Found It | 16.00% | ~17 |
-| Powerful Allies | 15.00% | ~16 |
-| Shatter Them All | 14.00% | ~15 |
+| Shatter Them All | 15.00% | ~16 |
 | Geared Up | 13.00% | ~14 |
-| Tributes of Caladrias | 11.00% | ~12 |
-| Essence Blow | 10.00% | ~10 |
-| Stone Collection | 9.00% | ~9 |
-| Airborne | 8.00% | ~8 |
+| Tributes of Caladrias | 12.00% | ~13 |
+| Essence Blow | 9.00% | ~10 |
+| Stone Collection | 9.00% | ~10 |
+| Airborne | 7.00% | ~7 |
 | Miner | 6.00% | ~6 |
 | Calm before the Storm | 5.00% | ~5 |
 | To Battle | 5.00% | ~5 |
 | Godslayer | 5.00% | ~5 |
 | Alchemist | 5.00% | ~5 |
+| Big Bazar | 4.00% | ~4 |
 | The Mentor | 3.00% | ~3 |
-| Big Bazar | 3.00% | ~3 |
 | A Queen's Tale | 3.00% | ~3 |
 | Clear Sight | 2.00% | ~2 |
 | Slayer | 2.00% | ~2 |
 | Flawless Victory | 2.00% | ~2 |
 | Fine Feathers Make Fine Birds | 2.00% | ~2 |
-| Shardbearer | 1.00% | ~1 |
-| False God | 1.00% | ~1 |
+| Shardbearer | 0.90% | ~1 |
+| False God | 0.90% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 404)  
-Completed: 1 (0.95%) (Ranked 158)  
+Progressed: 107 (Ranked 404)  
+Completed: 1 (0.93%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,4 +69,4 @@ Completed: 1 (0.95%) (Ranked 158)
 | 2023-11-01 | 55 | 1 |
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
-| 2023-11-04 | 105 | 1 |
+| 2023-11-04 | 107 | 1 |

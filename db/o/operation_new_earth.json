@@ -3,12 +3,12 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1033,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1758,
+  "EOS_Progressed": 1759,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -6569,6 +6569,11 @@
       "Time": "2023-11-04T14:20:39.9171521+00:00",
       "NumProgressed": 1758,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T16:08:52.6847705+00:00",
+      "NumProgressed": 1759,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6652,7 +6657,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_headquarters_10",
@@ -6668,7 +6673,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_headquarters_20",
@@ -6748,7 +6753,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6756,7 +6761,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6883,7 +6888,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1758,
+      "Progressed": 1759,
       "Completed": 1
     }
   ],
@@ -6891,8 +6896,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:06:35.455692+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:08:52.68477+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:58:27.3412945+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:06:35.4557473+00:00"
+  "LastUpdate_Ratings": "2023-11-04T15:59:27.6551065+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:08:52.6848239+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 0.80% | ~302 |
+| Whatever It Takes | 0.80% | ~303 |
 | Pork Chopped | 0.60% | ~227 |
 | One of Us | 0.50% | ~189 |
-| Hotel California | 0.20% | ~1,424 |
-| Welcome To Hell-A | 0.20% | ~1,424 |
+| Hotel California | 0.20% | ~1,425 |
+| Welcome To Hell-A | 0.20% | ~1,425 |
 | Dr. Reed, I Presume? | 0.10% | ~712 |
 | Making Your Mark | 0.10% | ~712 |
 | Git Gutte! | 0.10% | ~712 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,221 (Ranked 22)  
+Progressed: 712,274 (Ranked 22)  
 Completed: 2,321 (0.33%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,10 +255,10 @@ Completed: 2,321 (0.33%) (Ranked 215)
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
-| 2023-11-04 | 712,221 | 2,321 |
+| 2023-11-04 | 712,274 | 2,321 |
 ## Awards
 Max (Great Boss Battles): 6,934  (Ranked 54)  
-Sum: 10,477 (Ranked 90)  
+Sum: 10,481 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 429 |
 | This game is Highly Recommended | 408 |
 | This game is Extremely Fun | 401 |
-| This game has Amazing Characters | 382 |
+| This game has Amazing Characters | 386 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -471,4 +471,4 @@ Diff (max vs sum): -36
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
-| 2023-11-04 | 4.54 | 6,934 | 10,477 |
+| 2023-11-04 | 4.54 | 6,934 | 10,481 |

@@ -3,12 +3,12 @@
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
   "Ranking_Rating": 862,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,10 +273,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67871,
-  "EOS_Completed": 17,
-  "EOS_NewPlayers": 246,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 67872,
+  "EOS_Completed": 18,
+  "EOS_NewPlayers": 245,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -14138,6 +14138,11 @@
       "Time": "2023-11-04T15:06:02.2096731+00:00",
       "NumProgressed": 67871,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-04T16:07:42.1580428+00:00",
+      "NumProgressed": 67872,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -14308,16 +14313,16 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67871,
-      "Completed": 17
+      "Progressed": 67872,
+      "Completed": 18
     }
   ],
   "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:06:02.2096727+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:58:39.1316473+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:06:02.2097551+00:00"
+  "LastChanged_Achievements": "2023-11-04T16:07:42.1580422+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T15:57:07.3563968+00:00",
+  "LastUpdate_Ratings": "2023-11-04T15:59:43.8365457+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:07:42.1581204+00:00"
 }

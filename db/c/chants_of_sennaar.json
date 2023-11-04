@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 418,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.77,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1845,6 +1845,11 @@
       "Time": "2023-11-04T15:06:33.474172+00:00",
       "NumProgressed": 416,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-04T16:08:50.1617873+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 25,
@@ -1854,9 +1859,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "END_GOOD",
@@ -1872,15 +1877,15 @@
       "Name": "Peace walker",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1888,15 +1893,15 @@
       "Name": "A good beginning",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1960,7 +1965,7 @@
       "Name": "Rascal",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1984,7 +1989,7 @@
       "Name": "Fashion victim",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -1992,7 +1997,7 @@
       "Name": "Champollion",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2014,9 +2019,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "PROGRESS_N2",
@@ -2030,9 +2035,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "PROGRESS_N4",
@@ -2048,21 +2053,21 @@
       "Name": "One last step",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 418,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:06:33.4741716+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:08:50.1617868+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:59:55.5755078+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:06:33.4742037+00:00"
+  "LastUpdate_Ratings": "2023-11-04T16:01:27.7521024+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:08:50.1618119+00:00"
 }

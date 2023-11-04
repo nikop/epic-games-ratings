@@ -17,21 +17,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 5.00% | ~859 |
 | Royal Outpost | 5.00% | ~859 |
 | A Real Challenge | 5.00% | ~859 |
-| Homesick | 4.00% | ~687 |
-| Ruined Armory | 4.00% | ~687 |
-| Bandit Camp | 4.00% | ~687 |
-| Barren Lands | 4.00% | ~687 |
-| Sparkdew Crystals | 4.00% | ~687 |
-| Haunted Forest | 4.00% | ~687 |
-| Levitating Monument | 4.00% | ~687 |
-| Flooded Mines | 4.00% | ~687 |
-| Monastery of the Holy Flame | 4.00% | ~687 |
-| Lost Colonies | 4.00% | ~687 |
-| Statue of the Forefathers | 4.00% | ~687 |
-| Corrosive Torrent | 4.00% | ~687 |
-| Watchtower | 4.00% | ~687 |
-| Cursed Lands | 4.00% | ~687 |
-| Trade Baron | 4.00% | ~687 |
+| Homesick | 4.00% | ~688 |
+| Ruined Armory | 4.00% | ~688 |
+| Bandit Camp | 4.00% | ~688 |
+| Barren Lands | 4.00% | ~688 |
+| Sparkdew Crystals | 4.00% | ~688 |
+| Haunted Forest | 4.00% | ~688 |
+| Levitating Monument | 4.00% | ~688 |
+| Flooded Mines | 4.00% | ~688 |
+| Monastery of the Holy Flame | 4.00% | ~688 |
+| Lost Colonies | 4.00% | ~688 |
+| Statue of the Forefathers | 4.00% | ~688 |
+| Corrosive Torrent | 4.00% | ~688 |
+| Watchtower | 4.00% | ~688 |
+| Cursed Lands | 4.00% | ~688 |
+| Trade Baron | 4.00% | ~688 |
 | Serving Ale | 3.00% | ~516 |
 | Refinery | 3.00% | ~516 |
 | Against All Odds | 3.00% | ~516 |
@@ -48,7 +48,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Prestigious Expedition | 1.00% | ~172 |
 | Blood Flower Farmer | 1.00% | ~172 |
 | Lizard Utopia | 0.90% | ~155 |
-| Human Utopia | 0.80% | ~137 |
+| Human Utopia | 0.80% | ~138 |
 | Beaver Utopia | 0.70% | ~120 |
 | The Queen's Chosen | 0.60% | ~103 |
 | Harpy Utopia | 0.50% | ~86 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,187 (Ranked 138)  
+Progressed: 17,188 (Ranked 138)  
 Completed: 53 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 53 (0.31%) (Ranked 219)
 | 2023-11-01 | 17,143 | 53 |
 | 2023-11-02 | 17,154 | 53 |
 | 2023-11-03 | 17,173 | 53 |
-| 2023-11-04 | 17,187 | 53 |
+| 2023-11-04 | 17,188 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 216)  
 Sum: 3,205 (Ranked 170)  

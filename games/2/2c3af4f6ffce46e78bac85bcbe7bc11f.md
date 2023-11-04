@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 15.00% | ~12 |
-| Something foundational... | 15.00% | ~12 |
-| Something to make you dream... | 15.00% | ~12 |
-| Something to long for... | 15.00% | ~12 |
+| Something ever-changing... | 14.00% | ~12 |
+| Something foundational... | 14.00% | ~12 |
+| Something to make you dream... | 14.00% | ~12 |
+| Something to long for... | 14.00% | ~12 |
 | Something natural... | 13.00% | ~11 |
 | Something firmly rooted... | 13.00% | ~11 |
 | Something gentle... | 12.00% | ~10 |
@@ -17,22 +17,22 @@
 | Something reflective... | 12.00% | ~10 |
 | Something free... | 11.00% | ~9 |
 | Something to make you dream... (fragile) | 10.00% | ~8 |
-| Something free... (fragile) | 9.00% | ~7 |
-| Something gentle... (fragile) | 9.00% | ~7 |
-| Something ever-changing... (fragile) | 9.00% | ~7 |
-| Something fully in bloom... (fragile) | 9.00% | ~7 |
-| Something fragile... | 9.00% | ~7 |
-| Something foundational... (fragile) | 9.00% | ~7 |
-| Somewhere to belong... (fragile) | 9.00% | ~7 |
-| Something monumental... (fragile) | 9.00% | ~7 |
-| Something to long for... (fragile) | 9.00% | ~7 |
-| Something firmly rooted... (fragile) | 9.00% | ~7 |
-| Something reflective... (fragile) | 9.00% | ~7 |
+| Something free... (fragile) | 8.00% | ~7 |
+| Something gentle... (fragile) | 8.00% | ~7 |
+| Something ever-changing... (fragile) | 8.00% | ~7 |
+| Something fully in bloom... (fragile) | 8.00% | ~7 |
+| Something fragile... | 8.00% | ~7 |
+| Something foundational... (fragile) | 8.00% | ~7 |
+| Somewhere to belong... (fragile) | 8.00% | ~7 |
+| Something monumental... (fragile) | 8.00% | ~7 |
+| Something to long for... (fragile) | 8.00% | ~7 |
+| Something firmly rooted... (fragile) | 8.00% | ~7 |
+| Something reflective... (fragile) | 8.00% | ~7 |
 | Something more... (fragile) | 6.00% | ~5 |
 | Something more... | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 423)  
-Completed: 4 (4.88%) (Ranked 65)  
+Progressed: 83 (Ranked 423)  
+Completed: 4 (4.82%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,4 +96,4 @@ Completed: 4 (4.88%) (Ranked 65)
 | 2023-11-01 | 78 | 4 |
 | 2023-11-02 | 80 | 4 |
 | 2023-11-03 | 81 | 4 |
-| 2023-11-04 | 82 | 4 |
+| 2023-11-04 | 83 | 4 |

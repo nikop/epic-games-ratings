@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 261,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 856,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1664,9 +1664,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 137
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -1869,8 +1869,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:03:58.820004+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:05:05.5175383+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:59:10.2838996+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:03:58.8200402+00:00"
+  "LastUpdate_Ratings": "2023-11-04T16:00:25.6703242+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:05:05.5175786+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 466,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18772,
+  "EOS_Progressed": 18773,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12613,6 +12613,11 @@
       "Time": "2023-11-04T13:07:07.1167207+00:00",
       "NumProgressed": 18772,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T16:05:43.7751863+00:00",
+      "NumProgressed": 18773,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12760,7 +12765,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "0019",
@@ -12911,7 +12916,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18772,
+      "Progressed": 18773,
       "Completed": 4
     }
   ],
@@ -12919,8 +12924,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:04:28.7569015+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:05:43.7751858+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:57:51.609421+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:04:28.7569844+00:00"
+  "LastUpdate_Ratings": "2023-11-04T15:58:39.2359824+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:05:43.7752616+00:00"
 }

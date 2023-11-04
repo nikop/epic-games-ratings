@@ -3,12 +3,12 @@
   "Name": "CARRION",
   "ProductSlug": "carrion",
   "Ranking_Rating": 249,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 546,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-10-29T13:00:00+00:00",
     "PcReleaseDate": "2020-10-29T13:00:00+00:00",
@@ -246,6 +246,6 @@
   "FirstSeen": "2022-07-22T20:25:03.1794316+00:00",
   "LastChanged": "2023-09-23T05:00:53.9260135+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:09.8277851+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:58:45.9832209+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:08:14.4666914+00:00"
+  "LastUpdate_Ratings": "2023-11-04T15:59:52.366777+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:09:27.851877+00:00"
 }

@@ -6865,9 +6865,9 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138588,
+  "EOS_Progressed": 138592,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27095,6 +27095,11 @@
       "Time": "2023-11-04T15:06:30.6825707+00:00",
       "NumProgressed": 138588,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-04T16:08:46.6007575+00:00",
+      "NumProgressed": 138592,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27648,9 +27653,9 @@
       "ID": "hemma_a",
       "SetID": "anfd17p",
       "Name": "Necromancer Queen",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 970
+      "UsersEstimate": 1109
     },
     {
       "ID": "jackslot01",
@@ -28001,15 +28006,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138588,
+      "Progressed": 138592,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-04T12:00:45.8378777+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:06:30.6825703+00:00",
+  "LastChanged_Achievements": "2023-11-04T16:08:46.6007569+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:00:00.3134041+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:06:30.6827931+00:00"
+  "LastUpdate_Ratings": "2023-11-04T16:01:33.9372098+00:00",
+  "LastUpdate_Achievements": "2023-11-04T16:08:46.6009674+00:00"
 }

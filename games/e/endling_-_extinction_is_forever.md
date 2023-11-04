@@ -8,7 +8,7 @@
 | A Friend in Need | 61.00% | ~322 |
 | Surviving | 43.00% | ~227 |
 | Detox diet | 41.00% | ~216 |
-| Never Give Up | 39.00% | ~206 |
+| Never Give Up | 40.00% | ~211 |
 | Tasty | 37.00% | ~195 |
 | Lullaby | 31.00% | ~164 |
 | You Can Pet The Fox | 29.00% | ~153 |
@@ -22,10 +22,10 @@
 | Family Reunion | 14.00% | ~74 |
 | Beyond Words | 14.00% | ~74 |
 | Never Run Around | 13.00% | ~69 |
+| Two Peas in a Pod | 11.00% | ~58 |
+| All For One | 11.00% | ~58 |
+| Extinction is Forever | 11.00% | ~58 |
 | Three Little Foxes | 10.00% | ~53 |
-| Two Peas in a Pod | 10.00% | ~53 |
-| All For One | 10.00% | ~53 |
-| Extinction is Forever | 10.00% | ~53 |
 | We Are a Family | 9.00% | ~48 |
 | Mother Love | 4.00% | ~21 |
 | For a Better Tomorrow | 3.00% | ~16 |

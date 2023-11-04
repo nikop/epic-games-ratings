@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Wanderer | 73.00% | ~35 |
 | Something important | 71.00% | ~34 |
-| A piece of the story | 50.00% | ~24 |
-| Do what you have to | 35.00% | ~17 |
+| A piece of the story | 52.00% | ~25 |
+| Do what you have to | 38.00% | ~18 |
 | The artist’s impression | 33.00% | ~16 |
+| Refuse to look | 29.00% | ~14 |
 | Scraps of love | 29.00% | ~14 |
-| Refuse to look | 27.00% | ~13 |
+| It's covered up for a reason | 27.00% | ~13 |
 | Finished it | 27.00% | ~13 |
-| It's covered up for a reason | 25.00% | ~12 |
-| Sign of weakness | 25.00% | ~12 |
+| Sign of weakness | 27.00% | ~13 |
 | Face your fears | 17.00% | ~8 |
 | First steps | 13.00% | ~6 |
 | Playtime | 13.00% | ~6 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 464)  
+Progressed: 48 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |

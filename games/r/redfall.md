@@ -24,24 +24,24 @@ Rating: 3.51 (Ranked 1,032)
 | Neighborhood Revitalization | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
+| From the Shadows | 0.70% | ~12 |
 | Sic Transit Umbra | 0.60% | ~11 |
 | Bell-ringer | 0.60% | ~11 |
-| From the Shadows | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |
 | Good Morning | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Harvest’s End | 0.50% | ~9 |
+| Contingency Plans | 0.40% | ~7 |
 | Silence Is Golden | 0.40% | ~7 |
 | You Clean It Up | 0.40% | ~7 |
 | Check, Please! | 0.40% | ~7 |
+| Curious Finch | 0.40% | ~7 |
 | I Spit On Your Grave | 0.40% | ~7 |
-| Contingency Plans | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
 | Starve the Beast | 0.30% | ~5 |
 | Nice Try | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
-| Curious Finch | 0.30% | ~5 |
 | Revelations | 0.20% | ~4 |
 | Neighborhood Watch | 0.20% | ~4 |
 | What Lies Below | 0.20% | ~4 |
@@ -51,13 +51,13 @@ Rating: 3.51 (Ranked 1,032)
 | Under a Bushel | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |
+| Good Samaritan | 0.20% | ~4 |
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
-| Good Samaritan | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Scream Team | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
