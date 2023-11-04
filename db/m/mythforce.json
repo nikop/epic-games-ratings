@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4625,
+  "EOS_Progressed": 4626,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8624,6 +8624,11 @@
       "Time": "2023-11-04T08:09:09.3473186+00:00",
       "NumProgressed": 4625,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T09:09:26.3117048+00:00",
+      "NumProgressed": 4626,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8636,7 +8641,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8708,7 +8713,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -8788,7 +8793,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8802,9 +8807,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1064
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8812,22 +8817,22 @@
       "Name": "Vexed Her",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4625,
+      "Progressed": 4626,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:09:09.3473183+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:09:26.3117043+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:00:07.4547028+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:09:09.3473671+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:00:12.653003+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:09:26.31178+00:00"
 }

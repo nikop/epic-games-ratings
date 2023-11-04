@@ -1386,9 +1386,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10078,
+  "EOS_Progressed": 10079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16311,6 +16311,11 @@
       "Time": "2023-11-04T08:03:10.8822679+00:00",
       "NumProgressed": 10078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T09:03:45.8998142+00:00",
+      "NumProgressed": 10079,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16354,7 +16359,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "14",
@@ -16410,7 +16415,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "20",
@@ -16434,7 +16439,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7357
+      "UsersEstimate": 7358
     },
     {
       "ID": "23",
@@ -16570,7 +16575,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "39",
@@ -16602,7 +16607,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "42",
@@ -16642,7 +16647,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "47",
@@ -16793,15 +16798,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10078,
+      "Progressed": 10079,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-02T17:57:08.0386111+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:03:10.8822677+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:03:45.8998134+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:57:36.1722181+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:03:10.8823953+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:57:58.5139589+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:03:45.8999888+00:00"
 }

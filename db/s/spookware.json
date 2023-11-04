@@ -2,7 +2,7 @@
   "ID": "f0c3be3e30a94316925dd54bd24c48c5",
   "Name": "Spookware",
   "ProductSlug": "spookware-89874e",
-  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 130,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.227082+00:00",
   "LastChanged": "2023-03-31T05:58:26.2270821+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.1788819+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:00:20.6585234+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:05:42.8112447+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:00:24.0463458+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:06:01.8035207+00:00"
 }

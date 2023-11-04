@@ -6,35 +6,35 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~301,411 |
-| Full garage | 61.00% | ~251,864 |
-| To the eyeballs! | 51.00% | ~210,575 |
-| Individual delivery | 46.00% | ~189,930 |
-| Non-Stop | 45.00% | ~185,801 |
-| Juggler | 36.00% | ~148,641 |
-| Forgot something | 35.00% | ~144,512 |
-| Close call! | 30.00% | ~123,868 |
-| Get out my way | 28.00% | ~115,610 |
-| Common cause | 26.00% | ~107,352 |
-| Critical care | 26.00% | ~107,352 |
-| Mega-railroad | 23.00% | ~94,965 |
-| Upgrade complete | 23.00% | ~94,965 |
-| Just in time! | 18.00% | ~74,321 |
-| Builder | 17.00% | ~70,192 |
-| Long Haul | 17.00% | ~70,080 |
-| Steam Age | 16.00% | ~66,063 |
-| Multilevel road | 15.00% | ~61,934 |
-| Bridgemania | 14.00% | ~57,805 |
-| Need to think | 14.00% | ~57,805 |
-| The Tortoise | 12.00% | ~49,547 |
-| Beginner | 11.00% | ~45,418 |
-| Without a lunch break | 11.00% | ~45,418 |
-| One way | 10.00% | ~41,289 |
-| Relocation | 10.00% | ~41,289 |
-| Industrial Age | 9.00% | ~37,160 |
-| Just One More Valley | 9.00% | ~37,101 |
-| Prick of conscience | 8.00% | ~33,031 |
-| Missed it! | 7.00% | ~28,902 |
+| Dealmaker | 73.00% | ~301,421 |
+| Full garage | 61.00% | ~251,873 |
+| To the eyeballs! | 51.00% | ~210,582 |
+| Individual delivery | 46.00% | ~189,937 |
+| Non-Stop | 45.00% | ~185,808 |
+| Juggler | 36.00% | ~148,646 |
+| Forgot something | 35.00% | ~144,517 |
+| Close call! | 30.00% | ~123,872 |
+| Get out my way | 28.00% | ~115,614 |
+| Common cause | 26.00% | ~107,356 |
+| Critical care | 26.00% | ~107,356 |
+| Mega-railroad | 23.00% | ~94,968 |
+| Upgrade complete | 23.00% | ~94,968 |
+| Just in time! | 18.00% | ~74,323 |
+| Builder | 17.00% | ~70,194 |
+| Long Haul | 17.00% | ~70,082 |
+| Steam Age | 16.00% | ~66,065 |
+| Multilevel road | 15.00% | ~61,936 |
+| Bridgemania | 14.00% | ~57,807 |
+| Need to think | 14.00% | ~57,807 |
+| The Tortoise | 12.00% | ~49,549 |
+| Beginner | 11.00% | ~45,420 |
+| Without a lunch break | 11.00% | ~45,420 |
+| One way | 10.00% | ~41,291 |
+| Relocation | 10.00% | ~41,291 |
+| Industrial Age | 9.00% | ~37,162 |
+| Just One More Valley | 9.00% | ~37,102 |
+| Prick of conscience | 8.00% | ~33,032 |
+| Missed it! | 7.00% | ~28,903 |
 | At the last moment! | 6.00% | ~24,774 |
 | Overseer | 6.00% | ~24,774 |
 | Highlander | 5.00% | ~20,645 |
@@ -64,7 +64,7 @@ Number of Ratings: 87  (23.09.2022)
 | Space Age | 1.00% | ~4,129 |
 | BBQ | 0.70% | ~2,890 |
 | Miscalculation | 0.70% | ~2,890 |
-| Voyager | 0.50% | ~2,064 |
+| Voyager | 0.50% | ~2,065 |
 | It's no coincidence | 0.40% | ~1,652 |
 | Railroad tycoon | 0.40% | ~1,652 |
 | The Hare with an espresso | 0.30% | ~1,239 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~412 |
 | World Zapper | 0.10% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 412,892 (Ranked 43)  
+Progressed: 412,906 (Ranked 43)  
 Completed: 21 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,11 +256,11 @@ Completed: 21 (0.01%) (Ranked 319)
 | 2023-11-01 | 412,153 | 20 |
 | 2023-11-02 | 412,436 | 20 |
 | 2023-11-03 | 412,782 | 21 |
-| 2023-11-04 | 412,892 | 21 |
+| 2023-11-04 | 412,906 | 21 |
 ## Awards
 Max (Challenging Puzzles): 845  (Ranked 162)  
-Sum: 1,696 (Ranked 216)  
-Diff (max vs sum): -54  
+Sum: 1,697 (Ranked 215)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 845 |
@@ -271,7 +271,7 @@ Diff (max vs sum): -54
 | This game is Relaxing | 91 |
 | This game is Highly Recommended | 86 |
 | This game has Challenging Combat | 75 |
-| This game has a Creative Community | 61 |
+| This game has a Creative Community | 62 |
 | This game has Amazing Storytelling | 58 |
 | This game has Amazing Characters | 45 |
 ## Ratings History
@@ -442,4 +442,4 @@ Diff (max vs sum): -54
 | 2023-11-01 | 4.44 | - | 835 | 1,682 |
 | 2023-11-02 | 4.44 | - | 841 | 1,688 |
 | 2023-11-03 | 4.44 | - | 845 | 1,695 |
-| 2023-11-04 | 4.44 | - | 845 | 1,696 |
+| 2023-11-04 | 4.44 | - | 845 | 1,697 |

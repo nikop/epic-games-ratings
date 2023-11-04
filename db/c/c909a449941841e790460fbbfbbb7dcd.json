@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -589,17 +589,17 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -613,9 +613,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -645,9 +645,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -701,9 +701,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -732,8 +732,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:08:51.3032815+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:09:09.737618+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:58:09.3239535+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:08:51.3032929+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:58:27.5860375+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:09:09.7376355+00:00"
 }

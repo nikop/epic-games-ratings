@@ -30,8 +30,8 @@
 | The Goddes Avatar | 16.00% | ~11 |
 | Unbeatable | 16.00% | ~11 |
 | Favored by the Cosmos | 15.00% | ~10 |
+| Stellar Haste | 13.00% | ~9 |
 | Heavy Purger | 12.00% | ~8 |
-| Stellar Haste | 12.00% | ~8 |
 | Apian Hero | 12.00% | ~8 |
 | Anomaly Control | 10.00% | ~7 |
 | The Dark Moon | 10.00% | ~7 |

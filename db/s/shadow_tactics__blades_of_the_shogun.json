@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1844,10 +1844,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4821,
       "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-11-04T08:59:32.3417248+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4823,
+      "NumberOfAwardsMax": 570
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4821,
+  "NumberOfAwards": 4823,
   "NumberOfAwardsMax": 570,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1891,7 +1897,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 537
+      "Count": 539
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1918,9 +1924,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 211728,
+  "EOS_Progressed": 211733,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -24473,6 +24479,11 @@
       "Time": "2023-11-04T08:04:25.1277506+00:00",
       "NumProgressed": 211728,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-11-04T09:04:53.0460399+00:00",
+      "NumProgressed": 211733,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 44,
@@ -24556,7 +24567,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25407
+      "UsersEstimate": 25408
     },
     {
       "ID": "HappyLittleAccidents",
@@ -24660,7 +24671,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10586
+      "UsersEstimate": 10587
     },
     {
       "ID": "OldMan",
@@ -24684,7 +24695,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10586
+      "UsersEstimate": 10587
     },
     {
       "ID": "ReleaseTheKraken",
@@ -24700,7 +24711,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16938
+      "UsersEstimate": 16939
     },
     {
       "ID": "Rollin",
@@ -24732,7 +24743,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16938
+      "UsersEstimate": 16939
     },
     {
       "ID": "TanukiTime",
@@ -24796,7 +24807,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10586
+      "UsersEstimate": 10587
     },
     {
       "ID": "Warzone",
@@ -24835,15 +24846,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 211728,
+      "Progressed": 211733,
       "Completed": 93
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-03T09:59:15.6412633+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:04:25.1277503+00:00",
+  "LastChanged": "2023-11-04T08:59:32.3417245+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:04:53.0460392+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.1355312+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:59:22.5704974+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:04:25.1278587+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:59:32.3417252+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:04:53.0462198+00:00"
 }

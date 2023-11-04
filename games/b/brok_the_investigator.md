@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Introduction completed | 76.00% | ~16 |
 | Chapter 1 | 48.00% | ~10 |
+| Chapter 2 | 43.00% | ~9 |
 | Your Days Are Numbered | 43.00% | ~9 |
-| Chapter 2 | 38.00% | ~8 |
 | It's In My Nature | 38.00% | ~8 |
 | Chapter 3 | 33.00% | ~7 |
 | Chapter 4 | 33.00% | ~7 |
@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 517)  
+Progressed: 21 (Ranked 518)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |

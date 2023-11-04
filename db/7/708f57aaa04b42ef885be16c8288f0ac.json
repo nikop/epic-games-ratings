@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4022,
+  "EOS_Progressed": 4031,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1284,
+  "EOS_NewPlayers": 1278,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1973,6 +1973,11 @@
       "Time": "2023-11-04T08:08:34.9677109+00:00",
       "NumProgressed": 4022,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T09:08:54.8888672+00:00",
+      "NumProgressed": 4031,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1993,7 +1998,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "BeLikeWater",
@@ -2025,7 +2030,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Eavesdropper",
@@ -2057,7 +2062,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 804
+      "UsersEstimate": 806
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2065,7 +2070,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "GarbageMan",
@@ -2129,7 +2134,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "NoMoreTotems",
@@ -2137,7 +2142,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "NotLikeTheOthers",
@@ -2169,7 +2174,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "TheOldSchoolWay",
@@ -2177,7 +2182,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "TheQuarterback",
@@ -2185,7 +2190,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ThisIsDharma",
@@ -2209,7 +2214,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -2217,7 +2222,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -2225,7 +2230,7 @@
       "Name": "Digestive Issues",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2256,7 +2261,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4022,
+      "Progressed": 4031,
       "Completed": 3
     }
   ],
@@ -2264,8 +2269,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:08:34.9677105+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:08:54.8888665+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:57:46.3386404+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:08:34.9677431+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:58:07.4614465+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:08:54.8889069+00:00"
 }

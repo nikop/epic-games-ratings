@@ -788,17 +788,17 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_14",
@@ -908,9 +908,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_36",
@@ -924,9 +924,9 @@
       "ID": "achievement_37",
       "SetID": "18al4io",
       "Name": "Kitted Out",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_38",
@@ -972,17 +972,17 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_46",
@@ -1149,8 +1149,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-04T02:27:45.141984+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:03:53.8215377+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:04:24.8675224+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:59:38.2459912+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:03:53.8215706+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:59:46.3208361+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:04:24.867583+00:00"
 }

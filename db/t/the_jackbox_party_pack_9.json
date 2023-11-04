@@ -2,7 +2,7 @@
   "ID": "547a1ed2e29b4e2c83cbcb348fbf9fcc",
   "Name": "The Jackbox Party Pack 9",
   "ProductSlug": "jackbox-party-pack-9",
-  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 130,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:40.7778923+00:00",
   "LastChanged": "2023-03-31T05:58:40.7778924+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:14.6355123+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:00:09.428864+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:09:04.789181+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:00:14.4243394+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:09:22.0759908+00:00"
 }

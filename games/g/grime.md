@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,257 |
 | The Hunt | 3.00% | ~4,693 |
 | Ravenous | 3.00% | ~4,693 |
-| Weeper | 2.00% | ~3,128 |
+| Weeper | 2.00% | ~3,129 |
 | Scion | 1.00% | ~1,560 |
 | Harmless | 1.00% | ~1,564 |
 | Jawcrab | 1.00% | ~1,564 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,425 (Ranked 75)  
+Progressed: 156,433 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
-| 2023-11-04 | 156,425 | 1 |
+| 2023-11-04 | 156,433 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
 Sum: 344 (Ranked 349)  

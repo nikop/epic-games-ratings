@@ -6859,9 +6859,9 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138565,
+  "EOS_Progressed": 138568,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27059,6 +27059,11 @@
       "Time": "2023-11-04T08:06:44.381485+00:00",
       "NumProgressed": 138565,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-04T09:06:58.5352976+00:00",
+      "NumProgressed": 138568,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27708,9 +27713,9 @@
       "ID": "loot03",
       "SetID": "anfd17p",
       "Name": "Bountiful Harvest",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 970
     },
     {
       "ID": "loot04",
@@ -27965,15 +27970,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138565,
+      "Progressed": 138568,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-04T03:01:18.0918347+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:06:44.3814847+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:06:58.5352969+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:00:23.3166187+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:06:44.3816795+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:00:26.2284892+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:06:58.5356486+00:00"
 }

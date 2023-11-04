@@ -11,29 +11,29 @@
 | A Forest Walk | 28.00% | ~113 |
 | C-C-C-Combo! | 26.00% | ~105 |
 | Multiply that! | 26.00% | ~105 |
-| Fore! | 23.00% | ~92 |
-| The Collector | 23.00% | ~92 |
-| Insurance fraud | 23.00% | ~92 |
-| Snow Fun! | 23.00% | ~92 |
-| To and Fro | 22.00% | ~88 |
-| The Wild West | 22.00% | ~88 |
-| Bag of Tricks | 22.00% | ~88 |
-| I see the light! | 22.00% | ~88 |
-| In the Bag! | 22.00% | ~88 |
-| You're it | 22.00% | ~88 |
-| First Come, First Serve | 21.00% | ~84 |
-| Take that Frosty! | 21.00% | ~84 |
-| Goodbye cruel world | 21.00% | ~84 |
-| Car-Tapult | 20.00% | ~80 |
-| Disoriented | 20.00% | ~80 |
-| Anger Issues | 20.00% | ~80 |
-| Your Highness | 20.00% | ~80 |
-| Beach Party! | 20.00% | ~80 |
-| Event Amateur | 19.00% | ~76 |
-| Feeling Hot Hot Hot! | 17.00% | ~68 |
-| Feeling Dizzy? | 17.00% | ~68 |
-| Ferry Good! | 17.00% | ~68 |
-| Assert Dominance | 17.00% | ~68 |
+| Fore! | 23.00% | ~93 |
+| The Collector | 23.00% | ~93 |
+| Insurance fraud | 23.00% | ~93 |
+| Snow Fun! | 23.00% | ~93 |
+| To and Fro | 22.00% | ~89 |
+| The Wild West | 22.00% | ~89 |
+| Bag of Tricks | 22.00% | ~89 |
+| I see the light! | 22.00% | ~89 |
+| In the Bag! | 22.00% | ~89 |
+| You're it | 22.00% | ~89 |
+| First Come, First Serve | 21.00% | ~85 |
+| Take that Frosty! | 21.00% | ~85 |
+| Goodbye cruel world | 21.00% | ~85 |
+| Car-Tapult | 20.00% | ~81 |
+| Disoriented | 20.00% | ~81 |
+| Anger Issues | 20.00% | ~81 |
+| Your Highness | 20.00% | ~81 |
+| Beach Party! | 20.00% | ~81 |
+| Event Amateur | 19.00% | ~77 |
+| Feeling Hot Hot Hot! | 17.00% | ~69 |
+| Feeling Dizzy? | 17.00% | ~69 |
+| Ferry Good! | 17.00% | ~69 |
+| Assert Dominance | 17.00% | ~69 |
 | Drift King! | 16.00% | ~64 |
 | Speed of light | 16.00% | ~64 |
 | Out of this League | 13.00% | ~52 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 309)  
+Progressed: 403 (Ranked 309)  
 Completed: 2 (0.50%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 2 (0.50%) (Ranked 195)
 | 2023-10-28 | 400 | 2 |
 | 2023-11-01 | 401 | 2 |
 | 2023-11-02 | 402 | 2 |
+| 2023-11-04 | 403 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

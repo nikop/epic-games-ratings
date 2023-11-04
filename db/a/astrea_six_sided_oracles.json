@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -866,9 +866,9 @@
       "ID": "StellarHaste",
       "SetID": "1jeo1g7",
       "Name": "Stellar Haste",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TheAbyssalTerror",
@@ -1145,8 +1145,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:03:24.7335124+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:03:58.3605474+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.6564177+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:58:51.2567053+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:03:24.7335874+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:59:05.2160171+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:03:58.3606946+00:00"
 }

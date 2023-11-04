@@ -6,14 +6,14 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,357 |
+| First Step | 73.00% | ~7,358 |
 | Leader | 61.00% | ~6,148 |
-| Explorer | 53.00% | ~5,341 |
+| Explorer | 53.00% | ~5,342 |
 | Healer | 52.00% | ~5,241 |
-| Aspiring Inventor | 44.00% | ~4,434 |
+| Aspiring Inventor | 44.00% | ~4,435 |
 | Adventurer | 42.00% | ~4,233 |
 | Famous Healer | 38.00% | ~3,830 |
-| Local Leader | 35.00% | ~3,527 |
+| Local Leader | 35.00% | ~3,528 |
 | Famous Explorer | 34.00% | ~3,427 |
 | New Opportunities | 34.00% | ~3,427 |
 | Energized | 33.00% | ~3,326 |
@@ -23,7 +23,7 @@ Number of Ratings: 836  (23.09.2022)
 | Catastrofan | 29.00% | ~2,923 |
 | Legendary Explorer | 28.00% | ~2,822 |
 | Cleaner | 28.00% | ~2,822 |
-| Finders, Keepers | 26.00% | ~2,620 |
+| Finders, Keepers | 26.00% | ~2,621 |
 | Top Notch | 25.00% | ~2,520 |
 | Great Leader | 23.00% | ~2,318 |
 | Ice Lakes | 23.00% | ~2,318 |
@@ -45,7 +45,7 @@ Number of Ratings: 836  (23.09.2022)
 | Trader | 9.00% | ~907 |
 | Bread and Circuses | 8.00% | ~806 |
 | Tailored to fit | 8.00% | ~806 |
-| New Eden | 7.00% | ~705 |
+| New Eden | 7.00% | ~706 |
 | Really Friendly | 6.00% | ~605 |
 | Amped Up | 6.00% | ~605 |
 | Look, no Hands! | 5.00% | ~504 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,078 (Ranked 156)  
+Progressed: 10,079 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 10,020 | 0 |
 | 2023-11-02 | 10,047 | 0 |
 | 2023-11-03 | 10,067 | 0 |
-| 2023-11-04 | 10,078 | 0 |
+| 2023-11-04 | 10,079 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 353)  
 Sum: 725 (Ranked 288)  

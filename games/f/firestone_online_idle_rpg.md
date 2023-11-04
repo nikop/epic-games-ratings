@@ -70,12 +70,12 @@ Rating: 4.10 (Ranked 956)
 | Pokerface | 2.00% | ~42 |
 | Titan Power | 2.00% | ~42 |
 | Angel Power | 1.00% | ~21 |
+| Beast War Machines | 1.00% | ~21 |
 | Conqueror | 1.00% | ~21 |
 | Enhanced War Machines | 1.00% | ~21 |
 | Training makes a Pro player | 1.00% | ~21 |
 | Transmute | 1.00% | ~21 |
 | Tree of Life | 1.00% | ~21 |
-| Beast War Machines | 0.90% | ~19 |
 | Silverwood liberator | 0.80% | ~17 |
 | Ultimate War Machines | 0.80% | ~17 |
 | War Machines Army | 0.20% | ~4 |

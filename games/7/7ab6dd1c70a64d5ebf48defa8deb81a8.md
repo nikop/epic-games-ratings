@@ -26,9 +26,9 @@
 | To Battle | 4.00% | ~4 |
 | Godslayer | 4.00% | ~4 |
 | The Mentor | 3.00% | ~3 |
+| Big Bazar | 3.00% | ~3 |
 | A Queen's Tale | 3.00% | ~3 |
 | Flawless Victory | 2.00% | ~2 |
-| Big Bazar | 2.00% | ~2 |
 | Clear Sight | 1.00% | ~1 |
 | Shardbearer | 1.00% | ~1 |
 | Slayer | 1.00% | ~1 |

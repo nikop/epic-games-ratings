@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 403,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-11-02T00:05:59.7052211+00:00",
       "NumProgressed": 402,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-04T09:06:47.9006343+00:00",
+      "NumProgressed": 403,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -601,7 +606,7 @@
       "Name": "Fore!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "CATAPULT_THROW",
@@ -609,7 +614,7 @@
       "Name": "Car-Tapult",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "COIN_COLLECT",
@@ -617,7 +622,7 @@
       "Name": "The Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -697,7 +702,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -705,7 +710,7 @@
       "Name": "To and Fro",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -713,7 +718,7 @@
       "Name": "Disoriented",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -761,7 +766,7 @@
       "Name": "Anger Issues",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -785,7 +790,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -793,7 +798,7 @@
       "Name": "Insurance fraud",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -825,7 +830,7 @@
       "Name": "Your Highness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LEFT_LEVEL",
@@ -833,7 +838,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -841,7 +846,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -857,7 +862,7 @@
       "Name": "Snow Fun!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -865,7 +870,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -897,7 +902,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "STUNT_EVENT",
@@ -905,7 +910,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -929,7 +934,7 @@
       "Name": "Ferry Good!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "USE_ROCKET",
@@ -945,7 +950,7 @@
       "Name": "I see the light!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -961,7 +966,7 @@
       "Name": "Event Amateur",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -977,7 +982,7 @@
       "Name": "Beach Party!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WIN_KING_HILL",
@@ -985,7 +990,7 @@
       "Name": "Assert Dominance",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -1001,7 +1006,7 @@
       "Name": "In the Bag!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -1009,7 +1014,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1024,7 +1029,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 403,
       "Completed": 2
     }
   ],
@@ -1032,8 +1037,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:06:32.5208793+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:06:47.9006337+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:39.027252+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:00:35.6324075+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:06:32.5209177+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:00:36.8830541+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:06:47.9007102+00:00"
 }

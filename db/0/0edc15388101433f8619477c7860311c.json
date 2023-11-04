@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -217,9 +217,9 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FirstTry",
@@ -241,9 +241,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "HideAndSeek",
@@ -392,8 +392,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:08:41.993935+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:09:01.4000089+00:00",
   "LastUpdate_AppInfo": "2023-10-30T08:57:01.924144+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:00:17.8711001+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:08:41.993945+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:00:21.6268039+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:09:01.4000296+00:00"
 }

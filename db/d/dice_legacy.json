@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1147,
+  "EOS_Progressed": 1148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2052,6 +2052,11 @@
       "Time": "2023-11-02T21:08:57.2369454+00:00",
       "NumProgressed": 1147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T09:06:54.5699965+00:00",
+      "NumProgressed": 1148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2181,9 +2186,9 @@
       "ID": "DIE_FORGE_CUSTOM",
       "SetID": "6ohhfoc",
       "Name": "Manipulating Fate",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 103
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2422,7 +2427,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1147,
+      "Progressed": 1148,
       "Completed": 0
     }
   ],
@@ -2430,8 +2435,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:06:39.8362067+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:06:54.5699959+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:09.081157+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:59:27.6986936+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:06:39.8362402+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:59:36.8907523+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:06:54.5700557+00:00"
 }

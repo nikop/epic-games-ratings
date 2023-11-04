@@ -6,48 +6,48 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 191.00% | ~357 |
-| Adept Assembler | 159.00% | ~297 |
-| Greeno-B-Gone | 97.00% | ~181 |
-| Your Especially Earned Trajectory | 74.00% | ~138 |
-| Can We Keep It? | 46.00% | ~86 |
-| No Mountain Wide Enough | 42.00% | ~79 |
-| On that Grindset | 34.00% | ~64 |
-| My Time Mansion | 33.00% | ~62 |
-| Happier-est Place on Earth | 24.00% | ~45 |
-| Anti-Santa | 24.00% | ~45 |
-| You Don't Win Friends With Salad | 24.00% | ~45 |
-| Call Me Fishmael | 24.00% | ~45 |
-| Yakmel Whisperer | 23.00% | ~43 |
-| Finishing Touches | 21.00% | ~39 |
-| Mole Masher | 20.00% | ~37 |
+| Iron Chef | 188.00% | ~359 |
+| Adept Assembler | 157.00% | ~300 |
+| Greeno-B-Gone | 96.00% | ~183 |
+| Your Especially Earned Trajectory | 73.00% | ~139 |
+| Can We Keep It? | 46.00% | ~88 |
+| No Mountain Wide Enough | 42.00% | ~80 |
+| On that Grindset | 34.00% | ~65 |
+| My Time Mansion | 33.00% | ~63 |
+| Happier-est Place on Earth | 24.00% | ~46 |
+| You Don't Win Friends With Salad | 24.00% | ~46 |
+| Call Me Fishmael | 24.00% | ~46 |
+| Anti-Santa | 23.00% | ~44 |
+| Yakmel Whisperer | 23.00% | ~44 |
+| Finishing Touches | 21.00% | ~40 |
+| Mole Masher | 20.00% | ~38 |
 | Knowledge is Power | 19.00% | ~36 |
 | Officially Official | 18.00% | ~34 |
 | I Do! | 17.00% | ~32 |
-| Pack Mule | 16.00% | ~30 |
-| Better Late than Never | 16.00% | ~30 |
-| Jewel of the Eufaula | 15.00% | ~28 |
-| Financially Secure | 13.00% | ~24 |
-| Diamonds are Forever | 13.00% | ~24 |
+| Pack Mule | 16.00% | ~31 |
+| Better Late than Never | 16.00% | ~31 |
+| Jewel of the Eufaula | 15.00% | ~29 |
+| Financially Secure | 14.00% | ~27 |
+| Diamonds are Forever | 13.00% | ~25 |
 | Panda-kin | 9.00% | ~17 |
 | He Can Spin A Yarn... | 9.00% | ~17 |
-| Chatterbox | 9.00% | ~17 |
 | First Love | 9.00% | ~17 |
+| Jack of All Trades | 8.00% | ~15 |
+| Chatterbox | 8.00% | ~15 |
 | One of the Cool Kids | 8.00% | ~15 |
-| Jack of All Trades | 7.00% | ~13 |
 | What Plants Crave | 7.00% | ~13 |
 | Got Served | 7.00% | ~13 |
+| Unboxing | 7.00% | ~13 |
 | Big Game Hunter | 6.00% | ~11 |
-| Unboxing | 6.00% | ~11 |
-| Cardistry | 5.00% | ~9 |
-| Pro Gamer | 5.00% | ~9 |
-| Do Your Part | 5.00% | ~9 |
-| Newton | 5.00% | ~9 |
-| Commissions, commissions...! | 4.00% | ~7 |
-| Kind of a Big Deal | 4.00% | ~7 |
-| Martle's Dream | 4.00% | ~7 |
-| Lifeline Pipeline | 4.00% | ~7 |
-| Santa In Training | 4.00% | ~7 |
+| Cardistry | 6.00% | ~11 |
+| Newton | 6.00% | ~11 |
+| Pro Gamer | 5.00% | ~10 |
+| Do Your Part | 5.00% | ~10 |
+| Commissions, commissions...! | 4.00% | ~8 |
+| Kind of a Big Deal | 4.00% | ~8 |
+| Martle's Dream | 4.00% | ~8 |
+| Lifeline Pipeline | 4.00% | ~8 |
+| Santa In Training | 4.00% | ~8 |
 | Time Flies | 3.00% | ~6 |
 | Elementary, My Dear | 3.00% | ~6 |
 | Who Ya Gonna Call...? | 3.00% | ~6 |
@@ -67,14 +67,14 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 365)  
+Progressed: 191 (Ranked 362)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
 | 2023-11-03 | 167 | 0 |
-| 2023-11-04 | 187 | 0 |
+| 2023-11-04 | 191 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,255 (Ranked 238)  

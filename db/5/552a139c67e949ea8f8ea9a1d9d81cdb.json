@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 852,
+  "EOS_Progressed": 853,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 340,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1487,6 +1487,11 @@
       "Time": "2023-11-04T06:04:19.1506768+00:00",
       "NumProgressed": 852,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T09:04:33.7428599+00:00",
+      "NumProgressed": 853,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1499,7 +1504,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1507,7 +1512,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1515,7 +1520,7 @@
       "Name": "Out of control",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1755,7 +1760,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1771,7 +1776,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -1779,7 +1784,7 @@
       "Name": "Perfectionist",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -1842,20 +1847,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 852,
+      "Progressed": 853,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 520,
-      "Completed": 520
+      "Progressed": 521,
+      "Completed": 521
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:04:03.4589968+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:04:33.7428591+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:59:25.6659764+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:04:03.4590255+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:59:35.0685705+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:04:33.7429069+00:00"
 }

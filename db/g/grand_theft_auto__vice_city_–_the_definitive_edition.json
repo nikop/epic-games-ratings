@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10810,
+  "EOS_Progressed": 10813,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12204,6 +12204,11 @@
       "Time": "2023-11-04T07:06:13.1776991+00:00",
       "NumProgressed": 10810,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-04T09:06:27.7393609+00:00",
+      "NumProgressed": 10813,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12239,7 +12244,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH05",
@@ -12263,7 +12268,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH08",
@@ -12271,7 +12276,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH09",
@@ -12319,7 +12324,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH15",
@@ -12375,7 +12380,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4973
+      "UsersEstimate": 4974
     },
     {
       "ID": "ACH22",
@@ -12383,7 +12388,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ACH23",
@@ -12423,7 +12428,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ACH28",
@@ -12486,7 +12491,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10810,
+      "Progressed": 10813,
       "Completed": 64
     }
   ],
@@ -12494,8 +12499,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:06:10.5866844+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:06:27.73936+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:02:41.2457977+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:06:10.586752+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:03:18.5634649+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:06:27.7394578+00:00"
 }

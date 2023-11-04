@@ -2,9 +2,9 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-11-04T06:06:17.7261351+00:00",
       "NumProgressed": 64,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T09:06:11.9450171+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -371,7 +376,7 @@
       "ID": "A13",
       "SetID": "7f5j12l",
       "Name": "Statue of Liberty Destroyed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -411,15 +416,15 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -573,7 +578,7 @@
       "Name": "1M Trees Burnt",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "A6",
@@ -612,14 +617,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-04T08:05:53.8860165+00:00",
+  "LastChanged_Achievements": "2023-11-04T09:06:11.9450166+00:00",
   "LastUpdate_AppInfo": "2023-10-31T07:57:18.4168742+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:59:17.0240112+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:05:53.8860384+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:59:27.544488+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:06:11.945045+00:00"
 }

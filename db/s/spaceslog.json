@@ -2,7 +2,7 @@
   "ID": "01ad5d6fa6cf40e9a1dd04192fac6ad7",
   "Name": "SpaceSlog",
   "ProductSlug": "spaceslog-9f9162",
-  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 130,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-28T12:58:42.5884721+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:58:01.9299636+00:00",
-  "LastUpdate_Achievements": "2023-11-04T08:03:40.293611+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:58:21.0522723+00:00",
+  "LastUpdate_Achievements": "2023-11-04T09:04:12.3997356+00:00"
 }
