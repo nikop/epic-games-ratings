@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3619,
+  "EOS_Progressed": 3621,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3536,6 +3536,11 @@
       "Time": "2023-11-03T22:21:01.298945+00:00",
       "NumProgressed": 3619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T08:05:25.4391077+00:00",
+      "NumProgressed": 3621,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3849,9 +3854,9 @@
       "ID": "ACH_OB_LI",
       "SetID": "b3fep3o",
       "Name": "Lochos",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_OB_LS",
@@ -4050,7 +4055,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3619,
+      "Progressed": 3621,
       "Completed": 0
     }
   ],
@@ -4058,8 +4063,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:05:31.8098285+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:05:25.4391074+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.3656873+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:02:57.1125714+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:05:31.8098937+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:02:32.3198237+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:05:25.4391572+00:00"
 }

@@ -143,9 +143,9 @@
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect3",
@@ -239,9 +239,9 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "fights7",
@@ -447,9 +447,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "story20",
@@ -471,33 +471,33 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "story7",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:04:53.8894683+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:04:42.9562974+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.7362932+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:59:19.5410685+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:04:53.8894995+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:59:25.8034335+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:04:42.9563281+00:00"
 }

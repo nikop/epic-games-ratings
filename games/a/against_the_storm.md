@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 7.00% | ~1,202 |
-| No Deaths | 7.00% | ~1,202 |
+| Taking Action | 7.00% | ~1,203 |
+| No Deaths | 7.00% | ~1,203 |
 | First Real Expedition | 6.00% | ~1,031 |
 | Overcoming Difficulty | 6.00% | ~1,031 |
 | Coral Forest | 6.00% | ~1,031 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,178 (Ranked 138)  
+Progressed: 17,179 (Ranked 138)  
 Completed: 53 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 53 (0.31%) (Ranked 219)
 | 2023-11-01 | 17,143 | 53 |
 | 2023-11-02 | 17,154 | 53 |
 | 2023-11-03 | 17,173 | 53 |
-| 2023-11-04 | 17,178 | 53 |
+| 2023-11-04 | 17,179 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 216)  
 Sum: 3,204 (Ranked 170)  

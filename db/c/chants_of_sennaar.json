@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 404,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.72,
+  "EOS_Completed_Percentage": 5.69,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1810,6 +1810,11 @@
       "Time": "2023-11-04T07:08:18.5714793+00:00",
       "NumProgressed": 402,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-04T08:06:48.0507117+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1821,7 +1826,7 @@
       "Name": "I did it",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "END_GOOD",
@@ -1829,7 +1834,7 @@
       "Name": "In this together",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "META_ALL_LINK",
@@ -1837,7 +1842,7 @@
       "Name": "Peace walker",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1845,7 +1850,7 @@
       "Name": "Cable guy",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1853,7 +1858,7 @@
       "Name": "A good beginning",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "META_HALF_LINK",
@@ -1861,7 +1866,7 @@
       "Name": "Half the way",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1933,7 +1938,7 @@
       "Name": "True G3M4R",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1941,7 +1946,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1957,7 +1962,7 @@
       "Name": "Champollion",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1973,7 +1978,7 @@
       "Name": "Scholar",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PROGRESS_N1",
@@ -1989,7 +1994,7 @@
       "Name": "The great escape",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N3",
@@ -1997,7 +2002,7 @@
       "Name": "A new dawn",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "PROGRESS_N4",
@@ -2005,7 +2010,7 @@
       "Name": "The darkness",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "PROGRESS_N5",
@@ -2013,21 +2018,21 @@
       "Name": "One last step",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 404,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:08:18.5714789+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:06:48.0507114+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T07:00:04.9876608+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:08:18.5715014+00:00"
+  "LastUpdate_Ratings": "2023-11-04T08:00:17.7016397+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:06:48.0507414+00:00"
 }

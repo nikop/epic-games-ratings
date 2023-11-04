@@ -353,9 +353,9 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "aq_achievement_20",
@@ -433,17 +433,17 @@
       "ID": "aq_achievement_29",
       "SetID": "7jh86ne",
       "Name": "Pain in the hands",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "aq_achievement_3",
       "SetID": "7jh86ne",
       "Name": "My lost nightingale",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "aq_achievement_30",
@@ -521,33 +521,33 @@
       "ID": "aq_achievement_39",
       "SetID": "7jh86ne",
       "Name": "Kill it! KILL IT!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "aq_achievement_4",
       "SetID": "7jh86ne",
       "Name": "Back to the anvil",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "aq_achievement_5",
       "SetID": "7jh86ne",
       "Name": "So soothing...",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "aq_achievement_6",
       "SetID": "7jh86ne",
       "Name": "Kekekeke...",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "aq_achievement_7",
@@ -569,9 +569,9 @@
       "ID": "aq_achievement_9",
       "SetID": "7jh86ne",
       "Name": "Roostwig has entered the building",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
@@ -586,8 +586,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:09:22.2967207+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:09:07.5818209+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:50.9708486+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:58:10.4826098+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:09:22.2967476+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:58:07.8077076+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:09:07.5818425+00:00"
 }

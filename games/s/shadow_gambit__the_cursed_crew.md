@@ -14,7 +14,7 @@ Rating: 4.74 (Ranked 154)
 | Powder Monkey | 31.00% | ~249 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~241 |
 | Mirror Mirror on the Wall | 29.00% | ~233 |
-| Pirates Assemble! | 26.00% | ~209 |
+| Pirates Assemble! | 27.00% | ~217 |
 | Buccaneer | 24.00% | ~192 |
 | Fishy Fish | 22.00% | ~176 |
 | All Good Things | 21.00% | ~168 |

@@ -23,18 +23,18 @@ Rating: 4.57 (Ranked 466)
 | Breaking Protocol | 11.00% | ~360 |
 | Man's Best Friend | 8.00% | ~262 |
 | Power Outage | 8.00% | ~262 |
+| Convenient Transport | 8.00% | ~262 |
 | Please Make it Stop! | 8.00% | ~262 |
 | Sightseeing | 7.00% | ~229 |
 | Necessary Enhancement | 7.00% | ~229 |
-| Convenient Transport | 7.00% | ~229 |
 | From the Past | 7.00% | ~229 |
 | Access Granted | 6.00% | ~197 |
 | All in Good Health | 6.00% | ~197 |
 | Oats | 5.00% | ~164 |
 | What They Hide From Us | 5.00% | ~164 |
+| ...  in a finite world | 5.00% | ~164 |
 | BRAWL! | 5.00% | ~164 |
 | What the Ruins Teach Us | 5.00% | ~164 |
-| ...  in a finite world | 4.00% | ~131 |
 | Sustainable Energy | 4.00% | ~131 |
 | In Dolos We Trust | 4.00% | ~131 |
 | Pedal to the Metal | 4.00% | ~131 |

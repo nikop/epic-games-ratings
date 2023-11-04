@@ -2,9 +2,9 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.38,
+  "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -674,6 +674,11 @@
       "Time": "2023-11-04T06:03:11.3282036+00:00",
       "NumProgressed": 290,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T08:03:00.744856+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -685,7 +690,7 @@
       "Name": "Big Fish",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ENEMY_KILLER",
@@ -797,7 +802,7 @@
       "Name": "Tastes Like Chicken",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SHARD_1",
@@ -805,7 +810,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ACH_SHARD_2",
@@ -837,7 +842,7 @@
       "Name": "Fifth Shard",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_TROLL",
@@ -868,7 +873,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 4
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:03:20.9364191+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:03:00.7448557+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.6998262+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:57:36.3481815+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:03:20.9364405+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:57:29.4307307+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:03:00.744877+00:00"
 }

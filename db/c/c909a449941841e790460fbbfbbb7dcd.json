@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.1,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -574,6 +574,11 @@
       "Time": "2023-11-04T07:09:07.3668004+00:00",
       "NumProgressed": 128,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T08:08:51.3032822+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -602,7 +607,7 @@
       "Name": "Slayer",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -610,7 +615,7 @@
       "Name": "Assassin",
       "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -618,7 +623,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -626,7 +631,7 @@
       "Name": "Killer",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -664,9 +669,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -696,7 +701,7 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 60,
       "UsersEstimate": 61
     },
@@ -704,31 +709,31 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 110,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:09:07.3668+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:08:51.3032815+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:58:11.8223842+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:09:07.3668377+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:58:09.3239535+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:08:51.3032929+00:00"
 }

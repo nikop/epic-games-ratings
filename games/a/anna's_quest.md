@@ -7,15 +7,15 @@
 | Escape artist | 77.00% | ~48 |
 | Book Worm | 56.00% | ~35 |
 | Ooh, it's shiny! | 55.00% | ~34 |
-| My lost nightingale | 45.00% | ~28 |
-| Through the woods | 42.00% | ~26 |
+| My lost nightingale | 47.00% | ~29 |
+| Through the woods | 44.00% | ~27 |
 | Fussy eater | 39.00% | ~24 |
-| Back to the anvil | 37.00% | ~23 |
-| So soothing... | 37.00% | ~23 |
-| Kekekeke... | 37.00% | ~23 |
+| Back to the anvil | 39.00% | ~24 |
+| So soothing... | 39.00% | ~24 |
+| Kekekeke... | 39.00% | ~24 |
+| Roostwig has entered the building | 37.00% | ~23 |
 | Far away from home | 35.00% | ~22 |
 | Sorry Grandpa | 35.00% | ~22 |
-| Roostwig has entered the building | 35.00% | ~22 |
 | Mystery solved | 34.00% | ~21 |
 | Honey, honey, honey… | 34.00% | ~21 |
 | NOW GO AWAY! | 34.00% | ~21 |
@@ -27,16 +27,16 @@
 | Little genius | 31.00% | ~19 |
 | GG | 29.00% | ~18 |
 | You've got mail! | 29.00% | ~18 |
+| Pain in the hands | 29.00% | ~18 |
 | Memories | 27.00% | ~17 |
 | Beekeeper | 27.00% | ~17 |
-| Pain in the hands | 27.00% | ~17 |
 | Mischief maker | 27.00% | ~17 |
 | Close the deal | 26.00% | ~16 |
 | Ring-a-ding-ding | 26.00% | ~16 |
 | Turn the last page | 24.00% | ~15 |
+| Kill it! KILL IT! | 24.00% | ~15 |
 | Makeover | 23.00% | ~14 |
 | Singstar | 23.00% | ~14 |
-| Kill it! KILL IT! | 23.00% | ~14 |
 | Bahahahaha... | 21.00% | ~13 |
 | Guilty conscience | 18.00% | ~11 |
 | Cameodalic | 16.00% | ~10 |

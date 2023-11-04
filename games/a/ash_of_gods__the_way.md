@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 106.00% | ~18 |
-| Suicide squad | 53.00% | ~9 |
-| First blood | 24.00% | ~4 |
+| Suicide squad | 59.00% | ~10 |
+| First blood | 29.00% | ~5 |
+| Train hard, fight easy | 24.00% | ~4 |
+| Royal blessing | 24.00% | ~4 |
+| Under cover | 24.00% | ~4 |
+| Surpass the teacher | 18.00% | ~3 |
 | All for one! | 18.00% | ~3 |
-| Train hard, fight easy | 18.00% | ~3 |
-| Royal blessing | 18.00% | ~3 |
-| Under cover | 18.00% | ~3 |
 | A hidden snake | 18.00% | ~3 |
 | Blood and sand | 18.00% | ~3 |
 | Crimson rivers | 12.00% | ~2 |
 | Berkanan Borgia | 12.00% | ~2 |
 | Power of Inquisition | 12.00% | ~2 |
 | The champion of the arena | 12.00% | ~2 |
-| Surpass the teacher | 12.00% | ~2 |
 | Vene, vidi, vici | 12.00% | ~2 |
 | By own strength | 12.00% | ~2 |
 | A solo player | 12.00% | ~2 |
@@ -27,6 +27,7 @@
 | Help of the Gell | 12.00% | ~2 |
 | Trial by cold | 12.00% | ~2 |
 | She-Wolf | 12.00% | ~2 |
+| For the greater good | 6.00% | ~1 |
 | Overplay the rogue | 6.00% | ~1 |
 | The best apprentice | 6.00% | ~1 |
 | Stronger than Gellian steel | 6.00% | ~1 |
@@ -35,7 +36,6 @@
 | Deadly strike | 6.00% | ~1 |
 | Do it yourself | 6.00% | ~1 |
 | All's fair in love and war | 6.00% | ~1 |
-| For the greater good | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |

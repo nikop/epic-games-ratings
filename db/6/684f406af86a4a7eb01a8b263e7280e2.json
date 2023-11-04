@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-empire-f23125",
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -578,8 +578,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-29T19:02:56.789919+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:05:02.3571198+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:04:52.1985635+00:00",
   "LastUpdate_AppInfo": "2023-10-29T18:57:00.6887943+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:58:43.9756185+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:05:02.3571706+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:58:45.1960848+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:04:52.1986413+00:00"
 }

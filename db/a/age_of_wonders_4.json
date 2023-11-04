@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -399,9 +399,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5268,
+  "EOS_Progressed": 5269,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6619,6 +6619,11 @@
       "Time": "2023-11-03T17:05:50.2144869+00:00",
       "NumProgressed": 5268,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T08:04:48.9502848+00:00",
+      "NumProgressed": 5269,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 50,
@@ -6766,7 +6771,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "26",
@@ -6996,9 +7001,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 158
     },
     {
       "ID": "48",
@@ -7029,13 +7034,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5268,
+      "Progressed": 5269,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5268,
+      "Progressed": 5269,
       "Completed": 7
     }
   ],
@@ -7043,8 +7048,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-02T16:01:19.3069971+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:04:59.3111985+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:04:48.9502844+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:02.1376773+00:00",
-  "LastUpdate_Ratings": "2023-11-04T06:57:31.435147+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:04:59.3112616+00:00"
+  "LastUpdate_Ratings": "2023-11-04T07:57:23.6919724+00:00",
+  "LastUpdate_Achievements": "2023-11-04T08:04:48.9503797+00:00"
 }

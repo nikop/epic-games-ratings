@@ -5,37 +5,37 @@ Rating: 4.24 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,715 |
-| Don't I Know You...? | 77.00% | ~1,651 |
-| Jailbreak | 66.00% | ~1,415 |
+| Rigged And Ready | 80.00% | ~1,717 |
+| Don't I Know You...? | 77.00% | ~1,652 |
+| Jailbreak | 66.00% | ~1,416 |
 | HEADSHOT! | 38.00% | ~815 |
 | Suited and Booted | 38.00% | ~815 |
-| Sleeping With The Fishes | 35.00% | ~750 |
-| Overheated | 30.00% | ~643 |
-| High Performance | 30.00% | ~643 |
-| Powered Up | 28.00% | ~600 |
+| Sleeping With The Fishes | 35.00% | ~751 |
+| Overheated | 30.00% | ~644 |
+| High Performance | 30.00% | ~644 |
+| Powered Up | 28.00% | ~601 |
 | Studied The Blade | 25.00% | ~536 |
-| Home Invasion | 23.00% | ~493 |
+| Home Invasion | 23.00% | ~494 |
 | Luminary | 22.00% | ~472 |
 | It's a Trap | 22.00% | ~472 |
-| True Survivor | 21.00% | ~450 |
+| True Survivor | 21.00% | ~451 |
 | Offensive Defense | 20.00% | ~429 |
 | Shocking | 20.00% | ~429 |
-| Court Martial | 19.00% | ~407 |
-| Clean Cut | 19.00% | ~407 |
-| Unforeseeable Consequences | 19.00% | ~407 |
+| Court Martial | 19.00% | ~408 |
+| Clean Cut | 19.00% | ~408 |
+| Unforeseeable Consequences | 19.00% | ~408 |
 | Dead Again | 18.00% | ~386 |
-| Full Arsenal | 17.00% | ~364 |
+| Full Arsenal | 17.00% | ~365 |
 | Can't Trust Banks | 15.00% | ~322 |
 | Mommy Dearest | 14.00% | ~300 |
 | Bad Dog | 13.00% | ~279 |
 | Where It All Began | 13.00% | ~279 |
 | Risk Tolerant | 13.00% | ~279 |
 | What A Catchy Song | 13.00% | ~279 |
-| Corrupted Beauty | 12.00% | ~257 |
-| Marked For Success | 12.00% | ~257 |
-| Sorry, Didn't See You There | 12.00% | ~257 |
-| Triplets | 10.00% | ~214 |
+| Corrupted Beauty | 12.00% | ~258 |
+| Marked For Success | 12.00% | ~258 |
+| Sorry, Didn't See You There | 12.00% | ~258 |
+| Triplets | 10.00% | ~215 |
 | Denying Prophecy | 9.00% | ~193 |
 | Stimulating The Local Economy | 9.00% | ~193 |
 | A Little Banged Up | 8.00% | ~172 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 875)
 | Swiss Army Drone | 1.00% | ~21 |
 | The Easy Way Out | 1.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,144 (Ranked 212)  
+Progressed: 2,146 (Ranked 212)  
 Completed: 13 (0.61%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 13 (0.61%) (Ranked 177)
 | 2023-11-01 | 2,113 | 13 |
 | 2023-11-02 | 2,131 | 13 |
 | 2023-11-03 | 2,143 | 13 |
-| 2023-11-04 | 2,144 | 13 |
+| 2023-11-04 | 2,146 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

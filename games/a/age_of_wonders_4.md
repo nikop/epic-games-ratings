@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 408)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 9.00% | ~474 |
-| Walls Cannot Stop Us | 8.00% | ~421 |
+| Walls Cannot Stop Us | 8.00% | ~422 |
 | Realm Estate | 7.00% | ~369 |
 | A Wonderful Discovery | 7.00% | ~369 |
 | Bone Peddler | 7.00% | ~369 |
@@ -39,13 +39,13 @@ Rating: 4.60 (Ranked 408)
 | Eternal Lord | 3.00% | ~158 |
 | Crimson Caldera | 3.00% | ~158 |
 | The Eternal Court | 3.00% | ~158 |
+| Duality | 3.00% | ~158 |
 | I've Got Everything I Need Right Here | 2.00% | ~105 |
 | The Magic That Empowers Me! | 2.00% | ~105 |
 | Jack of All Tomes | 2.00% | ~105 |
 | Pruning for Progress | 2.00% | ~105 |
 | Grexolis | 2.00% | ~105 |
 | One for All, All for One | 2.00% | ~105 |
-| Duality | 2.00% | ~105 |
 | Manufactured War | 1.00% | ~53 |
 | Snap Out of It! | 0.90% | ~47 |
 | Betrayal Most Foul | 0.70% | ~37 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 408)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,268 (Ranked 181)  
+Progressed: 5,269 (Ranked 181)  
 Completed: 7 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 7 (0.13%) (Ranked 255)
 | 2023-10-31 | 5,262 | 6 |
 | 2023-11-01 | 5,264 | 7 |
 | 2023-11-03 | 5,268 | 7 |
+| 2023-11-04 | 5,269 | 7 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 489)  
 Sum: 30 (Ranked 508)  

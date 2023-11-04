@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.40% | ~2 |
 | Not Touching You | 0.20% | ~1 |
 | Expensive Look | 0.20% | ~1 |
+| What Doesn't Kill You | 0.20% | ~1 |
 | Thank You, Friend | 0.10% | ~239 |
 | Achievement Hunter | 0.10% | ~239 |
 | Ambitious Intent | 0.10% | ~239 |
@@ -143,9 +144,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nuclear | 0.10% | ~1 |
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
-| What Doesn't Kill You | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,100 (Ranked 59)  
+Progressed: 239,101 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,10 +343,10 @@ Completed: 286 (0.12%) (Ranked 261)
 | 2023-11-01 | 238,974 | 286 |
 | 2023-11-02 | 239,015 | 286 |
 | 2023-11-03 | 239,082 | 286 |
-| 2023-11-04 | 239,100 | 286 |
+| 2023-11-04 | 239,101 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 129)  
-Sum: 11,651 (Ranked 83)  
+Sum: 11,652 (Ranked 83)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 46
 | This game is Relaxing | 1,435 |
 | This game has Challenging Combat | 1,432 |
 | This game is Extremely Fun | 1,409 |
-| This game is Highly Recommended | 1,377 |
+| This game is Highly Recommended | 1,378 |
 | This game has Amazing Storytelling | 1,320 |
 | This game has Amazing Characters | 1,223 |
 | This game has Unique Visuals | 1,213 |
@@ -562,3 +562,4 @@ Diff (max vs sum): 46
 | 2023-11-01 | 4.58 | - | 1,500 | 11,643 |
 | 2023-11-02 | 4.58 | - | 1,502 | 11,647 |
 | 2023-11-03 | 4.58 | - | 1,503 | 11,651 |
+| 2023-11-04 | 4.58 | - | 1,503 | 11,652 |

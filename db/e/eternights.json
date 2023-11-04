@@ -1511,9 +1511,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 194
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -1566,8 +1566,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-04T07:05:57.1673526+00:00",
+  "LastChanged_Achievements": "2023-11-04T08:05:53.2391275+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:17.9730045+00:00",
   "LastUpdate_Ratings": "2023-11-04T07:02:52.4618127+00:00",
-  "LastUpdate_Achievements": "2023-11-04T07:05:57.1673753+00:00"
+  "LastUpdate_Achievements": "2023-11-04T08:05:53.239149+00:00"
 }
