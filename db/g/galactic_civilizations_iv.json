@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 926,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 175,
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7216,
+  "EOS_Progressed": 7217,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -8180,6 +8180,11 @@
       "Time": "2023-11-04T21:16:10.6728976+00:00",
       "NumProgressed": 7216,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T22:05:21.0362692+00:00",
+      "NumProgressed": 7217,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8247,7 +8252,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -8295,7 +8300,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5556
+      "UsersEstimate": 5557
     },
     {
       "ID": "First_Race_Met",
@@ -8311,7 +8316,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "First_Stream_Travel",
@@ -8327,7 +8332,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5556
+      "UsersEstimate": 5557
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8407,7 +8412,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "Play_1000_Hours",
@@ -8679,7 +8684,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8719,7 +8724,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Win_Influence",
@@ -8766,15 +8771,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7216,
+      "Progressed": 7217,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:16:10.6728973+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:05:21.0362687+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:05:19.4445773+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:16:10.6729928+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:00:18.0044476+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:05:21.036386+00:00"
 }

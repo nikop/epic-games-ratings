@@ -874,9 +874,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -898,9 +898,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -978,9 +978,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -1002,9 +1002,9 @@
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -1026,9 +1026,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -1074,17 +1074,17 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 161
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -1138,17 +1138,17 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
       "SetID": "5fn8ia4",
       "Name": "Further Cleaning!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "GSS_ACH_37_BROOM_03",
@@ -1442,9 +1442,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1529,8 +1529,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:18:20.4736316+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:07:07.2666764+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:59:25.592944+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:18:20.4737217+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:59:18.3082887+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:07:07.2667809+00:00"
 }

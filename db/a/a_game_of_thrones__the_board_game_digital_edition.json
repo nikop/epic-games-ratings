@@ -3,7 +3,7 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 895,
-  "Ranking_Popularity": 329,
+  "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 229,
@@ -1314,9 +1314,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27642,
+  "EOS_Progressed": 27643,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22629,6 +22629,11 @@
       "Time": "2023-11-04T21:19:36.0808055+00:00",
       "NumProgressed": 27642,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-11-04T22:09:02.0535406+00:00",
+      "NumProgressed": 27643,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 22,
@@ -22760,7 +22765,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5528
+      "UsersEstimate": 5529
     },
     {
       "ID": "1031",
@@ -22800,7 +22805,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     },
     {
       "ID": "1036",
@@ -22815,15 +22820,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27642,
+      "Progressed": 27643,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:19:36.0808051+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:09:02.0535402+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:13:07.216758+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:19:36.0809158+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:03:24.259598+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:09:02.0536811+00:00"
 }

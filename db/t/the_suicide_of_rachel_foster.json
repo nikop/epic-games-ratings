@@ -257,11 +257,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1592,
+  "EOS_Progressed": 1593,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.59,
+  "EOS_Completed_Percentage": 4.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -3172,6 +3172,11 @@
       "Time": "2023-11-04T20:04:58.866443+00:00",
       "NumProgressed": 1592,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-04T22:05:20.5136944+00:00",
+      "NumProgressed": 1593,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3199,7 +3204,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3215,7 +3220,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_FineEV9",
@@ -3231,7 +3236,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3247,7 +3252,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3270,15 +3275,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1592,
+      "Progressed": 1593,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:16:10.0281423+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:05:20.5136938+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.3333831+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:57:50.1664252+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:16:10.0281647+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:58:02.2611582+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:05:20.5137214+00:00"
 }

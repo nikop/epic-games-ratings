@@ -1,36 +1,36 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.39 (Ranked 744)  
+Rating: 4.39 (Ranked 743)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 6.00% | ~946 |
-| Crush That Cube! | 5.00% | ~788 |
-| Sector 2 | 5.00% | ~788 |
-| Sector 3 | 4.00% | ~631 |
-| Crush That Ball! | 3.00% | ~473 |
-| Sector 4 | 3.00% | ~473 |
-| Feeling the Blues | 2.00% | ~315 |
-| Sector 5 | 2.00% | ~315 |
-| Sector 6 | 2.00% | ~315 |
+| Sector 1 | 6.00% | ~948 |
+| Crush That Cube! | 5.00% | ~790 |
+| Sector 2 | 5.00% | ~790 |
+| Crush That Ball! | 4.00% | ~632 |
+| Sector 3 | 4.00% | ~632 |
+| Sector 4 | 3.00% | ~474 |
+| Feeling the Blues | 2.00% | ~316 |
+| Sector 5 | 2.00% | ~316 |
+| Sector 6 | 2.00% | ~316 |
 | Squished | 1.00% | ~158 |
 | Finale | 1.00% | ~158 |
 | Sector 7 | 1.00% | ~158 |
 | Did That Work? -- No! | 1.00% | ~158 |
-| Master Room | 0.70% | ~110 |
+| Master Room | 0.70% | ~111 |
 | The Puzzle Master | 0.60% | ~95 |
 | Bronze Trophy | 0.40% | ~63 |
+| Hopefully that's all of them! | 0.40% | ~63 |
 | Phew! | 0.40% | ~63 |
 | Silver Trophy | 0.40% | ~63 |
 | Completed It. | 0.40% | ~63 |
 | The Collector | 0.30% | ~47 |
 | Master Of The Collectables | 0.30% | ~47 |
 | Gold Trophy | 0.30% | ~47 |
-| Hopefully that's all of them! | 0.30% | ~47 |
 | Maxed Out | 0.30% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,770 (Ranked 144)  
+Progressed: 15,793 (Ranked 144)  
 Completed: 16 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 16 (0.10%) (Ranked 265)
 | 2023-11-01 | 14,311 | 0 |
 | 2023-11-02 | 14,773 | 2 |
 | 2023-11-03 | 15,270 | 7 |
-| 2023-11-04 | 15,770 | 16 |
+| 2023-11-04 | 15,793 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

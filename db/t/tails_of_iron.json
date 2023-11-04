@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -3229,9 +3229,9 @@
       "ID": "RepairSmith",
       "SetID": "9lj35g4",
       "Name": "Smithy Ready to Craft",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 932
     },
     {
       "ID": "RepairThroneRoom",
@@ -3276,8 +3276,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:16:53.7848869+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:05:56.2032306+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.5490267+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:00:09.750317+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:16:53.7849155+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:59:40.0252544+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:05:56.2032686+00:00"
 }

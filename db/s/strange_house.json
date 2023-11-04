@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2023-11-04T08:04:34.6563134+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T22:05:16.3624916+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -88,7 +93,7 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -112,7 +117,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -121,13 +126,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:16:05.4807547+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:05:16.362491+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.6534253+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:59:03.9961746+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:16:05.4807624+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:59:01.7407341+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:05:16.3625198+00:00"
 }

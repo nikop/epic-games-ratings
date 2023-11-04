@@ -10,6 +10,7 @@ Rating: 4.54 (Ranked 521)
 | One of Us | 0.60% | ~229 |
 | Git Gutte! | 0.20% | ~1,425 |
 | Anger Management | 0.20% | ~1,425 |
+| Bookworm | 0.20% | ~1,425 |
 | Break A Leg | 0.20% | ~1,425 |
 | Coup de Grâce | 0.20% | ~1,425 |
 | Hazardous Materials | 0.20% | ~1,425 |
@@ -21,7 +22,6 @@ Rating: 4.54 (Ranked 521)
 | Make it So | 0.10% | ~713 |
 | LA Influential | 0.10% | ~713 |
 | Perks of the Job | 0.10% | ~713 |
-| Bookworm | 0.10% | ~713 |
 | On Safari | 0.10% | ~713 |
 | I Got a Zombie Army and You Can't Harm Me | 0.10% | ~713 |
 | But Doctor, I am Butcho | 0.10% | ~713 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,561 (Ranked 21)  
+Progressed: 712,596 (Ranked 21)  
 Completed: 2,324 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 2,324 (0.33%) (Ranked 216)
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
-| 2023-11-04 | 712,561 | 2,324 |
+| 2023-11-04 | 712,596 | 2,324 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,576 (Ranked 89)  

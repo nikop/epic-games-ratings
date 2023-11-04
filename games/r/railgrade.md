@@ -5,28 +5,28 @@ Rating: 4.55 (Ranked 499)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 103.00% | ~19,182 |
-| Before the Downfall | 98.00% | ~18,251 |
-| Money like Water | 96.00% | ~17,878 |
-| Minimalist | 94.00% | ~17,506 |
-| Builder | 87.00% | ~16,202 |
-| Eraser | 73.00% | ~13,595 |
-| Pocket of Trains | 69.00% | ~12,850 |
-| Inspector | 62.00% | ~11,546 |
-| Going the Distance | 57.00% | ~10,615 |
-| Oil Baron | 44.00% | ~8,194 |
-| Loads-a-Money | 44.00% | ~8,194 |
+| Trevithick's Legacy | 103.00% | ~19,180 |
+| Before the Downfall | 98.00% | ~18,249 |
+| Money like Water | 96.00% | ~17,876 |
+| Minimalist | 94.00% | ~17,504 |
+| Builder | 87.00% | ~16,200 |
+| Eraser | 73.00% | ~13,593 |
+| Pocket of Trains | 69.00% | ~12,848 |
+| Inspector | 62.00% | ~11,545 |
+| Going the Distance | 57.00% | ~10,614 |
+| Oil Baron | 44.00% | ~8,193 |
+| Loads-a-Money | 44.00% | ~8,193 |
 | Helper of the People | 41.00% | ~7,635 |
 | Simplification | 36.00% | ~6,704 |
-| Box of Trains | 35.00% | ~6,518 |
-| Let There be Light | 34.00% | ~6,332 |
+| Box of Trains | 35.00% | ~6,517 |
+| Let There be Light | 34.00% | ~6,331 |
 | Hot Water | 32.00% | ~5,959 |
 | Indecisive | 31.00% | ~5,773 |
-| The scenic route | 29.00% | ~5,401 |
-| Industrialist | 26.00% | ~4,842 |
-| Perfectionist | 25.00% | ~4,656 |
-| 8K is Enough for Everyone | 24.00% | ~4,470 |
-| Trains over Pipes | 24.00% | ~4,470 |
+| The scenic route | 29.00% | ~5,400 |
+| Industrialist | 26.00% | ~4,841 |
+| Perfectionist | 25.00% | ~4,655 |
+| 8K is Enough for Everyone | 24.00% | ~4,469 |
+| Trains over Pipes | 24.00% | ~4,469 |
 | Man of Steel | 18.00% | ~3,352 |
 | Room Full of Trains | 13.00% | ~2,421 |
 | Investor | 10.00% | ~1,862 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 499)
 | Overdeer | 0.60% | ~112 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,623 (Ranked 133)  
+Progressed: 18,621 (Ranked 133)  
 Completed: 31 (0.17%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,8 +241,8 @@ Completed: 31 (0.17%) (Ranked 248)
 | 2023-11-04 | 18,638 | 31 |
 ## Awards
 Max (Quickly Understood Controls): 92  (Ranked 370)  
-Sum: 676 (Ranked 296)  
-Diff (max vs sum): 74  
+Sum: 676 (Ranked 297)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 92 |

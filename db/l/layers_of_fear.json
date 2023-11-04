@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -359,9 +359,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "decrypt_one_myth",
@@ -431,9 +431,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "find_one_photo",
@@ -455,9 +455,9 @@
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "finished_it",
@@ -551,9 +551,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "playtime",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:16:19.0823759+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:05:27.9167289+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.7435557+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:13:00.9351581+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:16:19.0824145+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:03:23.6410519+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:05:27.9167721+00:00"
 }

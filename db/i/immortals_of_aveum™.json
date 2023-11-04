@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-11-04T21:15:18.612724+00:00",
       "NumProgressed": 153,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T22:04:37.3626518+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -799,9 +804,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_10",
@@ -809,7 +814,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_11",
@@ -839,9 +844,9 @@
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_15",
@@ -857,7 +862,7 @@
       "Name": "Recruit",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_17",
@@ -943,17 +948,17 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_37",
@@ -967,9 +972,9 @@
       "ID": "achievement_38",
       "SetID": "18al4io",
       "Name": "Best Dressed",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_4",
@@ -1031,17 +1036,17 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_5",
@@ -1049,7 +1054,7 @@
       "Name": "Initiate",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_50",
@@ -1097,7 +1102,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_60",
@@ -1143,9 +1148,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_7",
@@ -1153,7 +1158,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_8",
@@ -1169,14 +1174,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 1
     }
   ],
@@ -1184,8 +1189,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-04T02:27:45.141984+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:15:18.6127233+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:04:37.3626513+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:03:40.6964166+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:15:18.6127613+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:00:04.7241895+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:04:37.3626997+00:00"
 }

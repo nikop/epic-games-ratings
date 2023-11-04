@@ -6,34 +6,34 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 89.00% | ~8,451 |
-| Photogenic | 85.00% | ~8,071 |
-| Surge Gauntlet Jockey | 82.00% | ~7,786 |
-| Plug It In | 81.00% | ~7,691 |
-| Adventure Time | 77.00% | ~7,311 |
-| Playing With Power | 75.00% | ~7,121 |
-| Coup d'Etat | 57.00% | ~5,412 |
-| You're Fired | 56.00% | ~5,317 |
-| Get Furious | 55.00% | ~5,222 |
-| Hacks In Stacks | 54.00% | ~5,127 |
-| Gunplay And Cosplay | 53.00% | ~5,032 |
-| Meching Enemies | 47.00% | ~4,463 |
-| Ticket Toddler | 43.00% | ~4,083 |
-| Booty Bashing | 38.00% | ~3,608 |
-| Field Medic | 37.00% | ~3,513 |
-| Here Comes a New Challenger | 36.00% | ~3,418 |
-| Rapid Response | 32.00% | ~3,038 |
-| Surge Ahead | 30.00% | ~2,848 |
-| The Full Monty | 30.00% | ~2,848 |
-| Guardian Angel | 27.00% | ~2,564 |
-| Poppin Noggins | 24.00% | ~2,279 |
-| Clips and Crits | 19.00% | ~1,804 |
-| Grey Goo | 17.00% | ~1,614 |
-| Boss of Bosses | 15.00% | ~1,424 |
-| The Final Blow | 14.00% | ~1,329 |
-| To Be Continued | 13.00% | ~1,234 |
-| Light My Fire | 11.00% | ~1,044 |
-| Seasoned Adventurer | 11.00% | ~1,044 |
+| Let's Get This Party Started | 89.00% | ~8,454 |
+| Photogenic | 85.00% | ~8,074 |
+| Surge Gauntlet Jockey | 82.00% | ~7,789 |
+| Plug It In | 81.00% | ~7,694 |
+| Adventure Time | 77.00% | ~7,314 |
+| Playing With Power | 75.00% | ~7,124 |
+| Coup d'Etat | 57.00% | ~5,414 |
+| You're Fired | 56.00% | ~5,319 |
+| Get Furious | 55.00% | ~5,224 |
+| Hacks In Stacks | 54.00% | ~5,129 |
+| Gunplay And Cosplay | 53.00% | ~5,034 |
+| Meching Enemies | 47.00% | ~4,465 |
+| Ticket Toddler | 43.00% | ~4,085 |
+| Booty Bashing | 38.00% | ~3,610 |
+| Field Medic | 37.00% | ~3,515 |
+| Here Comes a New Challenger | 36.00% | ~3,420 |
+| Rapid Response | 32.00% | ~3,040 |
+| Surge Ahead | 30.00% | ~2,850 |
+| The Full Monty | 30.00% | ~2,850 |
+| Guardian Angel | 27.00% | ~2,565 |
+| Poppin Noggins | 24.00% | ~2,280 |
+| Clips and Crits | 19.00% | ~1,805 |
+| Grey Goo | 17.00% | ~1,615 |
+| Boss of Bosses | 15.00% | ~1,425 |
+| The Final Blow | 14.00% | ~1,330 |
+| To Be Continued | 13.00% | ~1,235 |
+| Light My Fire | 11.00% | ~1,045 |
+| Seasoned Adventurer | 11.00% | ~1,045 |
 | 1.21 Gigawatts | 10.00% | ~950 |
 | Get In The Ring! | 9.00% | ~855 |
 | This Is My Boomstick! | 9.00% | ~855 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,495 (Ranked 158)  
+Progressed: 9,499 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1 (0.01%) (Ranked 319)
 | 2023-11-01 | 9,459 | 1 |
 | 2023-11-02 | 9,467 | 1 |
 | 2023-11-03 | 9,482 | 1 |
-| 2023-11-04 | 9,495 | 1 |
+| 2023-11-04 | 9,499 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 405)  
 Sum: 463 (Ranked 327)  

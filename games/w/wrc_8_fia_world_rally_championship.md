@@ -1,7 +1,7 @@
 # WRC 8 FIA World Rally Championship
 [Store](https://store.epicgames.com/en-US/p/wrc-8)  
 [View Rawdata](../../db/w/wrc_8_fia_world_rally_championship.json)  
-Rating: 4.59 (Ranked 429)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 199  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 536)  
@@ -86,3 +86,4 @@ Diff (max vs sum): -1
 | 2023-10-11 | 4.60 | - | 20 | 20 |
 | 2023-10-16 | 4.59 | - | 20 | 20 |
 | 2023-11-03 | 4.59 | - | 21 | 21 |
+| 2023-11-04 | 4.58 | - | 21 | 21 |

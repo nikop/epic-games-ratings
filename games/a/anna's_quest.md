@@ -27,9 +27,9 @@
 | Little genius | 30.00% | ~19 |
 | GG | 29.00% | ~18 |
 | You've got mail! | 29.00% | ~18 |
+| Memories | 29.00% | ~18 |
 | Pain in the hands | 29.00% | ~18 |
 | Mischief maker | 29.00% | ~18 |
-| Memories | 27.00% | ~17 |
 | Beekeeper | 27.00% | ~17 |
 | Close the deal | 25.00% | ~16 |
 | Ring-a-ding-ding | 25.00% | ~16 |

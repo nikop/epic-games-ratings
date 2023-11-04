@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.58 (Ranked 443)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,263 |
 | The Hunt | 3.00% | ~4,697 |
 | Ravenous | 3.00% | ~4,697 |
-| Weeper | 2.00% | ~3,131 |
+| Weeper | 2.00% | ~3,132 |
 | Scion | 1.00% | ~1,562 |
 | Harmless | 1.00% | ~1,566 |
 | Jawcrab | 1.00% | ~1,566 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,574 (Ranked 75)  
+Progressed: 156,580 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
-| 2023-11-04 | 156,574 | 1 |
+| 2023-11-04 | 156,580 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 425)  
 Sum: 344 (Ranked 349)  

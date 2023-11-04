@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3819,
+  "EOS_Progressed": 3820,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -9194,6 +9194,11 @@
       "Time": "2023-11-04T21:14:42.2543846+00:00",
       "NumProgressed": 3819,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-04T22:04:05.0893703+00:00",
+      "NumProgressed": 3820,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 16,
@@ -9253,7 +9258,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ach_bomb",
@@ -9301,7 +9306,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "ach_magic_wand",
@@ -9317,7 +9322,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "ach_tornado",
@@ -9325,21 +9330,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3819,
+      "Progressed": 3820,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:14:42.2543843+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:04:05.0893697+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:58:43.5291674+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:14:42.2544355+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:58:46.0205282+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:04:05.0894358+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,806 |
+| Stylish | 7.00% | ~2,107 |
 | Advancement | 5.00% | ~1,505 |
 | Meticulously Efficient | 5.00% | ~1,505 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,204 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 582)
 | Fragile Panes | 0.80% | ~241 |
 | Liability | 0.80% | ~241 |
 | Surprise! | 0.80% | ~241 |
-| Therapeutic | 0.50% | ~150 |
+| Therapeutic | 0.50% | ~151 |
 | Rift Seeker | 0.40% | ~120 |
 | Master Collector | 0.30% | ~90 |
 | Ghost Expert | 0.20% | ~60 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 582)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,099 (Ranked 122)  
+Progressed: 30,105 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 65 (0.22%) (Ranked 234)
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
-| 2023-11-04 | 30,099 | 65 |
+| 2023-11-04 | 30,105 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
 Sum: 2,689 (Ranked 180)  

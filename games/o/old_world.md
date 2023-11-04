@@ -193,6 +193,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Pantheon in Roma | 0.20% | ~30 |
 | Randomized Leaders | 0.20% | ~30 |
+| Akhenaten's Legacy | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the Great | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
@@ -314,7 +315,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Failed the Aten | 0.10% | ~15 |
 | Akhen-who? | 0.10% | ~15 |
 | Glory to The Aten | 0.10% | ~15 |
-| Akhenaten's Legacy | 0.10% | ~15 |
 | Pharaonic Glory to The Aten | 0.10% | ~15 |
 | Akhenaten's Pharaonic Legacy | 0.10% | ~15 |
 | Qadesh Defeat | 0.10% | ~15 |

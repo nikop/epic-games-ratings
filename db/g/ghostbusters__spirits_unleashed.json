@@ -3057,9 +3057,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30099,
+  "EOS_Progressed": 30105,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2008,
+  "EOS_NewPlayers": 2001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17882,6 +17882,11 @@
       "Time": "2023-11-04T21:17:18.1245276+00:00",
       "NumProgressed": 30099,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T22:06:16.1331934+00:00",
+      "NumProgressed": 30105,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18195,9 +18200,9 @@
       "ID": "Stylish",
       "SetID": "819popo",
       "Name": "Stylish",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 2107
     },
     {
       "ID": "Summoner",
@@ -18245,7 +18250,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "There_You_Are",
@@ -18300,7 +18305,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30099,
+      "Progressed": 30105,
       "Completed": 65
     }
   ],
@@ -18308,8 +18313,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-04T20:57:59.9022156+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:17:18.1245272+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:06:16.1331929+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-04T20:57:59.9022164+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:17:18.124629+00:00"
+  "LastUpdate_Ratings": "2023-11-04T21:58:11.0541135+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:06:16.1333258+00:00"
 }

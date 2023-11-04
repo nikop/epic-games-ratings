@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 733)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 7.00% | ~19,551 |
-| IT MAKES BOOM! | 5.00% | ~13,965 |
-| EXTRA BOOST | 4.00% | ~11,172 |
-| PROTECTED | 3.00% | ~8,379 |
-| PRO | 3.00% | ~8,379 |
-| A TIGER'S FEAR | 2.00% | ~5,586 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,586 |
-| AGGRESSIVE RACER | 2.00% | ~5,586 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,793 |
-| ACE SPEEDSTER | 0.90% | ~2,514 |
-| RELEASE THE KRAKEN | 0.70% | ~1,955 |
-| DEFEAT OUR CHAMPION | 0.70% | ~1,955 |
-| LEGENDARY HERO | 0.70% | ~1,955 |
+| ROOKIE | 8.00% | ~22,353 |
+| IT MAKES BOOM! | 5.00% | ~13,971 |
+| EXTRA BOOST | 4.00% | ~11,177 |
+| PROTECTED | 3.00% | ~8,382 |
+| PRO | 3.00% | ~8,382 |
+| A TIGER'S FEAR | 2.00% | ~5,588 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,588 |
+| AGGRESSIVE RACER | 2.00% | ~5,588 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,794 |
+| ACE SPEEDSTER | 0.90% | ~2,515 |
+| RELEASE THE KRAKEN | 0.70% | ~1,956 |
+| DEFEAT OUR CHAMPION | 0.70% | ~1,956 |
+| LEGENDARY HERO | 0.70% | ~1,956 |
 | TRAINING HARD | 0.60% | ~1,676 |
 | BE OUR GUEST | 0.60% | ~1,676 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,676 |
-| EXPERIENCED CREW | 0.50% | ~1,396 |
-| FRIENDLY | 0.50% | ~1,396 |
-| MASTER | 0.40% | ~1,117 |
+| EXPERIENCED CREW | 0.50% | ~1,397 |
+| FRIENDLY | 0.50% | ~1,397 |
+| MASTER | 0.40% | ~1,118 |
 | ACE BRAWLER | 0.30% | ~838 |
 | ACE DEFENDER | 0.30% | ~838 |
 | PERFECTLY POISED | 0.20% | ~559 |
 | FRAMED! | 0.20% | ~559 |
 | ACE TRICKSTER | 0.20% | ~559 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,297 (Ranked 52)  
+Progressed: 279,414 (Ranked 52)  
 Completed: 268 (0.10%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 268 (0.10%) (Ranked 265)
 | 2023-11-01 | 271,352 | 248 |
 | 2023-11-02 | 273,691 | 260 |
 | 2023-11-03 | 276,886 | 266 |
-| 2023-11-04 | 279,297 | 268 |
+| 2023-11-04 | 279,414 | 268 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 423)  
 Sum: 406 (Ranked 334)  

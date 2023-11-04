@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -1948,17 +1948,17 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2036,9 +2036,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "PROGRESS_N1",
@@ -2091,8 +2091,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T21:18:36.4776041+00:00",
+  "LastChanged_Achievements": "2023-11-04T22:08:30.2130203+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:08:29.68545+00:00",
-  "LastUpdate_Achievements": "2023-11-04T21:18:36.4776284+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:00:41.5789312+00:00",
+  "LastUpdate_Achievements": "2023-11-04T22:08:30.2130483+00:00"
 }

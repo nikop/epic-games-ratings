@@ -6,21 +6,21 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,771 |
-| Incurious | 17.00% | ~112,172 |
-| Climate Change | 16.00% | ~105,574 |
-| Stroller | 15.00% | ~98,976 |
-| Advanced Hiker | 13.00% | ~85,779 |
-| Toy Train | 13.00% | ~85,779 |
-| Hiker | 12.00% | ~79,180 |
-| Mojave Courier | 6.00% | ~39,590 |
-| Saved by Nausicaä | 5.00% | ~32,992 |
-| Advanced Voyager | 4.00% | ~26,393 |
-| Expert Stroller | 4.00% | ~26,393 |
-| Voyager | 3.00% | ~19,795 |
-| Orient Express | 3.00% | ~19,795 |
-| Marathon | 3.00% | ~19,795 |
-| Destructionist | 3.00% | ~19,795 |
+| Advanced Stroller | 18.00% | ~118,774 |
+| Incurious | 17.00% | ~112,175 |
+| Climate Change | 16.00% | ~105,577 |
+| Stroller | 15.00% | ~98,978 |
+| Toy Train | 14.00% | ~92,380 |
+| Advanced Hiker | 13.00% | ~85,781 |
+| Hiker | 12.00% | ~79,182 |
+| Mojave Courier | 6.00% | ~39,591 |
+| Saved by Nausicaä | 5.00% | ~32,993 |
+| Advanced Voyager | 4.00% | ~26,394 |
+| Expert Stroller | 4.00% | ~26,394 |
+| Voyager | 3.00% | ~19,796 |
+| Orient Express | 3.00% | ~19,796 |
+| Marathon | 3.00% | ~19,796 |
+| Destructionist | 3.00% | ~19,796 |
 | Expert Hiker | 2.00% | ~13,197 |
 | Lost | 2.00% | ~13,197 |
 | Rocketman | 0.80% | ~5,279 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~660 |
 | 20 Miles under the Sea | 0.10% | ~660 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 659,837 (Ranked 27)  
+Progressed: 659,854 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,11 +257,11 @@ Completed: 12 (0.00%) (Ranked 342)
 | 2023-11-01 | 658,897 | 12 |
 | 2023-11-02 | 659,163 | 12 |
 | 2023-11-03 | 659,486 | 12 |
-| 2023-11-04 | 659,837 | 12 |
+| 2023-11-04 | 659,854 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 283)  
-Sum: 1,589 (Ranked 225)  
-Diff (max vs sum): 58  
+Sum: 1,589 (Ranked 226)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 201 |

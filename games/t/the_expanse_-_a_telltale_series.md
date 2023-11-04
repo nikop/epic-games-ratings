@@ -23,10 +23,10 @@ Rating: 4.55 (Ranked 499)
 | Zen Master | 1.00% | ~6 |
 | Safe Cracker | 0.90% | ~5 |
 | Thorston Mayer | 0.80% | ~117 |
+| Keep Arjun in Check | 0.80% | ~5 |
 | Madame Undersecretary | 0.80% | ~5 |
 | Bottoms up! | 0.70% | ~102 |
 | Miraculous Maya | 0.70% | ~102 |
-| Keep Arjun in Check | 0.70% | ~4 |
 | Doctor Approved | 0.60% | ~88 |
 | Master Negotiator | 0.50% | ~3 |
 | Data Logger | 0.40% | ~59 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 499)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,637 (Ranked 146)  
+Progressed: 14,640 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 32 (0.22%) (Ranked 234)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,637 | 32 |
+| 2023-11-04 | 14,640 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

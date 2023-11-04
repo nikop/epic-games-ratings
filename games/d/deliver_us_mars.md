@@ -1,7 +1,7 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.14 (Ranked 940)  
+Rating: 4.07 (Ranked 966)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,7 +39,7 @@ Rating: 4.14 (Ranked 940)
 | Want to Go to Space? | 14.00% | ~1 |
 | Who waits five minutes, seriously? | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 584)  
+Progressed: 7 (Ranked 585)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,3 +60,4 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-09-18 | 4.19 | 0 | 0 |
 | 2023-09-30 | 4.11 | 0 | 0 |
 | 2023-10-03 | 4.14 | 0 | 0 |
+| 2023-11-04 | 4.07 | 0 | 0 |
