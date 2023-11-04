@@ -1,7 +1,7 @@
 # Galactic Civilizations IV: Supernova
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv-supernova)  
 [View Rawdata](../../db/g/galactic_civilizations_iv__supernova.json)  
-Rating: 4.50 (Ranked 581)  
+Rating: 4.50 (Ranked 582)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -83,7 +83,7 @@ Rating: 4.50 (Ranked 581)
 | Win Quickly | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,212 (Ranked 211)  
+Progressed: 2,213 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 2,186 | 0 |
 | 2023-11-02 | 2,196 | 0 |
 | 2023-11-03 | 2,211 | 0 |
-| 2023-11-04 | 2,212 | 0 |
+| 2023-11-04 | 2,213 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -150,9 +150,9 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 80,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "10",
@@ -247,8 +247,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2023-11-04T04:08:48.1971084+00:00",
+  "LastChanged_Achievements": "2023-11-04T05:08:39.1160594+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:32.8594991+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:57:40.8633216+00:00",
-  "LastUpdate_Achievements": "2023-11-04T04:08:48.1971188+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:57:51.11233+00:00",
+  "LastUpdate_Achievements": "2023-11-04T05:08:39.1160696+00:00"
 }

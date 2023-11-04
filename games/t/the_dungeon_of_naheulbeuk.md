@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,864 |
+| Sowwy! | 34.00% | ~79,866 |
 | Where's that freaking Dwarf? | 7.00% | ~16,443 |
 | Alt+F4 | 7.00% | ~16,443 |
 | Déjà vu | 5.00% | ~11,745 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.70% | ~1,644 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,409 |
 | We come in peace | 0.60% | ~1,409 |
-| Holistic Adventuring Party | 0.50% | ~1,174 |
-| Law and Order | 0.50% | ~1,174 |
+| Holistic Adventuring Party | 0.50% | ~1,175 |
+| Law and Order | 0.50% | ~1,175 |
 | Scholar of the Lands of Fangh | 0.40% | ~940 |
 | It's been a hard day's night | 0.40% | ~940 |
 | Friendly fire | 0.30% | ~705 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~235 |
 | Dwarf Candy | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,895 (Ranked 60)  
+Progressed: 234,901 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.00%) (Ranked 342)
 | 2023-11-01 | 234,476 | 7 |
 | 2023-11-02 | 234,679 | 7 |
 | 2023-11-03 | 234,863 | 7 |
-| 2023-11-04 | 234,895 | 7 |
+| 2023-11-04 | 234,901 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 269)  
 Sum: 451 (Ranked 328)  

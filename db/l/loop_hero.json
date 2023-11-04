@@ -4,7 +4,7 @@
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 273,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 150,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 448,
@@ -4708,11 +4708,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 4085,
       "NumberOfAwardsMax": 472
+    },
+    {
+      "Time": "2023-11-04T05:02:49.2424002+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4092,
+      "NumberOfAwardsMax": 474
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4085,
-  "NumberOfAwardsMax": 472,
+  "NumberOfAwards": 4092,
+  "NumberOfAwardsMax": 474,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -4725,7 +4731,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 472
+      "Count": 474
     },
     {
       "Text": "This game is Relaxing",
@@ -4749,7 +4755,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 381
+      "Count": 384
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4761,7 +4767,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 382
+      "Count": 384
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4787,8 +4793,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-11-03T15:05:00.7400418+00:00",
+  "LastChanged": "2023-11-04T05:02:49.2424+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:48.1966501+00:00",
-  "LastUpdate_Ratings": "2023-11-04T04:02:53.2382258+00:00",
-  "LastUpdate_Achievements": "2023-11-04T04:08:39.7355464+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:02:49.2424007+00:00",
+  "LastUpdate_Achievements": "2023-11-04T05:08:30.3659959+00:00"
 }

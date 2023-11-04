@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1275,7 +1275,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 234895,
+  "EOS_Progressed": 234901,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1416,
   "EOS_NewCompleters": 0,
@@ -17230,6 +17230,11 @@
       "Time": "2023-11-04T04:04:14.6679789+00:00",
       "NumProgressed": 234895,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T05:04:10.4551403+00:00",
+      "NumProgressed": 234901,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17257,7 +17262,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "BarbarianEpic",
@@ -17689,7 +17694,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 79864
+      "UsersEstimate": 79866
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17809,7 +17814,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "Poster",
@@ -17944,21 +17949,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 234895,
+      "Progressed": 234901,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 234895,
+      "Progressed": 234901,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-04T01:39:13.702978+00:00",
-  "LastChanged_Achievements": "2023-11-04T04:04:14.6679783+00:00",
+  "LastChanged_Achievements": "2023-11-04T05:04:10.4551397+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:12.6463664+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:57:12.868604+00:00",
-  "LastUpdate_Achievements": "2023-11-04T04:04:14.6681711+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:57:23.482182+00:00",
+  "LastUpdate_Achievements": "2023-11-04T05:04:10.4553809+00:00"
 }

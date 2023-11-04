@@ -1,22 +1,22 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.39 (Ranked 745)  
+Rating: 4.39 (Ranked 744)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~102,453 |
-| 74 miles East of Otaheité | 56.00% | ~71,717 |
+| A Family Heirloom | 80.00% | ~102,454 |
+| 74 miles East of Otaheité | 56.00% | ~71,718 |
 | Interesting... | 42.00% | ~53,788 |
 | The Everhart Expedition | 39.00% | ~49,946 |
 | The Vanishing of the Lady Shannon | 30.00% | ~38,420 |
 | Seaside Serenade | 30.00% | ~38,420 |
 | Halfway there | 29.00% | ~37,139 |
-| A brigantine, a brig and a barque | 28.00% | ~35,858 |
-| 506 East Hampden Avenue | 28.00% | ~35,858 |
+| A brigantine, a brig and a barque | 28.00% | ~35,859 |
+| 506 East Hampden Avenue | 28.00% | ~35,859 |
 | Weekend at Walakea's | 27.00% | ~34,578 |
 | Quite a Show | 27.00% | ~34,578 |
-| Dark Water Ride | 25.00% | ~32,016 |
+| Dark Water Ride | 25.00% | ~32,017 |
 | Sunken | 24.00% | ~30,736 |
 | Deep Cut | 24.00% | ~30,736 |
 | FHALGOF'N' | 23.00% | ~29,455 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 745)
 | Gently down the stream... | 1.00% | ~1,281 |
 | Meta-reference | 1.00% | ~1,281 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,066 (Ranked 82)  
+Progressed: 128,067 (Ranked 82)  
 Completed: 1,096 (0.86%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 1,096 (0.86%) (Ranked 166)
 | 2023-11-01 | 127,719 | 1,092 |
 | 2023-11-02 | 127,881 | 1,095 |
 | 2023-11-03 | 128,039 | 1,096 |
-| 2023-11-04 | 128,066 | 1,096 |
+| 2023-11-04 | 128,067 | 1,096 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

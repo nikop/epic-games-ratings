@@ -2,12 +2,12 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128066,
+  "EOS_Progressed": 128067,
   "EOS_Completed": 1096,
-  "EOS_NewPlayers": 1222,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -22710,6 +22710,11 @@
       "Time": "2023-11-04T04:05:23.3607579+00:00",
       "NumProgressed": 128066,
       "NumCompleted": 1096
+    },
+    {
+      "Time": "2023-11-04T05:05:18.130596+00:00",
+      "NumProgressed": 128067,
+      "NumCompleted": 1096
     }
   ],
   "TotalAchievements": 34,
@@ -22777,7 +22782,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 102453
+      "UsersEstimate": 102454
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -22793,7 +22798,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 71717
+      "UsersEstimate": 71718
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -22801,7 +22806,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 35858
+      "UsersEstimate": 35859
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -22897,7 +22902,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 35858
+      "UsersEstimate": 35859
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -22929,7 +22934,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 32016
+      "UsersEstimate": 32017
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -22992,7 +22997,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 128066,
+      "Progressed": 128067,
       "Completed": 1096
     }
   ],
@@ -23000,8 +23005,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-11-04T04:05:23.3607575+00:00",
+  "LastChanged_Achievements": "2023-11-04T05:05:18.1305955+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:36.8190277+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:59:56.7958611+00:00",
-  "LastUpdate_Achievements": "2023-11-04T04:05:23.3608921+00:00"
+  "LastUpdate_Ratings": "2023-11-04T05:00:15.3851147+00:00",
+  "LastUpdate_Achievements": "2023-11-04T05:05:18.1307935+00:00"
 }

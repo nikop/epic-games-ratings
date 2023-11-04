@@ -437,9 +437,9 @@
       "ID": "AC_RECIPES_DONE_2",
       "SetID": "16i2akc",
       "Name": "Cheff",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -469,9 +469,9 @@
       "ID": "AC_SNIPER_MAX",
       "SetID": "16i2akc",
       "Name": "Crosshair",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AC_UZI_MAX",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-04T04:05:20.0345289+00:00",
+  "LastChanged_Achievements": "2023-11-04T05:05:14.8561077+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:58:52.9670142+00:00",
-  "LastUpdate_Achievements": "2023-11-04T04:05:20.0345584+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:59:06.1131142+00:00",
+  "LastUpdate_Achievements": "2023-11-04T05:05:14.8561482+00:00"
 }

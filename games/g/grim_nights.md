@@ -8,7 +8,7 @@
 | Poor things... | 60.00% | ~30 |
 | So far so good... | 48.00% | ~24 |
 | Slay it! | 36.00% | ~18 |
-| Top notch! | 34.00% | ~17 |
+| Top notch! | 36.00% | ~18 |
 | Bling bling! | 26.00% | ~13 |
 | Slaughter | 22.00% | ~11 |
 | Still alive! | 20.00% | ~10 |

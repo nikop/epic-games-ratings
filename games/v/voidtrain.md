@@ -1,16 +1,16 @@
 # Voidtrain
 [Store](https://store.epicgames.com/en-US/p/voidtrain)  
 [View Rawdata](../../db/v/voidtrain.json)  
-Rating: 4.50 (Ranked 581)  
+Rating: 4.51 (Ranked 564)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 44  (Ranked 446)  
-Sum: 231 (Ranked 382)  
+Sum: 232 (Ranked 382)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 44 |
-| This game is Relaxing | 35 |
+| This game is Relaxing | 36 |
 | This game has Quickly Understood Controls | 29 |
 | This game has Easy Combat | 29 |
 | This game is Highly Recommended | 29 |
@@ -155,3 +155,4 @@ Diff (max vs sum): 64
 | 2023-10-30 | 4.50 | - | 43 | 228 |
 | 2023-11-01 | 4.50 | - | 43 | 230 |
 | 2023-11-03 | 4.50 | - | 44 | 231 |
+| 2023-11-04 | 4.51 | - | 44 | 232 |

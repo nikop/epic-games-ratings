@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.2,
+  "EOS_Completed_Percentage": 3.17,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -559,6 +559,11 @@
       "Time": "2023-11-04T02:36:02.0510534+00:00",
       "NumProgressed": 125,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T05:09:08.519635+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -595,7 +600,7 @@
       "Name": "Assassin",
       "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -603,7 +608,7 @@
       "Name": "Murderer",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -641,9 +646,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -681,9 +686,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 60,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -697,7 +702,7 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 100
     }
@@ -706,14 +711,14 @@
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T04:09:17.8998431+00:00",
+  "LastChanged_Achievements": "2023-11-04T05:09:08.5196345+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:57:50.6293961+00:00",
-  "LastUpdate_Achievements": "2023-11-04T04:09:17.8998581+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:58:00.3464994+00:00",
+  "LastUpdate_Achievements": "2023-11-04T05:09:08.5196524+00:00"
 }
