@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -8705,10 +8705,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 8370,
       "NumberOfAwardsMax": 1549
+    },
+    {
+      "Time": "2023-11-04T22:58:32.2002934+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 8396,
+      "NumberOfAwardsMax": 1549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8370,
+  "NumberOfAwards": 8396,
   "NumberOfAwardsMax": 1549,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8728,7 +8734,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1175
+      "Count": 1195
     },
     {
       "Text": "This game has a Creative Community",
@@ -8752,7 +8758,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 622
+      "Count": 628
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8799,9 +8805,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-11-04T19:58:38.3731969+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:03:46.1451584+00:00",
+  "LastChanged": "2023-11-04T22:58:32.2002932+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:03:26.0592047+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:11.6027513+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:58:48.1966165+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:03:46.145162+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:58:32.2002938+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:03:26.0592076+00:00"
 }

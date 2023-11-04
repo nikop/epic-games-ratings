@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 0.90% | ~343 |
+| Whatever It Takes | 0.90% | ~344 |
 | Pork Chopped | 0.70% | ~267 |
 | One of Us | 0.60% | ~229 |
 | Git Gutte! | 0.20% | ~1,425 |
@@ -14,7 +14,9 @@ Rating: 4.54 (Ranked 521)
 | Break A Leg | 0.20% | ~1,425 |
 | Coup de Grâce | 0.20% | ~1,425 |
 | Hazardous Materials | 0.20% | ~1,425 |
+| Friends Like These | 0.20% | ~1,425 |
 | Hotel California | 0.20% | ~1,425 |
+| Apex Predator | 0.20% | ~1,425 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,425 |
 | Welcome To Hell-A | 0.20% | ~1,425 |
 | Dr. Reed, I Presume? | 0.10% | ~713 |
@@ -30,12 +32,10 @@ Rating: 4.54 (Ranked 521)
 | Can't Handle the Truth | 0.10% | ~713 |
 | Like Riding a Bike | 0.10% | ~713 |
 | Not Even My Final Form | 0.10% | ~713 |
-| Friends Like These | 0.10% | ~713 |
 | Donk! | 0.10% | ~713 |
 | Internet Famous | 0.10% | ~713 |
 | Sole Survivor | 0.10% | ~713 |
 | Jumbo Keyring | 0.10% | ~713 |
-| Apex Predator | 0.10% | ~713 |
 | Zombologist | 0.10% | ~713 |
 | Ooh, Shiny! | 0.10% | ~713 |
 | Gore Horse | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,596 (Ranked 21)  
-Completed: 2,324 (0.33%) (Ranked 216)  
+Progressed: 712,632 (Ranked 21)  
+Completed: 2,325 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 2,324 (0.33%) (Ranked 216)
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
-| 2023-11-04 | 712,596 | 2,324 |
+| 2023-11-04 | 712,632 | 2,325 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,576 (Ranked 89)  

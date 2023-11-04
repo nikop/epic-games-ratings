@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~906 |
-| Spectre Inductee | 80.00% | ~779 |
+| Spectre Inductee | 81.00% | ~789 |
 | Medal of Exploration I | 73.00% | ~711 |
 | Recruit | 69.00% | ~672 |
 | Search and Rescue | 68.00% | ~662 |
@@ -30,8 +30,8 @@
 | Krogan Ally | 44.00% | ~429 |
 | Missing in Action | 43.00% | ~419 |
 | Very Elusive | 43.00% | ~419 |
-| Head Hunter | 42.00% | ~409 |
-| Sentinel Ally | 41.00% | ~399 |
+| Head Hunter | 43.00% | ~419 |
+| Sentinel Ally | 42.00% | ~409 |
 | Operative | 41.00% | ~399 |
 | Scholar | 41.00% | ~399 |
 | Veteran | 40.00% | ~390 |
@@ -55,10 +55,10 @@
 | Battlemaster | 32.00% | ~312 |
 | Catharsis | 32.00% | ~312 |
 | The Cure | 32.00% | ~312 |
+| Big Game Hunter | 32.00% | ~312 |
 | Heart of Darkness | 32.00% | ~312 |
 | Archivist | 31.00% | ~302 |
 | Fade Away | 31.00% | ~302 |
-| Big Game Hunter | 31.00% | ~302 |
 | Agent | 31.00% | ~302 |
 | Revenge! | 31.00% | ~302 |
 | Driven | 31.00% | ~302 |
@@ -74,10 +74,10 @@
 | Against All Odds | 28.00% | ~273 |
 | Mobilizer | 28.00% | ~273 |
 | Untouchable | 27.00% | ~263 |
+| Giant Killer | 27.00% | ~263 |
 | First Aid Specialist | 27.00% | ~263 |
 | A House Divided | 27.00% | ~263 |
 | Eye of the Hurricane | 26.00% | ~253 |
-| Giant Killer | 26.00% | ~253 |
 | World Shaker | 26.00% | ~253 |
 | Weapon Specialist | 25.00% | ~244 |
 | Tunnel Rat | 25.00% | ~244 |

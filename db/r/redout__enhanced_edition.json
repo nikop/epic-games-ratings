@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234926,
+  "EOS_Progressed": 234928,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21197,6 +21197,11 @@
       "Time": "2023-11-04T22:05:47.8105726+00:00",
       "NumProgressed": 234926,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-04T23:05:35.3337802+00:00",
+      "NumProgressed": 234928,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -21224,7 +21229,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65779
+      "UsersEstimate": 65780
     },
     {
       "ID": "CENTAUR",
@@ -21296,7 +21301,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46985
+      "UsersEstimate": 46986
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -21368,7 +21373,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21143
+      "UsersEstimate": 21144
     },
     {
       "ID": "PHOTOFINISH",
@@ -21479,15 +21484,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 234926,
+      "Progressed": 234928,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:05:47.810572+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:05:35.3337799+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.1694158+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:57:58.4263873+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:05:47.8107185+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:57:37.4333962+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:05:35.3338872+00:00"
 }

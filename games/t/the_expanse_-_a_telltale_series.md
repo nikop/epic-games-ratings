@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 499)  
+Rating: 4.55 (Ranked 500)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,10 +25,10 @@ Rating: 4.55 (Ranked 499)
 | Thorston Mayer | 0.80% | ~117 |
 | Keep Arjun in Check | 0.80% | ~5 |
 | Madame Undersecretary | 0.80% | ~5 |
-| Bottoms up! | 0.70% | ~102 |
-| Miraculous Maya | 0.70% | ~102 |
+| Bottoms up! | 0.70% | ~103 |
+| Miraculous Maya | 0.70% | ~103 |
 | Doctor Approved | 0.60% | ~88 |
-| Master Negotiator | 0.50% | ~3 |
+| Master Negotiator | 0.60% | ~4 |
 | Data Logger | 0.40% | ~59 |
 | Data Master | 0.40% | ~59 |
 | Brother's Reaper | 0.30% | ~44 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 499)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,640 (Ranked 146)  
+Progressed: 14,643 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 32 (0.22%) (Ranked 234)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,640 | 32 |
+| 2023-11-04 | 14,643 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

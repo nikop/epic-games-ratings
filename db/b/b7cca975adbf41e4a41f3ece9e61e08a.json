@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 6692,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 2459,
+  "EOS_NewPlayers": 2454,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -2452,9 +2452,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "7opfcp",
       "Name": "To Be Or Not To Be",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 3748
+      "UsersEstimate": 3814
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2581,8 +2581,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-04T14:14:13.186223+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:06:43.4341132+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:06:36.0696157+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.8302113+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:00:54.4828767+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:06:43.4341587+00:00"
+  "LastUpdate_Ratings": "2023-11-04T23:02:40.0191781+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:06:36.0696531+00:00"
 }

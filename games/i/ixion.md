@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 466)  
+Rating: 4.57 (Ranked 467)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,9 +26,9 @@ Rating: 4.57 (Ranked 466)
 | Convenient Transport | 8.00% | ~262 |
 | Please Make it Stop! | 8.00% | ~262 |
 | Sightseeing | 7.00% | ~229 |
+| Necessary Enhancement | 7.00% | ~229 |
 | From the Past | 7.00% | ~229 |
 | Access Granted | 6.00% | ~197 |
-| Necessary Enhancement | 6.00% | ~197 |
 | All in Good Health | 6.00% | ~197 |
 | Oats | 5.00% | ~164 |
 | What They Hide From Us | 5.00% | ~164 |

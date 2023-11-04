@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1980,9 +1980,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15139,
+  "EOS_Progressed": 15141,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15370,6 +15370,11 @@
       "Time": "2023-11-04T18:05:18.3279761+00:00",
       "NumProgressed": 15139,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T23:05:00.8655992+00:00",
+      "NumProgressed": 15141,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15435,9 +15440,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -18116,21 +18121,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15139,
+      "Progressed": 15141,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15139,
+      "Progressed": 15141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:05:15.3157367+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:05:00.8655987+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:00:01.5030772+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:05:15.3168108+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:59:53.3391687+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:05:00.8665159+00:00"
 }

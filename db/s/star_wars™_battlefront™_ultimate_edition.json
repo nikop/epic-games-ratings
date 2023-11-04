@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1046,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -2994,6 +2994,11 @@
       "Time": "2023-11-04T21:20:00.8941137+00:00",
       "NumProgressed": 1046,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T23:09:13.4245895+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3068,9 +3073,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_18",
@@ -3102,7 +3107,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_21",
@@ -3230,7 +3235,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 941
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_36",
@@ -3246,15 +3251,15 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 713
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_39",
@@ -3270,7 +3275,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_40",
@@ -3278,7 +3283,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_41",
@@ -3358,7 +3363,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_50",
@@ -3446,7 +3451,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_60",
@@ -3509,13 +3514,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1046,
+      "Progressed": 1048,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1046,
+      "Progressed": 1048,
       "Completed": 1
     }
   ],
@@ -3523,8 +3528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:09:22.6568313+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:09:13.4245892+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:00:13.353035+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:09:22.6569149+00:00"
+  "LastUpdate_Ratings": "2023-11-04T23:00:06.2993584+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:09:13.4246423+00:00"
 }

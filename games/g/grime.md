@@ -1,15 +1,15 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 443)  
+Rating: 4.58 (Ranked 444)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,263 |
-| Imprint | 4.00% | ~6,263 |
-| The Hunt | 3.00% | ~4,697 |
-| Ravenous | 3.00% | ~4,697 |
+| Taste | 4.00% | ~6,264 |
+| Imprint | 4.00% | ~6,264 |
+| The Hunt | 3.00% | ~4,698 |
+| Ravenous | 3.00% | ~4,698 |
 | Weeper | 2.00% | ~3,132 |
 | Scion | 1.00% | ~1,562 |
 | Harmless | 1.00% | ~1,566 |
@@ -26,8 +26,8 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.70% | ~1,093 |
 | Celebration | 0.70% | ~1,096 |
 | Predator | 0.70% | ~1,096 |
-| Assimilation | 0.60% | ~939 |
-| Hunt Down | 0.60% | ~939 |
+| Assimilation | 0.60% | ~940 |
+| Hunt Down | 0.60% | ~940 |
 | Artisan | 0.50% | ~783 |
 | Hush | 0.50% | ~783 |
 | Inevitable | 0.50% | ~783 |
@@ -38,8 +38,8 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.40% | ~626 |
 | Passage | 0.40% | ~626 |
 | Bloodhunter | 0.30% | ~470 |
-| Zygote | 0.30% | ~468 |
-| Listen | 0.30% | ~468 |
+| Zygote | 0.30% | ~469 |
+| Listen | 0.30% | ~469 |
 | Proportions | 0.30% | ~470 |
 | Kinship | 0.20% | ~313 |
 | Weakness | 0.20% | ~313 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,580 (Ranked 75)  
+Progressed: 156,591 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
-| 2023-11-04 | 156,580 | 1 |
+| 2023-11-04 | 156,591 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 425)  
 Sum: 344 (Ranked 349)  

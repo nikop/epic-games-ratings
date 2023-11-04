@@ -130,12 +130,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
+| Bad Heir Day | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | The Great Mage | 0.60% | ~91 |
 | Kmt Unified | 0.60% | ~91 |
-| Bad Heir Day | 0.50% | ~76 |
 | Ishtar Gate in Babylon | 0.50% | ~76 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,139 (Ranked 145)  
+Progressed: 15,141 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 5 (0.03%) (Ranked 307)
 | 2023-11-01 | 15,092 | 5 |
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
-| 2023-11-04 | 15,139 | 5 |
+| 2023-11-04 | 15,141 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

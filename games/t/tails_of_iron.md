@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.55 (Ranked 499)  
+Rating: 4.55 (Ranked 500)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,7 +24,7 @@ Rating: 4.55 (Ranked 499)
 | Throne Room Fit For A King | 39.00% | ~774 |
 | Meet the Creatures from the Deep | 37.00% | ~734 |
 | Return Power To The Depths | 37.00% | ~734 |
-| Defeat Ratnor Rodentson | 30.00% | ~595 |
+| Defeat Ratnor Rodentson | 31.00% | ~615 |
 | Return the Statues | 27.00% | ~536 |
 | Defeat Rattus Augustail | 27.00% | ~536 |
 | Complete the Chefs Book | 25.00% | ~496 |

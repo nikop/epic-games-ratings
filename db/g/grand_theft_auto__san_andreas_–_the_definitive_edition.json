@@ -2,9 +2,9 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 483,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 141,
@@ -1411,9 +1411,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13469,
+  "EOS_Progressed": 13473,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13871,6 +13871,11 @@
       "Time": "2023-11-04T22:08:43.3815733+00:00",
       "NumProgressed": 13469,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-04T23:08:29.4955122+00:00",
+      "NumProgressed": 13473,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -13882,7 +13887,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10910
+      "UsersEstimate": 10913
     },
     {
       "ID": "ACH02",
@@ -13930,7 +13935,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACH08",
@@ -13938,7 +13943,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6869
+      "UsersEstimate": 6871
     },
     {
       "ID": "ACH09",
@@ -13978,7 +13983,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "ACH14",
@@ -13994,7 +13999,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH16",
@@ -14026,7 +14031,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "ACH20",
@@ -14050,7 +14055,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACH23",
@@ -14058,7 +14063,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "ACH24",
@@ -14106,7 +14111,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACH30",
@@ -14161,7 +14166,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13469,
+      "Progressed": 13473,
       "Completed": 51
     }
   ],
@@ -14169,8 +14174,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-04T14:57:14.2151066+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:08:43.3815728+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:08:29.4955119+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:57:51.1951626+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:08:43.3816735+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:57:29.416034+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:08:29.4955874+00:00"
 }

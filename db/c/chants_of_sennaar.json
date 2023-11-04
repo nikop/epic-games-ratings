@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 428,
-  "EOS_Completed": 26,
-  "EOS_NewPlayers": 97,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.07,
+  "EOS_Progressed": 431,
+  "EOS_Completed": 27,
+  "EOS_NewPlayers": 100,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 6.26,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1875,6 +1875,11 @@
       "Time": "2023-11-04T21:18:36.4776049+00:00",
       "NumProgressed": 428,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-04T23:08:14.997683+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1886,7 +1891,7 @@
       "Name": "I did it",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "END_GOOD",
@@ -1910,7 +1915,7 @@
       "Name": "Cable guy",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1918,7 +1923,7 @@
       "Name": "A good beginning",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "META_HALF_LINK",
@@ -1926,7 +1931,7 @@
       "Name": "Half the way",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2006,7 +2011,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2030,7 +2035,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2038,7 +2043,7 @@
       "Name": "Scholar",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PROGRESS_N1",
@@ -2046,7 +2051,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PROGRESS_N2",
@@ -2054,7 +2059,7 @@
       "Name": "The great escape",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PROGRESS_N3",
@@ -2062,7 +2067,7 @@
       "Name": "A new dawn",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "PROGRESS_N4",
@@ -2076,23 +2081,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 428,
-      "Completed": 26
+      "Progressed": 431,
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:08:30.2130203+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:08:14.9976829+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:00:41.5789312+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:08:30.2130483+00:00"
+  "LastUpdate_Ratings": "2023-11-04T23:00:36.3475007+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:08:14.9977007+00:00"
 }

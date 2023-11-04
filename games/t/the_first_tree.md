@@ -6,11 +6,11 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Two Worlds | 77.00% | ~28,886 |
-| 50 Stars | 26.00% | ~9,754 |
-| Hare Today | 24.00% | ~9,003 |
-| The Way Forward | 17.00% | ~6,377 |
-| Joseph | 9.00% | ~3,376 |
+| Two Worlds | 77.00% | ~28,890 |
+| 50 Stars | 26.00% | ~9,755 |
+| Hare Today | 24.00% | ~9,005 |
+| The Way Forward | 17.00% | ~6,378 |
+| Joseph | 9.00% | ~3,377 |
 | 100 Stars | 5.00% | ~1,876 |
 | Hummed of Mystery | 4.00% | ~1,501 |
 | Excavator | 2.00% | ~750 |
@@ -21,7 +21,7 @@ Number of Ratings: 56  (23.09.2022)
 | Completionist | 0.40% | ~150 |
 | Deja Vu | 0.40% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,514 (Ranked 118)  
+Progressed: 37,520 (Ranked 118)  
 Completed: 117 (0.31%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 117 (0.31%) (Ranked 220)
 | 2023-11-01 | 37,386 | 117 |
 | 2023-11-02 | 37,424 | 117 |
 | 2023-11-03 | 37,474 | 117 |
-| 2023-11-04 | 37,514 | 117 |
+| 2023-11-04 | 37,520 | 117 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

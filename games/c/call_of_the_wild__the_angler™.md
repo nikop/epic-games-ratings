@@ -6,14 +6,14 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 2.00% | ~126 |
-| Can you smell what the Rod is Hooking | 2.00% | ~126 |
-| Hey Good Hookin | 2.00% | ~126 |
-| More Fish in the Sea | 2.00% | ~126 |
-| Scaling up | 2.00% | ~126 |
+| Fish Just Got Reel | 2.00% | ~127 |
+| Can you smell what the Rod is Hooking | 2.00% | ~127 |
+| Hey Good Hookin | 2.00% | ~127 |
+| More Fish in the Sea | 2.00% | ~127 |
+| Scaling up | 2.00% | ~127 |
 | Ready to Rod and Roll | 1.00% | ~63 |
 | I'm on a Boat! | 1.00% | ~63 |
-| Fish Out of Water | 0.80% | ~51 |
+| Fish Out of Water | 0.90% | ~57 |
 | Things that go Splash in the Night | 0.70% | ~44 |
 | Goldfish? | 0.70% | ~44 |
 | Going for Gold | 0.50% | ~32 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,325 (Ranked 177)  
+Progressed: 6,326 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 6,212 | 0 |
 | 2023-11-02 | 6,244 | 0 |
 | 2023-11-03 | 6,286 | 0 |
-| 2023-11-04 | 6,325 | 0 |
+| 2023-11-04 | 6,326 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
-Sum: 189 (Ranked 401)  
+Sum: 190 (Ranked 401)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -257,7 +257,7 @@ Diff (max vs sum): 62
 | This game is Highly Recommended | 34 |
 | This game is Great for Beginners | 33 |
 | This game is Extremely Fun | 30 |
-| This game has Quickly Understood Controls | 22 |
+| This game has Quickly Understood Controls | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -346,4 +346,4 @@ Diff (max vs sum): 62
 | 2023-10-25 | 4.16 | - | 36 | 186 |
 | 2023-10-29 | 4.17 | - | 36 | 186 |
 | 2023-11-03 | 4.17 | - | 36 | 188 |
-| 2023-11-04 | 4.17 | - | 36 | 189 |
+| 2023-11-04 | 4.17 | - | 36 | 190 |

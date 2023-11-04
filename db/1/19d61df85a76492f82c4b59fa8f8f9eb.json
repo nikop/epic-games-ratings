@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -1622,9 +1622,9 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -1653,8 +1653,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:07:06.5845841+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:08:01.0954086+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.8132045+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:59:10.4694083+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:07:06.584601+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:58:58.372412+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:08:01.0954234+00:00"
 }

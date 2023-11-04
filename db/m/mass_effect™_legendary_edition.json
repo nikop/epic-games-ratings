@@ -2802,9 +2802,9 @@
       "ID": "achievement_110",
       "SetID": "d252ncf",
       "Name": "Giant Killer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_111",
@@ -3058,9 +3058,9 @@
       "ID": "achievement_25",
       "SetID": "b9pe172",
       "Name": "Sentinel Ally",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_26",
@@ -3114,9 +3114,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 789
     },
     {
       "ID": "achievement_32",
@@ -3378,17 +3378,17 @@
       "ID": "achievement_61",
       "SetID": "d252ncf",
       "Name": "Big Game Hunter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_63",
@@ -3726,8 +3726,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:04:31.1823969+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:04:14.4513265+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:00:55.3835132+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:04:31.1826187+00:00"
+  "LastUpdate_Ratings": "2023-11-04T23:02:41.0334627+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:04:14.4514748+00:00"
 }

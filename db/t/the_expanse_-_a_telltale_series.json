@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14640,
+  "EOS_Progressed": 14643,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10401,6 +10401,11 @@
       "Time": "2023-11-04T22:06:11.0713841+00:00",
       "NumProgressed": 14640,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-04T23:06:00.6420702+00:00",
+      "NumProgressed": 14643,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10485,7 +10490,7 @@
       "Name": "Bottoms up!",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "19",
@@ -10541,7 +10546,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "25",
@@ -10675,9 +10680,9 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "35",
@@ -10692,22 +10697,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14640,
+      "Progressed": 14643,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 594,
-      "Completed": 353
+      "Progressed": 597,
+      "Completed": 357
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:06:11.0713835+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:06:00.6420697+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:59:53.4663157+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:06:11.0714717+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:59:44.584867+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:06:00.6421364+00:00"
 }

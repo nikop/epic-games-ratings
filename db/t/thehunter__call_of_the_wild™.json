@@ -2,13 +2,13 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -9703,10 +9703,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 27823,
       "NumberOfAwardsMax": 4281
+    },
+    {
+      "Time": "2023-11-04T22:58:36.9431467+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 27828,
+      "NumberOfAwardsMax": 4281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27823,
+  "NumberOfAwards": 27828,
   "NumberOfAwardsMax": 4281,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9732,7 +9738,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3319
+      "Count": 3324
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9782,8 +9788,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-11-04T21:58:52.5991773+00:00",
+  "LastChanged": "2023-11-04T22:58:36.9431465+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.5578118+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:58:52.599178+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:08:50.1071799+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:58:36.9431471+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:08:36.8085673+00:00"
 }

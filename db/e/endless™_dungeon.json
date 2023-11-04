@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1014,
+  "EOS_Progressed": 1015,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1355,6 +1355,11 @@
       "Time": "2023-11-04T22:06:09.9362934+00:00",
       "NumProgressed": 1014,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T23:05:59.5627675+00:00",
+      "NumProgressed": 1015,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1471,15 +1476,15 @@
       "Name": "Obsessively Thorough",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
       "SetID": "9991201",
       "Name": "How Low Can We Go?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 244
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1511,7 +1516,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1606,14 +1611,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1014,
+      "Progressed": 1015,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:06:09.9362929+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:05:59.5627673+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:59:11.3691133+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:06:09.9363194+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:58:59.1086618+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:05:59.5627846+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.29 (Ranked 834)
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,387 |
 | Right Back Atcha | 6.00% | ~2,387 |
 | Killed by Death | 5.00% | ~1,989 |
-| Kill 'Em All | 4.00% | ~1,591 |
+| Kill 'Em All | 4.00% | ~1,592 |
 | Down Boy! | 2.00% | ~796 |
 | A Snowball's Chance in Hell | 2.00% | ~796 |
 | Enjoy The Silence | 1.00% | ~398 |
@@ -21,9 +21,9 @@ Rating: 4.29 (Ranked 834)
 | Death Becomes Her | 0.80% | ~318 |
 | The Sky Is Falling | 0.80% | ~318 |
 | Schadenfreude | 0.80% | ~318 |
-| Start As You Mean To Go On | 0.70% | ~278 |
-| Hail the Great Horned Metal God! | 0.70% | ~278 |
-| That'll Come In Handy... | 0.70% | ~278 |
+| Start As You Mean To Go On | 0.70% | ~279 |
+| Hail the Great Horned Metal God! | 0.70% | ~279 |
+| That'll Come In Handy... | 0.70% | ~279 |
 | Four Legged Friend | 0.50% | ~199 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~199 |
 | Ice To See You | 0.40% | ~159 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 834)
 | Heart Of Steel | 0.10% | ~40 |
 | Death or Glory | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,784 (Ranked 117)  
+Progressed: 39,788 (Ranked 117)  
 Completed: 26 (0.07%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 26 (0.07%) (Ranked 284)
 | 2023-11-01 | 39,599 | 26 |
 | 2023-11-02 | 39,653 | 26 |
 | 2023-11-03 | 39,726 | 26 |
-| 2023-11-04 | 39,784 | 26 |
+| 2023-11-04 | 39,788 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 327)  
 Sum: 127 (Ranked 427)  

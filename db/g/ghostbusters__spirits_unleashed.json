@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2977,10 +2977,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2689,
       "NumberOfAwardsMax": 302
+    },
+    {
+      "Time": "2023-11-04T22:57:50.7678811+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2693,
+      "NumberOfAwardsMax": 302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2689,
+  "NumberOfAwards": 2693,
   "NumberOfAwardsMax": 302,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3024,7 +3030,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 273
+      "Count": 277
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3057,9 +3063,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30105,
+  "EOS_Progressed": 30114,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2001,
+  "EOS_NewPlayers": 2003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17887,6 +17893,11 @@
       "Time": "2023-11-04T22:06:16.1331934+00:00",
       "NumProgressed": 30105,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T23:06:06.3937625+00:00",
+      "NumProgressed": 30114,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17898,7 +17909,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "Animated",
@@ -17946,7 +17957,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "Collector",
@@ -17986,7 +17997,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "Dont_Need_These",
@@ -18010,7 +18021,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "Escape_Artist",
@@ -18034,7 +18045,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "GB_In_Training",
@@ -18186,7 +18197,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "Stunner",
@@ -18202,7 +18213,7 @@
       "Name": "Stylish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "Summoner",
@@ -18226,7 +18237,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "Teamwork",
@@ -18305,16 +18316,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30105,
+      "Progressed": 30114,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-04T20:57:59.9022156+00:00",
-  "LastChanged_Achievements": "2023-11-04T22:06:16.1331929+00:00",
+  "LastChanged": "2023-11-04T22:57:50.767881+00:00",
+  "LastChanged_Achievements": "2023-11-04T23:06:06.3937621+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-04T21:58:11.0541135+00:00",
-  "LastUpdate_Achievements": "2023-11-04T22:06:16.1333258+00:00"
+  "LastUpdate_Ratings": "2023-11-04T22:57:50.7678815+00:00",
+  "LastUpdate_Achievements": "2023-11-04T23:06:06.3938692+00:00"
 }
