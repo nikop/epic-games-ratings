@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~6,443 |
 | Swordbearer | 10.00% | ~6,443 |
 | What have the Romans ever done for us? | 10.00% | ~6,443 |
-| Butterlord | 9.00% | ~5,798 |
+| Butterlord | 9.00% | ~5,799 |
 | Know your enemy | 7.00% | ~4,510 |
 | Mastery | 7.00% | ~4,510 |
 | Crowdfunded | 5.00% | ~3,221 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,427 (Ranked 102)  
+Progressed: 64,428 (Ranked 102)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 64,306 | 0 |
 | 2023-11-02 | 64,362 | 0 |
 | 2023-11-03 | 64,423 | 0 |
-| 2023-11-04 | 64,427 | 0 |
+| 2023-11-04 | 64,428 | 0 |
 ## Awards
 Max (Character Customization): 7,320  (Ranked 52)  
 Sum: 15,112 (Ranked 66)  

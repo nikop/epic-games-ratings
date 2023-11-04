@@ -4,8 +4,8 @@
   "ProductSlug": "lifeslide",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -370,8 +370,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:45:41.0774679+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:30:49.3360848+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.2172301+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:42:15.8449276+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:45:41.0774869+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:28:26.1128821+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:30:49.3361074+00:00"
 }

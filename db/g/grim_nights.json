@@ -4,8 +4,8 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
     "PcReleaseDate": "2018-10-11T22:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -276,6 +276,11 @@
       "Time": "2023-10-24T23:06:11.206365+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T02:31:22.501522+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -285,7 +290,7 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 150,
       "UsersEstimate": 18
     },
@@ -309,7 +314,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -349,7 +354,7 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -357,7 +362,7 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
       "UsersEstimate": 31
     },
@@ -365,7 +370,7 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 70,
       "UsersEstimate": 17
     },
@@ -381,7 +386,7 @@
       "ID": "ach_rich",
       "SetID": "c2c0fb6",
       "Name": "Bling bling!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -406,7 +411,7 @@
     {
       "ID": "c2c0fb6",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
@@ -414,8 +419,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:46:15.5357861+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:31:22.5015216+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.8943983+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:41:06.2570443+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:46:15.5357979+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:26:36.3388206+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:31:22.5015423+00:00"
 }

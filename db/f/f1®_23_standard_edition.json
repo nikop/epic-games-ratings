@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 4570,
+  "EOS_Progressed": 4571,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4361,6 +4361,11 @@
       "Time": "2023-11-04T01:47:20.9367098+00:00",
       "NumProgressed": 4570,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T02:32:26.7127989+00:00",
+      "NumProgressed": 4571,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -4421,7 +4426,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 4250
+      "UsersEstimate": 4251
     },
     {
       "ID": "achievement_0008",
@@ -4429,7 +4434,7 @@
       "Name": "On the Top Step",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3931
     },
     {
       "ID": "achievement_0009",
@@ -4437,7 +4442,7 @@
       "Name": "Eagle Eye",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_0010",
@@ -4445,7 +4450,7 @@
       "Name": "Network Success",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "achievement_0011",
@@ -4533,7 +4538,7 @@
       "Name": "Team Orders",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "achievement_0022",
@@ -4589,7 +4594,7 @@
       "Name": "Spinning Around",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_0029",
@@ -4637,7 +4642,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "achievement_0035",
@@ -4717,7 +4722,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "achievement_0045",
@@ -4741,7 +4746,7 @@
       "Name": "Peak Performance",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_0048",
@@ -4764,7 +4769,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 4570,
+      "Progressed": 4571,
       "Completed": 0
     }
   ],
@@ -4772,8 +4777,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-03T12:12:53.6152058+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:47:20.9367094+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:32:26.7127985+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:26.1254661+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:44:47.3927812+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:47:20.9367672+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:29:46.5265901+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:32:26.7128717+00:00"
 }

@@ -12,10 +12,10 @@
 | Powerful Allies | 16.00% | ~15 |
 | Adventurer | 16.00% | ~15 |
 | Shatter Them All | 16.00% | ~15 |
+| Fashion Victim | 16.00% | ~15 |
 | Scholar | 16.00% | ~15 |
 | I Found It | 16.00% | ~15 |
 | Geared Up | 15.00% | ~14 |
-| Fashion Victim | 15.00% | ~14 |
 | Essence Blow | 10.00% | ~10 |
 | Airborne | 8.00% | ~8 |
 | Tributes of Caladrias | 8.00% | ~8 |

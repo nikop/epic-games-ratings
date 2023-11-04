@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-11-04T01:46:55.8823499+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T02:32:03.1468358+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1072,7 +1077,7 @@
       "Name": "Critical dissatisfaction",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Full",
@@ -1080,7 +1085,7 @@
       "Name": "Full load",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Island",
@@ -1094,9 +1099,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "Master",
@@ -1152,7 +1157,7 @@
       "Name": "Back to USSR",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Upgrades",
@@ -1167,14 +1172,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:46:55.8823495+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:32:03.1468354+00:00",
   "LastUpdate_AppInfo": "2023-10-30T23:57:11.9435893+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:39:05.716855+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:46:55.8823619+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:14:25.666731+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:32:03.1468558+00:00"
 }

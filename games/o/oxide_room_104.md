@@ -18,7 +18,7 @@
 | The third floor | 19.00% | ~45 |
 | One-way | 17.00% | ~40 |
 | On the right path | 16.00% | ~38 |
-| It can't be true | 15.00% | ~36 |
+| It can't be true | 16.00% | ~38 |
 | He who seeks, finds! | 13.00% | ~31 |
 | I'm close now | 12.00% | ~29 |
 | Failed attempt | 12.00% | ~29 |
@@ -30,7 +30,7 @@
 | 373 | 6.00% | ~14 |
 | The experiment | 6.00% | ~14 |
 | Matthew's revenge | 5.00% | ~12 |
-| Eva's diary | 2.00% | ~5 |
+| Eva's diary | 3.00% | ~7 |
 | Horror book | 2.00% | ~5 |
 | A dark past | 2.00% | ~5 |
 | Matthew's mistakes | 0.40% | ~1 |

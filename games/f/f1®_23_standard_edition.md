@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~4,250 |
-| On the Top Step | 86.00% | ~3,930 |
+| Getting on the Step | 93.00% | ~4,251 |
+| On the Top Step | 86.00% | ~3,931 |
 | Setting up for Success | 75.00% | ~3,428 |
-| Team Orders | 73.00% | ~3,336 |
+| Team Orders | 73.00% | ~3,337 |
 | Engineer | 54.00% | ~2,468 |
 | Familiar Faces | 48.00% | ~2,194 |
-| Going the Extra Mile | 42.00% | ~1,919 |
+| Going the Extra Mile | 42.00% | ~1,920 |
 | Sharing the Love | 40.00% | ~1,828 |
 | Hitting a Season | 35.00% | ~1,600 |
-| Challenge Yourself | 32.00% | ~1,462 |
+| Challenge Yourself | 32.00% | ~1,463 |
 | Making History | 31.00% | ~1,417 |
 | A Dozen Pieces | 30.00% | ~1,371 |
-| Network Success | 25.00% | ~1,142 |
+| Network Success | 25.00% | ~1,143 |
 | Writing a new Chapter | 24.00% | ~1,097 |
 | Spring Cleaning | 23.00% | ~1,051 |
 | Reduce | 19.00% | ~868 |
@@ -30,8 +30,8 @@ Rating: 4.69 (Ranked 229)
 | Oil and Water | 14.00% | ~640 |
 | Hitting a Bullseye | 14.00% | ~640 |
 | Lightning Round the World | 13.00% | ~594 |
-| Eagle Eye | 12.00% | ~548 |
-| Spinning Around | 12.00% | ~548 |
+| Eagle Eye | 12.00% | ~549 |
+| Spinning Around | 12.00% | ~549 |
 | All in a Weekend's Work | 11.00% | ~503 |
 | Switcheroo | 11.00% | ~503 |
 | Recycle | 11.00% | ~503 |
@@ -41,7 +41,7 @@ Rating: 4.69 (Ranked 229)
 | For all Those Back at the Factory | 6.00% | ~274 |
 | Living up to Expectations | 6.00% | ~274 |
 | Smooth Operator | 6.00% | ~274 |
-| Peak Performance | 5.00% | ~228 |
+| Peak Performance | 5.00% | ~229 |
 | Loyal Bond | 4.00% | ~183 |
 | Seasoned Rookie | 3.00% | ~137 |
 | Hitting a Century | 3.00% | ~137 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 229)
 | Elite Racer | 0.10% | ~5 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,570 (Ranked 185)  
+Progressed: 4,571 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 4,159 | 0 |
 | 2023-11-02 | 4,338 | 0 |
 | 2023-11-03 | 4,552 | 0 |
-| 2023-11-04 | 4,570 | 0 |
+| 2023-11-04 | 4,571 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 24  (Ranked 518)  
 Sum: 45 (Ranked 485)  

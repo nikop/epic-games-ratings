@@ -6,32 +6,32 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 73.00% | ~7,352 |
-| Leader | 61.00% | ~6,143 |
+| First Step | 73.00% | ~7,353 |
+| Leader | 61.00% | ~6,144 |
 | Explorer | 53.00% | ~5,338 |
 | Healer | 52.00% | ~5,237 |
-| Aspiring Inventor | 44.00% | ~4,431 |
+| Aspiring Inventor | 44.00% | ~4,432 |
 | Adventurer | 42.00% | ~4,230 |
 | Famous Healer | 38.00% | ~3,827 |
 | Local Leader | 35.00% | ~3,525 |
 | Famous Explorer | 34.00% | ~3,424 |
 | New Opportunities | 34.00% | ~3,424 |
-| Energized | 33.00% | ~3,323 |
-| The Long Haul | 33.00% | ~3,323 |
+| Energized | 33.00% | ~3,324 |
+| The Long Haul | 33.00% | ~3,324 |
 | Survivor | 32.00% | ~3,223 |
 | The Great Healer | 31.00% | ~3,122 |
 | Catastrofan | 29.00% | ~2,921 |
 | Legendary Explorer | 28.00% | ~2,820 |
 | Cleaner | 28.00% | ~2,820 |
-| Finders, Keepers | 26.00% | ~2,618 |
+| Finders, Keepers | 26.00% | ~2,619 |
 | Top Notch | 25.00% | ~2,518 |
 | Mentor | 24.00% | ~2,417 |
-| Great Leader | 23.00% | ~2,316 |
-| Ice Lakes | 23.00% | ~2,316 |
+| Great Leader | 23.00% | ~2,317 |
+| Ice Lakes | 23.00% | ~2,317 |
 | Merchant | 22.00% | ~2,216 |
 | Real Survivor | 22.00% | ~2,216 |
 | Rocket Surgeon | 20.00% | ~2,014 |
-| War Never Changes | 19.00% | ~1,913 |
+| War Never Changes | 19.00% | ~1,914 |
 | Friendly | 17.00% | ~1,712 |
 | Big Game Hunter | 17.00% | ~1,712 |
 | Around the World | 17.00% | ~1,712 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~20 |
 | Customized calamities | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,071 (Ranked 156)  
+Progressed: 10,072 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 10,020 | 0 |
 | 2023-11-02 | 10,047 | 0 |
 | 2023-11-03 | 10,067 | 0 |
-| 2023-11-04 | 10,071 | 0 |
+| 2023-11-04 | 10,072 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 353)  
 Sum: 725 (Ranked 288)  

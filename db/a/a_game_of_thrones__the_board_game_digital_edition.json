@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27556,
+  "EOS_Progressed": 27558,
   "EOS_Completed": 75,
   "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 2,
@@ -22529,6 +22529,11 @@
       "Time": "2023-11-04T01:51:01.6758358+00:00",
       "NumProgressed": 27556,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-11-04T02:35:48.9496971+00:00",
+      "NumProgressed": 27558,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 22,
@@ -22612,7 +22617,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "1025",
@@ -22652,7 +22657,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "1030",
@@ -22660,7 +22665,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5511
+      "UsersEstimate": 5512
     },
     {
       "ID": "1031",
@@ -22676,7 +22681,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11022
+      "UsersEstimate": 11023
     },
     {
       "ID": "1033",
@@ -22700,7 +22705,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "1036",
@@ -22708,22 +22713,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27556,
+      "Progressed": 27558,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:51:01.6758355+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:35:48.9496968+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:34.4380832+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:45:03.8268548+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:51:01.6759442+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:30:06.2145038+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:35:48.9498351+00:00"
 }

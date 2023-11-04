@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 350730,
+  "EOS_Progressed": 350732,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1116,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23101,6 +23101,11 @@
       "Time": "2023-11-04T01:48:22.2286024+00:00",
       "NumProgressed": 350730,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T02:33:49.0825551+00:00",
+      "NumProgressed": 350732,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -23152,7 +23157,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach007",
@@ -23192,7 +23197,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach012",
@@ -23200,7 +23205,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28058
+      "UsersEstimate": 28059
     },
     {
       "ID": "ach013",
@@ -23224,7 +23229,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach016",
@@ -23248,7 +23253,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28058
+      "UsersEstimate": 28059
     },
     {
       "ID": "ach019",
@@ -23320,7 +23325,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 164843
+      "UsersEstimate": 164844
     },
     {
       "ID": "ach028",
@@ -23336,7 +23341,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38580
+      "UsersEstimate": 38581
     },
     {
       "ID": "ach030",
@@ -23424,7 +23429,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach041",
@@ -23440,7 +23445,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach043",
@@ -23504,7 +23509,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach051",
@@ -23512,7 +23517,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38580
+      "UsersEstimate": 38581
     },
     {
       "ID": "ach052",
@@ -23664,7 +23669,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17536
+      "UsersEstimate": 17537
     },
     {
       "ID": "ach072",
@@ -23751,7 +23756,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 350730,
+      "Progressed": 350732,
       "Completed": 7
     }
   ],
@@ -23759,8 +23764,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-03T12:00:54.9425355+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:48:22.2286021+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:33:49.0825546+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:35.1846079+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:41:40.4545399+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:48:22.228778+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:27:44.340828+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:33:49.0828103+00:00"
 }

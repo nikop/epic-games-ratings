@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,851 |
-| Until death do us apart | 4.00% | ~17,851 |
-| Victorious! | 4.00% | ~17,851 |
-| That's a Grand Navy | 3.00% | ~13,388 |
-| That is mine! | 3.00% | ~13,388 |
+| That's a Grand Army | 4.00% | ~17,852 |
+| Until death do us apart | 4.00% | ~17,852 |
+| Victorious! | 4.00% | ~17,852 |
+| That's a Grand Navy | 3.00% | ~13,389 |
+| That is mine! | 3.00% | ~13,389 |
 | Brothers in Arms | 2.00% | ~8,926 |
 | Cold War | 2.00% | ~8,926 |
 | For the Glory | 2.00% | ~8,926 |
@@ -29,9 +29,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 0.70% | ~3,124 |
 | Agressive Expander | 0.60% | ~2,678 |
 | Combined Arms | 0.60% | ~2,678 |
-| Azur semé de lis or | 0.50% | ~2,231 |
-| City of Cities | 0.50% | ~2,231 |
-| This navy can take it all | 0.50% | ~2,231 |
+| Azur semé de lis or | 0.50% | ~2,232 |
+| City of Cities | 0.50% | ~2,232 |
+| This navy can take it all | 0.50% | ~2,232 |
 | Bright Spark | 0.40% | ~1,785 |
 | The Emperors new clothes | 0.40% | ~1,785 |
 | Factionalism | 0.40% | ~1,785 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 446,280 (Ranked 41)  
+Progressed: 446,302 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -559,7 +559,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 444,668 | 1 |
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
-| 2023-11-04 | 446,280 | 1 |
+| 2023-11-04 | 446,302 | 1 |
 ## Awards
 Max (Educational): 6,817  (Ranked 55)  
 Sum: 55,956 (Ranked 24)  

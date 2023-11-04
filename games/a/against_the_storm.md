@@ -8,11 +8,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taking Action | 7.00% | ~1,202 |
 | No Deaths | 7.00% | ~1,202 |
-| First Real Expedition | 6.00% | ~1,030 |
-| Overcoming Difficulty | 6.00% | ~1,030 |
-| Coral Forest | 6.00% | ~1,030 |
-| The Marshlands | 6.00% | ~1,030 |
-| The Scarlet Orchard | 6.00% | ~1,030 |
+| First Real Expedition | 6.00% | ~1,031 |
+| Overcoming Difficulty | 6.00% | ~1,031 |
+| Coral Forest | 6.00% | ~1,031 |
+| The Marshlands | 6.00% | ~1,031 |
+| The Scarlet Orchard | 6.00% | ~1,031 |
 | Ancient Battleground | 5.00% | ~859 |
 | Fertile Meadows | 5.00% | ~859 |
 | Royal Outpost | 5.00% | ~859 |
@@ -42,9 +42,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 3.00% | ~515 |
 | Defying the Crown | 3.00% | ~515 |
 | Into the Forest | 3.00% | ~515 |
-| Feeding The People | 2.00% | ~343 |
-| Efficient Explorer | 2.00% | ~343 |
-| Victory through Prosperity | 2.00% | ~343 |
+| Feeding The People | 2.00% | ~344 |
+| Efficient Explorer | 2.00% | ~344 |
+| Victory through Prosperity | 2.00% | ~344 |
 | Prestigious Expedition | 1.00% | ~172 |
 | Blood Flower Farmer | 1.00% | ~172 |
 | Lizard Utopia | 0.90% | ~155 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,174 (Ranked 138)  
+Progressed: 17,176 (Ranked 138)  
 Completed: 53 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 53 (0.31%) (Ranked 219)
 | 2023-11-01 | 17,143 | 53 |
 | 2023-11-02 | 17,154 | 53 |
 | 2023-11-03 | 17,173 | 53 |
-| 2023-11-04 | 17,174 | 53 |
+| 2023-11-04 | 17,176 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 216)  
 Sum: 3,204 (Ranked 170)  

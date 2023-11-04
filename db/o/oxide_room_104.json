@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -1178,9 +1178,9 @@
       "ID": "ACH_EVADOCUMENTS",
       "SetID": "511e31d",
       "Name": "Eva\u0027s diary",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_EVILDOCUMENTS",
@@ -1258,9 +1258,9 @@
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -1353,8 +1353,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:46:30.2567392+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:31:37.8659168+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.0797978+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:40:44.0584379+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:46:30.2567629+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:25:44.9949133+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:31:37.8659478+00:00"
 }

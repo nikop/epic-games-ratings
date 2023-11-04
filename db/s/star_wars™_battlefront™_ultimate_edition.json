@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -2929,6 +2929,11 @@
       "Time": "2023-11-04T01:51:26.5428847+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T02:36:14.6164051+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3117,7 +3122,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_30",
@@ -3165,7 +3170,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "achievement_36",
@@ -3181,7 +3186,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "achievement_38",
@@ -3205,7 +3210,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_40",
@@ -3421,7 +3426,7 @@
       "Name": "A cunning warrior",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_8",
@@ -3444,13 +3449,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 1
     }
   ],
@@ -3458,8 +3463,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:51:26.5428842+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:36:14.6164047+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:41:50.7209603+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:51:26.542963+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:27:58.1801391+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:36:14.6164854+00:00"
 }

@@ -7,28 +7,28 @@ Number of Ratings: 892  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iron Chef | 210.00% | ~349 |
-| Adept Assembler | 166.00% | ~276 |
-| Greeno-B-Gone | 103.00% | ~171 |
-| Your Especially Earned Trajectory | 79.00% | ~131 |
-| Can We Keep It? | 49.00% | ~81 |
-| No Mountain Wide Enough | 45.00% | ~75 |
+| Adept Assembler | 168.00% | ~279 |
+| Greeno-B-Gone | 105.00% | ~174 |
+| Your Especially Earned Trajectory | 80.00% | ~133 |
+| Can We Keep It? | 50.00% | ~83 |
+| No Mountain Wide Enough | 46.00% | ~76 |
 | My Time Mansion | 35.00% | ~58 |
-| On that Grindset | 31.00% | ~51 |
+| On that Grindset | 32.00% | ~53 |
 | Happier-est Place on Earth | 27.00% | ~45 |
 | You Don't Win Friends With Salad | 27.00% | ~45 |
 | Call Me Fishmael | 27.00% | ~45 |
 | Yakmel Whisperer | 25.00% | ~42 |
 | Finishing Touches | 24.00% | ~40 |
 | Anti-Santa | 24.00% | ~40 |
-| Knowledge is Power | 18.00% | ~30 |
-| Officially Official | 18.00% | ~30 |
-| I Do! | 18.00% | ~30 |
+| Knowledge is Power | 19.00% | ~32 |
+| Officially Official | 19.00% | ~32 |
+| I Do! | 19.00% | ~32 |
 | Mole Masher | 18.00% | ~30 |
 | Jewel of the Eufaula | 16.00% | ~27 |
 | Better Late than Never | 14.00% | ~23 |
 | Pack Mule | 13.00% | ~22 |
-| Diamonds are Forever | 12.00% | ~20 |
-| Financially Secure | 11.00% | ~18 |
+| Financially Secure | 13.00% | ~22 |
+| Diamonds are Forever | 13.00% | ~22 |
 | He Can Spin A Yarn... | 10.00% | ~17 |
 | First Love | 9.00% | ~15 |
 | Jack of All Trades | 8.00% | ~13 |
@@ -45,15 +45,15 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 5.00% | ~8 |
 | Commissions, commissions...! | 4.00% | ~7 |
 | Kind of a Big Deal | 4.00% | ~7 |
+| Martle's Dream | 4.00% | ~7 |
 | Elementary, My Dear | 4.00% | ~7 |
 | Lifeline Pipeline | 4.00% | ~7 |
 | Just What I Always Wanted! | 4.00% | ~7 |
 | Do Your Part | 4.00% | ~7 |
 | Time Flies | 3.00% | ~5 |
-| Martle's Dream | 3.00% | ~5 |
+| Who Ya Gonna Call...? | 3.00% | ~5 |
 | Waste Not Want Not | 3.00% | ~5 |
 | Got the Flow Back | 2.00% | ~3 |
-| Who Ya Gonna Call...? | 2.00% | ~3 |
 | Got the Receipt? | 2.00% | ~3 |
 | It Belongs in a Museum! | 2.00% | ~3 |
 | Strong Arms | 1.00% | ~2 |

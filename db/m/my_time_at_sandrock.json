@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1565,9 +1565,9 @@
       "ID": "C_KNOWLEDGE",
       "SetID": "80dcan0",
       "Name": "Knowledge is Power",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -1581,9 +1581,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "C_STAYUP",
@@ -1637,9 +1637,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 166,
+      "Percentage": 168,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 279
     },
     {
       "ID": "M_BACKPACK",
@@ -1677,9 +1677,9 @@
       "ID": "M_GOLS",
       "SetID": "80dcan0",
       "Name": "Financially Secure",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "M_HOME_RANK",
@@ -1701,9 +1701,9 @@
       "ID": "M_PET",
       "SetID": "80dcan0",
       "Name": "Can We Keep It?",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "P_BEAUTIFYSANDROCK",
@@ -1733,9 +1733,9 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "P_FOREST",
@@ -1773,9 +1773,9 @@
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "P_OWENSTORY",
@@ -1789,17 +1789,17 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 103,
+      "Percentage": 105,
       "XP": 20,
-      "UsersEstimate": 171
+      "UsersEstimate": 174
     },
     {
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "P_SCHOOL",
@@ -1821,9 +1821,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -1893,9 +1893,9 @@
       "ID": "S_GHOST",
       "SetID": "80dcan0",
       "Name": "Who Ya Gonna Call...?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "S_GIFT",
@@ -1933,9 +1933,9 @@
       "ID": "S_MARRY",
       "SetID": "80dcan0",
       "Name": "I Do!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "S_PARTY",
@@ -2013,9 +2013,9 @@
       "ID": "X_GET_DIAMOND",
       "SetID": "80dcan0",
       "Name": "Diamonds are Forever",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "X_GET_FECE",
@@ -2053,8 +2053,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-03T19:59:44.1559698+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:49:54.2717164+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:34:40.7124328+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:09.1005592+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:42:17.3168049+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:49:54.2717587+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:28:27.6535558+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:34:40.7124893+00:00"
 }

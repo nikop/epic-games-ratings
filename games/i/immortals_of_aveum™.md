@@ -1,39 +1,39 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.95 (Ranked 999)  
+Rating: 3.98 (Ranked 995)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~125 |
-| Battlefields Have Memories | 86.00% | ~120 |
-| Enlisted | 84.00% | ~118 |
-| Maybe Engage a Little | 81.00% | ~113 |
-| No More Names | 64.00% | ~90 |
-| Initiate | 57.00% | ~80 |
-| Thrada-Kul | 53.00% | ~74 |
-| Gravity-Challenged Rocks | 41.00% | ~57 |
-| All the Major Food Groups | 35.00% | ~49 |
-| Soldier | 34.00% | ~48 |
-| Beggars Would Ride | 31.00% | ~43 |
+| Unforeseen | 89.00% | ~126 |
+| Battlefields Have Memories | 85.00% | ~121 |
+| Enlisted | 83.00% | ~118 |
+| Maybe Engage a Little | 80.00% | ~114 |
+| No More Names | 63.00% | ~89 |
+| Initiate | 56.00% | ~80 |
+| Thrada-Kul | 52.00% | ~74 |
+| Gravity-Challenged Rocks | 41.00% | ~58 |
+| All the Major Food Groups | 35.00% | ~50 |
+| Soldier | 33.00% | ~47 |
+| Beggars Would Ride | 30.00% | ~43 |
 | Control is an Illusion | 29.00% | ~41 |
-| Socialite | 29.00% | ~41 |
-| The Means to Save It | 23.00% | ~32 |
+| Socialite | 28.00% | ~40 |
+| The Means to Save It | 23.00% | ~33 |
 | Resilience to Sin | 20.00% | ~28 |
 | A Familiar Nest | 19.00% | ~27 |
-| Periapt Alizarin | 18.00% | ~25 |
+| Periapt Alizarin | 18.00% | ~26 |
 | Armsman | 17.00% | ~24 |
-| Geas Aristeya | 16.00% | ~22 |
+| Geas Aristeya | 16.00% | ~23 |
 | A Perfect Cycle | 14.00% | ~20 |
 | Recruit | 14.00% | ~20 |
 | Good Boy | 10.00% | ~14 |
 | Lights Army | 9.00% | ~13 |
 | Periapt Cerulean | 9.00% | ~13 |
-| Periapt Viridian | 9.00% | ~13 |
-| Shroudfane Explorer | 9.00% | ~13 |
-| Best Dressed | 6.00% | ~8 |
-| Armaments Azure | 6.00% | ~8 |
-| Armaments Gules | 6.00% | ~8 |
+| Periapt Viridian | 8.00% | ~11 |
+| Shroudfane Explorer | 8.00% | ~11 |
+| Best Dressed | 6.00% | ~9 |
+| Armaments Azure | 6.00% | ~9 |
+| Armaments Gules | 6.00% | ~9 |
 | Scholar | 5.00% | ~7 |
 | Kitted Out | 4.00% | ~6 |
 | Armaments Vert | 4.00% | ~6 |
@@ -53,8 +53,8 @@ Rating: 3.95 (Ranked 999)
 | Tip of the Spear | 1.00% | ~1 |
 | Fowl Play | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 382)  
-Completed: 1 (0.71%) (Ranked 171)  
+Progressed: 142 (Ranked 382)  
+Completed: 1 (0.70%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 1 (0.71%) (Ranked 171)
 | 2023-11-01 | 123 | 1 |
 | 2023-11-02 | 131 | 1 |
 | 2023-11-03 | 139 | 1 |
-| 2023-11-04 | 140 | 1 |
+| 2023-11-04 | 142 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -113,3 +113,4 @@ Completed: 1 (0.71%) (Ranked 171)
 | 2023-10-13 | 4.05 | 0 | 0 |
 | 2023-10-19 | 3.98 | 0 | 0 |
 | 2023-11-03 | 3.95 | 0 | 0 |
+| 2023-11-04 | 3.98 | 0 | 0 |

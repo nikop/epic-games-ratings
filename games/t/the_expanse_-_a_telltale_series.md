@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 500)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 4.00% | ~584 |
+| Oyedang, Kopengs | 4.00% | ~585 |
 | The Pit and the Pirates | 2.00% | ~292 |
 | Drug Gifter | 2.00% | ~292 |
 | Drone Dodger | 2.00% | ~292 |
@@ -24,8 +24,8 @@ Rating: 4.55 (Ranked 500)
 | Doctor Approved | 0.60% | ~88 |
 | Bottoms up! | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
+| Zen Master | 0.60% | ~3 |
 | Safe Cracker | 0.50% | ~3 |
-| Zen Master | 0.50% | ~3 |
 | Madame Undersecretary | 0.50% | ~3 |
 | Data Logger | 0.40% | ~58 |
 | Keep Arjun in Check | 0.40% | ~2 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,611 (Ranked 146)  
+Progressed: 14,613 (Ranked 146)  
 Completed: 31 (0.21%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 31 (0.21%) (Ranked 235)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,611 | 31 |
+| 2023-11-04 | 14,613 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_Progress": 389,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -554,6 +554,11 @@
       "Time": "2023-11-04T01:51:14.3788936+00:00",
       "NumProgressed": 124,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T02:36:02.0510534+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -564,9 +569,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 54
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -574,7 +579,7 @@
       "Name": "Laser Beam",
       "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -590,7 +595,7 @@
       "Name": "Assassin",
       "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -606,7 +611,7 @@
       "Name": "Killer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -614,13 +619,13 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 60,
       "UsersEstimate": 79
     },
@@ -630,7 +635,7 @@
       "Name": "Badlands is safe!",
       "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -662,7 +667,7 @@
       "Name": "Forest is safe!",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -670,7 +675,7 @@
       "Name": "Western is safe!",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REACH_LEVEL_10",
@@ -684,9 +689,9 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 110,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -694,21 +699,21 @@
       "Name": "Strong",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:51:14.3788928+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:36:02.051053+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:40:01.0485224+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:51:14.378906+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:20:43.9381083+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:36:02.0510704+00:00"
 }

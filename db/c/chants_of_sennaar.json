@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 399,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.76,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1790,6 +1790,11 @@
       "Time": "2023-11-04T01:50:12.2035651+00:00",
       "NumProgressed": 398,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-04T02:34:59.1139535+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1943,9 +1948,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1961,15 +1966,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "PROGRESS_N3",
@@ -1983,9 +1988,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "PROGRESS_N5",
@@ -2000,14 +2005,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 399,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:50:12.2035647+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:34:59.113953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:42:24.878222+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:50:12.2035886+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:28:35.7850838+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:34:59.1139825+00:00"
 }

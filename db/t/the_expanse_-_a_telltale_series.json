@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,7 +211,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14611,
+  "EOS_Progressed": 14613,
   "EOS_Completed": 31,
   "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 4,
@@ -10331,6 +10331,11 @@
       "Time": "2023-11-04T01:47:59.8069675+00:00",
       "NumProgressed": 14611,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-04T02:33:25.963664+00:00",
+      "NumProgressed": 14613,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10375,7 +10380,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "14",
@@ -10597,7 +10602,7 @@
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -10622,13 +10627,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14611,
+      "Progressed": 14613,
       "Completed": 31
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 565,
+      "Progressed": 567,
       "Completed": 323
     }
   ],
@@ -10636,8 +10641,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T01:47:59.806967+00:00",
+  "LastChanged_Achievements": "2023-11-04T02:33:25.9636636+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-04T01:41:27.0790292+00:00",
-  "LastUpdate_Achievements": "2023-11-04T01:47:59.8070356+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:27:14.0175662+00:00",
+  "LastUpdate_Achievements": "2023-11-04T02:33:25.9637656+00:00"
 }

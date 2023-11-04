@@ -12,15 +12,15 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 1.00% | ~63 |
 | More Fish in the Sea | 1.00% | ~63 |
 | Scaling up | 1.00% | ~63 |
-| Ready to Rod and Roll | 0.70% | ~44 |
+| Ready to Rod and Roll | 0.80% | ~50 |
 | Fish Out of Water | 0.60% | ~38 |
 | Things that go Splash in the Night | 0.60% | ~38 |
 | Goldfish? | 0.50% | ~31 |
 | Going for Gold | 0.50% | ~31 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~23 |
 | License to Gill | 0.30% | ~19 |
+| School's Out for Summer | 0.30% | ~19 |
 | Aguas Claras Conquistador | 0.30% | ~17 |
-| School's Out for Summer | 0.20% | ~13 |
 | Marathon | 0.20% | ~13 |
 | I'm Hooked! | 0.20% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~13 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,293 (Ranked 177)  
+Progressed: 6,295 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 6,212 | 0 |
 | 2023-11-02 | 6,244 | 0 |
 | 2023-11-03 | 6,286 | 0 |
-| 2023-11-04 | 6,293 | 0 |
+| 2023-11-04 | 6,295 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 188 (Ranked 402)  
