@@ -31,20 +31,20 @@
 | Ophiolatreia | 3.00% | ~109 |
 | Halls of Marble | 3.00% | ~109 |
 | Serpentine | 3.00% | ~109 |
-| Wayward Son of Hephaestus | 2.00% | ~72 |
-| Lament of the Constellations | 2.00% | ~72 |
-| Forged in Fire | 2.00% | ~72 |
-| Rock and a Hard Place | 2.00% | ~72 |
-| The Midas Touch | 2.00% | ~72 |
-| Hapax Legomenon | 2.00% | ~72 |
-| Don't Pay the Ferryman | 2.00% | ~72 |
-| Veneration of Hephaestus | 2.00% | ~72 |
-| Vandili | 2.00% | ~72 |
-| No Scylla in Sight | 2.00% | ~72 |
-| Cloaca Maxima | 2.00% | ~72 |
-| Baby Crabs They Ain't | 2.00% | ~72 |
-| Mors Omnibus | 2.00% | ~72 |
-| Blot Out the Sky | 2.00% | ~72 |
+| Wayward Son of Hephaestus | 2.00% | ~73 |
+| Lament of the Constellations | 2.00% | ~73 |
+| Forged in Fire | 2.00% | ~73 |
+| Rock and a Hard Place | 2.00% | ~73 |
+| The Midas Touch | 2.00% | ~73 |
+| Hapax Legomenon | 2.00% | ~73 |
+| Don't Pay the Ferryman | 2.00% | ~73 |
+| Veneration of Hephaestus | 2.00% | ~73 |
+| Vandili | 2.00% | ~73 |
+| No Scylla in Sight | 2.00% | ~73 |
+| Cloaca Maxima | 2.00% | ~73 |
+| Baby Crabs They Ain't | 2.00% | ~73 |
+| Mors Omnibus | 2.00% | ~73 |
+| Blot Out the Sky | 2.00% | ~73 |
 | The Nameless One | 1.00% | ~36 |
 | Rule of Thirds | 1.00% | ~36 |
 | Pyr Demon | 1.00% | ~36 |
@@ -56,10 +56,10 @@
 | Athenian Treasury | 0.90% | ~33 |
 | Invicta | 0.80% | ~29 |
 | Olympian | 0.50% | ~18 |
-| Hipparchia's Labour | 0.40% | ~14 |
-| Debauchery | 0.40% | ~14 |
-| Interrupt the Interloper | 0.40% | ~14 |
-| Elephantine | 0.40% | ~14 |
+| Hipparchia's Labour | 0.40% | ~15 |
+| Debauchery | 0.40% | ~15 |
+| Interrupt the Interloper | 0.40% | ~15 |
+| Elephantine | 0.40% | ~15 |
 | Window Shopping | 0.30% | ~11 |
 | Blessing of Spring | 0.30% | ~11 |
 | Buyer's Remorse | 0.20% | ~7 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,625 (Ranked 194)  
+Progressed: 3,627 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-10-31 | 3,608 | 0 |
 | 2023-11-02 | 3,611 | 0 |
 | 2023-11-03 | 3,619 | 0 |
-| 2023-11-04 | 3,625 | 0 |
+| 2023-11-04 | 3,627 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

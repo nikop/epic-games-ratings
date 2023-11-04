@@ -12,6 +12,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.30% | ~2,686 |
 | Right Back At Ya | 0.20% | ~1,790 |
 | The Quick and the Dead | 0.20% | ~1,790 |
+| Life of the Road | 0.20% | ~1,790 |
 | Stanislavski's Method | 0.20% | ~1,790 |
 | The Hermit | 0.20% | ~1,790 |
 | The Wheel of Fortune | 0.20% | ~1,790 |
@@ -38,7 +39,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.10% | ~895 |
 | The Wasteland | 0.10% | ~895 |
 | Daemon In The Shell | 0.10% | ~895 |
-| Life of the Road | 0.10% | ~895 |
 | Ten out of Ten | 0.10% | ~895 |
 | Temperance | 0.10% | ~895 |
 | Rough Landing | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,193 (Ranked 15)  
+Progressed: 895,200 (Ranked 15)  
 Completed: 2,742 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,742 (0.31%) (Ranked 219)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,193 | 2,742 |
+| 2023-11-04 | 895,200 | 2,742 |
 ## Awards
 Max (Character Customization): 103,657  (Ranked 9)  
 Sum: 341,561 (Ranked 10)  

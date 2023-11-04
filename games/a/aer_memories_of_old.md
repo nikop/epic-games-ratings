@@ -1,24 +1,24 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 641)  
+Rating: 4.46 (Ranked 642)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~18,020 |
-| Mama? | 27.00% | ~6,319 |
-| People's Haven | 18.00% | ~4,212 |
-| Cartographer | 17.00% | ~3,978 |
-| Antlers of Stone | 15.00% | ~3,510 |
-| Knowledge for Power | 14.00% | ~3,276 |
-| Gaze into the abyss | 13.00% | ~3,042 |
-| Mausoleum of Ice | 13.00% | ~3,042 |
-| Wings of Stone | 12.00% | ~2,808 |
-| Equilibrium | 12.00% | ~2,808 |
-| In the belly of the beast | 11.00% | ~2,574 |
-| Condor condo | 10.00% | ~2,340 |
-| Memorial | 9.00% | ~2,106 |
+| Light at the end of the tunnel | 77.00% | ~18,023 |
+| Mama? | 27.00% | ~6,320 |
+| People's Haven | 18.00% | ~4,213 |
+| Cartographer | 17.00% | ~3,979 |
+| Antlers of Stone | 15.00% | ~3,511 |
+| Knowledge for Power | 14.00% | ~3,277 |
+| Gaze into the abyss | 13.00% | ~3,043 |
+| Mausoleum of Ice | 13.00% | ~3,043 |
+| Wings of Stone | 12.00% | ~2,809 |
+| Equilibrium | 12.00% | ~2,809 |
+| In the belly of the beast | 11.00% | ~2,575 |
+| Condor condo | 10.00% | ~2,341 |
+| Memorial | 9.00% | ~2,107 |
 | An uninvited guest | 7.00% | ~1,638 |
 | Tails of Stone | 6.00% | ~1,404 |
 | Baa from the past | 6.00% | ~1,404 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,170 |
 | Hide and Seek | 4.00% | ~936 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,402 (Ranked 127)  
+Progressed: 23,407 (Ranked 127)  
 Completed: 448 (1.91%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 448 (1.91%) (Ranked 120)
 | 2023-11-01 | 23,242 | 448 |
 | 2023-11-02 | 23,289 | 448 |
 | 2023-11-03 | 23,367 | 448 |
-| 2023-11-04 | 23,402 | 448 |
+| 2023-11-04 | 23,407 | 448 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

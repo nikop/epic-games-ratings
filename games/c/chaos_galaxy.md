@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Honor Medal | 26.00% | ~10 |
-| Tyrant Rise | 24.00% | ~9 |
+| Tyrant Rise | 23.00% | ~9 |
 | Great Civil War | 18.00% | ~7 |
-| Assassination | 16.00% | ~6 |
-| Princess Crowned | 11.00% | ~4 |
-| Secret War | 11.00% | ~4 |
+| Assassination | 15.00% | ~6 |
+| Princess Crowned | 10.00% | ~4 |
+| Secret War | 10.00% | ~4 |
 | Investment | 8.00% | ~3 |
 | 2nd AI War | 5.00% | ~2 |
 | Punish Eastgalaxy | 5.00% | ~2 |
@@ -53,7 +53,7 @@
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 483)  
+Progressed: 39 (Ranked 480)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,4 +81,4 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-09-27 | 35 | 0 |
 | 2023-11-01 | 36 | 0 |
 | 2023-11-03 | 37 | 0 |
-| 2023-11-04 | 38 | 0 |
+| 2023-11-04 | 39 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 416,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.81,
+  "EOS_Completed_Percentage": 5.77,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1840,6 +1840,11 @@
       "Time": "2023-11-04T14:20:37.2337511+00:00",
       "NumProgressed": 413,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-04T15:06:33.474172+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 25,
@@ -1873,9 +1878,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1889,9 +1894,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1905,9 +1910,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1939,7 +1944,7 @@
       "Name": "A Link to the Past",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1963,7 +1968,7 @@
       "Name": "True G3M4R",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -1971,7 +1976,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -1995,7 +2000,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2003,7 +2008,7 @@
       "Name": "Scholar",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "PROGRESS_N1",
@@ -2017,9 +2022,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "PROGRESS_N3",
@@ -2027,7 +2032,7 @@
       "Name": "A new dawn",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PROGRESS_N4",
@@ -2035,7 +2040,7 @@
       "Name": "The darkness",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "PROGRESS_N5",
@@ -2050,14 +2055,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 416,
       "Completed": 24
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:20:37.2337506+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:06:33.4741716+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:12:22.678504+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:20:37.2337786+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:59:55.5755078+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:06:33.4742037+00:00"
 }

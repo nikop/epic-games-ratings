@@ -5,12 +5,12 @@ Rating: 4.56 (Ranked 482)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,894 |
-| Pay 'n' Spray | 51.00% | ~6,860 |
-| All Dressed Up for San Fierro | 26.00% | ~3,497 |
+| Getting Started | 81.00% | ~10,896 |
+| Pay 'n' Spray | 51.00% | ~6,861 |
+| All Dressed Up for San Fierro | 26.00% | ~3,498 |
 | The American Dream | 20.00% | ~2,690 |
 | School's Out | 19.00% | ~2,556 |
-| Smooth Moves | 17.00% | ~2,286 |
+| Smooth Moves | 17.00% | ~2,287 |
 | What happens in Las Venturas... | 15.00% | ~2,018 |
 | Today Was a Good Day | 15.00% | ~2,018 |
 | Horror of the Santa Maria | 11.00% | ~1,480 |
@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 482)
 | Original Gangster | 8.00% | ~1,076 |
 | With Extra Dip | 7.00% | ~942 |
 | Saviour | 6.00% | ~807 |
-| They Can’t Stop All of Us | 5.00% | ~672 |
-| Rescue a Kitten Too? | 5.00% | ~672 |
+| They Can’t Stop All of Us | 5.00% | ~673 |
+| Rescue a Kitten Too? | 5.00% | ~673 |
 | What are the Odds | 4.00% | ~538 |
 | Bike or Biker | 3.00% | ~404 |
 | What the City Needs | 3.00% | ~404 |
@@ -33,15 +33,15 @@ Rating: 4.56 (Ranked 482)
 | Assassin | 2.00% | ~269 |
 | Public Enemy No. 1 | 2.00% | ~269 |
 | Ain’t Nothing But a G Thing | 2.00% | ~269 |
-| Hoopin' it Up | 1.00% | ~134 |
-| Lucky Spinner | 1.00% | ~134 |
-| Not a Player | 1.00% | ~134 |
-| Chick Magnet | 1.00% | ~134 |
+| Hoopin' it Up | 1.00% | ~135 |
+| Lucky Spinner | 1.00% | ~135 |
+| Not a Player | 1.00% | ~135 |
+| Chick Magnet | 1.00% | ~135 |
 | Remastered | 0.80% | ~108 |
 | ...Here we go again | 0.50% | ~67 |
 | I Ain't No Buster | 0.40% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,450 (Ranked 148)  
+Progressed: 13,452 (Ranked 148)  
 Completed: 51 (0.38%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,14 +239,14 @@ Completed: 51 (0.38%) (Ranked 208)
 | 2023-11-01 | 13,352 | 50 |
 | 2023-11-02 | 13,385 | 51 |
 | 2023-11-03 | 13,421 | 51 |
-| 2023-11-04 | 13,450 | 51 |
+| 2023-11-04 | 13,452 | 51 |
 ## Awards
-Max (Great Boss Battles): 373  (Ranked 229)  
-Sum: 591 (Ranked 309)  
-Diff (max vs sum): -80  
+Max (Great Boss Battles): 375  (Ranked 229)  
+Sum: 593 (Ranked 308)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 373 |
+| This game has Great Boss Battles | 375 |
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 34 |
 | This game has Amazing Characters | 31 |
@@ -423,3 +423,4 @@ Diff (max vs sum): -80
 | 2023-10-31 | 4.56 | 367 | 584 |
 | 2023-11-01 | 4.56 | 370 | 587 |
 | 2023-11-03 | 4.56 | 373 | 591 |
+| 2023-11-04 | 4.56 | 375 | 593 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4333,10 +4333,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 2936,
       "NumberOfAwardsMax": 521
+    },
+    {
+      "Time": "2023-11-04T14:57:37.6732342+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 2937,
+      "NumberOfAwardsMax": 521
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2936,
+  "NumberOfAwards": 2937,
   "NumberOfAwardsMax": 521,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4362,7 +4368,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 492
+      "Count": 493
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4397,7 +4403,7 @@
   ],
   "EOS_Progressed": 89546,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24250,9 +24256,9 @@
       "ID": "ACH_0450",
       "SetID": "3kam13l",
       "Name": "Off the Rocks",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 895
     },
     {
       "ID": "ACH_0451",
@@ -24336,9 +24342,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-04T03:57:23.5224849+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:21:26.9036857+00:00",
+  "LastChanged": "2023-11-04T14:57:37.6732341+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:08:06.4507193+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.3098014+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:58:21.6349383+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:21:26.9039013+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:37.6732347+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:08:06.4508438+00:00"
 }

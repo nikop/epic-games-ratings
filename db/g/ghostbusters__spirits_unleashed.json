@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3039,9 +3039,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30037,
+  "EOS_Progressed": 30039,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2008,
+  "EOS_NewPlayers": 2002,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17829,6 +17829,11 @@
       "Time": "2023-11-04T14:19:16.0329757+00:00",
       "NumProgressed": 30037,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T15:05:26.3258567+00:00",
+      "NumProgressed": 30039,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17888,7 +17893,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "Collector",
@@ -17928,7 +17933,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "Dont_Need_These",
@@ -17976,7 +17981,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "GB_In_Training",
@@ -18128,7 +18133,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "Stunner",
@@ -18168,7 +18173,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "Teamwork",
@@ -18247,7 +18252,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30037,
+      "Progressed": 30039,
       "Completed": 65
     }
   ],
@@ -18255,8 +18260,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-04T10:57:45.1962192+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:19:16.0329752+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:05:26.3258563+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:58:10.4895795+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:19:16.0331647+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:32.7677313+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:05:26.3259653+00:00"
 }

@@ -1318,10 +1318,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 725,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-11-04T14:57:34.7407795+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 726,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 725,
+  "NumberOfAwards": 726,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1335,7 +1341,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1388,7 +1394,7 @@
   ],
   "EOS_Progressed": 10089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16425,9 +16431,9 @@
       "ID": "19",
       "SetID": "8idi9ml",
       "Name": "Healer",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5347
     },
     {
       "ID": "2",
@@ -16824,9 +16830,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2023-11-02T17:57:08.0386111+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:16:23.7647368+00:00",
+  "LastChanged": "2023-11-04T14:57:34.7407793+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:03:09.4814768+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:09.6880529+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:58:14.3382606+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:16:23.7649053+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:34.7407798+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:03:09.4815979+00:00"
 }

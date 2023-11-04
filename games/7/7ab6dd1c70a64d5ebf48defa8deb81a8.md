@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 47.00% | ~49 |
+| Break Out | 48.00% | ~50 |
 | Trinity | 22.00% | ~23 |
-| Find Allies | 19.00% | ~20 |
+| Find Allies | 20.00% | ~21 |
+| Fashion Victim | 18.00% | ~19 |
 | The Collector | 18.00% | ~19 |
-| Fashion Victim | 17.00% | ~18 |
 | Scholar | 17.00% | ~18 |
 | A Taste of Wrath | 16.00% | ~17 |
 | Adventurer | 16.00% | ~17 |
+| I Found It | 16.00% | ~17 |
 | Powerful Allies | 15.00% | ~16 |
-| I Found It | 15.00% | ~16 |
 | Shatter Them All | 14.00% | ~15 |
 | Geared Up | 13.00% | ~14 |
-| Tributes of Caladrias | 10.00% | ~10 |
+| Tributes of Caladrias | 11.00% | ~12 |
 | Essence Blow | 10.00% | ~10 |
 | Stone Collection | 9.00% | ~9 |
 | Airborne | 8.00% | ~8 |
@@ -31,12 +31,12 @@
 | Clear Sight | 2.00% | ~2 |
 | Slayer | 2.00% | ~2 |
 | Flawless Victory | 2.00% | ~2 |
+| Fine Feathers Make Fine Birds | 2.00% | ~2 |
 | Shardbearer | 1.00% | ~1 |
-| Fine Feathers Make Fine Birds | 1.00% | ~1 |
+| False God | 1.00% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| False God | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |

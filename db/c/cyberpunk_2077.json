@@ -14672,9 +14672,9 @@
       "Count": 12334
     }
   ],
-  "EOS_Progressed": 895193,
+  "EOS_Progressed": 895200,
   "EOS_Completed": 2742,
-  "EOS_NewPlayers": 969,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37077,6 +37077,11 @@
       "Time": "2023-11-04T14:19:21.809066+00:00",
       "NumProgressed": 895193,
       "NumCompleted": 2742
+    },
+    {
+      "Time": "2023-11-04T15:05:30.8364114+00:00",
+      "NumProgressed": 895200,
+      "NumCompleted": 2742
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37255,9 +37260,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 1790
     },
     {
       "ID": "Roleplayer",
@@ -37624,21 +37629,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895193,
+      "Progressed": 895200,
       "Completed": 2742
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23816,
+      "Progressed": 23823,
       "Completed": 10184
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-04T13:01:21.8456201+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:19:21.8090654+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:05:30.8364106+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:06:14.3997658+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:19:21.8092719+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:58:53.4336251+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:05:30.8365691+00:00"
 }

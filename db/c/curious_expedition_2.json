@@ -482,9 +482,9 @@
       "ID": "ach-diceChallenges",
       "SetID": "17ih7ma",
       "Name": "Roll to Save",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-discover-locations",
@@ -803,8 +803,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:22:03.615916+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:08:36.9053725+00:00",
   "LastUpdate_AppInfo": "2023-11-04T10:56:59.8670243+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:58:30.300319+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:22:03.6159725+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:41.8310669+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:08:36.9054177+00:00"
 }

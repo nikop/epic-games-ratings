@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -487,7 +487,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3116,
+  "EOS_Progressed": 3117,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
@@ -4087,6 +4087,11 @@
       "Time": "2023-11-04T14:16:23.9369142+00:00",
       "NumProgressed": 3116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T15:03:09.6718946+00:00",
+      "NumProgressed": 3117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4107,7 +4112,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "achievement_11",
@@ -4195,7 +4200,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1777
     },
     {
       "ID": "achievement_21",
@@ -4219,7 +4224,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_5",
@@ -4243,7 +4248,7 @@
       "Name": "Head-to-Head",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_8",
@@ -4266,7 +4271,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3116,
+      "Progressed": 3117,
       "Completed": 0
     }
   ],
@@ -4274,8 +4279,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-03T04:58:08.9758469+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:16:23.9369138+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:03:09.6718941+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:00:06.3208998+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:16:23.9369608+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:55.0432854+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:03:09.6719248+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4069,
+  "EOS_Progressed": 4074,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1236,
+  "EOS_NewPlayers": 1214,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2003,6 +2003,11 @@
       "Time": "2023-11-04T14:21:33.9458027+00:00",
       "NumProgressed": 4069,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T15:08:12.6285336+00:00",
+      "NumProgressed": 4074,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2023,7 +2028,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "BeLikeWater",
@@ -2031,7 +2036,7 @@
       "Name": "Be Like Water",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Bikemaggedon",
@@ -2087,7 +2092,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2095,7 +2100,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "GarbageMan",
@@ -2103,7 +2108,7 @@
       "Name": "Garbage Man",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Godrunner",
@@ -2167,7 +2172,7 @@
       "Name": "No More Totems",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "NotLikeTheOthers",
@@ -2215,7 +2220,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ThisIsDharma",
@@ -2239,7 +2244,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -2247,7 +2252,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -2286,7 +2291,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4069,
+      "Progressed": 4074,
       "Completed": 3
     }
   ],
@@ -2294,8 +2299,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:21:33.9458021+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:08:12.6285333+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:58:33.1273628+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:21:33.9458586+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:43.3703774+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:08:12.628563+00:00"
 }

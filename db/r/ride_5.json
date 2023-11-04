@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4282,6 +4282,11 @@
       "Time": "2023-11-04T14:22:15.4432041+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T15:08:46.7004688+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4310,7 +4315,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4502,7 +4507,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4582,7 +4587,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4685,14 +4690,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:22:15.4432037+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:08:46.7004684+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:06:26.9711785+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:22:15.4432737+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:58:56.3114434+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:08:46.7005236+00:00"
 }

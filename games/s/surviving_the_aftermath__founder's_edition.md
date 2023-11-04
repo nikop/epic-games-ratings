@@ -9,7 +9,7 @@ Number of Ratings: 836  (23.09.2022)
 | First Step | 73.00% | ~7,365 |
 | Leader | 61.00% | ~6,154 |
 | Explorer | 53.00% | ~5,347 |
-| Healer | 52.00% | ~5,246 |
+| Healer | 53.00% | ~5,347 |
 | Aspiring Inventor | 44.00% | ~4,439 |
 | Adventurer | 42.00% | ~4,237 |
 | Famous Healer | 38.00% | ~3,834 |
@@ -267,15 +267,15 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-04 | 10,089 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 353)  
-Sum: 725 (Ranked 288)  
+Sum: 726 (Ranked 288)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 103 |
 | This game is Great for Beginners | 97 |
 | This game has Amazing Storytelling | 88 |
+| This game is Relaxing | 86 |
 | This game has Quickly Understood Controls | 86 |
-| This game is Relaxing | 85 |
 | This game has Diverse Characters | 75 |
 | This game is Highly Recommended | 74 |
 | This game has Amazing Characters | 70 |
@@ -422,3 +422,4 @@ Diff (max vs sum): 65
 | 2023-10-31 | 4.48 | - | 103 | 720 |
 | 2023-11-01 | 4.48 | - | 103 | 724 |
 | 2023-11-02 | 4.48 | - | 103 | 725 |
+| 2023-11-04 | 4.48 | - | 103 | 726 |

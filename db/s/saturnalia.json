@@ -2,13 +2,13 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 867,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2022-10-29T18:31:38.4403653+00:00",
@@ -261,13 +261,19 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-04T14:58:39.131647+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67867,
+  "EOS_Progressed": 67871,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 1,
@@ -14127,6 +14133,11 @@
       "Time": "2023-11-04T14:19:59.9983666+00:00",
       "NumProgressed": 67867,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-04T15:06:02.2096731+00:00",
+      "NumProgressed": 67871,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -14297,16 +14308,16 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67867,
+      "Progressed": 67871,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-10-27T20:01:05.7341953+00:00",
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
-  "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:19:59.9983662+00:00",
+  "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:06:02.2096727+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:04:44.1367595+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:19:59.9984993+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:58:39.1316473+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:06:02.2097551+00:00"
 }

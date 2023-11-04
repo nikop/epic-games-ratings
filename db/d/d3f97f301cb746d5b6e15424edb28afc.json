@@ -1509,9 +1509,9 @@
       "ID": "GSS_ACH_89_DECORATION_03",
       "SetID": "5fn8ia4",
       "Name": "Decorating A Lot",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
@@ -1524,8 +1524,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:20:18.5368728+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:06:17.9866284+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:04:35.29638+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:20:18.5369779+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:58:37.4838626+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:06:17.9867154+00:00"
 }

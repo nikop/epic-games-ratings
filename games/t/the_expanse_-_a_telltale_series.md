@@ -23,11 +23,11 @@ Rating: 4.55 (Ranked 500)
 | Thorston Mayer | 0.80% | ~117 |
 | Zen Master | 0.80% | ~5 |
 | Bottoms up! | 0.70% | ~102 |
+| Safe Cracker | 0.70% | ~4 |
 | Doctor Approved | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
-| Safe Cracker | 0.60% | ~3 |
+| Keep Arjun in Check | 0.60% | ~3 |
 | Madame Undersecretary | 0.60% | ~3 |
-| Keep Arjun in Check | 0.50% | ~3 |
 | Data Logger | 0.40% | ~58 |
 | Master Negotiator | 0.40% | ~2 |
 | Brother's Reaper | 0.30% | ~44 |

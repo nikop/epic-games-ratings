@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -646,9 +646,9 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -670,9 +670,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:21:52.6219987+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:08:27.4870096+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:00:59.69488+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:21:52.6220179+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:58:03.4608041+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:08:27.4870286+00:00"
 }

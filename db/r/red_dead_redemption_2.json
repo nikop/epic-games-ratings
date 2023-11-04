@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
@@ -15851,18 +15851,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 499881,
       "NumberOfAwardsMax": 193874
+    },
+    {
+      "Time": "2023-11-04T14:59:32.4915756+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 500352,
+      "NumberOfAwardsMax": 194220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499881,
-  "NumberOfAwardsMax": 193874,
+  "NumberOfAwards": 500352,
+  "NumberOfAwardsMax": 194220,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 193874
+      "Count": 194220
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15886,7 +15892,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20204
+      "Count": 20257
     },
     {
       "Text": "This game is Educational",
@@ -15904,7 +15910,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20988
+      "Count": 21060
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15954,8 +15960,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-11-04T14:10:01.1835558+00:00",
+  "LastChanged": "2023-11-04T14:59:32.4915755+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:49.3401618+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:10:01.183557+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:16:36.0330243+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:59:32.491576+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:03:18.8427142+00:00"
 }

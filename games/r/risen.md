@@ -22,10 +22,10 @@ Rating: 4.57 (Ranked 466)
 | Family man | 30.00% | ~8 |
 | Beast slayer | 30.00% | ~8 |
 | Ogre friend | 30.00% | ~8 |
+| Hard worker | 30.00% | ~8 |
 | Wise man | 26.00% | ~7 |
 | Death of a legend | 26.00% | ~7 |
 | Archaeologist | 26.00% | ~7 |
-| Hard worker | 26.00% | ~7 |
 | Workaholic | 26.00% | ~7 |
 | Sidelined | 26.00% | ~7 |
 | Defender | 22.00% | ~6 |

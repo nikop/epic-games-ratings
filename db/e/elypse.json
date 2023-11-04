@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -668,9 +668,9 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -787,8 +787,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:18:33.2161263+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:04:51.3308141+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:03.9112051+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:00:13.0747399+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:18:33.216156+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:56.6195478+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:04:51.330837+00:00"
 }

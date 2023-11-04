@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -399,9 +399,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5269,
+  "EOS_Progressed": 5271,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6624,6 +6624,11 @@
       "Time": "2023-11-04T08:04:48.9502848+00:00",
       "NumProgressed": 5269,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T15:04:40.8950784+00:00",
+      "NumProgressed": 5271,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 50,
@@ -6635,7 +6640,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "10",
@@ -6787,7 +6792,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "28",
@@ -6867,7 +6872,7 @@
       "Name": "Fiery Friend",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "37",
@@ -6875,7 +6880,7 @@
       "Name": "Against the Odds",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "38",
@@ -6891,7 +6896,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "4",
@@ -6987,7 +6992,7 @@
       "Name": "Here be Dragons",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "46",
@@ -7034,13 +7039,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5269,
+      "Progressed": 5271,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5269,
+      "Progressed": 5271,
       "Completed": 7
     }
   ],
@@ -7048,8 +7053,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-02T16:01:19.3069971+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:18:20.1140388+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:04:40.895078+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:02.1376773+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:57:56.2076063+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:18:20.1141556+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:57:23.8659189+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:04:40.8951459+00:00"
 }

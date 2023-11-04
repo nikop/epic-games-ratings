@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -11601,9 +11601,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 446750,
+  "EOS_Progressed": 446800,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5424,
+  "EOS_NewPlayers": 5430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34221,6 +34221,11 @@
       "Time": "2023-11-04T14:19:58.6638608+00:00",
       "NumProgressed": 446750,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T15:06:01.2831133+00:00",
+      "NumProgressed": 446800,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34360,7 +34365,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -34672,7 +34677,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -34752,7 +34757,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "achievement_colonial_management",
@@ -34768,7 +34773,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -35064,7 +35069,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "achievement_forever_golden",
@@ -35232,7 +35237,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17870
+      "UsersEstimate": 17872
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35256,7 +35261,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13402
+      "UsersEstimate": 13404
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35800,7 +35805,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "achievement_my_true_friend",
@@ -36232,7 +36237,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36512,7 +36517,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13402
+      "UsersEstimate": 13404
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -36896,7 +36901,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17870
+      "UsersEstimate": 17872
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36928,7 +36933,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17870
+      "UsersEstimate": 17872
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -37063,21 +37068,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 446750,
+      "Progressed": 446800,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 446750,
+      "Progressed": 446800,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-04T14:10:17.9800078+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:19:58.6638603+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:06:01.2831128+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.2191275+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:10:17.9800091+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:19:58.6651374+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:59:34.0945152+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:06:01.2842306+00:00"
 }

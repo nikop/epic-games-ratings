@@ -11,9 +11,9 @@ Rating: 3.94 (Ranked 1,004)
 | Underworld Initiate | 1.00% | ~895 |
 | Too Old for This | 1.00% | ~895 |
 | Fancy Pants | 1.00% | ~895 |
+| Off the Rocks | 1.00% | ~895 |
 | Roid Ranger | 0.90% | ~806 |
 | King of the Hill | 0.90% | ~806 |
-| Off the Rocks | 0.90% | ~806 |
 | Raider’s Ruin | 0.90% | ~806 |
 | Dragonslayer | 0.90% | ~806 |
 | Rockay Rex | 0.90% | ~806 |
@@ -248,13 +248,13 @@ Completed: 54 (0.06%) (Ranked 288)
 | 2023-11-04 | 89,546 | 54 |
 ## Awards
 Max (Diverse Characters): 521  (Ranked 204)  
-Sum: 2,936 (Ranked 175)  
+Sum: 2,937 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 521 |
 | This game is Highly Recommended | 495 |
-| This game has Quickly Understood Controls | 492 |
+| This game has Quickly Understood Controls | 493 |
 | This game has Challenging Combat | 480 |
 | This game is Extremely Fun | 478 |
 | This game has Amazing Characters | 470 |
@@ -480,4 +480,4 @@ Diff (max vs sum): 29
 | 2023-11-01 | 3.94 | 518 | 2,922 |
 | 2023-11-02 | 3.94 | 518 | 2,928 |
 | 2023-11-03 | 3.94 | 521 | 2,934 |
-| 2023-11-04 | 3.94 | 521 | 2,936 |
+| 2023-11-04 | 3.94 | 521 | 2,937 |

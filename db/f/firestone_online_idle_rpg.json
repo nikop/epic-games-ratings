@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
@@ -6701,9 +6701,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 421
     },
     {
       "ID": "fellowshippower",
@@ -7134,8 +7134,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:19:22.3733034+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:05:31.59852+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:06:56.9013084+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:19:22.3734359+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:59:02.6243094+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:05:31.5986135+00:00"
 }

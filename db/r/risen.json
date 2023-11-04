@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -389,9 +389,9 @@
       "ID": "id_43",
       "SetID": "bk9jib6",
       "Name": "Hard worker",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "id_44",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-11-04T14:20:52.1193098+00:00",
+  "LastChanged_Achievements": "2023-11-04T15:07:54.6081419+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:17.8152415+00:00",
-  "LastUpdate_Ratings": "2023-11-04T14:08:28.6799542+00:00",
-  "LastUpdate_Achievements": "2023-11-04T14:20:52.1193603+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:59:15.8943893+00:00",
+  "LastUpdate_Achievements": "2023-11-04T15:07:54.6081785+00:00"
 }
