@@ -493,6 +493,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Icewind Dale Reunion | 0.10% | ~200 |
 | The Netherese Necropolis | 0.10% | ~200 |
 | Ineffectual Intellectuals | 0.10% | ~200 |
+| The Archaeologist and the Sailor | 0.10% | ~200 |
 | The Templar's Camp | 0.10% | ~234 |
 | The Haunted Jungle | 0.10% | ~234 |
 | Poor Guidance | 0.10% | ~234 |
@@ -537,9 +538,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fowl Play | 0.10% | ~200 |
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
-| The Archaeologist and the Sailor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,615 (Ranked 63)  
+Progressed: 233,618 (Ranked 63)  
 Completed: 2,427 (1.04%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -737,14 +737,14 @@ Completed: 2,427 (1.04%) (Ranked 152)
 | 2023-11-01 | 233,404 | 2,418 |
 | 2023-11-02 | 233,491 | 2,423 |
 | 2023-11-03 | 233,584 | 2,426 |
-| 2023-11-04 | 233,615 | 2,427 |
+| 2023-11-04 | 233,618 | 2,427 |
 ## Awards
-Max (Great for Beginners): 5,474  (Ranked 69)  
-Sum: 32,330 (Ranked 41)  
+Max (Great for Beginners): 5,478  (Ranked 69)  
+Sum: 32,334 (Ranked 41)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,474 |
+| This game is Great for Beginners | 5,478 |
 | This game has Diverse Characters | 5,471 |
 | This game has Quickly Understood Controls | 4,804 |
 | This game is Relaxing | 4,695 |
@@ -1036,4 +1036,4 @@ Diff (max vs sum): 28
 | 2023-11-01 | 4.06 | - | 5,470 | 32,297 |
 | 2023-11-02 | 4.06 | - | 5,470 | 32,315 |
 | 2023-11-03 | 4.06 | - | 5,474 | 32,323 |
-| 2023-11-04 | 4.06 | - | 5,474 | 32,330 |
+| 2023-11-04 | 4.06 | - | 5,478 | 32,334 |

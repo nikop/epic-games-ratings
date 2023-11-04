@@ -5,10 +5,10 @@
   "Ranking_Rating": 658,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 514,
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,7 +364,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1976,
+  "EOS_Progressed": 1977,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2619,6 +2619,11 @@
       "Time": "2023-11-04T00:07:56.1113447+00:00",
       "NumProgressed": 1976,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T10:07:03.5598287+00:00",
+      "NumProgressed": 1977,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2636,9 +2641,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1087
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2702,7 +2707,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2772,9 +2777,9 @@
       "ID": "ACH_JUSTICE_SERVED",
       "SetID": "8j30i9k",
       "Name": "Justice Served",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2812,9 +2817,9 @@
       "ID": "ACH_MAN_IN_BLACK",
       "SetID": "8j30i9k",
       "Name": "Eternity Can Wait",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2878,7 +2883,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2926,7 +2931,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -2942,7 +2947,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -2958,7 +2963,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3006,7 +3011,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3053,15 +3058,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1976,
+      "Progressed": 1977,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:06:46.3567311+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:07:03.5598279+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:57:46.2681344+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:06:46.356807+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:57:34.4001495+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:07:03.5598932+00:00"
 }

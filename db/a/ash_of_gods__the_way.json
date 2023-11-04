@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "collect5",
       "SetID": "c64if4d",
       "Name": "Overplay the rogue",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "collect6",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:05:08.7005952+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:05:07.1965731+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:08.7362932+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:35.3133987+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:05:08.7006631+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:59:49.843487+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:05:07.196615+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19354,
+  "EOS_Progressed": 19355,
   "EOS_Completed": 57,
   "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
@@ -16103,6 +16103,11 @@
       "Time": "2023-11-04T09:04:18.5396825+00:00",
       "NumProgressed": 19354,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-04T10:04:06.3483378+00:00",
+      "NumProgressed": 19355,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 14,
@@ -16114,7 +16119,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15096
+      "UsersEstimate": 15097
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -16178,7 +16183,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -16225,15 +16230,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19354,
+      "Progressed": 19355,
       "Completed": 57
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:04:18.5396818+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:04:06.3483374+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:47.9713426+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:58:38.3169536+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:04:18.5398098+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:58:38.7186965+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:04:06.3484731+00:00"
 }

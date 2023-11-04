@@ -22,16 +22,16 @@ Rating: 3.98 (Ranked 995)
 | Resilience to Sin | 21.00% | ~30 |
 | A Familiar Nest | 20.00% | ~29 |
 | Periapt Alizarin | 20.00% | ~29 |
-| Geas Aristeya | 17.00% | ~24 |
+| Geas Aristeya | 18.00% | ~26 |
 | Armsman | 17.00% | ~24 |
 | A Perfect Cycle | 15.00% | ~22 |
 | Recruit | 14.00% | ~20 |
+| Good Boy | 11.00% | ~16 |
 | Periapt Cerulean | 10.00% | ~14 |
-| Good Boy | 10.00% | ~14 |
 | Lights Army | 9.00% | ~13 |
 | Periapt Viridian | 8.00% | ~12 |
 | Shroudfane Explorer | 8.00% | ~12 |
-| Best Dressed | 6.00% | ~9 |
+| Best Dressed | 7.00% | ~10 |
 | Armaments Azure | 6.00% | ~9 |
 | Armaments Gules | 6.00% | ~9 |
 | Scholar | 5.00% | ~7 |

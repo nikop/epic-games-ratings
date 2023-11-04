@@ -59,6 +59,7 @@ Number of Ratings: 37  (23.09.2022)
 | Completionist II | 2.00% | ~87 |
 | Genius | 2.00% | ~87 |
 | I've been everywhere V | 2.00% | ~87 |
+| Tax-man V | 2.00% | ~87 |
 | Tools of the trade III | 2.00% | ~87 |
 | When there's fire... | 1.00% | ~43 |
 | Survivalist | 1.00% | ~43 |
@@ -70,7 +71,6 @@ Number of Ratings: 37  (23.09.2022)
 | Treat her well… | 1.00% | ~43 |
 | I've been everywhere II | 1.00% | ~43 |
 | I've been everywhere I | 1.00% | ~43 |
-| Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
 | I've been everywhere VI | 0.90% | ~39 |
 | Last man standing | 0.80% | ~35 |

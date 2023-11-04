@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~454 |
 | Hanging Gardens | 3.00% | ~454 |
 | Oracle | 3.00% | ~454 |
+| Judaism | 3.00% | ~454 |
 | Naming Landmarks | 3.00% | ~454 |
 | Trade Caravan | 3.00% | ~454 |
 | Regicide | 2.00% | ~302 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 2.00% | ~302 |
 | Learn to Play 2 | 2.00% | ~302 |
 | Christianity | 2.00% | ~302 |
-| Judaism | 2.00% | ~302 |
 | Manichaeism | 2.00% | ~302 |
 | Babylonian Paganism | 2.00% | ~302 |
 | Carthaginian Paganism | 2.00% | ~302 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,123 (Ranked 145)  
+Progressed: 15,125 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -547,7 +547,7 @@ Completed: 5 (0.03%) (Ranked 306)
 | 2023-11-01 | 15,092 | 5 |
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
-| 2023-11-04 | 15,123 | 5 |
+| 2023-11-04 | 15,125 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

@@ -4,11 +4,11 @@
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 428,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 150,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -8103,10 +8103,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 4090,
       "NumberOfAwardsMax": 463
+    },
+    {
+      "Time": "2023-11-04T10:01:25.9087835+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4097,
+      "NumberOfAwardsMax": 463
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4090,
+  "NumberOfAwards": 4097,
   "NumberOfAwardsMax": 463,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8156,7 +8162,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 322
+      "Count": 329
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8195,8 +8201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-11-04T00:02:45.8218005+00:00",
+  "LastChanged": "2023-11-04T10:01:25.9087832+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:31.9229402+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:00:52.3330263+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:09:13.2204082+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:01:25.9087839+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:09:20.9575133+00:00"
 }

@@ -7757,18 +7757,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 32330,
       "NumberOfAwardsMax": 5474
+    },
+    {
+      "Time": "2023-11-04T09:59:47.8561991+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32334,
+      "NumberOfAwardsMax": 5478
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32330,
-  "NumberOfAwardsMax": 5474,
+  "NumberOfAwards": 32334,
+  "NumberOfAwardsMax": 5478,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5474
+      "Count": 5478
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7807,9 +7813,9 @@
       "Count": 3504
     }
   ],
-  "EOS_Progressed": 233615,
+  "EOS_Progressed": 233618,
   "EOS_Completed": 2427,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29922,6 +29928,11 @@
       "Time": "2023-11-04T09:04:35.9508181+00:00",
       "NumProgressed": 233615,
       "NumCompleted": 2427
+    },
+    {
+      "Time": "2023-11-04T10:04:27.6732295+00:00",
+      "NumProgressed": 233618,
+      "NumCompleted": 2427
     }
   ],
   "TotalAchievements": 532,
@@ -33795,9 +33806,9 @@
       "ID": "objective_completed_935",
       "SetID": "415jc5c",
       "Name": "The Archaeologist and the Sailor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 200
     },
     {
       "ID": "objective_completed_94",
@@ -34188,21 +34199,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199889,
-      "Completed": 3865
+      "Progressed": 199892,
+      "Completed": 3866
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233615,
+      "Progressed": 233618,
       "Completed": 2427
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-04T02:59:59.8198822+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:04:35.9508174+00:00",
+  "LastChanged": "2023-11-04T09:59:47.8561988+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:04:27.6732286+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:33.5964046+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:04:35.9545261+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:59:47.8562005+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:04:27.6761751+00:00"
 }

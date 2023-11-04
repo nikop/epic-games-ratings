@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
@@ -1330,6 +1330,11 @@
       "Time": "2023-11-04T08:08:41.8672376+00:00",
       "NumProgressed": 600,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-04T10:09:06.7011057+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1341,7 +1346,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "booty_call",
@@ -1365,7 +1370,7 @@
       "Name": "Digital Casanova",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "hold_my_beer",
@@ -1373,7 +1378,7 @@
       "Name": "Hold my Beer",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1403,17 +1408,17 @@
       "ID": "not_alone",
       "SetID": "c4ipj3h",
       "Name": "Not Alone",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 180
     },
     {
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 216
+      "UsersEstimate": 210
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1460,7 +1465,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 9
     }
   ],
@@ -1468,8 +1473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:09:01.3535465+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:09:06.7011051+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:59.2755782+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:09:01.3535686+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:00:19.8440781+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:09:06.7011268+00:00"
 }

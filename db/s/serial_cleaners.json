@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -579,6 +579,11 @@
       "Time": "2023-11-01T00:06:27.5431855+00:00",
       "NumProgressed": 263,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-04T10:04:26.7802079+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -662,7 +667,7 @@
       "Name": "So it goes",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -734,7 +739,7 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -781,13 +786,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 6
     }
   ],
@@ -795,8 +800,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:04:35.8567114+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:04:26.7802075+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:13.9161826+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:19.9527879+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:04:35.8567325+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:59:30.3005093+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:04:26.7802314+00:00"
 }

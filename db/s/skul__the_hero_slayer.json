@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1061,9 +1061,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 8263,
+  "EOS_Progressed": 8264,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5141,6 +5141,11 @@
       "Time": "2023-11-04T08:06:53.3776177+00:00",
       "NumProgressed": 8263,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-04T10:08:27.4276838+00:00",
+      "NumProgressed": 8264,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5184,7 +5189,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "DwarfChandelier",
@@ -5232,7 +5237,7 @@
       "Name": "Go Home...",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "HeroSlayer",
@@ -5240,7 +5245,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "LeoniasFall",
@@ -5312,7 +5317,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7685
+      "UsersEstimate": 7686
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5336,22 +5341,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6941
+      "UsersEstimate": 6942
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8263,
+      "Progressed": 8264,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-03T04:03:09.5652469+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:07:06.8439223+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:08:27.4276833+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:36.5277741+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:03:28.7247241+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:07:06.8439656+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:03:04.2030451+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:08:27.4277303+00:00"
 }

@@ -6093,9 +6093,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 712006,
+  "EOS_Progressed": 712027,
   "EOS_Completed": 2317,
-  "EOS_NewPlayers": 6014,
+  "EOS_NewPlayers": 5996,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28638,6 +28638,11 @@
       "Time": "2023-11-04T09:04:51.2580632+00:00",
       "NumProgressed": 712006,
       "NumCompleted": 2317
+    },
+    {
+      "Time": "2023-11-04T10:04:45.926768+00:00",
+      "NumProgressed": 712027,
+      "NumCompleted": 2317
     }
   ],
   "TotalAchievements": 51,
@@ -28983,9 +28988,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 1424
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29056,22 +29061,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712006,
+      "Progressed": 712027,
       "Completed": 2317
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 37548,
-      "Completed": 36404
+      "Progressed": 37569,
+      "Completed": 36406
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-04T08:00:13.0546648+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:04:51.2580626+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:04:45.9267671+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:00:17.773608+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:04:51.2582499+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:00:42.1351607+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:04:45.9269663+00:00"
 }

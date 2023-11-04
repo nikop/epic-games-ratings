@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,742 |
-| Worth it | 63.00% | ~39,369 |
-| Eagle Eye | 55.00% | ~34,370 |
-| Corpseman I | 40.00% | ~24,996 |
-| Blast fishing | 37.00% | ~23,121 |
-| Not alone | 32.00% | ~19,997 |
-| Headhunter I | 26.00% | ~16,247 |
-| Manual Labour I | 25.00% | ~15,622 |
-| Developers, Developers, Developers | 24.00% | ~14,998 |
-| Basic Training | 24.00% | ~14,998 |
+| Setting an example | 78.00% | ~48,746 |
+| Worth it | 63.00% | ~39,372 |
+| Eagle Eye | 55.00% | ~34,372 |
+| Corpseman I | 40.00% | ~24,998 |
+| Blast fishing | 37.00% | ~23,123 |
+| Not alone | 32.00% | ~19,998 |
+| Headhunter I | 26.00% | ~16,249 |
+| Manual Labour I | 25.00% | ~15,624 |
+| Developers, Developers, Developers | 24.00% | ~14,999 |
+| Basic Training | 24.00% | ~14,999 |
 | Furchtlos und Treu | 13.00% | ~8,124 |
 | Gott Mit Uns | 12.00% | ~7,499 |
-| This We'll Defend! | 9.00% | ~5,624 |
-| Anker wirf! | 9.00% | ~5,624 |
-| Providentiea Memor | 9.00% | ~5,624 |
-| For King and Country | 9.00% | ~5,624 |
-| Battle hardened | 8.00% | ~4,999 |
-| Semper Fidelis! | 7.00% | ~4,374 |
-| Honneur et Patrie | 7.00% | ~4,374 |
-| In Treue Fest | 5.00% | ~3,124 |
-| Voor De Koning | 5.00% | ~3,124 |
-| Extreme Headhunter | 5.00% | ~3,124 |
+| This We'll Defend! | 9.00% | ~5,625 |
+| Anker wirf! | 9.00% | ~5,625 |
+| Providentiea Memor | 9.00% | ~5,625 |
+| For King and Country | 9.00% | ~5,625 |
+| Battle hardened | 8.00% | ~5,000 |
+| Semper Fidelis! | 7.00% | ~4,375 |
+| Honneur et Patrie | 7.00% | ~4,375 |
+| In Treue Fest | 5.00% | ~3,125 |
+| Voor De Koning | 5.00% | ~3,125 |
+| Extreme Headhunter | 5.00% | ~3,125 |
 | Advance Australia | 4.00% | ~2,500 |
 | We Stand on Guard | 4.00% | ~2,500 |
 | Sidi Brahim | 4.00% | ~2,500 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,490 (Ranked 104)  
+Progressed: 62,495 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 4 (0.01%) (Ranked 319)
 | 2023-11-01 | 62,294 | 4 |
 | 2023-11-02 | 62,371 | 4 |
 | 2023-11-03 | 62,462 | 4 |
-| 2023-11-04 | 62,490 | 4 |
+| 2023-11-04 | 62,495 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 349)  
 Sum: 902 (Ranked 269)  

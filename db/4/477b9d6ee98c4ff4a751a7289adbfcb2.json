@@ -2,10 +2,10 @@
   "ID": "477b9d6ee98c4ff4a751a7289adbfcb2",
   "Name": "Monmusu Gladiator",
   "ProductSlug": "monmusu-gladiator-e00e4d",
-  "Ranking_EOS_Progress": 634,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-20T15:00:00+00:00",
     "PcReleaseDate": "2021-07-14T15:00:00+00:00",
@@ -219,8 +219,8 @@
   ],
   "FirstSeen": "2023-10-18T22:09:37.5777143+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.7521371+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:07:18.0775654+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:08:40.9143284+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:11.1297279+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:02:39.8573966+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:07:18.0775833+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:57:11.3832693+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:08:40.9143448+00:00"
 }

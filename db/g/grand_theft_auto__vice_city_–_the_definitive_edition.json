@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10813,
+  "EOS_Progressed": 10815,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12209,6 +12209,11 @@
       "Time": "2023-11-04T09:06:27.7393609+00:00",
       "NumProgressed": 10813,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-04T10:06:41.6765478+00:00",
+      "NumProgressed": 10815,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12236,7 +12241,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH04",
@@ -12300,7 +12305,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "ACH12",
@@ -12324,7 +12329,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4541
+      "UsersEstimate": 4542
     },
     {
       "ID": "ACH15",
@@ -12380,7 +12385,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "ACH22",
@@ -12396,7 +12401,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "ACH24",
@@ -12491,7 +12496,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10813,
+      "Progressed": 10815,
       "Completed": 64
     }
   ],
@@ -12499,8 +12504,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:06:27.73936+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:06:41.6765469+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:03:18.5634649+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:06:27.7394578+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:02:51.3927897+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:06:41.6766571+00:00"
 }

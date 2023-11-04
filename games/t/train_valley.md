@@ -7,15 +7,15 @@ Number of Ratings: 28  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~406 |
-| Close call! | 72.00% | ~374 |
-| Builder | 52.00% | ~270 |
+| Close call! | 72.00% | ~375 |
+| Builder | 52.00% | ~271 |
 | Pangs of conscience | 45.00% | ~234 |
 | Living it large! | 44.00% | ~229 |
 | Collector | 43.00% | ~224 |
-| Need to think | 42.00% | ~218 |
+| Need to think | 42.00% | ~219 |
 | Completely nuts! | 40.00% | ~208 |
 | Just in time! | 33.00% | ~172 |
-| Europe | 32.00% | ~166 |
+| Europe | 32.00% | ~167 |
 | It's no coincidence. | 30.00% | ~156 |
 | Madness! | 30.00% | ~156 |
 | Philatelist | 26.00% | ~135 |
@@ -26,11 +26,11 @@ Number of Ratings: 28  (23.09.2022)
 | Russia | 19.00% | ~99 |
 | Missed it! | 19.00% | ~99 |
 | America | 18.00% | ~94 |
-| Sabotage | 16.00% | ~83 |
-| Achtung! | 12.00% | ~62 |
+| Sabotage | 17.00% | ~89 |
+| Achtung! | 12.00% | ~63 |
 | Japan | 11.00% | ~57 |
 | Woodcutter | 11.00% | ~57 |
-| Engineer | 10.00% | ~52 |
+| Engineer | 11.00% | ~57 |
 | Tycoon | 9.00% | ~47 |
 | Germany | 7.00% | ~36 |
 | Supercrash! | 5.00% | ~26 |
@@ -38,7 +38,7 @@ Number of Ratings: 28  (23.09.2022)
 | Сhancellor | 4.00% | ~21 |
 | Peacemaker | 4.00% | ~21 |
 | Forgotten | 3.00% | ~16 |
-| Lucky vandal | 3.00% | ~16 |
+| Lucky vandal | 2.00% | ~10 |
 | Salesman | 0.80% | ~4 |
 | BBQ | 0.60% | ~3 |
 | Vandal | 0.40% | ~2 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 520 (Ranked 290)  
+Progressed: 521 (Ranked 290)  
 Completed: 2 (0.38%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 2 (0.38%) (Ranked 208)
 | 2023-10-30 | 518 | 2 |
 | 2023-11-02 | 519 | 2 |
 | 2023-11-03 | 520 | 2 |
+| 2023-11-04 | 521 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

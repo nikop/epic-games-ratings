@@ -8,10 +8,10 @@
 | Trinity | 22.00% | ~22 |
 | Find Allies | 17.00% | ~17 |
 | Adventurer | 17.00% | ~17 |
+| Scholar | 17.00% | ~17 |
 | The Collector | 17.00% | ~17 |
 | Powerful Allies | 16.00% | ~16 |
 | A Taste of Wrath | 16.00% | ~16 |
-| Scholar | 16.00% | ~16 |
 | I Found It | 16.00% | ~16 |
 | Shatter Them All | 15.00% | ~15 |
 | Fashion Victim | 15.00% | ~15 |
@@ -42,7 +42,7 @@
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 99 (Ranked 410)  
-Completed: 1 (1.01%) (Ranked 156)  
+Completed: 1 (1.01%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

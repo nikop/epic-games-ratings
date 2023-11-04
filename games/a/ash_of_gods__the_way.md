@@ -15,6 +15,7 @@
 | A hidden snake | 18.00% | ~3 |
 | Blood and sand | 18.00% | ~3 |
 | Crimson rivers | 12.00% | ~2 |
+| Overplay the rogue | 12.00% | ~2 |
 | Berkanan Borgia | 12.00% | ~2 |
 | Power of Inquisition | 12.00% | ~2 |
 | The champion of the arena | 12.00% | ~2 |
@@ -28,7 +29,6 @@
 | Trial by cold | 12.00% | ~2 |
 | She-Wolf | 12.00% | ~2 |
 | For the greater good | 6.00% | ~1 |
-| Overplay the rogue | 6.00% | ~1 |
 | The best apprentice | 6.00% | ~1 |
 | Stronger than Gellian steel | 6.00% | ~1 |
 | Rage | 6.00% | ~1 |

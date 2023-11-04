@@ -18,10 +18,10 @@
 | Shadow on the wall | 25.00% | ~35 |
 | Handyman | 24.00% | ~33 |
 | Achoo!! | 24.00% | ~33 |
+| Bubblekillerfamily | 23.00% | ~32 |
 | Chapter III | 23.00% | ~32 |
 | Like a moth in the Wind | 23.00% | ~32 |
 | Quite a buggy game | 22.00% | ~31 |
-| Bubblekillerfamily | 22.00% | ~31 |
 | Pacifist | 20.00% | ~28 |
 | Mirror mirror on the wall... | 20.00% | ~28 |
 | Fastidious Clown | 19.00% | ~26 |
@@ -32,9 +32,9 @@
 | To err is human... | 12.00% | ~17 |
 | Unfullfilled dreams | 12.00% | ~17 |
 | Useless but beautiful | 10.00% | ~14 |
+| Lollipop | 9.00% | ~13 |
 | Nothing can stop me | 9.00% | ~13 |
 | Mumbo Jumbo | 9.00% | ~13 |
-| Lollipop | 8.00% | ~11 |
 | It's nothing personal | 8.00% | ~11 |
 | Where there is life, there is hope | 7.00% | ~10 |
 | Artistic master | 6.00% | ~8 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -213,7 +213,7 @@
   "Tags": [],
   "EOS_Progressed": 14619,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10598,9 +10598,9 @@
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 292
     },
     {
       "ID": "31",
@@ -10630,7 +10630,7 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -10661,8 +10661,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:05:52.1940866+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:05:59.7790376+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:35.5876597+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:05:52.1941963+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:59:50.194432+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:05:59.7791397+00:00"
 }

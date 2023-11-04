@@ -14580,10 +14580,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 341243,
       "NumberOfAwardsMax": 103657
+    },
+    {
+      "Time": "2023-11-04T09:59:27.6958723+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 341459,
+      "NumberOfAwardsMax": 103657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341243,
+  "NumberOfAwards": 341459,
   "NumberOfAwardsMax": 103657,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14609,7 +14615,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 17813
+      "Count": 17919
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14633,7 +14639,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20062
+      "Count": 20172
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14660,9 +14666,9 @@
       "Count": 12334
     }
   ],
-  "EOS_Progressed": 895145,
+  "EOS_Progressed": 895153,
   "EOS_Completed": 2742,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37040,6 +37046,11 @@
       "Time": "2023-11-04T09:06:01.2644772+00:00",
       "NumProgressed": 895145,
       "NumCompleted": 2742
+    },
+    {
+      "Time": "2023-11-04T10:06:10.6191117+00:00",
+      "NumProgressed": 895153,
+      "NumCompleted": 2742
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37380,7 +37391,7 @@
       "Name": "V for Vendetta",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8951
+      "UsersEstimate": 8952
     },
     {
       "ID": "YipMan",
@@ -37587,21 +37598,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895145,
+      "Progressed": 895153,
       "Completed": 2742
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23768,
+      "Progressed": 23776,
       "Completed": 10184
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-04T05:59:21.4026822+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:06:01.2644763+00:00",
+  "LastChanged": "2023-11-04T09:59:27.6958721+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:06:10.6191109+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:17.8730345+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:06:01.2647343+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:59:27.6958729+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:06:10.6193188+00:00"
 }

@@ -11,6 +11,7 @@ Rating: 4.55 (Ranked 500)
 | Drone Dodger | 2.00% | ~292 |
 | Bosmang | 2.00% | ~292 |
 | Celebrations are in Order | 2.00% | ~292 |
+| Impossible Objects | 2.00% | ~292 |
 | Data Archivist | 1.00% | ~146 |
 | Stogie for Fogey | 1.00% | ~146 |
 | Spore Taste | 1.00% | ~146 |
@@ -19,7 +20,6 @@ Rating: 4.55 (Ranked 500)
 | Khan's Revenge | 1.00% | ~146 |
 | Call it Even | 1.00% | ~146 |
 | Captain Drummer | 1.00% | ~146 |
-| Impossible Objects | 1.00% | ~146 |
 | Thorston Mayer | 0.80% | ~117 |
 | Doctor Approved | 0.60% | ~88 |
 | Bottoms up! | 0.60% | ~88 |
@@ -29,9 +29,9 @@ Rating: 4.55 (Ranked 500)
 | Keep Arjun in Check | 0.50% | ~3 |
 | Madame Undersecretary | 0.50% | ~3 |
 | Data Logger | 0.40% | ~58 |
+| Master Negotiator | 0.40% | ~2 |
 | No Belter Left Behind | 0.30% | ~44 |
 | Data Master | 0.30% | ~44 |
-| Master Negotiator | 0.30% | ~2 |
 | Brother's Reaper | 0.20% | ~29 |
 | Debris Spree | 0.20% | ~29 |
 | Data Recoverer | 0.20% | ~29 |

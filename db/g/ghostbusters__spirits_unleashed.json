@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3033,9 +3033,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30004,
+  "EOS_Progressed": 30008,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1997,
+  "EOS_NewPlayers": 1996,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17798,6 +17798,11 @@
       "Time": "2023-11-04T08:05:37.0926209+00:00",
       "NumProgressed": 30004,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T10:06:05.2770548+00:00",
+      "NumProgressed": 30008,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17855,9 +17860,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 1200
     },
     {
       "ID": "Collector",
@@ -18216,7 +18221,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30004,
+      "Progressed": 30008,
       "Completed": 65
     }
   ],
@@ -18224,8 +18229,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-04T05:57:39.953275+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:05:56.8267146+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:06:05.2770543+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:57:56.4730534+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:05:56.8268556+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:57:47.3303392+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:06:05.2772054+00:00"
 }

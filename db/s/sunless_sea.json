@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -730,9 +730,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 39993,
+  "EOS_Progressed": 39994,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -20915,6 +20915,11 @@
       "Time": "2023-11-04T09:08:53.5756728+00:00",
       "NumProgressed": 39993,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T10:08:57.4600901+00:00",
+      "NumProgressed": 39994,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21046,7 +21051,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14397
+      "UsersEstimate": 14398
     },
     {
       "ID": "ach_die10",
@@ -21334,7 +21339,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "ach_year10",
@@ -21357,15 +21362,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 39993,
+      "Progressed": 39994,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-10-14T19:58:49.9428019+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:08:53.5756722+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:08:57.4600894+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:23.0924358+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:58:01.5388404+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:08:53.5758471+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:57:53.4589231+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:08:57.4602764+00:00"
 }

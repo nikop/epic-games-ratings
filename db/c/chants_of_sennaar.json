@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.69,
+  "EOS_Completed_Percentage": 5.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1815,6 +1815,11 @@
       "Time": "2023-11-04T08:06:48.0507117+00:00",
       "NumProgressed": 404,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-04T10:07:21.9768092+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1848,17 +1853,17 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "META_HALF_LINK",
@@ -1874,7 +1879,7 @@
       "Name": "Open door",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1890,7 +1895,7 @@
       "Name": "Feels like springtime",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1922,7 +1927,7 @@
       "Name": "Alchemists Express",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1968,9 +1973,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 113
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1992,17 +1997,17 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "PROGRESS_N4",
@@ -2025,14 +2030,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:07:01.9575051+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:07:21.9768087+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:00:21.4205615+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:07:01.9575388+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:00:46.6962386+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:07:21.976844+00:00"
 }

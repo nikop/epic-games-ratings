@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15424,
+  "EOS_Progressed": 15448,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4013,
+  "EOS_NewPlayers": 4004,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1942,6 +1942,11 @@
       "Time": "2023-11-04T09:09:12.9493141+00:00",
       "NumProgressed": 15424,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-04T10:09:20.6355128+00:00",
+      "NumProgressed": 15448,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 24,
@@ -1985,7 +1990,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_Finale",
@@ -2039,9 +2044,9 @@
       "ID": "ACH_S8AllPuzzles",
       "SetID": "a3lf366",
       "Name": "The Puzzle Master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 62
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -2081,7 +2086,7 @@
       "Name": "Sector 1",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_Sector2",
@@ -2089,7 +2094,7 @@
       "Name": "Sector 2",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_Sector3",
@@ -2113,7 +2118,7 @@
       "Name": "Sector 5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_Sector6",
@@ -2144,7 +2149,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 15424,
+      "Progressed": 15448,
       "Completed": 8
     }
   ],
@@ -2152,8 +2157,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-04T08:58:14.7523822+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:09:12.9493135+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:09:20.6355123+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8865489+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:58:14.7523828+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:09:12.949348+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:58:09.9340216+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:09:20.6355459+00:00"
 }

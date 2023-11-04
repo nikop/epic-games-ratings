@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4091,7 +4091,7 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 12014,
+  "EOS_Progressed": 12015,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -15096,6 +15096,11 @@
       "Time": "2023-11-04T07:06:28.6420688+00:00",
       "NumProgressed": 12014,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T10:06:59.9040962+00:00",
+      "NumProgressed": 12015,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15115,7 +15120,7 @@
       "Name": "Burning City",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -16034,21 +16039,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10796,
+      "Progressed": 10797,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12014,
+      "Progressed": 12015,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-04T02:25:56.8486598+00:00",
-  "LastChanged_Achievements": "2023-11-04T09:06:43.1257572+00:00",
+  "LastChanged_Achievements": "2023-11-04T10:06:59.9040956+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-04T08:59:05.318677+00:00",
-  "LastUpdate_Achievements": "2023-11-04T09:06:43.1260023+00:00"
+  "LastUpdate_Ratings": "2023-11-04T09:59:12.1820417+00:00",
+  "LastUpdate_Achievements": "2023-11-04T10:06:59.9043439+00:00"
 }
