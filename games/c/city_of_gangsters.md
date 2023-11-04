@@ -5,24 +5,24 @@ Rating: 4.28 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~164,837 |
-| Copacetic Coordination | 16.00% | ~56,115 |
+| Corner Clout | 47.00% | ~164,839 |
+| Copacetic Coordination | 16.00% | ~56,116 |
 | Fronting the Money | 15.00% | ~52,608 |
-| The Dawn of Automation | 14.00% | ~49,100 |
-| Extraordinary Logistics | 14.00% | ~49,100 |
-| Dirty Money | 13.00% | ~45,593 |
-| Family First | 13.00% | ~45,593 |
-| Cleaning House | 12.00% | ~42,086 |
-| Room in the Back | 12.00% | ~42,086 |
+| The Dawn of Automation | 14.00% | ~49,101 |
+| Extraordinary Logistics | 14.00% | ~49,101 |
+| Dirty Money | 13.00% | ~45,594 |
+| Family First | 13.00% | ~45,594 |
+| Cleaning House | 12.00% | ~42,087 |
+| Room in the Back | 12.00% | ~42,087 |
 | Beating the Heat | 11.00% | ~38,579 |
 | Booze Baron | 11.00% | ~38,579 |
 | Friends on the Force | 10.00% | ~35,072 |
 | Neighborhood Watch | 10.00% | ~35,072 |
-| Core Corps | 8.00% | ~28,057 |
-| Sizeable Stash | 8.00% | ~28,057 |
-| Street Fighter | 7.00% | ~24,550 |
-| Friendly Gestures | 7.00% | ~24,550 |
-| People Person | 7.00% | ~24,550 |
+| Core Corps | 8.00% | ~28,058 |
+| Sizeable Stash | 8.00% | ~28,058 |
+| Street Fighter | 7.00% | ~24,551 |
+| Friendly Gestures | 7.00% | ~24,551 |
+| People Person | 7.00% | ~24,551 |
 | Liquor Lord | 6.00% | ~21,043 |
 | Safety in Numbers | 6.00% | ~21,043 |
 | Moving Experiences | 6.00% | ~21,043 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 844)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350,717 (Ranked 46)  
+Progressed: 350,722 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,6 +284,7 @@ Completed: 7 (0.00%) (Ranked 342)
 | 2023-11-01 | 350,385 | 7 |
 | 2023-11-02 | 350,552 | 7 |
 | 2023-11-03 | 350,717 | 7 |
+| 2023-11-04 | 350,722 | 7 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 447)  
 Sum: 186 (Ranked 404)  

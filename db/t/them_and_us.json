@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 298,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1388,9 +1388,9 @@
       "ID": "ETUA_FearWellSpent",
       "SetID": "65jc0ap",
       "Name": "Spiritual essence well spent",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_ForcedtoKill",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:08:14.3390293+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:08:47.852739+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:58:30.7559835+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:08:14.3390695+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:59:30.8770557+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:08:47.8527799+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1405,9 +1405,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13421,
+  "EOS_Progressed": 13423,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13760,6 +13760,11 @@
       "Time": "2023-11-03T23:08:16.9166238+00:00",
       "NumProgressed": 13421,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-04T00:08:51.4803947+00:00",
+      "NumProgressed": 13423,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -13771,7 +13776,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10871
+      "UsersEstimate": 10873
     },
     {
       "ID": "ACH02",
@@ -13779,7 +13784,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH03",
@@ -13819,7 +13824,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2684
+      "UsersEstimate": 2685
     },
     {
       "ID": "ACH08",
@@ -13827,7 +13832,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6845
+      "UsersEstimate": 6846
     },
     {
       "ID": "ACH09",
@@ -13875,7 +13880,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ACH15",
@@ -13947,7 +13952,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "ACH24",
@@ -14050,7 +14055,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13421,
+      "Progressed": 13423,
       "Completed": 51
     }
   ],
@@ -14058,8 +14063,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-03T20:00:26.1664435+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:08:16.9166227+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:08:51.4803942+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:03.5263652+00:00",
   "LastUpdate_Ratings": "2023-11-03T23:02:33.059744+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:08:16.9167179+00:00"
+  "LastUpdate_Achievements": "2023-11-04T00:08:51.4804951+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 1372,
+  "EOS_Progressed": 1379,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2023-11-03T22:21:30.4483586+00:00",
       "NumProgressed": 1372,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T00:07:07.2778116+00:00",
+      "NumProgressed": 1379,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -1601,7 +1606,7 @@
       "Name": "A Veil Lifted",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
@@ -2096,7 +2101,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1372,
+      "Progressed": 1379,
       "Completed": 1
     }
   ],
@@ -2104,8 +2109,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-03T19:57:08.4461019+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:05:41.4497305+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:07:07.2778107+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:32.0141073+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:57:00.7800722+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:05:41.449803+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:57:13.0470202+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:07:07.2778889+00:00"
 }

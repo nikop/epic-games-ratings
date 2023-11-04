@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7499,
+  "EOS_Progressed": 7501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6019,6 +6019,11 @@
       "Time": "2023-11-03T23:08:47.3922934+00:00",
       "NumProgressed": 7499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T00:09:33.5137515+00:00",
+      "NumProgressed": 7501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6031,7 +6036,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5399
+      "UsersEstimate": 5401
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6039,7 +6044,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5249
+      "UsersEstimate": 5251
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6133,9 +6138,9 @@
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3675
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6151,7 +6156,7 @@
       "Name": "Workaholic",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "COMPLETE_SHIPCONTRACTS_1",
@@ -6159,7 +6164,7 @@
       "Name": "Giving the People What They Want",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DISCOVER_SCROLLS_1",
@@ -6183,7 +6188,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4501
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6271,7 +6276,7 @@
       "Name": "Very Skilled",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UPGRADE_ALLTOOLSMAX",
@@ -6310,22 +6315,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7499,
+      "Progressed": 7501,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 116,
-      "Completed": 116
+      "Progressed": 118,
+      "Completed": 118
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:08:47.3922929+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:09:33.513751+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:59:55.0483903+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:08:47.3923562+00:00"
+  "LastUpdate_Ratings": "2023-11-04T00:01:40.7378169+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:09:33.5138236+00:00"
 }

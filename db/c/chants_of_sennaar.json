@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 396,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.84,
+  "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1780,6 +1780,11 @@
       "Time": "2023-11-03T22:22:29.5575736+00:00",
       "NumProgressed": 394,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-04T00:08:25.2567528+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1839,7 +1844,7 @@
       "Name": "Open door",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1847,7 +1852,7 @@
       "Name": "Free at last",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1855,7 +1860,7 @@
       "Name": "Feels like springtime",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1879,7 +1884,7 @@
       "Name": "A Link to the Past",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1887,7 +1892,7 @@
       "Name": "Alchemists Express",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1935,7 +1940,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1951,7 +1956,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "PROGRESS_N2",
@@ -1981,23 +1986,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 396,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:07:57.7497799+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:08:25.2567523+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:59:39.4441244+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:07:57.74981+00:00"
+  "LastUpdate_Ratings": "2023-11-04T00:01:16.7628452+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:08:25.2567867+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,355 |
-| Haikyo | 80.00% | ~343,036 |
-| Good as New | 72.00% | ~308,732 |
-| Into the Woods | 70.00% | ~300,156 |
-| Hunter in the Forest | 60.00% | ~257,277 |
-| Rot Commander | 60.00% | ~257,277 |
-| Taro's Fear | 56.00% | ~240,125 |
+| Found a Friend | 95.00% | ~407,356 |
+| Haikyo | 80.00% | ~343,037 |
+| Good as New | 72.00% | ~308,733 |
+| Into the Woods | 70.00% | ~300,157 |
+| Hunter in the Forest | 60.00% | ~257,278 |
+| Rot Commander | 60.00% | ~257,278 |
+| Taro's Fear | 56.00% | ~240,126 |
 | Between the Eyes | 47.00% | ~201,534 |
 | Taro's Love | 46.00% | ~197,246 |
 | Taro's Regret | 44.00% | ~188,670 |
 | Spirit Guide | 42.00% | ~180,094 |
 | Harness Your Power | 39.00% | ~167,230 |
-| The Open Range | 37.00% | ~158,654 |
-| Adira's Love | 34.00% | ~145,790 |
-| Adira's Fear | 33.00% | ~141,502 |
-| Weigh Them Down | 31.00% | ~132,926 |
-| Adira's Regret | 31.00% | ~132,926 |
-| A Heavy Hammer | 30.00% | ~128,638 |
+| The Open Range | 37.00% | ~158,655 |
+| Adira's Love | 34.00% | ~145,791 |
+| Adira's Fear | 33.00% | ~141,503 |
+| Weigh Them Down | 31.00% | ~132,927 |
+| Adira's Regret | 31.00% | ~132,927 |
+| A Heavy Hammer | 30.00% | ~128,639 |
 | Crossing Over | 29.00% | ~124,351 |
 | Quick Draw | 29.00% | ~124,351 |
 | Toshi's Fear | 28.00% | ~120,063 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,859 |
 | Master Spirit Guide | 0.30% | ~1,286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,795 (Ranked 42)  
+Progressed: 428,796 (Ranked 42)  
 Completed: 543 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,10 +246,11 @@ Completed: 543 (0.13%) (Ranked 255)
 | 2023-11-01 | 428,763 | 543 |
 | 2023-11-02 | 428,775 | 543 |
 | 2023-11-03 | 428,795 | 543 |
+| 2023-11-04 | 428,796 | 543 |
 ## Awards
 Max (Great Boss Battles): 1,335  (Ranked 135)  
-Sum: 1,694 (Ranked 216)  
-Diff (max vs sum): -81  
+Sum: 1,694 (Ranked 217)  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,335 |

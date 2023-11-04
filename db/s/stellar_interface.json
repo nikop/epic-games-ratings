@@ -4,8 +4,8 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "BronzeMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Ensign",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BronzeMissionsCompletedAllAchievement",
@@ -595,9 +595,9 @@
       "ID": "CompleteAllMissionsAchievement",
       "SetID": "a8djcgh",
       "Name": "Diligent",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteFullRunWithCorvetteAchievement",
@@ -763,9 +763,9 @@
       "ID": "ErebusSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Defrosted",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FlamethrowerDiarrheaAchievement",
@@ -955,9 +955,9 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Killed100BossesAchievement",
@@ -1059,17 +1059,17 @@
       "ID": "NoHealthLostIn3LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Stoic",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PerksUnlocked10Achievement",
       "SetID": "a8djcgh",
       "Name": "10Gb HDD",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PerksUnlocked25Achievement",
@@ -1123,9 +1123,9 @@
       "ID": "PlayedFor1HourAchievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Cadet",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PlayedFor20HoursAchievement",
@@ -1171,9 +1171,9 @@
       "ID": "SilverBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Prince of Ball-air",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SilverGilgameshBossDefeatedAchievement",
@@ -1315,9 +1315,9 @@
       "ID": "VisitLostLord1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage I",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "VisitLostLord50TimeAchievement",
@@ -1426,8 +1426,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:04:09.1169008+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:04:56.7714777+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.5982804+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:59:59.6106267+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:04:09.117108+00:00"
+  "LastUpdate_Ratings": "2023-11-04T00:01:48.0457723+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:04:56.7716891+00:00"
 }

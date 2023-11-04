@@ -5,10 +5,10 @@ Rating: 4.60 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,399 |
-| A Thorny Situation | 70.00% | ~5,249 |
-| ... And Spit Back Out | 60.00% | ~4,499 |
-| Break-Net Speed | 48.00% | ~3,600 |
+| Azoria Beckons | 72.00% | ~5,401 |
+| A Thorny Situation | 70.00% | ~5,251 |
+| ... And Spit Back Out | 60.00% | ~4,501 |
+| Break-Net Speed | 49.00% | ~3,675 |
 | Bramble Breaker | 46.00% | ~3,450 |
 | Miner 49er | 43.00% | ~3,225 |
 | Humble Collector | 42.00% | ~3,150 |
@@ -37,11 +37,11 @@ Rating: 4.60 (Ranked 408)
 | Captain of Cozy | 2.00% | ~150 |
 | Angling Authority | 1.00% | ~75 |
 | Cloverfield Island | 0.20% | ~15 |
-| Workaholic | 0.10% | ~7 |
-| Giving the People What They Want | 0.10% | ~7 |
-| Very Skilled | 0.10% | ~7 |
+| Workaholic | 0.10% | ~8 |
+| Giving the People What They Want | 0.10% | ~8 |
+| Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,499 (Ranked 166)  
+Progressed: 7,501 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 7,435 | 0 |
 | 2023-11-02 | 7,472 | 0 |
 | 2023-11-03 | 7,499 | 0 |
+| 2023-11-04 | 7,501 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

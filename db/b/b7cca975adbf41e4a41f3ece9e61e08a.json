@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6370,
+  "EOS_Progressed": 6371,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 2690,
+  "EOS_NewPlayers": 2684,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -2110,6 +2110,11 @@
       "Time": "2023-11-03T23:05:50.9036554+00:00",
       "NumProgressed": 6370,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-11-04T00:07:20.9762755+00:00",
+      "NumProgressed": 6371,
+      "NumCompleted": 84
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -2122,7 +2127,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 5924
+      "UsersEstimate": 5925
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2130,7 +2135,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 5542
+      "UsersEstimate": 5543
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2218,7 +2223,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4651
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -2266,7 +2271,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -2306,7 +2311,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -2330,7 +2335,7 @@
       "Name": "What I Want Is You",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2338,7 +2343,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 3567
+      "UsersEstimate": 3568
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2370,7 +2375,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -2418,7 +2423,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -2450,14 +2455,14 @@
       "Name": "SALUTE",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     }
   ],
   "AchievementSets": [
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 6370,
+      "Progressed": 6371,
       "Completed": 84
     }
   ],
@@ -2465,8 +2470,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-03T13:07:05.8172495+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:05:50.9036548+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:07:20.9762748+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.8302113+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:59:55.9820441+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:05:50.9037011+00:00"
+  "LastUpdate_Ratings": "2023-11-04T00:01:42.2417542+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:07:20.9763216+00:00"
 }

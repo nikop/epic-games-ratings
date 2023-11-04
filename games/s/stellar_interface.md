@@ -11,26 +11,27 @@
 | Dominating | 35.00% | ~24 |
 | Fighting Fit I | 34.00% | ~23 |
 | Rambo I | 29.00% | ~20 |
+| 10Gb HDD | 29.00% | ~20 |
 | The Vette | 28.00% | ~19 |
-| 10Gb HDD | 28.00% | ~19 |
-| Mega Kill | 22.00% | ~15 |
+| Mega Kill | 24.00% | ~16 |
+| Stoic | 19.00% | ~13 |
 | Almost There I | 19.00% | ~13 |
-| Stoic | 18.00% | ~12 |
 | Omicron Alpha | 16.00% | ~11 |
-| Galactic Cadet | 15.00% | ~10 |
+| Galactic Cadet | 16.00% | ~11 |
 | Bronze Prince of Ball-air | 13.00% | ~9 |
 | Pacifist | 13.00% | ~9 |
+| Collateral Damage I | 13.00% | ~9 |
+| Defrosted | 12.00% | ~8 |
 | 25Gb HDD | 12.00% | ~8 |
-| Collateral Damage I | 12.00% | ~8 |
+| Sectoral Ensign | 10.00% | ~7 |
 | Rambo II | 10.00% | ~7 |
-| Defrosted | 10.00% | ~7 |
 | Unstoppable | 10.00% | ~7 |
-| Sectoral Ensign | 9.00% | ~6 |
+| Silver Prince of Ball-air | 10.00% | ~7 |
 | Golden Prince of Ball-air | 9.00% | ~6 |
 | Space Surfer | 9.00% | ~6 |
-| Silver Prince of Ball-air | 9.00% | ~6 |
 | Merchant Prince II | 9.00% | ~6 |
 | Hitchhiker | 7.00% | ~5 |
+| Diligent | 7.00% | ~5 |
 | Hoarder | 7.00% | ~5 |
 | Usurper I | 7.00% | ~5 |
 | Flower Power | 7.00% | ~5 |
@@ -44,7 +45,6 @@
 | Rambo III | 6.00% | ~4 |
 | Rambo IV | 6.00% | ~4 |
 | Curious | 6.00% | ~4 |
-| Diligent | 6.00% | ~4 |
 | Omicron Theta | 6.00% | ~4 |
 | Omicron Beta | 6.00% | ~4 |
 | No Peace | 6.00% | ~4 |

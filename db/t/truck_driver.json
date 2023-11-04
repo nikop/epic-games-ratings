@@ -4,8 +4,8 @@
   "ProductSlug": "truck-driver",
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-05-27T07:00:00+00:00",
     "PcReleaseDate": "2021-05-27T07:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.639357+00:00",
   "LastChanged": "2023-03-31T05:57:47.6393571+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:06.6851741+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:57:07.0290255+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:09:06.62535+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:57:22.5029849+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:10:00.7696934+00:00"
 }

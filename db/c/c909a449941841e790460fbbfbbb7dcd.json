@@ -4,8 +4,8 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -639,9 +639,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -655,9 +655,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -702,8 +702,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:08:50.4219318+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:09:37.5546721+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:57:45.8568428+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:08:50.4219485+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:58:21.6408728+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:09:37.5546882+00:00"
 }

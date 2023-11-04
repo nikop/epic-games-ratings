@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14636,10 +14636,10 @@
       "Count": 12334
     }
   ],
-  "EOS_Progressed": 895092,
+  "EOS_Progressed": 895097,
   "EOS_Completed": 2741,
   "EOS_NewPlayers": 984,
-  "EOS_NewCompleters": 21,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -36966,6 +36966,11 @@
       "Time": "2023-11-03T23:05:28.6039837+00:00",
       "NumProgressed": 895092,
       "NumCompleted": 2741
+    },
+    {
+      "Time": "2023-11-04T00:06:48.4670893+00:00",
+      "NumProgressed": 895097,
+      "NumCompleted": 2741
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37416,9 +37421,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 95
     },
     {
       "ID": "UltimateSurvivor",
@@ -37513,21 +37518,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895092,
+      "Progressed": 895097,
       "Completed": 2741
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23715,
-      "Completed": 10181
+      "Progressed": 23720,
+      "Completed": 10182
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-03T20:59:15.9340975+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:05:28.6039827+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:06:48.4670888+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:58:35.1884836+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:05:28.6041792+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:59:37.7324718+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:06:48.467311+00:00"
 }

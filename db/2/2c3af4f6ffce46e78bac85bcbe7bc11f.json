@@ -4,8 +4,8 @@
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.94,
+  "EOS_Completed_Percentage": 4.88,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -444,6 +444,11 @@
       "Time": "2023-11-03T13:13:31.7624115+00:00",
       "NumProgressed": 81,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T00:08:25.7789358+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -605,7 +610,7 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -629,7 +634,7 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -662,14 +667,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:07:58.1672746+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:08:25.7789353+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:09.4603105+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:58:30.1775478+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:07:58.1672966+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:59:30.0337821+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:08:25.7789614+00:00"
 }

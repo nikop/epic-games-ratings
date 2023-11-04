@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7202,
+  "EOS_Progressed": 7203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8130,6 +8130,11 @@
       "Time": "2023-11-03T21:05:15.1218064+00:00",
       "NumProgressed": 7202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T00:05:24.4109102+00:00",
+      "NumProgressed": 7203,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8181,7 +8186,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "Control_All_Relics",
@@ -8253,7 +8258,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5185
+      "UsersEstimate": 5186
     },
     {
       "ID": "First_Ship_Designed",
@@ -8445,7 +8450,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8461,7 +8466,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8629,7 +8634,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8716,15 +8721,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7202,
+      "Progressed": 7203,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:04:28.8605131+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:05:24.4109097+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:59:15.4701034+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:04:28.8606309+00:00"
+  "LastUpdate_Ratings": "2023-11-04T00:00:39.3785289+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:05:24.4110296+00:00"
 }

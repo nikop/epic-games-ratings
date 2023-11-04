@@ -6847,9 +6847,9 @@
       "Count": 3770
     }
   ],
-  "EOS_Progressed": 138550,
+  "EOS_Progressed": 138552,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27012,6 +27012,11 @@
       "Time": "2023-11-03T23:07:50.7053997+00:00",
       "NumProgressed": 138550,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-04T00:08:16.0216295+00:00",
+      "NumProgressed": 138552,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27255,7 +27260,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "commonres02",
@@ -27287,7 +27292,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "craft02",
@@ -27495,7 +27500,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "gold02",
@@ -27799,7 +27804,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "sell02",
@@ -27918,15 +27923,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138550,
+      "Progressed": 138552,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-03T22:59:44.210389+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:07:50.7053992+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:08:16.021629+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:59:44.2103897+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:07:50.7056989+00:00"
+  "LastUpdate_Ratings": "2023-11-04T00:01:24.0204224+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:08:16.0219597+00:00"
 }

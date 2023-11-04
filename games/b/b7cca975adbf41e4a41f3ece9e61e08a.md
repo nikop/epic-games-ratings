@@ -5,23 +5,23 @@ Rating: 4.80 (Ranked 86)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~5,924 |
-| I Challenge You To Save More Money! | 87.00% | ~5,542 |
-| I Love How Tough You Are | 73.00% | ~4,650 |
-| Wanna Come To My Place For Dinner? | 65.00% | ~4,140 |
-| What I Want Is You | 59.00% | ~3,758 |
-| To Be Or Not To Be | 56.00% | ~3,567 |
+| Last Night...Did We... | 93.00% | ~5,925 |
+| I Challenge You To Save More Money! | 87.00% | ~5,543 |
+| I Love How Tough You Are | 73.00% | ~4,651 |
+| Wanna Come To My Place For Dinner? | 65.00% | ~4,141 |
+| What I Want Is You | 59.00% | ~3,759 |
+| To Be Or Not To Be | 56.00% | ~3,568 |
 | Are You Alright? | 48.00% | ~3,058 |
 | Love Actually | 47.00% | ~2,994 |
 | Drama King | 40.00% | ~2,548 |
-| You're Really Something Else | 36.00% | ~2,293 |
+| You're Really Something Else | 36.00% | ~2,294 |
 | Go Clean up In Your Own Way | 35.00% | ~2,230 |
 | ONE PUNCH | 34.00% | ~2,166 |
 | Happy Family | 33.00% | ~2,102 |
 | Drama CP: Reel to Real | 33.00% | ~2,102 |
 | Worthless Speech | 33.00% | ~2,102 |
-| Absolutely Elegant | 32.00% | ~2,038 |
-| FIRST LOVE | 32.00% | ~2,038 |
+| Absolutely Elegant | 32.00% | ~2,039 |
+| FIRST LOVE | 32.00% | ~2,039 |
 | Still Single | 30.00% | ~1,911 |
 | Go Get Some Fries On The Pier | 28.00% | ~1,784 |
 | Days Of Innocence | 27.00% | ~1,720 |
@@ -30,7 +30,7 @@ Rating: 4.80 (Ranked 86)
 | All I Have Is Money | 23.00% | ~1,465 |
 | A Slap In The Face! | 23.00% | ~1,465 |
 | That's So You | 23.00% | ~1,465 |
-| SALUTE | 22.00% | ~1,401 |
+| SALUTE | 22.00% | ~1,402 |
 | Let Me Be Your Toy Boy | 21.00% | ~1,338 |
 | Off We Sail Tonight | 20.00% | ~1,274 |
 | Love You Three Thousand | 14.00% | ~892 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 86)
 | Limerence | 2.00% | ~127 |
 | Hurrah! | 1.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,370 (Ranked 176)  
+Progressed: 6,371 (Ranked 176)  
 Completed: 84 (1.32%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 84 (1.32%) (Ranked 141)
 | 2023-11-01 | 5,755 | 67 |
 | 2023-11-02 | 6,090 | 78 |
 | 2023-11-03 | 6,370 | 84 |
+| 2023-11-04 | 6,371 | 84 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

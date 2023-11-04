@@ -4,8 +4,8 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -664,6 +664,11 @@
       "Time": "2023-11-03T20:06:34.8578571+00:00",
       "NumProgressed": 288,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T00:08:07.819894+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -795,7 +800,7 @@
       "Name": "First Shard",
       "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_SHARD_2",
@@ -858,7 +863,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 4
     }
   ],
@@ -866,8 +871,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:07:44.772368+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:08:07.8198935+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:13.6998262+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:57:09.683782+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:07:44.772389+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:57:26.502133+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:08:07.8199539+00:00"
 }

@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 3.00% | ~454 |
 | Naming Landmarks | 3.00% | ~454 |
 | Trade Caravan | 3.00% | ~454 |
+| Regicide | 2.00% | ~302 |
 | Ambitious | 2.00% | ~302 |
 | Drillmaster | 2.00% | ~302 |
 | Brilliant | 2.00% | ~302 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~302 |
 | Zoroastrianism | 2.00% | ~302 |
 | Kushite Paganism | 2.00% | ~302 |
-| Regicide | 1.00% | ~151 |
 | Hanging Gardens in Babylon | 1.00% | ~151 |
 | Beloved | 1.00% | ~151 |
 | Conqueror | 1.00% | ~151 |
@@ -121,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.80% | ~121 |
 | Devout | 0.70% | ~106 |
 | Ready | 0.70% | ~106 |
+| Clerics | 0.70% | ~106 |
 | Babylonia | 0.70% | ~106 |
 | Egypt | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
-| Clerics | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |

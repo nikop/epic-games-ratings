@@ -8,8 +8,8 @@ Number of Ratings: 2,536  (23.09.2022)
 | ---- | ---------- | ----- |
 | ''You guys got yourself a ship!'' | 97.00% | ~50,365 |
 | ''I don't like you either!'' | 79.00% | ~41,019 |
+| ''Impressive, most impressive'' | 72.00% | ~37,385 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,385 |
-| ''Impressive, most impressive'' | 71.00% | ~36,865 |
 | The Phantom Menace | 59.00% | ~30,635 |
 | ''Aggressive Negotiations'' | 59.00% | ~30,635 |
 | ''I can fly anything'' | 57.00% | ~29,596 |

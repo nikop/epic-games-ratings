@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3974,
+  "EOS_Progressed": 3977,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1350,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1928,6 +1928,11 @@
       "Time": "2023-11-03T23:08:35.1737813+00:00",
       "NumProgressed": 3974,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T00:09:16.2933093+00:00",
+      "NumProgressed": 3977,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1980,7 +1985,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "Eavesdropper",
@@ -2124,7 +2129,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "TheOldSchoolWay",
@@ -2132,7 +2137,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "TheQuarterback",
@@ -2180,7 +2185,7 @@
       "Name": "Digestive Issues",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2211,7 +2216,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3974,
+      "Progressed": 3977,
       "Completed": 3
     }
   ],
@@ -2219,8 +2224,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-03T23:08:35.1737806+00:00",
+  "LastChanged_Achievements": "2023-11-04T00:09:16.2933088+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-03T22:57:25.2570976+00:00",
-  "LastUpdate_Achievements": "2023-11-03T23:08:35.1738169+00:00"
+  "LastUpdate_Ratings": "2023-11-03T23:57:49.2343318+00:00",
+  "LastUpdate_Achievements": "2023-11-04T00:09:16.2933524+00:00"
 }
