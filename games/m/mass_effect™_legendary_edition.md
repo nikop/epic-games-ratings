@@ -109,10 +109,10 @@
 | Combined Arms | 13.00% | ~125 |
 | Mail Slot | 13.00% | ~125 |
 | Bruiser | 12.00% | ~115 |
+| Overload Specialist | 11.00% | ~105 |
 | Warp Mastery | 11.00% | ~105 |
 | Always Prepared | 10.00% | ~96 |
 | Paramour III | 10.00% | ~96 |
-| Overload Specialist | 10.00% | ~96 |
 | Barrier Mastery | 9.00% | ~86 |
 | Hijacker | 9.00% | ~86 |
 | Lift Mastery | 9.00% | ~86 |

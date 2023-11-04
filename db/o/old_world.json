@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1980,9 +1980,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15128,
+  "EOS_Progressed": 15131,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15340,6 +15340,11 @@
       "Time": "2023-11-04T11:05:11.5649022+00:00",
       "NumProgressed": 15128,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T13:07:02.6102301+00:00",
+      "NumProgressed": 15131,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17103,7 +17108,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18086,21 +18091,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15128,
+      "Progressed": 15131,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15128,
+      "Progressed": 15131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:04:58.6908792+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:07:02.6102287+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:59:56.5824543+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:04:58.6917532+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:01:49.3219045+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:07:02.6119687+00:00"
 }

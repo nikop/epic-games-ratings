@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 958,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3370,9 +3370,9 @@
       "ID": "achievement_65",
       "SetID": "d252ncf",
       "Name": "Overload Specialist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_66",
@@ -3686,8 +3686,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:04:11.6596481+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:06:19.0292829+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:43.1822422+00:00",
-  "LastUpdate_Ratings": "2023-11-04T12:00:59.9232379+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:04:11.6597927+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:02:45.5590634+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:06:19.0295947+00:00"
 }

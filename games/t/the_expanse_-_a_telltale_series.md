@@ -26,8 +26,8 @@ Rating: 4.55 (Ranked 500)
 | Doctor Approved | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
 | Safe Cracker | 0.60% | ~3 |
+| Madame Undersecretary | 0.60% | ~3 |
 | Keep Arjun in Check | 0.50% | ~3 |
-| Madame Undersecretary | 0.50% | ~3 |
 | Data Logger | 0.40% | ~58 |
 | Master Negotiator | 0.40% | ~2 |
 | No Belter Left Behind | 0.30% | ~44 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,622 (Ranked 146)  
+Progressed: 14,623 (Ranked 146)  
 Completed: 31 (0.21%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 31 (0.21%) (Ranked 235)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,622 | 31 |
+| 2023-11-04 | 14,623 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

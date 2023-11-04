@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1363,6 +1363,11 @@
       "Time": "2023-11-04T12:05:11.2647766+00:00",
       "NumProgressed": 545,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T13:07:13.3692637+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1398,7 +1403,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "Chapter10",
@@ -1454,7 +1459,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Chapter8",
@@ -1470,7 +1475,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Collectibles1",
@@ -1508,7 +1513,7 @@
       "ID": "ElfFriend",
       "SetID": "70l3651",
       "Name": "Elf-Friend",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -1526,7 +1531,7 @@
       "Name": "Like Flying...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "GollumChoices",
@@ -1604,7 +1609,7 @@
       "ID": "Scout",
       "SetID": "70l3651",
       "Name": "Scout",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -1612,7 +1617,7 @@
       "ID": "SmeagolChoices",
       "SetID": "70l3651",
       "Name": "Good Sm\u00E9agol!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -1646,7 +1651,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "WelcomeToMordor",
@@ -1654,21 +1659,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:05:11.2647763+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:07:13.3692629+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:16.4866029+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:58:03.1646319+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:05:11.2647981+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:00:08.4644461+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:07:13.3692997+00:00"
 }

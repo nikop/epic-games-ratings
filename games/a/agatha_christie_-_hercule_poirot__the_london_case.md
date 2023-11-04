@@ -27,16 +27,18 @@
 | The Apartment | 28.00% | ~8 |
 | A rude awakening | 24.00% | ~7 |
 | Nathaniel Dryden | 24.00% | ~7 |
+| Well-acquainted | 21.00% | ~6 |
+| Truth from within | 21.00% | ~6 |
+| Anastasia Babanin | 21.00% | ~6 |
+| Zakariya Demir | 21.00% | ~6 |
 | Bartholomew | 21.00% | ~6 |
 | The Scheme | 21.00% | ~6 |
-| Well-acquainted | 17.00% | ~5 |
-| Truth from within | 17.00% | ~5 |
-| Anastasia Babanin | 17.00% | ~5 |
-| Zakariya Demir | 17.00% | ~5 |
-| A curious phrase | 14.00% | ~4 |
-| Evelyn Lakshmi Warbeck | 10.00% | ~3 |
-| Johan Kristiansen | 10.00% | ~3 |
-| The Suspects | 10.00% | ~3 |
+| A curious phrase | 17.00% | ~5 |
+| Evelyn Lakshmi Warbeck | 14.00% | ~4 |
+| Johan Kristiansen | 14.00% | ~4 |
+| The Suspects | 14.00% | ~4 |
+| Horace Mountjoy | 10.00% | ~3 |
+| The Secrets | 10.00% | ~3 |
 | The Denouement | 7.00% | ~2 |
 | Well-travelled | 7.00% | ~2 |
 | A treasured heirloom | 7.00% | ~2 |
@@ -44,10 +46,8 @@
 | The Penitent Magdalene | 7.00% | ~2 |
 | A true performance | 7.00% | ~2 |
 | Florence Farquhar | 7.00% | ~2 |
-| Horace Mountjoy | 7.00% | ~2 |
 | Mortimer Ailsworth | 7.00% | ~2 |
 | Perkins | 7.00% | ~2 |
-| The Secrets | 7.00% | ~2 |
 | The Investigation Starts Anew | 7.00% | ~2 |
 | A perilous journey | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

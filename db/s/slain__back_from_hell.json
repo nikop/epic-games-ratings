@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39747,
+  "EOS_Progressed": 39750,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
@@ -21953,6 +21953,11 @@
       "Time": "2023-11-04T12:06:56.9081764+00:00",
       "NumProgressed": 39747,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-04T13:08:50.0780315+00:00",
+      "NumProgressed": 39750,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -21972,7 +21977,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8347
+      "UsersEstimate": 8348
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22020,7 +22025,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -22028,7 +22033,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -22036,7 +22041,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -22195,7 +22200,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39747,
+      "Progressed": 39750,
       "Completed": 26
     }
   ],
@@ -22203,8 +22208,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:06:56.9081762+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:08:50.0780307+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:10.3969079+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:57:55.2024547+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:06:56.9082654+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:00:01.3723012+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:08:50.078237+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3114,
+  "EOS_Progressed": 3115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4077,6 +4077,11 @@
       "Time": "2023-11-04T12:03:34.0014905+00:00",
       "NumProgressed": 3114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T13:05:44.7293567+00:00",
+      "NumProgressed": 3115,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4121,7 +4126,7 @@
       "Name": "MVP",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "achievement_14",
@@ -4129,7 +4134,7 @@
       "Name": "ROTY",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "achievement_15",
@@ -4185,7 +4190,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "achievement_21",
@@ -4256,7 +4261,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3114,
+      "Progressed": 3115,
       "Completed": 0
     }
   ],
@@ -4264,8 +4269,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-03T04:58:08.9758469+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:03:34.0014903+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:05:44.7293557+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:58:19.0565849+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:03:34.0015184+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:00:22.1008268+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:05:44.7294031+00:00"
 }

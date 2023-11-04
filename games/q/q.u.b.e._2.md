@@ -1,27 +1,27 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.46 (Ranked 642)  
+Rating: 4.46 (Ranked 641)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~27,343 |
-| Quick Understanding of Block Extrusion | 68.00% | ~24,791 |
-| Nature or Nurture | 51.00% | ~18,593 |
-| Power Glove | 49.00% | ~17,864 |
-| Forgotten Memories | 42.00% | ~15,312 |
-| Cogs in the Machine | 35.00% | ~12,760 |
-| Mission Success | 21.00% | ~7,656 |
-| There's No Place Like Home | 21.00% | ~7,656 |
-| Green Cube Killer | 18.00% | ~6,562 |
-| Infinity Loop | 15.00% | ~5,469 |
-| Path to Salvation | 15.00% | ~5,469 |
-| Descendants | 13.00% | ~4,739 |
-| The Flawed Teacher | 10.00% | ~3,646 |
-| To Infinity and Beyond | 5.00% | ~1,823 |
-| The Truthful Enemy | 4.00% | ~1,458 |
-| Laser Sharp | 2.00% | ~729 |
+| Lost in Space | 75.00% | ~27,357 |
+| Quick Understanding of Block Extrusion | 68.00% | ~24,804 |
+| Nature or Nurture | 51.00% | ~18,603 |
+| Power Glove | 49.00% | ~17,873 |
+| Forgotten Memories | 42.00% | ~15,320 |
+| Cogs in the Machine | 35.00% | ~12,767 |
+| Mission Success | 21.00% | ~7,660 |
+| There's No Place Like Home | 21.00% | ~7,660 |
+| Green Cube Killer | 18.00% | ~6,566 |
+| Infinity Loop | 15.00% | ~5,471 |
+| Path to Salvation | 15.00% | ~5,471 |
+| Descendants | 13.00% | ~4,742 |
+| The Flawed Teacher | 10.00% | ~3,648 |
+| To Infinity and Beyond | 5.00% | ~1,824 |
+| The Truthful Enemy | 4.00% | ~1,459 |
+| Laser Sharp | 2.00% | ~730 |
 | True collector | 1.00% | ~365 |
 | Bronze collector | 1.00% | ~365 |
 | Home Stretch | 1.00% | ~365 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.80% | ~292 |
 | QUBE Master | 0.70% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,457 (Ranked 120)  
+Progressed: 36,476 (Ranked 120)  
 Completed: 117 (0.32%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 117 (0.32%) (Ranked 217)
 | 2023-11-01 | 35,554 | 110 |
 | 2023-11-02 | 35,916 | 110 |
 | 2023-11-03 | 36,272 | 117 |
-| 2023-11-04 | 36,457 | 117 |
+| 2023-11-04 | 36,476 | 117 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

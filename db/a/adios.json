@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 95,
-  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,10 +117,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77509,
+  "EOS_Progressed": 77510,
   "EOS_Completed": 820,
-  "EOS_NewPlayers": 611,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 602,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
     {
@@ -22232,6 +22232,11 @@
       "Time": "2023-11-04T12:07:02.9706176+00:00",
       "NumProgressed": 77509,
       "NumCompleted": 820
+    },
+    {
+      "Time": "2023-11-04T13:08:56.0337848+00:00",
+      "NumProgressed": 77510,
+      "NumCompleted": 820
     }
   ],
   "TotalAchievements": 25,
@@ -22339,7 +22344,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3875
+      "UsersEstimate": 3876
     },
     {
       "ID": "Master, Commander",
@@ -22371,7 +22376,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12401
+      "UsersEstimate": 12402
     },
     {
       "ID": "Nothing Left to Say",
@@ -22442,7 +22447,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77509,
+      "Progressed": 77510,
       "Completed": 820
     }
   ],
@@ -22450,8 +22455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:07:02.9706173+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:08:56.033784+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.5305099+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:58:45.4874304+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:07:02.9707345+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:00:45.0947767+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:08:56.0340068+00:00"
 }

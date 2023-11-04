@@ -3,12 +3,12 @@
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 535,
-  "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 227,
+  "Ranking_Popularity": 139,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
     "PcReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -1654,18 +1654,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 1575,
       "NumberOfAwardsMax": 1209
+    },
+    {
+      "Time": "2023-11-04T13:01:55.9842865+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1589,
+      "NumberOfAwardsMax": 1222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1575,
-  "NumberOfAwardsMax": 1209,
+  "NumberOfAwards": 1589,
+  "NumberOfAwardsMax": 1222,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1209
+      "Count": 1222
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1713,7 +1719,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has a Creative Community",
@@ -1733,8 +1739,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-11-04T07:59:41.9172649+00:00",
+  "LastChanged": "2023-11-04T13:01:55.9842863+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:39.5930724+00:00",
-  "LastUpdate_Ratings": "2023-11-04T12:00:04.0294182+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:05:41.3561347+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:01:55.9842872+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:07:40.8484825+00:00"
 }

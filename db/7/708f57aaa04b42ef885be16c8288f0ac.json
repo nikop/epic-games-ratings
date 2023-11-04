@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4058,
+  "EOS_Progressed": 4061,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1993,6 +1993,11 @@
       "Time": "2023-11-04T12:08:48.6559359+00:00",
       "NumProgressed": 4058,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T13:10:35.2075954+00:00",
+      "NumProgressed": 4061,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2013,7 +2018,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "BeLikeWater",
@@ -2091,9 +2096,9 @@
       "ID": "GarbageMan",
       "SetID": "acc6ea0",
       "Name": "Garbage Man",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "Godrunner",
@@ -2149,7 +2154,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "NoMoreTotems",
@@ -2203,9 +2208,9 @@
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 690
     },
     {
       "ID": "ThisIsDharma",
@@ -2245,7 +2250,7 @@
       "Name": "Digestive Issues",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2276,7 +2281,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4058,
+      "Progressed": 4061,
       "Completed": 3
     }
   ],
@@ -2284,8 +2289,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:08:48.6559357+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:10:35.2075946+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:58:05.2796449+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:08:48.6559574+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:00:10.2684649+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:10:35.2076323+00:00"
 }

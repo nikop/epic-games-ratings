@@ -3,9 +3,9 @@
   "Name": "Remains",
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 455,
-  "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 23,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 54,
-  "EOS_Completed": 7,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.96,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 14.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:43.8172131+00:00",
@@ -319,6 +319,11 @@
       "Time": "2023-11-04T12:06:03.1472077+00:00",
       "NumProgressed": 54,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T13:08:01.812201+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 7,
@@ -344,9 +349,9 @@
       "ID": "Achievement_ItsSafeHere",
       "SetID": "436h0ek",
       "Name": "It\u0027s safe here!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_NoOneWillHearYou",
@@ -386,13 +391,13 @@
       "ID": "436h0ek",
       "IsBase": true,
       "Progressed": 54,
-      "Completed": 7
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:06:03.1472075+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:08:01.8122+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:22.420254+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:59:39.9348091+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:06:03.1472132+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:01:33.9646201+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:08:01.8122148+00:00"
 }

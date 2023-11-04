@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,856 |
-| This is only the beginning | 19.00% | ~43,010 |
-| Knowledge is power | 12.00% | ~27,164 |
-| Galvanic Rifle | 10.00% | ~22,637 |
-| Power Ranger | 9.00% | ~20,373 |
-| Taser Goad | 9.00% | ~20,373 |
-| Radium Ready | 9.00% | ~20,373 |
-| Half a cog | 9.00% | ~20,373 |
-| Watch them crumble | 6.00% | ~13,582 |
+| No aid from the Omnissiah | 26.00% | ~58,858 |
+| This is only the beginning | 19.00% | ~43,011 |
+| Knowledge is power | 12.00% | ~27,165 |
+| Galvanic Rifle | 10.00% | ~22,638 |
+| Power Ranger | 9.00% | ~20,374 |
+| Taser Goad | 9.00% | ~20,374 |
+| Radium Ready | 9.00% | ~20,374 |
+| Half a cog | 9.00% | ~20,374 |
+| Watch them crumble | 6.00% | ~13,583 |
 | Competent Cohort | 4.00% | ~9,055 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,055 |
 | One with the Machine | 4.00% | ~9,055 |
 | Legio Cybernetica | 3.00% | ~6,791 |
 | Fleshy Disposal | 3.00% | ~6,791 |
-| Battle Servitor | 2.00% | ~4,527 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,527 |
-| Impatient destruction | 2.00% | ~4,527 |
-| Vivisected Vizier | 2.00% | ~4,527 |
-| Architect Abortion | 2.00% | ~4,527 |
+| Battle Servitor | 2.00% | ~4,528 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,528 |
+| Impatient destruction | 2.00% | ~4,528 |
+| Vivisected Vizier | 2.00% | ~4,528 |
+| Architect Abortion | 2.00% | ~4,528 |
 | Cohortus Maximus | 0.80% | ~1,811 |
-| Mother of Xenarites | 0.40% | ~905 |
+| Mother of Xenarites | 0.40% | ~906 |
 | False God | 0.30% | ~679 |
 | Hard | 0.20% | ~453 |
 | Sensory overload | 0.20% | ~453 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 688)
 | Perma-live | 0.10% | ~226 |
 | Purge the Heretek | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,370 (Ranked 66)  
+Progressed: 226,376 (Ranked 66)  
 Completed: 5 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 5 (0.00%) (Ranked 342)
 | 2023-11-01 | 226,213 | 5 |
 | 2023-11-02 | 226,282 | 5 |
 | 2023-11-03 | 226,343 | 5 |
-| 2023-11-04 | 226,370 | 5 |
+| 2023-11-04 | 226,376 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 252)  
 Sum: 2,183 (Ranked 200)  

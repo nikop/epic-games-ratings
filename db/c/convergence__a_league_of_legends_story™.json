@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 916,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -2399,6 +2399,11 @@
       "Time": "2023-11-02T18:06:06.5938055+00:00",
       "NumProgressed": 915,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-04T13:07:31.1658461+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2690,7 +2695,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "RewindDamage1",
@@ -2786,7 +2791,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "WarwickDefeated",
@@ -2818,7 +2823,7 @@
       "Name": "The Brass Boss",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2833,7 +2838,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 6
     }
   ],
@@ -2841,8 +2846,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:05:30.5651684+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:07:31.1658453+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.8808427+00:00",
-  "LastUpdate_Ratings": "2023-11-04T12:01:03.5820466+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:05:30.5652183+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:02:48.8074417+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:07:31.1659088+00:00"
 }

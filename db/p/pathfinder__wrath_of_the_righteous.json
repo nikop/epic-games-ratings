@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4091,9 +4091,9 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 12016,
+  "EOS_Progressed": 12018,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15106,6 +15106,11 @@
       "Time": "2023-11-04T11:07:33.3851178+00:00",
       "NumProgressed": 12016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T13:08:55.0284784+00:00",
+      "NumProgressed": 12018,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15117,7 +15122,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "02_BurningCity",
@@ -15205,7 +15210,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "13_PathOfLich",
@@ -15253,7 +15258,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "19_EqualToAroden",
@@ -15341,7 +15346,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "31_DivideAndRule",
@@ -15365,7 +15370,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15389,7 +15394,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -15501,7 +15506,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -16044,21 +16049,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10798,
+      "Progressed": 10800,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12016,
+      "Progressed": 12018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-04T02:25:56.8486598+00:00",
-  "LastChanged_Achievements": "2023-11-04T12:07:01.6678554+00:00",
+  "LastChanged_Achievements": "2023-11-04T13:08:55.0284774+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:59:12.8082848+00:00",
-  "LastUpdate_Achievements": "2023-11-04T12:07:01.6680043+00:00"
+  "LastUpdate_Ratings": "2023-11-04T13:01:09.0289995+00:00",
+  "LastUpdate_Achievements": "2023-11-04T13:08:55.0288029+00:00"
 }
