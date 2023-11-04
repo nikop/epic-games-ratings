@@ -86,7 +86,7 @@
 | 84 | [Days Gone](games/d/days_gone.md) | 4,016 | 4.68 | 250 |
 | 85 | [Trackmania](games/t/trackmania.md) | 3,850 | 4.66 | 291 |
 | 86 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,837 | 4.27 | 851 |
-| 87 | [Paladins](games/p/paladins.md) | 3,784 | 4.32 | 817 |
+| 87 | [Paladins](games/p/paladins.md) | 3,790 | 4.32 | 817 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,774 | 4.68 | 250 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,680 | 4.46 | 642 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,565 | 4.47 | 633 |
@@ -116,7 +116,7 @@
 | 114 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,920 | 4.70 | 212 |
 | 115 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,817 | 4.56 | 483 |
 | 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,812 | 4.50 | 581 |
-| 117 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,796 | 4.63 | 347 |
+| 117 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,797 | 4.63 | 347 |
 | 118 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,791 | 4.57 | 467 |
 | 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,771 | 4.82 | 63 |
 | 120 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,737 | 4.78 | 105 |
@@ -125,9 +125,9 @@
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,625 | 4.55 | 501 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,593 | 4.62 | 364 |
 | 125 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,557 | 4.79 | 95 |
-| 126 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,528 | 4.86 | 28 |
-| 127 | [Conan Exiles](games/c/conan_exiles.md) | 1,526 | 4.54 | 521 |
-| 128 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,521 | 4.63 | 347 |
+| 126 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,549 | 4.63 | 347 |
+| 127 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,528 | 4.86 | 28 |
+| 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,526 | 4.54 | 521 |
 | 129 | [Ring of Pain](games/r/ring_of_pain.md) | 1,503 | 4.58 | 444 |
 | 130 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,497 | 4.53 | 534 |
 | 131 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,483 | 4.87 | 24 |
@@ -161,7 +161,7 @@
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 869 | 4.50 | 581 |
 | 160 | [MORDHAU](games/m/mordhau.md) | 868 | 4.39 | 745 |
 | 161 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 849 | 4.69 | 229 |
-| 162 | [Train Valley 2](games/t/train_valley_2.md) | 841 | 4.44 | 675 |
+| 162 | [Train Valley 2](games/t/train_valley_2.md) | 845 | 4.44 | 675 |
 | 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 840 | 4.62 | 364 |
 | 164 | [Auto Chess](games/a/auto_chess.md) | 835 | 4.51 | 564 |
 | 165 | [Frostpunk](games/f/frostpunk.md) | 832 | 4.74 | 154 |
@@ -211,15 +211,15 @@
 | 209 | [Loop Hero](games/l/loop_hero.md) | 472 | 4.67 | 273 |
 | 210 | [Brawlhalla](games/b/brawlhalla.md) | 463 | 4.59 | 428 |
 | 211 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 291 |
-| 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 447 | 4.71 | 197 |
-| 212 | [RimWorld](games/r/rimworld.md) | 447 | 4.89 | 10 |
+| 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 448 | 4.71 | 197 |
+| 213 | [RimWorld](games/r/rimworld.md) | 447 | 4.89 | 10 |
 | 214 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 443 | 4.70 | 212 |
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 441 | 4.84 | 50 |
 | 216 | [Against the Storm](games/a/against_the_storm.md) | 437 | 4.82 | 63 |
 | 216 | [Into the Breach](games/i/into_the_breach.md) | 437 | 4.84 | 50 |
 | 218 | [Warface](games/w/warface.md) | 434 | 3.90 | 1,010 |
 | 219 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 427 | 4.73 | 172 |
-| 220 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 426 | 4.50 | 581 |
+| 219 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 427 | 4.50 | 581 |
 | 221 | [Slime Rancher](games/s/slime_rancher.md) | 423 | 4.82 | 63 |
 | 222 | [For The King](games/f/for_the_king.md) | 402 | 4.70 | 212 |
 | 223 | [Nuclear Throne](games/n/nuclear_throne.md) | 398 | 4.79 | 95 |
@@ -498,17 +498,17 @@
 | 491 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 29 | 4.53 | 534 |
 | 491 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 687 |
 | 491 | [Warpips](games/w/warpips.md) | 29 | 4.42 | 708 |
+| 499 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 28 | 4.20 | 903 |
 | 499 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.82 | 63 |
 | 499 | [Weird West: Definitive Edition](games/w/weird_west.md) | 28 | 4.45 | 659 |
 | 499 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.78 | 105 |
 | 499 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 564 |
-| 503 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 798 |
-| 503 | [DOOM II](games/d/doom_ii.md) | 27 | 4.64 | 329 |
-| 503 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 483 |
-| 503 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 940 |
-| 503 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 27 | 4.20 | 903 |
-| 503 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 501 |
-| 503 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 229 |
+| 504 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 798 |
+| 504 | [DOOM II](games/d/doom_ii.md) | 27 | 4.64 | 329 |
+| 504 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 483 |
+| 504 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 940 |
+| 504 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 501 |
+| 504 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 229 |
 | 510 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 26 | 4.18 | 920 |
 | 510 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 776 |
 | 510 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 86 |
