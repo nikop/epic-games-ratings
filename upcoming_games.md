@@ -127,7 +127,7 @@
 | [Nightingale](games/n/nightingale.md) | 2024-02-22 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-29 | - |  | - | - |
-| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 447 | - | 0 |
+| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 448 | - | 0 |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-03-29 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
@@ -148,7 +148,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 231,544 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 232,455 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -380,6 +380,7 @@
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
+| [Resonance](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
 | [Savant - Ascent REMIX](games/a/a013d93390c34ff588ab136bee0cde71.md) | 2099-01-01 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | - |  | - | - |
