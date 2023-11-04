@@ -6019,10 +6019,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10449,
       "NumberOfAwardsMax": 6934
+    },
+    {
+      "Time": "2023-11-04T01:42:20.1985153+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10463,
+      "NumberOfAwardsMax": 6934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10449,
+  "NumberOfAwards": 10463,
   "NumberOfAwardsMax": 6934,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6042,7 +6048,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 458
+      "Count": 472
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6081,9 +6087,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 711748,
+  "EOS_Progressed": 711807,
   "EOS_Completed": 2317,
-  "EOS_NewPlayers": 6034,
+  "EOS_NewPlayers": 6043,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28581,6 +28587,11 @@
       "Time": "2023-11-04T00:05:04.2212273+00:00",
       "NumProgressed": 711748,
       "NumCompleted": 2317
+    },
+    {
+      "Time": "2023-11-04T01:46:40.1243638+00:00",
+      "NumProgressed": 711807,
+      "NumCompleted": 2317
     }
   ],
   "TotalAchievements": 51,
@@ -28950,9 +28961,9 @@
       "ID": "ach_brink_of_success",
       "SetID": "344c43k",
       "Name": "One of Us",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_dark_magic",
@@ -28999,22 +29010,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 711748,
+      "Progressed": 711807,
       "Completed": 2317
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 37290,
-      "Completed": 36397
+      "Progressed": 37349,
+      "Completed": 36401
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-03T18:00:32.9322692+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:05:04.2212267+00:00",
+  "LastChanged": "2023-11-04T01:42:20.1985152+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:46:40.1243634+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-04T00:01:10.9408223+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:05:04.2214132+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:42:20.1985158+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:46:40.1245017+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,856 |
-| Where's that freaking Dwarf? | 7.00% | ~16,441 |
-| Alt+F4 | 7.00% | ~16,441 |
+| Sowwy! | 34.00% | ~79,859 |
+| Where's that freaking Dwarf? | 7.00% | ~16,442 |
+| Alt+F4 | 7.00% | ~16,442 |
 | Déjà vu | 5.00% | ~11,744 |
 | A beer, two curses, three companions | 4.00% | ~9,395 |
 | Sock! SOCK! | 4.00% | ~9,395 |
@@ -18,22 +18,22 @@ Number of Ratings: 118  (23.09.2022)
 | The plot thickens... At the tavern | 3.00% | ~7,046 |
 | DM intervention | 3.00% | ~7,046 |
 | Fireproof Wizardess | 3.00% | ~7,046 |
-| Livin' in a dwarven paradise | 2.00% | ~4,697 |
-| Shiny and Crôm | 2.00% | ~4,697 |
-| The demons' feast | 2.00% | ~4,697 |
-| The Great Library | 2.00% | ~4,697 |
-| Torture and Sensibility | 2.00% | ~4,697 |
-| Urik's Depths | 2.00% | ~4,697 |
-| The Dungeon Master | 2.00% | ~4,697 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,697 |
-| The Woman in the High Castle | 2.00% | ~4,697 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,697 |
-| The beards of change | 2.00% | ~4,697 |
-| The Ranger of Chaos | 2.00% | ~4,697 |
-| I am the night | 2.00% | ~4,697 |
-| Thieves' Guild Accreditation | 2.00% | ~4,697 |
-| Team Building Exercise | 2.00% | ~4,697 |
-| Oh, when I'll be level 10... | 2.00% | ~4,697 |
+| Livin' in a dwarven paradise | 2.00% | ~4,698 |
+| Shiny and Crôm | 2.00% | ~4,698 |
+| The demons' feast | 2.00% | ~4,698 |
+| The Great Library | 2.00% | ~4,698 |
+| Torture and Sensibility | 2.00% | ~4,698 |
+| Urik's Depths | 2.00% | ~4,698 |
+| The Dungeon Master | 2.00% | ~4,698 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,698 |
+| The Woman in the High Castle | 2.00% | ~4,698 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,698 |
+| The beards of change | 2.00% | ~4,698 |
+| The Ranger of Chaos | 2.00% | ~4,698 |
+| I am the night | 2.00% | ~4,698 |
+| Thieves' Guild Accreditation | 2.00% | ~4,698 |
+| Team Building Exercise | 2.00% | ~4,698 |
+| Oh, when I'll be level 10... | 2.00% | ~4,698 |
 | Res Judicata | 1.00% | ~2,349 |
 | The Famous Dungeon of Naheulbeuk | 1.00% | ~2,349 |
 | Dwarf Fortress | 1.00% | ~2,349 |
@@ -50,8 +50,8 @@ Number of Ratings: 118  (23.09.2022)
 | We come in peace | 0.60% | ~1,409 |
 | Holistic Adventuring Party | 0.50% | ~1,174 |
 | Law and Order | 0.50% | ~1,174 |
-| Scholar of the Lands of Fangh | 0.40% | ~939 |
-| It's been a hard day's night | 0.40% | ~939 |
+| Scholar of the Lands of Fangh | 0.40% | ~940 |
+| It's been a hard day's night | 0.40% | ~940 |
 | Friendly fire | 0.30% | ~705 |
 | I'd rather... Just... Sing! | 0.30% | ~705 |
 | The number of the counting shalt be 7 | 0.30% | ~705 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~235 |
 | Dwarf Candy | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,872 (Ranked 60)  
+Progressed: 234,880 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 7 (0.00%) (Ranked 342)
 | 2023-11-01 | 234,476 | 7 |
 | 2023-11-02 | 234,679 | 7 |
 | 2023-11-03 | 234,863 | 7 |
-| 2023-11-04 | 234,872 | 7 |
+| 2023-11-04 | 234,880 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 269)  
-Sum: 450 (Ranked 328)  
+Sum: 451 (Ranked 328)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -264,9 +264,9 @@ Diff (max vs sum): -59
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
 | This game has Quickly Understood Controls | 27 |
+| This game has Amazing Storytelling | 26 |
 | This game has Diverse Characters | 26 |
 | This game has Amazing Characters | 25 |
-| This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -440,3 +440,4 @@ Diff (max vs sum): -59
 | 2023-10-29 | 4.58 | - | 225 | 447 |
 | 2023-10-31 | 4.58 | - | 225 | 449 |
 | 2023-11-02 | 4.58 | - | 226 | 450 |
+| 2023-11-04 | 4.58 | - | 226 | 451 |

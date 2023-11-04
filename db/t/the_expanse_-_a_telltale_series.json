@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14610,
+  "EOS_Progressed": 14611,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -10326,6 +10326,11 @@
       "Time": "2023-11-04T00:06:35.9579805+00:00",
       "NumProgressed": 14610,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-04T01:47:59.8069675+00:00",
+      "NumProgressed": 14611,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10584,9 +10589,9 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "33",
@@ -10608,31 +10613,31 @@
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14610,
+      "Progressed": 14611,
       "Completed": 31
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 564,
-      "Completed": 318
+      "Progressed": 565,
+      "Completed": 323
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:06:35.95798+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:47:59.806967+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-04T00:00:06.3787893+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:06:35.9580929+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:41:27.0790292+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:47:59.8070356+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -1358,9 +1358,9 @@
       "ID": "digital_casanova",
       "SetID": "c4ipj3h",
       "Name": "Digital Casanova",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 575
+      "UsersEstimate": 581
     },
     {
       "ID": "hold_my_beer",
@@ -1406,9 +1406,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 216
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1463,8 +1463,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:09:25.555859+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:51:04.0418105+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:50.8605849+00:00",
-  "LastUpdate_Ratings": "2023-11-04T00:00:43.1156323+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:09:25.5558803+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:41:57.3297893+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:51:04.0418268+00:00"
 }

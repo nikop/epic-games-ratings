@@ -7,6 +7,7 @@
 | First success | 107.00% | ~16 |
 | Suicide squad | 60.00% | ~9 |
 | First blood | 27.00% | ~4 |
+| All for one! | 20.00% | ~3 |
 | Train hard, fight easy | 20.00% | ~3 |
 | Royal blessing | 20.00% | ~3 |
 | Under cover | 20.00% | ~3 |
@@ -18,7 +19,6 @@
 | The champion of the arena | 13.00% | ~2 |
 | Surpass the teacher | 13.00% | ~2 |
 | Vene, vidi, vici | 13.00% | ~2 |
-| All for one! | 13.00% | ~2 |
 | By own strength | 13.00% | ~2 |
 | A solo player | 13.00% | ~2 |
 | Punish the Punisher | 13.00% | ~2 |

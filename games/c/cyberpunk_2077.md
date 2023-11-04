@@ -7,10 +7,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 1.00% | ~8,951 |
-| Gun Fu | 0.50% | ~4,475 |
+| Gun Fu | 0.50% | ~4,476 |
 | Relic Ruler | 0.40% | ~95 |
 | Full Body Conversion | 0.20% | ~1,790 |
 | Right Back At Ya | 0.20% | ~1,790 |
+| The Quick and the Dead | 0.20% | ~1,790 |
 | Stanislavski's Method | 0.20% | ~1,790 |
 | True Soldier | 0.20% | ~1,790 |
 | All the President's Men | 0.20% | ~47 |
@@ -28,7 +29,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Mean Streets | 0.10% | ~895 |
 | Little Tokyo | 0.10% | ~895 |
 | Christmas Tree Attack | 0.10% | ~895 |
-| The Quick and the Dead | 0.10% | ~895 |
 | Must Be Rats | 0.10% | ~895 |
 | Breathtaking | 0.10% | ~895 |
 | The Wasteland | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,097 (Ranked 15)  
+Progressed: 895,105 (Ranked 15)  
 Completed: 2,741 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,10 +272,10 @@ Completed: 2,741 (0.31%) (Ranked 219)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,097 | 2,741 |
+| 2023-11-04 | 895,105 | 2,741 |
 ## Awards
 Max (Character Customization): 103,657  (Ranked 9)  
-Sum: 340,708 (Ranked 10)  
+Sum: 340,801 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): -1
 | This game is Great for Beginners | 20,062 |
 | This game has Diverse Characters | 19,816 |
 | This game is Highly Recommended | 18,940 |
-| This game has Amazing Storytelling | 18,795 |
+| This game has Amazing Storytelling | 18,888 |
 | This game is Extremely Fun | 18,663 |
 | This game has Amazing Characters | 18,466 |
 | This game is Relaxing | 17,813 |
@@ -582,3 +582,4 @@ Diff (max vs sum): -1
 | 2023-11-01 | 4.64 | - | 103,284 | 338,204 |
 | 2023-11-02 | 4.64 | - | 103,503 | 339,526 |
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
+| 2023-11-04 | 4.64 | - | 103,657 | 340,801 |

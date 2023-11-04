@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,9 +63,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3977,
+  "EOS_Progressed": 3985,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -1933,6 +1933,11 @@
       "Time": "2023-11-04T00:09:16.2933093+00:00",
       "NumProgressed": 3977,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T01:50:55.773474+00:00",
+      "NumProgressed": 3985,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -1953,7 +1958,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 638
     },
     {
       "ID": "BeLikeWater",
@@ -1969,7 +1974,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ChewingTheScenery",
@@ -2001,7 +2006,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "FasterThanLight",
@@ -2017,7 +2022,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 795
+      "UsersEstimate": 797
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2049,7 +2054,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -2057,7 +2062,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "JackOfAllTrades",
@@ -2089,7 +2094,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "NoMoreTotems",
@@ -2145,7 +2150,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ThisIsDharma",
@@ -2153,7 +2158,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -2161,7 +2166,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "UnResurrected",
@@ -2175,9 +2180,9 @@
       "ID": "WereNotInKansasAnymore",
       "SetID": "acc6ea0",
       "Name": "We\u0027re Not In Kansas Anymore",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 359
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -2216,7 +2221,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 3977,
+      "Progressed": 3985,
       "Completed": 3
     }
   ],
@@ -2224,8 +2229,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:09:16.2933088+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:50:55.7734736+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-03T23:57:49.2343318+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:09:16.2933524+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:39:34.9384581+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:50:55.7735017+00:00"
 }

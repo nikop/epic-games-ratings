@@ -6,9 +6,9 @@
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3027,7 +3027,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 29956,
+  "EOS_Progressed": 29969,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 2020,
   "EOS_NewCompleters": 0,
@@ -17752,6 +17752,11 @@
       "Time": "2023-11-04T00:06:41.8053709+00:00",
       "NumProgressed": 29956,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T01:48:04.9885062+00:00",
+      "NumProgressed": 29969,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17851,7 +17856,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "Dont_Need_These",
@@ -18051,7 +18056,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "Stunner",
@@ -18067,7 +18072,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "Summoner",
@@ -18091,7 +18096,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "Teamwork",
@@ -18170,7 +18175,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 29956,
+      "Progressed": 29969,
       "Completed": 65
     }
   ],
@@ -18178,8 +18183,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-03T19:57:21.396059+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:06:41.8053705+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:48:04.9885058+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-03T23:57:32.1448671+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:06:41.805506+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:39:20.9361317+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:48:04.9886088+00:00"
 }

@@ -83,9 +83,9 @@
 | Liberator | 25.00% | ~238 |
 | Pathfinder | 24.00% | ~228 |
 | Tunnel Rat | 24.00% | ~228 |
-| Arbiter | 23.00% | ~219 |
+| Arbiter | 24.00% | ~228 |
+| Savior | 23.00% | ~219 |
 | Lost and Found | 23.00% | ~219 |
-| Savior | 22.00% | ~209 |
 | Paramour II | 22.00% | ~209 |
 | Party Crasher | 21.00% | ~200 |
 | Hard Target | 21.00% | ~200 |

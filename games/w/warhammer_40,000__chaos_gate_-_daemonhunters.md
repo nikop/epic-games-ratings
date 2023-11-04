@@ -13,16 +13,16 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 6.00% | ~197 |
 | An Ill Omen | 6.00% | ~197 |
 | Blood for the Blood God! | 5.00% | ~164 |
+| Surgical Excision | 4.00% | ~132 |
 | Friendly Fire | 4.00% | ~132 |
 | Bloodless | 4.00% | ~132 |
 | Honoured Battle-Brother | 3.00% | ~99 |
-| Surgical Excision | 3.00% | ~99 |
 | The Emperor Protects | 3.00% | ~99 |
+| Nemesis Master | 3.00% | ~99 |
 | Gunmaster | 3.00% | ~99 |
 | A Foul Creche | 3.00% | ~99 |
 | Hold Your Ground | 2.00% | ~66 |
 | Corruption Cleanser | 2.00% | ~66 |
-| Nemesis Master | 2.00% | ~66 |
 | Just a Scratch | 2.00% | ~66 |
 | Hive Exterminator | 2.00% | ~66 |
 | Daemonkeeper | 1.00% | ~33 |
@@ -37,9 +37,9 @@ Number of Ratings: 371  (23.09.2022)
 | Fleetmaster | 0.90% | ~30 |
 | Mind Like a Fortress | 0.90% | ~30 |
 | Tactical Flexibility | 0.90% | ~30 |
+| Patron of Deimos | 0.80% | ~26 |
 | For the Machine God | 0.80% | ~26 |
 | Death Comes For All | 0.80% | ~26 |
-| Patron of Deimos | 0.70% | ~23 |
 | Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Harvest No More | 0.60% | ~20 |

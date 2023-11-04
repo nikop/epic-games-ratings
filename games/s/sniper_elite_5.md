@@ -8,19 +8,19 @@ Rating: 4.46 (Ranked 642)
 | Meeting Resistance | 47.00% | ~1,795 |
 | Confirming Suspicions | 41.00% | ~1,566 |
 | The Kraken Wakes | 37.00% | ~1,413 |
-| It's Starting to Crack | 34.00% | ~1,298 |
+| It's Starting to Crack | 34.00% | ~1,299 |
 | Change the Channel | 31.00% | ~1,184 |
 | Lord of War | 30.00% | ~1,146 |
 | Taking it back | 29.00% | ~1,108 |
 | Resourceful | 27.00% | ~1,031 |
 | Target America | 27.00% | ~1,031 |
 | The Kraken Sleeps | 24.00% | ~917 |
-| Liberté | 23.00% | ~878 |
-| Organ Grinder | 23.00% | ~878 |
-| As Quiet as a Mouse | 23.00% | ~878 |
+| Liberté | 23.00% | ~879 |
+| Organ Grinder | 23.00% | ~879 |
+| As Quiet as a Mouse | 23.00% | ~879 |
 | Sharpshooter | 22.00% | ~840 |
 | Explosive Efficiency | 19.00% | ~726 |
-| Gunslinger | 18.00% | ~687 |
+| Gunslinger | 18.00% | ~688 |
 | Just a Flesh Wound | 17.00% | ~649 |
 | Der Geist | 17.00% | ~649 |
 | Climbing the Ladder | 16.00% | ~611 |
@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 642)
 | Fields of Glory | 14.00% | ~535 |
 | Skirmisher | 14.00% | ~535 |
 | Die Nussknacker Sweet! | 14.00% | ~535 |
-| Set Europe Ablaze | 13.00% | ~496 |
+| Set Europe Ablaze | 13.00% | ~497 |
 | Precision Is Key | 10.00% | ~382 |
 | My Little Friend | 10.00% | ~382 |
 | Rigged to Blow | 9.00% | ~344 |
@@ -43,9 +43,9 @@ Rating: 4.46 (Ranked 642)
 | Tinkerer | 5.00% | ~191 |
 | It'll Buff Right Out | 5.00% | ~191 |
 | Don't hold your breath | 5.00% | ~191 |
-| Last Resort | 5.00% | ~188 |
-| Siegebreaker | 5.00% | ~188 |
-| Ghost of Falaise | 5.00% | ~188 |
+| Last Resort | 5.00% | ~189 |
+| Siegebreaker | 5.00% | ~189 |
+| Ghost of Falaise | 5.00% | ~189 |
 | Strategist | 4.00% | ~153 |
 | Locomotion Commotion | 4.00% | ~153 |
 | Road Rage | 4.00% | ~153 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 642)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,819 (Ranked 189)  
+Progressed: 3,820 (Ranked 189)  
 Completed: 11 (0.29%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 11 (0.29%) (Ranked 225)
 | 2023-11-01 | 3,805 | 11 |
 | 2023-11-02 | 3,813 | 11 |
 | 2023-11-03 | 3,818 | 11 |
-| 2023-11-04 | 3,819 | 11 |
+| 2023-11-04 | 3,820 | 11 |
 ## Awards
 Max (Great for Beginners): 21  (Ranked 534)  
 Sum: 21 (Ranked 535)  

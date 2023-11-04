@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.57 (Ranked 467)  
+Rating: 4.57 (Ranked 466)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,8 +28,8 @@ Rating: 4.57 (Ranked 467)
 | Necessary Enhancement | 7.00% | ~229 |
 | Convenient Transport | 7.00% | ~229 |
 | From the Past | 7.00% | ~229 |
-| Access Granted | 6.00% | ~196 |
-| All in Good Health | 6.00% | ~196 |
+| Access Granted | 6.00% | ~197 |
+| All in Good Health | 6.00% | ~197 |
 | Oats | 5.00% | ~164 |
 | What They Hide From Us | 5.00% | ~164 |
 | BRAWL! | 5.00% | ~164 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 467)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,275 (Ranked 199)  
+Progressed: 3,276 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 3,272 | 0 |
 | 2023-11-02 | 3,273 | 0 |
 | 2023-11-03 | 3,275 | 0 |
+| 2023-11-04 | 3,276 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

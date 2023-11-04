@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 521)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 0.60% | ~224 |
+| One of Us | 0.40% | ~149 |
 | Pork Chopped | 0.40% | ~149 |
-| One of Us | 0.30% | ~112 |
 | Dr. Reed, I Presume? | 0.10% | ~712 |
 | Making Your Mark | 0.10% | ~712 |
 | Git Gutte! | 0.10% | ~712 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~37 |
 | Top That, Tisha! | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 711,748 (Ranked 22)  
+Progressed: 711,807 (Ranked 22)  
 Completed: 2,317 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,17 +255,17 @@ Completed: 2,317 (0.33%) (Ranked 216)
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
-| 2023-11-04 | 711,748 | 2,317 |
+| 2023-11-04 | 711,807 | 2,317 |
 ## Awards
 Max (Great Boss Battles): 6,934  (Ranked 54)  
-Sum: 10,449 (Ranked 90)  
+Sum: 10,463 (Ranked 90)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,934 |
 | This game is Great for Beginners | 502 |
 | This game has Diverse Characters | 495 |
-| This game has Quickly Understood Controls | 458 |
+| This game has Quickly Understood Controls | 472 |
 | This game is Relaxing | 445 |
 | This game has Amazing Storytelling | 424 |
 | This game is Highly Recommended | 408 |
@@ -471,3 +471,4 @@ Diff (max vs sum): -36
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
+| 2023-11-04 | 4.54 | 6,934 | 10,463 |

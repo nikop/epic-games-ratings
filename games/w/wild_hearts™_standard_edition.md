@@ -9,10 +9,10 @@
 | Commencing of Quests | 78.00% | ~170 |
 | Budding Conjuror | 78.00% | ~170 |
 | Man-Machine Master | 71.00% | ~155 |
+| Fusion Conjuror | 67.00% | ~146 |
 | Mountain Splitter | 67.00% | ~146 |
-| Fusion Conjuror | 66.00% | ~144 |
 | Memory Rouser | 66.00% | ~144 |
-| Charmed by the Hunt | 65.00% | ~142 |
+| Charmed by the Hunt | 66.00% | ~144 |
 | Subsistence Skills | 64.00% | ~140 |
 | Kemono Hunter | 61.00% | ~133 |
 | Expert Conjuror | 60.00% | ~131 |
@@ -29,15 +29,15 @@
 | Single Minded | 41.00% | ~89 |
 | Karakuri Trail | 39.00% | ~85 |
 | Kemono at Heart | 38.00% | ~83 |
-| Team Hunter | 35.00% | ~76 |
+| Team Hunter | 36.00% | ~78 |
 | Artful Assister | 34.00% | ~74 |
 | Reincarnation Cycle Stopper | 33.00% | ~72 |
 | Karakuri Isle | 32.00% | ~70 |
 | Left Arm Leverager | 29.00% | ~63 |
 | Canyon of Karakuri | 28.00% | ~61 |
+| Style Seeker | 28.00% | ~61 |
 | Human Believer | 28.00% | ~61 |
 | Unrivaled in Arms | 28.00% | ~61 |
-| Style Seeker | 27.00% | ~59 |
 | Karakuri Minato | 27.00% | ~59 |
 | Threaded Harmony | 25.00% | ~54 |
 | Karakuri Fortress | 24.00% | ~52 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 7.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 218 (Ranked 353)  
-Completed: 6 (2.75%) (Ranked 102)  
+Completed: 6 (2.75%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

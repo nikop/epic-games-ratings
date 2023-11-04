@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 2,
@@ -2334,6 +2334,11 @@
       "Time": "2023-11-04T00:08:35.732287+00:00",
       "NumProgressed": 543,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T01:50:22.0205874+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2345,7 +2350,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2353,7 +2358,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2441,7 +2446,7 @@
       "Name": "Holy Nails",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2456,14 +2461,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:08:35.7322865+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:50:22.020587+00:00",
   "LastUpdate_AppInfo": "2023-10-28T12:58:40.839969+00:00",
-  "LastUpdate_Ratings": "2023-11-03T23:57:11.6960641+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:08:35.7323108+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:39:03.8112844+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:50:22.0206063+00:00"
 }

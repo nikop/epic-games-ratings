@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1357,9 +1357,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156369,
+  "EOS_Progressed": 156381,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1365,
+  "EOS_NewPlayers": 1360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14257,6 +14257,11 @@
       "Time": "2023-11-04T00:08:11.3890637+00:00",
       "NumProgressed": 156369,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T01:50:00.3459898+00:00",
+      "NumProgressed": 156381,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14324,7 +14329,7 @@
       "Name": "Breath",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -14340,7 +14345,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -14516,7 +14521,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -14548,7 +14553,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -14635,21 +14640,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155952,
+      "Progressed": 155964,
       "Completed": 1188
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156369,
+      "Progressed": 156381,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-03T07:02:00.5334568+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:08:11.3890633+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:50:00.3459895+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-03T23:59:29.0910764+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:08:11.3891994+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:40:57.4646029+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:50:00.3460845+00:00"
 }

@@ -15,9 +15,9 @@
 | Soundtrack | 61.00% | ~145 |
 | Antidote | 53.00% | ~126 |
 | Pick the right door | 25.00% | ~60 |
-| The third floor | 18.00% | ~43 |
+| The third floor | 19.00% | ~45 |
+| One-way | 17.00% | ~40 |
 | On the right path | 16.00% | ~38 |
-| One-way | 16.00% | ~38 |
 | It can't be true | 15.00% | ~36 |
 | He who seeks, finds! | 13.00% | ~31 |
 | I'm close now | 12.00% | ~29 |

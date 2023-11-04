@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7675,
+  "EOS_Progressed": 7676,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5652,6 +5652,11 @@
       "Time": "2023-11-04T00:10:07.7050493+00:00",
       "NumProgressed": 7675,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T01:51:40.5841238+00:00",
+      "NumProgressed": 7676,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5784,7 +5789,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "GamesPlayed10",
@@ -6024,7 +6029,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "MaxTowersKilled3",
@@ -6072,7 +6077,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "NeutralKills200",
@@ -6160,7 +6165,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "SEUpgraded1",
@@ -6192,7 +6197,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -6208,7 +6213,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "TGPurchased1",
@@ -6255,7 +6260,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7675,
+      "Progressed": 7676,
       "Completed": 1
     }
   ],
@@ -6263,8 +6268,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-10-19T01:40:11.4529879+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:10:07.7050461+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:51:40.5841234+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-11-04T00:02:54.7898625+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:10:07.7051646+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:44:50.294334+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:51:40.5842128+00:00"
 }

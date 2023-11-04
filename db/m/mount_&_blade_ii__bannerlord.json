@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8460,9 +8460,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64424,
+  "EOS_Progressed": 64427,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29275,6 +29275,11 @@
       "Time": "2023-11-04T00:09:27.1180434+00:00",
       "NumProgressed": 64424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T01:51:05.5273505+00:00",
+      "NumProgressed": 64427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29366,7 +29371,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6442
+      "UsersEstimate": 6443
     },
     {
       "ID": "Dynasty",
@@ -29374,7 +29379,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 6442
+      "UsersEstimate": 6443
     },
     {
       "ID": "Entrepreneur",
@@ -29414,7 +29419,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "Great Granny",
@@ -29462,7 +29467,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6442
+      "UsersEstimate": 6443
     },
     {
       "ID": "Jack of All Trades",
@@ -29478,7 +29483,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10952
+      "UsersEstimate": 10953
     },
     {
       "ID": "Kingslayer",
@@ -29510,7 +29515,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21260
+      "UsersEstimate": 21261
     },
     {
       "ID": "Lawbringer",
@@ -29518,7 +29523,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25125
+      "UsersEstimate": 25127
     },
     {
       "ID": "Lawmaker",
@@ -29630,7 +29635,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6442
+      "UsersEstimate": 6443
     },
     {
       "ID": "The king is pleased",
@@ -29646,7 +29651,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "This is Sparta",
@@ -29686,22 +29691,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6442
+      "UsersEstimate": 6443
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64424,
+      "Progressed": 64427,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-03T19:59:05.9256508+00:00",
-  "LastChanged_Achievements": "2023-11-04T00:09:27.1180428+00:00",
+  "LastChanged_Achievements": "2023-11-04T01:51:05.5273502+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-04T00:00:08.7236862+00:00",
-  "LastUpdate_Achievements": "2023-11-04T00:09:27.1182418+00:00"
+  "LastUpdate_Ratings": "2023-11-04T01:41:29.0162741+00:00",
+  "LastUpdate_Achievements": "2023-11-04T01:51:05.5274825+00:00"
 }

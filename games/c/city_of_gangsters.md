@@ -5,30 +5,30 @@ Rating: 4.28 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~164,839 |
-| Copacetic Coordination | 16.00% | ~56,116 |
-| Fronting the Money | 15.00% | ~52,608 |
-| The Dawn of Automation | 14.00% | ~49,101 |
-| Extraordinary Logistics | 14.00% | ~49,101 |
-| Dirty Money | 13.00% | ~45,594 |
-| Family First | 13.00% | ~45,594 |
-| Cleaning House | 12.00% | ~42,087 |
-| Room in the Back | 12.00% | ~42,087 |
-| Beating the Heat | 11.00% | ~38,579 |
-| Booze Baron | 11.00% | ~38,579 |
-| Friends on the Force | 10.00% | ~35,072 |
-| Neighborhood Watch | 10.00% | ~35,072 |
+| Corner Clout | 47.00% | ~164,843 |
+| Copacetic Coordination | 16.00% | ~56,117 |
+| Fronting the Money | 15.00% | ~52,610 |
+| The Dawn of Automation | 14.00% | ~49,102 |
+| Extraordinary Logistics | 14.00% | ~49,102 |
+| Dirty Money | 13.00% | ~45,595 |
+| Family First | 13.00% | ~45,595 |
+| Cleaning House | 12.00% | ~42,088 |
+| Room in the Back | 12.00% | ~42,088 |
+| Beating the Heat | 11.00% | ~38,580 |
+| Booze Baron | 11.00% | ~38,580 |
+| Friends on the Force | 10.00% | ~35,073 |
+| Neighborhood Watch | 10.00% | ~35,073 |
 | Core Corps | 8.00% | ~28,058 |
 | Sizeable Stash | 8.00% | ~28,058 |
 | Street Fighter | 7.00% | ~24,551 |
 | Friendly Gestures | 7.00% | ~24,551 |
 | People Person | 7.00% | ~24,551 |
-| Liquor Lord | 6.00% | ~21,043 |
-| Safety in Numbers | 6.00% | ~21,043 |
-| Moving Experiences | 6.00% | ~21,043 |
-| Wise Head | 6.00% | ~21,043 |
-| Show ‘em the Sugar | 6.00% | ~21,043 |
-| Killing Them Softly | 6.00% | ~21,043 |
+| Liquor Lord | 6.00% | ~21,044 |
+| Safety in Numbers | 6.00% | ~21,044 |
+| Moving Experiences | 6.00% | ~21,044 |
+| Wise Head | 6.00% | ~21,044 |
+| Show ‘em the Sugar | 6.00% | ~21,044 |
+| Killing Them Softly | 6.00% | ~21,044 |
 | Street Knowledge | 5.00% | ~17,536 |
 | Oh Captain | 5.00% | ~17,536 |
 | Branching Out | 5.00% | ~17,536 |
@@ -48,11 +48,11 @@ Rating: 4.28 (Ranked 844)
 | Still Stalwart | 3.00% | ~10,522 |
 | Bees Knees Bootlegger | 3.00% | ~10,522 |
 | Tighten the Screws | 3.00% | ~10,522 |
-| One of Us | 2.00% | ~7,014 |
-| Baker’s Dozen | 2.00% | ~7,014 |
-| Dropping the Dime | 2.00% | ~7,014 |
-| Spiffy Speakeasies | 2.00% | ~7,014 |
-| Keeping Your Word | 2.00% | ~7,014 |
+| One of Us | 2.00% | ~7,015 |
+| Baker’s Dozen | 2.00% | ~7,015 |
+| Dropping the Dime | 2.00% | ~7,015 |
+| Spiffy Speakeasies | 2.00% | ~7,015 |
+| Keeping Your Word | 2.00% | ~7,015 |
 | Boxing Them In | 1.00% | ~3,507 |
 | Backroom Empire | 1.00% | ~3,507 |
 | Corner Control | 1.00% | ~3,507 |
@@ -60,7 +60,7 @@ Rating: 4.28 (Ranked 844)
 | The Rubber Meets the Road | 1.00% | ~3,507 |
 | Cat’s Meow Clubs | 1.00% | ~3,507 |
 | Stepping It Up | 1.00% | ~3,507 |
-| Determined Deliveries | 0.90% | ~3,156 |
+| Determined Deliveries | 0.90% | ~3,157 |
 | Boots in the Ground | 0.80% | ~2,806 |
 | Getting Fancy | 0.80% | ~2,806 |
 | Crossing Over | 0.80% | ~2,806 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 844)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350,722 (Ranked 46)  
+Progressed: 350,730 (Ranked 46)  
 Completed: 7 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 7 (0.00%) (Ranked 342)
 | 2023-11-01 | 350,385 | 7 |
 | 2023-11-02 | 350,552 | 7 |
 | 2023-11-03 | 350,717 | 7 |
-| 2023-11-04 | 350,722 | 7 |
+| 2023-11-04 | 350,730 | 7 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 447)  
 Sum: 186 (Ranked 404)  
