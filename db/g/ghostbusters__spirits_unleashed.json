@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 582,
   "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2959,10 +2959,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2681,
       "NumberOfAwardsMax": 302
+    },
+    {
+      "Time": "2023-11-04T17:01:19.249038+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2682,
+      "NumberOfAwardsMax": 302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2681,
+  "NumberOfAwards": 2682,
   "NumberOfAwardsMax": 302,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2988,7 +2994,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 293
+      "Count": 294
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3039,7 +3045,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30042,
+  "EOS_Progressed": 30049,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 1999,
   "EOS_NewCompleters": 0,
@@ -17839,6 +17845,11 @@
       "Time": "2023-11-04T16:06:56.0941403+00:00",
       "NumProgressed": 30042,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T17:10:17.1709131+00:00",
+      "NumProgressed": 30049,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18257,16 +18268,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30042,
+      "Progressed": 30049,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-04T10:57:45.1962192+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:06:56.0941399+00:00",
+  "LastChanged": "2023-11-04T17:01:19.2490377+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:10:17.1709126+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:19.5892094+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:12.5603498+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:06:56.0942424+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:01:19.2490385+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:10:17.1710473+00:00"
 }

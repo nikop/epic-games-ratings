@@ -31,7 +31,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,633 (Ranked 185)  
-Completed: 3 (0.06%) (Ranked 288)  
+Completed: 3 (0.06%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

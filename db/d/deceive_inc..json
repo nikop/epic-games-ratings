@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18773,
+  "EOS_Progressed": 18774,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12618,6 +12618,11 @@
       "Time": "2023-11-04T16:05:43.7751863+00:00",
       "NumProgressed": 18773,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T17:09:07.1589076+00:00",
+      "NumProgressed": 18774,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12645,7 +12650,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "0004",
@@ -12853,7 +12858,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "0030",
@@ -12916,7 +12921,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18773,
+      "Progressed": 18774,
       "Completed": 4
     }
   ],
@@ -12924,8 +12929,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:05:43.7751858+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:09:07.158907+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:39.2359824+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:05:43.7752616+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:02:14.0212728+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:09:07.1590144+00:00"
 }

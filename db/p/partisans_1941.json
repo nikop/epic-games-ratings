@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 289,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1560,
+  "EOS_Progressed": 1561,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3364,6 +3364,11 @@
       "Time": "2023-11-04T16:04:29.4615097+00:00",
       "NumProgressed": 1560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T17:07:56.779196+00:00",
+      "NumProgressed": 1561,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3423,7 +3428,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Defense_Common",
@@ -3455,7 +3460,7 @@
       "Name": "E1M1",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "Everyone_is_here",
@@ -3527,7 +3532,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "KillAllM2",
@@ -3551,7 +3556,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Miner",
@@ -3591,7 +3596,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "We_were_not_here",
@@ -3614,15 +3619,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1560,
+      "Progressed": 1561,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:04:29.4615092+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:07:56.7791953+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:25.8997531+00:00",
-  "LastUpdate_Ratings": "2023-11-04T16:01:35.3509299+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:04:29.4615415+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:05:52.41542+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:07:56.7792379+00:00"
 }

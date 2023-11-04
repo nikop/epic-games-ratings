@@ -8,6 +8,7 @@ Rating: 4.54 (Ranked 521)
 | Whatever It Takes | 0.80% | ~303 |
 | Pork Chopped | 0.60% | ~227 |
 | One of Us | 0.50% | ~189 |
+| Break A Leg | 0.20% | ~1,425 |
 | Hotel California | 0.20% | ~1,425 |
 | Welcome To Hell-A | 0.20% | ~1,425 |
 | Dr. Reed, I Presume? | 0.10% | ~712 |
@@ -18,7 +19,6 @@ Rating: 4.54 (Ranked 521)
 | LA Influential | 0.10% | ~712 |
 | Perks of the Job | 0.10% | ~712 |
 | Bookworm | 0.10% | ~712 |
-| Break A Leg | 0.10% | ~712 |
 | On Safari | 0.10% | ~712 |
 | I Got a Zombie Army and You Can't Harm Me | 0.10% | ~712 |
 | But Doctor, I am Butcho | 0.10% | ~712 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,274 (Ranked 22)  
-Completed: 2,321 (0.33%) (Ranked 215)  
+Progressed: 712,322 (Ranked 22)  
+Completed: 2,322 (0.33%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,21 +255,21 @@ Completed: 2,321 (0.33%) (Ranked 215)
 | 2023-11-01 | 710,432 | 2,297 |
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
-| 2023-11-04 | 712,274 | 2,321 |
+| 2023-11-04 | 712,322 | 2,322 |
 ## Awards
-Max (Great Boss Battles): 6,934  (Ranked 54)  
-Sum: 10,481 (Ranked 90)  
-Diff (max vs sum): -36  
+Max (Great Boss Battles): 7,004  (Ranked 54)  
+Sum: 10,557 (Ranked 89)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,934 |
+| This game has Great Boss Battles | 7,004 |
 | This game is Great for Beginners | 511 |
 | This game has Diverse Characters | 495 |
 | This game has Quickly Understood Controls | 472 |
-| This game is Relaxing | 445 |
+| This game is Relaxing | 447 |
 | This game has Amazing Storytelling | 429 |
 | This game is Highly Recommended | 408 |
-| This game is Extremely Fun | 401 |
+| This game is Extremely Fun | 405 |
 | This game has Amazing Characters | 386 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -471,4 +471,4 @@ Diff (max vs sum): -36
 | 2023-11-01 | 4.54 | 6,801 | 10,254 |
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
-| 2023-11-04 | 4.54 | 6,934 | 10,481 |
+| 2023-11-04 | 4.54 | 7,004 | 10,557 |

@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 121,
+  "Ranking_Rating": 122,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4091,9 +4091,9 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 12018,
+  "EOS_Progressed": 12020,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15111,6 +15111,11 @@
       "Time": "2023-11-04T13:08:55.0284784+00:00",
       "NumProgressed": 12018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T17:06:43.2548621+00:00",
+      "NumProgressed": 12020,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15130,7 +15135,7 @@
       "Name": "Burning City",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -15138,7 +15143,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "04_FithCrusade",
@@ -15146,7 +15151,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -15488,9 +15493,9 @@
       "ID": "48_Spark",
       "SetID": "989of5o",
       "Name": "A Spark",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2284
     },
     {
       "ID": "49_Flame",
@@ -16049,21 +16054,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10800,
+      "Progressed": 10802,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12018,
+      "Progressed": 12020,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-04T02:25:56.8486598+00:00",
-  "LastChanged_Achievements": "2023-11-04T15:06:14.7597598+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:06:43.2548607+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:19.0935784+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:59:45.5678858+00:00",
-  "LastUpdate_Achievements": "2023-11-04T15:06:14.7599718+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:03:35.5601985+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:06:43.2552389+00:00"
 }

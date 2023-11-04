@@ -5,13 +5,13 @@ Rating: 4.10 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,959 |
-| World Map | 79.00% | ~1,664 |
-| Temple of Eternals | 57.00% | ~1,200 |
-| Prestigious | 54.00% | ~1,137 |
+| Victor | 93.00% | ~1,960 |
+| World Map | 79.00% | ~1,665 |
+| Temple of Eternals | 57.00% | ~1,201 |
+| Prestigious | 54.00% | ~1,138 |
 | Fellowship Power | 42.00% | ~885 |
 | Guild Power | 26.00% | ~548 |
-| Prestigious x10 | 23.00% | ~484 |
+| Prestigious x10 | 23.00% | ~485 |
 | The game is on | 21.00% | ~442 |
 | Exotic Merchant | 20.00% | ~421 |
 | Dragon Clicker | 18.00% | ~379 |
@@ -43,13 +43,13 @@ Rating: 4.10 (Ranked 956)
 | The father of Dragons | 10.00% | ~211 |
 | Here We Go Again | 9.00% | ~190 |
 | Trader | 9.00% | ~190 |
-| Blueprint Upgrades | 8.00% | ~168 |
-| Crystal Mining | 8.00% | ~168 |
-| Dragon Slayer | 8.00% | ~168 |
-| Enchanting skill | 8.00% | ~168 |
-| Engineer Mastery | 8.00% | ~168 |
-| The Expeditioner | 8.00% | ~168 |
-| Weekly Quest Completionist | 8.00% | ~168 |
+| Blueprint Upgrades | 8.00% | ~169 |
+| Crystal Mining | 8.00% | ~169 |
+| Dragon Slayer | 8.00% | ~169 |
+| Enchanting skill | 8.00% | ~169 |
+| Engineer Mastery | 8.00% | ~169 |
+| The Expeditioner | 8.00% | ~169 |
+| Weekly Quest Completionist | 8.00% | ~169 |
 | How Do You Turn This On? | 7.00% | ~147 |
 | Lock And Load | 7.00% | ~147 |
 | Missions Dedication | 7.00% | ~147 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 956)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,106 (Ranked 213)  
+Progressed: 2,107 (Ranked 213)  
 Completed: 2 (0.09%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 2 (0.09%) (Ranked 271)
 | 2023-11-01 | 2,090 | 2 |
 | 2023-11-02 | 2,096 | 2 |
 | 2023-11-03 | 2,103 | 2 |
-| 2023-11-04 | 2,106 | 2 |
+| 2023-11-04 | 2,107 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 490)  
 Sum: 57 (Ranked 471)  

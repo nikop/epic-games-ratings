@@ -7,9 +7,9 @@
 | I can do a thing or two | 60.00% | ~343 |
 | Buckle up | 59.00% | ~337 |
 | Quick charge | 59.00% | ~337 |
+| Hands up! | 53.00% | ~303 |
 | Now you know | 53.00% | ~303 |
 | Short circuit | 53.00% | ~303 |
-| Hands up! | 52.00% | ~297 |
 | Curious | 42.00% | ~240 |
 | Everybody lies | 35.00% | ~200 |
 | Trick or Treat? | 23.00% | ~131 |
@@ -22,12 +22,12 @@
 | He is just a child | 19.00% | ~108 |
 | Uncertain | 18.00% | ~103 |
 | Goody | 17.00% | ~97 |
+| Please oh pleeease! | 17.00% | ~97 |
 | Ace | 16.00% | ~91 |
 | Concrete painting | 16.00% | ~91 |
 | Found it! | 16.00% | ~91 |
 | Hipster | 16.00% | ~91 |
 | Not what it seems | 16.00% | ~91 |
-| Please oh pleeease! | 16.00% | ~91 |
 | That's much better! | 15.00% | ~86 |
 | Not as clumsy or random | 13.00% | ~74 |
 | Blade Runner | 10.00% | ~57 |

@@ -20,7 +20,7 @@
 | A Tradition Unlike Any Other | 25.00% | ~122 |
 | A Passion for Excellence | 25.00% | ~122 |
 | The Ultimate Prize | 18.00% | ~88 |
-| Golfer Versus Golfer | 16.00% | ~78 |
+| Golfer Versus Golfer | 17.00% | ~83 |
 | Victory Lap | 10.00% | ~49 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 488 (Ranked 293)  

@@ -25,14 +25,14 @@ Rating: 4.55 (Ranked 500)
 | Bottoms up! | 0.70% | ~102 |
 | Miraculous Maya | 0.70% | ~102 |
 | Safe Cracker | 0.70% | ~4 |
+| Madame Undersecretary | 0.70% | ~4 |
 | Doctor Approved | 0.60% | ~88 |
 | Keep Arjun in Check | 0.60% | ~3 |
-| Madame Undersecretary | 0.60% | ~3 |
 | Data Logger | 0.40% | ~59 |
+| Data Master | 0.40% | ~59 |
 | Master Negotiator | 0.40% | ~2 |
 | Brother's Reaper | 0.30% | ~44 |
 | No Belter Left Behind | 0.30% | ~44 |
-| Data Master | 0.30% | ~44 |
 | Debris Spree | 0.20% | ~29 |
 | Data Recoverer | 0.20% | ~29 |
 | Urshanabi Hoarder | 0.10% | ~15 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,626 (Ranked 146)  
+Progressed: 14,629 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 32 (0.22%) (Ranked 233)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,626 | 32 |
+| 2023-11-04 | 14,629 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

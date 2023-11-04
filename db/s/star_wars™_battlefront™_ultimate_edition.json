@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2974,6 +2974,11 @@
       "Time": "2023-11-04T16:09:57.4928405+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T17:13:12.0150952+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3162,7 +3167,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_30",
@@ -3186,7 +3191,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_33",
@@ -3210,7 +3215,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "achievement_36",
@@ -3226,15 +3231,15 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_39",
@@ -3258,7 +3263,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "achievement_41",
@@ -3466,7 +3471,7 @@
       "Name": "A cunning warrior",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_8",
@@ -3489,13 +3494,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 1
     }
   ],
@@ -3503,8 +3508,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:09:57.4928401+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:13:12.0150946+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-04T16:00:52.0142848+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:09:57.4929048+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:04:52.2758363+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:13:12.0151842+00:00"
 }

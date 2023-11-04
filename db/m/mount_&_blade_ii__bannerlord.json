@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8478,9 +8478,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64479,
+  "EOS_Progressed": 64480,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29373,6 +29373,11 @@
       "Time": "2023-11-04T16:09:35.5496879+00:00",
       "NumProgressed": 64479,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T17:12:51.6536669+00:00",
+      "NumProgressed": 64480,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29384,7 +29389,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "Apple of my eye",
@@ -29791,15 +29796,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64479,
+      "Progressed": 64480,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-04T11:59:49.2986115+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:09:35.5496874+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:12:51.6536662+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-04T16:00:28.6506264+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:09:35.5498172+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:04:25.0020696+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:12:51.6538358+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2149,6 +2149,11 @@
       "Time": "2023-11-04T01:47:28.8466019+00:00",
       "NumProgressed": 661,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-04T17:09:40.2512322+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2184,7 +2189,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "female-conqueror",
@@ -2200,7 +2205,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "hire-lieutenant",
@@ -2208,7 +2213,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "kill-lieutenants",
@@ -2224,7 +2229,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "play-at-night",
@@ -2248,15 +2253,15 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 40
     },
     {
       "ID": "rob-village",
@@ -2296,7 +2301,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "use-submarine",
@@ -2311,15 +2316,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:06:18.1455192+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:09:40.2512313+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:24.4884211+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:41.0481153+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:06:18.1455405+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:02:16.853751+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:09:40.2512559+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "mashed-ebdee9",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-28T04:00:00+00:00",
     "PcReleaseDate": "2004-06-25T04:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-09T13:59:29.9901532+00:00",
   "LastChanged": "2023-04-09T13:59:29.9901533+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:11.4275606+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:18.3622453+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:05:15.1969587+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:01:36.1301264+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:08:39.9273118+00:00"
 }

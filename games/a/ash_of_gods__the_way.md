@@ -12,6 +12,7 @@
 | Under cover | 22.00% | ~4 |
 | Surpass the teacher | 17.00% | ~3 |
 | All for one! | 17.00% | ~3 |
+| By own strength | 17.00% | ~3 |
 | A hidden snake | 17.00% | ~3 |
 | Blood and sand | 17.00% | ~3 |
 | Crimson rivers | 11.00% | ~2 |
@@ -20,7 +21,6 @@
 | Power of Inquisition | 11.00% | ~2 |
 | The champion of the arena | 11.00% | ~2 |
 | Vene, vidi, vici | 11.00% | ~2 |
-| By own strength | 11.00% | ~2 |
 | A solo player | 11.00% | ~2 |
 | Punish the Punisher | 11.00% | ~2 |
 | Protect the Healer! | 11.00% | ~2 |

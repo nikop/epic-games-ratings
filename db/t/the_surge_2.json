@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2150,
+  "EOS_Progressed": 2151,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2969,6 +2969,11 @@
       "Time": "2023-11-04T16:09:37.8759467+00:00",
       "NumProgressed": 2150,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-04T17:12:53.8806866+00:00",
+      "NumProgressed": 2151,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -2988,7 +2993,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACHV_03",
@@ -3020,7 +3025,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACHV_07",
@@ -3028,7 +3033,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHV_08",
@@ -3100,7 +3105,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHV_17",
@@ -3164,7 +3169,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHV_25",
@@ -3180,7 +3185,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "ACHV_27",
@@ -3196,7 +3201,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHV_29",
@@ -3260,7 +3265,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHV_37",
@@ -3340,7 +3345,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHV_47",
@@ -3435,7 +3440,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2150,
+      "Progressed": 2151,
       "Completed": 13
     }
   ],
@@ -3443,8 +3448,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:09:37.8759463+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:12:53.880686+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:57.7709191+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:09:37.8759998+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:02:32.9254014+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:12:53.8807593+00:00"
 }

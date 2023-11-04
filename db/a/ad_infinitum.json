@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -391,9 +391,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_CLARITY",
@@ -439,9 +439,9 @@
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_JIGSAW",
@@ -487,9 +487,9 @@
       "ID": "ACH_NOTALONE",
       "SetID": "88d7anj",
       "Name": "Not alone",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_PAIN",
@@ -574,8 +574,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:05:05.2452842+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:08:30.0941737+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:18.0534224+00:00",
-  "LastUpdate_Ratings": "2023-11-04T16:01:24.8071071+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:05:05.2453082+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:05:41.3331633+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:08:30.0941975+00:00"
 }

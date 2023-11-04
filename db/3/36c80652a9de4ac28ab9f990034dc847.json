@@ -2,10 +2,10 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 543,
+  "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-10-28T22:04:13.2017029+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T17:10:53.1519007+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T22:02:05.0482707+00:00",
@@ -114,7 +119,7 @@
       "ID": "All_Bosses",
       "SetID": "cla1dpp",
       "Name": "Till death tear us apart!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -138,7 +143,7 @@
       "ID": "Boss_Blacksmith",
       "SetID": "cla1dpp",
       "Name": "No, this is not a stack of coins!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -154,7 +159,7 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -170,7 +175,7 @@
       "ID": "Boss_Pyramid",
       "SetID": "cla1dpp",
       "Name": "We\u0027ll build a new one!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -186,7 +191,7 @@
       "ID": "Boss_Tower",
       "SetID": "cla1dpp",
       "Name": "My tower is bigger than yours.",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -210,7 +215,7 @@
       "ID": "Full_Upgrade_Cita",
       "SetID": "cla1dpp",
       "Name": "Anything for my princess!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -218,7 +223,7 @@
       "ID": "No_Lose_All_Human_Missions",
       "SetID": "cla1dpp",
       "Name": "Deny Death.",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -226,15 +231,15 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PvP_Mission",
       "SetID": "cla1dpp",
       "Name": "Many men, many corpses.",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "Up_Farm",
       "SetID": "cla1dpp",
       "Name": "We need to go deeper!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -282,7 +287,7 @@
       "ID": "Up_Tower",
       "SetID": "cla1dpp",
       "Name": "Prepare Uranus!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     }
@@ -291,14 +296,14 @@
     {
       "ID": "cla1dpp",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:07:34.1684757+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:10:53.1519+00:00",
   "LastUpdate_AppInfo": "2023-11-01T18:57:17.0199834+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:57:46.058034+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:07:34.1684891+00:00"
+  "LastUpdate_Ratings": "2023-11-04T16:59:24.2349961+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:10:53.1519175+00:00"
 }

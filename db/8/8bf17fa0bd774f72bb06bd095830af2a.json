@@ -2,10 +2,10 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Progress": 499,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -164,6 +164,11 @@
       "Time": "2023-11-01T15:06:22.1066806+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T17:07:40.0535186+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-04T17:05:09.1155779+00:00",
@@ -174,7 +179,7 @@
       "ID": "SteamAchievement_CompleteAllMapChallengeAtOnce",
       "SetID": "b8gj0ip",
       "Name": "One Fell Swoop",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -198,7 +203,7 @@
       "ID": "SteamAchievement_KillForestMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Grassholt",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -206,7 +211,7 @@
       "ID": "SteamAchievement_KillFrostMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Frosthyll",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -222,7 +227,7 @@
       "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "It was such a cute egg",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -230,7 +235,7 @@
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -238,7 +243,7 @@
       "ID": "SteamAchievement_WinBattles02",
       "SetID": "b8gj0ip",
       "Name": "General",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -262,7 +267,7 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -302,7 +307,7 @@
       "ID": "SteamAchievment_CompleteFifteenChallenges",
       "SetID": "b8gj0ip",
       "Name": "Amateur of Challenges",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -310,7 +315,7 @@
       "ID": "SteamAchievment_CompleteOneChallenge",
       "SetID": "b8gj0ip",
       "Name": "First One",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -318,7 +323,7 @@
       "ID": "SteamAchievment_CompleteQuest02",
       "SetID": "b8gj0ip",
       "Name": "Defender of the Forced Gates",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -326,7 +331,7 @@
       "ID": "SteamAchievment_CompleteQuest03",
       "SetID": "b8gj0ip",
       "Name": "Cleansing of the Cursed Fountain",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -334,7 +339,7 @@
       "ID": "SteamAchievment_CompleteQuest04",
       "SetID": "b8gj0ip",
       "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -342,7 +347,7 @@
       "ID": "SteamAchievment_CompleteQuest05",
       "SetID": "b8gj0ip",
       "Name": "Monster Slayer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -350,7 +355,7 @@
       "ID": "SteamAchievment_CompleteQuest06",
       "SetID": "b8gj0ip",
       "Name": "Ancient Machinery Operator",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -358,7 +363,7 @@
       "ID": "SteamAchievment_CompleteQuest07",
       "SetID": "b8gj0ip",
       "Name": "Master of Choice",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -438,7 +443,7 @@
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -454,7 +459,7 @@
       "ID": "SteamAchievment_FirstVisitCapitalCity",
       "SetID": "b8gj0ip",
       "Name": "The Dawn",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -471,14 +476,14 @@
     {
       "ID": "b8gj0ip",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:04:12.4469972+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:07:40.0535178+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:04.0799156+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:30.3311377+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:04:12.4470191+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:02:00.4373827+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:07:40.0535535+00:00"
 }

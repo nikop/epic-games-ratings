@@ -5,9 +5,9 @@ Rating: 4.24 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,720 |
+| Rigged And Ready | 80.00% | ~1,721 |
 | Don't I Know You...? | 77.00% | ~1,656 |
-| Jailbreak | 66.00% | ~1,419 |
+| Jailbreak | 66.00% | ~1,420 |
 | HEADSHOT! | 38.00% | ~817 |
 | Suited and Booted | 38.00% | ~817 |
 | Sleeping With The Fishes | 36.00% | ~774 |
@@ -15,18 +15,18 @@ Rating: 4.24 (Ranked 875)
 | High Performance | 30.00% | ~645 |
 | Powered Up | 28.00% | ~602 |
 | Studied The Blade | 25.00% | ~538 |
-| Home Invasion | 23.00% | ~494 |
+| Home Invasion | 23.00% | ~495 |
 | Luminary | 22.00% | ~473 |
 | It's a Trap | 22.00% | ~473 |
 | True Survivor | 21.00% | ~452 |
 | Offensive Defense | 20.00% | ~430 |
 | Shocking | 20.00% | ~430 |
-| Court Martial | 19.00% | ~408 |
-| Clean Cut | 19.00% | ~408 |
-| Unforeseeable Consequences | 19.00% | ~408 |
+| Court Martial | 19.00% | ~409 |
+| Clean Cut | 19.00% | ~409 |
+| Unforeseeable Consequences | 19.00% | ~409 |
 | Dead Again | 18.00% | ~387 |
 | Full Arsenal | 17.00% | ~366 |
-| Can't Trust Banks | 15.00% | ~322 |
+| Can't Trust Banks | 15.00% | ~323 |
 | Mommy Dearest | 14.00% | ~301 |
 | Bad Dog | 13.00% | ~280 |
 | Where It All Began | 13.00% | ~280 |
@@ -53,8 +53,8 @@ Rating: 4.24 (Ranked 875)
 | Geronimo! | 4.00% | ~86 |
 | Homewrecker | 4.00% | ~86 |
 | Plank of Wood | 4.00% | ~86 |
-| It Lives! It Sniffs! It Conquers! | 3.00% | ~64 |
-| Gotta Craft 'em All | 3.00% | ~64 |
+| It Lives! It Sniffs! It Conquers! | 3.00% | ~65 |
+| Gotta Craft 'em All | 3.00% | ~65 |
 | Own Medicine | 2.00% | ~43 |
 | Three Birds With One Stone | 2.00% | ~43 |
 | Box Office Smash | 2.00% | ~43 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 875)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,150 (Ranked 212)  
+Progressed: 2,151 (Ranked 212)  
 Completed: 13 (0.60%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 13 (0.60%) (Ranked 178)
 | 2023-11-01 | 2,113 | 13 |
 | 2023-11-02 | 2,131 | 13 |
 | 2023-11-03 | 2,143 | 13 |
-| 2023-11-04 | 2,150 | 13 |
+| 2023-11-04 | 2,151 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

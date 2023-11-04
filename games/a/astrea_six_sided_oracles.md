@@ -65,6 +65,7 @@
 | Anomaly Master | 1.00% | ~1 |
 | Arch-Oracle | 1.00% | ~1 |
 | Astral Tinkerer | 1.00% | ~1 |
+| Astrium Specialist | 1.00% | ~1 |
 | Astromancer | 1.00% | ~1 |
 | Gotta tinker'em all! | 1.00% | ~1 |
 | Plague Doctor | 1.00% | ~1 |
@@ -79,7 +80,6 @@
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
 | Astrea's Saviors | 0.00% | ~0 |
-| Astrium Specialist | 0.00% | ~0 |
 | Behenian Champion | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |
 | Behenian Mastery | 0.00% | ~0 |

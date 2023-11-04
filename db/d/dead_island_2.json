@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 521,
   "Ranking_Popularity": 54,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 24,
@@ -6043,18 +6043,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 10481,
       "NumberOfAwardsMax": 6934
+    },
+    {
+      "Time": "2023-11-04T17:05:34.4340966+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10557,
+      "NumberOfAwardsMax": 7004
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10481,
-  "NumberOfAwardsMax": 6934,
+  "NumberOfAwards": 10557,
+  "NumberOfAwardsMax": 7004,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6934
+      "Count": 7004
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6090,13 +6096,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 401
+      "Count": 405
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 445
+      "Count": 447
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6105,10 +6111,10 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712274,
-  "EOS_Completed": 2321,
-  "EOS_NewPlayers": 5853,
-  "EOS_NewCompleters": 46,
+  "EOS_Progressed": 712322,
+  "EOS_Completed": 2322,
+  "EOS_NewPlayers": 5835,
+  "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28685,6 +28691,11 @@
       "Time": "2023-11-04T16:05:28.9948135+00:00",
       "NumProgressed": 712274,
       "NumCompleted": 2321
+    },
+    {
+      "Time": "2023-11-04T17:08:53.095449+00:00",
+      "NumProgressed": 712322,
+      "NumCompleted": 2322
     }
   ],
   "TotalAchievements": 51,
@@ -28758,9 +28769,9 @@
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 1425
     },
     {
       "ID": "ach_contender",
@@ -29103,22 +29114,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712274,
-      "Completed": 2321
+      "Progressed": 712322,
+      "Completed": 2322
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 37816,
-      "Completed": 36411
+      "Progressed": 37864,
+      "Completed": 36412
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-04T16:01:22.7545463+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:05:28.994813+00:00",
+  "LastChanged": "2023-11-04T17:05:34.4340963+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:08:53.0954484+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-04T16:01:22.7545468+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:05:28.9949568+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:05:34.434097+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:08:53.0956303+00:00"
 }

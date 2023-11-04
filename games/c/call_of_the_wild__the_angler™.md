@@ -10,9 +10,9 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 2.00% | ~126 |
 | Hey Good Hookin | 2.00% | ~126 |
 | More Fish in the Sea | 2.00% | ~126 |
+| Ready to Rod and Roll | 1.00% | ~63 |
 | I'm on a Boat! | 1.00% | ~63 |
 | Scaling up | 1.00% | ~63 |
-| Ready to Rod and Roll | 0.90% | ~57 |
 | Fish Out of Water | 0.70% | ~44 |
 | Things that go Splash in the Night | 0.70% | ~44 |
 | Goldfish? | 0.60% | ~38 |
@@ -21,10 +21,10 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 0.30% | ~19 |
 | School's Out for Summer | 0.30% | ~19 |
 | Aguas Claras Conquistador | 0.30% | ~17 |
+| All Good Kings Must Come to an End | 0.30% | ~17 |
 | Marathon | 0.20% | ~13 |
 | I'm Hooked! | 0.20% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~13 |
-| All Good Kings Must Come to an End | 0.20% | ~11 |
 | Three Square Meals | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,312 (Ranked 177)  
+Progressed: 6,313 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 6,212 | 0 |
 | 2023-11-02 | 6,244 | 0 |
 | 2023-11-03 | 6,286 | 0 |
-| 2023-11-04 | 6,312 | 0 |
+| 2023-11-04 | 6,313 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 189 (Ranked 401)  

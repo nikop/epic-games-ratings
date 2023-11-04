@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1755,9 +1755,9 @@
       "ID": "ACHV_AUGMENTED",
       "SetID": "cceobco",
       "Name": "Augmented",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -1795,9 +1795,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHV_CYBORG",
@@ -1883,9 +1883,9 @@
       "ID": "ACHV_NANONIC3",
       "SetID": "cceobco",
       "Name": "Nanonic III",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHV_OUTERCORE",
@@ -1931,9 +1931,9 @@
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -1955,9 +1955,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 147
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2002,8 +2002,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-04T16:06:11.0527629+00:00",
+  "LastChanged_Achievements": "2023-11-04T17:09:33.7165112+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:21.1206975+00:00",
-  "LastUpdate_Ratings": "2023-11-04T15:58:14.3983352+00:00",
-  "LastUpdate_Achievements": "2023-11-04T16:06:11.0527893+00:00"
+  "LastUpdate_Ratings": "2023-11-04T17:01:22.6088385+00:00",
+  "LastUpdate_Achievements": "2023-11-04T17:09:33.716545+00:00"
 }

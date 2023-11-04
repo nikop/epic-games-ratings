@@ -16,6 +16,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.20% | ~1,790 |
 | Stanislavski's Method | 0.20% | ~1,790 |
 | The Hermit | 0.20% | ~1,790 |
+| The Lovers | 0.20% | ~1,790 |
 | The Wheel of Fortune | 0.20% | ~1,790 |
 | True Soldier | 0.20% | ~1,790 |
 | True Warrior | 0.20% | ~1,790 |
@@ -45,7 +46,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Devil | 0.10% | ~895 |
 | The Fool | 0.10% | ~895 |
 | The High Priestess | 0.10% | ~895 |
-| The Lovers | 0.10% | ~895 |
 | The Star | 0.10% | ~895 |
 | The Sun | 0.10% | ~895 |
 | The World | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,209 (Ranked 15)  
+Progressed: 895,218 (Ranked 15)  
 Completed: 2,742 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,742 (0.31%) (Ranked 219)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,209 | 2,742 |
+| 2023-11-04 | 895,218 | 2,742 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 341,879 (Ranked 10)  

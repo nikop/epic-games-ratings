@@ -5,20 +5,20 @@ Rating: 4.60 (Ranked 408)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,132 |
+| Prepper | 93.00% | ~5,133 |
 | All thumbs | 92.00% | ~5,077 |
 | I will survive! | 92.00% | ~5,077 |
-| Home, sweet home | 91.00% | ~5,021 |
-| Survivalist | 90.00% | ~4,966 |
-| One way ticket | 85.00% | ~4,690 |
-| Last man standing | 80.00% | ~4,414 |
-| Family guy | 77.00% | ~4,249 |
+| Home, sweet home | 91.00% | ~5,022 |
+| Survivalist | 90.00% | ~4,967 |
+| One way ticket | 85.00% | ~4,691 |
+| Last man standing | 80.00% | ~4,415 |
+| Family guy | 77.00% | ~4,250 |
 | Out of the Bag | 76.00% | ~4,194 |
 | The Dark Side | 70.00% | ~3,863 |
 | Souper! | 65.00% | ~3,587 |
 | Duck and cover! | 65.00% | ~3,587 |
 | Pacifist | 59.00% | ~3,256 |
-| 2-1-6 | 58.00% | ~3,200 |
+| 2-1-6 | 58.00% | ~3,201 |
 | A gift | 54.00% | ~2,980 |
 | Girl Power | 48.00% | ~2,649 |
 | What goes around... | 44.00% | ~2,428 |
@@ -37,7 +37,7 @@ Rating: 4.60 (Ranked 408)
 | Challenger | 13.00% | ~717 |
 | Men in Black | 13.00% | ~717 |
 | No stone unturned | 12.00% | ~662 |
-| Unplugged | 8.00% | ~441 |
+| Unplugged | 8.00% | ~442 |
 | Holidays! | 7.00% | ~386 |
 | Mad Hatter | 7.00% | ~386 |
 | Lumbersexual | 6.00% | ~331 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 408)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,518 (Ranked 180)  
+Progressed: 5,519 (Ranked 180)  
 Completed: 1 (0.02%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 1 (0.02%) (Ranked 312)
 | 2023-11-01 | 5,499 | 1 |
 | 2023-11-02 | 5,509 | 1 |
 | 2023-11-03 | 5,516 | 1 |
-| 2023-11-04 | 5,518 | 1 |
+| 2023-11-04 | 5,519 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
