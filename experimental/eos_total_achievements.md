@@ -727,6 +727,7 @@
 | [Puzzle Compound](../games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 11 | 1,000 |
 | [RedRaptor](../games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 11 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
+| [SPIRITUS](../games/2/2b96380a243e4883bb007b67b78b18c1.md) | 11 | 1,000 |
 | [Survivor - Castaway Island](../games/f/f8cbf321729f439aae9c088cbbebe93e.md) | 11 | 1,000 |
 | [The Suicide of Rachel Foster](../games/t/the_suicide_of_rachel_foster.md) | 11 | 1,000 |
 | [Until the Last Plane](../games/u/until_the_last_plane.md) | 11 | 1,000 |

@@ -156,7 +156,7 @@
 | 154 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 546 |
 | 154 | [Diabotical](games/d/diabotical.md) | 4.74 | 285 | 253 |
 | 154 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 546 |
-| 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 832 | 165 |
+| 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 833 | 165 |
 | 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,489 | 22 |
 | 154 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 546 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 729 | 176 |
@@ -303,8 +303,8 @@
 | 291 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 54 | 417 |
 | 291 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,933 | 112 |
 | 291 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 376 | 228 |
-| 291 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,941 | 65 |
-| 291 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,850 | 85 |
+| 291 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,944 | 65 |
+| 291 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,861 | 85 |
 | 291 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 102 | 356 |
 | 291 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 211 |
 | 291 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 546 |
@@ -460,7 +460,7 @@
 | 444 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 215 | 277 |
 | 444 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 546 |
 | 444 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 226 | 269 |
-| 444 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 55 | 414 |
+| 444 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 55 | 415 |
 | 444 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,495 | 58 |
 | 444 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 546 |
 | 444 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 222 | 271 |
@@ -750,8 +750,9 @@
 | 744 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.39 | 0 | 546 |
 | 744 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 597 | 191 |
 | 744 | [MORDHAU](games/m/mordhau.md) | 4.39 | 873 | 159 |
-| 744 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,781 | 36 |
+| 744 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,782 | 36 |
 | 744 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 546 |
+| 744 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.39 | 0 | 546 |
 | 744 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.39 | 0 | 546 |
 | 744 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 74 | 395 |
 | 744 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 546 |
@@ -759,16 +760,15 @@
 | 744 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 335 | 238 |
 | 744 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.39 | 0 | 546 |
 | 744 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 546 |
-| 760 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 546 |
-| 760 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 546 |
-| 760 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 546 |
-| 760 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 165 | 304 |
-| 760 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.38 | 0 | 546 |
-| 760 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 60 | 409 |
-| 760 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 546 |
-| 760 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 546 |
-| 760 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.38 | 52 | 418 |
-| 760 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 481 |
+| 761 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 546 |
+| 761 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 546 |
+| 761 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 546 |
+| 761 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 165 | 304 |
+| 761 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 63 | 407 |
+| 761 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.38 | 0 | 546 |
+| 761 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 546 |
+| 761 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.38 | 52 | 418 |
+| 761 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.38 | 32 | 481 |
 | 770 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.37 | 0 | 546 |
 | 770 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,157 | 108 |
 | 770 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 546 |
@@ -898,7 +898,7 @@
 | 895 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 546 |
 | 895 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 481 |
 | 895 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 546 |
-| 895 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,238 | 24 |
+| 895 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 17,316 | 24 |
 | 895 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 125 | 329 |
 | 895 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 389 |
 | 895 | [Wreckfest](games/w/wreckfest.md) | 4.21 | 0 | 546 |
@@ -959,7 +959,7 @@
 | 956 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.10 | 30 | 489 |
 | 956 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.10 | 0 | 546 |
 | 956 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 102 |
-| 960 | [Obduction](games/o/obduction.md) | 4.09 | 55 | 414 |
+| 960 | [Obduction](games/o/obduction.md) | 4.09 | 55 | 415 |
 | 960 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 546 |
 | 962 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.08 | 0 | 546 |
 | 962 | [Banished](games/b/banished.md) | 4.08 | 0 | 546 |
@@ -1010,7 +1010,7 @@
 | 1,008 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 353 |
 | 1,008 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 3.91 | 0 | 546 |
 | 1,010 | [Chimeraland](games/c/chimeraland.md) | 3.90 | 29 | 492 |
-| 1,010 | [Warface](games/w/warface.md) | 3.90 | 434 | 218 |
+| 1,010 | [Warface](games/w/warface.md) | 3.90 | 436 | 218 |
 | 1,012 | [Blazing Sails](games/b/blazing_sails.md) | 3.89 | 185 | 288 |
 | 1,013 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 546 |
 | 1,014 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 546 |
@@ -1018,7 +1018,7 @@
 | 1,016 | [Spelldrifter](games/s/spelldrifter.md) | 3.83 | 0 | 546 |
 | 1,016 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 546 |
 | 1,018 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 546 |
-| 1,018 | [Poker Club](games/p/poker_club.md) | 3.82 | 55 | 414 |
+| 1,018 | [Poker Club](games/p/poker_club.md) | 3.82 | 56 | 411 |
 | 1,018 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 401 |
 | 1,018 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 546 |
 | 1,022 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 90 | 372 |
