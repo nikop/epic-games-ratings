@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Patrolling Mars](games/e/e8e0954ed50b46458165b250c8a05671.md) | 2099-01-01 | - |  | - | - |
 | [Resonance](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
 | [Knowledge Party](games/f/f079b0c7395a487fb6151891e6d6faa8.md) | 2099-01-01 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-12-31 | - |  | - | - |
