@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -395,6 +395,11 @@
       "Time": "2023-11-04T08:09:10.3877368+00:00",
       "NumProgressed": 99,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T11:09:51.9128639+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -693,14 +698,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 101,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:09:37.4525113+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:09:51.9128635+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:59:26.3022986+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:09:37.4525417+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:59:37.200971+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:09:51.9128865+00:00"
 }

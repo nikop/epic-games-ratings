@@ -21,11 +21,11 @@ Rating: 4.55 (Ranked 500)
 | Call it Even | 1.00% | ~146 |
 | Captain Drummer | 1.00% | ~146 |
 | Thorston Mayer | 0.80% | ~117 |
+| Bottoms up! | 0.70% | ~102 |
+| Zen Master | 0.70% | ~4 |
 | Doctor Approved | 0.60% | ~88 |
-| Bottoms up! | 0.60% | ~88 |
 | Miraculous Maya | 0.60% | ~88 |
 | Safe Cracker | 0.60% | ~3 |
-| Zen Master | 0.60% | ~3 |
 | Keep Arjun in Check | 0.50% | ~3 |
 | Madame Undersecretary | 0.50% | ~3 |
 | Data Logger | 0.40% | ~58 |

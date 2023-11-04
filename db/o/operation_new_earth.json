@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1755,
+  "EOS_Progressed": 1756,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -6554,6 +6554,11 @@
       "Time": "2023-11-04T10:07:24.3644958+00:00",
       "NumProgressed": 1755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T11:08:30.4429988+00:00",
+      "NumProgressed": 1756,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6571,17 +6576,17 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 140
     },
     {
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6741,7 +6746,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6771,9 +6776,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6851,9 +6856,9 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -6868,7 +6873,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1755,
+      "Progressed": 1756,
       "Completed": 1
     }
   ],
@@ -6876,8 +6881,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:07:24.3644953+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:08:30.4429983+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:58:55.5440262+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:07:24.3645739+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:59:03.2800513+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:08:30.4430501+00:00"
 }

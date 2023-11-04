@@ -1380,9 +1380,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-11-04T10:07:10.5698109+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T11:07:45.3278235+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T08:07:08.352719+00:00",
@@ -1607,7 +1612,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -1621,9 +1626,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "C_STAYUP",
@@ -1661,9 +1666,9 @@
       "ID": "F_MONSTER_ELITE",
       "SetID": "80dcan0",
       "Name": "Big Game Hunter",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -1677,9 +1682,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 161,
+      "Percentage": 162,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 305
     },
     {
       "ID": "M_BACKPACK",
@@ -1695,13 +1700,13 @@
       "Name": "Commissions, commissions...!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 194,
+      "Percentage": 193,
       "XP": 10,
       "UsersEstimate": 363
     },
@@ -1735,7 +1740,7 @@
       "Name": "Kind of a Big Deal",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "M_PET",
@@ -1757,9 +1762,9 @@
       "ID": "P_BRIDGE",
       "SetID": "80dcan0",
       "Name": "Bridging the Gap",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "P_CRANELIFT",
@@ -1775,7 +1780,7 @@
       "Name": "Martle\u0027s Dream",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "P_FOREST",
@@ -1789,9 +1794,9 @@
       "ID": "P_HYDROGEL",
       "SetID": "80dcan0",
       "Name": "What Plants Crave",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "P_JEWEL",
@@ -1829,33 +1834,33 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 184
     },
     {
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 139
     },
     {
       "ID": "P_SCHOOL",
       "SetID": "80dcan0",
       "Name": "Elementary, My Dear",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "P_TUNNEL",
@@ -1863,7 +1868,7 @@
       "Name": "No Mountain Wide Enough",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -1871,7 +1876,7 @@
       "Name": "Lifeline Pipeline",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "P_WATERTOWER",
@@ -1943,7 +1948,7 @@
       "Name": "Santa In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "S_GIFT_HATE",
@@ -1957,9 +1962,9 @@
       "ID": "S_GIFT_LOVE",
       "SetID": "80dcan0",
       "Name": "Just What I Always Wanted!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "S_LOVE",
@@ -2021,9 +2026,9 @@
       "ID": "S_YAKMEL",
       "SetID": "80dcan0",
       "Name": "Yakmel Whisperer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "X_CHEST",
@@ -2086,15 +2091,15 @@
     {
       "ID": "80dcan0",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-03T19:59:44.1559698+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:07:10.5698104+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:07:45.3278231+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:09.1005592+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:00:39.2395129+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:07:10.5698734+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:00:57.9538256+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:07:45.3278672+00:00"
 }

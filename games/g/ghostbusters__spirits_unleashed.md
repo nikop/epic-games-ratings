@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,800 |
-| Advancement | 5.00% | ~1,500 |
-| Meticulously Efficient | 5.00% | ~1,500 |
+| Stylish | 6.00% | ~1,801 |
+| Advancement | 5.00% | ~1,501 |
+| Meticulously Efficient | 5.00% | ~1,501 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,200 |
 | Discovery | 4.00% | ~1,200 |
 | Fully Upgraded | 4.00% | ~1,200 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 582)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,008 (Ranked 122)  
+Progressed: 30,011 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,14 +255,14 @@ Completed: 65 (0.22%) (Ranked 233)
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
-| 2023-11-04 | 30,008 | 65 |
+| 2023-11-04 | 30,011 | 65 |
 ## Awards
-Max (Great for Beginners): 300  (Ranked 246)  
-Sum: 2,679 (Ranked 179)  
+Max (Great for Beginners): 302  (Ranked 246)  
+Sum: 2,681 (Ranked 179)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 300 |
+| This game is Great for Beginners | 302 |
 | This game is Great for Quick Sessions | 293 |
 | This game has Diverse Characters | 273 |
 | This game has Amazing Storytelling | 270 |
@@ -478,4 +478,4 @@ Diff (max vs sum): 67
 | 2023-11-01 | 4.50 | 298 | 2,657 |
 | 2023-11-02 | 4.50 | 298 | 2,663 |
 | 2023-11-03 | 4.50 | 300 | 2,676 |
-| 2023-11-04 | 4.50 | 300 | 2,679 |
+| 2023-11-04 | 4.50 | 302 | 2,681 |

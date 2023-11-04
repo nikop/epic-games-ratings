@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251030,
+  "EOS_Progressed": 251035,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22612,6 +22612,11 @@
       "Time": "2023-11-04T10:04:15.5751005+00:00",
       "NumProgressed": 251030,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T11:04:29.0086439+00:00",
+      "NumProgressed": 251035,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22623,7 +22628,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67778
+      "UsersEstimate": 67779
     },
     {
       "ID": "ACH_AON",
@@ -22687,7 +22692,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32634
+      "UsersEstimate": 32635
     },
     {
       "ID": "ACH_HATTRICK",
@@ -22767,7 +22772,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70288
+      "UsersEstimate": 70290
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -22839,7 +22844,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62758
+      "UsersEstimate": 62759
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -22927,7 +22932,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20082
+      "UsersEstimate": 20083
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -22935,7 +22940,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20082
+      "UsersEstimate": 20083
     },
     {
       "ID": "ACH_SCRATCH",
@@ -22943,7 +22948,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62758
+      "UsersEstimate": 62759
     },
     {
       "ID": "ACH_SOREAD",
@@ -23015,7 +23020,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20082
+      "UsersEstimate": 20083
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -23038,7 +23043,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251030,
+      "Progressed": 251035,
       "Completed": 7
     }
   ],
@@ -23046,8 +23051,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:04:15.5750996+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:04:29.0086435+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:34.9146186+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:01:03.170876+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:04:15.5752964+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:01:23.0498547+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:04:29.0087823+00:00"
 }

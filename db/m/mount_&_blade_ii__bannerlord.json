@@ -5,7 +5,7 @@
   "Ranking_Rating": 154,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
-  "Ranking_EOS_Progress": 102,
+  "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 128,
@@ -8386,10 +8386,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15117,
       "NumberOfAwardsMax": 7320
+    },
+    {
+      "Time": "2023-11-04T11:00:05.8714154+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15118,
+      "NumberOfAwardsMax": 7320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15117,
+  "NumberOfAwards": 15118,
   "NumberOfAwardsMax": 7320,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8451,7 +8457,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 845
+      "Count": 846
     },
     {
       "Text": "This game has a Creative Community",
@@ -8466,9 +8472,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64450,
+  "EOS_Progressed": 64454,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 404,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29331,6 +29337,11 @@
       "Time": "2023-11-04T10:09:08.632819+00:00",
       "NumProgressed": 64450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T11:09:19.4806328+00:00",
+      "NumProgressed": 64454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29350,7 +29361,7 @@
       "Name": "Apple of my eye",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 10312
+      "UsersEstimate": 10313
     },
     {
       "ID": "Bannerlord",
@@ -29382,7 +29393,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5800
+      "UsersEstimate": 5801
     },
     {
       "ID": "Catch",
@@ -29398,7 +29409,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "Crackshot",
@@ -29414,7 +29425,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "Duelist",
@@ -29438,7 +29449,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Explorer",
@@ -29470,7 +29481,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "Great Granny",
@@ -29510,7 +29521,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 10312
+      "UsersEstimate": 10313
     },
     {
       "ID": "I spit on your grave",
@@ -29534,7 +29545,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10956
+      "UsersEstimate": 10957
     },
     {
       "ID": "Kingslayer",
@@ -29566,7 +29577,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21268
+      "UsersEstimate": 21270
     },
     {
       "ID": "Lawbringer",
@@ -29574,7 +29585,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25136
+      "UsersEstimate": 25137
     },
     {
       "ID": "Lawmaker",
@@ -29622,7 +29633,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3222
+      "UsersEstimate": 3223
     },
     {
       "ID": "Real Estate",
@@ -29678,7 +29689,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "Swordbearer",
@@ -29702,7 +29713,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8378
+      "UsersEstimate": 8379
     },
     {
       "ID": "This is Sparta",
@@ -29749,15 +29760,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64450,
+      "Progressed": 64454,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-04T08:59:37.1361974+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:09:08.6328184+00:00",
+  "LastChanged": "2023-11-04T11:00:05.8714153+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:09:19.4806324+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:59:52.168066+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:09:08.6330024+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:00:05.8714158+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:09:19.4807601+00:00"
 }

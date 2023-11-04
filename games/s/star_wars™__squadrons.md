@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 94.00% | ~15,714 |
-| A Better Idea | 25.00% | ~4,179 |
-| Safety in the Storm | 24.00% | ~4,012 |
-| Begin the Ceremony | 21.00% | ~3,511 |
-| Mission Accomplished | 19.00% | ~3,176 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,508 |
-| A Starfighter of Your Own | 14.00% | ~2,340 |
-| Asset Secured | 13.00% | ~2,173 |
-| Unkillable | 8.00% | ~1,337 |
-| Together, Vanguard | 7.00% | ~1,170 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~1,003 |
-| Sound Strategy | 6.00% | ~1,003 |
-| Stomped | 6.00% | ~1,003 |
+| Fracture at Fostar Haven | 94.00% | ~15,726 |
+| A Better Idea | 25.00% | ~4,182 |
+| Safety in the Storm | 24.00% | ~4,015 |
+| Begin the Ceremony | 21.00% | ~3,513 |
+| Mission Accomplished | 19.00% | ~3,179 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,510 |
+| A Starfighter of Your Own | 14.00% | ~2,342 |
+| Asset Secured | 13.00% | ~2,175 |
+| Unkillable | 8.00% | ~1,338 |
+| Together, Vanguard | 7.00% | ~1,171 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~1,004 |
+| Sound Strategy | 6.00% | ~1,004 |
+| Stomped | 6.00% | ~1,004 |
 | Fearless | 5.00% | ~836 |
 | Flames Over Mon Cala | 5.00% | ~836 |
 | A Promising Career | 5.00% | ~836 |
@@ -28,10 +28,10 @@
 | Squadron Hunter | 3.00% | ~502 |
 | Punch It | 3.00% | ~502 |
 | Combat Pilot | 3.00% | ~502 |
-| Stun 'Em | 2.00% | ~334 |
-| Dressed for the Job You Want | 2.00% | ~334 |
+| Stun 'Em | 2.00% | ~335 |
+| Dressed for the Job You Want | 2.00% | ~335 |
 | I Have You Now | 1.00% | ~167 |
-| Against the Current | 0.90% | ~150 |
+| Against the Current | 0.90% | ~151 |
 | Denied | 0.80% | ~134 |
 | Found Your Place | 0.70% | ~117 |
 | Unstoppable Ace | 0.60% | ~100 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~17 |
 | The Galaxy's Finest (Ace) | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,717 (Ranked 140)  
+Progressed: 16,730 (Ranked 140)  
 Completed: 1 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.01%) (Ranked 319)
 | 2023-11-01 | 15,985 | 1 |
 | 2023-11-02 | 16,249 | 1 |
 | 2023-11-03 | 16,579 | 1 |
-| 2023-11-04 | 16,717 | 1 |
+| 2023-11-04 | 16,730 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

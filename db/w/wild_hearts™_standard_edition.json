@@ -1390,9 +1390,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_7",
@@ -1428,8 +1428,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:05:57.2404216+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:06:22.7969516+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:28.6255285+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:59:21.2322578+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:05:57.2404759+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:59:31.7061671+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:06:22.7969904+00:00"
 }

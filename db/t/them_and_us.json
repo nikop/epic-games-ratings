@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -1588,9 +1588,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "ETUA_Trapped",
@@ -1629,8 +1629,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:08:37.0082191+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:08:43.569322+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:31.0425293+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:59:21.8514994+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:08:37.0082611+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:59:32.3707562+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:08:43.5693532+00:00"
 }

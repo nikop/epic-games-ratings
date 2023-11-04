@@ -5,16 +5,16 @@ Rating: 3.98 (Ranked 995)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~127 |
+| Unforeseen | 89.00% | ~128 |
 | Battlefields Have Memories | 85.00% | ~122 |
 | Enlisted | 83.00% | ~120 |
 | Maybe Engage a Little | 79.00% | ~114 |
 | No More Names | 65.00% | ~94 |
 | Initiate | 58.00% | ~84 |
 | Thrada-Kul | 53.00% | ~76 |
-| Gravity-Challenged Rocks | 40.00% | ~58 |
+| Gravity-Challenged Rocks | 42.00% | ~60 |
+| Soldier | 35.00% | ~50 |
 | All the Major Food Groups | 35.00% | ~50 |
-| Soldier | 34.00% | ~49 |
 | Beggars Would Ride | 31.00% | ~45 |
 | Control is an Illusion | 30.00% | ~43 |
 | Socialite | 28.00% | ~40 |
@@ -24,11 +24,11 @@ Rating: 3.98 (Ranked 995)
 | Periapt Alizarin | 20.00% | ~29 |
 | Geas Aristeya | 18.00% | ~26 |
 | Armsman | 17.00% | ~24 |
-| A Perfect Cycle | 15.00% | ~22 |
-| Recruit | 14.00% | ~20 |
+| A Perfect Cycle | 16.00% | ~23 |
+| Recruit | 15.00% | ~22 |
 | Good Boy | 11.00% | ~16 |
+| Lights Army | 10.00% | ~14 |
 | Periapt Cerulean | 10.00% | ~14 |
-| Lights Army | 9.00% | ~13 |
 | Periapt Viridian | 8.00% | ~12 |
 | Shroudfane Explorer | 8.00% | ~12 |
 | Best Dressed | 7.00% | ~10 |

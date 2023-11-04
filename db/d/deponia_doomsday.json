@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -545,6 +545,11 @@
       "Time": "2023-11-03T20:09:14.5888175+00:00",
       "NumProgressed": 450,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-04T11:09:43.5657265+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -572,7 +577,7 @@
       "Name": "Distraction",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "dep4_achievement_12",
@@ -612,7 +617,7 @@
       "Name": "Brainfreeze",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "dep4_achievement_17",
@@ -620,7 +625,7 @@
       "Name": "1001 Jackalopes",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "dep4_achievement_18",
@@ -644,7 +649,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "dep4_achievement_20",
@@ -676,7 +681,7 @@
       "Name": "Every man for himself!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "dep4_achievement_24",
@@ -700,7 +705,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "dep4_achievement_27",
@@ -716,7 +721,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "dep4_achievement_29",
@@ -732,15 +737,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 167
     },
     {
       "ID": "dep4_achievement_31",
@@ -796,7 +801,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "dep4_achievement_5",
@@ -804,7 +809,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "dep4_achievement_6",
@@ -843,7 +848,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 6
     }
   ],
@@ -851,8 +856,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:09:29.8540347+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:09:43.565726+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:54.725617+00:00",
-  "LastUpdate_Ratings": "2023-11-04T09:58:43.0053697+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:09:29.8540682+00:00"
+  "LastUpdate_Ratings": "2023-11-04T10:58:49.0462572+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:09:43.5657513+00:00"
 }

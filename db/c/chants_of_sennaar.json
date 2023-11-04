@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.68,
+  "EOS_Completed_Percentage": 5.67,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1820,6 +1820,11 @@
       "Time": "2023-11-04T10:07:21.9768092+00:00",
       "NumProgressed": 405,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-04T11:08:27.8856764+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 25,
@@ -1887,7 +1892,7 @@
       "Name": "Free at last",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1917,9 +1922,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1965,9 +1970,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -1975,7 +1980,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -1989,9 +1994,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "PROGRESS_N2",
@@ -2005,17 +2010,17 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 77
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "PROGRESS_N5",
@@ -2030,14 +2035,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:07:21.9768087+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:08:27.8856759+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:00:46.6962386+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:07:21.976844+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:01:06.1561768+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:08:27.8856997+00:00"
 }

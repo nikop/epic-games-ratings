@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 42,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2597,
-  "EOS_Completed": 234,
+  "EOS_Completed": 235,
   "EOS_NewPlayers": 25,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 9.01,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 9.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6961,6 +6961,11 @@
       "Time": "2023-11-03T23:08:54.1011996+00:00",
       "NumProgressed": 2597,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-11-04T11:09:33.2869074+00:00",
+      "NumProgressed": 2597,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 12,
@@ -6978,9 +6983,9 @@
       "ID": "Bernard",
       "SetID": "b40dflc",
       "Name": "Bernard",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 338
     },
     {
       "ID": "Building the Fox",
@@ -7068,15 +7073,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 2597,
-      "Completed": 234
+      "Completed": 235
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:09:21.081859+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:09:33.2869067+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2761666+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:00:34.8951146+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:09:21.0819196+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:00:53.0412301+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:09:33.2869483+00:00"
 }

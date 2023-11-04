@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4626,
+  "EOS_Progressed": 4628,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8629,6 +8629,11 @@
       "Time": "2023-11-04T09:09:26.3117048+00:00",
       "NumProgressed": 4626,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T11:09:50.4880452+00:00",
+      "NumProgressed": 4628,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8689,7 +8694,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8729,7 +8734,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -8737,7 +8742,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8761,7 +8766,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -8824,15 +8829,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4626,
+      "Progressed": 4628,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:09:36.2020725+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:09:50.4880446+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:00:35.8846527+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:09:36.2021459+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:00:54.2180948+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:09:50.488095+00:00"
 }

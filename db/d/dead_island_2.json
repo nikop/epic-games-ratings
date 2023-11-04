@@ -6093,9 +6093,9 @@
       "Count": 424
     }
   ],
-  "EOS_Progressed": 712027,
+  "EOS_Progressed": 712052,
   "EOS_Completed": 2317,
-  "EOS_NewPlayers": 5996,
+  "EOS_NewPlayers": 5962,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28643,6 +28643,11 @@
       "Time": "2023-11-04T10:04:45.926768+00:00",
       "NumProgressed": 712027,
       "NumCompleted": 2317
+    },
+    {
+      "Time": "2023-11-04T11:05:02.5887707+00:00",
+      "NumProgressed": 712052,
+      "NumCompleted": 2317
     }
   ],
   "TotalAchievements": 51,
@@ -29012,9 +29017,9 @@
       "ID": "ach_brink_of_success",
       "SetID": "344c43k",
       "Name": "One of Us",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 150
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_dark_magic",
@@ -29061,13 +29066,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712027,
+      "Progressed": 712052,
       "Completed": 2317
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 37569,
+      "Progressed": 37594,
       "Completed": 36406
     }
   ],
@@ -29075,8 +29080,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-04T08:00:13.0546648+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:04:45.9267671+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:05:02.5887701+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:00:42.1351607+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:04:45.9269663+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:01:01.0489488+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:05:02.5889085+00:00"
 }

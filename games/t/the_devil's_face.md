@@ -13,7 +13,7 @@
 | Unveiling the Magnitude of Sin | 12.00% | ~65 |
 | The court | 9.00% | ~49 |
 | Holy Nails | 8.00% | ~44 |
-| The crucifixion | 6.00% | ~33 |
+| The crucifixion | 7.00% | ~38 |
 | Flagellation | 6.00% | ~33 |
 | The choice | 4.00% | ~22 |
 | Hubris | 3.00% | ~16 |

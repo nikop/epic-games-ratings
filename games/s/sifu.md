@@ -26,12 +26,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 0.40% | ~2,865 |
 | Martial Hub | 0.40% | ~102 |
 | Fight the way you practice | 0.40% | ~102 |
-| Scareless | 0.30% | ~2,148 |
-| Qi Gong: Mind | 0.30% | ~2,148 |
-| I know Kung-Fu | 0.30% | ~2,148 |
-| Old Child | 0.30% | ~2,148 |
-| Kung-Fu Tussle | 0.30% | ~2,148 |
-| Take damage to save time | 0.30% | ~2,148 |
+| Scareless | 0.30% | ~2,149 |
+| Qi Gong: Mind | 0.30% | ~2,149 |
+| I know Kung-Fu | 0.30% | ~2,149 |
+| Old Child | 0.30% | ~2,149 |
+| Kung-Fu Tussle | 0.30% | ~2,149 |
+| Take damage to save time | 0.30% | ~2,149 |
 | Bloody Sport | 0.30% | ~76 |
 | Muk Yan Master | 0.20% | ~1,432 |
 | Tiger on Fire | 0.20% | ~1,432 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,165 (Ranked 20)  
+Progressed: 716,168 (Ranked 20)  
 Completed: 12,931 (1.81%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 12,931 (1.81%) (Ranked 123)
 | 2023-11-01 | 716,098 | 12,928 |
 | 2023-11-02 | 716,120 | 12,930 |
 | 2023-11-03 | 716,149 | 12,930 |
-| 2023-11-04 | 716,165 | 12,931 |
+| 2023-11-04 | 716,168 | 12,931 |
 ## Awards
 Max (Great Boss Battles): 6,756  (Ranked 56)  
-Sum: 11,790 (Ranked 82)  
+Sum: 11,791 (Ranked 82)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -276,8 +276,8 @@ Diff (max vs sum): -26
 | This game has Diverse Characters | 643 |
 | This game has Challenging Combat | 598 |
 | This game has Amazing Storytelling | 579 |
+| This game has Quickly Understood Controls | 567 |
 | This game has Amazing Characters | 567 |
-| This game has Quickly Understood Controls | 566 |
 | This game is Extremely Fun | 563 |
 | This game is Highly Recommended | 561 |
 | This game has Unique Visuals | 539 |
@@ -578,4 +578,4 @@ Diff (max vs sum): -26
 | 2023-11-01 | 4.82 | - | 6,747 | 11,769 |
 | 2023-11-02 | 4.82 | - | 6,753 | 11,780 |
 | 2023-11-03 | 4.82 | - | 6,756 | 11,786 |
-| 2023-11-04 | 4.82 | - | 6,756 | 11,790 |
+| 2023-11-04 | 4.82 | - | 6,756 | 11,791 |

@@ -7375,10 +7375,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11790,
       "NumberOfAwardsMax": 6756
+    },
+    {
+      "Time": "2023-11-04T11:00:52.0758852+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11791,
+      "NumberOfAwardsMax": 6756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11790,
+  "NumberOfAwards": 11791,
   "NumberOfAwardsMax": 6756,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7398,7 +7404,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 566
+      "Count": 567
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7455,9 +7461,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 716165,
+  "EOS_Progressed": 716168,
   "EOS_Completed": 12931,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24825,6 +24831,11 @@
       "Time": "2023-11-04T09:06:08.2025535+00:00",
       "NumProgressed": 716165,
       "NumCompleted": 12931
+    },
+    {
+      "Time": "2023-11-04T11:06:47.2396207+00:00",
+      "NumProgressed": 716168,
+      "NumCompleted": 12931
     }
   ],
   "TotalAchievements": 60,
@@ -24924,7 +24935,7 @@
       "Name": "Scareless",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "13_LowAge",
@@ -25028,7 +25039,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "26_ShrineSpirit",
@@ -25068,7 +25079,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "31_ComboHigh",
@@ -25084,7 +25095,7 @@
       "Name": "Old Child",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "33_BladeOneShot",
@@ -25108,7 +25119,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -25148,7 +25159,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -25315,21 +25326,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25466,
+      "Progressed": 25469,
       "Completed": 10730
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716165,
+      "Progressed": 716168,
       "Completed": 12931
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-11-04T01:42:12.3726314+00:00",
-  "LastChanged_Achievements": "2023-11-04T10:06:18.9372535+00:00",
+  "LastChanged": "2023-11-04T11:00:52.0758851+00:00",
+  "LastChanged_Achievements": "2023-11-04T11:06:47.2396202+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:06.2233354+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:00:34.0277893+00:00",
-  "LastUpdate_Achievements": "2023-11-04T10:06:18.937428+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:00:52.0758856+00:00",
+  "LastUpdate_Achievements": "2023-11-04T11:06:47.2397435+00:00"
 }
