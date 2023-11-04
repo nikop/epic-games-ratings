@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 184,
@@ -8792,9 +8792,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1110
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8816,8 +8816,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:09:47.487195+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:09:34.2984454+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:00:58.0233473+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:09:47.4872461+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:59:34.050036+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:09:34.2985007+00:00"
 }

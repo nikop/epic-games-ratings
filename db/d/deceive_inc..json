@@ -283,7 +283,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18769,
+  "EOS_Progressed": 18770,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -12598,6 +12598,11 @@
       "Time": "2023-11-03T21:05:12.3408587+00:00",
       "NumProgressed": 18769,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T04:04:33.913827+00:00",
+      "NumProgressed": 18770,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12665,7 +12670,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "0009",
@@ -12801,7 +12806,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "0026",
@@ -12841,7 +12846,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "0031",
@@ -12896,7 +12901,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18769,
+      "Progressed": 18770,
       "Completed": 4
     }
   ],
@@ -12904,8 +12909,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:05:17.2686274+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:04:33.9138266+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:58:03.3708391+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:05:17.268707+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:57:39.1855499+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:04:33.9139238+00:00"
 }

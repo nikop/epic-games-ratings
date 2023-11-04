@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3971,9 +3971,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75884,
+  "EOS_Progressed": 75885,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21351,6 +21351,11 @@
       "Time": "2023-11-04T03:05:09.8143026+00:00",
       "NumProgressed": 75884,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-04T04:04:28.6952762+00:00",
+      "NumProgressed": 75885,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21410,7 +21415,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17453
+      "UsersEstimate": 17454
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -21666,7 +21671,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26559
+      "UsersEstimate": 26560
     },
     {
       "ID": "HARLEY_2",
@@ -21690,7 +21695,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12141
+      "UsersEstimate": 12142
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -21770,7 +21775,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16694
+      "UsersEstimate": 16695
     },
     {
       "ID": "MYSTERY_04",
@@ -21849,13 +21854,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75884,
+      "Progressed": 75885,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46164,
+      "Progressed": 46165,
       "Completed": 2673
     }
   ],
@@ -21863,8 +21868,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-04T01:42:48.2746562+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:05:09.8143022+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:04:28.6952755+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:42.5593935+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:01:38.7157064+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:05:09.8144348+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:00:00.6165233+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:04:28.6954132+00:00"
 }

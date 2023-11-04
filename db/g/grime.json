@@ -1295,10 +1295,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-04T03:58:34.9086304+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343,
+  "NumberOfAwards": 344,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1348,7 +1354,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1357,9 +1363,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156387,
+  "EOS_Progressed": 156395,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1359,
+  "EOS_NewPlayers": 1354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14272,6 +14278,11 @@
       "Time": "2023-11-04T03:07:59.141525+00:00",
       "NumProgressed": 156387,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T04:08:18.4712206+00:00",
+      "NumProgressed": 156395,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14347,7 +14358,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14427,7 +14438,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -14435,7 +14446,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -14465,9 +14476,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1408
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -14499,7 +14510,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6256
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14650,21 +14661,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 155970,
+      "Progressed": 155978,
       "Completed": 1188
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156387,
+      "Progressed": 156395,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-03T07:02:00.5334568+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:07:59.1415245+00:00",
+  "LastChanged": "2023-11-04T03:58:34.9086303+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:08:18.4712199+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:15.2136625+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:59:27.4902197+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:07:59.1416159+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:58:34.9086311+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:08:18.4713324+00:00"
 }

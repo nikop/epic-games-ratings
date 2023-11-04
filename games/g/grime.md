@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,255 |
-| Imprint | 4.00% | ~6,255 |
+| Taste | 4.00% | ~6,256 |
+| Imprint | 4.00% | ~6,256 |
 | The Hunt | 3.00% | ~4,692 |
 | Ravenous | 3.00% | ~4,692 |
 | Weeper | 2.00% | ~3,128 |
@@ -18,11 +18,11 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,564 |
 | Sharpened Vessel | 1.00% | ~1,564 |
 | Scion | 0.90% | ~1,404 |
-| Jawcrab | 0.90% | ~1,407 |
-| Jawstag | 0.90% | ~1,407 |
+| Jawcrab | 0.90% | ~1,408 |
+| Jawstag | 0.90% | ~1,408 |
+| Watcher | 0.90% | ~1,408 |
 | Shapely | 0.80% | ~1,251 |
 | Glare | 0.80% | ~1,248 |
-| Watcher | 0.80% | ~1,251 |
 | Predator | 0.70% | ~1,095 |
 | Assimilation | 0.60% | ~938 |
 | Host | 0.60% | ~936 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,387 (Ranked 75)  
+Progressed: 156,395 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 155,975 | 1 |
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
-| 2023-11-04 | 156,387 | 1 |
+| 2023-11-04 | 156,395 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 424)  
-Sum: 343 (Ranked 349)  
+Sum: 344 (Ranked 349)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): 75
 | This game has Quickly Understood Controls | 47 |
 | This game has Challenging Combat | 43 |
 | This game is Extremely Fun | 43 |
-| This game has Amazing Storytelling | 42 |
+| This game has Amazing Storytelling | 43 |
 | This game has Amazing Characters | 37 |
 | This game has a Creative Community | 33 |
 | This game has Diverse Characters | 20 |
@@ -378,3 +378,4 @@ Diff (max vs sum): 75
 | 2023-11-01 | 4.59 | - | 50 | 339 |
 | 2023-11-02 | 4.58 | - | 50 | 342 |
 | 2023-11-03 | 4.58 | - | 50 | 343 |
+| 2023-11-04 | 4.58 | - | 50 | 344 |

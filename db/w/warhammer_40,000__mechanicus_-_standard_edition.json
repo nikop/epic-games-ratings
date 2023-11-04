@@ -864,9 +864,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 226353,
+  "EOS_Progressed": 226355,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22484,6 +22484,11 @@
       "Time": "2023-11-04T03:09:26.9458591+00:00",
       "NumProgressed": 226353,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T04:09:19.6430493+00:00",
+      "NumProgressed": 226355,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22543,7 +22548,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 22635
+      "UsersEstimate": 22636
     },
     {
       "ID": "ACH_BASE_17",
@@ -22743,7 +22748,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27162
+      "UsersEstimate": 27163
     },
     {
       "ID": "ACH_BASE_8",
@@ -22766,7 +22771,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226353,
+      "Progressed": 226355,
       "Completed": 5
     }
   ],
@@ -22774,8 +22779,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-03T14:03:13.4438355+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:09:26.9458586+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:09:19.6430488+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:35.8068195+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:02:48.0408635+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:09:26.9459731+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:02:49.9622509+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:09:19.6431998+00:00"
 }

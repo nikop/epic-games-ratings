@@ -609,9 +609,9 @@
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -641,9 +641,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -681,17 +681,17 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 110,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -712,8 +712,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:09:24.4800556+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:09:17.8998431+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:58:21.040466+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:09:24.4800691+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:57:50.6293961+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:09:17.8998581+00:00"
 }

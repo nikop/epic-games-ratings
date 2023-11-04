@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1974,
+  "EOS_Progressed": 1975,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4262,6 +4262,11 @@
       "Time": "2023-11-04T01:51:37.2265846+00:00",
       "NumProgressed": 1974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T04:09:36.0888941+00:00",
+      "NumProgressed": 1975,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4322,7 +4327,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -4418,7 +4423,7 @@
       "Name": "Back in Blighty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -4450,7 +4455,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4458,7 +4463,7 @@
       "Name": "Still Here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -4482,7 +4487,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4594,7 +4599,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -4618,7 +4623,7 @@
       "Name": "Overtaking the Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -4626,7 +4631,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4665,14 +4670,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1974,
+      "Progressed": 1975,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:09:50.1412898+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:09:36.0888936+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:59:40.3852774+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:09:50.1413766+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:58:43.3748437+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:09:36.0889532+00:00"
 }

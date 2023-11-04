@@ -1,22 +1,22 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 534)  
+Rating: 4.53 (Ranked 535)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,729 |
-| Worth it | 63.00% | ~39,358 |
-| Eagle Eye | 55.00% | ~34,360 |
-| Corpseman I | 40.00% | ~24,989 |
-| Blast fishing | 37.00% | ~23,115 |
-| Not alone | 32.00% | ~19,991 |
-| Headhunter I | 26.00% | ~16,243 |
-| Manual Labour I | 25.00% | ~15,618 |
+| Setting an example | 78.00% | ~48,731 |
+| Worth it | 63.00% | ~39,360 |
+| Eagle Eye | 55.00% | ~34,362 |
+| Corpseman I | 40.00% | ~24,990 |
+| Blast fishing | 37.00% | ~23,116 |
+| Not alone | 32.00% | ~19,992 |
+| Headhunter I | 26.00% | ~16,244 |
+| Manual Labour I | 25.00% | ~15,619 |
 | Developers, Developers, Developers | 24.00% | ~14,994 |
 | Basic Training | 24.00% | ~14,994 |
-| Furchtlos und Treu | 13.00% | ~8,121 |
+| Furchtlos und Treu | 13.00% | ~8,122 |
 | Gott Mit Uns | 12.00% | ~7,497 |
 | This We'll Defend! | 9.00% | ~5,623 |
 | Anker wirf! | 9.00% | ~5,623 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,874 |
 | Silver x100 | 3.00% | ~1,874 |
 | Impavidum Ferient Bella! | 3.00% | ~1,874 |
-| Bronze x100 | 2.00% | ~1,249 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,249 |
+| Bronze x100 | 2.00% | ~1,250 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,250 |
 | Gold x100 | 1.00% | ~625 |
 | Hunting the Hun | 1.00% | ~625 |
 | #1 | 1.00% | ~625 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~62 |
 | Blood Brother | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,473 (Ranked 104)  
+Progressed: 62,476 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 4 (0.01%) (Ranked 319)
 | 2023-11-01 | 62,294 | 4 |
 | 2023-11-02 | 62,371 | 4 |
 | 2023-11-03 | 62,462 | 4 |
-| 2023-11-04 | 62,473 | 4 |
+| 2023-11-04 | 62,476 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 349)  
 Sum: 902 (Ranked 269)  

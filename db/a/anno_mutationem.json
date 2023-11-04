@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -562,6 +562,11 @@
       "Time": "2023-11-01T20:07:27.576818+00:00",
       "NumProgressed": 679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T04:03:51.1418216+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -667,9 +672,9 @@
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 177
     },
     {
       "ID": "In the smacker...I think",
@@ -741,7 +746,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -749,7 +754,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "The Traveler",
@@ -773,7 +778,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "The_Warlord",
@@ -837,7 +842,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "posters",
@@ -860,7 +865,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 0
     }
   ],
@@ -868,8 +873,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:04:16.1770444+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:03:51.1418211+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:12.9598658+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:00:42.9397059+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:04:16.1770686+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:59:24.1756442+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:03:51.1418472+00:00"
 }

@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~151 |
 | Points Victory | 1.00% | ~151 |
 | Win a Single Player Game | 1.00% | ~151 |
+| The Clergy | 1.00% | ~151 |
 | Kushite Pyramids | 1.00% | ~151 |
 | Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | Phalangite | 0.90% | ~136 |
-| The Clergy | 0.90% | ~136 |
 | Capable | 0.80% | ~121 |
 | Strong Difficulty | 0.80% | ~121 |
 | Hunters | 0.80% | ~121 |
@@ -179,6 +179,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
 | Five Routs | 0.20% | ~30 |
+| The Turning Point | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |
 | Like a Lion | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
@@ -234,7 +235,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Defend Where? | 0.10% | ~15 |
 | Get the Hellas Out | 0.10% | ~15 |
 | Not a Chance | 0.10% | ~15 |
-| The Turning Point | 0.10% | ~15 |
 | Still Fighting | 0.10% | ~15 |
 | They Shall Not Pass | 0.10% | ~15 |
 | THIS IS SPARTA!! | 0.10% | ~15 |

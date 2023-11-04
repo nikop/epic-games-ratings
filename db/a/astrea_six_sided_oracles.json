@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1066,9 +1066,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "EridanianHero",
@@ -1145,8 +1145,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:03:45.863316+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:03:29.8333842+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.6564177+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:59:17.2974049+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:03:45.8634047+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:58:27.8980167+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:03:29.8334863+00:00"
 }

@@ -16332,9 +16332,9 @@
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_WIN",
       "SetID": "9201eeb",
       "Name": "The Turning Point",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
@@ -17604,9 +17604,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -18074,8 +18074,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:05:08.3502603+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:04:27.8908258+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:33.1781369+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:00:14.6531785+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:05:08.3512615+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:59:05.6374511+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:04:27.8919144+00:00"
 }

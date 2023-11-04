@@ -14,7 +14,7 @@ Number of Ratings: 368  (23.09.2022)
 | End of Book One | 30.00% | ~4,845 |
 | Garden of Eden | 24.00% | ~3,876 |
 | Full house | 24.00% | ~3,876 |
-| Wannabe knight | 23.00% | ~3,714 |
+| Wannabe knight | 23.00% | ~3,715 |
 | Help an old friend | 21.00% | ~3,392 |
 | Two of us | 20.00% | ~3,230 |
 | Negotiation skills | 18.00% | ~2,907 |
@@ -25,8 +25,8 @@ Number of Ratings: 368  (23.09.2022)
 | Jack was here! | 14.00% | ~2,261 |
 | Exterminator | 13.00% | ~2,100 |
 | Whodunnit | 12.00% | ~1,938 |
-| Good midwife | 11.00% | ~1,776 |
-| First profit | 11.00% | ~1,776 |
+| Good midwife | 11.00% | ~1,777 |
+| First profit | 11.00% | ~1,777 |
 | Friar Tuck | 10.00% | ~1,615 |
 | Team player | 10.00% | ~1,615 |
 | Skilled merchant | 9.00% | ~1,454 |
@@ -36,7 +36,7 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,454 |
 | The End. | 9.00% | ~1,454 |
 | A cry for help | 8.00% | ~1,292 |
-| Silentium est aureum | 7.00% | ~1,130 |
+| Silentium est aureum | 7.00% | ~1,131 |
 | Rebel without a cause | 6.00% | ~969 |
 | Staring contest champion | 5.00% | ~808 |
 | Lone wolf | 5.00% | ~808 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~646 |
 | Self-defense | 4.00% | ~646 |
 | Countess Aliena | 4.00% | ~646 |
-| Care, like a brother cares | 3.00% | ~484 |
-| A brush with death | 3.00% | ~484 |
+| Care, like a brother cares | 3.00% | ~485 |
+| A brush with death | 3.00% | ~485 |
 | Boy of mystery | 2.00% | ~323 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,150 (Ranked 142)  
+Progressed: 16,151 (Ranked 142)  
 Completed: 114 (0.71%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 114 (0.71%) (Ranked 171)
 | 2023-11-01 | 16,104 | 114 |
 | 2023-11-02 | 16,125 | 114 |
 | 2023-11-03 | 16,148 | 114 |
-| 2023-11-04 | 16,150 | 114 |
+| 2023-11-04 | 16,151 | 114 |
 ## Awards
 Max (Easy Puzzles): 154  (Ranked 310)  
 Sum: 197 (Ranked 397)  

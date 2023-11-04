@@ -19,7 +19,7 @@
 | Essence Blow | 10.00% | ~10 |
 | Airborne | 8.00% | ~8 |
 | Tributes of Caladrias | 8.00% | ~8 |
-| Stone Collection | 7.00% | ~7 |
+| Stone Collection | 8.00% | ~8 |
 | Calm before the Storm | 5.00% | ~5 |
 | Miner | 5.00% | ~5 |
 | To Battle | 4.00% | ~4 |

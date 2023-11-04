@@ -4,7 +4,7 @@
   "ProductSlug": "assassin-the-first-list-f217dc",
   "Ranking_EOS_Progress": 720,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-05T07:03:47.7579095+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:04:46.5793095+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:04:12.121359+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:15.8667359+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:57:23.8658106+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:04:46.5793121+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:57:12.5504611+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:04:12.1213652+00:00"
 }

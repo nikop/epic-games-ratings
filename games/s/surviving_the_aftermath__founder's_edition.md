@@ -25,9 +25,9 @@ Number of Ratings: 836  (23.09.2022)
 | Cleaner | 28.00% | ~2,821 |
 | Finders, Keepers | 26.00% | ~2,620 |
 | Top Notch | 25.00% | ~2,519 |
+| Mentor | 24.00% | ~2,418 |
 | Great Leader | 23.00% | ~2,317 |
 | Ice Lakes | 23.00% | ~2,317 |
-| Mentor | 23.00% | ~2,317 |
 | Merchant | 22.00% | ~2,216 |
 | Real Survivor | 22.00% | ~2,216 |
 | Rocket Surgeon | 20.00% | ~2,015 |

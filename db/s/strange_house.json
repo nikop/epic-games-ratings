@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 602,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2023-11-03T16:06:01.1564997+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T04:04:32.6649991+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -78,7 +83,7 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -102,7 +107,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -111,13 +116,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:05:15.5915948+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:04:32.6649986+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:55.3377864+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:58:48.6704437+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:05:15.5916007+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:58:09.2076617+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:04:32.665005+00:00"
 }

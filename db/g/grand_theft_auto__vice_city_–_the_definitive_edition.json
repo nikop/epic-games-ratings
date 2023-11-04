@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 154,
@@ -799,7 +799,7 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 10807,
+  "EOS_Progressed": 10808,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 1,
@@ -12189,6 +12189,11 @@
       "Time": "2023-11-04T02:34:11.0436013+00:00",
       "NumProgressed": 10807,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-04T04:05:59.3649833+00:00",
+      "NumProgressed": 10808,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12272,7 +12277,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH11",
@@ -12360,7 +12365,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "ACH22",
@@ -12368,7 +12373,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "ACH23",
@@ -12416,7 +12421,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH29",
@@ -12471,7 +12476,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10807,
+      "Progressed": 10808,
       "Completed": 64
     }
   ],
@@ -12479,8 +12484,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-10-29T22:03:32.4204574+00:00",
-  "LastChanged_Achievements": "2023-11-04T03:07:17.4444937+00:00",
+  "LastChanged_Achievements": "2023-11-04T04:05:59.3649829+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:21.2524739+00:00",
-  "LastUpdate_Ratings": "2023-11-04T03:02:57.8483672+00:00",
-  "LastUpdate_Achievements": "2023-11-04T03:07:17.4445667+00:00"
+  "LastUpdate_Ratings": "2023-11-04T04:02:56.5974058+00:00",
+  "LastUpdate_Achievements": "2023-11-04T04:05:59.3650624+00:00"
 }

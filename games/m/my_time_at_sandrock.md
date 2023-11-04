@@ -6,56 +6,56 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 205.00% | ~351 |
-| Adept Assembler | 164.00% | ~280 |
-| Greeno-B-Gone | 102.00% | ~174 |
-| Your Especially Earned Trajectory | 78.00% | ~133 |
-| Can We Keep It? | 49.00% | ~84 |
-| No Mountain Wide Enough | 44.00% | ~75 |
-| My Time Mansion | 34.00% | ~58 |
-| On that Grindset | 32.00% | ~55 |
-| Happier-est Place on Earth | 26.00% | ~44 |
-| You Don't Win Friends With Salad | 26.00% | ~44 |
-| Call Me Fishmael | 26.00% | ~44 |
-| Yakmel Whisperer | 24.00% | ~41 |
-| Finishing Touches | 23.00% | ~39 |
-| Anti-Santa | 23.00% | ~39 |
-| Knowledge is Power | 19.00% | ~32 |
-| Officially Official | 19.00% | ~32 |
-| I Do! | 18.00% | ~31 |
-| Mole Masher | 18.00% | ~31 |
-| Jewel of the Eufaula | 16.00% | ~27 |
-| Better Late than Never | 14.00% | ~24 |
-| Pack Mule | 13.00% | ~22 |
-| Financially Secure | 13.00% | ~22 |
-| Diamonds are Forever | 13.00% | ~22 |
-| He Can Spin A Yarn... | 9.00% | ~15 |
-| First Love | 9.00% | ~15 |
-| Jack of All Trades | 8.00% | ~14 |
+| Iron Chef | 199.00% | ~350 |
+| Adept Assembler | 161.00% | ~283 |
+| Greeno-B-Gone | 99.00% | ~174 |
+| Your Especially Earned Trajectory | 76.00% | ~134 |
+| Can We Keep It? | 47.00% | ~83 |
+| No Mountain Wide Enough | 44.00% | ~77 |
+| My Time Mansion | 34.00% | ~60 |
+| On that Grindset | 32.00% | ~56 |
+| Happier-est Place on Earth | 25.00% | ~44 |
+| You Don't Win Friends With Salad | 25.00% | ~44 |
+| Call Me Fishmael | 25.00% | ~44 |
+| Finishing Touches | 23.00% | ~40 |
+| Anti-Santa | 23.00% | ~40 |
+| Yakmel Whisperer | 23.00% | ~40 |
+| Knowledge is Power | 19.00% | ~33 |
+| Mole Masher | 19.00% | ~33 |
+| Officially Official | 18.00% | ~32 |
+| I Do! | 18.00% | ~32 |
+| Better Late than Never | 15.00% | ~26 |
+| Jewel of the Eufaula | 15.00% | ~26 |
+| Pack Mule | 14.00% | ~25 |
+| Diamonds are Forever | 14.00% | ~25 |
+| Financially Secure | 13.00% | ~23 |
+| He Can Spin A Yarn... | 10.00% | ~18 |
+| First Love | 9.00% | ~16 |
 | Panda-kin | 8.00% | ~14 |
-| What Plants Crave | 8.00% | ~14 |
-| One of the Cool Kids | 8.00% | ~14 |
+| Jack of All Trades | 7.00% | ~12 |
+| What Plants Crave | 7.00% | ~12 |
 | Chatterbox | 7.00% | ~12 |
-| Got Served | 6.00% | ~10 |
-| Big Game Hunter | 5.00% | ~9 |
+| One of the Cool Kids | 7.00% | ~12 |
+| Big Game Hunter | 6.00% | ~11 |
+| Got Served | 6.00% | ~11 |
+| Unboxing | 6.00% | ~11 |
 | Cardistry | 5.00% | ~9 |
 | Pro Gamer | 5.00% | ~9 |
 | Santa In Training | 5.00% | ~9 |
-| Unboxing | 5.00% | ~9 |
 | Newton | 5.00% | ~9 |
 | Commissions, commissions...! | 4.00% | ~7 |
 | Kind of a Big Deal | 4.00% | ~7 |
-| Martle's Dream | 4.00% | ~7 |
-| Elementary, My Dear | 4.00% | ~7 |
-| Lifeline Pipeline | 4.00% | ~7 |
-| Just What I Always Wanted! | 4.00% | ~7 |
-| Do Your Part | 4.00% | ~7 |
 | Time Flies | 3.00% | ~5 |
+| Martle's Dream | 3.00% | ~5 |
+| Elementary, My Dear | 3.00% | ~5 |
+| Lifeline Pipeline | 3.00% | ~5 |
 | Who Ya Gonna Call...? | 3.00% | ~5 |
+| Just What I Always Wanted! | 3.00% | ~5 |
+| Do Your Part | 3.00% | ~5 |
 | Waste Not Want Not | 3.00% | ~5 |
-| Got the Flow Back | 2.00% | ~3 |
-| Got the Receipt? | 2.00% | ~3 |
-| It Belongs in a Museum! | 2.00% | ~3 |
+| Got the Flow Back | 2.00% | ~4 |
+| Got the Receipt? | 2.00% | ~4 |
+| It Belongs in a Museum! | 2.00% | ~4 |
 | Strong Arms | 1.00% | ~2 |
 | Bridging the Gap | 1.00% | ~2 |
 | Sandrock's Hottest Club | 1.00% | ~2 |
@@ -67,14 +67,14 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 370)  
+Progressed: 176 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-02 | 100 | 0 |
 | 2023-11-03 | 167 | 0 |
-| 2023-11-04 | 171 | 0 |
+| 2023-11-04 | 176 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,255 (Ranked 238)  

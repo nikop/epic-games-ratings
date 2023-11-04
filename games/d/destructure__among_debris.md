@@ -9,7 +9,7 @@
 | Rookie | 68.00% | ~118 |
 | Apprentice Destructor | 29.00% | ~50 |
 | I Prefer Jazz Fusion | 12.00% | ~21 |
-| Master Destructor | 11.00% | ~19 |
+| Master Destructor | 12.00% | ~21 |
 | Avaricerite | 9.00% | ~16 |
 | Ball Galore | 8.00% | ~14 |
 | Easy Victory | 7.00% | ~12 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 1.00% | ~2 |
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 367)  
+Progressed: 173 (Ranked 368)  
 Completed: 2 (1.16%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
