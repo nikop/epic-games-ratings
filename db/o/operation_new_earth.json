@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1760,
+  "EOS_Progressed": 1761,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6579,6 +6579,11 @@
       "Time": "2023-11-04T17:11:39.3712414+00:00",
       "NumProgressed": 1760,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T19:10:44.6793139+00:00",
+      "NumProgressed": 1761,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6596,9 +6601,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 123
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6893,7 +6898,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 1
     }
   ],
@@ -6901,8 +6906,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:08:37.7685967+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T18:00:04.0957182+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:59:05.3827229+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:08:37.768781+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:10:44.6793136+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:01:32.997983+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:10:44.6793674+00:00"
 }

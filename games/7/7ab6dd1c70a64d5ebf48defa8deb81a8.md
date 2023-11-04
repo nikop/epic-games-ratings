@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 49.00% | ~53 |
-| Trinity | 21.00% | ~23 |
+| Trinity | 23.00% | ~25 |
 | Find Allies | 19.00% | ~21 |
 | Fashion Victim | 19.00% | ~21 |
 | Scholar | 18.00% | ~20 |

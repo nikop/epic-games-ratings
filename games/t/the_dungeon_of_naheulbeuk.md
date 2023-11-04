@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~79,915 |
-| Where's that freaking Dwarf? | 7.00% | ~16,453 |
-| Alt+F4 | 7.00% | ~16,453 |
-| Déjà vu | 6.00% | ~14,103 |
-| A beer, two curses, three companions | 4.00% | ~9,402 |
-| Sock! SOCK! | 4.00% | ~9,402 |
-| GG EZ | 4.00% | ~9,402 |
-| Speedrun | 4.00% | ~9,402 |
-| Way of the Wimp | 3.00% | ~7,051 |
-| The plot thickens... At the tavern | 3.00% | ~7,051 |
-| DM intervention | 3.00% | ~7,051 |
-| Fireproof Wizardess | 3.00% | ~7,051 |
+| Sowwy! | 34.00% | ~79,922 |
+| Where's that freaking Dwarf? | 7.00% | ~16,454 |
+| Alt+F4 | 7.00% | ~16,454 |
+| Déjà vu | 6.00% | ~14,104 |
+| A beer, two curses, three companions | 4.00% | ~9,403 |
+| Sock! SOCK! | 4.00% | ~9,403 |
+| GG EZ | 4.00% | ~9,403 |
+| Speedrun | 4.00% | ~9,403 |
+| Way of the Wimp | 3.00% | ~7,052 |
+| The plot thickens... At the tavern | 3.00% | ~7,052 |
+| DM intervention | 3.00% | ~7,052 |
+| Fireproof Wizardess | 3.00% | ~7,052 |
 | Livin' in a dwarven paradise | 2.00% | ~4,701 |
 | Shiny and Crôm | 2.00% | ~4,701 |
 | The demons' feast | 2.00% | ~4,701 |
@@ -34,17 +34,17 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,701 |
 | Team Building Exercise | 2.00% | ~4,701 |
 | Oh, when I'll be level 10... | 2.00% | ~4,701 |
-| Res Judicata | 1.00% | ~2,350 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,350 |
-| Dwarf Fortress | 1.00% | ~2,350 |
-| %#*!$*! | 1.00% | ~2,350 |
-| Look but don't touch | 1.00% | ~2,350 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,350 |
-| Dead for good | 1.00% | ~2,350 |
-| Lust and Debauchery | 1.00% | ~2,350 |
-| Material Girl | 1.00% | ~2,350 |
-| Gargantua | 0.90% | ~2,115 |
-| In Navalu's footsteps | 0.80% | ~1,880 |
+| Res Judicata | 1.00% | ~2,351 |
+| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,351 |
+| Dwarf Fortress | 1.00% | ~2,351 |
+| %#*!$*! | 1.00% | ~2,351 |
+| Look but don't touch | 1.00% | ~2,351 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,351 |
+| Dead for good | 1.00% | ~2,351 |
+| Lust and Debauchery | 1.00% | ~2,351 |
+| Material Girl | 1.00% | ~2,351 |
+| Gargantua | 0.90% | ~2,116 |
+| In Navalu's footsteps | 0.80% | ~1,881 |
 | Lëgal Legend | 0.70% | ~1,645 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,410 |
 | We come in peace | 0.60% | ~1,410 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~235 |
 | Dwarf Candy | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,045 (Ranked 61)  
+Progressed: 235,064 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 7 (0.00%) (Ranked 342)
 | 2023-11-01 | 234,476 | 7 |
 | 2023-11-02 | 234,679 | 7 |
 | 2023-11-03 | 234,863 | 7 |
-| 2023-11-04 | 235,045 | 7 |
+| 2023-11-04 | 235,064 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 269)  
 Sum: 451 (Ranked 328)  

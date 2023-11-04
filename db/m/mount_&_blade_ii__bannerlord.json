@@ -8398,10 +8398,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15120,
       "NumberOfAwardsMax": 7320
+    },
+    {
+      "Time": "2023-11-04T19:02:25.8766961+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15122,
+      "NumberOfAwardsMax": 7320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15120,
+  "NumberOfAwards": 15122,
   "NumberOfAwardsMax": 7320,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8439,7 +8445,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 849
+      "Count": 851
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8478,7 +8484,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64486,
+  "EOS_Progressed": 64488,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
@@ -29383,6 +29389,11 @@
       "Time": "2023-11-04T18:09:12.1341302+00:00",
       "NumProgressed": 64486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T19:11:23.7233802+00:00",
+      "NumProgressed": 64488,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29394,7 +29405,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7738
+      "UsersEstimate": 7739
     },
     {
       "ID": "Apple of my eye",
@@ -29586,7 +29597,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11607
+      "UsersEstimate": 11608
     },
     {
       "ID": "Kingslayer",
@@ -29618,7 +29629,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21280
+      "UsersEstimate": 21281
     },
     {
       "ID": "Lawbringer",
@@ -29746,7 +29757,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12252
+      "UsersEstimate": 12253
     },
     {
       "ID": "This Is Our Land",
@@ -29786,7 +29797,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -29801,15 +29812,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64486,
+      "Progressed": 64488,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-04T11:59:49.2986115+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:12.1341296+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:57:29.1780505+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:59:51.8366756+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:12.1343018+00:00"
+  "LastChanged": "2023-11-04T19:02:25.8766959+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:11:23.7233798+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:02:25.8766964+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:23.7235316+00:00"
 }

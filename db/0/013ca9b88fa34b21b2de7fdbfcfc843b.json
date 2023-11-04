@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7528,
+  "EOS_Progressed": 7532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6099,6 +6099,11 @@
       "Time": "2023-11-04T18:09:16.7517431+00:00",
       "NumProgressed": 7528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T19:11:29.069572+00:00",
+      "NumProgressed": 7532,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6111,7 +6116,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5423
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6119,7 +6124,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5272
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6127,7 +6132,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2712
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6135,7 +6140,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2486
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6143,7 +6148,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6159,7 +6164,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -6183,7 +6188,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "COLLECT_FISH",
@@ -6199,7 +6204,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6207,7 +6212,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3239
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6215,7 +6220,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3691
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6247,7 +6252,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6263,7 +6268,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4517
+      "UsersEstimate": 4519
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6271,7 +6276,7 @@
       "Name": "Mist Walker",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6279,7 +6284,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -6287,7 +6292,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3465
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6311,7 +6316,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -6327,7 +6332,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -6390,22 +6395,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7528,
+      "Progressed": 7532,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 145,
-      "Completed": 145
+      "Progressed": 149,
+      "Completed": 149
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:16.7517424+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:11:29.0695714+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:03:09.4854912+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:16.7518518+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:05:19.9837104+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:29.0696196+00:00"
 }

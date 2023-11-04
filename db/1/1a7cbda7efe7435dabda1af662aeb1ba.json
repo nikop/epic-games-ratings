@@ -198,9 +198,9 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BOSS_KILL3",
@@ -214,9 +214,9 @@
       "ID": "BOSS_KILL4",
       "SetID": "1icc7kd",
       "Name": "Fence-Sitter",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_KILL5",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:09.3051097+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:11:20.5295537+00:00",
   "LastUpdate_AppInfo": "2023-11-01T06:57:11.9344243+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:59:09.0771876+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:09.3051357+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:01:36.9538286+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:20.5295705+00:00"
 }

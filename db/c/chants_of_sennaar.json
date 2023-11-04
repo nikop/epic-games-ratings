@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.91,
+  "EOS_Completed_Percentage": 5.9,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1860,6 +1860,11 @@
       "Time": "2023-11-04T18:08:35.8298779+00:00",
       "NumProgressed": 423,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-04T19:10:42.2264295+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 25,
@@ -1869,9 +1874,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "END_GOOD",
@@ -1895,7 +1900,7 @@
       "Name": "Cable guy",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1911,7 +1916,7 @@
       "Name": "Half the way",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1933,9 +1938,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1973,9 +1978,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1991,7 +1996,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2029,9 +2034,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "PROGRESS_N2",
@@ -2063,21 +2068,21 @@
       "Name": "One last step",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:08:35.8298768+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:58:16.3571388+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:36.0443985+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:08:35.8299281+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:10:42.2264293+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:03:16.2656005+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:10:42.2264493+00:00"
 }

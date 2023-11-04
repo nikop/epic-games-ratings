@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1421,7 +1421,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428814,
+  "EOS_Progressed": 428815,
   "EOS_Completed": 543,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -14421,6 +14421,11 @@
       "Time": "2023-11-04T17:13:11.6363568+00:00",
       "NumProgressed": 428814,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-11-04T19:11:42.9703091+00:00",
+      "NumProgressed": 428815,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 41,
@@ -14440,7 +14445,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167237
+      "UsersEstimate": 167238
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -14448,7 +14453,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257288
+      "UsersEstimate": 257289
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -14512,7 +14517,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257288
+      "UsersEstimate": 257289
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -14544,7 +14549,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132932
+      "UsersEstimate": 132933
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -14600,7 +14605,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407373
+      "UsersEstimate": 407374
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -14616,7 +14621,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308746
+      "UsersEstimate": 308747
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -14624,7 +14629,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158661
+      "UsersEstimate": 158662
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -14648,7 +14653,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343051
+      "UsersEstimate": 343052
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -14680,7 +14685,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197254
+      "UsersEstimate": 197255
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -14720,7 +14725,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188678
+      "UsersEstimate": 188679
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -14744,7 +14749,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132932
+      "UsersEstimate": 132933
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -14759,15 +14764,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428814,
+      "Progressed": 428815,
       "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-10-29T12:00:00.5518931+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:28.4756812+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:58:43.8781165+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:57:32.4521117+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:28.4757931+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:11:42.9703088+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:57:01.6484259+00:00",
+  "LastUpdate_Ratings": "2023-11-04T18:59:47.592141+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:42.970401+00:00"
 }

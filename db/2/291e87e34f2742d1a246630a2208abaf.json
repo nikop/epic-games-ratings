@@ -2,7 +2,7 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 721,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -425,6 +425,12 @@
       "Rating": 4.12,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-04T19:01:07.95783+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -443,8 +449,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2023-11-04T02:58:24.4711446+00:00",
+  "LastChanged": "2023-11-04T19:01:07.9578298+00:00",
   "LastUpdate_AppInfo": "2023-10-30T05:57:18.9766897+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:58:43.1444488+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:06:42.3700597+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:01:07.9578303+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:09:15.590398+00:00"
 }

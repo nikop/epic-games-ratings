@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4633,
+  "EOS_Progressed": 4635,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8644,6 +8644,11 @@
       "Time": "2023-11-04T16:10:05.9190392+00:00",
       "NumProgressed": 4633,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T19:11:50.8029403+00:00",
+      "NumProgressed": 4635,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8656,7 +8661,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8704,7 +8709,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8712,7 +8717,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8768,7 +8773,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8776,7 +8781,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -8839,15 +8844,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4633,
+      "Progressed": 4635,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:35.8961754+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:58:04.6427893+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:27.2824871+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:35.8962869+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:11:50.8029394+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:03:06.4045457+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:50.8029968+00:00"
 }

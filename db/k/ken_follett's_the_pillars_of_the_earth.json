@@ -552,7 +552,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16171,
+  "EOS_Progressed": 16172,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -13442,6 +13442,11 @@
       "Time": "2023-11-04T18:07:13.4868476+00:00",
       "NumProgressed": 16171,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-04T19:09:50.031944+00:00",
+      "NumProgressed": 16172,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13469,7 +13474,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "tpote_achievement_12",
@@ -13493,7 +13498,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "tpote_achievement_15",
@@ -13541,7 +13546,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "tpote_achievement_20",
@@ -13557,7 +13562,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4851
+      "UsersEstimate": 4852
     },
     {
       "ID": "tpote_achievement_22",
@@ -13717,7 +13722,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6468
+      "UsersEstimate": 6469
     },
     {
       "ID": "tpote_achievement_40",
@@ -13780,15 +13785,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16171,
+      "Progressed": 16172,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:07:13.4868471+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:59:44.9687655+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:58:16.0097133+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:07:13.4869614+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:09:50.0319436+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:00:37.2147288+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:09:50.0320712+00:00"
 }

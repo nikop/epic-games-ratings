@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_20",
@@ -1438,8 +1438,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:06:12.3270763+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:08:42.4289072+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:59:26.5384711+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:06:12.3272232+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:01:56.6032564+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:08:42.4289404+00:00"
 }

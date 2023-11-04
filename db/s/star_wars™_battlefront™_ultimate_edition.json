@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -2979,6 +2979,11 @@
       "Time": "2023-11-04T17:13:12.0150952+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T19:11:43.2428515+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3053,9 +3058,9 @@
       "ID": "achievement_17",
       "SetID": "271ol84",
       "Name": "\u0022Gonk? Gonk!\u0022",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_18",
@@ -3087,7 +3092,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_21",
@@ -3103,7 +3108,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_23",
@@ -3127,7 +3132,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_26",
@@ -3183,7 +3188,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_32",
@@ -3215,7 +3220,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 938
     },
     {
       "ID": "achievement_36",
@@ -3231,15 +3236,15 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_39",
@@ -3263,7 +3268,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "achievement_41",
@@ -3295,7 +3300,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "achievement_45",
@@ -3343,7 +3348,7 @@
       "Name": "Shoot first",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_50",
@@ -3399,7 +3404,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_57",
@@ -3431,7 +3436,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_60",
@@ -3494,13 +3499,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1042,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1039,
+      "Progressed": 1042,
       "Completed": 1
     }
   ],
@@ -3508,8 +3513,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:28.7393007+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:57:45.4529716+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:09.0026281+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:28.7394562+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:11:43.2428512+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:02:46.3012634+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:43.2429198+00:00"
 }

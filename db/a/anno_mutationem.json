@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -112,9 +112,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -567,6 +567,11 @@
       "Time": "2023-11-04T04:03:51.1418216+00:00",
       "NumProgressed": 680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T19:06:57.9603336+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -602,7 +607,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Clarity_of_Mind",
@@ -666,7 +671,7 @@
       "Name": "I just love stuff!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "I_think_its_broke",
@@ -690,7 +695,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Lady_Luck",
@@ -746,7 +751,7 @@
       "Name": "Tell me your story",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -842,7 +847,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "posters",
@@ -865,7 +870,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 0
     }
   ],
@@ -873,8 +878,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:04:36.3556759+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:06:57.960333+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.5900673+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:17.2510976+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:04:36.3557273+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:02:54.8824685+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:06:57.9603596+00:00"
 }

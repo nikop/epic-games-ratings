@@ -6,25 +6,25 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,741 |
-| Self-Improvement | 71.00% | ~1,404 |
+| Unforgiven | 88.00% | ~1,742 |
+| Self-Improvement | 71.00% | ~1,405 |
 | Perky | 65.00% | ~1,286 |
-| Let’s Ride | 59.00% | ~1,167 |
+| Let’s Ride | 59.00% | ~1,168 |
 | Welcome to the Weird West | 56.00% | ~1,108 |
 | Dead or Alive | 55.00% | ~1,088 |
 | Full House | 37.00% | ~732 |
 | Off the Trail | 34.00% | ~673 |
 | Justice Served | 29.00% | ~574 |
-| Chain Reaction | 26.00% | ~514 |
-| Through Their Eyes | 26.00% | ~514 |
-| Dishonored | 25.00% | ~494 |
-| Rain of Death | 25.00% | ~494 |
-| Scholar | 25.00% | ~494 |
+| Chain Reaction | 26.00% | ~515 |
+| Through Their Eyes | 26.00% | ~515 |
+| Dishonored | 25.00% | ~495 |
+| Rain of Death | 25.00% | ~495 |
+| Scholar | 25.00% | ~495 |
 | The Great Escape | 23.00% | ~455 |
 | That’s All, Folks | 19.00% | ~376 |
-| Fallen Star | 16.00% | ~316 |
-| Here Comes Santa Claus | 16.00% | ~316 |
-| Winds of War | 16.00% | ~316 |
+| Fallen Star | 16.00% | ~317 |
+| Here Comes Santa Claus | 16.00% | ~317 |
+| Winds of War | 16.00% | ~317 |
 | For Balance | 15.00% | ~297 |
 | Dog Days | 13.00% | ~257 |
 | Out on the Ebb Tide | 13.00% | ~257 |
@@ -42,7 +42,7 @@ Number of Ratings: 125  (23.09.2022)
 | Eternity Can Wait | 8.00% | ~158 |
 | Monster Hunter | 8.00% | ~158 |
 | Knuckle Sandwich | 8.00% | ~158 |
-| Getting the Gang Back Together | 7.00% | ~138 |
+| Getting the Gang Back Together | 7.00% | ~139 |
 | Who You Gonna Call? | 6.00% | ~119 |
 | Healing Old Wounds | 5.00% | ~99 |
 | This Is Sparta | 5.00% | ~99 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,978 (Ranked 217)  
+Progressed: 1,979 (Ranked 217)  
 Completed: 7 (0.35%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 7 (0.35%) (Ranked 213)
 | 2023-11-01 | 1,972 | 7 |
 | 2023-11-02 | 1,973 | 7 |
 | 2023-11-03 | 1,975 | 7 |
-| 2023-11-04 | 1,978 | 7 |
+| 2023-11-04 | 1,979 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 500)  
 Sum: 28 (Ranked 514)  

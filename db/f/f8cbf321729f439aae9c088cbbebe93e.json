@@ -4,7 +4,7 @@
   "ProductSlug": "survivor-castaway-island-16f672",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -146,9 +146,9 @@
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "_05",
@@ -209,8 +209,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:04:08.306284+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:06:26.5079552+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:02.9156599+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:02.7881641+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:04:08.3062992+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:02:38.8437082+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:06:26.5079639+00:00"
 }

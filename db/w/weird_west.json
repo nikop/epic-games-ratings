@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1978,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2629,6 +2629,11 @@
       "Time": "2023-11-04T16:08:30.2083945+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-04T19:09:46.3692445+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2640,7 +2645,7 @@
       "Name": "Chain Reaction",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -2664,7 +2669,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2704,7 +2709,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2728,7 +2733,7 @@
       "Name": "Getting the Gang Back Together",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_GHOST_TOWN",
@@ -2760,7 +2765,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2792,7 +2797,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2912,7 +2917,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_REVENANT",
@@ -2928,7 +2933,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2936,7 +2941,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3000,7 +3005,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3016,7 +3021,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3048,7 +3053,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -3063,15 +3068,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1978,
+      "Progressed": 1979,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:07:10.4018112+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:58:10.6069989+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:57:58.2946275+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:07:10.4018734+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:09:46.3692442+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:57:24.3236898+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:00:17.7723417+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:09:46.369292+00:00"
 }

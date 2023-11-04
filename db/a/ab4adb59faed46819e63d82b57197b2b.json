@@ -207,9 +207,9 @@
       "ID": "DO_NOT_GET_HEALED",
       "SetID": "dcng643",
       "Name": "Stray heart",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DO_N_REVIVES_IN_ROOM",
@@ -287,9 +287,9 @@
       "ID": "FLAWLESS_BOSS_KILL",
       "SetID": "dcng643",
       "Name": "Flawless",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GET_HIT_N_TIMES",
@@ -463,9 +463,9 @@
       "ID": "KILL_BOSS_5",
       "SetID": "dcng643",
       "Name": "Fitless",
-      "Percentage": 19,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KILL_BOSS_6",
@@ -782,8 +782,8 @@
   ],
   "FirstSeen": "2023-09-28T16:00:28.1613796+00:00",
   "FirstSeenAchievements": "2023-09-19T08:09:12.2865196+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:04:49.6267709+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:07:12.5825139+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.5860639+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:58:54.9892354+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:04:49.6268622+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:01:21.2420611+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:07:12.5825761+00:00"
 }

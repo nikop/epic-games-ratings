@@ -7,10 +7,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.70% | ~178 |
+| The Assault | 0.50% | ~3,581 |
 | Life is your teacher | 0.50% | ~3,581 |
 | Project Arena | 0.50% | ~127 |
 | The Old Grandmaster | 0.40% | ~2,865 |
-| The Assault | 0.40% | ~2,865 |
 | The Hateful Pole Fighter | 0.40% | ~2,865 |
 | A Lady's Blood in the Snow | 0.40% | ~2,865 |
 | Lady Wing Chun | 0.40% | ~2,865 |

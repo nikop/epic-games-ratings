@@ -10,6 +10,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 0.60% | ~5,371 |
 | Relic Ruler | 0.40% | ~95 |
 | Full Body Conversion | 0.30% | ~2,686 |
+| True Soldier | 0.30% | ~2,686 |
 | Right Back At Ya | 0.20% | ~1,790 |
 | Christmas Tree Attack | 0.20% | ~1,790 |
 | The Quick and the Dead | 0.20% | ~1,790 |
@@ -18,7 +19,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.20% | ~1,790 |
 | The Lovers | 0.20% | ~1,790 |
 | The Wheel of Fortune | 0.20% | ~1,790 |
-| True Soldier | 0.20% | ~1,790 |
 | True Warrior | 0.20% | ~1,790 |
 | Legend of The Afterlife | 0.20% | ~1,790 |
 | Spin Doctor | 0.20% | ~48 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,228 (Ranked 15)  
+Progressed: 895,236 (Ranked 15)  
 Completed: 2,743 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,743 (0.31%) (Ranked 219)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,228 | 2,743 |
+| 2023-11-04 | 895,236 | 2,743 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 341,879 (Ranked 10)  

@@ -2965,10 +2965,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2682,
       "NumberOfAwardsMax": 302
+    },
+    {
+      "Time": "2023-11-04T19:00:29.2742185+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2684,
+      "NumberOfAwardsMax": 302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2682,
+  "NumberOfAwards": 2684,
   "NumberOfAwardsMax": 302,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3024,7 +3030,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 268
+      "Count": 270
     },
     {
       "Text": "This game is Relaxing",
@@ -3045,9 +3051,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30058,
+  "EOS_Progressed": 30071,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1996,
+  "EOS_NewPlayers": 1994,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17855,6 +17861,11 @@
       "Time": "2023-11-04T18:06:19.7285497+00:00",
       "NumProgressed": 30058,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-04T19:08:50.3805279+00:00",
+      "NumProgressed": 30071,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17866,7 +17877,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "Animated",
@@ -17914,7 +17925,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "Collector",
@@ -17954,7 +17965,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "Dont_Need_These",
@@ -17978,7 +17989,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "Escape_Artist",
@@ -17994,7 +18005,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Fully_Upgraded",
@@ -18002,7 +18013,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "GB_In_Training",
@@ -18042,7 +18053,7 @@
       "Name": "Liability",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Line_Em_Up",
@@ -18154,7 +18165,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "Stunner",
@@ -18170,7 +18181,7 @@
       "Name": "Stylish",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "Summoner",
@@ -18186,7 +18197,7 @@
       "Name": "Surprise!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Swift_Removers",
@@ -18194,7 +18205,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "Teamwork",
@@ -18273,16 +18284,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30058,
+      "Progressed": 30071,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-04T17:01:19.2490377+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:06:19.7285492+00:00",
+  "LastChanged": "2023-11-04T19:00:29.2742183+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:08:50.3805277+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:58:09.3204163+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:06:19.7287472+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:00:29.2742188+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:08:50.3806376+00:00"
 }

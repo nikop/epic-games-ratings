@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -1512,6 +1512,11 @@
       "Time": "2023-11-04T18:04:51.4614105+00:00",
       "NumProgressed": 865,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T19:07:13.7171568+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1532,7 +1537,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1676,7 +1681,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -1764,7 +1769,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1780,7 +1785,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1794,9 +1799,9 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 199
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -1810,9 +1815,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "5k00jcd",
       "Name": "Better too much",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1860,27 +1865,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 533,
-      "Completed": 533
+      "Progressed": 534,
+      "Completed": 534
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:04:51.4614097+00:00",
+  "LastChanged_Achievements": "2023-11-04T19:07:13.7171565+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:59:49.5775027+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:04:51.4615294+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:02:23.5439366+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:07:13.717188+00:00"
 }

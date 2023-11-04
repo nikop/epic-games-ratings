@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Compiling (15)... | 45.00% | ~14 |
-| Almost there! | 45.00% | ~14 |
-| EnergyBackup >= 15 | 42.00% | ~13 |
-| Noisy saturation | 42.00% | ~13 |
-| Errors found you | 42.00% | ~13 |
-| Gamedev level 15 | 39.00% | ~12 |
-| Package ready! | 39.00% | ~12 |
-| SoundsFun = 15; | 39.00% | ~12 |
-| 64 bugs fixed | 35.00% | ~11 |
-| No AI, only humans | 35.00% | ~11 |
-| The dev life | 32.00% | ~10 |
-| 128 bugs fixed | 29.00% | ~9 |
-| SoundsFun = 30; | 29.00% | ~9 |
-| Pro-dev | 26.00% | ~8 |
-| Compiling (30)... | 26.00% | ~8 |
-| Two thirds is all I need | 26.00% | ~8 |
-| Double-double | 23.00% | ~7 |
-| Going nuts! | 23.00% | ~7 |
-| Half the time, half the fun | 23.00% | ~7 |
+| Compiling (15)... | 47.00% | ~15 |
+| Almost there! | 47.00% | ~15 |
+| Noisy saturation | 44.00% | ~14 |
+| Gamedev level 15 | 41.00% | ~13 |
+| EnergyBackup >= 15 | 41.00% | ~13 |
+| Errors found you | 41.00% | ~13 |
+| Package ready! | 38.00% | ~12 |
+| SoundsFun = 15; | 38.00% | ~12 |
+| 64 bugs fixed | 34.00% | ~11 |
+| No AI, only humans | 34.00% | ~11 |
+| The dev life | 31.00% | ~10 |
+| 128 bugs fixed | 28.00% | ~9 |
+| SoundsFun = 30; | 28.00% | ~9 |
+| Pro-dev | 25.00% | ~8 |
+| Compiling (30)... | 25.00% | ~8 |
+| Two thirds is all I need | 25.00% | ~8 |
+| Double-double | 22.00% | ~7 |
+| Going nuts! | 22.00% | ~7 |
+| Half the time, half the fun | 22.00% | ~7 |
 | Compiling (45)... | 19.00% | ~6 |
 | Gamedev level 30 | 19.00% | ~6 |
 | EnergyBackup >= 30 | 19.00% | ~6 |
@@ -34,11 +34,11 @@
 | What am I doing?! | 16.00% | ~5 |
 | EnergyBackup >= 45 | 16.00% | ~5 |
 | Gamedev level 45 | 13.00% | ~4 |
-| Damn, I'm GOOD! | 10.00% | ~3 |
-| Just in time! | 10.00% | ~3 |
+| Damn, I'm GOOD! | 9.00% | ~3 |
+| Just in time! | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 495)  
-Completed: 3 (9.68%) (Ranked 38)  
+Progressed: 32 (Ranked 494)  
+Completed: 3 (9.38%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,3 +51,4 @@ Completed: 3 (9.68%) (Ranked 38)
 | 2023-08-05 | 29 | 3 |
 | 2023-08-19 | 30 | 3 |
 | 2023-08-22 | 31 | 3 |
+| 2023-11-04 | 32 | 3 |

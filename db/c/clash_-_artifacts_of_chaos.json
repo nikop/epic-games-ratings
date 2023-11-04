@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 397,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -306,6 +306,11 @@
       "Time": "2023-10-29T01:54:21.496152+00:00",
       "NumProgressed": 111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T19:11:51.5623717+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -323,7 +328,7 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -331,7 +336,7 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -347,9 +352,9 @@
       "ID": "Achievement13",
       "SetID": "jf6ho5",
       "Name": "Armor Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement14",
@@ -363,9 +368,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement16",
@@ -379,7 +384,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 35,
       "UsersEstimate": 75
     },
@@ -387,9 +392,9 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement19",
@@ -427,17 +432,17 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement5",
@@ -484,7 +489,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 1
     }
   ],
@@ -492,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:36.5082652+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:58:17.2916805+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:36.4405667+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:36.5082962+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:11:51.5623713+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:59:10.9100888+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:03:16.7090606+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:51.5623856+00:00"
 }

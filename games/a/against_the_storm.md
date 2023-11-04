@@ -13,10 +13,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 6.00% | ~1,031 |
 | The Marshlands | 6.00% | ~1,031 |
 | The Scarlet Orchard | 6.00% | ~1,031 |
-| Ancient Battleground | 5.00% | ~859 |
-| Fertile Meadows | 5.00% | ~859 |
-| Royal Outpost | 5.00% | ~859 |
-| A Real Challenge | 5.00% | ~859 |
+| Ancient Battleground | 5.00% | ~860 |
+| Fertile Meadows | 5.00% | ~860 |
+| Royal Outpost | 5.00% | ~860 |
+| A Real Challenge | 5.00% | ~860 |
 | Homesick | 4.00% | ~688 |
 | Ruined Armory | 4.00% | ~688 |
 | Bandit Camp | 4.00% | ~688 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,189 (Ranked 138)  
+Progressed: 17,191 (Ranked 138)  
 Completed: 53 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 53 (0.31%) (Ranked 219)
 | 2023-11-01 | 17,143 | 53 |
 | 2023-11-02 | 17,154 | 53 |
 | 2023-11-03 | 17,173 | 53 |
-| 2023-11-04 | 17,189 | 53 |
+| 2023-11-04 | 17,191 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 437  (Ranked 216)  
 Sum: 3,205 (Ranked 170)  

@@ -7,8 +7,8 @@ Rating: 4.55 (Ranked 500)
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~392 |
 | And again, and again, and... | 64.00% | ~289 |
-| Burn, Elysium, burn! | 62.00% | ~280 |
-| Kuvaq Minigame-Master | 61.00% | ~275 |
+| Burn, Elysium, burn! | 63.00% | ~284 |
+| Kuvaq Minigame-Master | 62.00% | ~280 |
 | FunScore | 55.00% | ~248 |
 | Funtime's over | 53.00% | ~239 |
 | Chunky | 51.00% | ~230 |

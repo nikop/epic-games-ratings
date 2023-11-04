@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 802,
+  "EOS_Progressed": 803,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.37,
+  "EOS_Completed_Percentage": 3.36,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2507,6 +2507,11 @@
       "Time": "2023-11-03T18:09:32.7128441+00:00",
       "NumProgressed": 802,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-04T19:11:50.0323228+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2527,7 +2532,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "_03_FinishAct1",
@@ -2535,7 +2540,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2567,7 +2572,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "_08_Completion_10",
@@ -2591,7 +2596,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_11_Completion_40",
@@ -2599,7 +2604,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "_12_Completion_50",
@@ -2663,7 +2668,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2671,7 +2676,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2726,7 +2731,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 802,
+      "Progressed": 803,
       "Completed": 27
     }
   ],
@@ -2734,8 +2739,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:09:35.224908+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:57:51.5750175+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:13.1844936+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:09:35.2249653+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:11:50.0323225+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:02:50.3094049+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:11:50.0323493+00:00"
 }

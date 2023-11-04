@@ -37,6 +37,7 @@ Number of Ratings: 177  (23.09.2022)
 | Deck the Balls | 0.50% | ~17 |
 | Love Conquers All | 0.50% | ~32 |
 | Ashley | 0.40% | ~26 |
+| Good Ol' Days | 0.40% | ~26 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
 | Do Not Burn | 0.30% | ~19 |
@@ -45,7 +46,6 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.30% | ~19 |
 | The Muse: Derek | 0.30% | ~19 |
 | The Elder Brahs | 0.30% | ~19 |
-| Good Ol' Days | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~13 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~7 |
 | Good Riddance! | 0.20% | ~13 |

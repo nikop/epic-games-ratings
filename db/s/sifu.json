@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7463,7 +7463,7 @@
   ],
   "EOS_Progressed": 716174,
   "EOS_Completed": 12931,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24878,9 +24878,9 @@
       "ID": "02_Vengeance_H1",
       "SetID": "adcm20g",
       "Name": "The Assault",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 3581
     },
     {
       "ID": "03_Vengeance_H2",
@@ -25364,8 +25364,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-04T11:00:52.0758851+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:06:32.115035+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:58:06.2233354+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:00:25.8409336+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:06:32.115382+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:09:04.1535194+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:03:04.7219659+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:09:04.1536308+00:00"
 }

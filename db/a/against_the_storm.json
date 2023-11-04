@@ -3173,9 +3173,9 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 17189,
+  "EOS_Progressed": 17191,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13048,6 +13048,11 @@
       "Time": "2023-11-04T17:10:09.260272+00:00",
       "NumProgressed": 17189,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-04T19:08:43.1901431+00:00",
+      "NumProgressed": 17191,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13195,7 +13200,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "WinNearCrystals",
@@ -13219,7 +13224,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "WinNearFishmen",
@@ -13275,7 +13280,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "WinNearRuins",
@@ -13371,7 +13376,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "WinWIthCaches",
@@ -13458,15 +13463,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17189,
+      "Progressed": 17191,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-04T13:57:31.0953921+00:00",
-  "LastChanged_Achievements": "2023-11-04T18:06:12.9896771+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T17:59:24.3582421+00:00",
-  "LastUpdate_Ratings": "2023-11-04T17:57:46.3452996+00:00",
-  "LastUpdate_Achievements": "2023-11-04T18:06:12.9897815+00:00"
+  "LastChanged_Achievements": "2023-11-04T19:08:43.1901427+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
+  "LastUpdate_Ratings": "2023-11-04T19:00:03.7723327+00:00",
+  "LastUpdate_Achievements": "2023-11-04T19:08:43.1902335+00:00"
 }
