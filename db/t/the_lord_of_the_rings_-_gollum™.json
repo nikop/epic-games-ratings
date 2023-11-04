@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 545,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1358,6 +1358,11 @@
       "Time": "2023-11-03T11:04:36.2135665+00:00",
       "NumProgressed": 544,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T12:05:11.2647766+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1409,7 +1414,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Chapter3",
@@ -1425,7 +1430,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Chapter5",
@@ -1473,7 +1478,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Collectibles2",
@@ -1537,7 +1542,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Memories",
@@ -1545,7 +1550,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Murderer",
@@ -1656,14 +1661,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 545,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:05:26.1116234+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:05:11.2647763+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:16.4866029+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:57:58.5051065+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:05:26.1116524+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:58:03.1646319+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:05:11.2647981+00:00"
 }

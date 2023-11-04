@@ -49,13 +49,13 @@
 | The Abyssal Terror | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
 | Eridanian Hero | 6.00% | ~4 |
+| Noctuan Hero | 6.00% | ~4 |
 | Astrarium of Holding | 4.00% | ~3 |
 | Critical Twist | 4.00% | ~3 |
 | Reflexive Mind | 4.00% | ~3 |
 | The Raging Skies | 4.00% | ~3 |
 | Aquarian Hero | 4.00% | ~3 |
 | Lacertian Mastery | 4.00% | ~3 |
-| Noctuan Hero | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Prestidigitation | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
@@ -65,6 +65,7 @@
 | Anomaly Master | 1.00% | ~1 |
 | Arch-Oracle | 1.00% | ~1 |
 | Astral Tinkerer | 1.00% | ~1 |
+| Astromancer | 1.00% | ~1 |
 | Gotta tinker'em all! | 1.00% | ~1 |
 | Plague Doctor | 1.00% | ~1 |
 | Pocket Astrarium | 1.00% | ~1 |
@@ -79,7 +80,6 @@
 | Aquarian Mastery | 0.00% | ~0 |
 | Astrea's Saviors | 0.00% | ~0 |
 | Astrium Specialist | 0.00% | ~0 |
-| Astromancer | 0.00% | ~0 |
 | Behenian Champion | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |
 | Behenian Mastery | 0.00% | ~0 |

@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,781 (Ranked 178)  
-Completed: 2 (0.03%) (Ranked 306)  
+Completed: 2 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

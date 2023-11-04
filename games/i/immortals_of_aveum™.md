@@ -1,20 +1,20 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 3.98 (Ranked 995)  
+Rating: 3.98 (Ranked 994)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~128 |
-| Battlefields Have Memories | 85.00% | ~122 |
+| Battlefields Have Memories | 86.00% | ~124 |
 | Enlisted | 83.00% | ~120 |
 | Maybe Engage a Little | 79.00% | ~114 |
 | No More Names | 65.00% | ~94 |
 | Initiate | 58.00% | ~84 |
 | Thrada-Kul | 53.00% | ~76 |
 | Gravity-Challenged Rocks | 42.00% | ~60 |
+| All the Major Food Groups | 37.00% | ~53 |
 | Soldier | 35.00% | ~50 |
-| All the Major Food Groups | 35.00% | ~50 |
 | Beggars Would Ride | 31.00% | ~45 |
 | Control is an Illusion | 30.00% | ~43 |
 | Socialite | 28.00% | ~40 |
@@ -32,9 +32,9 @@ Rating: 3.98 (Ranked 995)
 | Periapt Viridian | 8.00% | ~12 |
 | Shroudfane Explorer | 8.00% | ~12 |
 | Best Dressed | 7.00% | ~10 |
+| Scholar | 6.00% | ~9 |
 | Armaments Azure | 6.00% | ~9 |
 | Armaments Gules | 6.00% | ~9 |
-| Scholar | 5.00% | ~7 |
 | Kitted Out | 4.00% | ~6 |
 | Armaments Vert | 4.00% | ~6 |
 | Veteran | 4.00% | ~6 |

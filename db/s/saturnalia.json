@@ -6,7 +6,7 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
@@ -267,9 +267,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67860,
+  "EOS_Progressed": 67863,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14112,6 +14112,11 @@
       "Time": "2023-11-04T11:07:18.8527018+00:00",
       "NumProgressed": 67860,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-04T12:06:49.167936+00:00",
+      "NumProgressed": 67863,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 20,
@@ -14131,7 +14136,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -14259,7 +14264,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -14282,7 +14287,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67860,
+      "Progressed": 67863,
       "Completed": 17
     }
   ],
@@ -14290,8 +14295,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-10-31T01:40:50.0576564+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:07:18.8527012+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:06:49.1679358+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:32.180947+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:59:19.9989488+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:07:18.8527771+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:59:11.3580726+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:06:49.1679921+00:00"
 }

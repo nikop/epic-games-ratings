@@ -29,18 +29,20 @@
 | Trial by cold | 12.00% | ~2 |
 | She-Wolf | 12.00% | ~2 |
 | For the greater good | 6.00% | ~1 |
+| Collector | 6.00% | ~1 |
 | The best apprentice | 6.00% | ~1 |
 | Stronger than Gellian steel | 6.00% | ~1 |
+| First among Frisians | 6.00% | ~1 |
 | Rage | 6.00% | ~1 |
 | The power of persuasion | 6.00% | ~1 |
 | Deadly strike | 6.00% | ~1 |
 | Do it yourself | 6.00% | ~1 |
 | All's fair in love and war | 6.00% | ~1 |
-| Collector | 0.00% | ~0 |
+| The End | 6.00% | ~1 |
+| Nothing is settled | 6.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
-| First among Frisians | 0.00% | ~0 |
 | Defeat the bear | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
@@ -48,13 +50,11 @@
 | By someone else's hands | 0.00% | ~0 |
 | There can be only one | 0.00% | ~0 |
 | Blood and honour | 0.00% | ~0 |
-| The End | 0.00% | ~0 |
 | Happily ever after | 0.00% | ~0 |
-| Nothing is settled | 0.00% | ~0 |
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 532)  
+Progressed: 17 (Ranked 533)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |

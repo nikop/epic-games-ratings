@@ -8,13 +8,13 @@ Rating: 4.60 (Ranked 408)
 | Azoria Beckons | 72.00% | ~5,410 |
 | A Thorny Situation | 70.00% | ~5,260 |
 | ... And Spit Back Out | 60.00% | ~4,508 |
-| Break-Net Speed | 48.00% | ~3,607 |
+| Break-Net Speed | 49.00% | ~3,682 |
 | Bramble Breaker | 46.00% | ~3,456 |
 | Miner 49er | 43.00% | ~3,231 |
 | Humble Collector | 42.00% | ~3,156 |
 | Calm Sailing | 36.00% | ~2,705 |
 | Open the Gate! | 33.00% | ~2,480 |
-| Mist Walker | 31.00% | ~2,329 |
+| Mist Walker | 32.00% | ~2,404 |
 | Lumberjack | 26.00% | ~1,954 |
 | Oui, Chef! | 23.00% | ~1,728 |
 | Clear the Air | 18.00% | ~1,353 |

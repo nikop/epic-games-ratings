@@ -14666,9 +14666,9 @@
       "Count": 12334
     }
   ],
-  "EOS_Progressed": 895159,
+  "EOS_Progressed": 895167,
   "EOS_Completed": 2742,
-  "EOS_NewPlayers": 970,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37056,6 +37056,11 @@
       "Time": "2023-11-04T11:06:38.1270688+00:00",
       "NumProgressed": 895159,
       "NumCompleted": 2742
+    },
+    {
+      "Time": "2023-11-04T12:06:13.360168+00:00",
+      "NumProgressed": 895167,
+      "NumCompleted": 2742
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37138,9 +37143,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4476
+      "UsersEstimate": 5371
     },
     {
       "ID": "Gunslinger",
@@ -37330,9 +37335,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 1790
     },
     {
       "ID": "TheWorld",
@@ -37603,21 +37608,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895159,
+      "Progressed": 895167,
       "Completed": 2742
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23782,
+      "Progressed": 23790,
       "Completed": 10184
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-04T09:59:27.6958721+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:06:38.1270678+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:06:13.3601679+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:11.2102653+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:59:38.9077273+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:06:38.1272188+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:59:26.8178352+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:06:13.3602821+00:00"
 }

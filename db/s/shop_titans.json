@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6803,10 +6803,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27497,
       "NumberOfAwardsMax": 4817
+    },
+    {
+      "Time": "2023-11-04T12:00:45.8378779+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27499,
+      "NumberOfAwardsMax": 4817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27497,
+  "NumberOfAwards": 27499,
   "NumberOfAwardsMax": 4817,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6856,12 +6862,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3770
+      "Count": 3772
     }
   ],
-  "EOS_Progressed": 138569,
+  "EOS_Progressed": 138574,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27069,6 +27075,11 @@
       "Time": "2023-11-04T11:07:53.5207968+00:00",
       "NumProgressed": 138569,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-04T12:07:19.228963+00:00",
+      "NumProgressed": 138574,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27975,15 +27986,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138569,
+      "Progressed": 138574,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-04T03:01:18.0918347+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:07:53.5207964+00:00",
+  "LastChanged": "2023-11-04T12:00:45.8378777+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:07:19.2289628+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:26.5988713+00:00",
-  "LastUpdate_Ratings": "2023-11-04T11:01:12.5788128+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:07:53.5210066+00:00"
+  "LastUpdate_Ratings": "2023-11-04T12:00:45.8378783+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:07:19.2291339+00:00"
 }

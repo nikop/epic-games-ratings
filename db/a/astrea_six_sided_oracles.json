@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -490,9 +490,9 @@
       "ID": "Astromancer",
       "SetID": "1jeo1g7",
       "Name": "Astromancer",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BehenianChampionAchievement",
@@ -1122,9 +1122,9 @@
       "ID": "NoctuanHero",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Hero",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NoctuanMastery",
@@ -1145,8 +1145,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:03:51.3177494+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:03:48.5423497+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:06.6564177+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:59:21.6371998+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:03:51.3178355+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:59:12.7623826+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:03:48.5424506+00:00"
 }

@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18770,
+  "EOS_Progressed": 18771,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12603,6 +12603,11 @@
       "Time": "2023-11-04T04:04:33.913827+00:00",
       "NumProgressed": 18770,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T12:05:04.1494509+00:00",
+      "NumProgressed": 18771,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12622,7 +12627,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "0003",
@@ -12798,7 +12803,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4129
+      "UsersEstimate": 4130
     },
     {
       "ID": "0025",
@@ -12814,7 +12819,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "0027",
@@ -12878,7 +12883,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "0035",
@@ -12901,7 +12906,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18770,
+      "Progressed": 18771,
       "Completed": 4
     }
   ],
@@ -12909,8 +12914,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:05:18.1312922+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:05:04.1494507+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:36.1936652+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:58:13.3396116+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:05:18.1313711+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:58:15.1555619+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:05:04.1495298+00:00"
 }

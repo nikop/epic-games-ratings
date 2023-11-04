@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 0.40% | ~2 |
-| Not Touching You | 0.20% | ~1 |
+| Not Touching You | 0.30% | ~2 |
 | Expensive Look | 0.20% | ~1 |
 | What Doesn't Kill You | 0.20% | ~1 |
 | Thank You, Friend | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,109 (Ranked 59)  
+Progressed: 239,115 (Ranked 59)  
 Completed: 286 (0.12%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 286 (0.12%) (Ranked 261)
 | 2023-11-01 | 238,974 | 286 |
 | 2023-11-02 | 239,015 | 286 |
 | 2023-11-03 | 239,082 | 286 |
-| 2023-11-04 | 239,109 | 286 |
+| 2023-11-04 | 239,115 | 286 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 129)  
 Sum: 11,652 (Ranked 83)  

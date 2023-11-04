@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,977 (Ranked 216)  
+Progressed: 1,977 (Ranked 217)  
 Completed: 7 (0.35%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |

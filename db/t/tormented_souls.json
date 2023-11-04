@@ -4,7 +4,7 @@
   "ProductSlug": "tormented-souls",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-31T08:00:00+00:00",
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:57:27.5067509+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.0238403+00:00",
   "LastChanged": "2023-03-31T05:57:27.506751+00:00",
-  "LastChanged_Achievements": "2023-11-04T11:05:47.5785004+00:00",
+  "LastChanged_Achievements": "2023-11-04T12:05:29.2886491+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:23.6925299+00:00",
-  "LastUpdate_Ratings": "2023-11-04T10:58:00.6015582+00:00",
-  "LastUpdate_Achievements": "2023-11-04T11:05:47.578503+00:00"
+  "LastUpdate_Ratings": "2023-11-04T11:58:04.9412883+00:00",
+  "LastUpdate_Achievements": "2023-11-04T12:05:29.2886509+00:00"
 }

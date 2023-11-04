@@ -10,7 +10,7 @@
 | Apprentice | 36.00% | ~41 |
 | A new World ahead | 29.00% | ~33 |
 | Can't touch this | 27.00% | ~31 |
-| Don't Cry Wolf | 24.00% | ~27 |
+| Don't Cry Wolf | 25.00% | ~28 |
 | Expert | 19.00% | ~21 |
 | Freezing Cold | 18.00% | ~20 |
 | Searing Heat | 15.00% | ~17 |

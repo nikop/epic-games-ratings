@@ -5,38 +5,38 @@ Rating: 4.76 (Ranked 121)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~45,098 |
-| First Class Student | 14.00% | ~42,091 |
-| Troll with the Punches | 14.00% | ~42,091 |
-| A Keen Sense of Spell | 13.00% | ~39,085 |
-| A Talent for Spending | 12.00% | ~36,078 |
-| That's a Keeper | 12.00% | ~36,078 |
-| Grappling with a Graphorn | 11.00% | ~33,072 |
-| The One Who Mastered Memories | 11.00% | ~33,072 |
-| The Hallowed Hero | 11.00% | ~33,072 |
-| The Defender of Dragons | 11.00% | ~33,072 |
-| Loom for Improvement | 11.00% | ~33,072 |
-| Coasting Along | 11.00% | ~33,072 |
-| The Hero of Hogwarts | 10.00% | ~30,065 |
-| Challenge Accepted | 10.00% | ~30,065 |
-| Followed the Butterflies | 10.00% | ~30,065 |
-| The Spell Master | 9.00% | ~27,059 |
-| Rising From the Ashes | 9.00% | ~27,059 |
-| The Avenging Gazelle | 8.00% | ~24,052 |
-| Beast Friends | 8.00% | ~24,052 |
-| A Sallow Grave | 8.00% | ~24,052 |
-| Flight the Good Flight | 8.00% | ~24,052 |
-| The Seeker of Knowledge | 6.00% | ~18,039 |
-| The Root of the Problem | 6.00% | ~18,039 |
-| Third Time's a Charm | 6.00% | ~18,039 |
-| Raising Expectations | 6.00% | ~18,039 |
+| The Sort Who Makes an Entrance | 15.00% | ~45,100 |
+| First Class Student | 14.00% | ~42,093 |
+| Troll with the Punches | 14.00% | ~42,093 |
+| A Keen Sense of Spell | 13.00% | ~39,086 |
+| A Talent for Spending | 12.00% | ~36,080 |
+| That's a Keeper | 12.00% | ~36,080 |
+| Grappling with a Graphorn | 11.00% | ~33,073 |
+| The One Who Mastered Memories | 11.00% | ~33,073 |
+| The Hallowed Hero | 11.00% | ~33,073 |
+| The Defender of Dragons | 11.00% | ~33,073 |
+| Loom for Improvement | 11.00% | ~33,073 |
+| Coasting Along | 11.00% | ~33,073 |
+| The Hero of Hogwarts | 10.00% | ~30,066 |
+| Challenge Accepted | 10.00% | ~30,066 |
+| Followed the Butterflies | 10.00% | ~30,066 |
+| The Spell Master | 9.00% | ~27,060 |
+| Rising From the Ashes | 9.00% | ~27,060 |
+| The Avenging Gazelle | 8.00% | ~24,053 |
+| Beast Friends | 8.00% | ~24,053 |
+| A Sallow Grave | 8.00% | ~24,053 |
+| Flight the Good Flight | 8.00% | ~24,053 |
+| The Seeker of Knowledge | 6.00% | ~18,040 |
+| The Root of the Problem | 6.00% | ~18,040 |
+| Third Time's a Charm | 6.00% | ~18,040 |
+| Raising Expectations | 6.00% | ~18,040 |
 | The Toast of the Town | 5.00% | ~15,033 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,033 |
 | The Ends Petrify the Means | 5.00% | ~15,033 |
-| Going Through the Potions | 4.00% | ~12,026 |
-| Room with a View | 4.00% | ~12,026 |
-| The Intrepid Explorer | 4.00% | ~12,026 |
-| The Wise Owl | 4.00% | ~12,026 |
+| Going Through the Potions | 4.00% | ~12,027 |
+| Room with a View | 4.00% | ~12,027 |
+| The Intrepid Explorer | 4.00% | ~12,027 |
+| The Wise Owl | 4.00% | ~12,027 |
 | Put Down Roots | 3.00% | ~9,020 |
 | The Auror's Apprentice | 3.00% | ~9,020 |
 | Floo Around the World | 3.00% | ~9,020 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 121)
 | The Nature of the Beast | 0.70% | ~2,105 |
 | Collector's Edition | 0.30% | ~902 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,652 (Ranked 50)  
+Progressed: 300,665 (Ranked 50)  
 Completed: 500 (0.17%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,10 +249,10 @@ Completed: 500 (0.17%) (Ranked 248)
 | 2023-11-01 | 300,130 | 498 |
 | 2023-11-02 | 300,315 | 500 |
 | 2023-11-03 | 300,541 | 500 |
-| 2023-11-04 | 300,652 | 500 |
+| 2023-11-04 | 300,665 | 500 |
 ## Awards
 Max (Character Customization): 24,015  (Ranked 17)  
-Sum: 47,353 (Ranked 30)  
+Sum: 47,357 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -262,7 +262,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 1,215 |
 | This game has Diverse Characters | 1,214 |
 | This game is Extremely Fun | 1,203 |
-| This game is Relaxing | 1,185 |
+| This game is Relaxing | 1,189 |
 | This game has Amazing Characters | 1,174 |
 | This game is Highly Recommended | 1,130 |
 | This game has Quickly Understood Controls | 1,075 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -13
 | 2023-11-01 | 4.76 | 23,964 | 47,195 |
 | 2023-11-02 | 4.76 | 23,989 | 47,266 |
 | 2023-11-03 | 4.76 | 24,015 | 47,347 |
-| 2023-11-04 | 4.76 | 24,015 | 47,353 |
+| 2023-11-04 | 4.76 | 24,015 | 47,357 |
