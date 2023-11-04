@@ -5,27 +5,27 @@ Rating: 4.19 (Ranked 911)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~114,354 |
-| May the Torchbearer light our way | 36.00% | ~108,335 |
-| A powerful aura was here | 24.00% | ~72,223 |
-| Let's raise the stakes!! | 11.00% | ~33,102 |
-| Rumors are true | 6.00% | ~18,056 |
-| Your wounds… They are healing so fast! | 6.00% | ~18,056 |
-| We'll be careful | 5.00% | ~15,047 |
-| Pride is a sin, young Knight | 5.00% | ~15,047 |
-| Bring it on! | 5.00% | ~15,047 |
-| Back to your senses | 3.00% | ~9,028 |
-| They tricked me | 3.00% | ~9,028 |
-| They won't last long | 3.00% | ~9,028 |
+| The touch of Chaos | 38.00% | ~114,364 |
+| May the Torchbearer light our way | 36.00% | ~108,345 |
+| A powerful aura was here | 24.00% | ~72,230 |
+| Let's raise the stakes!! | 11.00% | ~33,105 |
+| Rumors are true | 6.00% | ~18,058 |
+| Your wounds… They are healing so fast! | 6.00% | ~18,058 |
+| We'll be careful | 5.00% | ~15,048 |
+| Pride is a sin, young Knight | 5.00% | ~15,048 |
+| Bring it on! | 5.00% | ~15,048 |
+| Back to your senses | 3.00% | ~9,029 |
+| They tricked me | 3.00% | ~9,029 |
+| They won't last long | 3.00% | ~9,029 |
 | We need to talk | 2.00% | ~6,019 |
 | I feel drawn to it | 2.00% | ~6,019 |
 | I took a risk | 2.00% | ~6,019 |
-| Here to stay | 1.00% | ~3,009 |
-| Counting on you | 1.00% | ~3,009 |
-| This is the end | 1.00% | ~3,009 |
-| We can choose to fight | 1.00% | ~3,009 |
-| Their fate is sealed | 1.00% | ~3,009 |
-| Not even from this world | 0.80% | ~2,407 |
+| Here to stay | 1.00% | ~3,010 |
+| Counting on you | 1.00% | ~3,010 |
+| This is the end | 1.00% | ~3,010 |
+| We can choose to fight | 1.00% | ~3,010 |
+| Their fate is sealed | 1.00% | ~3,010 |
+| Not even from this world | 0.80% | ~2,408 |
 | You want more? I've got more! | 0.50% | ~1,505 |
 | No damsels in distress | 0.40% | ~1,204 |
 | The Ashen Knight | 0.30% | ~903 |
@@ -46,7 +46,7 @@ Rating: 4.19 (Ranked 911)
 | We strike as one | 0.10% | ~301 |
 | Chaos be damned! | 0.10% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,931 (Ranked 49)  
+Progressed: 300,959 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-01 | 297,965 | 1 |
 | 2023-11-02 | 299,191 | 1 |
 | 2023-11-03 | 300,744 | 1 |
-| 2023-11-04 | 300,931 | 1 |
+| 2023-11-04 | 300,959 | 1 |
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 429)  
 Sum: 49 (Ranked 479)  

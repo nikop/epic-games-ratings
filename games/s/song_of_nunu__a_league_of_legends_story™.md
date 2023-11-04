@@ -22,21 +22,21 @@
 | My Darkest Day | 39.00% | ~142 |
 | True Legends | 38.00% | ~138 |
 | The Relentless Storm | 35.00% | ~127 |
+| The Finisher | 34.00% | ~124 |
 | A Tragic Reminder | 33.00% | ~120 |
 | Never Gets Old | 33.00% | ~120 |
-| The Finisher | 33.00% | ~120 |
+| 3000 Year Blackout | 32.00% | ~116 |
 | Snowy Poro | 32.00% | ~116 |
 | On The Rocks | 32.00% | ~116 |
-| 3000 Year Blackout | 31.00% | ~113 |
 | Bullseye | 29.00% | ~106 |
-| So Close | 27.00% | ~98 |
+| So Close | 28.00% | ~102 |
 | You Get Used To It | 27.00% | ~98 |
+| Family | 25.00% | ~91 |
 | Vertical Power | 25.00% | ~91 |
 | Boosted! | 25.00% | ~91 |
-| Family | 24.00% | ~87 |
 | Biggest Snowball Ever | 24.00% | ~87 |
+| Deadliest and Biggest Snowball Ever! | 24.00% | ~87 |
 | Freeze The Ice Witch | 23.00% | ~84 |
-| Deadliest and Biggest Snowball Ever! | 23.00% | ~84 |
 | It Is Not Over | 21.00% | ~76 |
 | Yummy | 11.00% | ~40 |
 | One From The Heart | 11.00% | ~40 |

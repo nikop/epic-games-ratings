@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~4,251 |
-| On the Top Step | 86.00% | ~3,931 |
-| Setting up for Success | 75.00% | ~3,428 |
-| Team Orders | 73.00% | ~3,337 |
-| Engineer | 54.00% | ~2,468 |
-| Familiar Faces | 48.00% | ~2,194 |
-| Going the Extra Mile | 42.00% | ~1,920 |
-| Sharing the Love | 40.00% | ~1,828 |
-| Hitting a Season | 35.00% | ~1,600 |
+| Getting on the Step | 93.00% | ~4,253 |
+| On the Top Step | 86.00% | ~3,933 |
+| Setting up for Success | 75.00% | ~3,430 |
+| Team Orders | 73.00% | ~3,338 |
+| Engineer | 54.00% | ~2,469 |
+| Familiar Faces | 48.00% | ~2,195 |
+| Going the Extra Mile | 42.00% | ~1,921 |
+| Sharing the Love | 40.00% | ~1,829 |
+| Hitting a Season | 35.00% | ~1,601 |
 | Challenge Yourself | 32.00% | ~1,463 |
-| Making History | 31.00% | ~1,417 |
-| A Dozen Pieces | 30.00% | ~1,371 |
+| Making History | 31.00% | ~1,418 |
+| A Dozen Pieces | 30.00% | ~1,372 |
 | Network Success | 25.00% | ~1,143 |
-| Writing a new Chapter | 24.00% | ~1,097 |
-| Spring Cleaning | 23.00% | ~1,051 |
-| Reduce | 19.00% | ~868 |
-| Ups and Downs | 19.00% | ~868 |
+| Writing a new Chapter | 24.00% | ~1,098 |
+| Spring Cleaning | 23.00% | ~1,052 |
+| Reduce | 19.00% | ~869 |
+| Ups and Downs | 19.00% | ~869 |
 | Crucial Combo | 18.00% | ~823 |
-| Reuse | 16.00% | ~731 |
-| One for the Book | 16.00% | ~731 |
-| Proving Them Wrong | 16.00% | ~731 |
+| Reuse | 16.00% | ~732 |
+| One for the Book | 16.00% | ~732 |
+| Proving Them Wrong | 16.00% | ~732 |
 | Gathering Dust | 15.00% | ~686 |
 | Oil and Water | 14.00% | ~640 |
 | Hitting a Bullseye | 14.00% | ~640 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 229)
 | Elite Racer | 0.10% | ~5 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,571 (Ranked 185)  
+Progressed: 4,573 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 4,159 | 0 |
 | 2023-11-02 | 4,338 | 0 |
 | 2023-11-03 | 4,552 | 0 |
-| 2023-11-04 | 4,571 | 0 |
+| 2023-11-04 | 4,573 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 24  (Ranked 518)  
 Sum: 45 (Ranked 485)  

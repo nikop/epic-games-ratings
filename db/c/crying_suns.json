@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470235,
+  "EOS_Progressed": 470237,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21297,6 +21297,11 @@
       "Time": "2023-11-04T02:36:27.5513801+00:00",
       "NumProgressed": 470235,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-04T03:09:52.6445434+00:00",
+      "NumProgressed": 470237,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21308,7 +21313,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70535
+      "UsersEstimate": 70536
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -21316,7 +21321,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70535
+      "UsersEstimate": 70536
     },
     {
       "ID": "achievement_first_death",
@@ -21324,7 +21329,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112856
+      "UsersEstimate": 112857
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -21340,7 +21345,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70535
+      "UsersEstimate": 70536
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -21396,7 +21401,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310355
+      "UsersEstimate": 310356
     },
     {
       "ID": "achievement_story_landa",
@@ -21444,7 +21449,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32916
+      "UsersEstimate": 32917
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -21452,7 +21457,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32916
+      "UsersEstimate": 32917
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -21476,7 +21481,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70535
+      "UsersEstimate": 70536
     },
     {
       "ID": "achievement_story_neon_child",
@@ -21492,7 +21497,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159880
+      "UsersEstimate": 159881
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21548,7 +21553,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 32916
+      "UsersEstimate": 32917
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -21732,7 +21737,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206903
+      "UsersEstimate": 206904
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21740,7 +21745,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141070
+      "UsersEstimate": 141071
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21939,21 +21944,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14169,
+      "Progressed": 14171,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470235,
+      "Progressed": 470237,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-04T02:36:27.5513797+00:00",
+  "LastChanged_Achievements": "2023-11-04T03:09:52.6445429+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:44.3254554+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:29:06.4027911+00:00",
-  "LastUpdate_Achievements": "2023-11-04T02:36:27.5516287+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:01:40.1783587+00:00",
+  "LastUpdate_Achievements": "2023-11-04T03:09:52.6447164+00:00"
 }

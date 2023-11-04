@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -793,9 +793,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3185,
+  "EOS_Progressed": 3188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4638,6 +4638,11 @@
       "Time": "2023-11-04T01:45:43.6956432+00:00",
       "NumProgressed": 3185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T03:03:57.7076869+00:00",
+      "NumProgressed": 3188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4658,7 +4663,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "achievement_11",
@@ -4666,7 +4671,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "achievement_12",
@@ -4674,15 +4679,15 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "achievement_13",
       "SetID": "c8fif6p",
       "Name": "Big Spender",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1658
     },
     {
       "ID": "achievement_14",
@@ -4690,7 +4695,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "achievement_15",
@@ -4698,15 +4703,15 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1722
     },
     {
       "ID": "achievement_16",
       "SetID": "c8fif6p",
       "Name": "ROTY",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1020
     },
     {
       "ID": "achievement_17",
@@ -4730,7 +4735,7 @@
       "Name": "Ol\u0027 Reliable",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_2",
@@ -4762,7 +4767,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "achievement_4",
@@ -4778,7 +4783,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "achievement_6",
@@ -4786,7 +4791,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "achievement_7",
@@ -4794,7 +4799,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "achievement_8",
@@ -4817,7 +4822,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3185,
+      "Progressed": 3188,
       "Completed": 0
     }
   ],
@@ -4825,8 +4830,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-04T02:30:52.1019279+00:00",
+  "LastChanged_Achievements": "2023-11-04T03:03:57.7076864+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:11.555266+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:25:15.9008051+00:00",
-  "LastUpdate_Achievements": "2023-11-04T02:30:52.1019741+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:59:05.7602844+00:00",
+  "LastUpdate_Achievements": "2023-11-04T03:03:57.7077162+00:00"
 }

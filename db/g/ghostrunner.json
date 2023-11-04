@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1341,9 +1341,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 21818,
+  "EOS_Progressed": 21819,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 669,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -22856,6 +22856,11 @@
       "Time": "2023-11-04T02:30:33.0772173+00:00",
       "NumProgressed": 21818,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-11-04T03:03:36.2889944+00:00",
+      "NumProgressed": 21819,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 45,
@@ -22955,7 +22960,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 9818
+      "UsersEstimate": 9819
     },
     {
       "ID": "ICallItLuck",
@@ -23139,7 +23144,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13310
     },
     {
       "ID": "SwordToAGunfight",
@@ -23147,7 +23152,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "TripleA",
@@ -23179,15 +23184,15 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "Wallrunner",
       "SetID": "6ce5bmd",
       "Name": "Wallrunner",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 11782
+      "UsersEstimate": 11564
     },
     {
       "ID": "WaveOfMutilation",
@@ -23203,7 +23208,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 8727
+      "UsersEstimate": 8728
     },
     {
       "ID": "WhereHeStood",
@@ -23219,28 +23224,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6546
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 21818,
+      "Progressed": 21819,
       "Completed": 54
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 21818,
+      "Progressed": 21819,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-01T23:58:43.4945528+00:00",
-  "LastChanged_Achievements": "2023-11-04T02:30:33.0772166+00:00",
+  "LastChanged_Achievements": "2023-11-04T03:03:36.288994+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.5772527+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:26:55.1109728+00:00",
-  "LastUpdate_Achievements": "2023-11-04T02:30:33.0774522+00:00"
+  "LastUpdate_Ratings": "2023-11-04T02:59:50.7423718+00:00",
+  "LastUpdate_Achievements": "2023-11-04T03:03:36.2891265+00:00"
 }

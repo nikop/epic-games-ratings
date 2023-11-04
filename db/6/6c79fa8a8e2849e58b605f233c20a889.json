@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2825,
+  "EOS_Progressed": 2826,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7109,6 +7109,11 @@
       "Time": "2023-11-03T22:23:12.2115473+00:00",
       "NumProgressed": 2825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T03:09:10.0234654+00:00",
+      "NumProgressed": 2826,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7128,7 +7133,7 @@
       "Name": "Puppetmaster",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "BOT_DESTROYER",
@@ -7144,15 +7149,15 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 791
+      "UsersEstimate": 763
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7184,7 +7189,7 @@
       "Name": "Apprentice",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -7224,7 +7229,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "GUARD_MAKER",
@@ -7295,14 +7300,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2825,
+      "Progressed": 2826,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-04T02:35:48.9456288+00:00",
+  "LastChanged_Achievements": "2023-11-04T03:09:10.0234651+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.2432377+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:29:03.2729156+00:00",
-  "LastUpdate_Achievements": "2023-11-04T02:35:48.9457295+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:01:36.5019406+00:00",
+  "LastUpdate_Achievements": "2023-11-04T03:09:10.0235078+00:00"
 }

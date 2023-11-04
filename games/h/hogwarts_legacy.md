@@ -8,18 +8,18 @@ Rating: 4.76 (Ranked 121)
 | The Sort Who Makes an Entrance | 15.00% | ~45,088 |
 | First Class Student | 14.00% | ~42,082 |
 | Troll with the Punches | 14.00% | ~42,082 |
-| A Keen Sense of Spell | 13.00% | ~39,076 |
-| A Talent for Spending | 12.00% | ~36,070 |
-| That's a Keeper | 12.00% | ~36,070 |
-| Grappling with a Graphorn | 11.00% | ~33,064 |
-| The One Who Mastered Memories | 11.00% | ~33,064 |
-| The Hallowed Hero | 11.00% | ~33,064 |
-| The Defender of Dragons | 11.00% | ~33,064 |
-| Loom for Improvement | 11.00% | ~33,064 |
-| Coasting Along | 11.00% | ~33,064 |
-| The Hero of Hogwarts | 10.00% | ~30,058 |
-| Challenge Accepted | 10.00% | ~30,058 |
-| Followed the Butterflies | 10.00% | ~30,058 |
+| A Keen Sense of Spell | 13.00% | ~39,077 |
+| A Talent for Spending | 12.00% | ~36,071 |
+| That's a Keeper | 12.00% | ~36,071 |
+| Grappling with a Graphorn | 11.00% | ~33,065 |
+| The One Who Mastered Memories | 11.00% | ~33,065 |
+| The Hallowed Hero | 11.00% | ~33,065 |
+| The Defender of Dragons | 11.00% | ~33,065 |
+| Loom for Improvement | 11.00% | ~33,065 |
+| Coasting Along | 11.00% | ~33,065 |
+| The Hero of Hogwarts | 10.00% | ~30,059 |
+| Challenge Accepted | 10.00% | ~30,059 |
+| Followed the Butterflies | 10.00% | ~30,059 |
 | The Spell Master | 9.00% | ~27,053 |
 | Rising From the Ashes | 9.00% | ~27,053 |
 | The Avenging Gazelle | 8.00% | ~24,047 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 121)
 | The Toast of the Town | 5.00% | ~15,029 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,029 |
 | The Ends Petrify the Means | 5.00% | ~15,029 |
-| Going Through the Potions | 4.00% | ~12,023 |
-| Room with a View | 4.00% | ~12,023 |
-| The Intrepid Explorer | 4.00% | ~12,023 |
-| The Wise Owl | 4.00% | ~12,023 |
+| Going Through the Potions | 4.00% | ~12,024 |
+| Room with a View | 4.00% | ~12,024 |
+| The Intrepid Explorer | 4.00% | ~12,024 |
+| The Wise Owl | 4.00% | ~12,024 |
 | Put Down Roots | 3.00% | ~9,018 |
 | The Auror's Apprentice | 3.00% | ~9,018 |
 | Floo Around the World | 3.00% | ~9,018 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 121)
 | The Nature of the Beast | 0.70% | ~2,104 |
 | Collector's Edition | 0.30% | ~902 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,584 (Ranked 50)  
+Progressed: 300,589 (Ranked 50)  
 Completed: 500 (0.17%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,10 +249,10 @@ Completed: 500 (0.17%) (Ranked 248)
 | 2023-11-01 | 300,130 | 498 |
 | 2023-11-02 | 300,315 | 500 |
 | 2023-11-03 | 300,541 | 500 |
-| 2023-11-04 | 300,584 | 500 |
+| 2023-11-04 | 300,589 | 500 |
 ## Awards
 Max (Character Customization): 24,015  (Ranked 17)  
-Sum: 47,349 (Ranked 30)  
+Sum: 47,351 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): -13
 | This game has Great Boss Battles | 12,129 |
 | This game is Great for Beginners | 1,252 |
 | This game has Amazing Storytelling | 1,215 |
-| This game has Diverse Characters | 1,212 |
+| This game has Diverse Characters | 1,214 |
 | This game is Extremely Fun | 1,203 |
 | This game is Relaxing | 1,185 |
 | This game has Amazing Characters | 1,174 |
@@ -496,4 +496,4 @@ Diff (max vs sum): -13
 | 2023-11-01 | 4.76 | 23,964 | 47,195 |
 | 2023-11-02 | 4.76 | 23,989 | 47,266 |
 | 2023-11-03 | 4.76 | 24,015 | 47,347 |
-| 2023-11-04 | 4.76 | 24,015 | 47,349 |
+| 2023-11-04 | 4.76 | 24,015 | 47,351 |

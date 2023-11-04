@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7205,
+  "EOS_Progressed": 7206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8140,6 +8140,11 @@
       "Time": "2023-11-04T01:46:57.6228411+00:00",
       "NumProgressed": 7205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T03:05:20.5993806+00:00",
+      "NumProgressed": 7206,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8183,7 +8188,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8191,7 +8196,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "Control_All_Relics",
@@ -8255,7 +8260,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "First_Race_Met",
@@ -8271,7 +8276,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1945
+      "UsersEstimate": 1946
     },
     {
       "ID": "First_Stream_Travel",
@@ -8287,7 +8292,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8343,7 +8348,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "Level_5_Ship",
@@ -8471,7 +8476,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4395
+      "UsersEstimate": 4396
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8487,7 +8492,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "War_Without_Translator",
@@ -8639,7 +8644,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4683
+      "UsersEstimate": 4684
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8726,15 +8731,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7205,
+      "Progressed": 7206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-04T02:32:04.7216133+00:00",
+  "LastChanged_Achievements": "2023-11-04T03:05:20.59938+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-04T02:28:01.7379643+00:00",
-  "LastUpdate_Achievements": "2023-11-04T02:32:04.7217605+00:00"
+  "LastUpdate_Ratings": "2023-11-04T03:00:35.0008307+00:00",
+  "LastUpdate_Achievements": "2023-11-04T03:05:20.5994772+00:00"
 }

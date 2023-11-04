@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,285 |
-| I read Shakespeare and stuff | 64.00% | ~32,670 |
-| Just a sprinkle | 62.00% | ~31,649 |
-| I'm stumped | 61.00% | ~31,139 |
-| Plant get enough | 60.00% | ~30,628 |
-| This is just my weekend vehicle | 58.00% | ~29,607 |
-| It's just the beginning | 58.00% | ~29,607 |
-| Hard work pays off | 53.00% | ~27,055 |
-| It's never too late to farm | 51.00% | ~26,034 |
-| All out of Land | 45.00% | ~22,971 |
-| Field Trip | 44.00% | ~22,461 |
-| I like to switch it up | 40.00% | ~20,419 |
-| Help me to help you | 38.00% | ~19,398 |
-| Ultimutt Pawesomeness | 28.00% | ~14,293 |
-| Van Gogh | 26.00% | ~13,272 |
-| You wood not believe it | 22.00% | ~11,230 |
-| Vehicle fleet | 22.00% | ~11,230 |
+| Own use | 75.00% | ~38,287 |
+| I read Shakespeare and stuff | 64.00% | ~32,671 |
+| Just a sprinkle | 62.00% | ~31,650 |
+| I'm stumped | 61.00% | ~31,140 |
+| Plant get enough | 60.00% | ~30,629 |
+| This is just my weekend vehicle | 58.00% | ~29,608 |
+| It's just the beginning | 58.00% | ~29,608 |
+| Hard work pays off | 53.00% | ~27,056 |
+| It's never too late to farm | 51.00% | ~26,035 |
+| All out of Land | 45.00% | ~22,972 |
+| Field Trip | 44.00% | ~22,462 |
+| I like to switch it up | 40.00% | ~20,420 |
+| Help me to help you | 38.00% | ~19,399 |
+| Ultimutt Pawesomeness | 28.00% | ~14,294 |
+| Van Gogh | 26.00% | ~13,273 |
+| You wood not believe it | 22.00% | ~11,231 |
+| Vehicle fleet | 22.00% | ~11,231 |
 | The plot thickens | 16.00% | ~8,168 |
 | Large-scale supplier | 16.00% | ~8,168 |
 | Well-Oiled Machine | 16.00% | ~8,168 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~204 |
 | Raisin the stakes | 0.30% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,047 (Ranked 107)  
+Progressed: 51,049 (Ranked 107)  
 Completed: 6 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 6 (0.01%) (Ranked 319)
 | 2023-11-01 | 50,940 | 6 |
 | 2023-11-02 | 50,982 | 6 |
 | 2023-11-03 | 51,039 | 6 |
-| 2023-11-04 | 51,047 | 6 |
+| 2023-11-04 | 51,049 | 6 |
 ## Awards
 Max (Great for Beginners): 5,393  (Ranked 70)  
 Sum: 42,129 (Ranked 33)  
