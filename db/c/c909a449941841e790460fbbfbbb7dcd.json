@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.99,
+  "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -599,6 +599,11 @@
       "Time": "2023-11-04T13:10:50.6119014+00:00",
       "NumProgressed": 134,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-04T14:21:52.6219991+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -619,7 +624,7 @@
       "Name": "Laser Beam",
       "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -635,7 +640,7 @@
       "Name": "Assassin",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -643,7 +648,7 @@
       "Name": "Murderer",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -651,7 +656,7 @@
       "Name": "Killer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -667,7 +672,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -691,7 +696,7 @@
       "Name": "Northbarrow is safe!",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -737,23 +742,23 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:10:50.6119007+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:21:52.6219987+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:00:30.5702283+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:10:50.6119182+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:00:59.69488+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:21:52.6220179+00:00"
 }

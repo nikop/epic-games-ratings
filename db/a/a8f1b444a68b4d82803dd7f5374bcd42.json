@@ -4,8 +4,8 @@
   "ProductSlug": "metamorphosis-547d51",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-05T22:00:00+00:00",
     "PcReleaseDate": "2020-08-12T17:00:00+00:00",
@@ -250,8 +250,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-30T12:03:31.3783643+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:05:33.8984227+00:00",
-  "LastUpdate_AppInfo": "2023-10-28T13:57:06.3804791+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:00:25.6174736+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:05:33.8985276+00:00"
+  "LastChanged_Achievements": "2023-11-04T14:16:10.6907447+00:00",
+  "LastUpdate_AppInfo": "2023-11-04T13:57:11.2761908+00:00",
+  "LastUpdate_Ratings": "2023-11-04T14:00:35.4421722+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:16:10.6907637+00:00"
 }

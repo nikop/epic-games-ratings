@@ -2,13 +2,13 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 249,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9197,10 +9197,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1741011,
       "NumberOfAwardsMax": 254144
+    },
+    {
+      "Time": "2023-11-04T14:06:56.3698159+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1742377,
+      "NumberOfAwardsMax": 254144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1741011,
+  "NumberOfAwards": 1742377,
   "NumberOfAwardsMax": 254144,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9208,13 +9214,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 220996
+      "Count": 221462
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 206737
+      "Count": 207171
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9244,7 +9250,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 212968
+      "Count": 213434
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9276,8 +9282,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-11-04T11:59:37.5230651+00:00",
+  "LastChanged": "2023-11-04T14:06:56.3698155+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.6881959+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:31.7552592+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:05:49.4029872+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:06:56.3698167+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:16:29.5288855+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 473,
+  "EOS_Progressed": 474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -492,6 +492,11 @@
       "Time": "2023-10-29T16:05:46.4610589+00:00",
       "NumProgressed": 473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T14:16:02.0472632+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -509,9 +514,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "631ndc2",
       "Name": "Perfect Illusion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -631,7 +636,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -653,9 +658,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "631ndc2",
       "Name": "Hundred Percent First",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -743,7 +748,7 @@
       "Name": "King of District 2",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -821,9 +826,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -839,7 +844,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -902,7 +907,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 473,
+      "Progressed": 474,
       "Completed": 1
     }
   ],
@@ -910,8 +915,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:05:25.9972042+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:16:02.0472625+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.5034408+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:33.6036101+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:05:25.9972973+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:07:08.1849776+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:16:02.047339+00:00"
 }

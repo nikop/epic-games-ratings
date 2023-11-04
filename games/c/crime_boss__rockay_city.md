@@ -39,15 +39,15 @@ Rating: 3.94 (Ranked 1,004)
 | Red Star | 0.20% | ~179 |
 | Classy Joint | 0.20% | ~179 |
 | All for One | 0.20% | ~36 |
+| One for All | 0.20% | ~36 |
 | Privateer | 0.10% | ~90 |
 | Talent Scout | 0.10% | ~90 |
 | Full House | 0.10% | ~90 |
 | Geek Out | 0.10% | ~90 |
 | Impossible Dreamer | 0.10% | ~90 |
-| One for All | 0.10% | ~18 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,542 (Ranked 90)  
+Progressed: 89,546 (Ranked 90)  
 Completed: 54 (0.06%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,11 +245,11 @@ Completed: 54 (0.06%) (Ranked 288)
 | 2023-11-01 | 89,485 | 53 |
 | 2023-11-02 | 89,504 | 53 |
 | 2023-11-03 | 89,528 | 54 |
-| 2023-11-04 | 89,542 | 54 |
+| 2023-11-04 | 89,546 | 54 |
 ## Awards
-Max (Diverse Characters): 521  (Ranked 203)  
+Max (Diverse Characters): 521  (Ranked 204)  
 Sum: 2,936 (Ranked 175)  
-Diff (max vs sum): 28  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 521 |

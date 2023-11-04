@@ -37,18 +37,18 @@
 | Evelyn Lakshmi Warbeck | 14.00% | ~4 |
 | Johan Kristiansen | 14.00% | ~4 |
 | The Suspects | 14.00% | ~4 |
+| Well-travelled | 10.00% | ~3 |
+| A peculiar fellow | 10.00% | ~3 |
+| Florence Farquhar | 10.00% | ~3 |
 | Horace Mountjoy | 10.00% | ~3 |
+| Mortimer Ailsworth | 10.00% | ~3 |
 | The Secrets | 10.00% | ~3 |
+| The Investigation Starts Anew | 10.00% | ~3 |
 | The Denouement | 7.00% | ~2 |
-| Well-travelled | 7.00% | ~2 |
 | A treasured heirloom | 7.00% | ~2 |
-| A peculiar fellow | 7.00% | ~2 |
 | The Penitent Magdalene | 7.00% | ~2 |
 | A true performance | 7.00% | ~2 |
-| Florence Farquhar | 7.00% | ~2 |
-| Mortimer Ailsworth | 7.00% | ~2 |
 | Perkins | 7.00% | ~2 |
-| The Investigation Starts Anew | 7.00% | ~2 |
 | A perilous journey | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 29 (Ranked 497)  

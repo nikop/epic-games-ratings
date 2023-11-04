@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-11-03T20:09:22.5542311+00:00",
       "NumProgressed": 526,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T14:22:15.4190934+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -828,7 +833,7 @@
       "ID": "TROP000",
       "SetID": "9n0dl35",
       "Name": "Endling",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -894,7 +899,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "TROP009",
@@ -902,7 +907,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TROP010",
@@ -924,9 +929,9 @@
       "ID": "TROP012",
       "SetID": "9n0dl35",
       "Name": "Never Give Up",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "TROP013",
@@ -942,7 +947,7 @@
       "Name": "Never Run Around",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "TROP015",
@@ -1006,7 +1011,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "TROP023",
@@ -1028,9 +1033,9 @@
       "ID": "TROP025",
       "SetID": "9n0dl35",
       "Name": "Chicken Dinner",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 105
     },
     {
       "ID": "TROP026",
@@ -1053,7 +1058,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 3
     }
   ],
@@ -1061,8 +1066,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:11:09.5689683+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:22:15.4190929+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:45.3335592+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:59.0051049+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:11:09.5689941+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:09:48.1868303+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:22:15.4191205+00:00"
 }

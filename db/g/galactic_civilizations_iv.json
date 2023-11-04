@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7208,
+  "EOS_Progressed": 7210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8155,6 +8155,11 @@
       "Time": "2023-11-04T12:05:06.8957255+00:00",
       "NumProgressed": 7208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T14:18:07.9684156+00:00",
+      "NumProgressed": 7210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8198,7 +8203,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8206,7 +8211,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "Control_All_Relics",
@@ -8230,7 +8235,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8246,7 +8251,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "First_Major_Ally",
@@ -8254,7 +8259,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -8270,7 +8275,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5552
     },
     {
       "ID": "First_Race_Met",
@@ -8278,7 +8283,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "First_Ship_Designed",
@@ -8286,7 +8291,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "First_Stream_Travel",
@@ -8302,7 +8307,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5550
+      "UsersEstimate": 5552
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8486,7 +8491,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8654,7 +8659,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4685
+      "UsersEstimate": 4686
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8678,7 +8683,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "Win_Diplomacy",
@@ -8741,15 +8746,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7208,
+      "Progressed": 7210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:07:09.6425386+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:18:07.968415+00:00",
   "LastUpdate_AppInfo": "2023-10-28T14:57:20.1801686+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:02:04.0702258+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:07:09.642685+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:10:05.3684832+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:18:07.9685533+00:00"
 }

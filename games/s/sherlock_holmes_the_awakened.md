@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 329)
 | Fhtagn! | 44.00% | ~350 |
 | Bookworm | 43.00% | ~342 |
 | Up In Flames | 43.00% | ~342 |
-| Going Once... | 39.00% | ~310 |
-| Let Me Be Frank | 37.00% | ~295 |
+| Going Once... | 40.00% | ~318 |
+| Let Me Be Frank | 38.00% | ~302 |
 | Brain Food | 36.00% | ~287 |
 | No Stone Unturned | 36.00% | ~287 |
 | Read It And Weep | 22.00% | ~175 |

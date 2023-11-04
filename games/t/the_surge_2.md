@@ -10,7 +10,7 @@ Rating: 4.24 (Ranked 875)
 | Jailbreak | 66.00% | ~1,418 |
 | HEADSHOT! | 38.00% | ~816 |
 | Suited and Booted | 38.00% | ~816 |
-| Sleeping With The Fishes | 35.00% | ~752 |
+| Sleeping With The Fishes | 36.00% | ~773 |
 | Overheated | 30.00% | ~644 |
 | High Performance | 30.00% | ~644 |
 | Powered Up | 28.00% | ~601 |

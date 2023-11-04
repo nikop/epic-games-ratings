@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7516,
+  "EOS_Progressed": 7519,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
@@ -6074,6 +6074,11 @@
       "Time": "2023-11-04T13:10:47.9845731+00:00",
       "NumProgressed": 7516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T14:21:49.4001258+00:00",
+      "NumProgressed": 7519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6086,7 +6091,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5412
+      "UsersEstimate": 5414
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6094,7 +6099,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5261
+      "UsersEstimate": 5263
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6102,7 +6107,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6110,7 +6115,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6134,7 +6139,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -6158,7 +6163,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "COLLECT_FISH",
@@ -6174,7 +6179,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6182,15 +6187,15 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3684
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6212,9 +6217,9 @@
       "ID": "COMPLETE_SHIPCONTRACTS_1",
       "SetID": "9eia0f5",
       "Name": "Giving the People What They Want",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "DISCOVER_SCROLLS_1",
@@ -6222,7 +6227,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6238,7 +6243,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6246,7 +6251,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6254,7 +6259,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -6262,7 +6267,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3459
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6334,7 +6339,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -6358,29 +6363,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7516,
+      "Progressed": 7519,
       "Completed": 0
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 133,
-      "Completed": 133
+      "Progressed": 136,
+      "Completed": 136
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:10:47.9845721+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:21:49.4001252+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:02:43.6912802+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:10:47.9846821+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:14:01.8610193+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:21:49.4002853+00:00"
 }

@@ -13,9 +13,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.20% | ~1,790 |
 | The Quick and the Dead | 0.20% | ~1,790 |
 | Stanislavski's Method | 0.20% | ~1,790 |
+| The Hermit | 0.20% | ~1,790 |
 | The Wheel of Fortune | 0.20% | ~1,790 |
 | True Soldier | 0.20% | ~1,790 |
 | True Warrior | 0.20% | ~1,790 |
+| Legend of The Afterlife | 0.20% | ~1,790 |
 | Spin Doctor | 0.20% | ~48 |
 | All the President's Men | 0.20% | ~48 |
 | Arachnophobia | 0.20% | ~48 |
@@ -42,7 +44,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.10% | ~895 |
 | The Devil | 0.10% | ~895 |
 | The Fool | 0.10% | ~895 |
-| The Hermit | 0.10% | ~895 |
 | The High Priestess | 0.10% | ~895 |
 | The Lovers | 0.10% | ~895 |
 | The Star | 0.10% | ~895 |
@@ -53,7 +54,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.10% | ~895 |
 | Judy vs Night City | 0.10% | ~895 |
 | It's Elementary | 0.10% | ~895 |
-| Legend of The Afterlife | 0.10% | ~895 |
 | The APB is Not Enough | 0.10% | ~24 |
 | Judgement Day | 0.10% | ~24 |
 | King of Cups | 0.10% | ~24 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,183 (Ranked 15)  
+Progressed: 895,193 (Ranked 15)  
 Completed: 2,742 (0.31%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,742 (0.31%) (Ranked 219)
 | 2023-11-01 | 894,844 | 2,736 |
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
-| 2023-11-04 | 895,183 | 2,742 |
+| 2023-11-04 | 895,193 | 2,742 |
 ## Awards
 Max (Character Customization): 103,657  (Ranked 9)  
 Sum: 341,561 (Ranked 10)  

@@ -19,8 +19,8 @@
 | Distance Devourer | 56.00% | ~124 |
 | Master of the Skies | 54.00% | ~119 |
 | Helpful Heart | 54.00% | ~119 |
+| Flawless Crystal | 53.00% | ~117 |
 | Bonds of Enmity | 53.00% | ~117 |
-| Flawless Crystal | 52.00% | ~115 |
 | Counter Specialist | 51.00% | ~113 |
 | Axer of Auspice | 46.00% | ~102 |
 | Fair Means or Foul | 44.00% | ~97 |

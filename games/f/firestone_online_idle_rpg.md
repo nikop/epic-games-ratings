@@ -5,12 +5,12 @@ Rating: 4.10 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,957 |
-| World Map | 79.00% | ~1,662 |
-| Temple of Eternals | 57.00% | ~1,199 |
-| Prestigious | 54.00% | ~1,136 |
-| Fellowship Power | 42.00% | ~884 |
-| Guild Power | 26.00% | ~547 |
+| Victor | 93.00% | ~1,959 |
+| World Map | 79.00% | ~1,664 |
+| Temple of Eternals | 57.00% | ~1,200 |
+| Prestigious | 54.00% | ~1,137 |
+| Fellowship Power | 42.00% | ~885 |
+| Guild Power | 26.00% | ~548 |
 | Prestigious x10 | 23.00% | ~484 |
 | The game is on | 21.00% | ~442 |
 | Exotic Merchant | 19.00% | ~400 |
@@ -28,21 +28,21 @@ Rating: 4.10 (Ranked 956)
 | Natural Talent | 14.00% | ~295 |
 | Superior | 14.00% | ~295 |
 | Scientist | 13.00% | ~274 |
-| Doing My Part | 12.00% | ~252 |
-| Hunter | 12.00% | ~252 |
-| The power of Awakening | 12.00% | ~252 |
-| Challenger | 11.00% | ~231 |
-| Daily Quest Completionist | 11.00% | ~231 |
-| Four Leaf Clover | 11.00% | ~231 |
-| Frostfire Liberator | 11.00% | ~231 |
-| Mastery | 11.00% | ~231 |
-| Moving Up The Ladder | 11.00% | ~231 |
-| Relic Of The Past | 11.00% | ~231 |
-| Scroll Master | 11.00% | ~231 |
-| Master Enchanter | 10.00% | ~210 |
-| The father of Dragons | 10.00% | ~210 |
-| Here We Go Again | 9.00% | ~189 |
-| Trader | 9.00% | ~189 |
+| Hunter | 12.00% | ~253 |
+| The power of Awakening | 12.00% | ~253 |
+| Challenger | 11.00% | ~232 |
+| Daily Quest Completionist | 11.00% | ~232 |
+| Doing My Part | 11.00% | ~232 |
+| Four Leaf Clover | 11.00% | ~232 |
+| Frostfire Liberator | 11.00% | ~232 |
+| Mastery | 11.00% | ~232 |
+| Moving Up The Ladder | 11.00% | ~232 |
+| Relic Of The Past | 11.00% | ~232 |
+| Scroll Master | 11.00% | ~232 |
+| Master Enchanter | 10.00% | ~211 |
+| The father of Dragons | 10.00% | ~211 |
+| Here We Go Again | 9.00% | ~190 |
+| Trader | 9.00% | ~190 |
 | Blueprint Upgrades | 8.00% | ~168 |
 | Crystal Mining | 8.00% | ~168 |
 | Dragon Slayer | 8.00% | ~168 |
@@ -70,19 +70,19 @@ Rating: 4.10 (Ranked 956)
 | Pokerface | 2.00% | ~42 |
 | Titan Power | 2.00% | ~42 |
 | Angel Power | 1.00% | ~21 |
-| Beast War Machines | 1.00% | ~21 |
 | Conqueror | 1.00% | ~21 |
 | Enhanced War Machines | 1.00% | ~21 |
 | Training makes a Pro player | 1.00% | ~21 |
 | Transmute | 1.00% | ~21 |
 | Tree of Life | 1.00% | ~21 |
+| Beast War Machines | 0.90% | ~19 |
 | Silverwood liberator | 0.80% | ~17 |
 | Ultimate War Machines | 0.80% | ~17 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,104 (Ranked 213)  
-Completed: 2 (0.10%) (Ranked 265)  
+Progressed: 2,106 (Ranked 213)  
+Completed: 2 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,11 +274,11 @@ Completed: 2 (0.10%) (Ranked 265)
 | 2023-11-01 | 2,090 | 2 |
 | 2023-11-02 | 2,096 | 2 |
 | 2023-11-03 | 2,103 | 2 |
-| 2023-11-04 | 2,104 | 2 |
+| 2023-11-04 | 2,106 | 2 |
 ## Awards
-Max (Great for Beginners): 30  (Ranked 489)  
+Max (Great for Beginners): 30  (Ranked 490)  
 Sum: 57 (Ranked 471)  
-Diff (max vs sum): 18  
+Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 30 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,11 +211,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14623,
-  "EOS_Completed": 31,
-  "EOS_NewPlayers": 210,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Progressed": 14624,
+  "EOS_Completed": 32,
+  "EOS_NewPlayers": 209,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -10366,6 +10366,11 @@
       "Time": "2023-11-04T13:08:01.3158635+00:00",
       "NumProgressed": 14623,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-04T14:19:09.6503559+00:00",
+      "NumProgressed": 14624,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10488,9 +10493,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "23",
@@ -10632,9 +10637,9 @@
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "34",
@@ -10657,22 +10662,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14623,
-      "Completed": 31
+      "Progressed": 14624,
+      "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 577,
-      "Completed": 332
+      "Progressed": 578,
+      "Completed": 334
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:08:01.3158627+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:19:09.6503555+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:24.7013187+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:40.5920488+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:08:01.3159686+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:07:53.3638923+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:19:09.6504744+00:00"
 }

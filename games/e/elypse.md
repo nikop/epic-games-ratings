@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 99.00% | ~98 |
-| A bottomless pit | 84.00% | ~83 |
-| Pigeon | 80.00% | ~79 |
-| Baited | 68.00% | ~67 |
-| "Swoosh" | 61.00% | ~60 |
-| The light at the end of the tunnel | 60.00% | ~59 |
-| Splash! | 55.00% | ~54 |
-| Masochistic | 54.00% | ~53 |
-| Soft skin | 51.00% | ~50 |
+| A path of no return | 99.00% | ~99 |
+| A bottomless pit | 84.00% | ~84 |
+| Pigeon | 80.00% | ~80 |
+| Baited | 67.00% | ~67 |
+| "Swoosh" | 60.00% | ~60 |
+| The light at the end of the tunnel | 59.00% | ~59 |
+| Splash! | 54.00% | ~54 |
+| Masochistic | 53.00% | ~53 |
+| Soft skin | 50.00% | ~50 |
 | Squid game | 44.00% | ~44 |
 | Rock Solid | 35.00% | ~35 |
 | The beast within | 34.00% | ~34 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 411)  
+Progressed: 100 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-09-30 | 97 | 0 |
 | 2023-10-10 | 98 | 0 |
 | 2023-10-13 | 99 | 0 |
+| 2023-11-04 | 100 | 0 |

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 72.00% | ~33 |
-| Something important | 70.00% | ~32 |
-| A piece of the story | 50.00% | ~23 |
-| Do what you have to | 37.00% | ~17 |
-| The artist’s impression | 33.00% | ~15 |
+| Wanderer | 72.00% | ~34 |
+| Something important | 70.00% | ~33 |
+| A piece of the story | 49.00% | ~23 |
+| Do what you have to | 36.00% | ~17 |
+| The artist’s impression | 32.00% | ~15 |
 | Refuse to look | 28.00% | ~13 |
 | Scraps of love | 28.00% | ~13 |
 | Finished it | 28.00% | ~13 |
+| It's covered up for a reason | 26.00% | ~12 |
 | Sign of weakness | 26.00% | ~12 |
-| It's covered up for a reason | 24.00% | ~11 |
 | Face your fears | 17.00% | ~8 |
 | First steps | 13.00% | ~6 |
 | Playtime | 13.00% | ~6 |
@@ -24,11 +24,11 @@
 | A Slice of Life | 9.00% | ~4 |
 | Debut | 9.00% | ~4 |
 | The art of movement | 9.00% | ~4 |
-| A new way | 7.00% | ~3 |
-| We Are Not Alone | 7.00% | ~3 |
-| Sound Bite | 7.00% | ~3 |
-| Heavy Burden | 7.00% | ~3 |
-| Whispers long forgotten | 7.00% | ~3 |
+| A new way | 6.00% | ~3 |
+| We Are Not Alone | 6.00% | ~3 |
+| Sound Bite | 6.00% | ~3 |
+| Heavy Burden | 6.00% | ~3 |
+| Whispers long forgotten | 6.00% | ~3 |
 | Another perspective | 4.00% | ~2 |
 | Casting Finished | 4.00% | ~2 |
 | Lights! Camera! Action! | 4.00% | ~2 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 467)  
+Progressed: 47 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,4 +76,4 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-01 | 39 | 0 |
 | 2023-11-02 | 40 | 0 |
 | 2023-11-03 | 44 | 0 |
-| 2023-11-04 | 46 | 0 |
+| 2023-11-04 | 47 | 0 |

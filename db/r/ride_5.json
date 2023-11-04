@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1978,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
@@ -4277,6 +4277,11 @@
       "Time": "2023-11-04T12:09:27.7733138+00:00",
       "NumProgressed": 1978,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T14:22:15.4432041+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4297,7 +4302,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4585,7 +4590,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4680,14 +4685,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1978,
+      "Progressed": 1979,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:11:09.6524694+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:22:15.4432037+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:15.3692655+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:24.7738633+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:11:09.6525488+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:06:26.9711785+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:22:15.4432737+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -3112,17 +3112,17 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 318
     },
     {
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 302
     },
     {
       "ID": "MQ04_3",
@@ -3257,8 +3257,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-10-26T10:01:34.2106941+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:06:44.3692708+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:17:37.5126454+00:00",
   "LastUpdate_AppInfo": "2023-10-28T13:57:08.301108+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:00:48.4117854+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:06:44.3693096+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:02:47.2057119+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:17:37.5126892+00:00"
 }

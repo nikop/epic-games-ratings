@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,11 +173,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19358,
-  "EOS_Completed": 57,
+  "EOS_Progressed": 19359,
+  "EOS_Completed": 58,
   "EOS_NewPlayers": 205,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:51.3852974+00:00",
@@ -16118,6 +16118,11 @@
       "Time": "2023-11-04T13:06:19.183125+00:00",
       "NumProgressed": 19358,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-04T14:17:06.8775469+00:00",
+      "NumProgressed": 19359,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -16129,7 +16134,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15099
+      "UsersEstimate": 15100
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -16177,7 +16182,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -16209,7 +16214,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "ACH_THE_FALL",
@@ -16217,7 +16222,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -16240,15 +16245,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19358,
-      "Completed": 57
+      "Progressed": 19359,
+      "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:06:19.1831242+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:17:06.8775462+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:59:47.9713426+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:00:41.143099+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:06:19.1832366+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:01:55.9740831+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:17:06.8776715+00:00"
 }

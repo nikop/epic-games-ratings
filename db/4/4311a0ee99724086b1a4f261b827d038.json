@@ -3,12 +3,12 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 500,
-  "Ranking_Popularity": 492,
+  "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -509,9 +509,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 230420,
+  "EOS_Progressed": 230437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1397,
+  "EOS_NewPlayers": 1404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12439,6 +12439,11 @@
       "Time": "2023-11-04T13:10:49.4073412+00:00",
       "NumProgressed": 230420,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T14:21:51.0624921+00:00",
+      "NumProgressed": 230437,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12507,7 +12512,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48392
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -12515,7 +12520,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20738
+      "UsersEstimate": 20739
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -12523,7 +12528,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 11521
+      "UsersEstimate": 11522
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -12539,7 +12544,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -12563,7 +12568,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -12571,7 +12576,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -12635,7 +12640,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32259
+      "UsersEstimate": 32261
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -12643,7 +12648,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16131
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -12651,7 +12656,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4608
+      "UsersEstimate": 4609
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -12707,7 +12712,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57605
+      "UsersEstimate": 57609
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -12722,7 +12727,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 230420,
+      "Progressed": 230437,
       "Completed": 0
     }
   ],
@@ -12730,8 +12735,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-01T08:57:14.6791597+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:10:49.4073402+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:21:51.0624915+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:41.4334567+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:00:31.0196626+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:10:49.4075116+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:01:00.8273237+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:21:51.0626342+00:00"
 }

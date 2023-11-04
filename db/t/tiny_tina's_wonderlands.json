@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-24T23:00:00+00:00",
     "PcReleaseDate": "2022-03-24T23:00:00+00:00",
@@ -9407,10 +9407,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 35652,
       "NumberOfAwardsMax": 20170
+    },
+    {
+      "Time": "2023-11-04T14:03:57.9992268+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 35660,
+      "NumberOfAwardsMax": 20170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35652,
+  "NumberOfAwards": 35660,
   "NumberOfAwardsMax": 20170,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9424,7 +9430,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2000
+      "Count": 2001
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9442,7 +9448,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2006
+      "Count": 2009
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9472,7 +9478,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1934
+      "Count": 1938
     }
   ],
   "EOS_Progressed": 0,
@@ -9486,8 +9492,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2023-11-04T13:01:01.3085582+00:00",
+  "LastChanged": "2023-11-04T14:03:57.9992263+00:00",
   "LastUpdate_AppInfo": "2023-10-28T18:00:13.0191712+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:01.3085589+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:07:09.3920625+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:03:57.9992278+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:18:07.6819527+00:00"
 }

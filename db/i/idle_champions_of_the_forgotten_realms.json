@@ -7775,10 +7775,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32340,
       "NumberOfAwardsMax": 5478
+    },
+    {
+      "Time": "2023-11-04T14:07:46.8162027+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32342,
+      "NumberOfAwardsMax": 5478
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32340,
+  "NumberOfAwards": 32342,
   "NumberOfAwardsMax": 5478,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7822,12 +7828,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3504
+      "Count": 3506
     }
   ],
-  "EOS_Progressed": 233626,
+  "EOS_Progressed": 233633,
   "EOS_Completed": 2427,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -29960,6 +29966,11 @@
       "Time": "2023-11-04T13:06:39.5100162+00:00",
       "NumProgressed": 233626,
       "NumCompleted": 2427
+    },
+    {
+      "Time": "2023-11-04T14:17:31.784326+00:00",
+      "NumProgressed": 233633,
+      "NumCompleted": 2427
     }
   ],
   "TotalAchievements": 532,
@@ -34193,9 +34204,9 @@
       "ID": "objective_completed_1547",
       "SetID": "415jc5c",
       "Name": "The Beginning is the End",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1999
     },
     {
       "ID": "objective_completed_1548",
@@ -34226,21 +34237,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 199900,
-      "Completed": 3870
+      "Progressed": 199907,
+      "Completed": 3872
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233626,
+      "Progressed": 233633,
       "Completed": 2427
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-04T13:01:38.6437695+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:06:39.5100155+00:00",
+  "LastChanged": "2023-11-04T14:07:46.8162023+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:17:31.7843254+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:25.4419569+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:38.6437706+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:06:39.5134739+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:07:46.8162035+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:17:31.7871538+00:00"
 }

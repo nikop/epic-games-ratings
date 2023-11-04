@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4204,
+  "EOS_Progressed": 4205,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7249,6 +7249,11 @@
       "Time": "2023-11-03T11:07:44.1443907+00:00",
       "NumProgressed": 4204,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-04T14:16:12.9864319+00:00",
+      "NumProgressed": 4205,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7276,7 +7281,7 @@
       "Name": "This will cost you big time",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Ach004",
@@ -7418,9 +7423,9 @@
       "ID": "Ach021",
       "SetID": "12n4k20",
       "Name": "I have to read these things?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 294
     },
     {
       "ID": "Ach022",
@@ -7452,7 +7457,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Ach026",
@@ -7500,7 +7505,7 @@
       "Name": "Perfect Parry",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Ach032",
@@ -7516,7 +7521,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "Ach034",
@@ -7636,7 +7641,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "Ach049",
@@ -7756,7 +7761,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Ach064",
@@ -7827,13 +7832,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4204,
+      "Progressed": 4205,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2725,
+      "Progressed": 2726,
       "Completed": 1930
     }
   ],
@@ -7841,8 +7846,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:05:35.9866355+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:16:12.9864313+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:07.0872325+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:02:19.6276849+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:05:35.9867593+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:11:41.6383464+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:16:12.9866193+00:00"
 }

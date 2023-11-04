@@ -3,12 +3,12 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 956,
-  "Ranking_Popularity": 489,
+  "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,11 +451,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2104,
+  "EOS_Progressed": 2106,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:50.6381931+00:00",
@@ -6511,6 +6511,11 @@
       "Time": "2023-11-04T06:06:05.8376777+00:00",
       "NumProgressed": 2104,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-04T14:19:22.3733038+00:00",
+      "NumProgressed": 2106,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6560,9 +6565,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "blueprintupgrades",
@@ -6586,7 +6591,7 @@
       "Name": "Challenger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "conqueror",
@@ -6610,15 +6615,15 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 232
     },
     {
       "ID": "dragonclicker",
@@ -6706,7 +6711,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "fourleafclover",
@@ -6714,7 +6719,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "frostfireliberator",
@@ -6722,7 +6727,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "fullparty",
@@ -6754,7 +6759,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "herewegoagain",
@@ -6762,7 +6767,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "heroinspection",
@@ -6786,7 +6791,7 @@
       "Name": "Hunter",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "inspection",
@@ -6834,7 +6839,7 @@
       "Name": "Master Enchanter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "mastery",
@@ -6842,7 +6847,7 @@
       "Name": "Mastery",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "milestonecollector",
@@ -6874,7 +6879,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "mysteriousrock",
@@ -6914,7 +6919,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "prestigiousx10",
@@ -6930,7 +6935,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "sailor",
@@ -6954,7 +6959,7 @@
       "Name": "Scroll Master",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "silverwoodliberator",
@@ -6978,7 +6983,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "thealchemist",
@@ -7002,7 +7007,7 @@
       "Name": "The father of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "thegameison",
@@ -7018,7 +7023,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "theunstoppable",
@@ -7042,7 +7047,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -7082,7 +7087,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1959
     },
     {
       "ID": "warmachinesarmy",
@@ -7114,14 +7119,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1664
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2104,
+      "Progressed": 2106,
       "Completed": 2
     }
   ],
@@ -7129,8 +7134,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:08:11.8801294+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:19:22.3733034+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:20.0425702+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:31.8979184+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:08:11.8802617+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:06:56.9013084+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:19:22.3734359+00:00"
 }

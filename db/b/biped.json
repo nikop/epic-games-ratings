@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6872,
+  "EOS_Progressed": 6873,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12314,6 +12314,11 @@
       "Time": "2023-11-04T13:07:20.1731325+00:00",
       "NumProgressed": 6872,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-04T14:18:20.7122004+00:00",
+      "NumProgressed": 6873,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12325,7 +12330,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "10",
@@ -12341,7 +12346,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "12",
@@ -12444,7 +12449,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6872,
+      "Progressed": 6873,
       "Completed": 0
     }
   ],
@@ -12452,8 +12457,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:07:20.1731317+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:18:20.7121997+00:00",
   "LastUpdate_AppInfo": "2023-10-28T16:57:15.5003147+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:02:31.7877+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:07:20.1732197+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:12:43.1307313+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:18:20.7123266+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -759,6 +759,11 @@
       "Time": "2023-11-04T13:06:26.2015799+00:00",
       "NumProgressed": 145,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T14:17:15.485098+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -795,15 +800,15 @@
       "Name": "Resilience to Sin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_14",
@@ -835,7 +840,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_18",
@@ -849,9 +854,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_2",
@@ -859,7 +864,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_20",
@@ -905,9 +910,9 @@
       "ID": "achievement_26",
       "SetID": "18al4io",
       "Name": "Scholar",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_3",
@@ -979,15 +984,15 @@
       "Name": "Periapt Cerulean",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_46",
@@ -1003,7 +1008,7 @@
       "Name": "Enlisted",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "achievement_49",
@@ -1129,9 +1134,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_9",
@@ -1139,14 +1144,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 1
     }
   ],
@@ -1154,8 +1159,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-04T02:27:45.141984+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:06:26.2015789+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:17:15.4850974+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:57:37.4370637+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:01:52.5245829+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:06:26.2016506+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:09:08.4724116+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:17:15.4851474+00:00"
 }

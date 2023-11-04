@@ -6,7 +6,7 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -6099,10 +6099,10 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712120,
-  "EOS_Completed": 2319,
-  "EOS_NewPlayers": 5918,
-  "EOS_NewCompleters": 44,
+  "EOS_Progressed": 712179,
+  "EOS_Completed": 2321,
+  "EOS_NewPlayers": 5912,
+  "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28664,6 +28664,11 @@
       "Time": "2023-11-04T13:06:54.8148323+00:00",
       "NumProgressed": 712120,
       "NumCompleted": 2319
+    },
+    {
+      "Time": "2023-11-04T14:17:49.6555498+00:00",
+      "NumProgressed": 712179,
+      "NumCompleted": 2321
     }
   ],
   "TotalAchievements": 51,
@@ -28833,9 +28838,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 1424
     },
     {
       "ID": "ach_impressive_aim",
@@ -29035,15 +29040,15 @@
       "Name": "One of Us",
       "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ach_dark_magic",
       "SetID": "344c43k",
       "Name": "Whatever It Takes",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 302
     },
     {
       "ID": "ach_gardening_tools",
@@ -29082,22 +29087,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712120,
-      "Completed": 2319
+      "Progressed": 712179,
+      "Completed": 2321
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 37662,
-      "Completed": 36407
+      "Progressed": 37721,
+      "Completed": 36408
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-04T12:00:36.1136371+00:00",
-  "LastChanged_Achievements": "2023-11-04T13:06:54.8148315+00:00",
+  "LastChanged_Achievements": "2023-11-04T14:17:49.6555494+00:00",
   "LastUpdate_AppInfo": "2023-10-28T17:58:13.8306038+00:00",
-  "LastUpdate_Ratings": "2023-11-04T13:02:24.411148+00:00",
-  "LastUpdate_Achievements": "2023-11-04T13:06:54.8150168+00:00"
+  "LastUpdate_Ratings": "2023-11-04T14:12:02.231955+00:00",
+  "LastUpdate_Achievements": "2023-11-04T14:17:49.6557284+00:00"
 }
