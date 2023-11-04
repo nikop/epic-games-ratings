@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14631,
+  "EOS_Progressed": 14633,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10386,6 +10386,11 @@
       "Time": "2023-11-04T19:08:44.7834958+00:00",
       "NumProgressed": 14631,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-04T20:05:54.4817573+00:00",
+      "NumProgressed": 14633,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10476,9 +10481,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 293
     },
     {
       "ID": "2",
@@ -10540,9 +10545,9 @@
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 293
     },
     {
       "ID": "27",
@@ -10644,7 +10649,7 @@
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -10652,9 +10657,9 @@
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "34",
@@ -10677,22 +10682,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14631,
+      "Progressed": 14633,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 585,
-      "Completed": 344
+      "Progressed": 587,
+      "Completed": 347
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:08:44.7834956+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:05:54.4817567+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:02:24.1775626+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:08:44.7835601+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:59:51.2445348+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:05:54.4818258+00:00"
 }

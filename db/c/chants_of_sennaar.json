@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 428,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 5.9,
+  "EOS_Completed_Percentage": 5.84,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1865,6 +1865,11 @@
       "Time": "2023-11-04T19:10:42.2264295+00:00",
       "NumProgressed": 424,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-04T20:07:11.8754622+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 25,
@@ -1882,9 +1887,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "META_ALL_LINK",
@@ -1892,7 +1897,7 @@
       "Name": "Peace walker",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -1906,9 +1911,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 64
     },
     {
       "ID": "META_HALF_LINK",
@@ -1924,7 +1929,7 @@
       "Name": "Open door",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1932,15 +1937,15 @@
       "Name": "Free at last",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1954,9 +1959,9 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "META_RESULT_3-4",
@@ -1964,7 +1969,7 @@
       "Name": "A Link to the Past",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1972,7 +1977,7 @@
       "Name": "Alchemists Express",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -1980,7 +1985,7 @@
       "Name": "Rascal",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -1988,7 +1993,7 @@
       "Name": "True G3M4R",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2012,15 +2017,15 @@
       "Name": "Champollion",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2028,23 +2033,23 @@
       "Name": "Scholar",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 120
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_N3",
@@ -2052,7 +2057,7 @@
       "Name": "A new dawn",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "PROGRESS_N4",
@@ -2060,7 +2065,7 @@
       "Name": "The darkness",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PROGRESS_N5",
@@ -2075,14 +2080,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 428,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:10:42.2264293+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:07:11.8754619+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:03:16.2656005+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:10:42.2264493+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:46.3716441+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:07:11.8754833+00:00"
 }

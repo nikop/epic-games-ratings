@@ -6,8 +6,8 @@
   "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3823,
+  "EOS_Progressed": 3824,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7687,6 +7687,11 @@
       "Time": "2023-11-04T14:17:59.0453748+00:00",
       "NumProgressed": 3823,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-04T20:04:51.648314+00:00",
+      "NumProgressed": 3824,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7706,7 +7711,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7762,7 +7767,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7824,9 +7829,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -7866,7 +7871,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7898,7 +7903,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -7938,7 +7943,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -7962,7 +7967,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8074,7 +8079,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -8104,9 +8109,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 956
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8122,7 +8127,7 @@
       "Name": "F\u00FChrerious Repetition",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -8130,7 +8135,7 @@
       "Name": "Reich To The Point",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -8146,7 +8151,7 @@
       "Name": "Covert Elimination",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -8242,7 +8247,7 @@
       "Name": "Shipbreaker",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_DLC04_02_SINK_OR_SWIM",
@@ -8250,7 +8255,7 @@
       "Name": "Sink or Swim",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_DLC04_03_GOING_OVERBOARD",
@@ -8265,13 +8270,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3774,
+      "Progressed": 3775,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3823,
+      "Progressed": 3824,
       "Completed": 11
     }
   ],
@@ -8279,8 +8284,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:07:42.2944978+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:04:51.6483134+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:05:22.9222381+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:07:42.2945745+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:01:01.4470284+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:04:51.6484056+00:00"
 }

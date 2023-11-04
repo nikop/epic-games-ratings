@@ -175,6 +175,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~30 |
 | Bronze Victory (Carthage 2) | 0.20% | ~30 |
 | Silver Victory (Carthage 2) | 0.20% | ~30 |
+| Carthage - Rise of Rome | 0.20% | ~30 |
 | Cleopatra's Love | 0.20% | ~30 |
 | Holy | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
@@ -210,7 +211,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Epic Victory (Carthage 1) | 0.10% | ~15 |
 | Epic Victory (Carthage 2) | 0.10% | ~15 |
 | Gold Victory (Carthage 2) | 0.10% | ~15 |
-| Carthage - Rise of Rome | 0.10% | ~15 |
 | Bronze Victory (Carthage 3) | 0.10% | ~15 |
 | Epic Victory (Carthage 3) | 0.10% | ~15 |
 | Gold Victory (Carthage 3) | 0.10% | ~15 |

@@ -4,7 +4,7 @@
   "ProductSlug": "metro-last-light-redux",
   "Ranking_Rating": 212,
   "Ranking_Popularity": 114,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 454,
@@ -1736,5 +1736,5 @@
   "LastChanged": "2023-11-04T14:14:56.4100218+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:29.4782367+00:00",
   "LastUpdate_Ratings": "2023-11-04T19:05:28.0653653+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:19.4727207+00:00"
+  "LastUpdate_Achievements": "2023-11-04T20:08:27.9211176+00:00"
 }

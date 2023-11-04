@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9494,
+  "EOS_Progressed": 9495,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11060,6 +11060,11 @@
       "Time": "2023-11-04T19:06:09.4714683+00:00",
       "NumProgressed": 9494,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T20:03:19.0648617+00:00",
+      "NumProgressed": 9495,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11071,7 +11076,7 @@
       "Name": "Adventure Time",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7310
+      "UsersEstimate": 7311
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11143,7 +11148,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -11167,7 +11172,7 @@
       "Name": "Guardian Angel",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -11215,7 +11220,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8450
+      "UsersEstimate": 8451
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -11239,7 +11244,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -11271,7 +11276,7 @@
       "Name": "Photogenic",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 8070
+      "UsersEstimate": 8071
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -11279,7 +11284,7 @@
       "Name": "Playing With Power",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7120
+      "UsersEstimate": 7121
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -11287,7 +11292,7 @@
       "Name": "Plug It In",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7690
+      "UsersEstimate": 7691
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -11343,7 +11348,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -11375,7 +11380,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 7785
+      "UsersEstimate": 7786
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -11423,7 +11428,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -11439,7 +11444,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4082
+      "UsersEstimate": 4083
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -11470,15 +11475,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9494,
+      "Progressed": 9495,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:06:09.4714681+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:03:19.064861+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:11.3285205+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:03:17.1054486+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:06:09.4715359+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:47.22131+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:03:19.0649354+00:00"
 }

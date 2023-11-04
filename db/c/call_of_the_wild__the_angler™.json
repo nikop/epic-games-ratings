@@ -9436,9 +9436,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9715,8 +9715,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T14:57:55.3349519+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:11:19.0100534+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:08:27.5313097+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:00:56.2693298+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:19.0101058+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:58:22.4276076+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:08:27.531363+00:00"
 }

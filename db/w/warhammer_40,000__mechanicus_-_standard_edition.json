@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-mechanicus-0e4b71",
   "Ranking_Rating": 687,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 107,
@@ -802,10 +802,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2184,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2023-11-04T19:57:12.7444132+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2186,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2184,
+  "NumberOfAwards": 2186,
   "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -813,7 +819,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 247
+      "Count": 248
     },
     {
       "Text": "This game is Relaxing",
@@ -855,7 +861,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game is Great for Beginners",
@@ -870,9 +876,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 226408,
+  "EOS_Progressed": 226414,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22565,6 +22571,11 @@
       "Time": "2023-11-04T19:11:33.9585862+00:00",
       "NumProgressed": 226408,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T20:08:41.8054516+00:00",
+      "NumProgressed": 226414,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22576,7 +22587,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43018
+      "UsersEstimate": 43019
     },
     {
       "ID": "ACH_BASE_10",
@@ -22584,7 +22595,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58866
+      "UsersEstimate": 58868
     },
     {
       "ID": "ACH_BASE_11",
@@ -22600,7 +22611,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9056
+      "UsersEstimate": 9057
     },
     {
       "ID": "ACH_BASE_13",
@@ -22656,7 +22667,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13584
+      "UsersEstimate": 13585
     },
     {
       "ID": "ACH_BASE_20",
@@ -22744,7 +22755,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9056
+      "UsersEstimate": 9057
     },
     {
       "ID": "ACH_BASE_30",
@@ -22824,7 +22835,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27169
+      "UsersEstimate": 27170
     },
     {
       "ID": "ACH_BASE_8",
@@ -22832,7 +22843,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9056
+      "UsersEstimate": 9057
     },
     {
       "ID": "ACH_BASE_9",
@@ -22847,16 +22858,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226408,
+      "Progressed": 226414,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-11-04T13:57:20.5666557+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:11:33.9585859+00:00",
+  "LastChanged": "2023-11-04T19:57:12.744413+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:08:41.8054511+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.5149381+00:00",
-  "LastUpdate_Ratings": "2023-11-04T18:59:54.6233386+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:33.9587103+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:57:12.7444136+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:08:41.805544+00:00"
 }

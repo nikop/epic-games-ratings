@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 6.00% | ~1,804 |
+| Stylish | 6.00% | ~1,805 |
 | Advancement | 5.00% | ~1,504 |
 | Meticulously Efficient | 5.00% | ~1,504 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,203 |
@@ -19,23 +19,23 @@ Rating: 4.50 (Ranked 582)
 | There you are! | 3.00% | ~902 |
 | Vaporous Expansion | 3.00% | ~902 |
 | Whoopsie | 3.00% | ~902 |
-| Animated | 2.00% | ~601 |
-| Back Off | 2.00% | ~601 |
-| We have the best insurance | 2.00% | ~601 |
-| Daily Dose | 2.00% | ~601 |
-| Ectoplasmic Entity | 2.00% | ~601 |
-| Ghostbuster In Training | 2.00% | ~601 |
-| Icing on the Cake | 2.00% | ~601 |
-| Legions | 2.00% | ~601 |
-| Pesky Jerks | 2.00% | ~601 |
-| Rift Destroyer | 2.00% | ~601 |
-| Right back at ya | 2.00% | ~601 |
-| Seasoned | 2.00% | ~601 |
-| Side Hustle | 2.00% | ~601 |
-| Skilled | 2.00% | ~601 |
-| Stunner | 2.00% | ~601 |
-| Summoner | 2.00% | ~601 |
-| Welcome to the Crew | 2.00% | ~601 |
+| Animated | 2.00% | ~602 |
+| Back Off | 2.00% | ~602 |
+| We have the best insurance | 2.00% | ~602 |
+| Daily Dose | 2.00% | ~602 |
+| Ectoplasmic Entity | 2.00% | ~602 |
+| Ghostbuster In Training | 2.00% | ~602 |
+| Icing on the Cake | 2.00% | ~602 |
+| Legions | 2.00% | ~602 |
+| Pesky Jerks | 2.00% | ~602 |
+| Rift Destroyer | 2.00% | ~602 |
+| Right back at ya | 2.00% | ~602 |
+| Seasoned | 2.00% | ~602 |
+| Side Hustle | 2.00% | ~602 |
+| Skilled | 2.00% | ~602 |
+| Stunner | 2.00% | ~602 |
+| Summoner | 2.00% | ~602 |
+| Welcome to the Crew | 2.00% | ~602 |
 | Collector | 1.00% | ~301 |
 | Diabolical | 1.00% | ~301 |
 | Escape Artist | 1.00% | ~301 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 582)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,071 (Ranked 122)  
-Completed: 65 (0.22%) (Ranked 233)  
+Progressed: 30,077 (Ranked 122)  
+Completed: 65 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 65 (0.22%) (Ranked 233)
 | 2023-11-01 | 29,572 | 65 |
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
-| 2023-11-04 | 30,071 | 65 |
+| 2023-11-04 | 30,077 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
 Sum: 2,684 (Ranked 180)  

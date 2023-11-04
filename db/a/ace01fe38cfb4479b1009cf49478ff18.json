@@ -247,9 +247,9 @@
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_chapter_complete_3",
@@ -303,9 +303,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:11:17.5898886+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:08:26.1507595+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:03:06.536926+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:17.5898956+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:35.3207151+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:08:26.1507695+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,866 |
-| This is only the beginning | 19.00% | ~43,018 |
-| Knowledge is power | 12.00% | ~27,169 |
+| No aid from the Omnissiah | 26.00% | ~58,868 |
+| This is only the beginning | 19.00% | ~43,019 |
+| Knowledge is power | 12.00% | ~27,170 |
 | Galvanic Rifle | 10.00% | ~22,641 |
 | Power Ranger | 9.00% | ~20,377 |
 | Taser Goad | 9.00% | ~20,377 |
 | Radium Ready | 9.00% | ~20,377 |
 | Half a cog | 9.00% | ~20,377 |
-| Watch them crumble | 6.00% | ~13,584 |
-| Competent Cohort | 4.00% | ~9,056 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,056 |
-| One with the Machine | 4.00% | ~9,056 |
+| Watch them crumble | 6.00% | ~13,585 |
+| Competent Cohort | 4.00% | ~9,057 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,057 |
+| One with the Machine | 4.00% | ~9,057 |
 | Legio Cybernetica | 3.00% | ~6,792 |
 | Fleshy Disposal | 3.00% | ~6,792 |
 | Battle Servitor | 2.00% | ~4,528 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 687)
 | Perma-live | 0.10% | ~226 |
 | Purge the Heretek | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,408 (Ranked 66)  
+Progressed: 226,414 (Ranked 66)  
 Completed: 5 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,19 +238,19 @@ Completed: 5 (0.00%) (Ranked 342)
 | 2023-11-01 | 226,213 | 5 |
 | 2023-11-02 | 226,282 | 5 |
 | 2023-11-03 | 226,343 | 5 |
-| 2023-11-04 | 226,408 | 5 |
+| 2023-11-04 | 226,414 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 252)  
-Sum: 2,184 (Ranked 199)  
-Diff (max vs sum): 53  
+Sum: 2,186 (Ranked 200)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 289 |
-| This game has Quickly Understood Controls | 281 |
+| This game has Quickly Understood Controls | 282 |
 | This game is Extremely Fun | 278 |
 | This game has Diverse Characters | 267 |
 | This game has Amazing Characters | 266 |
-| This game has Amazing Storytelling | 247 |
+| This game has Amazing Storytelling | 248 |
 | This game is Relaxing | 243 |
 | This game has Unique Visuals | 213 |
 | This game has a Creative Community | 100 |
@@ -344,4 +344,4 @@ Diff (max vs sum): 53
 | 2023-10-31 | 4.43 | 289 | 2,179 |
 | 2023-11-02 | 4.43 | 289 | 2,181 |
 | 2023-11-03 | 4.43 | 289 | 2,183 |
-| 2023-11-04 | 4.43 | 289 | 2,184 |
+| 2023-11-04 | 4.43 | 289 | 2,186 |

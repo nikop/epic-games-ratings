@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231880,
+  "EOS_Progressed": 231884,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20566,6 +20566,11 @@
       "Time": "2023-11-04T19:09:51.9306317+00:00",
       "NumProgressed": 231880,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-04T20:07:01.9353036+00:00",
+      "NumProgressed": 231884,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20641,7 +20646,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83477
+      "UsersEstimate": 83478
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -20721,7 +20726,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78839
+      "UsersEstimate": 78841
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -20745,7 +20750,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6956
+      "UsersEstimate": 6957
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -20800,7 +20805,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231880,
+      "Progressed": 231884,
       "Completed": 5
     }
   ],
@@ -20808,8 +20813,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:09:51.9306314+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:07:01.9353031+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:01:26.3106097+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:09:51.9307584+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:58:53.2916844+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:07:01.9354149+00:00"
 }

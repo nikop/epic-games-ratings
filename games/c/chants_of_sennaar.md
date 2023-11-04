@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 29.00% | ~123 |
-| Welcome to the Tower | 29.00% | ~123 |
-| The great escape | 24.00% | ~102 |
+| That's the spirit | 30.00% | ~128 |
+| Welcome to the Tower | 28.00% | ~120 |
+| The great escape | 25.00% | ~107 |
 | The Preacher's fate | 23.00% | ~98 |
-| A new dawn | 20.00% | ~85 |
-| True G3M4R | 17.00% | ~72 |
-| Scholar | 17.00% | ~72 |
-| The darkness | 17.00% | ~72 |
-| A good beginning | 16.00% | ~68 |
+| A new dawn | 20.00% | ~86 |
+| True G3M4R | 17.00% | ~73 |
+| Scholar | 17.00% | ~73 |
+| The darkness | 17.00% | ~73 |
 | I did it | 15.00% | ~64 |
 | Cable guy | 15.00% | ~64 |
+| A good beginning | 15.00% | ~64 |
 | Half the way | 15.00% | ~64 |
 | One last step | 15.00% | ~64 |
-| Peace walker | 14.00% | ~59 |
-| Champollion | 14.00% | ~59 |
-| In this together | 13.00% | ~55 |
-| Open door | 13.00% | ~55 |
-| Feels like springtime | 13.00% | ~55 |
-| Alchemists Express | 13.00% | ~55 |
-| Free at last | 10.00% | ~42 |
-| A Link to the Past | 10.00% | ~42 |
-| Rascal | 10.00% | ~42 |
+| In this together | 14.00% | ~60 |
+| Peace walker | 14.00% | ~60 |
+| Champollion | 14.00% | ~60 |
+| Open door | 13.00% | ~56 |
+| Alchemists Express | 13.00% | ~56 |
+| Feels like springtime | 12.00% | ~51 |
+| Free at last | 10.00% | ~43 |
+| A Link to the Past | 10.00% | ~43 |
+| Rascal | 10.00% | ~43 |
+| For its own good | 8.00% | ~34 |
 | A great audience | 7.00% | ~30 |
-| For its own good | 7.00% | ~30 |
 | Fashion victim | 3.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424 (Ranked 305)  
-Completed: 25 (5.90%) (Ranked 60)  
+Progressed: 428 (Ranked 305)  
+Completed: 25 (5.84%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,4 +135,4 @@ Completed: 25 (5.90%) (Ranked 60)
 | 2023-11-01 | 354 | 23 |
 | 2023-11-02 | 368 | 23 |
 | 2023-11-03 | 394 | 23 |
-| 2023-11-04 | 424 | 25 |
+| 2023-11-04 | 428 | 25 |

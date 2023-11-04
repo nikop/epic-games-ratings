@@ -6,7 +6,7 @@
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2108,
+  "EOS_Progressed": 2109,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6526,6 +6526,11 @@
       "Time": "2023-11-04T18:06:25.324535+00:00",
       "NumProgressed": 2108,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-04T20:06:05.9421652+00:00",
+      "NumProgressed": 2109,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6537,7 +6542,7 @@
       "Name": "Active Member",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ancientknowledge",
@@ -6545,7 +6550,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "angelpower",
@@ -6569,7 +6574,7 @@
       "Name": "Background Story",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "beastwarmachines",
@@ -6641,7 +6646,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "dragonmaster",
@@ -6665,7 +6670,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "enchantingskill",
@@ -6721,7 +6726,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "fourleafclover",
@@ -6745,7 +6750,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "gearenchanting",
@@ -6809,7 +6814,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "jewelenchanting",
@@ -6825,7 +6830,7 @@
       "Name": "Legendary",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "lieutenant",
@@ -6873,7 +6878,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "missionsdedication",
@@ -6929,7 +6934,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "prestigiousx10",
@@ -6975,9 +6980,9 @@
       "ID": "silverwoodliberator",
       "SetID": "3nl4bcg",
       "Name": "Silverwood liberator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "superior",
@@ -7097,7 +7102,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "warmachinesarmy",
@@ -7129,14 +7134,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2108,
+      "Progressed": 2109,
       "Completed": 2
     }
   ],
@@ -7144,8 +7149,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:08:56.7408065+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:06:05.9421645+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:02:13.8799804+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:08:56.740883+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:59:41.6471788+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:06:05.9422552+00:00"
 }

@@ -25054,9 +25054,9 @@
       "ID": "24_PermaSkill_Trophy",
       "SetID": "adcm20g",
       "Name": "State of constant learning",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 3581
     },
     {
       "ID": "25_ShrineMind",
@@ -25364,8 +25364,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-04T11:00:52.0758851+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:09:04.1535194+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:06:13.6246957+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:03:04.7219659+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:09:04.1536308+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:33.5091141+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:06:13.6248161+00:00"
 }

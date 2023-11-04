@@ -3,12 +3,12 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 930,
-  "Ranking_Popularity": 380,
+  "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -963,7 +963,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65728,
+  "EOS_Progressed": 65734,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 1,
@@ -7898,6 +7898,11 @@
       "Time": "2023-11-04T19:09:00.1957262+00:00",
       "NumProgressed": 65728,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-04T20:06:09.4106114+00:00",
+      "NumProgressed": 65734,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7910,7 +7915,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21690
+      "UsersEstimate": 21692
     },
     {
       "ID": "10",
@@ -7974,7 +7979,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11174
+      "UsersEstimate": 11175
     },
     {
       "ID": "3",
@@ -7998,7 +8003,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "6",
@@ -8037,7 +8042,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65728,
+      "Progressed": 65734,
       "Completed": 27
     }
   ],
@@ -8045,8 +8050,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-04T01:41:45.7298133+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:09:00.1957259+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:06:09.4106109+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:02:41.6068413+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:09:00.1957598+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:08.0853597+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:06:09.4106608+00:00"
 }

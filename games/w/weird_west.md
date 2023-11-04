@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,979 (Ranked 217)  
-Completed: 7 (0.35%) (Ranked 213)  
+Completed: 7 (0.35%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

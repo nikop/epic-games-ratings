@@ -1,31 +1,31 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.55 (Ranked 500)  
+Rating: 4.55 (Ranked 499)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,218 |
-| Apprentice | 58.00% | ~385,231 |
-| Close Shave | 25.00% | ~166,048 |
-| Mercenary | 23.00% | ~152,764 |
-| Ninja | 23.00% | ~152,764 |
-| Northern Scourge | 17.00% | ~112,912 |
+| The Fool | 72.00% | ~478,220 |
+| Apprentice | 58.00% | ~385,233 |
+| Close Shave | 25.00% | ~166,049 |
+| Mercenary | 23.00% | ~152,765 |
+| Ninja | 23.00% | ~152,765 |
+| Northern Scourge | 17.00% | ~112,913 |
 | Thief Bane | 14.00% | ~92,987 |
 | Master of Arms | 12.00% | ~79,703 |
-| Gambler | 10.00% | ~66,419 |
-| Dice Master | 10.00% | ~66,419 |
-| Swordsman | 9.00% | ~59,777 |
-| Knight | 8.00% | ~53,135 |
-| Cure for Corruption | 8.00% | ~53,135 |
-| Focused | 8.00% | ~53,135 |
-| Flurry of Fury | 8.00% | ~53,135 |
-| Long Shot | 7.00% | ~46,493 |
-| Devil Dice | 7.00% | ~46,493 |
-| Broken Heart | 7.00% | ~46,493 |
-| Adventurer | 6.00% | ~39,851 |
-| Empire's Bane | 6.00% | ~39,851 |
+| Gambler | 10.00% | ~66,420 |
+| Dice Master | 10.00% | ~66,420 |
+| Swordsman | 9.00% | ~59,778 |
+| Knight | 8.00% | ~53,136 |
+| Cure for Corruption | 8.00% | ~53,136 |
+| Focused | 8.00% | ~53,136 |
+| Flurry of Fury | 8.00% | ~53,136 |
+| Long Shot | 7.00% | ~46,494 |
+| Devil Dice | 7.00% | ~46,494 |
+| Broken Heart | 7.00% | ~46,494 |
+| Adventurer | 6.00% | ~39,852 |
+| Empire's Bane | 6.00% | ~39,852 |
 | Jack of all Trades | 5.00% | ~33,210 |
 | Smithy | 5.00% | ~33,210 |
 | Leap of Faith | 3.00% | ~19,926 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,191 (Ranked 26)  
+Progressed: 664,195 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 171 (0.03%) (Ranked 307)
 | 2023-11-01 | 664,050 | 171 |
 | 2023-11-02 | 664,098 | 171 |
 | 2023-11-03 | 664,152 | 171 |
-| 2023-11-04 | 664,191 | 171 |
+| 2023-11-04 | 664,195 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 468)  
 Sum: 189 (Ranked 401)  

@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3370,
+  "EOS_Progressed": 3372,
   "EOS_Completed": 153,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.54,
   "EosHistory": [
@@ -5479,6 +5479,11 @@
       "Time": "2023-11-04T17:07:24.5119124+00:00",
       "NumProgressed": 3370,
       "NumCompleted": 153
+    },
+    {
+      "Time": "2023-11-04T20:03:22.2592001+00:00",
+      "NumProgressed": 3372,
+      "NumCompleted": 153
     }
   ],
   "TotalAchievements": 5,
@@ -5490,7 +5495,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3372
     },
     {
       "ID": "2",
@@ -5506,7 +5511,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "4",
@@ -5514,7 +5519,7 @@
       "Name": "Adventurer",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "5",
@@ -5522,14 +5527,14 @@
       "Name": "Hero",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3370,
+      "Progressed": 3372,
       "Completed": 153
     }
   ],
@@ -5537,8 +5542,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:06:12.6895015+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:03:22.2591995+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:24.9452191+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:02:01.7840932+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:06:12.6895389+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:59:29.6855716+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:03:22.2592326+00:00"
 }

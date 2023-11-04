@@ -1,19 +1,19 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 500)  
+Rating: 4.55 (Ranked 499)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,734 |
-| First Steps | 80.00% | ~35,040 |
-| Control the Shadows | 67.00% | ~29,346 |
-| Tools of the Trade | 63.00% | ~27,594 |
-| Apprentice | 60.00% | ~26,280 |
-| Secret Seeker | 57.00% | ~24,966 |
-| Forge of Assassins | 55.00% | ~24,090 |
-| Revenant | 52.00% | ~22,776 |
+| Awakening | 93.00% | ~40,735 |
+| First Steps | 80.00% | ~35,041 |
+| Control the Shadows | 67.00% | ~29,347 |
+| Tools of the Trade | 63.00% | ~27,595 |
+| Apprentice | 60.00% | ~26,281 |
+| Secret Seeker | 57.00% | ~24,967 |
+| Forge of Assassins | 55.00% | ~24,091 |
+| Revenant | 52.00% | ~22,777 |
 | I don’t Care! | 45.00% | ~19,710 |
 | Bird of Prey | 37.00% | ~16,206 |
 | Engraved with Power | 32.00% | ~14,016 |
@@ -48,10 +48,10 @@ Number of Ratings: 88  (23.09.2022)
 | The Lion’s Den | 3.00% | ~1,314 |
 | Forest Spirits | 3.00% | ~1,314 |
 | Hot Potato | 2.00% | ~876 |
-| Anger Management | 2.00% | ~876 |
 | Legacy | 2.00% | ~876 |
+| Anger Management | 1.00% | ~438 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,800 (Ranked 113)  
+Progressed: 43,801 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 239 (0.55%) (Ranked 185)
 | 2023-11-01 | 43,776 | 239 |
 | 2023-11-02 | 43,782 | 239 |
 | 2023-11-03 | 43,791 | 239 |
-| 2023-11-04 | 43,800 | 239 |
+| 2023-11-04 | 43,801 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

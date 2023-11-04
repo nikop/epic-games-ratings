@@ -6,7 +6,7 @@ Rating: 4.46 (Ranked 642)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,797 |
-| Confirming Suspicions | 41.00% | ~1,567 |
+| Confirming Suspicions | 41.00% | ~1,568 |
 | The Kraken Wakes | 37.00% | ~1,415 |
 | It's Starting to Crack | 34.00% | ~1,300 |
 | Change the Channel | 31.00% | ~1,185 |
@@ -14,24 +14,24 @@ Rating: 4.46 (Ranked 642)
 | Taking it back | 29.00% | ~1,109 |
 | Resourceful | 27.00% | ~1,032 |
 | Target America | 27.00% | ~1,032 |
-| The Kraken Sleeps | 24.00% | ~918 |
-| Liberté | 23.00% | ~879 |
-| Organ Grinder | 23.00% | ~879 |
-| As Quiet as a Mouse | 23.00% | ~879 |
+| The Kraken Sleeps | 25.00% | ~956 |
+| Liberté | 23.00% | ~880 |
+| Organ Grinder | 23.00% | ~880 |
+| As Quiet as a Mouse | 23.00% | ~880 |
 | Sharpshooter | 22.00% | ~841 |
-| Explosive Efficiency | 19.00% | ~726 |
+| Explosive Efficiency | 19.00% | ~727 |
 | Gunslinger | 18.00% | ~688 |
 | Just a Flesh Wound | 17.00% | ~650 |
 | Der Geist | 17.00% | ~650 |
 | Climbing the Ladder | 16.00% | ~612 |
 | Close Quarters | 16.00% | ~612 |
-| Snake in the Grass | 15.00% | ~573 |
-| Brains of the Operation | 15.00% | ~573 |
+| Skirmisher | 15.00% | ~574 |
+| Snake in the Grass | 15.00% | ~574 |
+| Brains of the Operation | 15.00% | ~574 |
 | No Stone Unturned | 14.00% | ~535 |
 | Opposing Force | 14.00% | ~535 |
 | Enemy at the Gates | 14.00% | ~535 |
 | Fields of Glory | 14.00% | ~535 |
-| Skirmisher | 14.00% | ~535 |
 | Die Nussknacker Sweet! | 14.00% | ~535 |
 | Set Europe Ablaze | 13.00% | ~497 |
 | Precision Is Key | 10.00% | ~382 |
@@ -59,11 +59,11 @@ Rating: 4.46 (Ranked 642)
 | Eagle Eyed | 2.00% | ~76 |
 | Up close and personal | 2.00% | ~76 |
 | Can't Outrun A Bullet | 2.00% | ~76 |
-| Führerious Repetition | 2.00% | ~75 |
-| Reich To The Point | 2.00% | ~75 |
-| Covert Elimination | 2.00% | ~75 |
-| Shipbreaker | 2.00% | ~75 |
-| Sink or Swim | 2.00% | ~75 |
+| Führerious Repetition | 2.00% | ~76 |
+| Reich To The Point | 2.00% | ~76 |
+| Covert Elimination | 2.00% | ~76 |
+| Shipbreaker | 2.00% | ~76 |
+| Sink or Swim | 2.00% | ~76 |
 | Best of the Best | 1.00% | ~38 |
 | Sight Beyond Sights | 1.00% | ~38 |
 | From Führer Away | 1.00% | ~38 |
@@ -77,8 +77,8 @@ Rating: 4.46 (Ranked 642)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,823 (Ranked 189)  
-Completed: 11 (0.29%) (Ranked 226)  
+Progressed: 3,824 (Ranked 189)  
+Completed: 11 (0.29%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 11 (0.29%) (Ranked 226)
 | 2023-11-01 | 3,805 | 11 |
 | 2023-11-02 | 3,813 | 11 |
 | 2023-11-03 | 3,818 | 11 |
-| 2023-11-04 | 3,823 | 11 |
+| 2023-11-04 | 3,824 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 526)  
 Sum: 23 (Ranked 528)  

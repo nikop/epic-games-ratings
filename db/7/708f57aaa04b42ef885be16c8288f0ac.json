@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4098,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 1186,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Progressed": 4101,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 1176,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -2028,6 +2028,11 @@
       "Time": "2023-11-04T19:11:15.3524614+00:00",
       "NumProgressed": 4098,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-04T20:08:23.7770955+00:00",
+      "NumProgressed": 4101,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2070,9 +2075,9 @@
       "ID": "ChewingTheScenery",
       "SetID": "acc6ea0",
       "Name": "Chewing The Scenery",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "ConnectionLost",
@@ -2216,7 +2221,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TheFloorIsLava",
@@ -2311,16 +2316,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4098,
-      "Completed": 3
+      "Progressed": 4101,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-03T22:03:25.7534277+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:11:15.3524611+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:08:23.777095+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:00:42.0875193+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:15.3524922+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:58:08.3965948+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:08:23.7771242+00:00"
 }

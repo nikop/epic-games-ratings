@@ -1,28 +1,28 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 500)  
+Rating: 4.55 (Ranked 499)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 5.00% | ~732 |
 | The Pit and the Pirates | 2.00% | ~293 |
 | Drug Gifter | 2.00% | ~293 |
+| Martian Music | 2.00% | ~293 |
 | Drone Dodger | 2.00% | ~293 |
+| Call it Even | 2.00% | ~293 |
 | Bosmang | 2.00% | ~293 |
 | Celebrations are in Order | 2.00% | ~293 |
 | Impossible Objects | 2.00% | ~293 |
 | Data Archivist | 1.00% | ~146 |
 | Stogie for Fogey | 1.00% | ~146 |
 | Spore Taste | 1.00% | ~146 |
-| Martian Music | 1.00% | ~146 |
 | Heal Thy Medic | 1.00% | ~146 |
 | Khan's Revenge | 1.00% | ~146 |
-| Call it Even | 1.00% | ~146 |
 | Captain Drummer | 1.00% | ~146 |
-| Zen Master | 0.90% | ~5 |
+| Zen Master | 1.00% | ~6 |
+| Safe Cracker | 0.90% | ~5 |
 | Thorston Mayer | 0.80% | ~117 |
-| Safe Cracker | 0.80% | ~5 |
 | Bottoms up! | 0.70% | ~102 |
 | Miraculous Maya | 0.70% | ~102 |
 | Keep Arjun in Check | 0.70% | ~4 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,631 (Ranked 146)  
-Completed: 32 (0.22%) (Ranked 233)  
+Progressed: 14,633 (Ranked 146)  
+Completed: 32 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 32 (0.22%) (Ranked 233)
 | 2023-11-01 | 14,558 | 28 |
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
-| 2023-11-04 | 14,631 | 32 |
+| 2023-11-04 | 14,633 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

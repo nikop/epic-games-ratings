@@ -685,9 +685,9 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
@@ -956,8 +956,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:11:52.8425857+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:09:00.2178929+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.0516897+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:01:17.7590374+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:52.842619+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:58:44.7622354+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:09:00.2179172+00:00"
 }

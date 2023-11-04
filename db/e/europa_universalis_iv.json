@@ -11619,9 +11619,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 447035,
+  "EOS_Progressed": 447078,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5465,
+  "EOS_NewPlayers": 5456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34264,6 +34264,11 @@
       "Time": "2023-11-04T19:09:30.9027672+00:00",
       "NumProgressed": 447035,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T20:06:41.0295463+00:00",
+      "NumProgressed": 447078,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34667,7 +34672,7 @@
       "Name": "Blockader",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -34715,7 +34720,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -34795,7 +34800,7 @@
       "Name": "Cold War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "achievement_colonial_management",
@@ -34891,7 +34896,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -34931,7 +34936,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3577
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -35107,7 +35112,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "achievement_forever_golden",
@@ -35275,7 +35280,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17881
+      "UsersEstimate": 17883
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35299,7 +35304,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13411
+      "UsersEstimate": 13412
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -35483,7 +35488,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -35491,7 +35496,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -35843,7 +35848,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3129
+      "UsersEstimate": 3130
     },
     {
       "ID": "achievement_my_true_friend",
@@ -36211,7 +36216,7 @@
       "Name": "Respected",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -36227,7 +36232,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3577
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -36275,7 +36280,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8941
+      "UsersEstimate": 8942
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36555,7 +36560,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13411
+      "UsersEstimate": 13412
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -36699,7 +36704,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -36827,7 +36832,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3577
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -36867,7 +36872,7 @@
       "Name": "True Catholic",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -36883,7 +36888,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "achievement_trustworthy",
@@ -36939,7 +36944,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17881
+      "UsersEstimate": 17883
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -36971,7 +36976,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17881
+      "UsersEstimate": 17883
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -37106,21 +37111,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 447035,
+      "Progressed": 447078,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 447035,
+      "Progressed": 447078,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-04T18:00:14.6135405+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:09:30.9027668+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:06:41.0295458+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:02:51.9561839+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:09:30.9038419+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:20.217935+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:06:41.0304946+00:00"
 }

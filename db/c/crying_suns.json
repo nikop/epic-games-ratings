@@ -637,7 +637,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470299,
+  "EOS_Progressed": 470302,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
@@ -21382,6 +21382,11 @@
       "Time": "2023-11-04T19:11:55.2438601+00:00",
       "NumProgressed": 470299,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-04T20:09:02.6453902+00:00",
+      "NumProgressed": 470302,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21481,7 +21486,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310397
+      "UsersEstimate": 310399
     },
     {
       "ID": "achievement_story_landa",
@@ -21513,7 +21518,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117575
+      "UsersEstimate": 117576
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -21577,7 +21582,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159902
+      "UsersEstimate": 159903
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -21817,7 +21822,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206932
+      "UsersEstimate": 206933
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -21825,7 +21830,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141090
+      "UsersEstimate": 141091
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -21849,7 +21854,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183417
+      "UsersEstimate": 183418
     },
     {
       "ID": "achievement_win_run_hard",
@@ -21857,7 +21862,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -22024,21 +22029,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14233,
+      "Progressed": 14236,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470299,
+      "Progressed": 470302,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:11:55.2438598+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:09:02.6453895+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:00:00.6573973+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:11:55.2440115+00:00"
+  "LastUpdate_Ratings": "2023-11-04T19:57:21.8539797+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:09:02.6455213+00:00"
 }

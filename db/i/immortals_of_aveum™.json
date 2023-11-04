@@ -5,9 +5,9 @@
   "Ranking_Rating": 994,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -109,11 +109,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 152,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -779,6 +779,11 @@
       "Time": "2023-11-04T19:07:02.7959476+00:00",
       "NumProgressed": 150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-04T20:04:11.9175284+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -791,7 +796,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_10",
@@ -805,17 +810,17 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_13",
@@ -839,15 +844,15 @@
       "Name": "A Perfect Cycle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_17",
@@ -869,7 +874,7 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -877,7 +882,7 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 128
     },
@@ -933,7 +938,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
       "UsersEstimate": 117
     },
@@ -941,9 +946,9 @@
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_37",
@@ -967,7 +972,7 @@
       "Name": "No More Names",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_41",
@@ -1021,7 +1026,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 122
     },
@@ -1031,13 +1036,13 @@
       "Name": "Soldier",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 84
     },
@@ -1063,7 +1068,7 @@
       "Name": "Master of Carmine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_56",
@@ -1085,7 +1090,7 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
       "UsersEstimate": 78
     },
@@ -1095,7 +1100,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_62",
@@ -1111,7 +1116,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_64",
@@ -1127,7 +1132,7 @@
       "Name": "Backtracker",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_67",
@@ -1135,13 +1140,13 @@
       "Name": "Good Boy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -1151,7 +1156,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_9",
@@ -1159,14 +1164,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 152,
       "Completed": 1
     }
   ],
@@ -1174,8 +1179,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-04T02:27:45.141984+00:00",
-  "LastChanged_Achievements": "2023-11-04T19:07:02.7959473+00:00",
+  "LastChanged_Achievements": "2023-11-04T20:04:11.9175279+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-04T19:02:36.6022609+00:00",
-  "LastUpdate_Achievements": "2023-11-04T19:07:02.7959756+00:00"
+  "LastUpdate_Ratings": "2023-11-04T20:00:03.5636598+00:00",
+  "LastUpdate_Achievements": "2023-11-04T20:04:11.9175644+00:00"
 }
