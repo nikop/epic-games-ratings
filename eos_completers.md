@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.29% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.27% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -101,9 +101,9 @@
 | 99 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 100 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.80% |
 | 101 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
-| 102 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.74% |
 | 102 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
-| 104 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.68% |
+| 103 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.72% |
+| 104 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.67% |
 | 105 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.66% |
 | 106 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.65% |
 | 107 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
@@ -111,7 +111,7 @@
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
 | 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 111 | [Bloodshore](games/b/bloodshore.md) | 2.44% |
-| 111 | [Lamentum](games/l/lamentum.md) | 2.44% |
+| 112 | [Lamentum](games/l/lamentum.md) | 2.43% |
 | 113 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.38% |
 | 114 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.35% |
 | 114 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
@@ -154,16 +154,16 @@
 | 151 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
 | 153 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 154 | [Sable](games/s/sable.md) | 1.01% |
-| 155 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 155 | [Trifox](games/t/trifox.md) | 0.98% |
+| 156 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
 | 157 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 157 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 159 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.93% |
-| 160 | [The Devil's Face](games/t/the_devil's_face.md) | 0.92% |
-| 161 | [Hades](games/h/hades.md) | 0.91% |
-| 161 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.91% |
+| 160 | [Hades](games/h/hades.md) | 0.91% |
+| 160 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.91% |
+| 160 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
 | 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
-| 163 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.89% |
+| 164 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.88% |
 | 165 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 166 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.85% |
 | 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
@@ -216,9 +216,9 @@
 | 214 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 214 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 216 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
+| 216 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.33% |
 | 216 | [Them and Us](games/t/them_and_us.md) | 0.33% |
-| 218 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.32% |
-| 218 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.32% |
+| 219 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.32% |
 | 220 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 220 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 220 | [The First Tree](games/t/the_first_tree.md) | 0.31% |

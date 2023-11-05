@@ -34,7 +34,7 @@
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 42 | 450 |
 | 28 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 547 |
 | 28 | [Inscryption](games/i/inscryption.md) | 4.86 | 344 | 236 |
-| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,996 | 31 |
+| 28 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,009 | 31 |
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 360 |
 | 28 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 31 | 487 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 158 | 308 |
@@ -69,7 +69,7 @@
 | 63 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 547 |
 | 63 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 474 |
 | 63 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 834 | 165 |
-| 63 | [Sifu](games/s/sifu.md) | 4.82 | 6,756 | 56 |
+| 63 | [Sifu](games/s/sifu.md) | 4.82 | 6,759 | 56 |
 | 63 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 424 | 221 |
 | 63 | [Superliminal](games/s/superliminal.md) | 4.82 | 0 | 547 |
 | 63 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 547 |
@@ -135,7 +135,7 @@
 | 122 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,733 | 121 |
 | 122 | [Quake](games/q/quake.md) | 4.76 | 49 | 430 |
 | 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 547 |
-| 122 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,890 | 35 |
+| 122 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,922 | 35 |
 | 122 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 50 | 425 |
 | 122 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 453 |
 | 122 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 547 |
@@ -500,7 +500,6 @@
 | 483 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 487 |
 | 483 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,769 | 75 |
 | 500 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 547 |
-| 500 | [Costume Quest](games/c/costume_quest.md) | 4.55 | 0 | 547 |
 | 500 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 547 |
 | 500 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,629 | 123 |
 | 500 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 468 |
@@ -520,20 +519,21 @@
 | 500 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.55 | 0 | 547 |
 | 500 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 366 | 233 |
 | 500 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,345 | 134 |
-| 521 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 547 |
-| 521 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.54 | 0 | 547 |
-| 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 515 |
-| 521 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,529 | 128 |
-| 521 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,004 | 54 |
-| 521 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 463 |
-| 521 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 547 |
-| 521 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 547 |
-| 521 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 474 |
-| 521 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 519 |
-| 521 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
-| 521 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 96 | 363 |
-| 521 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.54 | 35 | 468 |
-| 521 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 386 |
+| 520 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 547 |
+| 520 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.54 | 0 | 547 |
+| 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 515 |
+| 520 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,529 | 128 |
+| 520 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 547 |
+| 520 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,004 | 54 |
+| 520 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 463 |
+| 520 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 547 |
+| 520 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 547 |
+| 520 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 474 |
+| 520 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 519 |
+| 520 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
+| 520 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 96 | 363 |
+| 520 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.54 | 35 | 468 |
+| 520 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 386 |
 | 535 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 547 |
 | 535 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,487 | 18 |
 | 535 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 529 |
@@ -637,7 +637,7 @@
 | 632 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,565 | 90 |
 | 632 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 547 |
 | 632 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 547 |
-| 632 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.47 | 1,419 | 133 |
+| 632 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.47 | 1,426 | 133 |
 | 632 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.47 | 0 | 547 |
 | 632 | [Riverbond](games/r/riverbond.md) | 4.47 | 20 | 542 |
 | 632 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 547 |
@@ -777,7 +777,7 @@
 | 775 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 547 |
 | 775 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.36 | 0 | 547 |
 | 775 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 547 |
-| 775 | [Core](games/c/core.md) | 4.36 | 762 | 172 |
+| 775 | [Core](games/c/core.md) | 4.36 | 763 | 172 |
 | 775 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 302 |
 | 775 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,743 | 32 |
 | 775 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 547 |
