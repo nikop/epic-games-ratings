@@ -1920,9 +1920,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2040,9 +2040,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2111,8 +2111,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:08:49.2996171+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:09:20.1831269+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:01:59.226509+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:08:49.2996577+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:02:32.338426+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:09:20.1831601+00:00"
 }

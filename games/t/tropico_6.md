@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,343 |
-| Un-Lonely Island | 47.00% | ~2,722 |
-| The Beginning of a Servantship | 45.00% | ~2,606 |
+| Just One...More...Term... | 75.00% | ~4,345 |
+| Un-Lonely Island | 47.00% | ~2,723 |
+| The Beginning of a Servantship | 45.00% | ~2,607 |
 | Trade Is My Trait | 37.00% | ~2,143 |
 | Number 18 | 24.00% | ~1,390 |
-| We Don't Have Time For That | 19.00% | ~1,100 |
-| The Governator | 17.00% | ~984 |
+| We Don't Have Time For That | 19.00% | ~1,101 |
+| The Governator | 17.00% | ~985 |
 | The Legend of Langostino | 16.00% | ~927 |
 | Caribbean Comrade | 15.00% | ~869 |
 | The Dreamer of Dreams | 15.00% | ~869 |
@@ -23,11 +23,11 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 9.00% | ~521 |
 | Double Trouble | 8.00% | ~463 |
 | Firestarter | 8.00% | ~463 |
-| I Owe You Nothing | 7.00% | ~405 |
-| Make Tropico Great Again! | 7.00% | ~405 |
-| French Connection | 7.00% | ~405 |
-| Don't Panic! | 6.00% | ~347 |
-| Beware The Betman | 6.00% | ~347 |
+| I Owe You Nothing | 7.00% | ~406 |
+| Make Tropico Great Again! | 7.00% | ~406 |
+| French Connection | 7.00% | ~406 |
+| Don't Panic! | 6.00% | ~348 |
+| Beware The Betman | 6.00% | ~348 |
 | Viva Tropico! | 5.00% | ~290 |
 | Computer Says "No" | 5.00% | ~290 |
 | Watch The World Burn | 5.00% | ~290 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~46 |
 | My Ways | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,791 (Ranked 178)  
+Progressed: 5,793 (Ranked 178)  
 Completed: 2 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 2 (0.03%) (Ranked 307)
 | 2023-11-02 | 5,761 | 2 |
 | 2023-11-03 | 5,771 | 2 |
 | 2023-11-04 | 5,788 | 2 |
-| 2023-11-05 | 5,791 | 2 |
+| 2023-11-05 | 5,793 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 356)  
 Sum: 724 (Ranked 289)  

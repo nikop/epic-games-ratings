@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1763,
+  "EOS_Progressed": 1764,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6589,6 +6589,11 @@
       "Time": "2023-11-04T22:08:32.3414238+00:00",
       "NumProgressed": 1763,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T05:04:10.7925364+00:00",
+      "NumProgressed": 1764,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6598,9 +6603,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 106
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6712,7 +6717,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6903,7 +6908,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1763,
+      "Progressed": 1764,
       "Completed": 1
     }
   ],
@@ -6911,8 +6916,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:03:37.8785199+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:04:10.7925348+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:59:47.1653904+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:03:37.8798731+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:00:14.8456427+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:04:10.7940234+00:00"
 }

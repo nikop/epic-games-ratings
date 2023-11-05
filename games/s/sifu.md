@@ -8,12 +8,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | Diligence as a goal | 0.70% | ~178 |
 | The Assault | 0.50% | ~3,581 |
+| The Hateful Pole Fighter | 0.50% | ~3,581 |
 | Life is your teacher | 0.50% | ~3,581 |
 | State of constant learning | 0.50% | ~3,581 |
 | Lightning Hands | 0.50% | ~3,581 |
 | Project Arena | 0.50% | ~127 |
 | The Old Grandmaster | 0.40% | ~2,865 |
-| The Hateful Pole Fighter | 0.40% | ~2,865 |
 | A Lady's Blood in the Snow | 0.40% | ~2,865 |
 | Lady Wing Chun | 0.40% | ~2,865 |
 | Furious Fists | 0.40% | ~2,865 |
@@ -37,13 +37,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.20% | ~1,432 |
 | Source of Flying Daggers | 0.20% | ~1,432 |
 | Iron Money | 0.20% | ~1,432 |
+| Legendary Talismans of Wuxing | 0.20% | ~1,432 |
 | Detective Story | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,432 |
 | Sword Stained With Blood | 0.20% | ~1,432 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
 | Beatmaker | 0.20% | ~51 |
-| Legendary Talismans of Wuxing | 0.10% | ~716 |
 | Prodigal Child | 0.10% | ~716 |
 | Drunken Fighter | 0.10% | ~716 |
 | Martial Artist | 0.10% | ~716 |
@@ -268,12 +268,12 @@ Completed: 12,932 (1.81%) (Ranked 123)
 | 2023-11-04 | 716,177 | 12,931 |
 | 2023-11-05 | 716,181 | 12,932 |
 ## Awards
-Max (Great Boss Battles): 6,756  (Ranked 56)  
-Sum: 11,794 (Ranked 82)  
+Max (Great Boss Battles): 6,759  (Ranked 56)  
+Sum: 11,797 (Ranked 82)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,756 |
+| This game has Great Boss Battles | 6,759 |
 | This game has Diverse Characters | 645 |
 | This game has Challenging Combat | 598 |
 | This game has Amazing Storytelling | 579 |
@@ -580,4 +580,4 @@ Diff (max vs sum): -26
 | 2023-11-02 | 4.82 | - | 6,753 | 11,780 |
 | 2023-11-03 | 4.82 | - | 6,756 | 11,786 |
 | 2023-11-04 | 4.82 | - | 6,756 | 11,791 |
-| 2023-11-05 | 4.82 | - | 6,756 | 11,794 |
+| 2023-11-05 | 4.82 | - | 6,759 | 11,797 |

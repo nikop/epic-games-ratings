@@ -272,9 +272,9 @@
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "631i43e",
       "Name": "Hello",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:05:43.7445443+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:06:15.9547879+00:00",
   "LastUpdate_AppInfo": "2023-11-01T15:57:00.4568972+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:01:46.6267074+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:05:43.7446125+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:02:19.6240295+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:06:15.9548555+00:00"
 }

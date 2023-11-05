@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7548,
+  "EOS_Progressed": 7549,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6144,6 +6144,11 @@
       "Time": "2023-11-05T04:09:43.6930254+00:00",
       "NumProgressed": 7548,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T05:10:13.4996926+00:00",
+      "NumProgressed": 7549,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6172,7 +6177,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6244,7 +6249,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6292,7 +6297,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6316,7 +6321,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6332,7 +6337,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3472
+      "UsersEstimate": 3473
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6435,22 +6440,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7548,
+      "Progressed": 7549,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 165,
-      "Completed": 165
+      "Progressed": 166,
+      "Completed": 166
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:09:43.6930247+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:10:13.4996917+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:03:00.7142222+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:09:43.6931244+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:03:33.040766+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:10:13.4997635+00:00"
 }

@@ -17,9 +17,9 @@
 | Half the way | 16.00% | ~70 |
 | One last step | 16.00% | ~70 |
 | I did it | 15.00% | ~65 |
+| Peace walker | 15.00% | ~65 |
+| Champollion | 15.00% | ~65 |
 | In this together | 14.00% | ~61 |
-| Peace walker | 14.00% | ~61 |
-| Champollion | 14.00% | ~61 |
 | Open door | 13.00% | ~57 |
 | Feels like springtime | 13.00% | ~57 |
 | Alchemists Express | 13.00% | ~57 |

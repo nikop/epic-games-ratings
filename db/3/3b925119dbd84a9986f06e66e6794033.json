@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -459,6 +459,11 @@
       "Time": "2023-11-05T01:55:44.0296388+00:00",
       "NumProgressed": 154,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T05:09:45.9538927+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -501,9 +506,9 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -527,7 +532,7 @@
       "Name": "Hypnotorious: Masterminds",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -565,9 +570,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "TIME_ORWELL",
@@ -583,7 +588,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -599,7 +604,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "TKO2_DOMINO",
@@ -615,7 +620,7 @@
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -630,14 +635,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:09:16.1229857+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:09:45.953892+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.0814967+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:59:27.1200553+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:09:16.1230087+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:59:54.5571554+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:09:45.9539283+00:00"
 }

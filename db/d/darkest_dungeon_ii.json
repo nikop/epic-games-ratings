@@ -8658,9 +8658,9 @@
       "Count": 958
     }
   ],
-  "EOS_Progressed": 122477,
+  "EOS_Progressed": 122478,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29413,6 +29413,11 @@
       "Time": "2023-11-05T04:07:59.3207457+00:00",
       "NumProgressed": 122477,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T05:08:30.2210017+00:00",
+      "NumProgressed": 122478,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -29440,7 +29445,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 24495
+      "UsersEstimate": 24496
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -29464,7 +29469,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 83284
+      "UsersEstimate": 83285
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -29496,7 +29501,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 73486
+      "UsersEstimate": 73487
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -29504,7 +29509,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 83284
+      "UsersEstimate": 83285
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -29520,7 +29525,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 46541
+      "UsersEstimate": 46542
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -29528,7 +29533,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 61238
+      "UsersEstimate": 61239
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -29544,7 +29549,7 @@
       "Name": "Predator",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 30619
+      "UsersEstimate": 30620
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -29584,7 +29589,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 40417
+      "UsersEstimate": 40418
     },
     {
       "ID": "combat_kill_fanatics",
@@ -29608,7 +29613,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 46541
+      "UsersEstimate": 46542
     },
     {
       "ID": "combat_kill_gentry",
@@ -29656,7 +29661,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 30619
+      "UsersEstimate": 30620
     },
     {
       "ID": "combat_kill_shambler",
@@ -29720,7 +29725,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 73486
+      "UsersEstimate": 73487
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -29736,7 +29741,7 @@
       "Name": "Harvest Festival",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 45316
+      "UsersEstimate": 45317
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -29744,7 +29749,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 73486
+      "UsersEstimate": 73487
     },
     {
       "ID": "driving_distance_easy",
@@ -29776,7 +29781,7 @@
       "Name": "Autodidact",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 30619
+      "UsersEstimate": 30620
     },
     {
       "ID": "hero_story_complete_all",
@@ -29792,7 +29797,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 84509
+      "UsersEstimate": 84510
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -29816,7 +29821,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 113904
+      "UsersEstimate": 113905
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -29943,15 +29948,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 122477,
+      "Progressed": 122478,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-05T04:03:03.3189063+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:07:59.3207451+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:08:30.2210011+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.2036198+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:03:03.3189074+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:07:59.3209699+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:03:35.5914285+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:08:30.2212206+00:00"
 }

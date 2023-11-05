@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 874,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1547,6 +1547,11 @@
       "Time": "2023-11-05T04:05:28.528343+00:00",
       "NumProgressed": 873,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T05:06:00.5195119+00:00",
+      "NumProgressed": 874,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1559,7 +1564,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1567,7 +1572,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1709,9 +1714,9 @@
       "ID": "ML_ACHIEVEMENT_20",
       "SetID": "5k00jcd",
       "Name": "Challenge accepted!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 140
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -1719,7 +1724,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -1727,7 +1732,7 @@
       "Name": "The Octopus",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1799,7 +1804,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1823,7 +1828,7 @@
       "Name": "Beyond the limit",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -1902,20 +1907,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 874,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 541,
-      "Completed": 541
+      "Progressed": 542,
+      "Completed": 542
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:05:28.5283424+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:06:00.5195113+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:00:51.6125543+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:05:28.5283937+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:01:22.9341954+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:06:00.5195721+00:00"
 }

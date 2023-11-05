@@ -9,13 +9,13 @@ Rating: 4.60 (Ranked 408)
 | A Thorny Situation | 70.00% | ~5,284 |
 | ... And Spit Back Out | 60.00% | ~4,529 |
 | Break-Net Speed | 49.00% | ~3,699 |
-| Bramble Breaker | 46.00% | ~3,472 |
+| Bramble Breaker | 46.00% | ~3,473 |
 | Miner 49er | 43.00% | ~3,246 |
-| Humble Collector | 42.00% | ~3,170 |
-| Calm Sailing | 36.00% | ~2,717 |
+| Humble Collector | 42.00% | ~3,171 |
+| Calm Sailing | 36.00% | ~2,718 |
 | Open the Gate! | 33.00% | ~2,491 |
-| Mist Walker | 32.00% | ~2,415 |
-| Lumberjack | 26.00% | ~1,962 |
+| Mist Walker | 32.00% | ~2,416 |
+| Lumberjack | 26.00% | ~1,963 |
 | Oui, Chef! | 23.00% | ~1,736 |
 | Clear the Air | 18.00% | ~1,359 |
 | Botanical Breakthrough | 17.00% | ~1,283 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 408)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,548 (Ranked 166)  
+Progressed: 7,549 (Ranked 166)  
 Completed: 1 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.01%) (Ranked 319)
 | 2023-11-02 | 7,472 | 0 |
 | 2023-11-03 | 7,499 | 0 |
 | 2023-11-04 | 7,539 | 0 |
-| 2023-11-05 | 7,548 | 1 |
+| 2023-11-05 | 7,549 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

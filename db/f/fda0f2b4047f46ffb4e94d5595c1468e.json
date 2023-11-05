@@ -2077,18 +2077,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 4296,
       "NumberOfAwardsMax": 1419
+    },
+    {
+      "Time": "2023-11-05T04:57:55.8429735+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4303,
+      "NumberOfAwardsMax": 1426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4296,
-  "NumberOfAwardsMax": 1419,
+  "NumberOfAwards": 4303,
+  "NumberOfAwardsMax": 1426,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1419
+      "Count": 1426
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2157,7 +2163,7 @@
       "Count": 312
     }
   ],
-  "EOS_Progressed": 8284,
+  "EOS_Progressed": 8285,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -6882,6 +6888,11 @@
       "Time": "2023-11-05T03:05:42.4807414+00:00",
       "NumProgressed": 8284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T05:06:15.2375303+00:00",
+      "NumProgressed": 8285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -6894,7 +6905,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2899
+      "UsersEstimate": 2900
     },
     {
       "ID": "ach02",
@@ -6934,7 +6945,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "ach07",
@@ -6942,7 +6953,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4639
+      "UsersEstimate": 4640
     },
     {
       "ID": "ach08",
@@ -6958,7 +6969,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "ach10",
@@ -7078,7 +7089,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3893
+      "UsersEstimate": 3894
     },
     {
       "ID": "ach25",
@@ -7198,7 +7209,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "ach40",
@@ -7262,7 +7273,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ach48",
@@ -7293,16 +7304,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8284,
+      "Progressed": 8285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-05T03:57:32.1545067+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:05:43.0103027+00:00",
+  "LastChanged": "2023-11-05T04:57:55.8429733+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:06:15.2375297+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:57:32.1545076+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:05:43.0104002+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:57:55.842974+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:06:15.2376091+00:00"
 }

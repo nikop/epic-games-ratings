@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5555,
+  "EOS_Progressed": 5556,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -4158,6 +4158,11 @@
       "Time": "2023-11-05T00:17:55.9182713+00:00",
       "NumProgressed": 5555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T05:06:22.3271931+00:00",
+      "NumProgressed": 5556,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4321,7 +4326,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ach_campaign_special10",
@@ -4751,9 +4756,9 @@
       "ID": "ach_rockstar_employee",
       "SetID": "8cb3id7",
       "Name": "Rockstar",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 22
     },
     {
       "ID": "ach_speedy",
@@ -4776,15 +4781,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5555,
+      "Progressed": 5556,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:05:50.3908332+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:06:22.3271923+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:39.3394459+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:01:10.4556196+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:05:50.3909796+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:01:42.3094824+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:06:22.3273106+00:00"
 }

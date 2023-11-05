@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~318 |
 | I Broke It | 70.00% | ~301 |
-| Better On Ice | 66.00% | ~284 |
+| Better On Ice | 67.00% | ~288 |
+| Blue Dreams | 64.00% | ~275 |
 | He's Famous! | 64.00% | ~275 |
 | Notai Notes | 64.00% | ~275 |
-| Blue Dreams | 63.00% | ~271 |
 | Cutie Poro | 63.00% | ~271 |
-| Krugmazing | 59.00% | ~254 |
-| The Fire Below the Mountain | 57.00% | ~245 |
+| Krugmazing | 60.00% | ~258 |
+| The Fire Below the Mountain | 58.00% | ~249 |
 | Moneyball | 56.00% | ~241 |
 | No Bites | 48.00% | ~206 |
 | Iceborn | 47.00% | ~202 |
@@ -25,7 +25,7 @@
 | A Tragic Reminder | 37.00% | ~159 |
 | The Finisher | 36.00% | ~155 |
 | 3000 Year Blackout | 34.00% | ~146 |
-| On The Rocks | 33.00% | ~142 |
+| On The Rocks | 34.00% | ~146 |
 | Snowy Poro | 32.00% | ~138 |
 | Never Gets Old | 32.00% | ~138 |
 | So Close | 30.00% | ~129 |
@@ -38,8 +38,8 @@
 | Deadliest and Biggest Snowball Ever! | 27.00% | ~116 |
 | Freeze The Ice Witch | 26.00% | ~112 |
 | It Is Not Over | 25.00% | ~108 |
+| One From The Heart | 13.00% | ~56 |
 | Yummy | 12.00% | ~52 |
-| One From The Heart | 12.00% | ~52 |
 | Snowball Fightn't | 11.00% | ~47 |
 | It Was Him | 8.00% | ~34 |
 | The Pied Piper Of Freljord | 7.00% | ~30 |

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2349,6 +2349,11 @@
       "Time": "2023-11-04T20:03:14.1332382+00:00",
       "NumProgressed": 546,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T05:04:36.9091648+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2416,7 +2421,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2471,14 +2476,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:04:03.5699386+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:04:36.9091639+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.460318+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:58:01.5287151+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:04:03.5699735+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:58:26.6958075+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:04:36.9091933+00:00"
 }

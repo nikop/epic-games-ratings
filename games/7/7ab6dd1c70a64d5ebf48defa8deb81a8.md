@@ -10,16 +10,16 @@
 | Find Allies | 20.00% | ~24 |
 | Shatter Them All | 19.00% | ~22 |
 | Scholar | 19.00% | ~22 |
+| I Found It | 19.00% | ~22 |
 | Powerful Allies | 18.00% | ~21 |
 | Adventurer | 18.00% | ~21 |
 | The Collector | 18.00% | ~21 |
 | A Taste of Wrath | 17.00% | ~20 |
-| I Found It | 17.00% | ~20 |
 | Geared Up | 14.00% | ~17 |
 | Stone Collection | 13.00% | ~15 |
 | Tributes of Caladrias | 12.00% | ~14 |
+| Essence Blow | 9.00% | ~11 |
 | Airborne | 8.00% | ~9 |
-| Essence Blow | 8.00% | ~9 |
 | Alchemist | 6.00% | ~7 |
 | Miner | 6.00% | ~7 |
 | The Mentor | 5.00% | ~6 |

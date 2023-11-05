@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3637,
+  "EOS_Progressed": 3638,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5437,6 +5437,11 @@
       "Time": "2023-11-04T21:15:49.1599248+00:00",
       "NumProgressed": 3637,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-05T05:06:19.2577507+00:00",
+      "NumProgressed": 3638,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5464,7 +5469,7 @@
       "Name": "Ancestor\u0027s Pride",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ApexPredator_27",
@@ -5504,7 +5509,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Eureka_23",
@@ -5512,7 +5517,7 @@
       "Name": "Eureka",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -5528,7 +5533,7 @@
       "Name": "For All Aurai",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "GiftfromtheAncestors_34",
@@ -5608,7 +5613,7 @@
       "Name": "Memory of a legend",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "PerfectDefense_31",
@@ -5640,7 +5645,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5664,7 +5669,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "Tapped_22",
@@ -5768,7 +5773,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -5783,15 +5788,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3637,
+      "Progressed": 3638,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:05:47.2234484+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:06:19.2577499+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:24.5230237+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:00:38.5198382+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:05:47.2235225+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:01:08.6333239+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:06:19.2578104+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7393,18 +7393,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11794,
       "NumberOfAwardsMax": 6756
+    },
+    {
+      "Time": "2023-11-05T05:02:18.0845095+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11797,
+      "NumberOfAwardsMax": 6759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11794,
-  "NumberOfAwardsMax": 6756,
+  "NumberOfAwards": 11797,
+  "NumberOfAwardsMax": 6759,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6756
+      "Count": 6759
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7475,7 +7481,7 @@
   ],
   "EOS_Progressed": 716181,
   "EOS_Completed": 12932,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24918,9 +24924,9 @@
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 3581
     },
     {
       "ID": "04_Vengeance_H3",
@@ -24982,9 +24988,9 @@
       "ID": "11_Wude_H5",
       "SetID": "adcm20g",
       "Name": "Legendary Talismans of Wuxing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 716
+      "UsersEstimate": 1432
     },
     {
       "ID": "12_MidAge",
@@ -25384,7 +25390,7 @@
       "ID": "14c2oii",
       "IsBase": false,
       "Progressed": 25482,
-      "Completed": 10730
+      "Completed": 10731
     },
     {
       "ID": "adcm20g",
@@ -25395,9 +25401,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-11-05T04:01:45.1588924+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:07:41.6886242+00:00",
+  "LastChanged": "2023-11-05T05:02:18.0845061+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:08:13.2655953+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:01:45.1588933+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:07:41.6889243+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:02:18.08451+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:08:13.2657868+00:00"
 }

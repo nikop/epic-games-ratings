@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_BOSS_04",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-05T04:07:11.8007633+00:00",
+  "LastChanged_Achievements": "2023-11-05T05:07:44.3347066+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:00:44.7712268+00:00",
-  "LastUpdate_Achievements": "2023-11-05T04:07:11.8008028+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:01:15.669566+00:00",
+  "LastUpdate_Achievements": "2023-11-05T05:07:44.3347561+00:00"
 }
