@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 254,144 | 4.68 | 251 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 210,147 | 4.18 | 920 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 194,220 | 4.88 | 16 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 151,150 | 4.51 | 564 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 151,207 | 4.51 | 564 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 119,985 | 4.69 | 229 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 103,855 | 4.64 | 329 |
 | 10 | [VALORANT](games/v/valorant.md) | 79,654 | 4.52 | 550 |
@@ -66,7 +66,7 @@
 | 64 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,989 | 4.64 | 329 |
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,944 | 4.66 | 291 |
 | 66 | [Prey](games/p/prey.md) | 5,760 | 4.62 | 364 |
-| 67 | [Rogue Company](games/r/rogue_company.md) | 5,611 | 4.31 | 824 |
+| 67 | [Rogue Company](games/r/rogue_company.md) | 5,618 | 4.31 | 824 |
 | 68 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,607 | 4.85 | 43 |
 | 69 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,478 | 4.06 | 969 |
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,413 | 4.69 | 229 |
@@ -93,7 +93,7 @@
 | 91 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,377 | 4.68 | 251 |
 | 92 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,376 | 4.76 | 122 |
 | 93 | [Hades](games/h/hades.md) | 3,350 | 4.92 | 4 |
-| 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,341 | 4.57 | 467 |
+| 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,343 | 4.57 | 467 |
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,126 | 4.50 | 582 |
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,091 | 4.35 | 791 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,964 | 4.50 | 582 |
@@ -124,8 +124,8 @@
 | 122 | [Celeste](games/c/celeste.md) | 1,679 | 4.92 | 4 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,629 | 4.55 | 500 |
 | 124 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,597 | 4.62 | 364 |
-| 125 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,559 | 4.79 | 95 |
-| 126 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,549 | 4.63 | 346 |
+| 125 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,566 | 4.63 | 346 |
+| 126 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,559 | 4.79 | 95 |
 | 127 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,533 | 4.86 | 28 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,529 | 4.54 | 521 |
 | 129 | [Ring of Pain](games/r/ring_of_pain.md) | 1,503 | 4.58 | 444 |
@@ -160,8 +160,8 @@
 | 158 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 892 | 4.45 | 657 |
 | 159 | [MORDHAU](games/m/mordhau.md) | 873 | 4.39 | 743 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 869 | 4.49 | 603 |
-| 161 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 849 | 4.69 | 229 |
-| 162 | [Train Valley 2](games/t/train_valley_2.md) | 845 | 4.44 | 675 |
+| 161 | [Train Valley 2](games/t/train_valley_2.md) | 850 | 4.44 | 675 |
+| 162 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 849 | 4.69 | 229 |
 | 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 842 | 4.62 | 364 |
 | 164 | [Auto Chess](games/a/auto_chess.md) | 835 | 4.52 | 550 |
 | 165 | [Frostpunk](games/f/frostpunk.md) | 833 | 4.74 | 154 |
@@ -347,8 +347,8 @@
 | 345 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 112 | 4.70 | 212 |
 | 346 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 111 | 4.50 | 582 |
 | 346 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 111 | 4.45 | 657 |
-| 348 | [Dead Space](games/d/dead_space.md) | 107 | 4.63 | 346 |
-| 348 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 382 |
+| 348 | [Dead Space](games/d/dead_space.md) | 108 | 4.63 | 346 |
+| 349 | [Phantom Brigade](games/p/phantom_brigade.md) | 107 | 4.61 | 382 |
 | 350 | [Just Die Already](games/j/just_die_already.md) | 106 | 4.52 | 550 |
 | 350 | [Verdun](games/v/verdun.md) | 106 | 4.53 | 535 |
 | 352 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 104 | 4.77 | 114 |
@@ -537,12 +537,12 @@
 | 529 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.68 | 251 |
 | 536 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 346 |
 | 536 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 21 | 4.86 | 28 |
-| 536 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 21 | 4.13 | 948 |
+| 536 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 21 | 4.13 | 947 |
 | 536 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 21 | 4.11 | 951 |
 | 536 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 444 |
 | 536 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 21 | 4.58 | 444 |
 | 542 | [Figment](games/f/figment.md) | 20 | 4.46 | 642 |
-| 542 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 20 | 4.14 | 940 |
+| 542 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 20 | 4.13 | 947 |
 | 542 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 844 |
 | 542 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 632 |
 | 542 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 20 | 4.36 | 775 |
