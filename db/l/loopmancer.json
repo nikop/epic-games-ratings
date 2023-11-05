@@ -2,7 +2,7 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 130,
@@ -891,8 +891,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:04:02.2054664+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:07:14.25056+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.1068639+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:57:40.6645184+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:04:02.2055+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:00:34.4489212+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:07:14.2506429+00:00"
 }

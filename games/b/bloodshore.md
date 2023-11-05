@@ -15,7 +15,7 @@
 | Good job, nerd | 31.00% | ~64 |
 | Mission Complete | 30.00% | ~62 |
 | Lootaphilia | 23.00% | ~47 |
-| Maybe you should give it another go | 11.00% | ~23 |
+| Maybe you should give it another go | 12.00% | ~25 |
 | I used to think I was indecisive... | 7.00% | ~14 |
 | Mikey Lizard | 6.00% | ~12 |
 | That's my boy! | 4.00% | ~8 |

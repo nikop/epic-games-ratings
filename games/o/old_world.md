@@ -10,28 +10,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 5.00% | ~758 |
 | Explorer | 4.00% | ~606 |
 | Friendly Family | 4.00% | ~606 |
-| Able | 3.00% | ~454 |
-| Architect | 3.00% | ~454 |
-| Good | 3.00% | ~454 |
-| Intrepid | 3.00% | ~454 |
-| Just | 3.00% | ~454 |
-| Learned | 3.00% | ~454 |
-| Mason | 3.00% | ~454 |
-| Noble | 3.00% | ~454 |
-| Pioneer | 3.00% | ~454 |
-| Strong | 3.00% | ~454 |
-| Hanging Gardens | 3.00% | ~454 |
-| Oracle | 3.00% | ~454 |
-| Judaism | 3.00% | ~454 |
-| Naming Landmarks | 3.00% | ~454 |
-| Trade Caravan | 3.00% | ~454 |
+| Able | 3.00% | ~455 |
+| Architect | 3.00% | ~455 |
+| Glorious | 3.00% | ~455 |
+| Good | 3.00% | ~455 |
+| Intrepid | 3.00% | ~455 |
+| Just | 3.00% | ~455 |
+| Learned | 3.00% | ~455 |
+| Mason | 3.00% | ~455 |
+| Noble | 3.00% | ~455 |
+| Pioneer | 3.00% | ~455 |
+| Strong | 3.00% | ~455 |
+| Hanging Gardens | 3.00% | ~455 |
+| Oracle | 3.00% | ~455 |
+| Judaism | 3.00% | ~455 |
+| Naming Landmarks | 3.00% | ~455 |
+| Trade Caravan | 3.00% | ~455 |
 | Regicide | 2.00% | ~303 |
 | Ambitious | 2.00% | ~303 |
 | Drillmaster | 2.00% | ~303 |
 | Brilliant | 2.00% | ~303 |
 | Enlightened | 2.00% | ~303 |
 | Fountainhead | 2.00% | ~303 |
-| Glorious | 2.00% | ~303 |
 | Great | 2.00% | ~303 |
 | Keystone | 2.00% | ~303 |
 | Magnificent | 2.00% | ~303 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,150 (Ranked 145)  
+Progressed: 15,151 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,150 | 5 |
+| 2023-11-05 | 15,151 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

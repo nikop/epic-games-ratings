@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 21,
@@ -6067,10 +6067,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10586,
       "NumberOfAwardsMax": 7004
+    },
+    {
+      "Time": "2023-11-05T12:59:25.1367204+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10589,
+      "NumberOfAwardsMax": 7004
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10586,
+  "NumberOfAwards": 10589,
   "NumberOfAwardsMax": 7004,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6096,7 +6102,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 511
+      "Count": 514
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6129,10 +6135,10 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 713003,
-  "EOS_Completed": 2331,
-  "EOS_NewPlayers": 5680,
-  "EOS_NewCompleters": 55,
+  "EOS_Progressed": 713055,
+  "EOS_Completed": 2332,
+  "EOS_NewPlayers": 5683,
+  "EOS_NewCompleters": 56,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28809,6 +28815,11 @@
       "Time": "2023-11-05T12:04:45.5373977+00:00",
       "NumProgressed": 713003,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-11-05T13:08:07.193232+00:00",
+      "NumProgressed": 713055,
+      "NumCompleted": 2332
     }
   ],
   "TotalAchievements": 51,
@@ -28898,9 +28909,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -28954,9 +28965,9 @@
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_hazardous_materials",
@@ -29188,7 +29199,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ach_gardening_tools",
@@ -29227,22 +29238,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713003,
-      "Completed": 2331
+      "Progressed": 713055,
+      "Completed": 2332
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38545,
-      "Completed": 36434
+      "Progressed": 38597,
+      "Completed": 36437
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-05T02:22:41.8442406+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:04:45.5373975+00:00",
+  "LastChanged": "2023-11-05T12:59:25.1367202+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:08:07.1932316+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:00:24.9841439+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:04:45.5375475+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:59:25.1367207+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:08:07.1933486+00:00"
 }

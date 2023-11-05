@@ -27,6 +27,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 0.30% | ~4 |
 | Turncoat | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
+| No Time for Clawmonsters | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
@@ -42,7 +43,6 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 0.10% | ~1 |
 | I'm Not Smiling | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |
-| No Time for Clawmonsters | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
 | Storied Past | 0.00% | ~0 |

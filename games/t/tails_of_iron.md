@@ -17,7 +17,7 @@ Rating: 4.55 (Ranked 500)
 | Defeat 25 Mozis | 48.00% | ~953 |
 | Kitchen Ready To Cook | 48.00% | ~953 |
 | Collect Gold | 47.00% | ~933 |
-| Smithy Ready to Craft | 46.00% | ~913 |
+| Smithy Ready to Craft | 47.00% | ~933 |
 | Fix the Travellers Wagon | 45.00% | ~893 |
 | Complete Elder Faction | 42.00% | ~834 |
 | End of the Mozis | 39.00% | ~774 |

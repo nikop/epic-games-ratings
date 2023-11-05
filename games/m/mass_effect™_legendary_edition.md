@@ -14,8 +14,8 @@
 | Honorarium of Corporate Service | 62.00% | ~610 |
 | Council Legion of Merit | 57.00% | ~561 |
 | Medal of Honor | 55.00% | ~541 |
+| Meritorious Service Medal | 55.00% | ~541 |
 | Medal of Exploration II | 55.00% | ~541 |
-| Meritorious Service Medal | 54.00% | ~531 |
 | Turian Ally | 54.00% | ~531 |
 | Charismatic | 53.00% | ~522 |
 | Soldier | 52.00% | ~512 |
@@ -110,9 +110,9 @@
 | Combined Arms | 13.00% | ~128 |
 | Bruiser | 12.00% | ~118 |
 | Paramour III | 11.00% | ~108 |
+| Overload Specialist | 11.00% | ~108 |
 | Warp Mastery | 11.00% | ~108 |
 | Always Prepared | 10.00% | ~98 |
-| Overload Specialist | 10.00% | ~98 |
 | Barrier Mastery | 9.00% | ~89 |
 | Hijacker | 9.00% | ~89 |
 | Lift Mastery | 9.00% | ~89 |

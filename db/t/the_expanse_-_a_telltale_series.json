@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14666,
+  "EOS_Progressed": 14667,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10461,6 +10461,11 @@
       "Time": "2023-11-05T12:05:57.4709284+00:00",
       "NumProgressed": 14666,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-05T13:09:34.6093799+00:00",
+      "NumProgressed": 14667,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10599,9 +10604,9 @@
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 103
     },
     {
       "ID": "25",
@@ -10752,22 +10757,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14666,
+      "Progressed": 14667,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 620,
-      "Completed": 374
+      "Progressed": 621,
+      "Completed": 375
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:05:57.4709282+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:09:34.6093796+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:59:50.7180088+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:05:57.4710007+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:03:22.4965816+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:09:34.6094453+00:00"
 }

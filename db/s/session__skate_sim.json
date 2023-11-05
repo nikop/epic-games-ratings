@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1153,9 +1153,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 3055,
+  "EOS_Progressed": 3057,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -5643,6 +5643,11 @@
       "Time": "2023-11-04T22:04:07.5506406+00:00",
       "NumProgressed": 3055,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-05T13:06:52.1268908+00:00",
+      "NumProgressed": 3057,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -5654,7 +5659,7 @@
       "Name": "Backpacker",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_BING-BONG",
@@ -5806,7 +5811,7 @@
       "Name": "Keeping it classy",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -6022,7 +6027,7 @@
       "Name": "Welcome to the family",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -6030,22 +6035,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3055,
+      "Progressed": 3057,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-03T21:01:16.2604961+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:03:44.893551+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:06:52.1268903+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:14.8563448+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:57:23.1313899+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:03:44.8936008+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:00:11.5763543+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:06:52.1269527+00:00"
 }

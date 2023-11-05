@@ -1,12 +1,12 @@
 # Encased
 [Store](https://store.epicgames.com/en-US/p/encased)  
 [View Rawdata](../../db/e/encased.json)  
-Rating: 4.34 (Ranked 799)  
+Rating: 4.34 (Ranked 798)  
 Number of Ratings: 49  (23.09.2022)  
 ## Awards
 Max (Character Customization): 150  (Ranked 313)  
-Sum: 150 (Ranked 418)  
-Diff (max vs sum): -105  
+Sum: 150 (Ranked 419)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 150 |

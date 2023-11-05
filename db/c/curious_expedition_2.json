@@ -543,9 +543,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 212
     },
     {
       "ID": "ach-hardExpeditions",
@@ -647,9 +647,9 @@
       "ID": "ach-meetGhost",
       "SetID": "17ih7ma",
       "Name": "Spooky!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "ach-noEquipment",
@@ -808,8 +808,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:08:48.9067359+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:12:03.7913807+00:00",
   "LastUpdate_AppInfo": "2023-11-04T10:56:59.8670243+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:58:06.0557292+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:08:48.9067706+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:01:05.9011617+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:12:03.7914198+00:00"
 }

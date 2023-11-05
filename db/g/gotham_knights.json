@@ -3995,9 +3995,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75985,
+  "EOS_Progressed": 75986,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21530,6 +21530,11 @@
       "Time": "2023-11-05T12:04:53.0412095+00:00",
       "NumProgressed": 75985,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T13:08:16.5598365+00:00",
+      "NumProgressed": 75986,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21637,7 +21642,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12917
+      "UsersEstimate": 12918
     },
     {
       "ID": "CLAYFACE_1",
@@ -21757,7 +21762,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7598
+      "UsersEstimate": 7599
     },
     {
       "ID": "FREEZE_1",
@@ -21885,7 +21890,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38752
+      "UsersEstimate": 38753
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22028,13 +22033,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75985,
+      "Progressed": 75986,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46265,
+      "Progressed": 46266,
       "Completed": 2673
     }
   ],
@@ -22042,8 +22047,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-05T09:57:20.5114082+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:04:53.0412092+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:08:16.5598361+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:56:55.8140483+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:04:53.0413368+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:59:37.1011384+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:08:16.5599477+00:00"
 }

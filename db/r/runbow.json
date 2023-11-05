@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251011,
+  "EOS_Progressed": 251012,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18252,6 +18252,11 @@
       "Time": "2023-11-05T12:08:18.3064039+00:00",
       "NumProgressed": 251011,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T13:11:26.2111921+00:00",
+      "NumProgressed": 251012,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18287,7 +18292,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52712
+      "UsersEstimate": 52713
     },
     {
       "ID": "blotbuster",
@@ -18567,7 +18572,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55222
+      "UsersEstimate": 55223
     },
     {
       "ID": "thunderstruck",
@@ -18583,7 +18588,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32631
+      "UsersEstimate": 32632
     },
     {
       "ID": "treeMedalist",
@@ -18630,7 +18635,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251011,
+      "Progressed": 251012,
       "Completed": 6
     }
   ],
@@ -18638,8 +18643,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:08:18.3064038+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:11:26.2111918+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:57:23.6952394+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:08:18.3065117+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:00:12.4565092+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:11:26.2113172+00:00"
 }

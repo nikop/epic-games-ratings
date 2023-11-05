@@ -3029,9 +3029,9 @@
       "ID": "achievement_18",
       "SetID": "b9pe172",
       "Name": "Meritorious Service Medal",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 531
+      "UsersEstimate": 541
     },
     {
       "ID": "achievement_19",
@@ -3445,9 +3445,9 @@
       "ID": "achievement_65",
       "SetID": "d252ncf",
       "Name": "Overload Specialist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_66",
@@ -3761,8 +3761,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:04:10.5232611+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:07:24.148251+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-05T12:02:27.3446249+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:04:10.5234107+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:05:13.3333128+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:07:24.1484179+00:00"
 }

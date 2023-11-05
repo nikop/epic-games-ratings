@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 31.00% | ~137 |
-| Welcome to the Tower | 29.00% | ~128 |
+| Welcome to the Tower | 30.00% | ~132 |
 | The great escape | 25.00% | ~110 |
-| The Preacher's fate | 23.00% | ~101 |
+| The Preacher's fate | 24.00% | ~106 |
 | A new dawn | 21.00% | ~93 |
 | True G3M4R | 18.00% | ~79 |
 | Scholar | 18.00% | ~79 |
 | The darkness | 17.00% | ~75 |
+| I did it | 16.00% | ~71 |
 | Cable guy | 16.00% | ~71 |
 | A good beginning | 16.00% | ~71 |
 | Half the way | 16.00% | ~71 |
 | One last step | 16.00% | ~71 |
-| I did it | 15.00% | ~66 |
+| In this together | 15.00% | ~66 |
 | Peace walker | 15.00% | ~66 |
 | Champollion | 15.00% | ~66 |
-| In this together | 14.00% | ~62 |
 | Feels like springtime | 14.00% | ~62 |
 | Open door | 13.00% | ~57 |
 | Alchemists Express | 13.00% | ~57 |

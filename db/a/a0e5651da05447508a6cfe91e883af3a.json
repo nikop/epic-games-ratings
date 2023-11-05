@@ -2,7 +2,7 @@
   "ID": "a0e5651da05447508a6cfe91e883af3a",
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
-  "Ranking_EOS_Progress": 721,
+  "Ranking_EOS_Progress": 722,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 130,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:08:32.8743931+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:11:44.4116735+00:00",
   "LastUpdate_AppInfo": "2023-11-02T20:57:09.6874393+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:57:27.0728757+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:08:32.8743951+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:00:16.7606829+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:11:44.4116767+00:00"
 }

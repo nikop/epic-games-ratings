@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77630,
+  "EOS_Progressed": 77631,
   "EOS_Completed": 822,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -22352,6 +22352,11 @@
       "Time": "2023-11-05T12:07:42.2051453+00:00",
       "NumProgressed": 77630,
       "NumCompleted": 822
+    },
+    {
+      "Time": "2023-11-05T13:10:41.4005266+00:00",
+      "NumProgressed": 77631,
+      "NumCompleted": 822
     }
   ],
   "TotalAchievements": 25,
@@ -22379,7 +22384,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13973
+      "UsersEstimate": 13974
     },
     {
       "ID": "Audiophile",
@@ -22403,7 +22408,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13973
+      "UsersEstimate": 13974
     },
     {
       "ID": "Butcher",
@@ -22467,7 +22472,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16302
+      "UsersEstimate": 16303
     },
     {
       "ID": "Meaty",
@@ -22562,7 +22567,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77630,
+      "Progressed": 77631,
       "Completed": 822
     }
   ],
@@ -22570,8 +22575,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:07:42.2051451+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:10:41.4005262+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:58:48.2145527+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:07:42.2052612+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:01:59.0807999+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:10:41.4006401+00:00"
 }

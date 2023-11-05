@@ -2,7 +2,7 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 130,
@@ -283,9 +283,9 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "10",
@@ -435,9 +435,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "28",
@@ -674,8 +674,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:03:52.7472419+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:07:01.9133068+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.000777+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:56:53.2380126+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:03:52.7472737+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:59:31.9106197+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:07:01.9133489+00:00"
 }

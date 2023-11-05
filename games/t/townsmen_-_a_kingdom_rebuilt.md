@@ -11,12 +11,12 @@ Number of Ratings: 37  (23.09.2022)
 | A new beginning | 12.00% | ~520 |
 | Friends from the past | 10.00% | ~433 |
 | I like to build stuff... I | 9.00% | ~390 |
-| Builder I | 8.00% | ~346 |
-| An honorable Governor I | 8.00% | ~346 |
-| Researcher | 8.00% | ~346 |
-| Tax-man II | 8.00% | ~346 |
-| A time consuming game I | 8.00% | ~346 |
-| Time for some trade | 8.00% | ~346 |
+| Builder I | 8.00% | ~347 |
+| An honorable Governor I | 8.00% | ~347 |
+| Researcher | 8.00% | ~347 |
+| Tax-man II | 8.00% | ~347 |
+| A time consuming game I | 8.00% | ~347 |
+| Time for some trade | 8.00% | ~347 |
 | Bread for the people I | 7.00% | ~303 |
 | Completionist I | 7.00% | ~303 |
 | Full-time job I | 7.00% | ~303 |
@@ -25,12 +25,12 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game II | 6.00% | ~260 |
 | Tools of the trade I | 6.00% | ~260 |
 | Knee deep in snow | 6.00% | ~260 |
-| Not a small trader anymore | 5.00% | ~216 |
-| I like to build stuff... III | 5.00% | ~216 |
-| The King's new clothes I | 5.00% | ~216 |
-| Builder II | 5.00% | ~216 |
-| Tax-man III | 5.00% | ~216 |
-| Conflicting parties | 5.00% | ~216 |
+| Not a small trader anymore | 5.00% | ~217 |
+| I like to build stuff... III | 5.00% | ~217 |
+| The King's new clothes I | 5.00% | ~217 |
+| Builder II | 5.00% | ~217 |
+| Tax-man III | 5.00% | ~217 |
+| Conflicting parties | 5.00% | ~217 |
 | Bread for the people II | 4.00% | ~173 |
 | Experienced decorator | 4.00% | ~173 |
 | An honorable Governor II | 4.00% | ~173 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,330 (Ranked 186)  
+Progressed: 4,332 (Ranked 186)  
 Completed: 3 (0.07%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 3 (0.07%) (Ranked 285)
 | 2023-11-02 | 4,324 | 3 |
 | 2023-11-03 | 4,327 | 3 |
 | 2023-11-04 | 4,329 | 3 |
-| 2023-11-05 | 4,330 | 3 |
+| 2023-11-05 | 4,332 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

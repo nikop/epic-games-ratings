@@ -5,7 +5,7 @@ Rating: 4.46 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,798 |
+| Meeting Resistance | 47.00% | ~1,799 |
 | Confirming Suspicions | 41.00% | ~1,569 |
 | The Kraken Wakes | 37.00% | ~1,416 |
 | It's Starting to Crack | 34.00% | ~1,301 |
@@ -14,15 +14,15 @@ Rating: 4.46 (Ranked 642)
 | Taking it back | 29.00% | ~1,110 |
 | Resourceful | 27.00% | ~1,033 |
 | Target America | 27.00% | ~1,033 |
-| The Kraken Sleeps | 25.00% | ~956 |
+| The Kraken Sleeps | 25.00% | ~957 |
 | Liberté | 23.00% | ~880 |
 | Organ Grinder | 23.00% | ~880 |
 | As Quiet as a Mouse | 23.00% | ~880 |
 | Sharpshooter | 22.00% | ~842 |
 | Explosive Efficiency | 19.00% | ~727 |
 | Gunslinger | 18.00% | ~689 |
-| Just a Flesh Wound | 17.00% | ~650 |
-| Der Geist | 17.00% | ~650 |
+| Just a Flesh Wound | 17.00% | ~651 |
+| Der Geist | 17.00% | ~651 |
 | Climbing the Ladder | 16.00% | ~612 |
 | Close Quarters | 16.00% | ~612 |
 | Skirmisher | 15.00% | ~574 |
@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 642)
 | Enemy at the Gates | 14.00% | ~536 |
 | Fields of Glory | 14.00% | ~536 |
 | Die Nussknacker Sweet! | 14.00% | ~536 |
-| Set Europe Ablaze | 13.00% | ~497 |
+| Set Europe Ablaze | 13.00% | ~498 |
 | Precision Is Key | 10.00% | ~383 |
 | My Little Friend | 10.00% | ~383 |
 | Rigged to Blow | 9.00% | ~344 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 642)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,826 (Ranked 190)  
+Progressed: 3,827 (Ranked 190)  
 Completed: 11 (0.29%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 11 (0.29%) (Ranked 228)
 | 2023-11-02 | 3,813 | 11 |
 | 2023-11-03 | 3,818 | 11 |
 | 2023-11-04 | 3,824 | 11 |
-| 2023-11-05 | 3,826 | 11 |
+| 2023-11-05 | 3,827 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 526)  
 Sum: 23 (Ranked 529)  

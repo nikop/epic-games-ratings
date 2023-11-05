@@ -6,15 +6,15 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 1.00% | ~8,953 |
+| V for Vendetta | 1.00% | ~8,954 |
 | Gun Fu | 0.70% | ~6,267 |
 | Relic Ruler | 0.50% | ~120 |
 | Full Body Conversion | 0.30% | ~2,686 |
+| Right Back At Ya | 0.30% | ~2,686 |
 | True Soldier | 0.30% | ~2,686 |
 | All the President's Men | 0.30% | ~72 |
 | Arachnophobia | 0.30% | ~72 |
 | Bushido and Chill | 0.20% | ~1,791 |
-| Right Back At Ya | 0.20% | ~1,791 |
 | Master Crafter | 0.20% | ~1,791 |
 | Christmas Tree Attack | 0.20% | ~1,791 |
 | The Quick and the Dead | 0.20% | ~1,791 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,346 (Ranked 15)  
+Progressed: 895,356 (Ranked 15)  
 Completed: 2,746 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 2,746 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,346 | 2,746 |
+| 2023-11-05 | 895,356 | 2,746 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
-Sum: 342,858 (Ranked 10)  
+Sum: 342,984 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 19,936 |
 | This game is Highly Recommended | 19,134 |
 | This game has Amazing Storytelling | 19,007 |
-| This game is Extremely Fun | 18,765 |
+| This game is Extremely Fun | 18,891 |
 | This game has Amazing Characters | 18,653 |
 | This game is Relaxing | 18,028 |
 | This game has Quickly Understood Controls | 17,935 |
@@ -584,4 +584,4 @@ Diff (max vs sum): -1
 | 2023-11-02 | 4.64 | - | 103,503 | 339,526 |
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
-| 2023-11-05 | 4.64 | - | 103,855 | 342,858 |
+| 2023-11-05 | 4.64 | - | 103,855 | 342,984 |

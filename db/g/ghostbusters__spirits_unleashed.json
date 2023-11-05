@@ -3075,9 +3075,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30187,
+  "EOS_Progressed": 30194,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2003,
+  "EOS_NewPlayers": 2009,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17975,6 +17975,11 @@
       "Time": "2023-11-05T12:06:02.9943133+00:00",
       "NumProgressed": 30187,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-05T13:09:41.3034522+00:00",
+      "NumProgressed": 30194,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -17986,7 +17991,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "Animated",
@@ -18034,7 +18039,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "Collector",
@@ -18074,7 +18079,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "Dont_Need_These",
@@ -18098,7 +18103,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "Escape_Artist",
@@ -18114,7 +18119,7 @@
       "Name": "Fragile Panes",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Fully_Upgraded",
@@ -18122,7 +18127,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "GB_In_Training",
@@ -18162,7 +18167,7 @@
       "Name": "Liability",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Line_Em_Up",
@@ -18274,7 +18279,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "Stunner",
@@ -18290,7 +18295,7 @@
       "Name": "Stylish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "Summoner",
@@ -18306,7 +18311,7 @@
       "Name": "Surprise!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Swift_Removers",
@@ -18314,7 +18319,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "Teamwork",
@@ -18322,7 +18327,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "Terrifying",
@@ -18393,7 +18398,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30187,
+      "Progressed": 30194,
       "Completed": 65
     }
   ],
@@ -18401,8 +18406,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-05T11:57:54.826427+00:00",
-  "LastChanged_Achievements": "2023-11-05T12:06:02.994313+00:00",
+  "LastChanged_Achievements": "2023-11-05T13:09:41.3034519+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:57:54.8264275+00:00",
-  "LastUpdate_Achievements": "2023-11-05T12:06:02.9944108+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:00:51.6686005+00:00",
+  "LastUpdate_Achievements": "2023-11-05T13:09:41.3035383+00:00"
 }
