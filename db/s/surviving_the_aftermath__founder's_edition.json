@@ -16680,9 +16680,9 @@
       "ID": "4",
       "SetID": "8idi9ml",
       "Name": "Catastrofan",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2935
     },
     {
       "ID": "40",
@@ -16896,8 +16896,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-04T14:57:34.7407793+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:03:40.6307311+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:03:59.4630115+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.6653375+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:58:03.8788444+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:03:40.6309848+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:58:05.8889134+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:03:59.4631344+00:00"
 }

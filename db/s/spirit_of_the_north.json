@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73353,
+  "EOS_Progressed": 73355,
   "EOS_Completed": 386,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -22218,6 +22218,11 @@
       "Time": "2023-11-05T07:08:37.8384839+00:00",
       "NumProgressed": 73353,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-11-05T08:09:00.8203683+00:00",
+      "NumProgressed": 73355,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 24,
@@ -22245,7 +22250,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49880
+      "UsersEstimate": 49881
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22269,7 +22274,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15404
+      "UsersEstimate": 15405
     },
     {
       "ID": "FETCH",
@@ -22285,7 +22290,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21272
+      "UsersEstimate": 21273
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -22309,7 +22314,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38877
+      "UsersEstimate": 38878
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -22373,7 +22378,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15404
+      "UsersEstimate": 15405
     },
     {
       "ID": "SPIRIT_DASH",
@@ -22405,7 +22410,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8802
+      "UsersEstimate": 8803
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -22413,14 +22418,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11736
+      "UsersEstimate": 11737
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73353,
+      "Progressed": 73355,
       "Completed": 386
     }
   ],
@@ -22428,8 +22433,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:08:37.8384834+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:09:00.820368+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:58:31.0147883+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:08:37.8386365+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:58:36.0190266+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:09:00.8204762+00:00"
 }

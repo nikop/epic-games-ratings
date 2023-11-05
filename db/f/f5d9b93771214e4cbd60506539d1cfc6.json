@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151436,
+  "EOS_Progressed": 151439,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 1086,
+  "EOS_NewPlayers": 1085,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -16988,6 +16988,11 @@
       "Time": "2023-11-05T07:05:06.4095001+00:00",
       "NumProgressed": 151436,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2023-11-05T08:05:33.3337267+00:00",
+      "NumProgressed": 151439,
+      "NumCompleted": 320
     }
   ],
   "TotalAchievements": 31,
@@ -17007,7 +17012,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106005
+      "UsersEstimate": 106007
     },
     {
       "ID": "EAwards_10",
@@ -17031,7 +17036,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25744
+      "UsersEstimate": 25745
     },
     {
       "ID": "EAwards_13",
@@ -17047,7 +17052,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59060
+      "UsersEstimate": 59061
     },
     {
       "ID": "EAwards_15",
@@ -17055,7 +17060,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18172
+      "UsersEstimate": 18173
     },
     {
       "ID": "EAwards_16",
@@ -17071,7 +17076,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33316
+      "UsersEstimate": 33317
     },
     {
       "ID": "EAwards_18",
@@ -17079,7 +17084,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33316
+      "UsersEstimate": 33317
     },
     {
       "ID": "EAwards_19",
@@ -17095,7 +17100,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42402
+      "UsersEstimate": 42403
     },
     {
       "ID": "EAwards_20",
@@ -17119,7 +17124,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6057
+      "UsersEstimate": 6058
     },
     {
       "ID": "EAwards_23",
@@ -17191,7 +17196,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13629
+      "UsersEstimate": 13630
     },
     {
       "ID": "EAwards_4",
@@ -17199,7 +17204,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22715
+      "UsersEstimate": 22716
     },
     {
       "ID": "EAwards_5",
@@ -17215,7 +17220,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37859
+      "UsersEstimate": 37860
     },
     {
       "ID": "EAwards_7",
@@ -17231,7 +17236,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 56031
+      "UsersEstimate": 56032
     },
     {
       "ID": "EAwards_9",
@@ -17239,14 +17244,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18172
+      "UsersEstimate": 18173
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151436,
+      "Progressed": 151439,
       "Completed": 320
     }
   ],
@@ -17254,8 +17259,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:05:06.4094996+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:05:33.3337264+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:58.8508803+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:59:24.036701+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:05:06.409671+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:59:37.5950571+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:05:33.3338109+00:00"
 }

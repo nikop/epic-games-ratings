@@ -13,8 +13,8 @@ Rating: 4.00 (Ranked 983)
 | Initiate | 54.00% | ~84 |
 | Thrada-Kul | 51.00% | ~79 |
 | Gravity-Challenged Rocks | 40.00% | ~62 |
+| Soldier | 35.00% | ~54 |
 | All the Major Food Groups | 35.00% | ~54 |
-| Soldier | 34.00% | ~53 |
 | Beggars Would Ride | 31.00% | ~48 |
 | Control is an Illusion | 29.00% | ~45 |
 | Socialite | 27.00% | ~42 |
@@ -23,11 +23,11 @@ Rating: 4.00 (Ranked 983)
 | A Familiar Nest | 21.00% | ~33 |
 | Periapt Alizarin | 20.00% | ~31 |
 | Geas Aristeya | 19.00% | ~29 |
+| A Perfect Cycle | 17.00% | ~26 |
 | Armsman | 17.00% | ~26 |
-| A Perfect Cycle | 16.00% | ~25 |
 | Recruit | 15.00% | ~23 |
-| Lights Army | 11.00% | ~17 |
-| Good Boy | 11.00% | ~17 |
+| Lights Army | 12.00% | ~19 |
+| Good Boy | 12.00% | ~19 |
 | Periapt Cerulean | 10.00% | ~16 |
 | Periapt Viridian | 8.00% | ~12 |
 | Shroudfane Explorer | 8.00% | ~12 |

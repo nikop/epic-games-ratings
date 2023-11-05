@@ -2034,9 +2034,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2074,9 +2074,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 131
     },
     {
       "ID": "PROGRESS_N2",
@@ -2121,8 +2121,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:08:22.5386706+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:08:44.3224838+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:00:28.4718563+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:08:22.5387184+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:02:50.1854911+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:08:44.3225108+00:00"
 }

@@ -6129,10 +6129,10 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712868,
-  "EOS_Completed": 2329,
-  "EOS_NewPlayers": 5750,
-  "EOS_NewCompleters": 53,
+  "EOS_Progressed": 712886,
+  "EOS_Completed": 2331,
+  "EOS_NewPlayers": 5731,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28784,6 +28784,11 @@
       "Time": "2023-11-05T07:04:44.8481287+00:00",
       "NumProgressed": 712868,
       "NumCompleted": 2329
+    },
+    {
+      "Time": "2023-11-05T08:05:10.6092168+00:00",
+      "NumProgressed": 712886,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 51,
@@ -29089,9 +29094,9 @@
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_the_vcla",
@@ -29202,22 +29207,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712868,
-      "Completed": 2329
+      "Progressed": 712886,
+      "Completed": 2331
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38410,
-      "Completed": 36428
+      "Progressed": 38428,
+      "Completed": 36429
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T02:22:41.8442406+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:04:44.8481279+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:05:10.6092162+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:00:26.0884766+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:04:44.8484444+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:02:47.1505967+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:05:10.6093774+00:00"
 }

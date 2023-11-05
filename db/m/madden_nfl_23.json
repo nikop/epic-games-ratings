@@ -793,7 +793,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3221,
+  "EOS_Progressed": 3222,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -4723,6 +4723,11 @@
       "Time": "2023-11-05T06:03:47.1808529+00:00",
       "NumProgressed": 3221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T08:04:21.493291+00:00",
+      "NumProgressed": 3222,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4735,7 +4740,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_10",
@@ -4775,7 +4780,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "achievement_15",
@@ -4783,7 +4788,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "achievement_16",
@@ -4887,7 +4892,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_9",
@@ -4902,7 +4907,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3221,
+      "Progressed": 3222,
       "Completed": 0
     }
   ],
@@ -4910,8 +4915,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:04:00.7118177+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:04:21.4932906+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:12.3381259+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:59:04.4981603+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:04:00.7118643+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:59:14.5300249+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:04:21.493324+00:00"
 }

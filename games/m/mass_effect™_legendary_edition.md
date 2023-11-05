@@ -80,9 +80,9 @@
 | Eye of the Hurricane | 26.00% | ~255 |
 | World Shaker | 26.00% | ~255 |
 | Weapon Specialist | 25.00% | ~245 |
+| Tunnel Rat | 25.00% | ~245 |
 | Liberator | 25.00% | ~245 |
 | Pathfinder | 24.00% | ~235 |
-| Tunnel Rat | 24.00% | ~235 |
 | Arbiter | 24.00% | ~235 |
 | Savior | 23.00% | ~226 |
 | Lost and Found | 23.00% | ~226 |

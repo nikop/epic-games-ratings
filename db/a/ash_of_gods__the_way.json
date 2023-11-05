@@ -379,9 +379,9 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 95,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "story10",
@@ -556,8 +556,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:05:03.4934681+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:05:30.1081335+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:59:41.9221457+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:05:03.4935141+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:59:57.7119835+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:05:30.1081596+00:00"
 }

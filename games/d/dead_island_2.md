@@ -21,6 +21,7 @@ Rating: 4.54 (Ranked 521)
 | Apex Predator | 0.20% | ~1,426 |
 | Stacking the Deck | 0.20% | ~1,426 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,426 |
+| Max Headroom | 0.20% | ~1,426 |
 | This is My Weapon | 0.20% | ~1,426 |
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
@@ -47,7 +48,6 @@ Rating: 4.54 (Ranked 521)
 | Down with the Sickness | 0.10% | ~713 |
 | Sharpest Tool in the Box | 0.10% | ~713 |
 | Survival Skills | 0.10% | ~713 |
-| Max Headroom | 0.10% | ~713 |
 | Go, Bobcats! | 0.10% | ~713 |
 | Our True Nature | 0.10% | ~713 |
 | Variety is the Spice of Death | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,868 (Ranked 21)  
-Completed: 2,329 (0.33%) (Ranked 216)  
+Progressed: 712,886 (Ranked 21)  
+Completed: 2,331 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 2,329 (0.33%) (Ranked 216)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 712,868 | 2,329 |
+| 2023-11-05 | 712,886 | 2,331 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,586 (Ranked 89)  

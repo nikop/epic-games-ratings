@@ -5,24 +5,24 @@ Rating: 4.75 (Ranked 141)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,606 |
-| The Killing Jar | 8.00% | ~17,428 |
+| First of Many | 9.00% | ~19,608 |
+| The Killing Jar | 8.00% | ~17,429 |
 | Expanding Horizons | 7.00% | ~15,250 |
 | Quest for Survival | 7.00% | ~15,250 |
 | Not Your Average Trait | 7.00% | ~15,250 |
-| Gleaming the Cube | 6.00% | ~13,071 |
-| Familiar Face | 6.00% | ~13,071 |
-| Boss'n Up | 6.00% | ~13,071 |
-| Trait Chaser | 6.00% | ~13,071 |
-| Not So Special Now | 5.00% | ~10,892 |
-| Not a Janitor | 5.00% | ~10,892 |
-| Equal Measures | 5.00% | ~10,892 |
-| Blue Goddess | 5.00% | ~10,892 |
-| Duality | 5.00% | ~10,892 |
-| Top Performer | 5.00% | ~10,892 |
-| Almost There | 5.00% | ~10,892 |
-| Make Some Room | 5.00% | ~10,892 |
-| Good, But Could Be Better! | 5.00% | ~10,892 |
+| Gleaming the Cube | 6.00% | ~13,072 |
+| Familiar Face | 6.00% | ~13,072 |
+| Boss'n Up | 6.00% | ~13,072 |
+| Trait Chaser | 6.00% | ~13,072 |
+| Not So Special Now | 5.00% | ~10,893 |
+| Not a Janitor | 5.00% | ~10,893 |
+| Equal Measures | 5.00% | ~10,893 |
+| Blue Goddess | 5.00% | ~10,893 |
+| Duality | 5.00% | ~10,893 |
+| Top Performer | 5.00% | ~10,893 |
+| Almost There | 5.00% | ~10,893 |
+| Make Some Room | 5.00% | ~10,893 |
+| Good, But Could Be Better! | 5.00% | ~10,893 |
 | Chaos | 4.00% | ~8,714 |
 | Traitor | 4.00% | ~8,714 |
 | Power Surge | 4.00% | ~8,714 |
@@ -50,13 +50,13 @@ Rating: 4.75 (Ranked 141)
 | No One Should Have All That Power | 2.00% | ~4,357 |
 | Maxed Out! | 2.00% | ~4,357 |
 | Transmutate | 2.00% | ~4,357 |
-| Ghost in the Machine | 1.00% | ~2,178 |
-| The Trigger | 1.00% | ~2,178 |
-| Cutting Edge | 1.00% | ~2,178 |
-| The Collector | 1.00% | ~2,178 |
-| Proving Grounds | 1.00% | ~2,178 |
+| Ghost in the Machine | 1.00% | ~2,179 |
+| The Trigger | 1.00% | ~2,179 |
+| Cutting Edge | 1.00% | ~2,179 |
+| The Collector | 1.00% | ~2,179 |
+| Proving Grounds | 1.00% | ~2,179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,850 (Ranked 67)  
+Progressed: 217,862 (Ranked 67)  
 Completed: 429 (0.20%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,16 +168,16 @@ Completed: 429 (0.20%) (Ranked 242)
 | 2023-11-02 | 217,009 | 426 |
 | 2023-11-03 | 217,330 | 429 |
 | 2023-11-04 | 217,742 | 429 |
-| 2023-11-05 | 217,850 | 429 |
+| 2023-11-05 | 217,862 | 429 |
 ## Awards
 Max (Great Boss Battles): 2,051  (Ranked 110)  
-Sum: 4,568 (Ranked 143)  
+Sum: 4,571 (Ranked 143)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,051 |
 | This game has Diverse Characters | 289 |
-| This game has Challenging Combat | 277 |
+| This game has Challenging Combat | 280 |
 | This game is Extremely Fun | 270 |
 | This game is Relaxing | 270 |
 | This game is Highly Recommended | 263 |
@@ -291,4 +291,4 @@ Diff (max vs sum): -33
 | 2023-11-02 | 4.75 | 2,018 | 4,481 |
 | 2023-11-03 | 4.75 | 2,040 | 4,526 |
 | 2023-11-04 | 4.75 | 2,051 | 4,558 |
-| 2023-11-05 | 4.75 | 2,051 | 4,568 |
+| 2023-11-05 | 4.75 | 2,051 | 4,571 |

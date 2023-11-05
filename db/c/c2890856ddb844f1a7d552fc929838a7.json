@@ -2540,9 +2540,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 559
     },
     {
       "ID": "AC31",
@@ -2644,9 +2644,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 530
     },
     {
       "ID": "AC44",
@@ -2677,8 +2677,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:09:10.9033693+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:09:36.9899+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.1696365+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:58:55.0208962+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:09:10.9034392+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:59:04.5194456+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:09:36.989936+00:00"
 }

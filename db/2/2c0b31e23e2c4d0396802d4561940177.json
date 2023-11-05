@@ -4,7 +4,7 @@
   "ProductSlug": "cybercorp-b444a3",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T17:57:18.2510682+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:57:14.6630035+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:03:14.1074791+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:57:10.2537482+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:03:29.4877029+00:00"
 }

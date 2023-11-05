@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1054,
+  "EOS_Progressed": 1055,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3014,6 +3014,11 @@
       "Time": "2023-11-05T04:09:59.8087888+00:00",
       "NumProgressed": 1054,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T08:09:38.5869375+00:00",
+      "NumProgressed": 1055,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3130,7 +3135,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_22",
@@ -3242,7 +3247,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "achievement_35",
@@ -3250,7 +3255,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "achievement_36",
@@ -3330,7 +3335,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_45",
@@ -3529,13 +3534,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1054,
+      "Progressed": 1055,
       "Completed": 1
     }
   ],
@@ -3543,8 +3548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:09:12.2368229+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:09:38.5869372+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:00:02.1876256+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:09:12.2369318+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:00:19.8729494+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:09:38.5870092+00:00"
 }

@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1764,
+  "EOS_Progressed": 1765,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6594,6 +6594,11 @@
       "Time": "2023-11-05T05:04:10.7925364+00:00",
       "NumProgressed": 1764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T08:03:25.7740899+00:00",
+      "NumProgressed": 1765,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6613,15 +6618,15 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6709,7 +6714,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6908,7 +6913,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1764,
+      "Progressed": 1765,
       "Completed": 1
     }
   ],
@@ -6916,8 +6921,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-10-11T18:58:57.4158616+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:03:10.8550564+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:03:25.7740892+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:58:57.6266088+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:03:10.8551852+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:59:07.2990338+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:03:25.7741591+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~227,319 |
+| Forgotten Sorority | 91.00% | ~227,320 |
 | Private Club | 74.00% | ~184,853 |
 | Rogue Guild | 65.00% | ~162,371 |
 | I Watched the Intro | 57.00% | ~142,387 |
 | Covert Consortium | 55.00% | ~137,391 |
 | Goat Queen | 53.00% | ~132,395 |
-| Reach the Stratosphere | 50.00% | ~124,900 |
-| Synchronization Complete | 47.00% | ~117,406 |
-| Secret Society | 45.00% | ~112,410 |
-| Shadow Syndicate | 38.00% | ~94,924 |
-| What a Waste of Money | 33.00% | ~82,434 |
-| New Goat Order | 30.00% | ~74,940 |
-| Don't touch the servers | 28.00% | ~69,944 |
-| San Angora: Become Human | 27.00% | ~67,446 |
-| Real Buoy | 27.00% | ~67,446 |
-| Raider of the Lost Parking Garage | 26.00% | ~64,948 |
+| Reach the Stratosphere | 50.00% | ~124,901 |
+| Synchronization Complete | 47.00% | ~117,407 |
+| Secret Society | 45.00% | ~112,411 |
+| Shadow Syndicate | 38.00% | ~94,925 |
+| What a Waste of Money | 33.00% | ~82,435 |
+| New Goat Order | 30.00% | ~74,941 |
+| Don't touch the servers | 28.00% | ~69,945 |
+| San Angora: Become Human | 27.00% | ~67,447 |
+| Real Buoy | 27.00% | ~67,447 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,949 |
 | Welcome to Earth | 25.00% | ~62,450 |
 | Into the Matrix | 19.00% | ~47,462 |
 | Egg Simulator | 18.00% | ~44,964 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,499 |
 | G.O.A.T | 0.30% | ~749 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,801 (Ranked 57)  
+Progressed: 249,802 (Ranked 58)  
 Completed: 871 (0.35%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 871 (0.35%) (Ranked 214)
 | 2023-11-02 | 249,529 | 869 |
 | 2023-11-03 | 249,647 | 871 |
 | 2023-11-04 | 249,783 | 871 |
-| 2023-11-05 | 249,801 | 871 |
+| 2023-11-05 | 249,802 | 871 |
 ## Awards
 Max (Great for Beginners): 448  (Ranked 212)  
 Sum: 3,750 (Ranked 158)  

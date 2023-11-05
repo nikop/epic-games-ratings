@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,896 |
-| Until death do us apart | 4.00% | ~17,896 |
-| Victorious! | 4.00% | ~17,896 |
-| That's a Grand Navy | 3.00% | ~13,422 |
-| That is mine! | 3.00% | ~13,422 |
-| Brothers in Arms | 2.00% | ~8,948 |
-| Cold War | 2.00% | ~8,948 |
-| For the Glory | 2.00% | ~8,948 |
-| Seriously?! | 2.00% | ~8,948 |
+| That's a Grand Army | 4.00% | ~17,897 |
+| Until death do us apart | 4.00% | ~17,897 |
+| Victorious! | 4.00% | ~17,897 |
+| That's a Grand Navy | 3.00% | ~13,423 |
+| That is mine! | 3.00% | ~13,423 |
+| Brothers in Arms | 2.00% | ~8,949 |
+| Cold War | 2.00% | ~8,949 |
+| For the Glory | 2.00% | ~8,949 |
+| Seriously?! | 2.00% | ~8,949 |
 | Defender of the Faith | 1.00% | ~4,474 |
 | It's all about luck | 1.00% | ~4,474 |
 | It's all about the money | 1.00% | ~4,474 |
@@ -27,8 +27,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.80% | ~3,579 |
 | Total Control | 0.80% | ~3,579 |
 | My armies are invincible! | 0.70% | ~3,132 |
-| Agressive Expander | 0.60% | ~2,684 |
-| Combined Arms | 0.60% | ~2,684 |
+| Agressive Expander | 0.60% | ~2,685 |
+| Combined Arms | 0.60% | ~2,685 |
 | Azur semé de lis or | 0.50% | ~2,237 |
 | City of Cities | 0.50% | ~2,237 |
 | This navy can take it all | 0.50% | ~2,237 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447,410 (Ranked 41)  
+Progressed: 447,431 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,10 +560,10 @@ Completed: 1 (0.00%) (Ranked 343)
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
-| 2023-11-05 | 447,410 | 1 |
+| 2023-11-05 | 447,431 | 1 |
 ## Awards
 Max (Educational): 6,830  (Ranked 55)  
-Sum: 56,102 (Ranked 24)  
+Sum: 56,116 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -573,7 +573,7 @@ Diff (max vs sum): 31
 | This game has Challenging Combat | 6,439 |
 | This game is Extremely Fun | 6,429 |
 | This game is Relaxing | 6,277 |
-| This game has Competitive Players | 6,100 |
+| This game has Competitive Players | 6,114 |
 | This game has Amazing Storytelling | 5,695 |
 | This game has Amazing Characters | 5,273 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -872,4 +872,4 @@ Diff (max vs sum): 31
 | 2023-11-02 | 4.69 | - | 6,798 | 55,815 |
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
-| 2023-11-05 | 4.69 | - | 6,830 | 56,102 |
+| 2023-11-05 | 4.69 | - | 6,830 | 56,116 |

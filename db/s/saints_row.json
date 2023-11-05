@@ -4005,9 +4005,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77311,
+  "EOS_Progressed": 77312,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26450,6 +26450,11 @@
       "Time": "2023-11-05T07:05:27.5675886+00:00",
       "NumProgressed": 77311,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-05T08:05:57.146053+00:00",
+      "NumProgressed": 77312,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26557,7 +26562,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 23966
+      "UsersEstimate": 23967
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -26573,7 +26578,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36336
+      "UsersEstimate": 36337
     },
     {
       "ID": "customize_a_vehicle",
@@ -26884,22 +26889,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77311,
+      "Progressed": 77312,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48948,
-      "Completed": 4250
+      "Progressed": 48949,
+      "Completed": 4251
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-05T01:50:26.3388657+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:05:27.567588+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:05:57.1460527+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:02:59.0985163+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:05:27.5677699+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:03:10.3681006+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:05:57.146176+00:00"
 }

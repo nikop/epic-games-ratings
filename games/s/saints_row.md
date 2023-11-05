@@ -6,7 +6,7 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,336 |
+| First F#@!ing Day | 47.00% | ~36,337 |
 | To The Nines | 42.00% | ~32,471 |
 | Optimized | 37.00% | ~28,605 |
 | Performance Review | 36.00% | ~27,832 |
@@ -14,7 +14,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Tune Up | 34.00% | ~26,286 |
 | Landlord | 33.00% | ~25,513 |
 | Wet Work | 32.00% | ~24,740 |
-| The Side Job | 31.00% | ~23,966 |
+| The Side Job | 31.00% | ~23,967 |
 | Wrecking Ball | 28.00% | ~21,647 |
 | Food for Thought | 27.00% | ~20,874 |
 | Finders Keepers | 26.00% | ~20,101 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~155 |
 | Fiesta Time | 0.20% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,311 (Ranked 96)  
+Progressed: 77,312 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 51 (0.07%) (Ranked 284)
 | 2023-11-02 | 77,034 | 51 |
 | 2023-11-03 | 77,142 | 51 |
 | 2023-11-04 | 77,271 | 51 |
-| 2023-11-05 | 77,311 | 51 |
+| 2023-11-05 | 77,312 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,725 (Ranked 97)  

@@ -5,27 +5,27 @@ Rating: 4.18 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,744 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,589 |
-| Loose Ends | 34.00% | ~25,829 |
-| To the Victor Go the Spoils | 28.00% | ~21,271 |
-| Knighthood | 27.00% | ~20,511 |
+| First Step Into the Knight | 51.00% | ~38,745 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,590 |
+| Loose Ends | 34.00% | ~25,830 |
+| To the Victor Go the Spoils | 28.00% | ~21,272 |
+| Knighthood | 27.00% | ~20,512 |
 | Get ReQ'd | 25.00% | ~18,992 |
 | Whispered Words | 25.00% | ~18,992 |
 | The Batman Family | 23.00% | ~17,473 |
 | Lock and Key | 22.00% | ~16,713 |
-| Something in the Clay | 21.00% | ~15,953 |
-| Quartzer Life Crisis | 21.00% | ~15,953 |
+| Something in the Clay | 21.00% | ~15,954 |
+| Quartzer Life Crisis | 21.00% | ~15,954 |
 | Working Hard or Harley Working? | 20.00% | ~15,194 |
 | Unstoppable Force | 20.00% | ~15,194 |
 | Bad Apples in Every Orchard | 20.00% | ~15,194 |
 | Snow Problem | 19.00% | ~14,434 |
-| The Show Mud Go On | 18.00% | ~13,674 |
-| From Inside Gotham's Walls | 18.00% | ~13,674 |
+| The Show Mud Go On | 18.00% | ~13,675 |
+| From Inside Gotham's Walls | 18.00% | ~13,675 |
 | Protector of Gotham | 17.00% | ~12,915 |
 | Universal Health Scare | 16.00% | ~12,155 |
-| In Your Element | 15.00% | ~11,395 |
-| Voiceless | 15.00% | ~11,395 |
+| In Your Element | 15.00% | ~11,396 |
+| Voiceless | 15.00% | ~11,396 |
 | Rock and a Hard Place | 14.00% | ~10,636 |
 | Cooldown | 14.00% | ~10,636 |
 | Seeking Asylum | 14.00% | ~10,636 |
@@ -34,7 +34,7 @@ Rating: 4.18 (Ranked 919)
 | End of an Era | 12.00% | ~9,116 |
 | Bulldozed | 12.00% | ~9,116 |
 | Gotham Knight | 12.00% | ~9,116 |
-| Gotham City Confidential | 11.00% | ~8,356 |
+| Gotham City Confidential | 11.00% | ~8,357 |
 | Drone You Out | 10.00% | ~7,597 |
 | Out of Their League | 9.00% | ~6,837 |
 | Solid Alibi | 9.00% | ~6,837 |
@@ -55,9 +55,9 @@ Rating: 4.18 (Ranked 919)
 | History Major | 0.80% | ~608 |
 | A Sophisticated Mallet | 0.80% | ~370 |
 | Read Owl About It | 0.70% | ~532 |
-| Gotham's Greatest Depths | 0.60% | ~277 |
-| Don't Mecha Big Deal About It | 0.60% | ~277 |
-| Confronting Your Demon | 0.60% | ~277 |
+| Gotham's Greatest Depths | 0.60% | ~278 |
+| Don't Mecha Big Deal About It | 0.60% | ~278 |
+| Confronting Your Demon | 0.60% | ~278 |
 | That's Showbiz, Clayby | 0.50% | ~231 |
 | Hammer and Icicle | 0.40% | ~185 |
 | Renewable Enemy Source | 0.40% | ~185 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 919)
 | Element of Surprise | 0.20% | ~92 |
 | It's Nice to Be Wanted | 0.20% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,968 (Ranked 97)  
+Progressed: 75,970 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,17 +266,17 @@ Completed: 123 (0.16%) (Ranked 251)
 | 2023-11-02 | 75,782 | 122 |
 | 2023-11-03 | 75,870 | 122 |
 | 2023-11-04 | 75,946 | 123 |
-| 2023-11-05 | 75,968 | 123 |
+| 2023-11-05 | 75,970 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,900  (Ranked 98)  
-Sum: 4,914 (Ranked 137)  
+Sum: 4,915 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,900 |
+| This game has Diverse Characters | 257 |
 | This game is Relaxing | 256 |
 | This game is Extremely Fun | 256 |
-| This game has Diverse Characters | 256 |
 | This game has Quickly Understood Controls | 252 |
 | This game is Great for Beginners | 252 |
 | This game has Amazing Characters | 249 |
@@ -539,4 +539,4 @@ Diff (max vs sum): -39
 | 2023-11-02 | 4.18 | 2,897 | 4,906 |
 | 2023-11-03 | 4.18 | 2,900 | 4,910 |
 | 2023-11-04 | 4.18 | 2,900 | 4,912 |
-| 2023-11-05 | 4.18 | 2,900 | 4,914 |
+| 2023-11-05 | 4.18 | 2,900 | 4,915 |

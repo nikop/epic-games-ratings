@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -17007,9 +17007,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -18149,8 +18149,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:04:55.523767+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:05:22.0012742+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:59:51.0780195+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:04:55.5250775+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:00:06.9468038+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:05:22.0023246+00:00"
 }

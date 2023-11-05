@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -659,17 +659,17 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -683,9 +683,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 60,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -699,9 +699,9 @@
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -787,9 +787,9 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:09:02.768634+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:09:28.013356+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:58:33.2973739+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:09:02.7686501+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:58:38.631334+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:09:28.0133683+00:00"
 }

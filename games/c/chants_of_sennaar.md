@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 31.00% | ~135 |
-| Welcome to the Tower | 29.00% | ~127 |
+| Welcome to the Tower | 30.00% | ~131 |
 | The great escape | 25.00% | ~109 |
-| The Preacher's fate | 23.00% | ~101 |
+| The Preacher's fate | 24.00% | ~105 |
 | A new dawn | 21.00% | ~92 |
 | Scholar | 19.00% | ~83 |
 | True G3M4R | 18.00% | ~79 |

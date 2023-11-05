@@ -22,10 +22,10 @@
 | Defeat Tezuth | 10.00% | ~12 |
 | Witch | 10.00% | ~12 |
 | The A-Team | 10.00% | ~12 |
+| Craftsmen | 8.00% | ~9 |
 | Defeat Uskol | 8.00% | ~9 |
 | Through Dangers Untold | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
-| Craftsmen | 7.00% | ~8 |
 | Finally! | 7.00% | ~8 |
 | A Deceiving Gift | 6.00% | ~7 |
 | Unveiling the Truth | 5.00% | ~6 |

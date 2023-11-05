@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3915,10 +3915,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4914,
       "NumberOfAwardsMax": 2900
+    },
+    {
+      "Time": "2023-11-05T07:57:05.2243586+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4915,
+      "NumberOfAwardsMax": 2900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4914,
+  "NumberOfAwards": 4915,
   "NumberOfAwardsMax": 2900,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3974,7 +3980,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 256
+      "Count": 257
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3983,9 +3989,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75968,
+  "EOS_Progressed": 75970,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21493,6 +21499,11 @@
       "Time": "2023-11-05T07:04:51.6969178+00:00",
       "NumProgressed": 75968,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T08:05:17.6021117+00:00",
+      "NumProgressed": 75970,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21560,7 +21571,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -21592,7 +21603,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11395
+      "UsersEstimate": 11396
     },
     {
       "ID": "CHALLENGES_1",
@@ -21608,7 +21619,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15953
+      "UsersEstimate": 15954
     },
     {
       "ID": "CLAYFACE_2",
@@ -21616,7 +21627,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13674
+      "UsersEstimate": 13675
     },
     {
       "ID": "CLAYFACE_3",
@@ -21728,7 +21739,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21271
+      "UsersEstimate": 21272
     },
     {
       "ID": "FREEZE_1_5",
@@ -21736,7 +21747,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15953
+      "UsersEstimate": 15954
     },
     {
       "ID": "FREEZE_2",
@@ -21768,7 +21779,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -21808,7 +21819,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26589
+      "UsersEstimate": 26590
     },
     {
       "ID": "HARLEY_2",
@@ -21848,7 +21859,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38744
+      "UsersEstimate": 38745
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21880,7 +21891,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20511
+      "UsersEstimate": 20512
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -21896,7 +21907,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25829
+      "UsersEstimate": 25830
     },
     {
       "ID": "MYSTERY_02",
@@ -21928,7 +21939,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13674
+      "UsersEstimate": 13675
     },
     {
       "ID": "MYSTERY_06",
@@ -21936,7 +21947,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11395
+      "UsersEstimate": 11396
     },
     {
       "ID": "MYSTERY_07",
@@ -21960,7 +21971,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8356
+      "UsersEstimate": 8357
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -21976,7 +21987,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -21991,22 +22002,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75968,
+      "Progressed": 75970,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46248,
+      "Progressed": 46250,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-05T04:03:04.9983898+00:00",
-  "LastChanged_Achievements": "2023-11-05T07:04:51.6969171+00:00",
+  "LastChanged": "2023-11-05T07:57:05.2243584+00:00",
+  "LastChanged_Achievements": "2023-11-05T08:05:17.6021114+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:57:10.2721101+00:00",
-  "LastUpdate_Achievements": "2023-11-05T07:04:51.6972017+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:57:05.224359+00:00",
+  "LastUpdate_Achievements": "2023-11-05T08:05:17.6022157+00:00"
 }
