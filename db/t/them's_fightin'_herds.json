@@ -4,7 +4,7 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 346,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 523,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 125,
@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231895,
+  "EOS_Progressed": 231897,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20591,6 +20591,11 @@
       "Time": "2023-11-05T00:20:15.3394252+00:00",
       "NumProgressed": 231895,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T01:54:07.1518386+00:00",
+      "NumProgressed": 231897,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20666,7 +20671,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83482
+      "UsersEstimate": 83483
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -20746,7 +20751,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78844
+      "UsersEstimate": 78845
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -20825,7 +20830,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231895,
+      "Progressed": 231897,
       "Completed": 5
     }
   ],
@@ -20833,8 +20838,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:20:15.3394247+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:54:07.1518381+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:12:06.655474+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:20:15.3395246+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:46:08.1747167+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:54:07.1519658+00:00"
 }

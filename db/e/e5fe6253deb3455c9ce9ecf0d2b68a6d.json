@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1059,6 +1059,11 @@
       "Time": "2023-11-04T16:05:45.3032408+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T01:52:22.0078478+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1095,15 +1100,15 @@
       "Name": "Full load",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "Island",
       "SetID": "cjfnji1",
       "Name": "Island",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "Last_second",
@@ -1111,7 +1116,7 @@
       "Name": "In the last second",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Master",
@@ -1133,7 +1138,7 @@
       "ID": "Serpentine_conquero",
       "SetID": "cjfnji1",
       "Name": "Serpentine conqueror",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -1182,14 +1187,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:18:08.98234+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:52:22.0078473+00:00",
   "LastUpdate_AppInfo": "2023-10-30T23:57:11.9435893+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:02:26.0133538+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:18:08.982354+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:45:05.6113903+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:52:22.0078656+00:00"
 }

@@ -1369,9 +1369,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156597,
+  "EOS_Progressed": 156617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14389,6 +14389,11 @@
       "Time": "2023-11-05T00:20:18.2918756+00:00",
       "NumProgressed": 156597,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T01:54:10.1518403+00:00",
+      "NumProgressed": 156617,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14448,7 +14453,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -14464,7 +14469,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14512,7 +14517,7 @@
       "Name": "Glare",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -14552,7 +14557,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -14584,7 +14589,7 @@
       "Name": "Watcher",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -14616,7 +14621,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14646,9 +14651,9 @@
       "ID": "MISC_MAXUPGRADE",
       "SetID": "ccc0dlh",
       "Name": "Breathsmith",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 783
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -14672,7 +14677,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4698
+      "UsersEstimate": 4699
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -14767,21 +14772,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156180,
+      "Progressed": 156200,
       "Completed": 1188
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156597,
+      "Progressed": 156617,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T00:13:01.8696228+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:20:18.2918753+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:54:10.1518399+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:13:01.8696233+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:20:18.2919472+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:46:33.9600968+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:54:10.1519583+00:00"
 }

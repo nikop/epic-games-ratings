@@ -4,7 +4,7 @@
   "ProductSlug": "dinobreak-307b09",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DINO_HUNTER_ACH",
@@ -276,17 +276,17 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:18:37.3054529+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:52:49.9396776+00:00",
   "LastUpdate_AppInfo": "2023-11-01T18:57:16.3468945+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:08:28.9327602+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:18:37.305469+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:45:41.5631494+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:52:49.9396975+00:00"
 }

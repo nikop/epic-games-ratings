@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130466,
+  "EOS_Progressed": 130468,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21000,6 +21000,11 @@
       "Time": "2023-11-05T00:18:31.3607672+00:00",
       "NumProgressed": 130466,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-05T01:52:44.1397783+00:00",
+      "NumProgressed": 130468,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21091,7 +21096,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36530
+      "UsersEstimate": 36531
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21227,7 +21232,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18265
+      "UsersEstimate": 18266
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -21291,7 +21296,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18265
+      "UsersEstimate": 18266
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -21330,15 +21335,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130466,
+      "Progressed": 130468,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-04T19:01:05.2014817+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:18:31.360767+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:52:44.1397775+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:09:38.3507291+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:18:31.3608668+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:45:50.0666678+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:52:44.1399266+00:00"
 }

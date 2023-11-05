@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 2.00% | ~303 |
 | Strong Cities | 2.00% | ~303 |
 | Able Difficulty | 2.00% | ~303 |
+| Just Difficulty | 2.00% | ~303 |
 | Artisans | 2.00% | ~303 |
 | Furious Family | 2.00% | ~303 |
 | Apadana | 2.00% | ~303 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~151 |
 | Victorious | 1.00% | ~151 |
 | Good Difficulty | 1.00% | ~151 |
-| Just Difficulty | 1.00% | ~151 |
 | Champions | 1.00% | ~151 |
 | Patrons | 1.00% | ~151 |
 | Riders | 1.00% | ~151 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,141 (Ranked 145)  
+Progressed: 15,142 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,6 +548,7 @@ Completed: 5 (0.03%) (Ranked 307)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
+| 2023-11-05 | 15,142 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

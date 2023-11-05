@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1149,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2062,6 +2062,11 @@
       "Time": "2023-11-04T21:18:28.5036035+00:00",
       "NumProgressed": 1149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T01:54:09.6510984+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2073,7 +2078,7 @@
       "Name": "Full house",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -2145,7 +2150,7 @@
       "Name": "The great fire",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CONTAINERS_MILL_FARMS_SURROUNDED",
@@ -2193,7 +2198,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2241,7 +2246,7 @@
       "Name": "The Penitent Ones",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "EXILED_SOLDIER_FRIEND",
@@ -2265,7 +2270,7 @@
       "Name": "Greedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "PREVENTRIOT",
@@ -2281,7 +2286,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "SUMMON_BOSS",
@@ -2337,7 +2342,7 @@
       "Name": "The Council",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -2385,7 +2390,7 @@
       "Name": "The Mad",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -2417,7 +2422,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -2432,7 +2437,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1149,
+      "Progressed": 1150,
       "Completed": 0
     }
   ],
@@ -2440,8 +2445,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:20:17.7373374+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:54:09.651098+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.9300359+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:13:36.5789936+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:20:17.7373679+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:46:58.2278016+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:54:09.6511529+00:00"
 }

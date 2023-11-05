@@ -16,9 +16,9 @@
 | The power of the Force | 15.00% | ~158 |
 | Together we can rule the galaxy | 15.00% | ~158 |
 | Collector | 14.00% | ~147 |
+| Survivor | 11.00% | ~116 |
 | Tell Jabba that I've got his money | 10.00% | ~105 |
 | Best star-pilot in the galaxy | 10.00% | ~105 |
-| Survivor | 10.00% | ~105 |
 | Never tell me the odds! | 9.00% | ~95 |
 | A cunning warrior | 9.00% | ~95 |
 | What's the cargo? | 8.00% | ~84 |
@@ -69,7 +69,7 @@
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,052 (Ranked 246)  
-Completed: 1 (0.10%) (Ranked 265)  
+Completed: 1 (0.10%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

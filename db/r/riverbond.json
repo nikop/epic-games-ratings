@@ -4,11 +4,11 @@
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 632,
   "Ranking_Popularity": 542,
-  "Ranking_PopularitySum": 543,
+  "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,10 +497,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530695,
-  "EOS_Completed": 495,
-  "EOS_NewPlayers": 505,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 530697,
+  "EOS_Completed": 496,
+  "EOS_NewPlayers": 499,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -21627,6 +21627,11 @@
       "Time": "2023-11-05T00:15:45.8601112+00:00",
       "NumProgressed": 530695,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-11-05T01:51:11.1615592+00:00",
+      "NumProgressed": 530697,
+      "NumCompleted": 496
     }
   ],
   "TotalAchievements": 57,
@@ -21646,7 +21651,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238813
+      "UsersEstimate": 238814
     },
     {
       "ID": "11",
@@ -21654,7 +21659,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371486
+      "UsersEstimate": 371488
     },
     {
       "ID": "12",
@@ -21670,7 +21675,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68990
+      "UsersEstimate": 68991
     },
     {
       "ID": "14",
@@ -21678,7 +21683,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58376
+      "UsersEstimate": 58377
     },
     {
       "ID": "15",
@@ -21710,7 +21715,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79604
+      "UsersEstimate": 79605
     },
     {
       "ID": "19",
@@ -21718,7 +21723,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329031
+      "UsersEstimate": 329032
     },
     {
       "ID": "2",
@@ -21742,7 +21747,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 58376
+      "UsersEstimate": 58377
     },
     {
       "ID": "22",
@@ -21870,7 +21875,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84911
+      "UsersEstimate": 84912
     },
     {
       "ID": "37",
@@ -21894,7 +21899,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180436
+      "UsersEstimate": 180437
     },
     {
       "ID": "4",
@@ -21966,7 +21971,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329031
+      "UsersEstimate": 329032
     },
     {
       "ID": "48",
@@ -21982,7 +21987,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180436
+      "UsersEstimate": 180437
     },
     {
       "ID": "5",
@@ -21998,7 +22003,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74297
+      "UsersEstimate": 74298
     },
     {
       "ID": "51",
@@ -22014,7 +22019,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244120
+      "UsersEstimate": 244121
     },
     {
       "ID": "53",
@@ -22093,15 +22098,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530695,
-      "Completed": 495
+      "Progressed": 530697,
+      "Completed": 496
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:15:45.8601107+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:51:11.1615587+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:04.9098123+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:12:17.5865255+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:15:45.8602948+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:46:11.6627857+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:51:11.1617379+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2549,9 +2549,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 165
     },
     {
       "ID": "GadgetCompletion1",
@@ -2846,8 +2846,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:18:30.8621745+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:52:43.5224518+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.654666+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:14:46.9842263+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:18:30.8622125+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:50:15.2958271+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:52:43.5225122+00:00"
 }

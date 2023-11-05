@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 930)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,423 (Ranked 115)  
+Progressed: 42,424 (Ranked 115)  
 Completed: 3 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,11 @@ Completed: 3 (0.01%) (Ranked 319)
 | 2023-11-02 | 42,393 | 3 |
 | 2023-11-03 | 42,405 | 3 |
 | 2023-11-04 | 42,423 | 3 |
+| 2023-11-05 | 42,424 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 493)  
-Sum: 29 (Ranked 509)  
-Diff (max vs sum): -16  
+Sum: 29 (Ranked 510)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 29 |

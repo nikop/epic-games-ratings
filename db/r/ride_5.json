@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1993,
+  "EOS_Progressed": 1994,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4317,6 +4317,11 @@
       "Time": "2023-11-05T00:21:22.5817694+00:00",
       "NumProgressed": 1993,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T01:56:23.9183476+00:00",
+      "NumProgressed": 1994,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4337,7 +4342,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4353,7 +4358,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4393,7 +4398,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4401,7 +4406,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4537,7 +4542,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4631,9 +4636,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 498
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4720,14 +4725,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1993,
+      "Progressed": 1994,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:21:22.5817692+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:56:23.9183472+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:13:17.9868419+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:21:22.581811+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:46:42.2291861+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:56:23.9184109+00:00"
 }

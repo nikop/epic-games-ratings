@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,786 (Ranked 183)  
+Progressed: 4,786 (Ranked 184)  
 Completed: 18 (0.38%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,8 +242,8 @@ Completed: 18 (0.38%) (Ranked 208)
 | 2023-11-05 | 4,786 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 493)  
-Sum: 29 (Ranked 509)  
-Diff (max vs sum): -16  
+Sum: 29 (Ranked 510)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 29 |

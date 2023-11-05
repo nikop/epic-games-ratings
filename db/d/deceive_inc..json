@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18774,
+  "EOS_Progressed": 18775,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12623,6 +12623,11 @@
       "Time": "2023-11-04T17:09:07.1589076+00:00",
       "NumProgressed": 18774,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-05T01:52:20.9881744+00:00",
+      "NumProgressed": 18775,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12666,7 +12671,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "0006",
@@ -12690,7 +12695,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "0009",
@@ -12730,7 +12735,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "0014",
@@ -12786,7 +12791,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1877
+      "UsersEstimate": 1878
     },
     {
       "ID": "0021",
@@ -12794,7 +12799,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "0022",
@@ -12802,7 +12807,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "0023",
@@ -12826,7 +12831,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "0026",
@@ -12866,7 +12871,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3379
+      "UsersEstimate": 3380
     },
     {
       "ID": "0031",
@@ -12921,7 +12926,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18774,
+      "Progressed": 18775,
       "Completed": 4
     }
   ],
@@ -12929,8 +12934,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:18:08.0270309+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:52:20.9881739+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:07:47.579396+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:18:08.0271013+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:45:37.5021308+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:52:20.9882642+00:00"
 }

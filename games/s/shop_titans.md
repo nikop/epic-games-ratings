@@ -57,6 +57,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.80% | ~1,109 |
 | Hidden Potential | 0.80% | ~1,109 |
 | Expansion in Session | 0.80% | ~1,109 |
+| Cranked up to 11 | 0.80% | ~1,109 |
 | Mammonite | 0.80% | ~1,109 |
 | Necromancer Queen | 0.80% | ~1,109 |
 | Miracle Alchemist | 0.80% | ~1,109 |
@@ -76,7 +77,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master of Transmutation | 0.70% | ~970 |
 | Supercharged | 0.70% | ~970 |
 | Ritualist | 0.70% | ~970 |
-| Cranked up to 11 | 0.70% | ~970 |
 | Fit for a King | 0.70% | ~970 |
 | By Your Powers Combined... | 0.70% | ~970 |
 | Wealth Beyond Measure | 0.70% | ~970 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,606 (Ranked 78)  
+Progressed: 138,611 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 178 (0.13%) (Ranked 255)
 | 2023-11-02 | 138,491 | 178 |
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
-| 2023-11-05 | 138,606 | 178 |
+| 2023-11-05 | 138,611 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,501 (Ranked 52)  

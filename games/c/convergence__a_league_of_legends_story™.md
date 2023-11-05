@@ -26,10 +26,10 @@ Rating: 4.62 (Ranked 364)
 | Golem Chaser | 19.00% | ~174 |
 | Check Your Pulse | 19.00% | ~174 |
 | Right On Time | 18.00% | ~165 |
+| The Man Who Shattered Time | 18.00% | ~165 |
 | The Loose Cannon | 18.00% | ~165 |
 | The Family Fortune | 18.00% | ~165 |
 | Street Style | 17.00% | ~156 |
-| The Man Who Shattered Time | 17.00% | ~156 |
 | Cartographer | 15.00% | ~137 |
 | Treasure Trove | 14.00% | ~128 |
 | Whiz Kid | 14.00% | ~128 |

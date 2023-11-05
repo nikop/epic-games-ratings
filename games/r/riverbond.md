@@ -6,26 +6,26 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,486 |
-| Now You're Talking | 62.00% | ~329,031 |
-| Steel Yourself | 62.00% | ~329,031 |
+| First Step | 70.00% | ~371,488 |
+| Now You're Talking | 62.00% | ~329,032 |
+| Steel Yourself | 62.00% | ~329,032 |
 | Window Dressing | 50.00% | ~265,348 |
-| Trigger Happy | 46.00% | ~244,120 |
-| Riverborn | 45.00% | ~238,813 |
-| Starry Eyed | 34.00% | ~180,436 |
-| Poking Around | 34.00% | ~180,436 |
+| Trigger Happy | 46.00% | ~244,121 |
+| Riverborn | 45.00% | ~238,814 |
+| Starry Eyed | 34.00% | ~180,437 |
+| Poking Around | 34.00% | ~180,437 |
 | Talk of the Town | 24.00% | ~127,367 |
 | AAARR! | 23.00% | ~122,060 |
 | Hello Darkness | 23.00% | ~122,060 |
 | Wind At Our Backs | 22.00% | ~116,753 |
 | To the Beat | 20.00% | ~106,139 |
 | Sunny Shores | 17.00% | ~90,218 |
-| Sunday Best | 16.00% | ~84,911 |
-| To Victory! | 15.00% | ~79,604 |
-| Two of a Kind | 14.00% | ~74,297 |
-| Keep On Trucking | 13.00% | ~68,990 |
-| Going on an Adventure | 11.00% | ~58,376 |
-| Make Peace, Not War | 11.00% | ~58,376 |
+| Sunday Best | 16.00% | ~84,912 |
+| To Victory! | 15.00% | ~79,605 |
+| Two of a Kind | 14.00% | ~74,298 |
+| Keep On Trucking | 13.00% | ~68,991 |
+| Going on an Adventure | 11.00% | ~58,377 |
+| Make Peace, Not War | 11.00% | ~58,377 |
 | Walking The Line | 10.00% | ~53,070 |
 | Not So Cute Anymore | 10.00% | ~53,070 |
 | Road Less Travelled | 9.00% | ~47,763 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,592 |
 | Point Taken | 0.20% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,695 (Ranked 35)  
-Completed: 495 (0.09%) (Ranked 273)  
+Progressed: 530,697 (Ranked 35)  
+Completed: 496 (0.09%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,11 +263,11 @@ Completed: 495 (0.09%) (Ranked 273)
 | 2023-11-02 | 530,517 | 493 |
 | 2023-11-03 | 530,597 | 494 |
 | 2023-11-04 | 530,689 | 495 |
-| 2023-11-05 | 530,695 | 495 |
+| 2023-11-05 | 530,697 | 496 |
 ## Awards
 Max (Relaxing): 20  (Ranked 542)  
-Sum: 20 (Ranked 543)  
-Diff (max vs sum): -1  
+Sum: 20 (Ranked 544)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 20 |

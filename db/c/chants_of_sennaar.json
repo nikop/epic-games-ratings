@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 305,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 432,
+  "EOS_Progressed": 434,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 6.22,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1885,6 +1885,11 @@
       "Time": "2023-11-05T00:20:23.2861993+00:00",
       "NumProgressed": 432,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T01:54:14.6990039+00:00",
+      "NumProgressed": 434,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1904,23 +1909,23 @@
       "Name": "In this together",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1934,9 +1939,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2014,9 +2019,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2038,9 +2043,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2056,7 +2061,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "PROGRESS_N2",
@@ -2080,7 +2085,7 @@
       "Name": "The darkness",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "PROGRESS_N5",
@@ -2095,14 +2100,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 432,
+      "Progressed": 434,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T00:20:23.2861991+00:00",
+  "LastChanged_Achievements": "2023-11-05T01:54:14.6989827+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:14:33.1603157+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:20:23.2862217+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:47:42.0671685+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:54:14.6990299+00:00"
 }

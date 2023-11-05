@@ -4,7 +4,7 @@
   "ProductSlug": "tunic",
   "Ranking_Rating": 57,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 497,
+  "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 455,
@@ -243,6 +243,6 @@
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
   "LastChanged": "2023-09-17T20:00:44.7211802+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:30.7873147+00:00",
-  "LastUpdate_Ratings": "2023-11-05T00:14:49.2161946+00:00",
-  "LastUpdate_Achievements": "2023-11-05T00:21:17.9214049+00:00"
+  "LastUpdate_Ratings": "2023-11-05T01:50:17.7146156+00:00",
+  "LastUpdate_Achievements": "2023-11-05T01:56:19.1625556+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 49.00% | ~56 |
+| Break Out | 48.00% | ~56 |
 | Trinity | 25.00% | ~29 |
 | Find Allies | 21.00% | ~24 |
-| Fashion Victim | 20.00% | ~23 |
+| Fashion Victim | 21.00% | ~24 |
 | Shatter Them All | 19.00% | ~22 |
 | Scholar | 19.00% | ~22 |
 | Powerful Allies | 18.00% | ~21 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 394)  
-Completed: 1 (0.87%) (Ranked 165)  
+Progressed: 116 (Ranked 394)  
+Completed: 1 (0.86%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,3 +70,4 @@ Completed: 1 (0.87%) (Ranked 165)
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
 | 2023-11-04 | 115 | 1 |
+| 2023-11-05 | 116 | 1 |

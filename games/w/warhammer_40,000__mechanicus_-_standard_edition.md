@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,873 |
+| No aid from the Omnissiah | 26.00% | ~58,874 |
 | This is only the beginning | 19.00% | ~43,023 |
-| Knowledge is power | 12.00% | ~27,172 |
+| Knowledge is power | 12.00% | ~27,173 |
 | Galvanic Rifle | 10.00% | ~22,644 |
-| Power Ranger | 9.00% | ~20,379 |
-| Taser Goad | 9.00% | ~20,379 |
-| Radium Ready | 9.00% | ~20,379 |
-| Half a cog | 9.00% | ~20,379 |
+| Power Ranger | 9.00% | ~20,380 |
+| Taser Goad | 9.00% | ~20,380 |
+| Radium Ready | 9.00% | ~20,380 |
+| Half a cog | 9.00% | ~20,380 |
 | Watch them crumble | 6.00% | ~13,586 |
-| Competent Cohort | 4.00% | ~9,057 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,057 |
-| One with the Machine | 4.00% | ~9,057 |
+| Competent Cohort | 4.00% | ~9,058 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,058 |
+| One with the Machine | 4.00% | ~9,058 |
 | Legio Cybernetica | 3.00% | ~6,793 |
 | Fleshy Disposal | 3.00% | ~6,793 |
 | Battle Servitor | 2.00% | ~4,529 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 687)
 | Impatient destruction | 2.00% | ~4,529 |
 | Vivisected Vizier | 2.00% | ~4,529 |
 | Architect Abortion | 2.00% | ~4,529 |
-| Cohortus Maximus | 0.80% | ~1,811 |
+| Cohortus Maximus | 0.80% | ~1,812 |
 | Mother of Xenarites | 0.40% | ~906 |
 | False God | 0.30% | ~679 |
 | Hard | 0.20% | ~453 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 687)
 | Perma-live | 0.10% | ~226 |
 | Purge the Heretek | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,435 (Ranked 66)  
+Progressed: 226,439 (Ranked 66)  
 Completed: 5 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 5 (0.00%) (Ranked 342)
 | 2023-11-02 | 226,282 | 5 |
 | 2023-11-03 | 226,343 | 5 |
 | 2023-11-04 | 226,427 | 5 |
-| 2023-11-05 | 226,435 | 5 |
+| 2023-11-05 | 226,439 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 252)  
 Sum: 2,186 (Ranked 200)  

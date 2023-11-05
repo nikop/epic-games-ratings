@@ -69,10 +69,10 @@
 | Digital Exorcist | 30.00% | ~293 |
 | Bringer of War | 30.00% | ~293 |
 | Friend or Foe | 29.00% | ~284 |
+| Mobilizer | 29.00% | ~284 |
 | Mission Accomplished | 28.00% | ~274 |
 | Suicide Mission | 28.00% | ~274 |
 | Against All Odds | 28.00% | ~274 |
-| Mobilizer | 28.00% | ~274 |
 | Untouchable | 27.00% | ~264 |
 | Giant Killer | 27.00% | ~264 |
 | First Aid Specialist | 27.00% | ~264 |
@@ -133,7 +133,7 @@
 | The One and Only | 0.60% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 978 (Ranked 251)  
-Completed: 1 (0.10%) (Ranked 265)  
+Completed: 1 (0.10%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
