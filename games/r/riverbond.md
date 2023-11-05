@@ -7,27 +7,27 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~371,536 |
-| Now You're Talking | 62.00% | ~329,074 |
-| Steel Yourself | 62.00% | ~329,074 |
-| Window Dressing | 50.00% | ~265,382 |
+| Now You're Talking | 62.00% | ~329,075 |
+| Steel Yourself | 62.00% | ~329,075 |
+| Window Dressing | 50.00% | ~265,383 |
 | Trigger Happy | 46.00% | ~244,152 |
-| Riverborn | 45.00% | ~238,844 |
+| Riverborn | 45.00% | ~238,845 |
 | Starry Eyed | 34.00% | ~180,460 |
 | Poking Around | 34.00% | ~180,460 |
 | Talk of the Town | 24.00% | ~127,384 |
 | AAARR! | 23.00% | ~122,076 |
 | Hello Darkness | 23.00% | ~122,076 |
-| Wind At Our Backs | 22.00% | ~116,768 |
+| Wind At Our Backs | 22.00% | ~116,769 |
 | To the Beat | 20.00% | ~106,153 |
 | Sunny Shores | 17.00% | ~90,230 |
-| Sunday Best | 16.00% | ~84,922 |
+| Sunday Best | 16.00% | ~84,923 |
 | To Victory! | 15.00% | ~79,615 |
 | Two of a Kind | 14.00% | ~74,307 |
-| Keep On Trucking | 13.00% | ~68,999 |
+| Keep On Trucking | 13.00% | ~69,000 |
 | Going on an Adventure | 11.00% | ~58,384 |
 | Make Peace, Not War | 11.00% | ~58,384 |
-| Walking The Line | 10.00% | ~53,076 |
-| Not So Cute Anymore | 10.00% | ~53,076 |
+| Walking The Line | 10.00% | ~53,077 |
+| Not So Cute Anymore | 10.00% | ~53,077 |
 | Road Less Travelled | 9.00% | ~47,769 |
 | Lost and Found | 9.00% | ~47,769 |
 | Under the Radar | 8.00% | ~42,461 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,592 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,765 (Ranked 35)  
+Progressed: 530,766 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,11 +263,11 @@ Completed: 497 (0.09%) (Ranked 273)
 | 2023-11-02 | 530,517 | 493 |
 | 2023-11-03 | 530,597 | 494 |
 | 2023-11-04 | 530,689 | 495 |
-| 2023-11-05 | 530,765 | 497 |
+| 2023-11-05 | 530,766 | 497 |
 ## Awards
-Max (Relaxing): 20  (Ranked 542)  
+Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  
-Diff (max vs sum): -2  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 20 |

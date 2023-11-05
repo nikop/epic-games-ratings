@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 603)  
+Rating: 4.49 (Ranked 604)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,8 +12,8 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 23.00% | ~1,078 |
 | That'll Leave a Mark | 23.00% | ~1,078 |
 | Mushroom Madness! | 22.00% | ~1,031 |
-| First Strike | 19.00% | ~890 |
-| Spending Spree | 18.00% | ~843 |
+| First Strike | 19.00% | ~891 |
+| Spending Spree | 18.00% | ~844 |
 | Horder Better Faster Stronger | 17.00% | ~797 |
 | Ten Steps from the Grave | 15.00% | ~703 |
 | Everything Must Go! | 14.00% | ~656 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~19 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,686 (Ranked 185)  
+Progressed: 4,687 (Ranked 185)  
 Completed: 3 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 3 (0.06%) (Ranked 290)
 | 2023-11-02 | 4,602 | 3 |
 | 2023-11-03 | 4,619 | 3 |
 | 2023-11-04 | 4,647 | 3 |
-| 2023-11-05 | 4,686 | 3 |
+| 2023-11-05 | 4,687 | 3 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 469)  
 Sum: 286 (Ranked 364)  

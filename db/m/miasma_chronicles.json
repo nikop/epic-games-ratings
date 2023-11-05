@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4146,9 +4146,9 @@
       "ID": "SILENT_BUT_VIOLENT",
       "SetID": "9a4jnji",
       "Name": "Silent but Violent",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 394
     },
     {
       "ID": "TECHNOPHOBE",
@@ -4203,8 +4203,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:09:51.1198783+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:09:41.5288449+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:48.9063785+00:00",
-  "LastUpdate_Ratings": "2023-11-05T22:02:06.6715606+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:09:51.1199566+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:02:03.0732003+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:09:41.5289251+00:00"
 }

@@ -1,12 +1,12 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 381)  
+Rating: 4.61 (Ranked 382)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,052 |
+| Find Sanctuary | 83.00% | ~446,053 |
 | The Three | 64.00% | ~343,944 |
 | The Banquet | 40.00% | ~214,965 |
 | Devara's Light | 31.00% | ~166,598 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,245 |
 | The Alkymancery | 5.00% | ~26,871 |
 | The Pitchwoods | 5.00% | ~26,871 |
-| Honed | 4.00% | ~21,496 |
-| The House of Splendor | 4.00% | ~21,496 |
-| The Crypt | 4.00% | ~21,496 |
-| The Palace | 4.00% | ~21,496 |
+| Honed | 4.00% | ~21,497 |
+| The House of Splendor | 4.00% | ~21,497 |
+| The Crypt | 4.00% | ~21,497 |
+| The Palace | 4.00% | ~21,497 |
 | Find Salvation | 3.00% | ~16,122 |
 | The Unspeakable Deep | 3.00% | ~16,122 |
 | Coastrock | 2.00% | ~10,748 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,748 |
 | Fading Fast | 1.00% | ~5,374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,412 (Ranked 33)  
+Progressed: 537,413 (Ranked 33)  
 Completed: 1,607 (0.30%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 1,607 (0.30%) (Ranked 224)
 | 2023-11-02 | 537,070 | 1,605 |
 | 2023-11-03 | 537,174 | 1,605 |
 | 2023-11-04 | 537,302 | 1,605 |
-| 2023-11-05 | 537,412 | 1,607 |
+| 2023-11-05 | 537,413 | 1,607 |
 ## Awards
 Max (Challenging Combat): 292  (Ranked 249)  
 Sum: 1,986 (Ranked 208)  

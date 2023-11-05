@@ -4,8 +4,8 @@
   "ProductSlug": "savant-ascent-86d652",
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.5461316+00:00",
-  "LastUpdate_Ratings": "2023-11-05T22:01:51.0090255+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:10:13.7092518+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:01:47.7792647+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:10:03.9389558+00:00"
 }

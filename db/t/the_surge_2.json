@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2166,
+  "EOS_Progressed": 2168,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2023-11-05T19:08:57.9344723+00:00",
       "NumProgressed": 2166,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-05T23:09:34.8857557+00:00",
+      "NumProgressed": 2168,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3043,7 +3048,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ACHV_03",
@@ -3051,7 +3056,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACHV_04",
@@ -3075,7 +3080,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHV_07",
@@ -3203,7 +3208,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHV_23",
@@ -3211,7 +3216,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHV_24",
@@ -3227,7 +3232,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ACHV_26",
@@ -3235,7 +3240,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "ACHV_27",
@@ -3267,7 +3272,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACHV_31",
@@ -3299,7 +3304,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHV_35",
@@ -3339,7 +3344,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "ACHV_40",
@@ -3355,7 +3360,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHV_42",
@@ -3490,7 +3495,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2166,
+      "Progressed": 2168,
       "Completed": 13
     }
   ],
@@ -3498,8 +3503,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:09:44.9432508+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:09:34.8857537+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:59:46.3639042+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:09:44.9433232+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:59:40.1515328+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:09:34.885826+00:00"
 }

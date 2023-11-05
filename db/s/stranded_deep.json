@@ -3,12 +3,12 @@
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 889,
-  "Ranking_Popularity": 276,
+  "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-12-28T16:00:00+00:00",
     "PcReleaseDate": "2015-01-23T16:00:00+00:00",
@@ -2692,6 +2692,6 @@
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
   "LastChanged": "2023-11-02T13:04:30.7808242+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:26.3155827+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:57:45.9106113+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:04:20.3353131+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:57:40.8289988+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:04:15.1480032+00:00"
 }

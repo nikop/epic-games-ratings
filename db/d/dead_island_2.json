@@ -6159,10 +6159,10 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713544,
-  "EOS_Completed": 2340,
-  "EOS_NewPlayers": 5563,
-  "EOS_NewCompleters": 60,
+  "EOS_Progressed": 713574,
+  "EOS_Completed": 2341,
+  "EOS_NewPlayers": 5560,
+  "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28889,6 +28889,11 @@
       "Time": "2023-11-05T22:06:10.1243259+00:00",
       "NumProgressed": 713544,
       "NumCompleted": 2340
+    },
+    {
+      "Time": "2023-11-05T23:06:03.2216438+00:00",
+      "NumProgressed": 713574,
+      "NumCompleted": 2341
     }
   ],
   "TotalAchievements": 51,
@@ -29234,9 +29239,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2854
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29258,9 +29263,9 @@
       "ID": "ach_brink_of_success",
       "SetID": "344c43k",
       "Name": "One of Us",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 313
+      "UsersEstimate": 352
     },
     {
       "ID": "ach_dark_magic",
@@ -29307,22 +29312,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713544,
-      "Completed": 2340
+      "Progressed": 713574,
+      "Completed": 2341
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39086,
-      "Completed": 36451
+      "Progressed": 39116,
+      "Completed": 36453
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T19:57:34.294698+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:06:10.1243252+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:06:03.2216431+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:57:24.8105103+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:06:10.1245435+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:57:19.1542197+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:06:03.221893+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -483,9 +483,9 @@
       "ID": "32",
       "SetID": "5e3maia",
       "Name": "Lionheart",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "33",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:07:05.0515644+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:06:57.4870302+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.2483027+00:00",
-  "LastUpdate_Ratings": "2023-11-05T22:00:34.8845849+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:07:05.0516488+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:00:29.7766869+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:06:57.487103+00:00"
 }

@@ -7,7 +7,8 @@ Rating: 4.54 (Ranked 521)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~391 |
 | Pork Chopped | 1.00% | ~391 |
-| One of Us | 0.80% | ~313 |
+| One of Us | 0.90% | ~352 |
+| Welcome To Hell-A | 0.40% | ~2,854 |
 | Git Gutte! | 0.30% | ~2,141 |
 | Anger Management | 0.30% | ~2,141 |
 | Break A Leg | 0.30% | ~2,141 |
@@ -15,7 +16,6 @@ Rating: 4.54 (Ranked 521)
 | Hazardous Materials | 0.30% | ~2,141 |
 | Hotel California | 0.30% | ~2,141 |
 | Personal Assistant Personally Assisted | 0.30% | ~2,141 |
-| Welcome To Hell-A | 0.30% | ~2,141 |
 | Dr. Reed, I Presume? | 0.20% | ~1,427 |
 | Making Your Mark | 0.20% | ~1,427 |
 | Perks of the Job | 0.20% | ~1,427 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,544 (Ranked 21)  
-Completed: 2,340 (0.33%) (Ranked 217)  
+Progressed: 713,574 (Ranked 21)  
+Completed: 2,341 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 2,340 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,544 | 2,340 |
+| 2023-11-05 | 713,574 | 2,341 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,687 (Ranked 89)  

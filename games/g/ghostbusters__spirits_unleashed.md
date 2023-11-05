@@ -6,19 +6,19 @@ Rating: 4.50 (Ranked 583)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 7.00% | ~2,120 |
-| Advancement | 5.00% | ~1,514 |
-| Meticulously Efficient | 5.00% | ~1,514 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,211 |
-| Discovery | 4.00% | ~1,211 |
-| Fully Upgraded | 4.00% | ~1,211 |
-| Solo Capture | 4.00% | ~1,211 |
-| Swift Rift Removers | 4.00% | ~1,211 |
-| Teamwork | 4.00% | ~1,211 |
-| Clutch Capture | 3.00% | ~908 |
-| Cultured | 3.00% | ~908 |
-| There you are! | 3.00% | ~908 |
-| Vaporous Expansion | 3.00% | ~908 |
-| Whoopsie | 3.00% | ~908 |
+| Advancement | 5.00% | ~1,515 |
+| Meticulously Efficient | 5.00% | ~1,515 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,212 |
+| Discovery | 4.00% | ~1,212 |
+| Fully Upgraded | 4.00% | ~1,212 |
+| Solo Capture | 4.00% | ~1,212 |
+| Swift Rift Removers | 4.00% | ~1,212 |
+| Teamwork | 4.00% | ~1,212 |
+| Clutch Capture | 3.00% | ~909 |
+| Cultured | 3.00% | ~909 |
+| There you are! | 3.00% | ~909 |
+| Vaporous Expansion | 3.00% | ~909 |
+| Whoopsie | 3.00% | ~909 |
 | Animated | 2.00% | ~606 |
 | Back Off | 2.00% | ~606 |
 | We have the best insurance | 2.00% | ~606 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 583)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,281 (Ranked 122)  
+Progressed: 30,292 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 65 (0.21%) (Ranked 237)
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
-| 2023-11-05 | 30,281 | 65 |
+| 2023-11-05 | 30,292 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
-Sum: 2,700 (Ranked 180)  
+Sum: 2,703 (Ranked 180)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -271,8 +271,8 @@ Diff (max vs sum): 66
 | This game has Competitive Players | 265 |
 | This game is Extremely Fun | 262 |
 | This game is Relaxing | 261 |
+| This game has Amazing Characters | 248 |
 | This game has Quickly Understood Controls | 248 |
-| This game has Amazing Characters | 245 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -480,4 +480,4 @@ Diff (max vs sum): 66
 | 2023-11-02 | 4.50 | 298 | 2,663 |
 | 2023-11-03 | 4.50 | 300 | 2,676 |
 | 2023-11-04 | 4.50 | 302 | 2,693 |
-| 2023-11-05 | 4.50 | 302 | 2,700 |
+| 2023-11-05 | 4.50 | 302 | 2,703 |

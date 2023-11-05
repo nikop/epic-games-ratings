@@ -2,13 +2,13 @@
   "ID": "cc1d104767dc4a2fa22a44d487e2db64",
   "Name": "60 Seconds! Reatomized",
   "ProductSlug": "60-seconds-reatomized-91ffa3",
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 407,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -7019,9 +7019,9 @@
       "ID": "ACH_NAYSAYER",
       "SetID": "5nj1ea3",
       "Name": "Naysayer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_NORMAL",
@@ -7180,8 +7180,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-10-07T15:59:26.0001833+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:06:40.2890201+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:06:33.302926+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:21.0763186+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:58:30.9264751+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:06:40.2891189+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:58:25.2403155+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:06:33.3030237+00:00"
 }

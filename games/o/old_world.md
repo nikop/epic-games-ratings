@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 308)  
+Rating: 4.65 (Ranked 309)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -187,12 +187,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Like a Lion | 0.20% | ~30 |
 | Tell the Spartans | 0.20% | ~30 |
 | Learn By Playing 1 - Able | 0.20% | ~30 |
+| Macedonian Wars | 0.20% | ~30 |
 | Medo-Babylonian Conquest | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Pantheon in Roma | 0.20% | ~30 |
 | Randomized Leaders | 0.20% | ~30 |
+| Kmt Golden Age | 0.20% | ~30 |
 | Glory to The Aten | 0.20% | ~30 |
 | Akhenaten's Legacy | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
@@ -272,7 +274,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 2 - Just | 0.10% | ~15 |
 | Learn By Playing 3 - Good | 0.10% | ~15 |
 | Learn By Playing 4 - Strong | 0.10% | ~15 |
-| Macedonian Wars | 0.10% | ~15 |
 | Pyramids in Menefer | 0.10% | ~15 |
 | Merchants of the Levant | 0.10% | ~15 |
 | Realistic Mortality | 0.10% | ~15 |
@@ -310,7 +311,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic Kmt Unified | 0.10% | ~15 |
 | Golden Age-less | 0.10% | ~15 |
 | Worst Pharaoh Ever | 0.10% | ~15 |
-| Kmt Golden Age | 0.10% | ~15 |
 | Pharaonic Kmt Golden Age | 0.10% | ~15 |
 | Prosperous Pharaonic Kmt | 0.10% | ~15 |
 | Failed the Aten | 0.10% | ~15 |
@@ -550,9 +550,9 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
 ## Awards
-Max (Relaxing): 226  (Ranked 270)  
+Max (Relaxing): 226  (Ranked 271)  
 Sum: 1,868 (Ranked 212)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |

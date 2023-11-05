@@ -43,9 +43,9 @@ Rating: 4.82 (Ranked 63)
 | My heart and sword always for Demacia | 16.00% | ~420 |
 | Meltridge | 16.00% | ~420 |
 | Cloven Dell Headquarters | 16.00% | ~420 |
+| Whispers in the Woods IV | 14.00% | ~368 |
 | I smell fear | 14.00% | ~368 |
 | Embrace the darkness | 13.00% | ~341 |
-| Whispers in the Woods IV | 13.00% | ~341 |
 | The end of the experiments | 13.00% | ~341 |
 | The Great City of Demacia | 13.00% | ~341 |
 | Call it 'redistribution of magic | 13.00% | ~341 |

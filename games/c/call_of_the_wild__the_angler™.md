@@ -7,11 +7,11 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 3.00% | ~191 |
-| Can you smell what the Rod is Hooking | 2.00% | ~127 |
-| Hey Good Hookin | 2.00% | ~127 |
-| I'm on a Boat! | 2.00% | ~127 |
-| More Fish in the Sea | 2.00% | ~127 |
-| Scaling up | 2.00% | ~127 |
+| Can you smell what the Rod is Hooking | 2.00% | ~128 |
+| Hey Good Hookin | 2.00% | ~128 |
+| I'm on a Boat! | 2.00% | ~128 |
+| More Fish in the Sea | 2.00% | ~128 |
+| Scaling up | 2.00% | ~128 |
 | Ready to Rod and Roll | 1.00% | ~64 |
 | Fish Out of Water | 1.00% | ~64 |
 | Things that go Splash in the Night | 1.00% | ~64 |
@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 0.80% | ~51 |
 | School's Out for Summer | 0.50% | ~32 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~29 |
-| License to Gill | 0.40% | ~25 |
+| License to Gill | 0.40% | ~26 |
 | Aguas Claras Conquistador | 0.40% | ~23 |
 | I'm Hooked! | 0.30% | ~19 |
 | All Good Kings Must Come to an End | 0.30% | ~17 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,374 (Ranked 177)  
+Progressed: 6,377 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 6,244 | 0 |
 | 2023-11-03 | 6,286 | 0 |
 | 2023-11-04 | 6,326 | 0 |
-| 2023-11-05 | 6,374 | 0 |
+| 2023-11-05 | 6,377 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 402)  

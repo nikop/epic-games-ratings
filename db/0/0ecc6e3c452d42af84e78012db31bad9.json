@@ -4,8 +4,8 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3852,
+  "EOS_Progressed": 3853,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 3,
@@ -9284,6 +9284,11 @@
       "Time": "2023-11-05T22:04:50.9609869+00:00",
       "NumProgressed": 3852,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-05T23:04:45.2918304+00:00",
+      "NumProgressed": 3853,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 16,
@@ -9327,7 +9332,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ach_architecture_completed",
@@ -9391,7 +9396,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2889
+      "UsersEstimate": 2890
     },
     {
       "ID": "ach_magic_wand",
@@ -9407,7 +9412,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ach_tornado",
@@ -9422,14 +9427,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3852,
+      "Progressed": 3853,
       "Completed": 32
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:04:50.9609863+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:04:45.2918298+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:59:47.5681573+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:04:50.9610677+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:59:41.4109773+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:04:45.2919021+00:00"
 }

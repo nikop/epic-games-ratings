@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 329)  
+Rating: 4.64 (Ranked 330)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,6 +22,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.20% | ~1,791 |
 | The Quick and the Dead | 0.20% | ~1,791 |
 | Life of the Road | 0.20% | ~1,791 |
+| The Fool | 0.20% | ~1,791 |
 | The Hermit | 0.20% | ~1,791 |
 | The High Priestess | 0.20% | ~1,791 |
 | The Lovers | 0.20% | ~1,791 |
@@ -50,7 +51,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.10% | ~895 |
 | Rough Landing | 0.10% | ~895 |
 | The Devil | 0.10% | ~895 |
-| The Fool | 0.10% | ~895 |
 | The Star | 0.10% | ~895 |
 | The Sun | 0.10% | ~895 |
 | Greetings from Pacifica! | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,444 (Ranked 15)  
+Progressed: 895,449 (Ranked 15)  
 Completed: 2,747 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,10 +273,10 @@ Completed: 2,747 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,444 | 2,747 |
+| 2023-11-05 | 895,449 | 2,747 |
 ## Awards
 Max (Character Customization): 104,068  (Ranked 9)  
-Sum: 343,308 (Ranked 10)  
+Sum: 343,386 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -290,7 +290,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 18,653 |
 | This game is Relaxing | 18,028 |
 | This game has Quickly Understood Controls | 17,935 |
-| This game has a Creative Community | 12,416 |
+| This game has a Creative Community | 12,494 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -584,4 +584,4 @@ Diff (max vs sum): -1
 | 2023-11-02 | 4.64 | - | 103,503 | 339,526 |
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
-| 2023-11-05 | 4.64 | - | 104,068 | 343,308 |
+| 2023-11-05 | 4.64 | - | 104,068 | 343,386 |

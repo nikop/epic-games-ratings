@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "lootaphilia",
@@ -479,17 +479,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "thats_my_boy",
@@ -544,8 +544,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:06:44.4149932+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:06:37.2469428+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8040096+00:00",
-  "LastUpdate_Ratings": "2023-11-05T22:03:20.4245306+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:06:44.4150091+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:03:14.578587+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:06:37.2469603+00:00"
 }

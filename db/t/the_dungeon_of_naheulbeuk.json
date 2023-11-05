@@ -3,12 +3,12 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 445,
-  "Ranking_Popularity": 270,
+  "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1275,7 +1275,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235453,
+  "EOS_Progressed": 235463,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1508,
   "EOS_NewCompleters": 0,
@@ -17440,6 +17440,11 @@
       "Time": "2023-11-05T22:06:00.3754646+00:00",
       "NumProgressed": 235453,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-05T23:05:53.3599761+00:00",
+      "NumProgressed": 235463,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17499,7 +17504,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14127
+      "UsersEstimate": 14128
     },
     {
       "ID": "Chapter2",
@@ -17507,7 +17512,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "Chapter3",
@@ -17899,7 +17904,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80054
+      "UsersEstimate": 80057
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -17915,7 +17920,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "EndCombatOneHp",
@@ -17947,7 +17952,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18836
+      "UsersEstimate": 18837
     },
     {
       "ID": "FollowBraztok",
@@ -18099,7 +18104,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9418
+      "UsersEstimate": 9419
     },
     {
       "ID": "SupportCount4",
@@ -18154,21 +18159,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235453,
+      "Progressed": 235463,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235453,
+      "Progressed": 235463,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-04T01:39:13.702978+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:06:00.3754637+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:05:53.3599752+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:58:44.1842516+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:06:00.3757084+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:58:38.297365+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:05:53.3603075+00:00"
 }

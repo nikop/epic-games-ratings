@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -723,9 +723,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -842,8 +842,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-05T22:09:50.8125502+00:00",
+  "LastChanged_Achievements": "2023-11-05T23:09:41.2163061+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:59:42.9719844+00:00",
-  "LastUpdate_Achievements": "2023-11-05T22:09:50.8125856+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:59:37.2406811+00:00",
+  "LastUpdate_Achievements": "2023-11-05T23:09:41.2163223+00:00"
 }

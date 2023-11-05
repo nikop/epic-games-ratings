@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.60 (Ranked 406)  
+Rating: 4.60 (Ranked 407)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -58,8 +58,8 @@ Rating: 4.60 (Ranked 406)
 | Konrad style! | 1.00% | ~55 |
 | Bughunter | 0.90% | ~50 |
 | Cat Lady | 0.90% | ~50 |
+| Naysayer | 0.70% | ~39 |
 | Pro gamer | 0.70% | ~39 |
-| Naysayer | 0.60% | ~33 |
 | Manhattan Project | 0.60% | ~33 |
 | Fair Exchange | 0.40% | ~22 |
 | Miracle | 0.30% | ~17 |

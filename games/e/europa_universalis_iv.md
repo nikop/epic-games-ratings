@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,924 |
-| Until death do us apart | 4.00% | ~17,924 |
-| Victorious! | 4.00% | ~17,924 |
-| That's a Grand Navy | 3.00% | ~13,443 |
-| That is mine! | 3.00% | ~13,443 |
-| Brothers in Arms | 2.00% | ~8,962 |
-| Cold War | 2.00% | ~8,962 |
-| For the Glory | 2.00% | ~8,962 |
-| Seriously?! | 2.00% | ~8,962 |
+| That's a Grand Army | 4.00% | ~17,925 |
+| Until death do us apart | 4.00% | ~17,925 |
+| Victorious! | 4.00% | ~17,925 |
+| That's a Grand Navy | 3.00% | ~13,444 |
+| That is mine! | 3.00% | ~13,444 |
+| Brothers in Arms | 2.00% | ~8,963 |
+| Cold War | 2.00% | ~8,963 |
+| For the Glory | 2.00% | ~8,963 |
+| Seriously?! | 2.00% | ~8,963 |
 | Defender of the Faith | 1.00% | ~4,481 |
 | It's all about luck | 1.00% | ~4,481 |
 | It's all about the money | 1.00% | ~4,481 |
@@ -32,14 +32,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.50% | ~2,241 |
 | City of Cities | 0.50% | ~2,241 |
 | This navy can take it all | 0.50% | ~2,241 |
-| Bright Spark | 0.40% | ~1,792 |
-| The Emperors new clothes | 0.40% | ~1,792 |
-| Factionalism | 0.40% | ~1,792 |
-| Gentle Persuasion | 0.40% | ~1,792 |
-| Isn't this the way to India? | 0.40% | ~1,792 |
-| Queen of Conquest | 0.40% | ~1,792 |
-| The Five Colonies | 0.40% | ~1,792 |
-| Trustworthy | 0.40% | ~1,792 |
+| Bright Spark | 0.40% | ~1,793 |
+| The Emperors new clothes | 0.40% | ~1,793 |
+| Factionalism | 0.40% | ~1,793 |
+| Gentle Persuasion | 0.40% | ~1,793 |
+| Isn't this the way to India? | 0.40% | ~1,793 |
+| Queen of Conquest | 0.40% | ~1,793 |
+| The Five Colonies | 0.40% | ~1,793 |
+| Trustworthy | 0.40% | ~1,793 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,344 |
 | Down Under | 0.30% | ~1,344 |
 | Electable! | 0.30% | ~1,344 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,107 (Ranked 41)  
+Progressed: 448,126 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,7 +560,7 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
-| 2023-11-05 | 448,107 | 1 |
+| 2023-11-05 | 448,126 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 55)  
 Sum: 56,214 (Ranked 24)  
