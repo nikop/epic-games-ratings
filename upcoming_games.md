@@ -10,6 +10,7 @@
 | [Crown Of The Empire Collectors Edition](games/a/a8edf5117e73463e8d4b8351b07a3d0d.md) | 2023-11-08 | - |  | - | - |
 | [Berzerk Recharged](games/8/8d9b7c29e68e4a8aaa47f7074a532975.md) | 2023-11-09 | - |  | - | - |
 | [Dungeons 4](games/d/dungeons_4.md) | 2023-11-09 | - |  | - | - |
+| [SPIRITUS](games/2/2b96380a243e4883bb007b67b78b18c1.md) | 2023-11-10 | 11 (1,000 XP) | 3 | - | - |
 | [ANONYMOUS HUNTING SIMULATOR](games/b/bf41a162f7324b14b597d0713415b312.md) | 2023-11-10 | - |  | - | - |
 | [Royal Defense - Invisible Threat](games/f/f4bb47dcb7ec467dae201beb267bd172.md) | 2023-11-11 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2023-11-14 | - |  | - | - |
@@ -20,7 +21,6 @@
 | [Flunky Farm](games/3/389061e1584946a58872a5ca03d08443.md) | 2023-11-17 | - |  | - | - |
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 45 | - | - |
 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 2023-11-17 | 6 (1,000 XP) | 7 | - | - |
-| [SPIRITUS](games/2/2b96380a243e4883bb007b67b78b18c1.md) | 2023-11-18 | 11 (1,000 XP) | 3 | - | - |
 | [Aron's Adventure: Magic Reborn](games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 2023-11-20 | 31 (1,000 XP) | 2 | - | - |
 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 2023-11-21 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
@@ -42,7 +42,7 @@
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | - |  | - | - |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | 28 (1,000 XP) | 0 | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2023-12-05 | - |  | - | - |
-| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 200 | - | - |
+| [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 201 | - | - |
 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 2023-12-08 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2023-12-12 | - |  | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2023-12-15 | - |  | - | - |
@@ -128,7 +128,7 @@
 | [Nightingale](games/n/nightingale.md) | 2024-02-22 | - |  | - | - |
 | [Minigolf Blast](games/0/0d088fcaab2d4c41954845267cb28b39.md) | 2024-02-29 | - |  | - | - |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-29 | - |  | - | - |
-| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 448 | - | 0 |
+| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-02-29 | 19 (1,000 XP) | 449 | - | 0 |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-03-29 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
@@ -149,7 +149,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 253,044 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 254,238 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -272,7 +272,7 @@
 | [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
-| [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 2 | - | - |
+| [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 3 | - | - |
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | 2099-01-01 | - |  | - | - |
 | [dHexUs](games/1/18ce5f915fb44c1c957951439af675fb.md) | 2099-01-01 | - |  | - | - |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | - |  | - | - |
@@ -359,7 +359,7 @@
 | [New Arc Line](games/8/8d86c6965e66438d89f062a09a273782.md) | 2099-01-01 | - |  | - | - |
 | [Nifty Island](games/9/95afff33bcc840f99fdfb7f2a387c855.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
-| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 102 | - | - |
+| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 106 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2099-01-01 | - |  | - | - |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2099-01-01 | - |  | - | - |
