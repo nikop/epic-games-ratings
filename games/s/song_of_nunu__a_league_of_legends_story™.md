@@ -14,13 +14,13 @@
 | Krugmazing | 59.00% | ~254 |
 | The Fire Below the Mountain | 57.00% | ~245 |
 | Moneyball | 56.00% | ~241 |
-| No Bites | 47.00% | ~202 |
+| No Bites | 48.00% | ~206 |
 | Iceborn | 47.00% | ~202 |
 | Tear of Freedom | 45.00% | ~194 |
 | Boom Things | 45.00% | ~194 |
 | Rhythm Of Willump | 42.00% | ~181 |
 | My Darkest Day | 41.00% | ~176 |
-| True Legends | 39.00% | ~168 |
+| True Legends | 40.00% | ~172 |
 | The Relentless Storm | 37.00% | ~159 |
 | A Tragic Reminder | 36.00% | ~155 |
 | The Finisher | 35.00% | ~150 |
@@ -30,14 +30,14 @@
 | Never Gets Old | 32.00% | ~138 |
 | So Close | 30.00% | ~129 |
 | Bullseye | 30.00% | ~129 |
-| You Get Used To It | 28.00% | ~120 |
+| You Get Used To It | 29.00% | ~125 |
+| Biggest Snowball Ever | 27.00% | ~116 |
 | Boosted! | 27.00% | ~116 |
 | Family | 26.00% | ~112 |
-| Biggest Snowball Ever | 26.00% | ~112 |
+| Freeze The Ice Witch | 26.00% | ~112 |
 | Vertical Power | 26.00% | ~112 |
 | Deadliest and Biggest Snowball Ever! | 26.00% | ~112 |
-| Freeze The Ice Witch | 25.00% | ~108 |
-| It Is Not Over | 24.00% | ~103 |
+| It Is Not Over | 25.00% | ~108 |
 | Yummy | 12.00% | ~52 |
 | One From The Heart | 12.00% | ~52 |
 | Snowball Fightn't | 11.00% | ~47 |

@@ -23,9 +23,9 @@
 | Open door | 13.00% | ~56 |
 | Feels like springtime | 13.00% | ~56 |
 | Alchemists Express | 13.00% | ~56 |
+| Rascal | 11.00% | ~48 |
 | Free at last | 10.00% | ~43 |
 | A Link to the Past | 10.00% | ~43 |
-| Rascal | 10.00% | ~43 |
 | A great audience | 8.00% | ~35 |
 | For its own good | 8.00% | ~35 |
 | Fashion victim | 3.00% | ~13 |

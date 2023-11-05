@@ -3977,7 +3977,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75956,
+  "EOS_Progressed": 75957,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 1,
@@ -21457,6 +21457,11 @@
       "Time": "2023-11-05T01:52:15.8296061+00:00",
       "NumProgressed": 75956,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T02:26:42.8089466+00:00",
+      "NumProgressed": 75957,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21556,7 +21561,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11393
+      "UsersEstimate": 11394
     },
     {
       "ID": "CHALLENGES_1",
@@ -21876,7 +21881,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16710
+      "UsersEstimate": 16711
     },
     {
       "ID": "MYSTERY_04",
@@ -21900,7 +21905,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11393
+      "UsersEstimate": 11394
     },
     {
       "ID": "MYSTERY_07",
@@ -21955,13 +21960,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75956,
+      "Progressed": 75957,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46236,
+      "Progressed": 46237,
       "Completed": 2673
     }
   ],
@@ -21969,8 +21974,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-04T17:06:11.5902441+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:52:15.8296056+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:26:42.8089458+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:50:14.5844838+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:52:15.8297821+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:23:44.5693977+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:26:42.8092336+00:00"
 }

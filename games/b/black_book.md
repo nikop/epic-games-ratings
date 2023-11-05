@@ -6,21 +6,21 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~13,570 |
-| Student | 21.00% | ~10,554 |
-| Knower | 15.00% | ~7,539 |
-| Aspen Tree | 14.00% | ~7,036 |
-| Listener | 14.00% | ~7,036 |
+| Initiation | 27.00% | ~13,571 |
+| Student | 21.00% | ~10,555 |
+| Knower | 15.00% | ~7,540 |
+| Aspen Tree | 14.00% | ~7,037 |
+| Listener | 14.00% | ~7,037 |
 | Healer | 13.00% | ~6,534 |
-| Scientist | 11.00% | ~5,528 |
-| Soldier | 11.00% | ~5,528 |
+| Scientist | 11.00% | ~5,529 |
+| Soldier | 11.00% | ~5,529 |
 | Cow Level | 10.00% | ~5,026 |
 | Water | 10.00% | ~5,026 |
-| Old Friend | 9.00% | ~4,523 |
-| Herbalist | 9.00% | ~4,523 |
-| New Spirits | 9.00% | ~4,523 |
-| Voipel | 9.00% | ~4,523 |
-| Black Mage | 9.00% | ~4,523 |
+| Old Friend | 9.00% | ~4,524 |
+| Herbalist | 9.00% | ~4,524 |
+| New Spirits | 9.00% | ~4,524 |
+| Voipel | 9.00% | ~4,524 |
+| Black Mage | 9.00% | ~4,524 |
 | Card Player | 8.00% | ~4,021 |
 | Pine Tree | 8.00% | ~4,021 |
 | Collector | 8.00% | ~4,021 |
@@ -43,7 +43,7 @@ Number of Ratings: 96  (23.09.2022)
 | Vorsa | 5.00% | ~2,513 |
 | Susanin | 5.00% | ~2,513 |
 | Traveller | 5.00% | ~2,513 |
-| Musician | 4.00% | ~2,010 |
+| Musician | 4.00% | ~2,011 |
 | Black Sorceress | 3.00% | ~1,508 |
 | Cheater | 3.00% | ~1,508 |
 | Diplomat | 3.00% | ~1,508 |
@@ -57,8 +57,8 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~503 |
 | Word Master | 0.20% | ~101 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,259 (Ranked 109)  
-Completed: 45 (0.09%) (Ranked 273)  
+Progressed: 50,264 (Ranked 109)  
+Completed: 45 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 45 (0.09%) (Ranked 273)
 | 2023-11-02 | 49,505 | 43 |
 | 2023-11-03 | 49,834 | 43 |
 | 2023-11-04 | 50,229 | 44 |
-| 2023-11-05 | 50,259 | 45 |
+| 2023-11-05 | 50,264 | 45 |
 ## Awards
 Max (Character Customization): 85  (Ranked 379)  
 Sum: 85 (Ranked 452)  

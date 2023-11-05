@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13308,
+  "EOS_Progressed": 13309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13729,6 +13729,11 @@
       "Time": "2023-11-05T01:52:29.2816547+00:00",
       "NumProgressed": 13308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T02:27:02.3794617+00:00",
+      "NumProgressed": 13309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -13932,21 +13937,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13308,
+      "Progressed": 13309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:52:29.2816541+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:27:02.3794611+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.0887234+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:45:53.3288118+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:52:29.281756+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:19:58.9301596+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:27:02.3795657+00:00"
 }

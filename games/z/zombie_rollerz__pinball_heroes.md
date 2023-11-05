@@ -6,31 +6,31 @@ Rating: 4.30 (Ranked 829)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~158 |
-| Bullseye! | 85.00% | ~152 |
-| Graduation! | 79.00% | ~141 |
-| Villfir Forest | 75.00% | ~134 |
+| Bullseye! | 84.00% | ~151 |
+| Graduation! | 79.00% | ~142 |
+| Villfir Forest | 74.00% | ~133 |
 | Right in the kisser! | 59.00% | ~106 |
-| The Thrower | 47.00% | ~84 |
-| Duscot Steamcity | 47.00% | ~84 |
+| The Thrower | 47.00% | ~85 |
+| Duscot Steamcity | 47.00% | ~85 |
 | The Shaman | 45.00% | ~81 |
 | The Penguin | 44.00% | ~79 |
-| The Magician | 40.00% | ~72 |
-| The Tunneler | 40.00% | ~72 |
-| Level Up!! | 37.00% | ~66 |
-| The Shield | 37.00% | ~66 |
+| The Magician | 39.00% | ~70 |
+| The Tunneler | 39.00% | ~70 |
+| Level Up!! | 37.00% | ~67 |
+| The Shield | 37.00% | ~67 |
 | Kill-streak | 29.00% | ~52 |
 | Topped up | 28.00% | ~50 |
 | The Bird | 28.00% | ~50 |
 | The Ninja | 26.00% | ~47 |
 | The Idol | 25.00% | ~45 |
 | Inferno Ruins | 25.00% | ~45 |
-| I'm Rich | 22.00% | ~39 |
-| The Slime | 22.00% | ~39 |
+| I'm Rich | 22.00% | ~40 |
+| The Slime | 22.00% | ~40 |
 | 1 is all I need | 21.00% | ~38 |
-| Untouchable | 20.00% | ~36 |
-| The Flower | 17.00% | ~30 |
-| The Giant | 17.00% | ~30 |
-| Ember | 17.00% | ~30 |
+| Untouchable | 19.00% | ~34 |
+| The Flower | 17.00% | ~31 |
+| The Giant | 17.00% | ~31 |
+| Ember | 17.00% | ~31 |
 | The Blacksmith | 16.00% | ~29 |
 | The Ooze | 16.00% | ~29 |
 | Out of the Frying Pan... | 16.00% | ~29 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 829)
 | Divinity | 0.60% | ~1 |
 | Zombie Exterminator | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 367)  
+Progressed: 180 (Ranked 367)  
 Completed: 1 (0.56%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 1 (0.56%) (Ranked 184)
 | 2023-11-01 | 177 | 1 |
 | 2023-11-02 | 178 | 1 |
 | 2023-11-04 | 179 | 1 |
+| 2023-11-05 | 180 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1213,9 +1213,9 @@
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_29",
@@ -1229,9 +1229,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "achievement_30",
@@ -1443,8 +1443,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:50:37.9865445+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:24:21.5400348+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:46:35.435244+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:50:37.9866752+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:21:04.1897377+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:24:21.5401732+00:00"
 }

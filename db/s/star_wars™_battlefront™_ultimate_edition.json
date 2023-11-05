@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 266,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1052,
+  "EOS_Progressed": 1053,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -3004,6 +3004,11 @@
       "Time": "2023-11-05T00:21:13.1720015+00:00",
       "NumProgressed": 1052,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T02:30:44.0524559+00:00",
+      "NumProgressed": 1053,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3240,7 +3245,7 @@
       "Name": "New Recruit",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "achievement_36",
@@ -3256,7 +3261,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "achievement_38",
@@ -3280,7 +3285,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_40",
@@ -3358,9 +3363,9 @@
       "ID": "achievement_49",
       "SetID": "cemm4l8",
       "Name": "Do we take prisoners?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_5",
@@ -3456,7 +3461,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_60",
@@ -3519,13 +3524,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1052,
+      "Progressed": 1053,
       "Completed": 1
     }
   ],
@@ -3533,8 +3538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:56:14.7050714+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:30:44.0524553+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:47:15.7816492+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:56:14.7051595+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:22:06.3362788+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:30:44.0525475+00:00"
 }

@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73340,
+  "EOS_Progressed": 73341,
   "EOS_Completed": 386,
   "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 7,
@@ -22193,6 +22193,11 @@
       "Time": "2023-11-05T01:55:40.6532804+00:00",
       "NumProgressed": 73340,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-11-05T02:29:54.9368198+00:00",
+      "NumProgressed": 73341,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 24,
@@ -22220,7 +22225,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 49871
+      "UsersEstimate": 49872
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22236,7 +22241,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19068
+      "UsersEstimate": 19069
     },
     {
       "ID": "ERADICATE",
@@ -22244,7 +22249,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15401
+      "UsersEstimate": 15402
     },
     {
       "ID": "FETCH",
@@ -22284,7 +22289,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38870
+      "UsersEstimate": 38871
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -22348,7 +22353,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 15401
+      "UsersEstimate": 15402
     },
     {
       "ID": "SPIRIT_DASH",
@@ -22356,7 +22361,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8068
     },
     {
       "ID": "SPIRIT_FORM",
@@ -22388,14 +22393,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11734
+      "UsersEstimate": 11735
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73340,
+      "Progressed": 73341,
       "Completed": 386
     }
   ],
@@ -22403,8 +22408,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:55:40.6532801+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:29:54.9368192+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:45:46.5886312+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:55:40.6534312+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:19:49.9389419+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:29:54.936973+00:00"
 }

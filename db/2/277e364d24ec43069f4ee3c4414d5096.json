@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113318,
+  "EOS_Progressed": 113319,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16816,6 +16816,11 @@
       "Time": "2023-11-05T01:55:34.8102828+00:00",
       "NumProgressed": 113318,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-05T02:29:46.5024719+00:00",
+      "NumProgressed": 113319,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -16835,7 +16840,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87255
+      "UsersEstimate": 87256
     },
     {
       "ID": "EAwards_10",
@@ -16955,7 +16960,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "EAwards_24",
@@ -16971,7 +16976,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21530
+      "UsersEstimate": 21531
     },
     {
       "ID": "EAwards_26",
@@ -17011,7 +17016,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21530
+      "UsersEstimate": 21531
     },
     {
       "ID": "EAwards_30",
@@ -17059,7 +17064,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "EAwards_36",
@@ -17187,7 +17192,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "EAwards_7",
@@ -17218,7 +17223,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113318,
+      "Progressed": 113319,
       "Completed": 48
     }
   ],
@@ -17226,8 +17231,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:55:34.8102823+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:29:46.5024709+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:44:47.368166+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:55:34.8104259+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:18:17.5573013+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:29:46.5027403+00:00"
 }

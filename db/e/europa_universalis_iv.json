@@ -11625,9 +11625,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 447286,
+  "EOS_Progressed": 447305,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5488,
+  "EOS_NewPlayers": 5485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34295,6 +34295,11 @@
       "Time": "2023-11-05T01:50:39.2852522+00:00",
       "NumProgressed": 447286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T02:24:23.715439+00:00",
+      "NumProgressed": 447305,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34586,7 +34591,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -34818,7 +34823,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "achievement_cold_war",
@@ -35306,7 +35311,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17891
+      "UsersEstimate": 17892
     },
     {
       "ID": "achievement_grand_coalition",
@@ -36810,7 +36815,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2236
+      "UsersEstimate": 2237
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -36970,7 +36975,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17891
+      "UsersEstimate": 17892
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -37002,7 +37007,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17891
+      "UsersEstimate": 17892
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -37137,21 +37142,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 447286,
+      "Progressed": 447305,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 447286,
+      "Progressed": 447305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-04T22:00:19.1030646+00:00",
-  "LastChanged_Achievements": "2023-11-05T01:50:39.2852513+00:00",
+  "LastChanged_Achievements": "2023-11-05T02:24:23.7154384+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-05T01:47:20.6987072+00:00",
-  "LastUpdate_Achievements": "2023-11-05T01:50:39.2866434+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:22:14.2629569+00:00",
+  "LastUpdate_Achievements": "2023-11-05T02:24:23.7169892+00:00"
 }

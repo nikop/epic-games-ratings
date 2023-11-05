@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~947 |
-| Off to a good start | 68.00% | ~715 |
+| New Recruit | 90.00% | ~948 |
+| Off to a good start | 68.00% | ~716 |
 | Do... or do not. There is no try | 51.00% | ~537 |
 | A good blaster at your side | 32.00% | ~337 |
-| I suggest a new strategy | 20.00% | ~210 |
+| I suggest a new strategy | 20.00% | ~211 |
 | Scrap collector | 19.00% | ~200 |
-| Great shot, kid! | 18.00% | ~189 |
+| Great shot, kid! | 18.00% | ~190 |
 | All right, I'll give it a try | 17.00% | ~179 |
 | Shoot first | 16.00% | ~168 |
 | The power of the Force | 15.00% | ~158 |
@@ -51,11 +51,11 @@
 | Onwards! | 2.00% | ~21 |
 | The circle is now complete | 2.00% | ~21 |
 | No such thing as luck | 1.00% | ~11 |
-| Do we take prisoners? | 1.00% | ~11 |
 | You have your moments | 1.00% | ~11 |
 | When surrounded by war... | 1.00% | ~11 |
 | Stop that Droid | 1.00% | ~11 |
 | A New Hope | 0.90% | ~9 |
+| Do we take prisoners? | 0.90% | ~9 |
 | Walker defender | 0.80% | ~8 |
 | I’ll take that bet | 0.70% | ~7 |
 | Stay on target | 0.40% | ~4 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052 (Ranked 246)  
-Completed: 1 (0.10%) (Ranked 266)  
+Progressed: 1,053 (Ranked 246)  
+Completed: 1 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,7 +118,7 @@ Completed: 1 (0.10%) (Ranked 266)
 | 2023-11-02 | 999 | 1 |
 | 2023-11-03 | 1,025 | 1 |
 | 2023-11-04 | 1,048 | 1 |
-| 2023-11-05 | 1,052 | 1 |
+| 2023-11-05 | 1,053 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

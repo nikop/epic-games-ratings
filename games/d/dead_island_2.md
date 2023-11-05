@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 0.90% | ~345 |
+| Whatever It Takes | 1.00% | ~383 |
 | Pork Chopped | 0.80% | ~306 |
 | One of Us | 0.60% | ~230 |
-| Dr. Reed, I Presume? | 0.20% | ~1,425 |
-| Git Gutte! | 0.20% | ~1,425 |
-| Anger Management | 0.20% | ~1,425 |
-| Bookworm | 0.20% | ~1,425 |
-| Break A Leg | 0.20% | ~1,425 |
-| Coup de Grâce | 0.20% | ~1,425 |
-| Hazardous Materials | 0.20% | ~1,425 |
-| Friends Like These | 0.20% | ~1,425 |
-| Hotel California | 0.20% | ~1,425 |
-| Apex Predator | 0.20% | ~1,425 |
-| Personal Assistant Personally Assisted | 0.20% | ~1,425 |
-| Welcome To Hell-A | 0.20% | ~1,425 |
+| Dr. Reed, I Presume? | 0.20% | ~1,426 |
+| Git Gutte! | 0.20% | ~1,426 |
+| Anger Management | 0.20% | ~1,426 |
+| Bookworm | 0.20% | ~1,426 |
+| Break A Leg | 0.20% | ~1,426 |
+| Coup de Grâce | 0.20% | ~1,426 |
+| Hazardous Materials | 0.20% | ~1,426 |
+| Friends Like These | 0.20% | ~1,426 |
+| Hotel California | 0.20% | ~1,426 |
+| Apex Predator | 0.20% | ~1,426 |
+| Personal Assistant Personally Assisted | 0.20% | ~1,426 |
+| Welcome To Hell-A | 0.20% | ~1,426 |
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
 | LA Influential | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,736 (Ranked 21)  
-Completed: 2,327 (0.33%) (Ranked 216)  
+Progressed: 712,752 (Ranked 21)  
+Completed: 2,328 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,17 +256,17 @@ Completed: 2,327 (0.33%) (Ranked 216)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 712,736 | 2,327 |
+| 2023-11-05 | 712,752 | 2,328 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
-Sum: 10,576 (Ranked 89)  
+Sum: 10,586 (Ranked 89)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,004 |
 | This game is Great for Beginners | 511 |
 | This game has Diverse Characters | 504 |
-| This game has Quickly Understood Controls | 472 |
+| This game has Quickly Understood Controls | 482 |
 | This game is Relaxing | 447 |
 | This game has Amazing Storytelling | 429 |
 | This game is Highly Recommended | 418 |
@@ -473,3 +473,4 @@ Diff (max vs sum): -35
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
+| 2023-11-05 | 4.54 | 7,004 | 10,586 |
