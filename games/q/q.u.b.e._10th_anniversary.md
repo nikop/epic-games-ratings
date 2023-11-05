@@ -1,16 +1,16 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.39 (Ranked 744)  
+Rating: 4.39 (Ranked 743)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 6.00% | ~959 |
-| Sector 2 | 6.00% | ~959 |
-| Crush That Cube! | 5.00% | ~799 |
-| Sector 3 | 5.00% | ~799 |
-| Crush That Ball! | 4.00% | ~639 |
-| Sector 4 | 4.00% | ~639 |
+| Sector 1 | 6.00% | ~960 |
+| Sector 2 | 6.00% | ~960 |
+| Crush That Cube! | 5.00% | ~800 |
+| Sector 3 | 5.00% | ~800 |
+| Crush That Ball! | 4.00% | ~640 |
+| Sector 4 | 4.00% | ~640 |
 | Feeling the Blues | 2.00% | ~320 |
 | Finale | 2.00% | ~320 |
 | Sector 5 | 2.00% | ~320 |
@@ -18,19 +18,19 @@ Rating: 4.39 (Ranked 744)
 | Squished | 1.00% | ~160 |
 | Sector 7 | 1.00% | ~160 |
 | Did That Work? -- No! | 1.00% | ~160 |
-| Master Room | 0.80% | ~128 |
-| The Puzzle Master | 0.60% | ~96 |
+| Master Room | 0.90% | ~144 |
+| The Puzzle Master | 0.70% | ~112 |
 | Bronze Trophy | 0.50% | ~80 |
 | Phew! | 0.50% | ~80 |
+| Completed It. | 0.50% | ~80 |
 | Master Of The Collectables | 0.40% | ~64 |
 | Gold Trophy | 0.40% | ~64 |
 | Hopefully that's all of them! | 0.40% | ~64 |
 | Silver Trophy | 0.40% | ~64 |
-| Completed It. | 0.40% | ~64 |
 | Maxed Out | 0.40% | ~64 |
 | The Collector | 0.30% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,983 (Ranked 144)  
+Progressed: 15,998 (Ranked 144)  
 Completed: 17 (0.11%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 17 (0.11%) (Ranked 262)
 | 2023-11-02 | 14,773 | 2 |
 | 2023-11-03 | 15,270 | 7 |
 | 2023-11-04 | 15,819 | 16 |
-| 2023-11-05 | 15,983 | 17 |
+| 2023-11-05 | 15,998 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3069,9 +3069,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30165,
+  "EOS_Progressed": 30170,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1998,
+  "EOS_NewPlayers": 1999,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17949,6 +17949,11 @@
       "Time": "2023-11-05T08:06:23.0330576+00:00",
       "NumProgressed": 30165,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-05T09:06:48.0541516+00:00",
+      "NumProgressed": 30170,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18160,7 +18165,7 @@
       "Name": "Master Collector",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Mycophile",
@@ -18216,7 +18221,7 @@
       "Name": "Rivalry",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "Seasoned",
@@ -18367,7 +18372,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30165,
+      "Progressed": 30170,
       "Completed": 65
     }
   ],
@@ -18375,8 +18380,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-05T01:45:18.0240395+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:06:23.0330573+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:06:48.0541512+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:58:03.5703755+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:06:23.0331513+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:58:15.945097+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:06:48.0542685+00:00"
 }

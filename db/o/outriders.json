@@ -2,13 +2,13 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 687,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
     "PcReleaseDate": "2021-04-01T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 1201,
   "RatingHistory": [
     {
@@ -2960,10 +2960,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2612,
       "NumberOfAwardsMax": 1244
+    },
+    {
+      "Time": "2023-11-05T09:02:45.1008883+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 2613,
+      "NumberOfAwardsMax": 1244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2612,
+  "NumberOfAwards": 2613,
   "NumberOfAwardsMax": 1244,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2977,7 +2983,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 187
+      "Count": 188
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3045,8 +3051,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2023-11-03T20:02:46.6653434+00:00",
+  "LastChanged": "2023-11-05T09:02:45.1008882+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:32.4083703+00:00",
-  "LastUpdate_Ratings": "2023-11-05T08:03:03.3435614+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:08:27.2212447+00:00"
+  "LastUpdate_Ratings": "2023-11-05T09:02:45.1008886+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:07:40.2003515+00:00"
 }

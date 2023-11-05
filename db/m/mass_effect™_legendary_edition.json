@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -3638,9 +3638,9 @@
       "ID": "achievement_89",
       "SetID": "d252ncf",
       "Name": "Last Witness",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_9",
@@ -3746,8 +3746,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:04:36.6952143+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:04:39.5485786+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-05T08:02:58.1988352+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:04:36.6953838+00:00"
+  "LastUpdate_Ratings": "2023-11-05T09:02:38.7814349+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:04:39.54878+00:00"
 }

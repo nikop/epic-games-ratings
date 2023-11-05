@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,10 +117,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77610,
-  "EOS_Completed": 821,
-  "EOS_NewPlayers": 619,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 77611,
+  "EOS_Completed": 822,
+  "EOS_NewPlayers": 617,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
     {
@@ -22332,6 +22332,11 @@
       "Time": "2023-11-05T08:08:32.4572872+00:00",
       "NumProgressed": 77610,
       "NumCompleted": 821
+    },
+    {
+      "Time": "2023-11-05T09:07:46.6798017+00:00",
+      "NumProgressed": 77611,
+      "NumCompleted": 822
     }
   ],
   "TotalAchievements": 25,
@@ -22439,7 +22444,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "Master, Commander",
@@ -22542,16 +22547,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77610,
-      "Completed": 821
+      "Progressed": 77611,
+      "Completed": 822
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:08:32.4572869+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:07:46.6798013+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:58:55.6519997+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:08:32.4573965+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:59:20.7804575+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:07:46.6799217+00:00"
 }

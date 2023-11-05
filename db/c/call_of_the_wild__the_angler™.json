@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6341,
+  "EOS_Progressed": 6342,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9427,6 +9427,11 @@
       "Time": "2023-11-05T08:09:16.3093156+00:00",
       "NumProgressed": 6341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T09:08:40.0813332+00:00",
+      "NumProgressed": 6342,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9508,9 +9513,9 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -9757,13 +9762,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6341,
+      "Progressed": 6342,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5713,
+      "Progressed": 5714,
       "Completed": 113
     }
   ],
@@ -9771,8 +9776,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:09:16.3093152+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:08:40.0813328+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:58:29.382058+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:09:16.3093737+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:58:48.8909624+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:08:40.0813994+00:00"
 }

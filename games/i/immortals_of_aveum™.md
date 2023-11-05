@@ -15,13 +15,13 @@ Rating: 4.00 (Ranked 983)
 | Gravity-Challenged Rocks | 40.00% | ~62 |
 | Soldier | 35.00% | ~54 |
 | All the Major Food Groups | 35.00% | ~54 |
-| Beggars Would Ride | 31.00% | ~48 |
-| Control is an Illusion | 29.00% | ~45 |
+| Beggars Would Ride | 32.00% | ~50 |
+| Control is an Illusion | 30.00% | ~46 |
 | Socialite | 27.00% | ~42 |
 | The Means to Save It | 25.00% | ~39 |
 | Resilience to Sin | 21.00% | ~33 |
 | A Familiar Nest | 21.00% | ~33 |
-| Periapt Alizarin | 20.00% | ~31 |
+| Periapt Alizarin | 21.00% | ~33 |
 | Geas Aristeya | 19.00% | ~29 |
 | A Perfect Cycle | 17.00% | ~26 |
 | Armsman | 17.00% | ~26 |

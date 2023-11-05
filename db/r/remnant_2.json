@@ -3843,9 +3843,9 @@
       "Count": 270
     }
   ],
-  "EOS_Progressed": 217862,
+  "EOS_Progressed": 217869,
   "EOS_Completed": 429,
-  "EOS_NewPlayers": 7594,
+  "EOS_NewPlayers": 7520,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16543,6 +16543,11 @@
       "Time": "2023-11-05T08:05:19.9037214+00:00",
       "NumProgressed": 217862,
       "NumCompleted": 429
+    },
+    {
+      "Time": "2023-11-05T09:05:31.1761485+00:00",
+      "NumProgressed": 217869,
+      "NumCompleted": 429
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16555,7 +16560,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -16595,7 +16600,7 @@
       "Name": "Chaos",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Defeat_Cube",
@@ -16611,7 +16616,7 @@
       "Name": "Traitor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -16627,7 +16632,7 @@
       "Name": "Power Surge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Defeat_Mantis",
@@ -16635,7 +16640,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17429
+      "UsersEstimate": 17430
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16643,7 +16648,7 @@
       "Name": "The God Gambit",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -16651,7 +16656,7 @@
       "Name": "Dark Designs",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -16667,7 +16672,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Defeat_World_Boss",
@@ -16675,7 +16680,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -16763,7 +16768,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -16779,7 +16784,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -16827,7 +16832,7 @@
       "Name": "The Web",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Obtain_Relics",
@@ -16859,7 +16864,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "Obtain_Traits_B",
@@ -16867,7 +16872,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8714
+      "UsersEstimate": 8715
     },
     {
       "ID": "Obtain_Traits_C",
@@ -16954,7 +16959,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 217862,
+      "Progressed": 217869,
       "Completed": 429
     }
   ],
@@ -16962,8 +16967,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-05T08:03:17.2085172+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:05:19.9037212+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:05:31.1761481+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-05T08:03:17.208518+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:05:19.903807+00:00"
+  "LastUpdate_Ratings": "2023-11-05T09:03:02.3406254+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:05:31.1762414+00:00"
 }

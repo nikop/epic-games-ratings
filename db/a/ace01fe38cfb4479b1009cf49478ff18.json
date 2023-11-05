@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 63,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2023-11-05T07:08:50.9147684+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T09:08:38.511591+00:00",
+      "NumProgressed": 63,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -295,7 +300,7 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -303,7 +308,7 @@
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -343,7 +348,7 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 45,
       "UsersEstimate": 15
     },
@@ -376,14 +381,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 63,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:09:15.094538+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:08:38.5115906+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-05T08:02:40.3914549+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:09:15.0945453+00:00"
+  "LastUpdate_Ratings": "2023-11-05T09:01:28.1830553+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:08:38.5116003+00:00"
 }

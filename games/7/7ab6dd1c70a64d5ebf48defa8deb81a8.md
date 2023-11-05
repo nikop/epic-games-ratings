@@ -10,21 +10,21 @@
 | Fashion Victim | 21.00% | ~25 |
 | Shatter Them All | 20.00% | ~24 |
 | The Collector | 19.00% | ~23 |
-| Powerful Allies | 18.00% | ~21 |
-| A Taste of Wrath | 18.00% | ~21 |
-| Adventurer | 18.00% | ~21 |
-| Scholar | 18.00% | ~21 |
-| I Found It | 18.00% | ~21 |
+| Powerful Allies | 18.00% | ~22 |
+| A Taste of Wrath | 18.00% | ~22 |
+| Adventurer | 18.00% | ~22 |
+| Scholar | 18.00% | ~22 |
+| I Found It | 18.00% | ~22 |
 | Geared Up | 14.00% | ~17 |
-| Tributes of Caladrias | 13.00% | ~15 |
-| Stone Collection | 13.00% | ~15 |
+| Tributes of Caladrias | 13.00% | ~16 |
+| Stone Collection | 13.00% | ~16 |
 | Essence Blow | 9.00% | ~11 |
 | Airborne | 8.00% | ~10 |
+| The Mentor | 6.00% | ~7 |
 | Alchemist | 6.00% | ~7 |
 | Miner | 6.00% | ~7 |
-| The Mentor | 5.00% | ~6 |
+| Calm before the Storm | 5.00% | ~6 |
 | Big Bazar | 5.00% | ~6 |
-| Calm before the Storm | 4.00% | ~5 |
 | To Battle | 4.00% | ~5 |
 | Godslayer | 4.00% | ~5 |
 | Flawless Victory | 3.00% | ~4 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 393)  
-Completed: 1 (0.84%) (Ranked 166)  
+Progressed: 120 (Ranked 393)  
+Completed: 1 (0.83%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,4 +70,4 @@ Completed: 1 (0.84%) (Ranked 166)
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
 | 2023-11-04 | 115 | 1 |
-| 2023-11-05 | 119 | 1 |
+| 2023-11-05 | 120 | 1 |

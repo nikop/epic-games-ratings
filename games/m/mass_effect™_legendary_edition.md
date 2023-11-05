@@ -94,9 +94,9 @@
 | Under Pressure | 20.00% | ~196 |
 | No One Left Behind | 20.00% | ~196 |
 | Saboteur | 20.00% | ~196 |
+| Last Witness | 20.00% | ~196 |
 | Fact Finder | 20.00% | ~196 |
 | Last Resort | 19.00% | ~186 |
-| Last Witness | 19.00% | ~186 |
 | Well Connected | 19.00% | ~186 |
 | Sabotage Specialist | 17.00% | ~167 |
 | Executioner | 17.00% | ~167 |

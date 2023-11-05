@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1369,9 +1369,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156661,
+  "EOS_Progressed": 156668,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1344,
+  "EOS_NewPlayers": 1340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14429,6 +14429,11 @@
       "Time": "2023-11-05T08:08:39.7060784+00:00",
       "NumProgressed": 156661,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T09:07:55.4583089+00:00",
+      "NumProgressed": 156668,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14504,7 +14509,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6266
+      "UsersEstimate": 6267
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14544,7 +14549,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -14656,7 +14661,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6266
+      "UsersEstimate": 6267
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14752,7 +14757,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "QUEST_LISTENER",
@@ -14800,28 +14805,28 @@
       "Name": "Intensify",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156244,
+      "Progressed": 156251,
       "Completed": 1188
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156661,
+      "Progressed": 156668,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T00:13:01.8696228+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:08:39.706078+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:07:55.4583085+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:59:30.8864344+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:08:39.7061631+00:00"
+  "LastUpdate_Ratings": "2023-11-05T09:00:03.9857199+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:07:55.4584124+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -341,9 +341,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113341,
+  "EOS_Progressed": 113344,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16851,6 +16851,11 @@
       "Time": "2023-11-05T08:08:54.1906243+00:00",
       "NumProgressed": 113341,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-05T09:08:13.1559361+00:00",
+      "NumProgressed": 113344,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -16870,7 +16875,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87273
+      "UsersEstimate": 87275
     },
     {
       "ID": "EAwards_10",
@@ -16894,7 +16899,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17001
+      "UsersEstimate": 17002
     },
     {
       "ID": "EAwards_13",
@@ -16934,7 +16939,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41936
+      "UsersEstimate": 41937
     },
     {
       "ID": "EAwards_18",
@@ -16950,7 +16955,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6800
+      "UsersEstimate": 6801
     },
     {
       "ID": "EAwards_2",
@@ -16958,7 +16963,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54404
+      "UsersEstimate": 54405
     },
     {
       "ID": "EAwards_20",
@@ -16982,7 +16987,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6800
+      "UsersEstimate": 6801
     },
     {
       "ID": "EAwards_23",
@@ -16990,7 +16995,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9067
+      "UsersEstimate": 9068
     },
     {
       "ID": "EAwards_24",
@@ -17094,7 +17099,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9067
+      "UsersEstimate": 9068
     },
     {
       "ID": "EAwards_36",
@@ -17222,7 +17227,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9067
+      "UsersEstimate": 9068
     },
     {
       "ID": "EAwards_7",
@@ -17253,7 +17258,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113341,
+      "Progressed": 113344,
       "Completed": 48
     }
   ],
@@ -17261,8 +17266,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-10-29T22:02:14.7737423+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:08:54.1906239+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:08:13.1559354+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:57:27.7019231+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:08:54.1907407+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:57:31.9092053+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:08:13.1560514+00:00"
 }

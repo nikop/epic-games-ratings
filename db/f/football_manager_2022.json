@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8198,9 +8198,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 475455,
+  "EOS_Progressed": 475456,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28493,6 +28493,11 @@
       "Time": "2023-11-05T08:06:24.0385139+00:00",
       "NumProgressed": 475455,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-05T09:06:49.4297005+00:00",
+      "NumProgressed": 475456,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -28528,7 +28533,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175918
+      "UsersEstimate": 175919
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -28560,7 +28565,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123618
+      "UsersEstimate": 123619
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -28584,7 +28589,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 80827
+      "UsersEstimate": 80828
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -28616,7 +28621,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 142636
+      "UsersEstimate": 142637
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -28656,7 +28661,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175918
+      "UsersEstimate": 175919
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -28704,7 +28709,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90336
+      "UsersEstimate": 90337
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -28736,7 +28741,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199691
+      "UsersEstimate": 199692
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -28792,7 +28797,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 133127
+      "UsersEstimate": 133128
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -28896,7 +28901,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123618
+      "UsersEstimate": 123619
     },
     {
       "ID": "achievement_mr_delegator",
@@ -28928,7 +28933,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166409
+      "UsersEstimate": 166410
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -29040,7 +29045,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 80827
+      "UsersEstimate": 80828
     },
     {
       "ID": "achievement_sell_player",
@@ -29048,7 +29053,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228218
+      "UsersEstimate": 228219
     },
     {
       "ID": "achievement_signed_a_player",
@@ -29287,15 +29292,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 475455,
+      "Progressed": 475456,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-04T14:02:05.0342684+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:06:24.0385136+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:06:49.4297002+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.7258269+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:58:52.6314802+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:06:24.0386692+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:59:17.7598669+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:06:49.4298904+00:00"
 }

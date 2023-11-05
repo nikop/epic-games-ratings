@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -771,17 +771,17 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 110,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-05T08:09:28.013356+00:00",
+  "LastChanged_Achievements": "2023-11-05T09:08:53.9025328+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-05T07:58:38.631334+00:00",
-  "LastUpdate_Achievements": "2023-11-05T08:09:28.0133683+00:00"
+  "LastUpdate_Ratings": "2023-11-05T08:59:01.0445026+00:00",
+  "LastUpdate_Achievements": "2023-11-05T09:08:53.9025464+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 521)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~384 |
-| Pork Chopped | 0.80% | ~307 |
+| Pork Chopped | 0.80% | ~308 |
 | One of Us | 0.70% | ~269 |
 | Welcome To Hell-A | 0.30% | ~2,139 |
 | Dr. Reed, I Presume? | 0.20% | ~1,426 |
@@ -14,6 +14,7 @@ Rating: 4.54 (Ranked 521)
 | Anger Management | 0.20% | ~1,426 |
 | Bookworm | 0.20% | ~1,426 |
 | Break A Leg | 0.20% | ~1,426 |
+| But Doctor, I am Butcho | 0.20% | ~1,426 |
 | Coup de Grâce | 0.20% | ~1,426 |
 | Hazardous Materials | 0.20% | ~1,426 |
 | Friends Like These | 0.20% | ~1,426 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 521)
 | Perks of the Job | 0.10% | ~713 |
 | On Safari | 0.10% | ~713 |
 | I Got a Zombie Army and You Can't Harm Me | 0.10% | ~713 |
-| But Doctor, I am Butcho | 0.10% | ~713 |
 | Slayer Squad | 0.10% | ~713 |
 | Smorgasbord | 0.10% | ~713 |
 | Can't Handle the Truth | 0.10% | ~713 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,886 (Ranked 21)  
+Progressed: 712,903 (Ranked 21)  
 Completed: 2,331 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2,331 (0.33%) (Ranked 216)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 712,886 | 2,331 |
+| 2023-11-05 | 712,903 | 2,331 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,586 (Ranked 89)  

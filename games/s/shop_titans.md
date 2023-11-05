@@ -12,16 +12,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,159 |
 | Tinkle of Coins | 3.00% | ~4,159 |
 | Capitalism Ho! | 3.00% | ~4,159 |
-| The Daily Grind | 2.00% | ~2,772 |
-| One Easy Payment | 2.00% | ~2,772 |
-| Some Assembly Required | 2.00% | ~2,772 |
-| Another Satisfied Customer | 2.00% | ~2,772 |
-| It's Free Real Estate | 2.00% | ~2,772 |
-| Pretty Penny | 2.00% | ~2,772 |
-| One-Armed Bandit | 2.00% | ~2,772 |
-| Budding Merchant | 2.00% | ~2,772 |
-| Through Repetition, Perfection | 2.00% | ~2,772 |
-| Own the Means of Production | 2.00% | ~2,772 |
+| The Daily Grind | 2.00% | ~2,773 |
+| One Easy Payment | 2.00% | ~2,773 |
+| Some Assembly Required | 2.00% | ~2,773 |
+| Another Satisfied Customer | 2.00% | ~2,773 |
+| It's Free Real Estate | 2.00% | ~2,773 |
+| Pretty Penny | 2.00% | ~2,773 |
+| One-Armed Bandit | 2.00% | ~2,773 |
+| Budding Merchant | 2.00% | ~2,773 |
+| Through Repetition, Perfection | 2.00% | ~2,773 |
+| Own the Means of Production | 2.00% | ~2,773 |
 | On the Path to Greatness | 1.00% | ~1,386 |
 | Ascended | 1.00% | ~1,386 |
 | Research & Development | 1.00% | ~1,386 |
@@ -104,7 +104,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.50% | ~693 |
 | Eternal Crusade | 0.50% | ~693 |
 | All Accounted For | 0.50% | ~693 |
-| The Free Encyclopedia | 0.40% | ~554 |
+| The Free Encyclopedia | 0.40% | ~555 |
 | JACKPOT!!! | 0.30% | ~416 |
 | Anything not Nailed Down | 0.30% | ~416 |
 | The Greatest Grind | 0.30% | ~416 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,625 (Ranked 78)  
+Progressed: 138,628 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 178 (0.13%) (Ranked 255)
 | 2023-11-02 | 138,491 | 178 |
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
-| 2023-11-05 | 138,625 | 178 |
+| 2023-11-05 | 138,628 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,502 (Ranked 52)  
