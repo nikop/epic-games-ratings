@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.19,
+  "EOS_Completed_Percentage": 6.18,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1900,6 +1900,11 @@
       "Time": "2023-11-05T06:08:12.5422812+00:00",
       "NumProgressed": 436,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T07:08:22.5386712+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1911,7 +1916,7 @@
       "Name": "I did it",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "END_GOOD",
@@ -1927,7 +1932,7 @@
       "Name": "Peace walker",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2023,7 +2028,7 @@
       "Name": "True G3M4R",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2031,7 +2036,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2047,7 +2052,7 @@
       "Name": "Champollion",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2061,9 +2066,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 83
     },
     {
       "ID": "PROGRESS_N1",
@@ -2071,7 +2076,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "PROGRESS_N2",
@@ -2110,14 +2115,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:08:12.5422807+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:08:22.5386706+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T06:00:07.2642383+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:08:12.5423168+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:00:28.4718563+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:08:22.5387184+00:00"
 }

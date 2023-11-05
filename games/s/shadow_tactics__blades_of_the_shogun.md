@@ -9,19 +9,19 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 12.00% | ~25,433 |
 | A thief's beginning | 10.00% | ~21,194 |
 | Thorough | 10.00% | ~21,194 |
-| Disguised | 9.00% | ~19,074 |
-| Rollin' | 9.00% | ~19,074 |
-| Tanuki Time | 9.00% | ~19,074 |
+| Disguised | 9.00% | ~19,075 |
+| Rollin' | 9.00% | ~19,075 |
+| Tanuki Time | 9.00% | ~19,075 |
 | Rescue Takuma | 8.00% | ~16,955 |
 | Stoned Ox | 8.00% | ~16,955 |
 | Happy Planning | 7.00% | ~14,836 |
 | Ice Ice Yuki | 7.00% | ~14,836 |
 | Jonin | 7.00% | ~14,836 |
 | Yabu | 7.00% | ~14,836 |
-| Chunin | 6.00% | ~12,716 |
-| Flying Rocks | 6.00% | ~12,716 |
-| Mugen Unchained | 6.00% | ~12,716 |
-| Warzone | 6.00% | ~12,716 |
+| Chunin | 6.00% | ~12,717 |
+| Flying Rocks | 6.00% | ~12,717 |
+| Mugen Unchained | 6.00% | ~12,717 |
+| Warzone | 6.00% | ~12,717 |
 | Okkoto | 5.00% | ~10,597 |
 | Prisoners | 5.00% | ~10,597 |
 | Too Early | 5.00% | ~10,597 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~212 |
 | Release the Kraken | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,938 (Ranked 70)  
+Progressed: 211,942 (Ranked 70)  
 Completed: 94 (0.04%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 94 (0.04%) (Ranked 301)
 | 2023-11-02 | 211,473 | 93 |
 | 2023-11-03 | 211,662 | 93 |
 | 2023-11-04 | 211,886 | 94 |
-| 2023-11-05 | 211,938 | 94 |
+| 2023-11-05 | 211,942 | 94 |
 ## Awards
 Max (Great for Beginners): 570  (Ranked 197)  
 Sum: 4,824 (Ranked 139)  

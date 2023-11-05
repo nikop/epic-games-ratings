@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2157,
+  "EOS_Progressed": 2158,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2994,6 +2994,11 @@
       "Time": "2023-11-05T05:10:09.4113627+00:00",
       "NumProgressed": 2157,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-05T07:08:58.0434377+00:00",
+      "NumProgressed": 2158,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3061,7 +3066,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHV_09",
@@ -3069,7 +3074,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHV_10",
@@ -3173,7 +3178,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHV_23",
@@ -3245,7 +3250,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHV_32",
@@ -3269,7 +3274,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHV_35",
@@ -3301,7 +3306,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHV_39",
@@ -3309,7 +3314,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACHV_40",
@@ -3341,7 +3346,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHV_44",
@@ -3460,7 +3465,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2157,
+      "Progressed": 2158,
       "Completed": 13
     }
   ],
@@ -3468,8 +3473,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:08:47.3090712+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:08:58.0434373+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:58:18.8615728+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:08:47.3092448+00:00"
+  "LastUpdate_Ratings": "2023-11-05T06:58:35.3337725+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:08:58.0435083+00:00"
 }

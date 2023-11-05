@@ -667,9 +667,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -771,9 +771,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:08:51.9944121+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:09:02.768634+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:58:16.8971038+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:08:51.9944334+00:00"
+  "LastUpdate_Ratings": "2023-11-05T06:58:33.2973739+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:09:02.7686501+00:00"
 }

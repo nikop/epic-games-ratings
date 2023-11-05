@@ -14,8 +14,8 @@
 | Blow | 38.00% | ~83 |
 | Just like me | 35.00% | ~76 |
 | I bless the rain down in London | 33.00% | ~72 |
+| Delusions | 30.00% | ~65 |
 | Brown nosing | 29.00% | ~63 |
-| Delusions | 29.00% | ~63 |
 | Cheat | 28.00% | ~61 |
 | Prove it | 28.00% | ~61 |
 | The truth | 28.00% | ~61 |

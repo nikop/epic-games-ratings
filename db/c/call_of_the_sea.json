@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -295,10 +295,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128274,
+  "EOS_Progressed": 128275,
   "EOS_Completed": 1097,
-  "EOS_NewPlayers": 1209,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 1203,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
@@ -22840,6 +22840,11 @@
       "Time": "2023-11-05T06:05:29.3577088+00:00",
       "NumProgressed": 128274,
       "NumCompleted": 1097
+    },
+    {
+      "Time": "2023-11-05T07:05:45.0803201+00:00",
+      "NumProgressed": 128275,
+      "NumCompleted": 1097
     }
   ],
   "TotalAchievements": 34,
@@ -22867,7 +22872,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 53875
+      "UsersEstimate": 53876
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -22875,7 +22880,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37199
+      "UsersEstimate": 37200
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -22907,7 +22912,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 102619
+      "UsersEstimate": 102620
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -22923,7 +22928,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 71833
+      "UsersEstimate": 71834
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -23011,7 +23016,7 @@
       "Name": "Soundcheck",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "ACH_L04A_PEAK_END",
@@ -23059,7 +23064,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 32068
+      "UsersEstimate": 32069
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -23122,7 +23127,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 128274,
+      "Progressed": 128275,
       "Completed": 1097
     }
   ],
@@ -23130,8 +23135,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:05:29.3577082+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:05:45.0803195+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.9938118+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:57:15.3709648+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:05:29.3579218+00:00"
+  "LastUpdate_Ratings": "2023-11-05T06:57:29.0173938+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:05:45.0805493+00:00"
 }

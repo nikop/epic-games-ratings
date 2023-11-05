@@ -12,17 +12,17 @@ Rating: 4.00 (Ranked 983)
 | No More Names | 63.00% | ~98 |
 | Initiate | 54.00% | ~84 |
 | Thrada-Kul | 51.00% | ~79 |
-| Gravity-Challenged Rocks | 39.00% | ~60 |
+| Gravity-Challenged Rocks | 40.00% | ~62 |
 | All the Major Food Groups | 35.00% | ~54 |
 | Soldier | 34.00% | ~53 |
-| Beggars Would Ride | 30.00% | ~46 |
+| Beggars Would Ride | 31.00% | ~48 |
 | Control is an Illusion | 29.00% | ~45 |
 | Socialite | 27.00% | ~42 |
 | The Means to Save It | 25.00% | ~39 |
 | Resilience to Sin | 21.00% | ~33 |
 | A Familiar Nest | 21.00% | ~33 |
 | Periapt Alizarin | 20.00% | ~31 |
-| Geas Aristeya | 18.00% | ~28 |
+| Geas Aristeya | 19.00% | ~29 |
 | Armsman | 17.00% | ~26 |
 | A Perfect Cycle | 16.00% | ~25 |
 | Recruit | 15.00% | ~23 |

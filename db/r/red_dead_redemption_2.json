@@ -15887,10 +15887,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 500818,
       "NumberOfAwardsMax": 194220
+    },
+    {
+      "Time": "2023-11-05T07:00:05.9047843+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 500880,
+      "NumberOfAwardsMax": 194220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 500818,
+  "NumberOfAwards": 500880,
   "NumberOfAwardsMax": 194220,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -15910,7 +15916,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20304
+      "Count": 20366
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15990,8 +15996,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-11-05T03:01:34.1977422+00:00",
+  "LastChanged": "2023-11-05T07:00:05.9047842+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.1706942+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:59:45.6478481+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:03:36.2614108+00:00"
+  "LastUpdate_Ratings": "2023-11-05T07:00:05.9047848+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:03:49.5057541+00:00"
 }

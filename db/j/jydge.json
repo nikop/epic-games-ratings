@@ -2,7 +2,7 @@
   "ID": "18567c7914ad48f594fd4b6e4c710b9f",
   "Name": "JYDGE",
   "ProductSlug": "jydge-14242d",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 129,
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -101,6 +101,11 @@
       "Time": "2023-07-04T14:02:21.2443363+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T07:06:23.3156562+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -110,7 +115,7 @@
       "ID": "ACT_1",
       "SetID": "7e5mm2p",
       "Name": "The Dawn of Jydgement",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -118,7 +123,7 @@
       "ID": "ACT_2",
       "SetID": "7e5mm2p",
       "Name": "The Jydgement Day",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
       "UsersEstimate": 2
     },
@@ -126,7 +131,7 @@
       "ID": "ACT_3",
       "SetID": "7e5mm2p",
       "Name": "The Dusk Falls",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "CYBERWARE",
       "SetID": "7e5mm2p",
       "Name": "Cyberware",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "DIFFICULTY_GRIM",
       "SetID": "7e5mm2p",
       "Name": "Crime Reaper",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "DIFFICULTY_HARDCORE",
       "SetID": "7e5mm2p",
       "Name": "Hardcore Law",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "DIFFICULTY_NORMAL",
       "SetID": "7e5mm2p",
       "Name": "Law Enforced",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "SAVIOR",
       "SetID": "7e5mm2p",
       "Name": "Savior",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -198,7 +203,7 @@
       "ID": "THREE_MEDALS",
       "SetID": "7e5mm2p",
       "Name": "Mission Mastered",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -206,7 +211,7 @@
       "ID": "UPGRADE_FIREMODES",
       "SetID": "7e5mm2p",
       "Name": "Firemodes to the Max",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -222,7 +227,7 @@
       "ID": "WEAPON_MODS",
       "SetID": "7e5mm2p",
       "Name": "Weapon Mods",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
       "UsersEstimate": 1
     }
@@ -231,7 +236,7 @@
     {
       "ID": "7e5mm2p",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
@@ -239,8 +244,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:06:06.002119+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:06:23.3156557+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.0139123+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:59:31.2801576+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:06:06.0021341+00:00"
+  "LastUpdate_Ratings": "2023-11-05T06:59:51.1493677+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:06:23.3156704+00:00"
 }

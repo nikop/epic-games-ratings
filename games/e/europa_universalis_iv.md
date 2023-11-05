@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,895 |
-| Until death do us apart | 4.00% | ~17,895 |
-| Victorious! | 4.00% | ~17,895 |
+| That's a Grand Army | 4.00% | ~17,896 |
+| Until death do us apart | 4.00% | ~17,896 |
+| Victorious! | 4.00% | ~17,896 |
 | That's a Grand Navy | 3.00% | ~13,422 |
 | That is mine! | 3.00% | ~13,422 |
 | Brothers in Arms | 2.00% | ~8,948 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,474 |
 | True Catholic | 1.00% | ~4,474 |
 | Truly Divine Ruler | 1.00% | ~4,474 |
-| Blockader | 0.90% | ~4,026 |
+| Blockader | 0.90% | ~4,027 |
 | Double the Love | 0.80% | ~3,579 |
 | Royal Authority | 0.80% | ~3,579 |
 | Total Control | 0.80% | ~3,579 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447,387 (Ranked 41)  
+Progressed: 447,410 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,10 +560,10 @@ Completed: 1 (0.00%) (Ranked 343)
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
-| 2023-11-05 | 447,387 | 1 |
+| 2023-11-05 | 447,410 | 1 |
 ## Awards
 Max (Educational): 6,830  (Ranked 55)  
-Sum: 56,089 (Ranked 24)  
+Sum: 56,102 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -575,7 +575,7 @@ Diff (max vs sum): 31
 | This game is Relaxing | 6,277 |
 | This game has Competitive Players | 6,100 |
 | This game has Amazing Storytelling | 5,695 |
-| This game has Amazing Characters | 5,260 |
+| This game has Amazing Characters | 5,273 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -872,3 +872,4 @@ Diff (max vs sum): 31
 | 2023-11-02 | 4.69 | - | 6,798 | 55,815 |
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
+| 2023-11-05 | 4.69 | - | 6,830 | 56,102 |

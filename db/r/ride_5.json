@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1994,
+  "EOS_Progressed": 1995,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4322,6 +4322,11 @@
       "Time": "2023-11-05T01:56:23.9183476+00:00",
       "NumProgressed": 1994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T07:09:21.0156142+00:00",
+      "NumProgressed": 1995,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4334,7 +4339,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4622,7 +4627,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4630,7 +4635,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4638,7 +4643,7 @@
       "Name": "Champagne Spray",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4686,7 +4691,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4725,14 +4730,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1994,
+      "Progressed": 1995,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:09:10.0845364+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:09:21.015614+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:59:09.0052968+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:09:10.0846213+00:00"
+  "LastUpdate_Ratings": "2023-11-05T06:59:27.030943+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:09:21.0156852+00:00"
 }

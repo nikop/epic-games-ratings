@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.80% | ~121 |
 | Dualism | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
+| Veneration | 0.80% | ~121 |
 | Mounted Lancer | 0.80% | ~121 |
 | Ambition Victory | 0.80% | ~121 |
 | Devout | 0.70% | ~106 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |
 | Enlightenment | 0.70% | ~106 |
-| Veneration | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
 | Kmt Unified | 0.70% | ~106 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,143 (Ranked 145)  
+Progressed: 15,144 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 307)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,143 | 5 |
+| 2023-11-05 | 15,144 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

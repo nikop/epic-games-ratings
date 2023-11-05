@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 874,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1738,9 +1738,9 @@
       "ID": "ML_ACHIEVEMENT_23",
       "SetID": "5k00jcd",
       "Name": "The Scorpion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1919,8 +1919,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-05T06:04:15.1032304+00:00",
+  "LastChanged_Achievements": "2023-11-05T07:04:29.0863778+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:59:22.9845689+00:00",
-  "LastUpdate_Achievements": "2023-11-05T06:04:15.1033002+00:00"
+  "LastUpdate_Ratings": "2023-11-05T06:59:41.8029523+00:00",
+  "LastUpdate_Achievements": "2023-11-05T07:04:29.0864398+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 129,
@@ -392,6 +392,6 @@
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
   "LastChanged_Achievements": "2023-11-05T06:06:26.4378023+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:14.4600356+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:59:23.3190627+00:00",
+  "LastUpdate_Ratings": "2023-11-05T06:59:42.0717787+00:00",
   "LastUpdate_Achievements": "2023-11-05T06:06:26.4378365+00:00"
 }
