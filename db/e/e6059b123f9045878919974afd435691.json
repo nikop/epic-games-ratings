@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2912,9 +2912,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Bad Leecher, Bad Leecher!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -3103,8 +3103,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-05T09:08:24.258083+00:00",
+  "LastChanged_Achievements": "2023-11-05T10:09:01.463342+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.9637955+00:00",
-  "LastUpdate_Ratings": "2023-11-05T09:00:27.6037251+00:00",
-  "LastUpdate_Achievements": "2023-11-05T09:08:24.2581515+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:00:29.6818899+00:00",
+  "LastUpdate_Achievements": "2023-11-05T10:09:01.4634247+00:00"
 }

@@ -7,16 +7,16 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 26.00% | ~3,126 |
-| A Spark | 19.00% | ~2,284 |
+| A Spark | 19.00% | ~2,285 |
 | Burning City | 18.00% | ~2,164 |
-| Mythic Choices | 15.00% | ~1,803 |
-| Defender's Heart | 15.00% | ~1,803 |
+| Mythic Choices | 15.00% | ~1,804 |
+| Defender's Heart | 15.00% | ~1,804 |
 | Banner over the Citadel | 13.00% | ~1,563 |
 | Queen's Gratitude | 12.00% | ~1,443 |
 | Fifth Crusade | 8.00% | ~962 |
-| Embrace of the Abyss | 6.00% | ~721 |
-| Path of the Angel | 6.00% | ~721 |
-| Demonic and Divine | 6.00% | ~721 |
+| Embrace of the Abyss | 6.00% | ~722 |
+| Path of the Angel | 6.00% | ~722 |
+| Demonic and Divine | 6.00% | ~722 |
 | Path of the Azata | 5.00% | ~601 |
 | Transformation | 5.00% | ~601 |
 | The Legacy | 5.00% | ~601 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,023 (Ranked 151)  
+Progressed: 12,025 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,14 +322,14 @@ Completed: 0 (0.00%) (Ranked 343)
 | 2023-11-02 | 12,001 | 0 |
 | 2023-11-03 | 12,011 | 0 |
 | 2023-11-04 | 12,022 | 0 |
-| 2023-11-05 | 12,023 | 0 |
+| 2023-11-05 | 12,025 | 0 |
 ## Awards
-Max (Character Customization): 1,733  (Ranked 121)  
-Sum: 7,022 (Ranked 119)  
+Max (Character Customization): 1,734  (Ranked 121)  
+Sum: 7,023 (Ranked 119)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,733 |
+| This game has Inclusive Character Customization | 1,734 |
 | This game is Extremely Fun | 654 |
 | This game is Highly Recommended | 643 |
 | This game has Amazing Characters | 638 |
@@ -596,4 +596,4 @@ Diff (max vs sum): 2
 | 2023-11-02 | 4.76 | - | 1,733 | 7,018 |
 | 2023-11-03 | 4.76 | - | 1,733 | 7,019 |
 | 2023-11-04 | 4.76 | - | 1,733 | 7,021 |
-| 2023-11-05 | 4.76 | - | 1,733 | 7,022 |
+| 2023-11-05 | 4.76 | - | 1,734 | 7,023 |

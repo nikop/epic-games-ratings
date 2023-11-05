@@ -20,7 +20,7 @@ Rating: 4.55 (Ranked 500)
 | Sole Music | 35.00% | ~158 |
 | No man left behind! | 30.00% | ~135 |
 | Portals come in packs | 30.00% | ~135 |
-| Photo Friend | 26.00% | ~117 |
+| Photo Friend | 27.00% | ~122 |
 | Brainfreeze | 21.00% | ~95 |
 | And everything comes full circle. | 20.00% | ~90 |
 | Masseltov | 19.00% | ~86 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 500)
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 451 (Ranked 297)  
-Completed: 6 (1.33%) (Ranked 141)  
+Completed: 6 (1.33%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

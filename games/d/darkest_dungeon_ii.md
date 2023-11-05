@@ -6,44 +6,44 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~113,922 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~86,973 |
-| A Clear Conscience | 69.00% | ~84,523 |
-| Unleash Hell | 68.00% | ~83,298 |
-| Unfulfilled Desires | 68.00% | ~83,298 |
-| Funny Guy | 67.00% | ~82,073 |
-| Unshackled | 67.00% | ~82,073 |
-| Long Live the King | 66.00% | ~80,848 |
-| Resurrection | 62.00% | ~75,948 |
-| Wyrdly Reconstructed | 62.00% | ~75,948 |
-| Boxcar Kid | 60.00% | ~73,498 |
-| Rush Hour | 60.00% | ~73,498 |
-| To Grandmother's House | 60.00% | ~73,498 |
-| Serenity Now! | 54.00% | ~66,148 |
-| Hope Rekindled | 50.00% | ~61,248 |
-| Ramble On | 49.00% | ~60,024 |
-| Nope | 49.00% | ~60,024 |
-| This Looks Familiar | 38.00% | ~46,549 |
-| Now Stay Dead | 38.00% | ~46,549 |
-| Harvest Festival | 37.00% | ~45,324 |
-| Merry Time | 36.00% | ~44,099 |
-| Hot Air | 36.00% | ~44,099 |
-| Creep and Sleep | 33.00% | ~40,424 |
-| Overdue Notice | 32.00% | ~39,199 |
-| Whale | 32.00% | ~39,199 |
-| Banishment | 31.00% | ~37,974 |
-| FNG | 30.00% | ~36,749 |
-| Predator | 25.00% | ~30,624 |
-| Reverse Banditry | 25.00% | ~30,624 |
-| Autodidact | 25.00% | ~30,624 |
-| Meat and Greet | 23.00% | ~28,174 |
-| Spelunker | 22.00% | ~26,949 |
-| Road Trip | 22.00% | ~26,949 |
-| Eyes Up | 21.00% | ~25,724 |
-| It Rings a Bell | 20.00% | ~24,499 |
-| Escape from the Black Hole | 18.00% | ~22,049 |
-| Dissector | 17.00% | ~20,824 |
-| It Happens | 17.00% | ~20,824 |
+| A Place to Lay Your Head | 93.00% | ~113,928 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~86,977 |
+| A Clear Conscience | 69.00% | ~84,527 |
+| Unleash Hell | 68.00% | ~83,302 |
+| Unfulfilled Desires | 68.00% | ~83,302 |
+| Funny Guy | 67.00% | ~82,077 |
+| Unshackled | 67.00% | ~82,077 |
+| Long Live the King | 66.00% | ~80,852 |
+| Resurrection | 62.00% | ~75,952 |
+| Wyrdly Reconstructed | 62.00% | ~75,952 |
+| Boxcar Kid | 60.00% | ~73,502 |
+| Rush Hour | 60.00% | ~73,502 |
+| To Grandmother's House | 60.00% | ~73,502 |
+| Serenity Now! | 54.00% | ~66,152 |
+| Hope Rekindled | 50.00% | ~61,252 |
+| Ramble On | 49.00% | ~60,026 |
+| Nope | 49.00% | ~60,026 |
+| This Looks Familiar | 38.00% | ~46,551 |
+| Now Stay Dead | 38.00% | ~46,551 |
+| Harvest Festival | 37.00% | ~45,326 |
+| Merry Time | 36.00% | ~44,101 |
+| Hot Air | 36.00% | ~44,101 |
+| Creep and Sleep | 33.00% | ~40,426 |
+| Overdue Notice | 32.00% | ~39,201 |
+| Whale | 32.00% | ~39,201 |
+| Banishment | 31.00% | ~37,976 |
+| FNG | 30.00% | ~36,751 |
+| Predator | 25.00% | ~30,626 |
+| Reverse Banditry | 25.00% | ~30,626 |
+| Autodidact | 25.00% | ~30,626 |
+| Meat and Greet | 23.00% | ~28,176 |
+| Spelunker | 22.00% | ~26,951 |
+| Road Trip | 22.00% | ~26,951 |
+| Eyes Up | 21.00% | ~25,726 |
+| It Rings a Bell | 20.00% | ~24,501 |
+| Escape from the Black Hole | 18.00% | ~22,051 |
+| Dissector | 17.00% | ~20,826 |
+| It Happens | 17.00% | ~20,826 |
 | This Belongs in a Museum | 16.00% | ~19,600 |
 | Handled | 16.00% | ~19,600 |
 | Catch and Decease | 15.00% | ~18,375 |
@@ -65,14 +65,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 1.00% | ~1,225 |
 | Grand Slam | 1.00% | ~1,225 |
 | Circle of Life | 0.80% | ~980 |
-| Tears in the Rain | 0.70% | ~857 |
+| Tears in the Rain | 0.70% | ~858 |
 | 20,000 Leagues Above the Sea | 0.20% | ~245 |
 | The Clash | 0.20% | ~245 |
 | Hard Mode | 0.20% | ~245 |
-| Loop Year | 0.10% | ~122 |
-| No Gravestone Left Unturned | 0.10% | ~122 |
+| Loop Year | 0.10% | ~123 |
+| No Gravestone Left Unturned | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,497 (Ranked 83)  
+Progressed: 122,503 (Ranked 83)  
 Completed: 1 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 1 (0.00%) (Ranked 343)
 | 2023-11-02 | 122,233 | 1 |
 | 2023-11-03 | 122,332 | 1 |
 | 2023-11-04 | 122,454 | 1 |
-| 2023-11-05 | 122,497 | 1 |
+| 2023-11-05 | 122,503 | 1 |
 ## Awards
 Max (Character Customization): 7,493  (Ranked 51)  
 Sum: 19,677 (Ranked 59)  

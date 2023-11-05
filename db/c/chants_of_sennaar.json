@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 440,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.18,
+  "EOS_Completed_Percentage": 6.14,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1905,6 +1905,11 @@
       "Time": "2023-11-05T07:08:22.5386712+00:00",
       "NumProgressed": 437,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T10:08:40.1886651+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1924,7 +1929,7 @@
       "Name": "In this together",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "META_ALL_LINK",
@@ -1938,9 +1943,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 66
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1978,9 +1983,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2034,9 +2039,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2060,23 +2065,23 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 79
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 128
     },
     {
       "ID": "PROGRESS_N2",
@@ -2084,7 +2089,7 @@
       "Name": "The great escape",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "PROGRESS_N3",
@@ -2100,7 +2105,7 @@
       "Name": "The darkness",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "PROGRESS_N5",
@@ -2115,14 +2120,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 440,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T09:08:01.1542983+00:00",
+  "LastChanged_Achievements": "2023-11-05T10:08:40.1886643+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T09:02:28.7221974+00:00",
-  "LastUpdate_Achievements": "2023-11-05T09:08:01.1543265+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:02:44.5618068+00:00",
+  "LastUpdate_Achievements": "2023-11-05T10:08:40.1886968+00:00"
 }

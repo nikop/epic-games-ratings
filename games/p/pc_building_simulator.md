@@ -1,21 +1,21 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 308)  
+Rating: 4.65 (Ranked 309)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,752,531 |
-| Easy to forget | 46.00% | ~1,645,233 |
-| Back in the black | 39.00% | ~1,394,872 |
-| That's what I'm talking about | 29.00% | ~1,037,212 |
-| The Best of Both Worlds | 25.00% | ~894,148 |
-| Get your wings | 20.00% | ~715,319 |
-| Double trouble | 16.00% | ~572,255 |
-| Smashing it | 11.00% | ~393,425 |
-| But can it run Crysis? | 9.00% | ~321,893 |
-| My favourite feature... | 9.00% | ~321,893 |
+| You need to plug it in... | 49.00% | ~1,752,537 |
+| Easy to forget | 46.00% | ~1,645,239 |
+| Back in the black | 39.00% | ~1,394,877 |
+| That's what I'm talking about | 29.00% | ~1,037,216 |
+| The Best of Both Worlds | 25.00% | ~894,152 |
+| Get your wings | 20.00% | ~715,321 |
+| Double trouble | 16.00% | ~572,257 |
+| Smashing it | 11.00% | ~393,427 |
+| But can it run Crysis? | 9.00% | ~321,895 |
+| My favourite feature... | 9.00% | ~321,895 |
 | From humble beginnings... | 7.00% | ~250,362 |
 | Customer satisfaction | 7.00% | ~250,362 |
 | Keeping things neat | 4.00% | ~143,064 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,577 |
 | Treat yourself - GPU | 0.10% | ~3,577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,576,594 (Ranked 5)  
+Progressed: 3,576,607 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 37 (0.00%) (Ranked 343)
 | 2023-11-02 | 3,575,624 | 37 |
 | 2023-11-03 | 3,576,036 | 37 |
 | 2023-11-04 | 3,576,456 | 37 |
-| 2023-11-05 | 3,576,594 | 37 |
+| 2023-11-05 | 3,576,607 | 37 |
 ## Awards
 Max (Great for Beginners): 1,096  (Ranked 142)  
 Sum: 8,105 (Ranked 103)  

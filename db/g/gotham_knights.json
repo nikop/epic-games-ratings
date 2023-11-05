@@ -3921,18 +3921,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4915,
       "NumberOfAwardsMax": 2900
+    },
+    {
+      "Time": "2023-11-05T09:57:20.5114084+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4922,
+      "NumberOfAwardsMax": 2907
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4915,
-  "NumberOfAwardsMax": 2900,
+  "NumberOfAwards": 4922,
+  "NumberOfAwardsMax": 2907,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2900
+      "Count": 2907
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3989,9 +3995,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75974,
+  "EOS_Progressed": 75976,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21509,6 +21515,11 @@
       "Time": "2023-11-05T09:05:28.6661332+00:00",
       "NumProgressed": 75974,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T10:05:40.3514687+00:00",
+      "NumProgressed": 75976,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21592,7 +21603,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ALL_VILLAIN",
@@ -21632,7 +21643,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13675
+      "UsersEstimate": 13676
     },
     {
       "ID": "CLAYFACE_3",
@@ -21640,7 +21651,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -21672,7 +21683,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -21720,7 +21731,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -21736,7 +21747,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7597
+      "UsersEstimate": 7598
     },
     {
       "ID": "FREEZE_1",
@@ -21768,7 +21779,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -21824,7 +21835,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26591
+      "UsersEstimate": 26592
     },
     {
       "ID": "HARLEY_2",
@@ -21864,7 +21875,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38747
+      "UsersEstimate": 38748
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21872,7 +21883,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -21896,7 +21907,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20513
+      "UsersEstimate": 20514
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -21904,7 +21915,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "MYSTERY_01",
@@ -21912,7 +21923,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25831
+      "UsersEstimate": 25832
     },
     {
       "ID": "MYSTERY_02",
@@ -21928,7 +21939,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16714
+      "UsersEstimate": 16715
     },
     {
       "ID": "MYSTERY_04",
@@ -21944,7 +21955,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13675
+      "UsersEstimate": 13676
     },
     {
       "ID": "MYSTERY_06",
@@ -21960,7 +21971,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "MYSTERY_08",
@@ -22007,22 +22018,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75974,
+      "Progressed": 75976,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46254,
+      "Progressed": 46256,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-05T07:57:05.2243584+00:00",
-  "LastChanged_Achievements": "2023-11-05T09:05:28.6661328+00:00",
+  "LastChanged": "2023-11-05T09:57:20.5114082+00:00",
+  "LastChanged_Achievements": "2023-11-05T10:05:40.351468+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-05T08:57:04.3441508+00:00",
-  "LastUpdate_Achievements": "2023-11-05T09:05:28.6662624+00:00"
+  "LastUpdate_Ratings": "2023-11-05T09:57:20.51141+00:00",
+  "LastUpdate_Achievements": "2023-11-05T10:05:40.3516141+00:00"
 }

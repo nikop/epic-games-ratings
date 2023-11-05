@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,497 |
-| Now You're Talking | 62.00% | ~329,040 |
-| Steel Yourself | 62.00% | ~329,040 |
-| Window Dressing | 50.00% | ~265,355 |
-| Trigger Happy | 46.00% | ~244,127 |
+| First Step | 70.00% | ~371,498 |
+| Now You're Talking | 62.00% | ~329,041 |
+| Steel Yourself | 62.00% | ~329,041 |
+| Window Dressing | 50.00% | ~265,356 |
+| Trigger Happy | 46.00% | ~244,128 |
 | Riverborn | 45.00% | ~238,820 |
-| Starry Eyed | 34.00% | ~180,441 |
-| Poking Around | 34.00% | ~180,441 |
-| Talk of the Town | 24.00% | ~127,370 |
-| AAARR! | 23.00% | ~122,063 |
-| Hello Darkness | 23.00% | ~122,063 |
-| Wind At Our Backs | 22.00% | ~116,756 |
+| Starry Eyed | 34.00% | ~180,442 |
+| Poking Around | 34.00% | ~180,442 |
+| Talk of the Town | 24.00% | ~127,371 |
+| AAARR! | 23.00% | ~122,064 |
+| Hello Darkness | 23.00% | ~122,064 |
+| Wind At Our Backs | 22.00% | ~116,757 |
 | To the Beat | 20.00% | ~106,142 |
 | Sunny Shores | 17.00% | ~90,221 |
 | Sunday Best | 16.00% | ~84,914 |
-| To Victory! | 15.00% | ~79,606 |
-| Two of a Kind | 14.00% | ~74,299 |
-| Keep On Trucking | 13.00% | ~68,992 |
+| To Victory! | 15.00% | ~79,607 |
+| Two of a Kind | 14.00% | ~74,300 |
+| Keep On Trucking | 13.00% | ~68,993 |
 | Going on an Adventure | 11.00% | ~58,378 |
 | Make Peace, Not War | 11.00% | ~58,378 |
 | Walking The Line | 10.00% | ~53,071 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,592 |
 | Point Taken | 0.20% | ~1,061 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,710 (Ranked 35)  
+Progressed: 530,712 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 497 (0.09%) (Ranked 272)
 | 2023-11-02 | 530,517 | 493 |
 | 2023-11-03 | 530,597 | 494 |
 | 2023-11-04 | 530,689 | 495 |
-| 2023-11-05 | 530,710 | 497 |
+| 2023-11-05 | 530,712 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 542)  
 Sum: 20 (Ranked 544)  

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 308)  
+Rating: 4.65 (Ranked 309)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~151 |
 | Building Wonders | 1.00% | ~151 |
 | Economic Reform | 1.00% | ~151 |
+| Legalism | 1.00% | ~151 |
 | Mythology | 1.00% | ~151 |
 | Double Victory | 1.00% | ~151 |
 | Points Victory | 1.00% | ~151 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.90% | ~136 |
 | Military Prestige | 0.90% | ~136 |
 | Gnosticism | 0.90% | ~136 |
-| Legalism | 0.90% | ~136 |
 | Redemption | 0.90% | ~136 |
 | Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,145 (Ranked 145)  
+Progressed: 15,147 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 307)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,145 | 5 |
+| 2023-11-05 | 15,147 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

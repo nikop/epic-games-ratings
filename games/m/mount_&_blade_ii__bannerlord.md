@@ -18,7 +18,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I can do it | 16.00% | ~10,323 |
 | God of the Arena | 13.00% | ~8,388 |
 | This Is Our Land | 13.00% | ~8,388 |
-| Against all odds | 12.00% | ~7,742 |
+| Against all odds | 12.00% | ~7,743 |
 | Duelist | 10.00% | ~6,452 |
 | Dynasty | 10.00% | ~6,452 |
 | I spit on your grave | 10.00% | ~6,452 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,520 (Ranked 103)  
+Progressed: 64,521 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 343)
 | 2023-11-02 | 64,362 | 0 |
 | 2023-11-03 | 64,423 | 0 |
 | 2023-11-04 | 64,499 | 0 |
-| 2023-11-05 | 64,520 | 0 |
+| 2023-11-05 | 64,521 | 0 |
 ## Awards
 Max (Character Customization): 7,328  (Ranked 52)  
 Sum: 15,131 (Ranked 66)  

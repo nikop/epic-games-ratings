@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 308,
+  "Ranking_Rating": 309,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1980,9 +1980,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15145,
+  "EOS_Progressed": 15147,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15395,6 +15395,11 @@
       "Time": "2023-11-05T09:05:33.8631609+00:00",
       "NumProgressed": 15145,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T10:05:45.6120582+00:00",
+      "NumProgressed": 15147,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17388,9 +17393,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -18141,21 +18146,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15145,
+      "Progressed": 15147,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15145,
+      "Progressed": 15147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-05T09:05:33.8631604+00:00",
+  "LastChanged_Achievements": "2023-11-05T10:05:45.6120574+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-05T09:00:48.8569174+00:00",
-  "LastUpdate_Achievements": "2023-11-05T09:05:33.8641922+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:00:49.3782745+00:00",
+  "LastUpdate_Achievements": "2023-11-05T10:05:45.6133702+00:00"
 }

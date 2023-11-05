@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~591 |
+| Cause and Effect | 96.00% | ~597 |
 | Fair Share | 69.00% | ~429 |
 | Even Tempered | 57.00% | ~355 |
 | Star-Crossed Lovers | 47.00% | ~292 |

@@ -13,9 +13,9 @@ Rating: 4.57 (Ranked 467)
 | Samaritan | 57.00% | ~16 |
 | Field hand | 54.00% | ~15 |
 | Archer | 54.00% | ~15 |
+| The merciful one | 46.00% | ~13 |
 | Well-to-do | 46.00% | ~13 |
 | Ladies' man | 46.00% | ~13 |
-| The merciful one | 43.00% | ~12 |
 | Ferocious wild boars | 39.00% | ~11 |
 | Idiot | 39.00% | ~11 |
 | The fourth triplet | 32.00% | ~9 |

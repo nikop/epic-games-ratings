@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 329)  
+Rating: 4.64 (Ranked 330)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,6 +23,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.20% | ~1,791 |
 | The Lovers | 0.20% | ~1,791 |
 | The Wheel of Fortune | 0.20% | ~1,791 |
+| The World | 0.20% | ~1,791 |
 | True Warrior | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
 | Spin Doctor | 0.20% | ~48 |
@@ -48,7 +49,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.10% | ~895 |
 | The Star | 0.10% | ~895 |
 | The Sun | 0.10% | ~895 |
-| The World | 0.10% | ~895 |
 | Greetings from Pacifica! | 0.10% | ~895 |
 | The Jungle | 0.10% | ~895 |
 | Two Heads, One Bullet | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,321 (Ranked 15)  
+Progressed: 895,327 (Ranked 15)  
 Completed: 2,745 (0.31%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,23 +273,23 @@ Completed: 2,745 (0.31%) (Ranked 220)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,321 | 2,745 |
+| 2023-11-05 | 895,327 | 2,745 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
-Sum: 342,613 (Ranked 10)  
+Sum: 342,858 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 103,855 |
 | This game has Great Boss Battles | 74,821 |
-| This game is Great for Beginners | 20,172 |
+| This game is Great for Beginners | 20,308 |
 | This game has Diverse Characters | 19,936 |
 | This game is Highly Recommended | 19,134 |
 | This game has Amazing Storytelling | 19,007 |
 | This game is Extremely Fun | 18,765 |
 | This game has Amazing Characters | 18,653 |
+| This game is Relaxing | 18,028 |
 | This game has Quickly Understood Controls | 17,935 |
-| This game is Relaxing | 17,919 |
 | This game has a Creative Community | 12,416 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -584,4 +584,4 @@ Diff (max vs sum): -1
 | 2023-11-02 | 4.64 | - | 103,503 | 339,526 |
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
-| 2023-11-05 | 4.64 | - | 103,855 | 342,613 |
+| 2023-11-05 | 4.64 | - | 103,855 | 342,858 |
