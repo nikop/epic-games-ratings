@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You had one wish left | 9.00% | ~3 |
+| Pulp! The Beyond | 9.00% | ~3 |
 | Master trainee | 6.00% | ~2 |
 | Blessed antennas | 6.00% | ~2 |
 | The beast in the Oval Office | 6.00% | ~2 |
 | Blood Red Island | 6.00% | ~2 |
 | You have three wishes left | 6.00% | ~2 |
-| Pulp! The Beyond | 6.00% | ~2 |
 | America had no Faith | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | You've awakened the beast | 3.00% | ~1 |

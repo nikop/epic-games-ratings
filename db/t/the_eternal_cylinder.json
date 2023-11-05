@@ -2,13 +2,13 @@
   "ID": "fa0c74ef7780498fb222dcd099bf82a2",
   "Name": "The Eternal Cylinder",
   "ProductSlug": "the-eternal-cylinder",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 171,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 722,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T17:00:00+00:00",
     "PcReleaseDate": "2021-09-30T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 149,
   "RatingHistory": [
     {
@@ -396,6 +396,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-05T13:57:30.7329967+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -413,8 +419,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:08.6088333+00:00",
-  "LastChanged": "2023-05-29T07:59:43.5296737+00:00",
+  "LastChanged": "2023-11-05T13:57:30.7329965+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.7736925+00:00",
-  "LastUpdate_Ratings": "2023-11-05T12:59:46.7802479+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:11:12.7190473+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:57:30.7329971+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:21:50.9250396+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 99.00% | ~225 |
-| Hidden History | 83.00% | ~188 |
+| Hidden History | 84.00% | ~191 |
 | Commencing of Quests | 79.00% | ~179 |
 | Budding Conjuror | 78.00% | ~177 |
 | Man-Machine Master | 70.00% | ~159 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~25 |
 | Tsukumo Whisperer | 7.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 350)  
+Progressed: 227 (Ranked 351)  
 Completed: 6 (2.64%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |

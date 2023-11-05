@@ -10,7 +10,7 @@
 | The child of the night | 73.00% | ~64 |
 | Uncle will be happy | 68.00% | ~60 |
 | I have an army! | 64.00% | ~56 |
-| Sticky fingers | 43.00% | ~38 |
+| Sticky fingers | 44.00% | ~39 |
 | A horrible thing will happen... | 39.00% | ~34 |
 | Vampires | 31.00% | ~27 |
 | Bloody stream | 31.00% | ~27 |
@@ -26,7 +26,7 @@
 | Master of puppets | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 420)  
-Completed: 4 (4.55%) (Ranked 71)  
+Completed: 4 (4.55%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

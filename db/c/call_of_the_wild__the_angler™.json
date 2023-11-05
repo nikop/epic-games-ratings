@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6355,
+  "EOS_Progressed": 6359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9452,6 +9452,11 @@
       "Time": "2023-11-05T13:11:35.4106378+00:00",
       "NumProgressed": 6355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T14:22:11.0088304+00:00",
+      "NumProgressed": 6359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9461,9 +9466,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -9575,7 +9580,7 @@
       "Name": "Going for Gold",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -9782,13 +9787,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6355,
+      "Progressed": 6359,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5727,
+      "Progressed": 5731,
       "Completed": 113
     }
   ],
@@ -9796,8 +9801,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:11:35.4106375+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:22:11.00883+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:01:26.1455734+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:11:35.4106998+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:02:59.9916156+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:22:11.0089153+00:00"
 }

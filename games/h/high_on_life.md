@@ -39,6 +39,7 @@ Rating: 4.63 (Ranked 346)
 | Carried Stan's Load To Completion | 0.20% | ~49 |
 | Give Away All Your Money | 0.20% | ~3 |
 | Meet Frasier from Frasier | 0.20% | ~3 |
+| It's Like The Santa Clause | 0.20% | ~3 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
@@ -48,7 +49,6 @@ Rating: 4.63 (Ranked 346)
 | See Salt | 0.10% | ~2 |
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
-| It's Like The Santa Clause | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24,440 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 297)  

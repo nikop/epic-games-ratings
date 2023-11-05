@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 407)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~474 |
+| Secret Technique | 9.00% | ~475 |
 | Walls Cannot Stop Us | 8.00% | ~422 |
 | Realm Estate | 7.00% | ~369 |
 | A Wonderful Discovery | 7.00% | ~369 |
@@ -20,7 +20,6 @@ Rating: 4.60 (Ranked 407)
 | Full Ascension | 6.00% | ~316 |
 | My Final Form | 6.00% | ~316 |
 | In a Liege of Your Own | 6.00% | ~316 |
-| Blood of the Dragon | 6.00% | ~316 |
 | Mighty Hoard | 6.00% | ~316 |
 | Valley of Wonders | 5.00% | ~264 |
 | Digging for Treasure | 5.00% | ~264 |
@@ -28,6 +27,7 @@ Rating: 4.60 (Ranked 407)
 | Against the Odds | 5.00% | ~264 |
 | Impenetrable Fortress | 5.00% | ~264 |
 | Here be Dragons | 5.00% | ~264 |
+| Blood of the Dragon | 5.00% | ~264 |
 | Return of the Wizard King | 4.00% | ~211 |
 | Arch Mage | 4.00% | ~211 |
 | Enchanted Archipelago | 4.00% | ~211 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 407)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,271 (Ranked 181)  
+Progressed: 5,273 (Ranked 181)  
 Completed: 7 (0.13%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 7 (0.13%) (Ranked 256)
 | 2023-11-01 | 5,264 | 7 |
 | 2023-11-03 | 5,268 | 7 |
 | 2023-11-04 | 5,271 | 7 |
+| 2023-11-05 | 5,273 | 7 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 490)  
 Sum: 30 (Ranked 509)  

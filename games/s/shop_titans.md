@@ -67,32 +67,32 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.80% | ~1,109 |
 | Special Ingredient | 0.80% | ~1,109 |
 | Complete Monopoly | 0.80% | ~1,109 |
-| Cream of the Crop | 0.70% | ~970 |
-| Proud Paladin | 0.70% | ~970 |
-| Above the Norm | 0.70% | ~970 |
-| A Ronin Reborn | 0.70% | ~970 |
-| Booty by the Boatload | 0.70% | ~970 |
-| Archivist | 0.70% | ~970 |
-| Omae wa Mou Shindeiru | 0.70% | ~970 |
-| Master of Transmutation | 0.70% | ~970 |
-| Supercharged | 0.70% | ~970 |
-| Ritualist | 0.70% | ~970 |
-| Fit for a King | 0.70% | ~970 |
-| By Your Powers Combined... | 0.70% | ~970 |
-| Wealth Beyond Measure | 0.70% | ~970 |
-| Fat Cat Tag Team | 0.70% | ~970 |
-| Item of Renown | 0.70% | ~970 |
-| Master Merchant | 0.70% | ~970 |
-| Bountiful Harvest | 0.70% | ~970 |
-| Precision Engineering | 0.70% | ~970 |
-| Attrition Mission | 0.70% | ~970 |
-| Glittering Collection | 0.70% | ~970 |
-| Treasure Trove | 0.70% | ~970 |
-| Moment of Respite | 0.70% | ~970 |
-| King's Shadow | 0.70% | ~970 |
-| Master Recycler | 0.70% | ~970 |
-| Exotic Commodities | 0.70% | ~970 |
-| King's Blade | 0.70% | ~970 |
+| Cream of the Crop | 0.70% | ~971 |
+| Proud Paladin | 0.70% | ~971 |
+| Above the Norm | 0.70% | ~971 |
+| A Ronin Reborn | 0.70% | ~971 |
+| Booty by the Boatload | 0.70% | ~971 |
+| Archivist | 0.70% | ~971 |
+| Omae wa Mou Shindeiru | 0.70% | ~971 |
+| Master of Transmutation | 0.70% | ~971 |
+| Supercharged | 0.70% | ~971 |
+| Ritualist | 0.70% | ~971 |
+| Fit for a King | 0.70% | ~971 |
+| By Your Powers Combined... | 0.70% | ~971 |
+| Wealth Beyond Measure | 0.70% | ~971 |
+| Fat Cat Tag Team | 0.70% | ~971 |
+| Item of Renown | 0.70% | ~971 |
+| Master Merchant | 0.70% | ~971 |
+| Bountiful Harvest | 0.70% | ~971 |
+| Precision Engineering | 0.70% | ~971 |
+| Attrition Mission | 0.70% | ~971 |
+| Glittering Collection | 0.70% | ~971 |
+| Treasure Trove | 0.70% | ~971 |
+| Moment of Respite | 0.70% | ~971 |
+| King's Shadow | 0.70% | ~971 |
+| Master Recycler | 0.70% | ~971 |
+| Exotic Commodities | 0.70% | ~971 |
+| King's Blade | 0.70% | ~971 |
 | Top of the World | 0.60% | ~832 |
 | Constellated | 0.60% | ~832 |
 | Thirst for Knowledge | 0.60% | ~832 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,638 (Ranked 78)  
+Progressed: 138,643 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 178 (0.13%) (Ranked 256)
 | 2023-11-02 | 138,491 | 178 |
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
-| 2023-11-05 | 138,638 | 178 |
+| 2023-11-05 | 138,643 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,502 (Ranked 52)  

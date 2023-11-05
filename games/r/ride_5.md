@@ -9,13 +9,13 @@
 | Clean Race | 41.00% | ~820 |
 | Hear That Roar! | 39.00% | ~780 |
 | Rivals to the End | 29.00% | ~580 |
-| Bitter Rivalry | 27.00% | ~540 |
+| Bitter Rivalry | 26.00% | ~520 |
 | We're Going to Need a Bigger Garage | 24.00% | ~480 |
 | Champagne Spray | 24.00% | ~480 |
 | Restored and Ready | 19.00% | ~380 |
 | I Want One Too! | 19.00% | ~380 |
 | Legendary!!! | 19.00% | ~380 |
-| Quick Pit Stop | 19.00% | ~380 |
+| Quick Pit Stop | 18.00% | ~360 |
 | I'm Here Too! | 18.00% | ~360 |
 | Go-Faster Stripes | 17.00% | ~340 |
 | We've Just Begun | 11.00% | ~220 |
@@ -39,22 +39,22 @@
 | Next Level | 1.00% | ~20 |
 | I Don't Stop | 1.00% | ~20 |
 | Exhausted but Happy | 0.70% | ~14 |
-| In Search of Perfection | 0.60% | ~12 |
 | Globe-trotter | 0.50% | ~10 |
+| In Search of Perfection | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
-| Breathtaking Views | 0.20% | ~4 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
-| At the Top | 0.20% | ~4 |
-| There's a Great View up Here | 0.20% | ~4 |
-| Absolute Champion | 0.20% | ~4 |
+| Breathtaking Views | 0.10% | ~2 |
 | Beyond the Limiter | 0.10% | ~2 |
 | Endless | 0.10% | ~2 |
+| At the Top | 0.10% | ~2 |
+| There's a Great View up Here | 0.10% | ~2 |
+| Absolute Champion | 0.10% | ~2 |
 | Dream Chaser | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,999 (Ranked 215)  
+Progressed: 2,001 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,4 +119,4 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 1,953 | 0 |
 | 2023-11-03 | 1,971 | 0 |
 | 2023-11-04 | 1,991 | 0 |
-| 2023-11-05 | 1,999 | 0 |
+| 2023-11-05 | 2,001 | 0 |

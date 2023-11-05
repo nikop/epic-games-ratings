@@ -53,13 +53,13 @@
 | Astrarium of Holding | 4.00% | ~3 |
 | Critical Twist | 4.00% | ~3 |
 | Reflexive Mind | 4.00% | ~3 |
+| The Ardent Prince | 4.00% | ~3 |
 | The Raging Skies | 4.00% | ~3 |
 | Aquarian Hero | 4.00% | ~3 |
 | Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Prestidigitation | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
-| The Ardent Prince | 3.00% | ~2 |
 | Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Anomaly Master | 1.00% | ~1 |

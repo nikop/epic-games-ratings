@@ -6073,10 +6073,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10589,
       "NumberOfAwardsMax": 7004
+    },
+    {
+      "Time": "2023-11-05T13:57:12.9157925+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10600,
+      "NumberOfAwardsMax": 7004
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10589,
+  "NumberOfAwards": 10600,
   "NumberOfAwardsMax": 7004,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6132,13 +6138,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 429
+      "Count": 440
     }
   ],
-  "EOS_Progressed": 713055,
-  "EOS_Completed": 2332,
-  "EOS_NewPlayers": 5683,
-  "EOS_NewCompleters": 56,
+  "EOS_Progressed": 713118,
+  "EOS_Completed": 2333,
+  "EOS_NewPlayers": 5674,
+  "EOS_NewCompleters": 57,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28820,6 +28826,11 @@
       "Time": "2023-11-05T13:08:07.193232+00:00",
       "NumProgressed": 713055,
       "NumCompleted": 2332
+    },
+    {
+      "Time": "2023-11-05T14:18:38.5990454+00:00",
+      "NumProgressed": 713118,
+      "NumCompleted": 2333
     }
   ],
   "TotalAchievements": 51,
@@ -28877,9 +28888,9 @@
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_bookworm",
@@ -28925,9 +28936,9 @@
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_explorer",
@@ -28941,9 +28952,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_finisher",
@@ -29191,7 +29202,7 @@
       "Name": "One of Us",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ach_dark_magic",
@@ -29199,7 +29210,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ach_gardening_tools",
@@ -29215,7 +29226,7 @@
       "Name": "Pork Chopped",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29238,22 +29249,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713055,
-      "Completed": 2332
+      "Progressed": 713118,
+      "Completed": 2333
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38597,
-      "Completed": 36437
+      "Progressed": 38660,
+      "Completed": 36440
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-05T12:59:25.1367202+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:08:07.1932316+00:00",
+  "LastChanged": "2023-11-05T13:57:12.9157908+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:18:38.599045+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T12:59:25.1367207+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:08:07.1933486+00:00"
+  "LastUpdate_Ratings": "2023-11-05T13:57:12.915793+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:18:38.5992166+00:00"
 }

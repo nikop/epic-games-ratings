@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 59,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.12,
+  "EOS_Completed_Percentage": 6.11,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1915,6 +1915,11 @@
       "Time": "2023-11-05T12:02:50.0745746+00:00",
       "NumProgressed": 441,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T14:16:32.6402649+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1932,9 +1937,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 66
+      "UsersEstimate": 62
     },
     {
       "ID": "META_ALL_LINK",
@@ -2038,7 +2043,7 @@
       "Name": "True G3M4R",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2078,7 +2083,7 @@
       "Name": "Scholar",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "PROGRESS_N1",
@@ -2086,7 +2091,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "PROGRESS_N2",
@@ -2125,14 +2130,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:05:44.2555482+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:16:32.6402644+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:05:02.8319422+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:05:44.2555762+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:15:27.6996157+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:16:32.6403095+00:00"
 }

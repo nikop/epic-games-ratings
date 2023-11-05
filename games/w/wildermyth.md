@@ -11,8 +11,8 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 1.00% | ~14 |
 | The Cost of Heroism | 1.00% | ~14 |
 | Cutthroat Competitors | 1.00% | ~14 |
+| Daybreak | 1.00% | ~14 |
 | This Too Shall Pass | 0.90% | ~13 |
-| Daybreak | 0.90% | ~13 |
 | Passing Shadow | 0.80% | ~12 |
 | Completing the Look | 0.60% | ~9 |
 | War Endured | 0.60% | ~9 |

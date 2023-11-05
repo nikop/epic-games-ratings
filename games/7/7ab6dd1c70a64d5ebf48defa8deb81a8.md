@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~63 |
-| Trinity | 28.00% | ~34 |
-| Find Allies | 22.00% | ~27 |
-| The Collector | 22.00% | ~27 |
-| A Taste of Wrath | 20.00% | ~24 |
-| Adventurer | 20.00% | ~24 |
-| Shatter Them All | 20.00% | ~24 |
-| Fashion Victim | 20.00% | ~24 |
-| Scholar | 20.00% | ~24 |
-| I Found It | 20.00% | ~24 |
+| Break Out | 51.00% | ~64 |
+| Trinity | 28.00% | ~35 |
+| Find Allies | 22.00% | ~28 |
+| The Collector | 22.00% | ~28 |
+| Fashion Victim | 21.00% | ~26 |
+| Scholar | 21.00% | ~26 |
+| I Found It | 21.00% | ~26 |
+| A Taste of Wrath | 20.00% | ~25 |
+| Adventurer | 20.00% | ~25 |
+| Shatter Them All | 19.00% | ~24 |
 | Powerful Allies | 17.00% | ~21 |
-| Tributes of Caladrias | 16.00% | ~20 |
+| Tributes of Caladrias | 17.00% | ~21 |
 | Geared Up | 16.00% | ~20 |
-| Stone Collection | 15.00% | ~18 |
-| Essence Blow | 11.00% | ~13 |
+| Stone Collection | 15.00% | ~19 |
+| Essence Blow | 10.00% | ~12 |
 | Airborne | 7.00% | ~9 |
-| Alchemist | 7.00% | ~9 |
-| Miner | 7.00% | ~9 |
-| The Mentor | 6.00% | ~7 |
-| Big Bazar | 6.00% | ~7 |
+| Big Bazar | 7.00% | ~9 |
+| The Mentor | 6.00% | ~8 |
+| Alchemist | 6.00% | ~8 |
+| Miner | 6.00% | ~8 |
 | Calm before the Storm | 5.00% | ~6 |
 | To Battle | 5.00% | ~6 |
 | Godslayer | 5.00% | ~6 |
-| Flawless Victory | 3.00% | ~4 |
+| Flawless Victory | 4.00% | ~5 |
 | A Queen's Tale | 3.00% | ~4 |
 | Clear Sight | 2.00% | ~2 |
 | Slayer | 2.00% | ~2 |
 | Fine Feathers Make Fine Birds | 2.00% | ~2 |
 | False God | 2.00% | ~2 |
 | Shardbearer | 0.80% | ~1 |
+| Shatterer | 0.80% | ~1 |
 | Forgemaster | 0.00% | ~0 |
-| Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 393)  
-Completed: 1 (0.82%) (Ranked 169)  
+Progressed: 125 (Ranked 390)  
+Completed: 1 (0.80%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,4 +70,4 @@ Completed: 1 (0.82%) (Ranked 169)
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
 | 2023-11-04 | 115 | 1 |
-| 2023-11-05 | 122 | 1 |
+| 2023-11-05 | 125 | 1 |

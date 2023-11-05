@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 100.00% | ~26 |
-| Suicide squad | 42.00% | ~11 |
-| First blood | 23.00% | ~6 |
+| First success | 100.00% | ~27 |
+| Suicide squad | 41.00% | ~11 |
+| First blood | 22.00% | ~6 |
 | Train hard, fight easy | 19.00% | ~5 |
 | Under cover | 19.00% | ~5 |
 | All for one! | 15.00% | ~4 |
 | Royal blessing | 15.00% | ~4 |
 | A hidden snake | 15.00% | ~4 |
 | Blood and sand | 15.00% | ~4 |
-| Crimson rivers | 12.00% | ~3 |
-| Overplay the rogue | 12.00% | ~3 |
-| Power of Inquisition | 12.00% | ~3 |
-| Surpass the teacher | 12.00% | ~3 |
-| Vene, vidi, vici | 12.00% | ~3 |
-| By own strength | 12.00% | ~3 |
-| Protect the Healer! | 12.00% | ~3 |
-| Help of the Gell | 12.00% | ~3 |
-| Berkanan Borgia | 8.00% | ~2 |
-| The champion of the arena | 8.00% | ~2 |
-| Rage | 8.00% | ~2 |
-| Deadly strike | 8.00% | ~2 |
-| A solo player | 8.00% | ~2 |
-| Punish the Punisher | 8.00% | ~2 |
-| Cunning plan | 8.00% | ~2 |
-| Trial by cold | 8.00% | ~2 |
-| She-Wolf | 8.00% | ~2 |
+| Crimson rivers | 11.00% | ~3 |
+| Overplay the rogue | 11.00% | ~3 |
+| Power of Inquisition | 11.00% | ~3 |
+| Surpass the teacher | 11.00% | ~3 |
+| Vene, vidi, vici | 11.00% | ~3 |
+| By own strength | 11.00% | ~3 |
+| Protect the Healer! | 11.00% | ~3 |
+| Help of the Gell | 11.00% | ~3 |
+| Berkanan Borgia | 7.00% | ~2 |
+| The champion of the arena | 7.00% | ~2 |
+| Rage | 7.00% | ~2 |
+| Deadly strike | 7.00% | ~2 |
+| A solo player | 7.00% | ~2 |
+| Punish the Punisher | 7.00% | ~2 |
+| Cunning plan | 7.00% | ~2 |
+| Trial by cold | 7.00% | ~2 |
+| She-Wolf | 7.00% | ~2 |
 | For the greater good | 4.00% | ~1 |
 | Collector | 4.00% | ~1 |
 | The best apprentice | 4.00% | ~1 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 507)  
+Progressed: 27 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 12 | 0 |
 | 2023-11-03 | 15 | 0 |
 | 2023-11-04 | 20 | 0 |
-| 2023-11-05 | 26 | 0 |
+| 2023-11-05 | 27 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

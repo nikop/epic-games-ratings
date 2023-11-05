@@ -14,9 +14,9 @@
 | Haute Cuisine | 9.00% | ~59 |
 | Italian Style | 7.00% | ~46 |
 | Sous-Chef | 6.00% | ~40 |
+| Rolling in Dough | 5.00% | ~33 |
 | Well-Stocked Kitchen | 5.00% | ~33 |
 | Culinary Arts | 4.00% | ~26 |
-| Rolling in Dough | 4.00% | ~26 |
 | Perfectionist | 3.00% | ~20 |
 | Leaning Tower of Pizza | 3.00% | ~20 |
 | Eco Warrior | 0.50% | ~3 |

@@ -6,25 +6,25 @@
 | ---- | ---------- | ----- |
 | In the Black | 60.00% | ~209 |
 | Starting Skyward | 54.00% | ~188 |
-| Grime is Not Good | 48.00% | ~167 |
-| Floor Galore | 42.00% | ~146 |
+| Grime is Not Good | 48.00% | ~168 |
+| Floor Galore | 42.00% | ~147 |
+| Dinner Dash | 42.00% | ~147 |
 | Campaign Launch | 41.00% | ~143 |
-| Dinner Dash | 41.00% | ~143 |
-| Need a Consult | 38.00% | ~132 |
-| It's Technical | 38.00% | ~132 |
+| Need a Consult | 38.00% | ~133 |
+| It's Technical | 38.00% | ~133 |
 | Upgrade Unlock | 37.00% | ~129 |
 | Delegate Maintenance | 35.00% | ~122 |
 | Proper Walls | 33.00% | ~115 |
-| Destination Destiny | 32.00% | ~111 |
+| Destination Destiny | 32.00% | ~112 |
 | Happy Tenants | 27.00% | ~94 |
-| Potent Potables | 26.00% | ~90 |
-| Smooth Service | 26.00% | ~90 |
+| Potent Potables | 26.00% | ~91 |
+| Smooth Service | 26.00% | ~91 |
 | Your Prestige is Rising | 25.00% | ~87 |
 | Retail Revenue | 25.00% | ~87 |
 | Don't Feel a Loan | 23.00% | ~80 |
-| Artfully Done | 22.00% | ~77 |
 | People Mover | 22.00% | ~77 |
 | Lux Living | 21.00% | ~73 |
+| Artfully Done | 21.00% | ~73 |
 | Emporium Empire | 21.00% | ~73 |
 | Leveled Up Shops | 21.00% | ~73 |
 | Get Electrified | 21.00% | ~73 |
@@ -37,8 +37,8 @@
 | Starred Dining | 16.00% | ~56 |
 | Smooth Operator | 14.00% | ~49 |
 | Boutique Benefits | 14.00% | ~49 |
-| Terrifically Trashed | 14.00% | ~49 |
-| Thrilled Tenants | 14.00% | ~49 |
+| Terrifically Trashed | 13.00% | ~45 |
+| Thrilled Tenants | 13.00% | ~45 |
 | Swimming in Surplus | 12.00% | ~42 |
 | Aestheticly Pleased | 11.00% | ~38 |
 | 28 Days Later | 11.00% | ~38 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348 (Ranked 317)  
+Progressed: 349 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-10-30 | 346 | 0 |
 | 2023-10-31 | 347 | 0 |
 | 2023-11-01 | 348 | 0 |
+| 2023-11-05 | 349 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,18 +5,21 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~386 |
-| Pork Chopped | 0.90% | ~347 |
-| One of Us | 0.70% | ~270 |
+| Whatever It Takes | 1.00% | ~387 |
+| Pork Chopped | 0.90% | ~348 |
+| One of Us | 0.70% | ~271 |
 | Hotel California | 0.30% | ~2,139 |
 | Welcome To Hell-A | 0.30% | ~2,139 |
 | Dr. Reed, I Presume? | 0.20% | ~1,426 |
 | Git Gutte! | 0.20% | ~1,426 |
 | Anger Management | 0.20% | ~1,426 |
+| Perks of the Job | 0.20% | ~1,426 |
 | Bookworm | 0.20% | ~1,426 |
 | Break A Leg | 0.20% | ~1,426 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,426 |
 | But Doctor, I am Butcho | 0.20% | ~1,426 |
+| Slayer Squad | 0.20% | ~1,426 |
+| Can't Handle the Truth | 0.20% | ~1,426 |
 | Coup de Grâce | 0.20% | ~1,426 |
 | Not Even My Final Form | 0.20% | ~1,426 |
 | Hazardous Materials | 0.20% | ~1,426 |
@@ -29,11 +32,8 @@ Rating: 4.54 (Ranked 522)
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
 | LA Influential | 0.10% | ~713 |
-| Perks of the Job | 0.10% | ~713 |
 | On Safari | 0.10% | ~713 |
-| Slayer Squad | 0.10% | ~713 |
 | Smorgasbord | 0.10% | ~713 |
-| Can't Handle the Truth | 0.10% | ~713 |
 | Like Riding a Bike | 0.10% | ~713 |
 | Donk! | 0.10% | ~713 |
 | Internet Famous | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,055 (Ranked 21)  
-Completed: 2,332 (0.33%) (Ranked 217)  
+Progressed: 713,118 (Ranked 21)  
+Completed: 2,333 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,10 +256,10 @@ Completed: 2,332 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,055 | 2,332 |
+| 2023-11-05 | 713,118 | 2,333 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
-Sum: 10,589 (Ranked 89)  
+Sum: 10,600 (Ranked 89)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -35
 | This game has Diverse Characters | 504 |
 | This game has Quickly Understood Controls | 482 |
 | This game is Relaxing | 447 |
-| This game has Amazing Storytelling | 429 |
+| This game has Amazing Storytelling | 440 |
 | This game is Highly Recommended | 418 |
 | This game is Extremely Fun | 405 |
 | This game has Amazing Characters | 386 |
@@ -473,4 +473,4 @@ Diff (max vs sum): -35
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
-| 2023-11-05 | 4.54 | 7,004 | 10,589 |
+| 2023-11-05 | 4.54 | 7,004 | 10,600 |

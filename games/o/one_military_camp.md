@@ -24,10 +24,10 @@
 | Overpopulation | 6.00% | ~11 |
 | Pathfinder | 6.00% | ~11 |
 | Self-sufficient | 6.00% | ~11 |
+| Outdoor Decorator | 5.00% | ~10 |
 | Property Bro | 5.00% | ~10 |
 | Medicine Tycoon | 5.00% | ~10 |
 | Supersoldier | 4.00% | ~8 |
-| Outdoor Decorator | 4.00% | ~8 |
 | Tear Down the Wall! | 3.00% | ~6 |
 | Human Resources | 3.00% | ~6 |
 | Training Camp | 3.00% | ~6 |

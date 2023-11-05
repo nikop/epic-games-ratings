@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 28)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 533  (Ranked 202)  
-Sum: 797 (Ranked 278)  
+Sum: 798 (Ranked 278)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): -76
 | This game is Great for Beginners | 31 |
 | This game has Amazing Characters | 26 |
 | This game has Easy Combat | 23 |
+| This game has Quickly Understood Controls | 22 |
 | This game has Unique Visuals | 22 |
-| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -182,3 +182,4 @@ Diff (max vs sum): -76
 | 2023-10-30 | 4.86 | - | 532 | 794 |
 | 2023-10-31 | 4.86 | - | 532 | 795 |
 | 2023-11-03 | 4.86 | - | 533 | 797 |
+| 2023-11-05 | 4.86 | - | 533 | 798 |

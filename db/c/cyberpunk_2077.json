@@ -14720,9 +14720,9 @@
       "Count": 12416
     }
   ],
-  "EOS_Progressed": 895356,
+  "EOS_Progressed": 895367,
   "EOS_Completed": 2746,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37235,6 +37235,11 @@
       "Time": "2023-11-05T13:09:47.4730444+00:00",
       "NumProgressed": 895356,
       "NumCompleted": 2746
+    },
+    {
+      "Time": "2023-11-05T14:20:06.469313+00:00",
+      "NumProgressed": 895367,
+      "NumCompleted": 2746
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37319,7 +37324,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "Gunslinger",
@@ -37421,9 +37426,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2686
     },
     {
       "ID": "Specialist",
@@ -37765,9 +37770,9 @@
       "ID": "DirtyWork",
       "SetID": "23nboa5",
       "Name": "Dirty Deeds",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "EasyComeEasyGo",
@@ -37782,21 +37787,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895356,
+      "Progressed": 895367,
       "Completed": 2746
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23979,
+      "Progressed": 23990,
       "Completed": 10189
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-05T13:02:55.2282278+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:09:47.473044+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:20:06.4693125+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:02:55.2282284+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:09:47.4732011+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:10:58.4883818+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:20:06.469493+00:00"
 }

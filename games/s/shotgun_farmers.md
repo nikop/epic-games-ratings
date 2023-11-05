@@ -9,7 +9,7 @@
 | Triple Kill | 61.00% | ~199 |
 | Aspairagus | 60.00% | ~166 |
 | No Asperascope | 57.00% | ~186 |
-| Survivor | 56.00% | ~155 |
+| Survivor | 57.00% | ~158 |
 | Cornivore | 54.00% | ~177 |
 | I Believe I Can Fly | 49.00% | ~160 |
 | No Diggity | 44.00% | ~122 |

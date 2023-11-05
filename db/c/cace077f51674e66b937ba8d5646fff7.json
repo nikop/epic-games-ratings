@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
     "PcReleaseDate": "2022-04-06T13:00:00+00:00",
@@ -904,9 +904,9 @@
       "ID": "ENEMY_ARCADE_3",
       "SetID": "50pdlpn",
       "Name": "Arcade - Federic, Norman, Vanunu",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ENEMY_ARCADE_30",
@@ -928,9 +928,9 @@
       "ID": "ENEMY_ARCADE_4",
       "SetID": "50pdlpn",
       "Name": "Arcade - Khalil the Grim Ant",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ENEMY_ARCADE_5",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:10:23.688025+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:20:38.0730624+00:00",
   "LastUpdate_AppInfo": "2023-10-30T21:57:18.2576551+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:02:31.6150494+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:10:23.6880772+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:09:08.4351057+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:20:38.0731309+00:00"
 }

@@ -7,10 +7,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 1.00% | ~8,954 |
-| Gun Fu | 0.70% | ~6,267 |
+| Gun Fu | 0.70% | ~6,268 |
 | Relic Ruler | 0.50% | ~120 |
 | Full Body Conversion | 0.30% | ~2,686 |
 | Right Back At Ya | 0.30% | ~2,686 |
+| Stanislavski's Method | 0.30% | ~2,686 |
 | True Soldier | 0.30% | ~2,686 |
 | All the President's Men | 0.30% | ~72 |
 | Arachnophobia | 0.30% | ~72 |
@@ -19,7 +20,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.20% | ~1,791 |
 | The Quick and the Dead | 0.20% | ~1,791 |
 | Life of the Road | 0.20% | ~1,791 |
-| Stanislavski's Method | 0.20% | ~1,791 |
 | The Hermit | 0.20% | ~1,791 |
 | The High Priestess | 0.20% | ~1,791 |
 | The Lovers | 0.20% | ~1,791 |
@@ -29,6 +29,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
 | Spin Doctor | 0.20% | ~48 |
+| Dirty Deeds | 0.20% | ~48 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | To Protect and Serve | 0.10% | ~895 |
@@ -61,7 +62,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Swords | 0.10% | ~24 |
 | King of Wands | 0.10% | ~24 |
 | The Tower | 0.10% | ~24 |
-| Dirty Deeds | 0.10% | ~24 |
 | Easy Come, Easy Go | 0.10% | ~24 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,356 (Ranked 15)  
+Progressed: 895,367 (Ranked 15)  
 Completed: 2,746 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,746 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,356 | 2,746 |
+| 2023-11-05 | 895,367 | 2,746 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 342,984 (Ranked 10)  

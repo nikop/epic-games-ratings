@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -900,9 +900,9 @@
       "ID": "ACHIEVEMENT_ID_15",
       "SetID": "c504de6",
       "Name": "Outdoor Decorator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_16",
@@ -1203,8 +1203,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:07:37.6690622+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:18:12.5557614+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.6110408+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:03:50.4418442+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:07:37.6691108+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:14:19.5514434+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:18:12.5558011+00:00"
 }

@@ -27,6 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.40% | ~102 |
 | Fight the way you practice | 0.40% | ~102 |
 | Scareless | 0.30% | ~2,149 |
+| Dance of the Praying Mantis | 0.30% | ~2,149 |
 | Qi Gong: Mind | 0.30% | ~2,149 |
 | I know Kung-Fu | 0.30% | ~2,149 |
 | Old Child | 0.30% | ~2,149 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.20% | ~1,432 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,432 |
 | Detective Story | 0.20% | ~1,432 |
-| Dance of the Praying Mantis | 0.20% | ~1,432 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,432 |
 | Sword Stained With Blood | 0.20% | ~1,432 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~25 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,192 (Ranked 20)  
+Progressed: 716,194 (Ranked 20)  
 Completed: 12,932 (1.81%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 12,932 (1.81%) (Ranked 124)
 | 2023-11-02 | 716,120 | 12,930 |
 | 2023-11-03 | 716,149 | 12,930 |
 | 2023-11-04 | 716,177 | 12,931 |
-| 2023-11-05 | 716,192 | 12,932 |
+| 2023-11-05 | 716,194 | 12,932 |
 ## Awards
 Max (Great Boss Battles): 6,759  (Ranked 56)  
 Sum: 11,800 (Ranked 82)  

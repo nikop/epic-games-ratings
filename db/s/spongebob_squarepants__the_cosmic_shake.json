@@ -2,9 +2,9 @@
   "ID": "da36711940d4460da57d8d6ad67236a4",
   "Name": "SpongeBob SquarePants: The Cosmic Shake",
   "ProductSlug": "spongebob-squarepants-the-cosmic-shake",
-  "Ranking_EOS_Progress": 484,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-01-31T18:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 37,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 10.81,
   "EosHistory": [
@@ -560,8 +560,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6900209+00:00",
   "FirstSeenAchievements": "2023-10-19T10:03:36.1362523+00:00",
   "LastChanged": "2023-03-31T05:57:06.6900211+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:06:40.7204278+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:17:22.0065572+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:40.5894074+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:03:43.382465+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:06:40.7204943+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:13:57.93472+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:17:22.0065933+00:00"
 }

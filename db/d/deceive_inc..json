@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18778,
+  "EOS_Progressed": 18780,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12643,6 +12643,11 @@
       "Time": "2023-11-05T11:04:45.5945167+00:00",
       "NumProgressed": 18778,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-05T14:18:51.860266+00:00",
+      "NumProgressed": 18780,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12654,7 +12659,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5633
+      "UsersEstimate": 5634
     },
     {
       "ID": "0002",
@@ -12670,7 +12675,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "0004",
@@ -12742,7 +12747,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "0013",
@@ -12758,7 +12763,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "0015",
@@ -12838,7 +12843,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "0025",
@@ -12854,7 +12859,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "0027",
@@ -12918,7 +12923,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "0035",
@@ -12941,7 +12946,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18778,
+      "Progressed": 18780,
       "Completed": 4
     }
   ],
@@ -12949,8 +12954,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-05T13:08:22.2901302+00:00",
+  "LastChanged_Achievements": "2023-11-05T14:18:51.8602656+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:01:21.0564332+00:00",
-  "LastUpdate_Achievements": "2023-11-05T13:08:22.2902229+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:02:25.1169202+00:00",
+  "LastUpdate_Achievements": "2023-11-05T14:18:51.8603922+00:00"
 }

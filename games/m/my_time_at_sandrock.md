@@ -6,63 +6,63 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 200.00% | ~424 |
+| Adept Assembler | 202.00% | ~428 |
 | Iron Chef | 197.00% | ~418 |
-| Greeno-B-Gone | 109.00% | ~231 |
-| Your Especially Earned Trajectory | 83.00% | ~176 |
-| Can We Keep It? | 52.00% | ~110 |
+| Greeno-B-Gone | 110.00% | ~233 |
+| Your Especially Earned Trajectory | 84.00% | ~178 |
+| Can We Keep It? | 53.00% | ~112 |
 | No Mountain Wide Enough | 50.00% | ~106 |
-| On that Grindset | 44.00% | ~93 |
+| On that Grindset | 45.00% | ~95 |
 | My Time Mansion | 38.00% | ~81 |
+| Yakmel Whisperer | 31.00% | ~66 |
 | Happier-est Place on Earth | 30.00% | ~64 |
-| Yakmel Whisperer | 30.00% | ~64 |
-| Mole Masher | 29.00% | ~61 |
-| Pack Mule | 28.00% | ~59 |
-| Financially Secure | 28.00% | ~59 |
+| Mole Masher | 30.00% | ~64 |
+| Pack Mule | 29.00% | ~61 |
+| Financially Secure | 29.00% | ~61 |
 | Call Me Fishmael | 28.00% | ~59 |
+| Anti-Santa | 27.00% | ~57 |
 | You Don't Win Friends With Salad | 27.00% | ~57 |
-| Anti-Santa | 26.00% | ~55 |
+| Knowledge is Power | 26.00% | ~55 |
+| Better Late than Never | 26.00% | ~55 |
 | Diamonds are Forever | 26.00% | ~55 |
-| Knowledge is Power | 25.00% | ~53 |
 | Finishing Touches | 25.00% | ~53 |
-| Better Late than Never | 25.00% | ~53 |
 | I Do! | 25.00% | ~53 |
-| Officially Official | 21.00% | ~45 |
+| Officially Official | 22.00% | ~47 |
 | Jewel of the Eufaula | 19.00% | ~40 |
-| Big Game Hunter | 17.00% | ~36 |
+| Big Game Hunter | 18.00% | ~38 |
+| Got Served | 18.00% | ~38 |
 | What Plants Crave | 17.00% | ~36 |
-| Got Served | 17.00% | ~36 |
+| Unboxing | 17.00% | ~36 |
 | First Love | 16.00% | ~34 |
-| Unboxing | 16.00% | ~34 |
 | Panda-kin | 15.00% | ~32 |
-| Chatterbox | 14.00% | ~30 |
+| Chatterbox | 15.00% | ~32 |
+| One of the Cool Kids | 13.00% | ~28 |
 | He Can Spin A Yarn... | 12.00% | ~25 |
-| One of the Cool Kids | 12.00% | ~25 |
 | Who Ya Gonna Call...? | 10.00% | ~21 |
 | Waste Not Want Not | 9.00% | ~19 |
+| Newton | 9.00% | ~19 |
 | Jack of All Trades | 8.00% | ~17 |
 | Bridging the Gap | 8.00% | ~17 |
 | Martle's Dream | 8.00% | ~17 |
 | Lifeline Pipeline | 8.00% | ~17 |
 | Cardistry | 8.00% | ~17 |
 | Do Your Part | 8.00% | ~17 |
-| Newton | 8.00% | ~17 |
 | Elementary, My Dear | 7.00% | ~15 |
 | Pro Gamer | 7.00% | ~15 |
 | Just What I Always Wanted! | 7.00% | ~15 |
 | Commissions, commissions...! | 6.00% | ~13 |
 | Time Flies | 5.00% | ~11 |
+| Kind of a Big Deal | 5.00% | ~11 |
 | Santa In Training | 5.00% | ~11 |
+| It Belongs in a Museum! | 5.00% | ~11 |
 | Builder of the Month | 4.00% | ~8 |
-| Kind of a Big Deal | 4.00% | ~8 |
+| Got the Flow Back | 4.00% | ~8 |
+| Got the Receipt? | 4.00% | ~8 |
 | Sandrunning Speedster | 4.00% | ~8 |
-| It Belongs in a Museum! | 4.00% | ~8 |
 | It's High Noon... | 3.00% | ~6 |
-| Got the Flow Back | 3.00% | ~6 |
-| Got the Receipt? | 3.00% | ~6 |
 | Strong Arms | 2.00% | ~4 |
 | Sandrock's Hottest Club | 2.00% | ~4 |
-| Sepia Toned Memories | 0.50% | ~1 |
+| Sepia Toned Memories | 0.90% | ~2 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |

@@ -31,10 +31,10 @@ Rating: 4.57 (Ranked 467)
 | Defender | 21.00% | ~6 |
 | Pandora's box | 21.00% | ~6 |
 | Ghost hunter | 21.00% | ~6 |
+| Peacekeeper | 21.00% | ~6 |
 | Fence | 21.00% | ~6 |
 | Master detective | 21.00% | ~6 |
 | Little hero | 18.00% | ~5 |
-| Peacekeeper | 18.00% | ~5 |
 | Safecracker | 18.00% | ~5 |
 | Freedom fighter | 14.00% | ~4 |
 | Showdown | 14.00% | ~4 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 467)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 501)  
+Progressed: 28 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
