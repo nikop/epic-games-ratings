@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,7 +577,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3824,
+  "EOS_Progressed": 3825,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -7692,6 +7692,11 @@
       "Time": "2023-11-04T20:04:51.648314+00:00",
       "NumProgressed": 3824,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-05T03:06:00.4968111+00:00",
+      "NumProgressed": 3825,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7727,7 +7732,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -7735,7 +7740,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -7743,7 +7748,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -7751,7 +7756,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -7783,7 +7788,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7839,7 +7844,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7911,7 +7916,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7919,7 +7924,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -7927,7 +7932,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8039,7 +8044,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8095,7 +8100,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8175,7 +8180,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8270,13 +8275,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3775,
+      "Progressed": 3776,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3824,
+      "Progressed": 3825,
       "Completed": 11
     }
   ],
@@ -8284,8 +8289,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:26:44.2854664+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:06:00.4968104+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:23:44.0526034+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:26:44.2855905+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:03:04.4144657+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:06:00.4969518+00:00"
 }

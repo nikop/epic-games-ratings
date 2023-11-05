@@ -7,7 +7,7 @@ Rating: 4.54 (Ranked 521)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~383 |
 | Pork Chopped | 0.80% | ~306 |
-| One of Us | 0.60% | ~230 |
+| One of Us | 0.70% | ~268 |
 | Dr. Reed, I Presume? | 0.20% | ~1,426 |
 | Git Gutte! | 0.20% | ~1,426 |
 | Anger Management | 0.20% | ~1,426 |
@@ -18,7 +18,9 @@ Rating: 4.54 (Ranked 521)
 | Friends Like These | 0.20% | ~1,426 |
 | Hotel California | 0.20% | ~1,426 |
 | Apex Predator | 0.20% | ~1,426 |
+| Stacking the Deck | 0.20% | ~1,426 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,426 |
+| This is My Weapon | 0.20% | ~1,426 |
 | Welcome To Hell-A | 0.20% | ~1,426 |
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
@@ -44,12 +46,10 @@ Rating: 4.54 (Ranked 521)
 | I Am the Resurrection | 0.10% | ~713 |
 | Down with the Sickness | 0.10% | ~713 |
 | Sharpest Tool in the Box | 0.10% | ~713 |
-| Stacking the Deck | 0.10% | ~713 |
 | Survival Skills | 0.10% | ~713 |
 | Max Headroom | 0.10% | ~713 |
 | Go, Bobcats! | 0.10% | ~713 |
 | Our True Nature | 0.10% | ~713 |
-| This is My Weapon | 0.10% | ~713 |
 | Variety is the Spice of Death | 0.10% | ~713 |
 | Rising Star | 0.10% | ~713 |
 | Bucket List | 0.10% | ~713 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,752 (Ranked 21)  
+Progressed: 712,769 (Ranked 21)  
 Completed: 2,328 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2,328 (0.33%) (Ranked 216)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 712,752 | 2,328 |
+| 2023-11-05 | 712,769 | 2,328 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,586 (Ranked 89)  

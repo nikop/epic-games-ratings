@@ -2,9 +2,9 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1421,6 +1421,11 @@
       "Time": "2023-10-30T01:51:32.3920693+00:00",
       "NumProgressed": 326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T03:05:18.0736821+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1480,7 +1485,7 @@
       "Name": "First Blood",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_first_harvest",
@@ -1488,7 +1493,7 @@
       "Name": "Seeds of War",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1504,7 +1509,7 @@
       "Name": "Drinking Problem",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -1576,7 +1581,7 @@
       "Name": "Skin Of Your Teeth",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -1768,7 +1773,7 @@
       "Name": "Carrocketeer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_x_victims_using_shotgun",
@@ -1776,7 +1781,7 @@
       "Name": "Cornivore",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ach_all_koth_points",
@@ -1808,7 +1813,7 @@
       "Name": "Bouncemato",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_kill_pistol_with_pistol",
@@ -1816,7 +1821,7 @@
       "Name": "Quick-Draw Pod",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -1824,7 +1829,7 @@
       "Name": "Oh My Gourd",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_perfect",
@@ -1894,9 +1899,9 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_waves_20",
@@ -1910,9 +1915,9 @@
       "ID": "ach_waves_30",
       "SetID": "bf10c8p",
       "Name": "Professional Survivor",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_waves_40",
@@ -1952,7 +1957,7 @@
       "Name": "No Diggity",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -2023,13 +2028,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 2
     }
   ],
@@ -2037,8 +2042,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:26:02.0278127+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:05:18.0736814+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:19.3046873+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:18:02.7691544+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:26:02.0279061+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:57:29.2400343+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:05:18.0738188+00:00"
 }

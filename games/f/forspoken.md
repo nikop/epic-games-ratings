@@ -5,7 +5,7 @@ Rating: 4.16 (Ranked 930)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 10.00% | ~4,242 |
+| Attachments | 10.00% | ~4,243 |
 | Unlocked Potential | 9.00% | ~3,818 |
 | Tinkerer | 7.00% | ~2,970 |
 | Knock 'Em Dead | 7.00% | ~2,970 |
@@ -22,12 +22,12 @@ Rating: 4.16 (Ranked 930)
 | The Interloper | 3.00% | ~1,273 |
 | Hop, Step, Jump | 3.00% | ~1,273 |
 | Endless Runner | 3.00% | ~1,273 |
-| What Must Be Done | 2.00% | ~848 |
-| Might and Main | 2.00% | ~848 |
-| Damned If You Do... | 2.00% | ~848 |
-| Explorer: Pathfinder | 2.00% | ~848 |
-| Shocker | 2.00% | ~848 |
-| From Every Angle | 2.00% | ~848 |
+| What Must Be Done | 2.00% | ~849 |
+| Might and Main | 2.00% | ~849 |
+| Damned If You Do... | 2.00% | ~849 |
+| Explorer: Pathfinder | 2.00% | ~849 |
+| Shocker | 2.00% | ~849 |
+| From Every Angle | 2.00% | ~849 |
 | The Hue of Blue | 1.00% | ~424 |
 | The Truth Will Out | 1.00% | ~424 |
 | Breaking Point | 1.00% | ~424 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 930)
 | Remembrance | 0.10% | ~42 |
 | Cat Person | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,425 (Ranked 115)  
+Progressed: 42,427 (Ranked 115)  
 Completed: 3 (0.01%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 3 (0.01%) (Ranked 319)
 | 2023-11-02 | 42,393 | 3 |
 | 2023-11-03 | 42,405 | 3 |
 | 2023-11-04 | 42,423 | 3 |
-| 2023-11-05 | 42,425 | 3 |
+| 2023-11-05 | 42,427 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 493)  
 Sum: 29 (Ranked 510)  

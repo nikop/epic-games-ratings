@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7218,
+  "EOS_Progressed": 7219,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -8190,6 +8190,11 @@
       "Time": "2023-11-05T01:52:23.6979759+00:00",
       "NumProgressed": 7218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T03:06:12.8701526+00:00",
+      "NumProgressed": 7219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8233,7 +8238,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8241,7 +8246,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Control_All_Relics",
@@ -8305,7 +8310,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "First_Race_Met",
@@ -8313,7 +8318,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5197
+      "UsersEstimate": 5198
     },
     {
       "ID": "First_Ship_Designed",
@@ -8337,7 +8342,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8393,7 +8398,7 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Level_5_Ship",
@@ -8505,7 +8510,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8521,7 +8526,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8543,9 +8548,9 @@
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 361
     },
     {
       "ID": "Win_As_Altarian",
@@ -8697,7 +8702,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Win_Conquest",
@@ -8776,15 +8781,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7218,
+      "Progressed": 7219,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:26:54.0613382+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:06:12.8701519+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:22:12.4984275+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:26:54.0615047+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:01:35.0915887+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:06:12.8702743+00:00"
 }

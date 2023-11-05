@@ -628,17 +628,17 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 70,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EpicACHV_8",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:26:29.4001279+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:05:45.3458327+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.6715429+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:19:12.3242322+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:26:29.4001501+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:58:36.7815663+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:05:45.3458494+00:00"
 }

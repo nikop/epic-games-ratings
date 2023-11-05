@@ -3,8 +3,8 @@
   "Name": "Poosh XL",
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_Completed": 138,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 148,
+  "EOS_Progressed": 149,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.35,
+  "EOS_Completed_Percentage": 1.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -707,6 +707,11 @@
       "Time": "2023-10-28T01:43:55.3901877+00:00",
       "NumProgressed": 148,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-05T03:08:20.357256+00:00",
+      "NumProgressed": 149,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -822,7 +827,7 @@
       "Name": "Obtained 50 PowerUps",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Poosh Past 10000",
@@ -838,7 +843,7 @@
       "Name": "Pooshed Past 2500",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Poosh Past 5000",
@@ -877,13 +882,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 148,
+      "Progressed": 149,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:29:01.0823994+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:08:20.3572554+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.3348467+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:21:33.1946645+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:29:01.0824206+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:00:55.4552307+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:08:20.357278+00:00"
 }

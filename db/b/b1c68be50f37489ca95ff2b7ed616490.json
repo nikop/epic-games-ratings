@@ -304,9 +304,9 @@
       "ID": "23",
       "SetID": "6bgoh8g",
       "Name": "He is the doctor you\u0027re looking for",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "24",
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:27:10.9317724+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:06:30.0319637+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:11.4303635+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:24:13.3284387+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:27:10.9317953+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:03:32.5757534+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:06:30.0319886+00:00"
 }

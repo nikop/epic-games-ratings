@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -489,6 +489,11 @@
       "Time": "2023-11-02T12:08:43.0907248+00:00",
       "NumProgressed": 319,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-05T03:04:21.1645765+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -532,7 +537,7 @@
       "Name": "Second Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "EGLE_FREED",
@@ -627,7 +632,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 4
     }
   ],
@@ -635,8 +640,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:25:03.5058759+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:04:21.1645759+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.2595421+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:20:21.0243996+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:25:03.5058959+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:59:44.4419264+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:04:21.1645949+00:00"
 }

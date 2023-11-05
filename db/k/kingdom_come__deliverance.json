@@ -8337,9 +8337,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807180,
+  "EOS_Progressed": 807182,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30587,6 +30587,11 @@
       "Time": "2023-11-05T02:29:09.6085455+00:00",
       "NumProgressed": 807180,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-05T03:08:28.8737757+00:00",
+      "NumProgressed": 807182,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30710,7 +30715,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201795
+      "UsersEstimate": 201796
     },
     {
       "ID": "Chivalrous",
@@ -30798,7 +30803,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185651
+      "UsersEstimate": 185652
     },
     {
       "ID": "Fighter",
@@ -30918,7 +30923,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104933
+      "UsersEstimate": 104934
     },
     {
       "ID": "Judas",
@@ -31253,15 +31258,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807180,
+      "Progressed": 807182,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-04T19:59:35.9074833+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:29:09.6085449+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:08:28.8737751+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:21:17.779853+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:29:09.6089569+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:00:40.2125663+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:08:28.8740512+00:00"
 }

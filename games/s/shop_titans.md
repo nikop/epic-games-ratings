@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 989)  
+Rating: 3.99 (Ranked 990)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,11 +43,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 1.00% | ~1,386 |
 | Did we pack lunch? | 1.00% | ~1,386 |
 | Arcane Industries | 1.00% | ~1,386 |
-| Tax not Included | 0.90% | ~1,247 |
-| For the Hoard! | 0.90% | ~1,247 |
-| Trash to Treasure | 0.90% | ~1,247 |
-| Royal Ransom | 0.90% | ~1,247 |
-| Magical Harmony | 0.90% | ~1,247 |
+| Tax not Included | 0.90% | ~1,248 |
+| For the Hoard! | 0.90% | ~1,248 |
+| Trash to Treasure | 0.90% | ~1,248 |
+| Royal Ransom | 0.90% | ~1,248 |
+| Magical Harmony | 0.90% | ~1,248 |
 | A Notch Above the Rest | 0.80% | ~1,109 |
 | The King's Caprice | 0.80% | ~1,109 |
 | Big Game Hunting | 0.80% | ~1,109 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,611 (Ranked 78)  
+Progressed: 138,612 (Ranked 78)  
 Completed: 178 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 178 (0.13%) (Ranked 255)
 | 2023-11-02 | 138,491 | 178 |
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
-| 2023-11-05 | 138,611 | 178 |
+| 2023-11-05 | 138,612 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,501 (Ranked 52)  

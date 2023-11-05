@@ -13,8 +13,8 @@ Rating: 4.64 (Ranked 329)
 | A Method To His Madness | 54.00% | ~430 |
 | History Check | 53.00% | ~422 |
 | The New World | 50.00% | ~398 |
+| Open Sesame | 49.00% | ~391 |
 | Gaze Into The Abyss | 48.00% | ~383 |
-| Open Sesame | 48.00% | ~383 |
 | Sticky Fingers | 48.00% | ~383 |
 | Knives Out | 48.00% | ~383 |
 | Land, Ho! | 48.00% | ~383 |

@@ -5,20 +5,20 @@ Rating: 4.24 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,723 |
+| Rigged And Ready | 80.00% | ~1,724 |
 | Don't I Know You...? | 77.00% | ~1,659 |
 | Jailbreak | 66.00% | ~1,422 |
 | HEADSHOT! | 38.00% | ~819 |
 | Suited and Booted | 38.00% | ~819 |
-| Sleeping With The Fishes | 36.00% | ~775 |
+| Sleeping With The Fishes | 36.00% | ~776 |
 | Overheated | 30.00% | ~646 |
 | High Performance | 30.00% | ~646 |
 | Powered Up | 28.00% | ~603 |
 | Studied The Blade | 24.00% | ~517 |
-| Home Invasion | 23.00% | ~495 |
+| Home Invasion | 23.00% | ~496 |
 | Luminary | 22.00% | ~474 |
 | It's a Trap | 22.00% | ~474 |
-| True Survivor | 21.00% | ~452 |
+| True Survivor | 21.00% | ~453 |
 | Offensive Defense | 20.00% | ~431 |
 | Shocking | 20.00% | ~431 |
 | Court Martial | 19.00% | ~409 |
@@ -32,10 +32,10 @@ Rating: 4.24 (Ranked 875)
 | Where It All Began | 13.00% | ~280 |
 | Risk Tolerant | 13.00% | ~280 |
 | What A Catchy Song | 13.00% | ~280 |
-| Corrupted Beauty | 12.00% | ~258 |
-| Marked For Success | 12.00% | ~258 |
-| Sorry, Didn't See You There | 12.00% | ~258 |
-| Triplets | 10.00% | ~215 |
+| Corrupted Beauty | 12.00% | ~259 |
+| Marked For Success | 12.00% | ~259 |
+| Sorry, Didn't See You There | 12.00% | ~259 |
+| Triplets | 10.00% | ~216 |
 | Denying Prophecy | 9.00% | ~194 |
 | Stimulating The Local Economy | 9.00% | ~194 |
 | A Little Banged Up | 8.00% | ~172 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 875)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,154 (Ranked 212)  
+Progressed: 2,155 (Ranked 212)  
 Completed: 13 (0.60%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,6 +213,7 @@ Completed: 13 (0.60%) (Ranked 179)
 | 2023-11-02 | 2,131 | 13 |
 | 2023-11-03 | 2,143 | 13 |
 | 2023-11-04 | 2,154 | 13 |
+| 2023-11-05 | 2,155 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

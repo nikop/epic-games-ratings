@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 78,
@@ -6871,9 +6871,9 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138611,
+  "EOS_Progressed": 138612,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27146,6 +27146,11 @@
       "Time": "2023-11-05T01:54:13.5382714+00:00",
       "NumProgressed": 138611,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-05T03:08:51.1666439+00:00",
+      "NumProgressed": 138612,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27245,7 +27250,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "bigsale03",
@@ -27333,7 +27338,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "chest03",
@@ -27613,7 +27618,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "gemsspent",
@@ -27653,7 +27658,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "gold05",
@@ -27981,7 +27986,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "typeunlock01",
@@ -28052,15 +28057,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138611,
+      "Progressed": 138612,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-04T19:03:21.4712636+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:29:31.974087+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:08:51.1666433+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:23:32.6818769+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:29:31.9743801+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:02:53.7047849+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:08:51.1669351+00:00"
 }

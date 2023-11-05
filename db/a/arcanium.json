@@ -4,7 +4,7 @@
   "ProductSlug": "arcanium-ab22e4",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-12-15T07:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:27.5226342+00:00",
   "LastChanged": "2023-03-31T05:57:27.5226343+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:38.2456674+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:24:03.4819181+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:28:13.1993743+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:03:23.1436082+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:07:32.4365406+00:00"
 }

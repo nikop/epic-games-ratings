@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11022,
+  "EOS_Progressed": 11025,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8929,6 +8929,11 @@
       "Time": "2023-11-05T02:29:41.8964169+00:00",
       "NumProgressed": 11022,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-05T03:09:00.9026521+00:00",
+      "NumProgressed": 11025,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -8989,7 +8994,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "a_19",
@@ -9013,7 +9018,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "a_21",
@@ -9021,7 +9026,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "a_22",
@@ -9188,7 +9193,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11022,
+      "Progressed": 11025,
       "Completed": 10
     }
   ],
@@ -9196,8 +9201,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:29:41.8964163+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:09:00.9026515+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:20:51.9535929+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:29:41.8964909+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:00:14.2770672+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:09:00.9027256+00:00"
 }

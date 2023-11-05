@@ -3,8 +3,8 @@
   "Name": "Lost Ruins",
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:32.3628433+00:00",
@@ -1034,6 +1034,11 @@
       "Time": "2023-11-03T21:09:31.6385829+00:00",
       "NumProgressed": 487,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T03:10:17.5093511+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1059,9 +1064,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "Assassin",
@@ -1301,7 +1306,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TheFallen",
@@ -1325,7 +1330,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "TreasureHunter",
@@ -1364,7 +1369,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 1
     }
   ],
@@ -1372,8 +1377,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:30:58.5054558+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:10:17.5093504+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:29.5957213+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:18:58.366169+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:30:58.5054961+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:58:24.0507839+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:10:17.5094224+00:00"
 }

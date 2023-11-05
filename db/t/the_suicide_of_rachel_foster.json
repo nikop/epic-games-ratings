@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -257,11 +257,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1596,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.58,
+  "EOS_Completed_Percentage": 4.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -3187,6 +3187,11 @@
       "Time": "2023-11-05T01:52:23.03828+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-05T03:06:11.9032045+00:00",
+      "NumProgressed": 1596,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3206,7 +3211,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3246,7 +3251,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3262,7 +3267,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3285,15 +3290,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1596,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-09-26T03:58:28.0006108+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:26:53.0863828+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:06:11.9032039+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.3333831+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:18:52.7726065+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:26:53.0864105+00:00"
+  "LastUpdate_Ratings": "2023-11-05T02:58:18.3147463+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:06:11.9032337+00:00"
 }

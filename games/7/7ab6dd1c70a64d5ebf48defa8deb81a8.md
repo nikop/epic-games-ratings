@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Break Out | 48.00% | ~56 |
 | Trinity | 25.00% | ~29 |
-| Find Allies | 21.00% | ~24 |
-| Fashion Victim | 21.00% | ~24 |
+| Find Allies | 21.00% | ~25 |
+| Fashion Victim | 21.00% | ~25 |
 | Shatter Them All | 19.00% | ~22 |
 | Scholar | 19.00% | ~22 |
 | Powerful Allies | 18.00% | ~21 |
@@ -18,7 +18,7 @@
 | Geared Up | 14.00% | ~16 |
 | Stone Collection | 13.00% | ~15 |
 | Tributes of Caladrias | 12.00% | ~14 |
-| Essence Blow | 9.00% | ~10 |
+| Essence Blow | 9.00% | ~11 |
 | Airborne | 8.00% | ~9 |
 | Alchemist | 6.00% | ~7 |
 | Miner | 6.00% | ~7 |
@@ -27,7 +27,7 @@
 | Calm before the Storm | 4.00% | ~5 |
 | To Battle | 4.00% | ~5 |
 | Godslayer | 4.00% | ~5 |
-| A Queen's Tale | 3.00% | ~3 |
+| A Queen's Tale | 3.00% | ~4 |
 | Clear Sight | 2.00% | ~2 |
 | Slayer | 2.00% | ~2 |
 | Flawless Victory | 2.00% | ~2 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 394)  
-Completed: 1 (0.86%) (Ranked 165)  
+Progressed: 117 (Ranked 393)  
+Completed: 1 (0.85%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,4 +70,4 @@ Completed: 1 (0.86%) (Ranked 165)
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
 | 2023-11-04 | 115 | 1 |
-| 2023-11-05 | 116 | 1 |
+| 2023-11-05 | 117 | 1 |

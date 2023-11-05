@@ -2,9 +2,9 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -450,6 +450,11 @@
       "Time": "2023-11-05T01:56:22.8965103+00:00",
       "NumProgressed": 116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T03:10:14.5211866+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -469,7 +474,7 @@
       "Name": "Find Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_03",
@@ -581,7 +586,7 @@
       "Name": "Essence Blow",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_17",
@@ -653,7 +658,7 @@
       "Name": "Fashion Victim",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_26",
@@ -733,7 +738,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_38",
@@ -748,14 +753,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:30:55.4336189+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:10:14.5211856+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:21:08.8814147+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:30:55.4336604+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:00:31.6795929+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:10:14.5212224+00:00"
 }

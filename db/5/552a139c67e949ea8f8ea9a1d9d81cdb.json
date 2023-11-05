@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 872,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-11-05T02:26:11.6981283+00:00",
       "NumProgressed": 871,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T03:05:28.1241679+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1565,7 +1570,7 @@
       "Name": "Out of control",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1597,7 +1602,7 @@
       "Name": "Globetrotter",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1693,7 +1698,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1821,7 +1826,7 @@
       "Name": "Extra gear",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -1892,20 +1897,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 872,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 539,
-      "Completed": 539
+      "Progressed": 540,
+      "Completed": 540
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-05T02:26:11.6981276+00:00",
+  "LastChanged_Achievements": "2023-11-05T03:05:28.1241671+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:21:37.2137322+00:00",
-  "LastUpdate_Achievements": "2023-11-05T02:26:11.6981884+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:00:59.6042953+00:00",
+  "LastUpdate_Achievements": "2023-11-05T03:05:28.1242168+00:00"
 }

@@ -6,39 +6,39 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~37,549 |
-| Blood Moon | 73.00% | ~32,248 |
-| Path of the Necromancer | 66.00% | ~29,156 |
-| Chainbreaker - I | 60.00% | ~26,505 |
-| Cursed Creature | 57.00% | ~25,180 |
-| Extraction | 57.00% | ~25,180 |
-| Chainbreaker - II | 55.00% | ~24,296 |
-| Necromancer's Apprentice | 51.00% | ~22,529 |
-| Keeper of Keys | 47.00% | ~20,762 |
-| Distillation | 43.00% | ~18,995 |
+| Improvement | 85.00% | ~37,550 |
+| Blood Moon | 73.00% | ~32,249 |
+| Path of the Necromancer | 66.00% | ~29,157 |
+| Chainbreaker - I | 60.00% | ~26,506 |
+| Cursed Creature | 57.00% | ~25,181 |
+| Extraction | 57.00% | ~25,181 |
+| Chainbreaker - II | 55.00% | ~24,297 |
+| Necromancer's Apprentice | 51.00% | ~22,530 |
+| Keeper of Keys | 47.00% | ~20,763 |
+| Distillation | 43.00% | ~18,996 |
 | Mountain King - I | 42.00% | ~18,554 |
 | Transmutation | 42.00% | ~18,554 |
-| Prepared Necromancer | 40.00% | ~17,670 |
-| Mountain King - II | 39.00% | ~17,228 |
-| Blind Rage | 38.00% | ~16,786 |
-| Mad Genius | 35.00% | ~15,461 |
+| Prepared Necromancer | 40.00% | ~17,671 |
+| Mountain King - II | 39.00% | ~17,229 |
+| Blind Rage | 38.00% | ~16,787 |
+| Mad Genius | 35.00% | ~15,462 |
 | Cannon Fodder - I | 34.00% | ~15,020 |
 | Soul of Lies | 34.00% | ~15,020 |
 | Bane of Mercenaries - I | 33.00% | ~14,578 |
-| Bane of Mercenaries - II | 31.00% | ~13,694 |
+| Bane of Mercenaries - II | 31.00% | ~13,695 |
 | Cannon Fodder - II | 29.00% | ~12,811 |
 | Shadow Between Worlds | 29.00% | ~12,811 |
-| Bane of Monsters | 28.00% | ~12,369 |
-| Chainbreaker - III | 28.00% | ~12,369 |
-| Revealed Secrets - I | 27.00% | ~11,927 |
+| Bane of Monsters | 28.00% | ~12,370 |
+| Chainbreaker - III | 28.00% | ~12,370 |
+| Revealed Secrets - I | 27.00% | ~11,928 |
 | Revealed Secrets - II | 25.00% | ~11,044 |
 | Blood Elemental | 24.00% | ~10,602 |
-| Unholy Bones | 23.00% | ~10,160 |
-| Lord of Fire | 23.00% | ~10,160 |
-| Uncommon Warrior | 23.00% | ~10,160 |
-| Cannon Fodder - III | 22.00% | ~9,718 |
-| Spiritual Attraction | 22.00% | ~9,718 |
-| Nightmare of the Humanity - I | 22.00% | ~9,718 |
+| Unholy Bones | 23.00% | ~10,161 |
+| Lord of Fire | 23.00% | ~10,161 |
+| Uncommon Warrior | 23.00% | ~10,161 |
+| Cannon Fodder - III | 22.00% | ~9,719 |
+| Spiritual Attraction | 22.00% | ~9,719 |
+| Nightmare of the Humanity - I | 22.00% | ~9,719 |
 | Nightmare of the Humanity - II | 21.00% | ~9,277 |
 | That Was Easy! | 20.00% | ~8,835 |
 | Silent Waters | 20.00% | ~8,835 |
@@ -47,8 +47,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Mage | 17.00% | ~7,510 |
 | Wild Hunger | 16.00% | ~7,068 |
 | Rage Concentrated | 16.00% | ~7,068 |
-| Mountain King - III | 15.00% | ~6,626 |
-| Rare Warrior | 15.00% | ~6,626 |
+| Mountain King - III | 15.00% | ~6,627 |
+| Rare Warrior | 15.00% | ~6,627 |
 | Grand Arena | 14.00% | ~6,185 |
 | Blood Madness | 13.00% | ~5,743 |
 | First Sacrifice | 13.00% | ~5,743 |
@@ -65,8 +65,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Arachnophobia | 8.00% | ~3,534 |
 | Revealed Secrets - III | 8.00% | ~3,534 |
 | Nightmare of the Humanity - III | 7.00% | ~3,092 |
-| Means of Recovery | 6.00% | ~2,650 |
-| Master of Magic | 6.00% | ~2,650 |
+| Means of Recovery | 6.00% | ~2,651 |
+| Master of Magic | 6.00% | ~2,651 |
 | Master of Destruction | 4.00% | ~1,767 |
 | Dungeon Queen | 3.00% | ~1,325 |
 | Mek Brothers | 3.00% | ~1,325 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~221 |
 | Renowned Researcher | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,175 (Ranked 112)  
+Progressed: 44,177 (Ranked 112)  
 Completed: 24 (0.05%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 24 (0.05%) (Ranked 296)
 | 2023-11-02 | 43,934 | 24 |
 | 2023-11-03 | 44,038 | 24 |
 | 2023-11-04 | 44,153 | 24 |
-| 2023-11-05 | 44,175 | 24 |
+| 2023-11-05 | 44,177 | 24 |
 ## Awards
 Max (Character Customization): 2,159  (Ranked 108)  
 Sum: 4,191 (Ranked 148)  
