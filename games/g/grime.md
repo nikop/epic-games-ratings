@@ -8,18 +8,18 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,270 |
 | Imprint | 4.00% | ~6,270 |
-| The Hunt | 3.00% | ~4,702 |
-| Ravenous | 3.00% | ~4,702 |
+| The Hunt | 3.00% | ~4,703 |
+| Ravenous | 3.00% | ~4,703 |
 | Weeper | 2.00% | ~3,135 |
 | Devourer | 2.00% | ~3,135 |
 | Scion | 1.00% | ~1,563 |
-| Harmless | 1.00% | ~1,567 |
-| Jawcrab | 1.00% | ~1,567 |
-| Jawstag | 1.00% | ~1,567 |
-| Feast | 1.00% | ~1,567 |
-| Silenced Whispers | 1.00% | ~1,567 |
-| Yank | 1.00% | ~1,567 |
-| Sharpened Vessel | 1.00% | ~1,567 |
+| Harmless | 1.00% | ~1,568 |
+| Jawcrab | 1.00% | ~1,568 |
+| Jawstag | 1.00% | ~1,568 |
+| Feast | 1.00% | ~1,568 |
+| Silenced Whispers | 1.00% | ~1,568 |
+| Yank | 1.00% | ~1,568 |
+| Sharpened Vessel | 1.00% | ~1,568 |
 | Watcher | 0.90% | ~1,411 |
 | Shapely | 0.80% | ~1,254 |
 | Glare | 0.80% | ~1,251 |
@@ -27,7 +27,7 @@ Number of Ratings: 46  (23.09.2022)
 | Host | 0.70% | ~1,094 |
 | Celebration | 0.70% | ~1,097 |
 | Predator | 0.70% | ~1,097 |
-| Hunt Down | 0.60% | ~940 |
+| Hunt Down | 0.60% | ~941 |
 | Artisan | 0.50% | ~784 |
 | Hush | 0.50% | ~784 |
 | Inevitable | 0.50% | ~784 |
@@ -41,8 +41,8 @@ Number of Ratings: 46  (23.09.2022)
 | Zygote | 0.30% | ~469 |
 | Listen | 0.30% | ~469 |
 | Proportions | 0.30% | ~470 |
-| Kinship | 0.20% | ~313 |
-| Weakness | 0.20% | ~313 |
+| Kinship | 0.20% | ~314 |
+| Weakness | 0.20% | ~314 |
 | Kin | 0.20% | ~313 |
 | Intensify | 0.20% | ~313 |
 | Spiral Heart | 0.10% | ~157 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,738 (Ranked 75)  
+Progressed: 156,754 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,19 +229,19 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
-| 2023-11-05 | 156,738 | 1 |
+| 2023-11-05 | 156,754 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 425)  
-Sum: 347 (Ranked 349)  
-Diff (max vs sum): 76  
+Sum: 348 (Ranked 348)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
 | This game has Unique Visuals | 48 |
 | This game has Quickly Understood Controls | 47 |
 | This game is Extremely Fun | 46 |
+| This game has Amazing Storytelling | 44 |
 | This game has Challenging Combat | 43 |
-| This game has Amazing Storytelling | 43 |
 | This game has Amazing Characters | 37 |
 | This game has a Creative Community | 33 |
 | This game has Diverse Characters | 20 |
@@ -380,4 +380,4 @@ Diff (max vs sum): 76
 | 2023-11-02 | 4.58 | - | 50 | 342 |
 | 2023-11-03 | 4.58 | - | 50 | 343 |
 | 2023-11-04 | 4.58 | - | 50 | 344 |
-| 2023-11-05 | 4.59 | - | 50 | 347 |
+| 2023-11-05 | 4.59 | - | 50 | 348 |

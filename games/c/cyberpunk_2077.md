@@ -33,6 +33,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.20% | ~48 |
 | King of Wands | 0.20% | ~48 |
 | Dirty Deeds | 0.20% | ~48 |
+| Easy Come, Easy Go | 0.20% | ~48 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
 | The Wandering Fool | 0.10% | ~895 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.10% | ~24 |
 | King of Swords | 0.10% | ~24 |
 | The Tower | 0.10% | ~24 |
-| Easy Come, Easy Go | 0.10% | ~24 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,390 (Ranked 15)  
+Progressed: 895,395 (Ranked 15)  
 Completed: 2,747 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,747 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,390 | 2,747 |
+| 2023-11-05 | 895,395 | 2,747 |
 ## Awards
 Max (Character Customization): 104,068  (Ranked 9)  
 Sum: 343,308 (Ranked 10)  

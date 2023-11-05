@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "aq_achievement_2",
       "SetID": "7jh86ne",
       "Name": "Through the woods",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "aq_achievement_20",
@@ -591,8 +591,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:09:02.2927743+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:18:56.0487876+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:54.7033586+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:58:54.3713501+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:09:02.2928067+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:07:03.8460569+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:18:56.0488456+00:00"
 }

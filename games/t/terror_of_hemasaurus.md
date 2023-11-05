@@ -9,7 +9,7 @@
 | Green-Bodied Monster | 60.00% | ~47 |
 | Chopper Stopper | 47.00% | ~37 |
 | Aerosolized | 42.00% | ~33 |
-| Monstrosity Atrocity | 37.00% | ~29 |
+| Monstrosity Atrocity | 38.00% | ~30 |
 | Test of Faith | 35.00% | ~27 |
 | Reign of Terror | 35.00% | ~27 |
 | Crushing All Cars | 24.00% | ~19 |

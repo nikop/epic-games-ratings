@@ -12,22 +12,22 @@
 | Short circuit | 53.00% | ~303 |
 | Curious | 42.00% | ~240 |
 | Everybody lies | 35.00% | ~200 |
-| Trick or Treat? | 23.00% | ~131 |
-| There is another way | 23.00% | ~131 |
-| Sysadmin | 21.00% | ~120 |
+| Trick or Treat? | 23.00% | ~132 |
+| There is another way | 23.00% | ~132 |
+| Sysadmin | 22.00% | ~126 |
 | Every little helps | 20.00% | ~114 |
 | The Walking Robot Among Us | 20.00% | ~114 |
-| Annoying | 19.00% | ~108 |
-| Hacker | 19.00% | ~108 |
-| He is just a child | 19.00% | ~108 |
+| Annoying | 19.00% | ~109 |
+| Hacker | 19.00% | ~109 |
+| He is just a child | 19.00% | ~109 |
 | Uncertain | 18.00% | ~103 |
 | Goody | 17.00% | ~97 |
 | Please oh pleeease! | 17.00% | ~97 |
-| Ace | 16.00% | ~91 |
-| Concrete painting | 16.00% | ~91 |
-| Found it! | 16.00% | ~91 |
-| Hipster | 16.00% | ~91 |
-| Not what it seems | 16.00% | ~91 |
+| Ace | 16.00% | ~92 |
+| Concrete painting | 16.00% | ~92 |
+| Found it! | 16.00% | ~92 |
+| Hipster | 16.00% | ~92 |
+| Not what it seems | 16.00% | ~92 |
 | That's much better! | 15.00% | ~86 |
 | Not as clumsy or random | 13.00% | ~74 |
 | Blade Runner | 10.00% | ~57 |
@@ -37,7 +37,7 @@
 | Accurate | 5.00% | ~29 |
 | Silent | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 282)  
+Progressed: 572 (Ranked 282)  
 Completed: 18 (3.15%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 18 (3.15%) (Ranked 92)
 | 2023-10-30 | 566 | 18 |
 | 2023-11-02 | 569 | 18 |
 | 2023-11-03 | 571 | 18 |
+| 2023-11-05 | 572 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

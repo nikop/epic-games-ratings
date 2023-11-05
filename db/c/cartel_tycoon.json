@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -2264,9 +2264,9 @@
       "ID": "rename-lieutenant",
       "SetID": "bed33dd",
       "Name": "I\u0027m Going To Call You Kitty",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 46
     },
     {
       "ID": "rob-village",
@@ -2328,8 +2328,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:05:42.6735867+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:33.5919987+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.696781+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:58:42.6568363+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:05:42.6736111+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:06:19.1738652+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:33.592026+00:00"
 }

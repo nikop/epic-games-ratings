@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~920 |
-| Spectre Inductee | 80.00% | ~791 |
+| Spectre Inductee | 81.00% | ~801 |
 | Medal of Exploration I | 73.00% | ~722 |
 | Recruit | 69.00% | ~682 |
 | Search and Rescue | 68.00% | ~673 |
@@ -20,9 +20,9 @@
 | Charismatic | 53.00% | ~524 |
 | Soldier | 52.00% | ~514 |
 | Medal of Exploration III | 48.00% | ~475 |
+| Soldier Ally | 48.00% | ~475 |
 | Asari Ally | 48.00% | ~475 |
 | Principled | 48.00% | ~475 |
-| Soldier Ally | 47.00% | ~465 |
 | Paramour I | 46.00% | ~455 |
 | Colonial Savior | 46.00% | ~455 |
 | Scientist | 45.00% | ~445 |
@@ -62,12 +62,12 @@
 | Agent | 31.00% | ~307 |
 | Revenge! | 31.00% | ~307 |
 | Driven | 31.00% | ~307 |
+| Focused | 30.00% | ~297 |
 | Cat's in the Cradle | 30.00% | ~297 |
 | Doppelganger | 30.00% | ~297 |
 | Treason | 30.00% | ~297 |
 | Digital Exorcist | 30.00% | ~297 |
 | Bringer of War | 30.00% | ~297 |
-| Focused | 29.00% | ~287 |
 | Friend or Foe | 29.00% | ~287 |
 | Mission Accomplished | 28.00% | ~277 |
 | Suicide Mission | 28.00% | ~277 |
@@ -80,21 +80,21 @@
 | Eye of the Hurricane | 26.00% | ~257 |
 | World Shaker | 26.00% | ~257 |
 | Weapon Specialist | 25.00% | ~247 |
+| Tunnel Rat | 25.00% | ~247 |
 | Liberator | 25.00% | ~247 |
 | Pathfinder | 24.00% | ~237 |
-| Tunnel Rat | 24.00% | ~237 |
 | Arbiter | 24.00% | ~237 |
 | Savior | 23.00% | ~227 |
 | Lost and Found | 23.00% | ~227 |
 | Paramour II | 22.00% | ~218 |
 | Party Crasher | 21.00% | ~208 |
 | Hard Target | 21.00% | ~208 |
+| Fact Finder | 21.00% | ~208 |
 | Problem Solver | 21.00% | ~208 |
 | Pyromaniac | 20.00% | ~198 |
 | Under Pressure | 20.00% | ~198 |
 | No One Left Behind | 20.00% | ~198 |
 | Saboteur | 20.00% | ~198 |
-| Fact Finder | 20.00% | ~198 |
 | Last Resort | 19.00% | ~188 |
 | Last Witness | 19.00% | ~188 |
 | Well Connected | 19.00% | ~188 |

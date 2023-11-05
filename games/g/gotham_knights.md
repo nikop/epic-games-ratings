@@ -5,24 +5,24 @@ Rating: 4.18 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,758 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,599 |
-| Loose Ends | 34.00% | ~25,839 |
-| To the Victor Go the Spoils | 28.00% | ~21,279 |
-| Knighthood | 27.00% | ~20,519 |
-| Get ReQ'd | 25.00% | ~18,999 |
-| Whispered Words | 25.00% | ~18,999 |
-| The Batman Family | 23.00% | ~17,479 |
-| Lock and Key | 22.00% | ~16,719 |
-| Something in the Clay | 21.00% | ~15,959 |
-| Quartzer Life Crisis | 21.00% | ~15,959 |
-| Working Hard or Harley Working? | 20.00% | ~15,199 |
-| Unstoppable Force | 20.00% | ~15,199 |
-| Bad Apples in Every Orchard | 20.00% | ~15,199 |
-| Snow Problem | 19.00% | ~14,439 |
-| The Show Mud Go On | 18.00% | ~13,679 |
-| From Inside Gotham's Walls | 18.00% | ~13,679 |
-| Protector of Gotham | 17.00% | ~12,919 |
+| First Step Into the Knight | 51.00% | ~38,762 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,601 |
+| Loose Ends | 34.00% | ~25,841 |
+| To the Victor Go the Spoils | 28.00% | ~21,281 |
+| Knighthood | 27.00% | ~20,521 |
+| Get ReQ'd | 25.00% | ~19,001 |
+| Whispered Words | 25.00% | ~19,001 |
+| The Batman Family | 23.00% | ~17,481 |
+| Lock and Key | 22.00% | ~16,721 |
+| Something in the Clay | 21.00% | ~15,961 |
+| Quartzer Life Crisis | 21.00% | ~15,961 |
+| Working Hard or Harley Working? | 20.00% | ~15,201 |
+| Unstoppable Force | 20.00% | ~15,201 |
+| Bad Apples in Every Orchard | 20.00% | ~15,201 |
+| Snow Problem | 19.00% | ~14,441 |
+| The Show Mud Go On | 18.00% | ~13,681 |
+| From Inside Gotham's Walls | 18.00% | ~13,681 |
+| Protector of Gotham | 17.00% | ~12,921 |
 | Universal Health Scare | 16.00% | ~12,160 |
 | In Your Element | 15.00% | ~11,400 |
 | Voiceless | 15.00% | ~11,400 |
@@ -61,13 +61,13 @@ Rating: 4.18 (Ranked 919)
 | That's Showbiz, Clayby | 0.50% | ~231 |
 | Hammer and Icicle | 0.40% | ~185 |
 | Renewable Enemy Source | 0.40% | ~185 |
-| Crime Is a Terrible Thing to Waste | 0.40% | ~185 |
 | Showdown Sovereign | 0.40% | ~185 |
+| Crime Is a Terrible Thing to Waste | 0.30% | ~139 |
 | The Cold, the Bad and the Ugly | 0.30% | ~139 |
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,997 (Ranked 97)  
+Progressed: 76,003 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 123 (0.16%) (Ranked 252)
 | 2023-11-02 | 75,782 | 122 |
 | 2023-11-03 | 75,870 | 122 |
 | 2023-11-04 | 75,946 | 123 |
-| 2023-11-05 | 75,997 | 123 |
+| 2023-11-05 | 76,003 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,907  (Ranked 98)  
 Sum: 4,922 (Ranked 137)  

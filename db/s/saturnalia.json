@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67912,
+  "EOS_Progressed": 67914,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14233,6 +14233,11 @@
       "Time": "2023-11-05T16:06:55.0105745+00:00",
       "NumProgressed": 67912,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-05T17:17:38.473407+00:00",
+      "NumProgressed": 67914,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -14252,7 +14257,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -14380,7 +14385,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -14403,7 +14408,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 67912,
+      "Progressed": 67914,
       "Completed": 18
     }
   ],
@@ -14411,8 +14416,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:06:55.0105741+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:17:38.4734062+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.3563968+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:59:40.7610961+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:06:55.0106702+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:10:29.8054865+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:17:38.4735842+00:00"
 }

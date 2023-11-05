@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -171,7 +171,7 @@
   "Tags": [],
   "EOS_Progressed": 7560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6373,9 +6373,9 @@
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 983
+      "UsersEstimate": 1058
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -6484,8 +6484,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:08:40.5277958+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:18:38.1599128+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:02:33.2668954+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:08:40.5278582+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:12:11.6597019+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:18:38.1600244+00:00"
 }

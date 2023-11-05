@@ -2,7 +2,7 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 128,
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -922,6 +922,11 @@
       "Time": "2023-11-05T16:08:27.226237+00:00",
       "NumProgressed": 200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T17:18:25.646494+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -932,25 +937,25 @@
       "ID": "ACHIEVEMENT_EASTEREGG_INSIDE",
       "SetID": "5lffoo5",
       "Name": "Minimalist lifestyle",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_EASTEREGG_ROOF",
       "SetID": "5lffoo5",
       "Name": "I deliver the presents!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_HOME",
       "SetID": "5lffoo5",
       "Name": "A new HOME",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
@@ -1052,9 +1057,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_HAT",
       "SetID": "5lffoo5",
       "Name": "Silver Hat",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -1077,13 +1082,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:08:27.2262365+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:18:25.6464934+00:00",
   "LastUpdate_AppInfo": "2023-10-29T20:57:20.4448218+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:59:22.213784+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:08:27.2262555+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:09:18.2892484+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:18:25.6465264+00:00"
 }

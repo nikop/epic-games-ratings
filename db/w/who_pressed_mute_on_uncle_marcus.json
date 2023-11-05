@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 222,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 10.36,
   "EosHistory": [
@@ -579,17 +579,17 @@
       "ID": "toby_foolery",
       "SetID": "202dmm8",
       "Name": "Toby foolery",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     }
   ],
   "AchievementSets": [
@@ -604,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:08:15.4301769+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:18:14.7689571+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.2705596+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:58:55.1849177+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:08:15.4301905+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:07:04.9787604+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:18:14.7689726+00:00"
 }

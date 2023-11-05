@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 110,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -964,8 +964,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:09:06.6214073+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:19:00.0490202+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:59.1662605+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:59:02.7018046+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:09:06.6214484+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:07:31.7307749+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:19:00.0490883+00:00"
 }

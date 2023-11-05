@@ -5,48 +5,48 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 80.00% | ~262 |
-| First Blood | 62.00% | ~203 |
-| Triple Kill | 61.00% | ~199 |
-| Aspairagus | 60.00% | ~166 |
-| No Asperascope | 57.00% | ~186 |
-| Survivor | 57.00% | ~158 |
+| First Blood | 63.00% | ~207 |
+| Triple Kill | 61.00% | ~200 |
+| Aspairagus | 60.00% | ~167 |
+| No Asperascope | 57.00% | ~187 |
+| Survivor | 56.00% | ~156 |
 | Cornivore | 54.00% | ~177 |
-| I Believe I Can Fly | 49.00% | ~160 |
+| I Believe I Can Fly | 49.00% | ~161 |
 | No Diggity | 44.00% | ~122 |
-| Early Survivor | 39.00% | ~108 |
+| Early Survivor | 40.00% | ~111 |
 | Bouncemato | 32.00% | ~89 |
 | 10K | 29.00% | ~95 |
-| Amateur Survivor | 29.00% | ~80 |
-| 15K | 27.00% | ~88 |
+| Amateur Survivor | 29.00% | ~81 |
+| 15K | 27.00% | ~89 |
 | Quick-Draw Pod | 23.00% | ~64 |
 | Drinking Problem | 21.00% | ~69 |
 | Grave Digger | 21.00% | ~58 |
-| Professional Survivor | 20.00% | ~55 |
+| Professional Survivor | 20.00% | ~56 |
 | Pork Chop Express | 19.00% | ~62 |
-| Skin Of Your Teeth | 17.00% | ~56 |
-| Carrocketeer | 17.00% | ~56 |
-| This Is My Boomstick | 17.00% | ~47 |
+| Skin Of Your Teeth | 16.00% | ~52 |
+| Carrocketeer | 16.00% | ~52 |
+| This Is My Boomstick | 16.00% | ~44 |
 | Getting Started | 15.00% | ~49 |
 | Eggtraordinary | 15.00% | ~49 |
 | Oh My Gourd | 15.00% | ~42 |
 | Summers Here | 12.00% | ~33 |
 | Quit Horsin' Around | 11.00% | ~36 |
-| Perfect | 11.00% | ~30 |
+| Perfect | 11.00% | ~31 |
 | Fresh Pancake | 10.00% | ~33 |
 | Quadsparagus | 10.00% | ~28 |
-| Bring Home The Bacon | 9.00% | ~29 |
+| Bring Home The Bacon | 9.00% | ~30 |
 | Expert Survivor | 9.00% | ~25 |
 | Early Bird | 6.00% | ~20 |
-| Pyromaniac | 6.00% | ~17 |
 | Chick Magnet | 5.00% | ~16 |
 | I Have The High Ground | 5.00% | ~16 |
+| Pyromaniac | 5.00% | ~14 |
 | Master Survivor | 3.00% | ~8 |
 | Heart Breaker | 3.00% | ~8 |
 | 15 Days | 2.00% | ~7 |
 | Honk Honk | 2.00% | ~7 |
 | Pro Shotgunner | 1.00% | ~3 |
 | Easy Peasy | 1.00% | ~3 |
-| King of the Crow | 0.90% | ~2 |
+| King of the Crow | 0.90% | ~3 |
 | Pro Pyromancer | 0.60% | ~2 |
 | Pro Sniperagus | 0.60% | ~2 |
 | Unstoppable | 0.60% | ~2 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327 (Ranked 324)  
+Progressed: 328 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-10-27 | 322 | 0 |
 | 2023-10-28 | 324 | 0 |
 | 2023-10-30 | 326 | 0 |
-| 2023-11-05 | 327 | 0 |
+| 2023-11-05 | 328 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

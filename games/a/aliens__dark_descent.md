@@ -5,42 +5,42 @@ Rating: 4.49 (Ranked 603)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,906 |
-| Keep 'Em Coming | 74.00% | ~2,655 |
-| Snatched Out | 74.00% | ~2,655 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,404 |
-| Call Me Snake | 63.00% | ~2,260 |
-| Something Lurks Under The Hills | 61.00% | ~2,189 |
-| This Was No Papercut | 59.00% | ~2,117 |
-| The Shrink Hates Me | 57.00% | ~2,045 |
-| People Person | 56.00% | ~2,009 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,902 |
-| First Steps Into Madness | 53.00% | ~1,902 |
-| Colonial Barrels | 51.00% | ~1,830 |
-| Harper's Hell | 46.00% | ~1,650 |
-| Making a Stand | 44.00% | ~1,579 |
-| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,507 |
-| Where It All Begun | 41.00% | ~1,471 |
-| Recouped Investment | 39.00% | ~1,399 |
-| Living Nightmare | 34.00% | ~1,220 |
-| The More The Merrier | 34.00% | ~1,220 |
-| Omelette Du Fromage | 33.00% | ~1,184 |
-| The Darwin Era Was Here | 30.00% | ~1,076 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,909 |
+| Keep 'Em Coming | 74.00% | ~2,657 |
+| Snatched Out | 74.00% | ~2,657 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,406 |
+| Call Me Snake | 63.00% | ~2,262 |
+| Something Lurks Under The Hills | 61.00% | ~2,191 |
+| This Was No Papercut | 59.00% | ~2,119 |
+| The Shrink Hates Me | 57.00% | ~2,047 |
+| People Person | 56.00% | ~2,011 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,903 |
+| First Steps Into Madness | 53.00% | ~1,903 |
+| Colonial Barrels | 51.00% | ~1,831 |
+| Harper's Hell | 46.00% | ~1,652 |
+| Making a Stand | 44.00% | ~1,580 |
+| Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,508 |
+| Where It All Begun | 41.00% | ~1,472 |
+| Recouped Investment | 39.00% | ~1,400 |
+| Living Nightmare | 34.00% | ~1,221 |
+| The More The Merrier | 34.00% | ~1,221 |
+| Omelette Du Fromage | 33.00% | ~1,185 |
+| The Darwin Era Was Here | 30.00% | ~1,077 |
 | Deep Into Insanity | 29.00% | ~1,041 |
 | The Passenger | 29.00% | ~1,041 |
-| Come on, You Wanna Live Forever? | 27.00% | ~969 |
-| The Spire | 26.00% | ~933 |
-| El Riesgo Siempre Vive | 25.00% | ~897 |
-| Stuff Of Nightmares | 23.00% | ~825 |
-| Excavating The Truth | 22.00% | ~789 |
-| Abysmal Horrors | 22.00% | ~789 |
-| One For Every Occasion | 21.00% | ~753 |
-| Frontliner | 21.00% | ~753 |
-| The Cable Guy | 21.00% | ~753 |
+| Come on, You Wanna Live Forever? | 27.00% | ~970 |
+| The Spire | 26.00% | ~934 |
+| El Riesgo Siempre Vive | 25.00% | ~898 |
+| Stuff Of Nightmares | 23.00% | ~826 |
+| Excavating The Truth | 22.00% | ~790 |
+| Abysmal Horrors | 22.00% | ~790 |
+| One For Every Occasion | 21.00% | ~754 |
+| Frontliner | 21.00% | ~754 |
+| The Cable Guy | 21.00% | ~754 |
 | Bandage Lover | 19.00% | ~682 |
-| Regicide | 16.00% | ~574 |
-| This Went Smoothly | 14.00% | ~502 |
-| Flawless Victory | 13.00% | ~466 |
+| Regicide | 16.00% | ~575 |
+| This Went Smoothly | 14.00% | ~503 |
+| Flawless Victory | 13.00% | ~467 |
 | Heavy Steps | 12.00% | ~431 |
 | Perfect Enhancements | 10.00% | ~359 |
 | Hardened In The Heat Of Battle | 7.00% | ~251 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 603)
 | This Ain't No Picnic | 0.70% | ~25 |
 | Chalk It Up To Experience | 0.70% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,588 (Ranked 195)  
+Progressed: 3,591 (Ranked 195)  
 Completed: 3 (0.08%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 3 (0.08%) (Ranked 283)
 | 2023-11-02 | 3,526 | 3 |
 | 2023-11-03 | 3,547 | 3 |
 | 2023-11-04 | 3,568 | 3 |
-| 2023-11-05 | 3,588 | 3 |
+| 2023-11-05 | 3,591 | 3 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 480)  
 Sum: 33 (Ranked 505)  

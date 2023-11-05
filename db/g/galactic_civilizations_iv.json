@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7223,
+  "EOS_Progressed": 7224,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -8215,6 +8215,11 @@
       "Time": "2023-11-05T13:08:27.5888812+00:00",
       "NumProgressed": 7223,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T17:16:10.1028255+00:00",
+      "NumProgressed": 7224,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8266,7 +8271,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "Control_All_Relics",
@@ -8416,9 +8421,9 @@
       "ID": "Have_Many_TradeRoutes",
       "SetID": "4h07amh",
       "Name": "Trading Partner",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 650
+      "UsersEstimate": 578
     },
     {
       "ID": "Level_5_Ship",
@@ -8546,7 +8551,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4406
+      "UsersEstimate": 4407
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8714,7 +8719,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8801,15 +8806,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7223,
+      "Progressed": 7224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:05:15.4819023+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:10.1028246+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:00:46.6847836+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:05:15.482017+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:11:49.7565097+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:10.1030411+00:00"
 }

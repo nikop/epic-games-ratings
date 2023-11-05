@@ -13,7 +13,7 @@
 | This won't end well... | 33.00% | ~68 |
 | Bromance | 32.00% | ~66 |
 | Good job, nerd | 31.00% | ~64 |
-| Mission Complete | 30.00% | ~62 |
+| Mission Complete | 31.00% | ~64 |
 | Lootaphilia | 23.00% | ~47 |
 | Maybe you should give it another go | 12.00% | ~25 |
 | I used to think I was indecisive... | 7.00% | ~14 |

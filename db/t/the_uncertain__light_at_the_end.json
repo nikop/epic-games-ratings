@@ -5,9 +5,9 @@
   "Ranking_Rating": 1017,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,11 +83,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.07,
+  "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -893,6 +893,11 @@
       "Time": "2023-11-05T01:50:47.3157496+00:00",
       "NumProgressed": 563,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T17:12:57.3029002+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -992,7 +997,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Hitman",
@@ -1135,7 +1140,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 6
     }
   ],
@@ -1143,8 +1148,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:03:22.4693677+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:12:57.3028995+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.9559002+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:02:56.1212226+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:03:22.4693988+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:12:33.0810996+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:12:57.3029446+00:00"
 }

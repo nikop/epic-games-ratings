@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 739,
+  "EOS_Progressed": 740,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2126,6 +2126,11 @@
       "Time": "2023-11-05T04:09:35.969842+00:00",
       "NumProgressed": 739,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T17:18:31.6996101+00:00",
+      "NumProgressed": 740,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2329,7 +2334,7 @@
       "Name": "Uprooting",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TheGuardian",
@@ -2392,7 +2397,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 739,
+      "Progressed": 740,
       "Completed": 1
     }
   ],
@@ -2400,8 +2405,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:08:33.5645301+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:18:31.6996095+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:31.5200978+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:57:07.8164213+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:08:33.5645663+00:00"
+  "LastUpdate_Ratings": "2023-11-05T16:57:49.5416486+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:18:31.6996878+00:00"
 }

@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 90.00% | ~186 |
-| Trumpet | 89.00% | ~184 |
-| Spyglass | 84.00% | ~174 |
-| Broken toy | 77.00% | ~159 |
-| Egghead Lucy | 76.00% | ~157 |
-| Puppy | 62.00% | ~128 |
-| Coal's fur | 58.00% | ~120 |
-| Blue's drawing | 54.00% | ~112 |
-| Mysterious footprints | 48.00% | ~99 |
-| Glass shards | 47.00% | ~97 |
-| Complicated padlock | 42.00% | ~87 |
-| Big metal ruler | 41.00% | ~85 |
-| Windmill | 41.00% | ~85 |
-| Doll | 38.00% | ~79 |
-| Mysterious paintings | 35.00% | ~72 |
-| Cat | 33.00% | ~68 |
-| Depths of the well | 28.00% | ~58 |
-| Children | 24.00% | ~50 |
-| Huge Snail | 16.00% | ~33 |
+| Lucky charm | 90.00% | ~189 |
+| Trumpet | 88.00% | ~185 |
+| Spyglass | 82.00% | ~172 |
+| Egghead Lucy | 76.00% | ~160 |
+| Broken toy | 76.00% | ~160 |
+| Puppy | 61.00% | ~128 |
+| Coal's fur | 57.00% | ~120 |
+| Blue's drawing | 53.00% | ~111 |
+| Mysterious footprints | 48.00% | ~101 |
+| Glass shards | 46.00% | ~97 |
+| Complicated padlock | 41.00% | ~86 |
+| Big metal ruler | 40.00% | ~84 |
+| Windmill | 40.00% | ~84 |
+| Doll | 38.00% | ~80 |
+| Mysterious paintings | 35.00% | ~74 |
+| Cat | 32.00% | ~67 |
+| Depths of the well | 27.00% | ~57 |
+| Children | 23.00% | ~48 |
+| Huge Snail | 16.00% | ~34 |
 | Flower of hope | 14.00% | ~29 |
-| Back Home | 13.00% | ~27 |
-| Friend | 13.00% | ~27 |
-| Old kettle | 12.00% | ~25 |
+| Back Home | 12.00% | ~25 |
+| Friend | 12.00% | ~25 |
+| Old kettle | 11.00% | ~23 |
 | Forest Howl | 9.00% | ~19 |
-| Hope | 6.00% | ~12 |
+| Hope | 6.00% | ~13 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207 (Ranked 357)  
+Progressed: 210 (Ranked 357)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-10-29 | 205 | 0 |
 | 2023-11-01 | 206 | 0 |
 | 2023-11-04 | 207 | 0 |
+| 2023-11-05 | 210 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

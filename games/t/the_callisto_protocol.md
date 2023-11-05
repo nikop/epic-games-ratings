@@ -38,8 +38,8 @@ Rating: 4.19 (Ranked 909)
 | Grim Reaper | 0.70% | ~115 |
 | Parole Denied | 0.70% | ~30 |
 | Mugshot | 0.60% | ~98 |
+| Instigator | 0.60% | ~26 |
 | Quick Pick | 0.60% | ~26 |
-| Instigator | 0.50% | ~22 |
 | Subject Alpha | 0.40% | ~17 |
 | Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~33 |

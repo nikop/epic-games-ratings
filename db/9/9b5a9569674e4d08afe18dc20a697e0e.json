@@ -2,7 +2,7 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 637,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 128,
@@ -122,9 +122,9 @@
       "ID": "GOLSA",
       "SetID": "40o4f14",
       "Name": "The Rescue",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GREEDY",
@@ -138,17 +138,17 @@
       "ID": "HERO",
       "SetID": "40o4f14",
       "Name": "Hero",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KING",
       "SetID": "40o4f14",
       "Name": "King",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LIBERATOR",
@@ -162,9 +162,9 @@
       "ID": "LIBRARY",
       "SetID": "40o4f14",
       "Name": "The library",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LOVERS",
@@ -296,8 +296,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:03:51.8780929+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:13:23.7871344+00:00",
   "LastUpdate_AppInfo": "2023-11-01T20:57:07.3462919+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:57:05.9023705+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:03:51.8781148+00:00"
+  "LastUpdate_Ratings": "2023-11-05T16:57:49.3454242+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:13:23.7871732+00:00"
 }

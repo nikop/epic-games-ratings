@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -353,6 +353,11 @@
     {
       "Time": "2023-11-03T23:04:09.1169013+00:00",
       "NumProgressed": 68,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T17:15:22.395144+00:00",
+      "NumProgressed": 69,
       "NumCompleted": 0
     }
   ],
@@ -771,9 +776,9 @@
       "ID": "FlamethrowerDiarrheaAchievement",
       "SetID": "a8djcgh",
       "Name": "Food Poisoning",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Fly1HourInAllSpacecraftsAchievement",
@@ -955,7 +960,7 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -971,9 +976,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -987,9 +992,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -1091,9 +1096,9 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1347,9 +1352,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1403,7 +1408,7 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 23
     },
@@ -1420,14 +1425,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:04:56.3329819+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:15:22.3951434+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:26.2834557+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:57:24.4673017+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:04:56.3331836+00:00"
+  "LastUpdate_Ratings": "2023-11-05T16:59:09.3499794+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:15:22.3953485+00:00"
 }

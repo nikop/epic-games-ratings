@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 497,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -352,9 +352,9 @@
       "ID": "4",
       "SetID": "6bgoh8g",
       "Name": "A simple mistake leads to grave consequences",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "5",
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:05:29.7847992+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:22.2135085+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:11.4303635+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:02:53.2090266+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:05:29.7848177+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:12:30.8371844+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:22.2135317+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,913 |
-| Until death do us apart | 4.00% | ~17,913 |
-| Victorious! | 4.00% | ~17,913 |
-| That's a Grand Navy | 3.00% | ~13,435 |
-| That is mine! | 3.00% | ~13,435 |
-| Brothers in Arms | 2.00% | ~8,957 |
-| Cold War | 2.00% | ~8,957 |
-| For the Glory | 2.00% | ~8,957 |
-| Seriously?! | 2.00% | ~8,957 |
-| Defender of the Faith | 1.00% | ~4,478 |
-| It's all about luck | 1.00% | ~4,478 |
-| It's all about the money | 1.00% | ~4,478 |
-| Respected | 1.00% | ~4,478 |
-| The Princess is in this Castle | 1.00% | ~4,478 |
-| True Catholic | 1.00% | ~4,478 |
-| Truly Divine Ruler | 1.00% | ~4,478 |
-| Blockader | 0.90% | ~4,030 |
+| That's a Grand Army | 4.00% | ~17,915 |
+| Until death do us apart | 4.00% | ~17,915 |
+| Victorious! | 4.00% | ~17,915 |
+| That's a Grand Navy | 3.00% | ~13,436 |
+| That is mine! | 3.00% | ~13,436 |
+| Brothers in Arms | 2.00% | ~8,958 |
+| Cold War | 2.00% | ~8,958 |
+| For the Glory | 2.00% | ~8,958 |
+| Seriously?! | 2.00% | ~8,958 |
+| Defender of the Faith | 1.00% | ~4,479 |
+| It's all about luck | 1.00% | ~4,479 |
+| It's all about the money | 1.00% | ~4,479 |
+| Respected | 1.00% | ~4,479 |
+| The Princess is in this Castle | 1.00% | ~4,479 |
+| True Catholic | 1.00% | ~4,479 |
+| Truly Divine Ruler | 1.00% | ~4,479 |
+| Blockader | 0.90% | ~4,031 |
 | Double the Love | 0.80% | ~3,583 |
 | Royal Authority | 0.80% | ~3,583 |
 | Total Control | 0.80% | ~3,583 |
@@ -32,20 +32,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.50% | ~2,239 |
 | City of Cities | 0.50% | ~2,239 |
 | This navy can take it all | 0.50% | ~2,239 |
-| Bright Spark | 0.40% | ~1,791 |
-| The Emperors new clothes | 0.40% | ~1,791 |
-| Factionalism | 0.40% | ~1,791 |
-| Gentle Persuasion | 0.40% | ~1,791 |
-| Isn't this the way to India? | 0.40% | ~1,791 |
-| Queen of Conquest | 0.40% | ~1,791 |
-| The Five Colonies | 0.40% | ~1,791 |
-| Trustworthy | 0.40% | ~1,791 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,343 |
-| Down Under | 0.30% | ~1,343 |
-| Electable! | 0.30% | ~1,343 |
-| A Golden Empire | 0.30% | ~1,343 |
-| Market Control | 0.30% | ~1,343 |
-| Populists in Government | 0.30% | ~1,343 |
+| Bright Spark | 0.40% | ~1,792 |
+| The Emperors new clothes | 0.40% | ~1,792 |
+| Factionalism | 0.40% | ~1,792 |
+| Gentle Persuasion | 0.40% | ~1,792 |
+| Isn't this the way to India? | 0.40% | ~1,792 |
+| Queen of Conquest | 0.40% | ~1,792 |
+| The Five Colonies | 0.40% | ~1,792 |
+| Trustworthy | 0.40% | ~1,792 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,344 |
+| Down Under | 0.30% | ~1,344 |
+| Electable! | 0.30% | ~1,344 |
+| A Golden Empire | 0.30% | ~1,344 |
+| Market Control | 0.30% | ~1,344 |
+| Populists in Government | 0.30% | ~1,344 |
 | A Decent Reserve | 0.20% | ~896 |
 | Absolutely | 0.20% | ~896 |
 | All belongs to Mother Russia | 0.20% | ~896 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447,827 (Ranked 41)  
+Progressed: 447,882 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,10 +560,10 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
-| 2023-11-05 | 447,827 | 1 |
+| 2023-11-05 | 447,882 | 1 |
 ## Awards
 Max (Educational): 6,830  (Ranked 55)  
-Sum: 56,143 (Ranked 24)  
+Sum: 56,160 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -572,7 +572,7 @@ Diff (max vs sum): 31
 | This game has Diverse Characters | 6,524 |
 | This game has Challenging Combat | 6,455 |
 | This game is Extremely Fun | 6,429 |
-| This game is Relaxing | 6,277 |
+| This game is Relaxing | 6,294 |
 | This game has Competitive Players | 6,114 |
 | This game has Amazing Storytelling | 5,706 |
 | This game has Amazing Characters | 5,273 |
@@ -872,4 +872,4 @@ Diff (max vs sum): 31
 | 2023-11-02 | 4.69 | - | 6,798 | 55,815 |
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
-| 2023-11-05 | 4.69 | - | 6,830 | 56,143 |
+| 2023-11-05 | 4.69 | - | 6,830 | 56,160 |

@@ -20,8 +20,8 @@ Rating: 4.60 (Ranked 406)
 | Clear the Air | 18.00% | ~1,361 |
 | Botanical Breakthrough | 17.00% | ~1,285 |
 | Search for the Hairy Grell | 14.00% | ~1,058 |
+| Higher Tax Bracket | 14.00% | ~1,058 |
 | Beach Comber | 13.00% | ~983 |
-| Higher Tax Bracket | 13.00% | ~983 |
 | Skilled | 9.00% | ~680 |
 | Flaming Hot Completos | 8.00% | ~605 |
 | Got to Catch Them All | 8.00% | ~605 |

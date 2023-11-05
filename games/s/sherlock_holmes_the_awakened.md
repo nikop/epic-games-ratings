@@ -5,36 +5,36 @@ Rating: 4.66 (Ranked 291)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 66.00% | ~526 |
-| To Hell In A Handcart | 66.00% | ~526 |
-| High Profile | 59.00% | ~470 |
-| Whispers In The Dark | 58.00% | ~462 |
-| Fond Memories | 55.00% | ~438 |
-| A Method To His Madness | 54.00% | ~430 |
-| History Check | 53.00% | ~422 |
-| The New World | 50.00% | ~398 |
+| Read Between The Lines | 66.00% | ~527 |
+| To Hell In A Handcart | 66.00% | ~527 |
+| High Profile | 59.00% | ~471 |
+| Whispers In The Dark | 58.00% | ~463 |
+| Fond Memories | 55.00% | ~439 |
+| A Method To His Madness | 54.00% | ~431 |
+| History Check | 53.00% | ~423 |
+| The New World | 50.00% | ~399 |
 | Open Sesame | 49.00% | ~391 |
-| Lock, Stock, And Barrel | 48.00% | ~383 |
 | Gaze Into The Abyss | 48.00% | ~383 |
 | Sticky Fingers | 48.00% | ~383 |
 | Knives Out | 48.00% | ~383 |
 | Land, Ho! | 48.00% | ~383 |
-| No Man Is An Island | 47.00% | ~375 |
+| Lock, Stock, And Barrel | 47.00% | ~375 |
 | Back In The Saddle | 46.00% | ~367 |
+| No Man Is An Island | 46.00% | ~367 |
 | At Wits' End | 46.00% | ~367 |
-| Up In Flames | 44.00% | ~351 |
 | Fhtagn! | 44.00% | ~351 |
 | Bookworm | 43.00% | ~343 |
+| Up In Flames | 43.00% | ~343 |
 | Going Once... | 40.00% | ~319 |
 | Let Me Be Frank | 38.00% | ~303 |
 | Brain Food | 36.00% | ~287 |
 | No Stone Unturned | 36.00% | ~287 |
-| Read It And Weep | 22.00% | ~175 |
-| Curiosity Killed The Cat | 19.00% | ~151 |
+| Read It And Weep | 22.00% | ~176 |
+| Curiosity Killed The Cat | 19.00% | ~152 |
 | Big Breakthrough | 13.00% | ~104 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 797 (Ranked 262)  
+Progressed: 798 (Ranked 262)  
 Completed: 26 (3.26%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 26 (3.26%) (Ranked 89)
 | 2023-11-02 | 792 | 26 |
 | 2023-11-03 | 795 | 26 |
 | 2023-11-04 | 796 | 26 |
-| 2023-11-05 | 797 | 26 |
+| 2023-11-05 | 798 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

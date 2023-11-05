@@ -1447,7 +1447,7 @@
   ],
   "EOS_Progressed": 16407,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -9046,9 +9046,9 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -9165,8 +9165,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-05T01:46:24.1852628+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:06:02.2006737+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:51.1150047+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:59:38.4914386+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:06:02.2007577+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:10:23.234099+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:51.1151576+00:00"
 }

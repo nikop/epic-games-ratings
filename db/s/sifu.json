@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7491,9 +7491,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 716197,
+  "EOS_Progressed": 716199,
   "EOS_Completed": 12932,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24956,6 +24956,11 @@
       "Time": "2023-11-05T16:06:32.084011+00:00",
       "NumProgressed": 716197,
       "NumCompleted": 12932
+    },
+    {
+      "Time": "2023-11-05T17:17:17.8013539+00:00",
+      "NumProgressed": 716199,
+      "NumCompleted": 12932
     }
   ],
   "TotalAchievements": 60,
@@ -25213,9 +25218,9 @@
       "ID": "32_ReachMaxAge",
       "SetID": "adcm20g",
       "Name": "Old Child",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2865
     },
     {
       "ID": "33_BladeOneShot",
@@ -25303,7 +25308,7 @@
       "Name": "Project Arena",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -25335,7 +25340,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -25343,7 +25348,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -25359,7 +25364,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -25367,7 +25372,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -25375,7 +25380,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -25383,7 +25388,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -25391,7 +25396,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -25399,7 +25404,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -25407,7 +25412,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "57_Arena_Car",
@@ -25415,7 +25420,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "58_Arena_Music",
@@ -25439,28 +25444,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25498,
+      "Progressed": 25500,
       "Completed": 10733
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716197,
+      "Progressed": 716199,
       "Completed": 12932
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-05T12:00:30.9208728+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:06:32.0840105+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:17:17.8013532+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:00:57.7823121+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:06:32.084167+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:11:59.4259639+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:17:17.801525+00:00"
 }

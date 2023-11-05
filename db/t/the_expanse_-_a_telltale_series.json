@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14673,
+  "EOS_Progressed": 14675,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10481,6 +10481,11 @@
       "Time": "2023-11-05T16:06:11.6519393+00:00",
       "NumProgressed": 14673,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-05T17:16:59.7414273+00:00",
+      "NumProgressed": 14675,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10509,7 +10514,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "12",
@@ -10549,15 +10554,15 @@
       "Name": "Drug Gifter",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 147
+      "UsersEstimate": 294
     },
     {
       "ID": "18",
@@ -10573,7 +10578,7 @@
       "Name": "Martian Music",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "2",
@@ -10597,7 +10602,7 @@
       "Name": "Drone Dodger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "22",
@@ -10637,7 +10642,7 @@
       "Name": "Call it Even",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "27",
@@ -10645,7 +10650,7 @@
       "Name": "Bosmang",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "28",
@@ -10669,7 +10674,7 @@
       "Name": "Captain Drummer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "30",
@@ -10683,9 +10688,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "5",
@@ -10701,7 +10706,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "7",
@@ -10725,7 +10730,7 @@
       "Name": "Impossible Objects",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "31",
@@ -10755,9 +10760,9 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "35",
@@ -10772,22 +10777,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14673,
+      "Progressed": 14675,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 627,
-      "Completed": 377
+      "Progressed": 629,
+      "Completed": 379
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:06:11.6519386+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:59.7414265+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:00:19.0689317+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:06:11.6520271+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:11:25.299757+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:59.7415881+00:00"
 }

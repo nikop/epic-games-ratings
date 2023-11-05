@@ -6,33 +6,34 @@ Rating: 4.54 (Ranked 522)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~388 |
-| Pork Chopped | 0.90% | ~349 |
-| One of Us | 0.80% | ~310 |
+| Pork Chopped | 0.90% | ~350 |
+| One of Us | 0.80% | ~311 |
+| Break A Leg | 0.30% | ~2,140 |
+| Coup de Grâce | 0.30% | ~2,140 |
 | Hotel California | 0.30% | ~2,140 |
 | Welcome To Hell-A | 0.30% | ~2,140 |
-| Dr. Reed, I Presume? | 0.20% | ~1,426 |
-| Git Gutte! | 0.20% | ~1,426 |
-| Anger Management | 0.20% | ~1,426 |
-| Perks of the Job | 0.20% | ~1,426 |
-| Bookworm | 0.20% | ~1,426 |
-| Break A Leg | 0.20% | ~1,426 |
-| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,426 |
-| But Doctor, I am Butcho | 0.20% | ~1,426 |
-| Slayer Squad | 0.20% | ~1,426 |
-| Can't Handle the Truth | 0.20% | ~1,426 |
-| Coup de Grâce | 0.20% | ~1,426 |
-| Like Riding a Bike | 0.20% | ~1,426 |
-| Not Even My Final Form | 0.20% | ~1,426 |
-| Hazardous Materials | 0.20% | ~1,426 |
-| Friends Like These | 0.20% | ~1,426 |
-| Apex Predator | 0.20% | ~1,426 |
-| Ooh, Shiny! | 0.20% | ~1,426 |
-| A Patton Emerges | 0.20% | ~1,426 |
-| Stacking the Deck | 0.20% | ~1,426 |
-| Personal Assistant Personally Assisted | 0.20% | ~1,426 |
-| Max Headroom | 0.20% | ~1,426 |
-| Our True Nature | 0.20% | ~1,426 |
-| This is My Weapon | 0.20% | ~1,426 |
+| Dr. Reed, I Presume? | 0.20% | ~1,427 |
+| Git Gutte! | 0.20% | ~1,427 |
+| Anger Management | 0.20% | ~1,427 |
+| Perks of the Job | 0.20% | ~1,427 |
+| Bookworm | 0.20% | ~1,427 |
+| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,427 |
+| But Doctor, I am Butcho | 0.20% | ~1,427 |
+| Slayer Squad | 0.20% | ~1,427 |
+| Can't Handle the Truth | 0.20% | ~1,427 |
+| Like Riding a Bike | 0.20% | ~1,427 |
+| Not Even My Final Form | 0.20% | ~1,427 |
+| Hazardous Materials | 0.20% | ~1,427 |
+| Friends Like These | 0.20% | ~1,427 |
+| Apex Predator | 0.20% | ~1,427 |
+| Zombologist | 0.20% | ~1,427 |
+| Ooh, Shiny! | 0.20% | ~1,427 |
+| A Patton Emerges | 0.20% | ~1,427 |
+| Stacking the Deck | 0.20% | ~1,427 |
+| Personal Assistant Personally Assisted | 0.20% | ~1,427 |
+| Max Headroom | 0.20% | ~1,427 |
+| Our True Nature | 0.20% | ~1,427 |
+| This is My Weapon | 0.20% | ~1,427 |
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
 | LA Influential | 0.10% | ~713 |
@@ -42,7 +43,6 @@ Rating: 4.54 (Ranked 522)
 | Internet Famous | 0.10% | ~713 |
 | Sole Survivor | 0.10% | ~713 |
 | Jumbo Keyring | 0.10% | ~713 |
-| Zombologist | 0.10% | ~713 |
 | Gore Horse | 0.10% | ~713 |
 | Humanity Distilled | 0.10% | ~713 |
 | I Am the Resurrection | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,236 (Ranked 21)  
-Completed: 2,335 (0.33%) (Ranked 217)  
+Progressed: 713,306 (Ranked 21)  
+Completed: 2,336 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,18 +256,18 @@ Completed: 2,335 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,236 | 2,335 |
+| 2023-11-05 | 713,306 | 2,336 |
 ## Awards
-Max (Great Boss Battles): 7,004  (Ranked 54)  
-Sum: 10,600 (Ranked 89)  
+Max (Great Boss Battles): 7,072  (Ranked 54)  
+Sum: 10,675 (Ranked 89)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,004 |
+| This game has Great Boss Battles | 7,072 |
 | This game is Great for Beginners | 514 |
 | This game has Diverse Characters | 504 |
 | This game has Quickly Understood Controls | 482 |
-| This game is Relaxing | 447 |
+| This game is Relaxing | 454 |
 | This game has Amazing Storytelling | 440 |
 | This game is Highly Recommended | 418 |
 | This game is Extremely Fun | 405 |
@@ -473,4 +473,4 @@ Diff (max vs sum): -35
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
-| 2023-11-05 | 4.54 | 7,004 | 10,600 |
+| 2023-11-05 | 4.54 | 7,072 | 10,675 |

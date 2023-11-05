@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1980,9 +1980,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15155,
+  "EOS_Progressed": 15156,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15420,6 +15420,11 @@
       "Time": "2023-11-05T16:05:12.7128154+00:00",
       "NumProgressed": 15155,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T17:16:07.2603375+00:00",
+      "NumProgressed": 15156,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15917,9 +15922,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 455
+      "UsersEstimate": 606
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -18166,21 +18171,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15155,
+      "Progressed": 15156,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15155,
+      "Progressed": 15156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:05:12.7128152+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:07.2603365+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:00:28.3149259+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:05:12.7139267+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:11:33.1967628+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:07.2627641+00:00"
 }

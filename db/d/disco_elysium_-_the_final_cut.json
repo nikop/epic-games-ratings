@@ -1430,9 +1430,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130499,
+  "EOS_Progressed": 130502,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21070,6 +21070,11 @@
       "Time": "2023-11-05T16:05:40.7399339+00:00",
       "NumProgressed": 130499,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-05T17:16:31.975729+00:00",
+      "NumProgressed": 130502,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21097,7 +21102,7 @@
       "Name": "Committee of la Responsabilit\u00E9",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH_COP_APO",
@@ -21161,7 +21166,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36540
+      "UsersEstimate": 36541
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21169,7 +21174,7 @@
       "Name": "The Most Honourable Cop in The Land",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_COP_LAW",
@@ -21249,7 +21254,7 @@
       "Name": "Gluten-Free Topping Pie",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_HARDCORE_ENDGAME",
@@ -21265,7 +21270,7 @@
       "Name": "Venture into the HARDCORE",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH_HARDIE",
@@ -21313,7 +21318,7 @@
       "Name": "Get Kim to Wear *The Jacket*",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_LEOPART_MINDSET",
@@ -21329,7 +21334,7 @@
       "Name": "Medal dispenser",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_MULLEN",
@@ -21337,7 +21342,7 @@
       "Name": "Modus: Mullen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_NETWORTHY",
@@ -21345,7 +21350,7 @@
       "Name": "Networthy Individual",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_PALERUNNER",
@@ -21353,7 +21358,7 @@
       "Name": "Palerunner",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH_PINBALL",
@@ -21385,7 +21390,7 @@
       "Name": "Real Musor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH_WHATBODY",
@@ -21393,22 +21398,22 @@
       "Name": "What body?",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130499,
+      "Progressed": 130502,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-04T19:01:05.2014817+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:05:40.7399331+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:16:31.9757281+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:58:55.4747383+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:05:40.7400802+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:07:05.3851735+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:16:31.9760085+00:00"
 }

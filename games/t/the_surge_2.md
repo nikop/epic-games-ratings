@@ -5,36 +5,36 @@ Rating: 4.24 (Ranked 875)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,730 |
-| Don't I Know You...? | 77.00% | ~1,665 |
-| Jailbreak | 66.00% | ~1,427 |
+| Rigged And Ready | 80.00% | ~1,731 |
+| Don't I Know You...? | 77.00% | ~1,666 |
+| Jailbreak | 66.00% | ~1,428 |
 | HEADSHOT! | 38.00% | ~822 |
 | Suited and Booted | 38.00% | ~822 |
-| Sleeping With The Fishes | 36.00% | ~778 |
+| Sleeping With The Fishes | 36.00% | ~779 |
 | Overheated | 30.00% | ~649 |
 | High Performance | 30.00% | ~649 |
-| Powered Up | 28.00% | ~605 |
+| Powered Up | 28.00% | ~606 |
 | Studied The Blade | 24.00% | ~519 |
-| Home Invasion | 23.00% | ~497 |
+| Home Invasion | 23.00% | ~498 |
 | Luminary | 22.00% | ~476 |
 | It's a Trap | 22.00% | ~476 |
 | True Survivor | 21.00% | ~454 |
-| Offensive Defense | 20.00% | ~432 |
-| Shocking | 20.00% | ~432 |
+| Offensive Defense | 20.00% | ~433 |
+| Shocking | 20.00% | ~433 |
 | Court Martial | 19.00% | ~411 |
 | Clean Cut | 19.00% | ~411 |
 | Unforeseeable Consequences | 19.00% | ~411 |
-| Dead Again | 18.00% | ~389 |
+| Dead Again | 18.00% | ~390 |
 | Full Arsenal | 17.00% | ~368 |
-| Can't Trust Banks | 15.00% | ~324 |
+| Can't Trust Banks | 15.00% | ~325 |
 | Mommy Dearest | 13.00% | ~281 |
 | Bad Dog | 13.00% | ~281 |
 | Where It All Began | 13.00% | ~281 |
 | Risk Tolerant | 13.00% | ~281 |
 | What A Catchy Song | 13.00% | ~281 |
-| Corrupted Beauty | 12.00% | ~259 |
-| Marked For Success | 12.00% | ~259 |
-| Sorry, Didn't See You There | 12.00% | ~259 |
+| Corrupted Beauty | 12.00% | ~260 |
+| Marked For Success | 12.00% | ~260 |
+| Sorry, Didn't See You There | 12.00% | ~260 |
 | Triplets | 10.00% | ~216 |
 | Denying Prophecy | 9.00% | ~195 |
 | Stimulating The Local Economy | 9.00% | ~195 |
@@ -45,14 +45,14 @@ Rating: 4.24 (Ranked 875)
 | Reborn | 6.00% | ~130 |
 | Remote Surgery | 6.00% | ~130 |
 | Turbo Booster | 6.00% | ~130 |
-| Juiced Up | 6.00% | ~130 |
 | Squid Pro Quo | 6.00% | ~130 |
 | Hello Darkness My Old Friend | 5.00% | ~108 |
 | Counter-Sniper | 5.00% | ~108 |
 | Shrimp Cocktail | 5.00% | ~108 |
-| Geronimo! | 4.00% | ~86 |
-| Homewrecker | 4.00% | ~86 |
-| Plank of Wood | 4.00% | ~86 |
+| Juiced Up | 5.00% | ~108 |
+| Geronimo! | 4.00% | ~87 |
+| Homewrecker | 4.00% | ~87 |
+| Plank of Wood | 4.00% | ~87 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~65 |
 | Gotta Craft 'em All | 3.00% | ~65 |
 | Own Medicine | 2.00% | ~43 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 875)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,162 (Ranked 212)  
+Progressed: 2,164 (Ranked 212)  
 Completed: 13 (0.60%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 13 (0.60%) (Ranked 179)
 | 2023-11-02 | 2,131 | 13 |
 | 2023-11-03 | 2,143 | 13 |
 | 2023-11-04 | 2,154 | 13 |
-| 2023-11-05 | 2,162 | 13 |
+| 2023-11-05 | 2,164 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

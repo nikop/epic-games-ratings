@@ -6,8 +6,8 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -309,7 +309,7 @@
   "Tags": [],
   "EOS_Progressed": 24442,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6666,9 +6666,9 @@
       "ID": "ACH_MOPLET_BOSS",
       "SetID": "cdkbb11",
       "Name": "Gunning For Your Job",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -6833,8 +6833,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-04T04:58:56.1771258+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:04:47.8730588+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:14:14.9566101+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.8634233+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:00:03.8461911+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:04:47.8731324+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:11:11.5013245+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:14:14.9567427+00:00"
 }

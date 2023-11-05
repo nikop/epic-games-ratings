@@ -322,9 +322,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Holy Mountain",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
@@ -634,9 +634,9 @@
       "ID": "BADGE_THUNDER_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Thunderstorm",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "BADGE_TOWER_UPGRADE",
@@ -667,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:02:57.8639148+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:12:35.7214083+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:58:05.4354449+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:02:57.8639771+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:02:34.5390587+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:12:35.721478+00:00"
 }

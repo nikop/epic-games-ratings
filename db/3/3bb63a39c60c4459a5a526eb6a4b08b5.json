@@ -3,8 +3,8 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 257,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3419,6 +3419,11 @@
       "Time": "2023-11-05T13:11:40.7725919+00:00",
       "NumProgressed": 906,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T17:18:32.6019434+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3446,7 +3451,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "BigPlane",
@@ -3630,7 +3635,7 @@
       "Name": "New Record",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "NoTimeForModernization",
@@ -3765,14 +3770,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-05T16:08:34.4579396+00:00",
+  "LastChanged_Achievements": "2023-11-05T17:18:32.6019427+00:00",
   "LastUpdate_AppInfo": "2023-10-31T14:57:15.7110857+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:57:48.7784902+00:00",
-  "LastUpdate_Achievements": "2023-11-05T16:08:34.4579942+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:01:01.8844717+00:00",
+  "LastUpdate_Achievements": "2023-11-05T17:18:32.602037+00:00"
 }

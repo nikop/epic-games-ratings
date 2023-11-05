@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 85.00% | ~58 |
-| Killing Spree | 69.00% | ~47 |
-| Merchant Prince I | 54.00% | ~37 |
-| 5Gb HDD | 53.00% | ~36 |
+| First Blood | 86.00% | ~59 |
+| Killing Spree | 70.00% | ~48 |
+| Merchant Prince I | 55.00% | ~38 |
+| 5Gb HDD | 54.00% | ~37 |
 | Dominating | 35.00% | ~24 |
-| Fighting Fit I | 34.00% | ~23 |
+| Fighting Fit I | 33.00% | ~23 |
 | Rambo I | 29.00% | ~20 |
 | 10Gb HDD | 29.00% | ~20 |
 | The Vette | 28.00% | ~19 |
-| Mega Kill | 24.00% | ~16 |
+| Mega Kill | 23.00% | ~16 |
 | Stoic | 19.00% | ~13 |
 | Almost There I | 19.00% | ~13 |
 | Omicron Alpha | 16.00% | ~11 |
@@ -33,6 +33,7 @@
 | Hitchhiker | 7.00% | ~5 |
 | Diligent | 7.00% | ~5 |
 | Hoarder | 7.00% | ~5 |
+| Food Poisoning | 7.00% | ~5 |
 | Usurper I | 7.00% | ~5 |
 | Flower Power | 7.00% | ~5 |
 | Galactic Lieutenant | 7.00% | ~5 |
@@ -49,7 +50,6 @@
 | Omicron Beta | 6.00% | ~4 |
 | No Peace | 6.00% | ~4 |
 | Bird of Prey | 6.00% | ~4 |
-| Food Poisoning | 6.00% | ~4 |
 | Wicked Sick | 6.00% | ~4 |
 | Usurper II | 6.00% | ~4 |
 | 50Gb HDD | 6.00% | ~4 |
@@ -137,7 +137,7 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68 (Ranked 436)  
+Progressed: 69 (Ranked 436)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,3 +184,4 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-10-20 | 65 | 0 |
 | 2023-11-01 | 66 | 0 |
 | 2023-11-03 | 68 | 0 |
+| 2023-11-05 | 69 | 0 |
