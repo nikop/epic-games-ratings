@@ -20,8 +20,8 @@
 | Maternity | 16.00% | ~85 |
 | Barking in The Rain | 15.00% | ~80 |
 | Family Reunion | 14.00% | ~74 |
+| Never Run Around | 14.00% | ~74 |
 | Beyond Words | 14.00% | ~74 |
-| Never Run Around | 13.00% | ~69 |
 | Two Peas in a Pod | 11.00% | ~58 |
 | All For One | 11.00% | ~58 |
 | Extinction is Forever | 11.00% | ~58 |

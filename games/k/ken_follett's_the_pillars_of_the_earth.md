@@ -27,14 +27,14 @@ Number of Ratings: 368  (23.09.2022)
 | Whodunnit | 12.00% | ~1,945 |
 | Good midwife | 11.00% | ~1,783 |
 | First profit | 11.00% | ~1,783 |
-| Friar Tuck | 10.00% | ~1,620 |
-| Team player | 10.00% | ~1,620 |
-| Skilled merchant | 9.00% | ~1,458 |
-| Nothing but make-believe | 9.00% | ~1,458 |
-| Brother Marcus | 9.00% | ~1,458 |
-| The oath | 9.00% | ~1,458 |
-| The truth revealed | 9.00% | ~1,458 |
-| The End. | 9.00% | ~1,458 |
+| Friar Tuck | 10.00% | ~1,621 |
+| Team player | 10.00% | ~1,621 |
+| Skilled merchant | 9.00% | ~1,459 |
+| Nothing but make-believe | 9.00% | ~1,459 |
+| Brother Marcus | 9.00% | ~1,459 |
+| The oath | 9.00% | ~1,459 |
+| The truth revealed | 9.00% | ~1,459 |
+| The End. | 9.00% | ~1,459 |
 | A cry for help | 8.00% | ~1,296 |
 | Silentium est aureum | 7.00% | ~1,134 |
 | Rebel without a cause | 6.00% | ~972 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~486 |
 | Boy of mystery | 2.00% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,205 (Ranked 144)  
+Progressed: 16,206 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,14 +247,14 @@ Completed: 114 (0.70%) (Ranked 172)
 | 2023-11-02 | 16,125 | 114 |
 | 2023-11-03 | 16,148 | 114 |
 | 2023-11-04 | 16,174 | 114 |
-| 2023-11-05 | 16,205 | 114 |
+| 2023-11-05 | 16,206 | 114 |
 ## Awards
-Max (Easy Puzzles): 154  (Ranked 310)  
-Sum: 197 (Ranked 397)  
+Max (Easy Puzzles): 155  (Ranked 310)  
+Sum: 198 (Ranked 397)  
 Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 154 |
+| This game features Easy Puzzles | 155 |
 | In this game, your choices Impact the Story | 43 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -350,3 +350,4 @@ Diff (max vs sum): -87
 | 2023-10-20 | 4.51 | - | 153 | 195 |
 | 2023-10-25 | 4.51 | - | 154 | 196 |
 | 2023-10-26 | 4.51 | - | 154 | 197 |
+| 2023-11-05 | 4.51 | - | 155 | 198 |

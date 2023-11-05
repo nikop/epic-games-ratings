@@ -10,7 +10,7 @@
 | Broken toy | 77.00% | ~162 |
 | Egghead Lucy | 76.00% | ~160 |
 | Puppy | 62.00% | ~130 |
-| Coal's fur | 57.00% | ~120 |
+| Coal's fur | 58.00% | ~122 |
 | Blue's drawing | 53.00% | ~111 |
 | Mysterious footprints | 48.00% | ~101 |
 | Glass shards | 46.00% | ~97 |
@@ -20,7 +20,7 @@
 | Doll | 38.00% | ~80 |
 | Mysterious paintings | 35.00% | ~74 |
 | Cat | 32.00% | ~67 |
-| Depths of the well | 27.00% | ~57 |
+| Depths of the well | 28.00% | ~59 |
 | Children | 23.00% | ~48 |
 | Huge Snail | 16.00% | ~34 |
 | Flower of hope | 14.00% | ~29 |

@@ -48,8 +48,8 @@ Number of Ratings: 88  (23.09.2022)
 | The Lion’s Den | 3.00% | ~1,314 |
 | Forest Spirits | 3.00% | ~1,314 |
 | Hot Potato | 2.00% | ~876 |
+| Anger Management | 2.00% | ~876 |
 | Legacy | 2.00% | ~876 |
-| Anger Management | 1.00% | ~438 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43,813 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 186)  

@@ -25,23 +25,23 @@ Rating: 4.55 (Ranked 500)
 | Safe Cracker | 1.00% | ~6 |
 | Madame Undersecretary | 1.00% | ~6 |
 | Thorston Mayer | 0.90% | ~132 |
+| Master Negotiator | 0.90% | ~6 |
 | Bottoms up! | 0.80% | ~117 |
 | Miraculous Maya | 0.80% | ~117 |
-| Master Negotiator | 0.80% | ~5 |
 | Doctor Approved | 0.70% | ~103 |
-| Data Logger | 0.40% | ~59 |
+| Data Logger | 0.50% | ~73 |
 | No Belter Left Behind | 0.40% | ~59 |
 | Data Master | 0.40% | ~59 |
 | Brother's Reaper | 0.30% | ~44 |
 | Debris Spree | 0.30% | ~44 |
+| Data Recoverer | 0.30% | ~44 |
 | Urshanabi Hoarder | 0.20% | ~29 |
-| Data Recoverer | 0.20% | ~29 |
 | Data Miner | 0.10% | ~15 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,682 (Ranked 146)  
+Progressed: 14,684 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 32 (0.22%) (Ranked 235)
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
-| 2023-11-05 | 14,682 | 32 |
+| 2023-11-05 | 14,684 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

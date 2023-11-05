@@ -15,10 +15,10 @@
 | Sign of weakness | 31.00% | ~17 |
 | Finished it | 30.00% | ~16 |
 | Face your fears | 17.00% | ~9 |
-| First steps | 13.00% | ~7 |
+| First steps | 15.00% | ~8 |
+| Tough conversation | 15.00% | ~8 |
+| Breaking free | 13.00% | ~7 |
 | Playtime | 13.00% | ~7 |
-| Tough conversation | 13.00% | ~7 |
-| Breaking free | 11.00% | ~6 |
 | The tragedy unfolds | 11.00% | ~6 |
 | Debut | 9.00% | ~5 |
 | The art of movement | 9.00% | ~5 |

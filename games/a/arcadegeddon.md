@@ -6,25 +6,25 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,373 |
-| Photogenic | 85.00% | ~8,088 |
-| Surge Gauntlet Jockey | 82.00% | ~7,802 |
-| Plug It In | 81.00% | ~7,707 |
+| Let's Get This Party Started | 88.00% | ~8,374 |
+| Photogenic | 85.00% | ~8,089 |
+| Surge Gauntlet Jockey | 82.00% | ~7,803 |
+| Plug It In | 81.00% | ~7,708 |
 | Adventure Time | 77.00% | ~7,327 |
-| Playing With Power | 75.00% | ~7,136 |
+| Playing With Power | 75.00% | ~7,137 |
 | Coup d'Etat | 57.00% | ~5,424 |
-| You're Fired | 56.00% | ~5,328 |
-| Get Furious | 55.00% | ~5,233 |
-| Hacks In Stacks | 54.00% | ~5,138 |
+| You're Fired | 56.00% | ~5,329 |
+| Get Furious | 55.00% | ~5,234 |
+| Hacks In Stacks | 54.00% | ~5,139 |
 | Gunplay And Cosplay | 53.00% | ~5,043 |
-| Meching Enemies | 47.00% | ~4,472 |
-| Ticket Toddler | 43.00% | ~4,091 |
+| Meching Enemies | 47.00% | ~4,473 |
+| Ticket Toddler | 43.00% | ~4,092 |
 | Booty Bashing | 38.00% | ~3,616 |
 | Field Medic | 37.00% | ~3,521 |
-| Here Comes a New Challenger | 36.00% | ~3,425 |
+| Here Comes a New Challenger | 36.00% | ~3,426 |
 | Rapid Response | 32.00% | ~3,045 |
-| Surge Ahead | 30.00% | ~2,854 |
-| The Full Monty | 30.00% | ~2,854 |
+| Surge Ahead | 30.00% | ~2,855 |
+| The Full Monty | 30.00% | ~2,855 |
 | Guardian Angel | 27.00% | ~2,569 |
 | Poppin Noggins | 24.00% | ~2,284 |
 | Clips and Crits | 19.00% | ~1,808 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,515 (Ranked 158)  
+Progressed: 9,516 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 1 (0.01%) (Ranked 320)
 | 2023-11-02 | 9,467 | 1 |
 | 2023-11-03 | 9,482 | 1 |
 | 2023-11-04 | 9,499 | 1 |
-| 2023-11-05 | 9,515 | 1 |
+| 2023-11-05 | 9,516 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 405)  
 Sum: 463 (Ranked 327)  

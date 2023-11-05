@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
@@ -1545,6 +1545,11 @@
       "Time": "2023-11-05T18:04:40.6883754+00:00",
       "NumProgressed": 507,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T21:04:18.6311582+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1565,7 +1570,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_eou2",
@@ -1621,7 +1626,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_mg2",
@@ -1637,7 +1642,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_rogue",
@@ -1645,7 +1650,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_xatrix",
@@ -1660,14 +1665,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:06:24.802218+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:04:18.6311575+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:42.0559682+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:01:47.4987956+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:06:24.802234+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:59:24.0398204+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:04:18.6311844+00:00"
 }

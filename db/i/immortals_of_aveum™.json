@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -840,9 +840,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_10",
@@ -984,9 +984,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_36",
@@ -1072,9 +1072,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "achievement_49",
@@ -1225,8 +1225,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:07:07.0878761+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:04:44.7356595+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:03:32.2033125+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:07:07.0879123+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:01:02.6296948+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:04:44.7357234+00:00"
 }

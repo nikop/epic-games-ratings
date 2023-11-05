@@ -5,48 +5,48 @@ Rating: 4.68 (Ranked 251)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~4,562 |
-| On the Top Step | 85.00% | ~4,215 |
-| Setting up for Success | 74.00% | ~3,670 |
-| Team Orders | 72.00% | ~3,570 |
-| Engineer | 53.00% | ~2,628 |
-| Familiar Faces | 47.00% | ~2,331 |
-| Going the Extra Mile | 41.00% | ~2,033 |
-| Sharing the Love | 39.00% | ~1,934 |
-| Hitting a Season | 34.00% | ~1,686 |
-| Challenge Yourself | 31.00% | ~1,537 |
-| Making History | 30.00% | ~1,488 |
-| A Dozen Pieces | 29.00% | ~1,438 |
-| Network Success | 25.00% | ~1,240 |
-| Writing a new Chapter | 24.00% | ~1,190 |
-| Spring Cleaning | 23.00% | ~1,141 |
-| Reduce | 19.00% | ~942 |
-| Ups and Downs | 19.00% | ~942 |
-| Crucial Combo | 17.00% | ~843 |
-| Reuse | 16.00% | ~793 |
-| One for the Book | 16.00% | ~793 |
-| Proving Them Wrong | 15.00% | ~744 |
-| Gathering Dust | 14.00% | ~694 |
-| Oil and Water | 13.00% | ~645 |
-| Hitting a Bullseye | 13.00% | ~645 |
-| Eagle Eye | 12.00% | ~595 |
-| Lightning Round the World | 12.00% | ~595 |
-| Spinning Around | 12.00% | ~595 |
-| All in a Weekend's Work | 11.00% | ~545 |
-| Switcheroo | 11.00% | ~545 |
-| Recycle | 11.00% | ~545 |
-| Friendly Competition | 10.00% | ~496 |
-| Tinkerer | 10.00% | ~496 |
-| Undisputed Winner | 8.00% | ~397 |
-| Living up to Expectations | 6.00% | ~298 |
-| Smooth Operator | 6.00% | ~298 |
-| For all Those Back at the Factory | 5.00% | ~248 |
-| Peak Performance | 5.00% | ~248 |
-| Loyal Bond | 4.00% | ~198 |
+| Getting on the Step | 92.00% | ~4,584 |
+| On the Top Step | 85.00% | ~4,236 |
+| Setting up for Success | 74.00% | ~3,687 |
+| Team Orders | 72.00% | ~3,588 |
+| Engineer | 53.00% | ~2,641 |
+| Familiar Faces | 47.00% | ~2,342 |
+| Going the Extra Mile | 41.00% | ~2,043 |
+| Sharing the Love | 39.00% | ~1,943 |
+| Hitting a Season | 34.00% | ~1,694 |
+| Challenge Yourself | 31.00% | ~1,545 |
+| Making History | 30.00% | ~1,495 |
+| A Dozen Pieces | 29.00% | ~1,445 |
+| Network Success | 24.00% | ~1,196 |
+| Writing a new Chapter | 24.00% | ~1,196 |
+| Spring Cleaning | 23.00% | ~1,146 |
+| Reduce | 19.00% | ~947 |
+| Ups and Downs | 19.00% | ~947 |
+| Crucial Combo | 17.00% | ~847 |
+| Reuse | 16.00% | ~797 |
+| One for the Book | 16.00% | ~797 |
+| Proving Them Wrong | 15.00% | ~747 |
+| Gathering Dust | 14.00% | ~698 |
+| Oil and Water | 13.00% | ~648 |
+| Hitting a Bullseye | 13.00% | ~648 |
+| Eagle Eye | 12.00% | ~598 |
+| Lightning Round the World | 12.00% | ~598 |
+| All in a Weekend's Work | 11.00% | ~548 |
+| Switcheroo | 11.00% | ~548 |
+| Spinning Around | 11.00% | ~548 |
+| Recycle | 11.00% | ~548 |
+| Friendly Competition | 10.00% | ~498 |
+| Tinkerer | 10.00% | ~498 |
+| Undisputed Winner | 8.00% | ~399 |
+| Living up to Expectations | 6.00% | ~299 |
+| Smooth Operator | 6.00% | ~299 |
+| For all Those Back at the Factory | 5.00% | ~249 |
+| Peak Performance | 5.00% | ~249 |
+| Loyal Bond | 4.00% | ~199 |
 | Seasoned Rookie | 3.00% | ~149 |
 | Hitting a Century | 3.00% | ~149 |
-| Wait, I know you? | 2.00% | ~99 |
-| Filling in the Gaps | 2.00% | ~99 |
+| Wait, I know you? | 2.00% | ~100 |
+| Filling in the Gaps | 2.00% | ~100 |
 | Under the Microscope | 1.00% | ~50 |
 | Saturday Night Drama | 1.00% | ~50 |
 | Media Darling | 1.00% | ~50 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 251)
 | Elite Racer | 0.10% | ~5 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,959 (Ranked 183)  
+Progressed: 4,983 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,15 +108,15 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 4,338 | 0 |
 | 2023-11-03 | 4,552 | 0 |
 | 2023-11-04 | 4,767 | 0 |
-| 2023-11-05 | 4,959 | 0 |
+| 2023-11-05 | 4,983 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 24  (Ranked 519)  
-Sum: 45 (Ranked 485)  
-Diff (max vs sum): 34  
+Sum: 47 (Ranked 484)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 24 |
-| This game is Great for Beginners | 21 |
+| This game is Great for Beginners | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -181,3 +181,4 @@ Diff (max vs sum): 34
 | 2023-11-02 | 4.69 | 21 | 21 |
 | 2023-11-03 | 4.69 | 24 | 45 |
 | 2023-11-04 | 4.68 | 24 | 45 |
+| 2023-11-05 | 4.68 | 24 | 47 |

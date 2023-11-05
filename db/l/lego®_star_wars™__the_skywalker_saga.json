@@ -3557,9 +3557,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51926,
+  "EOS_Progressed": 51927,
   "EOS_Completed": 246,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -13507,6 +13507,11 @@
       "Time": "2023-11-05T15:08:36.5501373+00:00",
       "NumProgressed": 51926,
       "NumCompleted": 246
+    },
+    {
+      "Time": "2023-11-05T21:08:35.4085866+00:00",
+      "NumProgressed": 51927,
+      "NumCompleted": 246
     }
   ],
   "TotalAchievements": 45,
@@ -13630,7 +13635,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30636
+      "UsersEstimate": 30637
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13638,7 +13643,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24405
+      "UsersEstimate": 24406
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -13646,7 +13651,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20770
+      "UsersEstimate": 20771
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -13654,7 +13659,7 @@
       "Name": "A New Hope",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 24924
+      "UsersEstimate": 24925
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -13670,7 +13675,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16616
+      "UsersEstimate": 16617
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -13758,7 +13763,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30636
+      "UsersEstimate": 30637
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -13782,7 +13787,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50368
+      "UsersEstimate": 50369
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13854,7 +13859,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 28040
+      "UsersEstimate": 28041
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -13877,15 +13882,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51926,
+      "Progressed": 51927,
       "Completed": 246
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-04T10:58:18.5364018+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:09:51.226982+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:08:35.408586+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:19.1753674+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:01:25.7237501+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:09:51.2270536+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:59:04.4009614+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:08:35.4087283+00:00"
 }

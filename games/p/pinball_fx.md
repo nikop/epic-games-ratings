@@ -1,16 +1,16 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.06 (Ranked 969)  
+Rating: 4.06 (Ranked 970)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~228,149 |
-| I know the Rules | 35.00% | ~97,380 |
-| I Found it! | 11.00% | ~30,605 |
-| Contender | 10.00% | ~27,823 |
-| First but not Last | 4.00% | ~11,129 |
+| Ball Launched | 82.00% | ~228,163 |
+| I know the Rules | 35.00% | ~97,387 |
+| I Found it! | 11.00% | ~30,607 |
+| Contender | 10.00% | ~27,825 |
+| First but not Last | 4.00% | ~11,130 |
 | Ready Steady Score | 3.00% | ~8,347 |
 | Dress Code | 3.00% | ~8,347 |
 | Full Loot Madness | 2.00% | ~5,565 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278,230 (Ranked 53)  
+Progressed: 278,248 (Ranked 53)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 276,933 | 0 |
 | 2023-11-03 | 277,460 | 0 |
 | 2023-11-04 | 277,887 | 0 |
-| 2023-11-05 | 278,230 | 0 |
+| 2023-11-05 | 278,248 | 0 |
 ## Awards
 Max (Great for Beginners): 199  (Ranked 286)  
-Sum: 1,590 (Ranked 225)  
+Sum: 1,591 (Ranked 225)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): 61
 | This game has Quickly Understood Controls | 165 |
 | This game is Relaxing | 164 |
 | This game is Highly Recommended | 157 |
-| This game is Extremely Fun | 156 |
+| This game is Extremely Fun | 157 |
 | This game has Competitive Players | 152 |
 | This game has Challenging Combat | 110 |
 | This game has a Competitive Community | 105 |
@@ -440,3 +440,4 @@ Diff (max vs sum): 61
 | 2023-11-01 | 4.06 | - | 198 | 1,587 |
 | 2023-11-02 | 4.06 | - | 198 | 1,589 |
 | 2023-11-03 | 4.06 | - | 199 | 1,590 |
+| 2023-11-05 | 4.06 | - | 199 | 1,591 |

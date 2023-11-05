@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,7 +211,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14682,
+  "EOS_Progressed": 14684,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 4,
@@ -10496,6 +10496,11 @@
       "Time": "2023-11-05T20:08:36.513624+00:00",
       "NumProgressed": 14682,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-05T21:06:34.5483767+00:00",
+      "NumProgressed": 14684,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10594,9 +10599,9 @@
       "ID": "2",
       "SetID": "458bbdk",
       "Name": "Data Logger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 73
     },
     {
       "ID": "20",
@@ -10730,9 +10735,9 @@
       "ID": "8",
       "SetID": "458bbdk",
       "Name": "Data Recoverer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "9",
@@ -10770,9 +10775,9 @@
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "35",
@@ -10787,22 +10792,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14682,
+      "Progressed": 14684,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 636,
-      "Completed": 389
+      "Progressed": 638,
+      "Completed": 392
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:08:36.5136236+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:06:34.5483762+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:03:18.6204066+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:08:36.5136937+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:00:48.3680806+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:06:34.548459+00:00"
 }

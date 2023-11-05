@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -532,18 +532,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2023-11-05T20:58:42.6420625+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 198,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 197,
-  "NumberOfAwardsMax": 154,
+  "NumberOfAwards": 198,
+  "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 154
+      "Count": 155
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -552,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16205,
+  "EOS_Progressed": 16206,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
@@ -13522,6 +13528,11 @@
       "Time": "2023-11-05T20:04:28.7849929+00:00",
       "NumProgressed": 16205,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-05T21:03:01.9164199+00:00",
+      "NumProgressed": 16206,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13605,7 +13616,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "tpote_achievement_19",
@@ -13701,7 +13712,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_3",
@@ -13717,7 +13728,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "tpote_achievement_31",
@@ -13741,7 +13752,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_34",
@@ -13765,7 +13776,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_37",
@@ -13789,7 +13800,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_4",
@@ -13805,7 +13816,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_41",
@@ -13813,7 +13824,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "tpote_achievement_5",
@@ -13860,15 +13871,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16205,
+      "Progressed": 16206,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2023-10-26T12:01:02.3942049+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:04:28.7849926+00:00",
+  "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:03:01.9164191+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:00:42.0371786+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:04:28.7851372+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:58:42.6420629+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:03:01.9165314+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2112,
+  "EOS_Progressed": 2113,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6546,6 +6546,11 @@
       "Time": "2023-11-05T18:07:25.6523976+00:00",
       "NumProgressed": 2112,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-05T21:06:48.0702373+00:00",
+      "NumProgressed": 2113,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6773,7 +6778,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "guardianmaster",
@@ -6821,7 +6826,7 @@
       "Name": "Hunter",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "inspection",
@@ -6925,7 +6930,7 @@
       "Name": "Mythic Power",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "naturaltalent",
@@ -6949,7 +6954,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "prestigiousx10",
@@ -7053,7 +7058,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "theunstoppable",
@@ -7117,7 +7122,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "warmachinesarmy",
@@ -7141,7 +7146,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "worldmap",
@@ -7149,14 +7154,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2112,
+      "Progressed": 2113,
       "Completed": 2
     }
   ],
@@ -7164,8 +7169,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:08:47.6749115+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:06:48.0702365+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:03:05.7607942+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:08:47.6750006+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:00:36.7961003+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:06:48.0703598+00:00"
 }

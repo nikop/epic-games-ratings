@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 43,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 452,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6,
+  "EOS_Completed_Percentage": 5.97,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1945,6 +1945,11 @@
       "Time": "2023-11-05T20:04:36.3960089+00:00",
       "NumProgressed": 450,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T21:03:10.7848012+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1954,9 +1959,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 68
     },
     {
       "ID": "END_GOOD",
@@ -2004,7 +2009,7 @@
       "Name": "Open door",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2018,9 +2023,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 59
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2052,7 +2057,7 @@
       "Name": "Alchemists Express",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2098,9 +2103,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 140
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2116,7 +2121,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "PROGRESS_N2",
@@ -2124,7 +2129,7 @@
       "Name": "The great escape",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "PROGRESS_N3",
@@ -2132,7 +2137,7 @@
       "Name": "A new dawn",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PROGRESS_N4",
@@ -2155,14 +2160,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 452,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:04:36.3960085+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:03:10.7848007+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:04:03.3296119+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:04:36.3960364+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:01:38.278768+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:03:10.7848414+00:00"
 }

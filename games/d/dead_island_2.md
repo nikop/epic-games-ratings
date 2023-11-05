@@ -1,18 +1,19 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 521)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~390 |
-| Pork Chopped | 1.00% | ~390 |
+| Whatever It Takes | 1.00% | ~391 |
+| Pork Chopped | 1.00% | ~391 |
 | One of Us | 0.80% | ~312 |
-| Break A Leg | 0.30% | ~2,140 |
-| Coup de Grâce | 0.30% | ~2,140 |
-| Hazardous Materials | 0.30% | ~2,140 |
-| Hotel California | 0.30% | ~2,140 |
-| Welcome To Hell-A | 0.30% | ~2,140 |
+| Break A Leg | 0.30% | ~2,141 |
+| Coup de Grâce | 0.30% | ~2,141 |
+| Hazardous Materials | 0.30% | ~2,141 |
+| Hotel California | 0.30% | ~2,141 |
+| Personal Assistant Personally Assisted | 0.30% | ~2,141 |
+| Welcome To Hell-A | 0.30% | ~2,141 |
 | Dr. Reed, I Presume? | 0.20% | ~1,427 |
 | Git Gutte! | 0.20% | ~1,427 |
 | Anger Management | 0.20% | ~1,427 |
@@ -31,34 +32,33 @@ Rating: 4.54 (Ranked 522)
 | A Patton Emerges | 0.20% | ~1,427 |
 | I Am the Resurrection | 0.20% | ~1,427 |
 | Stacking the Deck | 0.20% | ~1,427 |
-| Personal Assistant Personally Assisted | 0.20% | ~1,427 |
 | Max Headroom | 0.20% | ~1,427 |
 | Our True Nature | 0.20% | ~1,427 |
 | This is My Weapon | 0.20% | ~1,427 |
-| Making Your Mark | 0.10% | ~713 |
-| Make it So | 0.10% | ~713 |
-| LA Influential | 0.10% | ~713 |
-| On Safari | 0.10% | ~713 |
-| Smorgasbord | 0.10% | ~713 |
-| Donk! | 0.10% | ~713 |
-| Internet Famous | 0.10% | ~713 |
-| Sole Survivor | 0.10% | ~713 |
-| Jumbo Keyring | 0.10% | ~713 |
-| Gore Horse | 0.10% | ~713 |
-| Humanity Distilled | 0.10% | ~713 |
-| Down with the Sickness | 0.10% | ~713 |
-| Sharpest Tool in the Box | 0.10% | ~713 |
-| Survival Skills | 0.10% | ~713 |
-| Go, Bobcats! | 0.10% | ~713 |
-| Variety is the Spice of Death | 0.10% | ~713 |
-| Rising Star | 0.10% | ~713 |
-| Bucket List | 0.10% | ~713 |
+| Making Your Mark | 0.10% | ~714 |
+| Make it So | 0.10% | ~714 |
+| LA Influential | 0.10% | ~714 |
+| On Safari | 0.10% | ~714 |
+| Smorgasbord | 0.10% | ~714 |
+| Donk! | 0.10% | ~714 |
+| Internet Famous | 0.10% | ~714 |
+| Sole Survivor | 0.10% | ~714 |
+| Jumbo Keyring | 0.10% | ~714 |
+| Gore Horse | 0.10% | ~714 |
+| Humanity Distilled | 0.10% | ~714 |
+| Down with the Sickness | 0.10% | ~714 |
+| Sharpest Tool in the Box | 0.10% | ~714 |
+| Survival Skills | 0.10% | ~714 |
+| Go, Bobcats! | 0.10% | ~714 |
+| Variety is the Spice of Death | 0.10% | ~714 |
+| Rising Star | 0.10% | ~714 |
+| Bucket List | 0.10% | ~714 |
 | Lawn and Order | 0.10% | ~39 |
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,470 (Ranked 21)  
-Completed: 2,338 (0.33%) (Ranked 217)  
+Progressed: 713,511 (Ranked 21)  
+Completed: 2,340 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 2,338 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,470 | 2,338 |
+| 2023-11-05 | 713,511 | 2,340 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,687 (Ranked 89)  

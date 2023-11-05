@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -404,9 +404,9 @@
       "ID": "DogHair",
       "SetID": "9kk0gal",
       "Name": "Coal\u0027s fur",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "Doll",
@@ -572,9 +572,9 @@
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "Windmill",
@@ -597,8 +597,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:09:48.8463817+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:08:32.4937784+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:44.1521466+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:01:05.1287017+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:09:48.8463971+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:58:52.4122472+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:08:32.4937999+00:00"
 }

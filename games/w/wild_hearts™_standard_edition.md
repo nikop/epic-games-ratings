@@ -16,7 +16,7 @@
 | Subsistence Skills | 64.00% | ~146 |
 | Kemono Hunter | 61.00% | ~139 |
 | Expert Conjuror | 60.00% | ~137 |
-| Distance Devourer | 55.00% | ~125 |
+| Distance Devourer | 56.00% | ~128 |
 | Helpful Heart | 54.00% | ~123 |
 | Master of the Skies | 53.00% | ~121 |
 | Flawless Crystal | 53.00% | ~121 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~25 |
 | Tsukumo Whisperer | 7.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228 (Ranked 350)  
+Progressed: 228 (Ranked 349)  
 Completed: 6 (2.63%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,7 +770,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4685,
+  "EOS_Progressed": 4686,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
@@ -8745,6 +8745,11 @@
       "Time": "2023-11-05T20:11:22.7243719+00:00",
       "NumProgressed": 4685,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-05T21:09:23.346449+00:00",
+      "NumProgressed": 4686,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8757,7 +8762,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8805,7 +8810,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8845,7 +8850,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -8853,7 +8858,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8940,15 +8945,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4685,
+      "Progressed": 4686,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:11:22.7243714+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:09:23.3464484+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:03:58.0941668+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:11:22.7244284+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:01:31.7476499+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:09:23.3465676+00:00"
 }

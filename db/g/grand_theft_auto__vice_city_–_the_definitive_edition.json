@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 154,
@@ -811,9 +811,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 10875,
+  "EOS_Progressed": 10878,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12371,6 +12371,11 @@
       "Time": "2023-11-05T20:04:38.1999889+00:00",
       "NumProgressed": 10875,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-05T21:03:12.9784219+00:00",
+      "NumProgressed": 10878,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12462,7 +12467,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ACH12",
@@ -12470,7 +12475,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH13",
@@ -12486,7 +12491,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH15",
@@ -12542,7 +12547,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5004
     },
     {
       "ID": "ACH22",
@@ -12550,7 +12555,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH23",
@@ -12566,7 +12571,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH25",
@@ -12574,7 +12579,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "ACH26",
@@ -12653,7 +12658,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10875,
+      "Progressed": 10878,
       "Completed": 64
     }
   ],
@@ -12661,8 +12666,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-05T12:02:33.9873792+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:04:38.1999885+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:03:12.9784214+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:04:14.7108437+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:04:38.2001128+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:02:41.9018315+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:03:12.9785249+00:00"
 }

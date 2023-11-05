@@ -14,7 +14,7 @@
 | Keep away from children | 36.00% | ~50 |
 | Artistic fool | 35.00% | ~49 |
 | Let the boot talk | 32.00% | ~44 |
-| Chapter II | 27.00% | ~38 |
+| Chapter II | 28.00% | ~39 |
 | Shadow on the wall | 25.00% | ~35 |
 | Handyman | 24.00% | ~33 |
 | Bubblekillerfamily | 24.00% | ~33 |
@@ -28,7 +28,7 @@
 | Home is where the heart is | 18.00% | ~25 |
 | It's not easy being green! | 17.00% | ~24 |
 | Death is a part of life | 16.00% | ~22 |
-| Master of Thermodynamics | 14.00% | ~19 |
+| Master of Thermodynamics | 15.00% | ~21 |
 | To err is human... | 12.00% | ~17 |
 | Unfullfilled dreams | 12.00% | ~17 |
 | Useless but beautiful | 10.00% | ~14 |

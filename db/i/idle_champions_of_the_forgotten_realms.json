@@ -2,11 +2,11 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -7849,10 +7849,10 @@
       "Count": 3506
     }
   ],
-  "EOS_Progressed": 233761,
+  "EOS_Progressed": 233765,
   "EOS_Completed": 2432,
-  "EOS_NewPlayers": 576,
-  "EOS_NewCompleters": 33,
+  "EOS_NewPlayers": 574,
+  "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -30134,6 +30134,11 @@
       "Time": "2023-11-05T20:04:52.3119412+00:00",
       "NumProgressed": 233761,
       "NumCompleted": 2432
+    },
+    {
+      "Time": "2023-11-05T21:03:29.9816052+00:00",
+      "NumProgressed": 233765,
+      "NumCompleted": 2432
     }
   ],
   "TotalAchievements": 532,
@@ -34400,21 +34405,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200035,
+      "Progressed": 200039,
       "Completed": 3886
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233761,
+      "Progressed": 233765,
       "Completed": 2432
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-05T18:59:51.953661+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:04:52.3119408+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:03:29.9816045+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:03:15.7288976+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:04:52.3144952+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:00:46.301559+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:03:29.9846898+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1319,10 +1319,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 348,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-05T21:00:16.5008827+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 350,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 348,
+  "NumberOfAwards": 350,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1360,7 +1366,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1381,9 +1387,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156786,
+  "EOS_Progressed": 156798,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14501,6 +14507,11 @@
       "Time": "2023-11-05T20:09:29.5811826+00:00",
       "NumProgressed": 156786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T21:07:39.2617037+00:00",
+      "NumProgressed": 156798,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14576,7 +14587,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14728,7 +14739,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14879,21 +14890,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156369,
+      "Progressed": 156381,
       "Completed": 1190
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156786,
+      "Progressed": 156798,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-05T17:10:51.7205905+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:09:29.5811821+00:00",
+  "LastChanged": "2023-11-05T21:00:16.5008825+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:07:39.2617028+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:02:43.8490418+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:09:29.5812733+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:00:16.5008833+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:07:39.2618082+00:00"
 }

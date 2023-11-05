@@ -8,9 +8,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 5.00% | ~758 |
 | Play a Single Player Game | 5.00% | ~758 |
-| Explorer | 4.00% | ~606 |
-| Intrepid | 4.00% | ~606 |
-| Friendly Family | 4.00% | ~606 |
+| Explorer | 4.00% | ~607 |
+| Intrepid | 4.00% | ~607 |
+| Friendly Family | 4.00% | ~607 |
 | Able | 3.00% | ~455 |
 | Architect | 3.00% | ~455 |
 | Glorious | 3.00% | ~455 |
@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | Phalangite | 0.90% | ~136 |
+| Ambition Victory | 0.90% | ~136 |
 | Capable | 0.80% | ~121 |
 | Strong Difficulty | 0.80% | ~121 |
 | Church of the Holy Sepulchre | 0.80% | ~121 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.80% | ~121 |
 | Veneration | 0.80% | ~121 |
 | Mounted Lancer | 0.80% | ~121 |
-| Ambition Victory | 0.80% | ~121 |
 | Devout | 0.70% | ~106 |
 | Ready | 0.70% | ~106 |
 | Clerics | 0.70% | ~106 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,161 (Ranked 145)  
+Progressed: 15,164 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,10 +548,10 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,161 | 5 |
+| 2023-11-05 | 15,164 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 270)  
-Sum: 1,867 (Ranked 212)  
+Sum: 1,868 (Ranked 212)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -562,7 +562,7 @@ Diff (max vs sum): 58
 | This game is Educational | 212 |
 | This game has Challenging Combat | 202 |
 | This game has Quickly Understood Controls | 194 |
-| This game has Amazing Characters | 193 |
+| This game has Amazing Characters | 194 |
 | This game has Amazing Storytelling | 191 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -728,3 +728,4 @@ Diff (max vs sum): 58
 | 2023-11-01 | 4.65 | - | 226 | 1,864 |
 | 2023-11-02 | 4.65 | - | 226 | 1,866 |
 | 2023-11-03 | 4.65 | - | 226 | 1,867 |
+| 2023-11-05 | 4.65 | - | 226 | 1,868 |

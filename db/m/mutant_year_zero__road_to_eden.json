@@ -4,11 +4,11 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 583,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 265,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2018-12-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1413,10 +1413,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 955,
       "NumberOfAwardsMax": 650
+    },
+    {
+      "Time": "2023-11-05T20:58:07.8321214+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 956,
+      "NumberOfAwardsMax": 650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 955,
+  "NumberOfAwards": 956,
   "NumberOfAwardsMax": 650,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1472,7 +1478,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1492,8 +1498,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2023-11-05T13:58:07.0611752+00:00",
+  "LastChanged": "2023-11-05T20:58:07.8321213+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:18.8617583+00:00",
-  "LastUpdate_Ratings": "2023-11-05T19:59:30.9767856+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:08:47.8038262+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:58:07.8321219+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:06:48.1453419+00:00"
 }

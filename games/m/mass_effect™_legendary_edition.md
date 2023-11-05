@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~923 |
 | Spectre Inductee | 80.00% | ~794 |
-| Medal of Exploration I | 72.00% | ~715 |
+| Medal of Exploration I | 73.00% | ~725 |
 | Recruit | 69.00% | ~685 |
 | Search and Rescue | 68.00% | ~675 |
 | Quarian Ally | 65.00% | ~645 |
+| Medal of Heroism | 62.00% | ~616 |
 | Honorarium of Corporate Service | 62.00% | ~616 |
-| Medal of Heroism | 61.00% | ~606 |
 | Council Legion of Merit | 56.00% | ~556 |
 | Medal of Exploration II | 55.00% | ~546 |
 | Medal of Honor | 54.00% | ~536 |
@@ -24,7 +24,7 @@
 | Asari Ally | 48.00% | ~477 |
 | Principled | 48.00% | ~477 |
 | Paramour I | 47.00% | ~467 |
-| Colonial Savior | 45.00% | ~447 |
+| Colonial Savior | 46.00% | ~457 |
 | Scientist | 45.00% | ~447 |
 | Krogan Ally | 44.00% | ~437 |
 | Merciless | 44.00% | ~437 |
@@ -62,13 +62,13 @@
 | Revenge! | 31.00% | ~308 |
 | Driven | 31.00% | ~308 |
 | Archivist | 30.00% | ~298 |
+| Friend or Foe | 30.00% | ~298 |
 | Cat's in the Cradle | 30.00% | ~298 |
 | Doppelganger | 30.00% | ~298 |
 | Treason | 30.00% | ~298 |
 | Digital Exorcist | 30.00% | ~298 |
 | Bringer of War | 30.00% | ~298 |
 | Focused | 29.00% | ~288 |
-| Friend or Foe | 29.00% | ~288 |
 | Mission Accomplished | 28.00% | ~278 |
 | Suicide Mission | 28.00% | ~278 |
 | Against All Odds | 28.00% | ~278 |
@@ -80,21 +80,21 @@
 | Eye of the Hurricane | 26.00% | ~258 |
 | World Shaker | 26.00% | ~258 |
 | Weapon Specialist | 25.00% | ~248 |
+| Tunnel Rat | 25.00% | ~248 |
 | Liberator | 25.00% | ~248 |
 | Pathfinder | 24.00% | ~238 |
-| Tunnel Rat | 24.00% | ~238 |
 | Arbiter | 24.00% | ~238 |
 | Savior | 23.00% | ~228 |
 | Lost and Found | 23.00% | ~228 |
 | Paramour II | 22.00% | ~218 |
 | Party Crasher | 21.00% | ~209 |
 | Hard Target | 21.00% | ~209 |
+| Fact Finder | 21.00% | ~209 |
 | Problem Solver | 21.00% | ~209 |
 | Pyromaniac | 20.00% | ~199 |
 | Under Pressure | 20.00% | ~199 |
 | No One Left Behind | 20.00% | ~199 |
 | Saboteur | 20.00% | ~199 |
-| Fact Finder | 20.00% | ~199 |
 | Last Resort | 19.00% | ~189 |
 | Last Witness | 19.00% | ~189 |
 | Well Connected | 19.00% | ~189 |

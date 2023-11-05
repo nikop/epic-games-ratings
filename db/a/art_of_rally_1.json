@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -199,9 +199,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10300,
+  "EOS_Progressed": 10301,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1784,6 +1784,11 @@
       "Time": "2023-11-02T15:05:52.2236076+00:00",
       "NumProgressed": 10300,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-05T21:03:11.7842271+00:00",
+      "NumProgressed": 10301,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1955,7 +1960,7 @@
       "Name": "keep it tidy",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 8034
+      "UsersEstimate": 8035
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -2003,7 +2008,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5871
+      "UsersEstimate": 5872
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -2019,7 +2024,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9888
+      "UsersEstimate": 9889
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -2035,7 +2040,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "ACH_NIGHT",
@@ -2131,22 +2136,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7416
+      "UsersEstimate": 7417
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10300,
+      "Progressed": 10301,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-05T20:04:37.143624+00:00",
+  "LastChanged_Achievements": "2023-11-05T21:03:11.7842265+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.7350139+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:03:52.584776+00:00",
-  "LastUpdate_Achievements": "2023-11-05T20:04:37.1436701+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:01:24.8049404+00:00",
+  "LastUpdate_Achievements": "2023-11-05T21:03:11.7842697+00:00"
 }
