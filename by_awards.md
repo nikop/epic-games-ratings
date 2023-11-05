@@ -21,7 +21,7 @@
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,787 | 4.26 | 862 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,197 | 4.57 | 467 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,752 | 4.89 | 10 |
-| 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,489 | 4.74 | 154 |
+| 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,592 | 4.74 | 154 |
 | 23 | [Warframe](games/w/warframe.md) | 18,180 | 4.60 | 408 |
 | 24 | [League of Legends](games/l/league_of_legends.md) | 17,316 | 4.21 | 894 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 15,787 | 4.76 | 122 |
@@ -72,7 +72,7 @@
 | 70 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,413 | 4.69 | 229 |
 | 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,240 | 4.69 | 229 |
 | 72 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,979 | 4.76 | 122 |
-| 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,833 | 4.60 | 408 |
+| 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,840 | 4.60 | 408 |
 | 74 | [Shop Titans](games/s/shop_titans.md) | 4,819 | 3.99 | 990 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,769 | 4.56 | 483 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,749 | 4.56 | 483 |
@@ -227,7 +227,7 @@
 | 225 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 394 | 4.62 | 364 |
 | 226 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 388 | 4.62 | 364 |
 | 227 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 386 | 4.66 | 291 |
-| 228 | [Severed Steel](games/s/severed_steel.md) | 381 | 4.69 | 229 |
+| 228 | [Severed Steel](games/s/severed_steel.md) | 384 | 4.69 | 229 |
 | 229 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 375 | 4.56 | 483 |
 | 230 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 990 |
 | 231 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 369 | 4.31 | 824 |
@@ -258,8 +258,8 @@
 | 256 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 279 | 4.60 | 408 |
 | 257 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 278 | 4.49 | 604 |
 | 258 | [Sheltered](games/s/sheltered.md) | 275 | 4.41 | 716 |
-| 259 | [MudRunner](games/m/mudrunner.md) | 272 | 4.61 | 382 |
-| 259 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 272 | 4.84 | 50 |
+| 259 | [MudRunner](games/m/mudrunner.md) | 273 | 4.61 | 382 |
+| 260 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 272 | 4.84 | 50 |
 | 261 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 263 | 4.58 | 444 |
 | 262 | [Roller Champions™](games/r/roller_champions™.md) | 261 | 4.34 | 798 |
 | 263 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 256 | 4.45 | 658 |

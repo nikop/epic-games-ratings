@@ -54,7 +54,7 @@
 | 50 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 448 | 212 |
 | 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 547 |
 | 50 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 437 | 216 |
-| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 272 | 259 |
+| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 272 | 260 |
 | 50 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 547 |
 | 57 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 547 |
 | 57 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 547 |
@@ -157,7 +157,7 @@
 | 154 | [Diabotical](games/d/diabotical.md) | 4.74 | 286 | 253 |
 | 154 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 547 |
 | 154 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 833 | 166 |
-| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,489 | 22 |
+| 154 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,592 | 22 |
 | 154 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 547 |
 | 154 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 730 | 176 |
 | 154 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 547 |
@@ -242,7 +242,7 @@
 | 229 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 547 |
 | 229 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,578 | 37 |
 | 229 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 56 | 412 |
-| 229 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 381 | 228 |
+| 229 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 384 | 228 |
 | 229 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 505 |
 | 229 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 547 |
 | 229 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 547 |
@@ -393,7 +393,7 @@
 | 382 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 547 |
 | 382 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 547 |
 | 382 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,296 | 137 |
-| 382 | [MudRunner](games/m/mudrunner.md) | 4.61 | 272 | 259 |
+| 382 | [MudRunner](games/m/mudrunner.md) | 4.61 | 273 | 259 |
 | 382 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,672 | 100 |
 | 382 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 728 | 178 |
 | 382 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 349 |
@@ -411,7 +411,7 @@
 | 408 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 30 | 490 |
 | 408 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,604 | 26 |
 | 408 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 547 |
-| 408 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,833 | 73 |
+| 408 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,840 | 73 |
 | 408 | [Control](games/c/control.md) | 4.60 | 8,666 | 42 |
 | 408 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 221 | 274 |
 | 408 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 77 | 391 |
