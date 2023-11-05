@@ -5,38 +5,38 @@ Rating: 4.76 (Ranked 122)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 15.00% | ~45,129 |
-| First Class Student | 14.00% | ~42,121 |
-| Troll with the Punches | 14.00% | ~42,121 |
-| A Keen Sense of Spell | 13.00% | ~39,112 |
-| A Talent for Spending | 12.00% | ~36,103 |
-| That's a Keeper | 12.00% | ~36,103 |
-| Grappling with a Graphorn | 11.00% | ~33,095 |
-| The One Who Mastered Memories | 11.00% | ~33,095 |
-| The Hallowed Hero | 11.00% | ~33,095 |
-| The Defender of Dragons | 11.00% | ~33,095 |
-| Loom for Improvement | 11.00% | ~33,095 |
-| Coasting Along | 11.00% | ~33,095 |
-| The Hero of Hogwarts | 10.00% | ~30,086 |
-| Challenge Accepted | 10.00% | ~30,086 |
-| Followed the Butterflies | 10.00% | ~30,086 |
-| The Spell Master | 9.00% | ~27,077 |
-| Rising From the Ashes | 9.00% | ~27,077 |
-| The Avenging Gazelle | 8.00% | ~24,069 |
-| Beast Friends | 8.00% | ~24,069 |
-| A Sallow Grave | 8.00% | ~24,069 |
-| Flight the Good Flight | 8.00% | ~24,069 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,139 |
+| First Class Student | 14.00% | ~42,122 |
+| Troll with the Punches | 14.00% | ~42,122 |
+| A Keen Sense of Spell | 13.00% | ~39,113 |
+| A Talent for Spending | 12.00% | ~36,104 |
+| That's a Keeper | 12.00% | ~36,104 |
+| Grappling with a Graphorn | 11.00% | ~33,096 |
+| The One Who Mastered Memories | 11.00% | ~33,096 |
+| The Hallowed Hero | 11.00% | ~33,096 |
+| The Defender of Dragons | 11.00% | ~33,096 |
+| Loom for Improvement | 11.00% | ~33,096 |
+| Coasting Along | 11.00% | ~33,096 |
+| The Hero of Hogwarts | 10.00% | ~30,087 |
+| Challenge Accepted | 10.00% | ~30,087 |
+| Followed the Butterflies | 10.00% | ~30,087 |
+| The Spell Master | 9.00% | ~27,078 |
+| Rising From the Ashes | 9.00% | ~27,078 |
+| The Avenging Gazelle | 8.00% | ~24,070 |
+| Beast Friends | 8.00% | ~24,070 |
+| A Sallow Grave | 8.00% | ~24,070 |
+| Flight the Good Flight | 8.00% | ~24,070 |
 | The Seeker of Knowledge | 6.00% | ~18,052 |
 | The Root of the Problem | 6.00% | ~18,052 |
 | Third Time's a Charm | 6.00% | ~18,052 |
 | Raising Expectations | 6.00% | ~18,052 |
-| The Toast of the Town | 5.00% | ~15,043 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,043 |
-| The Ends Petrify the Means | 5.00% | ~15,043 |
-| Going Through the Potions | 4.00% | ~12,034 |
-| Room with a View | 4.00% | ~12,034 |
-| The Intrepid Explorer | 4.00% | ~12,034 |
-| The Wise Owl | 4.00% | ~12,034 |
+| The Toast of the Town | 5.00% | ~15,044 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,044 |
+| The Ends Petrify the Means | 5.00% | ~15,044 |
+| Going Through the Potions | 4.00% | ~12,035 |
+| Room with a View | 4.00% | ~12,035 |
+| The Intrepid Explorer | 4.00% | ~12,035 |
+| The Wise Owl | 4.00% | ~12,035 |
 | Put Down Roots | 3.00% | ~9,026 |
 | The Auror's Apprentice | 3.00% | ~9,026 |
 | Floo Around the World | 3.00% | ~9,026 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 122)
 | The Nature of the Beast | 0.70% | ~2,106 |
 | Collector's Edition | 0.30% | ~903 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300,861 (Ranked 50)  
+Progressed: 300,870 (Ranked 50)  
 Completed: 500 (0.17%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,9 +250,10 @@ Completed: 500 (0.17%) (Ranked 248)
 | 2023-11-02 | 300,315 | 500 |
 | 2023-11-03 | 300,541 | 500 |
 | 2023-11-04 | 300,861 | 500 |
+| 2023-11-05 | 300,870 | 500 |
 ## Awards
 Max (Character Customization): 24,035  (Ranked 17)  
-Sum: 47,407 (Ranked 30)  
+Sum: 47,412 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -264,9 +265,9 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,204 |
 | This game is Relaxing | 1,189 |
 | This game has Amazing Characters | 1,174 |
-| This game is Highly Recommended | 1,130 |
+| This game is Highly Recommended | 1,133 |
 | This game has Quickly Understood Controls | 1,078 |
-| This game has Beautiful Visuals | 996 |
+| This game has Beautiful Visuals | 998 |
 | This game has a Creative Community | 765 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -497,3 +498,4 @@ Diff (max vs sum): -13
 | 2023-11-02 | 4.76 | 23,989 | 47,266 |
 | 2023-11-03 | 4.76 | 24,015 | 47,347 |
 | 2023-11-04 | 4.76 | 24,035 | 47,407 |
+| 2023-11-05 | 4.76 | 24,035 | 47,412 |

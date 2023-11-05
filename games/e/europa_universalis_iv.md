@@ -6,15 +6,15 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,887 |
-| Until death do us apart | 4.00% | ~17,887 |
-| Victorious! | 4.00% | ~17,887 |
-| That's a Grand Navy | 3.00% | ~13,415 |
-| That is mine! | 3.00% | ~13,415 |
-| Brothers in Arms | 2.00% | ~8,944 |
-| Cold War | 2.00% | ~8,944 |
-| For the Glory | 2.00% | ~8,944 |
-| Seriously?! | 2.00% | ~8,944 |
+| That's a Grand Army | 4.00% | ~17,890 |
+| Until death do us apart | 4.00% | ~17,890 |
+| Victorious! | 4.00% | ~17,890 |
+| That's a Grand Navy | 3.00% | ~13,418 |
+| That is mine! | 3.00% | ~13,418 |
+| Brothers in Arms | 2.00% | ~8,945 |
+| Cold War | 2.00% | ~8,945 |
+| For the Glory | 2.00% | ~8,945 |
+| Seriously?! | 2.00% | ~8,945 |
 | Defender of the Faith | 1.00% | ~4,472 |
 | It's all about luck | 1.00% | ~4,472 |
 | It's all about the money | 1.00% | ~4,472 |
@@ -23,12 +23,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,472 |
 | Truly Divine Ruler | 1.00% | ~4,472 |
 | Blockader | 0.90% | ~4,025 |
-| Double the Love | 0.80% | ~3,577 |
-| Royal Authority | 0.80% | ~3,577 |
-| Total Control | 0.80% | ~3,577 |
-| My armies are invincible! | 0.70% | ~3,130 |
-| Agressive Expander | 0.60% | ~2,683 |
-| Combined Arms | 0.60% | ~2,683 |
+| Double the Love | 0.80% | ~3,578 |
+| Royal Authority | 0.80% | ~3,578 |
+| Total Control | 0.80% | ~3,578 |
+| My armies are invincible! | 0.70% | ~3,131 |
+| Agressive Expander | 0.60% | ~2,684 |
+| Combined Arms | 0.60% | ~2,684 |
 | Azur semé de lis or | 0.50% | ~2,236 |
 | City of Cities | 0.50% | ~2,236 |
 | This navy can take it all | 0.50% | ~2,236 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447,177 (Ranked 41)  
+Progressed: 447,250 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,6 +560,7 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
+| 2023-11-05 | 447,250 | 1 |
 ## Awards
 Max (Educational): 6,830  (Ranked 55)  
 Sum: 56,089 (Ranked 24)  

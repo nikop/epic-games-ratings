@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -323,41 +323,41 @@
       "ID": "12",
       "SetID": "5e3maia",
       "Name": "Stargazer",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "13",
       "SetID": "5e3maia",
       "Name": "Stalker",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "15",
       "SetID": "5e3maia",
       "Name": "Bibliophile",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "17",
@@ -603,9 +603,9 @@
       "ID": "46",
       "SetID": "5e3maia",
       "Name": "Historian",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "47",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:05:34.4637722+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:18:35.4091252+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.2483027+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:59:05.5914018+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:05:34.4638327+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:12:46.3332591+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:18:35.4091715+00:00"
 }

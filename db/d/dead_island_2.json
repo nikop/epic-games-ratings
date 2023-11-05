@@ -6123,10 +6123,10 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712632,
-  "EOS_Completed": 2325,
-  "EOS_NewPlayers": 5782,
-  "EOS_NewCompleters": 49,
+  "EOS_Progressed": 712676,
+  "EOS_Completed": 2326,
+  "EOS_NewPlayers": 5789,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28738,6 +28738,11 @@
       "Time": "2023-11-04T23:04:51.1071601+00:00",
       "NumProgressed": 712632,
       "NumCompleted": 2325
+    },
+    {
+      "Time": "2023-11-05T00:17:56.6639007+00:00",
+      "NumProgressed": 712676,
+      "NumCompleted": 2326
     }
   ],
   "TotalAchievements": 51,
@@ -28747,9 +28752,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1425
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -29133,7 +29138,7 @@
       "Name": "Pork Chopped",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29156,22 +29161,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712632,
-      "Completed": 2325
+      "Progressed": 712676,
+      "Completed": 2326
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38174,
-      "Completed": 36420
+      "Progressed": 38218,
+      "Completed": 36422
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-04T20:00:41.4959377+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:04:51.1071597+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:17:56.6639005+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-04T23:00:32.3587784+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:04:51.1073051+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:14:29.654663+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:17:56.6640204+00:00"
 }

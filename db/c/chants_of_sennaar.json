@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.26,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1880,6 +1880,11 @@
       "Time": "2023-11-04T23:08:14.997683+00:00",
       "NumProgressed": 431,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T00:20:23.2861993+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1913,9 +1918,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1929,9 +1934,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1963,7 +1968,7 @@
       "Name": "A great audience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "META_RESULT_2-4",
@@ -1971,7 +1976,7 @@
       "Name": "For its own good",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2001,9 +2006,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 78
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2025,9 +2030,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2035,7 +2040,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2090,14 +2095,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:08:14.9976829+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:20:23.2861991+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-04T23:00:36.3475007+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:08:14.9977007+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:14:33.1603157+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:20:23.2862217+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 605,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.81,
   "EosHistory": [
@@ -1764,6 +1764,11 @@
       "Time": "2023-11-04T23:04:45.1641731+00:00",
       "NumProgressed": 604,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-05T00:17:51.1043672+00:00",
+      "NumProgressed": 605,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 11,
@@ -1775,7 +1780,7 @@
       "Name": "Pit-house",
       "Percentage": 93,
       "XP": 45,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "LEVEL_003",
@@ -1783,7 +1788,7 @@
       "Name": "Smith house",
       "Percentage": 85,
       "XP": 45,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "LEVEL_004",
@@ -1791,7 +1796,7 @@
       "Name": "Two-story house",
       "Percentage": 73,
       "XP": 45,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "LEVEL_006",
@@ -1799,7 +1804,7 @@
       "Name": "Market",
       "Percentage": 60,
       "XP": 95,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "LEVEL_012",
@@ -1813,9 +1818,9 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 95,
-      "UsersEstimate": 127
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_019",
@@ -1862,14 +1867,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 605,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:04:45.1641729+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:17:51.1043668+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:58:57.4401535+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:04:45.1641848+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:12:35.6991896+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:17:51.1043829+00:00"
 }

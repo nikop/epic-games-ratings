@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1637,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2338,6 +2338,11 @@
       "Time": "2023-11-04T21:14:29.7171893+00:00",
       "NumProgressed": 1637,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-05T00:15:39.5897818+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2349,7 +2354,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2357,7 +2362,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2397,7 +2402,7 @@
       "Name": "K.O.!",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -2405,7 +2410,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2413,7 +2418,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2421,7 +2426,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -2445,7 +2450,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -2453,7 +2458,7 @@
       "Name": "Sous Chef",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENTS_15",
@@ -2485,7 +2490,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2613,7 +2618,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -2629,7 +2634,7 @@
       "Name": "Grape Supplier",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENTS_37",
@@ -2652,7 +2657,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1637,
+      "Progressed": 1638,
       "Completed": 10
     }
   ],
@@ -2660,8 +2665,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:03:35.8636718+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:15:39.5897814+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:07.3455768+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:58:49.87614+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:03:35.8636973+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:12:15.2067696+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:15:39.5898087+00:00"
 }

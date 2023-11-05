@@ -14,20 +14,20 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 1.00% | ~63 |
 | I'm on a Boat! | 1.00% | ~63 |
 | Fish Out of Water | 0.90% | ~57 |
-| Things that go Splash in the Night | 0.70% | ~44 |
+| Things that go Splash in the Night | 0.80% | ~51 |
 | Goldfish? | 0.70% | ~44 |
-| Going for Gold | 0.50% | ~32 |
+| Going for Gold | 0.60% | ~38 |
 | Live by the Rod, Diez by the Rod! | 0.40% | ~23 |
 | License to Gill | 0.30% | ~19 |
 | School's Out for Summer | 0.30% | ~19 |
 | Aguas Claras Conquistador | 0.30% | ~17 |
 | All Good Kings Must Come to an End | 0.30% | ~17 |
+| I'm the Captain Now | 0.20% | ~13 |
 | Marathon | 0.20% | ~13 |
 | I'm Hooked! | 0.20% | ~13 |
 | Golden Ridge Ranger | 0.20% | ~13 |
 | Three Square Meals | 0.20% | ~11 |
 | More than a Tourist | 0.10% | ~6 |
-| I'm the Captain Now | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
 | Lake Me up Before You Go Go | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,326 (Ranked 177)  
+Progressed: 6,327 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-02 | 6,244 | 0 |
 | 2023-11-03 | 6,286 | 0 |
 | 2023-11-04 | 6,326 | 0 |
+| 2023-11-05 | 6,327 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 463)  
 Sum: 190 (Ranked 401)  

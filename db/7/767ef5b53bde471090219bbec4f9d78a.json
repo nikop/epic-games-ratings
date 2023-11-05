@@ -4,8 +4,8 @@
   "ProductSlug": "active-dbg-braves-rage-deed2f",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-22T00:00:00+00:00",
     "PcReleaseDate": "2023-02-01T08:00:00+00:00",
@@ -377,8 +377,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-21T15:01:07.7005769+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:08:46.5755258+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:20:50.3246401+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:06.2199977+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:58:20.9563871+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:08:46.5755585+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:09:01.7774832+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:20:50.3246676+00:00"
 }

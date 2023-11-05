@@ -6,10 +6,10 @@ Rating: 3.98 (Ranked 994)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 86.00% | ~133 |
-| Battlefields Have Memories | 83.00% | ~129 |
+| Battlefields Have Memories | 84.00% | ~130 |
 | Enlisted | 80.00% | ~124 |
 | Maybe Engage a Little | 77.00% | ~119 |
-| No More Names | 61.00% | ~95 |
+| No More Names | 63.00% | ~98 |
 | Initiate | 54.00% | ~84 |
 | Thrada-Kul | 50.00% | ~78 |
 | Gravity-Challenged Rocks | 39.00% | ~60 |
@@ -17,7 +17,7 @@ Rating: 3.98 (Ranked 994)
 | Soldier | 34.00% | ~53 |
 | Beggars Would Ride | 30.00% | ~46 |
 | Control is an Illusion | 29.00% | ~45 |
-| Socialite | 26.00% | ~40 |
+| Socialite | 27.00% | ~42 |
 | The Means to Save It | 24.00% | ~37 |
 | Resilience to Sin | 21.00% | ~33 |
 | A Familiar Nest | 21.00% | ~33 |

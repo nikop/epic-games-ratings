@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_crew_motorfest.json)  
 Rating: 4.66 (Ranked 291)  
 ## Awards
-Max (Relaxing): 376  (Ranked 228)  
-Sum: 2,700 (Ranked 179)  
-Diff (max vs sum): 49  
+Max (Relaxing): 386  (Ranked 227)  
+Sum: 2,710 (Ranked 179)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 376 |
+| This game is Relaxing | 386 |
 | This game is Great for Beginners | 343 |
 | This game has Quickly Understood Controls | 341 |
 | This game has Amazing Storytelling | 338 |
@@ -72,3 +72,4 @@ Diff (max vs sum): 49
 | 2023-11-02 | 4.66 | 371 | 2,614 |
 | 2023-11-03 | 4.66 | 376 | 2,666 |
 | 2023-11-04 | 4.66 | 376 | 2,700 |
+| 2023-11-05 | 4.66 | 386 | 2,710 |

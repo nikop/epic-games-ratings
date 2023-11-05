@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2654,9 +2654,9 @@
       "ID": "ACH_DREAMLISTENER",
       "SetID": "7pam6gn",
       "Name": "Dream Listener",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -2775,8 +2775,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:08:53.0835604+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:20:55.7626464+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.6838698+00:00",
-  "LastUpdate_Ratings": "2023-11-04T23:02:51.9748064+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:08:53.0835828+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:14:56.3100915+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:20:55.7626681+00:00"
 }

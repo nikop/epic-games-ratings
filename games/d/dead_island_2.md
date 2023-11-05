@@ -6,8 +6,9 @@ Rating: 4.54 (Ranked 521)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 0.90% | ~344 |
-| Pork Chopped | 0.70% | ~267 |
+| Pork Chopped | 0.70% | ~268 |
 | One of Us | 0.60% | ~229 |
+| Dr. Reed, I Presume? | 0.20% | ~1,425 |
 | Git Gutte! | 0.20% | ~1,425 |
 | Anger Management | 0.20% | ~1,425 |
 | Bookworm | 0.20% | ~1,425 |
@@ -19,7 +20,6 @@ Rating: 4.54 (Ranked 521)
 | Apex Predator | 0.20% | ~1,425 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,425 |
 | Welcome To Hell-A | 0.20% | ~1,425 |
-| Dr. Reed, I Presume? | 0.10% | ~713 |
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
 | LA Influential | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~38 |
 | Top That, Tisha! | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,632 (Ranked 21)  
-Completed: 2,325 (0.33%) (Ranked 216)  
+Progressed: 712,676 (Ranked 21)  
+Completed: 2,326 (0.33%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,6 +256,7 @@ Completed: 2,325 (0.33%) (Ranked 216)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
+| 2023-11-05 | 712,676 | 2,326 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,576 (Ranked 89)  

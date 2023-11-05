@@ -1,56 +1,56 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 250)  
+Rating: 4.68 (Ranked 251)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 185.00% | ~392 |
-| Adept Assembler | 175.00% | ~371 |
-| Greeno-B-Gone | 100.00% | ~212 |
-| Your Especially Earned Trajectory | 76.00% | ~161 |
-| Can We Keep It? | 48.00% | ~102 |
-| No Mountain Wide Enough | 46.00% | ~98 |
-| On that Grindset | 37.00% | ~78 |
-| My Time Mansion | 35.00% | ~74 |
-| Happier-est Place on Earth | 27.00% | ~57 |
-| Yakmel Whisperer | 27.00% | ~57 |
-| Anti-Santa | 25.00% | ~53 |
-| You Don't Win Friends With Salad | 25.00% | ~53 |
-| Call Me Fishmael | 25.00% | ~53 |
-| Mole Masher | 24.00% | ~51 |
-| Pack Mule | 23.00% | ~49 |
-| Finishing Touches | 22.00% | ~47 |
-| Better Late than Never | 22.00% | ~47 |
-| Knowledge is Power | 21.00% | ~45 |
-| Financially Secure | 21.00% | ~45 |
-| I Do! | 20.00% | ~42 |
-| Diamonds are Forever | 19.00% | ~40 |
-| Officially Official | 18.00% | ~38 |
-| Jewel of the Eufaula | 17.00% | ~36 |
-| Got Served | 14.00% | ~30 |
-| What Plants Crave | 13.00% | ~28 |
-| First Love | 13.00% | ~28 |
-| Panda-kin | 12.00% | ~25 |
-| Big Game Hunter | 12.00% | ~25 |
+| Iron Chef | 189.00% | ~391 |
+| Adept Assembler | 180.00% | ~373 |
+| Greeno-B-Gone | 103.00% | ~213 |
+| Your Especially Earned Trajectory | 78.00% | ~161 |
+| Can We Keep It? | 49.00% | ~101 |
+| No Mountain Wide Enough | 47.00% | ~97 |
+| On that Grindset | 38.00% | ~79 |
+| My Time Mansion | 36.00% | ~75 |
+| Happier-est Place on Earth | 29.00% | ~60 |
+| Yakmel Whisperer | 28.00% | ~58 |
+| You Don't Win Friends With Salad | 27.00% | ~56 |
+| Call Me Fishmael | 26.00% | ~54 |
+| Anti-Santa | 25.00% | ~52 |
+| Mole Masher | 25.00% | ~52 |
+| Pack Mule | 23.00% | ~48 |
+| Finishing Touches | 23.00% | ~48 |
+| Better Late than Never | 23.00% | ~48 |
+| Knowledge is Power | 22.00% | ~46 |
+| Financially Secure | 22.00% | ~46 |
+| I Do! | 21.00% | ~43 |
+| Diamonds are Forever | 21.00% | ~43 |
+| Officially Official | 18.00% | ~37 |
+| Jewel of the Eufaula | 17.00% | ~35 |
+| What Plants Crave | 14.00% | ~29 |
+| Got Served | 14.00% | ~29 |
+| Panda-kin | 13.00% | ~27 |
+| Big Game Hunter | 13.00% | ~27 |
+| First Love | 13.00% | ~27 |
 | Chatterbox | 11.00% | ~23 |
+| Unboxing | 11.00% | ~23 |
 | He Can Spin A Yarn... | 10.00% | ~21 |
 | One of the Cool Kids | 10.00% | ~21 |
-| Unboxing | 10.00% | ~21 |
 | Jack of All Trades | 8.00% | ~17 |
-| Martle's Dream | 7.00% | ~15 |
-| Who Ya Gonna Call...? | 7.00% | ~15 |
-| Bridging the Gap | 6.00% | ~13 |
-| Elementary, My Dear | 6.00% | ~13 |
-| Lifeline Pipeline | 6.00% | ~13 |
-| Cardistry | 6.00% | ~13 |
-| Just What I Always Wanted! | 6.00% | ~13 |
-| Newton | 6.00% | ~13 |
-| Pro Gamer | 5.00% | ~11 |
-| Santa In Training | 5.00% | ~11 |
-| Do Your Part | 5.00% | ~11 |
-| Waste Not Want Not | 5.00% | ~11 |
+| Bridging the Gap | 7.00% | ~14 |
+| Martle's Dream | 7.00% | ~14 |
+| Lifeline Pipeline | 7.00% | ~14 |
+| Who Ya Gonna Call...? | 7.00% | ~14 |
+| Elementary, My Dear | 6.00% | ~12 |
+| Cardistry | 6.00% | ~12 |
+| Just What I Always Wanted! | 6.00% | ~12 |
+| Newton | 6.00% | ~12 |
+| Pro Gamer | 5.00% | ~10 |
+| Santa In Training | 5.00% | ~10 |
+| Do Your Part | 5.00% | ~10 |
+| Waste Not Want Not | 5.00% | ~10 |
 | Time Flies | 4.00% | ~8 |
 | Commissions, commissions...! | 4.00% | ~8 |
 | Kind of a Big Deal | 4.00% | ~8 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 355)  
+Progressed: 207 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,16 +75,17 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-02 | 100 | 0 |
 | 2023-11-03 | 167 | 0 |
 | 2023-11-04 | 212 | 0 |
+| 2023-11-05 | 207 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
-Sum: 1,257 (Ranked 238)  
+Sum: 1,258 (Ranked 238)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 576 |
 | This game is Great for Beginners | 97 |
 | This game is Highly Recommended | 85 |
-| This game is Extremely Fun | 80 |
+| This game is Extremely Fun | 81 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 74 |
 | This game has Amazing Characters | 68 |
@@ -249,3 +250,4 @@ Diff (max vs sum): -44
 | 2023-11-02 | 4.68 | - | 576 | 1,299 |
 | 2023-11-03 | 4.68 | - | 576 | 1,255 |
 | 2023-11-04 | 4.68 | - | 576 | 1,257 |
+| 2023-11-05 | 4.68 | - | 576 | 1,258 |

@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,591 (Ranked 75)  
+Progressed: 156,597 (Ranked 75)  
 Completed: 1 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,17 +229,18 @@ Completed: 1 (0.00%) (Ranked 342)
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
+| 2023-11-05 | 156,597 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 425)  
-Sum: 344 (Ranked 349)  
+Sum: 347 (Ranked 349)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 50 |
 | This game has Unique Visuals | 48 |
 | This game has Quickly Understood Controls | 47 |
+| This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 43 |
-| This game is Extremely Fun | 43 |
 | This game has Amazing Storytelling | 43 |
 | This game has Amazing Characters | 37 |
 | This game has a Creative Community | 33 |
@@ -379,3 +380,4 @@ Diff (max vs sum): 76
 | 2023-11-02 | 4.58 | - | 50 | 342 |
 | 2023-11-03 | 4.58 | - | 50 | 343 |
 | 2023-11-04 | 4.58 | - | 50 | 344 |
+| 2023-11-05 | 4.58 | - | 50 | 347 |

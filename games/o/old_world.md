@@ -130,12 +130,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
+| Kmt Unified | 0.70% | ~106 |
 | Bad Heir Day | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | The Great Mage | 0.60% | ~91 |
-| Kmt Unified | 0.60% | ~91 |
 | Ishtar Gate in Babylon | 0.50% | ~76 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.50% | ~76 |
 | Beja Archer | 0.50% | ~76 |
 | Old | 0.40% | ~61 |
+| Glorious Difficulty | 0.40% | ~61 |
 | Pantheon of Gods | 0.40% | ~61 |
 | Capturing Cities | 0.40% | ~61 |
 | Ten Crowns | 0.40% | ~61 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
 | Silver Victory (Carthage 1) | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
-| Glorious Difficulty | 0.30% | ~45 |
 | Magnificent Difficulty | 0.30% | ~45 |
 | The Eternal Treaty | 0.30% | ~45 |
 | Run, Pheidippides, Run! | 0.30% | ~45 |

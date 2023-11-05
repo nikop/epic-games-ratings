@@ -2,13 +2,13 @@
   "ID": "2a5eb81d6f384099a5259413ee22baa4",
   "Name": "Fights in Tight Spaces",
   "ProductSlug": "fights-in-tight-spaces",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 229,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-02-24T18:00:00+00:00",
     "PcReleaseDate": "2021-02-24T18:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -175,6 +175,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-05T00:12:54.1765563+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -192,8 +198,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:17.7163905+00:00",
-  "LastChanged": "2023-10-16T07:02:44.9973293+00:00",
+  "LastChanged": "2023-11-05T00:12:54.1765561+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:17.1919199+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:59:11.9637013+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:06:25.5434807+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:12:54.1765567+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:19:40.2777826+00:00"
 }

@@ -1,7 +1,7 @@
 # Fights in Tight Spaces
 [Store](https://store.epicgames.com/en-US/p/fights-in-tight-spaces)  
 [View Rawdata](../../db/f/fights_in_tight_spaces.json)  
-Rating: 4.68 (Ranked 250)  
+Rating: 4.69 (Ranked 229)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -37,3 +37,4 @@ Number of Ratings: 38  (23.09.2022)
 | 2023-06-14 | 4.66 | - | 0 | 0 |
 | 2023-08-22 | 4.67 | - | 0 | 0 |
 | 2023-10-16 | 4.68 | - | 0 | 0 |
+| 2023-11-05 | 4.69 | - | 0 | 0 |

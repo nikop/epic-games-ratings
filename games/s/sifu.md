@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.50% | ~3,581 |
 | Life is your teacher | 0.50% | ~3,581 |
 | State of constant learning | 0.50% | ~3,581 |
+| Lightning Hands | 0.50% | ~3,581 |
 | Project Arena | 0.50% | ~127 |
 | The Old Grandmaster | 0.40% | ~2,865 |
 | The Hateful Pole Fighter | 0.40% | ~2,865 |
@@ -21,7 +22,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.40% | ~2,865 |
 | Qi Gong: Breath | 0.40% | ~2,865 |
 | Qi Gong: Essence | 0.40% | ~2,865 |
-| Lightning Hands | 0.40% | ~2,865 |
 | Path of the Prospect | 0.40% | ~2,865 |
 | Rumble in the Hangar | 0.40% | ~2,865 |
 | Martial Hub | 0.40% | ~102 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.20% | ~1,432 |
 | Detective Story | 0.20% | ~1,432 |
 | Dance of the Praying Mantis | 0.20% | ~1,432 |
+| The 36th Chamber of Kung-Fu | 0.20% | ~1,432 |
 | Sword Stained With Blood | 0.20% | ~1,432 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
 | Beatmaker | 0.20% | ~51 |
@@ -48,7 +49,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.10% | ~716 |
 | Knowledge Greed | 0.10% | ~716 |
 | Healing Memory | 0.10% | ~716 |
-| The 36th Chamber of Kung-Fu | 0.10% | ~716 |
 | Master of the Phoenix Eye Fist | 0.10% | ~716 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~716 |
 | The Pit Protector | 0.10% | ~716 |

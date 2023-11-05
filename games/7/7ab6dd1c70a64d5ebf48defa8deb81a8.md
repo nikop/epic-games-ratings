@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 48.00% | ~55 |
-| Trinity | 23.00% | ~26 |
+| Break Out | 49.00% | ~56 |
+| Trinity | 25.00% | ~29 |
 | Find Allies | 21.00% | ~24 |
+| Fashion Victim | 20.00% | ~23 |
 | Shatter Them All | 19.00% | ~22 |
-| Fashion Victim | 19.00% | ~22 |
 | Scholar | 19.00% | ~22 |
+| Powerful Allies | 18.00% | ~21 |
 | Adventurer | 18.00% | ~21 |
 | The Collector | 18.00% | ~21 |
-| Powerful Allies | 17.00% | ~20 |
 | A Taste of Wrath | 17.00% | ~20 |
 | I Found It | 17.00% | ~20 |
 | Geared Up | 14.00% | ~16 |

@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1015,
+  "EOS_Progressed": 1016,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1360,6 +1360,11 @@
       "Time": "2023-11-04T23:05:59.5627675+00:00",
       "NumProgressed": 1015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T00:19:17.4566694+00:00",
+      "NumProgressed": 1016,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1452,7 +1457,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1468,7 +1473,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1611,14 +1616,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1015,
+      "Progressed": 1016,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-04T23:05:59.5627673+00:00",
+  "LastChanged_Achievements": "2023-11-05T00:19:17.4566692+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-04T22:58:59.1086618+00:00",
-  "LastUpdate_Achievements": "2023-11-04T23:05:59.5627846+00:00"
+  "LastUpdate_Ratings": "2023-11-05T00:12:37.8372077+00:00",
+  "LastUpdate_Achievements": "2023-11-05T00:19:17.4566918+00:00"
 }

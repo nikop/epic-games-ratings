@@ -36,13 +36,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Real Estate | 3.00% | ~1,935 |
 | Entrepreneur | 1.00% | ~645 |
 | Supreme Emperor | 1.00% | ~645 |
-| Crackshot | 0.90% | ~580 |
+| Crackshot | 0.90% | ~581 |
 | Undercover | 0.80% | ~516 |
 | Fat Cat | 0.70% | ~451 |
 | Catch | 0.60% | ~387 |
 | Slice 'n dice | 0.50% | ~322 |
 | Ride it like you stole it | 0.40% | ~258 |
-| Mounted Archery | 0.30% | ~193 |
+| Mounted Archery | 0.30% | ~194 |
 | Explorer | 0.20% | ~129 |
 | Great Granny | 0.20% | ~129 |
 | Strike! | 0.20% | ~129 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,499 (Ranked 103)  
+Progressed: 64,500 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,9 +257,10 @@ Completed: 0 (0.00%) (Ranked 342)
 | 2023-11-02 | 64,362 | 0 |
 | 2023-11-03 | 64,423 | 0 |
 | 2023-11-04 | 64,499 | 0 |
+| 2023-11-05 | 64,500 | 0 |
 ## Awards
 Max (Character Customization): 7,328  (Ranked 52)  
-Sum: 15,130 (Ranked 66)  
+Sum: 15,131 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +273,7 @@ Diff (max vs sum): -14
 | This game has Amazing Characters | 850 |
 | This game is Relaxing | 846 |
 | This game has Quickly Understood Controls | 822 |
-| This game has a Creative Community | 628 |
+| This game has a Creative Community | 629 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -572,3 +573,4 @@ Diff (max vs sum): -14
 | 2023-11-02 | 4.74 | - | 7,317 | 15,107 |
 | 2023-11-03 | 4.74 | - | 7,320 | 15,112 |
 | 2023-11-04 | 4.74 | - | 7,328 | 15,130 |
+| 2023-11-05 | 4.74 | - | 7,328 | 15,131 |
