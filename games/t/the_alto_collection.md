@@ -6,22 +6,22 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,233 |
-| Finding Your Footing | 26.00% | ~11,780 |
-| Nomad | 17.00% | ~7,702 |
-| Picking Up Speed | 16.00% | ~7,249 |
-| Welcome Maya | 15.00% | ~6,796 |
-| Scout | 11.00% | ~4,984 |
-| Sightseer | 11.00% | ~4,984 |
+| Rookie | 27.00% | ~12,235 |
+| Finding Your Footing | 26.00% | ~11,782 |
+| Nomad | 17.00% | ~7,703 |
+| Picking Up Speed | 16.00% | ~7,250 |
+| Welcome Maya | 15.00% | ~6,797 |
+| Scout | 11.00% | ~4,985 |
+| Sightseer | 11.00% | ~4,985 |
 | Amateur | 10.00% | ~4,531 |
 | Unlock Maya | 8.00% | ~3,625 |
 | Wanderer | 8.00% | ~3,625 |
 | Enter Paz | 7.00% | ~3,172 |
-| Aviator | 6.00% | ~2,718 |
-| My Little Friend | 5.00% | ~2,265 |
-| One With The Board | 5.00% | ~2,265 |
-| Voyager | 5.00% | ~2,265 |
-| Izel Has Arrived | 4.00% | ~1,812 |
+| Aviator | 6.00% | ~2,719 |
+| My Little Friend | 5.00% | ~2,266 |
+| One With The Board | 5.00% | ~2,266 |
+| Voyager | 5.00% | ~2,266 |
+| Izel Has Arrived | 4.00% | ~1,813 |
 | Junkie | 3.00% | ~1,359 |
 | Traveler | 3.00% | ~1,359 |
 | Journeyer | 3.00% | ~1,359 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Introducing Sumara | 1.00% | ~453 |
 | Vandal | 1.00% | ~453 |
 | Unlock Felipe | 0.90% | ~408 |
-| Adventurer | 0.80% | ~362 |
+| Adventurer | 0.80% | ~363 |
 | Unlock Tupa | 0.50% | ~227 |
 | Master Of The Sands | 0.30% | ~136 |
 | Master | 0.20% | ~91 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~45 |
 | Windswept | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,308 (Ranked 111)  
+Progressed: 45,314 (Ranked 111)  
 Completed: 5 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 5 (0.01%) (Ranked 320)
 | 2023-11-02 | 44,865 | 5 |
 | 2023-11-03 | 45,031 | 5 |
 | 2023-11-04 | 45,191 | 5 |
-| 2023-11-05 | 45,308 | 5 |
+| 2023-11-05 | 45,314 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 433)  
-Sum: 371 (Ranked 341)  
+Sum: 372 (Ranked 341)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
@@ -256,8 +256,8 @@ Diff (max vs sum): 92
 | This game is Great for Beginners | 44 |
 | This game is Highly Recommended | 42 |
 | This game has Beautiful Visuals | 41 |
+| This game is Extremely Fun | 38 |
 | This game has Quickly Understood Controls | 38 |
-| This game is Extremely Fun | 37 |
 | This game is Relaxing | 35 |
 | This game has Diverse Characters | 31 |
 | This game has Amazing Storytelling | 29 |
@@ -374,3 +374,4 @@ Diff (max vs sum): 92
 | 2023-10-22 | 4.70 | - | 48 | 369 |
 | 2023-10-28 | 4.70 | - | 48 | 370 |
 | 2023-11-02 | 4.70 | - | 48 | 371 |
+| 2023-11-05 | 4.70 | - | 48 | 372 |

@@ -37,12 +37,12 @@ Number of Ratings: 281  (23.09.2022)
 | Big Fish Small Pond | 0.10% | ~6 |
 | Buckaroo | 0.10% | ~6 |
 | Gonna Need a Bigger Boat | 0.10% | ~6 |
+| Norway Jose | 0.10% | ~6 |
 | Fish upon a Star | 0.10% | ~6 |
 | Head for Heights | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
 | Rod and Troll | 0.00% | ~0 |
-| Norway Jose | 0.00% | ~0 |
 | Trollsporet Tale Teller | 0.00% | ~0 |
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |

@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7224,
+  "EOS_Progressed": 7225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8220,6 +8220,11 @@
       "Time": "2023-11-05T17:16:10.1028255+00:00",
       "NumProgressed": 7224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T18:06:05.4115058+00:00",
+      "NumProgressed": 7225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8295,7 +8300,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8311,7 +8316,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "First_Major_Ally",
@@ -8319,7 +8324,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -8335,7 +8340,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "First_Race_Met",
@@ -8343,7 +8348,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "First_Ship_Designed",
@@ -8351,7 +8356,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "First_Stream_Travel",
@@ -8367,7 +8372,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5562
+      "UsersEstimate": 5563
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8743,7 +8748,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Win_Diplomacy",
@@ -8806,15 +8811,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7224,
+      "Progressed": 7225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:16:10.1028246+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:06:05.411505+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:11:49.7565097+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:16:10.1030411+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:01:35.6171852+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:06:05.4116124+00:00"
 }

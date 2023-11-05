@@ -2,12 +2,12 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 364,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1573,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3409,6 +3409,11 @@
       "Time": "2023-11-05T16:04:08.3066714+00:00",
       "NumProgressed": 1573,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T18:04:44.4413255+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3498,9 +3503,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 677
     },
     {
       "ID": "Everyone_is_here",
@@ -3572,7 +3577,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "KillAllM2",
@@ -3612,7 +3617,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "Scout",
@@ -3659,15 +3664,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1573,
+      "Progressed": 1574,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:13:38.7619436+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:04:44.4413251+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:58:43.6985214+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:13:38.7620131+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:57:26.4808556+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:04:44.4413677+00:00"
 }

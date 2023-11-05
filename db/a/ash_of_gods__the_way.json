@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "collect8",
@@ -576,8 +576,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:16:13.7145013+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:06:10.0761796+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:11:24.8274412+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:16:13.7145503+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:01:01.2884567+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:06:10.0762252+00:00"
 }

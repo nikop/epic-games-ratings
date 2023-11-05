@@ -8,7 +8,7 @@
 | Spectre Inductee | 81.00% | ~801 |
 | Medal of Exploration I | 73.00% | ~722 |
 | Recruit | 69.00% | ~682 |
-| Search and Rescue | 68.00% | ~673 |
+| Search and Rescue | 69.00% | ~682 |
 | Quarian Ally | 65.00% | ~643 |
 | Medal of Heroism | 62.00% | ~613 |
 | Honorarium of Corporate Service | 62.00% | ~613 |
@@ -23,11 +23,11 @@
 | Soldier Ally | 48.00% | ~475 |
 | Asari Ally | 48.00% | ~475 |
 | Principled | 48.00% | ~475 |
-| Paramour I | 46.00% | ~455 |
+| Paramour I | 47.00% | ~465 |
 | Colonial Savior | 46.00% | ~455 |
+| Merciless | 45.00% | ~445 |
 | Scientist | 45.00% | ~445 |
 | Krogan Ally | 44.00% | ~435 |
-| Merciless | 44.00% | ~435 |
 | Missing in Action | 43.00% | ~425 |
 | Very Elusive | 42.00% | ~415 |
 | Head Hunter | 42.00% | ~415 |
@@ -37,7 +37,7 @@
 | Veteran | 40.00% | ~396 |
 | The Professor | 39.00% | ~386 |
 | Power Full | 39.00% | ~386 |
-| The Archangel | 37.00% | ~366 |
+| The Archangel | 38.00% | ~376 |
 | Colony Defense | 36.00% | ~356 |
 | The Convict | 36.00% | ~356 |
 | The Krogan | 35.00% | ~346 |
@@ -69,10 +69,10 @@
 | Digital Exorcist | 30.00% | ~297 |
 | Bringer of War | 30.00% | ~297 |
 | Friend or Foe | 29.00% | ~287 |
+| Mobilizer | 29.00% | ~287 |
 | Mission Accomplished | 28.00% | ~277 |
 | Suicide Mission | 28.00% | ~277 |
 | Against All Odds | 28.00% | ~277 |
-| Mobilizer | 28.00% | ~277 |
 | Untouchable | 27.00% | ~267 |
 | Giant Killer | 27.00% | ~267 |
 | First Aid Specialist | 27.00% | ~267 |

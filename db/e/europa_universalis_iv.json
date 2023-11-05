@@ -11581,10 +11581,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56160,
       "NumberOfAwardsMax": 6830
+    },
+    {
+      "Time": "2023-11-05T18:01:37.5104775+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56200,
+      "NumberOfAwardsMax": 6830
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56160,
+  "NumberOfAwards": 56200,
   "NumberOfAwardsMax": 6830,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11604,13 +11610,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6524
+      "Count": 6549
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6429
+      "Count": 6444
     },
     {
       "Text": "This game is Educational",
@@ -11655,9 +11661,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 447882,
+  "EOS_Progressed": 447922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5482,
+  "EOS_NewPlayers": 5466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34405,6 +34411,11 @@
       "Time": "2023-11-05T17:12:51.3048241+00:00",
       "NumProgressed": 447882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T18:03:40.8926778+00:00",
+      "NumProgressed": 447922,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34544,7 +34555,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -34696,7 +34707,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -34928,7 +34939,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "achievement_cold_war",
@@ -34952,7 +34963,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -35416,7 +35427,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17915
+      "UsersEstimate": 17917
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35440,7 +35451,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13436
+      "UsersEstimate": 13438
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -36696,7 +36707,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13436
+      "UsersEstimate": 13438
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -36920,7 +36931,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -37080,7 +37091,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17915
+      "UsersEstimate": 17917
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -37112,7 +37123,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17915
+      "UsersEstimate": 17917
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -37247,21 +37258,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 447882,
+      "Progressed": 447922,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 447882,
+      "Progressed": 447922,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-05T17:11:50.9296931+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:12:51.3048234+00:00",
+  "LastChanged": "2023-11-05T18:01:37.5104773+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:03:40.8926769+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:11:50.929694+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:12:51.307448+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:01:37.5104781+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:03:40.893939+00:00"
 }

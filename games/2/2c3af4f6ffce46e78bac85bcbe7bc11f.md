@@ -15,8 +15,8 @@
 | Somewhere to belong... | 12.00% | ~10 |
 | Something monumental... | 12.00% | ~10 |
 | Something reflective... | 12.00% | ~10 |
-| Something free... | 11.00% | ~9 |
-| Something to make you dream... (fragile) | 10.00% | ~8 |
+| Something free... | 10.00% | ~9 |
+| Something to make you dream... (fragile) | 9.00% | ~8 |
 | Something free... (fragile) | 8.00% | ~7 |
 | Something gentle... (fragile) | 8.00% | ~7 |
 | Something ever-changing... (fragile) | 8.00% | ~7 |
@@ -31,8 +31,8 @@
 | Something more... (fragile) | 6.00% | ~5 |
 | Something more... | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 423)  
-Completed: 4 (4.76%) (Ranked 67)  
+Progressed: 86 (Ranked 421)  
+Completed: 4 (4.65%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,3 +97,4 @@ Completed: 4 (4.76%) (Ranked 67)
 | 2023-11-02 | 80 | 4 |
 | 2023-11-03 | 81 | 4 |
 | 2023-11-04 | 84 | 4 |
+| 2023-11-05 | 86 | 4 |

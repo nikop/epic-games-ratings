@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 330,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
@@ -14726,9 +14726,9 @@
       "Count": 12416
     }
   ],
-  "EOS_Progressed": 895395,
+  "EOS_Progressed": 895404,
   "EOS_Completed": 2747,
-  "EOS_NewPlayers": 931,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37261,6 +37261,11 @@
       "Time": "2023-11-05T17:17:09.8792432+00:00",
       "NumProgressed": 895395,
       "NumCompleted": 2747
+    },
+    {
+      "Time": "2023-11-05T18:07:24.7704626+00:00",
+      "NumProgressed": 895404,
+      "NumCompleted": 2747
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37343,9 +37348,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 6268
+      "UsersEstimate": 7163
     },
     {
       "ID": "Gunslinger",
@@ -37808,21 +37813,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895395,
+      "Progressed": 895404,
       "Completed": 2747
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24018,
+      "Progressed": 24027,
       "Completed": 10193
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-05T15:59:57.0130202+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:17:09.8792419+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:07:24.7704621+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:11:04.6479394+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:17:09.8794403+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:00:35.622182+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:07:24.7706526+00:00"
 }

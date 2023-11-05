@@ -2,7 +2,7 @@
   "ID": "703100e4ec4746ff854e634572e6665e",
   "Name": "Madcar GT (Multiplayer)",
   "ProductSlug": "madcar-f-multiplayer-65691b",
-  "Ranking_Rating": 251,
+  "Ranking_Rating": 381,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 722,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-10-01T16:58:16.788016+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2023-10-21T17:58:23.3849526+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-05T17:59:14.226527+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -59,8 +65,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-10T14:56:55.1080056+00:00",
   "FirstSeenRating": "2023-10-01T16:58:16.7880158+00:00",
-  "LastChanged": "2023-10-21T17:58:23.3849524+00:00",
+  "LastChanged": "2023-11-05T17:59:14.2265269+00:00",
   "LastUpdate_AppInfo": "2023-11-03T17:57:17.9698053+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:06:49.7832301+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:18:18.3574474+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:59:14.2265275+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:08:55.3539896+00:00"
 }

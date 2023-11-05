@@ -2,7 +2,7 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 346,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 125,
@@ -309,7 +309,7 @@
   "Tags": [],
   "EOS_Progressed": 24442,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6833,8 +6833,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-04T04:58:56.1771258+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:14:14.9566101+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:05:33.4720845+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.8634233+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:11:11.5013245+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:14:14.9567427+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:00:43.7611038+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:05:33.4721604+00:00"
 }

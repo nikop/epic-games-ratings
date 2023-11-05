@@ -5,8 +5,8 @@ Rating: 4.30 (Ranked 829)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~157 |
-| Bullseye! | 84.00% | ~152 |
+| Level Up! | 88.00% | ~159 |
+| Bullseye! | 85.00% | ~154 |
 | Graduation! | 79.00% | ~143 |
 | Villfir Forest | 74.00% | ~134 |
 | Right in the kisser! | 59.00% | ~107 |

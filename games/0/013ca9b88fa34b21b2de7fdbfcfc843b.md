@@ -15,7 +15,7 @@ Rating: 4.60 (Ranked 406)
 | Calm Sailing | 36.00% | ~2,722 |
 | Open the Gate! | 33.00% | ~2,495 |
 | Mist Walker | 32.00% | ~2,419 |
-| Lumberjack | 26.00% | ~1,966 |
+| Lumberjack | 27.00% | ~2,041 |
 | Oui, Chef! | 23.00% | ~1,739 |
 | Clear the Air | 18.00% | ~1,361 |
 | Botanical Breakthrough | 17.00% | ~1,285 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 406)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,560 (Ranked 166)  
+Progressed: 7,560 (Ranked 167)  
 Completed: 1 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6085,10 +6085,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10675,
       "NumberOfAwardsMax": 7072
+    },
+    {
+      "Time": "2023-11-05T17:57:10.1415074+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10681,
+      "NumberOfAwardsMax": 7072
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10675,
+  "NumberOfAwards": 10681,
   "NumberOfAwardsMax": 7072,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6132,7 +6138,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 405
+      "Count": 411
     },
     {
       "Text": "This game is Relaxing",
@@ -6147,9 +6153,9 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713306,
-  "EOS_Completed": 2336,
-  "EOS_NewPlayers": 5663,
+  "EOS_Progressed": 713344,
+  "EOS_Completed": 2337,
+  "EOS_NewPlayers": 5620,
   "EOS_NewCompleters": 57,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28852,6 +28858,11 @@
       "Time": "2023-11-05T17:15:24.9241498+00:00",
       "NumProgressed": 713306,
       "NumCompleted": 2336
+    },
+    {
+      "Time": "2023-11-05T18:05:45.9943376+00:00",
+      "NumProgressed": 713344,
+      "NumCompleted": 2337
     }
   ],
   "TotalAchievements": 51,
@@ -29109,9 +29120,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1427
     },
     {
       "ID": "ach_salvation",
@@ -29231,7 +29242,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ach_gardening_tools",
@@ -29270,22 +29281,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713306,
-      "Completed": 2336
+      "Progressed": 713344,
+      "Completed": 2337
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38848,
-      "Completed": 36443
+      "Progressed": 38886,
+      "Completed": 36447
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-05T16:57:48.9473405+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:15:24.9241491+00:00",
+  "LastChanged": "2023-11-05T17:57:10.1415072+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:05:45.994337+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:57:48.9473417+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:15:24.9244782+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:57:10.1415079+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:05:45.9945232+00:00"
 }

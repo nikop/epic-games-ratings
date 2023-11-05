@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 75.00% | ~40 |
-| Something important | 74.00% | ~39 |
-| A piece of the story | 58.00% | ~31 |
-| Do what you have to | 42.00% | ~22 |
-| The artist’s impression | 40.00% | ~21 |
-| Scraps of love | 36.00% | ~19 |
-| It's covered up for a reason | 34.00% | ~18 |
-| Refuse to look | 34.00% | ~18 |
-| Sign of weakness | 32.00% | ~17 |
+| Wanderer | 76.00% | ~41 |
+| Something important | 74.00% | ~40 |
+| A piece of the story | 57.00% | ~31 |
+| Do what you have to | 41.00% | ~22 |
+| The artist’s impression | 39.00% | ~21 |
+| Scraps of love | 35.00% | ~19 |
+| It's covered up for a reason | 33.00% | ~18 |
+| Refuse to look | 33.00% | ~18 |
+| Sign of weakness | 31.00% | ~17 |
 | Finished it | 28.00% | ~15 |
 | Face your fears | 15.00% | ~8 |
 | First steps | 13.00% | ~7 |
@@ -23,9 +23,9 @@
 | Debut | 9.00% | ~5 |
 | The art of movement | 9.00% | ~5 |
 | True Reflection | 9.00% | ~5 |
-| A new way | 8.00% | ~4 |
-| A Slice of Life | 8.00% | ~4 |
-| Whispers long forgotten | 8.00% | ~4 |
+| A new way | 7.00% | ~4 |
+| A Slice of Life | 7.00% | ~4 |
+| Whispers long forgotten | 7.00% | ~4 |
 | Another perspective | 6.00% | ~3 |
 | We Are Not Alone | 6.00% | ~3 |
 | Sound Bite | 6.00% | ~3 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 458)  
+Progressed: 54 (Ranked 456)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 40 | 0 |
 | 2023-11-03 | 44 | 0 |
 | 2023-11-04 | 50 | 0 |
-| 2023-11-05 | 53 | 0 |
+| 2023-11-05 | 54 | 0 |

@@ -1445,9 +1445,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16407,
+  "EOS_Progressed": 16408,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8765,6 +8765,11 @@
       "Time": "2023-11-05T14:19:45.3291489+00:00",
       "NumProgressed": 16407,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-05T18:06:59.3952055+00:00",
+      "NumProgressed": 16408,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8808,7 +8813,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -8936,7 +8941,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -9151,13 +9156,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16407,
+      "Progressed": 16408,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4333,
+      "Progressed": 4334,
       "Completed": 29
     }
   ],
@@ -9165,8 +9170,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-05T01:46:24.1852628+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:16:51.1150047+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:06:59.395205+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:10:23.234099+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:16:51.1151576+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:00:11.4708836+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:06:59.3952895+00:00"
 }

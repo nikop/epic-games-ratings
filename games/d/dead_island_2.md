@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~388 |
+| Whatever It Takes | 1.00% | ~389 |
 | Pork Chopped | 0.90% | ~350 |
 | One of Us | 0.80% | ~311 |
 | Break A Leg | 0.30% | ~2,140 |
@@ -29,6 +29,7 @@ Rating: 4.54 (Ranked 522)
 | Zombologist | 0.20% | ~1,427 |
 | Ooh, Shiny! | 0.20% | ~1,427 |
 | A Patton Emerges | 0.20% | ~1,427 |
+| I Am the Resurrection | 0.20% | ~1,427 |
 | Stacking the Deck | 0.20% | ~1,427 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,427 |
 | Max Headroom | 0.20% | ~1,427 |
@@ -45,7 +46,6 @@ Rating: 4.54 (Ranked 522)
 | Jumbo Keyring | 0.10% | ~713 |
 | Gore Horse | 0.10% | ~713 |
 | Humanity Distilled | 0.10% | ~713 |
-| I Am the Resurrection | 0.10% | ~713 |
 | Down with the Sickness | 0.10% | ~713 |
 | Sharpest Tool in the Box | 0.10% | ~713 |
 | Survival Skills | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,306 (Ranked 21)  
-Completed: 2,336 (0.33%) (Ranked 217)  
+Progressed: 713,344 (Ranked 21)  
+Completed: 2,337 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,10 +256,10 @@ Completed: 2,336 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,306 | 2,336 |
+| 2023-11-05 | 713,344 | 2,337 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
-Sum: 10,675 (Ranked 89)  
+Sum: 10,681 (Ranked 89)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): -35
 | This game is Relaxing | 454 |
 | This game has Amazing Storytelling | 440 |
 | This game is Highly Recommended | 418 |
-| This game is Extremely Fun | 405 |
+| This game is Extremely Fun | 411 |
 | This game has Amazing Characters | 386 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -473,4 +473,4 @@ Diff (max vs sum): -35
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
-| 2023-11-05 | 4.54 | 7,072 | 10,675 |
+| 2023-11-05 | 4.54 | 7,072 | 10,681 |

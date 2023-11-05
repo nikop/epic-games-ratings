@@ -1,13 +1,13 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 154)  
+Rating: 4.74 (Ranked 153)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 39.00% | ~25,174 |
-| Landlord | 33.00% | ~21,301 |
+| Landlord | 33.00% | ~21,302 |
 | Bannerlord | 23.00% | ~14,846 |
 | Horde breaker | 23.00% | ~14,846 |
 | Lawmaker | 23.00% | ~14,846 |
@@ -16,26 +16,26 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 18.00% | ~11,619 |
 | Apple of my eye | 16.00% | ~10,328 |
 | I can do it | 16.00% | ~10,328 |
-| God of the Arena | 13.00% | ~8,391 |
-| This Is Our Land | 13.00% | ~8,391 |
+| God of the Arena | 13.00% | ~8,392 |
+| This Is Our Land | 13.00% | ~8,392 |
 | Against all odds | 12.00% | ~7,746 |
 | Duelist | 10.00% | ~6,455 |
 | Dynasty | 10.00% | ~6,455 |
 | I spit on your grave | 10.00% | ~6,455 |
 | Swordbearer | 10.00% | ~6,455 |
 | What have the Romans ever done for us? | 10.00% | ~6,455 |
-| Butterlord | 9.00% | ~5,809 |
+| Butterlord | 9.00% | ~5,810 |
 | Know your enemy | 7.00% | ~4,518 |
 | Mastery | 7.00% | ~4,518 |
-| Crowdfunded | 5.00% | ~3,227 |
-| Crush your enemies | 5.00% | ~3,227 |
-| My way | 5.00% | ~3,227 |
+| Crowdfunded | 5.00% | ~3,228 |
+| Crush your enemies | 5.00% | ~3,228 |
+| My way | 5.00% | ~3,228 |
 | Veni vidi vici | 4.00% | ~2,582 |
 | Freedom! | 3.00% | ~1,936 |
 | Long live the Empire! | 3.00% | ~1,936 |
 | Real Estate | 3.00% | ~1,936 |
-| Entrepreneur | 1.00% | ~645 |
-| Supreme Emperor | 1.00% | ~645 |
+| Entrepreneur | 1.00% | ~646 |
+| Supreme Emperor | 1.00% | ~646 |
 | Crackshot | 0.90% | ~581 |
 | Undercover | 0.80% | ~516 |
 | Fat Cat | 0.70% | ~452 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,548 (Ranked 103)  
+Progressed: 64,550 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,10 +257,10 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 64,362 | 0 |
 | 2023-11-03 | 64,423 | 0 |
 | 2023-11-04 | 64,499 | 0 |
-| 2023-11-05 | 64,548 | 0 |
+| 2023-11-05 | 64,550 | 0 |
 ## Awards
 Max (Character Customization): 7,328  (Ranked 52)  
-Sum: 15,135 (Ranked 66)  
+Sum: 15,137 (Ranked 66)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -14
 | This game is Great for Beginners | 1,037 |
 | This game has Diverse Characters | 990 |
 | This game is Highly Recommended | 916 |
-| This game is Extremely Fun | 863 |
+| This game is Extremely Fun | 865 |
 | This game has Amazing Storytelling | 851 |
 | This game has Amazing Characters | 851 |
 | This game is Relaxing | 848 |
@@ -573,4 +573,4 @@ Diff (max vs sum): -14
 | 2023-11-02 | 4.74 | - | 7,317 | 15,107 |
 | 2023-11-03 | 4.74 | - | 7,320 | 15,112 |
 | 2023-11-04 | 4.74 | - | 7,328 | 15,130 |
-| 2023-11-05 | 4.74 | - | 7,328 | 15,135 |
+| 2023-11-05 | 4.74 | - | 7,328 | 15,137 |

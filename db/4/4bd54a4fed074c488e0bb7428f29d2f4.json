@@ -28,9 +28,507 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
+  "TotalAchievements": 62,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "SOS_AGAINST_ALL",
+      "SetID": "6ci4lm2",
+      "Name": "Against all",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_ALARM_ALARM",
+      "SetID": "6ci4lm2",
+      "Name": "Alarm! Alarm!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_ALL_LIVES_MATTER",
+      "SetID": "6ci4lm2",
+      "Name": "All lives matter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_ANCESTORS",
+      "SetID": "6ci4lm2",
+      "Name": "May devil seize the ancestors",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_AUTHORIZATION",
+      "SetID": "6ci4lm2",
+      "Name": "Authorization letter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_BASILISK",
+      "SetID": "6ci4lm2",
+      "Name": "Half rooster and half snake",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_BLOOD_TEARS",
+      "SetID": "6ci4lm2",
+      "Name": "Blood, sweat and tears",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_BOOKWORM",
+      "SetID": "6ci4lm2",
+      "Name": "Bookworm",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_BRIBER",
+      "SetID": "6ci4lm2",
+      "Name": "Briber",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_BURN_HENNERSDORF",
+      "SetID": "6ci4lm2",
+      "Name": "Red rooster",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_DEAD_END",
+      "SetID": "6ci4lm2",
+      "Name": "Dead end",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_DOG_WHISPERER",
+      "SetID": "6ci4lm2",
+      "Name": "Dog whisperer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_DRUNKARD",
+      "SetID": "6ci4lm2",
+      "Name": "Drunkard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_ENEMY_OF_MY_ENEMY",
+      "SetID": "6ci4lm2",
+      "Name": "Enemy of my enemy",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_EVERYBODYS_DEAD",
+      "SetID": "6ci4lm2",
+      "Name": "Everybody\u0027s dead, Dave",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_EVIL_CODE",
+      "SetID": "6ci4lm2",
+      "Name": "Evil code",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_EVIL_DEAD",
+      "SetID": "6ci4lm2",
+      "Name": "Evil dead",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_FAMILY_TIES",
+      "SetID": "6ci4lm2",
+      "Name": "Family ties",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_FARKLE",
+      "SetID": "6ci4lm2",
+      "Name": "Silesian Farkle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_FIRST_BLOOD",
+      "SetID": "6ci4lm2",
+      "Name": "First blood",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_FISH",
+      "SetID": "6ci4lm2",
+      "Name": "Ichthys",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_FOR_GLORY_OF_GOD",
+      "SetID": "6ci4lm2",
+      "Name": "For the glory of God",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_GHOSTS",
+      "SetID": "6ci4lm2",
+      "Name": "Like the ghosts",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_GOOD_MANNERS",
+      "SetID": "6ci4lm2",
+      "Name": "Good manners",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_HARD_WAY",
+      "SetID": "6ci4lm2",
+      "Name": "Do it the hard way",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_HEADACHE",
+      "SetID": "6ci4lm2",
+      "Name": "By fire and blood",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_HEARTBREAKING_END",
+      "SetID": "6ci4lm2",
+      "Name": "Heartbreaking end",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_HELL_STONE",
+      "SetID": "6ci4lm2",
+      "Name": "Infernal stone",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_HER_FAULT",
+      "SetID": "6ci4lm2",
+      "Name": "It\u0027s all her fault",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_HE_WILL_REMEMBER",
+      "SetID": "6ci4lm2",
+      "Name": "He will remember that",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_INFERNAL_TONES",
+      "SetID": "6ci4lm2",
+      "Name": "Infernal tones",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_ITS_TRAP",
+      "SetID": "6ci4lm2",
+      "Name": "It\u0027s a trap!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_LASTBATTLE",
+      "SetID": "6ci4lm2",
+      "Name": "Last battle",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_LAST_LETTER",
+      "SetID": "6ci4lm2",
+      "Name": "The last letter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_LAST_MINUTE",
+      "SetID": "6ci4lm2",
+      "Name": "Welcome home",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_LEGACY",
+      "SetID": "6ci4lm2",
+      "Name": "Legacy of the Templars",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_LIAISONS",
+      "SetID": "6ci4lm2",
+      "Name": "Dangerous liaisons",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_MARATHON_RUNNER",
+      "SetID": "6ci4lm2",
+      "Name": "Legs of iron",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_MOUTH_COIN",
+      "SetID": "6ci4lm2",
+      "Name": "What\u0027s he got in his mouth?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_MUMBLER",
+      "SetID": "6ci4lm2",
+      "Name": "Mumbler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_MY_CASTLE",
+      "SetID": "6ci4lm2",
+      "Name": "My house, my castle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_NOT_FOR_MONEY",
+      "SetID": "6ci4lm2",
+      "Name": "I don\u0027t do it for money",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_NOWAYBACK",
+      "SetID": "6ci4lm2",
+      "Name": "No way back",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_ORDO",
+      "SetID": "6ci4lm2",
+      "Name": "Ordo Fratrum Minorum",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_OTHER_SIDE",
+      "SetID": "6ci4lm2",
+      "Name": "To the other side",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_PENANCE",
+      "SetID": "6ci4lm2",
+      "Name": "Sacrament of Penance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_POISON",
+      "SetID": "6ci4lm2",
+      "Name": "Last cup",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_PRISON_BREAK",
+      "SetID": "6ci4lm2",
+      "Name": "At the bottom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_PYROMAN",
+      "SetID": "6ci4lm2",
+      "Name": "Pyroman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_RED_MINE",
+      "SetID": "6ci4lm2",
+      "Name": "Red mine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_RETURN_TO_GRAVE",
+      "SetID": "6ci4lm2",
+      "Name": "Ready for the grave",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_SECRET_PASSAGEWAY",
+      "SetID": "6ci4lm2",
+      "Name": "Secret passageway",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_SHAFT_INTO_DARKNESS",
+      "SetID": "6ci4lm2",
+      "Name": "Shaft into the darkness",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_SINNER",
+      "SetID": "6ci4lm2",
+      "Name": "Sinner",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_SMOKED",
+      "SetID": "6ci4lm2",
+      "Name": "Smoked",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_SWORD_FIRE",
+      "SetID": "6ci4lm2",
+      "Name": "Sword of Eternal Fire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_THRONEHELL",
+      "SetID": "6ci4lm2",
+      "Name": "Throne of Hell",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_US_AGAINST_US",
+      "SetID": "6ci4lm2",
+      "Name": "Us against us",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_VISION",
+      "SetID": "6ci4lm2",
+      "Name": "Vision",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_WE_HAVE_TO_STOP_THEM",
+      "SetID": "6ci4lm2",
+      "Name": "We have to stop them",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_WHAT_HURTS",
+      "SetID": "6ci4lm2",
+      "Name": "What hurts will stop hurting",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SOS_WHERE_IS_PRISONER",
+      "SetID": "6ci4lm2",
+      "Name": "Where is the prisoner?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6ci4lm2",
@@ -40,8 +538,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:15:36.37322+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:06:01.466775+00:00",
   "LastUpdate_AppInfo": "2023-10-30T13:57:08.664997+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:09:24.7372999+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:15:36.3732239+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:59:55.6249542+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:06:01.5081125+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 153,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 103,
@@ -8428,10 +8428,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15135,
       "NumberOfAwardsMax": 7328
+    },
+    {
+      "Time": "2023-11-05T18:01:03.9531161+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15137,
+      "NumberOfAwardsMax": 7328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15135,
+  "NumberOfAwards": 15137,
   "NumberOfAwardsMax": 7328,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8451,7 +8457,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 863
+      "Count": 865
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8508,7 +8514,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64548,
+  "EOS_Progressed": 64550,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
@@ -29513,6 +29519,11 @@
       "Time": "2023-11-05T17:18:33.0727887+00:00",
       "NumProgressed": 64548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T18:09:14.0478739+00:00",
+      "NumProgressed": 64550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29564,7 +29575,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5809
+      "UsersEstimate": 5810
     },
     {
       "ID": "Catch",
@@ -29580,7 +29591,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "Crackshot",
@@ -29596,7 +29607,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "Duelist",
@@ -29620,7 +29631,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Explorer",
@@ -29652,7 +29663,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8391
+      "UsersEstimate": 8392
     },
     {
       "ID": "Great Granny",
@@ -29748,7 +29759,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21301
+      "UsersEstimate": 21302
     },
     {
       "ID": "Lawbringer",
@@ -29804,7 +29815,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "Real Estate",
@@ -29860,7 +29871,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "Swordbearer",
@@ -29884,7 +29895,7 @@
       "Name": "This Is Our Land",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8391
+      "UsersEstimate": 8392
     },
     {
       "ID": "This is Sparta",
@@ -29931,15 +29942,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64548,
+      "Progressed": 64550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-05T14:59:49.5017508+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:18:33.0727881+00:00",
+  "LastChanged": "2023-11-05T18:01:03.953116+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:09:14.0478734+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:11:26.7082009+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:18:33.0730076+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:01:03.9531169+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:09:14.0480469+00:00"
 }

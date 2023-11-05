@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 290,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 262,
@@ -93,7 +93,7 @@
   "Tags": [],
   "EOS_Progressed": 798,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
@@ -3088,9 +3088,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 447
     },
     {
       "ID": "MQ03_2",
@@ -3273,8 +3273,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:14:15.5262052+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:05:34.1268207+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.8261686+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:09:00.4076125+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:14:15.5262701+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:59:46.5076748+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:05:34.1268601+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 612,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
@@ -1882,9 +1882,9 @@
       "ID": "LEVEL_025",
       "SetID": "7jk5g4e",
       "Name": "Townhouse",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_026",
@@ -1913,8 +1913,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:15:18.8138531+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:05:37.5038772+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:09:41.4980823+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:15:18.8138866+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:59:59.1722717+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:05:37.503899+00:00"
 }

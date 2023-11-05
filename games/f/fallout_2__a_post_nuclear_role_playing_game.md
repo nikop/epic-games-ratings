@@ -3,12 +3,12 @@
 [View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
 Rating: 4.70 (Ranked 212)  
 ## Awards
-Max (Character Customization): 112  (Ranked 345)  
-Sum: 112 (Ranked 434)  
-Diff (max vs sum): -89  
+Max (Character Customization): 114  (Ranked 342)  
+Sum: 114 (Ranked 433)  
+Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 112 |
+| This game has Inclusive Character Customization | 114 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -120,3 +120,4 @@ Diff (max vs sum): -89
 | 2023-10-30 | 4.71 | 111 | 111 |
 | 2023-10-31 | 4.70 | 111 | 111 |
 | 2023-11-01 | 4.70 | 112 | 112 |
+| 2023-11-05 | 4.70 | 114 | 114 |

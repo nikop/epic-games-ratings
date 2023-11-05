@@ -32,7 +32,7 @@
 | Team Hunter | 35.00% | ~80 |
 | Artful Assister | 35.00% | ~80 |
 | Reincarnation Cycle Stopper | 33.00% | ~75 |
-| Karakuri Isle | 31.00% | ~71 |
+| Karakuri Isle | 32.00% | ~73 |
 | Left Arm Leverager | 29.00% | ~66 |
 | Human Believer | 28.00% | ~64 |
 | Canyon of Karakuri | 27.00% | ~62 |

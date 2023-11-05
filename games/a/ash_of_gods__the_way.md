@@ -15,6 +15,7 @@
 | Blood and sand | 15.00% | ~4 |
 | Crimson rivers | 11.00% | ~3 |
 | Overplay the rogue | 11.00% | ~3 |
+| Berkanan Borgia | 11.00% | ~3 |
 | Power of Inquisition | 11.00% | ~3 |
 | Surpass the teacher | 11.00% | ~3 |
 | Vene, vidi, vici | 11.00% | ~3 |
@@ -22,7 +23,6 @@
 | Protect the Healer! | 11.00% | ~3 |
 | Help of the Gell | 11.00% | ~3 |
 | Trial by cold | 11.00% | ~3 |
-| Berkanan Borgia | 7.00% | ~2 |
 | The champion of the arena | 7.00% | ~2 |
 | Rage | 7.00% | ~2 |
 | Deadly strike | 7.00% | ~2 |

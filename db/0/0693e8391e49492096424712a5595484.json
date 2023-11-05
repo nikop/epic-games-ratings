@@ -2172,9 +2172,9 @@
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 198
     },
     {
       "ID": "FerrymanBird",
@@ -2228,9 +2228,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "PitSoul",
@@ -2395,8 +2395,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:12:35.5042023+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:03:19.5029227+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:04.8206185+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:00:21.6575253+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:12:35.5042981+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:57:53.048173+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:03:19.5029855+00:00"
 }

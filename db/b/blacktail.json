@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,11 +81,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 742,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:47.2871763+00:00",
@@ -2131,6 +2131,11 @@
       "Time": "2023-11-05T17:18:31.6996101+00:00",
       "NumProgressed": 740,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T18:09:12.3865493+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2262,7 +2267,7 @@
       "Name": "Liar Liar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LittleHelper",
@@ -2270,7 +2275,7 @@
       "Name": "A friend in need...",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LostAndFound",
@@ -2358,7 +2363,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Toxic",
@@ -2397,7 +2402,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 742,
       "Completed": 1
     }
   ],
@@ -2405,8 +2410,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:18:31.6996095+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:09:12.3865483+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:31.5200978+00:00",
-  "LastUpdate_Ratings": "2023-11-05T16:57:49.5416486+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:18:31.6996878+00:00"
+  "LastUpdate_Ratings": "2023-11-05T17:57:10.7483846+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:09:12.3865842+00:00"
 }

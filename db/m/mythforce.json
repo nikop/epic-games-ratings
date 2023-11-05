@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4679,
+  "EOS_Progressed": 4680,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8730,6 +8730,11 @@
       "Time": "2023-11-05T16:09:03.6644037+00:00",
       "NumProgressed": 4679,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-05T18:09:45.621039+00:00",
+      "NumProgressed": 4680,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8838,7 +8843,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8854,7 +8859,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8908,9 +8913,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1123
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8925,15 +8930,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4679,
+      "Progressed": 4680,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-05T17:18:57.0916767+00:00",
+  "LastChanged_Achievements": "2023-11-05T18:09:45.6210382+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:12:00.8892002+00:00",
-  "LastUpdate_Achievements": "2023-11-05T17:18:57.0917446+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:02:30.771764+00:00",
+  "LastUpdate_Achievements": "2023-11-05T18:09:45.6211063+00:00"
 }

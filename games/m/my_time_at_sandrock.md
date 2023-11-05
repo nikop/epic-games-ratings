@@ -6,57 +6,57 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 203.00% | ~449 |
-| Iron Chef | 193.00% | ~427 |
-| Greeno-B-Gone | 109.00% | ~241 |
-| Your Especially Earned Trajectory | 84.00% | ~186 |
-| Can We Keep It? | 52.00% | ~115 |
-| No Mountain Wide Enough | 51.00% | ~113 |
-| On that Grindset | 45.00% | ~99 |
-| My Time Mansion | 38.00% | ~84 |
-| Yakmel Whisperer | 30.00% | ~66 |
-| Pack Mule | 29.00% | ~64 |
-| Financially Secure | 29.00% | ~64 |
-| Happier-est Place on Earth | 29.00% | ~64 |
-| Mole Masher | 29.00% | ~64 |
-| Call Me Fishmael | 28.00% | ~62 |
-| Anti-Santa | 27.00% | ~60 |
-| You Don't Win Friends With Salad | 27.00% | ~60 |
-| Knowledge is Power | 26.00% | ~57 |
-| Better Late than Never | 26.00% | ~57 |
-| Diamonds are Forever | 26.00% | ~57 |
-| I Do! | 25.00% | ~55 |
-| Finishing Touches | 24.00% | ~53 |
-| Officially Official | 23.00% | ~51 |
-| Got Served | 20.00% | ~44 |
-| Big Game Hunter | 19.00% | ~42 |
-| What Plants Crave | 19.00% | ~42 |
-| Jewel of the Eufaula | 19.00% | ~42 |
-| Unboxing | 17.00% | ~38 |
-| First Love | 16.00% | ~35 |
-| Panda-kin | 15.00% | ~33 |
-| Chatterbox | 15.00% | ~33 |
-| One of the Cool Kids | 14.00% | ~31 |
+| Adept Assembler | 201.00% | ~452 |
+| Iron Chef | 190.00% | ~428 |
+| Greeno-B-Gone | 108.00% | ~243 |
+| Your Especially Earned Trajectory | 83.00% | ~187 |
+| Can We Keep It? | 51.00% | ~115 |
+| No Mountain Wide Enough | 50.00% | ~112 |
+| On that Grindset | 45.00% | ~101 |
+| My Time Mansion | 37.00% | ~83 |
+| Pack Mule | 30.00% | ~68 |
+| Financially Secure | 30.00% | ~68 |
+| Yakmel Whisperer | 30.00% | ~68 |
+| Happier-est Place on Earth | 29.00% | ~65 |
+| Mole Masher | 29.00% | ~65 |
+| Call Me Fishmael | 28.00% | ~63 |
+| Anti-Santa | 27.00% | ~61 |
+| Diamonds are Forever | 27.00% | ~61 |
+| Knowledge is Power | 26.00% | ~58 |
+| Better Late than Never | 26.00% | ~58 |
+| You Don't Win Friends With Salad | 26.00% | ~58 |
+| I Do! | 25.00% | ~56 |
+| Finishing Touches | 24.00% | ~54 |
+| Officially Official | 22.00% | ~50 |
+| Big Game Hunter | 20.00% | ~45 |
+| What Plants Crave | 20.00% | ~45 |
+| Got Served | 20.00% | ~45 |
+| Jewel of the Eufaula | 19.00% | ~43 |
+| Unboxing | 18.00% | ~40 |
+| Chatterbox | 16.00% | ~36 |
+| First Love | 16.00% | ~36 |
+| Panda-kin | 15.00% | ~34 |
+| One of the Cool Kids | 14.00% | ~32 |
 | He Can Spin A Yarn... | 12.00% | ~27 |
 | Who Ya Gonna Call...? | 12.00% | ~27 |
-| Newton | 11.00% | ~24 |
+| Newton | 11.00% | ~25 |
 | Waste Not Want Not | 10.00% | ~22 |
 | Do Your Part | 9.00% | ~20 |
 | Jack of All Trades | 8.00% | ~18 |
 | Bridging the Gap | 8.00% | ~18 |
 | Martle's Dream | 8.00% | ~18 |
 | Lifeline Pipeline | 8.00% | ~18 |
+| Cardistry | 8.00% | ~18 |
 | Just What I Always Wanted! | 8.00% | ~18 |
-| Elementary, My Dear | 7.00% | ~15 |
-| Cardistry | 7.00% | ~15 |
-| Time Flies | 6.00% | ~13 |
-| Commissions, commissions...! | 6.00% | ~13 |
-| Pro Gamer | 6.00% | ~13 |
-| Builder of the Month | 5.00% | ~11 |
+| Elementary, My Dear | 7.00% | ~16 |
+| Time Flies | 6.00% | ~14 |
+| Commissions, commissions...! | 6.00% | ~14 |
+| Pro Gamer | 6.00% | ~14 |
 | Kind of a Big Deal | 5.00% | ~11 |
 | Santa In Training | 5.00% | ~11 |
 | Sandrunning Speedster | 5.00% | ~11 |
 | It Belongs in a Museum! | 5.00% | ~11 |
+| Builder of the Month | 4.00% | ~9 |
 | Got the Flow Back | 4.00% | ~9 |
 | Got the Receipt? | 4.00% | ~9 |
 | It's High Noon... | 3.00% | ~7 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 355)  
+Progressed: 225 (Ranked 353)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 100 | 0 |
 | 2023-11-03 | 167 | 0 |
 | 2023-11-04 | 212 | 0 |
-| 2023-11-05 | 221 | 0 |
+| 2023-11-05 | 225 | 0 |
 ## Awards
 Max (Character Customization): 576  (Ranked 194)  
 Sum: 1,259 (Ranked 240)  
