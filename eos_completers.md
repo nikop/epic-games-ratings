@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.27% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.26% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -58,7 +58,7 @@
 | 56 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
 | 57 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
-| 59 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.21% |
+| 59 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.19% |
 | 60 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.64% |
@@ -127,8 +127,8 @@
 | 125 | [Somerville](games/s/somerville.md) | 1.76% |
 | 126 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.72% |
 | 127 | [Night Book](games/n/night_book.md) | 1.69% |
-| 128 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.64% |
-| 129 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.63% |
+| 128 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.63% |
+| 128 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.63% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.54% |
 | 130 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
 | 132 | [Five Dates](games/f/five_dates.md) | 1.49% |
@@ -138,9 +138,9 @@
 | 135 | [Ten Dates](games/t/ten_dates.md) | 1.37% |
 | 137 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
 | 138 | [Chorus](games/c/chorus.md) | 1.34% |
-| 138 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.34% |
 | 138 | [Poosh XL](games/p/poosh_xl.md) | 1.34% |
-| 141 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
+| 140 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
+| 140 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.33% |
 | 142 | [Late Shift](games/l/late_shift.md) | 1.29% |
 | 142 | [Lemon Cake](games/l/lemon_cake.md) | 1.29% |
 | 144 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.27% |
@@ -177,20 +177,20 @@
 | 175 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 175 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 177 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
-| 177 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.61% |
-| 179 | [Haven](games/h/haven.md) | 0.60% |
-| 179 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
+| 178 | [Haven](games/h/haven.md) | 0.60% |
+| 178 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
+| 178 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
 | 181 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 182 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 183 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.57% |
 | 184 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.56% |
 | 185 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 185 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
-| 187 | [Dead Space](games/d/dead_space.md) | 0.53% |
+| 187 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.53% |
 | 187 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 187 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.53% |
-| 191 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.52% |
+| 191 | [Dead Space](games/d/dead_space.md) | 0.52% |
 | 191 | [Eternights](games/e/eternights.md) | 0.52% |
 | 191 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.52% |
 | 194 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.51% |
