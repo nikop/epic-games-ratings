@@ -63,6 +63,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 2.00% | ~303 |
 | Roman Paganism | 2.00% | ~303 |
 | Zoroastrianism | 2.00% | ~303 |
+| Win a Single Player Game | 2.00% | ~303 |
 | Kushite Paganism | 2.00% | ~303 |
 | Hanging Gardens in Babylon | 1.00% | ~151 |
 | Beloved | 1.00% | ~151 |
@@ -92,13 +93,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~151 |
 | Double Victory | 1.00% | ~151 |
 | Points Victory | 1.00% | ~151 |
-| Win a Single Player Game | 1.00% | ~151 |
 | The Clergy | 1.00% | ~151 |
 | Kushite Pyramids | 1.00% | ~151 |
 | Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Hittite Iron | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
+| Pantheon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
 | Military Prestige | 0.90% | ~136 |
 | Gnosticism | 0.90% | ~136 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.80% | ~121 |
 | Hunters | 0.80% | ~121 |
 | Church of the Holy Sepulchre | 0.80% | ~121 |
-| Pantheon | 0.80% | ~121 |
 | Learn to Play 4 | 0.80% | ~121 |
 | Carthage | 0.80% | ~121 |
 | One True Faith | 0.80% | ~121 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.70% | ~106 |
 | Kmt Unified | 0.70% | ~106 |
 | Bad Heir Day | 0.60% | ~91 |
+| Noble Difficulty | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.50% | ~76 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
-| Noble Difficulty | 0.50% | ~76 |
 | Cao'an | 0.50% | ~76 |
 | Adur Burzen-Mihr | 0.50% | ~76 |
 | Learn to Play 5 | 0.50% | ~76 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,142 (Ranked 145)  
+Progressed: 15,143 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 307)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,142 | 5 |
+| 2023-11-05 | 15,143 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

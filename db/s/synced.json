@@ -963,9 +963,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65792,
+  "EOS_Progressed": 65796,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7948,6 +7948,11 @@
       "Time": "2023-11-05T05:08:07.8250404+00:00",
       "NumProgressed": 65792,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T06:05:43.3931491+00:00",
+      "NumProgressed": 65796,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -7960,7 +7965,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21711
+      "UsersEstimate": 21713
     },
     {
       "ID": "10",
@@ -8040,7 +8045,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6579
+      "UsersEstimate": 6580
     },
     {
       "ID": "5",
@@ -8048,7 +8053,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5263
+      "UsersEstimate": 5264
     },
     {
       "ID": "6",
@@ -8087,7 +8092,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65792,
+      "Progressed": 65796,
       "Completed": 27
     }
   ],
@@ -8095,8 +8100,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-04T01:41:45.7298133+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:08:07.8250399+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:05:43.3931484+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:01:46.2492359+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:08:07.8250928+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:59:37.7481367+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:05:43.3932219+00:00"
 }

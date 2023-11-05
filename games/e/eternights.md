@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | New arm | 82.00% | ~312 |
 | Shelter Escape | 81.00% | ~309 |
-| The First Bond | 70.00% | ~267 |
+| The First Bond | 71.00% | ~271 |
 | Novice Scavenger | 64.00% | ~244 |
 | Master Craftsman | 51.00% | ~194 |
 | First wall | 50.00% | ~190 |

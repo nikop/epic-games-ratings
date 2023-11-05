@@ -9,17 +9,17 @@ Rating: 4.45 (Ranked 658)
 | A new Journey | 74.00% | ~1,547 |
 | From X to Y | 73.00% | ~1,526 |
 | Departure | 73.00% | ~1,526 |
-| Way of Iron | 70.00% | ~1,463 |
-| Mystery Tour | 69.00% | ~1,442 |
-| We brake for nobody | 68.00% | ~1,421 |
-| Brainstorm | 66.00% | ~1,379 |
-| Travel Company | 66.00% | ~1,379 |
-| Mind the Gap | 65.00% | ~1,358 |
+| Way of Iron | 70.00% | ~1,464 |
+| Mystery Tour | 69.00% | ~1,443 |
+| We brake for nobody | 68.00% | ~1,422 |
+| Brainstorm | 66.00% | ~1,380 |
+| Travel Company | 66.00% | ~1,380 |
+| Mind the Gap | 65.00% | ~1,359 |
 | All around the World | 62.00% | ~1,296 |
-| Right through the middle | 58.00% | ~1,212 |
+| Right through the middle | 58.00% | ~1,213 |
 | Poor Devil | 54.00% | ~1,129 |
 | Facility Manager | 53.00% | ~1,108 |
-| Producer | 50.00% | ~1,045 |
+| Producer | 50.00% | ~1,046 |
 | Apprentice | 42.00% | ~878 |
 | Bridge Builder | 42.00% | ~878 |
 | Access granted | 35.00% | ~732 |
@@ -32,8 +32,8 @@ Rating: 4.45 (Ranked 658)
 | All mine | 30.00% | ~627 |
 | Mole | 30.00% | ~627 |
 | Country Life | 28.00% | ~585 |
-| General Manager | 27.00% | ~564 |
-| Hostile Takeover | 25.00% | ~522 |
+| General Manager | 27.00% | ~565 |
+| Hostile Takeover | 25.00% | ~523 |
 | Seven at one stroke | 24.00% | ~502 |
 | Breaking Ground | 22.00% | ~460 |
 | Trailblazer | 21.00% | ~439 |
@@ -41,7 +41,7 @@ Rating: 4.45 (Ranked 658)
 | Traffic Jam | 20.00% | ~418 |
 | Networker | 18.00% | ~376 |
 | Resistance is futile | 17.00% | ~355 |
-| Assimilated | 16.00% | ~334 |
+| Assimilated | 16.00% | ~335 |
 | Locusts | 15.00% | ~314 |
 | Bold and beautiful | 15.00% | ~314 |
 | Settler | 15.00% | ~314 |
@@ -61,7 +61,7 @@ Rating: 4.45 (Ranked 658)
 | United States | 0.60% | ~13 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,090 (Ranked 214)  
+Progressed: 2,091 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 0 (0.00%) (Ranked 343)
 | 2023-11-02 | 2,082 | 0 |
 | 2023-11-03 | 2,084 | 0 |
 | 2023-11-04 | 2,090 | 0 |
+| 2023-11-05 | 2,091 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

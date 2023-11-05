@@ -627,9 +627,9 @@
       "Count": 85
     }
   ],
-  "EOS_Progressed": 50297,
+  "EOS_Progressed": 50304,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 2270,
+  "EOS_NewPlayers": 2263,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8482,6 +8482,11 @@
       "Time": "2023-11-05T05:06:27.0919416+00:00",
       "NumProgressed": 50297,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-11-05T06:04:33.6861159+00:00",
+      "NumProgressed": 50304,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -8518,7 +8523,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7042
+      "UsersEstimate": 7043
     },
     {
       "ID": "BAD_END",
@@ -8606,7 +8611,7 @@
       "Name": "Student",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 10562
+      "UsersEstimate": 10564
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -8670,7 +8675,7 @@
       "Name": "Healer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6539
+      "UsersEstimate": 6540
     },
     {
       "ID": "HERBS_2",
@@ -8694,7 +8699,7 @@
       "Name": "Initiation",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13580
+      "UsersEstimate": 13582
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -8814,7 +8819,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7042
+      "UsersEstimate": 7043
     },
     {
       "ID": "TALES_2",
@@ -8870,7 +8875,7 @@
       "Name": "Knower",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 7545
+      "UsersEstimate": 7546
     },
     {
       "ID": "ZNATKOST_2",
@@ -8893,15 +8898,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 50297,
+      "Progressed": 50304,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-04T19:59:55.55078+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:06:27.0919409+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:04:33.6861153+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:33.0427887+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:01:29.3606647+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:06:27.0920521+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:59:27.1354595+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:04:33.6862328+00:00"
 }

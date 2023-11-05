@@ -2,10 +2,10 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 59,
+  "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 7,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 249161,
+  "EOS_Progressed": 249510,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39509,
+  "EOS_NewPlayers": 39801,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7362,6 +7362,11 @@
       "Time": "2023-11-05T05:09:20.0231516+00:00",
       "NumProgressed": 249161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T06:08:12.5417869+00:00",
+      "NumProgressed": 249510,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -7374,7 +7379,7 @@
       "Name": "Soldier 47",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "firstKills_1",
@@ -7454,7 +7459,7 @@
       "Name": "Close Combat",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "kar98_wkills_100",
@@ -7462,7 +7467,7 @@
       "Name": "Kar98 Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "kills_1",
@@ -7470,7 +7475,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 144513
+      "UsersEstimate": 144716
     },
     {
       "ID": "kills_100",
@@ -7478,7 +7483,7 @@
       "Name": "Rookie Riot",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2495
     },
     {
       "ID": "kills_1000",
@@ -7486,7 +7491,7 @@
       "Name": "Master Soldier",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "lastBulletKills_1",
@@ -7510,7 +7515,7 @@
       "Name": "Baton Soldier",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "mru2_wins_1",
@@ -7526,7 +7531,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 27408
+      "UsersEstimate": 27446
     },
     {
       "ID": "revives_25",
@@ -7534,7 +7539,7 @@
       "Name": "Royale Surgeon",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "silencedKills_25",
@@ -7566,7 +7571,7 @@
       "Name": "Top Toy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "top10_10",
@@ -7574,7 +7579,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -7606,7 +7611,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -7621,13 +7626,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 249161,
+      "Progressed": 249510,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:09:20.0231508+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:08:12.5417862+00:00",
   "LastUpdate_AppInfo": "2023-11-01T15:57:00.3323398+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:01:59.3859312+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:09:20.0232324+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:59:46.5131616+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:08:12.5419519+00:00"
 }

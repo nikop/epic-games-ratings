@@ -3983,9 +3983,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75966,
+  "EOS_Progressed": 75967,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21483,6 +21483,11 @@
       "Time": "2023-11-05T05:06:31.8742567+00:00",
       "NumProgressed": 75966,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T06:04:37.1067606+00:00",
+      "NumProgressed": 75967,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21644,9 +21649,9 @@
       "ID": "CRIME_FIGHTER_1",
       "SetID": "4eo5ebm",
       "Name": "Expert Crime Fighter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 3798
+      "UsersEstimate": 4558
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -21718,7 +21723,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21270
+      "UsersEstimate": 21271
     },
     {
       "ID": "FREEZE_1_5",
@@ -21886,7 +21891,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25828
+      "UsersEstimate": 25829
     },
     {
       "ID": "MYSTERY_02",
@@ -21981,13 +21986,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75966,
+      "Progressed": 75967,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46246,
+      "Progressed": 46247,
       "Completed": 2673
     }
   ],
@@ -21995,8 +22000,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-05T04:03:04.9983898+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:06:31.874256+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:04:37.1067599+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
   "LastUpdate_Ratings": "2023-11-05T05:03:37.4475172+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:06:31.8745018+00:00"
+  "LastUpdate_Achievements": "2023-11-05T06:04:37.1069746+00:00"
 }

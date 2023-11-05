@@ -4,8 +4,8 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -684,9 +684,9 @@
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -773,8 +773,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:07:40.8679316+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:05:24.2290463+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.0401446+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:01:15.4861833+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:07:40.867982+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:59:18.5011622+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:05:24.2291142+00:00"
 }

@@ -6,22 +6,22 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~30,161 |
-| Final touch | 35.00% | ~28,531 |
-| Prop-M Rover | 32.00% | ~26,085 |
+| It's a steal! | 37.00% | ~30,162 |
+| Final touch | 35.00% | ~28,532 |
+| Prop-M Rover | 32.00% | ~26,086 |
 | Changing the Planet | 28.00% | ~22,825 |
-| Sojourner | 26.00% | ~21,194 |
-| Beagle 2 | 24.00% | ~19,564 |
+| Sojourner | 26.00% | ~21,195 |
+| Beagle 2 | 24.00% | ~19,565 |
 | New Home | 23.00% | ~18,749 |
 | Winner Winner Terraformer | 21.00% | ~17,119 |
-| Project Manager | 19.00% | ~15,488 |
-| Curiosity | 19.00% | ~15,488 |
-| Collector | 19.00% | ~15,488 |
-| Master | 19.00% | ~15,488 |
+| Project Manager | 19.00% | ~15,489 |
+| Curiosity | 19.00% | ~15,489 |
+| Collector | 19.00% | ~15,489 |
+| Master | 19.00% | ~15,489 |
 | No Longer Red | 18.00% | ~14,673 |
 | Self-sufficient | 18.00% | ~14,673 |
 | Money money | 15.00% | ~12,228 |
-| Biggest Reward | 14.00% | ~11,412 |
+| Biggest Reward | 14.00% | ~11,413 |
 | First Journey | 13.00% | ~10,597 |
 | Acquired knowledge | 12.00% | ~9,782 |
 | Hellenic Elysium | 12.00% | ~9,782 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~8,152 |
 | Ultimate success | 10.00% | ~8,152 |
 | Variety Expert | 9.00% | ~7,337 |
-| Frequent tester | 8.00% | ~6,521 |
-| Determined | 8.00% | ~6,521 |
+| Frequent tester | 8.00% | ~6,522 |
+| Determined | 8.00% | ~6,522 |
 | Terraformer | 4.00% | ~3,261 |
 | Team Effort | 3.00% | ~2,446 |
 | Opportunity | 3.00% | ~2,446 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,517 (Ranked 93)  
+Progressed: 81,519 (Ranked 93)  
 Completed: 155 (0.19%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 155 (0.19%) (Ranked 244)
 | 2023-11-02 | 81,205 | 154 |
 | 2023-11-03 | 81,328 | 154 |
 | 2023-11-04 | 81,481 | 155 |
-| 2023-11-05 | 81,517 | 155 |
+| 2023-11-05 | 81,519 | 155 |
 ## Awards
 Max (Relaxing): 522  (Ranked 203)  
 Sum: 3,234 (Ranked 169)  

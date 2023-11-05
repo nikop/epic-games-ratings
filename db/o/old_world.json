@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1980,9 +1980,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15142,
+  "EOS_Progressed": 15143,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15380,6 +15380,11 @@
       "Time": "2023-11-05T01:52:18.8546871+00:00",
       "NumProgressed": 15142,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T06:04:40.6035161+00:00",
+      "NumProgressed": 15143,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16173,9 +16178,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -16845,9 +16850,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -17661,9 +17666,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 303
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -18126,21 +18131,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15142,
+      "Progressed": 15143,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15142,
+      "Progressed": 15143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:06:36.6424021+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:04:40.6035155+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:01:35.4360089+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:06:36.6438203+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:59:31.1636377+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:04:40.6048093+00:00"
 }

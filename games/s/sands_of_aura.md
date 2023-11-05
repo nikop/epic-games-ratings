@@ -9,8 +9,8 @@
 | Spirit Within | 12.00% | ~7 |
 | Dousing a Venerable Flame | 9.00% | ~5 |
 | Leisis Bless You | 9.00% | ~5 |
+| Advanced Armaments | 9.00% | ~5 |
 | Rain Must Fall | 7.00% | ~4 |
-| Advanced Armaments | 7.00% | ~4 |
 | The Guardian of Fire | 5.00% | ~3 |
 | Sovereignty of Irons | 5.00% | ~3 |
 | A Sandwyrm's Hoard | 5.00% | ~3 |

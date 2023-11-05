@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "instinct",
@@ -508,9 +508,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "just_like_me",
@@ -589,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:09:44.4774345+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:08:29.7814585+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.2705596+00:00",
-  "LastUpdate_Ratings": "2023-11-05T04:59:36.9378795+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:09:44.4774446+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:58:16.3250042+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:08:29.7814747+00:00"
 }

@@ -28,7 +28,7 @@
 | Mighty Marmelizer | 41.00% | ~92 |
 | Snare Specialist | 41.00% | ~92 |
 | Karakuri Trail | 39.00% | ~88 |
-| Kemono at Heart | 37.00% | ~83 |
+| Kemono at Heart | 38.00% | ~86 |
 | Team Hunter | 35.00% | ~79 |
 | Artful Assister | 34.00% | ~76 |
 | Reincarnation Cycle Stopper | 33.00% | ~74 |

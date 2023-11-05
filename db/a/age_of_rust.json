@@ -4,8 +4,8 @@
   "ProductSlug": "age-of-rust-001afd",
   "Ranking_EOS_Progress": 721,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.7883045+00:00",
-  "LastUpdate_Ratings": "2023-11-05T05:02:02.809822+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:08:42.5285198+00:00"
+  "LastUpdate_Ratings": "2023-11-05T05:59:48.5993533+00:00",
+  "LastUpdate_Achievements": "2023-11-05T06:06:07.2348454+00:00"
 }

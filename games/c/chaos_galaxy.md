@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Honor Medal | 26.00% | ~10 |
+| Honor Medal | 25.00% | ~10 |
 | Tyrant Rise | 23.00% | ~9 |
 | Great Civil War | 18.00% | ~7 |
 | Assassination | 15.00% | ~6 |
@@ -53,7 +53,7 @@
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 480)  
+Progressed: 40 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 0 (0.00%) (Ranked 343)
 | 2023-11-01 | 36 | 0 |
 | 2023-11-03 | 37 | 0 |
 | 2023-11-04 | 39 | 0 |
+| 2023-11-05 | 40 | 0 |

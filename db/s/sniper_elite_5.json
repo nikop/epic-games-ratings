@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,7 +577,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3825,
+  "EOS_Progressed": 3826,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -7697,6 +7697,11 @@
       "Time": "2023-11-05T03:06:00.4968111+00:00",
       "NumProgressed": 3825,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-05T06:04:37.9424276+00:00",
+      "NumProgressed": 3826,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7828,7 +7833,7 @@
       "Name": "Gunslinger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7868,7 +7873,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -7876,7 +7881,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1569
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -7884,7 +7889,7 @@
       "Name": "Out of Scope",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -7900,7 +7905,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -7956,7 +7961,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8004,7 +8009,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -8020,7 +8025,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8052,7 +8057,7 @@
       "Name": "Up close and personal",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -8076,7 +8081,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8124,7 +8129,7 @@
       "Name": "Can\u0027t Outrun A Bullet",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -8275,13 +8280,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3776,
+      "Progressed": 3777,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3825,
+      "Progressed": 3826,
       "Completed": 11
     }
   ],
@@ -8289,8 +8294,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-05T05:06:33.12308+00:00",
+  "LastChanged_Achievements": "2023-11-05T06:04:37.942427+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
   "LastUpdate_Ratings": "2023-11-05T05:03:36.8952204+00:00",
-  "LastUpdate_Achievements": "2023-11-05T05:06:33.1232794+00:00"
+  "LastUpdate_Achievements": "2023-11-05T06:04:37.9425778+00:00"
 }

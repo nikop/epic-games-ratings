@@ -16,8 +16,8 @@
 | The Collector | 18.00% | ~21 |
 | A Taste of Wrath | 17.00% | ~20 |
 | Geared Up | 14.00% | ~17 |
-| Stone Collection | 13.00% | ~15 |
-| Tributes of Caladrias | 12.00% | ~14 |
+| Stone Collection | 14.00% | ~17 |
+| Tributes of Caladrias | 13.00% | ~15 |
 | Essence Blow | 9.00% | ~11 |
 | Airborne | 8.00% | ~9 |
 | Alchemist | 6.00% | ~7 |
