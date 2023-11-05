@@ -314,9 +314,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -370,17 +370,17 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -417,8 +417,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:09:06.4641166+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:08:49.8992161+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:02:31.0792495+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:09:06.46413+00:00"
+  "LastUpdate_Ratings": "2023-11-05T19:00:27.1244676+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:08:49.8992246+00:00"
 }

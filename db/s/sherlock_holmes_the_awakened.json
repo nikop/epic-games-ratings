@@ -3096,9 +3096,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 375
+      "UsersEstimate": 383
     },
     {
       "ID": "MQ03_3",
@@ -3208,9 +3208,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 367
+      "UsersEstimate": 375
     },
     {
       "ID": "MQ07_1",
@@ -3240,9 +3240,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 343
+      "UsersEstimate": 351
     },
     {
       "ID": "MQ08_3",
@@ -3273,8 +3273,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:05:34.1268207+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:04:41.1431402+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.8261686+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:59:46.5076748+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:05:34.1268601+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:59:01.831898+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:04:41.1431742+00:00"
 }

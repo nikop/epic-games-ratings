@@ -2,7 +2,7 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 349,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 128,
@@ -484,9 +484,9 @@
       "ID": "patient_listener",
       "SetID": "2db2j74",
       "Name": "Patient Listener",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "play_it_again_sam",
@@ -581,8 +581,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:08:24.2013545+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:08:18.7361278+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:20.7646643+00:00",
   "LastUpdate_Ratings": "2023-11-05T18:02:43.6903636+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:08:24.2013745+00:00"
+  "LastUpdate_Achievements": "2023-11-05T19:08:18.7361386+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -1287,9 +1287,9 @@
       "ID": "SurvivalRecordPhases",
       "SetID": "d9ekhim",
       "Name": "Warrior Trials",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SurvivalRecordPhasesMeh",
@@ -1424,8 +1424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:07:05.3016689+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:05:50.6303141+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:16.2787316+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:01:06.1464148+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:07:05.3017087+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:59:56.9014169+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:05:50.630342+00:00"
 }

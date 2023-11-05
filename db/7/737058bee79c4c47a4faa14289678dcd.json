@@ -2,9 +2,9 @@
   "ID": "737058bee79c4c47a4faa14289678dcd",
   "Name": "Monsters of Mican",
   "ProductSlug": "monsters-of-mican-02e3ee",
-  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-27T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -58,6 +58,11 @@
     {
       "Time": "2023-11-04T22:06:06.5853016+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T19:05:49.6664974+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -149,7 +154,7 @@
       "ID": "MagmaAdmirer",
       "SetID": "4j06hlp",
       "Name": "Magma Admirer",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -205,7 +210,7 @@
       "ID": "ThinkLikeARabbit",
       "SetID": "4j06hlp",
       "Name": "Think Like a Rabbit",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -230,14 +235,14 @@
     {
       "ID": "4j06hlp",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T14:02:29.050049+00:00",
   "FirstSeenAchievements": "2023-10-21T20:06:08.2098509+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:07:03.9336021+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:05:49.6664971+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:55.424366+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:58:14.2182909+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:07:03.93362+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:57:55.4643501+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:05:49.6665066+00:00"
 }

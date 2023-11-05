@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~27 |
-| Suicide squad | 41.00% | ~11 |
+| Suicide squad | 44.00% | ~12 |
+| Train hard, fight easy | 22.00% | ~6 |
+| Under cover | 22.00% | ~6 |
 | First blood | 22.00% | ~6 |
-| Train hard, fight easy | 19.00% | ~5 |
-| Under cover | 19.00% | ~5 |
-| All for one! | 15.00% | ~4 |
-| Royal blessing | 15.00% | ~4 |
+| All for one! | 19.00% | ~5 |
+| Royal blessing | 19.00% | ~5 |
 | A hidden snake | 15.00% | ~4 |
 | Blood and sand | 15.00% | ~4 |
 | Crimson rivers | 11.00% | ~3 |
@@ -23,6 +23,7 @@
 | Protect the Healer! | 11.00% | ~3 |
 | Help of the Gell | 11.00% | ~3 |
 | Trial by cold | 11.00% | ~3 |
+| For the greater good | 7.00% | ~2 |
 | The champion of the arena | 7.00% | ~2 |
 | Rage | 7.00% | ~2 |
 | Deadly strike | 7.00% | ~2 |
@@ -31,7 +32,6 @@
 | Cunning plan | 7.00% | ~2 |
 | All's fair in love and war | 7.00% | ~2 |
 | She-Wolf | 7.00% | ~2 |
-| For the greater good | 4.00% | ~1 |
 | Collector | 4.00% | ~1 |
 | The best apprentice | 4.00% | ~1 |
 | Stronger than Gellian steel | 4.00% | ~1 |

@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6368,
+  "EOS_Progressed": 6369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9472,6 +9472,11 @@
       "Time": "2023-11-05T17:18:28.1550779+00:00",
       "NumProgressed": 6368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T19:08:51.1065944+00:00",
+      "NumProgressed": 6369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9593,9 +9598,9 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -9777,9 +9782,9 @@
       "ID": "ACHIEVEMENT_039",
       "SetID": "6jk25od",
       "Name": "Aguas Claras Conquistador",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -9802,13 +9807,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6368,
+      "Progressed": 6369,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5740,
+      "Progressed": 5741,
       "Completed": 113
     }
   ],
@@ -9816,8 +9821,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:09:07.9382229+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:08:51.106594+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:59:09.1486524+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:09:07.9383145+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:58:35.5350893+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:08:51.1066835+00:00"
 }

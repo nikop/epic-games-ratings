@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Catch me if you can | 69.00% | ~9 |
 | Under the spotlights | 62.00% | ~8 |
+| Out of my area | 54.00% | ~7 |
 | Teacher's pet | 54.00% | ~7 |
-| Out of my area | 46.00% | ~6 |
 | Robot cleaner | 46.00% | ~6 |
 | Skynet Wins | 46.00% | ~6 |
 | Big Win | 23.00% | ~3 |

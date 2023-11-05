@@ -13,7 +13,7 @@
 | It's covered up for a reason | 33.00% | ~18 |
 | Refuse to look | 33.00% | ~18 |
 | Sign of weakness | 31.00% | ~17 |
-| Finished it | 28.00% | ~15 |
+| Finished it | 30.00% | ~16 |
 | Face your fears | 15.00% | ~8 |
 | First steps | 13.00% | ~7 |
 | Playtime | 13.00% | ~7 |

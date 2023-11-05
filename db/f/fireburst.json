@@ -2,9 +2,9 @@
   "ID": "89512c1a466c41eb9ed2b172f2478806",
   "Name": "Fireburst",
   "ProductSlug": "fireburst-3c29b4",
-  "Ranking_EOS_Progress": 722,
+  "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-28T04:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.2636519+00:00",
   "LastChanged": "2023-03-31T05:58:25.2636521+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.9586545+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:02:47.3039436+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:07:51.2669894+00:00"
+  "LastUpdate_Ratings": "2023-11-05T19:02:39.2265217+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:06:24.2943194+00:00"
 }

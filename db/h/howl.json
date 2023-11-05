@@ -2,9 +2,9 @@
   "ID": "045461d8f98f474da9bd32cd727548e0",
   "Name": "Howl",
   "ProductSlug": "the-howl-ee6924",
-  "Ranking_EOS_Progress": 722,
+  "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:09:46.6874018+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:09:20.8398912+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0617937+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:03:08.7392233+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:09:46.6874059+00:00"
+  "LastUpdate_Ratings": "2023-11-05T19:02:54.5359259+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:09:20.8398928+00:00"
 }

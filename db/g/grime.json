@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1381,9 +1381,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156766,
+  "EOS_Progressed": 156777,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1340,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14491,6 +14491,11 @@
       "Time": "2023-11-05T18:08:23.2670087+00:00",
       "NumProgressed": 156766,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T19:08:18.0909076+00:00",
+      "NumProgressed": 156777,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14574,7 +14579,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -14606,7 +14611,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -14622,7 +14627,7 @@
       "Name": "Host",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -14702,7 +14707,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -14869,21 +14874,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156349,
+      "Progressed": 156360,
       "Completed": 1190
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156766,
+      "Progressed": 156777,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T17:10:51.7205905+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:08:23.2670083+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:08:18.0909072+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:00:27.1790718+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:08:23.2671271+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:59:29.1548952+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:08:18.0910009+00:00"
 }

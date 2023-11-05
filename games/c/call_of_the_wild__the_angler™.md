@@ -16,12 +16,12 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 1.00% | ~64 |
 | Things that go Splash in the Night | 1.00% | ~64 |
 | Goldfish? | 0.90% | ~57 |
-| Going for Gold | 0.70% | ~45 |
+| Going for Gold | 0.80% | ~51 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~29 |
 | License to Gill | 0.40% | ~25 |
 | School's Out for Summer | 0.40% | ~25 |
+| Aguas Claras Conquistador | 0.40% | ~23 |
 | I'm Hooked! | 0.30% | ~19 |
-| Aguas Claras Conquistador | 0.30% | ~17 |
 | All Good Kings Must Come to an End | 0.30% | ~17 |
 | I'm the Captain Now | 0.20% | ~13 |
 | Marathon | 0.20% | ~13 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,368 (Ranked 177)  
+Progressed: 6,369 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 6,244 | 0 |
 | 2023-11-03 | 6,286 | 0 |
 | 2023-11-04 | 6,326 | 0 |
-| 2023-11-05 | 6,368 | 0 |
+| 2023-11-05 | 6,369 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 401)  

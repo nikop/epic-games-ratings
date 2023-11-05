@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2604,
+  "EOS_Progressed": 2605,
   "EOS_Completed": 235,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 6,
@@ -7001,6 +7001,11 @@
       "Time": "2023-11-05T15:09:03.8984446+00:00",
       "NumProgressed": 2604,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-11-05T19:09:06.238679+00:00",
+      "NumProgressed": 2605,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 12,
@@ -7044,7 +7049,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "Jakob",
@@ -7076,7 +7081,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -7100,14 +7105,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2604,
+      "Progressed": 2605,
       "Completed": 235
     }
   ],
@@ -7115,8 +7120,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:09:27.4325378+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:09:06.2386787+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:00.2861295+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:02:29.3861384+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:09:27.4325918+00:00"
+  "LastUpdate_Ratings": "2023-11-05T19:00:26.0328737+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:09:06.238718+00:00"
 }

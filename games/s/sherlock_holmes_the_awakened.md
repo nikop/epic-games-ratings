@@ -14,17 +14,17 @@ Rating: 4.66 (Ranked 290)
 | History Check | 53.00% | ~423 |
 | The New World | 50.00% | ~399 |
 | Open Sesame | 49.00% | ~391 |
+| Lock, Stock, And Barrel | 48.00% | ~383 |
 | Gaze Into The Abyss | 48.00% | ~383 |
 | Sticky Fingers | 48.00% | ~383 |
 | Knives Out | 48.00% | ~383 |
 | Land, Ho! | 48.00% | ~383 |
-| Lock, Stock, And Barrel | 47.00% | ~375 |
+| No Man Is An Island | 47.00% | ~375 |
 | Back In The Saddle | 46.00% | ~367 |
-| No Man Is An Island | 46.00% | ~367 |
 | At Wits' End | 46.00% | ~367 |
+| Up In Flames | 44.00% | ~351 |
 | Fhtagn! | 44.00% | ~351 |
 | Bookworm | 43.00% | ~343 |
-| Up In Flames | 43.00% | ~343 |
 | Going Once... | 40.00% | ~319 |
 | Let Me Be Frank | 38.00% | ~303 |
 | Brain Food | 36.00% | ~287 |

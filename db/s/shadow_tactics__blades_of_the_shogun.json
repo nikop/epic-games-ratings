@@ -1936,9 +1936,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212096,
+  "EOS_Progressed": 212105,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1341,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -24661,6 +24661,11 @@
       "Time": "2023-11-05T18:05:48.1134569+00:00",
       "NumProgressed": 212096,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2023-11-05T19:04:51.8448029+00:00",
+      "NumProgressed": 212105,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 44,
@@ -24744,7 +24749,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25452
+      "UsersEstimate": 25453
     },
     {
       "ID": "HappyLittleAccidents",
@@ -24800,7 +24805,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "Meticulous",
@@ -24968,7 +24973,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "UndeservedHonor",
@@ -25023,15 +25028,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212096,
+      "Progressed": 212105,
       "Completed": 95
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-05T13:03:16.6371205+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:05:48.1134562+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:04:51.8448026+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:00:55.9161265+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:05:48.1136075+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:59:49.8480038+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:04:51.8449441+00:00"
 }

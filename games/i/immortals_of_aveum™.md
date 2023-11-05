@@ -5,33 +5,33 @@ Rating: 4.00 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 86.00% | ~138 |
-| Battlefields Have Memories | 83.00% | ~133 |
+| Unforeseen | 87.00% | ~140 |
+| Battlefields Have Memories | 83.00% | ~134 |
 | Enlisted | 81.00% | ~130 |
 | Maybe Engage a Little | 76.00% | ~122 |
-| No More Names | 62.00% | ~99 |
-| Initiate | 54.00% | ~86 |
-| Thrada-Kul | 51.00% | ~82 |
-| Gravity-Challenged Rocks | 39.00% | ~62 |
-| Soldier | 34.00% | ~54 |
-| All the Major Food Groups | 34.00% | ~54 |
-| Beggars Would Ride | 31.00% | ~50 |
-| Control is an Illusion | 29.00% | ~46 |
+| No More Names | 62.00% | ~100 |
+| Initiate | 53.00% | ~85 |
+| Thrada-Kul | 50.00% | ~80 |
+| Gravity-Challenged Rocks | 39.00% | ~63 |
+| Soldier | 34.00% | ~55 |
+| All the Major Food Groups | 34.00% | ~55 |
+| Beggars Would Ride | 30.00% | ~48 |
+| Control is an Illusion | 29.00% | ~47 |
 | Socialite | 27.00% | ~43 |
 | The Means to Save It | 25.00% | ~40 |
 | Resilience to Sin | 21.00% | ~34 |
-| A Familiar Nest | 21.00% | ~34 |
+| A Familiar Nest | 20.00% | ~32 |
 | Periapt Alizarin | 20.00% | ~32 |
-| Geas Aristeya | 19.00% | ~30 |
-| Armsman | 18.00% | ~29 |
+| Geas Aristeya | 19.00% | ~31 |
 | A Perfect Cycle | 17.00% | ~27 |
+| Armsman | 17.00% | ~27 |
 | Recruit | 16.00% | ~26 |
 | Lights Army | 11.00% | ~18 |
 | Good Boy | 11.00% | ~18 |
 | Periapt Cerulean | 10.00% | ~16 |
 | Periapt Viridian | 8.00% | ~13 |
-| Shroudfane Explorer | 8.00% | ~13 |
 | Best Dressed | 7.00% | ~11 |
+| Shroudfane Explorer | 7.00% | ~11 |
 | Armaments Azure | 6.00% | ~10 |
 | Armaments Gules | 6.00% | ~10 |
 | Scholar | 5.00% | ~8 |
@@ -39,12 +39,12 @@ Rating: 4.00 (Ranked 983)
 | Armaments Vert | 4.00% | ~6 |
 | Veteran | 4.00% | ~6 |
 | Master of Carmine | 3.00% | ~5 |
-| Shroudfane Surveyor | 3.00% | ~5 |
-| Treasure Hunter | 3.00% | ~5 |
 | Backtracker | 3.00% | ~5 |
 | Grand Magnus | 2.00% | ~3 |
 | Master of Ultramarine | 2.00% | ~3 |
 | Master of Malachite | 2.00% | ~3 |
+| Shroudfane Surveyor | 2.00% | ~3 |
+| Treasure Hunter | 2.00% | ~3 |
 | Family Business | 1.00% | ~2 |
 | Diplomat | 1.00% | ~2 |
 | Petite Bourgeoisie | 1.00% | ~2 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 983)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 375)  
+Progressed: 161 (Ranked 374)  
 Completed: 1 (0.62%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.62%) (Ranked 175)
 | 2023-11-02 | 131 | 1 |
 | 2023-11-03 | 139 | 1 |
 | 2023-11-04 | 155 | 1 |
-| 2023-11-05 | 160 | 1 |
+| 2023-11-05 | 161 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

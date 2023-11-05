@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 582)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,117 |
-| Advancement | 5.00% | ~1,512 |
-| Meticulously Efficient | 5.00% | ~1,512 |
+| Stylish | 7.00% | ~2,118 |
+| Advancement | 5.00% | ~1,513 |
+| Meticulously Efficient | 5.00% | ~1,513 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,210 |
 | Discovery | 4.00% | ~1,210 |
 | Fully Upgraded | 4.00% | ~1,210 |
 | Solo Capture | 4.00% | ~1,210 |
 | Swift Rift Removers | 4.00% | ~1,210 |
 | Teamwork | 4.00% | ~1,210 |
-| Clutch Capture | 3.00% | ~907 |
-| Cultured | 3.00% | ~907 |
-| There you are! | 3.00% | ~907 |
-| Vaporous Expansion | 3.00% | ~907 |
-| Whoopsie | 3.00% | ~907 |
+| Clutch Capture | 3.00% | ~908 |
+| Cultured | 3.00% | ~908 |
+| There you are! | 3.00% | ~908 |
+| Vaporous Expansion | 3.00% | ~908 |
+| Whoopsie | 3.00% | ~908 |
 | Animated | 2.00% | ~605 |
 | Back Off | 2.00% | ~605 |
 | We have the best insurance | 2.00% | ~605 |
@@ -36,12 +36,12 @@ Rating: 4.50 (Ranked 582)
 | Stunner | 2.00% | ~605 |
 | Summoner | 2.00% | ~605 |
 | Welcome to the Crew | 2.00% | ~605 |
-| Collector | 1.00% | ~302 |
-| Diabolical | 1.00% | ~302 |
-| Escape Artist | 1.00% | ~302 |
-| Reckless | 1.00% | ~302 |
-| Terrifying | 1.00% | ~302 |
-| Tobin's Prodigy | 1.00% | ~302 |
+| Collector | 1.00% | ~303 |
+| Diabolical | 1.00% | ~303 |
+| Escape Artist | 1.00% | ~303 |
+| Reckless | 1.00% | ~303 |
+| Terrifying | 1.00% | ~303 |
+| Tobin's Prodigy | 1.00% | ~303 |
 | Rivalry | 0.90% | ~272 |
 | Fragile Panes | 0.80% | ~242 |
 | Liability | 0.80% | ~242 |
@@ -49,15 +49,15 @@ Rating: 4.50 (Ranked 582)
 | Therapeutic | 0.50% | ~151 |
 | Rift Seeker | 0.40% | ~121 |
 | Master Collector | 0.30% | ~91 |
-| Ghost Expert | 0.20% | ~60 |
-| Little Help Here | 0.20% | ~60 |
+| Ghost Expert | 0.20% | ~61 |
+| Little Help Here | 0.20% | ~61 |
 | Catostrophic Destroyer | 0.10% | ~30 |
 | I don't need these | 0.10% | ~30 |
 | Line em' up | 0.10% | ~30 |
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,248 (Ranked 122)  
+Progressed: 30,260 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 65 (0.21%) (Ranked 237)
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
-| 2023-11-05 | 30,248 | 65 |
+| 2023-11-05 | 30,260 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
 Sum: 2,696 (Ranked 180)  

@@ -10,6 +10,7 @@ Rating: 4.54 (Ranked 522)
 | One of Us | 0.80% | ~311 |
 | Break A Leg | 0.30% | ~2,140 |
 | Coup de Grâce | 0.30% | ~2,140 |
+| Hazardous Materials | 0.30% | ~2,140 |
 | Hotel California | 0.30% | ~2,140 |
 | Welcome To Hell-A | 0.30% | ~2,140 |
 | Dr. Reed, I Presume? | 0.20% | ~1,427 |
@@ -23,7 +24,6 @@ Rating: 4.54 (Ranked 522)
 | Can't Handle the Truth | 0.20% | ~1,427 |
 | Like Riding a Bike | 0.20% | ~1,427 |
 | Not Even My Final Form | 0.20% | ~1,427 |
-| Hazardous Materials | 0.20% | ~1,427 |
 | Friends Like These | 0.20% | ~1,427 |
 | Apex Predator | 0.20% | ~1,427 |
 | Zombologist | 0.20% | ~1,427 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,344 (Ranked 21)  
-Completed: 2,337 (0.33%) (Ranked 217)  
+Progressed: 713,395 (Ranked 21)  
+Completed: 2,338 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 2,337 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,344 | 2,337 |
+| 2023-11-05 | 713,395 | 2,338 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,681 (Ranked 89)  

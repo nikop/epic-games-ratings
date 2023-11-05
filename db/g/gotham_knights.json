@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3995,9 +3995,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76009,
+  "EOS_Progressed": 76010,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21560,6 +21560,11 @@
       "Time": "2023-11-05T18:05:55.1903425+00:00",
       "NumProgressed": 76009,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T19:04:57.3222639+00:00",
+      "NumProgressed": 76010,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21659,7 +21664,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11401
+      "UsersEstimate": 11402
     },
     {
       "ID": "CHALLENGES_1",
@@ -21875,7 +21880,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26603
+      "UsersEstimate": 26604
     },
     {
       "ID": "HARLEY_2",
@@ -21899,7 +21904,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12161
+      "UsersEstimate": 12162
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -21947,7 +21952,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20522
+      "UsersEstimate": 20523
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22003,7 +22008,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11401
+      "UsersEstimate": 11402
     },
     {
       "ID": "MYSTERY_07",
@@ -22058,13 +22063,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76009,
+      "Progressed": 76010,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46289,
+      "Progressed": 46290,
       "Completed": 2673
     }
   ],
@@ -22072,8 +22077,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-05T09:57:20.5114082+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:05:55.1903418+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:04:57.3222635+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:57:20.8643794+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:05:55.190513+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:57:18.4120532+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:04:57.3224006+00:00"
 }

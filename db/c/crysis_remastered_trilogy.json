@@ -1,9 +1,9 @@
 {
   "ID": "b79db6afde654a17a95c4f930e591c75",
   "Name": "Crysis Remastered Trilogy",
-  "Ranking_EOS_Progress": 722,
+  "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:09.8132022+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:57:44.4863085+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:04:35.6690434+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:57:33.8352104+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:03:58.0640929+00:00"
 }

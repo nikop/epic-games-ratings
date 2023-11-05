@@ -40,13 +40,13 @@
 | Rogue - Hero Edition | 0.30% | ~2 |
 | Dear Diary | 0.20% | ~1 |
 | Lone Wolf | 0.20% | ~1 |
+| Warrior Trials | 0.20% | ~1 |
 | Explorer | 0.20% | ~1 |
 | Flat Hero | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Shepherd | 0.00% | ~0 |
 | Yondu | 0.00% | ~0 |
 | Persistence | 0.00% | ~0 |
-| Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 611 (Ranked 278)  

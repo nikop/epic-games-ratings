@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1445,9 +1445,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16408,
+  "EOS_Progressed": 16409,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8770,6 +8770,11 @@
       "Time": "2023-11-05T18:06:59.3952055+00:00",
       "NumProgressed": 16408,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-05T19:05:46.1804056+00:00",
+      "NumProgressed": 16409,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8909,7 +8914,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "KILL_ROBOT",
@@ -8949,7 +8954,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "PRINT_WEAPON",
@@ -8973,7 +8978,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9156,13 +9161,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16408,
+      "Progressed": 16409,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4334,
+      "Progressed": 4335,
       "Completed": 29
     }
   ],
@@ -9170,8 +9175,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-05T01:46:24.1852628+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:06:59.395205+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:05:46.1804053+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:00:11.4708836+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:06:59.3952895+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:59:19.2302647+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:05:46.1804711+00:00"
 }

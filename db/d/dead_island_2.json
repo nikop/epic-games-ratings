@@ -6153,10 +6153,10 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713344,
-  "EOS_Completed": 2337,
-  "EOS_NewPlayers": 5620,
-  "EOS_NewCompleters": 57,
+  "EOS_Progressed": 713395,
+  "EOS_Completed": 2338,
+  "EOS_NewPlayers": 5590,
+  "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28863,6 +28863,11 @@
       "Time": "2023-11-05T18:05:45.9943376+00:00",
       "NumProgressed": 713344,
       "NumCompleted": 2337
+    },
+    {
+      "Time": "2023-11-05T19:04:50.1921872+00:00",
+      "NumProgressed": 713395,
+      "NumCompleted": 2338
     }
   ],
   "TotalAchievements": 51,
@@ -29016,9 +29021,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 2140
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -29281,22 +29286,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713344,
-      "Completed": 2337
+      "Progressed": 713395,
+      "Completed": 2338
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38886,
-      "Completed": 36447
+      "Progressed": 38937,
+      "Completed": 36448
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T17:57:10.1415072+00:00",
-  "LastChanged_Achievements": "2023-11-05T18:05:45.994337+00:00",
+  "LastChanged_Achievements": "2023-11-05T19:04:50.1921868+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T17:57:10.1415079+00:00",
-  "LastUpdate_Achievements": "2023-11-05T18:05:45.9945232+00:00"
+  "LastUpdate_Ratings": "2023-11-05T18:57:10.3314921+00:00",
+  "LastUpdate_Achievements": "2023-11-05T19:04:50.1923301+00:00"
 }

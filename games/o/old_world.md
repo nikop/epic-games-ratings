@@ -72,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 1.00% | ~152 |
 | Lion | 1.00% | ~152 |
 | Mighty | 1.00% | ~152 |
-| Subjugator | 1.00% | ~152 |
 | Victorious | 1.00% | ~152 |
 | Good Difficulty | 1.00% | ~152 |
 | Champions | 1.00% | ~152 |
@@ -98,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
 | Kushite Pyramids | 1.00% | ~152 |
+| Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Hittite Iron | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,157 (Ranked 145)  
+Progressed: 15,158 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,157 | 5 |
+| 2023-11-05 | 15,158 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 270)  
 Sum: 1,867 (Ranked 212)  

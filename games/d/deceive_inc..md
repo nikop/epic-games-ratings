@@ -5,11 +5,11 @@ Rating: 4.57 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,634 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,635 |
 | Mainframe Hacker | 23.00% | ~4,320 |
 | The Spy who eliminated me | 23.00% | ~4,320 |
 | Tomorrow Never Dyes | 22.00% | ~4,132 |
-| Never Say Loser Again | 19.00% | ~3,568 |
+| Never Say Loser Again | 19.00% | ~3,569 |
 | From the Vault with Love | 18.00% | ~3,381 |
 | Tailor-Made | 18.00% | ~3,381 |
 | For your Eyes only | 18.00% | ~3,381 |
@@ -25,12 +25,12 @@ Rating: 4.57 (Ranked 467)
 | Hostile Takeover | 11.00% | ~2,066 |
 | Keycards Royale | 10.00% | ~1,878 |
 | Dr. No Kill | 10.00% | ~1,878 |
-| In It to Win It | 9.00% | ~1,690 |
+| In It to Win It | 9.00% | ~1,691 |
 | Security Supervisor | 6.00% | ~1,127 |
 | License to Thrill | 5.00% | ~939 |
 | Social of Solace | 4.00% | ~751 |
-| Live and let lie | 3.00% | ~563 |
-| Safe Withdrawal | 3.00% | ~563 |
+| Live and let lie | 3.00% | ~564 |
+| Safe Withdrawal | 3.00% | ~564 |
 | Branch Manager | 2.00% | ~376 |
 | Call Me Maybe | 2.00% | ~376 |
 | PHD in VIP | 2.00% | ~376 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 467)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,781 (Ranked 133)  
+Progressed: 18,784 (Ranked 133)  
 Completed: 4 (0.02%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 4 (0.02%) (Ranked 313)
 | 2023-11-02 | 18,760 | 4 |
 | 2023-11-03 | 18,769 | 4 |
 | 2023-11-04 | 18,774 | 4 |
-| 2023-11-05 | 18,781 | 4 |
+| 2023-11-05 | 18,784 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
