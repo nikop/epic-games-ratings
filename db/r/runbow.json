@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251023,
+  "EOS_Progressed": 251025,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18287,6 +18287,11 @@
       "Time": "2023-11-05T21:08:41.7577504+00:00",
       "NumProgressed": 251023,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T22:09:25.9545032+00:00",
+      "NumProgressed": 251025,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18346,7 +18351,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15061
+      "UsersEstimate": 15062
     },
     {
       "ID": "canYouDigIt",
@@ -18370,7 +18375,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37653
+      "UsersEstimate": 37654
     },
     {
       "ID": "clearCut",
@@ -18474,7 +18479,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133042
+      "UsersEstimate": 133043
     },
     {
       "ID": "indegestible",
@@ -18530,7 +18535,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35143
+      "UsersEstimate": 35144
     },
     {
       "ID": "myFirstRunbow",
@@ -18602,7 +18607,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55225
+      "UsersEstimate": 55226
     },
     {
       "ID": "thunderstruck",
@@ -18665,7 +18670,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251023,
+      "Progressed": 251025,
       "Completed": 6
     }
   ],
@@ -18673,8 +18678,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:08:41.7577498+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:09:25.9545026+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:54.902996+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:08:41.7579392+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:58:11.8228984+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:09:25.9546777+00:00"
 }

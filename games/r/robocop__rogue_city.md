@@ -9,13 +9,13 @@
 | Dead-On | 40.00% | ~2 |
 | "This Guy Is Really Good" | 40.00% | ~2 |
 | I'd Buy That For a Dollar! | 20.00% | ~1 |
+| Hard Boiled | 20.00% | ~1 |
 | Uphold the Law | 20.00% | ~1 |
 | Nukem! | 20.00% | ~1 |
 | Strikeout! | 20.00% | ~1 |
 | There Can Only Be One | 20.00% | ~1 |
 | Zip This Up | 20.00% | ~1 |
 | SuperCop | 20.00% | ~1 |
-| Hard Boiled | 0.00% | ~0 |
 | May Be Used Against You | 0.00% | ~0 |
 | Officer of the month | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |

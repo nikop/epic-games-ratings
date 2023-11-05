@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,632 |
-| The Killing Jar | 8.00% | ~17,451 |
-| Expanding Horizons | 7.00% | ~15,269 |
-| Quest for Survival | 7.00% | ~15,269 |
-| Not Your Average Trait | 7.00% | ~15,269 |
-| Gleaming the Cube | 6.00% | ~13,088 |
-| Familiar Face | 6.00% | ~13,088 |
-| Duality | 6.00% | ~13,088 |
-| Boss'n Up | 6.00% | ~13,088 |
-| Trait Chaser | 6.00% | ~13,088 |
+| First of Many | 9.00% | ~19,633 |
+| The Killing Jar | 8.00% | ~17,452 |
+| Expanding Horizons | 7.00% | ~15,270 |
+| Quest for Survival | 7.00% | ~15,270 |
+| Not Your Average Trait | 7.00% | ~15,270 |
+| Gleaming the Cube | 6.00% | ~13,089 |
+| Familiar Face | 6.00% | ~13,089 |
+| Duality | 6.00% | ~13,089 |
+| Boss'n Up | 6.00% | ~13,089 |
+| Trait Chaser | 6.00% | ~13,089 |
 | Not So Special Now | 5.00% | ~10,907 |
 | Not a Janitor | 5.00% | ~10,907 |
 | Equal Measures | 5.00% | ~10,907 |
@@ -23,16 +23,16 @@ Rating: 4.75 (Ranked 142)
 | Almost There | 5.00% | ~10,907 |
 | Make Some Room | 5.00% | ~10,907 |
 | Good, But Could Be Better! | 5.00% | ~10,907 |
-| Chaos | 4.00% | ~8,725 |
-| Traitor | 4.00% | ~8,725 |
-| Power Surge | 4.00% | ~8,725 |
-| The God Gambit | 4.00% | ~8,725 |
-| Dark Designs | 4.00% | ~8,725 |
-| Madman's Paradise | 4.00% | ~8,725 |
-| Shhh...It's a Secret | 4.00% | ~8,725 |
-| Was This Supposed To Happen? | 4.00% | ~8,725 |
-| The Web | 4.00% | ~8,725 |
-| All These Traits� | 4.00% | ~8,725 |
+| Chaos | 4.00% | ~8,726 |
+| Traitor | 4.00% | ~8,726 |
+| Power Surge | 4.00% | ~8,726 |
+| The God Gambit | 4.00% | ~8,726 |
+| Dark Designs | 4.00% | ~8,726 |
+| Madman's Paradise | 4.00% | ~8,726 |
+| Shhh...It's a Secret | 4.00% | ~8,726 |
+| Was This Supposed To Happen? | 4.00% | ~8,726 |
+| The Web | 4.00% | ~8,726 |
+| All These Traits� | 4.00% | ~8,726 |
 | Am I Seeing This? | 3.00% | ~6,544 |
 | Forever is a Long Time Coming | 3.00% | ~6,544 |
 | The Agenda | 3.00% | ~6,544 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,181 |
 | Proving Grounds | 1.00% | ~2,181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,132 (Ranked 68)  
+Progressed: 218,147 (Ranked 68)  
 Completed: 431 (0.20%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 431 (0.20%) (Ranked 243)
 | 2023-11-02 | 217,009 | 426 |
 | 2023-11-03 | 217,330 | 429 |
 | 2023-11-04 | 217,742 | 429 |
-| 2023-11-05 | 218,132 | 431 |
+| 2023-11-05 | 218,147 | 431 |
 ## Awards
 Max (Great Boss Battles): 2,066  (Ranked 109)  
-Sum: 4,598 (Ranked 143)  
+Sum: 4,605 (Ranked 143)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): -34
 | This game is Extremely Fun | 274 |
 | This game is Relaxing | 270 |
 | This game is Highly Recommended | 263 |
-| This game has Amazing Storytelling | 253 |
+| This game has Amazing Storytelling | 260 |
 | This game has Quickly Understood Controls | 247 |
 | This game has Amazing Characters | 246 |
 | This game has Unique Visuals | 211 |
@@ -291,4 +291,4 @@ Diff (max vs sum): -34
 | 2023-11-02 | 4.75 | 2,018 | 4,481 |
 | 2023-11-03 | 4.75 | 2,040 | 4,526 |
 | 2023-11-04 | 4.75 | 2,051 | 4,558 |
-| 2023-11-05 | 4.75 | 2,066 | 4,598 |
+| 2023-11-05 | 4.75 | 2,066 | 4,605 |

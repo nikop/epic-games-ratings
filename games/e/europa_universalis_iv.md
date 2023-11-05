@@ -6,9 +6,9 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,923 |
-| Until death do us apart | 4.00% | ~17,923 |
-| Victorious! | 4.00% | ~17,923 |
+| That's a Grand Army | 4.00% | ~17,924 |
+| Until death do us apart | 4.00% | ~17,924 |
+| Victorious! | 4.00% | ~17,924 |
 | That's a Grand Navy | 3.00% | ~13,443 |
 | That is mine! | 3.00% | ~13,443 |
 | Brothers in Arms | 2.00% | ~8,962 |
@@ -29,9 +29,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 0.70% | ~3,137 |
 | Agressive Expander | 0.60% | ~2,689 |
 | Combined Arms | 0.60% | ~2,689 |
-| Azur semé de lis or | 0.50% | ~2,240 |
-| City of Cities | 0.50% | ~2,240 |
-| This navy can take it all | 0.50% | ~2,240 |
+| Azur semé de lis or | 0.50% | ~2,241 |
+| City of Cities | 0.50% | ~2,241 |
+| This navy can take it all | 0.50% | ~2,241 |
 | Bright Spark | 0.40% | ~1,792 |
 | The Emperors new clothes | 0.40% | ~1,792 |
 | Factionalism | 0.40% | ~1,792 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,084 (Ranked 41)  
+Progressed: 448,107 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -560,14 +560,14 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-02 | 445,439 | 1 |
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
-| 2023-11-05 | 448,084 | 1 |
+| 2023-11-05 | 448,107 | 1 |
 ## Awards
-Max (Educational): 6,830  (Ranked 55)  
-Sum: 56,200 (Ranked 24)  
+Max (Educational): 6,844  (Ranked 55)  
+Sum: 56,214 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,830 |
+| This game is Educational | 6,844 |
 | This game has Diverse Characters | 6,549 |
 | This game is Highly Recommended | 6,535 |
 | This game has Challenging Combat | 6,455 |
@@ -872,4 +872,4 @@ Diff (max vs sum): 31
 | 2023-11-02 | 4.69 | - | 6,798 | 55,815 |
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
-| 2023-11-05 | 4.69 | - | 6,830 | 56,200 |
+| 2023-11-05 | 4.69 | - | 6,844 | 56,214 |

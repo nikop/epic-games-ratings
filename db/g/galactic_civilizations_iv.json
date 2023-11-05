@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7230,
+  "EOS_Progressed": 7231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8235,6 +8235,11 @@
       "Time": "2023-11-05T20:07:47.7443389+00:00",
       "NumProgressed": 7230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T22:06:30.2129251+00:00",
+      "NumProgressed": 7231,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8286,7 +8291,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4410
+      "UsersEstimate": 4411
     },
     {
       "ID": "Control_All_Relics",
@@ -8310,7 +8315,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8326,7 +8331,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "First_Major_Ally",
@@ -8350,7 +8355,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5568
     },
     {
       "ID": "First_Race_Met",
@@ -8382,7 +8387,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5568
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8564,9 +8569,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4338
+      "UsersEstimate": 4411
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8668,9 +8673,9 @@
       "ID": "Win_As_Manti",
       "SetID": "4h07amh",
       "Name": "Win as the Manti",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 43
     },
     {
       "ID": "Win_As_Mimot",
@@ -8821,15 +8826,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7230,
+      "Progressed": 7231,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:05:34.3042153+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:06:30.2129245+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:01:19.2097462+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:05:34.3043482+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:02:04.3359384+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:06:30.2130468+00:00"
 }

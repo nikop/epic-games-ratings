@@ -6159,9 +6159,9 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713511,
+  "EOS_Progressed": 713544,
   "EOS_Completed": 2340,
-  "EOS_NewPlayers": 5582,
+  "EOS_NewPlayers": 5563,
   "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28884,6 +28884,11 @@
       "Time": "2023-11-05T21:05:16.6727673+00:00",
       "NumProgressed": 713511,
       "NumCompleted": 2340
+    },
+    {
+      "Time": "2023-11-05T22:06:10.1243259+00:00",
+      "NumProgressed": 713544,
+      "NumCompleted": 2340
     }
   ],
   "TotalAchievements": 51,
@@ -28901,25 +28906,25 @@
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 1427
     },
     {
       "ID": "ach_ammo_ran",
       "SetID": "7km39fm",
       "Name": "Git Gutte!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -29255,7 +29260,7 @@
       "Name": "One of Us",
       "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ach_dark_magic",
@@ -29302,13 +29307,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713511,
+      "Progressed": 713544,
       "Completed": 2340
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39053,
+      "Progressed": 39086,
       "Completed": 36451
     }
   ],
@@ -29316,8 +29321,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T19:57:34.294698+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:05:16.6727666+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:06:10.1243252+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:14.016861+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:05:16.6729565+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:57:24.8105103+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:06:10.1245435+00:00"
 }

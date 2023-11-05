@@ -6,33 +6,33 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,746 |
-| First Steps | 80.00% | ~35,050 |
-| Control the Shadows | 67.00% | ~29,355 |
-| Tools of the Trade | 63.00% | ~27,602 |
-| Apprentice | 60.00% | ~26,288 |
-| Secret Seeker | 57.00% | ~24,973 |
-| Forge of Assassins | 55.00% | ~24,097 |
-| Revenant | 52.00% | ~22,783 |
-| I don’t Care! | 45.00% | ~19,716 |
-| Bird of Prey | 37.00% | ~16,211 |
-| Engraved with Power | 32.00% | ~14,020 |
-| Lady | 31.00% | ~13,582 |
+| Awakening | 93.00% | ~40,749 |
+| First Steps | 80.00% | ~35,053 |
+| Control the Shadows | 67.00% | ~29,357 |
+| Tools of the Trade | 63.00% | ~27,604 |
+| Apprentice | 60.00% | ~26,290 |
+| Secret Seeker | 57.00% | ~24,975 |
+| Forge of Assassins | 55.00% | ~24,099 |
+| Revenant | 52.00% | ~22,784 |
+| I don’t Care! | 45.00% | ~19,717 |
+| Bird of Prey | 37.00% | ~16,212 |
+| Engraved with Power | 32.00% | ~14,021 |
+| Lady | 31.00% | ~13,583 |
 | Fashionable Assassin | 27.00% | ~11,830 |
-| Apex Predator | 24.00% | ~10,515 |
-| Embers | 22.00% | ~9,639 |
-| Soul Reaver | 22.00% | ~9,639 |
+| Apex Predator | 24.00% | ~10,516 |
+| Embers | 22.00% | ~9,640 |
+| Soul Reaver | 22.00% | ~9,640 |
 | Wall Lizard | 20.00% | ~8,763 |
-| Clinging to Life | 18.00% | ~7,886 |
-| Burning | 17.00% | ~7,448 |
-| Look Behind You | 16.00% | ~7,010 |
-| Sleeping on the Job | 16.00% | ~7,010 |
+| Clinging to Life | 18.00% | ~7,887 |
+| Burning | 17.00% | ~7,449 |
+| Look Behind You | 16.00% | ~7,011 |
+| Sleeping on the Job | 16.00% | ~7,011 |
 | Family | 14.00% | ~6,134 |
 | War Engines | 14.00% | ~6,134 |
 | Signature Move | 14.00% | ~6,134 |
-| Ruse | 11.00% | ~4,819 |
-| Master Ninja | 11.00% | ~4,819 |
-| Hatching | 10.00% | ~4,381 |
+| Ruse | 11.00% | ~4,820 |
+| Master Ninja | 11.00% | ~4,820 |
+| Hatching | 10.00% | ~4,382 |
 | Bonds | 9.00% | ~3,943 |
 | Get Over Here | 9.00% | ~3,943 |
 | The Hidden Village | 9.00% | ~3,943 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~876 |
 | Legacy | 2.00% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,813 (Ranked 113)  
+Progressed: 43,816 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 239 (0.55%) (Ranked 186)
 | 2023-11-02 | 43,782 | 239 |
 | 2023-11-03 | 43,791 | 239 |
 | 2023-11-04 | 43,802 | 239 |
-| 2023-11-05 | 43,813 | 239 |
+| 2023-11-05 | 43,816 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

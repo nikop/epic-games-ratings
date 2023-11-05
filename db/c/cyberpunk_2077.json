@@ -14726,9 +14726,9 @@
       "Count": 12416
     }
   ],
-  "EOS_Progressed": 895435,
+  "EOS_Progressed": 895444,
   "EOS_Completed": 2747,
-  "EOS_NewPlayers": 939,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37281,6 +37281,11 @@
       "Time": "2023-11-05T21:06:47.1734123+00:00",
       "NumProgressed": 895435,
       "NumCompleted": 2747
+    },
+    {
+      "Time": "2023-11-05T22:07:51.2033475+00:00",
+      "NumProgressed": 895444,
+      "NumCompleted": 2747
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37315,9 +37320,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2686
+      "UsersEstimate": 3582
     },
     {
       "ID": "Denied",
@@ -37365,7 +37370,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7163
+      "UsersEstimate": 7164
     },
     {
       "ID": "Gunslinger",
@@ -37828,21 +37833,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895435,
+      "Progressed": 895444,
       "Completed": 2747
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24058,
+      "Progressed": 24067,
       "Completed": 10193
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-05T15:59:57.0130202+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:06:47.1734114+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:07:51.2033465+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:00:24.6865904+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:06:47.1737194+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:01:00.9059174+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:07:51.2035777+00:00"
 }

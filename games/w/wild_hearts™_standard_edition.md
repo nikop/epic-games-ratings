@@ -17,9 +17,9 @@
 | Kemono Hunter | 61.00% | ~139 |
 | Expert Conjuror | 60.00% | ~137 |
 | Distance Devourer | 56.00% | ~128 |
+| Flawless Crystal | 54.00% | ~123 |
 | Helpful Heart | 54.00% | ~123 |
 | Master of the Skies | 53.00% | ~121 |
-| Flawless Crystal | 53.00% | ~121 |
 | Bonds of Enmity | 53.00% | ~121 |
 | Counter Specialist | 50.00% | ~114 |
 | Axer of Auspice | 46.00% | ~105 |

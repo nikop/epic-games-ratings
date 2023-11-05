@@ -65,9 +65,9 @@
       "ID": "FinishCSI",
       "SetID": "80nhi4a",
       "Name": "Hard Boiled",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GiveTicket",
@@ -280,8 +280,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:04:54.6640754+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:05:46.1866161+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:38.3966282+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:04:54.6640971+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:57:52.4004821+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:05:46.186638+00:00"
 }

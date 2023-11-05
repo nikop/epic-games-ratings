@@ -1986,9 +1986,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15164,
+  "EOS_Progressed": 15167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15451,6 +15451,11 @@
       "Time": "2023-11-05T21:05:31.8603985+00:00",
       "NumProgressed": 15164,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T22:06:27.7886376+00:00",
+      "NumProgressed": 15167,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15622,7 +15627,7 @@
       "Name": "Bronze Victory (Carthage 1)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_EPIC",
@@ -15646,7 +15651,7 @@
       "Name": "Silver Victory (Carthage 1)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2",
@@ -15654,7 +15659,7 @@
       "Name": "Carthage - Riches and Influence",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -15806,7 +15811,7 @@
       "Name": "Ancient",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -16100,9 +16105,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -16238,7 +16243,7 @@
       "Name": "Magnificent Difficulty",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
@@ -16252,9 +16257,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -16318,15 +16323,15 @@
       "Name": "Hunters",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -16398,7 +16403,7 @@
       "Name": "The Eternal Treaty",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
@@ -16438,7 +16443,7 @@
       "Name": "Run, Pheidippides, Run!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -16446,7 +16451,7 @@
       "Name": "Nenikekamen",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
@@ -16774,7 +16779,7 @@
       "Name": "Hittite Iron",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -16822,7 +16827,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -16918,7 +16923,7 @@
       "Name": "Pantheon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -16932,9 +16937,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -17062,7 +17067,7 @@
       "Name": "Assyria",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
@@ -17102,7 +17107,7 @@
       "Name": "Hatti",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -17110,7 +17115,7 @@
       "Name": "Persia",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -17198,7 +17203,7 @@
       "Name": "Play a Network Game",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -17412,9 +17417,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -17422,7 +17427,7 @@
       "Name": "Dualism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -17438,7 +17443,7 @@
       "Name": "Gnosticism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -17470,7 +17475,7 @@
       "Name": "Revelation",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -17510,7 +17515,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -17534,7 +17539,7 @@
       "Name": "Legionary",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -17542,15 +17547,15 @@
       "Name": "Phalangite",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
       "SetID": "9201eeb",
       "Name": "Siege Tower",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -17582,7 +17587,7 @@
       "Name": "Ambition Victory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -17590,7 +17595,7 @@
       "Name": "Conquest Victory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -17670,7 +17675,7 @@
       "Name": "Necropolis in Waset",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -17910,7 +17915,7 @@
       "Name": "Prosperous Kmt",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_EGYPT2_PHARAOH_MAJOR_VICTORY",
@@ -18197,21 +18202,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15164,
+      "Progressed": 15167,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15164,
+      "Progressed": 15167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-05T21:00:58.5537804+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:05:31.8603978+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:06:27.7886371+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:00:58.5537811+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:05:31.8615673+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:01:40.6211284+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:06:27.789992+00:00"
 }

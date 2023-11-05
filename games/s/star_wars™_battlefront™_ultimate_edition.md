@@ -28,9 +28,9 @@
 | Distinguished | 6.00% | ~64 |
 | A tremor in the Force | 6.00% | ~64 |
 | Support the troops | 6.00% | ~64 |
+| Not bad for a little furball | 5.00% | ~53 |
 | On the ball | 4.00% | ~43 |
 | Safety ain't the point of a joyride | 4.00% | ~43 |
-| Not bad for a little furball | 4.00% | ~43 |
 | Patience you must have | 4.00% | ~43 |
 | Don't underestimate the Force | 4.00% | ~43 |
 | I've been waiting for you | 3.00% | ~32 |

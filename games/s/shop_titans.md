@@ -12,16 +12,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,160 |
 | Tinkle of Coins | 3.00% | ~4,160 |
 | Capitalism Ho! | 3.00% | ~4,160 |
-| The Daily Grind | 2.00% | ~2,773 |
-| One Easy Payment | 2.00% | ~2,773 |
-| Some Assembly Required | 2.00% | ~2,773 |
-| Another Satisfied Customer | 2.00% | ~2,773 |
-| It's Free Real Estate | 2.00% | ~2,773 |
-| Pretty Penny | 2.00% | ~2,773 |
-| One-Armed Bandit | 2.00% | ~2,773 |
-| Budding Merchant | 2.00% | ~2,773 |
-| Through Repetition, Perfection | 2.00% | ~2,773 |
-| Own the Means of Production | 2.00% | ~2,773 |
+| The Daily Grind | 2.00% | ~2,774 |
+| One Easy Payment | 2.00% | ~2,774 |
+| Some Assembly Required | 2.00% | ~2,774 |
+| Another Satisfied Customer | 2.00% | ~2,774 |
+| It's Free Real Estate | 2.00% | ~2,774 |
+| Pretty Penny | 2.00% | ~2,774 |
+| One-Armed Bandit | 2.00% | ~2,774 |
+| Budding Merchant | 2.00% | ~2,774 |
+| Through Repetition, Perfection | 2.00% | ~2,774 |
+| Own the Means of Production | 2.00% | ~2,774 |
 | On the Path to Greatness | 1.00% | ~1,387 |
 | Ascended | 1.00% | ~1,387 |
 | Research & Development | 1.00% | ~1,387 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,672 (Ranked 79)  
+Progressed: 138,675 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,15 +318,15 @@ Completed: 178 (0.13%) (Ranked 255)
 | 2023-11-02 | 138,491 | 178 |
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
-| 2023-11-05 | 138,672 | 178 |
+| 2023-11-05 | 138,675 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
-Sum: 27,503 (Ranked 52)  
+Sum: 27,504 (Ranked 52)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,819 |
-| This game is Relaxing | 4,037 |
+| This game is Relaxing | 4,038 |
 | This game has Quickly Understood Controls | 4,027 |
 | This game has Diverse Characters | 3,932 |
 | This game is Highly Recommended | 3,772 |
@@ -615,4 +615,4 @@ Diff (max vs sum): 22
 | 2023-11-02 | 3.99 | - | 4,814 | 27,484 |
 | 2023-11-03 | 3.99 | - | 4,817 | 27,492 |
 | 2023-11-04 | 3.99 | - | 4,819 | 27,501 |
-| 2023-11-05 | 3.99 | - | 4,819 | 27,503 |
+| 2023-11-05 | 3.99 | - | 4,819 | 27,504 |

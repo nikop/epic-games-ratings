@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3179,9 +3179,9 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 17207,
+  "EOS_Progressed": 17208,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13114,6 +13114,11 @@
       "Time": "2023-11-05T15:05:57.8691242+00:00",
       "NumProgressed": 17207,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-05T22:07:35.861641+00:00",
+      "NumProgressed": 17208,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13213,7 +13218,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "WinHard",
@@ -13461,7 +13466,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "WinWithResolve",
@@ -13501,7 +13506,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "WinWithoutOrders",
@@ -13524,15 +13529,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17207,
+      "Progressed": 17208,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-05T07:57:37.2845058+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:06:33.0821727+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:07:35.8616403+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:58:01.9459974+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:06:33.0822757+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:58:19.1286855+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:07:35.861764+00:00"
 }

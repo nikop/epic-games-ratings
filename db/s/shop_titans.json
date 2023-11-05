@@ -6827,10 +6827,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27503,
       "NumberOfAwardsMax": 4819
+    },
+    {
+      "Time": "2023-11-05T21:57:37.6445628+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27504,
+      "NumberOfAwardsMax": 4819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27503,
+  "NumberOfAwards": 27504,
   "NumberOfAwardsMax": 4819,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6868,7 +6874,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4037
+      "Count": 4038
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6883,9 +6889,9 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138672,
+  "EOS_Progressed": 138675,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27238,6 +27244,11 @@
       "Time": "2023-11-05T21:03:11.4081322+00:00",
       "NumProgressed": 138672,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-05T22:03:47.8101321+00:00",
+      "NumProgressed": 138675,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27249,7 +27260,7 @@
       "Name": "The Daily Grind",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "advlevel02",
@@ -27329,7 +27340,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "bigsale02",
@@ -27353,7 +27364,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "blueprint02",
@@ -27601,7 +27612,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "energy02",
@@ -27625,7 +27636,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "expansion02",
@@ -27729,7 +27740,7 @@
       "Name": "Pretty Penny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "gold03",
@@ -27801,7 +27812,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "jackslot02",
@@ -27833,7 +27844,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "level02",
@@ -27905,7 +27916,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "master02",
@@ -28113,7 +28124,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "workers02",
@@ -28144,15 +28155,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138672,
+      "Progressed": 138675,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-05T14:57:10.2167732+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:03:11.4081314+00:00",
+  "LastChanged": "2023-11-05T21:57:37.6445626+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:03:47.8101315+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:25.8692937+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:03:11.4084519+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:57:37.6445634+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:03:47.8104209+00:00"
 }

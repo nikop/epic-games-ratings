@@ -2,13 +2,13 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 894,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19396,
+  "EOS_Progressed": 19398,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -16223,6 +16223,11 @@
       "Time": "2023-11-05T21:04:35.8610174+00:00",
       "NumProgressed": 19396,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-05T22:05:23.9575837+00:00",
+      "NumProgressed": 19398,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -16234,7 +16239,7 @@
       "Name": "Across The Border",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 15129
+      "UsersEstimate": 15130
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -16266,7 +16271,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -16274,7 +16279,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -16290,7 +16295,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10280
+      "UsersEstimate": 10281
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -16306,7 +16311,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -16322,7 +16327,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -16338,22 +16343,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19396,
+      "Progressed": 19398,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:04:35.8610167+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:05:23.9575831+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.0209795+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:59:29.8876344+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:04:35.8611215+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:59:59.0935364+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:05:23.9577141+00:00"
 }

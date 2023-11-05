@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6372,
+  "EOS_Progressed": 6374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9487,6 +9487,11 @@
       "Time": "2023-11-05T21:08:49.9338521+00:00",
       "NumProgressed": 6372,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T22:09:35.5135932+00:00",
+      "NumProgressed": 6374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9616,9 +9621,9 @@
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -9817,13 +9822,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6372,
+      "Progressed": 6374,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5744,
+      "Progressed": 5746,
       "Completed": 113
     }
   ],
@@ -9831,8 +9836,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:08:49.9338515+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:09:35.5135926+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:59:04.0588867+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:08:49.9339458+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:59:30.1662105+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:09:35.513696+00:00"
 }

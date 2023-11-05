@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 76.00% | ~41 |
-| Something important | 74.00% | ~40 |
-| A piece of the story | 57.00% | ~31 |
-| Do what you have to | 41.00% | ~22 |
-| The artist’s impression | 39.00% | ~21 |
+| Wanderer | 75.00% | ~41 |
+| Something important | 73.00% | ~40 |
+| A piece of the story | 56.00% | ~31 |
+| Do what you have to | 40.00% | ~22 |
+| The artist’s impression | 38.00% | ~21 |
 | Scraps of love | 35.00% | ~19 |
 | It's covered up for a reason | 33.00% | ~18 |
 | Refuse to look | 33.00% | ~18 |
 | Sign of weakness | 31.00% | ~17 |
-| Finished it | 30.00% | ~16 |
-| Face your fears | 17.00% | ~9 |
+| Finished it | 29.00% | ~16 |
+| Face your fears | 16.00% | ~9 |
 | First steps | 15.00% | ~8 |
 | Tough conversation | 15.00% | ~8 |
 | Breaking free | 13.00% | ~7 |
@@ -26,11 +26,11 @@
 | A new way | 7.00% | ~4 |
 | A Slice of Life | 7.00% | ~4 |
 | Whispers long forgotten | 7.00% | ~4 |
-| Another perspective | 6.00% | ~3 |
-| We Are Not Alone | 6.00% | ~3 |
-| Sound Bite | 6.00% | ~3 |
-| Heavy Burden | 6.00% | ~3 |
-| Lights! Camera! Action! | 6.00% | ~3 |
+| Another perspective | 5.00% | ~3 |
+| We Are Not Alone | 5.00% | ~3 |
+| Sound Bite | 5.00% | ~3 |
+| Heavy Burden | 5.00% | ~3 |
+| Lights! Camera! Action! | 5.00% | ~3 |
 | Casting Finished | 4.00% | ~2 |
 | The Perfect Storm | 4.00% | ~2 |
 | Fisherman | 4.00% | ~2 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 456)  
+Progressed: 55 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-02 | 40 | 0 |
 | 2023-11-03 | 44 | 0 |
 | 2023-11-04 | 50 | 0 |
-| 2023-11-05 | 54 | 0 |
+| 2023-11-05 | 55 | 0 |

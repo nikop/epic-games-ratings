@@ -7,7 +7,9 @@ Rating: 4.54 (Ranked 521)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~391 |
 | Pork Chopped | 1.00% | ~391 |
-| One of Us | 0.80% | ~312 |
+| One of Us | 0.80% | ~313 |
+| Git Gutte! | 0.30% | ~2,141 |
+| Anger Management | 0.30% | ~2,141 |
 | Break A Leg | 0.30% | ~2,141 |
 | Coup de Grâce | 0.30% | ~2,141 |
 | Hazardous Materials | 0.30% | ~2,141 |
@@ -15,8 +17,7 @@ Rating: 4.54 (Ranked 521)
 | Personal Assistant Personally Assisted | 0.30% | ~2,141 |
 | Welcome To Hell-A | 0.30% | ~2,141 |
 | Dr. Reed, I Presume? | 0.20% | ~1,427 |
-| Git Gutte! | 0.20% | ~1,427 |
-| Anger Management | 0.20% | ~1,427 |
+| Making Your Mark | 0.20% | ~1,427 |
 | Perks of the Job | 0.20% | ~1,427 |
 | Bookworm | 0.20% | ~1,427 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,427 |
@@ -35,7 +36,6 @@ Rating: 4.54 (Ranked 521)
 | Max Headroom | 0.20% | ~1,427 |
 | Our True Nature | 0.20% | ~1,427 |
 | This is My Weapon | 0.20% | ~1,427 |
-| Making Your Mark | 0.10% | ~714 |
 | Make it So | 0.10% | ~714 |
 | LA Influential | 0.10% | ~714 |
 | On Safari | 0.10% | ~714 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,511 (Ranked 21)  
+Progressed: 713,544 (Ranked 21)  
 Completed: 2,340 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2,340 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,511 | 2,340 |
+| 2023-11-05 | 713,544 | 2,340 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,687 (Ranked 89)  

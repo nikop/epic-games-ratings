@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 52.00% | ~68 |
+| Break Out | 53.00% | ~69 |
 | Trinity | 28.00% | ~37 |
-| The Collector | 25.00% | ~33 |
+| The Collector | 26.00% | ~34 |
 | Find Allies | 24.00% | ~31 |
+| Fashion Victim | 24.00% | ~31 |
 | Adventurer | 23.00% | ~30 |
 | Scholar | 23.00% | ~30 |
+| Powerful Allies | 22.00% | ~29 |
 | A Taste of Wrath | 22.00% | ~29 |
 | I Found It | 22.00% | ~29 |
-| Powerful Allies | 21.00% | ~28 |
 | Shatter Them All | 21.00% | ~28 |
-| Fashion Victim | 21.00% | ~28 |
 | Geared Up | 19.00% | ~25 |
 | Tributes of Caladrias | 18.00% | ~24 |
-| Stone Collection | 17.00% | ~22 |
-| Essence Blow | 10.00% | ~13 |
+| Stone Collection | 18.00% | ~24 |
+| Essence Blow | 11.00% | ~14 |
 | Big Bazar | 8.00% | ~10 |
 | Airborne | 7.00% | ~9 |
 | The Mentor | 6.00% | ~8 |

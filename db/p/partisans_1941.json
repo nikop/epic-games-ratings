@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1576,
+  "EOS_Progressed": 1577,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3419,6 +3419,11 @@
       "Time": "2023-11-05T20:06:27.9753366+00:00",
       "NumProgressed": 1576,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T22:05:08.1390835+00:00",
+      "NumProgressed": 1577,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3478,7 +3483,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Defense_Common",
@@ -3508,9 +3513,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 662
     },
     {
       "ID": "Everyone_is_here",
@@ -3542,7 +3547,7 @@
       "Name": "Grenadier",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "Hard_Serpent",
@@ -3582,7 +3587,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "KillAllM2",
@@ -3622,7 +3627,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "Scout",
@@ -3662,22 +3667,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1576,
+      "Progressed": 1577,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:04:22.265764+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:05:08.1390828+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:28.715467+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:04:22.2658367+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:57:40.8611876+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:05:08.1391307+00:00"
 }

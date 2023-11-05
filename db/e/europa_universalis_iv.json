@@ -11587,11 +11587,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 56200,
       "NumberOfAwardsMax": 6830
+    },
+    {
+      "Time": "2023-11-05T22:02:05.7628867+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56214,
+      "NumberOfAwardsMax": 6844
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56200,
-  "NumberOfAwardsMax": 6830,
+  "NumberOfAwards": 56214,
+  "NumberOfAwardsMax": 6844,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -11622,7 +11628,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6830
+      "Count": 6844
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11661,9 +11667,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448084,
+  "EOS_Progressed": 448107,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5483,
+  "EOS_NewPlayers": 5470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34431,6 +34437,11 @@
       "Time": "2023-11-05T21:03:27.1642437+00:00",
       "NumProgressed": 448084,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T22:04:05.6231441+00:00",
+      "NumProgressed": 448107,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -34722,7 +34733,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -34954,7 +34965,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "achievement_cold_war",
@@ -35442,7 +35453,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17923
+      "UsersEstimate": 17924
     },
     {
       "ID": "achievement_grand_coalition",
@@ -36946,7 +36957,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -37106,7 +37117,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17923
+      "UsersEstimate": 17924
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -37138,7 +37149,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17923
+      "UsersEstimate": 17924
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -37273,21 +37284,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448084,
+      "Progressed": 448107,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448084,
+      "Progressed": 448107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-05T18:01:37.5104773+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:03:27.1642432+00:00",
+  "LastChanged": "2023-11-05T22:02:05.7628847+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:04:05.6231434+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-05T21:01:20.422978+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:03:27.165667+00:00"
+  "LastUpdate_Ratings": "2023-11-05T22:02:05.7628872+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:04:05.6249026+00:00"
 }

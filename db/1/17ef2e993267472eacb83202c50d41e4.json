@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -53,7 +53,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7731,
+  "EOS_Progressed": 7732,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -5808,6 +5808,11 @@
       "Time": "2023-11-05T21:09:28.4992094+00:00",
       "NumProgressed": 7731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T22:10:19.5609492+00:00",
+      "NumProgressed": 7732,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -5876,7 +5881,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "DHUpgraded1",
@@ -6012,7 +6017,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "HAUpgraded1",
@@ -6028,7 +6033,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "HSPurchased1",
@@ -6380,7 +6385,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "TSUPurchased1",
@@ -6411,7 +6416,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7731,
+      "Progressed": 7732,
       "Completed": 1
     }
   ],
@@ -6419,8 +6424,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-05T13:00:08.4094619+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:09:28.4992087+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:10:19.5609483+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.942468+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:51.362356+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:09:28.4993438+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:58:07.4359454+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:10:19.5610873+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 916,
+  "EOS_Progressed": 917,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-05-23T23:05:09.8369672+00:00",
@@ -2404,6 +2404,11 @@
       "Time": "2023-11-04T13:07:31.1658461+00:00",
       "NumProgressed": 916,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T22:06:59.7816974+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 53,
@@ -2423,7 +2428,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2495,7 +2500,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "EntresolChests1",
@@ -2503,7 +2508,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2519,7 +2524,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FairgroundsChests1",
@@ -2559,7 +2564,7 @@
       "Name": "Wunderkind",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "GadgetProgress1",
@@ -2607,7 +2612,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "MapCompletion1",
@@ -2615,7 +2620,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NoCritterSump",
@@ -2655,7 +2660,7 @@
       "Name": "Time Flies",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ParryBoss",
@@ -2663,7 +2668,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ParryRepeated1",
@@ -2671,7 +2676,7 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2679,7 +2684,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2687,23 +2692,23 @@
       "Name": "The Wicked Twins",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 193
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 293
     },
     {
       "ID": "RewindParry",
@@ -2799,7 +2804,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "WatcherFought",
@@ -2838,7 +2843,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 916,
+      "Progressed": 917,
       "Completed": 6
     }
   ],
@@ -2846,8 +2851,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-05T21:06:00.2987226+00:00",
+  "LastChanged_Achievements": "2023-11-05T22:06:59.7816968+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.654666+00:00",
-  "LastUpdate_Ratings": "2023-11-05T20:57:24.2349355+00:00",
-  "LastUpdate_Achievements": "2023-11-05T21:06:00.2987822+00:00"
+  "LastUpdate_Ratings": "2023-11-05T21:57:36.4792691+00:00",
+  "LastUpdate_Achievements": "2023-11-05T22:06:59.7817704+00:00"
 }

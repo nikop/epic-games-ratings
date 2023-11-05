@@ -72,9 +72,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 1.00% | ~152 |
 | Lion | 1.00% | ~152 |
 | Mighty | 1.00% | ~152 |
+| Subjugator | 1.00% | ~152 |
 | Victorious | 1.00% | ~152 |
 | Good Difficulty | 1.00% | ~152 |
 | Champions | 1.00% | ~152 |
+| Landowners | 1.00% | ~152 |
 | Patrons | 1.00% | ~152 |
 | Riders | 1.00% | ~152 |
 | Sages | 1.00% | ~152 |
@@ -84,12 +86,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 1.00% | ~152 |
 | Temple of Solomon | 1.00% | ~152 |
 | Mausoleum | 1.00% | ~152 |
+| Via Recta Souk | 1.00% | ~152 |
 | Learn to Play 3 | 1.00% | ~152 |
 | Greece | 1.00% | ~152 |
 | Power to the People | 1.00% | ~152 |
 | Persian Paganism | 1.00% | ~152 |
 | Building Wonders | 1.00% | ~152 |
 | Economic Reform | 1.00% | ~152 |
+| Military Prestige | 1.00% | ~152 |
 | Legalism | 1.00% | ~152 |
 | Mythology | 1.00% | ~152 |
 | Redemption | 1.00% | ~152 |
@@ -97,23 +101,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
 | Kushite Pyramids | 1.00% | ~152 |
-| Subjugator | 0.90% | ~136 |
-| Hunters | 0.90% | ~136 |
-| Landowners | 0.90% | ~136 |
-| Hittite Iron | 0.90% | ~136 |
-| Hagia Sophia | 0.90% | ~136 |
-| Pantheon | 0.90% | ~136 |
-| Via Recta Souk | 0.90% | ~136 |
-| Military Prestige | 0.90% | ~136 |
-| Dualism | 0.90% | ~136 |
-| Gnosticism | 0.90% | ~136 |
-| Revelation | 0.90% | ~136 |
-| Cimmerian Archer | 0.90% | ~136 |
-| Legionary | 0.90% | ~136 |
-| Phalangite | 0.90% | ~136 |
-| Ambition Victory | 0.90% | ~136 |
+| Strong Difficulty | 0.90% | ~137 |
+| Hunters | 0.90% | ~137 |
+| Hittite Iron | 0.90% | ~137 |
+| Hagia Sophia | 0.90% | ~137 |
+| Pantheon | 0.90% | ~137 |
+| Dualism | 0.90% | ~137 |
+| Gnosticism | 0.90% | ~137 |
+| Revelation | 0.90% | ~137 |
+| Cimmerian Archer | 0.90% | ~137 |
+| Legionary | 0.90% | ~137 |
+| Phalangite | 0.90% | ~137 |
+| Ambition Victory | 0.90% | ~137 |
 | Capable | 0.80% | ~121 |
-| Strong Difficulty | 0.80% | ~121 |
 | Church of the Holy Sepulchre | 0.80% | ~121 |
 | Learn to Play 4 | 0.80% | ~121 |
 | Babylonia | 0.80% | ~121 |
@@ -154,24 +154,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.40% | ~61 |
 | Ten Crowns | 0.40% | ~61 |
 | Three Man Chariot | 0.40% | ~61 |
+| Siege Tower | 0.40% | ~61 |
 | Rmt n Kmt Buhen | 0.40% | ~61 |
 | Greater Kmt Unified | 0.40% | ~61 |
-| Bronze Victory (Carthage 1) | 0.30% | ~45 |
-| Silver Victory (Carthage 1) | 0.30% | ~45 |
-| Carthage - Riches and Influence | 0.30% | ~45 |
-| Ancient | 0.30% | ~45 |
-| Magnificent Difficulty | 0.30% | ~45 |
-| The Eternal Treaty | 0.30% | ~45 |
-| Run, Pheidippides, Run! | 0.30% | ~45 |
-| Nenikekamen | 0.30% | ~45 |
-| Assyria | 0.30% | ~45 |
-| Hatti | 0.30% | ~45 |
-| Persia | 0.30% | ~45 |
-| Play a Network Game | 0.30% | ~45 |
-| Siege Tower | 0.30% | ~45 |
-| Conquest Victory | 0.30% | ~45 |
-| Necropolis in Waset | 0.30% | ~45 |
-| Prosperous Kmt | 0.30% | ~45 |
+| Bronze Victory (Carthage 1) | 0.30% | ~46 |
+| Silver Victory (Carthage 1) | 0.30% | ~46 |
+| Carthage - Riches and Influence | 0.30% | ~46 |
+| Ancient | 0.30% | ~46 |
+| Magnificent Difficulty | 0.30% | ~46 |
+| The Eternal Treaty | 0.30% | ~46 |
+| Run, Pheidippides, Run! | 0.30% | ~46 |
+| Nenikekamen | 0.30% | ~46 |
+| Assyria | 0.30% | ~46 |
+| Hatti | 0.30% | ~46 |
+| Persia | 0.30% | ~46 |
+| Play a Network Game | 0.30% | ~46 |
+| Conquest Victory | 0.30% | ~46 |
+| Necropolis in Waset | 0.30% | ~46 |
+| Prosperous Kmt | 0.30% | ~46 |
 | Gold Victory (Carthage 1) | 0.20% | ~30 |
 | Bronze Victory (Carthage 2) | 0.20% | ~30 |
 | Silver Victory (Carthage 2) | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,164 (Ranked 145)  
+Progressed: 15,167 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,164 | 5 |
+| 2023-11-05 | 15,167 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 270)  
 Sum: 1,868 (Ranked 212)  
