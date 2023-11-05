@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1109,
+  "EOS_Progressed": 1110,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
@@ -2147,6 +2147,11 @@
       "Time": "2023-11-05T13:10:47.7703716+00:00",
       "NumProgressed": 1109,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-05T16:07:50.7517443+00:00",
+      "NumProgressed": 1110,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -2158,7 +2163,7 @@
       "Name": "Humble beginnings",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -2182,7 +2187,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2190,7 +2195,7 @@
       "Name": "Kaboom",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -2254,7 +2259,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2294,7 +2299,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2310,7 +2315,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_STAR_2",
@@ -2334,7 +2339,7 @@
       "Name": "Nearly there",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_STAR_5",
@@ -2358,7 +2363,7 @@
       "Name": "Excellent service",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -2373,7 +2378,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1109,
+      "Progressed": 1110,
       "Completed": 16
     }
   ],
@@ -2381,8 +2386,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-04T04:58:39.7677586+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:08:12.9542562+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:07:50.7517438+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.8664624+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:59:17.0092951+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:08:12.9542898+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:59:44.1400719+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:07:50.7517751+00:00"
 }

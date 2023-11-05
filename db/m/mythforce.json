@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 602,
-  "Ranking_Popularity": 474,
+  "Ranking_Rating": 603,
+  "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -696,11 +696,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-11-05T16:00:59.4780748+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 286,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -719,7 +725,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -764,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4670,
+  "EOS_Progressed": 4679,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8719,6 +8725,11 @@
       "Time": "2023-11-05T15:09:17.3651816+00:00",
       "NumProgressed": 4670,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-05T16:09:03.6644037+00:00",
+      "NumProgressed": 4679,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8731,7 +8742,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -8763,7 +8774,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1076
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -8771,7 +8782,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -8779,7 +8790,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1170
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8787,7 +8798,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 887
+      "UsersEstimate": 889
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -8795,7 +8806,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -8803,7 +8814,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -8811,7 +8822,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -8819,7 +8830,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1123
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -8827,7 +8838,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -8843,7 +8854,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1029
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -8851,7 +8862,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -8859,7 +8870,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -8867,7 +8878,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1076
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -8883,7 +8894,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -8891,15 +8902,15 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 700
+      "UsersEstimate": 702
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1076
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -8914,15 +8925,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4670,
+      "Progressed": 4679,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2023-10-24T23:01:09.34803+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:09:17.3651809+00:00",
+  "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:09:03.6644028+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:02:34.1235396+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:09:17.3652486+00:00"
+  "LastUpdate_Ratings": "2023-11-05T16:00:59.4780751+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:09:03.6644646+00:00"
 }

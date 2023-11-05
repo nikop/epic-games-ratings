@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7514,
+  "EOS_Progressed": 7537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1652,
+  "EOS_NewPlayers": 1665,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4249,6 +4249,11 @@
       "Time": "2023-11-05T15:03:30.4438437+00:00",
       "NumProgressed": 7514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T16:03:25.8102054+00:00",
+      "NumProgressed": 7537,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4291,9 +4296,9 @@
       "ID": "ACH_LEVEL974",
       "SetID": "1lo1k0a",
       "Name": "KITTY",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_MEGLAB",
@@ -4309,7 +4314,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -4349,7 +4354,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4357,7 +4362,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2035
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4365,7 +4370,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 902
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4373,7 +4378,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 902
+      "UsersEstimate": 904
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -4381,7 +4386,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -4397,7 +4402,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -4413,7 +4418,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -4421,7 +4426,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -4429,7 +4434,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -4437,7 +4442,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -4445,21 +4450,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 7514,
+      "Progressed": 7537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:03:30.4438432+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:03:25.8102047+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:18.365773+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:58:25.1065806+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:03:30.4438868+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:58:42.0367127+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:03:25.8102513+00:00"
 }

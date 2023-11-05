@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -811,9 +811,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 10865,
+  "EOS_Progressed": 10868,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12346,6 +12346,11 @@
       "Time": "2023-11-05T15:03:10.4603227+00:00",
       "NumProgressed": 10865,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-05T16:03:03.1196205+00:00",
+      "NumProgressed": 10868,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12373,7 +12378,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "ACH04",
@@ -12461,7 +12466,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4565
     },
     {
       "ID": "ACH15",
@@ -12517,7 +12522,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH22",
@@ -12525,7 +12530,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "ACH23",
@@ -12533,7 +12538,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "ACH24",
@@ -12557,7 +12562,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "ACH27",
@@ -12628,7 +12633,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10865,
+      "Progressed": 10868,
       "Completed": 64
     }
   ],
@@ -12636,8 +12641,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-05T12:02:33.9873792+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:03:10.4603213+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:03:03.1196199+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:02:51.8830746+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:03:10.4604577+00:00"
+  "LastUpdate_Ratings": "2023-11-05T16:02:41.2964914+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:03:03.1197185+00:00"
 }

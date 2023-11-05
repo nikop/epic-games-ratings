@@ -10,12 +10,12 @@ Rating: 4.48 (Ranked 619)
 | Enter the Speed Gauntlet | 25.00% | ~290 |
 | I just can't choose | 25.00% | ~290 |
 | A Cheese Grater to the Face | 20.00% | ~232 |
-| Put it on a shelf | 19.00% | ~220 |
+| Put it on a shelf | 19.00% | ~221 |
 | It's like an haircut | 18.00% | ~209 |
 | Ride in the rising sun | 16.00% | ~186 |
 | Suit up | 16.00% | ~186 |
 | Walked like an Egyptian | 15.00% | ~174 |
-| Running at the speed of sound | 14.00% | ~162 |
+| Running at the speed of sound | 14.00% | ~163 |
 | Rookie No-No More | 13.00% | ~151 |
 | Martian explorer | 11.00% | ~128 |
 | To the core | 9.00% | ~104 |
@@ -38,11 +38,11 @@ Rating: 4.48 (Ranked 619)
 | A-mazing! | 3.00% | ~35 |
 | To infinity and gravity! | 3.00% | ~35 |
 | One giant drive for mankind | 3.00% | ~35 |
-| [Sweats profusely] | 3.00% | ~35 |
 | It's like a party! | 3.00% | ~35 |
 | Healthy competition | 3.00% | ~35 |
 | This is to go, even Further Beyond! | 2.00% | ~23 |
 | Gitting Gud | 2.00% | ~23 |
+| [Sweats profusely] | 2.00% | ~23 |
 | Redout Champion | 2.00% | ~23 |
 | Great Start | 2.00% | ~23 |
 | S-uper! | 1.00% | ~12 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 619)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,160 (Ranked 239)  
+Progressed: 1,161 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-10-29 | 1,158 | 0 |
 | 2023-10-30 | 1,159 | 0 |
 | 2023-11-04 | 1,160 | 0 |
+| 2023-11-05 | 1,161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

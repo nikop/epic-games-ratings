@@ -267,9 +267,9 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytaleach4",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:09:12.0952769+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:08:56.2039133+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7438301+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:58:25.0570704+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:09:12.0952889+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:58:41.9888455+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:08:56.2039245+00:00"
 }

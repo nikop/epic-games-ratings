@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.45 (Ranked 658)  
+Rating: 4.45 (Ranked 659)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,8 +13,8 @@ Rating: 4.45 (Ranked 658)
 | Treasure Hunt | 31.00% | ~982 |
 | Ancient Curse | 28.00% | ~887 |
 | Cat Person | 27.00% | ~856 |
+| Hidden Secrets | 26.00% | ~824 |
 | Climber | 25.00% | ~792 |
-| Hidden Secrets | 25.00% | ~792 |
 | Mad Scientist | 24.00% | ~761 |
 | Reunion | 24.00% | ~761 |
 | Imprisonment | 23.00% | ~729 |

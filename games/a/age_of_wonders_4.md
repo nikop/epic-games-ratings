@@ -20,6 +20,7 @@ Rating: 4.60 (Ranked 406)
 | Full Ascension | 6.00% | ~316 |
 | My Final Form | 6.00% | ~316 |
 | In a Liege of Your Own | 6.00% | ~316 |
+| Blood of the Dragon | 6.00% | ~316 |
 | Mighty Hoard | 6.00% | ~316 |
 | Valley of Wonders | 5.00% | ~264 |
 | Digging for Treasure | 5.00% | ~264 |
@@ -27,7 +28,6 @@ Rating: 4.60 (Ranked 406)
 | Against the Odds | 5.00% | ~264 |
 | Impenetrable Fortress | 5.00% | ~264 |
 | Here be Dragons | 5.00% | ~264 |
-| Blood of the Dragon | 5.00% | ~264 |
 | Return of the Wizard King | 4.00% | ~211 |
 | Arch Mage | 4.00% | ~211 |
 | Enchanted Archipelago | 4.00% | ~211 |

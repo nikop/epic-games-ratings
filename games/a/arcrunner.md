@@ -13,7 +13,7 @@
 | The City | 15.00% | ~116 |
 | Terminated III | 13.00% | ~101 |
 | Challenge Mastered | 12.00% | ~93 |
-| Nanonic II | 10.00% | ~77 |
+| Nanonic II | 10.00% | ~78 |
 | Starship Docks | 8.00% | ~62 |
 | Supply Run | 8.00% | ~62 |
 | Cybernetic | 7.00% | ~54 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 263)  
+Progressed: 775 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-10-09 | 764 | 0 |
 | 2023-10-22 | 766 | 0 |
 | 2023-11-04 | 772 | 0 |
-| 2023-11-05 | 774 | 0 |
+| 2023-11-05 | 775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

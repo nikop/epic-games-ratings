@@ -3,12 +3,12 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 760,
-  "Ranking_Popularity": 438,
+  "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1171,7 +1171,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258091,
+  "EOS_Progressed": 258092,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 0,
@@ -20626,6 +20626,11 @@
       "Time": "2023-11-05T15:04:19.2290338+00:00",
       "NumProgressed": 258091,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-05T16:04:20.6141168+00:00",
+      "NumProgressed": 258092,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20685,7 +20690,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80008
+      "UsersEstimate": 80009
     },
     {
       "ID": "BackHomeNTimes",
@@ -20837,7 +20842,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15485
+      "UsersEstimate": 15486
     },
     {
       "ID": "GrowPlants2",
@@ -20893,7 +20898,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15485
+      "UsersEstimate": 15486
     },
     {
       "ID": "KillOtherWithKatana",
@@ -21084,7 +21089,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258091,
+      "Progressed": 258092,
       "Completed": 3
     }
   ],
@@ -21092,8 +21097,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-05T10:58:51.6184065+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:04:19.2290333+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:04:20.6141163+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.7970194+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:58:52.8647125+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:04:19.2292095+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:59:15.4563583+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:04:20.6142765+00:00"
 }

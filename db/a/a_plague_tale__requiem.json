@@ -6,9 +6,9 @@
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -593,11 +593,11 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 13748,
-  "EOS_Completed": 51,
+  "EOS_Progressed": 13749,
+  "EOS_Completed": 52,
   "EOS_NewPlayers": 118,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.37,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:45.6707556+00:00",
@@ -10773,6 +10773,11 @@
       "Time": "2023-11-05T15:03:32.6331416+00:00",
       "NumProgressed": 13748,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-05T16:03:28.65874+00:00",
+      "NumProgressed": 13749,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 35,
@@ -10784,7 +10789,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12648
+      "UsersEstimate": 12649
     },
     {
       "ID": "ACH_02",
@@ -10792,7 +10797,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10861
+      "UsersEstimate": 10862
     },
     {
       "ID": "ACH_03",
@@ -10824,7 +10829,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8936
+      "UsersEstimate": 8937
     },
     {
       "ID": "ACH_07",
@@ -10832,7 +10837,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "ACH_08",
@@ -10840,7 +10845,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 8386
+      "UsersEstimate": 8387
     },
     {
       "ID": "ACH_09",
@@ -10856,7 +10861,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7286
+      "UsersEstimate": 7287
     },
     {
       "ID": "ACH_11",
@@ -10880,7 +10885,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5499
+      "UsersEstimate": 5500
     },
     {
       "ID": "ACH_14",
@@ -10888,7 +10893,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 5224
+      "UsersEstimate": 5225
     },
     {
       "ID": "ACH_15",
@@ -10896,7 +10901,7 @@
       "Name": "Dying Sun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4674
+      "UsersEstimate": 4675
     },
     {
       "ID": "ACH_16",
@@ -10992,7 +10997,7 @@
       "Name": "Night guard",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "ACH_28",
@@ -11000,7 +11005,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 9486
+      "UsersEstimate": 9487
     },
     {
       "ID": "ACH_29",
@@ -11063,16 +11068,16 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13748,
-      "Completed": 51
+      "Progressed": 13749,
+      "Completed": 52
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-05T14:58:25.9356423+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:03:32.6331411+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:03:28.6587396+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.9650362+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:58:25.9356428+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:03:32.6332345+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:58:42.9905644+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:03:28.6588296+00:00"
 }

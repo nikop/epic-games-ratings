@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 56.00% | ~91 |
+| A Second Chance | 57.00% | ~92 |
 | Press-ganged | 41.00% | ~66 |
 | The Package | 27.00% | ~44 |
 | Conquered | 18.00% | ~29 |

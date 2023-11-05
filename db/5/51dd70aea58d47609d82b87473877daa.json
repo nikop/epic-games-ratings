@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2,
+  "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -954,6 +954,11 @@
       "Time": "2023-11-05T15:09:01.1904056+00:00",
       "NumProgressed": 200,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-05T16:08:43.4869295+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -965,15 +970,15 @@
       "Name": "Are you still Alive?",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_DIE",
       "SetID": "c2kf3nm",
       "Name": "Sometimes Death is a Mercy",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_DULLER",
@@ -997,7 +1002,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_FRIEND",
@@ -1005,7 +1010,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_GET_IN",
@@ -1013,7 +1018,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1037,7 +1042,7 @@
       "Name": "GET THE HANG OF IT",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_HOUND",
@@ -1067,17 +1072,17 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_PITFALLSDIE",
       "SetID": "c2kf3nm",
       "Name": "One Wrong Step",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_RUN",
@@ -1101,21 +1106,21 @@
       "Name": "Why are you running?!",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:09:01.1904052+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:08:43.4869291+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:59:06.9531978+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:09:01.1904244+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:59:32.5506168+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:08:43.4869518+00:00"
 }

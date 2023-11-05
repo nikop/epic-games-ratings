@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1211,9 +1211,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1396,8 +1396,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:08:05.2560318+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:07:02.39724+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.0695346+00:00",
-  "LastUpdate_Ratings": "2023-11-05T15:02:54.4258578+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:08:05.2561677+00:00"
+  "LastUpdate_Ratings": "2023-11-05T16:02:44.0609312+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:07:02.397366+00:00"
 }

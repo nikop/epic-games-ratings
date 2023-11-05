@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251183,
+  "EOS_Progressed": 251186,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 647,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22757,6 +22757,11 @@
       "Time": "2023-11-05T15:04:28.1392262+00:00",
       "NumProgressed": 251183,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-05T16:04:30.6007712+00:00",
+      "NumProgressed": 251186,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -22768,7 +22773,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67819
+      "UsersEstimate": 67820
     },
     {
       "ID": "ACH_AON",
@@ -22840,7 +22845,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -22848,7 +22853,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22606
+      "UsersEstimate": 22607
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -22888,7 +22893,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     },
     {
       "ID": "ACH_IRONDEC",
@@ -22912,7 +22917,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70331
+      "UsersEstimate": 70332
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -23064,7 +23069,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -23183,7 +23188,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251183,
+      "Progressed": 251186,
       "Completed": 7
     }
   ],
@@ -23191,8 +23196,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:04:28.1392257+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:04:30.6007707+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:57:21.2290138+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:04:28.1394141+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:57:29.8478588+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:04:30.6009439+00:00"
 }

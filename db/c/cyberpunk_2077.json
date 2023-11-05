@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14640,18 +14640,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 342984,
       "NumberOfAwardsMax": 103855
+    },
+    {
+      "Time": "2023-11-05T15:59:57.0130203+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 343308,
+      "NumberOfAwardsMax": 104068
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 342984,
-  "NumberOfAwardsMax": 103855,
+  "NumberOfAwards": 343308,
+  "NumberOfAwardsMax": 104068,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 103855
+      "Count": 104068
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14663,7 +14669,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 19936
+      "Count": 20047
     },
     {
       "Text": "This game is Relaxing",
@@ -14720,10 +14726,10 @@
       "Count": 12416
     }
   ],
-  "EOS_Progressed": 895376,
+  "EOS_Progressed": 895390,
   "EOS_Completed": 2747,
-  "EOS_NewPlayers": 933,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 939,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37245,6 +37251,11 @@
       "Time": "2023-11-05T15:06:09.0682954+00:00",
       "NumProgressed": 895376,
       "NumCompleted": 2747
+    },
+    {
+      "Time": "2023-11-05T16:06:22.8448387+00:00",
+      "NumProgressed": 895390,
+      "NumCompleted": 2747
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37295,9 +37306,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 1791
     },
     {
       "ID": "Fortuneteller",
@@ -37351,9 +37362,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 1791
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -37792,21 +37803,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895376,
+      "Progressed": 895390,
       "Completed": 2747
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23999,
-      "Completed": 10190
+      "Progressed": 24013,
+      "Completed": 10192
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-05T13:02:55.2282278+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:06:09.0682949+00:00",
+  "LastChanged": "2023-11-05T15:59:57.0130202+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:06:22.8448383+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:59:28.5845356+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:06:09.0685137+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:59:57.0130208+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:06:22.8450264+00:00"
 }

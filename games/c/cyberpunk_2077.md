@@ -16,7 +16,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.30% | ~72 |
 | Arachnophobia | 0.30% | ~72 |
 | Bushido and Chill | 0.20% | ~1,791 |
+| To Protect and Serve | 0.20% | ~1,791 |
 | Master Crafter | 0.20% | ~1,791 |
+| I Am The Law | 0.20% | ~1,791 |
 | Christmas Tree Attack | 0.20% | ~1,791 |
 | The Quick and the Dead | 0.20% | ~1,791 |
 | Life of the Road | 0.20% | ~1,791 |
@@ -33,12 +35,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.20% | ~48 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
-| To Protect and Serve | 0.10% | ~895 |
 | The Wandering Fool | 0.10% | ~895 |
 | Autojock | 0.10% | ~895 |
 | Frequent Flyer | 0.10% | ~895 |
 | Gunslinger | 0.10% | ~895 |
-| I Am The Law | 0.10% | ~895 |
 | Mean Streets | 0.10% | ~895 |
 | Little Tokyo | 0.10% | ~895 |
 | Must Be Rats | 0.10% | ~895 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,376 (Ranked 15)  
+Progressed: 895,390 (Ranked 15)  
 Completed: 2,747 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,17 +273,17 @@ Completed: 2,747 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,376 | 2,747 |
+| 2023-11-05 | 895,390 | 2,747 |
 ## Awards
-Max (Character Customization): 103,855  (Ranked 9)  
-Sum: 342,984 (Ranked 10)  
+Max (Character Customization): 104,068  (Ranked 9)  
+Sum: 343,308 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 103,855 |
+| This game has Inclusive Character Customization | 104,068 |
 | This game has Great Boss Battles | 74,821 |
 | This game is Great for Beginners | 20,308 |
-| This game has Diverse Characters | 19,936 |
+| This game has Diverse Characters | 20,047 |
 | This game is Highly Recommended | 19,134 |
 | This game has Amazing Storytelling | 19,007 |
 | This game is Extremely Fun | 18,891 |
@@ -584,4 +584,4 @@ Diff (max vs sum): -1
 | 2023-11-02 | 4.64 | - | 103,503 | 339,526 |
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
-| 2023-11-05 | 4.64 | - | 103,855 | 342,984 |
+| 2023-11-05 | 4.64 | - | 104,068 | 343,308 |

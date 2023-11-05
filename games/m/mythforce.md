@@ -1,36 +1,36 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 602)  
+Rating: 4.49 (Ranked 603)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,168 |
-| Hit 'Em Where It Hurts | 24.00% | ~1,121 |
-| That'll Leave a Mark | 24.00% | ~1,121 |
-| Debuff Dogpile | 23.00% | ~1,074 |
-| Perk Shard Punch Card | 23.00% | ~1,074 |
-| Mushroom Madness! | 22.00% | ~1,027 |
-| First Strike | 19.00% | ~887 |
-| Spending Spree | 18.00% | ~841 |
-| Horder Better Faster Stronger | 17.00% | ~794 |
-| Ten Steps from the Grave | 15.00% | ~700 |
-| Everything Must Go! | 14.00% | ~654 |
-| Next Time on MythForce... | 13.00% | ~607 |
-| Cold-Blooded Critters | 10.00% | ~467 |
+| Faceroll the Bones | 25.00% | ~1,170 |
+| Hit 'Em Where It Hurts | 24.00% | ~1,123 |
+| Debuff Dogpile | 23.00% | ~1,076 |
+| Perk Shard Punch Card | 23.00% | ~1,076 |
+| That'll Leave a Mark | 23.00% | ~1,076 |
+| Mushroom Madness! | 22.00% | ~1,029 |
+| First Strike | 19.00% | ~889 |
+| Spending Spree | 18.00% | ~842 |
+| Horder Better Faster Stronger | 17.00% | ~795 |
+| Ten Steps from the Grave | 15.00% | ~702 |
+| Everything Must Go! | 14.00% | ~655 |
+| Next Time on MythForce... | 13.00% | ~608 |
+| Cold-Blooded Critters | 10.00% | ~468 |
 | Death Becomes You | 8.00% | ~374 |
-| Flawless Victory | 6.00% | ~280 |
-| The Harder They Fall | 6.00% | ~280 |
-| On this Episode! | 6.00% | ~280 |
+| Flawless Victory | 6.00% | ~281 |
+| The Harder They Fall | 6.00% | ~281 |
+| On this Episode! | 6.00% | ~281 |
 | Deadication | 4.00% | ~187 |
 | Season Finale | 4.00% | ~187 |
 | We've Got a Kaiju on the Field | 3.00% | ~140 |
-| The Fourth Gate | 2.00% | ~93 |
+| The Fourth Gate | 2.00% | ~94 |
 | Vexed Her | 0.40% | ~19 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,670 (Ranked 185)  
+Progressed: 4,679 (Ranked 185)  
 Completed: 3 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,14 +143,14 @@ Completed: 3 (0.06%) (Ranked 290)
 | 2023-11-02 | 4,602 | 3 |
 | 2023-11-03 | 4,619 | 3 |
 | 2023-11-04 | 4,647 | 3 |
-| 2023-11-05 | 4,670 | 3 |
+| 2023-11-05 | 4,679 | 3 |
 ## Awards
-Max (Great for Beginners): 34  (Ranked 474)  
-Sum: 285 (Ranked 364)  
-Diff (max vs sum): 110  
+Max (Great for Beginners): 35  (Ranked 469)  
+Sum: 286 (Ranked 364)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 34 |
+| This game is Great for Beginners | 35 |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 31 |
 | This game has Quickly Understood Controls | 30 |
@@ -257,3 +257,4 @@ Diff (max vs sum): 110
 | 2023-10-12 | 4.49 | - | 34 | 283 |
 | 2023-10-14 | 4.49 | - | 34 | 284 |
 | 2023-10-24 | 4.49 | - | 34 | 285 |
+| 2023-11-05 | 4.49 | - | 35 | 286 |

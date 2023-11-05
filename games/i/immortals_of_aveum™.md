@@ -5,32 +5,32 @@ Rating: 4.00 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~136 |
+| Unforeseen | 87.00% | ~137 |
 | Battlefields Have Memories | 85.00% | ~133 |
-| Enlisted | 82.00% | ~128 |
-| Maybe Engage a Little | 78.00% | ~122 |
-| No More Names | 63.00% | ~98 |
-| Initiate | 54.00% | ~84 |
+| Enlisted | 82.00% | ~129 |
+| Maybe Engage a Little | 77.00% | ~121 |
+| No More Names | 63.00% | ~99 |
+| Initiate | 54.00% | ~85 |
 | Thrada-Kul | 51.00% | ~80 |
-| Gravity-Challenged Rocks | 40.00% | ~62 |
-| Soldier | 35.00% | ~55 |
+| Gravity-Challenged Rocks | 39.00% | ~61 |
 | All the Major Food Groups | 35.00% | ~55 |
-| Beggars Would Ride | 31.00% | ~48 |
+| Soldier | 34.00% | ~53 |
+| Beggars Would Ride | 31.00% | ~49 |
 | Control is an Illusion | 30.00% | ~47 |
-| Socialite | 28.00% | ~44 |
-| The Means to Save It | 26.00% | ~41 |
-| Resilience to Sin | 22.00% | ~34 |
+| Socialite | 27.00% | ~42 |
+| The Means to Save It | 25.00% | ~39 |
+| Resilience to Sin | 22.00% | ~35 |
 | A Familiar Nest | 21.00% | ~33 |
-| Periapt Alizarin | 21.00% | ~33 |
 | Geas Aristeya | 20.00% | ~31 |
+| Periapt Alizarin | 20.00% | ~31 |
 | Armsman | 18.00% | ~28 |
 | A Perfect Cycle | 17.00% | ~27 |
 | Recruit | 16.00% | ~25 |
-| Lights Army | 12.00% | ~19 |
-| Good Boy | 12.00% | ~19 |
+| Lights Army | 11.00% | ~17 |
+| Good Boy | 11.00% | ~17 |
 | Periapt Cerulean | 10.00% | ~16 |
-| Periapt Viridian | 8.00% | ~12 |
-| Shroudfane Explorer | 8.00% | ~12 |
+| Periapt Viridian | 8.00% | ~13 |
+| Shroudfane Explorer | 8.00% | ~13 |
 | Best Dressed | 7.00% | ~11 |
 | Armaments Azure | 6.00% | ~9 |
 | Armaments Gules | 6.00% | ~9 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 983)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 377)  
+Progressed: 157 (Ranked 376)  
 Completed: 1 (0.64%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 1 (0.64%) (Ranked 175)
 | 2023-11-02 | 131 | 1 |
 | 2023-11-03 | 139 | 1 |
 | 2023-11-04 | 155 | 1 |
-| 2023-11-05 | 156 | 1 |
+| 2023-11-05 | 157 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

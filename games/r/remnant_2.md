@@ -5,43 +5,43 @@ Rating: 4.75 (Ranked 141)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,619 |
-| The Killing Jar | 8.00% | ~17,440 |
-| Expanding Horizons | 7.00% | ~15,260 |
-| Quest for Survival | 7.00% | ~15,260 |
-| Not Your Average Trait | 7.00% | ~15,260 |
-| Gleaming the Cube | 6.00% | ~13,080 |
-| Familiar Face | 6.00% | ~13,080 |
-| Boss'n Up | 6.00% | ~13,080 |
-| Trait Chaser | 6.00% | ~13,080 |
-| Not So Special Now | 5.00% | ~10,900 |
-| Not a Janitor | 5.00% | ~10,900 |
-| Equal Measures | 5.00% | ~10,900 |
-| Blue Goddess | 5.00% | ~10,900 |
-| Duality | 5.00% | ~10,900 |
-| Top Performer | 5.00% | ~10,900 |
-| Almost There | 5.00% | ~10,900 |
-| Make Some Room | 5.00% | ~10,900 |
-| Good, But Could Be Better! | 5.00% | ~10,900 |
-| Chaos | 4.00% | ~8,720 |
-| Traitor | 4.00% | ~8,720 |
-| Power Surge | 4.00% | ~8,720 |
-| The God Gambit | 4.00% | ~8,720 |
-| Dark Designs | 4.00% | ~8,720 |
-| Madman's Paradise | 4.00% | ~8,720 |
-| Shhh...It's a Secret | 4.00% | ~8,720 |
-| Was This Supposed To Happen? | 4.00% | ~8,720 |
-| The Web | 4.00% | ~8,720 |
-| All These Traits� | 4.00% | ~8,720 |
-| Am I Seeing This? | 3.00% | ~6,540 |
-| Forever is a Long Time Coming | 3.00% | ~6,540 |
-| The Agenda | 3.00% | ~6,540 |
-| Tall Tales | 3.00% | ~6,540 |
-| Bad Moon Rising | 3.00% | ~6,540 |
-| Strapped | 3.00% | ~6,540 |
-| Edgelord | 3.00% | ~6,540 |
-| Scrap Collector | 3.00% | ~6,540 |
-| The Ultimate Weapon | 3.00% | ~6,540 |
+| First of Many | 9.00% | ~19,622 |
+| The Killing Jar | 8.00% | ~17,442 |
+| Expanding Horizons | 7.00% | ~15,261 |
+| Quest for Survival | 7.00% | ~15,261 |
+| Not Your Average Trait | 7.00% | ~15,261 |
+| Gleaming the Cube | 6.00% | ~13,081 |
+| Familiar Face | 6.00% | ~13,081 |
+| Boss'n Up | 6.00% | ~13,081 |
+| Trait Chaser | 6.00% | ~13,081 |
+| Not So Special Now | 5.00% | ~10,901 |
+| Not a Janitor | 5.00% | ~10,901 |
+| Equal Measures | 5.00% | ~10,901 |
+| Blue Goddess | 5.00% | ~10,901 |
+| Duality | 5.00% | ~10,901 |
+| Top Performer | 5.00% | ~10,901 |
+| Almost There | 5.00% | ~10,901 |
+| Make Some Room | 5.00% | ~10,901 |
+| Good, But Could Be Better! | 5.00% | ~10,901 |
+| Chaos | 4.00% | ~8,721 |
+| Traitor | 4.00% | ~8,721 |
+| Power Surge | 4.00% | ~8,721 |
+| The God Gambit | 4.00% | ~8,721 |
+| Dark Designs | 4.00% | ~8,721 |
+| Madman's Paradise | 4.00% | ~8,721 |
+| Shhh...It's a Secret | 4.00% | ~8,721 |
+| Was This Supposed To Happen? | 4.00% | ~8,721 |
+| The Web | 4.00% | ~8,721 |
+| All These Traits� | 4.00% | ~8,721 |
+| Am I Seeing This? | 3.00% | ~6,541 |
+| Forever is a Long Time Coming | 3.00% | ~6,541 |
+| The Agenda | 3.00% | ~6,541 |
+| Tall Tales | 3.00% | ~6,541 |
+| Bad Moon Rising | 3.00% | ~6,541 |
+| Strapped | 3.00% | ~6,541 |
+| Edgelord | 3.00% | ~6,541 |
+| Scrap Collector | 3.00% | ~6,541 |
+| The Ultimate Weapon | 3.00% | ~6,541 |
 | Crafty | 2.00% | ~4,360 |
 | Only Human | 2.00% | ~4,360 |
 | Red Room | 2.00% | ~4,360 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 141)
 | The Collector | 1.00% | ~2,180 |
 | Proving Grounds | 1.00% | ~2,180 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,994 (Ranked 68)  
+Progressed: 218,020 (Ranked 68)  
 Completed: 431 (0.20%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,10 +168,10 @@ Completed: 431 (0.20%) (Ranked 243)
 | 2023-11-02 | 217,009 | 426 |
 | 2023-11-03 | 217,330 | 429 |
 | 2023-11-04 | 217,742 | 429 |
-| 2023-11-05 | 217,994 | 431 |
+| 2023-11-05 | 218,020 | 431 |
 ## Awards
 Max (Great Boss Battles): 2,066  (Ranked 109)  
-Sum: 4,594 (Ranked 143)  
+Sum: 4,598 (Ranked 143)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): -34
 | This game is Highly Recommended | 263 |
 | This game has Amazing Storytelling | 253 |
 | This game has Quickly Understood Controls | 247 |
-| This game has Amazing Characters | 242 |
+| This game has Amazing Characters | 246 |
 | This game has Unique Visuals | 211 |
 | This game has a Creative Community | 195 |
 ## Ratings History
@@ -291,4 +291,4 @@ Diff (max vs sum): -34
 | 2023-11-02 | 4.75 | 2,018 | 4,481 |
 | 2023-11-03 | 4.75 | 2,040 | 4,526 |
 | 2023-11-04 | 4.75 | 2,051 | 4,558 |
-| 2023-11-05 | 4.75 | 2,066 | 4,594 |
+| 2023-11-05 | 4.75 | 2,066 | 4,598 |

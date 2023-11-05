@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~387 |
-| Pork Chopped | 0.90% | ~348 |
+| Whatever It Takes | 1.00% | ~388 |
+| Pork Chopped | 0.90% | ~349 |
 | One of Us | 0.80% | ~310 |
 | Hotel California | 0.30% | ~2,140 |
 | Welcome To Hell-A | 0.30% | ~2,140 |
@@ -26,10 +26,12 @@ Rating: 4.54 (Ranked 522)
 | Hazardous Materials | 0.20% | ~1,426 |
 | Friends Like These | 0.20% | ~1,426 |
 | Apex Predator | 0.20% | ~1,426 |
+| Ooh, Shiny! | 0.20% | ~1,426 |
 | A Patton Emerges | 0.20% | ~1,426 |
 | Stacking the Deck | 0.20% | ~1,426 |
 | Personal Assistant Personally Assisted | 0.20% | ~1,426 |
 | Max Headroom | 0.20% | ~1,426 |
+| Our True Nature | 0.20% | ~1,426 |
 | This is My Weapon | 0.20% | ~1,426 |
 | Making Your Mark | 0.10% | ~713 |
 | Make it So | 0.10% | ~713 |
@@ -41,7 +43,6 @@ Rating: 4.54 (Ranked 522)
 | Sole Survivor | 0.10% | ~713 |
 | Jumbo Keyring | 0.10% | ~713 |
 | Zombologist | 0.10% | ~713 |
-| Ooh, Shiny! | 0.10% | ~713 |
 | Gore Horse | 0.10% | ~713 |
 | Humanity Distilled | 0.10% | ~713 |
 | I Am the Resurrection | 0.10% | ~713 |
@@ -49,7 +50,6 @@ Rating: 4.54 (Ranked 522)
 | Sharpest Tool in the Box | 0.10% | ~713 |
 | Survival Skills | 0.10% | ~713 |
 | Go, Bobcats! | 0.10% | ~713 |
-| Our True Nature | 0.10% | ~713 |
 | Variety is the Spice of Death | 0.10% | ~713 |
 | Rising Star | 0.10% | ~713 |
 | Bucket List | 0.10% | ~713 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,172 (Ranked 21)  
-Completed: 2,333 (0.33%) (Ranked 217)  
+Progressed: 713,236 (Ranked 21)  
+Completed: 2,335 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 2,333 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,172 | 2,333 |
+| 2023-11-05 | 713,236 | 2,335 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,600 (Ranked 89)  

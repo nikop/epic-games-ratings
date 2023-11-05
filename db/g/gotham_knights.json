@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3995,9 +3995,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 75992,
+  "EOS_Progressed": 75997,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21545,6 +21545,11 @@
       "Time": "2023-11-05T15:05:01.2075733+00:00",
       "NumProgressed": 75992,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-05T16:05:06.9203537+00:00",
+      "NumProgressed": 75997,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21604,7 +21609,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17478
+      "UsersEstimate": 17479
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -21636,7 +21641,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9119
+      "UsersEstimate": 9120
     },
     {
       "ID": "APPLY_STATUS",
@@ -21644,7 +21649,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11399
+      "UsersEstimate": 11400
     },
     {
       "ID": "CHALLENGES_1",
@@ -21660,7 +21665,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15958
+      "UsersEstimate": 15959
     },
     {
       "ID": "CLAYFACE_2",
@@ -21676,7 +21681,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10639
+      "UsersEstimate": 10640
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -21700,7 +21705,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5319
+      "UsersEstimate": 5320
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -21716,7 +21721,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9879
+      "UsersEstimate": 9880
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -21732,7 +21737,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9119
+      "UsersEstimate": 9120
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -21740,7 +21745,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6840
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -21764,7 +21769,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9879
+      "UsersEstimate": 9880
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -21772,7 +21777,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7599
+      "UsersEstimate": 7600
     },
     {
       "ID": "FREEZE_1",
@@ -21780,7 +21785,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21278
+      "UsersEstimate": 21279
     },
     {
       "ID": "FREEZE_1_5",
@@ -21788,7 +21793,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15958
+      "UsersEstimate": 15959
     },
     {
       "ID": "FREEZE_2",
@@ -21796,7 +21801,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14438
+      "UsersEstimate": 14439
     },
     {
       "ID": "FREEZE_3",
@@ -21804,7 +21809,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10639
+      "UsersEstimate": 10640
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -21860,7 +21865,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26597
+      "UsersEstimate": 26599
     },
     {
       "ID": "HARLEY_2",
@@ -21868,7 +21873,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18998
+      "UsersEstimate": 18999
     },
     {
       "ID": "HARLEY_3",
@@ -21876,7 +21881,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15198
+      "UsersEstimate": 15199
     },
     {
       "ID": "HARLEY_4",
@@ -21884,7 +21889,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12159
+      "UsersEstimate": 12160
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -21900,7 +21905,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38756
+      "UsersEstimate": 38758
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -21924,7 +21929,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15198
+      "UsersEstimate": 15199
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -21932,7 +21937,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20518
+      "UsersEstimate": 20519
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -21948,7 +21953,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25837
+      "UsersEstimate": 25839
     },
     {
       "ID": "MYSTERY_02",
@@ -21956,7 +21961,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18998
+      "UsersEstimate": 18999
     },
     {
       "ID": "MYSTERY_03",
@@ -21964,7 +21969,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16718
+      "UsersEstimate": 16719
     },
     {
       "ID": "MYSTERY_04",
@@ -21972,7 +21977,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15198
+      "UsersEstimate": 15199
     },
     {
       "ID": "MYSTERY_05",
@@ -21988,7 +21993,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11399
+      "UsersEstimate": 11400
     },
     {
       "ID": "MYSTERY_07",
@@ -21996,7 +22001,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10639
+      "UsersEstimate": 10640
     },
     {
       "ID": "MYSTERY_08",
@@ -22004,7 +22009,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9119
+      "UsersEstimate": 9120
     },
     {
       "ID": "SECRET_CACHE",
@@ -22012,7 +22017,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8359
+      "UsersEstimate": 8360
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -22020,7 +22025,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6839
+      "UsersEstimate": 6840
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -22043,13 +22048,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 75992,
+      "Progressed": 75997,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46272,
+      "Progressed": 46277,
       "Completed": 2673
     }
   ],
@@ -22057,8 +22062,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-05T09:57:20.5114082+00:00",
-  "LastChanged_Achievements": "2023-11-05T15:05:01.2075728+00:00",
+  "LastChanged_Achievements": "2023-11-05T16:05:06.9203529+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:57:08.6884551+00:00",
-  "LastUpdate_Achievements": "2023-11-05T15:05:01.2077451+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:57:15.621851+00:00",
+  "LastUpdate_Achievements": "2023-11-05T16:05:06.9205169+00:00"
 }

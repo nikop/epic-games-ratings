@@ -26,12 +26,12 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade I | 6.00% | ~260 |
 | Knee deep in snow | 6.00% | ~260 |
 | Not a small trader anymore | 5.00% | ~217 |
+| Bread for the people II | 5.00% | ~217 |
 | I like to build stuff... III | 5.00% | ~217 |
 | The King's new clothes I | 5.00% | ~217 |
 | Builder II | 5.00% | ~217 |
 | Tax-man III | 5.00% | ~217 |
 | Conflicting parties | 5.00% | ~217 |
-| Bread for the people II | 4.00% | ~173 |
 | Experienced decorator | 4.00% | ~173 |
 | An honorable Governor II | 4.00% | ~173 |
 | Full-time job III | 4.00% | ~173 |

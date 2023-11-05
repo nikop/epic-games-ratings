@@ -21,6 +21,7 @@
 | By own strength | 11.00% | ~3 |
 | Protect the Healer! | 11.00% | ~3 |
 | Help of the Gell | 11.00% | ~3 |
+| Trial by cold | 11.00% | ~3 |
 | Berkanan Borgia | 7.00% | ~2 |
 | The champion of the arena | 7.00% | ~2 |
 | Rage | 7.00% | ~2 |
@@ -28,7 +29,7 @@
 | A solo player | 7.00% | ~2 |
 | Punish the Punisher | 7.00% | ~2 |
 | Cunning plan | 7.00% | ~2 |
-| Trial by cold | 7.00% | ~2 |
+| All's fair in love and war | 7.00% | ~2 |
 | She-Wolf | 7.00% | ~2 |
 | For the greater good | 4.00% | ~1 |
 | Collector | 4.00% | ~1 |
@@ -37,7 +38,6 @@
 | First among Frisians | 4.00% | ~1 |
 | The power of persuasion | 4.00% | ~1 |
 | Do it yourself | 4.00% | ~1 |
-| All's fair in love and war | 4.00% | ~1 |
 | The End | 4.00% | ~1 |
 | Nothing is settled | 4.00% | ~1 |
 | Berserk | 0.00% | ~0 |
