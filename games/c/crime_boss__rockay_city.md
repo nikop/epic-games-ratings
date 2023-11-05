@@ -17,18 +17,18 @@ Rating: 3.94 (Ranked 1,004)
 | Raider’s Ruin | 0.90% | ~806 |
 | Dragonslayer | 0.90% | ~806 |
 | Rockay Rex | 0.90% | ~806 |
-| Case Closed | 0.80% | ~716 |
+| Case Closed | 0.80% | ~717 |
 | Hidden Sonata | 0.70% | ~627 |
 | Track Star | 0.60% | ~537 |
 | Headhunter | 0.60% | ~537 |
 | True Player | 0.60% | ~537 |
 | Legend Looter | 0.40% | ~358 |
 | I Like Trains | 0.40% | ~358 |
+| Foo Finder | 0.40% | ~358 |
 | Freebooter | 0.40% | ~358 |
 | Moneybags | 0.40% | ~358 |
 | Imports and Exports | 0.30% | ~269 |
 | Savvy Seeker | 0.30% | ~269 |
-| Foo Finder | 0.30% | ~269 |
 | Olympus Ascended | 0.30% | ~269 |
 | Ding Dong | 0.30% | ~269 |
 | All that Glitters | 0.30% | ~54 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,562 (Ranked 91)  
+Progressed: 89,563 (Ranked 91)  
 Completed: 54 (0.06%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 54 (0.06%) (Ranked 289)
 | 2023-11-02 | 89,504 | 53 |
 | 2023-11-03 | 89,528 | 54 |
 | 2023-11-04 | 89,561 | 54 |
-| 2023-11-05 | 89,562 | 54 |
+| 2023-11-05 | 89,563 | 54 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 203)  
 Sum: 2,943 (Ranked 175)  

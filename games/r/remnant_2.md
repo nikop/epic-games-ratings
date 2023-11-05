@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 141)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,601 |
-| The Killing Jar | 8.00% | ~17,423 |
+| First of Many | 9.00% | ~19,602 |
+| The Killing Jar | 8.00% | ~17,424 |
 | Expanding Horizons | 7.00% | ~15,246 |
 | Quest for Survival | 7.00% | ~15,246 |
 | Not Your Average Trait | 7.00% | ~15,246 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 141)
 | The Collector | 1.00% | ~2,178 |
 | Proving Grounds | 1.00% | ~2,178 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,793 (Ranked 67)  
+Progressed: 217,803 (Ranked 67)  
 Completed: 429 (0.20%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 429 (0.20%) (Ranked 242)
 | 2023-11-02 | 217,009 | 426 |
 | 2023-11-03 | 217,330 | 429 |
 | 2023-11-04 | 217,742 | 429 |
-| 2023-11-05 | 217,793 | 429 |
+| 2023-11-05 | 217,803 | 429 |
 ## Awards
 Max (Great Boss Battles): 2,051  (Ranked 110)  
 Sum: 4,568 (Ranked 143)  

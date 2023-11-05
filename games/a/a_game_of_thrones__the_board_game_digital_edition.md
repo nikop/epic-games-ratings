@@ -1,17 +1,17 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 895)  
+Rating: 4.21 (Ranked 894)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~11,068 |
-| Battering Crew | 20.00% | ~5,534 |
-| The Kingsroad | 18.00% | ~4,980 |
+| Conqueror | 40.00% | ~11,070 |
+| Battering Crew | 20.00% | ~5,535 |
+| The Kingsroad | 18.00% | ~4,981 |
 | Well Stocked | 14.00% | ~3,874 |
-| Royal Fleet | 13.00% | ~3,597 |
-| The Kraken’s Grasp | 9.00% | ~2,490 |
+| Royal Fleet | 13.00% | ~3,598 |
+| The Kraken’s Grasp | 9.00% | ~2,491 |
 | Daggers in the Dark | 8.00% | ~2,214 |
 | Alliance | 8.00% | ~2,214 |
 | A Long Journey | 8.00% | ~2,214 |
@@ -22,14 +22,14 @@ Number of Ratings: 2,500  (23.09.2022)
 | We Do Not Sow | 6.00% | ~1,660 |
 | Hear me Roar! | 6.00% | ~1,660 |
 | Defender of the Wall | 6.00% | ~1,660 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,383 |
-| Growing Strong | 5.00% | ~1,383 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,384 |
+| Growing Strong | 5.00% | ~1,384 |
 | What is Dead may Never Die | 3.00% | ~830 |
 | The Swift | 3.00% | ~830 |
 | King in the North | 2.00% | ~553 |
 | War of the Five Kings | 1.00% | ~277 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,669 (Ranked 124)  
+Progressed: 27,674 (Ranked 124)  
 Completed: 75 (0.27%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 75 (0.27%) (Ranked 229)
 | 2023-11-02 | 27,466 | 74 |
 | 2023-11-03 | 27,543 | 75 |
 | 2023-11-04 | 27,650 | 75 |
-| 2023-11-05 | 27,669 | 75 |
+| 2023-11-05 | 27,674 | 75 |
 ## Awards
 Max (Quickly Understood Controls): 126  (Ranked 330)  
 Sum: 796 (Ranked 279)  

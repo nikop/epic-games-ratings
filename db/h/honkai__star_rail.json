@@ -6,9 +6,9 @@
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 721,
-  "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -6913,10 +6913,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 68665,
       "NumberOfAwardsMax": 18489
+    },
+    {
+      "Time": "2023-11-05T04:03:11.0782087+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 68819,
+      "NumberOfAwardsMax": 18489
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 68665,
+  "NumberOfAwards": 68819,
   "NumberOfAwardsMax": 18489,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6948,7 +6954,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5861
+      "Count": 5925
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -6972,13 +6978,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3953
+      "Count": 4003
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4058
+      "Count": 4098
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7005,8 +7011,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-11-05T01:50:18.6720314+00:00",
+  "LastChanged": "2023-11-05T04:03:11.0782084+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:31.3849401+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:03:11.1345443+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:07:51.9743103+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:03:11.0782094+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:07:48.5619427+00:00"
 }

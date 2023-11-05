@@ -48,7 +48,7 @@ Number of Ratings: 56  (23.09.2022)
 | absolute drift | 0.90% | ~93 |
 | you're here for a good time, not a long time | 0.80% | ~82 |
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
-| barely keeping it together | 0.30% | ~31 |
+| barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,300 (Ranked 155)  
 Completed: 9 (0.09%) (Ranked 272)  

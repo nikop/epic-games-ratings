@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3069,9 +3069,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30139,
+  "EOS_Progressed": 30144,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1996,
+  "EOS_NewPlayers": 1993,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -17924,6 +17924,11 @@
       "Time": "2023-11-05T03:07:28.3349217+00:00",
       "NumProgressed": 30139,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-05T04:07:24.8376637+00:00",
+      "NumProgressed": 30144,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18269,9 +18274,9 @@
       "ID": "Teamwork",
       "SetID": "819popo",
       "Name": "Teamwork",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 904
     },
     {
       "ID": "Terrifying",
@@ -18342,7 +18347,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30139,
+      "Progressed": 30144,
       "Completed": 65
     }
   ],
@@ -18350,8 +18355,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-05T01:45:18.0240395+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:07:28.334921+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:07:24.8376632+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:58:30.1628509+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:07:28.3350642+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:58:22.4586877+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:07:24.8378478+00:00"
 }

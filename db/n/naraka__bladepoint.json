@@ -2,13 +2,13 @@
   "ID": "0c6aee83b9b64372bf44a043001325f2",
   "Name": "NARAKA: BLADEPOINT",
   "ProductSlug": "naraka-bladepoint",
-  "Ranking_Rating": 920,
+  "Ranking_Rating": 919,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 721,
-  "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-12-08T16:00:00+00:00",
     "PcReleaseDate": "2021-08-11T12:00:00+00:00",
@@ -7903,24 +7903,30 @@
       "Rating": 4.18,
       "NumberOfAwards": 453251,
       "NumberOfAwardsMax": 210147
+    },
+    {
+      "Time": "2023-11-05T04:01:17.6489613+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 453498,
+      "NumberOfAwardsMax": 210275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 453251,
-  "NumberOfAwardsMax": 210147,
+  "NumberOfAwards": 453498,
+  "NumberOfAwardsMax": 210275,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 210147
+      "Count": 210275
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 92329
+      "Count": 92448
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7964,8 +7970,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:04.1152302+00:00",
-  "LastChanged": "2023-11-04T16:00:49.2254924+00:00",
+  "LastChanged": "2023-11-05T04:01:17.6489609+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:42.8372506+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:01:25.1845977+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:06:25.2917752+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:01:17.6489622+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:06:22.38886+00:00"
 }

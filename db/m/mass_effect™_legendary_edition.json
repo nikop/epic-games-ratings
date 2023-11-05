@@ -3401,9 +3401,9 @@
       "ID": "achievement_62",
       "SetID": "d252ncf",
       "Name": "Head Hunter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_63",
@@ -3741,8 +3741,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:05:06.8935065+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:05:07.0738115+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:03:03.4932379+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:05:06.8937573+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:03:03.6936387+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:05:07.0740212+00:00"
 }

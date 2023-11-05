@@ -6,52 +6,52 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iron Chef | 190.00% | ~397 |
-| Adept Assembler | 185.00% | ~387 |
-| Greeno-B-Gone | 104.00% | ~217 |
-| Your Especially Earned Trajectory | 79.00% | ~165 |
-| Can We Keep It? | 49.00% | ~102 |
-| No Mountain Wide Enough | 47.00% | ~98 |
-| On that Grindset | 38.00% | ~79 |
-| My Time Mansion | 36.00% | ~75 |
-| Happier-est Place on Earth | 29.00% | ~61 |
-| Yakmel Whisperer | 28.00% | ~59 |
-| You Don't Win Friends With Salad | 27.00% | ~56 |
-| Anti-Santa | 26.00% | ~54 |
-| Call Me Fishmael | 26.00% | ~54 |
-| Mole Masher | 25.00% | ~52 |
-| Financially Secure | 24.00% | ~50 |
-| Pack Mule | 23.00% | ~48 |
-| Knowledge is Power | 22.00% | ~46 |
-| Finishing Touches | 22.00% | ~46 |
-| Better Late than Never | 22.00% | ~46 |
-| I Do! | 22.00% | ~46 |
-| Diamonds are Forever | 22.00% | ~46 |
-| Officially Official | 19.00% | ~40 |
-| Jewel of the Eufaula | 18.00% | ~38 |
+| Iron Chef | 195.00% | ~400 |
+| Adept Assembler | 191.00% | ~392 |
+| Greeno-B-Gone | 106.00% | ~217 |
+| Your Especially Earned Trajectory | 81.00% | ~166 |
+| Can We Keep It? | 50.00% | ~102 |
+| No Mountain Wide Enough | 48.00% | ~98 |
+| On that Grindset | 40.00% | ~82 |
+| My Time Mansion | 37.00% | ~76 |
+| Happier-est Place on Earth | 29.00% | ~59 |
+| Yakmel Whisperer | 29.00% | ~59 |
+| You Don't Win Friends With Salad | 27.00% | ~55 |
+| Anti-Santa | 26.00% | ~53 |
+| Mole Masher | 26.00% | ~53 |
+| Call Me Fishmael | 26.00% | ~53 |
+| Financially Secure | 25.00% | ~51 |
+| Better Late than Never | 24.00% | ~49 |
+| Knowledge is Power | 23.00% | ~47 |
+| Pack Mule | 23.00% | ~47 |
+| Finishing Touches | 23.00% | ~47 |
+| I Do! | 22.00% | ~45 |
+| Diamonds are Forever | 22.00% | ~45 |
+| Officially Official | 19.00% | ~39 |
+| Jewel of the Eufaula | 18.00% | ~37 |
+| What Plants Crave | 16.00% | ~33 |
 | Got Served | 16.00% | ~33 |
-| What Plants Crave | 15.00% | ~31 |
+| Panda-kin | 14.00% | ~29 |
 | Big Game Hunter | 14.00% | ~29 |
-| Panda-kin | 13.00% | ~27 |
-| First Love | 13.00% | ~27 |
-| Chatterbox | 12.00% | ~25 |
-| Unboxing | 12.00% | ~25 |
+| First Love | 14.00% | ~29 |
+| Chatterbox | 13.00% | ~27 |
+| Unboxing | 13.00% | ~27 |
 | He Can Spin A Yarn... | 11.00% | ~23 |
 | One of the Cool Kids | 11.00% | ~23 |
-| Jack of All Trades | 8.00% | ~17 |
-| Bridging the Gap | 7.00% | ~15 |
-| Martle's Dream | 7.00% | ~15 |
-| Lifeline Pipeline | 7.00% | ~15 |
-| Cardistry | 7.00% | ~15 |
-| Who Ya Gonna Call...? | 7.00% | ~15 |
-| Newton | 7.00% | ~15 |
-| Elementary, My Dear | 6.00% | ~13 |
-| Just What I Always Wanted! | 6.00% | ~13 |
-| Do Your Part | 6.00% | ~13 |
+| Jack of All Trades | 8.00% | ~16 |
+| Newton | 8.00% | ~16 |
+| Bridging the Gap | 7.00% | ~14 |
+| Martle's Dream | 7.00% | ~14 |
+| Lifeline Pipeline | 7.00% | ~14 |
+| Cardistry | 7.00% | ~14 |
+| Who Ya Gonna Call...? | 7.00% | ~14 |
+| Elementary, My Dear | 6.00% | ~12 |
+| Just What I Always Wanted! | 6.00% | ~12 |
+| Do Your Part | 6.00% | ~12 |
+| Waste Not Want Not | 6.00% | ~12 |
 | Commissions, commissions...! | 5.00% | ~10 |
 | Pro Gamer | 5.00% | ~10 |
 | Santa In Training | 5.00% | ~10 |
-| Waste Not Want Not | 5.00% | ~10 |
 | Time Flies | 4.00% | ~8 |
 | Kind of a Big Deal | 4.00% | ~8 |
 | It's High Noon... | 3.00% | ~6 |
@@ -67,8 +67,8 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 356)  
-Completed: 0 (0.00%) (Ranked 342)  
+Progressed: 205 (Ranked 357)  
+Completed: 0 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

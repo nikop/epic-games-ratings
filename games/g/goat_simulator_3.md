@@ -5,16 +5,16 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~227,312 |
-| Private Club | 74.00% | ~184,847 |
-| Rogue Guild | 65.00% | ~162,365 |
-| I Watched the Intro | 57.00% | ~142,382 |
-| Covert Consortium | 55.00% | ~137,386 |
-| Goat Queen | 53.00% | ~132,390 |
-| Reach the Stratosphere | 50.00% | ~124,896 |
+| Forgotten Sorority | 91.00% | ~227,313 |
+| Private Club | 74.00% | ~184,848 |
+| Rogue Guild | 65.00% | ~162,366 |
+| I Watched the Intro | 57.00% | ~142,383 |
+| Covert Consortium | 55.00% | ~137,387 |
+| Goat Queen | 53.00% | ~132,391 |
+| Reach the Stratosphere | 50.00% | ~124,897 |
 | Synchronization Complete | 47.00% | ~117,403 |
 | Secret Society | 45.00% | ~112,407 |
-| Shadow Syndicate | 38.00% | ~94,921 |
+| Shadow Syndicate | 38.00% | ~94,922 |
 | What a Waste of Money | 33.00% | ~82,432 |
 | New Goat Order | 30.00% | ~74,938 |
 | Don't touch the servers | 28.00% | ~69,942 |
@@ -29,8 +29,8 @@ Rating: 4.84 (Ranked 50)
 | Black Market | 14.00% | ~34,971 |
 | 401(K.O.) | 14.00% | ~34,971 |
 | Car Cave | 12.00% | ~29,975 |
-| Club Mohair | 8.00% | ~19,983 |
-| A Center for Ants? | 8.00% | ~19,983 |
+| Club Mohair | 8.00% | ~19,984 |
+| A Center for Ants? | 8.00% | ~19,984 |
 | French Fika | 7.00% | ~17,486 |
 | Nasty! | 5.00% | ~12,490 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,992 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,499 |
 | G.O.A.T | 0.30% | ~749 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,793 (Ranked 57)  
+Progressed: 249,794 (Ranked 57)  
 Completed: 871 (0.35%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 871 (0.35%) (Ranked 214)
 | 2023-11-02 | 249,529 | 869 |
 | 2023-11-03 | 249,647 | 871 |
 | 2023-11-04 | 249,783 | 871 |
-| 2023-11-05 | 249,793 | 871 |
+| 2023-11-05 | 249,794 | 871 |
 ## Awards
 Max (Great for Beginners): 448  (Ranked 212)  
 Sum: 3,750 (Ranked 158)  

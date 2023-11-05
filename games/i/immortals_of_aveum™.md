@@ -18,7 +18,7 @@ Rating: 4.00 (Ranked 983)
 | Beggars Would Ride | 30.00% | ~46 |
 | Control is an Illusion | 29.00% | ~45 |
 | Socialite | 27.00% | ~42 |
-| The Means to Save It | 24.00% | ~37 |
+| The Means to Save It | 25.00% | ~39 |
 | Resilience to Sin | 21.00% | ~33 |
 | A Familiar Nest | 21.00% | ~33 |
 | Periapt Alizarin | 20.00% | ~31 |
@@ -26,8 +26,8 @@ Rating: 4.00 (Ranked 983)
 | Armsman | 17.00% | ~26 |
 | A Perfect Cycle | 16.00% | ~25 |
 | Recruit | 15.00% | ~23 |
+| Lights Army | 11.00% | ~17 |
 | Good Boy | 11.00% | ~17 |
-| Lights Army | 10.00% | ~16 |
 | Periapt Cerulean | 10.00% | ~16 |
 | Periapt Viridian | 8.00% | ~12 |
 | Shroudfane Explorer | 8.00% | ~12 |

@@ -10,8 +10,8 @@
 | Budding Conjuror | 78.00% | ~175 |
 | Man-Machine Master | 71.00% | ~159 |
 | Mountain Splitter | 68.00% | ~152 |
+| Memory Rouser | 67.00% | ~150 |
 | Fusion Conjuror | 66.00% | ~148 |
-| Memory Rouser | 66.00% | ~148 |
 | Charmed by the Hunt | 66.00% | ~148 |
 | Subsistence Skills | 63.00% | ~141 |
 | Kemono Hunter | 60.00% | ~134 |
@@ -42,7 +42,7 @@
 | Threaded Harmony | 25.00% | ~56 |
 | Karakuri Fortress | 23.00% | ~52 |
 | Jack of All Trades | 23.00% | ~52 |
-| Quintessence of Form | 22.00% | ~49 |
+| Quintessence of Form | 23.00% | ~52 |
 | Haven Hunter | 21.00% | ~47 |
 | Volatile Vocation | 20.00% | ~45 |
 | Tender Touch | 20.00% | ~45 |

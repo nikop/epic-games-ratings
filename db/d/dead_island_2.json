@@ -6129,9 +6129,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712769,
+  "EOS_Progressed": 712792,
   "EOS_Completed": 2328,
-  "EOS_NewPlayers": 5781,
+  "EOS_NewPlayers": 5774,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28764,6 +28764,11 @@
       "Time": "2023-11-05T03:05:50.2845056+00:00",
       "NumProgressed": 712769,
       "NumCompleted": 2328
+    },
+    {
+      "Time": "2023-11-05T04:05:51.1156567+00:00",
+      "NumProgressed": 712792,
+      "NumCompleted": 2328
     }
   ],
   "TotalAchievements": 51,
@@ -29109,9 +29114,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 2138
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29159,7 +29164,7 @@
       "Name": "Pork Chopped",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29182,13 +29187,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712769,
+      "Progressed": 712792,
       "Completed": 2328
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38311,
+      "Progressed": 38334,
       "Completed": 36428
     }
   ],
@@ -29196,8 +29201,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T02:22:41.8442406+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:05:50.2845048+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:05:51.115656+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:02:04.3719936+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:05:50.2846904+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:01:55.1969901+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:05:51.1158542+00:00"
 }

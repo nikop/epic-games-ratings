@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -1945,9 +1945,9 @@
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
       "SetID": "9002fpg",
       "Name": "barely keeping it together",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_COMPLETE_NO_DAMAGE",
@@ -2145,8 +2145,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:08:19.9028917+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:08:16.9917205+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.7350139+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:01:41.9486859+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:08:19.9029456+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:01:33.6273238+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:08:16.9917687+00:00"
 }

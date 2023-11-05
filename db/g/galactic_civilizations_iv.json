@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 925,
   "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7219,
+  "EOS_Progressed": 7220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8195,6 +8195,11 @@
       "Time": "2023-11-05T03:06:12.8701526+00:00",
       "NumProgressed": 7219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T04:06:10.7600429+00:00",
+      "NumProgressed": 7220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8422,7 +8427,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "Play_1000_Hours",
@@ -8694,7 +8699,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8758,7 +8763,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "Win_Quickly",
@@ -8781,15 +8786,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7219,
+      "Progressed": 7220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:06:12.8701519+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:06:10.7600424+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:01:35.0915887+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:06:12.8702743+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:01:26.9520738+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:06:10.7601736+00:00"
 }

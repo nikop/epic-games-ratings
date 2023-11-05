@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4419,9 +4419,9 @@
       "Count": 482
     }
   ],
-  "EOS_Progressed": 89562,
+  "EOS_Progressed": 89563,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24049,6 +24049,11 @@
       "Time": "2023-11-05T01:55:46.14025+00:00",
       "NumProgressed": 89562,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-05T04:09:19.2839498+00:00",
+      "NumProgressed": 89563,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 41,
@@ -24146,9 +24151,9 @@
       "ID": "ACH_0050",
       "SetID": "3kam13l",
       "Name": "Foo Finder",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_0060",
@@ -24276,7 +24281,7 @@
       "Name": "Case Closed",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH_0420",
@@ -24387,13 +24392,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89562,
+      "Progressed": 89563,
       "Completed": 54
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17909,
+      "Progressed": 17910,
       "Completed": 15558
     }
   ],
@@ -24401,8 +24406,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-05T02:19:13.12284+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:09:22.6669915+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:09:19.2839492+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-05T02:58:37.7092913+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:09:22.6671766+00:00"
+  "LastUpdate_Ratings": "2023-11-05T03:58:30.1103076+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:09:19.284143+00:00"
 }

@@ -9,16 +9,16 @@
 | A piece of the story | 56.00% | ~29 |
 | Do what you have to | 38.00% | ~20 |
 | The artist’s impression | 37.00% | ~19 |
-| Scraps of love | 33.00% | ~17 |
-| It's covered up for a reason | 31.00% | ~16 |
+| Scraps of love | 35.00% | ~18 |
+| It's covered up for a reason | 33.00% | ~17 |
 | Refuse to look | 31.00% | ~16 |
 | Sign of weakness | 29.00% | ~15 |
-| Finished it | 25.00% | ~13 |
+| Finished it | 27.00% | ~14 |
 | Face your fears | 15.00% | ~8 |
-| First steps | 12.00% | ~6 |
+| First steps | 13.00% | ~7 |
+| Breaking free | 12.00% | ~6 |
 | Playtime | 12.00% | ~6 |
 | Tough conversation | 12.00% | ~6 |
-| Breaking free | 10.00% | ~5 |
 | The tragedy unfolds | 10.00% | ~5 |
 | True Reflection | 10.00% | ~5 |
 | A Slice of Life | 8.00% | ~4 |
@@ -58,7 +58,7 @@
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52 (Ranked 459)  
-Completed: 0 (0.00%) (Ranked 342)  
+Completed: 0 (0.00%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

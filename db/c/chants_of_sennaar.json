@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.22,
+  "EOS_Completed_Percentage": 6.21,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1890,6 +1890,11 @@
       "Time": "2023-11-05T01:54:14.6990039+00:00",
       "NumProgressed": 434,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T04:08:49.2996177+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1915,17 +1920,17 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1933,15 +1938,15 @@
       "Name": "A good beginning",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1949,7 +1954,7 @@
       "Name": "Open door",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "META_RESULT_1-3",
@@ -1957,7 +1962,7 @@
       "Name": "Free at last",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_1-4",
@@ -1965,7 +1970,7 @@
       "Name": "Feels like springtime",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "META_RESULT_2-3",
@@ -1989,7 +1994,7 @@
       "Name": "A Link to the Past",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -1997,7 +2002,7 @@
       "Name": "Alchemists Express",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2019,9 +2024,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2035,9 +2040,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2069,7 +2074,7 @@
       "Name": "The great escape",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "PROGRESS_N3",
@@ -2093,21 +2098,21 @@
       "Name": "One last step",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T03:08:52.5073839+00:00",
+  "LastChanged_Achievements": "2023-11-05T04:08:49.2996171+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T03:02:48.9444172+00:00",
-  "LastUpdate_Achievements": "2023-11-05T03:08:52.5074204+00:00"
+  "LastUpdate_Ratings": "2023-11-05T04:01:59.226509+00:00",
+  "LastUpdate_Achievements": "2023-11-05T04:08:49.2996577+00:00"
 }

@@ -29,8 +29,8 @@
 | Merciless | 45.00% | ~441 |
 | Krogan Ally | 44.00% | ~431 |
 | Missing in Action | 43.00% | ~421 |
+| Head Hunter | 43.00% | ~421 |
 | Very Elusive | 42.00% | ~412 |
-| Head Hunter | 42.00% | ~412 |
 | Sentinel Ally | 41.00% | ~402 |
 | Operative | 41.00% | ~402 |
 | Scholar | 41.00% | ~402 |

@@ -22,21 +22,21 @@
 | Rhythm Of Willump | 42.00% | ~181 |
 | True Legends | 40.00% | ~172 |
 | The Relentless Storm | 38.00% | ~163 |
-| A Tragic Reminder | 36.00% | ~155 |
+| A Tragic Reminder | 37.00% | ~159 |
 | The Finisher | 36.00% | ~155 |
 | 3000 Year Blackout | 34.00% | ~146 |
 | On The Rocks | 33.00% | ~142 |
 | Snowy Poro | 32.00% | ~138 |
 | Never Gets Old | 32.00% | ~138 |
 | So Close | 30.00% | ~129 |
+| You Get Used To It | 30.00% | ~129 |
 | Bullseye | 30.00% | ~129 |
-| You Get Used To It | 29.00% | ~125 |
 | Family | 27.00% | ~116 |
 | Biggest Snowball Ever | 27.00% | ~116 |
 | Vertical Power | 27.00% | ~116 |
 | Boosted! | 27.00% | ~116 |
+| Deadliest and Biggest Snowball Ever! | 27.00% | ~116 |
 | Freeze The Ice Witch | 26.00% | ~112 |
-| Deadliest and Biggest Snowball Ever! | 26.00% | ~112 |
 | It Is Not Over | 25.00% | ~108 |
 | Yummy | 12.00% | ~52 |
 | One From The Heart | 12.00% | ~52 |

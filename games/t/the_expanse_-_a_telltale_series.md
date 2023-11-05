@@ -22,9 +22,9 @@ Rating: 4.55 (Ranked 500)
 | Khan's Revenge | 1.00% | ~147 |
 | Safe Cracker | 1.00% | ~6 |
 | Zen Master | 1.00% | ~6 |
+| Madame Undersecretary | 1.00% | ~6 |
 | Thorston Mayer | 0.90% | ~132 |
 | Keep Arjun in Check | 0.90% | ~5 |
-| Madame Undersecretary | 0.90% | ~5 |
 | Bottoms up! | 0.70% | ~103 |
 | Miraculous Maya | 0.70% | ~103 |
 | Doctor Approved | 0.60% | ~88 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,651 (Ranked 146)  
+Progressed: 14,653 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 32 (0.22%) (Ranked 234)
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
-| 2023-11-05 | 14,651 | 32 |
+| 2023-11-05 | 14,653 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
