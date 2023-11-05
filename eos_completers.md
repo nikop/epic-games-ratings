@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.23% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 38.22% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -70,10 +70,10 @@
 | 68 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.71% |
 | 69 | [JARS](games/j/jars.md) | 4.65% |
 | 70 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.57% |
-| 70 | [ZZT!](games/z/zzt!.md) | 4.57% |
+| 71 | [ZZT!](games/z/zzt!.md) | 4.56% |
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 73 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.47% |
-| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.40% |
+| 74 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.41% |
 | 75 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 76 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.24% |
 | 77 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.14% |
@@ -95,11 +95,11 @@
 | 93 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.07% |
 | 93 | [The Complex](games/t/the_complex.md) | 3.07% |
 | 95 | [HordeCore](games/h/hordecore.md) | 3.05% |
-| 96 | [Without Escape](games/w/without_escape.md) | 2.94% |
-| 97 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 98 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
-| 99 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
-| 100 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.79% |
+| 96 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.96% |
+| 97 | [Without Escape](games/w/without_escape.md) | 2.94% |
+| 98 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 99 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
+| 100 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 101 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
 | 102 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.74% |
 | 103 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.72% |
@@ -165,9 +165,9 @@
 | 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
 | 164 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.88% |
 | 165 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
-| 166 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.84% |
 | 166 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
 | 166 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
+| 168 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.83% |
 | 169 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 170 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 171 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
