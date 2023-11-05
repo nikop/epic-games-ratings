@@ -1347,9 +1347,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5794,
+  "EOS_Progressed": 5795,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12267,6 +12267,11 @@
       "Time": "2023-11-05T07:09:18.4882589+00:00",
       "NumProgressed": 5794,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-05T12:08:56.4016897+00:00",
+      "NumProgressed": 5795,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12302,7 +12307,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -12358,7 +12363,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -12374,7 +12379,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12390,7 +12395,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -12534,7 +12539,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2724
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12597,15 +12602,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5794,
+      "Progressed": 5795,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-03T19:58:07.8489681+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:09:13.8655091+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:08:56.4016895+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.1282192+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:58:48.3373197+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:09:13.8656805+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:58:47.1338881+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:08:56.4017656+00:00"
 }

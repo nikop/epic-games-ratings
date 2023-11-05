@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 50.00% | ~60 |
+| Break Out | 52.00% | ~63 |
 | Trinity | 28.00% | ~34 |
-| Find Allies | 21.00% | ~25 |
-| Fashion Victim | 21.00% | ~25 |
-| The Collector | 21.00% | ~25 |
+| The Collector | 22.00% | ~27 |
+| Find Allies | 20.00% | ~24 |
+| Adventurer | 20.00% | ~24 |
 | Shatter Them All | 20.00% | ~24 |
+| Fashion Victim | 20.00% | ~24 |
+| Scholar | 19.00% | ~23 |
+| I Found It | 19.00% | ~23 |
 | A Taste of Wrath | 18.00% | ~22 |
-| Adventurer | 18.00% | ~22 |
-| Scholar | 18.00% | ~22 |
-| I Found It | 18.00% | ~22 |
 | Powerful Allies | 17.00% | ~21 |
-| Geared Up | 16.00% | ~19 |
+| Geared Up | 16.00% | ~20 |
+| Tributes of Caladrias | 15.00% | ~18 |
 | Stone Collection | 15.00% | ~18 |
-| Tributes of Caladrias | 13.00% | ~16 |
-| Essence Blow | 9.00% | ~11 |
-| Airborne | 7.00% | ~8 |
+| Essence Blow | 10.00% | ~12 |
+| Airborne | 7.00% | ~9 |
+| Alchemist | 7.00% | ~9 |
+| Miner | 7.00% | ~9 |
 | The Mentor | 6.00% | ~7 |
 | Big Bazar | 6.00% | ~7 |
-| Alchemist | 6.00% | ~7 |
-| Miner | 6.00% | ~7 |
 | Calm before the Storm | 5.00% | ~6 |
 | To Battle | 4.00% | ~5 |
 | Godslayer | 4.00% | ~5 |
@@ -32,8 +32,8 @@
 | Clear Sight | 2.00% | ~2 |
 | Slayer | 2.00% | ~2 |
 | Fine Feathers Make Fine Birds | 2.00% | ~2 |
+| False God | 2.00% | ~2 |
 | Shardbearer | 0.80% | ~1 |
-| False God | 0.80% | ~1 |
 | Forgemaster | 0.00% | ~0 |
 | Shatterer | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 393)  
-Completed: 1 (0.83%) (Ranked 169)  
+Progressed: 122 (Ranked 393)  
+Completed: 1 (0.82%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,4 +70,4 @@ Completed: 1 (0.83%) (Ranked 169)
 | 2023-11-02 | 76 | 1 |
 | 2023-11-03 | 95 | 1 |
 | 2023-11-04 | 115 | 1 |
-| 2023-11-05 | 121 | 1 |
+| 2023-11-05 | 122 | 1 |

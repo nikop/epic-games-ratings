@@ -7,8 +7,8 @@ Rating: 4.00 (Ranked 983)
 | ---- | ---------- | ----- |
 | Unforeseen | 87.00% | ~136 |
 | Battlefields Have Memories | 85.00% | ~133 |
-| Enlisted | 81.00% | ~126 |
-| Maybe Engage a Little | 76.00% | ~119 |
+| Enlisted | 82.00% | ~128 |
+| Maybe Engage a Little | 77.00% | ~120 |
 | No More Names | 62.00% | ~97 |
 | Initiate | 54.00% | ~84 |
 | Thrada-Kul | 51.00% | ~80 |
@@ -25,13 +25,13 @@ Rating: 4.00 (Ranked 983)
 | Geas Aristeya | 20.00% | ~31 |
 | Armsman | 18.00% | ~28 |
 | A Perfect Cycle | 17.00% | ~27 |
-| Recruit | 15.00% | ~23 |
+| Recruit | 16.00% | ~25 |
 | Lights Army | 12.00% | ~19 |
 | Good Boy | 12.00% | ~19 |
 | Periapt Cerulean | 10.00% | ~16 |
 | Periapt Viridian | 8.00% | ~12 |
 | Shroudfane Explorer | 8.00% | ~12 |
-| Best Dressed | 6.00% | ~9 |
+| Best Dressed | 7.00% | ~11 |
 | Armaments Azure | 6.00% | ~9 |
 | Armaments Gules | 6.00% | ~9 |
 | Scholar | 5.00% | ~8 |

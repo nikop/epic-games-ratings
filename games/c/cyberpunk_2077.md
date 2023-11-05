@@ -26,6 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.20% | ~1,791 |
 | The World | 0.20% | ~1,791 |
 | True Warrior | 0.20% | ~1,791 |
+| Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
 | Spin Doctor | 0.20% | ~48 |
 | City Lights | 0.10% | ~895 |
@@ -52,7 +53,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.10% | ~895 |
 | The Jungle | 0.10% | ~895 |
 | Two Heads, One Bullet | 0.10% | ~895 |
-| Judy vs Night City | 0.10% | ~895 |
 | It's Elementary | 0.10% | ~895 |
 | The APB is Not Enough | 0.10% | ~24 |
 | Judgement Day | 0.10% | ~24 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,334 (Ranked 15)  
-Completed: 2,745 (0.31%) (Ranked 221)  
+Progressed: 895,346 (Ranked 15)  
+Completed: 2,746 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 2,745 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,334 | 2,745 |
+| 2023-11-05 | 895,346 | 2,746 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 342,858 (Ranked 10)  

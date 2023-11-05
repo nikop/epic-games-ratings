@@ -14,11 +14,11 @@ Rating: 4.50 (Ranked 582)
 | Solo Capture | 4.00% | ~1,207 |
 | Swift Rift Removers | 4.00% | ~1,207 |
 | Teamwork | 4.00% | ~1,207 |
-| Clutch Capture | 3.00% | ~905 |
-| Cultured | 3.00% | ~905 |
-| There you are! | 3.00% | ~905 |
-| Vaporous Expansion | 3.00% | ~905 |
-| Whoopsie | 3.00% | ~905 |
+| Clutch Capture | 3.00% | ~906 |
+| Cultured | 3.00% | ~906 |
+| There you are! | 3.00% | ~906 |
+| Vaporous Expansion | 3.00% | ~906 |
+| Whoopsie | 3.00% | ~906 |
 | Animated | 2.00% | ~604 |
 | Back Off | 2.00% | ~604 |
 | We have the best insurance | 2.00% | ~604 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 582)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,181 (Ranked 122)  
+Progressed: 30,187 (Ranked 122)  
 Completed: 65 (0.22%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 65 (0.22%) (Ranked 235)
 | 2023-11-02 | 29,764 | 65 |
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
-| 2023-11-05 | 30,181 | 65 |
+| 2023-11-05 | 30,187 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
-Sum: 2,695 (Ranked 180)  
+Sum: 2,696 (Ranked 180)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +269,7 @@ Diff (max vs sum): 66
 | This game has Amazing Storytelling | 273 |
 | This game is Highly Recommended | 270 |
 | This game has Competitive Players | 265 |
-| This game is Extremely Fun | 261 |
+| This game is Extremely Fun | 262 |
 | This game is Relaxing | 260 |
 | This game has Quickly Understood Controls | 248 |
 | This game has Amazing Characters | 245 |
@@ -480,4 +480,4 @@ Diff (max vs sum): 66
 | 2023-11-02 | 4.50 | 298 | 2,663 |
 | 2023-11-03 | 4.50 | 300 | 2,676 |
 | 2023-11-04 | 4.50 | 302 | 2,693 |
-| 2023-11-05 | 4.50 | 302 | 2,695 |
+| 2023-11-05 | 4.50 | 302 | 2,696 |

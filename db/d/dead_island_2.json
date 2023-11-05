@@ -6129,9 +6129,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712974,
+  "EOS_Progressed": 713003,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 5702,
+  "EOS_NewPlayers": 5680,
   "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28804,6 +28804,11 @@
       "Time": "2023-11-05T11:04:34.6462568+00:00",
       "NumProgressed": 712974,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-11-05T12:04:45.5373977+00:00",
+      "NumProgressed": 713003,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 51,
@@ -28973,9 +28978,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1426
+      "UsersEstimate": 2139
     },
     {
       "ID": "ach_impressive_aim",
@@ -29197,9 +29202,9 @@
       "ID": "ach_pork_chops",
       "SetID": "344c43k",
       "Name": "Pork Chopped",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 347
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29222,13 +29227,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712974,
+      "Progressed": 713003,
       "Completed": 2331
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38516,
+      "Progressed": 38545,
       "Completed": 36434
     }
   ],
@@ -29236,8 +29241,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T02:22:41.8442406+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:04:34.646256+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:04:45.5373975+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
   "LastUpdate_Ratings": "2023-11-05T11:00:24.9841439+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:04:34.6465904+00:00"
+  "LastUpdate_Achievements": "2023-11-05T12:04:45.5375475+00:00"
 }

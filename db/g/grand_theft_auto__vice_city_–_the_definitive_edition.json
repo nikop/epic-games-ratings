@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -791,6 +791,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 100,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-11-05T12:02:33.9873794+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 100,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
@@ -805,9 +811,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 10855,
+  "EOS_Progressed": 10857,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12320,6 +12326,11 @@
       "Time": "2023-11-05T11:02:54.856844+00:00",
       "NumProgressed": 10855,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-05T12:02:51.942822+00:00",
+      "NumProgressed": 10857,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12435,7 +12446,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4560
     },
     {
       "ID": "ACH15",
@@ -12491,7 +12502,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "ACH22",
@@ -12507,7 +12518,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "ACH24",
@@ -12515,7 +12526,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH25",
@@ -12523,7 +12534,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "ACH26",
@@ -12602,16 +12613,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10855,
+      "Progressed": 10857,
       "Completed": 64
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-11-04T12:02:58.4424946+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:02:54.8568433+00:00",
+  "LastChanged": "2023-11-05T12:02:33.9873792+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:02:51.9428218+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:02:41.033922+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:02:54.8571042+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:02:33.9873797+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:02:51.942879+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~757 |
-| Play a Single Player Game | 5.00% | ~757 |
+| Settler | 5.00% | ~758 |
+| Play a Single Player Game | 5.00% | ~758 |
 | Explorer | 4.00% | ~606 |
 | Friendly Family | 4.00% | ~606 |
 | Able | 3.00% | ~454 |
@@ -65,37 +65,37 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 2.00% | ~303 |
 | Win a Single Player Game | 2.00% | ~303 |
 | Kushite Paganism | 2.00% | ~303 |
-| Hanging Gardens in Babylon | 1.00% | ~151 |
-| Beloved | 1.00% | ~151 |
-| Conqueror | 1.00% | ~151 |
-| Intercessor | 1.00% | ~151 |
-| Invincible | 1.00% | ~151 |
-| Lion | 1.00% | ~151 |
-| Mighty | 1.00% | ~151 |
-| Victorious | 1.00% | ~151 |
-| Good Difficulty | 1.00% | ~151 |
-| Champions | 1.00% | ~151 |
-| Patrons | 1.00% | ~151 |
-| Riders | 1.00% | ~151 |
-| Sages | 1.00% | ~151 |
-| Statesmen | 1.00% | ~151 |
-| Traders | 1.00% | ~151 |
-| Acropolis | 1.00% | ~151 |
-| Circus Maximus | 1.00% | ~151 |
-| Temple of Solomon | 1.00% | ~151 |
-| Mausoleum | 1.00% | ~151 |
-| Learn to Play 3 | 1.00% | ~151 |
-| Greece | 1.00% | ~151 |
-| Power to the People | 1.00% | ~151 |
-| Persian Paganism | 1.00% | ~151 |
-| Building Wonders | 1.00% | ~151 |
-| Economic Reform | 1.00% | ~151 |
-| Legalism | 1.00% | ~151 |
-| Mythology | 1.00% | ~151 |
-| Double Victory | 1.00% | ~151 |
-| Points Victory | 1.00% | ~151 |
-| The Clergy | 1.00% | ~151 |
-| Kushite Pyramids | 1.00% | ~151 |
+| Hanging Gardens in Babylon | 1.00% | ~152 |
+| Beloved | 1.00% | ~152 |
+| Conqueror | 1.00% | ~152 |
+| Intercessor | 1.00% | ~152 |
+| Invincible | 1.00% | ~152 |
+| Lion | 1.00% | ~152 |
+| Mighty | 1.00% | ~152 |
+| Victorious | 1.00% | ~152 |
+| Good Difficulty | 1.00% | ~152 |
+| Champions | 1.00% | ~152 |
+| Patrons | 1.00% | ~152 |
+| Riders | 1.00% | ~152 |
+| Sages | 1.00% | ~152 |
+| Statesmen | 1.00% | ~152 |
+| Traders | 1.00% | ~152 |
+| Acropolis | 1.00% | ~152 |
+| Circus Maximus | 1.00% | ~152 |
+| Temple of Solomon | 1.00% | ~152 |
+| Mausoleum | 1.00% | ~152 |
+| Learn to Play 3 | 1.00% | ~152 |
+| Greece | 1.00% | ~152 |
+| Power to the People | 1.00% | ~152 |
+| Persian Paganism | 1.00% | ~152 |
+| Building Wonders | 1.00% | ~152 |
+| Economic Reform | 1.00% | ~152 |
+| Legalism | 1.00% | ~152 |
+| Mythology | 1.00% | ~152 |
+| Double Victory | 1.00% | ~152 |
+| Points Victory | 1.00% | ~152 |
+| The Clergy | 1.00% | ~152 |
+| Kushite Pyramids | 1.00% | ~152 |
 | Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Hittite Iron | 0.90% | ~136 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,147 (Ranked 145)  
+Progressed: 15,150 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,147 | 5 |
+| 2023-11-05 | 15,150 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2883,
+  "EOS_Progressed": 2884,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3976,6 +3976,11 @@
       "Time": "2023-11-05T05:05:50.0278528+00:00",
       "NumProgressed": 2883,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T12:04:18.4030748+00:00",
+      "NumProgressed": 2884,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4019,7 +4024,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "REUNION",
@@ -4035,7 +4040,7 @@
       "Name": "Sliders",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "SNOW_RUINS",
@@ -4059,7 +4064,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "THE_END",
@@ -4090,7 +4095,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2883,
+      "Progressed": 2884,
       "Completed": 6
     }
   ],
@@ -4098,8 +4103,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:04:11.0067687+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:04:18.4030744+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:37.9613614+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:58:10.6244924+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:04:11.0068278+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:58:02.6836343+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:04:18.4031023+00:00"
 }

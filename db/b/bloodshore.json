@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -380,6 +380,11 @@
       "Time": "2023-11-04T19:08:02.6815529+00:00",
       "NumProgressed": 205,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T12:05:14.2314153+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 17,
@@ -407,7 +412,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "deathlooper",
@@ -469,17 +474,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "thats_my_boy",
@@ -511,7 +516,7 @@
       "Name": "Um, ok...",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -526,7 +531,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 5
     }
   ],
@@ -534,8 +539,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:04:59.1667652+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:05:14.231415+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8040096+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:02:45.8745055+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:04:59.1667996+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:02:39.8706563+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:05:14.2314254+00:00"
 }

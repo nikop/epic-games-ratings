@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 528,
+  "EOS_Progressed": 529,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-11-04T15:08:46.6777384+00:00",
       "NumProgressed": 528,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-05T12:08:58.6911878+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -880,7 +885,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "TROP006",
@@ -888,7 +893,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "TROP007",
@@ -904,7 +909,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "TROP009",
@@ -936,7 +941,7 @@
       "Name": "Never Give Up",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "TROP013",
@@ -944,7 +949,7 @@
       "Name": "Never Let Down",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "TROP014",
@@ -1008,7 +1013,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "TROP022",
@@ -1024,15 +1029,15 @@
       "Name": "Detox diet",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 153
     },
     {
       "ID": "TROP025",
@@ -1063,7 +1068,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 528,
+      "Progressed": 529,
       "Completed": 3
     }
   ],
@@ -1071,8 +1076,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:09:15.9237768+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:08:58.6911876+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:43.1871778+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:00:00.6554984+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:09:15.9238193+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:00:10.9766012+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:08:58.69122+00:00"
 }

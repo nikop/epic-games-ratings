@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.14,
+  "EOS_Completed_Percentage": 6.12,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1910,6 +1910,11 @@
       "Time": "2023-11-05T10:08:40.1886651+00:00",
       "NumProgressed": 440,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-05T12:02:50.0745746+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1943,9 +1948,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "META_FIRST_LINK",
@@ -1953,7 +1958,7 @@
       "Name": "A good beginning",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "META_HALF_LINK",
@@ -1961,7 +1966,7 @@
       "Name": "Half the way",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "META_RESULT_1-2",
@@ -1983,9 +1988,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2025,7 +2030,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2065,7 +2070,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2097,7 +2102,7 @@
       "Name": "A new dawn",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N4",
@@ -2113,21 +2118,21 @@
       "Name": "One last step",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:08:40.1886643+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:02:50.0745743+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:00:26.6103902+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:08:40.1886968+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:02:19.3773676+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:02:50.074599+00:00"
 }

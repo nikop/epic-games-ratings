@@ -14714,10 +14714,10 @@
       "Count": 12416
     }
   ],
-  "EOS_Progressed": 895334,
-  "EOS_Completed": 2745,
+  "EOS_Progressed": 895346,
+  "EOS_Completed": 2746,
   "EOS_NewPlayers": 941,
-  "EOS_NewCompleters": 14,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37219,6 +37219,11 @@
       "Time": "2023-11-05T11:05:47.4863035+00:00",
       "NumProgressed": 895334,
       "NumCompleted": 2745
+    },
+    {
+      "Time": "2023-11-05T12:06:08.173855+00:00",
+      "NumProgressed": 895346,
+      "NumCompleted": 2746
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37549,9 +37554,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 895
+      "UsersEstimate": 1791
     },
     {
       "ID": "VForVendetta",
@@ -37766,21 +37771,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895334,
-      "Completed": 2745
+      "Progressed": 895346,
+      "Completed": 2746
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23957,
-      "Completed": 10187
+      "Progressed": 23969,
+      "Completed": 10188
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-05T10:00:15.9257027+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:05:47.4863027+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:06:08.1738547+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:59:26.5316572+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:05:47.4865889+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:59:30.7430381+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:06:08.1739739+00:00"
 }

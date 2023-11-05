@@ -5,9 +5,9 @@
   "Ranking_Rating": 364,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1566,
+  "EOS_Progressed": 1567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3389,6 +3389,11 @@
       "Time": "2023-11-05T09:04:21.7065829+00:00",
       "NumProgressed": 1566,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T12:03:54.6505366+00:00",
+      "NumProgressed": 1567,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3398,9 +3403,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 407
     },
     {
       "ID": "Auditor",
@@ -3478,9 +3483,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 674
     },
     {
       "ID": "Everyone_is_here",
@@ -3510,9 +3515,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 642
     },
     {
       "ID": "Hard_Serpent",
@@ -3639,15 +3644,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1566,
+      "Progressed": 1567,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:03:50.0581339+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:03:54.6505363+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:57:15.1993286+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:03:50.0582047+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:57:00.0981307+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:03:54.6505682+00:00"
 }

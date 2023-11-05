@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -871,9 +871,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7112,
+  "EOS_Progressed": 7113,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6441,6 +6441,11 @@
       "Time": "2023-11-04T04:03:57.9342172+00:00",
       "NumProgressed": 7112,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-05T12:04:17.872549+00:00",
+      "NumProgressed": 7113,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6500,7 +6505,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6580,7 +6585,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -6636,7 +6641,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -6644,7 +6649,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6684,7 +6689,7 @@
       "Name": "Seeing Red",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -6724,7 +6729,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -6804,14 +6809,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3841
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7112,
+      "Progressed": 7113,
       "Completed": 9
     }
   ],
@@ -6819,8 +6824,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-04T20:00:49.9036999+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:04:10.3876533+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:04:17.8725488+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.5980871+00:00",
-  "LastUpdate_Ratings": "2023-11-05T11:00:28.5688158+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:04:10.3878019+00:00"
+  "LastUpdate_Ratings": "2023-11-05T12:02:21.4590305+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:04:17.8725903+00:00"
 }

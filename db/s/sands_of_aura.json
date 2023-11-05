@@ -2,9 +2,9 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 449,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -290,6 +290,11 @@
       "Time": "2023-11-04T20:05:46.8714717+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T12:05:50.0589629+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -404,9 +409,9 @@
       "ID": "COLLECT_ALL_WEAPON_HEADS",
       "SetID": "cm0d613",
       "Name": "Bladesmith",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -492,7 +497,7 @@
       "ID": "DEFEAT_BELFRY_SOLO",
       "SetID": "cm0d613",
       "Name": "Let Me Solo Them",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -540,7 +545,7 @@
       "ID": "EINAR_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Frigid Winds",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -702,7 +707,7 @@
       "Name": "Setting Sail",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -740,7 +745,7 @@
       "ID": "WILGRAM_TWINS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Twin Thorns",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -765,7 +770,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:05:31.6253413+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:05:50.0589627+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.0401446+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:59:38.778007+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:05:31.6254411+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:59:44.8597777+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:05:50.059007+00:00"
 }

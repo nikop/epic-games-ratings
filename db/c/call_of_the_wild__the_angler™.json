@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6348,
+  "EOS_Progressed": 6350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9442,6 +9442,11 @@
       "Time": "2023-11-05T11:08:46.2790863+00:00",
       "NumProgressed": 6348,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T12:08:25.5919567+00:00",
+      "NumProgressed": 6350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9477,7 +9482,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -9485,7 +9490,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -9563,9 +9568,9 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -9611,9 +9616,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -9772,13 +9777,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6348,
+      "Progressed": 6350,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5720,
+      "Progressed": 5722,
       "Completed": 113
     }
   ],
@@ -9786,8 +9791,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-05T11:08:46.2790856+00:00",
+  "LastChanged_Achievements": "2023-11-05T12:08:25.5919565+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:58:27.2665959+00:00",
-  "LastUpdate_Achievements": "2023-11-05T11:08:46.2792415+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:58:22.1653805+00:00",
+  "LastUpdate_Achievements": "2023-11-05T12:08:25.5920066+00:00"
 }
