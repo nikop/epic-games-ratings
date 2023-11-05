@@ -14,7 +14,7 @@
 | Refuse to look | 33.00% | ~18 |
 | Sign of weakness | 31.00% | ~17 |
 | Finished it | 30.00% | ~16 |
-| Face your fears | 15.00% | ~8 |
+| Face your fears | 17.00% | ~9 |
 | First steps | 13.00% | ~7 |
 | Playtime | 13.00% | ~7 |
 | Tough conversation | 13.00% | ~7 |

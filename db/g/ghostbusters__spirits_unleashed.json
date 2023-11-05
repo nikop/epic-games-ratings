@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 582,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 122,
@@ -3075,9 +3075,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30260,
+  "EOS_Progressed": 30266,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1994,
+  "EOS_NewPlayers": 1958,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18010,6 +18010,11 @@
       "Time": "2023-11-05T19:06:00.1216451+00:00",
       "NumProgressed": 30260,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-05T20:08:42.6212144+00:00",
+      "NumProgressed": 30266,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18069,7 +18074,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "Collector",
@@ -18109,7 +18114,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "Dont_Need_These",
@@ -18157,7 +18162,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "GB_In_Training",
@@ -18309,7 +18314,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "Stunner",
@@ -18325,7 +18330,7 @@
       "Name": "Stylish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "Summoner",
@@ -18349,7 +18354,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "Teamwork",
@@ -18357,7 +18362,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "Terrifying",
@@ -18428,7 +18433,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30260,
+      "Progressed": 30266,
       "Completed": 65
     }
   ],
@@ -18436,8 +18441,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-05T11:57:54.826427+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:06:00.1216447+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:08:42.621214+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:58:11.4028833+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:06:00.1217487+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:00:23.0199088+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:08:42.6213196+00:00"
 }

@@ -6,7 +6,7 @@ Rating: 4.00 (Ranked 983)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 87.00% | ~140 |
-| Battlefields Have Memories | 83.00% | ~134 |
+| Battlefields Have Memories | 84.00% | ~135 |
 | Enlisted | 81.00% | ~130 |
 | Maybe Engage a Little | 76.00% | ~122 |
 | No More Names | 62.00% | ~100 |

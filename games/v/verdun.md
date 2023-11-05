@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,865 |
-| Worth it | 63.00% | ~39,468 |
-| Eagle Eye | 55.00% | ~34,456 |
-| Corpseman I | 40.00% | ~25,059 |
-| Blast fishing | 37.00% | ~23,179 |
-| Not alone | 32.00% | ~20,047 |
-| Headhunter I | 26.00% | ~16,288 |
-| Manual Labour I | 25.00% | ~15,662 |
-| Developers, Developers, Developers | 24.00% | ~15,035 |
-| Basic Training | 24.00% | ~15,035 |
-| Furchtlos und Treu | 13.00% | ~8,144 |
-| Gott Mit Uns | 12.00% | ~7,518 |
-| This We'll Defend! | 9.00% | ~5,638 |
-| Anker wirf! | 9.00% | ~5,638 |
-| Providentiea Memor | 9.00% | ~5,638 |
-| For King and Country | 9.00% | ~5,638 |
+| Setting an example | 78.00% | ~48,871 |
+| Worth it | 63.00% | ~39,473 |
+| Eagle Eye | 55.00% | ~34,460 |
+| Corpseman I | 40.00% | ~25,062 |
+| Blast fishing | 37.00% | ~23,182 |
+| Not alone | 32.00% | ~20,050 |
+| Headhunter I | 26.00% | ~16,290 |
+| Manual Labour I | 25.00% | ~15,664 |
+| Developers, Developers, Developers | 24.00% | ~15,037 |
+| Basic Training | 24.00% | ~15,037 |
+| Furchtlos und Treu | 13.00% | ~8,145 |
+| Gott Mit Uns | 12.00% | ~7,519 |
+| This We'll Defend! | 9.00% | ~5,639 |
+| Anker wirf! | 9.00% | ~5,639 |
+| Providentiea Memor | 9.00% | ~5,639 |
+| For King and Country | 9.00% | ~5,639 |
 | Battle hardened | 8.00% | ~5,012 |
-| Semper Fidelis! | 7.00% | ~4,385 |
-| Honneur et Patrie | 7.00% | ~4,385 |
-| In Treue Fest | 5.00% | ~3,132 |
-| Voor De Koning | 5.00% | ~3,132 |
-| Extreme Headhunter | 5.00% | ~3,132 |
+| Semper Fidelis! | 7.00% | ~4,386 |
+| Honneur et Patrie | 7.00% | ~4,386 |
+| In Treue Fest | 5.00% | ~3,133 |
+| Voor De Koning | 5.00% | ~3,133 |
+| Extreme Headhunter | 5.00% | ~3,133 |
 | Advance Australia | 4.00% | ~2,506 |
 | We Stand on Guard | 4.00% | ~2,506 |
 | Sidi Brahim | 4.00% | ~2,506 |
@@ -35,22 +35,22 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,506 |
 | There is no I in team | 4.00% | ~2,506 |
 | Corpseman II | 4.00% | ~2,506 |
-| Offense is the best defence | 3.00% | ~1,879 |
-| Veteran | 3.00% | ~1,879 |
-| Manual Labour II | 3.00% | ~1,879 |
-| In My Defens God Me Defend | 3.00% | ~1,879 |
-| Silver x100 | 3.00% | ~1,879 |
-| Impavidum Ferient Bella! | 3.00% | ~1,879 |
+| Offense is the best defence | 3.00% | ~1,880 |
+| Veteran | 3.00% | ~1,880 |
+| Manual Labour II | 3.00% | ~1,880 |
+| In My Defens God Me Defend | 3.00% | ~1,880 |
+| Silver x100 | 3.00% | ~1,880 |
+| Impavidum Ferient Bella! | 3.00% | ~1,880 |
 | Bronze x100 | 2.00% | ~1,253 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,253 |
-| Gold x100 | 1.00% | ~626 |
-| Hunting the Hun | 1.00% | ~626 |
-| #1 | 1.00% | ~626 |
-| Golden Headhunter | 1.00% | ~626 |
-| That's another one down! | 1.00% | ~626 |
-| Do you even die? | 1.00% | ~626 |
-| Headhunter II | 1.00% | ~626 |
-| Corpseman III | 1.00% | ~626 |
+| Gold x100 | 1.00% | ~627 |
+| Hunting the Hun | 1.00% | ~627 |
+| #1 | 1.00% | ~627 |
+| Golden Headhunter | 1.00% | ~627 |
+| That's another one down! | 1.00% | ~627 |
+| Do you even die? | 1.00% | ~627 |
+| Headhunter II | 1.00% | ~627 |
+| Corpseman III | 1.00% | ~627 |
 | Elite Player | 0.80% | ~501 |
 | Manual Labour III | 0.40% | ~251 |
 | Buddy | 0.30% | ~188 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,647 (Ranked 104)  
+Progressed: 62,655 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 4 (0.01%) (Ranked 320)
 | 2023-11-02 | 62,371 | 4 |
 | 2023-11-03 | 62,462 | 4 |
 | 2023-11-04 | 62,568 | 4 |
-| 2023-11-05 | 62,647 | 4 |
+| 2023-11-05 | 62,655 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 902 (Ranked 269)  

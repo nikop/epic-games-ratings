@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 483,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1343,18 +1343,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 593,
       "NumberOfAwardsMax": 375
+    },
+    {
+      "Time": "2023-11-05T19:59:28.7234107+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 594,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 593,
-  "NumberOfAwardsMax": 375,
+  "NumberOfAwards": 594,
+  "NumberOfAwardsMax": 376,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 375
+      "Count": 376
     },
     {
       "Text": "This game is Relaxing",
@@ -1411,9 +1417,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13523,
+  "EOS_Progressed": 13525,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -13961,6 +13967,11 @@
       "Time": "2023-11-05T19:08:32.074775+00:00",
       "NumProgressed": 13523,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-05T20:09:44.1589404+00:00",
+      "NumProgressed": 13525,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -13972,7 +13983,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10954
+      "UsersEstimate": 10955
     },
     {
       "ID": "ACH02",
@@ -14028,7 +14039,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6897
+      "UsersEstimate": 6898
     },
     {
       "ID": "ACH09",
@@ -14068,7 +14079,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "ACH14",
@@ -14108,7 +14119,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH19",
@@ -14140,7 +14151,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH23",
@@ -14196,7 +14207,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACH30",
@@ -14251,16 +14262,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13523,
+      "Progressed": 13525,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-11-04T14:57:14.2151066+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:08:32.0747747+00:00",
+  "LastChanged": "2023-11-05T19:59:28.7234105+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:09:44.1589399+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:57:51.4114174+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:08:32.0748524+00:00"
+  "LastUpdate_Ratings": "2023-11-05T19:59:28.7234111+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:09:44.1590208+00:00"
 }

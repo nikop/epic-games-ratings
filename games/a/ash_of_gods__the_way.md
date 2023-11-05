@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~27 |
 | Suicide squad | 44.00% | ~12 |
+| First blood | 26.00% | ~7 |
 | Train hard, fight easy | 22.00% | ~6 |
 | Under cover | 22.00% | ~6 |
-| First blood | 22.00% | ~6 |
 | All for one! | 19.00% | ~5 |
 | Royal blessing | 19.00% | ~5 |
 | A hidden snake | 15.00% | ~4 |

@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7441,
+  "EOS_Progressed": 7442,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 3,
@@ -5488,6 +5488,11 @@
       "Time": "2023-11-05T19:04:21.1527363+00:00",
       "NumProgressed": 7441,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-05T20:06:44.4153509+00:00",
+      "NumProgressed": 7442,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5571,7 +5576,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -5595,7 +5600,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5619,7 +5624,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -5651,7 +5656,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5675,7 +5680,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5699,7 +5704,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2976
+      "UsersEstimate": 2977
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5714,15 +5719,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7441,
+      "Progressed": 7442,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:04:21.152736+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:06:44.4153505+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-05T19:02:44.0312948+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:04:21.1527673+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:04:13.5782524+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:06:44.4153901+00:00"
 }

@@ -9,15 +9,15 @@
 | Butter Fingers | 77.00% | ~75 |
 | Character Unlocked | 76.00% | ~74 |
 | Homer | 76.00% | ~74 |
-| Have a good trip! | 72.00% | ~71 |
+| Have a good trip! | 73.00% | ~72 |
 | Kickball Unlocked | 70.00% | ~69 |
 | Settle Down | 70.00% | ~69 |
-| Stay Hydrated | 64.00% | ~63 |
+| Stay Hydrated | 65.00% | ~64 |
 | First Win | 63.00% | ~62 |
 | True Story! | 45.00% | ~44 |
-| Bedroom Secret Spot | 41.00% | ~40 |
+| Bedroom Secret Spot | 42.00% | ~41 |
 | Kick It | 34.00% | ~33 |
-| At least everyone still had fun | 32.00% | ~31 |
+| At least everyone still had fun | 33.00% | ~32 |
 | Classroom Secret Spot | 30.00% | ~29 |
 | Spooky | 29.00% | ~28 |
 | Grand Slam! | 27.00% | ~26 |

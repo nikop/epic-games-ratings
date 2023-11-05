@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,752,638 |
-| Easy to forget | 46.00% | ~1,645,334 |
-| Back in the black | 39.00% | ~1,394,957 |
-| That's what I'm talking about | 29.00% | ~1,037,276 |
-| The Best of Both Worlds | 25.00% | ~894,203 |
-| Get your wings | 20.00% | ~715,363 |
-| Double trouble | 16.00% | ~572,290 |
-| Smashing it | 11.00% | ~393,449 |
-| But can it run Crysis? | 9.00% | ~321,913 |
-| My favourite feature... | 9.00% | ~321,913 |
-| From humble beginnings... | 7.00% | ~250,377 |
-| Customer satisfaction | 7.00% | ~250,377 |
-| Keeping things neat | 4.00% | ~143,073 |
-| Seems you're pretty good at this | 4.00% | ~143,073 |
-| Bending over backwards | 4.00% | ~143,073 |
-| Triple threat | 3.00% | ~107,304 |
-| You rock at this! | 3.00% | ~107,304 |
-| Your music sucks | 3.00% | ~107,304 |
-| I'm broke, Uncle! | 2.00% | ~71,536 |
-| Maybe you should try something else? | 2.00% | ~71,536 |
-| Taking care of business | 2.00% | ~71,536 |
-| Things are under control | 2.00% | ~71,536 |
-| Perfection | 2.00% | ~71,536 |
-| Calling in Sick | 2.00% | ~71,536 |
+| You need to plug it in... | 49.00% | ~1,752,654 |
+| Easy to forget | 46.00% | ~1,645,348 |
+| Back in the black | 39.00% | ~1,394,969 |
+| That's what I'm talking about | 29.00% | ~1,037,285 |
+| The Best of Both Worlds | 25.00% | ~894,211 |
+| Get your wings | 20.00% | ~715,369 |
+| Double trouble | 16.00% | ~572,295 |
+| Smashing it | 11.00% | ~393,453 |
+| But can it run Crysis? | 9.00% | ~321,916 |
+| My favourite feature... | 9.00% | ~321,916 |
+| From humble beginnings... | 7.00% | ~250,379 |
+| Customer satisfaction | 7.00% | ~250,379 |
+| Keeping things neat | 4.00% | ~143,074 |
+| Seems you're pretty good at this | 4.00% | ~143,074 |
+| Bending over backwards | 4.00% | ~143,074 |
+| Triple threat | 3.00% | ~107,305 |
+| You rock at this! | 3.00% | ~107,305 |
+| Your music sucks | 3.00% | ~107,305 |
+| I'm broke, Uncle! | 2.00% | ~71,537 |
+| Maybe you should try something else? | 2.00% | ~71,537 |
+| Taking care of business | 2.00% | ~71,537 |
+| Things are under control | 2.00% | ~71,537 |
+| Perfection | 2.00% | ~71,537 |
+| Calling in Sick | 2.00% | ~71,537 |
 | Overvolted | 1.00% | ~35,768 |
 | If you fail the first time... | 1.00% | ~35,768 |
 | Amazonian | 1.00% | ~35,768 |
@@ -37,17 +37,17 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,768 |
 | Majority Shareholder | 1.00% | ~35,768 |
 | Owner | 1.00% | ~35,768 |
-| Show off | 0.90% | ~32,191 |
+| Show off | 0.90% | ~32,192 |
 | Work ethic 101 | 0.70% | ~25,038 |
 | Building momentum | 0.60% | ~21,461 |
 | Lead by example | 0.60% | ~21,461 |
 | Treat yourself - RAM | 0.50% | ~17,884 |
 | Mr big business | 0.40% | ~14,307 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,730 |
-| Mister Big | 0.30% | ~10,730 |
-| Getting your feet wet | 0.30% | ~10,730 |
-| Customer's ALWAYS right. | 0.30% | ~10,730 |
-| Treat yourself - CPU | 0.30% | ~10,730 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,731 |
+| Mister Big | 0.30% | ~10,731 |
+| Getting your feet wet | 0.30% | ~10,731 |
+| Customer's ALWAYS right. | 0.30% | ~10,731 |
+| Treat yourself - CPU | 0.30% | ~10,731 |
 | 1920x1080 | 0.20% | ~7,154 |
 | Blow 'em away | 0.20% | ~7,154 |
 | Hasta La Vista, Baby. | 0.10% | ~3,577 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,577 |
 | Treat yourself - GPU | 0.10% | ~3,577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,576,813 (Ranked 5)  
+Progressed: 3,576,844 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 37 (0.00%) (Ranked 344)
 | 2023-11-02 | 3,575,624 | 37 |
 | 2023-11-03 | 3,576,036 | 37 |
 | 2023-11-04 | 3,576,456 | 37 |
-| 2023-11-05 | 3,576,813 | 37 |
+| 2023-11-05 | 3,576,844 | 37 |
 ## Awards
 Max (Great for Beginners): 1,096  (Ranked 142)  
 Sum: 8,107 (Ranked 103)  

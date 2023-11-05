@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~389 |
-| Pork Chopped | 0.90% | ~350 |
-| One of Us | 0.80% | ~311 |
+| Whatever It Takes | 1.00% | ~390 |
+| Pork Chopped | 1.00% | ~390 |
+| One of Us | 0.80% | ~312 |
 | Break A Leg | 0.30% | ~2,140 |
 | Coup de Grâce | 0.30% | ~2,140 |
 | Hazardous Materials | 0.30% | ~2,140 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,395 (Ranked 21)  
+Progressed: 713,470 (Ranked 21)  
 Completed: 2,338 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,16 +256,16 @@ Completed: 2,338 (0.33%) (Ranked 217)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 713,395 | 2,338 |
+| 2023-11-05 | 713,470 | 2,338 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
-Sum: 10,681 (Ranked 89)  
+Sum: 10,687 (Ranked 89)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,072 |
 | This game is Great for Beginners | 514 |
-| This game has Diverse Characters | 504 |
+| This game has Diverse Characters | 510 |
 | This game has Quickly Understood Controls | 482 |
 | This game is Relaxing | 454 |
 | This game has Amazing Storytelling | 440 |
@@ -473,4 +473,4 @@ Diff (max vs sum): -35
 | 2023-11-02 | 4.54 | 6,847 | 10,322 |
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
-| 2023-11-05 | 4.54 | 7,072 | 10,681 |
+| 2023-11-05 | 4.54 | 7,072 | 10,687 |

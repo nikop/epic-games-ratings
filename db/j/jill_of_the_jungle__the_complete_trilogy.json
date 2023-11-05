@@ -4,8 +4,8 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1935,
+  "EOS_Progressed": 1936,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 7.86,
+  "EOS_Completed_Percentage": 7.85,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -6937,6 +6937,11 @@
       "Time": "2023-11-05T08:04:26.5086246+00:00",
       "NumProgressed": 1935,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-11-05T20:06:32.0997071+00:00",
+      "NumProgressed": 1936,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 5,
@@ -6948,7 +6953,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1935
+      "UsersEstimate": 1936
     },
     {
       "ID": "2",
@@ -6987,7 +6992,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1935,
+      "Progressed": 1936,
       "Completed": 152
     }
   ],
@@ -6995,8 +7000,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:04:09.1602759+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:06:32.0997068+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.7737994+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:57:13.5714585+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:04:09.1603136+00:00"
+  "LastUpdate_Ratings": "2023-11-05T19:57:39.3333589+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:06:32.0997438+00:00"
 }

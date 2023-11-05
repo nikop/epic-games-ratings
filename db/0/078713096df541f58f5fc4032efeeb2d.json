@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -257,17 +257,17 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytale3_ach_35",
       "SetID": "7idcjbn",
       "Name": "Heartfelt conversations",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytale3_ach_36",
@@ -360,8 +360,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:05:41.7235724+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:08:24.371207+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7439656+00:00",
-  "LastUpdate_Ratings": "2023-11-05T19:02:52.1793963+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:05:41.7236066+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:04:21.2663274+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:08:24.3712277+00:00"
 }

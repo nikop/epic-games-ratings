@@ -5,21 +5,21 @@ Rating: 3.55 (Ranked 1,031)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~17,087 |
-| Master, Commander | 21.00% | ~16,310 |
-| Hard Worker | 20.00% | ~15,534 |
-| Mechanic | 19.00% | ~14,757 |
-| Adios, Friendo | 18.00% | ~13,980 |
-| Bottom's Up | 18.00% | ~13,980 |
-| Nice Try | 16.00% | ~12,427 |
-| Right On Target | 13.00% | ~10,097 |
-| Piano Man | 11.00% | ~8,543 |
-| Lazy Bones | 9.00% | ~6,990 |
-| Vinyl Vibes | 8.00% | ~6,213 |
-| Nothing Left to Say | 7.00% | ~5,437 |
-| Sniper | 7.00% | ~5,437 |
-| Cut Call | 6.00% | ~4,660 |
-| Magnetic Miracles | 5.00% | ~3,883 |
+| Be Seeing You | 22.00% | ~17,089 |
+| Master, Commander | 21.00% | ~16,313 |
+| Hard Worker | 20.00% | ~15,536 |
+| Mechanic | 19.00% | ~14,759 |
+| Adios, Friendo | 18.00% | ~13,982 |
+| Bottom's Up | 18.00% | ~13,982 |
+| Nice Try | 16.00% | ~12,429 |
+| Right On Target | 13.00% | ~10,098 |
+| Piano Man | 11.00% | ~8,545 |
+| Lazy Bones | 9.00% | ~6,991 |
+| Vinyl Vibes | 8.00% | ~6,214 |
+| Nothing Left to Say | 7.00% | ~5,438 |
+| Sniper | 7.00% | ~5,438 |
+| Cut Call | 6.00% | ~4,661 |
+| Magnetic Miracles | 5.00% | ~3,884 |
 | Butcher | 4.00% | ~3,107 |
 | Spicy | 4.00% | ~3,107 |
 | A Man Of Taste | 3.00% | ~2,330 |
@@ -28,11 +28,11 @@ Rating: 3.55 (Ranked 1,031)
 | Hearty | 3.00% | ~2,330 |
 | Meaty | 3.00% | ~2,330 |
 | Taco Toto | 3.00% | ~2,330 |
-| Audiophile | 2.00% | ~1,553 |
-| Tape Head | 2.00% | ~1,553 |
+| Audiophile | 2.00% | ~1,554 |
+| Tape Head | 2.00% | ~1,554 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,668 (Ranked 95)  
-Completed: 822 (1.06%) (Ranked 150)  
+Progressed: 77,679 (Ranked 95)  
+Completed: 823 (1.06%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 822 (1.06%) (Ranked 150)
 | 2023-11-02 | 77,380 | 818 |
 | 2023-11-03 | 77,477 | 819 |
 | 2023-11-04 | 77,573 | 821 |
-| 2023-11-05 | 77,668 | 822 |
+| 2023-11-05 | 77,679 | 823 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

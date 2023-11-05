@@ -2,9 +2,9 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-11-05T09:05:31.9590418+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T20:07:42.3067449+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -98,7 +103,7 @@
       "ID": "FoundPig",
       "SetID": "a2ci5mh",
       "Name": "Piglet",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -122,7 +127,7 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -131,13 +136,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:04:59.8960397+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:07:42.3067445+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.6534253+00:00",
-  "LastUpdate_Ratings": "2023-11-05T18:59:03.0369198+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:04:59.8960463+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:02:05.5601978+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:07:42.3067506+00:00"
 }

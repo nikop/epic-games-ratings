@@ -16,13 +16,13 @@ Rating: 4.55 (Ranked 500)
 | Captain Drummer | 2.00% | ~294 |
 | Celebrations are in Order | 2.00% | ~294 |
 | Impossible Objects | 2.00% | ~294 |
+| Zen Master | 2.00% | ~13 |
 | Data Archivist | 1.00% | ~147 |
 | Stogie for Fogey | 1.00% | ~147 |
 | Heal Thy Medic | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
 | Keep Arjun in Check | 1.00% | ~6 |
 | Safe Cracker | 1.00% | ~6 |
-| Zen Master | 1.00% | ~6 |
 | Madame Undersecretary | 1.00% | ~6 |
 | Thorston Mayer | 0.90% | ~132 |
 | Bottoms up! | 0.80% | ~117 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,677 (Ranked 146)  
+Progressed: 14,682 (Ranked 146)  
 Completed: 32 (0.22%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 32 (0.22%) (Ranked 235)
 | 2023-11-02 | 14,582 | 28 |
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
-| 2023-11-05 | 14,677 | 32 |
+| 2023-11-05 | 14,682 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

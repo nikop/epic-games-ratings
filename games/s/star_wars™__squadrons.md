@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 94.00% | ~16,256 |
-| A Better Idea | 25.00% | ~4,324 |
-| Safety in the Storm | 24.00% | ~4,151 |
-| Begin the Ceremony | 20.00% | ~3,459 |
-| Mission Accomplished | 19.00% | ~3,286 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,594 |
-| A Starfighter of Your Own | 14.00% | ~2,421 |
-| Asset Secured | 13.00% | ~2,248 |
-| Unkillable | 8.00% | ~1,384 |
-| Together, Vanguard | 7.00% | ~1,211 |
+| Fracture at Fostar Haven | 94.00% | ~16,270 |
+| A Better Idea | 25.00% | ~4,327 |
+| Safety in the Storm | 24.00% | ~4,154 |
+| Begin the Ceremony | 20.00% | ~3,462 |
+| Mission Accomplished | 19.00% | ~3,289 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,596 |
+| A Starfighter of Your Own | 14.00% | ~2,423 |
+| Asset Secured | 13.00% | ~2,250 |
+| Unkillable | 8.00% | ~1,385 |
+| Together, Vanguard | 7.00% | ~1,212 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,038 |
 | Sound Strategy | 6.00% | ~1,038 |
 | Fearless | 5.00% | ~865 |
@@ -35,8 +35,8 @@
 | Denied | 0.80% | ~138 |
 | Found Your Place | 0.70% | ~121 |
 | Unstoppable Ace | 0.60% | ~104 |
-| Seasoned Star Pilot | 0.50% | ~86 |
-| Special Modifications | 0.50% | ~86 |
+| Seasoned Star Pilot | 0.50% | ~87 |
+| Special Modifications | 0.50% | ~87 |
 | Heavy Hitter | 0.40% | ~69 |
 | The Trap is Set | 0.40% | ~69 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~69 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~17 |
 | The Galaxy's Finest (Ace) | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,294 (Ranked 138)  
+Progressed: 17,308 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.01%) (Ranked 320)
 | 2023-11-02 | 16,249 | 1 |
 | 2023-11-03 | 16,579 | 1 |
 | 2023-11-04 | 16,987 | 1 |
-| 2023-11-05 | 17,294 | 1 |
+| 2023-11-05 | 17,308 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

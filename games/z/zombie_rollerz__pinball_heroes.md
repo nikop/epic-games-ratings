@@ -8,7 +8,7 @@ Rating: 4.30 (Ranked 829)
 | Level Up! | 88.00% | ~159 |
 | Bullseye! | 85.00% | ~154 |
 | Graduation! | 79.00% | ~143 |
-| Villfir Forest | 74.00% | ~134 |
+| Villfir Forest | 75.00% | ~136 |
 | Right in the kisser! | 59.00% | ~107 |
 | Duscot Steamcity | 47.00% | ~85 |
 | The Thrower | 46.00% | ~83 |

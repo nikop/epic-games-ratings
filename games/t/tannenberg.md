@@ -6,58 +6,58 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~121,538 |
-| Comeback | 82.00% | ~111,978 |
-| Information is Key | 80.00% | ~109,247 |
-| Unlucky | 71.00% | ~96,957 |
-| Anarchist | 68.00% | ~92,860 |
-| Wallhack | 65.00% | ~88,763 |
-| Steady Supply | 60.00% | ~81,935 |
-| Lucky Shot | 53.00% | ~72,376 |
-| Forward Observer | 52.00% | ~71,011 |
-| Ring Ring! | 52.00% | ~71,011 |
-| Bossing Around | 45.00% | ~61,452 |
-| Frostbite | 45.00% | ~61,452 |
-| Night Owl | 44.00% | ~60,086 |
-| Strength in Numbers | 44.00% | ~60,086 |
-| Fog of War | 41.00% | ~55,989 |
-| Rasputin | 39.00% | ~53,258 |
-| Stronghold Denied | 39.00% | ~53,258 |
-| Anyone Else? | 38.00% | ~51,892 |
-| Hydra | 36.00% | ~49,161 |
-| This Belongs to Us Now | 36.00% | ~49,161 |
-| Stronghold | 35.00% | ~47,796 |
-| Leeroy | 33.00% | ~45,064 |
-| Lost Batallion | 33.00% | ~45,064 |
-| This is MY Machine Gun! | 32.00% | ~43,699 |
-| Together As One | 31.00% | ~42,333 |
-| Gavrilo Princip | 27.00% | ~36,871 |
-| Lead Harvest | 25.00% | ~34,140 |
-| Skynet Confirmed | 23.00% | ~31,409 |
-| Kesselschlacht | 22.00% | ~30,043 |
-| Democracy Works! | 20.00% | ~27,312 |
-| Switch, Please! | 19.00% | ~25,946 |
-| Tourist | 18.00% | ~24,581 |
-| At Least This Way I Can Win... | 17.00% | ~23,215 |
-| I've Seen It All | 17.00% | ~23,215 |
-| Oops! | 17.00% | ~23,215 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~21,849 |
-| Butcher | 12.00% | ~16,387 |
+| Immovable Object | 89.00% | ~121,543 |
+| Comeback | 82.00% | ~111,983 |
+| Information is Key | 80.00% | ~109,252 |
+| Unlucky | 71.00% | ~96,961 |
+| Anarchist | 68.00% | ~92,864 |
+| Wallhack | 65.00% | ~88,767 |
+| Steady Supply | 60.00% | ~81,939 |
+| Lucky Shot | 53.00% | ~72,379 |
+| Forward Observer | 52.00% | ~71,014 |
+| Ring Ring! | 52.00% | ~71,014 |
+| Bossing Around | 45.00% | ~61,454 |
+| Frostbite | 45.00% | ~61,454 |
+| Night Owl | 44.00% | ~60,089 |
+| Strength in Numbers | 44.00% | ~60,089 |
+| Fog of War | 41.00% | ~55,992 |
+| Rasputin | 39.00% | ~53,260 |
+| Stronghold Denied | 39.00% | ~53,260 |
+| Anyone Else? | 38.00% | ~51,895 |
+| Hydra | 36.00% | ~49,163 |
+| This Belongs to Us Now | 36.00% | ~49,163 |
+| Stronghold | 35.00% | ~47,798 |
+| Leeroy | 33.00% | ~45,066 |
+| Lost Batallion | 33.00% | ~45,066 |
+| This is MY Machine Gun! | 32.00% | ~43,701 |
+| Together As One | 31.00% | ~42,335 |
+| Gavrilo Princip | 27.00% | ~36,873 |
+| Lead Harvest | 25.00% | ~34,141 |
+| Skynet Confirmed | 23.00% | ~31,410 |
+| Kesselschlacht | 22.00% | ~30,044 |
+| Democracy Works! | 20.00% | ~27,313 |
+| Switch, Please! | 19.00% | ~25,947 |
+| Tourist | 18.00% | ~24,582 |
+| At Least This Way I Can Win... | 17.00% | ~23,216 |
+| I've Seen It All | 17.00% | ~23,216 |
+| Oops! | 17.00% | ~23,216 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~21,850 |
+| Butcher | 12.00% | ~16,388 |
 | Before the Leaves Fall | 10.00% | ~13,656 |
 | Close Call | 10.00% | ~13,656 |
 | Pinpoint | 10.00% | ~13,656 |
-| Tannenberg | 9.00% | ~12,290 |
+| Tannenberg | 9.00% | ~12,291 |
 | For the Emperor | 8.00% | ~10,925 |
 | Hawk Eye | 8.00% | ~10,925 |
-| Equality For All | 7.00% | ~9,559 |
-| Hötzendorf | 7.00% | ~9,559 |
+| Equality For All | 7.00% | ~9,560 |
+| Hötzendorf | 7.00% | ~9,560 |
 | Crack Shot | 5.00% | ~6,828 |
 | From Russia with Love | 5.00% | ~6,828 |
 | Overachiever | 5.00% | ~6,828 |
 | Your Family Will Be Proud... | 5.00% | ~6,828 |
-| Gott Mit Uns | 4.00% | ~5,462 |
-| Indivisibiliter ac Inseparabiliter | 4.00% | ~5,462 |
-| Living on the Edge | 4.00% | ~5,462 |
+| Gott Mit Uns | 4.00% | ~5,463 |
+| Indivisibiliter ac Inseparabiliter | 4.00% | ~5,463 |
+| Living on the Edge | 4.00% | ~5,463 |
 | Chivalrous | 3.00% | ~4,097 |
 | S nami Bog! | 3.00% | ~4,097 |
 | Za veru, Tsarya i otechestvo | 3.00% | ~4,097 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,229 |
 | Road to Berlin | 0.60% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,559 (Ranked 80)  
+Progressed: 136,565 (Ranked 80)  
 Completed: 31 (0.02%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 31 (0.02%) (Ranked 313)
 | 2023-11-02 | 136,189 | 31 |
 | 2023-11-03 | 136,316 | 31 |
 | 2023-11-04 | 136,448 | 31 |
-| 2023-11-05 | 136,559 | 31 |
+| 2023-11-05 | 136,565 | 31 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 240)  
 Sum: 3,267 (Ranked 167)  

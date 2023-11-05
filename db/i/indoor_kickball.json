@@ -4,7 +4,7 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -540,9 +540,9 @@
       "ID": "18",
       "SetID": "39djiaj",
       "Name": "Bedroom Secret Spot",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "19",
@@ -708,9 +708,9 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "39",
@@ -764,17 +764,17 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "8",
       "SetID": "39djiaj",
       "Name": "Stay Hydrated",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "9",
@@ -795,8 +795,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-11-05T19:05:03.3637216+00:00",
+  "LastChanged_Achievements": "2023-11-05T20:07:45.8965652+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:36.9008048+00:00",
-  "LastUpdate_Ratings": "2023-11-05T19:02:47.6819341+00:00",
-  "LastUpdate_Achievements": "2023-11-05T19:05:03.3637486+00:00"
+  "LastUpdate_Ratings": "2023-11-05T20:04:16.8138132+00:00",
+  "LastUpdate_Achievements": "2023-11-05T20:07:45.8965923+00:00"
 }
