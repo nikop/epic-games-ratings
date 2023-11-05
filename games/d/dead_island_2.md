@@ -7,7 +7,7 @@ Rating: 4.54 (Ranked 521)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~385 |
 | Pork Chopped | 0.80% | ~308 |
-| One of Us | 0.70% | ~269 |
+| One of Us | 0.70% | ~270 |
 | Welcome To Hell-A | 0.30% | ~2,139 |
 | Dr. Reed, I Presume? | 0.20% | ~1,426 |
 | Git Gutte! | 0.20% | ~1,426 |
@@ -53,12 +53,12 @@ Rating: 4.54 (Ranked 521)
 | Variety is the Spice of Death | 0.10% | ~713 |
 | Rising Star | 0.10% | ~713 |
 | Bucket List | 0.10% | ~713 |
-| Lawn and Order | 0.10% | ~38 |
-| Wilhelm | 0.10% | ~38 |
-| Top That, Tisha! | 0.10% | ~38 |
+| Lawn and Order | 0.10% | ~39 |
+| Wilhelm | 0.10% | ~39 |
+| Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,937 (Ranked 21)  
-Completed: 2,331 (0.33%) (Ranked 216)  
+Progressed: 712,974 (Ranked 21)  
+Completed: 2,331 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -256,7 +256,7 @@ Completed: 2,331 (0.33%) (Ranked 216)
 | 2023-11-02 | 711,055 | 2,305 |
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
-| 2023-11-05 | 712,937 | 2,331 |
+| 2023-11-05 | 712,974 | 2,331 |
 ## Awards
 Max (Great Boss Battles): 7,004  (Ranked 54)  
 Sum: 10,586 (Ranked 89)  

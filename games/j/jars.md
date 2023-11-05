@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Missing data | 85.00% | ~74 |
+| Missing data | 84.00% | ~74 |
 | Broken jar | 80.00% | ~70 |
-| It fits. IT FITS! | 76.00% | ~66 |
-| The child of the night | 74.00% | ~64 |
-| Uncle will be happy | 68.00% | ~59 |
+| It fits. IT FITS! | 75.00% | ~66 |
+| The child of the night | 73.00% | ~64 |
+| Uncle will be happy | 68.00% | ~60 |
 | I have an army! | 64.00% | ~56 |
-| Sticky fingers | 44.00% | ~38 |
-| A horrible thing will happen... | 38.00% | ~33 |
-| Vampires | 30.00% | ~26 |
-| Bloody stream | 30.00% | ~26 |
+| Sticky fingers | 43.00% | ~38 |
+| A horrible thing will happen... | 39.00% | ~34 |
+| Vampires | 31.00% | ~27 |
+| Bloody stream | 31.00% | ~27 |
 | Fangs | 18.00% | ~16 |
 | Mirrors | 10.00% | ~9 |
 | Coat | 7.00% | ~6 |
@@ -25,8 +25,8 @@
 | Missing pages | 5.00% | ~4 |
 | Master of puppets | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 420)  
-Completed: 4 (4.60%) (Ranked 69)  
+Progressed: 88 (Ranked 420)  
+Completed: 4 (4.55%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 4 (4.60%) (Ranked 69)
 | 2023-10-29 | 84 | 4 |
 | 2023-10-31 | 85 | 4 |
 | 2023-11-03 | 86 | 4 |
-| 2023-11-05 | 87 | 4 |
+| 2023-11-05 | 88 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

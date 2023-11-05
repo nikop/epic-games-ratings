@@ -54,7 +54,7 @@ Rating: 4.19 (Ranked 910)
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,405 (Ranked 141)  
-Completed: 79 (0.48%) (Ranked 197)  
+Completed: 79 (0.48%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 658)
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,091 (Ranked 214)  
-Completed: 0 (0.00%) (Ranked 343)  
+Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

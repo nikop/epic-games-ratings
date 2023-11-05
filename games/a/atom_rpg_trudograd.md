@@ -39,7 +39,7 @@ Rating: 4.54 (Ranked 521)
 | Terrorist | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,265 (Ranked 237)  
-Completed: 0 (0.00%) (Ranked 343)  
+Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

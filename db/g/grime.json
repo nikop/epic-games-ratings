@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 444,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1307,6 +1307,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 347,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-11-05T10:59:20.1586654+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 347,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
@@ -1369,9 +1375,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156679,
+  "EOS_Progressed": 156691,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14439,6 +14445,11 @@
       "Time": "2023-11-05T10:08:35.0551105+00:00",
       "NumProgressed": 156679,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T11:06:33.4568248+00:00",
+      "NumProgressed": 156691,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14472,9 +14483,9 @@
       "ID": "ACQUIRE_ALLTRAITS",
       "SetID": "ccc0dlh",
       "Name": "Assimilation",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 940
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -14498,7 +14509,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -14514,7 +14525,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14546,7 +14557,7 @@
       "Name": "Shapely",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -14666,7 +14677,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6267
+      "UsersEstimate": 6268
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14722,7 +14733,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4700
+      "UsersEstimate": 4701
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -14817,21 +14828,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156262,
+      "Progressed": 156274,
       "Completed": 1188
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156679,
+      "Progressed": 156691,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-05T00:13:01.8696228+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:08:35.055109+00:00",
+  "LastChanged": "2023-11-05T10:59:20.1586652+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:06:33.4568242+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:00:08.2474085+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:08:35.0552274+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:59:20.1586661+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:06:33.4570302+00:00"
 }

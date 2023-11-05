@@ -15,6 +15,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.30% | ~72 |
 | Bushido and Chill | 0.20% | ~1,791 |
 | Right Back At Ya | 0.20% | ~1,791 |
+| Master Crafter | 0.20% | ~1,791 |
 | Christmas Tree Attack | 0.20% | ~1,791 |
 | The Quick and the Dead | 0.20% | ~1,791 |
 | Life of the Road | 0.20% | ~1,791 |
@@ -34,7 +35,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Autojock | 0.10% | ~895 |
 | Frequent Flyer | 0.10% | ~895 |
 | Gunslinger | 0.10% | ~895 |
-| Master Crafter | 0.10% | ~895 |
 | I Am The Law | 0.10% | ~895 |
 | Mean Streets | 0.10% | ~895 |
 | Little Tokyo | 0.10% | ~895 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,327 (Ranked 15)  
-Completed: 2,745 (0.31%) (Ranked 220)  
+Progressed: 895,334 (Ranked 15)  
+Completed: 2,745 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 2,745 (0.31%) (Ranked 220)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,327 | 2,745 |
+| 2023-11-05 | 895,334 | 2,745 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 342,858 (Ranked 10)  

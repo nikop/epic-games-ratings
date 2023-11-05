@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 292,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -1535,6 +1535,11 @@
       "Time": "2023-11-04T22:04:16.1491546+00:00",
       "NumProgressed": 505,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-05T11:03:47.4686232+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1571,7 +1576,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_eou4",
@@ -1579,7 +1584,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_eou5",
@@ -1643,21 +1648,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:04:35.3571784+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:03:47.4686221+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:42.0559682+00:00",
-  "LastUpdate_Ratings": "2023-11-05T09:59:16.7043025+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:04:35.3572+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:58:42.0829779+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:03:47.4686587+00:00"
 }

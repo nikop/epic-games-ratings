@@ -9,28 +9,28 @@ Number of Ratings: 20  (23.09.2022)
 | The Adventure Begins | 62.00% | ~208 |
 | Cartographer | 56.00% | ~188 |
 | A Strange Artefact | 51.00% | ~171 |
-| Insomnia | 47.00% | ~157 |
-| Lost & Found & Lost Again | 41.00% | ~137 |
-| From Whence we Came | 41.00% | ~137 |
+| Insomnia | 47.00% | ~158 |
+| From Whence we Came | 41.00% | ~138 |
+| Lost & Found & Lost Again | 40.00% | ~134 |
 | Fire and Flood | 39.00% | ~131 |
 | Spooky! | 36.00% | ~121 |
 | Shennong Herbalist | 33.00% | ~111 |
 | Treasure Hunt | 33.00% | ~111 |
 | Good Mama | 31.00% | ~104 |
-| O Captain My Captain | 30.00% | ~100 |
-| Taxonomist | 27.00% | ~90 |
-| Plunderer | 27.00% | ~90 |
-| Traveller | 24.00% | ~80 |
-| Nahua Seeker | 24.00% | ~80 |
-| Uncertain Loyalties | 24.00% | ~80 |
+| O Captain My Captain | 30.00% | ~101 |
+| Plunderer | 27.00% | ~91 |
+| Taxonomist | 26.00% | ~87 |
+| Traveller | 24.00% | ~81 |
+| Nahua Seeker | 24.00% | ~81 |
+| Uncertain Loyalties | 24.00% | ~81 |
 | Roll to Save | 22.00% | ~74 |
 | Veteran Explorer | 20.00% | ~67 |
 | Red Flag Pirate | 18.00% | ~60 |
 | Iron Man | 17.00% | ~57 |
 | Shortening of the Way | 16.00% | ~54 |
 | A Gentle Beast | 16.00% | ~54 |
-| Practical Palaeontology | 16.00% | ~54 |
 | For the Club! | 15.00% | ~50 |
+| Practical Palaeontology | 15.00% | ~50 |
 | Dapper | 15.00% | ~50 |
 | Adventurer | 14.00% | ~47 |
 | The New Director | 13.00% | ~44 |
@@ -46,7 +46,7 @@ Number of Ratings: 20  (23.09.2022)
 | SCHMETTERLING | 8.00% | ~27 |
 | No Laughing Matter | 8.00% | ~27 |
 | Level Up | 8.00% | ~27 |
-| The Great Library | 7.00% | ~23 |
+| The Great Library | 7.00% | ~24 |
 | Zookeeper | 6.00% | ~20 |
 | The Workshop | 6.00% | ~20 |
 | Islander Understanding | 5.00% | ~17 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335 (Ranked 320)  
-Completed: 1 (0.30%) (Ranked 223)  
+Progressed: 336 (Ranked 320)  
+Completed: 1 (0.30%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 1 (0.30%) (Ranked 223)
 | 2023-10-30 | 332 | 1 |
 | 2023-11-01 | 334 | 1 |
 | 2023-11-02 | 335 | 1 |
+| 2023-11-05 | 336 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

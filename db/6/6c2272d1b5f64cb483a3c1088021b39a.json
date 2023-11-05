@@ -3,9 +3,9 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4495,9 +4495,9 @@
       "ID": "soul_shards_1",
       "SetID": "53c1p3k",
       "Name": "Soul Shards 1",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 70
     },
     {
       "ID": "soul_shards_2",
@@ -4598,8 +4598,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:09:53.4120333+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:09:18.3434417+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:02:50.1691699+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:09:53.4121273+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:00:31.1186973+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:09:18.3435979+00:00"
 }

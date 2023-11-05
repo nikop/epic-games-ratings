@@ -6,9 +6,9 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6129,9 +6129,9 @@
       "Count": 429
     }
   ],
-  "EOS_Progressed": 712937,
+  "EOS_Progressed": 712974,
   "EOS_Completed": 2331,
-  "EOS_NewPlayers": 5706,
+  "EOS_NewPlayers": 5702,
   "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28799,6 +28799,11 @@
       "Time": "2023-11-05T10:05:32.2621123+00:00",
       "NumProgressed": 712937,
       "NumCompleted": 2331
+    },
+    {
+      "Time": "2023-11-05T11:04:34.6462568+00:00",
+      "NumProgressed": 712974,
+      "NumCompleted": 2331
     }
   ],
   "TotalAchievements": 51,
@@ -29170,7 +29175,7 @@
       "Name": "One of Us",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ach_dark_magic",
@@ -29186,7 +29191,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_pork_chops",
@@ -29202,7 +29207,7 @@
       "Name": "Wilhelm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_zombie_predator",
@@ -29210,29 +29215,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 712937,
+      "Progressed": 712974,
       "Completed": 2331
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38479,
-      "Completed": 36432
+      "Progressed": 38516,
+      "Completed": 36434
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T02:22:41.8442406+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:05:32.2621119+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:04:34.646256+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:02:42.3299473+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:05:32.2623008+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:00:24.9841439+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:04:34.6465904+00:00"
 }

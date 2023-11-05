@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.40% | ~61 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
 | Silver Victory (Carthage 1) | 0.30% | ~45 |
+| Carthage - Riches and Influence | 0.30% | ~45 |
 | Ancient | 0.30% | ~45 |
 | Magnificent Difficulty | 0.30% | ~45 |
 | The Eternal Treaty | 0.30% | ~45 |
@@ -172,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.30% | ~45 |
 | Prosperous Kmt | 0.30% | ~45 |
 | Gold Victory (Carthage 1) | 0.20% | ~30 |
-| Carthage - Riches and Influence | 0.20% | ~30 |
 | Bronze Victory (Carthage 2) | 0.20% | ~30 |
 | Silver Victory (Carthage 2) | 0.20% | ~30 |
 | Carthage - Rise of Rome | 0.20% | ~30 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,147 (Ranked 145)  
-Completed: 5 (0.03%) (Ranked 307)  
+Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

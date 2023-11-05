@@ -25,7 +25,7 @@ Rating: 4.39 (Ranked 743)
 | Hotel sleuthing | 28.00% | ~310 |
 | Kaboom | 27.00% | ~299 |
 | Nearly there | 26.00% | ~288 |
-| Broken heart | 23.00% | ~255 |
+| Broken heart | 24.00% | ~266 |
 | Island boy | 22.00% | ~244 |
 | You're a star | 20.00% | ~222 |
 | Unstoppable | 19.00% | ~211 |
@@ -34,7 +34,7 @@ Rating: 4.39 (Ranked 743)
 | Top spot in town | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,108 (Ranked 244)  
-Completed: 16 (1.44%) (Ranked 134)  
+Completed: 16 (1.44%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

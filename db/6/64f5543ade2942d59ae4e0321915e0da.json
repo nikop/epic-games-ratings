@@ -3,9 +3,9 @@
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 507,
-  "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:06:42.3245936+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:05:33.6447858+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:00:32.2673503+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:06:42.3246298+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:59:38.9077222+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:05:33.6448452+00:00"
 }

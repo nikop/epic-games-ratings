@@ -12,9 +12,9 @@ Rating: 4.63 (Ranked 346)
 | Brute Force | 65.00% | ~997 |
 | Cannon Fodder | 60.00% | ~920 |
 | Autofire | 57.00% | ~874 |
+| True Believer | 56.00% | ~859 |
 | Story Teller | 55.00% | ~844 |
-| True Believer | 55.00% | ~844 |
-| Raise the Stakes | 54.00% | ~828 |
+| Raise the Stakes | 55.00% | ~844 |
 | Surgeon | 51.00% | ~782 |
 | Freeze | 51.00% | ~782 |
 | Exterminator | 51.00% | ~782 |
@@ -22,10 +22,10 @@ Rating: 4.63 (Ranked 346)
 | Full Arsenal | 45.00% | ~690 |
 | S.O.S. | 45.00% | ~690 |
 | Get Off My Ship! | 43.00% | ~660 |
-| Strange Transmissions | 42.00% | ~644 |
+| Strange Transmissions | 43.00% | ~660 |
 | Live with the Hot Ones | 41.00% | ~629 |
 | Wreckage | 41.00% | ~629 |
-| Keeper of the Faith | 38.00% | ~583 |
+| Keeper of the Faith | 39.00% | ~598 |
 | Betrayed | 37.00% | ~568 |
 | Exodus | 36.00% | ~552 |
 | Legend Teller | 36.00% | ~552 |
@@ -54,7 +54,7 @@ Rating: 4.63 (Ranked 346)
 | One Gun | 2.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,534 (Ranked 230)  
-Completed: 8 (0.52%) (Ranked 191)  
+Completed: 8 (0.52%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

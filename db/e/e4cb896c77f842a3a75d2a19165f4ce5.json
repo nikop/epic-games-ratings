@@ -3,7 +3,7 @@
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 609,
+  "EOS_Progressed": 610,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.96,
+  "EOS_Completed_Percentage": 2.95,
   "EosHistory": [
     {
       "Time": "2023-06-02T12:03:22.0888781+00:00",
@@ -1794,6 +1794,11 @@
       "Time": "2023-11-05T09:05:12.5186287+00:00",
       "NumProgressed": 609,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-05T11:04:28.9370864+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 11,
@@ -1805,7 +1810,7 @@
       "Name": "Pit-house",
       "Percentage": 93,
       "XP": 45,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "LEVEL_003",
@@ -1829,7 +1834,7 @@
       "Name": "Market",
       "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "LEVEL_012",
@@ -1843,9 +1848,9 @@
       "ID": "LEVEL_017",
       "SetID": "7jk5g4e",
       "Name": "Temple",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 95,
-      "UsersEstimate": 128
+      "UsersEstimate": 122
     },
     {
       "ID": "LEVEL_019",
@@ -1892,14 +1897,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 609,
+      "Progressed": 610,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:05:25.1403518+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:04:28.9370857+00:00",
   "LastUpdate_AppInfo": "2023-10-31T02:14:28.1066632+00:00",
-  "LastUpdate_Ratings": "2023-11-05T09:59:43.9066016+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:05:25.140375+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:59:00.9561392+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:04:28.9371195+00:00"
 }

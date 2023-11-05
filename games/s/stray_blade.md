@@ -7,9 +7,9 @@
 | Self-Defence | 86.00% | ~99 |
 | Tinkerer | 70.00% | ~80 |
 | Welcome to the Club | 41.00% | ~47 |
-| Apprentice | 37.00% | ~43 |
+| Apprentice | 38.00% | ~44 |
 | A new World ahead | 29.00% | ~33 |
-| Can't touch this | 27.00% | ~31 |
+| Can't touch this | 28.00% | ~32 |
 | Don't Cry Wolf | 24.00% | ~28 |
 | Expert | 18.00% | ~21 |
 | Freezing Cold | 17.00% | ~20 |
@@ -52,7 +52,7 @@
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 115 (Ranked 395)  
-Completed: 0 (0.00%) (Ranked 343)  
+Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,15 +1,15 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 444)  
+Rating: 4.59 (Ranked 430)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,267 |
-| Imprint | 4.00% | ~6,267 |
-| The Hunt | 3.00% | ~4,700 |
-| Ravenous | 3.00% | ~4,700 |
+| Taste | 4.00% | ~6,268 |
+| Imprint | 4.00% | ~6,268 |
+| The Hunt | 3.00% | ~4,701 |
+| Ravenous | 3.00% | ~4,701 |
 | Weeper | 2.00% | ~3,134 |
 | Devourer | 2.00% | ~3,134 |
 | Scion | 1.00% | ~1,563 |
@@ -21,12 +21,12 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,567 |
 | Sharpened Vessel | 1.00% | ~1,567 |
 | Watcher | 0.90% | ~1,410 |
-| Shapely | 0.80% | ~1,253 |
+| Shapely | 0.80% | ~1,254 |
 | Glare | 0.80% | ~1,250 |
+| Assimilation | 0.70% | ~1,097 |
 | Host | 0.70% | ~1,094 |
 | Celebration | 0.70% | ~1,097 |
 | Predator | 0.70% | ~1,097 |
-| Assimilation | 0.60% | ~940 |
 | Hunt Down | 0.60% | ~940 |
 | Artisan | 0.50% | ~783 |
 | Hush | 0.50% | ~783 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,679 (Ranked 75)  
-Completed: 1 (0.00%) (Ranked 343)  
+Progressed: 156,691 (Ranked 75)  
+Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -229,7 +229,7 @@ Completed: 1 (0.00%) (Ranked 343)
 | 2023-11-02 | 156,151 | 1 |
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
-| 2023-11-05 | 156,679 | 1 |
+| 2023-11-05 | 156,691 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 425)  
 Sum: 347 (Ranked 349)  
@@ -380,4 +380,4 @@ Diff (max vs sum): 76
 | 2023-11-02 | 4.58 | - | 50 | 342 |
 | 2023-11-03 | 4.58 | - | 50 | 343 |
 | 2023-11-04 | 4.58 | - | 50 | 344 |
-| 2023-11-05 | 4.58 | - | 50 | 347 |
+| 2023-11-05 | 4.59 | - | 50 | 347 |

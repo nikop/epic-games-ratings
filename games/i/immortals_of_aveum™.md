@@ -6,7 +6,7 @@ Rating: 4.00 (Ranked 983)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 87.00% | ~136 |
-| Battlefields Have Memories | 83.00% | ~129 |
+| Battlefields Have Memories | 85.00% | ~133 |
 | Enlisted | 81.00% | ~126 |
 | Maybe Engage a Little | 76.00% | ~119 |
 | No More Names | 62.00% | ~97 |
@@ -19,10 +19,10 @@ Rating: 4.00 (Ranked 983)
 | Control is an Illusion | 30.00% | ~47 |
 | Socialite | 27.00% | ~42 |
 | The Means to Save It | 26.00% | ~41 |
-| Resilience to Sin | 21.00% | ~33 |
+| Resilience to Sin | 22.00% | ~34 |
 | A Familiar Nest | 21.00% | ~33 |
 | Periapt Alizarin | 21.00% | ~33 |
-| Geas Aristeya | 19.00% | ~30 |
+| Geas Aristeya | 20.00% | ~31 |
 | Armsman | 18.00% | ~28 |
 | A Perfect Cycle | 17.00% | ~27 |
 | Recruit | 15.00% | ~23 |
@@ -54,7 +54,7 @@ Rating: 4.00 (Ranked 983)
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 156 (Ranked 376)  
-Completed: 1 (0.64%) (Ranked 174)  
+Completed: 1 (0.64%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

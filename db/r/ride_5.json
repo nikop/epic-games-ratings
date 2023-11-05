@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 215,
-  "Ranking_EOS_Completed": 343,
+  "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1995,
+  "EOS_Progressed": 1996,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4327,6 +4327,11 @@
       "Time": "2023-11-05T07:09:21.0156142+00:00",
       "NumProgressed": 1995,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T11:09:16.5468058+00:00",
+      "NumProgressed": 1996,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4595,7 +4600,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4641,9 +4646,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 479
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4730,14 +4735,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 1995,
+      "Progressed": 1996,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:09:51.3044984+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:09:16.5468052+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:00:19.257836+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:09:51.3045708+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:59:29.1424397+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:09:16.5468808+00:00"
 }

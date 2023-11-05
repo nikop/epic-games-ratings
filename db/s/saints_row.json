@@ -6,9 +6,9 @@
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 96,
-  "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4005,9 +4005,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77318,
+  "EOS_Progressed": 77320,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 754,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26465,6 +26465,11 @@
       "Time": "2023-11-05T10:06:24.4981639+00:00",
       "NumProgressed": 77318,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-05T11:05:18.167584+00:00",
+      "NumProgressed": 77320,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26492,7 +26497,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13917
+      "UsersEstimate": 13918
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -26588,7 +26593,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36339
+      "UsersEstimate": 36340
     },
     {
       "ID": "customize_a_vehicle",
@@ -26596,7 +26601,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26288
+      "UsersEstimate": 26289
     },
     {
       "ID": "customize_a_weapon",
@@ -26660,7 +26665,7 @@
       "Name": "Power Players",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 14690
+      "UsersEstimate": 14691
     },
     {
       "ID": "empire_tier_4",
@@ -26684,7 +26689,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25515
+      "UsersEstimate": 25516
     },
     {
       "ID": "fully_complete_a_building",
@@ -26692,7 +26697,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17783
+      "UsersEstimate": 17784
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -26724,7 +26729,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27834
+      "UsersEstimate": 27835
     },
     {
       "ID": "hit_max_level",
@@ -26756,7 +26761,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21649
+      "UsersEstimate": 21650
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26772,7 +26777,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27061
+      "UsersEstimate": 27062
     },
     {
       "ID": "one_third_purple",
@@ -26788,7 +26793,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6185
+      "UsersEstimate": 6186
     },
     {
       "ID": "prank_coop_partner",
@@ -26899,22 +26904,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77318,
+      "Progressed": 77320,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 48955,
-      "Completed": 4251
+      "Progressed": 48957,
+      "Completed": 4253
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-05T01:50:26.3388657+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:06:24.4981635+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:05:18.1675835+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-05T10:03:07.4298801+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:06:24.4983464+00:00"
+  "LastUpdate_Ratings": "2023-11-05T11:02:44.2191452+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:05:18.1677707+00:00"
 }

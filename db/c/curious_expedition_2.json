@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_Completed": 224,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -305,6 +305,11 @@
       "Time": "2023-11-02T00:09:08.4637436+00:00",
       "NumProgressed": 335,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T11:09:06.6045764+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -412,7 +417,7 @@
       "Name": "Traveller",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -458,9 +463,9 @@
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 134
     },
     {
       "ID": "ach-campaign-story3",
@@ -468,7 +473,7 @@
       "Name": "O Captain My Captain",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach-cartography-complete",
@@ -578,9 +583,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 87
     },
     {
       "ID": "ach-kill-hyenas",
@@ -628,7 +633,7 @@
       "Name": "The Great Library",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -660,7 +665,7 @@
       "Name": "Insomnia",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ach-pacifist-goals",
@@ -668,7 +673,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach-paleMask-cure",
@@ -684,7 +689,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ach-portal-return",
@@ -692,7 +697,7 @@
       "Name": "From Whence we Came",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ach-promotion",
@@ -722,9 +727,9 @@
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 50
     },
     {
       "ID": "ach-rob-shrines",
@@ -732,7 +737,7 @@
       "Name": "Plunderer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach-salamanderPrince",
@@ -795,7 +800,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 1
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-05T10:09:40.1428805+00:00",
+  "LastChanged_Achievements": "2023-11-05T11:09:06.6045757+00:00",
   "LastUpdate_AppInfo": "2023-11-04T10:56:59.8670243+00:00",
-  "LastUpdate_Ratings": "2023-11-05T09:58:39.7561466+00:00",
-  "LastUpdate_Achievements": "2023-11-05T10:09:40.1429376+00:00"
+  "LastUpdate_Ratings": "2023-11-05T10:58:13.5880891+00:00",
+  "LastUpdate_Achievements": "2023-11-05T11:09:06.6047031+00:00"
 }

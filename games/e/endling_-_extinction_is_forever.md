@@ -14,8 +14,8 @@
 | You Can Pet The Fox | 30.00% | ~158 |
 | Hard Fox Life | 24.00% | ~127 |
 | Never Let Down | 23.00% | ~121 |
-| A Barking Fox Doesn't Bite | 21.00% | ~111 |
-| Chicken Dinner | 20.00% | ~106 |
+| A Barking Fox Doesn't Bite | 22.00% | ~116 |
+| Chicken Dinner | 21.00% | ~111 |
 | Peaceful Instinct | 18.00% | ~95 |
 | Maternity | 16.00% | ~84 |
 | Barking in The Rain | 15.00% | ~79 |
@@ -34,7 +34,7 @@
 | Endling | 0.90% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 528 (Ranked 288)  
-Completed: 3 (0.57%) (Ranked 183)  
+Completed: 3 (0.57%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 100.00% | ~23 |
-| Suicide squad | 43.00% | ~10 |
-| First blood | 22.00% | ~5 |
-| Train hard, fight easy | 17.00% | ~4 |
-| Royal blessing | 17.00% | ~4 |
-| Under cover | 17.00% | ~4 |
-| Surpass the teacher | 13.00% | ~3 |
-| All for one! | 13.00% | ~3 |
-| By own strength | 13.00% | ~3 |
-| A hidden snake | 13.00% | ~3 |
-| Blood and sand | 13.00% | ~3 |
-| Crimson rivers | 9.00% | ~2 |
-| Overplay the rogue | 9.00% | ~2 |
-| Berkanan Borgia | 9.00% | ~2 |
-| Power of Inquisition | 9.00% | ~2 |
-| The champion of the arena | 9.00% | ~2 |
-| Vene, vidi, vici | 9.00% | ~2 |
-| A solo player | 9.00% | ~2 |
-| Punish the Punisher | 9.00% | ~2 |
-| Protect the Healer! | 9.00% | ~2 |
-| Cunning plan | 9.00% | ~2 |
-| Help of the Gell | 9.00% | ~2 |
-| Trial by cold | 9.00% | ~2 |
-| She-Wolf | 9.00% | ~2 |
+| First success | 100.00% | ~25 |
+| Suicide squad | 44.00% | ~11 |
+| First blood | 24.00% | ~6 |
+| Train hard, fight easy | 20.00% | ~5 |
+| Under cover | 20.00% | ~5 |
+| All for one! | 16.00% | ~4 |
+| Royal blessing | 16.00% | ~4 |
+| A hidden snake | 16.00% | ~4 |
+| Blood and sand | 16.00% | ~4 |
+| Crimson rivers | 12.00% | ~3 |
+| Overplay the rogue | 12.00% | ~3 |
+| Power of Inquisition | 12.00% | ~3 |
+| Surpass the teacher | 12.00% | ~3 |
+| Vene, vidi, vici | 12.00% | ~3 |
+| By own strength | 12.00% | ~3 |
+| Protect the Healer! | 12.00% | ~3 |
+| Help of the Gell | 12.00% | ~3 |
+| Berkanan Borgia | 8.00% | ~2 |
+| The champion of the arena | 8.00% | ~2 |
+| Rage | 8.00% | ~2 |
+| Deadly strike | 8.00% | ~2 |
+| A solo player | 8.00% | ~2 |
+| Punish the Punisher | 8.00% | ~2 |
+| Cunning plan | 8.00% | ~2 |
+| Trial by cold | 8.00% | ~2 |
+| She-Wolf | 8.00% | ~2 |
 | For the greater good | 4.00% | ~1 |
 | Collector | 4.00% | ~1 |
 | The best apprentice | 4.00% | ~1 |
 | Stronger than Gellian steel | 4.00% | ~1 |
 | First among Frisians | 4.00% | ~1 |
-| Rage | 4.00% | ~1 |
 | The power of persuasion | 4.00% | ~1 |
-| Deadly strike | 4.00% | ~1 |
 | Do it yourself | 4.00% | ~1 |
 | All's fair in love and war | 4.00% | ~1 |
 | The End | 4.00% | ~1 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 514)  
-Completed: 0 (0.00%) (Ranked 343)  
+Progressed: 25 (Ranked 511)  
+Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 343)
 | 2023-11-02 | 12 | 0 |
 | 2023-11-03 | 15 | 0 |
 | 2023-11-04 | 20 | 0 |
-| 2023-11-05 | 23 | 0 |
+| 2023-11-05 | 25 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
