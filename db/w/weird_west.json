@@ -2653,9 +2653,9 @@
       "ID": "ACH_CHAIN_REACTION",
       "SetID": "8j30i9k",
       "Name": "Chain Reaction",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 535
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -3085,8 +3085,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:20:56.144459+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:08:10.9532346+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.3236898+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:58:21.324003+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:20:56.1445134+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:57:51.8626203+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:08:10.9532948+00:00"
 }

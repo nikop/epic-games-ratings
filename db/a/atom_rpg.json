@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2928,6 +2928,11 @@
       "Time": "2023-11-05T10:09:16.3471311+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-05T15:08:49.1480294+00:00",
+      "NumProgressed": 1295,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2995,7 +3000,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "EXPERT_1",
@@ -3059,7 +3064,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LOVE_GURU_1",
@@ -3067,7 +3072,7 @@
       "Name": "Love Guru",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -3099,7 +3104,7 @@
       "Name": "One shot, one kill",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "PACIFIST",
@@ -3163,7 +3168,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "SECRET_ROOM",
@@ -3193,9 +3198,9 @@
       "ID": "TRAVELER_1",
       "SetID": "bf13m8j",
       "Name": "Traveler",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 324
     },
     {
       "ID": "VVE",
@@ -3226,15 +3231,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1295,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:22:11.5904893+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:08:49.1480289+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:49.7458005+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:02:53.5817297+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:22:11.5905315+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:58:27.0689575+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:08:49.1480669+00:00"
 }

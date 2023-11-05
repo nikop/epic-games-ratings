@@ -9,7 +9,7 @@
 | Space | 55.00% | ~69 |
 | Haunted Mansion | 52.00% | ~65 |
 | Science Laboratory | 44.00% | ~55 |
-| Ball Disposal Facility | 39.00% | ~49 |
+| Ball Disposal Facility | 40.00% | ~50 |
 | Mecha Wars | 38.00% | ~48 |
 | Sewer | 37.00% | ~46 |
 | Arcade | 36.00% | ~45 |

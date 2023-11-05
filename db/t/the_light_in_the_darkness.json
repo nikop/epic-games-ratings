@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2603,
+  "EOS_Progressed": 2604,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 9.03,
+  "EOS_Completed_Percentage": 9.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -6996,6 +6996,11 @@
       "Time": "2023-11-05T14:22:28.6697905+00:00",
       "NumProgressed": 2603,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-11-05T15:09:03.8984446+00:00",
+      "NumProgressed": 2604,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 12,
@@ -7007,7 +7012,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "Bernard",
@@ -7015,7 +7020,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Building the Fox",
@@ -7047,7 +7052,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "Jude",
@@ -7055,7 +7060,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Le Juif et la France",
@@ -7063,7 +7068,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "Little Helper",
@@ -7102,7 +7107,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2603,
+      "Progressed": 2604,
       "Completed": 235
     }
   ],
@@ -7110,8 +7115,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:22:28.6697898+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:09:03.8984436+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:00.2861295+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:15:13.290058+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:22:28.6698382+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:02:32.8801052+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:09:03.8984996+00:00"
 }

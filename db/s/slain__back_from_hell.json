@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39833,
+  "EOS_Progressed": 39835,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -22068,6 +22068,11 @@
       "Time": "2023-11-05T14:16:30.2968405+00:00",
       "NumProgressed": 39833,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-05T15:03:06.9755842+00:00",
+      "NumProgressed": 39835,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22111,7 +22116,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -22127,7 +22132,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -22271,7 +22276,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -22279,7 +22284,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -22310,7 +22315,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39833,
+      "Progressed": 39835,
       "Completed": 26
     }
   ],
@@ -22318,8 +22323,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:16:30.296839+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:03:06.9755837+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:59:31.5014337+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:16:30.2970809+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:58:06.3781601+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:03:06.9758286+00:00"
 }

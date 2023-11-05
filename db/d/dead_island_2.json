@@ -6141,10 +6141,10 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713118,
+  "EOS_Progressed": 713172,
   "EOS_Completed": 2333,
-  "EOS_NewPlayers": 5674,
-  "EOS_NewCompleters": 57,
+  "EOS_NewPlayers": 5667,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28831,6 +28831,11 @@
       "Time": "2023-11-05T14:18:38.5990454+00:00",
       "NumProgressed": 713118,
       "NumCompleted": 2333
+    },
+    {
+      "Time": "2023-11-05T15:04:54.1587106+00:00",
+      "NumProgressed": 713172,
+      "NumCompleted": 2333
     }
   ],
   "TotalAchievements": 51,
@@ -28968,9 +28973,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_good_eyesight",
@@ -29002,7 +29007,7 @@
       "Name": "Hotel California",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "ach_impressive_aim",
@@ -29072,9 +29077,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 1426
     },
     {
       "ID": "ach_mind_over_monster",
@@ -29178,7 +29183,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2139
+      "UsersEstimate": 2140
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29200,9 +29205,9 @@
       "ID": "ach_brink_of_success",
       "SetID": "344c43k",
       "Name": "One of Us",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 271
+      "UsersEstimate": 310
     },
     {
       "ID": "ach_dark_magic",
@@ -29249,22 +29254,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713118,
+      "Progressed": 713172,
       "Completed": 2333
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 38660,
-      "Completed": 36440
+      "Progressed": 38714,
+      "Completed": 36441
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-05T13:57:12.9157908+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:18:38.599045+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:04:54.1587101+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:57:12.915793+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:18:38.5992166+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:57:01.1833882+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:04:54.1589005+00:00"
 }

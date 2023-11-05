@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.60 (Ranked 407)  
+Rating: 4.60 (Ranked 406)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.60 (Ranked 407)
 | Oui, Chef! | 23.00% | ~1,738 |
 | Clear the Air | 18.00% | ~1,360 |
 | Botanical Breakthrough | 17.00% | ~1,285 |
-| Search for the Hairy Grell | 13.00% | ~982 |
+| Search for the Hairy Grell | 14.00% | ~1,058 |
 | Beach Comber | 13.00% | ~982 |
 | Higher Tax Bracket | 13.00% | ~982 |
 | Skilled | 9.00% | ~680 |

@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AnomalyDestroyer",
@@ -474,9 +474,9 @@
       "ID": "AstreasSaviors",
       "SetID": "1jeo1g7",
       "Name": "Astrea\u0027s Saviors",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AstriumSpecialist",
@@ -1026,17 +1026,17 @@
       "ID": "AquarianHero",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Hero",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AquarianMastery",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Mastery",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BehenianChampion",
@@ -1145,8 +1145,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:17:33.6675651+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:04:00.3255272+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:09:17.1678932+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:17:33.6676718+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:59:15.1256628+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:04:00.3256424+00:00"
 }

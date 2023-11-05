@@ -5949,9 +5949,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1383
     },
     {
       "ID": "A48",
@@ -6022,8 +6022,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-10-26T15:57:24.51616+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:16:54.1036766+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:03:27.0695317+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:14:38.270447+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:16:54.1037532+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:00:14.1087506+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:03:27.069615+00:00"
 }

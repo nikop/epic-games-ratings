@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 1.00% | ~8,954 |
+| V for Vendetta | 2.00% | ~17,908 |
 | Gun Fu | 0.70% | ~6,268 |
 | Relic Ruler | 0.50% | ~120 |
 | Full Body Conversion | 0.30% | ~2,686 |
@@ -29,6 +29,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
 | Spin Doctor | 0.20% | ~48 |
+| King of Wands | 0.20% | ~48 |
 | Dirty Deeds | 0.20% | ~48 |
 | City Lights | 0.10% | ~895 |
 | To Bad Decisions! | 0.10% | ~895 |
@@ -60,7 +61,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Cups | 0.10% | ~24 |
 | King of Pentacles | 0.10% | ~24 |
 | King of Swords | 0.10% | ~24 |
-| King of Wands | 0.10% | ~24 |
 | The Tower | 0.10% | ~24 |
 | Easy Come, Easy Go | 0.10% | ~24 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,367 (Ranked 15)  
-Completed: 2,746 (0.31%) (Ranked 221)  
+Progressed: 895,376 (Ranked 15)  
+Completed: 2,747 (0.31%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,7 +273,7 @@ Completed: 2,746 (0.31%) (Ranked 221)
 | 2023-11-02 | 894,965 | 2,738 |
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
-| 2023-11-05 | 895,367 | 2,746 |
+| 2023-11-05 | 895,376 | 2,747 |
 ## Awards
 Max (Character Customization): 103,855  (Ranked 9)  
 Sum: 342,984 (Ranked 10)  

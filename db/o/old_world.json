@@ -1980,9 +1980,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15151,
+  "EOS_Progressed": 15153,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15410,6 +15410,11 @@
       "Time": "2023-11-05T13:08:23.14112+00:00",
       "NumProgressed": 15151,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-05T15:05:06.2381505+00:00",
+      "NumProgressed": 15153,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16059,9 +16064,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -17379,17 +17384,17 @@
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -17419,9 +17424,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -17475,9 +17480,9 @@
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
       "SetID": "9201eeb",
       "Name": "Three Man Chariot",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
@@ -17907,9 +17912,9 @@
       "ID": "ACHIEVEMENT_EGYPT3_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Glory to The Aten",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_EGYPT3_MINOR_VICTORY",
@@ -18156,21 +18161,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15151,
+      "Progressed": 15153,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15151,
+      "Progressed": 15153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-03T19:59:12.6837748+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:18:52.8788129+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:05:06.2381494+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:13:30.2743991+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:18:52.8798985+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:59:56.1208221+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:05:06.2393282+00:00"
 }

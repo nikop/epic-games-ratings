@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 743)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 7.00% | ~1,129 |
-| Crush That Cube! | 6.00% | ~967 |
-| Sector 2 | 6.00% | ~967 |
-| Sector 3 | 5.00% | ~806 |
-| Crush That Ball! | 4.00% | ~645 |
-| Sector 4 | 4.00% | ~645 |
+| Sector 1 | 7.00% | ~1,130 |
+| Crush That Cube! | 6.00% | ~969 |
+| Sector 2 | 6.00% | ~969 |
+| Sector 3 | 5.00% | ~807 |
+| Crush That Ball! | 4.00% | ~646 |
+| Sector 4 | 4.00% | ~646 |
 | Sector 5 | 3.00% | ~484 |
-| Feeling the Blues | 2.00% | ~322 |
-| Squished | 2.00% | ~322 |
-| Finale | 2.00% | ~322 |
-| Sector 6 | 2.00% | ~322 |
-| Sector 7 | 2.00% | ~322 |
+| Feeling the Blues | 2.00% | ~323 |
+| Squished | 2.00% | ~323 |
+| Finale | 2.00% | ~323 |
+| Sector 6 | 2.00% | ~323 |
+| Sector 7 | 2.00% | ~323 |
 | Did That Work? -- No! | 1.00% | ~161 |
 | Master Room | 0.90% | ~145 |
 | The Puzzle Master | 0.70% | ~113 |
 | Bronze Trophy | 0.50% | ~81 |
 | Phew! | 0.50% | ~81 |
 | Completed It. | 0.50% | ~81 |
-| The Collector | 0.40% | ~64 |
-| Master Of The Collectables | 0.40% | ~64 |
-| Gold Trophy | 0.40% | ~64 |
-| Hopefully that's all of them! | 0.40% | ~64 |
-| Silver Trophy | 0.40% | ~64 |
-| Maxed Out | 0.40% | ~64 |
+| The Collector | 0.40% | ~65 |
+| Master Of The Collectables | 0.40% | ~65 |
+| Gold Trophy | 0.40% | ~65 |
+| Hopefully that's all of them! | 0.40% | ~65 |
+| Silver Trophy | 0.40% | ~65 |
+| Maxed Out | 0.40% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,122 (Ranked 144)  
+Progressed: 16,146 (Ranked 144)  
 Completed: 18 (0.11%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 18 (0.11%) (Ranked 263)
 | 2023-11-02 | 14,773 | 2 |
 | 2023-11-03 | 15,270 | 7 |
 | 2023-11-04 | 15,819 | 16 |
-| 2023-11-05 | 16,122 | 18 |
+| 2023-11-05 | 16,146 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

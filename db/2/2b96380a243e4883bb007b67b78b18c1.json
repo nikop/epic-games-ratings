@@ -2,9 +2,9 @@
   "ID": "2b96380a243e4883bb007b67b78b18c1",
   "Name": "SPIRITUS",
   "ProductSlug": "spiritus-b0efa2",
-  "Ranking_EOS_Progress": 635,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-18T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
     {
       "Time": "2023-11-05T00:15:25.4185617+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T15:03:31.0739834+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -79,7 +84,7 @@
       "ID": "FirstKill",
       "SetID": "98k75ll",
       "Name": "First Kill",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "GameOver",
       "SetID": "98k75ll",
       "Name": "Game Over",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -95,23 +100,23 @@
       "ID": "Headshot",
       "SetID": "98k75ll",
       "Name": "Headshot!",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NewGame",
       "SetID": "98k75ll",
       "Name": "Enter the survival horror.",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Shotgun",
       "SetID": "98k75ll",
       "Name": "Obtain the shotgun",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -136,13 +141,13 @@
     {
       "ID": "98k75ll",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-04T09:03:31.3588011+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:16:58.9261572+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:03:31.0739827+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:26.7317569+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:57:51.2030091+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:16:58.9261664+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:57:31.724472+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:03:31.0739932+00:00"
 }

@@ -9,12 +9,12 @@
 | The great escape | 25.00% | ~110 |
 | The Preacher's fate | 24.00% | ~106 |
 | A new dawn | 21.00% | ~93 |
+| Scholar | 19.00% | ~84 |
 | True G3M4R | 18.00% | ~80 |
-| Scholar | 18.00% | ~80 |
+| A good beginning | 17.00% | ~75 |
 | The darkness | 17.00% | ~75 |
 | I did it | 16.00% | ~71 |
 | Cable guy | 16.00% | ~71 |
-| A good beginning | 16.00% | ~71 |
 | Half the way | 16.00% | ~71 |
 | One last step | 16.00% | ~71 |
 | Peace walker | 15.00% | ~66 |

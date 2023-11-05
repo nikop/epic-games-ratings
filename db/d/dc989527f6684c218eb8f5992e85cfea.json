@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13315,
+  "EOS_Progressed": 13318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13749,6 +13749,11 @@
       "Time": "2023-11-05T14:19:03.3578661+00:00",
       "NumProgressed": 13315,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-05T15:05:14.5913148+00:00",
+      "NumProgressed": 13318,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -13832,7 +13837,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5859
+      "UsersEstimate": 5860
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -13928,7 +13933,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -13959,14 +13964,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13315,
+      "Progressed": 13318,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:19:03.3578657+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:05:14.5913139+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.0887234+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:04:25.7882009+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:19:03.3579592+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:58:39.4906703+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:05:14.5914208+00:00"
 }

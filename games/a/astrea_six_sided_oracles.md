@@ -31,9 +31,9 @@
 | Unbeatable | 16.00% | ~11 |
 | Favored by the Cosmos | 15.00% | ~10 |
 | Stellar Haste | 13.00% | ~9 |
+| Anomaly Control | 12.00% | ~8 |
 | Heavy Purger | 12.00% | ~8 |
 | Apian Hero | 12.00% | ~8 |
-| Anomaly Control | 10.00% | ~7 |
 | The Dark Moon | 10.00% | ~7 |
 | Wave Bender | 10.00% | ~7 |
 | Behenian Hero | 10.00% | ~7 |
@@ -47,6 +47,7 @@
 | Sadistic Plan | 7.00% | ~5 |
 | If I Had Failed... | 6.00% | ~4 |
 | The Abyssal Terror | 6.00% | ~4 |
+| Aquarian Hero | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
 | Eridanian Hero | 6.00% | ~4 |
 | Noctuan Hero | 6.00% | ~4 |
@@ -55,16 +56,16 @@
 | Reflexive Mind | 4.00% | ~3 |
 | The Ardent Prince | 4.00% | ~3 |
 | The Raging Skies | 4.00% | ~3 |
-| Aquarian Hero | 4.00% | ~3 |
+| Aquarian Mastery | 4.00% | ~3 |
 | Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Prestidigitation | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
-| Aquarian Mastery | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Anomaly Master | 1.00% | ~1 |
 | Arch-Oracle | 1.00% | ~1 |
 | Astral Tinkerer | 1.00% | ~1 |
+| Astrea's Saviors | 1.00% | ~1 |
 | Astrium Specialist | 1.00% | ~1 |
 | Astromancer | 1.00% | ~1 |
 | Gotta tinker'em all! | 1.00% | ~1 |
@@ -79,7 +80,6 @@
 | Aquarian Champion | 0.00% | ~0 |
 | Aquarian Hero | 0.00% | ~0 |
 | Aquarian Mastery | 0.00% | ~0 |
-| Astrea's Saviors | 0.00% | ~0 |
 | Behenian Champion | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |
 | Behenian Mastery | 0.00% | ~0 |

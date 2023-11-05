@@ -1770,9 +1770,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "achievement_8",
@@ -1800,8 +1800,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:21:57.531171+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:08:37.2249406+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-05T13:59:06.593135+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:21:57.5311924+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:58:00.8253104+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:08:37.2249652+00:00"
 }

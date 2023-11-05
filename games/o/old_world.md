@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 1.00% | ~152 |
 | Lion | 1.00% | ~152 |
 | Mighty | 1.00% | ~152 |
+| Subjugator | 1.00% | ~152 |
 | Victorious | 1.00% | ~152 |
 | Good Difficulty | 1.00% | ~152 |
 | Champions | 1.00% | ~152 |
@@ -92,19 +93,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 1.00% | ~152 |
 | Legalism | 1.00% | ~152 |
 | Mythology | 1.00% | ~152 |
+| Redemption | 1.00% | ~152 |
 | Double Victory | 1.00% | ~152 |
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
 | Kushite Pyramids | 1.00% | ~152 |
-| Subjugator | 0.90% | ~136 |
 | Landowners | 0.90% | ~136 |
 | Hittite Iron | 0.90% | ~136 |
 | Hagia Sophia | 0.90% | ~136 |
 | Pantheon | 0.90% | ~136 |
 | Via Recta Souk | 0.90% | ~136 |
 | Military Prestige | 0.90% | ~136 |
+| Dualism | 0.90% | ~136 |
 | Gnosticism | 0.90% | ~136 |
-| Redemption | 0.90% | ~136 |
 | Cimmerian Archer | 0.90% | ~136 |
 | Legionary | 0.90% | ~136 |
 | Phalangite | 0.90% | ~136 |
@@ -117,7 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.80% | ~121 |
 | One True Faith | 0.80% | ~121 |
 | Industrial Progress | 0.80% | ~121 |
-| Dualism | 0.80% | ~121 |
+| Enlightenment | 0.80% | ~121 |
 | Revelation | 0.80% | ~121 |
 | Veneration | 0.80% | ~121 |
 | Mounted Lancer | 0.80% | ~121 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.70% | ~106 |
 | Egypt | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |
-| Enlightenment | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
 | Kmt Unified | 0.70% | ~106 |
@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.40% | ~61 |
 | Capturing Cities | 0.40% | ~61 |
 | Ten Crowns | 0.40% | ~61 |
+| Three Man Chariot | 0.40% | ~61 |
 | Rmt n Kmt Buhen | 0.40% | ~61 |
 | Greater Kmt Unified | 0.40% | ~61 |
 | Bronze Victory (Carthage 1) | 0.30% | ~45 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.30% | ~45 |
 | Persia | 0.30% | ~45 |
 | Play a Network Game | 0.30% | ~45 |
-| Three Man Chariot | 0.30% | ~45 |
 | Siege Tower | 0.30% | ~45 |
 | Conquest Victory | 0.30% | ~45 |
 | Necropolis in Waset | 0.30% | ~45 |
@@ -193,6 +193,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.20% | ~30 |
 | Pantheon in Roma | 0.20% | ~30 |
 | Randomized Leaders | 0.20% | ~30 |
+| Glory to The Aten | 0.20% | ~30 |
 | Akhenaten's Legacy | 0.20% | ~30 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the Great | 0.10% | ~15 |
@@ -314,7 +315,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Prosperous Pharaonic Kmt | 0.10% | ~15 |
 | Failed the Aten | 0.10% | ~15 |
 | Akhen-who? | 0.10% | ~15 |
-| Glory to The Aten | 0.10% | ~15 |
 | Pharaonic Glory to The Aten | 0.10% | ~15 |
 | Akhenaten's Pharaonic Legacy | 0.10% | ~15 |
 | Qadesh Defeat | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,151 (Ranked 145)  
+Progressed: 15,153 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -548,7 +548,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-02 | 15,108 | 5 |
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
-| 2023-11-05 | 15,151 | 5 |
+| 2023-11-05 | 15,153 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 269)  
 Sum: 1,867 (Ranked 212)  

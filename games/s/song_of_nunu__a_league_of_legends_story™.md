@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~334 |
-| I Broke It | 69.00% | ~312 |
-| Better On Ice | 66.00% | ~298 |
-| Blue Dreams | 64.00% | ~289 |
-| He's Famous! | 64.00% | ~289 |
-| Notai Notes | 64.00% | ~289 |
-| Cutie Poro | 63.00% | ~285 |
-| Krugmazing | 60.00% | ~271 |
-| The Fire Below the Mountain | 57.00% | ~258 |
+| Feels Familiar | 74.00% | ~335 |
+| I Broke It | 70.00% | ~317 |
+| Better On Ice | 66.00% | ~299 |
+| Notai Notes | 65.00% | ~294 |
+| Blue Dreams | 64.00% | ~290 |
+| He's Famous! | 64.00% | ~290 |
+| Cutie Poro | 64.00% | ~290 |
+| Krugmazing | 61.00% | ~276 |
+| The Fire Below the Mountain | 58.00% | ~263 |
 | Moneyball | 55.00% | ~249 |
+| No Bites | 48.00% | ~217 |
 | Iceborn | 48.00% | ~217 |
-| No Bites | 47.00% | ~212 |
-| Tear of Freedom | 45.00% | ~203 |
-| Boom Things | 44.00% | ~199 |
+| Tear of Freedom | 45.00% | ~204 |
+| Boom Things | 45.00% | ~204 |
 | Rhythm Of Willump | 42.00% | ~190 |
-| My Darkest Day | 41.00% | ~185 |
-| True Legends | 39.00% | ~176 |
-| The Relentless Storm | 37.00% | ~167 |
+| My Darkest Day | 41.00% | ~186 |
+| True Legends | 40.00% | ~181 |
+| The Relentless Storm | 38.00% | ~172 |
 | A Tragic Reminder | 36.00% | ~163 |
-| The Finisher | 35.00% | ~158 |
-| 3000 Year Blackout | 33.00% | ~149 |
-| On The Rocks | 33.00% | ~149 |
+| The Finisher | 35.00% | ~159 |
+| 3000 Year Blackout | 34.00% | ~154 |
+| On The Rocks | 34.00% | ~154 |
+| Never Gets Old | 32.00% | ~145 |
 | Snowy Poro | 31.00% | ~140 |
-| Never Gets Old | 31.00% | ~140 |
 | So Close | 30.00% | ~136 |
 | Bullseye | 30.00% | ~136 |
 | You Get Used To It | 29.00% | ~131 |
@@ -49,7 +49,7 @@
 | Sneaky Notai | 2.00% | ~9 |
 | Rock Star | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452 (Ranked 297)  
+Progressed: 453 (Ranked 297)  
 Completed: 4 (0.88%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 4 (0.88%) (Ranked 164)
 | 2023-11-02 | 283 | 4 |
 | 2023-11-03 | 358 | 4 |
 | 2023-11-04 | 428 | 4 |
-| 2023-11-05 | 452 | 4 |
+| 2023-11-05 | 453 | 4 |

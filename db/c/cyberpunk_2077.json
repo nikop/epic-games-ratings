@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14720,10 +14720,10 @@
       "Count": 12416
     }
   ],
-  "EOS_Progressed": 895367,
-  "EOS_Completed": 2746,
-  "EOS_NewPlayers": 937,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 895376,
+  "EOS_Completed": 2747,
+  "EOS_NewPlayers": 933,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37240,6 +37240,11 @@
       "Time": "2023-11-05T14:20:06.469313+00:00",
       "NumProgressed": 895367,
       "NumCompleted": 2746
+    },
+    {
+      "Time": "2023-11-05T15:06:09.0682954+00:00",
+      "NumProgressed": 895376,
+      "NumCompleted": 2747
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37578,9 +37583,9 @@
       "ID": "VForVendetta",
       "SetID": "47clieb",
       "Name": "V for Vendetta",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8954
+      "UsersEstimate": 17908
     },
     {
       "ID": "YipMan",
@@ -37754,9 +37759,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "TheTower",
@@ -37787,21 +37792,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895367,
-      "Completed": 2746
+      "Progressed": 895376,
+      "Completed": 2747
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 23990,
-      "Completed": 10189
+      "Progressed": 23999,
+      "Completed": 10190
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-05T13:02:55.2282278+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:20:06.4693125+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:06:09.0682949+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:10:58.4883818+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:20:06.469493+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:59:28.5845356+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:06:09.0685137+00:00"
 }

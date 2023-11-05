@@ -2,12 +2,12 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 407,
+  "Ranking_Rating": 406,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -171,7 +171,7 @@
   "Tags": [],
   "EOS_Progressed": 7557,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6224,9 +6224,9 @@
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 982
+      "UsersEstimate": 1058
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -6479,8 +6479,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:22:22.1101013+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:08:58.358737+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:15:41.2697747+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:22:22.1101623+00:00"
+  "LastUpdate_Ratings": "2023-11-05T15:02:45.7016465+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:08:58.3588013+00:00"
 }

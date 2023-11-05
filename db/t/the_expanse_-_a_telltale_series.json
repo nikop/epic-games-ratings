@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14669,
+  "EOS_Progressed": 14672,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10471,6 +10471,11 @@
       "Time": "2023-11-05T14:19:55.001457+00:00",
       "NumProgressed": 14669,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-05T15:05:59.3730036+00:00",
+      "NumProgressed": 14672,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10515,7 +10520,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "14",
@@ -10762,13 +10767,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14669,
+      "Progressed": 14672,
       "Completed": 32
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 623,
+      "Progressed": 626,
       "Completed": 377
     }
   ],
@@ -10776,8 +10781,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-05T14:19:55.0014565+00:00",
+  "LastChanged_Achievements": "2023-11-05T15:05:59.3730031+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-05T14:13:05.8276916+00:00",
-  "LastUpdate_Achievements": "2023-11-05T14:19:55.0015407+00:00"
+  "LastUpdate_Ratings": "2023-11-05T14:59:47.8028363+00:00",
+  "LastUpdate_Achievements": "2023-11-05T15:05:59.3730953+00:00"
 }
