@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1435,7 +1435,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13570,
+  "EOS_Progressed": 13571,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 1,
@@ -14100,6 +14100,11 @@
       "Time": "2023-11-06T22:08:38.9368207+00:00",
       "NumProgressed": 13570,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-06T23:08:43.5888891+00:00",
+      "NumProgressed": 13571,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -14111,7 +14116,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10992
+      "UsersEstimate": 10993
     },
     {
       "ID": "ACH02",
@@ -14223,7 +14228,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH16",
@@ -14255,7 +14260,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH20",
@@ -14390,7 +14395,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13570,
+      "Progressed": 13571,
       "Completed": 51
     }
   ],
@@ -14398,8 +14403,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-06T17:03:25.7599111+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:08:38.93682+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:08:43.5888886+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:58:14.8802526+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:08:38.9369457+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:59:08.3085276+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:08:43.5889705+00:00"
 }

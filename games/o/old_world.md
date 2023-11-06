@@ -35,6 +35,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 2.00% | ~304 |
 | Keystone | 2.00% | ~304 |
 | Magnificent | 2.00% | ~304 |
+| Mighty | 2.00% | ~304 |
 | Valiant | 2.00% | ~304 |
 | Warrior | 2.00% | ~304 |
 | Wise | 2.00% | ~304 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 1.00% | ~152 |
 | Invincible | 1.00% | ~152 |
 | Lion | 1.00% | ~152 |
-| Mighty | 1.00% | ~152 |
 | Subjugator | 1.00% | ~152 |
 | Victorious | 1.00% | ~152 |
 | Good Difficulty | 1.00% | ~152 |
@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 1.00% | ~152 |
 | Statesmen | 1.00% | ~152 |
 | Traders | 1.00% | ~152 |
+| Hittite Iron | 1.00% | ~152 |
 | Acropolis | 1.00% | ~152 |
 | Circus Maximus | 1.00% | ~152 |
 | Hagia Sophia | 1.00% | ~152 |
@@ -100,25 +101,24 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~152 |
 | Redemption | 1.00% | ~152 |
 | Cimmerian Archer | 1.00% | ~152 |
+| Legionary | 1.00% | ~152 |
 | Double Victory | 1.00% | ~152 |
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
 | Strong Difficulty | 0.90% | ~137 |
 | Hunters | 0.90% | ~137 |
-| Hittite Iron | 0.90% | ~137 |
 | Church of the Holy Sepulchre | 0.90% | ~137 |
 | Pantheon | 0.90% | ~137 |
+| Learn to Play 4 | 0.90% | ~137 |
+| Carthage | 0.90% | ~137 |
 | Dualism | 0.90% | ~137 |
 | Gnosticism | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
-| Legionary | 0.90% | ~137 |
 | Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
 | Capable | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
-| Learn to Play 4 | 0.80% | ~122 |
 | Babylonia | 0.80% | ~122 |
-| Carthage | 0.80% | ~122 |
 | One True Faith | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.70% | ~106 |
 | Egypt | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |
+| Hittite Paganism | 0.70% | ~106 |
 | Turreted Elephant | 0.70% | ~106 |
 | The Great Mage | 0.70% | ~106 |
 | Poetic Leader | 0.70% | ~106 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.60% | ~91 |
 | Adur Burzen-Mihr | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
-| Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Old | 0.50% | ~76 |
@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.40% | ~61 |
 | Three Man Chariot | 0.40% | ~61 |
 | Siege Tower | 0.40% | ~61 |
+| Conquest Victory | 0.40% | ~61 |
 | Rmt n Kmt Buhen | 0.40% | ~61 |
 | Greater Kmt Unified | 0.40% | ~61 |
 | Bronze Victory (Carthage 1) | 0.30% | ~46 |
@@ -171,7 +172,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.30% | ~46 |
 | Play a Network Game | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
-| Conquest Victory | 0.30% | ~46 |
 | Necropolis in Waset | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
 | Gold Victory (Carthage 1) | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,190 (Ranked 145)  
+Progressed: 15,191 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
-| 2023-11-06 | 15,190 | 5 |
+| 2023-11-06 | 15,191 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 270)  
 Sum: 1,868 (Ranked 212)  

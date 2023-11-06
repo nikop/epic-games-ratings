@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 131,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 88,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-11-06T22:08:54.3531085+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T23:08:58.7787995+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -369,7 +374,7 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 45,
       "UsersEstimate": 16
     },
@@ -433,7 +438,7 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 45,
       "UsersEstimate": 22
     },
@@ -466,14 +471,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 88,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:08:54.3531079+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:08:58.7787989+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:57:05.3147187+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:08:54.3531212+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:57:25.5929048+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:08:58.7788089+00:00"
 }

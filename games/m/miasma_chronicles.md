@@ -11,7 +11,7 @@ Rating: 4.43 (Ranked 688)
 | Gun for Hire | 69.00% | ~1,089 |
 | I am the law! | 63.00% | ~994 |
 | Lumberjack | 53.00% | ~836 |
-| Croaked | 48.00% | ~757 |
+| Croaked | 49.00% | ~773 |
 | Limp Richard | 48.00% | ~757 |
 | Editor Adept | 47.00% | ~742 |
 | Exorcist | 47.00% | ~742 |

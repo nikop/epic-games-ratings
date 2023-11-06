@@ -3881,9 +3881,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 773
     },
     {
       "ID": "CRUELTY",
@@ -4218,8 +4218,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:09:08.3919158+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:09:11.536507+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:48.9063785+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:57:08.4578293+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:09:08.3919842+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:57:38.4653544+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:09:11.5365584+00:00"
 }

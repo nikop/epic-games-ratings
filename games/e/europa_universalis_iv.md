@@ -63,6 +63,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | On the Rhodes Again | 0.10% | ~449 |
 | One Faith | 0.10% | ~449 |
 | One Family to Rule them All | 0.10% | ~449 |
+| One King to Rule! | 0.10% | ~449 |
 | Over a Thousand! | 0.10% | ~449 |
 | Populists in Government | 0.10% | ~449 |
 | Queen of Conquest | 0.10% | ~449 |
@@ -256,7 +257,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| One King to Rule! | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | One Night in Paris | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,822 (Ranked 41)  
+Progressed: 448,846 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,14 +570,14 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,822 | 1 |
+| 2023-11-06 | 448,846 | 1 |
 ## Awards
-Max (Educational): 6,844  (Ranked 54)  
-Sum: 56,376 (Ranked 24)  
+Max (Educational): 6,879  (Ranked 54)  
+Sum: 56,411 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,844 |
+| This game is Educational | 6,879 |
 | This game has Diverse Characters | 6,592 |
 | This game is Highly Recommended | 6,550 |
 | This game has Challenging Combat | 6,480 |
@@ -883,4 +883,4 @@ Diff (max vs sum): 30
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
-| 2023-11-06 | 4.69 | - | 6,844 | 56,376 |
+| 2023-11-06 | 4.69 | - | 6,879 | 56,411 |

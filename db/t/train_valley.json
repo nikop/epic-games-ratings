@@ -1447,9 +1447,9 @@
       "ID": "18_foreman",
       "SetID": "chb1m60",
       "Name": "Foreman",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "19_justintime",
@@ -1631,8 +1631,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:06:25.7594737+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:07:04.1486481+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:20.0727765+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:57:04.1288539+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:06:25.759516+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:57:23.6720439+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:07:04.1486786+00:00"
 }

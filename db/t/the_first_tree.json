@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37610,
+  "EOS_Progressed": 37611,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -17663,6 +17663,11 @@
       "Time": "2023-11-06T22:03:50.4233562+00:00",
       "NumProgressed": 37610,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-11-06T23:04:34.3485283+00:00",
+      "NumProgressed": 37611,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 14,
@@ -17674,7 +17679,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "150stars",
@@ -17754,7 +17759,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9026
+      "UsersEstimate": 9027
     },
     {
       "ID": "firstItem",
@@ -17785,15 +17790,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37610,
+      "Progressed": 37611,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:03:50.4233556+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:04:34.348528+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.8183458+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:58:00.4341861+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:03:50.4234892+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:58:54.4014334+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:04:34.3486311+00:00"
 }

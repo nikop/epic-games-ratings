@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 91.00% | ~128 |
-| The Routine | 80.00% | ~113 |
-| Mother | 79.00% | ~111 |
-| Failure | 76.00% | ~107 |
-| Replace Fuse | 66.00% | ~93 |
-| Alarm | 65.00% | ~92 |
-| Air Filtration | 62.00% | ~87 |
+| Last Goodbye | 91.00% | ~129 |
+| The Routine | 80.00% | ~114 |
+| Mother | 78.00% | ~111 |
+| Failure | 75.00% | ~106 |
+| Replace Fuse | 65.00% | ~92 |
+| Alarm | 64.00% | ~91 |
+| Air Filtration | 61.00% | ~87 |
 | Broken | 60.00% | ~85 |
-| Radiation | 59.00% | ~83 |
-| Descent | 57.00% | ~80 |
-| Awakenings | 57.00% | ~80 |
-| Cold Storage | 57.00% | ~80 |
-| Sam | 57.00% | ~80 |
-| Commissioner | 52.00% | ~73 |
-| Doctor | 50.00% | ~70 |
-| Soldier | 50.00% | ~70 |
-| Leave | 49.00% | ~69 |
-| Engineer | 49.00% | ~69 |
+| Radiation | 58.00% | ~82 |
+| Descent | 57.00% | ~81 |
+| Awakenings | 56.00% | ~80 |
+| Cold Storage | 56.00% | ~80 |
+| Sam | 56.00% | ~80 |
+| Commissioner | 52.00% | ~74 |
+| Leave | 49.00% | ~70 |
+| Doctor | 49.00% | ~70 |
+| Engineer | 49.00% | ~70 |
+| Soldier | 49.00% | ~70 |
 | Churchill | 48.00% | ~68 |
-| Press Play | 38.00% | ~54 |
+| Press Play | 37.00% | ~53 |
 | General | 29.00% | ~41 |
-| Bookworm | 25.00% | ~35 |
-| Floppy Disk Finder | 16.00% | ~23 |
+| Bookworm | 25.00% | ~36 |
+| Floppy Disk Finder | 15.00% | ~21 |
 | Stay | 14.00% | ~20 |
 | Nurse | 11.00% | ~16 |
-| No Page Unturned | 6.00% | ~8 |
-| Friends | 6.00% | ~8 |
-| The Missing Piece | 6.00% | ~8 |
+| No Page Unturned | 6.00% | ~9 |
+| Friends | 6.00% | ~9 |
+| The Missing Piece | 6.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 387)  
-Completed: 6 (4.26%) (Ranked 78)  
+Progressed: 142 (Ranked 387)  
+Completed: 6 (4.23%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 6 (4.26%) (Ranked 78)
 | 2023-11-02 | 138 | 5 |
 | 2023-11-03 | 139 | 5 |
 | 2023-11-05 | 140 | 5 |
-| 2023-11-06 | 141 | 6 |
+| 2023-11-06 | 142 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

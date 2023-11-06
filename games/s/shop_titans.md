@@ -69,6 +69,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.80% | ~1,110 |
 | Complete Monopoly | 0.80% | ~1,110 |
 | Cream of the Crop | 0.70% | ~971 |
+| Top of the World | 0.70% | ~971 |
 | Proud Paladin | 0.70% | ~971 |
 | Above the Norm | 0.70% | ~971 |
 | A Ronin Reborn | 0.70% | ~971 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.70% | ~971 |
 | Exotic Commodities | 0.70% | ~971 |
 | King's Blade | 0.70% | ~971 |
-| Top of the World | 0.60% | ~832 |
 | Constellated | 0.60% | ~832 |
 | Fillin' the Bin | 0.60% | ~832 |
 | Industrial Evolution | 0.60% | ~832 |

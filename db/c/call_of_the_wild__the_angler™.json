@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6405,
+  "EOS_Progressed": 6408,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9572,6 +9572,11 @@
       "Time": "2023-11-06T18:08:35.9896206+00:00",
       "NumProgressed": 6405,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T23:09:00.4948018+00:00",
+      "NumProgressed": 6408,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9597,9 +9602,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -9629,9 +9634,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9902,13 +9907,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6405,
+      "Progressed": 6408,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5777,
+      "Progressed": 5780,
       "Completed": 113
     }
   ],
@@ -9916,8 +9921,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:08:56.0012269+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:09:00.4948013+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:58:57.8120287+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:08:56.0013262+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:59:53.1330456+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:09:00.494868+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7593,
+  "EOS_Progressed": 7594,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6259,6 +6259,11 @@
       "Time": "2023-11-06T16:09:32.150718+00:00",
       "NumProgressed": 7593,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T23:09:09.6447943+00:00",
+      "NumProgressed": 7594,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6271,7 +6276,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6279,7 +6284,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5315
+      "UsersEstimate": 5316
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6287,7 +6292,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6319,7 +6324,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -6343,7 +6348,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "COLLECT_FISH",
@@ -6439,7 +6444,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -6487,7 +6492,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -6550,22 +6555,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7593,
+      "Progressed": 7594,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 210,
-      "Completed": 210
+      "Progressed": 211,
+      "Completed": 211
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:09:06.5463929+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:09:09.6447938+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:02:36.25598+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:09:06.5464619+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:03:22.5987199+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:09:09.6448437+00:00"
 }

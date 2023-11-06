@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6897,7 +6897,7 @@
   ],
   "EOS_Progressed": 138721,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27406,9 +27406,9 @@
       "ID": "advlevel05",
       "SetID": "anfd17p",
       "Name": "Top of the World",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 971
     },
     {
       "ID": "argon_a",
@@ -28278,8 +28278,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-06T21:57:42.9325342+00:00",
-  "LastChanged_Achievements": "2023-11-06T22:03:29.6480495+00:00",
+  "LastChanged_Achievements": "2023-11-06T23:04:15.7716695+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:57:42.9325351+00:00",
-  "LastUpdate_Achievements": "2023-11-06T22:03:29.6483179+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:58:37.9717261+00:00",
+  "LastUpdate_Achievements": "2023-11-06T23:04:15.7718918+00:00"
 }
