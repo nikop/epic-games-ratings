@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
 | Capable | 0.80% | ~121 |
+| Ready | 0.80% | ~121 |
 | Learn to Play 4 | 0.80% | ~121 |
 | Babylonia | 0.80% | ~121 |
 | Carthage | 0.80% | ~121 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.80% | ~121 |
 | Mounted Lancer | 0.80% | ~121 |
 | Devout | 0.70% | ~106 |
-| Ready | 0.70% | ~106 |
 | Clerics | 0.70% | ~106 |
 | Egypt | 0.70% | ~106 |
 | Assyrian Paganism | 0.70% | ~106 |

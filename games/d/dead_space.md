@@ -35,9 +35,9 @@ Rating: 4.63 (Ranked 346)
 | A Cut Above | 32.00% | ~502 |
 | Set A Benchmark | 28.00% | ~439 |
 | Whole Again | 27.00% | ~424 |
+| Final Regeneration | 25.00% | ~392 |
 | Full Contact | 25.00% | ~392 |
 | Pack Rat | 25.00% | ~392 |
-| Final Regeneration | 24.00% | ~377 |
 | Full Clearance | 23.00% | ~361 |
 | Pusher | 22.00% | ~345 |
 | Z-Baller | 22.00% | ~345 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 346)
 | Untouchable | 2.00% | ~31 |
 | One Gun | 2.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,569 (Ranked 229)  
+Progressed: 1,569 (Ranked 230)  
 Completed: 8 (0.51%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |

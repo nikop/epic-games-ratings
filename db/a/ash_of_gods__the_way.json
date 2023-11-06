@@ -252,9 +252,9 @@
       "ID": "fights2",
       "SetID": "c64if4d",
       "Name": "The best apprentice",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "fights3",
@@ -308,9 +308,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "special10",
@@ -548,9 +548,9 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "story8",
@@ -581,8 +581,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-06T07:06:24.0861444+00:00",
+  "LastChanged_Achievements": "2023-11-06T08:05:52.0749989+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:01:23.8042556+00:00",
-  "LastUpdate_Achievements": "2023-11-06T07:06:24.086179+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:00:36.8327556+00:00",
+  "LastUpdate_Achievements": "2023-11-06T08:05:52.0750385+00:00"
 }

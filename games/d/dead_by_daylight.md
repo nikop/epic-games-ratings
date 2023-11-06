@@ -6,28 +6,28 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~59,963 |
-| Skillful | 6.00% | ~59,963 |
-| Zealous | 5.00% | ~49,969 |
-| Not half bad | 5.00% | ~49,969 |
-| Handyman | 4.00% | ~39,975 |
-| Apt Survivor | 4.00% | ~39,975 |
-| Survival Treasures | 4.00% | ~39,975 |
-| Sorted | 4.00% | ~39,975 |
-| Make Some Noise | 4.00% | ~39,975 |
-| The Grand Sacrifice | 3.00% | ~29,981 |
-| Agonizing Escape | 3.00% | ~29,981 |
-| Backdoor Escape | 3.00% | ~29,981 |
-| No one left behind | 3.00% | ~29,981 |
-| Medic | 3.00% | ~29,981 |
-| Perfect Escape | 3.00% | ~29,981 |
-| Bloody Millionaire | 3.00% | ~29,981 |
-| I | 3.00% | ~29,981 |
-| Engineer | 3.00% | ~29,981 |
-| Healthy Obsession | 3.00% | ~29,981 |
-| Resurgence | 3.00% | ~29,981 |
-| Preemptive Strike | 3.00% | ~29,981 |
-| Humanitarian | 3.00% | ~29,981 |
+| It wakes | 6.00% | ~59,965 |
+| Skillful | 6.00% | ~59,965 |
+| Zealous | 5.00% | ~49,971 |
+| Not half bad | 5.00% | ~49,971 |
+| Handyman | 4.00% | ~39,977 |
+| Apt Survivor | 4.00% | ~39,977 |
+| Survival Treasures | 4.00% | ~39,977 |
+| Sorted | 4.00% | ~39,977 |
+| Make Some Noise | 4.00% | ~39,977 |
+| The Grand Sacrifice | 3.00% | ~29,983 |
+| Agonizing Escape | 3.00% | ~29,983 |
+| Backdoor Escape | 3.00% | ~29,983 |
+| No one left behind | 3.00% | ~29,983 |
+| Medic | 3.00% | ~29,983 |
+| Perfect Escape | 3.00% | ~29,983 |
+| Bloody Millionaire | 3.00% | ~29,983 |
+| I | 3.00% | ~29,983 |
+| Engineer | 3.00% | ~29,983 |
+| Healthy Obsession | 3.00% | ~29,983 |
+| Resurgence | 3.00% | ~29,983 |
+| Preemptive Strike | 3.00% | ~29,983 |
+| Humanitarian | 3.00% | ~29,983 |
 | Escape Artist | 2.00% | ~19,988 |
 | I've got your back | 2.00% | ~19,988 |
 | Nerves of steel | 2.00% | ~19,988 |
@@ -81,13 +81,13 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 1.00% | ~9,994 |
 | One More Step | 1.00% | ~9,994 |
 | MU/TH/UR Dearest | 1.00% | ~9,994 |
-| Hemophobia | 0.90% | ~8,994 |
-| Devoted Gatekeeping | 0.90% | ~8,994 |
-| Shrine Apparatus | 0.90% | ~8,994 |
-| Broken Bodies | 0.90% | ~8,994 |
-| End of Days | 0.90% | ~8,994 |
-| Insult and Injury | 0.90% | ~8,994 |
-| Complete the Evolution | 0.90% | ~8,994 |
+| Hemophobia | 0.90% | ~8,995 |
+| Devoted Gatekeeping | 0.90% | ~8,995 |
+| Shrine Apparatus | 0.90% | ~8,995 |
+| Broken Bodies | 0.90% | ~8,995 |
+| End of Days | 0.90% | ~8,995 |
+| Insult and Injury | 0.90% | ~8,995 |
+| Complete the Evolution | 0.90% | ~8,995 |
 | Jump Scares | 0.80% | ~7,995 |
 | Deep Cleansing | 0.80% | ~7,995 |
 | Game Over | 0.80% | ~7,995 |
@@ -98,11 +98,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.70% | ~6,996 |
 | Prowler | 0.70% | ~6,996 |
 | High Speed Pursuit | 0.70% | ~6,996 |
-| Whiffing to Success | 0.60% | ~5,996 |
-| Heavy Burden | 0.60% | ~5,996 |
-| Power Moves | 0.60% | ~5,996 |
-| Punch Drunk | 0.60% | ~5,996 |
-| Triage | 0.60% | ~5,996 |
+| Whiffing to Success | 0.60% | ~5,997 |
+| Heavy Burden | 0.60% | ~5,997 |
+| Power Moves | 0.60% | ~5,997 |
+| Punch Drunk | 0.60% | ~5,997 |
+| Triage | 0.60% | ~5,997 |
 | Blood in your mouth | 0.50% | ~4,997 |
 | Looter | 0.50% | ~4,997 |
 | Death of Ignorance | 0.50% | ~4,997 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~999 |
 | Adept Ripley | 0.10% | ~999 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999,379 (Ranked 14)  
+Progressed: 999,422 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,18 +436,18 @@ Completed: 52 (0.01%) (Ranked 320)
 | 2023-11-03 | 993,712 | 52 |
 | 2023-11-04 | 996,333 | 52 |
 | 2023-11-05 | 998,907 | 52 |
-| 2023-11-06 | 999,379 | 52 |
+| 2023-11-06 | 999,422 | 52 |
 ## Awards
 Max (Diverse Characters): 35,408  (Ranked 15)  
-Sum: 271,824 (Ranked 13)  
+Sum: 271,896 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 35,408 |
 | This game is Highly Recommended | 31,092 |
-| This game has Amazing Characters | 30,673 |
+| This game has Amazing Characters | 30,706 |
 | This game has Competitive Players | 30,595 |
-| This game is Extremely Fun | 30,254 |
+| This game is Extremely Fun | 30,293 |
 | This game has Challenging Combat | 29,985 |
 | This game has Quickly Understood Controls | 29,613 |
 | This game has Amazing Storytelling | 27,811 |
@@ -743,4 +743,4 @@ Diff (max vs sum): 2
 | 2023-11-03 | 4.51 | - | 35,284 | 270,883 |
 | 2023-11-04 | 4.51 | - | 35,350 | 271,318 |
 | 2023-11-05 | 4.51 | - | 35,408 | 271,745 |
-| 2023-11-06 | 4.51 | - | 35,408 | 271,824 |
+| 2023-11-06 | 4.51 | - | 35,408 | 271,896 |

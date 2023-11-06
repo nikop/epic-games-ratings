@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 53.00% | ~74 |
-| Trinity | 27.00% | ~38 |
+| Trinity | 28.00% | ~39 |
 | Find Allies | 24.00% | ~34 |
 | The Collector | 24.00% | ~34 |
 | Adventurer | 23.00% | ~32 |

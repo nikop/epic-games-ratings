@@ -7,11 +7,11 @@
 | First success | 100.00% | ~28 |
 | Suicide squad | 46.00% | ~13 |
 | First blood | 25.00% | ~7 |
+| All for one! | 21.00% | ~6 |
 | Train hard, fight easy | 21.00% | ~6 |
 | Under cover | 21.00% | ~6 |
-| All for one! | 18.00% | ~5 |
 | Royal blessing | 18.00% | ~5 |
-| A hidden snake | 14.00% | ~4 |
+| A hidden snake | 18.00% | ~5 |
 | Blood and sand | 14.00% | ~4 |
 | Crimson rivers | 11.00% | ~3 |
 | Overplay the rogue | 11.00% | ~3 |
@@ -24,6 +24,7 @@
 | Help of the Gell | 11.00% | ~3 |
 | Trial by cold | 11.00% | ~3 |
 | For the greater good | 7.00% | ~2 |
+| The best apprentice | 7.00% | ~2 |
 | The champion of the arena | 7.00% | ~2 |
 | Rage | 7.00% | ~2 |
 | Deadly strike | 7.00% | ~2 |
@@ -33,7 +34,6 @@
 | All's fair in love and war | 7.00% | ~2 |
 | She-Wolf | 7.00% | ~2 |
 | Collector | 4.00% | ~1 |
-| The best apprentice | 4.00% | ~1 |
 | Stronger than Gellian steel | 4.00% | ~1 |
 | First among Frisians | 4.00% | ~1 |
 | The power of persuasion | 4.00% | ~1 |

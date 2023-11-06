@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 40.00% | ~27 |
-| Purification Pioneer | 38.00% | ~26 |
-| Dicesmithing Time! | 35.00% | ~24 |
+| Meissa's Savior | 41.00% | ~28 |
+| Purification Pioneer | 40.00% | ~27 |
+| Dicesmithing Time! | 37.00% | ~25 |
 | Endless Tricks | 35.00% | ~24 |
 | Mechanical Buddy | 35.00% | ~24 |
 | Noctuan Champion | 35.00% | ~24 |
@@ -15,7 +15,7 @@
 | Lacertian Champion | 32.00% | ~22 |
 | Mind Illuminator | 31.00% | ~21 |
 | Sanctuary Guardian | 31.00% | ~21 |
-| Apian Champion | 29.00% | ~20 |
+| Apian Champion | 31.00% | ~21 |
 | Anomaly Destroyer | 26.00% | ~18 |
 | Stellar Dismantler | 26.00% | ~18 |
 | Behenian Champion | 24.00% | ~16 |

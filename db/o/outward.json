@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3639,
+  "EOS_Progressed": 3640,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5447,6 +5447,11 @@
       "Time": "2023-11-05T16:04:55.7706164+00:00",
       "NumProgressed": 3639,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T08:05:32.5113576+00:00",
+      "NumProgressed": 3640,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5650,7 +5655,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2365
+      "UsersEstimate": 2366
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -5658,7 +5663,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 873
+      "UsersEstimate": 874
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5793,15 +5798,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3639,
+      "Progressed": 3640,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-11-06T07:05:56.8820097+00:00",
+  "LastChanged_Achievements": "2023-11-06T08:05:32.511357+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:24.5230237+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:01:09.5889106+00:00",
-  "LastUpdate_Achievements": "2023-11-06T07:05:56.8820613+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:00:26.9829383+00:00",
+  "LastUpdate_Achievements": "2023-11-06T08:05:32.5114271+00:00"
 }

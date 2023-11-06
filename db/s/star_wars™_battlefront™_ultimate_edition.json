@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1072,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3069,6 +3069,11 @@
       "Time": "2023-11-06T02:30:52.2689884+00:00",
       "NumProgressed": 1072,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T08:09:41.024081+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3257,7 +3262,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_30",
@@ -3281,7 +3286,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_33",
@@ -3303,9 +3308,9 @@
       "ID": "achievement_35",
       "SetID": "271ol84",
       "Name": "New Recruit",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 956
     },
     {
       "ID": "achievement_36",
@@ -3321,7 +3326,7 @@
       "Name": "Off to a good start",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "achievement_38",
@@ -3345,7 +3350,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_40",
@@ -3353,7 +3358,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "achievement_41",
@@ -3385,7 +3390,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "achievement_45",
@@ -3561,7 +3566,7 @@
       "Name": "A cunning warrior",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_8",
@@ -3584,13 +3589,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1072,
+      "Progressed": 1074,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1072,
+      "Progressed": 1074,
       "Completed": 1
     }
   ],
@@ -3598,8 +3603,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-06T07:09:35.4363341+00:00",
+  "LastChanged_Achievements": "2023-11-06T08:09:41.0240805+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:02:29.7487568+00:00",
-  "LastUpdate_Achievements": "2023-11-06T07:09:35.4363866+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:00:55.0455457+00:00",
+  "LastUpdate_Achievements": "2023-11-06T08:09:41.0242072+00:00"
 }

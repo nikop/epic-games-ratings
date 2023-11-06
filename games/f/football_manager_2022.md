@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~237,752 |
-| He's Signed! | 50.00% | ~237,752 |
-| First Victory | 50.00% | ~237,752 |
-| He's Sold! | 48.00% | ~228,242 |
-| I'm The Boss! | 42.00% | ~199,712 |
+| Clean Sheet | 50.00% | ~237,753 |
+| He's Signed! | 50.00% | ~237,753 |
+| First Victory | 50.00% | ~237,753 |
+| He's Sold! | 48.00% | ~228,243 |
+| I'm The Boss! | 42.00% | ~199,713 |
 | Hat-trick | 41.00% | ~194,957 |
 | Scoring Streak | 38.00% | ~180,692 |
-| Unbeatable! | 37.00% | ~175,936 |
-| Thumping | 37.00% | ~175,936 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,426 |
-| Total Support | 32.00% | ~152,161 |
-| Record Signing | 32.00% | ~152,161 |
-| He's a Natural | 31.00% | ~147,406 |
-| Millionaire's Club | 31.00% | ~147,406 |
-| Team Performance | 30.00% | ~142,651 |
-| Parked The Bus | 29.00% | ~137,896 |
-| Shrewd Spender | 29.00% | ~137,896 |
-| Star Man | 29.00% | ~137,896 |
-| Attack! | 28.00% | ~133,141 |
-| You're On Fire | 27.00% | ~128,386 |
-| Tremendous Trio | 27.00% | ~128,386 |
-| Record Sale | 27.00% | ~128,386 |
-| On A Roll | 26.00% | ~123,631 |
-| Unstoppable Force | 26.00% | ~123,631 |
+| Unbeatable! | 37.00% | ~175,937 |
+| Thumping | 37.00% | ~175,937 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,427 |
+| Total Support | 32.00% | ~152,162 |
+| Record Signing | 32.00% | ~152,162 |
+| He's a Natural | 31.00% | ~147,407 |
+| Millionaire's Club | 31.00% | ~147,407 |
+| Team Performance | 30.00% | ~142,652 |
+| Parked The Bus | 29.00% | ~137,897 |
+| Shrewd Spender | 29.00% | ~137,897 |
+| Star Man | 29.00% | ~137,897 |
+| Attack! | 28.00% | ~133,142 |
+| You're On Fire | 27.00% | ~128,387 |
+| Tremendous Trio | 27.00% | ~128,387 |
+| Record Sale | 27.00% | ~128,387 |
+| On A Roll | 26.00% | ~123,632 |
+| Unstoppable Force | 26.00% | ~123,632 |
 | Armchair Expert | 25.00% | ~118,876 |
 | Fantastic Five | 24.00% | ~114,121 |
 | Full Faith | 24.00% | ~114,121 |
@@ -53,15 +53,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~66,571 |
 | Comeback King! | 14.00% | ~66,571 |
 | You're Up! | 13.00% | ~61,816 |
-| Money, Money, Money | 12.00% | ~57,060 |
-| Invincible! | 11.00% | ~52,305 |
-| Superb Strike | 10.00% | ~47,550 |
-| International Superstar | 10.00% | ~47,550 |
-| Best In The World | 10.00% | ~47,550 |
-| Best In Europe | 9.00% | ~42,795 |
-| National Service | 9.00% | ~42,795 |
-| Headhunted | 9.00% | ~42,795 |
-| Domination | 9.00% | ~42,795 |
+| Money, Money, Money | 12.00% | ~57,061 |
+| Invincible! | 11.00% | ~52,306 |
+| Superb Strike | 10.00% | ~47,551 |
+| International Superstar | 10.00% | ~47,551 |
+| Best In The World | 10.00% | ~47,551 |
+| Best In Europe | 9.00% | ~42,796 |
+| National Service | 9.00% | ~42,796 |
+| Headhunted | 9.00% | ~42,796 |
+| Domination | 9.00% | ~42,796 |
 | Best In The Business | 8.00% | ~38,040 |
 | Legend | 6.00% | ~28,530 |
 | Win the Club World Cup | 6.00% | ~28,530 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,504 (Ranked 39)  
+Progressed: 475,506 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,15 +305,15 @@ Completed: 22 (0.00%) (Ranked 344)
 | 2023-11-03 | 475,371 | 22 |
 | 2023-11-04 | 475,437 | 22 |
 | 2023-11-05 | 475,496 | 22 |
-| 2023-11-06 | 475,504 | 22 |
+| 2023-11-06 | 475,506 | 22 |
 ## Awards
 Max (Relaxing): 6,465  (Ranked 59)  
-Sum: 50,969 (Ranked 28)  
+Sum: 50,971 (Ranked 28)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,465 |
-| This game is Extremely Fun | 6,064 |
+| This game is Extremely Fun | 6,066 |
 | This game has Competitive Players | 5,907 |
 | This game has Quickly Understood Controls | 5,891 |
 | This game is Highly Recommended | 5,888 |
@@ -608,3 +608,4 @@ Diff (max vs sum): 31
 | 2023-11-03 | 4.80 | - | 6,465 | 50,957 |
 | 2023-11-04 | 4.80 | - | 6,465 | 50,964 |
 | 2023-11-05 | 4.80 | - | 6,465 | 50,969 |
+| 2023-11-06 | 4.80 | - | 6,465 | 50,971 |

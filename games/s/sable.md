@@ -7,12 +7,12 @@ Number of Ratings: 43  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Simoon | 34.00% | ~33,226 |
-| Just The Two of Us | 32.00% | ~31,271 |
+| Just The Two of Us | 32.00% | ~31,272 |
 | Up On High | 25.00% | ~24,431 |
 | Under The Hood | 25.00% | ~24,431 |
 | Got Your Nose | 24.00% | ~23,454 |
 | The Gift of Gab | 24.00% | ~23,454 |
-| Wrapping Up | 22.00% | ~21,499 |
+| Wrapping Up | 22.00% | ~21,500 |
 | More Than A Box Of Sand | 18.00% | ~17,590 |
 | The Dunboyne | 17.00% | ~16,613 |
 | Badge Hobbyist | 17.00% | ~16,613 |
@@ -20,9 +20,9 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~15,636 |
 | Sticky Paws | 16.00% | ~15,636 |
 | Bubble Up | 16.00% | ~15,636 |
-| Thread The Needle | 15.00% | ~14,658 |
-| Power to the People | 14.00% | ~13,681 |
-| Nesting Giant | 14.00% | ~13,681 |
+| Thread The Needle | 15.00% | ~14,659 |
+| Power to the People | 14.00% | ~13,682 |
+| Nesting Giant | 14.00% | ~13,682 |
 | Take That! | 13.00% | ~12,704 |
 | Treasure Tracker | 13.00% | ~12,704 |
 | Big Spender | 13.00% | ~12,704 |
@@ -50,10 +50,10 @@ Number of Ratings: 43  (23.09.2022)
 | The Guard Mask | 7.00% | ~6,841 |
 | Smoked Out | 7.00% | ~6,841 |
 | A Hard Place | 7.00% | ~6,841 |
-| The Climber Mask | 6.00% | ~5,863 |
-| The Merchant Mask | 6.00% | ~5,863 |
-| Honorary Chum | 6.00% | ~5,863 |
-| Bikes Don't Fly | 6.00% | ~5,863 |
+| The Climber Mask | 6.00% | ~5,864 |
+| The Merchant Mask | 6.00% | ~5,864 |
+| Honorary Chum | 6.00% | ~5,864 |
+| Bikes Don't Fly | 6.00% | ~5,864 |
 | The Gliding | 5.00% | ~4,886 |
 | The Entertainer Mask | 5.00% | ~4,886 |
 | The Quick and the Curious | 4.00% | ~3,909 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,932 |
 | Vivacious Vivarium | 2.00% | ~1,954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,723 (Ranked 87)  
+Progressed: 97,725 (Ranked 87)  
 Completed: 990 (1.01%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 990 (1.01%) (Ranked 155)
 | 2023-11-03 | 97,266 | 985 |
 | 2023-11-04 | 97,464 | 988 |
 | 2023-11-05 | 97,674 | 989 |
-| 2023-11-06 | 97,723 | 990 |
+| 2023-11-06 | 97,725 | 990 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 515)  
 Sum: 91 (Ranked 445)  

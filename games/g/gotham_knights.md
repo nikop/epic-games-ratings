@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,784 |
+| First Step Into the Knight | 51.00% | ~38,785 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,617 |
-| Loose Ends | 34.00% | ~25,856 |
-| To the Victor Go the Spoils | 28.00% | ~21,293 |
+| Loose Ends | 34.00% | ~25,857 |
+| To the Victor Go the Spoils | 28.00% | ~21,294 |
 | Knighthood | 27.00% | ~20,533 |
 | Get ReQ'd | 25.00% | ~19,012 |
 | Whispered Words | 25.00% | ~19,012 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 919)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,048 (Ranked 97)  
+Progressed: 76,049 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,16 +267,16 @@ Completed: 123 (0.16%) (Ranked 252)
 | 2023-11-03 | 75,870 | 122 |
 | 2023-11-04 | 75,946 | 123 |
 | 2023-11-05 | 76,025 | 123 |
-| 2023-11-06 | 76,048 | 123 |
+| 2023-11-06 | 76,049 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,907  (Ranked 98)  
-Sum: 4,924 (Ranked 137)  
+Sum: 4,925 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,907 |
+| This game is Relaxing | 257 |
 | This game has Diverse Characters | 257 |
-| This game is Relaxing | 256 |
 | This game is Extremely Fun | 256 |
 | This game has Quickly Understood Controls | 252 |
 | This game is Great for Beginners | 252 |
@@ -541,3 +541,4 @@ Diff (max vs sum): -39
 | 2023-11-03 | 4.18 | 2,900 | 4,910 |
 | 2023-11-04 | 4.18 | 2,900 | 4,912 |
 | 2023-11-05 | 4.18 | 2,907 | 4,924 |
+| 2023-11-06 | 4.18 | 2,907 | 4,925 |

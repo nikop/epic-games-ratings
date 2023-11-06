@@ -54,15 +54,14 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... V | 2.00% | ~87 |
 | The King's new clothes III | 2.00% | ~87 |
 | My precious... III | 2.00% | ~87 |
-| Lord of War | 2.00% | ~87 |
 | Plague strikes! | 2.00% | ~87 |
 | Completionist II | 2.00% | ~87 |
 | Genius | 2.00% | ~87 |
 | I've been everywhere V | 2.00% | ~87 |
-| Tax-man V | 2.00% | ~87 |
 | Tools of the trade III | 2.00% | ~87 |
 | When there's fire... | 1.00% | ~43 |
 | Survivalist | 1.00% | ~43 |
+| Lord of War | 1.00% | ~43 |
 | Builder IV | 1.00% | ~43 |
 | An honorable Governor III | 1.00% | ~43 |
 | Completionist III | 1.00% | ~43 |
@@ -71,6 +70,7 @@ Number of Ratings: 37  (23.09.2022)
 | Treat her well… | 1.00% | ~43 |
 | I've been everywhere II | 1.00% | ~43 |
 | I've been everywhere I | 1.00% | ~43 |
+| Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
 | I've been everywhere VI | 0.90% | ~39 |
 | Last man standing | 0.80% | ~35 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,333 (Ranked 186)  
+Progressed: 4,334 (Ranked 186)  
 Completed: 3 (0.07%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 3 (0.07%) (Ranked 285)
 | 2023-11-03 | 4,327 | 3 |
 | 2023-11-04 | 4,329 | 3 |
 | 2023-11-05 | 4,332 | 3 |
-| 2023-11-06 | 4,333 | 3 |
+| 2023-11-06 | 4,334 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

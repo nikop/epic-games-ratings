@@ -7,22 +7,22 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~25,768 |
-| The Evilest Evil | 58.00% | ~21,350 |
-| Twistram is devastated | 57.00% | ~20,982 |
-| The Gehenna Stones | 49.00% | ~18,037 |
-| No one has to die today! | 46.00% | ~16,933 |
+| The Evilest Evil | 58.00% | ~21,351 |
+| Twistram is devastated | 57.00% | ~20,983 |
+| The Gehenna Stones | 49.00% | ~18,038 |
+| No one has to die today! | 46.00% | ~16,934 |
 | Death and destruction! | 45.00% | ~16,565 |
 | The Swamplanders from the swamplands | 44.00% | ~16,197 |
 | The One-Huge-Army-Building Evil | 41.00% | ~15,093 |
 | Rusty Steel | 41.00% | ~15,093 |
-| Braiiiiins! | 38.00% | ~13,988 |
+| Braiiiiins! | 38.00% | ~13,989 |
 | The last burger | 37.00% | ~13,620 |
 | Hands off the Dungeonheart! | 36.00% | ~13,252 |
 | A trip on sea, what fun it can be | 34.00% | ~12,516 |
 | Damned good | 33.00% | ~12,148 |
-| Stock Market Crash | 31.00% | ~11,411 |
-| Factory farming | 31.00% | ~11,411 |
-| Not-So-Overproud | 30.00% | ~11,043 |
+| Stock Market Crash | 31.00% | ~11,412 |
+| Factory farming | 31.00% | ~11,412 |
+| Not-So-Overproud | 30.00% | ~11,044 |
 | For a handfull of Catapults | 29.00% | ~10,675 |
 | Shadow hunter | 29.00% | ~10,675 |
 | Thirst quencher | 28.00% | ~10,307 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~8,835 |
 | Angel of Fire | 24.00% | ~8,835 |
 | Where there is Light, there is Shadow | 23.00% | ~8,467 |
-| At the foot of Mount Destiny | 22.00% | ~8,098 |
-| The Force disturbed | 21.00% | ~7,730 |
+| At the foot of Mount Destiny | 22.00% | ~8,099 |
+| The Force disturbed | 21.00% | ~7,731 |
 | The Victorious Evil | 20.00% | ~7,362 |
 | Chorus of damnation | 19.00% | ~6,994 |
 | We don’t have time! | 19.00% | ~6,994 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~736 |
 | Sacrifices! | 2.00% | ~736 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,811 (Ranked 120)  
+Progressed: 36,812 (Ranked 120)  
 Completed: 299 (0.81%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 299 (0.81%) (Ranked 168)
 | 2023-11-03 | 36,454 | 298 |
 | 2023-11-04 | 36,604 | 298 |
 | 2023-11-05 | 36,780 | 299 |
-| 2023-11-06 | 36,811 | 299 |
+| 2023-11-06 | 36,812 | 299 |
 ## Awards
 Max (Great for Beginners): 368  (Ranked 233)  
 Sum: 2,724 (Ranked 179)  

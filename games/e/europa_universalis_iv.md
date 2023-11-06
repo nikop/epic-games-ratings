@@ -11,10 +11,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorious! | 4.00% | ~17,931 |
 | That's a Grand Navy | 3.00% | ~13,448 |
 | That is mine! | 3.00% | ~13,448 |
-| Brothers in Arms | 2.00% | ~8,965 |
-| Cold War | 2.00% | ~8,965 |
-| For the Glory | 2.00% | ~8,965 |
-| Seriously?! | 2.00% | ~8,965 |
+| Brothers in Arms | 2.00% | ~8,966 |
+| Cold War | 2.00% | ~8,966 |
+| For the Glory | 2.00% | ~8,966 |
+| Seriously?! | 2.00% | ~8,966 |
 | Defender of the Faith | 1.00% | ~4,483 |
 | It's all about luck | 1.00% | ~4,483 |
 | It's all about the money | 1.00% | ~4,483 |
@@ -22,7 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 1.00% | ~4,483 |
 | True Catholic | 1.00% | ~4,483 |
 | Truly Divine Ruler | 1.00% | ~4,483 |
-| Blockader | 0.90% | ~4,034 |
+| Blockader | 0.90% | ~4,035 |
 | Double the Love | 0.80% | ~3,586 |
 | Royal Authority | 0.80% | ~3,586 |
 | Total Control | 0.80% | ~3,586 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,265 (Ranked 41)  
+Progressed: 448,281 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,10 +561,10 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,265 | 1 |
+| 2023-11-06 | 448,281 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 55)  
-Sum: 56,229 (Ranked 24)  
+Sum: 56,236 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -576,7 +576,7 @@ Diff (max vs sum): 31
 | This game is Relaxing | 6,294 |
 | This game has Competitive Players | 6,114 |
 | This game has Amazing Storytelling | 5,706 |
-| This game has Amazing Characters | 5,273 |
+| This game has Amazing Characters | 5,280 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -874,4 +874,4 @@ Diff (max vs sum): 31
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
-| 2023-11-06 | 4.69 | - | 6,844 | 56,229 |
+| 2023-11-06 | 4.69 | - | 6,844 | 56,236 |

@@ -388,9 +388,9 @@
       "ID": "ach26",
       "SetID": "baneh2j",
       "Name": "Passion",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach27",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-06T07:04:17.890931+00:00",
+  "LastChanged_Achievements": "2023-11-06T08:04:20.885565+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.3156204+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:58:48.6313132+00:00",
-  "LastUpdate_Achievements": "2023-11-06T07:04:17.890956+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:58:49.0649612+00:00",
+  "LastUpdate_Achievements": "2023-11-06T08:04:20.8855912+00:00"
 }

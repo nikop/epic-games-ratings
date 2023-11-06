@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7706,
+  "EOS_Progressed": 7714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1677,
+  "EOS_NewPlayers": 1682,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4329,6 +4329,11 @@
       "Time": "2023-11-06T07:04:13.2848566+00:00",
       "NumProgressed": 7706,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T08:04:17.5692411+00:00",
+      "NumProgressed": 7714,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4429,7 +4434,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4437,7 +4442,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2083
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4445,7 +4450,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4453,7 +4458,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -4469,7 +4474,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -4485,7 +4490,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -4532,14 +4537,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 7706,
+      "Progressed": 7714,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-06T07:04:13.2848562+00:00",
+  "LastChanged_Achievements": "2023-11-06T08:04:17.5692406+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:18.365773+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:59:23.6986747+00:00",
-  "LastUpdate_Achievements": "2023-11-06T07:04:13.284891+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:59:14.3767386+00:00",
+  "LastUpdate_Achievements": "2023-11-06T08:04:17.5693573+00:00"
 }
