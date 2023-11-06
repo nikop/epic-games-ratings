@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Manchurian Candidate | 0.10% | ~449 |
 | A Pile of Gold | 0.10% | ~449 |
 | A Protected Market | 0.10% | ~449 |
 | Aggressive Expander | 0.10% | ~449 |
@@ -28,6 +29,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Georgia on my Mind | 0.10% | ~449 |
 | That's a Grand Army | 0.10% | ~449 |
 | That's a Grand Navy | 0.10% | ~449 |
+| Holy Horder | 0.10% | ~449 |
 | Imperio español | 0.10% | ~449 |
 | In the Name of the Father | 0.10% | ~449 |
 | Industrial Powerhouse | 0.10% | ~449 |
@@ -39,6 +41,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 0.10% | ~449 |
 | Not just Pizza | 0.10% | ~449 |
 | Not so sad a state... | 0.10% | ~449 |
+| On the Rhodes Again | 0.10% | ~449 |
 | Over a Thousand! | 0.10% | ~449 |
 | Queen of Conquest | 0.10% | ~449 |
 | Respected | 0.10% | ~449 |
@@ -52,8 +55,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.10% | ~449 |
 | The Princess is in this Castle | 0.10% | ~449 |
 | This is fine | 0.10% | ~449 |
+| Three Trivial Tributary Tribes | 0.10% | ~449 |
 | Time Bandit | 0.10% | ~449 |
 | True Catholic | 0.10% | ~449 |
+| Trustworthy | 0.10% | ~449 |
 | Until death do us apart | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
 | The 52 Garhs | 0.00% | ~0 |
@@ -61,7 +66,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Blessed Nation | 0.00% | ~0 |
 | A Decent Reserve | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
-| A Manchurian Candidate | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
 | AAA Credit | 0.00% | ~0 |
@@ -172,7 +176,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Holiest Roman Empire | 0.00% | ~0 |
-| Holy Horder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
@@ -235,7 +238,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
 | One Family to Rule them All | 0.00% | ~0 |
 | One King to Rule! | 0.00% | ~0 |
@@ -325,7 +327,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is Persia! | 0.00% | ~0 |
 | This navy can take it all | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
-| Three Trivial Tributary Tribes | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Total Control | 0.00% | ~0 |
@@ -335,7 +336,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trophy Hunter | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Truly Divine Ruler | 0.00% | ~0 |
-| Trustworthy | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
 | Turning the Tide | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,511 (Ranked 41)  
+Progressed: 448,568 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,511 | 1 |
+| 2023-11-06 | 448,568 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,275 (Ranked 24)  

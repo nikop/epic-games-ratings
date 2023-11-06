@@ -5,12 +5,12 @@ Rating: 4.50 (Ranked 584)
 Number of Ratings: 474  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 87  (Ranked 377)  
-Sum: 594 (Ranked 309)  
-Diff (max vs sum): 68  
+Sum: 595 (Ranked 308)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 87 |
-| This game is Highly Recommended | 82 |
+| This game is Highly Recommended | 83 |
 | This game is Extremely Fun | 81 |
 | This game is Great for Beginners | 79 |
 | This game is Relaxing | 79 |
@@ -146,3 +146,4 @@ Diff (max vs sum): 68
 | 2023-10-31 | 4.50 | - | 86 | 592 |
 | 2023-11-02 | 4.50 | - | 87 | 593 |
 | 2023-11-04 | 4.50 | - | 87 | 594 |
+| 2023-11-06 | 4.50 | - | 87 | 595 |

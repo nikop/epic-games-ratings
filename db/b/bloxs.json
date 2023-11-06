@@ -2,10 +2,10 @@
   "ID": "e782994b72d74937907a2952fcdeba0d",
   "Name": "Bloxs",
   "ProductSlug": "bloxs-aae143",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-26T15:00:00+00:00",
     "PcReleaseDate": "2023-07-26T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.095122+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:58:27.038727+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:02:53.0289327+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:59:25.840977+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:03:45.9536692+00:00"
 }

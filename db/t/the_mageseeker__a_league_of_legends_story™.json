@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 2625,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -4350,9 +4350,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 709
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -4375,8 +4375,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:02:45.5879467+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:03:36.26114+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:18.9274314+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:00:19.0407643+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:02:45.5880292+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:02:47.894331+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:03:36.2611969+00:00"
 }

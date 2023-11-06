@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -6709,9 +6709,9 @@
       "ID": "enchantingskillx5",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill x5",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 63
     },
     {
       "ID": "engineermastery",
@@ -7174,8 +7174,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:06:06.5103027+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:07:49.7065174+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:00:00.8406387+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:06:06.5104136+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:31.7417947+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:07:49.7066306+00:00"
 }

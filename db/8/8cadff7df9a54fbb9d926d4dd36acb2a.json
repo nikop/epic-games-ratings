@@ -2,10 +2,10 @@
   "ID": "8cadff7df9a54fbb9d926d4dd36acb2a",
   "Name": "Griddlers Victorian Picnic",
   "ProductSlug": "griddlers-victorian-picnic-fcc2ab",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-24T21:00:00+00:00",
     "PcReleaseDate": "2019-10-27T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T05:57:27.5759506+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:59.5063183+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:03:30.6926326+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:58:51.1326687+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:04:33.3773082+00:00"
 }

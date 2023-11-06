@@ -2,10 +2,10 @@
   "ID": "88802b5f3edc4d288cf48d6711654c48",
   "Name": "NOOB - The Factionless",
   "ProductSlug": "noob-the-factionless-ac623f",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 668,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -631,8 +631,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:01.2086333+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:08:56.404238+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:09:44.8513118+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.3671021+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:59:55.2438097+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:08:56.4043207+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:23.989438+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:09:44.8513696+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6437,
+  "EOS_Progressed": 6438,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6096,6 +6096,11 @@
       "Time": "2023-11-06T01:49:40.6099446+00:00",
       "NumProgressed": 6437,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T16:03:52.7349728+00:00",
+      "NumProgressed": 6438,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6467,7 +6472,7 @@
       "Name": "Smooth Operator: Ashley",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SO_Madison",
@@ -6475,7 +6480,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "SmellBlood",
@@ -6658,21 +6663,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3476,
+      "Progressed": 3477,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6437,
+      "Progressed": 6438,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:02:58.1997336+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:03:52.7349723+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.1273071+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:54.8755834+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:02:58.1998242+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:58:44.3210439+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:03:52.7350556+00:00"
 }

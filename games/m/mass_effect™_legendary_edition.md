@@ -12,7 +12,7 @@
 | Quarian Ally | 65.00% | ~655 |
 | Honorarium of Corporate Service | 62.00% | ~624 |
 | Medal of Heroism | 61.00% | ~614 |
-| Council Legion of Merit | 56.00% | ~564 |
+| Council Legion of Merit | 57.00% | ~574 |
 | Medal of Exploration II | 55.00% | ~554 |
 | Medal of Honor | 54.00% | ~544 |
 | Meritorious Service Medal | 54.00% | ~544 |
@@ -62,12 +62,12 @@
 | Heart of Darkness | 31.00% | ~312 |
 | Driven | 31.00% | ~312 |
 | Archivist | 30.00% | ~302 |
+| Friend or Foe | 30.00% | ~302 |
 | Cat's in the Cradle | 30.00% | ~302 |
 | Doppelganger | 30.00% | ~302 |
 | Treason | 30.00% | ~302 |
 | Bringer of War | 30.00% | ~302 |
 | Focused | 29.00% | ~292 |
-| Friend or Foe | 29.00% | ~292 |
 | Digital Exorcist | 29.00% | ~292 |
 | Mission Accomplished | 28.00% | ~282 |
 | Suicide Mission | 28.00% | ~282 |
@@ -98,11 +98,11 @@
 | Last Resort | 19.00% | ~191 |
 | Last Witness | 19.00% | ~191 |
 | Well Connected | 19.00% | ~191 |
+| Master and Commander | 17.00% | ~171 |
 | Electronics Specialist | 16.00% | ~161 |
 | Sabotage Specialist | 16.00% | ~161 |
 | Executioner | 16.00% | ~161 |
 | Patriot | 16.00% | ~161 |
-| Master and Commander | 16.00% | ~161 |
 | Throw Mastery | 15.00% | ~151 |
 | Legend | 15.00% | ~151 |
 | Mail Slot | 14.00% | ~141 |

@@ -2,10 +2,10 @@
   "ID": "fd55ee4ee2a74979abffb9a6d111732f",
   "Name": "Electro Magnate",
   "ProductSlug": "electro-magnate-6ac0b7",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-05T07:00:00+00:00",
     "PcReleaseDate": "2023-05-05T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T09:59:39.8342229+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:34.9838322+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:58:28.4565952+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:03:46.1606223+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:59:27.7977293+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:04:52.3635459+00:00"
 }

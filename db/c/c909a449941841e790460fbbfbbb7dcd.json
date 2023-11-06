@@ -2,10 +2,10 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -758,25 +758,25 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:08:47.4246222+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:09:33.3043963+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:58:58.5907425+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:08:47.4246401+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:00:07.544823+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:09:33.3044107+00:00"
 }

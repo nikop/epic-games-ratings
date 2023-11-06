@@ -4,11 +4,11 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 584,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 309,
-  "Ranking_EOS_Progress": 726,
+  "Ranking_PopularitySum": 308,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-29T16:00:00+00:00",
     "PcReleaseDate": "2020-12-29T16:00:00+00:00",
@@ -1063,10 +1063,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 594,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2023-11-06T16:01:18.2505479+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 595,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 594,
+  "NumberOfAwards": 595,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1092,7 +1098,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1148,8 +1154,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2023-11-04T22:59:23.9142189+00:00",
+  "LastChanged": "2023-11-06T16:01:18.2505477+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:24.8938346+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:59:50.4800611+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:05:52.6475391+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:18.2505482+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:07:32.3283123+00:00"
 }

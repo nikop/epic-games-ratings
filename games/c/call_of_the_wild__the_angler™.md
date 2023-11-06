@@ -6,9 +6,9 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Hey Good Hookin | 0.20% | ~13 |
 | Fish Just Got Reel | 0.10% | ~6 |
 | Can you smell what the Rod is Hooking | 0.10% | ~6 |
-| Hey Good Hookin | 0.10% | ~6 |
 | Ready to Rod and Roll | 0.10% | ~6 |
 | Fish Out of Water | 0.10% | ~6 |
 | I'm on a Boat! | 0.10% | ~6 |
@@ -16,6 +16,7 @@ Number of Ratings: 281  (23.09.2022)
 | Scaling up | 0.10% | ~6 |
 | Things that go Splash in the Night | 0.10% | ~6 |
 | More than a Tourist | 0.10% | ~6 |
+| I'm the Captain Now | 0.10% | ~6 |
 | Goldfish? | 0.10% | ~6 |
 | Going for Gold | 0.10% | ~6 |
 | School's Out for Summer | 0.10% | ~6 |
@@ -23,7 +24,6 @@ Number of Ratings: 281  (23.09.2022)
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | License to Gill | 0.00% | ~0 |
-| I'm the Captain Now | 0.00% | ~0 |
 | Hook, Line and Sinker | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
 | The Beetles | 0.00% | ~0 |

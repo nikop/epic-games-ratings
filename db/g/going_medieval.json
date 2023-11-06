@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1403,9 +1403,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6630,
+  "EOS_Progressed": 6631,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12303,6 +12303,11 @@
       "Time": "2023-11-06T14:05:04.166635+00:00",
       "NumProgressed": 6630,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-06T16:06:23.4381477+00:00",
+      "NumProgressed": 6631,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12314,7 +12319,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4972
+      "UsersEstimate": 4973
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12346,7 +12351,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12354,7 +12359,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4972
+      "UsersEstimate": 4973
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -12370,7 +12375,7 @@
       "Name": "A Party Now",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "HUNT_DEER_20",
@@ -12434,7 +12439,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -12466,7 +12471,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -12490,7 +12495,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -12506,7 +12511,7 @@
       "Name": "All Year Round",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -12522,7 +12527,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4442
+      "UsersEstimate": 4443
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12530,7 +12535,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2918
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -12538,7 +12543,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -12546,7 +12551,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3779
+      "UsersEstimate": 3780
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12561,15 +12566,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6630,
+      "Progressed": 6631,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-04T15:00:01.549474+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:04:59.4834528+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:06:23.4381472+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.6688935+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:02:22.4300519+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:59.4835334+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:03:03.790997+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:06:23.4382429+00:00"
 }

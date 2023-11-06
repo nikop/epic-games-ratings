@@ -10,14 +10,14 @@ Rating: 4.74 (Ranked 153)
 | Swabbie | 42.00% | ~339 |
 | With Great Power… | 41.00% | ~331 |
 | This Belongs in a Museum | 37.00% | ~299 |
-| The Gambit Has Begun | 34.00% | ~274 |
+| The Gambit Has Begun | 34.00% | ~275 |
 | Powder Monkey | 31.00% | ~250 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~242 |
 | Mirror Mirror on the Wall | 29.00% | ~234 |
 | Pirates Assemble! | 27.00% | ~218 |
 | Buccaneer | 24.00% | ~194 |
 | Fishy Fish | 22.00% | ~178 |
-| All Good Things | 21.00% | ~169 |
+| All Good Things | 21.00% | ~170 |
 | Seadog | 18.00% | ~145 |
 | Persistent Parasite | 18.00% | ~145 |
 | Jaded Judge | 13.00% | ~105 |
@@ -26,14 +26,14 @@ Rating: 4.74 (Ranked 153)
 | Tobacco Travesty | 11.00% | ~89 |
 | Accursed Artifacts | 10.00% | ~81 |
 | Lyrical Longing | 10.00% | ~81 |
-| Corsair | 7.00% | ~56 |
-| Fully Decked | 7.00% | ~56 |
+| Corsair | 7.00% | ~57 |
+| Fully Decked | 7.00% | ~57 |
 | Freebooter | 5.00% | ~40 |
 | Marauder | 4.00% | ~32 |
 | Welcome Back Jester | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807 (Ranked 261)  
-Completed: 27 (3.35%) (Ranked 88)  
+Progressed: 808 (Ranked 261)  
+Completed: 27 (3.34%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,6 +123,7 @@ Completed: 27 (3.35%) (Ranked 88)
 | 2023-11-03 | 802 | 27 |
 | 2023-11-04 | 804 | 27 |
 | 2023-11-05 | 807 | 27 |
+| 2023-11-06 | 808 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

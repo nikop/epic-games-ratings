@@ -10,10 +10,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gun Fu | 0.80% | ~7,164 |
 | Relic Ruler | 0.60% | ~145 |
 | Full Body Conversion | 0.40% | ~3,582 |
+| True Soldier | 0.40% | ~3,582 |
 | Right Back At Ya | 0.30% | ~2,687 |
 | The Quick and the Dead | 0.30% | ~2,687 |
 | Stanislavski's Method | 0.30% | ~2,687 |
-| True Soldier | 0.30% | ~2,687 |
 | All the President's Men | 0.30% | ~72 |
 | Arachnophobia | 0.30% | ~72 |
 | Bushido and Chill | 0.20% | ~1,791 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,533 (Ranked 15)  
+Progressed: 895,542 (Ranked 15)  
 Completed: 2,749 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,17 +274,17 @@ Completed: 2,749 (0.31%) (Ranked 222)
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
-| 2023-11-06 | 895,533 | 2,749 |
+| 2023-11-06 | 895,542 | 2,749 |
 ## Awards
-Max (Character Customization): 104,068  (Ranked 9)  
-Sum: 344,390 (Ranked 10)  
+Max (Character Customization): 104,229  (Ranked 9)  
+Sum: 344,630 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 104,068 |
+| This game has Inclusive Character Customization | 104,229 |
 | This game has Great Boss Battles | 75,033 |
 | This game is Great for Beginners | 20,441 |
-| This game has Diverse Characters | 20,047 |
+| This game has Diverse Characters | 20,126 |
 | This game is Highly Recommended | 19,267 |
 | This game has Amazing Storytelling | 19,129 |
 | This game is Extremely Fun | 18,987 |
@@ -586,4 +586,4 @@ Diff (max vs sum): -1
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
 | 2023-11-05 | 4.64 | - | 104,068 | 343,386 |
-| 2023-11-06 | 4.64 | - | 104,068 | 344,390 |
+| 2023-11-06 | 4.64 | - | 104,229 | 344,630 |

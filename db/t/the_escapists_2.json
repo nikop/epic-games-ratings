@@ -4,11 +4,11 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 322,
-  "Ranking_EOS_Progress": 726,
+  "Ranking_PopularitySum": 321,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1190,10 +1190,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 491,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-11-06T16:03:12.9387187+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 492,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 491,
+  "NumberOfAwards": 492,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1255,7 +1261,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has a Creative Community",
@@ -1275,8 +1281,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-11-05T12:02:35.4262559+00:00",
+  "LastChanged": "2023-11-06T16:03:12.9387186+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:35.708605+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:02:29.2239653+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:07:52.1235002+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:03:12.9387191+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:08:54.6073507+00:00"
 }

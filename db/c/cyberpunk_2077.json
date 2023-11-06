@@ -14688,18 +14688,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 344390,
       "NumberOfAwardsMax": 104068
+    },
+    {
+      "Time": "2023-11-06T16:01:19.2643944+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 344630,
+      "NumberOfAwardsMax": 104229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 344390,
-  "NumberOfAwardsMax": 104068,
+  "NumberOfAwards": 344630,
+  "NumberOfAwardsMax": 104229,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 104068
+      "Count": 104229
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14711,7 +14717,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20047
+      "Count": 20126
     },
     {
       "Text": "This game is Relaxing",
@@ -14768,9 +14774,9 @@
       "Count": 12494
     }
   ],
-  "EOS_Progressed": 895533,
+  "EOS_Progressed": 895542,
   "EOS_Completed": 2749,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37413,6 +37419,11 @@
       "Time": "2023-11-06T15:06:05.7652826+00:00",
       "NumProgressed": 895533,
       "NumCompleted": 2749
+    },
+    {
+      "Time": "2023-11-06T16:07:48.8082192+00:00",
+      "NumProgressed": 895542,
+      "NumCompleted": 2749
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37719,9 +37730,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2687
+      "UsersEstimate": 3582
     },
     {
       "ID": "TrueWarrior",
@@ -37960,21 +37971,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895533,
+      "Progressed": 895542,
       "Completed": 2749
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24156,
+      "Progressed": 24165,
       "Completed": 10194
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-06T13:09:10.5455978+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:06:05.7652821+00:00",
+  "LastChanged": "2023-11-06T16:01:19.2643942+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:07:48.8082183+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:59:51.1083649+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:06:05.7654578+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:19.2643949+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:07:48.8083703+00:00"
 }

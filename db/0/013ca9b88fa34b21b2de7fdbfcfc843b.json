@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7592,
+  "EOS_Progressed": 7593,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
@@ -6254,6 +6254,11 @@
       "Time": "2023-11-06T15:08:46.4960395+00:00",
       "NumProgressed": 7592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T16:09:32.150718+00:00",
+      "NumProgressed": 7593,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6266,7 +6271,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5466
+      "UsersEstimate": 5467
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6274,7 +6279,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5314
+      "UsersEstimate": 5315
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6290,7 +6295,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6322,7 +6327,7 @@
       "Name": "Fae Farmer",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -6370,7 +6375,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6418,7 +6423,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4555
+      "UsersEstimate": 4556
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6426,7 +6431,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6442,7 +6447,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3492
+      "UsersEstimate": 3493
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6458,7 +6463,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "HAVE_WEDDING",
@@ -6545,22 +6550,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7592,
+      "Progressed": 7593,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 209,
-      "Completed": 209
+      "Progressed": 210,
+      "Completed": 210
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:08:46.4960391+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:09:32.1507178+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:02:23.5511475+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:08:46.4961091+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:03:05.3525026+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:09:32.1507659+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -306,7 +306,7 @@
   "Tags": [],
   "EOS_Progressed": 1583,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3458,9 +3458,9 @@
       "ID": "Agent_47",
       "SetID": "85nb4h3",
       "Name": "Agent 47",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 427
     },
     {
       "ID": "Auditor",
@@ -3706,8 +3706,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:04:07.2102425+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:05:19.8119394+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:33.7559579+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:07.210281+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:58:15.6325073+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:05:19.8119707+00:00"
 }

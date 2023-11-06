@@ -2,10 +2,10 @@
   "ID": "e8e0954ed50b46458165b250c8a05671",
   "Name": "Patrolling Mars",
   "ProductSlug": "patrollingmars-215534",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,131 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-06T16:04:25.2175593+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "01",
+      "SetID": "3jh51am",
+      "Name": "Stage A Complete",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "02",
+      "SetID": "3jh51am",
+      "Name": "Stage B Complete",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "03",
+      "SetID": "3jh51am",
+      "Name": "Stage C Complete",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "04",
+      "SetID": "3jh51am",
+      "Name": "Stage D Complete",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "05",
+      "SetID": "3jh51am",
+      "Name": "Stage E Complete",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "06",
+      "SetID": "3jh51am",
+      "Name": "Stage A No Lives Lost",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "07",
+      "SetID": "3jh51am",
+      "Name": "Stage B No Lives Lost",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "08",
+      "SetID": "3jh51am",
+      "Name": "Stage C No Lives Lost",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "09",
+      "SetID": "3jh51am",
+      "Name": "Stage D No Lives Lost",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "3jh51am",
+      "Name": "Stage E No Lives Lost",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "3jh51am",
+      "Name": "Stage A - Beat The Clock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "3jh51am",
+      "Name": "Stage B - Beat The Clock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "3jh51am",
+      "Name": "Stage C - Beat The Clock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "3jh51am",
+      "Name": "Stage D - Beat The Clock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "3jh51am",
+      "Name": "Stage E - Beat The Clock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3jh51am",
@@ -40,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-06T07:04:04.66523+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:03:24.0776478+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:04:25.2175571+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.2534134+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:47.9569581+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:03:24.0776507+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:58:34.4740787+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:04:25.2579506+00:00"
 }

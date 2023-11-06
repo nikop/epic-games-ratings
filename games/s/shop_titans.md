@@ -15,6 +15,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 2.00% | ~2,774 |
 | One Easy Payment | 2.00% | ~2,774 |
 | Some Assembly Required | 2.00% | ~2,774 |
+| Bounty Hunters | 2.00% | ~2,774 |
 | Another Satisfied Customer | 2.00% | ~2,774 |
 | It's Free Real Estate | 2.00% | ~2,774 |
 | Pretty Penny | 2.00% | ~2,774 |
@@ -26,7 +27,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 1.00% | ~1,387 |
 | Research & Development | 1.00% | ~1,387 |
 | Vanity, Verily | 1.00% | ~1,387 |
-| Bounty Hunters | 1.00% | ~1,387 |
 | Fated Encounters | 1.00% | ~1,387 |
 | Blank Page Syndrome | 1.00% | ~1,387 |
 | Demand for Supplies | 1.00% | ~1,387 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,705 (Ranked 79)  
+Progressed: 138,708 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
 | 2023-11-05 | 138,681 | 178 |
-| 2023-11-06 | 138,705 | 178 |
+| 2023-11-06 | 138,708 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 73)  
 Sum: 27,504 (Ranked 51)  

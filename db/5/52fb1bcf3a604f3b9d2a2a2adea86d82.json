@@ -2,10 +2,10 @@
   "ID": "52fb1bcf3a604f3b9d2a2a2adea86d82",
   "Name": "A Second Before The War",
   "ProductSlug": "a-second-before-the-war-55b226",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-12T19:00:00+00:00",
     "PcReleaseDate": "2023-07-12T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-10-31T14:57:12.6226405+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:59:13.5883413+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:05:32.5337096+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:00:27.5232162+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:07:06.3059943+00:00"
 }

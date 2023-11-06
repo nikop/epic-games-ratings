@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Last Goodbye | 91.00% | ~128 |
 | The Routine | 80.00% | ~113 |
-| Mother | 78.00% | ~110 |
+| Mother | 79.00% | ~111 |
 | Failure | 76.00% | ~107 |
 | Replace Fuse | 66.00% | ~93 |
 | Alarm | 65.00% | ~92 |
@@ -16,25 +16,25 @@
 | Descent | 57.00% | ~80 |
 | Awakenings | 57.00% | ~80 |
 | Cold Storage | 57.00% | ~80 |
-| Sam | 56.00% | ~79 |
+| Sam | 57.00% | ~80 |
 | Commissioner | 52.00% | ~73 |
 | Doctor | 50.00% | ~70 |
 | Soldier | 50.00% | ~70 |
+| Leave | 49.00% | ~69 |
 | Engineer | 49.00% | ~69 |
-| Leave | 48.00% | ~68 |
 | Churchill | 48.00% | ~68 |
 | Press Play | 38.00% | ~54 |
 | General | 29.00% | ~41 |
 | Bookworm | 25.00% | ~35 |
-| Floppy Disk Finder | 15.00% | ~21 |
+| Floppy Disk Finder | 16.00% | ~23 |
 | Stay | 14.00% | ~20 |
 | Nurse | 11.00% | ~16 |
 | No Page Unturned | 6.00% | ~8 |
 | Friends | 6.00% | ~8 |
 | The Missing Piece | 6.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 385)  
-Completed: 5 (3.55%) (Ranked 84)  
+Progressed: 141 (Ranked 386)  
+Completed: 6 (4.26%) (Ranked 78)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 5 (3.55%) (Ranked 84)
 | 2023-11-02 | 138 | 5 |
 | 2023-11-03 | 139 | 5 |
 | 2023-11-05 | 140 | 5 |
-| 2023-11-06 | 141 | 5 |
+| 2023-11-06 | 141 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

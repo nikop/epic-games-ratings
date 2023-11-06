@@ -2,10 +2,10 @@
   "ID": "74a88dbb5c984fd38d1b2990bc3c090a",
   "Name": "Surviving The Humans ACT 1",
   "ProductSlug": "surviving-the-humans-1e4834",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.8358648+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:58:26.8384947+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:07:36.1594557+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:59:25.6638151+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:08:34.0922067+00:00"
 }

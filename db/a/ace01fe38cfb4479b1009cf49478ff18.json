@@ -2,10 +2,10 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -354,9 +354,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -457,8 +457,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:08:30.5107792+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:09:17.4346897+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:56:52.4897595+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:08:30.5107921+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:57:19.5805741+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:09:17.4346999+00:00"
 }

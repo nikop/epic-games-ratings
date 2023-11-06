@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3607,
+  "EOS_Progressed": 3608,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5599,6 +5599,11 @@
       "Time": "2023-11-06T10:05:09.4025358+00:00",
       "NumProgressed": 3607,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T16:05:24.3270567+00:00",
+      "NumProgressed": 3608,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5626,7 +5631,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -5658,7 +5663,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -5706,7 +5711,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5722,7 +5727,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5754,7 +5759,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -5770,7 +5775,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5778,7 +5783,7 @@
       "Name": "Frontliner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -5794,7 +5799,7 @@
       "Name": "The Cable Guy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACH_MISSION_01",
@@ -5802,7 +5807,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5818,7 +5823,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACH_MISSION_04",
@@ -5826,7 +5831,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5842,7 +5847,7 @@
       "Name": "Living Nightmare",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH_MISSION_07",
@@ -5906,7 +5911,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5922,7 +5927,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2129
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -5954,7 +5959,7 @@
       "Name": "The More The Merrier",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -5962,14 +5967,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3607,
+      "Progressed": 3608,
       "Completed": 3
     }
   ],
@@ -5977,8 +5982,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:04:10.7429702+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:05:24.3270563+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:00:02.1556941+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:10.7430283+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:33.4608747+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:05:24.3271104+00:00"
 }

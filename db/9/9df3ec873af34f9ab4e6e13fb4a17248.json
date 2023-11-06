@@ -2,10 +2,10 @@
   "ID": "9df3ec873af34f9ab4e6e13fb4a17248",
   "Name": "Mobilization",
   "ProductSlug": "mobilisation-78891a",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-12T08:00:00+00:00",
     "PcReleaseDate": "2023-04-21T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-22T20:57:35.9508705+00:00",
   "LastUpdate_AppInfo": "2023-11-03T05:57:25.8429865+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:59:34.3129638+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:12.368097+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:00:56.4918073+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:05:26.4373175+00:00"
 }

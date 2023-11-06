@@ -2,10 +2,10 @@
   "ID": "55370026bd804911b3f5e1a9edaadda0",
   "Name": "Ruin Raiders",
   "ProductSlug": "ruin-raiders-d2d613",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-14T13:00:00+00:00",
     "PcReleaseDate": "2021-10-14T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:08.7005218+00:00",
   "LastChanged": "2023-03-31T05:58:08.7005219+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:11.0455685+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:36.2581146+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:07:30.088127+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:58:18.3413316+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:08:26.5793117+00:00"
 }

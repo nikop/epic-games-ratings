@@ -2,10 +2,10 @@
   "ID": "76917f4859d54d499bb1660d5347de6c",
   "Name": "Spinner Invaders",
   "ProductSlug": "spinner-invaders-d453e7",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-15T13:30:00+00:00",
     "PcReleaseDate": "2021-09-28T05:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T07:03:59.778019+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:09:02.3352004+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:09:52.6973809+00:00",
   "LastUpdate_AppInfo": "2023-11-02T14:57:01.1019943+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:00:14.0232647+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:09:02.335204+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:50.9001115+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:09:52.6973835+00:00"
 }

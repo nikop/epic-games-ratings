@@ -43,10 +43,10 @@ Number of Ratings: 34  (23.09.2022)
 | Piece of Cake | 7.00% | ~40 |
 | Collectibles of Chapter VII | 6.00% | ~34 |
 | The Good Samaritan | 6.00% | ~34 |
+| It Will Rain | 6.00% | ~34 |
 | Not Spill a Drop | 6.00% | ~34 |
 | Collectibles of Chapter VIII | 5.00% | ~28 |
 | Collectibles of Chapter XI | 5.00% | ~28 |
-| It Will Rain | 5.00% | ~28 |
 | Collectibles of Chapter X | 4.00% | ~23 |
 | Collectibles of Chapter IX | 3.00% | ~17 |
 | Collectibles of Chapter VI | 2.00% | ~11 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 566 (Ranked 283)  
+Progressed: 566 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

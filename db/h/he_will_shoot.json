@@ -2,10 +2,10 @@
   "ID": "043026c5b09e48ccbd34a3fffaa05039",
   "Name": "He Will Shoot",
   "ProductSlug": "he-will-shoot-46efff",
-  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-12-15T21:00:00+00:00",
     "PcReleaseDate": "2021-12-15T21:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.5314789+00:00",
   "LastChanged": "2023-03-31T05:58:14.531479+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.3974584+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:14.246743+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:53.813942+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:57:50.2613479+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:06:16.3306416+00:00"
 }

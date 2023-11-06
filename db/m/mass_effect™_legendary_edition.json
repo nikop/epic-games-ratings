@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1007,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3296,9 +3296,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 574
     },
     {
       "ID": "achievement_40",
@@ -3328,9 +3328,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_44",
@@ -3808,9 +3808,9 @@
       "ID": "achievement_98",
       "SetID": "d252ncf",
       "Name": "Master and Commander",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_99",
@@ -3836,8 +3836,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:04:22.692817+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:05:39.5768947+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:02:24.4265309+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:22.6929816+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:03:06.2022221+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:05:39.5770861+00:00"
 }

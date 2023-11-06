@@ -7,9 +7,9 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,404 |
+| First cargo item on board | 71.00% | ~1,294 |
 | First cargo item waiting | 71.00% | ~1,294 |
 | First bus stop | 70.00% | ~1,276 |
-| First cargo item on board | 70.00% | ~1,276 |
 | First passenger on board | 67.00% | ~1,221 |
 | First passenger waiting | 67.00% | ~1,221 |
 | First bus arrived | 66.00% | ~1,203 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~4 |
 | Museum line | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,823 (Ranked 219)  
+Progressed: 1,823 (Ranked 220)  
 Completed: 1 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,9 +258,9 @@ Completed: 1 (0.05%) (Ranked 297)
 | 2023-11-05 | 1,820 | 1 |
 | 2023-11-06 | 1,823 | 1 |
 ## Awards
-Max (Highly Recommended): 43  (Ranked 447)  
+Max (Highly Recommended): 43  (Ranked 448)  
 Sum: 303 (Ranked 356)  
-Diff (max vs sum): 91  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 43 |

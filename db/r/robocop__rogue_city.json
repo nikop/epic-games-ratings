@@ -2,10 +2,10 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 90,
+  "EOS_Progressed": 109,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-11-06T15:04:33.1074312+00:00",
       "NumProgressed": 90,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T16:05:53.0047899+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -77,7 +82,7 @@
       "ID": "FindSkillBook",
       "SetID": "80nhi4a",
       "Name": "I\u0027d Buy That For a Dollar!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "FinishCSI",
       "SetID": "80nhi4a",
       "Name": "Hard Boiled",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "GiveTicket",
       "SetID": "80nhi4a",
       "Name": "Uphold the Law",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "Kill3WithExplosion",
       "SetID": "80nhi4a",
       "Name": "Nukem!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -133,7 +138,7 @@
       "ID": "KillEnemyWithThrowable",
       "SetID": "80nhi4a",
       "Name": "Strikeout!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "L15Efficiency",
       "SetID": "80nhi4a",
       "Name": "There Can Only Be One",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -253,7 +258,7 @@
       "ID": "ShootInTheBalls",
       "SetID": "80nhi4a",
       "Name": "Zip This Up",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -269,7 +274,7 @@
       "ID": "ShootingRangeGold",
       "SetID": "80nhi4a",
       "Name": "SuperCop",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -294,14 +299,14 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 90,
+      "Progressed": 109,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:04:33.1074306+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:05:53.0047894+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:57:42.6546223+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:33.1074493+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:58:27.6281408+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:05:53.0048064+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 317,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -1672,8 +1672,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:04:08.7910614+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:05:21.8902115+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:26.7200143+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:00:04.0332584+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:08.7911741+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:01:36.5801768+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:05:21.8902973+00:00"
 }

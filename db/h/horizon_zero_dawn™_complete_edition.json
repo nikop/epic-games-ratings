@@ -4,11 +4,11 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 123,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 87,
-  "Ranking_EOS_Progress": 726,
+  "Ranking_PopularitySum": 88,
+  "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
     "PcReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -7082,10 +7082,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 10802,
       "NumberOfAwardsMax": 4988
+    },
+    {
+      "Time": "2023-11-06T16:00:43.1130167+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10803,
+      "NumberOfAwardsMax": 4988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10802,
+  "NumberOfAwards": 10803,
   "NumberOfAwardsMax": 4988,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7117,7 +7123,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game is Relaxing",
@@ -7173,8 +7179,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-11-06T14:59:25.0972758+00:00",
+  "LastChanged": "2023-11-06T16:00:43.1130163+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.7453905+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:59:25.0972764+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:04:52.6581331+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:00:43.1130172+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:06:14.7312384+00:00"
 }

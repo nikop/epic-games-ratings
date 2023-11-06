@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4286,
+  "EOS_Progressed": 4288,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 914,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2023-11-06T15:08:29.0048822+00:00",
       "NumProgressed": 4286,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T16:09:15.782389+00:00",
+      "NumProgressed": 4288,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2329,7 +2334,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2401,7 +2406,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "NoMoreTotems",
@@ -2495,9 +2500,9 @@
       "ID": "WhatsWithAllTheReferences",
       "SetID": "acc6ea0",
       "Name": "Digestive Issues",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 300
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2513,7 +2518,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "k01101110",
@@ -2521,14 +2526,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4286,
+      "Progressed": 4288,
       "Completed": 5
     }
   ],
@@ -2536,8 +2541,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-06T15:08:29.0048817+00:00",
+  "LastChanged_Achievements": "2023-11-06T16:09:15.7823885+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:58:35.5632474+00:00",
-  "LastUpdate_Achievements": "2023-11-06T15:08:29.0049099+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:59:38.527244+00:00",
+  "LastUpdate_Achievements": "2023-11-06T16:09:15.7824199+00:00"
 }
