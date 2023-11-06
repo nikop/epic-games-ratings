@@ -298,7 +298,7 @@
 | 291 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 368 | 233 |
 | 291 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 547 |
 | 291 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 547 |
-| 291 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 185 | 290 |
+| 291 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.66 | 185 | 291 |
 | 291 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 54 | 418 |
 | 291 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,933 | 112 |
 | 291 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66 | 0 | 547 |
@@ -355,7 +355,7 @@
 | 346 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 621 | 188 |
 | 346 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 547 |
 | 346 | [Revita](games/r/revita.md) | 4.63 | 0 | 547 |
-| 346 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 185 | 290 |
+| 346 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 185 | 291 |
 | 346 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 245 |
 | 346 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,797 | 117 |
 | 346 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,582 | 125 |
@@ -747,7 +747,7 @@
 | 744 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 547 |
 | 744 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 547 |
 | 744 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 597 | 191 |
-| 744 | [MORDHAU](games/m/mordhau.md) | 4.39 | 881 | 159 |
+| 744 | [MORDHAU](games/m/mordhau.md) | 4.39 | 884 | 159 |
 | 744 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,784 | 36 |
 | 744 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 547 |
 | 744 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.39 | 0 | 547 |
@@ -888,7 +888,7 @@
 | 884 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.23 | 0 | 547 |
 | 884 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 547 |
 | 884 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.23 | 0 | 547 |
-| 889 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 185 | 290 |
+| 889 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 186 | 290 |
 | 889 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 131 | 325 |
 | 889 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 547 |
 | 889 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 220 | 277 |
