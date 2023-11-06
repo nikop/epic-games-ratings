@@ -17,6 +17,7 @@
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
 | [Townsmen - A Kingdom Rebuilt](../games/t/townsmen_-_a_kingdom_rebuilt.md) | 101 | 1,000 |
 | [Football Manager 2023](../games/f/football_manager_2023.md) | 100 | 1,000 |
+| [Football Manager 2024](../games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 100 | 1,000 |
 | [Vagrus - The Riven Realms](../games/v/vagrus_-_the_riven_realms.md) | 99 | 1,000 |
 | [Football Manager 2022](../games/f/football_manager_2022.md) | 98 | 1,000 |
 | [Supraland](../games/s/supraland.md) | 98 | 1,000 |
@@ -658,6 +659,7 @@
 | [JYDGE](../games/j/jydge.md) | 15 | 1,000 |
 | [Kaichu - The Kaiju Dating Sim](../games/k/kaichu_-_the_kaiju_dating_sim.md) | 15 | 1,000 |
 | [NEW Joe and Mac Caveman Ninja](../games/n/new_joe_and_mac_caveman_ninja.md) | 15 | 1,000 |
+| [Patrolling Mars](../games/e/e8e0954ed50b46458165b250c8a05671.md) | 15 | 1,000 |
 | [Road 96: Mile 0](../games/r/road_96__mile_0.md) | 15 | 1,000 |
 | [Shame Legacy](../games/s/shame_legacy.md) | 15 | 1,000 |
 | [Super Adventure Hand](../games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15 | 1,000 |

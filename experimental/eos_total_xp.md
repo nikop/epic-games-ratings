@@ -275,6 +275,7 @@
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
 | [Football Manager 2022](../games/f/football_manager_2022.md) | 98 | 1,000 |
 | [Football Manager 2023](../games/f/football_manager_2023.md) | 100 | 1,000 |
+| [Football Manager 2024](../games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 100 | 1,000 |
 | [FORECLOSED](../games/f/foreclosed.md) | 24 | 1,000 |
 | [Forest Fire](../games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 34 | 1,000 |
 | [Forest Grove](../games/1/172112126caf448aa6e069b16a9f0118.md) | 12 | 1,000 |
@@ -488,6 +489,7 @@
 | [Paquerette Down the Bunburrows](../games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 60 | 1,000 |
 | [Partisans 1941](../games/p/partisans_1941.md) | 30 | 1,000 |
 | [Party Monsterzz](../games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5 | 1,000 |
+| [Patrolling Mars](../games/e/e8e0954ed50b46458165b250c8a05671.md) | 15 | 1,000 |
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
