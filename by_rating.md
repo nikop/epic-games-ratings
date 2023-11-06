@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 547 |
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 547 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 547 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,679 | 122 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,682 | 122 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,354 | 93 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 547 |
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 547 |
@@ -260,7 +260,7 @@
 | 251 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,019 | 84 |
 | 251 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.68 | 24 | 519 |
 | 251 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 712 | 180 |
-| 251 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 312,542 | 3 |
+| 251 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 312,651 | 3 |
 | 251 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 254,680 | 4 |
 | 251 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 547 |
 | 251 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 547 |
@@ -358,7 +358,7 @@
 | 346 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 185 | 290 |
 | 346 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 305 | 245 |
 | 346 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,797 | 117 |
-| 346 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,566 | 125 |
+| 346 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.63 | 1,582 | 125 |
 | 346 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 25 | 515 |
 | 346 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.63 | 72 | 397 |
 | 346 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 547 |
@@ -428,7 +428,7 @@
 | 407 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 279 | 256 |
 | 407 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 529 |
 | 407 | [Warframe](games/w/warframe.md) | 4.60 | 18,208 | 23 |
-| 407 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 544 | 201 |
+| 407 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 548 | 201 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 547 |
 | 430 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 474 | 210 |
 | 430 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 400 |
@@ -448,7 +448,7 @@
 | 445 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 547 |
 | 445 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 63,157 | 11 |
 | 445 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 180 | 296 |
-| 445 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,856 | 40 |
+| 445 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,884 | 40 |
 | 445 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 264 | 261 |
 | 445 | [GRIT](games/g/grit.md) | 4.58 | 0 | 547 |
 | 445 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 39 | 456 |
@@ -536,7 +536,7 @@
 | 521 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 96 | 363 |
 | 521 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 387 |
 | 536 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 547 |
-| 536 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,487 | 18 |
+| 536 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,517 | 18 |
 | 536 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 529 |
 | 536 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 469 |
 | 536 | [Everything](games/e/everything.md) | 4.53 | 0 | 547 |
@@ -604,7 +604,7 @@
 | 583 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,131 | 95 |
 | 583 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 175 | 299 |
 | 604 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 33 | 480 |
-| 604 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 405 |
+| 604 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 406 |
 | 604 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,010 | 111 |
 | 604 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 38,952 | 14 |
 | 604 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.49 | 0 | 547 |
@@ -816,7 +816,7 @@
 | 808 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 547 |
 | 808 | [Torchlight](games/t/torchlight.md) | 4.33 | 22 | 529 |
 | 808 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.33 | 0 | 547 |
-| 817 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 64 | 405 |
+| 817 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.32 | 65 | 405 |
 | 817 | [House Party](games/h/house_party.md) | 4.32 | 0 | 547 |
 | 817 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 547 |
 | 817 | [Paladins](games/p/paladins.md) | 4.32 | 3,793 | 87 |
