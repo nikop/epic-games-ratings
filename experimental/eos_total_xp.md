@@ -717,6 +717,7 @@
 | [The Wild Case](../games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 18 | 1,000 |
 | [Them and Us](../games/t/them_and_us.md) | 40 | 1,000 |
 | [Them's Fightin' Herds](../games/t/them's_fightin'_herds.md) | 28 | 1,000 |
+| [There Is No Game - Wrong Dimension](../games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 34 | 1,000 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [Thunder Ray](../games/3/3c59565688c94fa2807baaa19ed62478.md) | 10 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |

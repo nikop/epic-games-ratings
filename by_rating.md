@@ -65,7 +65,7 @@
 | 63 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 547 |
 | 63 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.82 | 0 | 547 |
 | 63 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 439 | 216 |
-| 63 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,783 | 119 |
+| 63 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,787 | 119 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,016 | 62 |
 | 63 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 547 |
 | 63 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 475 |
@@ -129,7 +129,7 @@
 | 123 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,051 | 147 |
 | 123 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 1,105 | 142 |
 | 123 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.76 | 24,072 | 17 |
-| 123 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,988 | 71 |
+| 123 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,999 | 71 |
 | 123 | [Journey](games/j/journey.md) | 4.76 | 0 | 547 |
 | 123 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 547 |
 | 123 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 547 |
@@ -148,7 +148,7 @@
 | 142 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.75 | 0 | 547 |
 | 142 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.75 | 0 | 547 |
 | 142 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,080 | 109 |
-| 142 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 789 | 170 |
+| 142 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 793 | 170 |
 | 142 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 547 |
 | 142 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 547 |
 | 142 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 401 | 223 |
@@ -265,7 +265,7 @@
 | 250 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 547 |
 | 250 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 547 |
 | 250 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 576 | 194 |
-| 250 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 701 | 182 |
+| 250 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 701 | 183 |
 | 250 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 547 |
 | 250 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 547 |
 | 250 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.68 | 0 | 547 |
@@ -435,7 +435,7 @@
 | 430 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.59 | 0 | 547 |
 | 430 | [GRIME](games/g/grime.md) | 4.59 | 50 | 426 |
 | 430 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 63 | 408 |
-| 430 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 700 | 183 |
+| 430 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 703 | 182 |
 | 430 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.59 | 0 | 547 |
 | 430 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.59 | 228 | 270 |
 | 430 | [NORCO](games/n/norco.md) | 4.59 | 0 | 547 |
@@ -602,7 +602,7 @@
 | 584 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 874 | 160 |
 | 584 | [Solitairica](games/s/solitairica.md) | 4.50 | 87 | 377 |
 | 584 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 547 |
-| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,131 | 95 |
+| 584 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,138 | 95 |
 | 584 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 175 | 299 |
 | 605 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 33 | 480 |
 | 605 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 407 |
@@ -862,7 +862,7 @@
 | 854 | [Scrapnaut](games/s/scrapnaut.md) | 4.27 | 0 | 547 |
 | 854 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 547 |
 | 862 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.26 | 0 | 547 |
-| 862 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,817 | 19 |
+| 862 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,831 | 19 |
 | 862 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.26 | 0 | 547 |
 | 862 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 547 |
 | 862 | [Men of War](games/m/men_of_war.md) | 4.26 | 0 | 547 |
