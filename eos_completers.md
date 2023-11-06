@@ -21,7 +21,7 @@
 | 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.75% |
 | 20 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 18.18% |
 | 21 | [Island Cities](games/i/island_cities.md) | 17.09% |
-| 22 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 16.22% |
+| 22 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 15.79% |
 | 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.03% |
 | 24 | [Remains](games/r/remains.md) | 14.81% |
 | 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -60,7 +60,7 @@
 | 57 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
 | 59 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.86% |
+| 61 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.84% |
 | 62 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.62% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 64 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -109,8 +109,8 @@
 | 107 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 110 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.52% |
-| 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 110 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 111 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.48% |
 | 112 | [Lamentum](games/l/lamentum.md) | 2.43% |
 | 113 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
@@ -170,7 +170,7 @@
 | 168 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 169 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.80% |
 | 170 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.73% |
+| 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.72% |
 | 172 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 173 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
