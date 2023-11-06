@@ -933,9 +933,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -1269,9 +1269,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -1341,9 +1341,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -1381,9 +1381,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -1477,9 +1477,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 167
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1564,8 +1564,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:08:19.7877765+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:08:42.7569609+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:59:42.6922104+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:08:19.7878652+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:00:34.4204188+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:08:42.7570324+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~47,806 |
-| Get Busy Living | 16.00% | ~30,596 |
-| Samuel Norton | 9.00% | ~17,210 |
+| Stone Walls | 25.00% | ~47,807 |
+| Get Busy Living | 16.00% | ~30,597 |
+| Samuel Norton | 9.00% | ~17,211 |
 | Spare The Rod | 5.00% | ~9,561 |
 | Don't Put Me In The Dark | 3.00% | ~5,737 |
 | Wait and Hope | 3.00% | ~5,737 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,737 |
-| Throw The Book At Them | 2.00% | ~3,824 |
-| Iron Bars | 2.00% | ~3,824 |
+| Throw The Book At Them | 2.00% | ~3,825 |
+| Iron Bars | 2.00% | ~3,825 |
 | D.B. Cooper | 1.00% | ~1,912 |
 | Reformation | 0.60% | ~1,147 |
 | Crowd Control | 0.50% | ~956 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~191 |
 | ... It's What You Can Prove | 0.10% | ~191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,222 (Ranked 73)  
+Progressed: 191,229 (Ranked 73)  
 Completed: 8 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,22 +223,22 @@ Completed: 8 (0.00%) (Ranked 344)
 | 2023-11-03 | 190,387 | 8 |
 | 2023-11-04 | 190,773 | 8 |
 | 2023-11-05 | 191,171 | 8 |
-| 2023-11-06 | 191,222 | 8 |
+| 2023-11-06 | 191,229 | 8 |
 ## Awards
 Max (Great for Beginners): 553  (Ranked 200)  
-Sum: 4,316 (Ranked 146)  
+Sum: 4,321 (Ranked 146)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 553 |
 | This game is Extremely Fun | 552 |
 | This game is Highly Recommended | 523 |
-| This game has Quickly Understood Controls | 512 |
+| This game has Quickly Understood Controls | 514 |
 | This game is Relaxing | 500 |
 | This game has Amazing Storytelling | 464 |
 | This game has Diverse Characters | 464 |
 | This game is Educational | 448 |
-| This game has Amazing Characters | 420 |
+| This game has Amazing Characters | 423 |
 | This game has a Creative Community | 328 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
@@ -531,4 +531,4 @@ Diff (max vs sum): 54
 | 2023-11-03 | 4.61 | - | 552 | 4,294 |
 | 2023-11-04 | 4.61 | - | 552 | 4,301 |
 | 2023-11-05 | 4.61 | - | 553 | 4,314 |
-| 2023-11-06 | 4.61 | - | 553 | 4,316 |
+| 2023-11-06 | 4.61 | - | 553 | 4,321 |

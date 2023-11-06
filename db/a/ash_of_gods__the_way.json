@@ -492,9 +492,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "story20",
@@ -581,8 +581,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:05:23.9122239+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:06:20.9888884+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-06T05:00:16.9027037+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:05:23.9122525+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:01:22.5811075+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:06:20.9889159+00:00"
 }

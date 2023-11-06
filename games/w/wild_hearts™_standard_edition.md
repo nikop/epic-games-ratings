@@ -7,10 +7,10 @@
 | Land of the Rising Sun | 99.00% | ~227 |
 | Hidden History | 84.00% | ~192 |
 | Commencing of Quests | 79.00% | ~181 |
-| Budding Conjuror | 78.00% | ~179 |
+| Budding Conjuror | 79.00% | ~181 |
 | Man-Machine Master | 70.00% | ~160 |
+| Mountain Splitter | 68.00% | ~156 |
 | Fusion Conjuror | 67.00% | ~153 |
-| Mountain Splitter | 67.00% | ~153 |
 | Memory Rouser | 66.00% | ~151 |
 | Charmed by the Hunt | 66.00% | ~151 |
 | Subsistence Skills | 64.00% | ~147 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~25 |
 | Tsukumo Whisperer | 7.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229 (Ranked 350)  
+Progressed: 229 (Ranked 349)  
 Completed: 6 (2.62%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |

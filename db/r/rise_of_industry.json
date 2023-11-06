@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749552,
+  "EOS_Progressed": 749554,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2022,
+  "EOS_NewPlayers": 2017,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23094,6 +23094,11 @@
       "Time": "2023-11-06T05:03:38.0862616+00:00",
       "NumProgressed": 749552,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T06:04:02.6744184+00:00",
+      "NumProgressed": 749554,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -23169,7 +23174,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 277334
+      "UsersEstimate": 277335
     },
     {
       "ID": "ach_demolish_trees",
@@ -23233,7 +23238,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 359785
+      "UsersEstimate": 359786
     },
     {
       "ID": "ach_produced",
@@ -23249,7 +23254,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 119928
+      "UsersEstimate": 119929
     },
     {
       "ID": "ach_raise_money",
@@ -23320,7 +23325,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 749552,
+      "Progressed": 749554,
       "Completed": 4
     }
   ],
@@ -23328,8 +23333,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:03:38.0862611+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:04:02.674418+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.2241033+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:58:09.6498624+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:03:38.0863909+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:58:21.7485229+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:04:02.6745172+00:00"
 }

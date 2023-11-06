@@ -2,9 +2,9 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-11-05T06:03:53.6836564+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T06:05:11.4042712+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -246,7 +251,7 @@
       "ID": "15",
       "SetID": "4fgie3j",
       "Name": "Tyrant Rise",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -254,7 +259,7 @@
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -262,7 +267,7 @@
       "ID": "17",
       "SetID": "4fgie3j",
       "Name": "Death of Princess",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -334,7 +339,7 @@
       "ID": "25",
       "SetID": "4fgie3j",
       "Name": "Sendai Shogunate",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -374,7 +379,7 @@
       "ID": "3",
       "SetID": "4fgie3j",
       "Name": "Pirate Raid",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -382,7 +387,7 @@
       "ID": "30",
       "SetID": "4fgie3j",
       "Name": "Heaven Tower",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -398,7 +403,7 @@
       "ID": "32",
       "SetID": "4fgie3j",
       "Name": "Rebel Command",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -438,7 +443,7 @@
       "ID": "37",
       "SetID": "4fgie3j",
       "Name": "Westwasters Dynasty",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -446,7 +451,7 @@
       "ID": "38",
       "SetID": "4fgie3j",
       "Name": "Merchant Republic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -462,7 +467,7 @@
       "ID": "4",
       "SetID": "4fgie3j",
       "Name": "Investment",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -550,7 +555,7 @@
       "ID": "6",
       "SetID": "4fgie3j",
       "Name": "Honor Medal",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -558,7 +563,7 @@
       "ID": "7",
       "SetID": "4fgie3j",
       "Name": "Jihad Uprising",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -574,7 +579,7 @@
       "ID": "9",
       "SetID": "4fgie3j",
       "Name": "Compliance Edict",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     }
@@ -583,14 +588,14 @@
     {
       "ID": "4fgie3j",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:04:30.6962606+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:05:11.4042708+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.6350617+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:58:10.1934997+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:04:30.6962884+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:58:22.7761681+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:05:11.4043173+00:00"
 }

@@ -515,7 +515,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 230851,
+  "EOS_Progressed": 230854,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 0,
@@ -12645,6 +12645,11 @@
       "Time": "2023-11-06T05:09:02.4325666+00:00",
       "NumProgressed": 230851,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T06:09:38.063792+00:00",
+      "NumProgressed": 230854,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -12841,7 +12846,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 32319
+      "UsersEstimate": 32320
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -12913,7 +12918,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57713
+      "UsersEstimate": 57714
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -12928,7 +12933,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 230851,
+      "Progressed": 230854,
       "Completed": 0
     }
   ],
@@ -12936,8 +12941,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-05T20:59:15.6953234+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:09:02.4325657+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:09:38.0637916+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:41.4334567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:59:08.1038629+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:09:02.4326695+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:59:46.042221+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:09:38.0638545+00:00"
 }

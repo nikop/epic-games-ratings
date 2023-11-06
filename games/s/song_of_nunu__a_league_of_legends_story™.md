@@ -10,7 +10,7 @@
 | Notai Notes | 68.00% | ~338 |
 | Blue Dreams | 66.00% | ~328 |
 | He's Famous! | 66.00% | ~328 |
-| Cutie Poro | 63.00% | ~313 |
+| Cutie Poro | 64.00% | ~318 |
 | Krugmazing | 62.00% | ~308 |
 | The Fire Below the Mountain | 60.00% | ~298 |
 | Moneyball | 57.00% | ~283 |
@@ -27,20 +27,20 @@
 | 3000 Year Blackout | 34.00% | ~169 |
 | On The Rocks | 33.00% | ~164 |
 | Never Gets Old | 32.00% | ~159 |
+| So Close | 31.00% | ~154 |
 | Snowy Poro | 31.00% | ~154 |
-| So Close | 30.00% | ~149 |
 | You Get Used To It | 30.00% | ~149 |
 | Bullseye | 29.00% | ~144 |
 | Family | 27.00% | ~134 |
 | Biggest Snowball Ever | 27.00% | ~134 |
 | Freeze The Ice Witch | 27.00% | ~134 |
 | Boosted! | 27.00% | ~134 |
+| Deadliest and Biggest Snowball Ever! | 27.00% | ~134 |
+| It Is Not Over | 26.00% | ~129 |
 | Vertical Power | 26.00% | ~129 |
-| Deadliest and Biggest Snowball Ever! | 26.00% | ~129 |
-| It Is Not Over | 25.00% | ~124 |
 | Yummy | 12.00% | ~60 |
 | One From The Heart | 12.00% | ~60 |
-| Snowball Fightn't | 10.00% | ~50 |
+| Snowball Fightn't | 11.00% | ~55 |
 | It Was Him | 8.00% | ~40 |
 | The Pied Piper Of Freljord | 7.00% | ~35 |
 | Handy Yeti | 6.00% | ~30 |

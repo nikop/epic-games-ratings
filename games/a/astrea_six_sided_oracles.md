@@ -11,8 +11,8 @@
 | Mechanical Buddy | 35.00% | ~24 |
 | Noctuan Champion | 35.00% | ~24 |
 | Wild's Keeper | 32.00% | ~22 |
+| Eridanian Champion | 32.00% | ~22 |
 | Sanctuary Guardian | 31.00% | ~21 |
-| Eridanian Champion | 31.00% | ~21 |
 | Lacertian Champion | 31.00% | ~21 |
 | Mind Illuminator | 29.00% | ~20 |
 | Apian Champion | 29.00% | ~20 |
@@ -26,9 +26,9 @@
 | Shard Spender | 19.00% | ~13 |
 | Astral Seeker | 18.00% | ~12 |
 | Heart Gate | 18.00% | ~12 |
+| Unbeatable | 18.00% | ~12 |
 | The Corruption Goddess | 16.00% | ~11 |
 | The Goddes Avatar | 16.00% | ~11 |
-| Unbeatable | 16.00% | ~11 |
 | Favored by the Cosmos | 15.00% | ~10 |
 | Stellar Haste | 13.00% | ~9 |
 | Anomaly Control | 12.00% | ~8 |

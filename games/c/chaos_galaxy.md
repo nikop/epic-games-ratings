@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Honor Medal | 25.00% | ~10 |
-| Tyrant Rise | 23.00% | ~9 |
-| Great Civil War | 18.00% | ~7 |
+| Honor Medal | 24.00% | ~10 |
+| Tyrant Rise | 22.00% | ~9 |
+| Great Civil War | 17.00% | ~7 |
 | Assassination | 15.00% | ~6 |
 | Princess Crowned | 10.00% | ~4 |
 | Secret War | 10.00% | ~4 |
-| Investment | 8.00% | ~3 |
+| Investment | 7.00% | ~3 |
 | 2nd AI War | 5.00% | ~2 |
 | Punish Eastgalaxy | 5.00% | ~2 |
 | Tech Breakthrough | 5.00% | ~2 |
-| Death of Princess | 3.00% | ~1 |
-| Sendai Shogunate | 3.00% | ~1 |
-| Pirate Raid | 3.00% | ~1 |
-| Heaven Tower | 3.00% | ~1 |
-| Rebel Command | 3.00% | ~1 |
-| Westwasters Dynasty | 3.00% | ~1 |
-| Merchant Republic | 3.00% | ~1 |
-| Jihad Uprising | 3.00% | ~1 |
-| Compliance Edict | 3.00% | ~1 |
+| Death of Princess | 2.00% | ~1 |
+| Sendai Shogunate | 2.00% | ~1 |
+| Pirate Raid | 2.00% | ~1 |
+| Heaven Tower | 2.00% | ~1 |
+| Rebel Command | 2.00% | ~1 |
+| Westwasters Dynasty | 2.00% | ~1 |
+| Merchant Republic | 2.00% | ~1 |
+| Jihad Uprising | 2.00% | ~1 |
+| Compliance Edict | 2.00% | ~1 |
 | Mercenary March | 0.00% | ~0 |
 | Takeover Planet | 0.00% | ~0 |
 | Punish Southsea | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 480)  
+Progressed: 41 (Ranked 479)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-03 | 37 | 0 |
 | 2023-11-04 | 39 | 0 |
 | 2023-11-05 | 40 | 0 |
+| 2023-11-06 | 41 | 0 |

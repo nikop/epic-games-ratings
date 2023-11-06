@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 800,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.38,
   "EosHistory": [
@@ -3036,6 +3036,11 @@
       "Time": "2023-11-05T21:05:05.5814246+00:00",
       "NumProgressed": 799,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T06:05:48.016547+00:00",
+      "NumProgressed": 800,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 28,
@@ -3047,7 +3052,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MQ01_2",
@@ -3055,7 +3060,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MQ02_1",
@@ -3063,7 +3068,7 @@
       "Name": "High Profile",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "MQ02_2",
@@ -3087,7 +3092,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "MQ03_1",
@@ -3095,7 +3100,7 @@
       "Name": "Fond Memories",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "MQ03_2",
@@ -3111,7 +3116,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "MQ03_4",
@@ -3127,7 +3132,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "MQ04_1",
@@ -3270,7 +3275,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 800,
       "Completed": 27
     }
   ],
@@ -3278,8 +3283,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:04:58.9409259+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:05:48.0165465+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.8261686+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:59:25.5017213+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:04:58.9409567+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:00:10.0375699+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:05:48.0165851+00:00"
 }

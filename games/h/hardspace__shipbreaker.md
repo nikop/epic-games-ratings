@@ -6,14 +6,14 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~687 |
-| It’s Heating up! | 69.00% | ~649 |
+| Breathe In… Breathe Out… | 73.00% | ~688 |
+| It’s Heating up! | 69.00% | ~650 |
 | Let’s patch things up | 65.00% | ~612 |
 | I can fix it! | 63.00% | ~593 |
 | Post No Bills | 55.00% | ~518 |
 | Truly Shocking! | 48.00% | ~452 |
 | Critical Thinker | 36.00% | ~339 |
-| Always Finding Your Mark | 30.00% | ~282 |
+| Always Finding Your Mark | 30.00% | ~283 |
 | Act I Complete | 29.00% | ~273 |
 | A drop in the Ocean | 29.00% | ~273 |
 | The Weight of the World | 29.00% | ~273 |
@@ -22,19 +22,19 @@ Number of Ratings: 36  (23.09.2022)
 | Act II Complete | 22.00% | ~207 |
 | A successful procedure! | 19.00% | ~179 |
 | Bing Bang BOOM | 19.00% | ~179 |
-| Breaking the Ice | 18.00% | ~169 |
+| Breaking the Ice | 18.00% | ~170 |
 | Solidarity Forever | 12.00% | ~113 |
 | A Tucked Tale | 10.00% | ~94 |
 | The best thing money can buy | 9.00% | ~85 |
-| Act III Complete | 6.00% | ~56 |
-| Fire and Brimstone | 6.00% | ~56 |
-| See you Space Cowboy | 6.00% | ~56 |
+| Act III Complete | 6.00% | ~57 |
+| Fire and Brimstone | 6.00% | ~57 |
+| See you Space Cowboy | 6.00% | ~57 |
 | Ghost in the Ship | 2.00% | ~19 |
 | Disagree and Commit | 0.10% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 254)  
+Progressed: 942 (Ranked 254)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-03 | 937 | 0 |
 | 2023-11-04 | 938 | 0 |
 | 2023-11-05 | 940 | 0 |
-| 2023-11-06 | 941 | 0 |
+| 2023-11-06 | 942 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

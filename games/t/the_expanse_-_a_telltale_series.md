@@ -6,6 +6,7 @@ Rating: 4.55 (Ranked 500)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 5.00% | ~735 |
+| Bosmang | 3.00% | ~441 |
 | The Pit and the Pirates | 2.00% | ~294 |
 | Stogie for Fogey | 2.00% | ~294 |
 | Drug Gifter | 2.00% | ~294 |
@@ -13,19 +14,18 @@ Rating: 4.55 (Ranked 500)
 | Martian Music | 2.00% | ~294 |
 | Drone Dodger | 2.00% | ~294 |
 | Call it Even | 2.00% | ~294 |
-| Bosmang | 2.00% | ~294 |
 | Captain Drummer | 2.00% | ~294 |
 | Celebrations are in Order | 2.00% | ~294 |
 | Impossible Objects | 2.00% | ~294 |
 | Safe Cracker | 2.00% | ~13 |
 | Zen Master | 2.00% | ~13 |
+| Madame Undersecretary | 2.00% | ~13 |
 | Data Archivist | 1.00% | ~147 |
 | Thorston Mayer | 1.00% | ~147 |
 | Heal Thy Medic | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
 | Keep Arjun in Check | 1.00% | ~7 |
 | Master Negotiator | 1.00% | ~7 |
-| Madame Undersecretary | 1.00% | ~7 |
 | Bottoms up! | 0.80% | ~118 |
 | Miraculous Maya | 0.80% | ~118 |
 | Doctor Approved | 0.70% | ~103 |

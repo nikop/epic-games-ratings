@@ -4011,9 +4011,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77427,
+  "EOS_Progressed": 77428,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26566,6 +26566,11 @@
       "Time": "2023-11-06T05:05:49.1699156+00:00",
       "NumProgressed": 77427,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-06T06:06:53.9943176+00:00",
+      "NumProgressed": 77428,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26673,7 +26678,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 24002
+      "UsersEstimate": 24003
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -26697,7 +26702,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26325
+      "UsersEstimate": 26326
     },
     {
       "ID": "customize_a_weapon",
@@ -26849,7 +26854,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15485
+      "UsersEstimate": 15486
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -26873,7 +26878,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27099
+      "UsersEstimate": 27100
     },
     {
       "ID": "one_third_purple",
@@ -26929,7 +26934,7 @@
       "Name": "Food for Thought",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 20905
+      "UsersEstimate": 20906
     },
     {
       "ID": "two_thirds_purple",
@@ -26961,7 +26966,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32519
+      "UsersEstimate": 32520
     },
     {
       "ID": "whole_map_purple",
@@ -26977,7 +26982,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -27000,13 +27005,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77427,
+      "Progressed": 77428,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 49064,
+      "Progressed": 49065,
       "Completed": 4261
     }
   ],
@@ -27014,8 +27019,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-06T03:03:08.5304761+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:05:49.1699152+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:06:53.9943173+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-06T05:03:02.6448717+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:05:49.1701047+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:03:13.7366107+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:06:53.9944477+00:00"
 }

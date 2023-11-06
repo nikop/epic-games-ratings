@@ -163,6 +163,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.30% | ~46 |
 | Magnificent Difficulty | 0.30% | ~46 |
 | The Eternal Treaty | 0.30% | ~46 |
+| Five Routs | 0.30% | ~46 |
 | Run, Pheidippides, Run! | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
 | Assyria | 0.30% | ~46 |
@@ -180,7 +181,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.20% | ~30 |
 | Great Difficulty | 0.20% | ~30 |
 | Event Level High | 0.20% | ~30 |
-| Five Routs | 0.20% | ~30 |
 | Get the Hellas Out | 0.20% | ~30 |
 | The Turning Point | 0.20% | ~30 |
 | A Good Start | 0.20% | ~30 |

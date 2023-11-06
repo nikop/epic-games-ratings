@@ -7,14 +7,14 @@ Rating: 4.75 (Ranked 142)
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,639 |
 | The Killing Jar | 8.00% | ~17,457 |
-| Expanding Horizons | 7.00% | ~15,274 |
-| Quest for Survival | 7.00% | ~15,274 |
-| Not Your Average Trait | 7.00% | ~15,274 |
-| Gleaming the Cube | 6.00% | ~13,092 |
-| Familiar Face | 6.00% | ~13,092 |
-| Duality | 6.00% | ~13,092 |
-| Boss'n Up | 6.00% | ~13,092 |
-| Trait Chaser | 6.00% | ~13,092 |
+| Expanding Horizons | 7.00% | ~15,275 |
+| Quest for Survival | 7.00% | ~15,275 |
+| Not Your Average Trait | 7.00% | ~15,275 |
+| Gleaming the Cube | 6.00% | ~13,093 |
+| Familiar Face | 6.00% | ~13,093 |
+| Duality | 6.00% | ~13,093 |
+| Boss'n Up | 6.00% | ~13,093 |
+| Trait Chaser | 6.00% | ~13,093 |
 | Not So Special Now | 5.00% | ~10,910 |
 | Not a Janitor | 5.00% | ~10,910 |
 | Equal Measures | 5.00% | ~10,910 |
@@ -56,8 +56,8 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,182 |
 | Proving Grounds | 1.00% | ~2,182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,207 (Ranked 68)  
-Completed: 431 (0.20%) (Ranked 243)  
+Progressed: 218,210 (Ranked 68)  
+Completed: 432 (0.20%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,7 +169,7 @@ Completed: 431 (0.20%) (Ranked 243)
 | 2023-11-03 | 217,330 | 429 |
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
-| 2023-11-06 | 218,207 | 431 |
+| 2023-11-06 | 218,210 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,066  (Ranked 109)  
 Sum: 4,607 (Ranked 143)  

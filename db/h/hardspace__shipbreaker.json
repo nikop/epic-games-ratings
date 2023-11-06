@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1872,6 +1872,11 @@
       "Time": "2023-11-06T05:08:23.1305062+00:00",
       "NumProgressed": 941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T06:08:47.0130703+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1899,7 +1904,7 @@
       "Name": "Act III Complete",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -1907,7 +1912,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1955,7 +1960,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -1963,7 +1968,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1995,7 +2000,7 @@
       "Name": "Fire and Brimstone",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -2019,7 +2024,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2067,7 +2072,7 @@
       "Name": "See you Space Cowboy",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
@@ -2098,7 +2103,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 0
     }
   ],
@@ -2106,8 +2111,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:08:23.1305056+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:08:47.0130699+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:01.9640751+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:58:59.5296315+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:08:23.1305273+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:59:34.1238925+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:08:47.0130945+00:00"
 }

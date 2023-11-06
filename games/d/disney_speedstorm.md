@@ -5,15 +5,15 @@ Rating: 4.40 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 8.00% | ~22,612 |
-| IT MAKES BOOM! | 5.00% | ~14,132 |
-| EXTRA BOOST | 4.00% | ~11,306 |
-| PROTECTED | 3.00% | ~8,479 |
-| PRO | 3.00% | ~8,479 |
-| A TIGER'S FEAR | 2.00% | ~5,653 |
-| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,653 |
-| AGGRESSIVE RACER | 2.00% | ~5,653 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,826 |
+| ROOKIE | 8.00% | ~22,616 |
+| IT MAKES BOOM! | 5.00% | ~14,135 |
+| EXTRA BOOST | 4.00% | ~11,308 |
+| PROTECTED | 3.00% | ~8,481 |
+| PRO | 3.00% | ~8,481 |
+| A TIGER'S FEAR | 2.00% | ~5,654 |
+| HERE ARE SOME BARE NECESSITIES | 2.00% | ~5,654 |
+| AGGRESSIVE RACER | 2.00% | ~5,654 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,827 |
 | ACE SPEEDSTER | 0.90% | ~2,544 |
 | RELEASE THE KRAKEN | 0.70% | ~1,979 |
 | DEFEAT OUR CHAMPION | 0.70% | ~1,979 |
@@ -30,7 +30,7 @@ Rating: 4.40 (Ranked 734)
 | FRAMED! | 0.20% | ~565 |
 | ACE TRICKSTER | 0.20% | ~565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282,648 (Ranked 52)  
+Progressed: 282,696 (Ranked 52)  
 Completed: 270 (0.10%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,16 +226,16 @@ Completed: 270 (0.10%) (Ranked 268)
 | 2023-11-03 | 276,886 | 266 |
 | 2023-11-04 | 279,553 | 268 |
 | 2023-11-05 | 282,134 | 270 |
-| 2023-11-06 | 282,648 | 270 |
+| 2023-11-06 | 282,696 | 270 |
 ## Awards
-Max (Great for Quick Sessions): 52  (Ranked 419)  
-Sum: 424 (Ranked 331)  
-Diff (max vs sum): 88  
+Max (Great for Beginners): 55  (Ranked 415)  
+Sum: 429 (Ranked 331)  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 55 |
 | This game is Great for Quick Sessions | 52 |
 | This game has Diverse Characters | 51 |
-| This game is Great for Beginners | 50 |
 | This game has Amazing Characters | 40 |
 | This game has Playful Visuals | 36 |
 | This game has a Competitive Community | 35 |
@@ -284,4 +284,4 @@ Diff (max vs sum): 88
 | 2023-11-03 | 4.41 | 50 | 395 |
 | 2023-11-04 | 4.41 | 51 | 409 |
 | 2023-11-05 | 4.40 | 51 | 422 |
-| 2023-11-06 | 4.40 | 52 | 424 |
+| 2023-11-06 | 4.40 | 55 | 429 |

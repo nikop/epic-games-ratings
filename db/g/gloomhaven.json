@@ -2363,9 +2363,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 18855,
+  "EOS_Progressed": 18857,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1706,
+  "EOS_NewPlayers": 1705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8193,6 +8193,11 @@
       "Time": "2023-11-06T05:06:25.5493232+00:00",
       "NumProgressed": 18855,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T06:07:42.0258792+00:00",
+      "NumProgressed": 18857,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8213,7 +8218,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "Achievement_Trophy03",
@@ -8373,7 +8378,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "Achievement_Trophy23",
@@ -8389,7 +8394,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8108
+      "UsersEstimate": 8109
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8421,7 +8426,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8437,7 +8442,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5656
+      "UsersEstimate": 5657
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8445,7 +8450,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8461,7 +8466,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "Achievement_Trophy34",
@@ -8501,7 +8506,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3205
+      "UsersEstimate": 3206
     },
     {
       "ID": "Achievement_Trophy39",
@@ -8509,7 +8514,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8517,7 +8522,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "Achievement_Trophy41",
@@ -8533,7 +8538,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "Achievement_Trophy43",
@@ -8573,7 +8578,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "Achievement_Trophy48",
@@ -8589,7 +8594,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "Achievement_Trophy50",
@@ -8692,7 +8697,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 18855,
+      "Progressed": 18857,
       "Completed": 1
     }
   ],
@@ -8700,8 +8705,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-06T01:45:27.042099+00:00",
-  "LastChanged_Achievements": "2023-11-06T05:06:25.5493228+00:00",
+  "LastChanged_Achievements": "2023-11-06T06:07:42.0258789+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:59:22.0977997+00:00",
-  "LastUpdate_Achievements": "2023-11-06T05:06:25.5494121+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:00:05.9966132+00:00",
+  "LastUpdate_Achievements": "2023-11-06T06:07:42.0259373+00:00"
 }

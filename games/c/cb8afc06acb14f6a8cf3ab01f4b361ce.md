@@ -5,18 +5,18 @@ Rating: 4.20 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 38.00% | ~115,368 |
-| May the Torchbearer light our way | 36.00% | ~109,296 |
-| A powerful aura was here | 24.00% | ~72,864 |
-| Let's raise the stakes!! | 11.00% | ~33,396 |
-| Rumors are true | 6.00% | ~18,216 |
-| Your wounds… They are healing so fast! | 6.00% | ~18,216 |
-| We'll be careful | 5.00% | ~15,180 |
-| Pride is a sin, young Knight | 5.00% | ~15,180 |
-| Bring it on! | 5.00% | ~15,180 |
-| Back to your senses | 3.00% | ~9,108 |
-| They tricked me | 3.00% | ~9,108 |
-| They won't last long | 3.00% | ~9,108 |
+| The touch of Chaos | 38.00% | ~115,377 |
+| May the Torchbearer light our way | 36.00% | ~109,305 |
+| A powerful aura was here | 24.00% | ~72,870 |
+| Let's raise the stakes!! | 11.00% | ~33,399 |
+| Rumors are true | 6.00% | ~18,217 |
+| Your wounds… They are healing so fast! | 6.00% | ~18,217 |
+| We'll be careful | 5.00% | ~15,181 |
+| Pride is a sin, young Knight | 5.00% | ~15,181 |
+| Bring it on! | 5.00% | ~15,181 |
+| Back to your senses | 3.00% | ~9,109 |
+| They tricked me | 3.00% | ~9,109 |
+| They won't last long | 3.00% | ~9,109 |
 | We need to talk | 2.00% | ~6,072 |
 | I feel drawn to it | 2.00% | ~6,072 |
 | Here to stay | 2.00% | ~6,072 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 901)
 | We strike as one | 0.10% | ~304 |
 | Chaos be damned! | 0.10% | ~304 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303,599 (Ranked 49)  
+Progressed: 303,624 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-03 | 300,744 | 1 |
 | 2023-11-04 | 302,129 | 1 |
 | 2023-11-05 | 303,382 | 1 |
-| 2023-11-06 | 303,599 | 1 |
+| 2023-11-06 | 303,624 | 1 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

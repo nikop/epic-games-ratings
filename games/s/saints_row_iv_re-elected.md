@@ -5,27 +5,27 @@ Rating: 4.40 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~187,487 |
-| Destroyer-In-Chief | 57.00% | ~169,631 |
-| There Is No Pancakes | 54.00% | ~160,703 |
-| First of Many | 42.00% | ~124,991 |
-| Woah. | 36.00% | ~107,135 |
-| Don't Look Down | 29.00% | ~86,303 |
-| Don't Panic | 28.00% | ~83,327 |
-| Ooo A Piece of Candy! | 22.00% | ~65,472 |
-| Ghost in the Machine | 18.00% | ~53,568 |
-| All Too Easy | 15.00% | ~44,640 |
-| Didn't Need to See Him Naked | 13.00% | ~38,688 |
-| Indomitable | 10.00% | ~29,760 |
-| Blast from the Past | 9.00% | ~26,784 |
-| Bow to the Boss! | 9.00% | ~26,784 |
-| Friend of the Raptors | 9.00% | ~26,784 |
-| About Time! | 8.00% | ~23,808 |
-| Actor-Turned-Politician | 7.00% | ~20,832 |
-| Betrayed | 7.00% | ~20,832 |
-| Maximum Stopping Power | 7.00% | ~20,832 |
-| Poodle Skirt | 7.00% | ~20,832 |
-| You Chose... Poorly | 7.00% | ~20,832 |
+| Zero Saints Thirty | 63.00% | ~187,493 |
+| Destroyer-In-Chief | 57.00% | ~169,637 |
+| There Is No Pancakes | 54.00% | ~160,708 |
+| First of Many | 42.00% | ~124,995 |
+| Woah. | 36.00% | ~107,139 |
+| Don't Look Down | 29.00% | ~86,306 |
+| Don't Panic | 28.00% | ~83,330 |
+| Ooo A Piece of Candy! | 22.00% | ~65,474 |
+| Ghost in the Machine | 18.00% | ~53,569 |
+| All Too Easy | 15.00% | ~44,641 |
+| Didn't Need to See Him Naked | 13.00% | ~38,689 |
+| Indomitable | 10.00% | ~29,761 |
+| Blast from the Past | 9.00% | ~26,785 |
+| Bow to the Boss! | 9.00% | ~26,785 |
+| Friend of the Raptors | 9.00% | ~26,785 |
+| About Time! | 8.00% | ~23,809 |
+| Actor-Turned-Politician | 7.00% | ~20,833 |
+| Betrayed | 7.00% | ~20,833 |
+| Maximum Stopping Power | 7.00% | ~20,833 |
+| Poodle Skirt | 7.00% | ~20,833 |
+| You Chose... Poorly | 7.00% | ~20,833 |
 | Double Team | 6.00% | ~17,856 |
 | Keymaster | 6.00% | ~17,856 |
 | Imperator | 5.00% | ~14,880 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 734)
 | Super Power Team Up! | 0.10% | ~298 |
 | Ultimate Hot Potato | 0.10% | ~298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,598 (Ranked 51)  
+Progressed: 297,608 (Ranked 51)  
 Completed: 16 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 16 (0.01%) (Ranked 320)
 | 2023-11-03 | 296,110 | 16 |
 | 2023-11-04 | 296,808 | 16 |
 | 2023-11-05 | 297,496 | 16 |
-| 2023-11-06 | 297,598 | 16 |
+| 2023-11-06 | 297,608 | 16 |
 ## Awards
 Max (Great Boss Battles): 481  (Ranked 207)  
 Sum: 481 (Ranked 323)  
