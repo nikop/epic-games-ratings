@@ -9,8 +9,8 @@
 | Remembering of the past | 26.00% | ~7 |
 | Slam-KABAM | 22.00% | ~6 |
 | A heavy thinker | 22.00% | ~6 |
+| Fight like an idiot | 22.00% | ~6 |
 | Repair the Mind Validation Machine | 22.00% | ~6 |
-| Fight like an idiot | 19.00% | ~5 |
 | Dance like an idiot | 15.00% | ~4 |
 | Elementary, My Dear Dusty | 15.00% | ~4 |
 | Heavy Thoughts | 11.00% | ~3 |

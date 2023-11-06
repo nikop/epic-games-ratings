@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 407,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 153,
-  "Ranking_EOS_Progress": 723,
+  "Ranking_PopularitySum": 152,
+  "Ranking_EOS_Progress": 724,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -7153,11 +7153,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 4056,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2023-11-06T03:57:57.416118+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 4062,
+      "NumberOfAwardsMax": 548
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4056,
-  "NumberOfAwardsMax": 544,
+  "NumberOfAwards": 4062,
+  "NumberOfAwardsMax": 548,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7176,7 +7182,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 495
+      "Count": 497
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7212,7 +7218,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 544
+      "Count": 548
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7232,8 +7238,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-11-05T07:57:42.2134082+00:00",
+  "LastChanged": "2023-11-06T03:57:57.4161179+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:18.2453217+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:58:16.5435975+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:06:57.9634638+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:57:57.4161185+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:05:47.9935404+00:00"
 }

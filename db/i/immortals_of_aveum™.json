@@ -6,7 +6,7 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 175,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
@@ -115,11 +115,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.62,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -835,6 +835,11 @@
       "Time": "2023-11-06T01:51:07.5243448+00:00",
       "NumProgressed": 162,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T04:04:35.4046658+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -863,7 +868,7 @@
       "Name": "The Means to Save It",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_12",
@@ -879,7 +884,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_14",
@@ -925,9 +930,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_2",
@@ -935,7 +940,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_20",
@@ -989,9 +994,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_36",
@@ -1007,7 +1012,7 @@
       "Name": "Kitted Out",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_38",
@@ -1023,7 +1028,7 @@
       "Name": "No More Names",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_41",
@@ -1047,7 +1052,7 @@
       "Name": "Armaments Vert",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_44",
@@ -1063,7 +1068,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_46",
@@ -1079,7 +1084,7 @@
       "Name": "Enlisted",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_49",
@@ -1087,7 +1092,7 @@
       "Name": "Soldier",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_5",
@@ -1103,7 +1108,7 @@
       "Name": "Veteran",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_54",
@@ -1143,7 +1148,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_60",
@@ -1199,7 +1204,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_8",
@@ -1222,7 +1227,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 1
     }
   ],
@@ -1230,8 +1235,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:05:20.5364214+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:04:35.4046653+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:01:26.9317739+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:05:20.5364654+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:00:13.2449035+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:04:35.404713+00:00"
 }

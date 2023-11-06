@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -627,10 +627,10 @@
       "Count": 85
     }
   ],
-  "EOS_Progressed": 50628,
+  "EOS_Progressed": 50636,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 2211,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 2212,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -8592,6 +8592,11 @@
       "Time": "2023-11-06T03:05:57.3412484+00:00",
       "NumProgressed": 50628,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-11-06T04:05:02.6933094+00:00",
+      "NumProgressed": 50636,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -8620,7 +8625,7 @@
       "Name": "Worthy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "ASPEN_TREE",
@@ -8628,7 +8633,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7088
+      "UsersEstimate": 7089
     },
     {
       "ID": "BAD_END",
@@ -8644,7 +8649,7 @@
       "Name": "Black Book",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "BLACK_SORCERER",
@@ -8660,7 +8665,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "CHEATER",
@@ -8676,7 +8681,7 @@
       "Name": "Cow Level",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "DEAD_MAN",
@@ -8684,7 +8689,7 @@
       "Name": "Dead Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "DETECTIVE",
@@ -8716,7 +8721,7 @@
       "Name": "Student",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 10632
+      "UsersEstimate": 10634
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -8724,7 +8729,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5569
+      "UsersEstimate": 5570
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -8740,7 +8745,7 @@
       "Name": "Fern",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "FRIENDS",
@@ -8748,7 +8753,7 @@
       "Name": "100 Friends",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "GOOD_END",
@@ -8780,7 +8785,7 @@
       "Name": "Healer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 6582
+      "UsersEstimate": 6583
     },
     {
       "ID": "HERBS_2",
@@ -8804,7 +8809,7 @@
       "Name": "Initiation",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13670
+      "UsersEstimate": 13672
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -8812,7 +8817,7 @@
       "Name": "Vorsa",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "MERMAID_FREE",
@@ -8820,7 +8825,7 @@
       "Name": "Dead Friend",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -8852,7 +8857,7 @@
       "Name": "Soldier",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5569
+      "UsersEstimate": 5570
     },
     {
       "ID": "NORMAL_END",
@@ -8876,7 +8881,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "PINE_TREE",
@@ -8884,7 +8889,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -8900,7 +8905,7 @@
       "Name": "Savvy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "SINNER",
@@ -8916,7 +8921,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "TALES_1",
@@ -8924,7 +8929,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7088
+      "UsersEstimate": 7089
     },
     {
       "ID": "TALES_2",
@@ -8932,7 +8937,7 @@
       "Name": "Collector",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "TALES_3",
@@ -8948,7 +8953,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "WATER",
@@ -8956,7 +8961,7 @@
       "Name": "Water",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "WOLF",
@@ -8964,7 +8969,7 @@
       "Name": "Wolf",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "WORD_MASTER",
@@ -8980,7 +8985,7 @@
       "Name": "Knower",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "ZNATKOST_2",
@@ -9003,15 +9008,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 50628,
+      "Progressed": 50636,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-04T19:59:55.55078+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:05:57.3412478+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:05:02.6933088+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:33.0427887+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:01:17.372061+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:05:57.3413137+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:00:06.820249+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:05:02.6933784+00:00"
 }

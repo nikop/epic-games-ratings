@@ -885,9 +885,9 @@
       "ID": "ACH_WASHCAR_01",
       "SetID": "5fn8ia4",
       "Name": "Welcome to the Car Wash",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_WASHCAR_02",
@@ -1285,9 +1285,9 @@
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 4",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
@@ -1564,8 +1564,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:08:26.1207514+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:08:25.4683528+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:00:20.4580453+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:08:26.1208295+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:59:22.9306484+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:08:25.468436+00:00"
 }

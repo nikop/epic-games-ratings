@@ -2,9 +2,9 @@
   "ID": "c0b9d91377a840718e6869f0cd780a55",
   "Name": "Spacebase Startopia - Standard Edition",
   "ProductSlug": "spacebase-startopia",
-  "Ranking_EOS_Progress": 544,
+  "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-26T17:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -83,6 +83,11 @@
     {
       "Time": "2023-10-13T05:07:06.438335+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T04:08:59.4175241+00:00",
+      "NumProgressed": 16,
       "NumCompleted": 0
     }
   ],
@@ -334,7 +339,7 @@
     {
       "ID": "369d86p",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
@@ -342,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:57:24.2044806+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:32.3445242+00:00",
   "LastChanged": "2023-03-31T05:57:24.2044807+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:09:11.5577035+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:08:59.4175236+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:43.9929522+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:03:21.7851071+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:09:11.5577215+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:03:07.6154508+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:08:59.4175413+00:00"
 }

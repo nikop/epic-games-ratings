@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11183,
+  "EOS_Progressed": 11190,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9054,6 +9054,11 @@
       "Time": "2023-11-06T03:08:38.1456272+00:00",
       "NumProgressed": 11183,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-06T04:08:34.3281462+00:00",
+      "NumProgressed": 11190,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9066,7 +9071,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "a_10",
@@ -9098,7 +9103,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "a_16",
@@ -9114,7 +9119,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4476
     },
     {
       "ID": "a_19",
@@ -9130,7 +9135,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "a_20",
@@ -9154,7 +9159,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "a_23",
@@ -9170,7 +9175,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "a_26",
@@ -9186,7 +9191,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "a_28",
@@ -9202,7 +9207,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "a_30",
@@ -9298,7 +9303,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "a_9",
@@ -9313,7 +9318,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11183,
+      "Progressed": 11190,
       "Completed": 10
     }
   ],
@@ -9321,8 +9326,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:08:38.1456269+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:08:34.3281458+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:00:24.7574375+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:08:38.1456765+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:59:26.1420029+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:08:34.3282+00:00"
 }

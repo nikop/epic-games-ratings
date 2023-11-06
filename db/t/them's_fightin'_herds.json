@@ -271,7 +271,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 231949,
+  "EOS_Progressed": 231951,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
@@ -20696,6 +20696,11 @@
       "Time": "2023-11-06T02:24:58.4819057+00:00",
       "NumProgressed": 231949,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T04:03:25.6804144+00:00",
+      "NumProgressed": 231951,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20843,7 +20848,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -20875,7 +20880,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6958
+      "UsersEstimate": 6959
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -20915,7 +20920,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39431
+      "UsersEstimate": 39432
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -20923,14 +20928,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 231949,
+      "Progressed": 231951,
       "Completed": 5
     }
   ],
@@ -20938,8 +20943,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:03:45.5973897+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:03:25.680414+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:59:55.943127+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:03:45.5974738+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:59:05.8569113+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:03:25.6805256+00:00"
 }

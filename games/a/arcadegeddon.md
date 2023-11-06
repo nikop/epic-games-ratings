@@ -6,25 +6,25 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,378 |
-| Photogenic | 85.00% | ~8,093 |
-| Surge Gauntlet Jockey | 82.00% | ~7,807 |
-| Plug It In | 81.00% | ~7,712 |
-| Adventure Time | 77.00% | ~7,331 |
-| Playing With Power | 75.00% | ~7,141 |
-| Coup d'Etat | 57.00% | ~5,427 |
+| Let's Get This Party Started | 88.00% | ~8,379 |
+| Photogenic | 85.00% | ~8,094 |
+| Surge Gauntlet Jockey | 82.00% | ~7,808 |
+| Plug It In | 81.00% | ~7,713 |
+| Adventure Time | 77.00% | ~7,332 |
+| Playing With Power | 75.00% | ~7,142 |
+| Coup d'Etat | 57.00% | ~5,428 |
 | You're Fired | 56.00% | ~5,332 |
 | Get Furious | 55.00% | ~5,237 |
-| Hacks In Stacks | 54.00% | ~5,141 |
-| Gunplay And Cosplay | 53.00% | ~5,046 |
+| Hacks In Stacks | 54.00% | ~5,142 |
+| Gunplay And Cosplay | 53.00% | ~5,047 |
 | Meching Enemies | 47.00% | ~4,475 |
 | Ticket Toddler | 43.00% | ~4,094 |
 | Booty Bashing | 38.00% | ~3,618 |
 | Field Medic | 37.00% | ~3,523 |
 | Here Comes a New Challenger | 36.00% | ~3,428 |
 | Rapid Response | 32.00% | ~3,047 |
-| Surge Ahead | 30.00% | ~2,856 |
-| The Full Monty | 30.00% | ~2,856 |
+| Surge Ahead | 30.00% | ~2,857 |
+| The Full Monty | 30.00% | ~2,857 |
 | Guardian Angel | 27.00% | ~2,571 |
 | Poppin Noggins | 24.00% | ~2,285 |
 | Clips and Crits | 19.00% | ~1,809 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,521 (Ranked 158)  
+Progressed: 9,522 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,11 +257,11 @@ Completed: 1 (0.01%) (Ranked 320)
 | 2023-11-03 | 9,482 | 1 |
 | 2023-11-04 | 9,499 | 1 |
 | 2023-11-05 | 9,518 | 1 |
-| 2023-11-06 | 9,521 | 1 |
+| 2023-11-06 | 9,522 | 1 |
 ## Awards
-Max (Relaxing): 64  (Ranked 405)  
+Max (Relaxing): 64  (Ranked 406)  
 Sum: 463 (Ranked 327)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |

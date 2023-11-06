@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14696,
+  "EOS_Progressed": 14699,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10526,6 +10526,11 @@
       "Time": "2023-11-06T02:27:52.4312766+00:00",
       "NumProgressed": 14696,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-06T04:06:00.6463164+00:00",
+      "NumProgressed": 14699,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10778,7 +10783,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "32",
@@ -10810,29 +10815,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14696,
+      "Progressed": 14699,
       "Completed": 33
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 650,
-      "Completed": 401
+      "Progressed": 653,
+      "Completed": 403
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:07:15.4105527+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:06:00.6463159+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:01:10.3484559+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:07:15.4106219+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:00:02.4009813+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:06:00.6463856+00:00"
 }

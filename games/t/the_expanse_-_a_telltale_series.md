@@ -23,8 +23,8 @@ Rating: 4.55 (Ranked 500)
 | Thorston Mayer | 1.00% | ~147 |
 | Heal Thy Medic | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
-| Keep Arjun in Check | 1.00% | ~6 |
-| Madame Undersecretary | 1.00% | ~6 |
+| Keep Arjun in Check | 1.00% | ~7 |
+| Madame Undersecretary | 1.00% | ~7 |
 | Master Negotiator | 0.90% | ~6 |
 | Bottoms up! | 0.80% | ~118 |
 | Miraculous Maya | 0.80% | ~118 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,696 (Ranked 146)  
+Progressed: 14,699 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 33 (0.22%) (Ranked 235)
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
-| 2023-11-06 | 14,696 | 33 |
+| 2023-11-06 | 14,699 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

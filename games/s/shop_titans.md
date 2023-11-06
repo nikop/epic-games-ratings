@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,547 |
-| Titan's First Steps | 4.00% | ~5,547 |
+| Sponsored by Argon | 4.00% | ~5,548 |
+| Titan's First Steps | 4.00% | ~5,548 |
 | Basic in Bulk | 3.00% | ~4,161 |
 | Disintermediation | 3.00% | ~4,161 |
 | Tinkle of Coins | 3.00% | ~4,161 |
@@ -48,25 +48,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.90% | ~1,248 |
 | Royal Ransom | 0.90% | ~1,248 |
 | Magical Harmony | 0.90% | ~1,248 |
-| A Notch Above the Rest | 0.80% | ~1,109 |
-| The King's Caprice | 0.80% | ~1,109 |
-| Big Game Hunting | 0.80% | ~1,109 |
-| Scrapbooker | 0.80% | ~1,109 |
-| Locally Sourced | 0.80% | ~1,109 |
-| Flying off the Shelves | 0.80% | ~1,109 |
-| This Power Level...! | 0.80% | ~1,109 |
-| Hidden Potential | 0.80% | ~1,109 |
-| Expansion in Session | 0.80% | ~1,109 |
-| Cranked up to 11 | 0.80% | ~1,109 |
-| Mammonite | 0.80% | ~1,109 |
-| Necromancer Queen | 0.80% | ~1,109 |
-| Miracle Alchemist | 0.80% | ~1,109 |
-| Laden with Loot | 0.80% | ~1,109 |
-| Seasoned Journeyman | 0.80% | ~1,109 |
-| Scourge of the Seas | 0.80% | ~1,109 |
-| Black Friday Special | 0.80% | ~1,109 |
-| Special Ingredient | 0.80% | ~1,109 |
-| Complete Monopoly | 0.80% | ~1,109 |
+| A Notch Above the Rest | 0.80% | ~1,110 |
+| The King's Caprice | 0.80% | ~1,110 |
+| Big Game Hunting | 0.80% | ~1,110 |
+| Scrapbooker | 0.80% | ~1,110 |
+| Locally Sourced | 0.80% | ~1,110 |
+| Flying off the Shelves | 0.80% | ~1,110 |
+| This Power Level...! | 0.80% | ~1,110 |
+| Hidden Potential | 0.80% | ~1,110 |
+| Expansion in Session | 0.80% | ~1,110 |
+| Cranked up to 11 | 0.80% | ~1,110 |
+| Mammonite | 0.80% | ~1,110 |
+| Necromancer Queen | 0.80% | ~1,110 |
+| Miracle Alchemist | 0.80% | ~1,110 |
+| Laden with Loot | 0.80% | ~1,110 |
+| Seasoned Journeyman | 0.80% | ~1,110 |
+| Scourge of the Seas | 0.80% | ~1,110 |
+| Black Friday Special | 0.80% | ~1,110 |
+| Special Ingredient | 0.80% | ~1,110 |
+| Complete Monopoly | 0.80% | ~1,110 |
 | Cream of the Crop | 0.70% | ~971 |
 | Proud Paladin | 0.70% | ~971 |
 | Above the Norm | 0.70% | ~971 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,686 (Ranked 79)  
+Progressed: 138,688 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 178 (0.13%) (Ranked 256)
 | 2023-11-03 | 138,550 | 178 |
 | 2023-11-04 | 138,604 | 178 |
 | 2023-11-05 | 138,681 | 178 |
-| 2023-11-06 | 138,686 | 178 |
+| 2023-11-06 | 138,688 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,504 (Ranked 52)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3867,9 +3867,9 @@
       "Count": 270
     }
   ],
-  "EOS_Progressed": 218193,
+  "EOS_Progressed": 218197,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 5654,
+  "EOS_NewPlayers": 5576,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16662,6 +16662,11 @@
       "Time": "2023-11-06T03:06:04.7145979+00:00",
       "NumProgressed": 218193,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-11-06T04:05:08.0595668+00:00",
+      "NumProgressed": 218197,
+      "NumCompleted": 431
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16754,7 +16759,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17455
+      "UsersEstimate": 17456
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16858,7 +16863,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19637
+      "UsersEstimate": 19638
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17073,7 +17078,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218193,
+      "Progressed": 218197,
       "Completed": 431
     }
   ],
@@ -17081,8 +17086,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-05T22:03:26.9344011+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:06:04.7145976+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:05:08.0595664+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:03:17.5101413+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:06:04.7146742+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:03:04.8150165+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:05:08.0596587+00:00"
 }

@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113440,
+  "EOS_Progressed": 113441,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16947,6 +16947,11 @@
       "Time": "2023-11-06T02:30:06.9176646+00:00",
       "NumProgressed": 113440,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-06T04:08:38.149785+00:00",
+      "NumProgressed": 113441,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -16966,7 +16971,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87349
+      "UsersEstimate": 87350
     },
     {
       "ID": "EAwards_10",
@@ -16974,7 +16979,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12478
+      "UsersEstimate": 12479
     },
     {
       "ID": "EAwards_11",
@@ -16982,7 +16987,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29494
+      "UsersEstimate": 29495
     },
     {
       "ID": "EAwards_12",
@@ -17054,7 +17059,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54451
+      "UsersEstimate": 54452
     },
     {
       "ID": "EAwards_20",
@@ -17062,7 +17067,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12478
+      "UsersEstimate": 12479
     },
     {
       "ID": "EAwards_21",
@@ -17110,7 +17115,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12478
+      "UsersEstimate": 12479
     },
     {
       "ID": "EAwards_27",
@@ -17349,7 +17354,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113440,
+      "Progressed": 113441,
       "Completed": 48
     }
   ],
@@ -17357,8 +17362,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-06T03:08:43.2224048+00:00",
+  "LastChanged_Achievements": "2023-11-06T04:08:38.1497846+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:57:58.2869097+00:00",
-  "LastUpdate_Achievements": "2023-11-06T03:08:43.222518+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:57:43.8457822+00:00",
+  "LastUpdate_Achievements": "2023-11-06T04:08:38.1498908+00:00"
 }
