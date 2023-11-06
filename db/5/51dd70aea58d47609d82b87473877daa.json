@@ -3,7 +3,7 @@
   "Name": "The Backroom Project",
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 212,
+  "EOS_Progressed": 213,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.89,
+  "EOS_Completed_Percentage": 1.88,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1009,6 +1009,11 @@
       "Time": "2023-11-06T07:09:21.9275938+00:00",
       "NumProgressed": 212,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T19:09:34.3662977+00:00",
+      "NumProgressed": 213,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1028,7 +1033,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_DULLER",
@@ -1052,7 +1057,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_FRIEND",
@@ -1068,7 +1073,7 @@
       "Name": "Lab Rat",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1082,17 +1087,17 @@
       "ID": "ACH_HABITABLE",
       "SetID": "c2kf3nm",
       "Name": "Follow your Dreams",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_HOUND",
@@ -1108,7 +1113,7 @@
       "Name": "Key to your Death",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_PIPEDREAMS",
@@ -1140,7 +1145,7 @@
       "Name": "RUN FOR YOUR LIFE",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_STAIRS",
@@ -1156,21 +1161,21 @@
       "Name": "Why are you running?!",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 212,
+      "Progressed": 213,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:08:48.6510531+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:09:34.3662973+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:59:52.353677+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:08:48.6510744+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:00:41.4552344+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:09:34.3663109+00:00"
 }

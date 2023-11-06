@@ -7,13 +7,13 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 0.20% | ~13 |
+| Can you smell what the Rod is Hooking | 0.20% | ~13 |
 | Hey Good Hookin | 0.20% | ~13 |
 | I'm on a Boat! | 0.20% | ~13 |
-| Can you smell what the Rod is Hooking | 0.10% | ~6 |
+| Scaling up | 0.20% | ~13 |
 | Ready to Rod and Roll | 0.10% | ~6 |
 | Fish Out of Water | 0.10% | ~6 |
 | More Fish in the Sea | 0.10% | ~6 |
-| Scaling up | 0.10% | ~6 |
 | Things that go Splash in the Night | 0.10% | ~6 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
@@ -24,6 +24,7 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
+| Aguas Claras Conquistador | 0.10% | ~6 |
 | License to Gill | 0.00% | ~0 |
 | Hook, Line and Sinker | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
@@ -43,7 +44,6 @@ Number of Ratings: 281  (23.09.2022)
 | Fish upon a Star | 0.00% | ~0 |
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
-| Aguas Claras Conquistador | 0.00% | ~0 |
 | All Good Kings Must Come to an End | 0.00% | ~0 |
 | Three Square Meals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

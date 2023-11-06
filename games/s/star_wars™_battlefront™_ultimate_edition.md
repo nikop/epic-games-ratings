@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~970 |
-| Off to a good start | 67.00% | ~722 |
+| New Recruit | 90.00% | ~971 |
+| Off to a good start | 67.00% | ~723 |
 | Do... or do not. There is no try | 51.00% | ~550 |
 | A good blaster at your side | 32.00% | ~345 |
 | I suggest a new strategy | 20.00% | ~216 |
 | Scrap collector | 19.00% | ~205 |
 | Great shot, kid! | 18.00% | ~194 |
 | All right, I'll give it a try | 17.00% | ~183 |
-| Shoot first | 16.00% | ~172 |
+| Shoot first | 16.00% | ~173 |
 | The power of the Force | 15.00% | ~162 |
 | Together we can rule the galaxy | 15.00% | ~162 |
 | Collector | 14.00% | ~151 |
@@ -22,8 +22,8 @@
 | Never tell me the odds! | 9.00% | ~97 |
 | A cunning warrior | 9.00% | ~97 |
 | What's the cargo? | 8.00% | ~86 |
-| Impressive. Most impressive. | 7.00% | ~75 |
-| Judge me by my size, do you? | 7.00% | ~75 |
+| Impressive. Most impressive. | 7.00% | ~76 |
+| Judge me by my size, do you? | 7.00% | ~76 |
 | "Gonk? Gonk!" | 6.00% | ~65 |
 | Distinguished | 6.00% | ~65 |
 | A tremor in the Force | 6.00% | ~65 |
@@ -58,9 +58,9 @@
 | A New Hope | 0.80% | ~9 |
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.60% | ~6 |
+| Don't get cocky | 0.50% | ~5 |
 | Stay on target | 0.40% | ~4 |
 | in a galaxy far, far away.... | 0.40% | ~4 |
-| Don't get cocky | 0.40% | ~4 |
 | Greed can be a very powerful ally | 0.40% | ~4 |
 | That got him! | 0.30% | ~3 |
 | Master | 0.30% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078 (Ranked 247)  
+Progressed: 1,079 (Ranked 247)  
 Completed: 1 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.09%) (Ranked 274)
 | 2023-11-03 | 1,025 | 1 |
 | 2023-11-04 | 1,048 | 1 |
 | 2023-11-05 | 1,069 | 1 |
-| 2023-11-06 | 1,078 | 1 |
+| 2023-11-06 | 1,079 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

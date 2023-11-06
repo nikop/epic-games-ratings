@@ -25,11 +25,11 @@ Rating: 4.38 (Ranked 760)
 | Hotel sleuthing | 28.00% | ~312 |
 | Kaboom | 27.00% | ~301 |
 | Nearly there | 26.00% | ~289 |
-| Broken heart | 23.00% | ~256 |
+| Broken heart | 24.00% | ~267 |
 | Island boy | 22.00% | ~245 |
 | You're a star | 20.00% | ~223 |
 | Unstoppable | 19.00% | ~211 |
-| Reunited | 18.00% | ~200 |
+| Reunited | 19.00% | ~211 |
 | King of hospitality | 11.00% | ~122 |
 | Top spot in town | 2.00% | ~22 |
 ## Popularity (Based on EOS Achievements)

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1868,10 +1868,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4826,
       "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-11-06T19:01:34.9631594+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4827,
+      "NumberOfAwardsMax": 570
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4826,
+  "NumberOfAwards": 4827,
   "NumberOfAwardsMax": 570,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1885,7 +1891,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game is Relaxing",
@@ -1942,7 +1948,7 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212280,
+  "EOS_Progressed": 212285,
   "EOS_Completed": 96,
   "EOS_NewPlayers": 1338,
   "EOS_NewCompleters": 4,
@@ -24787,6 +24793,11 @@
       "Time": "2023-11-06T18:05:28.9430409+00:00",
       "NumProgressed": 212280,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-06T19:06:24.6137709+00:00",
+      "NumProgressed": 212285,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -24838,7 +24849,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "FiveShadows",
@@ -24910,7 +24921,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6369
     },
     {
       "ID": "Jonin",
@@ -24966,7 +24977,7 @@
       "Name": "Noboru",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6369
     },
     {
       "ID": "Okkoto",
@@ -25014,7 +25025,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16982
+      "UsersEstimate": 16983
     },
     {
       "ID": "Rollin",
@@ -25022,7 +25033,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "StillRollin",
@@ -25038,7 +25049,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6369
     },
     {
       "ID": "StonedOx",
@@ -25046,7 +25057,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16982
+      "UsersEstimate": 16983
     },
     {
       "ID": "TanukiTime",
@@ -25054,7 +25065,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19105
+      "UsersEstimate": 19106
     },
     {
       "ID": "TheCave",
@@ -25078,7 +25089,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6369
     },
     {
       "ID": "Thorough",
@@ -25149,15 +25160,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212280,
+      "Progressed": 212285,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-06T10:01:06.24192+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:05:28.9430405+00:00",
+  "LastChanged": "2023-11-06T19:01:34.9631592+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:06:24.6137705+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:00:32.9058682+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:05:28.943154+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:01:34.9631599+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:06:24.6139075+00:00"
 }

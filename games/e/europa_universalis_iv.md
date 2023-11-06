@@ -17,6 +17,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Your Trade Are Belong to Us | 0.10% | ~449 |
 | Azur semé de lis or | 0.10% | ~449 |
 | Blockader | 0.10% | ~449 |
+| Bright Spark | 0.10% | ~449 |
 | Brothers in Arms | 0.10% | ~449 |
 | City of Cities | 0.10% | ~449 |
 | Cold War | 0.10% | ~449 |
@@ -44,6 +45,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Italian Ambition | 0.10% | ~449 |
 | It's all about luck | 0.10% | ~449 |
 | It's all about the money | 0.10% | ~449 |
+| Just a Little Patience | 0.10% | ~449 |
 | Just Resting In My Account | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
 | Market Control | 0.10% | ~449 |
@@ -79,7 +81,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.10% | ~449 |
 | Until death do us apart | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
+| World Discoverer | 0.10% | ~449 |
 | The Last Crusade | 0.10% | ~449 |
+| Truly Good Maaaaa-tch | 0.10% | ~449 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
@@ -123,7 +127,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
 | Brick by Brick | 0.00% | ~0 |
-| Bright Spark | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
@@ -198,7 +201,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| Just a Little Patience | 0.00% | ~0 |
 | A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
@@ -358,7 +360,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | With a little help.. | 0.00% | ~0 |
 | Wonderful | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
-| World Discoverer | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | You Get A New Home, And You Get A New Home | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
@@ -367,10 +368,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | Mets Hayk | 0.00% | ~0 |
 | Restore the Pentarchy | 0.00% | ~0 |
-| Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,646 (Ranked 41)  
+Progressed: 448,698 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,16 +570,16 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,646 | 1 |
+| 2023-11-06 | 448,698 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
-Sum: 56,317 (Ranked 24)  
+Sum: 56,360 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,844 |
+| This game has Diverse Characters | 6,592 |
 | This game is Highly Recommended | 6,550 |
-| This game has Diverse Characters | 6,549 |
 | This game has Challenging Combat | 6,480 |
 | This game is Extremely Fun | 6,466 |
 | This game is Relaxing | 6,294 |
@@ -883,4 +883,4 @@ Diff (max vs sum): 30
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
-| 2023-11-06 | 4.69 | - | 6,844 | 56,317 |
+| 2023-11-06 | 4.69 | - | 6,844 | 56,360 |

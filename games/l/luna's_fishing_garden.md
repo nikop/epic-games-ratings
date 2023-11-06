@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Feel for the Reel | 84.00% | ~577 |
-| Anything Else? | 83.00% | ~570 |
-| The Ones that Got Away | 68.00% | ~467 |
+| A Feel for the Reel | 84.00% | ~578 |
+| Anything Else? | 83.00% | ~571 |
+| The Ones that Got Away | 68.00% | ~468 |
 | Immortal | 41.00% | ~282 |
 | Up! | 34.00% | ~234 |
-| Science Enthusiast | 28.00% | ~192 |
-| Bird Breeder | 27.00% | ~185 |
+| Bird Breeder | 27.00% | ~186 |
+| Science Enthusiast | 27.00% | ~186 |
 | Master Angler | 24.00% | ~165 |
 | Fish Appreciation | 22.00% | ~151 |
 | We're Gonna Need a Bigger Screen | 22.00% | ~151 |
 | A Work of Art | 22.00% | ~151 |
 | Cleanup Duty | 18.00% | ~124 |
 | Hide and Seek | 15.00% | ~103 |
-| Be Like the Lotus | 12.00% | ~82 |
+| Be Like the Lotus | 12.00% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687 (Ranked 271)  
-Completed: 43 (6.26%) (Ranked 56)  
+Progressed: 688 (Ranked 271)  
+Completed: 43 (6.25%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,7 +46,7 @@ Completed: 43 (6.26%) (Ranked 56)
 | 2023-10-09 | 684 | 43 |
 | 2023-10-19 | 685 | 43 |
 | 2023-10-20 | 686 | 43 |
-| 2023-11-06 | 687 | 43 |
+| 2023-11-06 | 688 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

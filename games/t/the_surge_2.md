@@ -5,43 +5,43 @@ Rating: 4.24 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,738 |
-| Don't I Know You...? | 77.00% | ~1,672 |
-| Jailbreak | 66.00% | ~1,434 |
-| HEADSHOT! | 38.00% | ~825 |
-| Suited and Booted | 38.00% | ~825 |
-| Sleeping With The Fishes | 36.00% | ~782 |
+| Rigged And Ready | 80.00% | ~1,739 |
+| Don't I Know You...? | 76.00% | ~1,652 |
+| Jailbreak | 66.00% | ~1,435 |
+| HEADSHOT! | 38.00% | ~826 |
+| Suited and Booted | 38.00% | ~826 |
+| Sleeping With The Fishes | 36.00% | ~783 |
 | Overheated | 30.00% | ~652 |
 | High Performance | 30.00% | ~652 |
-| Powered Up | 28.00% | ~608 |
-| Studied The Blade | 25.00% | ~543 |
+| Powered Up | 28.00% | ~609 |
+| Studied The Blade | 25.00% | ~544 |
 | Home Invasion | 23.00% | ~500 |
 | Luminary | 22.00% | ~478 |
 | It's a Trap | 22.00% | ~478 |
-| True Survivor | 21.00% | ~456 |
-| Offensive Defense | 20.00% | ~434 |
-| Shocking | 20.00% | ~434 |
+| True Survivor | 21.00% | ~457 |
+| Offensive Defense | 20.00% | ~435 |
+| Shocking | 20.00% | ~435 |
 | Court Martial | 19.00% | ~413 |
 | Clean Cut | 19.00% | ~413 |
 | Unforeseeable Consequences | 19.00% | ~413 |
-| Dead Again | 17.00% | ~369 |
-| Full Arsenal | 17.00% | ~369 |
+| Dead Again | 17.00% | ~370 |
+| Full Arsenal | 17.00% | ~370 |
 | Can't Trust Banks | 15.00% | ~326 |
-| Mommy Dearest | 13.00% | ~282 |
-| Bad Dog | 13.00% | ~282 |
-| Where It All Began | 13.00% | ~282 |
-| Risk Tolerant | 13.00% | ~282 |
-| What A Catchy Song | 13.00% | ~282 |
+| Mommy Dearest | 13.00% | ~283 |
+| Bad Dog | 13.00% | ~283 |
+| Where It All Began | 13.00% | ~283 |
+| Risk Tolerant | 13.00% | ~283 |
+| What A Catchy Song | 13.00% | ~283 |
 | Corrupted Beauty | 12.00% | ~261 |
-| Marked For Success | 12.00% | ~261 |
 | Sorry, Didn't See You There | 12.00% | ~261 |
+| Marked For Success | 11.00% | ~239 |
 | Triplets | 10.00% | ~217 |
-| Denying Prophecy | 9.00% | ~195 |
-| Stimulating The Local Economy | 9.00% | ~195 |
+| Denying Prophecy | 9.00% | ~196 |
+| Stimulating The Local Economy | 9.00% | ~196 |
 | A Little Banged Up | 8.00% | ~174 |
-| Following In Their Footsteps | 8.00% | ~174 |
 | Defense in Depth | 8.00% | ~174 |
 | Reverse Engineering | 7.00% | ~152 |
+| Following In Their Footsteps | 7.00% | ~152 |
 | Reborn | 6.00% | ~130 |
 | Remote Surgery | 6.00% | ~130 |
 | Turbo Booster | 6.00% | ~130 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 878)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,172 (Ranked 212)  
+Progressed: 2,174 (Ranked 213)  
 Completed: 13 (0.60%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 13 (0.60%) (Ranked 180)
 | 2023-11-03 | 2,143 | 13 |
 | 2023-11-04 | 2,154 | 13 |
 | 2023-11-05 | 2,168 | 13 |
-| 2023-11-06 | 2,172 | 13 |
+| 2023-11-06 | 2,174 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

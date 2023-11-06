@@ -5,11 +5,11 @@ Rating: 4.46 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,800 |
-| Confirming Suspicions | 41.00% | ~1,570 |
+| Meeting Resistance | 47.00% | ~1,801 |
+| Confirming Suspicions | 41.00% | ~1,571 |
 | The Kraken Wakes | 37.00% | ~1,417 |
-| It's Starting to Crack | 34.00% | ~1,302 |
-| Change the Channel | 31.00% | ~1,187 |
+| It's Starting to Crack | 34.00% | ~1,303 |
+| Change the Channel | 31.00% | ~1,188 |
 | Lord of War | 30.00% | ~1,149 |
 | Taking it back | 29.00% | ~1,111 |
 | Resourceful | 27.00% | ~1,034 |
@@ -20,14 +20,14 @@ Rating: 4.46 (Ranked 644)
 | As Quiet as a Mouse | 23.00% | ~881 |
 | Sharpshooter | 22.00% | ~843 |
 | Explosive Efficiency | 19.00% | ~728 |
-| Gunslinger | 18.00% | ~689 |
+| Gunslinger | 18.00% | ~690 |
 | Just a Flesh Wound | 17.00% | ~651 |
 | Der Geist | 17.00% | ~651 |
 | Climbing the Ladder | 16.00% | ~613 |
 | Close Quarters | 16.00% | ~613 |
-| Skirmisher | 15.00% | ~574 |
-| Snake in the Grass | 15.00% | ~574 |
-| Brains of the Operation | 15.00% | ~574 |
+| Skirmisher | 15.00% | ~575 |
+| Snake in the Grass | 15.00% | ~575 |
+| Brains of the Operation | 15.00% | ~575 |
 | No Stone Unturned | 14.00% | ~536 |
 | Opposing Force | 14.00% | ~536 |
 | Enemy at the Gates | 14.00% | ~536 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 644)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,830 (Ranked 190)  
+Progressed: 3,831 (Ranked 190)  
 Completed: 11 (0.29%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 11 (0.29%) (Ranked 229)
 | 2023-11-03 | 3,818 | 11 |
 | 2023-11-04 | 3,824 | 11 |
 | 2023-11-05 | 3,828 | 11 |
-| 2023-11-06 | 3,830 | 11 |
+| 2023-11-06 | 3,831 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 527)  
 Sum: 23 (Ranked 530)  

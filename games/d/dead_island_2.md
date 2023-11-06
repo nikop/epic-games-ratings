@@ -15,6 +15,7 @@ Rating: 4.54 (Ranked 521)
 | Anger Management | 0.30% | ~2,142 |
 | Bookworm | 0.30% | ~2,142 |
 | Break A Leg | 0.30% | ~2,142 |
+| But Doctor, I am Butcho | 0.30% | ~2,142 |
 | Coup de Grâce | 0.30% | ~2,142 |
 | Hazardous Materials | 0.30% | ~2,142 |
 | Friends Like These | 0.30% | ~2,142 |
@@ -25,7 +26,6 @@ Rating: 4.54 (Ranked 521)
 | Making Your Mark | 0.20% | ~1,428 |
 | Perks of the Job | 0.20% | ~1,428 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,428 |
-| But Doctor, I am Butcho | 0.20% | ~1,428 |
 | Slayer Squad | 0.20% | ~1,428 |
 | Can't Handle the Truth | 0.20% | ~1,428 |
 | Like Riding a Bike | 0.20% | ~1,428 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,008 (Ranked 21)  
+Progressed: 714,045 (Ranked 21)  
 Completed: 2,349 (0.33%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,349 (0.33%) (Ranked 218)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 714,008 | 2,349 |
+| 2023-11-06 | 714,045 | 2,349 |
 ## Awards
 Max (Great Boss Battles): 7,125  (Ranked 53)  
 Sum: 10,770 (Ranked 89)  

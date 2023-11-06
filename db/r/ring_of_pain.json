@@ -3230,10 +3230,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11654,
       "NumberOfAwardsMax": 1503
+    },
+    {
+      "Time": "2023-11-06T19:03:13.7395693+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11655,
+      "NumberOfAwardsMax": 1503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11654,
+  "NumberOfAwards": 11655,
   "NumberOfAwardsMax": 1503,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3259,7 +3265,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1213
+      "Count": 1214
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3304,7 +3310,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 239278,
+  "EOS_Progressed": 239279,
   "EOS_Completed": 286,
   "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
@@ -24094,6 +24100,11 @@
       "Time": "2023-11-06T18:09:10.7101981+00:00",
       "NumProgressed": 239278,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-06T19:10:00.4149225+00:00",
+      "NumProgressed": 239279,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24847,9 +24858,9 @@
       "ID": "SPECIALROOMS1",
       "SetID": "5l8oe0h",
       "Name": "Uncharted Territory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "SPECIALROOMS10",
@@ -25208,22 +25219,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239278,
+      "Progressed": 239279,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 371
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-11-05T20:04:20.011985+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:09:10.7101976+00:00",
+  "LastChanged": "2023-11-06T19:03:13.7395691+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:10:00.414922+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:02:52.1811242+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:09:10.7104525+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:03:13.7395699+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:10:00.4151974+00:00"
 }

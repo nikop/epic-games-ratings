@@ -5,37 +5,37 @@ Rating: 4.28 (Ranked 844)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,067 |
-| Copacetic Coordination | 16.00% | ~56,193 |
-| Fronting the Money | 15.00% | ~52,681 |
-| The Dawn of Automation | 14.00% | ~49,169 |
-| Extraordinary Logistics | 14.00% | ~49,169 |
-| Dirty Money | 13.00% | ~45,657 |
-| Family First | 13.00% | ~45,657 |
+| Corner Clout | 47.00% | ~165,070 |
+| Copacetic Coordination | 16.00% | ~56,194 |
+| Fronting the Money | 15.00% | ~52,682 |
+| The Dawn of Automation | 14.00% | ~49,170 |
+| Extraordinary Logistics | 14.00% | ~49,170 |
+| Dirty Money | 13.00% | ~45,658 |
+| Family First | 13.00% | ~45,658 |
 | Cleaning House | 12.00% | ~42,145 |
 | Room in the Back | 12.00% | ~42,145 |
 | Beating the Heat | 11.00% | ~38,633 |
 | Booze Baron | 11.00% | ~38,633 |
 | Friends on the Force | 10.00% | ~35,121 |
 | Neighborhood Watch | 10.00% | ~35,121 |
-| Core Corps | 8.00% | ~28,096 |
-| Sizeable Stash | 8.00% | ~28,096 |
-| Street Fighter | 7.00% | ~24,584 |
-| Friendly Gestures | 7.00% | ~24,584 |
-| People Person | 7.00% | ~24,584 |
-| Liquor Lord | 6.00% | ~21,072 |
-| Safety in Numbers | 6.00% | ~21,072 |
-| Moving Experiences | 6.00% | ~21,072 |
-| Wise Head | 6.00% | ~21,072 |
-| Show ‘em the Sugar | 6.00% | ~21,072 |
-| Killing Them Softly | 6.00% | ~21,072 |
-| Street Knowledge | 5.00% | ~17,560 |
-| Oh Captain | 5.00% | ~17,560 |
-| Branching Out | 5.00% | ~17,560 |
-| Improvement Missions | 5.00% | ~17,560 |
-| Opportunity Knocked | 5.00% | ~17,560 |
-| City of Big Shoulders | 5.00% | ~17,560 |
-| Mission Mastery | 5.00% | ~17,560 |
+| Core Corps | 8.00% | ~28,097 |
+| Sizeable Stash | 8.00% | ~28,097 |
+| Street Fighter | 7.00% | ~24,585 |
+| Friendly Gestures | 7.00% | ~24,585 |
+| People Person | 7.00% | ~24,585 |
+| Liquor Lord | 6.00% | ~21,073 |
+| Safety in Numbers | 6.00% | ~21,073 |
+| Moving Experiences | 6.00% | ~21,073 |
+| Wise Head | 6.00% | ~21,073 |
+| Show ‘em the Sugar | 6.00% | ~21,073 |
+| Killing Them Softly | 6.00% | ~21,073 |
+| Street Knowledge | 5.00% | ~17,561 |
+| Oh Captain | 5.00% | ~17,561 |
+| Branching Out | 5.00% | ~17,561 |
+| Improvement Missions | 5.00% | ~17,561 |
+| Opportunity Knocked | 5.00% | ~17,561 |
+| City of Big Shoulders | 5.00% | ~17,561 |
+| Mission Mastery | 5.00% | ~17,561 |
 | Considerable Clams | 4.00% | ~14,048 |
 | Gin Joint | 4.00% | ~14,048 |
 | An Affront to the Enemy | 4.00% | ~14,048 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 844)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,206 (Ranked 47)  
+Progressed: 351,212 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,7 +286,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-03 | 350,717 | 7 |
 | 2023-11-04 | 350,901 | 7 |
 | 2023-11-05 | 351,094 | 7 |
-| 2023-11-06 | 351,206 | 7 |
+| 2023-11-06 | 351,212 | 7 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 448)  
 Sum: 186 (Ranked 405)  

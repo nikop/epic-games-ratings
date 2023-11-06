@@ -2,9 +2,9 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3103,8 +3103,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:08:23.9815828+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:09:05.5822103+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.9637955+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:00:27.9122178+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:08:23.9816356+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:01:29.2426021+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:09:05.5822772+00:00"
 }

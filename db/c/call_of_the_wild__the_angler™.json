@@ -879,7 +879,7 @@
   ],
   "EOS_Progressed": 6405,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9589,9 +9589,9 @@
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -9637,9 +9637,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9877,9 +9877,9 @@
       "ID": "ACHIEVEMENT_039",
       "SetID": "6jk25od",
       "Name": "Aguas Claras Conquistador",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -9916,8 +9916,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:08:35.9896202+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:09:19.4953035+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:59:07.1982196+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:08:35.9896781+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:59:44.8701997+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:09:19.4953713+00:00"
 }

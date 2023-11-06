@@ -793,9 +793,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -929,9 +929,9 @@
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -969,9 +969,9 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "PRG_BOSS_TUNNELER",
@@ -1306,8 +1306,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:03:29.8043759+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:04:02.4045485+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:11.9944802+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:59:26.3259616+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:03:29.8044298+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:00:09.9959808+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:04:02.4046123+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235607,
+  "EOS_Progressed": 235615,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17540,6 +17540,11 @@
       "Time": "2023-11-06T18:05:19.3427885+00:00",
       "NumProgressed": 235607,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-06T19:06:13.5752067+00:00",
+      "NumProgressed": 235615,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17599,7 +17604,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14136
+      "UsersEstimate": 14137
     },
     {
       "ID": "Chapter2",
@@ -17607,7 +17612,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9424
+      "UsersEstimate": 9425
     },
     {
       "ID": "Chapter3",
@@ -17951,7 +17956,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16492
+      "UsersEstimate": 16493
     },
     {
       "ID": "DwarfElf15Support",
@@ -17983,7 +17988,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11780
+      "UsersEstimate": 11781
     },
     {
       "ID": "ElfEpic",
@@ -17999,7 +18004,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80106
+      "UsersEstimate": 80109
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18015,7 +18020,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9424
+      "UsersEstimate": 9425
     },
     {
       "ID": "EndCombatOneHp",
@@ -18103,7 +18108,7 @@
       "Name": "Gargantua",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "Orktobearfest",
@@ -18199,7 +18204,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9424
+      "UsersEstimate": 9425
     },
     {
       "ID": "SupportCount4",
@@ -18254,21 +18259,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235607,
+      "Progressed": 235615,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235607,
+      "Progressed": 235615,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-04T01:39:13.702978+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:05:19.3427882+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:06:13.5752064+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:58:31.7821643+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:05:19.3429133+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:59:01.4949754+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:06:13.5753289+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 130,
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1035,
+  "EOS_Progressed": 1036,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -1435,6 +1435,11 @@
       "Time": "2023-11-06T13:15:09.5385534+00:00",
       "NumProgressed": 1035,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T19:07:42.237263+00:00",
+      "NumProgressed": 1036,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1479,7 +1484,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1527,15 +1532,15 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Exhaustive Explorer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 280
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1559,7 +1564,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -1591,7 +1596,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1686,14 +1691,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1035,
+      "Progressed": 1036,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:06:32.9521676+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:07:42.2372626+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:59:49.9955982+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:06:32.9521935+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:00:38.3129929+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:07:42.2372885+00:00"
 }

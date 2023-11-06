@@ -20,22 +20,22 @@ Rating: 4.50 (Ranked 584)
 | There you are! | 3.00% | ~911 |
 | Vaporous Expansion | 3.00% | ~911 |
 | Whoopsie | 3.00% | ~911 |
-| Animated | 2.00% | ~607 |
-| Back Off | 2.00% | ~607 |
-| We have the best insurance | 2.00% | ~607 |
-| Daily Dose | 2.00% | ~607 |
-| Ectoplasmic Entity | 2.00% | ~607 |
-| Icing on the Cake | 2.00% | ~607 |
-| Legions | 2.00% | ~607 |
-| Pesky Jerks | 2.00% | ~607 |
-| Rift Destroyer | 2.00% | ~607 |
-| Right back at ya | 2.00% | ~607 |
-| Seasoned | 2.00% | ~607 |
-| Side Hustle | 2.00% | ~607 |
-| Skilled | 2.00% | ~607 |
-| Stunner | 2.00% | ~607 |
-| Summoner | 2.00% | ~607 |
-| Welcome to the Crew | 2.00% | ~607 |
+| Animated | 2.00% | ~608 |
+| Back Off | 2.00% | ~608 |
+| We have the best insurance | 2.00% | ~608 |
+| Daily Dose | 2.00% | ~608 |
+| Ectoplasmic Entity | 2.00% | ~608 |
+| Icing on the Cake | 2.00% | ~608 |
+| Legions | 2.00% | ~608 |
+| Pesky Jerks | 2.00% | ~608 |
+| Rift Destroyer | 2.00% | ~608 |
+| Right back at ya | 2.00% | ~608 |
+| Seasoned | 2.00% | ~608 |
+| Side Hustle | 2.00% | ~608 |
+| Skilled | 2.00% | ~608 |
+| Stunner | 2.00% | ~608 |
+| Summoner | 2.00% | ~608 |
+| Welcome to the Crew | 2.00% | ~608 |
 | Collector | 1.00% | ~304 |
 | Diabolical | 1.00% | ~304 |
 | Escape Artist | 1.00% | ~304 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 584)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,371 (Ranked 122)  
+Progressed: 30,378 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
 | 2023-11-05 | 30,292 | 65 |
-| 2023-11-06 | 30,371 | 65 |
+| 2023-11-06 | 30,378 | 65 |
 ## Awards
 Max (Great for Beginners): 305  (Ranked 245)  
 Sum: 2,708 (Ranked 180)  

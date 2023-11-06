@@ -2,7 +2,7 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 80,
@@ -323,9 +323,9 @@
       "ID": "LEVEL_375_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 375 pieces",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_375_006",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:04:07.6602499+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:04:47.0645065+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:06.625868+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:59:28.2421799+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:04:07.6602694+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:00:12.4779537+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:04:47.0645261+00:00"
 }

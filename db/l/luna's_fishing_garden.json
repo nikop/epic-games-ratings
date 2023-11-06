@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 687,
+  "EOS_Progressed": 688,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.26,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -154,6 +154,11 @@
       "Time": "2023-11-06T11:09:07.7622782+00:00",
       "NumProgressed": 687,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-11-06T19:09:16.2022054+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -181,7 +186,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "12_art",
@@ -213,7 +218,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "3_master_angler",
@@ -229,15 +234,15 @@
       "Name": "Bird Breeder",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "5_science",
       "SetID": "459695l",
       "Name": "Science Enthusiast",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 192
+      "UsersEstimate": 186
     },
     {
       "ID": "6_immortal",
@@ -261,7 +266,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "9_lotus",
@@ -269,14 +274,14 @@
       "Name": "Be Like the Lotus",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 687,
+      "Progressed": 688,
       "Completed": 43
     }
   ],
@@ -284,8 +289,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:08:33.2543483+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:09:16.2022049+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:13.4679118+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:00:29.2167327+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:08:33.2543571+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:01:30.7334275+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:09:16.2022145+00:00"
 }

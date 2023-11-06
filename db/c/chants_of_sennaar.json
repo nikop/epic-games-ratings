@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.79,
+  "EOS_Completed_Percentage": 5.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2000,6 +2000,11 @@
       "Time": "2023-11-06T14:03:17.1367088+00:00",
       "NumProgressed": 466,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T19:04:07.9743449+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -2065,9 +2070,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2105,9 +2110,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2171,7 +2176,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "PROGRESS_N2",
@@ -2210,14 +2215,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:03:34.4701789+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:04:07.9743446+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:57:21.0179705+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:03:34.4702035+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:57:33.7690161+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:04:07.9743696+00:00"
 }

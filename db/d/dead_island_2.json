@@ -6189,10 +6189,10 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 714008,
+  "EOS_Progressed": 714045,
   "EOS_Completed": 2349,
-  "EOS_NewPlayers": 5451,
-  "EOS_NewCompleters": 66,
+  "EOS_NewPlayers": 5430,
+  "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29019,6 +29019,11 @@
       "Time": "2023-11-06T18:05:26.250569+00:00",
       "NumProgressed": 714008,
       "NumCompleted": 2349
+    },
+    {
+      "Time": "2023-11-06T19:06:21.3119726+00:00",
+      "NumProgressed": 714045,
+      "NumCompleted": 2349
     }
   ],
   "TotalAchievements": 51,
@@ -29116,9 +29121,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 2142
     },
     {
       "ID": "ach_doom_buddies",
@@ -29437,22 +29442,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714008,
+      "Progressed": 714045,
       "Completed": 2349
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39550,
-      "Completed": 36466
+      "Progressed": 39587,
+      "Completed": 36467
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-06T16:59:45.2692363+00:00",
-  "LastChanged_Achievements": "2023-11-06T18:05:26.2505687+00:00",
+  "LastChanged_Achievements": "2023-11-06T19:06:21.311972+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:57:31.9066223+00:00",
-  "LastUpdate_Achievements": "2023-11-06T18:05:26.2506938+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:57:47.8856855+00:00",
+  "LastUpdate_Achievements": "2023-11-06T19:06:21.312124+00:00"
 }

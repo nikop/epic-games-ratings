@@ -9,11 +9,11 @@ Number of Ratings: 495  (23.09.2022)
 | Genin | 12.00% | ~25,474 |
 | A thief's beginning | 10.00% | ~21,228 |
 | Thorough | 10.00% | ~21,228 |
-| Disguised | 9.00% | ~19,105 |
-| Rollin' | 9.00% | ~19,105 |
-| Tanuki Time | 9.00% | ~19,105 |
-| Rescue Takuma | 8.00% | ~16,982 |
-| Stoned Ox | 8.00% | ~16,982 |
+| Disguised | 9.00% | ~19,106 |
+| Rollin' | 9.00% | ~19,106 |
+| Tanuki Time | 9.00% | ~19,106 |
+| Rescue Takuma | 8.00% | ~16,983 |
+| Stoned Ox | 8.00% | ~16,983 |
 | Happy Planning | 7.00% | ~14,860 |
 | Ice Ice Yuki | 7.00% | ~14,860 |
 | Jonin | 7.00% | ~14,860 |
@@ -28,10 +28,10 @@ Number of Ratings: 495  (23.09.2022)
 | Gear up | 4.00% | ~8,491 |
 | Happy little accidents | 4.00% | ~8,491 |
 | Still Rollin' | 4.00% | ~8,491 |
-| It's raining men | 3.00% | ~6,368 |
-| Noboru | 3.00% | ~6,368 |
-| Stoned | 3.00% | ~6,368 |
-| The Old Way | 3.00% | ~6,368 |
+| It's raining men | 3.00% | ~6,369 |
+| Noboru | 3.00% | ~6,369 |
+| Stoned | 3.00% | ~6,369 |
+| The Old Way | 3.00% | ~6,369 |
 | Atheist Ox | 2.00% | ~4,246 |
 | No Gimmicks | 2.00% | ~4,246 |
 | Old Man | 2.00% | ~4,246 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~212 |
 | Release the Kraken | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,280 (Ranked 70)  
+Progressed: 212,285 (Ranked 70)  
 Completed: 96 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 96 (0.05%) (Ranked 297)
 | 2023-11-03 | 211,662 | 93 |
 | 2023-11-04 | 211,886 | 94 |
 | 2023-11-05 | 212,140 | 96 |
-| 2023-11-06 | 212,280 | 96 |
+| 2023-11-06 | 212,285 | 96 |
 ## Awards
 Max (Great for Beginners): 570  (Ranked 197)  
-Sum: 4,826 (Ranked 139)  
+Sum: 4,827 (Ranked 139)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -263,8 +263,8 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 532 |
 | This game has Amazing Storytelling | 514 |
 | This game has Amazing Characters | 496 |
+| This game is Highly Recommended | 491 |
 | This game is Relaxing | 491 |
-| This game is Highly Recommended | 490 |
 | This game has Challenging Combat | 487 |
 | This game has Quickly Understood Controls | 455 |
 | This game has a Creative Community | 252 |
@@ -476,4 +476,4 @@ Diff (max vs sum): 58
 | 2023-11-03 | 4.67 | - | 570 | 4,821 |
 | 2023-11-04 | 4.67 | - | 570 | 4,824 |
 | 2023-11-05 | 4.67 | - | 570 | 4,825 |
-| 2023-11-06 | 4.67 | - | 570 | 4,826 |
+| 2023-11-06 | 4.67 | - | 570 | 4,827 |

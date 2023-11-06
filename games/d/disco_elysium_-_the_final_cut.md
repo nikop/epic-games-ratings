@@ -7,18 +7,18 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,552 |
-| Biggest Communism Builder | 24.00% | ~31,330 |
+| Biggest Communism Builder | 24.00% | ~31,331 |
 | The World's Most Laughable Centrist | 21.00% | ~27,414 |
 | Il Coppo Del'Arte! | 18.00% | ~23,498 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,887 |
 | Hyperstellar Law Official | 16.00% | ~20,887 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,276 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,276 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,970 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,971 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,360 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,054 |
 | Unbelievably Boring **** | 9.00% | ~11,749 |
-| Enemy Of The Physical Realm | 8.00% | ~10,443 |
+| Enemy Of The Physical Realm | 8.00% | ~10,444 |
 | Hardie's Heroes | 6.00% | ~7,833 |
 | The Lawbringer | 4.00% | ~5,222 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,222 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,542 (Ranked 81)  
+Progressed: 130,544 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 28 (0.02%) (Ranked 314)
 | 2023-11-03 | 130,426 | 28 |
 | 2023-11-04 | 130,462 | 28 |
 | 2023-11-05 | 130,511 | 28 |
-| 2023-11-06 | 130,542 | 28 |
+| 2023-11-06 | 130,544 | 28 |
 ## Awards
 Max (Character Customization): 736  (Ranked 175)  
-Sum: 1,114 (Ranked 248)  
+Sum: 1,115 (Ranked 248)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
@@ -259,7 +259,7 @@ Diff (max vs sum): -73
 | This game is Educational | 45 |
 | This game is Highly Recommended | 44 |
 | This game has Quickly Understood Controls | 43 |
-| This game has Unique Visuals | 37 |
+| This game has Unique Visuals | 38 |
 | This game is Relaxing | 36 |
 | This game has Amazing Characters | 36 |
 | This game has Diverse Characters | 33 |
@@ -416,3 +416,4 @@ Diff (max vs sum): -73
 | 2023-11-01 | 4.87 | - | 734 | 1,112 |
 | 2023-11-03 | 4.87 | - | 735 | 1,113 |
 | 2023-11-04 | 4.87 | - | 736 | 1,114 |
+| 2023-11-06 | 4.87 | - | 736 | 1,115 |
