@@ -69,14 +69,14 @@
 | 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,609 | 4.85 | 43 |
 | 68 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,482 | 4.06 | 971 |
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 5,430 | 4.68 | 250 |
-| 70 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,260 | 4.69 | 229 |
+| 70 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,277 | 4.69 | 229 |
 | 71 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,999 | 4.76 | 123 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,840 | 4.60 | 408 |
 | 73 | [Shop Titans](games/s/shop_titans.md) | 4,819 | 3.99 | 992 |
 | 74 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,781 | 4.56 | 483 |
 | 75 | [MultiVersus](games/m/multiversus.md) | 4,749 | 4.56 | 483 |
-| 76 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,666 | 4.70 | 211 |
-| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,596 | 4.70 | 211 |
+| 76 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,668 | 4.70 | 211 |
+| 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,598 | 4.70 | 211 |
 | 78 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,544 | 3.97 | 999 |
 | 78 | [SMITE](games/s/smite.md) | 4,544 | 4.43 | 688 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 4,296 | 4.21 | 896 |
@@ -224,11 +224,11 @@
 | 222 | [For The King](games/f/for_the_king.md) | 403 | 4.70 | 211 |
 | 223 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 401 | 4.75 | 142 |
 | 224 | [Nuclear Throne](games/n/nuclear_throne.md) | 399 | 4.79 | 95 |
-| 225 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 394 | 4.62 | 363 |
-| 226 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 392 | 4.66 | 291 |
-| 227 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 388 | 4.62 | 363 |
-| 228 | [Severed Steel](games/s/severed_steel.md) | 384 | 4.69 | 229 |
-| 229 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 382 | 4.55 | 500 |
+| 224 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 399 | 4.55 | 500 |
+| 226 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 394 | 4.62 | 363 |
+| 227 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 392 | 4.66 | 291 |
+| 228 | [Severed Steel](games/s/severed_steel.md) | 390 | 4.69 | 229 |
+| 229 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 388 | 4.62 | 363 |
 | 230 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 376 | 4.56 | 483 |
 | 231 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 373 | 3.99 | 992 |
 | 232 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 370 | 4.31 | 825 |
@@ -261,7 +261,7 @@
 | 258 | [Sheltered](games/s/sheltered.md) | 275 | 4.41 | 717 |
 | 260 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 272 | 4.84 | 50 |
 | 261 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 264 | 4.58 | 445 |
-| 262 | [Roller Champions™](games/r/roller_champions™.md) | 261 | 4.34 | 800 |
+| 262 | [Roller Champions™](games/r/roller_champions™.md) | 262 | 4.34 | 800 |
 | 263 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 258 | 4.83 | 57 |
 | 264 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 256 | 4.45 | 661 |
 | 265 | [Crysis Remastered](games/c/crysis_remastered.md) | 250 | 4.41 | 717 |
@@ -315,9 +315,9 @@
 | 313 | [Encased](games/e/encased.md) | 150 | 4.34 | 800 |
 | 313 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 150 | 4.77 | 113 |
 | 315 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 149 | 4.41 | 717 |
-| 316 | [Alan Wake 2](games/a/alan_wake_2.md) | 146 | 4.78 | 105 |
-| 316 | [Night in the Woods](games/n/night_in_the_woods.md) | 146 | 4.73 | 172 |
-| 316 | [Timberborn](games/t/timberborn.md) | 146 | 4.72 | 185 |
+| 316 | [Alan Wake 2](games/a/alan_wake_2.md) | 148 | 4.78 | 105 |
+| 317 | [Night in the Woods](games/n/night_in_the_woods.md) | 146 | 4.73 | 172 |
+| 317 | [Timberborn](games/t/timberborn.md) | 146 | 4.72 | 185 |
 | 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 143 | 4.70 | 211 |
 | 320 | [Fort Triumph](games/f/fort_triumph.md) | 142 | 4.08 | 962 |
 | 321 | [First Class Trouble](games/f/first_class_trouble.md) | 140 | 4.48 | 620 |
