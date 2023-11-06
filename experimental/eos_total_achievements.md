@@ -2,7 +2,7 @@
 | ---- | ------------------ | -------- |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 532 | 2,660 |
-| [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 |
+| [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 |
 | [Old World](../games/o/old_world.md) | 342 | 3,360 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
@@ -620,6 +620,7 @@
 | [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
+| [My Demon Wife](../games/m/my_demon_wife.md) | 17 | 1,000 |
 | [Night Book](../games/n/night_book.md) | 17 | 1,000 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
 | [Road Defense: Outsiders](../games/c/c909a449941841e790460fbbfbbb7dcd.md) | 17 | 1,000 |

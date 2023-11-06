@@ -13,7 +13,7 @@
 | [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
-| [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 354 | 5,175 | 2 |
+| [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 363 | 5,330 | 2 |
 | [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 35 | 1,000 | 2 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 | 2 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 | 2 |
