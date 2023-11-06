@@ -2363,9 +2363,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 18833,
+  "EOS_Progressed": 18835,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1695,
+  "EOS_NewPlayers": 1692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8178,6 +8178,11 @@
       "Time": "2023-11-06T02:29:24.1843141+00:00",
       "NumProgressed": 18833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T03:07:40.0916411+00:00",
+      "NumProgressed": 18835,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8230,7 +8235,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "Achievement_Trophy07",
@@ -8372,9 +8377,9 @@
       "ID": "Achievement_Trophy24",
       "SetID": "724h0m0",
       "Name": "I\u0027m not dead yet",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 7910
+      "UsersEstimate": 8099
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8382,7 +8387,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "Achievement_Trophy26",
@@ -8390,7 +8395,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8406,7 +8411,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8430,7 +8435,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8478,7 +8483,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4708
+      "UsersEstimate": 4709
     },
     {
       "ID": "Achievement_Trophy38",
@@ -8494,7 +8499,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8510,7 +8515,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "Achievement_Trophy42",
@@ -8590,7 +8595,7 @@
       "Name": "The evil that men do",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_Trophy_JOTL_02",
@@ -8598,7 +8603,7 @@
       "Name": "MacReady Steady.. Go!",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_Trophy_JOTL_03",
@@ -8638,7 +8643,7 @@
       "Name": "Pull out the big guns",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_Trophy_JOTL_08",
@@ -8654,7 +8659,7 @@
       "Name": "Crimson Tornado",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement_Trophy_JOTL_10",
@@ -8677,7 +8682,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 18833,
+      "Progressed": 18835,
       "Completed": 1
     }
   ],
@@ -8685,8 +8690,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-06T01:45:27.042099+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:29:24.1843137+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:07:40.0916408+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:20:37.3145742+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:29:24.1843763+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:59:51.1394103+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:07:40.0917181+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3195,
+  "EOS_Progressed": 3197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4280,6 +4280,11 @@
       "Time": "2023-11-06T01:50:27.3111489+00:00",
       "NumProgressed": 3195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T03:04:27.8077115+00:00",
+      "NumProgressed": 3197,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4300,7 +4305,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "achievement_11",
@@ -4322,9 +4327,9 @@
       "ID": "achievement_13",
       "SetID": "aiin7da",
       "Name": "MVP",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1022
+      "UsersEstimate": 991
     },
     {
       "ID": "achievement_14",
@@ -4332,7 +4337,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "achievement_15",
@@ -4388,7 +4393,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "achievement_21",
@@ -4452,14 +4457,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3195,
+      "Progressed": 3197,
       "Completed": 0
     }
   ],
@@ -4467,8 +4472,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-05T22:59:24.2798337+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:25:33.4139999+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:04:27.8077112+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:20:10.4793514+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:25:33.4140329+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:59:16.4865013+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:04:27.8077421+00:00"
 }

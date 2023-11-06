@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39874,
+  "EOS_Progressed": 39875,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
@@ -22128,6 +22128,11 @@
       "Time": "2023-11-06T02:24:53.3512069+00:00",
       "NumProgressed": 39874,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-06T03:03:39.1735466+00:00",
+      "NumProgressed": 39875,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22179,7 +22184,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -22251,7 +22256,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -22259,7 +22264,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -22267,7 +22272,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -22370,7 +22375,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39874,
+      "Progressed": 39875,
       "Completed": 26
     }
   ],
@@ -22378,8 +22383,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:24:53.3512066+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:03:39.1735462+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:19:46.7973158+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:24:53.3514473+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:58:45.5576593+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:03:39.173694+00:00"
 }

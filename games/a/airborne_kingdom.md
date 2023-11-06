@@ -7,26 +7,26 @@ Number of Ratings: 74  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~4,168 |
-| A Grove Replanted | 53.00% | ~3,944 |
+| A Grove Replanted | 53.00% | ~3,945 |
 | Fields Watered | 42.00% | ~3,126 |
-| Seekers Found | 41.00% | ~3,051 |
-| Settling the Skies | 41.00% | ~3,051 |
+| Seekers Found | 41.00% | ~3,052 |
+| Settling the Skies | 41.00% | ~3,052 |
 | Wind Powered | 40.00% | ~2,977 |
-| It Takes a Village | 34.00% | ~2,530 |
+| It Takes a Village | 34.00% | ~2,531 |
 | On the Town | 28.00% | ~2,084 |
 | Daylight Found | 26.00% | ~1,935 |
-| Irons Scorched | 25.00% | ~1,860 |
-| Islands Connected | 25.00% | ~1,860 |
-| Harp Tuned | 24.00% | ~1,786 |
+| Irons Scorched | 25.00% | ~1,861 |
+| Islands Connected | 25.00% | ~1,861 |
+| Harp Tuned | 23.00% | ~1,712 |
 | Pyre Ignited | 23.00% | ~1,712 |
 | Travelers Returned | 23.00% | ~1,712 |
 | Hopes Hoisted | 22.00% | ~1,637 |
-| Knowledge Shared | 20.00% | ~1,488 |
-| Relic Finder | 20.00% | ~1,488 |
+| Knowledge Shared | 20.00% | ~1,489 |
+| Relic Finder | 20.00% | ~1,489 |
 | Worthy of the Title | 19.00% | ~1,414 |
 | A Peaceful Respite | 14.00% | ~1,042 |
-| A Learned Scholar | 13.00% | ~967 |
-| Prophecy Fulfilled | 13.00% | ~967 |
+| A Learned Scholar | 13.00% | ~968 |
+| Prophecy Fulfilled | 13.00% | ~968 |
 | A Wanderer’s Guide | 11.00% | ~819 |
 | Knowledge Seeker | 6.00% | ~447 |
 | The Cycle Continues | 3.00% | ~223 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~149 |
 | A True Challenge | 2.00% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,442 (Ranked 168)  
+Progressed: 7,443 (Ranked 168)  
 Completed: 58 (0.78%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 58 (0.78%) (Ranked 170)
 | 2023-11-03 | 7,432 | 57 |
 | 2023-11-04 | 7,438 | 58 |
 | 2023-11-05 | 7,442 | 58 |
+| 2023-11-06 | 7,443 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.91,
+  "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -546,6 +546,11 @@
       "Time": "2023-11-04T17:13:24.8295521+00:00",
       "NumProgressed": 110,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T03:09:49.6859512+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -691,9 +696,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Achi_19",
@@ -725,13 +730,13 @@
       "Name": "Iceberg Theory",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -763,15 +768,15 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 36
     },
@@ -787,9 +792,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Achi_31",
@@ -819,9 +824,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "Achi_35",
@@ -869,7 +874,7 @@
       "Name": "Toe to Toe",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_41",
@@ -925,7 +930,7 @@
       "Name": "Phew!",
       "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_48",
@@ -956,7 +961,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 1
     }
   ],
@@ -964,8 +969,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:31:01.1872805+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:09:49.685951+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:59.1662605+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:20:26.4899319+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:31:01.1873095+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:59:37.748799+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:09:49.6859806+00:00"
 }

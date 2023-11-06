@@ -309,9 +309,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "another_perspective",
@@ -349,9 +349,9 @@
       "ID": "collect_items_mother",
       "SetID": "f2im8d",
       "Name": "Something to think about",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "collect_most_of_memories",
@@ -589,9 +589,9 @@
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "preferred_parent",
@@ -677,9 +677,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "tough_conversation",
@@ -732,8 +732,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:27:06.2964923+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:06:20.5875728+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.7435557+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:24:35.3027448+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:27:06.2965285+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:03:14.8197074+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:06:20.5876089+00:00"
 }

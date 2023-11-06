@@ -11534,10 +11534,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 24593,
       "NumberOfAwardsMax": 9856
+    },
+    {
+      "Time": "2023-11-06T02:59:33.1141512+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 24624,
+      "NumberOfAwardsMax": 9856
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24593,
+  "NumberOfAwards": 24624,
   "NumberOfAwardsMax": 9856,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11551,7 +11557,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5979
+      "Count": 6010
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11614,9 +11620,9 @@
       "Count": 813
     }
   ],
-  "EOS_Progressed": 647961,
+  "EOS_Progressed": 647964,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 4006,
+  "EOS_NewPlayers": 4001,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -34369,6 +34375,11 @@
       "Time": "2023-11-06T02:25:40.2640183+00:00",
       "NumProgressed": 647961,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-06T03:04:36.183158+00:00",
+      "NumProgressed": 647964,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 65,
@@ -34380,7 +34391,7 @@
       "Name": "Into the Unknown",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 226786
+      "UsersEstimate": 226787
     },
     {
       "ID": "achievement_02",
@@ -34388,7 +34399,7 @@
       "Name": "First Shot",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 226786
+      "UsersEstimate": 226787
     },
     {
       "ID": "achievement_03",
@@ -34396,7 +34407,7 @@
       "Name": "Herzlich Wilkommen!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 213827
+      "UsersEstimate": 213828
     },
     {
       "ID": "achievement_04",
@@ -34428,7 +34439,7 @@
       "Name": "Get Outta My House!",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 149031
+      "UsersEstimate": 149032
     },
     {
       "ID": "achievement_08",
@@ -34436,7 +34447,7 @@
       "Name": "Debris and Ashes",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 97194
+      "UsersEstimate": 97195
     },
     {
       "ID": "achievement_09",
@@ -34444,7 +34455,7 @@
       "Name": "We Will Be Heard!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 116633
+      "UsersEstimate": 116634
     },
     {
       "ID": "achievement_10",
@@ -34468,7 +34479,7 @@
       "Name": "Going Down",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 97194
+      "UsersEstimate": 97195
     },
     {
       "ID": "achievement_13",
@@ -34476,7 +34487,7 @@
       "Name": "Family First",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 97194
+      "UsersEstimate": 97195
     },
     {
       "ID": "achievement_14",
@@ -34500,7 +34511,7 @@
       "Name": "Tunnel Entrance",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 110153
+      "UsersEstimate": 110154
     },
     {
       "ID": "achievement_17",
@@ -34508,7 +34519,7 @@
       "Name": "Tube Map",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "achievement_18",
@@ -34516,7 +34527,7 @@
       "Name": "Sancho Panza",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 200868
+      "UsersEstimate": 200869
     },
     {
       "ID": "achievement_19",
@@ -34532,7 +34543,7 @@
       "Name": "Don Quixote",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "achievement_21",
@@ -34540,7 +34551,7 @@
       "Name": "Can\u0027t You Read the Signs?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "achievement_22",
@@ -34572,7 +34583,7 @@
       "Name": "Flag Burning",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 168470
+      "UsersEstimate": 168471
     },
     {
       "ID": "achievement_26",
@@ -34588,7 +34599,7 @@
       "Name": "You Never Forget Your First...",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 246225
+      "UsersEstimate": 246226
     },
     {
       "ID": "achievement_28",
@@ -34596,7 +34607,7 @@
       "Name": "Oh, So This Is How It Works!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 181429
+      "UsersEstimate": 181430
     },
     {
       "ID": "achievement_29",
@@ -34628,7 +34639,7 @@
       "Name": "Boot Licker",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25918
+      "UsersEstimate": 25919
     },
     {
       "ID": "achievement_33",
@@ -34684,7 +34695,7 @@
       "Name": "Night Hunter",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 142551
+      "UsersEstimate": 142552
     },
     {
       "ID": "achievement_40",
@@ -34716,7 +34727,7 @@
       "Name": "Slowpoke!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 77755
+      "UsersEstimate": 77756
     },
     {
       "ID": "achievement_44",
@@ -34899,21 +34910,21 @@
     {
       "ID": "3cbf5jh",
       "IsBase": true,
-      "Progressed": 647961,
+      "Progressed": 647964,
       "Completed": 67
     },
     {
       "ID": "likk62",
       "IsBase": false,
-      "Progressed": 293405,
+      "Progressed": 293408,
       "Completed": 1434
     }
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2023-11-06T01:45:14.3646776+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:25:40.264018+00:00",
+  "LastChanged": "2023-11-06T02:59:33.1141511+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:04:36.1831577+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:57.045923+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:20:23.2790492+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:25:40.264153+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:59:33.1141516+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:04:36.1832936+00:00"
 }

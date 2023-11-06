@@ -3073,9 +3073,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 81672,
+  "EOS_Progressed": 81673,
   "EOS_Completed": 155,
-  "EOS_NewPlayers": 898,
+  "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -25258,6 +25258,11 @@
       "Time": "2023-11-06T02:30:04.0327279+00:00",
       "NumProgressed": 81672,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-11-06T03:08:39.685305+00:00",
+      "NumProgressed": 81673,
+      "NumCompleted": 155
     }
   ],
   "TotalAchievements": 30,
@@ -25333,7 +25338,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7350
+      "UsersEstimate": 7351
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -25397,7 +25402,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19601
+      "UsersEstimate": 19602
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -25445,7 +25450,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28585
+      "UsersEstimate": 28586
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -25508,15 +25513,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 81672,
+      "Progressed": 81673,
       "Completed": 155
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-05T13:00:40.9548756+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:30:04.0327273+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:08:39.6853046+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:19:35.5906757+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:30:04.0328631+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:58:31.7085808+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:08:39.6854641+00:00"
 }

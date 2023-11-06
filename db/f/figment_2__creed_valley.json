@@ -208,9 +208,9 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "fluff_hit_worker_priciple_square",
@@ -264,9 +264,9 @@
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "story_dance_off",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:30:59.5585508+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:09:47.8102573+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:20.3478442+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:19:25.4043095+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:30:59.5585603+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:58:19.9476114+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:09:47.8102673+00:00"
 }

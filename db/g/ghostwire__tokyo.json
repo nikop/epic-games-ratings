@@ -2,12 +2,12 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 536,
   "Ranking_Popularity": 138,
-  "Ranking_PopularitySum": 221,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 1100,
   "RatingHistory": [
     {
@@ -1702,10 +1702,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1623,
       "NumberOfAwardsMax": 1246
+    },
+    {
+      "Time": "2023-11-06T03:01:33.0280079+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1671,
+      "NumberOfAwardsMax": 1246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1623,
+  "NumberOfAwards": 1671,
   "NumberOfAwardsMax": 1246,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1768,6 +1774,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 27
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 48
     }
   ],
   "EOS_Progressed": 0,
@@ -1781,8 +1793,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2023-11-06T00:00:23.985243+00:00",
+  "LastChanged": "2023-11-06T03:01:33.0280078+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:40.675835+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:21:53.3206617+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:27:30.5470084+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:01:33.0280082+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:06:49.2910511+00:00"
 }

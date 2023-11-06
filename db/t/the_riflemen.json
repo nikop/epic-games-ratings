@@ -95,11 +95,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31044,
+  "EOS_Progressed": 31052,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2336,
+  "EOS_NewPlayers": 2334,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 37.88,
+  "EOS_Completed_Percentage": 37.87,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -8200,6 +8200,11 @@
       "Time": "2023-11-06T02:28:00.5466394+00:00",
       "NumProgressed": 31044,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-11-06T03:07:24.957746+00:00",
+      "NumProgressed": 31052,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -8220,7 +8225,7 @@
       "Name": "First blood",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 21420
+      "UsersEstimate": 21426
     },
     {
       "ID": "grenadeKills",
@@ -8236,7 +8241,7 @@
       "Name": "Head popping I",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "headshots1000",
@@ -8276,7 +8281,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "revengeMedal",
@@ -8323,7 +8328,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 31044,
+      "Progressed": 31052,
       "Completed": 11759
     }
   ],
@@ -8331,8 +8336,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-11-05T15:57:06.7979523+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:28:00.5466391+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:07:24.9577457+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.2915192+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:18:36.603885+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:28:00.5466975+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:57:19.3468924+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:07:24.9577935+00:00"
 }

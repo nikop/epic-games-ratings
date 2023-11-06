@@ -459,9 +459,9 @@
       "ID": "28",
       "SetID": "5e3maia",
       "Name": "Leader",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "29",
@@ -507,9 +507,9 @@
       "ID": "35",
       "SetID": "5e3maia",
       "Name": "Rescuer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "36",
@@ -523,9 +523,9 @@
       "ID": "37",
       "SetID": "5e3maia",
       "Name": "Veteran",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "38",
@@ -563,9 +563,9 @@
       "ID": "41",
       "SetID": "5e3maia",
       "Name": "Drugmaker",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "42",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-06T02:27:26.9163176+00:00",
+  "LastChanged_Achievements": "2023-11-06T03:06:44.9742307+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.2483027+00:00",
-  "LastUpdate_Ratings": "2023-11-06T02:20:58.08321+00:00",
-  "LastUpdate_Achievements": "2023-11-06T02:27:26.9163636+00:00"
+  "LastUpdate_Ratings": "2023-11-06T03:00:18.8354633+00:00",
+  "LastUpdate_Achievements": "2023-11-06T03:06:44.9742897+00:00"
 }

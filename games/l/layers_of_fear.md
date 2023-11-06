@@ -16,14 +16,14 @@
 | Finished it | 29.00% | ~16 |
 | Face your fears | 16.00% | ~9 |
 | First steps | 14.00% | ~8 |
+| Playtime | 14.00% | ~8 |
 | Tough conversation | 14.00% | ~8 |
 | Breaking free | 13.00% | ~7 |
-| Playtime | 13.00% | ~7 |
-| The tragedy unfolds | 11.00% | ~6 |
+| The tragedy unfolds | 13.00% | ~7 |
+| A new way | 9.00% | ~5 |
 | Debut | 9.00% | ~5 |
 | The art of movement | 9.00% | ~5 |
 | True Reflection | 9.00% | ~5 |
-| A new way | 7.00% | ~4 |
 | A Slice of Life | 7.00% | ~4 |
 | Whispers long forgotten | 7.00% | ~4 |
 | Another perspective | 5.00% | ~3 |
@@ -32,9 +32,9 @@
 | Heavy Burden | 5.00% | ~3 |
 | Lights! Camera! Action! | 5.00% | ~3 |
 | Casting Finished | 4.00% | ~2 |
+| Something to think about | 4.00% | ~2 |
 | The Perfect Storm | 4.00% | ~2 |
 | Fisherman | 4.00% | ~2 |
-| Something to think about | 2.00% | ~1 |
 | Body of Work | 2.00% | ~1 |
 | Full Scoop | 2.00% | ~1 |
 | Se7en Seas | 2.00% | ~1 |
