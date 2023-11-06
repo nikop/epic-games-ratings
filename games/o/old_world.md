@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | Carthage - Ox Hide | 0.50% | ~76 |
+| Old | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
 | Learn to Play 5 | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
@@ -148,7 +149,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.50% | ~76 |
 | Kush | 0.50% | ~76 |
 | Beja Archer | 0.50% | ~76 |
-| Old | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
 | Pantheon of Gods | 0.40% | ~61 |
 | Capturing Cities | 0.40% | ~61 |
@@ -551,9 +551,9 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-05 | 15,167 | 5 |
 | 2023-11-06 | 15,190 | 5 |
 ## Awards
-Max (Relaxing): 226  (Ranked 271)  
+Max (Relaxing): 226  (Ranked 270)  
 Sum: 1,868 (Ranked 212)  
-Diff (max vs sum): 59  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |

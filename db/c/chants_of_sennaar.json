@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 469,
+  "EOS_Progressed": 470,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.76,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2010,6 +2010,11 @@
       "Time": "2023-11-06T21:03:54.4766065+00:00",
       "NumProgressed": 469,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T22:03:27.510662+00:00",
+      "NumProgressed": 470,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -2133,7 +2138,7 @@
       "Name": "True G3M4R",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2141,7 +2146,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2181,7 +2186,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "PROGRESS_N2",
@@ -2197,7 +2202,7 @@
       "Name": "A new dawn",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "PROGRESS_N4",
@@ -2205,7 +2210,7 @@
       "Name": "The darkness",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PROGRESS_N5",
@@ -2220,14 +2225,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 469,
+      "Progressed": 470,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:03:54.4766057+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:03:27.5106615+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:57:33.0908922+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:03:54.4766369+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:57:24.1828649+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:03:27.5106922+00:00"
 }

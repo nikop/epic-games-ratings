@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -399,9 +399,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5275,
+  "EOS_Progressed": 5276,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6644,6 +6644,11 @@
       "Time": "2023-11-06T12:05:21.8739817+00:00",
       "NumProgressed": 5275,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-06T22:05:34.7200964+00:00",
+      "NumProgressed": 5276,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 50,
@@ -6671,7 +6676,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "12",
@@ -6695,7 +6700,7 @@
       "Name": "Full Ascension",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "15",
@@ -6855,7 +6860,7 @@
       "Name": "My Final Form",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "33",
@@ -6871,7 +6876,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "35",
@@ -7031,7 +7036,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "49",
@@ -7039,7 +7044,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "50",
@@ -7054,13 +7059,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5275,
+      "Progressed": 5276,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5275,
+      "Progressed": 5276,
       "Completed": 7
     }
   ],
@@ -7068,8 +7073,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-02T16:01:19.3069971+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:06:30.4480126+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:05:34.7200958+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:58:47.8064033+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:06:30.4480951+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:58:24.2645202+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:05:34.7201875+00:00"
 }

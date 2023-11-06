@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4305,
+  "EOS_Progressed": 4308,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 876,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2275,6 +2275,11 @@
       "Time": "2023-11-06T21:09:02.9193496+00:00",
       "NumProgressed": 4305,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T22:08:53.3512911+00:00",
+      "NumProgressed": 4308,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2327,7 +2332,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "Eavesdropper",
@@ -2343,7 +2348,7 @@
       "Name": "Explosive Personality",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "FasterThanLight",
@@ -2359,7 +2364,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2391,7 +2396,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -2413,9 +2418,9 @@
       "ID": "LiveByTheSword",
       "SetID": "acc6ea0",
       "Name": "Live By The Sword",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 26
     },
     {
       "ID": "MasterManipulator",
@@ -2479,7 +2484,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "TheQuarterback",
@@ -2495,7 +2500,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -2503,7 +2508,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "UnResurrected",
@@ -2519,7 +2524,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -2527,7 +2532,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2558,7 +2563,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4305,
+      "Progressed": 4308,
       "Completed": 5
     }
   ],
@@ -2566,8 +2571,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:09:02.9193485+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:08:53.3512904+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:59:15.1473332+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:09:02.9193969+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:58:46.3178857+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:08:53.3513335+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -219,7 +219,7 @@
   "Tags": [],
   "EOS_Progressed": 1578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3817,9 +3817,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1184
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4218,8 +4218,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:09:21.0172628+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:09:08.3919158+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:48.9063785+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:57:11.5318314+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:09:21.0173293+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:57:08.4578293+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:09:08.3919842+00:00"
 }

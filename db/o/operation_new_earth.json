@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1774,
+  "EOS_Progressed": 1775,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6645,6 +6645,11 @@
       "Time": "2023-11-06T21:04:02.0698219+00:00",
       "NumProgressed": 1774,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T22:03:33.9212356+00:00",
+      "NumProgressed": 1775,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6752,7 +6757,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_headquarters_5",
@@ -6784,7 +6789,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6816,7 +6821,7 @@
       "Name": "General",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -6848,7 +6853,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -6856,7 +6861,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -6864,7 +6869,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6880,7 +6885,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -6888,7 +6893,7 @@
       "Name": "Battle Ready",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -6896,7 +6901,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -6959,7 +6964,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1774,
+      "Progressed": 1775,
       "Completed": 1
     }
   ],
@@ -6967,8 +6972,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:04:02.0698207+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:03:33.921235+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:00:13.0645679+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:04:02.0698928+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:59:31.1320999+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:03:33.9213153+00:00"
 }

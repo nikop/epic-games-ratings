@@ -27,7 +27,7 @@ Rating: 4.19 (Ranked 912)
 | You Need a Gun | 4.00% | ~656 |
 | I Do Belong Here | 4.00% | ~656 |
 | Terminated | 4.00% | ~656 |
-| It's Time | 4.00% | ~173 |
+| It's Time | 4.00% | ~174 |
 | The Commonality | 3.00% | ~492 |
 | In Striking Distance | 2.00% | ~328 |
 | One Last Job | 2.00% | ~87 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 912)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,411 (Ranked 143)  
+Progressed: 16,412 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 79 (0.48%) (Ranked 198)
 | 2023-11-03 | 16,398 | 78 |
 | 2023-11-04 | 16,404 | 79 |
 | 2023-11-05 | 16,410 | 79 |
-| 2023-11-06 | 16,411 | 79 |
+| 2023-11-06 | 16,412 | 79 |
 ## Awards
 Max (Highly Recommended): 81  (Ranked 385)  
 Sum: 475 (Ranked 325)  

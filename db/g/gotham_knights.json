@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4013,9 +4013,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76081,
+  "EOS_Progressed": 76083,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21703,6 +21703,11 @@
       "Time": "2023-11-06T21:06:09.6794955+00:00",
       "NumProgressed": 76081,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-06T22:05:18.8391033+00:00",
+      "NumProgressed": 76083,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21834,7 +21839,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -21954,7 +21959,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14455
+      "UsersEstimate": 14456
     },
     {
       "ID": "FREEZE_3",
@@ -21962,7 +21967,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -22018,7 +22023,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26628
+      "UsersEstimate": 26629
     },
     {
       "ID": "HARLEY_2",
@@ -22026,7 +22031,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19020
+      "UsersEstimate": 19021
     },
     {
       "ID": "HARLEY_3",
@@ -22034,7 +22039,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15216
+      "UsersEstimate": 15217
     },
     {
       "ID": "HARLEY_4",
@@ -22058,7 +22063,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38801
+      "UsersEstimate": 38802
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22082,7 +22087,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15216
+      "UsersEstimate": 15217
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -22114,7 +22119,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19020
+      "UsersEstimate": 19021
     },
     {
       "ID": "MYSTERY_03",
@@ -22130,7 +22135,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15216
+      "UsersEstimate": 15217
     },
     {
       "ID": "MYSTERY_05",
@@ -22154,7 +22159,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "MYSTERY_08",
@@ -22201,13 +22206,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76081,
+      "Progressed": 76083,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46361,
+      "Progressed": 46363,
       "Completed": 2673
     }
   ],
@@ -22215,8 +22220,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-06T15:58:10.8986589+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:06:09.6794949+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:05:18.8391027+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:57:53.4610477+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:06:09.6796608+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:57:41.4213772+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:05:18.8392932+00:00"
 }

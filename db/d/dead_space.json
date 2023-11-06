@@ -4,11 +4,11 @@
   "ProductSlug": "dead-space",
   "Ranking_Rating": 346,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 437,
-  "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_PopularitySum": 438,
+  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -689,7 +689,7 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 1583,
+  "EOS_Progressed": 1584,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
@@ -4749,6 +4749,11 @@
       "Time": "2023-11-06T21:03:42.9826205+00:00",
       "NumProgressed": 1583,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-06T22:03:18.7656839+00:00",
+      "NumProgressed": 1584,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -4761,7 +4766,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "achievement_10",
@@ -4801,7 +4806,7 @@
       "Name": "Whole Again",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_15",
@@ -4809,7 +4814,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "achievement_16",
@@ -4833,7 +4838,7 @@
       "Name": "Full Arsenal",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "achievement_19",
@@ -4849,7 +4854,7 @@
       "Name": "Lab Rat",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "achievement_20",
@@ -4857,7 +4862,7 @@
       "Name": "Autofire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_21",
@@ -4937,7 +4942,7 @@
       "Name": "All Systems Go",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "achievement_30",
@@ -4953,7 +4958,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "achievement_32",
@@ -4961,7 +4966,7 @@
       "Name": "Surgeon",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_33",
@@ -4985,7 +4990,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "achievement_36",
@@ -5001,7 +5006,7 @@
       "Name": "Maxed Out",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_38",
@@ -5009,7 +5014,7 @@
       "Name": "Front Toward Enemy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_39",
@@ -5049,7 +5054,7 @@
       "Name": "Brute Force",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "achievement_43",
@@ -5089,7 +5094,7 @@
       "Name": "Reunion",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_5",
@@ -5136,7 +5141,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1583,
+      "Progressed": 1584,
       "Completed": 8
     }
   ],
@@ -5144,8 +5149,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:03:42.9826195+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:03:18.7656834+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:57:24.3393437+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:03:42.982688+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:57:17.5992765+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:03:18.7657541+00:00"
 }

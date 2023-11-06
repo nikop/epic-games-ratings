@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2024,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
@@ -4432,6 +4432,11 @@
       "Time": "2023-11-06T21:09:42.0938404+00:00",
       "NumProgressed": 2024,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T22:09:25.8375224+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4444,7 +4449,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4452,7 +4457,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4644,7 +4649,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -4835,14 +4840,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2024,
+      "Progressed": 2025,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:09:42.0938397+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:09:25.837522+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:00:53.6765428+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:09:42.0939123+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:00:01.8016804+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:09:25.8375951+00:00"
 }

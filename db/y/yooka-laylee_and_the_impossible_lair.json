@@ -4,11 +4,11 @@
   "ProductSlug": "yooka-laylee-and-the-impossible-lair",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2017-04-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -756,6 +756,6 @@
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
   "LastChanged": "2023-11-03T08:58:50.6398378+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.3758205+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:00:57.8673442+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:06:04.9517471+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:00:05.6569937+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:05:14.625086+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113499,
+  "EOS_Progressed": 113502,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17032,6 +17032,11 @@
       "Time": "2023-11-06T21:08:43.2952046+00:00",
       "NumProgressed": 113499,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-06T22:08:37.3587464+00:00",
+      "NumProgressed": 113502,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -17043,7 +17048,7 @@
       "Name": "Guacamastery",
       "Percentage": 0.1,
       "XP": 130,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_1",
@@ -17051,7 +17056,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87394
+      "UsersEstimate": 87397
     },
     {
       "ID": "EAwards_10",
@@ -17067,7 +17072,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29510
+      "UsersEstimate": 29511
     },
     {
       "ID": "EAwards_12",
@@ -17083,7 +17088,7 @@
       "Name": "The Floor Is...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "EAwards_14",
@@ -17115,7 +17120,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41995
+      "UsersEstimate": 41996
     },
     {
       "ID": "EAwards_18",
@@ -17139,7 +17144,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54480
+      "UsersEstimate": 54481
     },
     {
       "ID": "EAwards_20",
@@ -17267,7 +17272,7 @@
       "Name": "Even Darkester",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "EAwards_35",
@@ -17291,7 +17296,7 @@
       "Name": "Cool Cat Counter Attack",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_38",
@@ -17299,7 +17304,7 @@
       "Name": "Steal the Show",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_39",
@@ -17307,7 +17312,7 @@
       "Name": "Body Builder",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_4",
@@ -17323,7 +17328,7 @@
       "Name": "Welcome to MY World",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_41",
@@ -17331,7 +17336,7 @@
       "Name": "Jaguar\u0027s Redemption",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_42",
@@ -17339,7 +17344,7 @@
       "Name": "Slippery Snake",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_43",
@@ -17347,7 +17352,7 @@
       "Name": "Explosion Therapy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_44",
@@ -17355,7 +17360,7 @@
       "Name": "Snake Temple Throwdown",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_45",
@@ -17363,7 +17368,7 @@
       "Name": "Salvador\u2019s Sister Act",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "EAwards_46",
@@ -17434,7 +17439,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113499,
+      "Progressed": 113502,
       "Completed": 48
     }
   ],
@@ -17442,8 +17447,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:08:43.295204+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:08:37.3587457+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:58:18.8734393+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:08:43.2953522+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:58:01.7558865+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:08:37.3589318+00:00"
 }

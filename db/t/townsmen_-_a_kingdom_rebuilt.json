@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4334,
+  "EOS_Progressed": 4335,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1479,6 +1479,11 @@
       "Time": "2023-11-06T08:09:50.8467308+00:00",
       "NumProgressed": 4334,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T22:09:28.5855699+00:00",
+      "NumProgressed": 4335,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1842,7 +1847,7 @@
       "Name": "Eureka!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2250,7 +2255,7 @@
       "Name": "Friends from the past",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -2297,15 +2302,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4334,
+      "Progressed": 4335,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-10-21T14:59:27.3816446+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:09:45.1051068+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:09:28.5855688+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:17.4116172+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:00:32.51726+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:09:45.105241+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:59:46.7971539+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:09:28.5857072+00:00"
 }

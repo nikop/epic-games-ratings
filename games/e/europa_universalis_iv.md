@@ -27,6 +27,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Combined Arms | 0.10% | ~449 |
 | Defender of the Faith | 0.10% | ~449 |
 | Definitely the Sultan of Rum | 0.10% | ~449 |
+| Disciples of Enlightenment | 0.10% | ~449 |
 | Double the Love | 0.10% | ~449 |
 | Down Under | 0.10% | ~449 |
 | Early-Modern Warfare | 0.10% | ~449 |
@@ -65,6 +66,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Over a Thousand! | 0.10% | ~449 |
 | Populists in Government | 0.10% | ~449 |
 | Queen of Conquest | 0.10% | ~449 |
+| Relentless Push East | 0.10% | ~449 |
 | Respected | 0.10% | ~449 |
 | Rise of the White Sheep | 0.10% | ~449 |
 | Royal Authority | 0.10% | ~449 |
@@ -155,7 +157,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
 | Die Please Die | 0.00% | ~0 |
-| Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
@@ -278,7 +279,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Reapers | 0.00% | ~0 |
 | Redecorating | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Relentless Push East | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
 | Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,792 (Ranked 41)  
+Progressed: 448,822 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,792 | 1 |
+| 2023-11-06 | 448,822 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,376 (Ranked 24)  

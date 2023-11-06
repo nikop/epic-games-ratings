@@ -8,18 +8,18 @@ Rating: 4.50 (Ranked 584)
 | Stylish | 7.00% | ~2,127 |
 | Advancement | 5.00% | ~1,519 |
 | Meticulously Efficient | 5.00% | ~1,519 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,215 |
-| Discovery | 4.00% | ~1,215 |
-| Fully Upgraded | 4.00% | ~1,215 |
-| Solo Capture | 4.00% | ~1,215 |
-| Swift Rift Removers | 4.00% | ~1,215 |
-| Teamwork | 4.00% | ~1,215 |
-| Clutch Capture | 3.00% | ~911 |
-| Cultured | 3.00% | ~911 |
-| Ghostbuster In Training | 3.00% | ~911 |
-| There you are! | 3.00% | ~911 |
-| Vaporous Expansion | 3.00% | ~911 |
-| Whoopsie | 3.00% | ~911 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,216 |
+| Discovery | 4.00% | ~1,216 |
+| Fully Upgraded | 4.00% | ~1,216 |
+| Solo Capture | 4.00% | ~1,216 |
+| Swift Rift Removers | 4.00% | ~1,216 |
+| Teamwork | 4.00% | ~1,216 |
+| Clutch Capture | 3.00% | ~912 |
+| Cultured | 3.00% | ~912 |
+| Ghostbuster In Training | 3.00% | ~912 |
+| There you are! | 3.00% | ~912 |
+| Vaporous Expansion | 3.00% | ~912 |
+| Whoopsie | 3.00% | ~912 |
 | Animated | 2.00% | ~608 |
 | Back Off | 2.00% | ~608 |
 | We have the best insurance | 2.00% | ~608 |
@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 584)
 | Reckless | 1.00% | ~304 |
 | Terrifying | 1.00% | ~304 |
 | Tobin's Prodigy | 1.00% | ~304 |
-| Rivalry | 0.90% | ~273 |
+| Rivalry | 0.90% | ~274 |
 | Fragile Panes | 0.80% | ~243 |
 | Liability | 0.80% | ~243 |
 | Surprise! | 0.80% | ~243 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 584)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,382 (Ranked 122)  
+Progressed: 30,389 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
 | 2023-11-05 | 30,292 | 65 |
-| 2023-11-06 | 30,382 | 65 |
+| 2023-11-06 | 30,389 | 65 |
 ## Awards
 Max (Great for Beginners): 305  (Ranked 245)  
 Sum: 2,708 (Ranked 180)  

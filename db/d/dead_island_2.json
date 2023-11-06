@@ -6139,10 +6139,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10785,
       "NumberOfAwardsMax": 7125
+    },
+    {
+      "Time": "2023-11-06T21:57:33.28467+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10791,
+      "NumberOfAwardsMax": 7125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10785,
+  "NumberOfAwards": 10791,
   "NumberOfAwardsMax": 7125,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6156,7 +6162,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 510
+      "Count": 516
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6201,9 +6207,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714110,
+  "EOS_Progressed": 714130,
   "EOS_Completed": 2349,
-  "EOS_NewPlayers": 5399,
+  "EOS_NewPlayers": 5379,
   "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29046,6 +29052,11 @@
       "Time": "2023-11-06T21:05:59.4595467+00:00",
       "NumProgressed": 714110,
       "NumCompleted": 2349
+    },
+    {
+      "Time": "2023-11-06T22:05:10.3178463+00:00",
+      "NumProgressed": 714130,
+      "NumCompleted": 2349
     }
   ],
   "TotalAchievements": 51,
@@ -29119,9 +29130,9 @@
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2857
     },
     {
       "ID": "ach_contender",
@@ -29217,7 +29228,7 @@
       "Name": "Hotel California",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "ach_impressive_aim",
@@ -29393,7 +29404,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29464,22 +29475,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714110,
+      "Progressed": 714130,
       "Completed": 2349
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39652,
-      "Completed": 36470
+      "Progressed": 39672,
+      "Completed": 36471
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-06T20:57:44.5100266+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:05:59.4595457+00:00",
+  "LastChanged": "2023-11-06T21:57:33.2846697+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:05:10.3178454+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:57:44.5100272+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:05:59.4600084+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:57:33.2846706+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:05:10.3180562+00:00"
 }

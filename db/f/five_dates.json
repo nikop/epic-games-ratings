@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 616,
-  "EOS_Completed": 9,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 35,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.46,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -1410,6 +1410,11 @@
       "Time": "2023-11-06T20:17:41.7022932+00:00",
       "NumProgressed": 616,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-06T22:08:57.4319884+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 15,
@@ -1531,9 +1536,9 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
@@ -1541,15 +1546,15 @@
       "ID": "c4ipj3h",
       "IsBase": true,
       "Progressed": 616,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:09:08.4038075+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:08:57.4319869+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:48.409362+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:57:21.3758139+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:09:08.4038575+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:57:15.40103+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:08:57.4320095+00:00"
 }

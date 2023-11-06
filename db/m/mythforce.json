@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,7 +770,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4703,
+  "EOS_Progressed": 4704,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -8805,6 +8805,11 @@
       "Time": "2023-11-06T21:09:39.8075598+00:00",
       "NumProgressed": 4703,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T22:09:23.9636204+00:00",
+      "NumProgressed": 4704,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8857,7 +8862,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -8937,7 +8942,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -8977,7 +8982,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9000,15 +9005,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4703,
+      "Progressed": 4704,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:09:39.8075591+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:09:23.9636193+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:02:43.9663507+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:09:39.807626+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:02:32.2954557+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:09:23.9636994+00:00"
 }

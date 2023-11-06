@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 913,
+  "EOS_Progressed": 914,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1677,6 +1677,11 @@
       "Time": "2023-11-06T21:05:41.4602276+00:00",
       "NumProgressed": 913,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T22:04:55.9848632+00:00",
+      "NumProgressed": 914,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1689,7 +1694,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1705,7 +1710,7 @@
       "Name": "Out of control",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1735,9 +1740,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 274
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1817,7 +1822,7 @@
       "Name": "Solo",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1833,7 +1838,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2023,29 +2028,29 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 494
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 913,
+      "Progressed": 914,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 581,
-      "Completed": 581
+      "Progressed": 582,
+      "Completed": 582
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-06T21:05:41.4602268+00:00",
+  "LastChanged_Achievements": "2023-11-06T22:04:55.9848626+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-06T21:01:13.0503219+00:00",
-  "LastUpdate_Achievements": "2023-11-06T21:05:41.4602741+00:00"
+  "LastUpdate_Ratings": "2023-11-06T22:00:17.5147781+00:00",
+  "LastUpdate_Achievements": "2023-11-06T22:04:55.9849123+00:00"
 }

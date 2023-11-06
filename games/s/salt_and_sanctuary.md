@@ -6,14 +6,14 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,104 |
-| The Three | 64.00% | ~343,984 |
-| The Banquet | 40.00% | ~214,990 |
-| Devara's Light | 31.00% | ~166,617 |
+| Find Sanctuary | 83.00% | ~446,106 |
+| The Three | 64.00% | ~343,985 |
+| The Banquet | 40.00% | ~214,991 |
+| Devara's Light | 31.00% | ~166,618 |
 | The Iron Ones | 18.00% | ~96,746 |
 | The Village | 17.00% | ~91,371 |
-| The Forest | 15.00% | ~80,621 |
-| The Keep | 14.00% | ~75,246 |
+| The Forest | 15.00% | ~80,622 |
+| The Keep | 14.00% | ~75,247 |
 | Branded | 13.00% | ~69,872 |
 | The Imposter | 13.00% | ~69,872 |
 | The Castle | 11.00% | ~59,122 |
@@ -24,10 +24,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Cave | 7.00% | ~37,623 |
 | The Mire | 7.00% | ~37,623 |
 | The Stone Roots | 7.00% | ~37,623 |
-| Storied | 6.00% | ~32,248 |
-| The Construct | 6.00% | ~32,248 |
-| The Lake | 6.00% | ~32,248 |
-| The Ruins | 6.00% | ~32,248 |
+| Storied | 6.00% | ~32,249 |
+| The Construct | 6.00% | ~32,249 |
+| The Lake | 6.00% | ~32,249 |
+| The Ruins | 6.00% | ~32,249 |
 | The Alkymancery | 5.00% | ~26,874 |
 | The Pitchwoods | 5.00% | ~26,874 |
 | Honed | 4.00% | ~21,499 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,750 |
 | Fading Fast | 1.00% | ~5,375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,475 (Ranked 33)  
+Progressed: 537,477 (Ranked 33)  
 Completed: 1,608 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,11 +244,11 @@ Completed: 1,608 (0.30%) (Ranked 225)
 | 2023-11-03 | 537,174 | 1,605 |
 | 2023-11-04 | 537,302 | 1,605 |
 | 2023-11-05 | 537,413 | 1,607 |
-| 2023-11-06 | 537,475 | 1,608 |
+| 2023-11-06 | 537,477 | 1,608 |
 ## Awards
 Max (Challenging Combat): 292  (Ranked 249)  
-Sum: 1,986 (Ranked 208)  
-Diff (max vs sum): 41  
+Sum: 1,986 (Ranked 209)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 292 |

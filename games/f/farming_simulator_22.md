@@ -6,20 +6,20 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,417 |
+| Own use | 75.00% | ~38,418 |
 | I read Shakespeare and stuff | 64.00% | ~32,783 |
-| Just a sprinkle | 62.00% | ~31,758 |
-| I'm stumped | 61.00% | ~31,246 |
+| Just a sprinkle | 62.00% | ~31,759 |
+| I'm stumped | 61.00% | ~31,247 |
 | Plant get enough | 60.00% | ~30,734 |
-| This is just my weekend vehicle | 58.00% | ~29,709 |
-| It's just the beginning | 58.00% | ~29,709 |
-| Hard work pays off | 53.00% | ~27,148 |
+| This is just my weekend vehicle | 58.00% | ~29,710 |
+| It's just the beginning | 58.00% | ~29,710 |
+| Hard work pays off | 53.00% | ~27,149 |
 | It's never too late to farm | 51.00% | ~26,124 |
-| All out of Land | 45.00% | ~23,050 |
-| Field Trip | 44.00% | ~22,538 |
-| I like to switch it up | 40.00% | ~20,489 |
+| All out of Land | 45.00% | ~23,051 |
+| Field Trip | 44.00% | ~22,539 |
+| I like to switch it up | 40.00% | ~20,490 |
 | Help me to help you | 38.00% | ~19,465 |
-| Ultimutt Pawesomeness | 28.00% | ~14,342 |
+| Ultimutt Pawesomeness | 28.00% | ~14,343 |
 | Van Gogh | 26.00% | ~13,318 |
 | You wood not believe it | 22.00% | ~11,269 |
 | Vehicle fleet | 22.00% | ~11,269 |
@@ -27,8 +27,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 16.00% | ~8,196 |
 | Well-Oiled Machine | 16.00% | ~8,196 |
 | Long haul | 16.00% | ~8,196 |
-| Clucky Streak | 15.00% | ~7,683 |
-| That's a wrap | 15.00% | ~7,683 |
+| Clucky Streak | 15.00% | ~7,684 |
+| That's a wrap | 15.00% | ~7,684 |
 | Fix me up | 13.00% | ~6,659 |
 | Rock on | 12.00% | ~6,147 |
 | Highly cultivated | 11.00% | ~5,635 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,223 (Ranked 108)  
+Progressed: 51,224 (Ranked 108)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,10 +250,10 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-03 | 51,039 | 6 |
 | 2023-11-04 | 51,103 | 6 |
 | 2023-11-05 | 51,184 | 6 |
-| 2023-11-06 | 51,223 | 6 |
+| 2023-11-06 | 51,224 | 6 |
 ## Awards
 Max (Great for Beginners): 5,430  (Ranked 69)  
-Sum: 42,316 (Ranked 33)  
+Sum: 42,323 (Ranked 33)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -262,7 +262,7 @@ Diff (max vs sum): 36
 | This game is Educational | 4,306 |
 | This game is Relaxing | 4,246 |
 | This game has Quickly Understood Controls | 4,225 |
-| This game is Highly Recommended | 4,204 |
+| This game is Highly Recommended | 4,211 |
 | This game is Extremely Fun | 4,142 |
 | This game has Amazing Storytelling | 4,023 |
 | This game has Amazing Characters | 3,682 |
@@ -565,4 +565,4 @@ Diff (max vs sum): 36
 | 2023-11-03 | 4.69 | - | 5,393 | 42,129 |
 | 2023-11-04 | 4.69 | - | 5,413 | 42,223 |
 | 2023-11-05 | 4.69 | - | 5,424 | 42,284 |
-| 2023-11-06 | 4.69 | - | 5,430 | 42,316 |
+| 2023-11-06 | 4.69 | - | 5,430 | 42,323 |
