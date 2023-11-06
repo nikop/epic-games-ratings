@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~861 |
 | A Real Challenge | 5.00% | ~861 |
 | Homesick | 4.00% | ~689 |
+| Against All Odds | 4.00% | ~689 |
 | Ruined Armory | 4.00% | ~689 |
 | Bandit Camp | 4.00% | ~689 |
 | Barren Lands | 4.00% | ~689 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 4.00% | ~689 |
 | Serving Ale | 3.00% | ~517 |
 | Refinery | 3.00% | ~517 |
-| Against All Odds | 3.00% | ~517 |
 | Dangerous Lands | 3.00% | ~517 |
 | Fishmen Ritual Site | 3.00% | ~517 |
 | Forbidden Lands | 3.00% | ~517 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,219 (Ranked 139)  
+Progressed: 17,220 (Ranked 139)  
 Completed: 53 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 53 (0.31%) (Ranked 222)
 | 2023-11-03 | 17,173 | 53 |
 | 2023-11-04 | 17,193 | 53 |
 | 2023-11-05 | 17,211 | 53 |
-| 2023-11-06 | 17,219 | 53 |
+| 2023-11-06 | 17,220 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 216)  
 Sum: 3,210 (Ranked 170)  

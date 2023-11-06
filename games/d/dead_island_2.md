@@ -7,21 +7,21 @@ Rating: 4.54 (Ranked 521)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 1.00% | ~394 |
 | Pork Chopped | 1.00% | ~394 |
-| One of Us | 0.90% | ~354 |
+| One of Us | 0.90% | ~355 |
 | Hotel California | 0.40% | ~2,855 |
 | Welcome To Hell-A | 0.40% | ~2,855 |
-| Dr. Reed, I Presume? | 0.30% | ~2,141 |
-| Git Gutte! | 0.30% | ~2,141 |
-| Anger Management | 0.30% | ~2,141 |
-| Bookworm | 0.30% | ~2,141 |
-| Break A Leg | 0.30% | ~2,141 |
-| Coup de Grâce | 0.30% | ~2,141 |
-| Hazardous Materials | 0.30% | ~2,141 |
-| Friends Like These | 0.30% | ~2,141 |
-| Apex Predator | 0.30% | ~2,141 |
-| Stacking the Deck | 0.30% | ~2,141 |
-| Personal Assistant Personally Assisted | 0.30% | ~2,141 |
-| This is My Weapon | 0.30% | ~2,141 |
+| Dr. Reed, I Presume? | 0.30% | ~2,142 |
+| Git Gutte! | 0.30% | ~2,142 |
+| Anger Management | 0.30% | ~2,142 |
+| Bookworm | 0.30% | ~2,142 |
+| Break A Leg | 0.30% | ~2,142 |
+| Coup de Grâce | 0.30% | ~2,142 |
+| Hazardous Materials | 0.30% | ~2,142 |
+| Friends Like These | 0.30% | ~2,142 |
+| Apex Predator | 0.30% | ~2,142 |
+| Stacking the Deck | 0.30% | ~2,142 |
+| Personal Assistant Personally Assisted | 0.30% | ~2,142 |
+| This is My Weapon | 0.30% | ~2,142 |
 | Making Your Mark | 0.20% | ~1,428 |
 | Perks of the Job | 0.20% | ~1,428 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,428 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Lawn and Order | 0.10% | ~39 |
 | Wilhelm | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,823 (Ranked 21)  
+Progressed: 713,853 (Ranked 21)  
 Completed: 2,347 (0.33%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2,347 (0.33%) (Ranked 218)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,823 | 2,347 |
+| 2023-11-06 | 713,853 | 2,347 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 53)  
 Sum: 10,717 (Ranked 89)  

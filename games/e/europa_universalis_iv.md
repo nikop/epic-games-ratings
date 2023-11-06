@@ -13,6 +13,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Your Trade Are Belong to Us | 0.10% | ~448 |
 | Brothers in Arms | 0.10% | ~448 |
 | Cold War | 0.10% | ~448 |
+| Defender of the Faith | 0.10% | ~448 |
 | Double the Love | 0.10% | ~448 |
 | Down Under | 0.10% | ~448 |
 | Electable! | 0.10% | ~448 |
@@ -31,6 +32,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Live Long and Prosper | 0.10% | ~448 |
 | Marshy March | 0.10% | ~448 |
 | My armies are invincible! | 0.10% | ~448 |
+| Not just Pizza | 0.10% | ~448 |
 | Not so sad a state... | 0.10% | ~448 |
 | Over a Thousand! | 0.10% | ~448 |
 | Queen of Conquest | 0.10% | ~448 |
@@ -116,7 +118,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
-| Defender of the Faith | 0.00% | ~0 |
 | Definitely the Sultan of Rum | 0.00% | ~0 |
 | Die Please Die | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
@@ -230,7 +231,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | No Trail of Tears | 0.00% | ~0 |
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
-| Not just Pizza | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,414 (Ranked 41)  
+Progressed: 448,453 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,414 | 1 |
+| 2023-11-06 | 448,453 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,250 (Ranked 24)  

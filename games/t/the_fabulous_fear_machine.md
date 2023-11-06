@@ -12,6 +12,7 @@
 | Blessed antennas | 6.00% | ~2 |
 | Blood Red Island | 6.00% | ~2 |
 | You have three wishes left | 6.00% | ~2 |
+| The scholar | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | You've awakened the beast | 3.00% | ~1 |
 | Hate is... addictive | 3.00% | ~1 |
@@ -21,10 +22,10 @@
 | A rival with no options | 3.00% | ~1 |
 | Et in arcadia ego | 3.00% | ~1 |
 | The bully | 3.00% | ~1 |
-| The scholar | 3.00% | ~1 |
 | The adventurer | 3.00% | ~1 |
 | The battle of Great Britain | 3.00% | ~1 |
 | Pulp! Tales from the Crypt | 3.00% | ~1 |
+| Pulp! Skeleton Hand | 3.00% | ~1 |
 | Pulp! Terror Tales in the Night | 3.00% | ~1 |
 | Pulp! Where Monsters Dwell | 3.00% | ~1 |
 | Pulp! True Adventures | 3.00% | ~1 |
@@ -39,7 +40,6 @@
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
-| Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
 | Pulp! Out of this World | 0.00% | ~0 |
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |

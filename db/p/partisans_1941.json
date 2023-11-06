@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -3533,9 +3533,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 680
     },
     {
       "ID": "Everyone_is_here",
@@ -3701,8 +3701,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:13:26.130187+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:04:14.5139357+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:06:54.3018003+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:13:26.1302239+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:57:38.1349365+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:04:14.5139654+00:00"
 }

@@ -35,9 +35,9 @@ Rating: 4.63 (Ranked 346)
 | A Cut Above | 32.00% | ~503 |
 | Set A Benchmark | 28.00% | ~440 |
 | Whole Again | 27.00% | ~424 |
+| Final Regeneration | 25.00% | ~393 |
 | Full Contact | 25.00% | ~393 |
 | Pack Rat | 25.00% | ~393 |
-| Final Regeneration | 24.00% | ~377 |
 | Full Clearance | 23.00% | ~362 |
 | Pusher | 22.00% | ~346 |
 | Z-Baller | 22.00% | ~346 |

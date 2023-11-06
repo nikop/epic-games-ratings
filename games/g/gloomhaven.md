@@ -6,22 +6,22 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 43.00% | ~8,121 |
-| Overkill | 34.00% | ~6,421 |
-| Vaccine Incoming | 33.00% | ~6,232 |
-| A normal day in Gloomhaven | 32.00% | ~6,044 |
-| Spread the plague | 30.00% | ~5,666 |
-| Get over here! | 25.00% | ~4,722 |
-| Just when I thought I was out... | 19.00% | ~3,588 |
+| I'm not dead yet | 43.00% | ~8,123 |
+| Overkill | 34.00% | ~6,423 |
+| Vaccine Incoming | 33.00% | ~6,234 |
+| A normal day in Gloomhaven | 32.00% | ~6,045 |
+| Spread the plague | 30.00% | ~5,667 |
+| Get over here! | 25.00% | ~4,723 |
+| Just when I thought I was out... | 19.00% | ~3,589 |
 | Precious! | 17.00% | ~3,211 |
 | Mine... All Mine... | 17.00% | ~3,211 |
-| Anatomy Lesson | 15.00% | ~2,833 |
-| Grizzled veteran | 14.00% | ~2,644 |
-| Light of my life | 14.00% | ~2,644 |
-| You activated my trap card! | 13.00% | ~2,455 |
-| Obstacle race | 13.00% | ~2,455 |
-| Augmented rat | 12.00% | ~2,266 |
-| Doom and gloom | 11.00% | ~2,077 |
+| Anatomy Lesson | 15.00% | ~2,834 |
+| Grizzled veteran | 14.00% | ~2,645 |
+| Light of my life | 14.00% | ~2,645 |
+| You activated my trap card! | 13.00% | ~2,456 |
+| Obstacle race | 13.00% | ~2,456 |
+| Augmented rat | 12.00% | ~2,267 |
+| Doom and gloom | 11.00% | ~2,078 |
 | Who's the Boss? | 10.00% | ~1,889 |
 | Dungeon Veteran | 8.00% | ~1,511 |
 | Pack leader | 8.00% | ~1,511 |
@@ -29,12 +29,12 @@ Number of Ratings: 68  (23.09.2022)
 | Black death | 8.00% | ~1,511 |
 | Play it again, Sam | 8.00% | ~1,511 |
 | Quad damage | 6.00% | ~1,133 |
-| Power Up! | 5.00% | ~944 |
-| The Pro from Dover | 5.00% | ~944 |
-| Pretty lights! | 5.00% | ~944 |
-| Now you see me... | 5.00% | ~944 |
-| Merchant of doom | 4.00% | ~755 |
-| Caught off guard | 4.00% | ~755 |
+| Power Up! | 5.00% | ~945 |
+| The Pro from Dover | 5.00% | ~945 |
+| Pretty lights! | 5.00% | ~945 |
+| Now you see me... | 5.00% | ~945 |
+| Merchant of doom | 4.00% | ~756 |
+| Caught off guard | 4.00% | ~756 |
 | I hate portals | 3.00% | ~567 |
 | An eye for an eye | 3.00% | ~567 |
 | From Gloom, only greed and death emerges | 2.00% | ~378 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~19 |
 | Murder Death Kill | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,886 (Ranked 133)  
+Progressed: 18,891 (Ranked 133)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-03 | 18,157 | 1 |
 | 2023-11-04 | 18,448 | 1 |
 | 2023-11-05 | 18,799 | 1 |
-| 2023-11-06 | 18,886 | 1 |
+| 2023-11-06 | 18,891 | 1 |
 ## Awards
 Max (Character Customization): 3,566  (Ranked 90)  
 Sum: 8,338 (Ranked 99)  

@@ -23,7 +23,7 @@
 | Architect of Darkness | 71.00% | ~123 |
 | Top of the World | 70.00% | ~121 |
 | Takeover | 70.00% | ~121 |
-| Sharpshooter | 69.00% | ~119 |
+| Sharpshooter | 70.00% | ~121 |
 | The Apotheosis of War | 68.00% | ~118 |
 | Stasis Alcatraz | 68.00% | ~118 |
 | Tastes Like Chicken | 64.00% | ~111 |

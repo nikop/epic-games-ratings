@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6395,
+  "EOS_Progressed": 6396,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9552,6 +9552,11 @@
       "Time": "2023-11-06T13:17:20.2736041+00:00",
       "NumProgressed": 6395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T14:08:39.0045512+00:00",
+      "NumProgressed": 6396,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9593,9 +9598,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -9609,9 +9614,9 @@
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -9641,9 +9646,9 @@
       "ID": "ACHIEVEMENT_011",
       "SetID": "1a05lfd",
       "Name": "More than a Tourist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -9729,9 +9734,9 @@
       "ID": "ACHIEVEMENT_022",
       "SetID": "1a05lfd",
       "Name": "Diamond in the Rough",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -9849,9 +9854,9 @@
       "ID": "ACHIEVEMENT_038",
       "SetID": "6jk25od",
       "Name": "Live by the Rod, Diez by the Rod!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -9882,13 +9887,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6395,
+      "Progressed": 6396,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5767,
+      "Progressed": 5768,
       "Completed": 113
     }
   ],
@@ -9896,8 +9901,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:17:20.2736036+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:08:39.0045508+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:08:08.3018327+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:17:20.2736661+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:58:56.0280006+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:08:39.0046126+00:00"
 }

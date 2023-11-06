@@ -6,42 +6,42 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~622,623 |
-| Death From Above | 45.00% | ~609,088 |
-| Master of the Household | 38.00% | ~514,341 |
-| Death of the Party | 36.00% | ~487,270 |
-| NEXUS-47 | 32.00% | ~433,129 |
-| The Last Tango | 31.00% | ~419,594 |
-| Nightmare Fuel | 30.00% | ~406,059 |
-| The Result of Previous Training | 28.00% | ~378,988 |
-| Tools of the Trade | 28.00% | ~378,988 |
-| Cleared for Field Duty | 27.00% | ~365,453 |
-| Seizing the Opportunity | 26.00% | ~351,918 |
-| Bullet Train | 21.00% | ~284,241 |
-| Stylish Assassin | 20.00% | ~270,706 |
-| Silent Assassin | 14.00% | ~189,494 |
-| Rise Up | 12.00% | ~162,423 |
-| Evil Wine Club | 11.00% | ~148,888 |
-| Console Cowboy | 10.00% | ~135,353 |
-| Last Stop | 10.00% | ~135,353 |
-| A New Profile | 9.00% | ~121,818 |
-| Full House | 9.00% | ~121,818 |
-| Dune Raider | 8.00% | ~108,282 |
-| No Stone Unturned | 8.00% | ~108,282 |
-| Train Surfing | 8.00% | ~108,282 |
-| Icebreaker | 7.00% | ~94,747 |
-| Family Feud | 6.00% | ~81,212 |
-| Rich Harvest | 6.00% | ~81,212 |
-| Count Down From 47 | 6.00% | ~81,212 |
-| Shortcut Killer | 5.00% | ~67,676 |
-| Stair Master | 5.00% | ~67,676 |
-| Followed the Trails | 5.00% | ~67,676 |
-| Last Call | 5.00% | ~67,676 |
-| Treacherous Architecture | 4.00% | ~54,141 |
-| Upstairs, Downstairs | 4.00% | ~54,141 |
-| The Great Outdoors | 4.00% | ~54,141 |
-| Partied Out | 4.00% | ~54,141 |
-| Surveillance Master | 4.00% | ~54,141 |
+| Unseen Assassin | 46.00% | ~622,633 |
+| Death From Above | 45.00% | ~609,098 |
+| Master of the Household | 38.00% | ~514,349 |
+| Death of the Party | 36.00% | ~487,278 |
+| NEXUS-47 | 32.00% | ~433,136 |
+| The Last Tango | 31.00% | ~419,600 |
+| Nightmare Fuel | 30.00% | ~406,065 |
+| The Result of Previous Training | 28.00% | ~378,994 |
+| Tools of the Trade | 28.00% | ~378,994 |
+| Cleared for Field Duty | 27.00% | ~365,458 |
+| Seizing the Opportunity | 26.00% | ~351,923 |
+| Bullet Train | 21.00% | ~284,246 |
+| Stylish Assassin | 20.00% | ~270,710 |
+| Silent Assassin | 14.00% | ~189,497 |
+| Rise Up | 12.00% | ~162,426 |
+| Evil Wine Club | 11.00% | ~148,890 |
+| Console Cowboy | 10.00% | ~135,355 |
+| Last Stop | 10.00% | ~135,355 |
+| A New Profile | 9.00% | ~121,820 |
+| Full House | 9.00% | ~121,820 |
+| Dune Raider | 8.00% | ~108,284 |
+| No Stone Unturned | 8.00% | ~108,284 |
+| Train Surfing | 8.00% | ~108,284 |
+| Icebreaker | 7.00% | ~94,749 |
+| Family Feud | 6.00% | ~81,213 |
+| Rich Harvest | 6.00% | ~81,213 |
+| Count Down From 47 | 6.00% | ~81,213 |
+| Shortcut Killer | 5.00% | ~67,678 |
+| Stair Master | 5.00% | ~67,678 |
+| Followed the Trails | 5.00% | ~67,678 |
+| Last Call | 5.00% | ~67,678 |
+| Treacherous Architecture | 4.00% | ~54,142 |
+| Upstairs, Downstairs | 4.00% | ~54,142 |
+| The Great Outdoors | 4.00% | ~54,142 |
+| Partied Out | 4.00% | ~54,142 |
+| Surveillance Master | 4.00% | ~54,142 |
 | Training Escalated | 3.00% | ~40,606 |
 | Keep Your Eyes Peeled | 3.00% | ~40,606 |
 | Warehouse Veteran | 3.00% | ~40,606 |
@@ -50,11 +50,11 @@ Number of Ratings: 21,082  (23.09.2022)
 | Master the Terroir | 3.00% | ~40,606 |
 | Vineyard Virtuoso | 3.00% | ~40,606 |
 | Bird Art | 2.00% | ~27,071 |
-| Top of the Class | 1.00% | ~13,535 |
-| Ripe for the Picking | 1.00% | ~13,535 |
+| Top of the Class | 1.00% | ~13,536 |
+| Ripe for the Picking | 1.00% | ~13,536 |
 | The Creative Assassin | 0.70% | ~9,475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,353,529 (Ranked 9)  
+Progressed: 1,353,550 (Ranked 9)  
 Completed: 2,175 (0.16%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 2,175 (0.16%) (Ranked 253)
 | 2023-11-03 | 1,352,091 | 2,174 |
 | 2023-11-04 | 1,352,673 | 2,174 |
 | 2023-11-05 | 1,353,295 | 2,174 |
-| 2023-11-06 | 1,353,529 | 2,175 |
+| 2023-11-06 | 1,353,550 | 2,175 |
 ## Awards
 Max (Diverse Characters): 10,566  (Ranked 37)  
 Sum: 73,253 (Ranked 21)  

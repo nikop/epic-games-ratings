@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -335,9 +335,9 @@
       "ID": "25",
       "SetID": "d37idgg",
       "Name": "The scholar",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "26",
@@ -399,9 +399,9 @@
       "ID": "32",
       "SetID": "d37idgg",
       "Name": "Pulp! Skeleton Hand",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "33",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:17:43.0507682+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:09:02.4253538+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.7540943+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:09:26.3509286+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:17:43.0507946+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:00:14.3965331+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:09:02.4253839+00:00"
 }

@@ -13,6 +13,7 @@ Rating: 4.55 (Ranked 500)
 | Spore Taste | 2.00% | ~294 |
 | Martian Music | 2.00% | ~294 |
 | Drone Dodger | 2.00% | ~294 |
+| Heal Thy Medic | 2.00% | ~294 |
 | Call it Even | 2.00% | ~294 |
 | Captain Drummer | 2.00% | ~294 |
 | Celebrations are in Order | 2.00% | ~294 |
@@ -22,7 +23,6 @@ Rating: 4.55 (Ranked 500)
 | Madame Undersecretary | 2.00% | ~13 |
 | Data Archivist | 1.00% | ~147 |
 | Thorston Mayer | 1.00% | ~147 |
-| Heal Thy Medic | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
 | Keep Arjun in Check | 1.00% | ~7 |
 | Master Negotiator | 1.00% | ~7 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,704 (Ranked 146)  
+Progressed: 14,705 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
-| 2023-11-06 | 14,704 | 33 |
+| 2023-11-06 | 14,705 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

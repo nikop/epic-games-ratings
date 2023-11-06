@@ -11,6 +11,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.60% | ~145 |
 | Full Body Conversion | 0.40% | ~3,582 |
 | Right Back At Ya | 0.30% | ~2,687 |
+| The Quick and the Dead | 0.30% | ~2,687 |
 | Stanislavski's Method | 0.30% | ~2,687 |
 | True Soldier | 0.30% | ~2,687 |
 | All the President's Men | 0.30% | ~72 |
@@ -20,7 +21,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.20% | ~1,791 |
 | I Am The Law | 0.20% | ~1,791 |
 | Christmas Tree Attack | 0.20% | ~1,791 |
-| The Quick and the Dead | 0.20% | ~1,791 |
 | Life of the Road | 0.20% | ~1,791 |
 | The Fool | 0.20% | ~1,791 |
 | The Hermit | 0.20% | ~1,791 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,515 (Ranked 15)  
-Completed: 2,747 (0.31%) (Ranked 222)  
+Progressed: 895,520 (Ranked 15)  
+Completed: 2,748 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 2,747 (0.31%) (Ranked 222)
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
-| 2023-11-06 | 895,515 | 2,747 |
+| 2023-11-06 | 895,520 | 2,748 |
 ## Awards
 Max (Character Customization): 104,068  (Ranked 9)  
 Sum: 344,390 (Ranked 10)  

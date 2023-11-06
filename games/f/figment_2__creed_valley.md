@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Black Hog Down | 43.00% | ~12 |
-| Ouch, that hurt! | 29.00% | ~8 |
-| Remembering of the past | 25.00% | ~7 |
+| Ouch, that hurt! | 32.00% | ~9 |
+| Remembering of the past | 29.00% | ~8 |
+| Fight like an idiot | 25.00% | ~7 |
 | Slam-KABAM | 21.00% | ~6 |
 | A heavy thinker | 21.00% | ~6 |
-| Fight like an idiot | 21.00% | ~6 |
 | Repair the Mind Validation Machine | 21.00% | ~6 |
 | Dance like an idiot | 14.00% | ~4 |
 | Elementary, My Dear Dusty | 14.00% | ~4 |
@@ -23,7 +23,7 @@
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 505)  
+Progressed: 28 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

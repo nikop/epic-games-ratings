@@ -11,7 +11,7 @@ Number of Ratings: 429  (23.09.2022)
 | First Contact | 72.00% | ~5,208 |
 | Win a Battle | 65.00% | ~4,702 |
 | Anomaly Researcher | 61.00% | ~4,413 |
-| Unleash My Power | 60.00% | ~4,340 |
+| Unleash My Power | 61.00% | ~4,413 |
 | Own 30 Planets | 33.00% | ~2,387 |
 | Xenocide | 31.00% | ~2,243 |
 | Design a Civilization | 31.00% | ~2,243 |

@@ -4,8 +4,8 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -948,9 +948,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -980,9 +980,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -996,9 +996,9 @@
       "ID": "GSS_ACH_10_THROW_02",
       "SetID": "5fn8ia4",
       "Name": "Steady Hand!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "GSS_ACH_11_THROW_03",
@@ -1028,9 +1028,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -1076,17 +1076,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -1132,9 +1132,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -1284,9 +1284,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -1396,9 +1396,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -1492,9 +1492,9 @@
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
       "SetID": "5fn8ia4",
       "Name": "The Uncle",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "GSS_ACH_74_SANDSTORM",
@@ -1579,8 +1579,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:12:09.9644351+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:02:56.7121697+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:08:53.8480944+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:12:09.9645068+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:59:41.8859613+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:02:56.712245+00:00"
 }

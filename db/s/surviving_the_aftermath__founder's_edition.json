@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10150,
+  "EOS_Progressed": 10151,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16477,6 +16477,11 @@
       "Time": "2023-11-06T13:13:04.0552027+00:00",
       "NumProgressed": 10150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T14:03:52.5618439+00:00",
+      "NumProgressed": 10151,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16576,7 +16581,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3552
+      "UsersEstimate": 3553
     },
     {
       "ID": "20",
@@ -16592,7 +16597,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "22",
@@ -16664,7 +16669,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "30",
@@ -16672,7 +16677,7 @@
       "Name": "Mogul",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "31",
@@ -16680,7 +16685,7 @@
       "Name": "Ranch Hand",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "32",
@@ -16704,7 +16709,7 @@
       "Name": "Ice Lakes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "35",
@@ -16712,7 +16717,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1928
+      "UsersEstimate": 1929
     },
     {
       "ID": "36",
@@ -16832,7 +16837,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "5",
@@ -16848,7 +16853,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "51",
@@ -16959,15 +16964,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10150,
+      "Progressed": 10151,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-04T14:57:34.7407793+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:13:04.0552022+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:03:52.5618434+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.6653375+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:07:44.2692561+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:13:04.0553139+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:58:32.4749243+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:03:52.5619689+00:00"
 }

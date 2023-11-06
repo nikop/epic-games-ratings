@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "EnemyDefeat_1",
@@ -342,9 +342,9 @@
       "ID": "LiftEnemies_0",
       "SetID": "9e3d06k",
       "Name": "Lifter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LiftEnemies_1",
@@ -439,8 +439,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:17:24.4583872+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:08:43.3266857+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.0254213+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:09:24.9799744+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:17:24.4583983+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:00:12.8493879+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:08:43.3266971+00:00"
 }

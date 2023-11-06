@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -969,10 +969,10 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65937,
+  "EOS_Progressed": 65941,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 745,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 744,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -8099,6 +8099,11 @@
       "Time": "2023-11-06T13:12:15.032892+00:00",
       "NumProgressed": 65937,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-06T14:03:02.0477791+00:00",
+      "NumProgressed": 65941,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8111,7 +8116,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21759
+      "UsersEstimate": 21761
     },
     {
       "ID": "10",
@@ -8175,7 +8180,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11209
+      "UsersEstimate": 11210
     },
     {
       "ID": "3",
@@ -8238,7 +8243,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65937,
+      "Progressed": 65941,
       "Completed": 28
     }
   ],
@@ -8246,8 +8251,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-06T04:00:17.1246589+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:12:15.0328915+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:03:02.0477788+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:06:17.6522536+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:12:15.0329389+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:57:02.8844787+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:03:02.0478194+00:00"
 }

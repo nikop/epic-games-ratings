@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2018,
+  "EOS_Progressed": 2019,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -4407,6 +4407,11 @@
       "Time": "2023-11-06T13:17:48.7584244+00:00",
       "NumProgressed": 2018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T14:09:08.2941309+00:00",
+      "NumProgressed": 2019,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4443,7 +4448,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4451,7 +4456,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4475,7 +4480,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4483,7 +4488,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4491,7 +4496,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4507,7 +4512,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4523,7 +4528,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4627,7 +4632,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4723,7 +4728,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4810,14 +4815,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2018,
+      "Progressed": 2019,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:17:48.758424+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:09:08.2941303+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:09:13.0593881+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:17:48.758467+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:00:01.3887339+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:09:08.2941758+00:00"
 }

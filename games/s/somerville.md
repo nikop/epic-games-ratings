@@ -9,9 +9,9 @@ Rating: 4.22 (Ranked 891)
 | Worlds best dad | 2.00% | ~33 |
 | Resignation Reprise | 1.00% | ~17 |
 | Admiring the view | 0.80% | ~13 |
+| “Here boy…“ | 0.50% | ~8 |
 | Blues Jam | 0.40% | ~7 |
 | Family First | 0.40% | ~7 |
-| “Here boy…“ | 0.40% | ~7 |
 | Resignation | 0.40% | ~7 |
 | Understanding | 0.40% | ~7 |
 | War of the worlds | 0.40% | ~7 |

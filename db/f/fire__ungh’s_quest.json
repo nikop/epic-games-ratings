@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -796,17 +796,17 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "Level_completed_007_006",
@@ -844,9 +844,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -860,9 +860,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -885,8 +885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:15:34.2701882+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:06:24.5468852+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:09:44.9560456+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:15:34.2702063+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:00:32.8903989+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:06:24.5469038+00:00"
 }

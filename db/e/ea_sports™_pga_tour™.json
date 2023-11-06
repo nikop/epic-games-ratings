@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1681,9 +1681,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_12",
@@ -1815,8 +1815,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:17:09.0772206+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:08:27.9025531+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:07:40.0707059+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:17:09.0772386+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:58:27.3393035+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:08:27.9025731+00:00"
 }

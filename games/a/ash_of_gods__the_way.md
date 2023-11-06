@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 100.00% | ~28 |
-| Suicide squad | 50.00% | ~14 |
-| First blood | 25.00% | ~7 |
+| First success | 100.00% | ~29 |
+| Suicide squad | 52.00% | ~15 |
+| First blood | 24.00% | ~7 |
 | All for one! | 21.00% | ~6 |
 | Train hard, fight easy | 21.00% | ~6 |
 | Under cover | 21.00% | ~6 |
-| Royal blessing | 18.00% | ~5 |
-| A hidden snake | 18.00% | ~5 |
-| Blood and sand | 14.00% | ~4 |
-| Crimson rivers | 11.00% | ~3 |
-| Overplay the rogue | 11.00% | ~3 |
-| Berkanan Borgia | 11.00% | ~3 |
-| Power of Inquisition | 11.00% | ~3 |
-| Surpass the teacher | 11.00% | ~3 |
-| Vene, vidi, vici | 11.00% | ~3 |
-| By own strength | 11.00% | ~3 |
-| Protect the Healer! | 11.00% | ~3 |
-| Help of the Gell | 11.00% | ~3 |
-| Trial by cold | 11.00% | ~3 |
+| Royal blessing | 17.00% | ~5 |
+| A hidden snake | 17.00% | ~5 |
+| Blood and sand | 17.00% | ~5 |
+| Vene, vidi, vici | 14.00% | ~4 |
+| Crimson rivers | 10.00% | ~3 |
+| Overplay the rogue | 10.00% | ~3 |
+| Berkanan Borgia | 10.00% | ~3 |
+| Power of Inquisition | 10.00% | ~3 |
+| The champion of the arena | 10.00% | ~3 |
+| Surpass the teacher | 10.00% | ~3 |
+| By own strength | 10.00% | ~3 |
+| Protect the Healer! | 10.00% | ~3 |
+| Help of the Gell | 10.00% | ~3 |
+| Trial by cold | 10.00% | ~3 |
+| She-Wolf | 10.00% | ~3 |
 | For the greater good | 7.00% | ~2 |
 | The best apprentice | 7.00% | ~2 |
-| The champion of the arena | 7.00% | ~2 |
 | Rage | 7.00% | ~2 |
 | Deadly strike | 7.00% | ~2 |
 | A solo player | 7.00% | ~2 |
 | Punish the Punisher | 7.00% | ~2 |
 | Cunning plan | 7.00% | ~2 |
 | All's fair in love and war | 7.00% | ~2 |
-| She-Wolf | 7.00% | ~2 |
-| Collector | 4.00% | ~1 |
-| Stronger than Gellian steel | 4.00% | ~1 |
-| First among Frisians | 4.00% | ~1 |
-| The power of persuasion | 4.00% | ~1 |
-| Do it yourself | 4.00% | ~1 |
-| The End | 4.00% | ~1 |
-| Nothing is settled | 4.00% | ~1 |
+| Collector | 3.00% | ~1 |
+| Stronger than Gellian steel | 3.00% | ~1 |
+| First among Frisians | 3.00% | ~1 |
+| The power of persuasion | 3.00% | ~1 |
+| Do it yourself | 3.00% | ~1 |
+| The End | 3.00% | ~1 |
+| Nothing is settled | 3.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 505)  
+Progressed: 29 (Ranked 503)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 15 | 0 |
 | 2023-11-04 | 20 | 0 |
 | 2023-11-05 | 28 | 0 |
+| 2023-11-06 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

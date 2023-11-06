@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13344,
+  "EOS_Progressed": 13345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13814,6 +13814,11 @@
       "Time": "2023-11-06T13:14:28.9744999+00:00",
       "NumProgressed": 13344,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T14:05:17.7643443+00:00",
+      "NumProgressed": 13345,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -13897,7 +13902,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5871
+      "UsersEstimate": 5872
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -13913,7 +13918,7 @@
       "Name": "Facepalm",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -14024,14 +14029,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13344,
+      "Progressed": 13345,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:14:28.9744991+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:05:17.7643439+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.0887234+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:08:20.6526996+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:14:28.9745827+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:59:08.3953296+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:05:17.7644333+00:00"
 }

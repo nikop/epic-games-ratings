@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2137,10 +2137,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4339,
       "NumberOfAwardsMax": 1426
+    },
+    {
+      "Time": "2023-11-06T13:57:51.0293442+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4346,
+      "NumberOfAwardsMax": 1426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4339,
+  "NumberOfAwards": 4346,
   "NumberOfAwardsMax": 1426,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2214,12 +2220,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 315
+      "Count": 322
     }
   ],
-  "EOS_Progressed": 8320,
+  "EOS_Progressed": 8321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7052,6 +7058,11 @@
       "Time": "2023-11-06T06:05:50.996864+00:00",
       "NumProgressed": 8320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T14:04:52.1210229+00:00",
+      "NumProgressed": 8321,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7080,7 +7091,7 @@
       "Name": "A New Timeline",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "ach04",
@@ -7088,7 +7099,7 @@
       "Name": "What Just Happened??",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ach05",
@@ -7104,7 +7115,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6240
+      "UsersEstimate": 6241
     },
     {
       "ID": "ach07",
@@ -7112,7 +7123,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4660
     },
     {
       "ID": "ach08",
@@ -7176,7 +7187,7 @@
       "Name": "Give A Koin",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ach16",
@@ -7200,7 +7211,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ach19",
@@ -7248,7 +7259,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "ach25",
@@ -7272,7 +7283,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ach28",
@@ -7302,9 +7313,9 @@
       "ID": "ach31",
       "SetID": "47in8n6",
       "Name": "Not So Big Now, Are You??",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2746
+      "UsersEstimate": 2663
     },
     {
       "ID": "ach32",
@@ -7312,7 +7323,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ach33",
@@ -7368,7 +7379,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "ach40",
@@ -7384,7 +7395,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ach42",
@@ -7432,7 +7443,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ach48",
@@ -7463,16 +7474,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8320,
+      "Progressed": 8321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-06T07:58:17.5583275+00:00",
-  "LastChanged_Achievements": "2023-11-06T13:14:03.5232722+00:00",
+  "LastChanged": "2023-11-06T13:57:51.029344+00:00",
+  "LastChanged_Achievements": "2023-11-06T14:04:52.1210226+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:07:07.6152968+00:00",
-  "LastUpdate_Achievements": "2023-11-06T13:14:03.5233196+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:57:51.0293445+00:00",
+  "LastUpdate_Achievements": "2023-11-06T14:04:52.1210734+00:00"
 }

@@ -36,8 +36,8 @@
 | Scholar | 41.00% | ~413 |
 | Veteran | 40.00% | ~403 |
 | The Professor | 39.00% | ~393 |
+| The Archangel | 38.00% | ~383 |
 | Power Full | 38.00% | ~383 |
-| The Archangel | 37.00% | ~373 |
 | The Convict | 36.00% | ~363 |
 | Colony Defense | 35.00% | ~352 |
 | The Krogan | 35.00% | ~352 |
@@ -74,15 +74,15 @@
 | Against All Odds | 28.00% | ~282 |
 | Mobilizer | 28.00% | ~282 |
 | Untouchable | 27.00% | ~272 |
+| Giant Killer | 27.00% | ~272 |
 | A House Divided | 27.00% | ~272 |
 | Eye of the Hurricane | 26.00% | ~262 |
-| Giant Killer | 26.00% | ~262 |
 | First Aid Specialist | 26.00% | ~262 |
 | World Shaker | 26.00% | ~262 |
 | Weapon Specialist | 25.00% | ~252 |
+| Tunnel Rat | 25.00% | ~252 |
 | Liberator | 25.00% | ~252 |
 | Pathfinder | 24.00% | ~242 |
-| Tunnel Rat | 24.00% | ~242 |
 | Arbiter | 24.00% | ~242 |
 | Lost and Found | 23.00% | ~232 |
 | Savior | 22.00% | ~222 |

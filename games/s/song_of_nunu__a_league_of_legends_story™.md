@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~376 |
-| I Broke It | 71.00% | ~356 |
-| Better On Ice | 68.00% | ~341 |
-| Notai Notes | 68.00% | ~341 |
-| Blue Dreams | 67.00% | ~336 |
-| He's Famous! | 67.00% | ~336 |
-| Krugmazing | 63.00% | ~316 |
-| Cutie Poro | 63.00% | ~316 |
-| The Fire Below the Mountain | 61.00% | ~306 |
-| Moneyball | 57.00% | ~286 |
-| No Bites | 50.00% | ~251 |
+| Feels Familiar | 75.00% | ~377 |
+| I Broke It | 71.00% | ~357 |
+| Better On Ice | 68.00% | ~342 |
+| Notai Notes | 68.00% | ~342 |
+| Blue Dreams | 67.00% | ~337 |
+| He's Famous! | 67.00% | ~337 |
+| Cutie Poro | 64.00% | ~322 |
+| Krugmazing | 63.00% | ~317 |
+| The Fire Below the Mountain | 61.00% | ~307 |
+| Moneyball | 57.00% | ~287 |
+| No Bites | 50.00% | ~252 |
 | Iceborn | 49.00% | ~246 |
 | Tear of Freedom | 45.00% | ~226 |
 | Boom Things | 45.00% | ~226 |
 | Rhythm Of Willump | 44.00% | ~221 |
 | My Darkest Day | 42.00% | ~211 |
 | True Legends | 41.00% | ~206 |
-| The Relentless Storm | 37.00% | ~186 |
+| The Relentless Storm | 38.00% | ~191 |
 | A Tragic Reminder | 36.00% | ~181 |
+| 3000 Year Blackout | 35.00% | ~176 |
 | The Finisher | 35.00% | ~176 |
-| 3000 Year Blackout | 34.00% | ~171 |
 | On The Rocks | 33.00% | ~166 |
 | Snowy Poro | 32.00% | ~161 |
 | Never Gets Old | 32.00% | ~161 |
@@ -49,7 +49,7 @@
 | Sneaky Notai | 2.00% | ~10 |
 | Rock Star | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 293)  
+Progressed: 503 (Ranked 293)  
 Completed: 4 (0.80%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 4 (0.80%) (Ranked 170)
 | 2023-11-03 | 358 | 4 |
 | 2023-11-04 | 428 | 4 |
 | 2023-11-05 | 484 | 4 |
-| 2023-11-06 | 502 | 4 |
+| 2023-11-06 | 503 | 4 |
