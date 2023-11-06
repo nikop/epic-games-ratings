@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -7302,9 +7302,9 @@
       "ID": "ach31",
       "SetID": "47in8n6",
       "Name": "Not So Big Now, Are You??",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2746
     },
     {
       "ID": "ach32",
@@ -7471,8 +7471,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-06T07:58:17.5583275+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:04:51.7569172+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:14:03.5232722+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:57:51.9677272+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:04:51.7569948+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:07:07.6152968+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:14:03.5233196+00:00"
 }

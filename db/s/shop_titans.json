@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6889,10 +6889,10 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138697,
+  "EOS_Progressed": 138700,
   "EOS_Completed": 178,
   "EOS_NewPlayers": 345,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
@@ -27314,6 +27314,11 @@
       "Time": "2023-11-06T12:03:19.9799515+00:00",
       "NumProgressed": 138697,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-06T13:12:30.4815187+00:00",
+      "NumProgressed": 138700,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27717,7 +27722,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "fullmoon",
@@ -27885,7 +27890,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "jackslot03",
@@ -28053,7 +28058,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "quest04",
@@ -28157,7 +28162,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "uncommonres01",
@@ -28220,15 +28225,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138697,
+      "Progressed": 138700,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-05T21:57:37.6445626+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:03:19.9799511+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:12:30.4815182+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:57:36.6460195+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:03:19.9801938+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:06:51.6360128+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:12:30.481738+00:00"
 }

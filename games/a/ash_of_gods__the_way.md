@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~28 |
-| Suicide squad | 46.00% | ~13 |
+| Suicide squad | 50.00% | ~14 |
 | First blood | 25.00% | ~7 |
 | All for one! | 21.00% | ~6 |
 | Train hard, fight easy | 21.00% | ~6 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 504)  
+Progressed: 28 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

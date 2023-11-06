@@ -6115,10 +6115,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10711,
       "NumberOfAwardsMax": 7072
+    },
+    {
+      "Time": "2023-11-06T13:06:42.7975104+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10717,
+      "NumberOfAwardsMax": 7072
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10711,
+  "NumberOfAwards": 10717,
   "NumberOfAwardsMax": 7072,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6144,7 +6150,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 514
+      "Count": 520
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6177,9 +6183,9 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713796,
+  "EOS_Progressed": 713823,
   "EOS_Completed": 2347,
-  "EOS_NewPlayers": 5485,
+  "EOS_NewPlayers": 5470,
   "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -28977,6 +28983,11 @@
       "Time": "2023-11-06T12:04:58.1509573+00:00",
       "NumProgressed": 713796,
       "NumCompleted": 2347
+    },
+    {
+      "Time": "2023-11-06T13:14:09.5975216+00:00",
+      "NumProgressed": 713823,
+      "NumCompleted": 2347
     }
   ],
   "TotalAchievements": 51,
@@ -29146,9 +29157,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2855
     },
     {
       "ID": "ach_impressive_aim",
@@ -29258,9 +29269,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach_star_performance",
@@ -29306,9 +29317,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -29356,7 +29367,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_gardening_tools",
@@ -29372,7 +29383,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29386,31 +29397,31 @@
       "ID": "ach_zombie_predator",
       "SetID": "344c43k",
       "Name": "Top That, Tisha!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713796,
+      "Progressed": 713823,
       "Completed": 2347
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39338,
-      "Completed": 36460
+      "Progressed": 39365,
+      "Completed": 36461
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-06T05:57:37.9322916+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:04:58.1509523+00:00",
+  "LastChanged": "2023-11-06T13:06:42.7975102+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:14:09.5975212+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:57:27.8757085+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:04:58.1511359+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:06:42.7975107+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:14:09.5976674+00:00"
 }

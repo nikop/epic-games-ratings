@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5704,9 +5704,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2669
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5977,8 +5977,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:04:18.3178644+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:13:29.6025582+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-06T12:00:11.7781147+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:04:18.3179319+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:09:20.7549365+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:13:29.6026079+00:00"
 }

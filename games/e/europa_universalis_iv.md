@@ -6,29 +6,41 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Pile of Gold | 0.10% | ~448 |
 | A Protected Market | 0.10% | ~448 |
 | Aggressive Expander | 0.10% | ~448 |
 | All That's Thine Shall Be Mine | 0.10% | ~448 |
+| All Your Trade Are Belong to Us | 0.10% | ~448 |
 | Brothers in Arms | 0.10% | ~448 |
 | Cold War | 0.10% | ~448 |
 | Double the Love | 0.10% | ~448 |
+| Down Under | 0.10% | ~448 |
 | Electable! | 0.10% | ~448 |
 | Factionalism | 0.10% | ~448 |
+| Full House | 0.10% | ~448 |
 | Gentle Persuasion | 0.10% | ~448 |
 | Georgia on my Mind | 0.10% | ~448 |
 | That's a Grand Army | 0.10% | ~448 |
 | That's a Grand Navy | 0.10% | ~448 |
 | Imperio español | 0.10% | ~448 |
+| In the Name of the Father | 0.10% | ~448 |
 | Industrial Powerhouse | 0.10% | ~448 |
+| Italian Ambition | 0.10% | ~448 |
 | It's all about luck | 0.10% | ~448 |
 | It's all about the money | 0.10% | ~448 |
 | Live Long and Prosper | 0.10% | ~448 |
+| Marshy March | 0.10% | ~448 |
+| My armies are invincible! | 0.10% | ~448 |
 | Not so sad a state... | 0.10% | ~448 |
+| Over a Thousand! | 0.10% | ~448 |
 | Queen of Conquest | 0.10% | ~448 |
 | Respected | 0.10% | ~448 |
+| Rise of the White Sheep | 0.10% | ~448 |
+| Seriously?! | 0.10% | ~448 |
 | Tear Down This Wall | 0.10% | ~448 |
 | That is mine! | 0.10% | ~448 |
 | The Five Colonies | 0.10% | ~448 |
+| The pen is mightier than the sword | 0.10% | ~448 |
 | The Princess is in this Castle | 0.10% | ~448 |
 | Time Bandit | 0.10% | ~448 |
 | True Catholic | 0.10% | ~448 |
@@ -40,7 +52,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Decent Reserve | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
-| A Pile of Gold | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
 | AAA Credit | 0.00% | ~0 |
@@ -52,7 +63,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Albania or Iberia | 0.00% | ~0 |
 | All belongs to Mother Russia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
-| All Your Trade Are Belong to Us | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An early Reich | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
@@ -112,7 +122,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
-| Down Under | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
 | Dude, Where's my Boat? | 0.00% | ~0 |
 | Early-Modern Warfare | 0.00% | ~0 |
@@ -139,7 +148,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | From Humble Origins | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
-| Full House | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
 | Global Hegemony | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
@@ -165,12 +173,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
 | Imposter Syndrome | 0.00% | ~0 |
-| In the Name of the Father | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | Isn't this the way to India? | 0.00% | ~0 |
-| Italian Ambition | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
@@ -205,7 +211,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mansa Musa | 0.00% | ~0 |
 | Mare Nostrum | 0.00% | ~0 |
 | Market Control | 0.00% | ~0 |
-| Marshy March | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
@@ -213,7 +218,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
 | Multiculturalism | 0.00% | ~0 |
-| My armies are invincible! | 0.00% | ~0 |
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Narcissism | 0.00% | ~0 |
@@ -235,7 +239,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | One nation to rule them all | 0.00% | ~0 |
 | One Night in Paris | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
-| Over a Thousand! | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Parisian Pasha | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
@@ -257,14 +260,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Redecorating | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Relentless Push East | 0.00% | ~0 |
-| Rise of the White Sheep | 0.00% | ~0 |
 | Royal Authority | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
 | Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Sakoku Law | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
-| Seriously?! | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Shahanshah | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
@@ -311,7 +312,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
-| The pen is mightier than the sword | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | The Power of Three | 0.00% | ~0 |
 | The Re-Reconquista | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,377 (Ranked 41)  
+Progressed: 448,414 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,377 | 1 |
+| 2023-11-06 | 448,414 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,250 (Ranked 24)  

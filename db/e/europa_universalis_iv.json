@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11685,9 +11685,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448377,
+  "EOS_Progressed": 448414,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5470,
+  "EOS_NewPlayers": 5459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34530,6 +34530,11 @@
       "Time": "2023-11-06T12:03:34.673015+00:00",
       "NumProgressed": 448377,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T13:12:45.0612778+00:00",
+      "NumProgressed": 448414,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34587,9 +34592,9 @@
       "ID": "achievement_a_pile_of_gold",
       "SetID": "67mdiil",
       "Name": "A Pile of Gold",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_a_protected_market",
@@ -34707,9 +34712,9 @@
       "ID": "achievement_all_your_trade_are_belong_to_us",
       "SetID": "67mdiil",
       "Name": "All Your Trade Are Belong to Us",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_almost_prussian_blue",
@@ -35211,9 +35216,9 @@
       "ID": "achievement_down_under",
       "SetID": "67mdiil",
       "Name": "Down Under",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -35443,9 +35448,9 @@
       "ID": "achievement_full_house",
       "SetID": "8p2n7he",
       "Name": "Full House",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_ganges_khan",
@@ -35691,9 +35696,9 @@
       "ID": "achievement_in_the_name_of_the_father",
       "SetID": "8p2n7he",
       "Name": "In the Name of the Father",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_industrial_evolution",
@@ -35739,9 +35744,9 @@
       "ID": "achievement_italian_ambition",
       "SetID": "67mdiil",
       "Name": "Italian Ambition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_its_all_about_luck",
@@ -36043,9 +36048,9 @@
       "ID": "achievement_marshy_march",
       "SetID": "8p2n7he",
       "Name": "Marshy March",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_mary_of_lotharingia",
@@ -36107,9 +36112,9 @@
       "ID": "achievement_my_armies_are_invincible",
       "SetID": "8p2n7he",
       "Name": "My armies are invincible!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_my_true_friend",
@@ -36291,9 +36296,9 @@
       "ID": "achievement_over_a_thousand",
       "SetID": "8p2n7he",
       "Name": "Over a Thousand!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_pandya_empire",
@@ -36483,9 +36488,9 @@
       "ID": "achievement_rise_of_the_white_sheep",
       "SetID": "8p2n7he",
       "Name": "Rise of the White Sheep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_royal_authority",
@@ -36539,9 +36544,9 @@
       "ID": "achievement_seriously",
       "SetID": "8p2n7he",
       "Name": "Seriously?!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -36939,9 +36944,9 @@
       "ID": "achievement_the_pen_is_mightier_than_the_sword",
       "SetID": "67mdiil",
       "Name": "The pen is mightier than the sword",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_the_pheasant_strut",
@@ -37444,21 +37449,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448377,
+      "Progressed": 448414,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448377,
+      "Progressed": 448414,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-06T09:03:23.3979055+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:03:34.6730143+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:12:45.0612774+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:02:43.4908128+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:03:34.6743297+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:06:15.3352313+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:12:45.0622692+00:00"
 }

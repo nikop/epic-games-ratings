@@ -2,13 +2,13 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1010,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 726,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -3922,10 +3922,16 @@
       "Rating": 3.9,
       "NumberOfAwards": 3357,
       "NumberOfAwardsMax": 437
+    },
+    {
+      "Time": "2023-11-06T13:08:04.7566527+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 3358,
+      "NumberOfAwardsMax": 437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3357,
+  "NumberOfAwards": 3358,
   "NumberOfAwardsMax": 437,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3975,7 +3981,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4007,8 +4013,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-11-05T14:02:24.9565321+00:00",
+  "LastChanged": "2023-11-06T13:08:04.7566525+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:47.9703585+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:58:50.250906+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:05:40.2009079+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:08:04.7566531+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:14:51.5976892+00:00"
 }

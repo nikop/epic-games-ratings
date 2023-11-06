@@ -22,7 +22,7 @@
 | One Click Away | 17.00% | ~18 |
 | Cyborg | 11.00% | ~12 |
 | Lifter | 9.00% | ~10 |
-| Brain-hacker | 8.00% | ~9 |
+| Brain-hacker | 9.00% | ~10 |
 | Gravity Bender | 7.00% | ~8 |
 | Hunter | 5.00% | ~5 |
 | Zero Gravity | 5.00% | ~5 |

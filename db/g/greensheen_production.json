@@ -3,8 +3,8 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -118,9 +118,9 @@
       "ID": "BurnBears",
       "SetID": "aph8hbk",
       "Name": "Toys Are For Kids",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CallSix",
@@ -142,17 +142,17 @@
       "ID": "CompletePaleCity",
       "SetID": "aph8hbk",
       "Name": "Paled",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CompleteSchool",
       "SetID": "aph8hbk",
       "Name": "Schooled",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompleteWilderness",
@@ -174,17 +174,17 @@
       "ID": "EmptyVendingMachine",
       "SetID": "aph8hbk",
       "Name": "Hunger",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "FindAllHats",
       "SetID": "aph8hbk",
       "Name": "Far Ahead",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FindAllPhantomKids",
@@ -214,9 +214,9 @@
       "ID": "GameComplete",
       "SetID": "aph8hbk",
       "Name": "Signal interruption",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Governess",
@@ -230,25 +230,25 @@
       "ID": "HalfHatsCollected",
       "SetID": "aph8hbk",
       "Name": "Half hat",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HandOverkill",
       "SetID": "aph8hbk",
       "Name": "...And Stay Dead!",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HoleCatch",
       "SetID": "aph8hbk",
       "Name": "Objection",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HunterHunted",
@@ -278,9 +278,9 @@
       "ID": "KidsSchool",
       "SetID": "aph8hbk",
       "Name": "School Kids",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KidsWilderness",
@@ -318,9 +318,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Platinum",
@@ -342,9 +342,9 @@
       "ID": "SixRaincoat",
       "SetID": "aph8hbk",
       "Name": "True Colours",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SpareDoc",
@@ -358,9 +358,9 @@
       "ID": "ThinmanHat",
       "SetID": "aph8hbk",
       "Name": "How Do I Look?",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TrapAvoid",
@@ -388,8 +388,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:08:35.5264804+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:16:05.3731488+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:59:39.3081406+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:08:35.5265073+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:08:51.4374504+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:16:05.3731726+00:00"
 }

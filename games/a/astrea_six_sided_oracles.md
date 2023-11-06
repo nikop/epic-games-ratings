@@ -23,9 +23,9 @@
 | Star Killer | 22.00% | ~15 |
 | Aquarian Champion | 22.00% | ~15 |
 | Astral Adventurer | 21.00% | ~14 |
+| Heart Gate | 19.00% | ~13 |
 | Shard Spender | 19.00% | ~13 |
 | Astral Seeker | 18.00% | ~12 |
-| Heart Gate | 18.00% | ~12 |
 | Unbeatable | 18.00% | ~12 |
 | The Corruption Goddess | 16.00% | ~11 |
 | The Goddes Avatar | 16.00% | ~11 |
@@ -34,18 +34,18 @@
 | Anomaly Control | 12.00% | ~8 |
 | Heavy Purger | 12.00% | ~8 |
 | Apian Hero | 12.00% | ~8 |
+| The Chaos Artisan | 10.00% | ~7 |
 | The Dark Moon | 10.00% | ~7 |
 | Wave Bender | 10.00% | ~7 |
 | Behenian Hero | 10.00% | ~7 |
 | Lacertian Hero | 10.00% | ~7 |
 | Can't touch this | 9.00% | ~6 |
 | Denying Destiny | 9.00% | ~6 |
-| The Chaos Artisan | 9.00% | ~6 |
 | The Distorted Sage | 9.00% | ~6 |
 | Artificer | 7.00% | ~5 |
+| If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
 | Sadistic Plan | 7.00% | ~5 |
-| If I Had Failed... | 6.00% | ~4 |
 | The Abyssal Terror | 6.00% | ~4 |
 | Aquarian Hero | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |

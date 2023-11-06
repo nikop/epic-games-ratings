@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -639,9 +639,9 @@
       "ID": "HeartGate",
       "SetID": "1jeo1g7",
       "Name": "Heart Gate",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HeavyPurger",
@@ -655,9 +655,9 @@
       "ID": "IfIHadFailed",
       "SetID": "1jeo1g7",
       "Name": "If I Had Failed...",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LacertianChampionAchievement",
@@ -895,9 +895,9 @@
       "ID": "TheChaosArtisan",
       "SetID": "1jeo1g7",
       "Name": "The Chaos Artisan",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TheCorruptionGoddess",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:04:08.1923031+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:13:19.3732858+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:59:43.7258312+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:04:08.1924303+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:08:56.5725409+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:13:19.3733688+00:00"
 }

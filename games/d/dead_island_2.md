@@ -5,9 +5,10 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~393 |
-| Pork Chopped | 1.00% | ~393 |
+| Whatever It Takes | 1.00% | ~394 |
+| Pork Chopped | 1.00% | ~394 |
 | One of Us | 0.90% | ~354 |
+| Hotel California | 0.40% | ~2,855 |
 | Welcome To Hell-A | 0.40% | ~2,855 |
 | Dr. Reed, I Presume? | 0.30% | ~2,141 |
 | Git Gutte! | 0.30% | ~2,141 |
@@ -17,9 +18,10 @@ Rating: 4.54 (Ranked 521)
 | Coup de Grâce | 0.30% | ~2,141 |
 | Hazardous Materials | 0.30% | ~2,141 |
 | Friends Like These | 0.30% | ~2,141 |
-| Hotel California | 0.30% | ~2,141 |
 | Apex Predator | 0.30% | ~2,141 |
+| Stacking the Deck | 0.30% | ~2,141 |
 | Personal Assistant Personally Assisted | 0.30% | ~2,141 |
+| This is My Weapon | 0.30% | ~2,141 |
 | Making Your Mark | 0.20% | ~1,428 |
 | Perks of the Job | 0.20% | ~1,428 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,428 |
@@ -33,10 +35,9 @@ Rating: 4.54 (Ranked 521)
 | A Patton Emerges | 0.20% | ~1,428 |
 | Humanity Distilled | 0.20% | ~1,428 |
 | I Am the Resurrection | 0.20% | ~1,428 |
-| Stacking the Deck | 0.20% | ~1,428 |
 | Max Headroom | 0.20% | ~1,428 |
 | Our True Nature | 0.20% | ~1,428 |
-| This is My Weapon | 0.20% | ~1,428 |
+| Top That, Tisha! | 0.20% | ~79 |
 | Make it So | 0.10% | ~714 |
 | LA Influential | 0.10% | ~714 |
 | On Safari | 0.10% | ~714 |
@@ -55,9 +56,8 @@ Rating: 4.54 (Ranked 521)
 | Bucket List | 0.10% | ~714 |
 | Lawn and Order | 0.10% | ~39 |
 | Wilhelm | 0.10% | ~39 |
-| Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,796 (Ranked 21)  
+Progressed: 713,823 (Ranked 21)  
 Completed: 2,347 (0.33%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,15 +257,15 @@ Completed: 2,347 (0.33%) (Ranked 218)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,796 | 2,347 |
+| 2023-11-06 | 713,823 | 2,347 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 53)  
-Sum: 10,711 (Ranked 89)  
+Sum: 10,717 (Ranked 89)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,072 |
-| This game is Great for Beginners | 514 |
+| This game is Great for Beginners | 520 |
 | This game has Diverse Characters | 510 |
 | This game has Quickly Understood Controls | 490 |
 | This game is Relaxing | 454 |
@@ -475,4 +475,4 @@ Diff (max vs sum): -36
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
-| 2023-11-06 | 4.54 | 7,072 | 10,711 |
+| 2023-11-06 | 4.54 | 7,072 | 10,717 |

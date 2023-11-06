@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2031,9 +2031,9 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21255,
+  "EOS_Progressed": 21256,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10131,6 +10131,11 @@
       "Time": "2023-11-06T11:06:26.2026788+00:00",
       "NumProgressed": 21255,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-06T13:15:04.3260484+00:00",
+      "NumProgressed": 21256,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10190,7 +10195,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20192
+      "UsersEstimate": 20193
     },
     {
       "ID": "GameOver",
@@ -10254,7 +10259,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "Negotiator",
@@ -10325,15 +10330,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21255,
+      "Progressed": 21256,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-05T18:57:59.1323329+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:05:53.0662149+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:15:04.326048+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.4146129+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:58:15.945036+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:05:53.0662809+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:07:30.6828087+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:15:04.3260975+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5620,9 +5620,9 @@
       "ID": "MagicIsaScience_58",
       "SetID": "c4hee28",
       "Name": "Magic is a science",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 328
     },
     {
       "ID": "MasterofAurai_20",
@@ -5820,8 +5820,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:04:55.6049947+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:14:07.0306862+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:24.5230237+00:00",
-  "LastUpdate_Ratings": "2023-11-06T12:00:08.726175+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:04:55.6050583+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:09:18.5330171+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:14:07.0307353+00:00"
 }

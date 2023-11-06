@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,905 |
-| This is only the beginning | 19.00% | ~43,046 |
-| Knowledge is power | 12.00% | ~27,187 |
+| No aid from the Omnissiah | 26.00% | ~58,906 |
+| This is only the beginning | 19.00% | ~43,047 |
+| Knowledge is power | 12.00% | ~27,188 |
 | Galvanic Rifle | 10.00% | ~22,656 |
-| Power Ranger | 9.00% | ~20,390 |
-| Taser Goad | 9.00% | ~20,390 |
-| Radium Ready | 9.00% | ~20,390 |
-| Half a cog | 9.00% | ~20,390 |
-| Watch them crumble | 6.00% | ~13,593 |
-| Competent Cohort | 4.00% | ~9,062 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,062 |
-| One with the Machine | 4.00% | ~9,062 |
+| Power Ranger | 9.00% | ~20,391 |
+| Taser Goad | 9.00% | ~20,391 |
+| Radium Ready | 9.00% | ~20,391 |
+| Half a cog | 9.00% | ~20,391 |
+| Watch them crumble | 6.00% | ~13,594 |
+| Competent Cohort | 4.00% | ~9,063 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,063 |
+| One with the Machine | 4.00% | ~9,063 |
 | Legio Cybernetica | 3.00% | ~6,797 |
 | Fleshy Disposal | 3.00% | ~6,797 |
 | Battle Servitor | 2.00% | ~4,531 |
@@ -24,7 +24,7 @@ Rating: 4.43 (Ranked 688)
 | Impatient destruction | 2.00% | ~4,531 |
 | Vivisected Vizier | 2.00% | ~4,531 |
 | Architect Abortion | 2.00% | ~4,531 |
-| Cohortus Maximus | 0.80% | ~1,812 |
+| Cohortus Maximus | 0.80% | ~1,813 |
 | Mother of Xenarites | 0.40% | ~906 |
 | False God | 0.30% | ~680 |
 | Hard | 0.20% | ~453 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 688)
 | Perma-live | 0.10% | ~227 |
 | Purge the Heretek | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,557 (Ranked 66)  
+Progressed: 226,563 (Ranked 66)  
 Completed: 5 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 5 (0.00%) (Ranked 345)
 | 2023-11-03 | 226,343 | 5 |
 | 2023-11-04 | 226,427 | 5 |
 | 2023-11-05 | 226,520 | 5 |
-| 2023-11-06 | 226,557 | 5 |
+| 2023-11-06 | 226,563 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 252)  
 Sum: 2,189 (Ranked 201)  

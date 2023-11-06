@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 494,
+  "EOS_Progressed": 495,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.62,
   "EosHistory": [
@@ -1650,6 +1650,11 @@
       "Time": "2023-11-06T04:08:47.8630026+00:00",
       "NumProgressed": 494,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-06T13:17:09.0772211+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1686,7 +1691,7 @@
       "Name": "From Way Downtown",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "achievement_13",
@@ -1710,7 +1715,7 @@
       "Name": "Victory Lap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_16",
@@ -1718,7 +1723,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_17",
@@ -1726,7 +1731,7 @@
       "Name": "Clean Sheet",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "achievement_18",
@@ -1734,7 +1739,7 @@
       "Name": "Perfect Round",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_2",
@@ -1758,7 +1763,7 @@
       "Name": "From Many, One",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_5",
@@ -1766,7 +1771,7 @@
       "Name": "Golf\u0027s Original Championship",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_6",
@@ -1780,9 +1785,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_8",
@@ -1805,13 +1810,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 494,
+      "Progressed": 495,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-06T12:08:39.4246199+00:00",
+  "LastChanged_Achievements": "2023-11-06T13:17:09.0772206+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:58:26.9856144+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:08:39.4246426+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:07:40.0707059+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:17:09.0772386+00:00"
 }

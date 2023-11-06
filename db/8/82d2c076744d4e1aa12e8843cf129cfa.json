@@ -4,8 +4,8 @@
   "ProductSlug": "vexlands-31da49",
   "Ranking_EOS_Progress": 726,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-02T18:57:06.2218903+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:59:29.8259307+00:00",
-  "LastUpdate_Achievements": "2023-11-06T12:08:20.4395538+00:00"
+  "LastUpdate_Ratings": "2023-11-06T13:08:41.853507+00:00",
+  "LastUpdate_Achievements": "2023-11-06T13:15:50.3437426+00:00"
 }
