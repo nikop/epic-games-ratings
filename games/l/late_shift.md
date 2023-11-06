@@ -16,7 +16,7 @@
 | The Bribe | 27.00% | ~169 |
 | Protector | 27.00% | ~169 |
 | The Ploy | 16.00% | ~100 |
-| Interrogation | 15.00% | ~94 |
+| Interrogation | 16.00% | ~100 |
 | Sabotage | 12.00% | ~75 |
 | Choices Matter | 8.00% | ~50 |
 | The Fool | 6.00% | ~38 |
@@ -26,7 +26,7 @@
 | Expert Storyteller | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 625 (Ranked 274)  
-Completed: 8 (1.28%) (Ranked 144)  
+Completed: 8 (1.28%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

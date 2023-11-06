@@ -1,18 +1,18 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 808)  
+Rating: 4.33 (Ranked 809)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~192,496 |
-| Snooper. | 10.00% | ~20,478 |
+| Boarded! | 94.00% | ~192,500 |
+| Snooper. | 10.00% | ~20,479 |
 | You have to start somewhere, right? | 8.00% | ~16,383 |
 | So you're saying I don't touch these ones? | 6.00% | ~12,287 |
 | Corrupted. | 5.00% | ~10,239 |
 | Good things come in pairs... Coloured Pairs. | 5.00% | ~10,239 |
-| Answers can be found amongst the stars | 3.00% | ~6,143 |
-| Bend to the will of the arrows. | 3.00% | ~6,143 |
+| Answers can be found amongst the stars | 3.00% | ~6,144 |
+| Bend to the will of the arrows. | 3.00% | ~6,144 |
 | You've been through a lot. | 2.00% | ~4,096 |
 | People's feelings on these ones are very... Binary... | 2.00% | ~4,096 |
 | I hope you're ready. | 2.00% | ~4,096 |
@@ -27,16 +27,16 @@ Rating: 4.33 (Ranked 808)
 | In balance. | 2.00% | ~4,096 |
 | Cockpit | 0.80% | ~1,638 |
 | Witness it. | 0.80% | ~1,638 |
-| Bridge crossed. | 0.70% | ~1,433 |
-| Names to faces. | 0.70% | ~1,433 |
+| Bridge crossed. | 0.70% | ~1,434 |
+| Names to faces. | 0.70% | ~1,434 |
 | A full deck. | 0.60% | ~1,229 |
 | 14237b6509eafd8c | 0.60% | ~1,229 |
 | No Anchor too great. | 0.50% | ~1,024 |
 | Snooper + | 0.50% | ~1,024 |
 | Corrupted + | 0.40% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,783 (Ranked 71)  
-Completed: 525 (0.26%) (Ranked 231)  
+Progressed: 204,787 (Ranked 71)  
+Completed: 525 (0.26%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,7 +235,7 @@ Completed: 525 (0.26%) (Ranked 231)
 | 2023-11-03 | 204,644 | 524 |
 | 2023-11-04 | 204,709 | 524 |
 | 2023-11-05 | 204,770 | 524 |
-| 2023-11-06 | 204,783 | 525 |
+| 2023-11-06 | 204,787 | 525 |
 ## Awards
 Max (Challenging Puzzles): 569  (Ranked 198)  
 Sum: 663 (Ranked 301)  

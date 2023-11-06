@@ -134,6 +134,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.60% | ~91 |
 | Noble Difficulty | 0.60% | ~91 |
 | Cao'an | 0.60% | ~91 |
+| Adur Burzen-Mihr | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.50% | ~76 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
-| Adur Burzen-Mihr | 0.50% | ~76 |
 | Learn to Play 5 | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Cataphract Archer | 0.50% | ~76 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,176 (Ranked 145)  
-Completed: 5 (0.03%) (Ranked 308)  
+Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

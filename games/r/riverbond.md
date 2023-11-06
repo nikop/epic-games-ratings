@@ -1,24 +1,24 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 632)  
+Rating: 4.47 (Ranked 633)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,551 |
-| Now You're Talking | 62.00% | ~329,088 |
-| Steel Yourself | 62.00% | ~329,088 |
+| First Step | 70.00% | ~371,552 |
+| Now You're Talking | 62.00% | ~329,089 |
+| Steel Yourself | 62.00% | ~329,089 |
 | Window Dressing | 50.00% | ~265,394 |
 | Trigger Happy | 46.00% | ~244,162 |
-| Riverborn | 45.00% | ~238,854 |
+| Riverborn | 45.00% | ~238,855 |
 | Starry Eyed | 34.00% | ~180,468 |
 | Poking Around | 34.00% | ~180,468 |
 | Talk of the Town | 24.00% | ~127,389 |
 | AAARR! | 23.00% | ~122,081 |
 | Hello Darkness | 23.00% | ~122,081 |
 | Wind At Our Backs | 22.00% | ~116,773 |
-| To the Beat | 20.00% | ~106,157 |
+| To the Beat | 20.00% | ~106,158 |
 | Sunny Shores | 17.00% | ~90,234 |
 | Sunday Best | 16.00% | ~84,926 |
 | To Victory! | 15.00% | ~79,618 |
@@ -42,12 +42,12 @@ Number of Ratings: 617  (23.09.2022)
 | Noble Intentions | 5.00% | ~26,539 |
 | Rising Star | 5.00% | ~26,539 |
 | Slime Slayer | 5.00% | ~26,539 |
-| Privacy, Please! | 4.00% | ~21,231 |
-| Silky Smooth | 4.00% | ~21,231 |
-| Hash It Over | 4.00% | ~21,231 |
-| Biting Tongue | 4.00% | ~21,231 |
-| What a Catch! | 4.00% | ~21,231 |
-| Hit the Spot | 4.00% | ~21,231 |
+| Privacy, Please! | 4.00% | ~21,232 |
+| Silky Smooth | 4.00% | ~21,232 |
+| Hash It Over | 4.00% | ~21,232 |
+| Biting Tongue | 4.00% | ~21,232 |
+| What a Catch! | 4.00% | ~21,232 |
+| Hit the Spot | 4.00% | ~21,232 |
 | Talk the Talk | 3.00% | ~15,924 |
 | Skin in the Game | 3.00% | ~15,924 |
 | Caving In | 3.00% | ~15,924 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,592 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,787 (Ranked 35)  
-Completed: 497 (0.09%) (Ranked 273)  
+Progressed: 530,788 (Ranked 35)  
+Completed: 497 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,7 +264,7 @@ Completed: 497 (0.09%) (Ranked 273)
 | 2023-11-03 | 530,597 | 494 |
 | 2023-11-04 | 530,689 | 495 |
 | 2023-11-05 | 530,766 | 497 |
-| 2023-11-06 | 530,787 | 497 |
+| 2023-11-06 | 530,788 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  

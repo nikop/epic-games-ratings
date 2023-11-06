@@ -9,15 +9,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~237,754 |
 | He's Signed! | 50.00% | ~237,754 |
 | First Victory | 50.00% | ~237,754 |
-| He's Sold! | 48.00% | ~228,243 |
+| He's Sold! | 48.00% | ~228,244 |
 | I'm The Boss! | 42.00% | ~199,713 |
 | Hat-trick | 41.00% | ~194,958 |
 | Scoring Streak | 38.00% | ~180,693 |
 | Unbeatable! | 37.00% | ~175,938 |
 | Thumping | 37.00% | ~175,938 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,427 |
-| Total Support | 32.00% | ~152,162 |
-| Record Signing | 32.00% | ~152,162 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,428 |
+| Total Support | 32.00% | ~152,163 |
+| Record Signing | 32.00% | ~152,163 |
 | He's a Natural | 31.00% | ~147,407 |
 | Millionaire's Club | 31.00% | ~147,407 |
 | Team Performance | 30.00% | ~142,652 |
@@ -41,9 +41,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~104,612 |
 | What A Goal! | 22.00% | ~104,612 |
 | Cup Glory! | 22.00% | ~104,612 |
-| Irresistible Force | 20.00% | ~95,101 |
-| Excellent Match Cohesion | 20.00% | ~95,101 |
-| Do The Double | 19.00% | ~90,346 |
+| Irresistible Force | 20.00% | ~95,102 |
+| Excellent Match Cohesion | 20.00% | ~95,102 |
+| Do The Double | 19.00% | ~90,347 |
 | Top Form | 17.00% | ~80,836 |
 | Cash To Burn | 17.00% | ~80,836 |
 | Overachiever! | 16.00% | ~76,081 |
@@ -105,8 +105,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,507 (Ranked 39)  
-Completed: 22 (0.00%) (Ranked 344)  
+Progressed: 475,508 (Ranked 39)  
+Completed: 22 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,11 +305,11 @@ Completed: 22 (0.00%) (Ranked 344)
 | 2023-11-03 | 475,371 | 22 |
 | 2023-11-04 | 475,437 | 22 |
 | 2023-11-05 | 475,496 | 22 |
-| 2023-11-06 | 475,507 | 22 |
+| 2023-11-06 | 475,508 | 22 |
 ## Awards
-Max (Relaxing): 6,465  (Ranked 59)  
+Max (Relaxing): 6,465  (Ranked 58)  
 Sum: 50,971 (Ranked 28)  
-Diff (max vs sum): 31  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,465 |

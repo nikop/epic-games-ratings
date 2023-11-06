@@ -2,10 +2,10 @@
   "ID": "744c73d9f99f416dabceeacaf91031a1",
   "Name": "Shy Cats Hidden Orchestra",
   "ProductSlug": "shy-cats-hidden-orchestra-a078e8",
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-01T23:57:06.2191548+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:16.5968478+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:04:06.8654354+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:59:27.8053877+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:03:53.2634375+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.56 (Ranked 483)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,968 |
-| Pay 'n' Spray | 51.00% | ~6,906 |
+| Getting Started | 81.00% | ~10,970 |
+| Pay 'n' Spray | 51.00% | ~6,907 |
 | All Dressed Up for San Fierro | 26.00% | ~3,521 |
-| The American Dream | 20.00% | ~2,708 |
+| The American Dream | 20.00% | ~2,709 |
 | School's Out | 19.00% | ~2,573 |
 | Smooth Moves | 17.00% | ~2,302 |
 | What happens in Las Venturas... | 15.00% | ~2,031 |
@@ -18,7 +18,7 @@ Rating: 4.56 (Ranked 483)
 | The End of the Line | 8.00% | ~1,083 |
 | Original Gangster | 8.00% | ~1,083 |
 | With Extra Dip | 7.00% | ~948 |
-| Saviour | 6.00% | ~812 |
+| Saviour | 6.00% | ~813 |
 | They Can’t Stop All of Us | 5.00% | ~677 |
 | Rescue a Kitten Too? | 5.00% | ~677 |
 | What are the Odds | 4.00% | ~542 |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 483)
 | ...Here we go again | 0.50% | ~68 |
 | I Ain't No Buster | 0.40% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,541 (Ranked 148)  
-Completed: 51 (0.38%) (Ranked 209)  
+Progressed: 13,543 (Ranked 148)  
+Completed: 51 (0.38%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,7 +241,7 @@ Completed: 51 (0.38%) (Ranked 209)
 | 2023-11-03 | 13,421 | 51 |
 | 2023-11-04 | 13,473 | 51 |
 | 2023-11-05 | 13,531 | 51 |
-| 2023-11-06 | 13,541 | 51 |
+| 2023-11-06 | 13,543 | 51 |
 ## Awards
 Max (Great Boss Battles): 376  (Ranked 230)  
 Sum: 595 (Ranked 307)  

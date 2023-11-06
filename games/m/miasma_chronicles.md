@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.43 (Ranked 687)  
+Rating: 4.43 (Ranked 688)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.43 (Ranked 687)
 | Gun for Hire | 69.00% | ~1,088 |
 | I am the law! | 63.00% | ~994 |
 | Lumberjack | 53.00% | ~836 |
-| Croaked | 48.00% | ~757 |
+| Croaked | 49.00% | ~773 |
 | Limp Richard | 48.00% | ~757 |
 | Editor Adept | 47.00% | ~741 |
 | Exorcist | 47.00% | ~741 |
@@ -58,7 +58,7 @@ Rating: 4.43 (Ranked 687)
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,577 (Ranked 228)  
-Completed: 0 (0.00%) (Ranked 344)  
+Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

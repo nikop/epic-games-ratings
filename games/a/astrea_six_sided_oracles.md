@@ -18,7 +18,7 @@
 | Apian Champion | 31.00% | ~21 |
 | Anomaly Destroyer | 26.00% | ~18 |
 | Stellar Dismantler | 26.00% | ~18 |
-| Behenian Champion | 24.00% | ~16 |
+| Behenian Champion | 25.00% | ~17 |
 | Loyal Partner | 22.00% | ~15 |
 | Star Killer | 22.00% | ~15 |
 | Astral Adventurer | 21.00% | ~14 |
@@ -104,7 +104,7 @@
 | Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 438)  
-Completed: 0 (0.00%) (Ranked 344)  
+Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

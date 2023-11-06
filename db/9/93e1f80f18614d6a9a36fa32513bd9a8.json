@@ -2,10 +2,10 @@
   "ID": "93e1f80f18614d6a9a36fa32513bd9a8",
   "Name": "Prince of Persia: The Two Thrones Standard Edition",
   "ProductSlug": "prince-of-persia-the-two-thrones",
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-11T15:00:00+00:00",
     "PcReleaseDate": "2005-06-15T12:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T22:09:38.1977736+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:07.3659209+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:56.5968601+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:05:40.2550975+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:00:15.9099948+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:05:47.7096771+00:00"
 }

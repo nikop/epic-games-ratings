@@ -3,44 +3,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Toys Are For Kids | 77.00% | ~10 |
-| What's in the box?! | 77.00% | ~10 |
-| Schooled | 69.00% | ~9 |
-| Hunger | 69.00% | ~9 |
-| ...And Stay Dead! | 69.00% | ~9 |
-| Objection | 69.00% | ~9 |
-| Medicine ball | 69.00% | ~9 |
-| Mono Tones | 69.00% | ~9 |
-| Popcorn | 69.00% | ~9 |
-| True Colours | 69.00% | ~9 |
-| Evasive prey | 69.00% | ~9 |
-| X Best Friends | 69.00% | ~9 |
-| In The Palm Of My Hand | 62.00% | ~8 |
-| Bully of Bullies | 62.00% | ~8 |
-| Hospitalised | 62.00% | ~8 |
-| Paled | 62.00% | ~8 |
-| Foraged | 62.00% | ~8 |
-| Merciful feat | 62.00% | ~8 |
-| Referee! | 62.00% | ~8 |
-| Signal interruption | 62.00% | ~8 |
-| Fair Prey | 62.00% | ~8 |
-| Fly Free | 62.00% | ~8 |
-| First do no harm | 62.00% | ~8 |
-| How Do I Look? | 62.00% | ~8 |
-| Twenty-Six | 54.00% | ~7 |
-| Far Ahead | 54.00% | ~7 |
-| Unladylike | 54.00% | ~7 |
-| Half hat | 54.00% | ~7 |
-| Sick Kids | 54.00% | ~7 |
-| Pale Kids | 54.00% | ~7 |
-| Wild Kids | 54.00% | ~7 |
-| Post Industrial | 54.00% | ~7 |
-| No More Remains | 46.00% | ~6 |
-| School Kids | 46.00% | ~6 |
-| Primetime Content Consumer | 8.00% | ~1 |
+| What's in the box?! | 79.00% | ~11 |
+| In The Palm Of My Hand | 71.00% | ~10 |
+| Toys Are For Kids | 71.00% | ~10 |
+| Foraged | 71.00% | ~10 |
+| Mono Tones | 71.00% | ~10 |
+| Evasive prey | 71.00% | ~10 |
+| Bully of Bullies | 64.00% | ~9 |
+| Twenty-Six | 64.00% | ~9 |
+| Schooled | 64.00% | ~9 |
+| Merciful feat | 64.00% | ~9 |
+| Hunger | 64.00% | ~9 |
+| Referee! | 64.00% | ~9 |
+| ...And Stay Dead! | 64.00% | ~9 |
+| Objection | 64.00% | ~9 |
+| Fair Prey | 64.00% | ~9 |
+| Fly Free | 64.00% | ~9 |
+| Medicine ball | 64.00% | ~9 |
+| Popcorn | 64.00% | ~9 |
+| True Colours | 64.00% | ~9 |
+| X Best Friends | 64.00% | ~9 |
+| Hospitalised | 57.00% | ~8 |
+| Paled | 57.00% | ~8 |
+| Signal interruption | 57.00% | ~8 |
+| Wild Kids | 57.00% | ~8 |
+| First do no harm | 57.00% | ~8 |
+| How Do I Look? | 57.00% | ~8 |
+| Far Ahead | 50.00% | ~7 |
+| Unladylike | 50.00% | ~7 |
+| Half hat | 50.00% | ~7 |
+| Sick Kids | 50.00% | ~7 |
+| Pale Kids | 50.00% | ~7 |
+| Post Industrial | 50.00% | ~7 |
+| No More Remains | 43.00% | ~6 |
+| School Kids | 43.00% | ~6 |
+| Primetime Content Consumer | 7.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 552)  
-Completed: 1 (7.69%) (Ranked 45)  
+Progressed: 14 (Ranked 548)  
+Completed: 1 (7.14%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -54,4 +54,4 @@ Completed: 1 (7.69%) (Ranked 45)
 | 2023-10-19 | 11 | 0 |
 | 2023-10-25 | 11 | 1 |
 | 2023-11-03 | 12 | 1 |
-| 2023-11-06 | 13 | 1 |
+| 2023-11-06 | 14 | 1 |

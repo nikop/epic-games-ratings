@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 970)  
+Rating: 4.06 (Ranked 971)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,806 (Ranked 63)  
-Completed: 2,432 (1.04%) (Ranked 153)  
+Progressed: 233,807 (Ranked 63)  
+Completed: 2,432 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -739,10 +739,10 @@ Completed: 2,432 (1.04%) (Ranked 153)
 | 2023-11-03 | 233,584 | 2,426 |
 | 2023-11-04 | 233,675 | 2,429 |
 | 2023-11-05 | 233,772 | 2,432 |
-| 2023-11-06 | 233,806 | 2,432 |
+| 2023-11-06 | 233,807 | 2,432 |
 ## Awards
-Max (Great for Beginners): 5,482  (Ranked 69)  
-Sum: 32,351 (Ranked 41)  
+Max (Great for Beginners): 5,482  (Ranked 68)  
+Sum: 32,351 (Ranked 40)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |

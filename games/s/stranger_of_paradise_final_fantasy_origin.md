@@ -1,7 +1,7 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.51 (Ranked 564)  
+Rating: 4.51 (Ranked 565)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -54,7 +54,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | A Tale of Origins and Endings | 2.00% | ~1,598 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79,894 (Ranked 94)  
-Completed: 2,186 (2.74%) (Ranked 103)  
+Completed: 2,186 (2.74%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,8 +255,8 @@ Completed: 2,186 (2.74%) (Ranked 103)
 | 2023-11-06 | 79,894 | 2,186 |
 ## Awards
 Max (Great Boss Battles): 773  (Ranked 171)  
-Sum: 1,590 (Ranked 226)  
-Diff (max vs sum): -55  
+Sum: 1,590 (Ranked 227)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |

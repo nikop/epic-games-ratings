@@ -2,13 +2,13 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2363,9 +2363,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 18864,
+  "EOS_Progressed": 18866,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1705,
+  "EOS_NewPlayers": 1703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8213,6 +8213,11 @@
       "Time": "2023-11-06T09:07:05.5791495+00:00",
       "NumProgressed": 18864,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T10:07:32.3035433+00:00",
+      "NumProgressed": 18866,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8265,7 +8270,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "Achievement_Trophy07",
@@ -8319,9 +8324,9 @@
       "ID": "Achievement_Trophy13",
       "SetID": "724h0m0",
       "Name": "Down the hatch",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 566
     },
     {
       "ID": "Achievement_Trophy14",
@@ -8417,7 +8422,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "Achievement_Trophy26",
@@ -8441,7 +8446,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8457,7 +8462,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5659
+      "UsersEstimate": 5660
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8465,7 +8470,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8529,7 +8534,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8545,7 +8550,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "Achievement_Trophy42",
@@ -8712,7 +8717,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 18864,
+      "Progressed": 18866,
       "Completed": 1
     }
   ],
@@ -8720,8 +8725,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-06T01:45:27.042099+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:07:05.5791489+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:07:32.3035426+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:44.8849126+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:07:05.5792639+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:00:01.1371975+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:07:32.3036465+00:00"
 }

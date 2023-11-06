@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10021,10 +10021,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47513,
       "NumberOfAwardsMax": 24072
+    },
+    {
+      "Time": "2023-11-06T10:01:27.3219938+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47518,
+      "NumberOfAwardsMax": 24072
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47513,
+  "NumberOfAwards": 47518,
   "NumberOfAwardsMax": 24072,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10062,7 +10068,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1204
+      "Count": 1209
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10101,9 +10107,9 @@
       "Count": 765
     }
   ],
-  "EOS_Progressed": 301269,
+  "EOS_Progressed": 301271,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 1525,
+  "EOS_NewPlayers": 1521,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31536,6 +31542,11 @@
       "Time": "2023-11-06T09:10:01.2045419+00:00",
       "NumProgressed": 301269,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-11-06T10:09:21.5237492+00:00",
+      "NumProgressed": 301271,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 45,
@@ -31635,7 +31646,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15063
+      "UsersEstimate": 15064
     },
     {
       "ID": "PFA_20",
@@ -31731,7 +31742,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36152
+      "UsersEstimate": 36153
     },
     {
       "ID": "PFA_31",
@@ -31811,7 +31822,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15063
+      "UsersEstimate": 15064
     },
     {
       "ID": "PFA_40",
@@ -31827,7 +31838,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15063
+      "UsersEstimate": 15064
     },
     {
       "ID": "PFA_42",
@@ -31891,7 +31902,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36152
+      "UsersEstimate": 36153
     },
     {
       "ID": "PFA_9",
@@ -31906,16 +31917,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301269,
+      "Progressed": 301271,
       "Completed": 501
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-06T06:01:41.1476409+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:10:01.2045414+00:00",
+  "LastChanged": "2023-11-06T10:01:27.3219936+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:09:21.5237486+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:00:53.7029114+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:10:01.204743+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:01:27.3219944+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:09:21.523937+00:00"
 }

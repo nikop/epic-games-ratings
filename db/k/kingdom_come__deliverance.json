@@ -3,12 +3,12 @@
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
   "Ranking_Rating": 197,
-  "Ranking_Popularity": 50,
-  "Ranking_PopularitySum": 50,
+  "Ranking_Popularity": 49,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -8349,7 +8349,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807359,
+  "EOS_Progressed": 807361,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 0,
@@ -30744,6 +30744,11 @@
       "Time": "2023-11-06T09:03:54.6659721+00:00",
       "NumProgressed": 807359,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-06T10:03:37.9651998+00:00",
+      "NumProgressed": 807361,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30779,7 +30784,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129177
+      "UsersEstimate": 129178
     },
     {
       "ID": "Awakening",
@@ -30787,7 +30792,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169545
+      "UsersEstimate": 169546
     },
     {
       "ID": "BadGirl",
@@ -30835,7 +30840,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258355
+      "UsersEstimate": 258356
     },
     {
       "ID": "Bookworm",
@@ -31291,7 +31296,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88809
+      "UsersEstimate": 88810
     },
     {
       "ID": "Sniper",
@@ -31363,7 +31368,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88809
+      "UsersEstimate": 88810
     },
     {
       "ID": "TrialAndError",
@@ -31410,15 +31415,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807359,
+      "Progressed": 807361,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-05T20:02:59.6590279+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:03:54.6659716+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:03:37.9651992+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:00:24.9856043+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:03:54.6662593+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:00:53.7834295+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:03:37.9654743+00:00"
 }

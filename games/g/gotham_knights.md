@@ -1,21 +1,21 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 919)  
+Rating: 4.18 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,786 |
+| First Step Into the Knight | 51.00% | ~38,787 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,618 |
-| Loose Ends | 34.00% | ~25,857 |
-| To the Victor Go the Spoils | 28.00% | ~21,294 |
+| Loose Ends | 34.00% | ~25,858 |
+| To the Victor Go the Spoils | 28.00% | ~21,295 |
 | Knighthood | 27.00% | ~20,534 |
-| Get ReQ'd | 25.00% | ~19,012 |
-| Whispered Words | 25.00% | ~19,012 |
+| Get ReQ'd | 25.00% | ~19,013 |
+| Whispered Words | 25.00% | ~19,013 |
 | The Batman Family | 23.00% | ~17,492 |
 | Lock and Key | 22.00% | ~16,731 |
-| Something in the Clay | 21.00% | ~15,970 |
-| Quartzer Life Crisis | 21.00% | ~15,970 |
+| Something in the Clay | 21.00% | ~15,971 |
+| Quartzer Life Crisis | 21.00% | ~15,971 |
 | Working Hard or Harley Working? | 20.00% | ~15,210 |
 | Unstoppable Force | 20.00% | ~15,210 |
 | Bad Apples in Every Orchard | 20.00% | ~15,210 |
@@ -29,15 +29,15 @@ Rating: 4.18 (Ranked 919)
 | Rock and a Hard Place | 14.00% | ~10,647 |
 | Cooldown | 14.00% | ~10,647 |
 | Seeking Asylum | 14.00% | ~10,647 |
-| Not On My Watch | 13.00% | ~9,886 |
-| Shock Til They Drop | 13.00% | ~9,886 |
+| Not On My Watch | 13.00% | ~9,887 |
+| Shock Til They Drop | 13.00% | ~9,887 |
 | End of an Era | 12.00% | ~9,126 |
 | Bulldozed | 12.00% | ~9,126 |
 | Gotham Knight | 12.00% | ~9,126 |
 | Gotham City Confidential | 11.00% | ~8,366 |
 | Drone You Out | 10.00% | ~7,605 |
-| Out of Their League | 9.00% | ~6,844 |
-| Solid Alibi | 9.00% | ~6,844 |
+| Out of Their League | 9.00% | ~6,845 |
+| Solid Alibi | 9.00% | ~6,845 |
 | Fusion Expert | 7.00% | ~5,324 |
 | Expert Crime Fighter | 6.00% | ~4,563 |
 | Family Meeting | 6.00% | ~4,563 |
@@ -47,10 +47,10 @@ Rating: 4.18 (Ranked 919)
 | Bat Out of Hell | 3.00% | ~2,282 |
 | Practice Makes Perfect | 2.00% | ~1,521 |
 | He'd Be So Proud of You | 2.00% | ~1,521 |
-| Talonted | 1.00% | ~760 |
-| The Man-Bat Family | 1.00% | ~760 |
-| Batarang Collector | 1.00% | ~760 |
-| Claiming the Mural High Ground | 1.00% | ~760 |
+| Talonted | 1.00% | ~761 |
+| The Man-Bat Family | 1.00% | ~761 |
+| Batarang Collector | 1.00% | ~761 |
+| Claiming the Mural High Ground | 1.00% | ~761 |
 | Icebreaker | 0.80% | ~371 |
 | History Major | 0.80% | ~608 |
 | A Sophisticated Mallet | 0.80% | ~371 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 919)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,050 (Ranked 97)  
-Completed: 123 (0.16%) (Ranked 252)  
+Progressed: 76,052 (Ranked 97)  
+Completed: 123 (0.16%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,7 +267,7 @@ Completed: 123 (0.16%) (Ranked 252)
 | 2023-11-03 | 75,870 | 122 |
 | 2023-11-04 | 75,946 | 123 |
 | 2023-11-05 | 76,025 | 123 |
-| 2023-11-06 | 76,050 | 123 |
+| 2023-11-06 | 76,052 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,907  (Ranked 98)  
 Sum: 4,925 (Ranked 137)  

@@ -1,31 +1,31 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 564)  
+Rating: 4.51 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~161,448 |
-| FIRST BLOOD | 40.00% | ~143,509 |
-| KEVIN! | 30.00% | ~107,632 |
-| JACK OF ALL TRADES | 23.00% | ~82,518 |
-| CRIMINAL | 20.00% | ~71,755 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~39,465 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~32,290 |
-| HONORS STUDENT | 8.00% | ~28,702 |
-| BUTCHER | 6.00% | ~21,526 |
-| INDIVIDUAL APPROACH | 5.00% | ~17,939 |
-| RAMBO | 5.00% | ~17,939 |
-| HELL'S KITCHEN | 4.00% | ~14,351 |
-| CELEBRITY | 3.00% | ~10,763 |
-| MARTYR | 3.00% | ~10,763 |
-| GRATITUDE | 2.00% | ~7,175 |
+| MASTER CHEF | 45.00% | ~161,458 |
+| FIRST BLOOD | 40.00% | ~143,518 |
+| KEVIN! | 30.00% | ~107,639 |
+| JACK OF ALL TRADES | 23.00% | ~82,523 |
+| CRIMINAL | 20.00% | ~71,759 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~39,468 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~32,292 |
+| HONORS STUDENT | 8.00% | ~28,704 |
+| BUTCHER | 6.00% | ~21,528 |
+| INDIVIDUAL APPROACH | 5.00% | ~17,940 |
+| RAMBO | 5.00% | ~17,940 |
+| HELL'S KITCHEN | 4.00% | ~14,352 |
+| CELEBRITY | 3.00% | ~10,764 |
+| MARTYR | 3.00% | ~10,764 |
+| GRATITUDE | 2.00% | ~7,176 |
 | EXPERIMENTALIST | 1.00% | ~3,588 |
 | GOURMET | 1.00% | ~3,588 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,588 |
 | PATTY-KILLER | 1.00% | ~3,588 |
 | PRUDENT | 1.00% | ~3,588 |
-| SCATTERBRAIN | 0.70% | ~2,511 |
+| SCATTERBRAIN | 0.70% | ~2,512 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,153 |
 | TASTE UNTASTY | 0.50% | ~1,794 |
 | DEBTOR | 0.20% | ~718 |
@@ -34,8 +34,8 @@ Rating: 4.51 (Ranked 564)
 | MISTER ALL THUMBS | 0.10% | ~359 |
 | TRAVELER | 0.10% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 358,773 (Ranked 45)  
-Completed: 33 (0.01%) (Ranked 320)  
+Progressed: 358,796 (Ranked 45)  
+Completed: 33 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 33 (0.01%) (Ranked 320)
 | 2023-11-03 | 355,532 | 32 |
 | 2023-11-04 | 357,044 | 32 |
 | 2023-11-05 | 358,448 | 32 |
-| 2023-11-06 | 358,773 | 33 |
+| 2023-11-06 | 358,796 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

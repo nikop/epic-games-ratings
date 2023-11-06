@@ -3,12 +3,12 @@
   "Name": "Marvel\u0027s Spider-Man Remastered",
   "ProductSlug": "marvels-spider-man-remastered",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 31,
-  "Ranking_PopularitySum": 56,
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_Popularity": 30,
+  "Ranking_PopularitySum": 55,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -7329,6 +7329,6 @@
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
   "LastChanged": "2023-11-06T05:57:59.6476941+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.2962293+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:58:11.4415367+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:04:04.9702731+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:58:06.2148568+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:03:50.849803+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a8d73557f6d64f94930ea229d5b4427c",
   "Name": "Tram Simulator Urban Transit",
   "ProductSlug": "tram-simulator-urban-transit-8e1477",
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-02T13:57:09.2773569+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:03:18.2527173+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:06:54.47005+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:01:31.6110862+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:07:18.4005649+00:00"
 }

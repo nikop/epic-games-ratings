@@ -1,12 +1,12 @@
 # NBA 2K21
 [Store](https://store.epicgames.com/en-US/p/nba-2k21)  
 [View Rawdata](../../db/n/nba_2k21.json)  
-Rating: 4.39 (Ranked 745)  
+Rating: 4.39 (Ranked 746)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Awards
-Max (Relaxing): 11,784  (Ranked 36)  
+Max (Relaxing): 11,784  (Ranked 35)  
 Sum: 89,223 (Ranked 19)  
-Diff (max vs sum): 17  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 11,784 |

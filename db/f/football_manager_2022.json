@@ -3,12 +3,12 @@
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
   "Ranking_Rating": 87,
-  "Ranking_Popularity": 59,
+  "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 39,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8216,9 +8216,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 475507,
+  "EOS_Progressed": 475508,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28611,6 +28611,11 @@
       "Time": "2023-11-06T09:06:55.5057229+00:00",
       "NumProgressed": 475507,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-06T10:07:19.7591146+00:00",
+      "NumProgressed": 475508,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -28822,7 +28827,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 90346
+      "UsersEstimate": 90347
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -28918,7 +28923,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95101
+      "UsersEstimate": 95102
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -29046,7 +29051,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 166427
+      "UsersEstimate": 166428
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -29054,7 +29059,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152162
+      "UsersEstimate": 152163
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -29062,7 +29067,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95101
+      "UsersEstimate": 95102
     },
     {
       "ID": "achievement_pick_feeder",
@@ -29126,7 +29131,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152162
+      "UsersEstimate": 152163
     },
     {
       "ID": "achievement_rushed_signing",
@@ -29166,7 +29171,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228243
+      "UsersEstimate": 228244
     },
     {
       "ID": "achievement_signed_a_player",
@@ -29405,15 +29410,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 475507,
+      "Progressed": 475508,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-06T07:59:40.6936023+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:06:55.5057224+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:07:19.759114+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.7258269+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:44.2841337+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:06:55.50602+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:00:00.6995975+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:07:19.7593525+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 290,
+  "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1578,
+  "EOS_Progressed": 1579,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3429,6 +3429,11 @@
       "Time": "2023-11-06T01:50:49.1663707+00:00",
       "NumProgressed": 1578,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T10:05:05.4390756+00:00",
+      "NumProgressed": 1579,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3472,7 +3477,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "Commandos",
@@ -3528,7 +3533,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Experienced_strategist",
@@ -3576,7 +3581,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "How",
@@ -3679,15 +3684,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1578,
+      "Progressed": 1579,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:05:05.2128489+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:05:05.4390749+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:58:06.4876442+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:05:05.2128975+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:57:59.9476969+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:05:05.4391243+00:00"
 }

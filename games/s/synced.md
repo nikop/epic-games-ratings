@@ -1,7 +1,7 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.16 (Ranked 929)  
+Rating: 4.16 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 4.16 (Ranked 929)
 | Past Master | 0.30% | ~198 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 65,930 (Ranked 102)  
-Completed: 28 (0.04%) (Ranked 303)  
+Completed: 28 (0.04%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

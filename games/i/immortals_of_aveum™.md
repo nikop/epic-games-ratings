@@ -1,24 +1,24 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.00 (Ranked 983)  
+Rating: 4.00 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~148 |
-| Battlefields Have Memories | 84.00% | ~141 |
-| Enlisted | 81.00% | ~136 |
+| Unforeseen | 88.00% | ~149 |
+| Battlefields Have Memories | 83.00% | ~140 |
+| Enlisted | 80.00% | ~135 |
 | Maybe Engage a Little | 76.00% | ~128 |
-| No More Names | 61.00% | ~102 |
+| No More Names | 61.00% | ~103 |
 | Initiate | 51.00% | ~86 |
 | Thrada-Kul | 48.00% | ~81 |
-| Gravity-Challenged Rocks | 38.00% | ~64 |
-| All the Major Food Groups | 33.00% | ~55 |
+| Gravity-Challenged Rocks | 37.00% | ~63 |
+| All the Major Food Groups | 33.00% | ~56 |
 | Soldier | 32.00% | ~54 |
 | Beggars Would Ride | 29.00% | ~49 |
 | Control is an Illusion | 28.00% | ~47 |
 | Socialite | 26.00% | ~44 |
-| The Means to Save It | 24.00% | ~40 |
+| The Means to Save It | 24.00% | ~41 |
 | Resilience to Sin | 20.00% | ~34 |
 | A Familiar Nest | 20.00% | ~34 |
 | Periapt Alizarin | 19.00% | ~32 |
@@ -26,10 +26,10 @@ Rating: 4.00 (Ranked 983)
 | Armsman | 17.00% | ~29 |
 | A Perfect Cycle | 16.00% | ~27 |
 | Recruit | 15.00% | ~25 |
-| Lights Army | 11.00% | ~18 |
-| Good Boy | 11.00% | ~18 |
-| Periapt Cerulean | 10.00% | ~17 |
-| Periapt Viridian | 8.00% | ~13 |
+| Lights Army | 11.00% | ~19 |
+| Good Boy | 11.00% | ~19 |
+| Periapt Cerulean | 9.00% | ~15 |
+| Periapt Viridian | 8.00% | ~14 |
 | Best Dressed | 7.00% | ~12 |
 | Shroudfane Explorer | 7.00% | ~12 |
 | Scholar | 5.00% | ~8 |
@@ -53,8 +53,8 @@ Rating: 4.00 (Ranked 983)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 372)  
-Completed: 1 (0.60%) (Ranked 179)  
+Progressed: 169 (Ranked 372)  
+Completed: 1 (0.59%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 1 (0.60%) (Ranked 179)
 | 2023-11-03 | 139 | 1 |
 | 2023-11-04 | 155 | 1 |
 | 2023-11-05 | 161 | 1 |
-| 2023-11-06 | 168 | 1 |
+| 2023-11-06 | 169 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

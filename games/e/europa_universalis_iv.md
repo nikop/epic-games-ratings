@@ -6,6 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Aggressive Expander | 0.10% | ~448 |
+| All That's Thine Shall Be Mine | 0.10% | ~448 |
+| Double the Love | 0.10% | ~448 |
+| That's a Grand Navy | 0.10% | ~448 |
+| Queen of Conquest | 0.10% | ~448 |
+| Respected | 0.10% | ~448 |
+| Time Bandit | 0.10% | ~448 |
 | Until death do us apart | 0.10% | ~448 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
@@ -23,11 +30,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
-| Aggressive Expander | 0.00% | ~0 |
 | Albania or Iberia | 0.00% | ~0 |
 | All belongs to Mother Russia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
-| All That's Thine Shall Be Mine | 0.00% | ~0 |
 | All Your Trade Are Belong to Us | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An early Reich | 0.00% | ~0 |
@@ -89,7 +94,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Die Please Die | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
-| Double the Love | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Down Under | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
@@ -135,7 +139,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.00% | ~0 |
 | Grand Coalition | 0.00% | ~0 |
 | Grand Duchy | 0.00% | ~0 |
-| That's a Grand Navy | 0.00% | ~0 |
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -240,7 +243,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Purify the Temple | 0.00% | ~0 |
 | Pyramid of Skulls | 0.00% | ~0 |
 | Qing of China | 0.00% | ~0 |
-| Queen of Conquest | 0.00% | ~0 |
 | Queen of Mercury | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
@@ -249,7 +251,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Redecorating | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Relentless Push East | 0.00% | ~0 |
-| Respected | 0.00% | ~0 |
 | Rise of the White Sheep | 0.00% | ~0 |
 | Royal Authority | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
@@ -324,7 +325,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Three Trivial Tributary Tribes | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
-| Time Bandit | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Total Control | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,299 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 344)  
+Progressed: 448,317 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -570,11 +570,11 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,299 | 1 |
+| 2023-11-06 | 448,317 | 1 |
 ## Awards
-Max (Educational): 6,844  (Ranked 55)  
+Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,250 (Ranked 24)  
-Diff (max vs sum): 31  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,844 |

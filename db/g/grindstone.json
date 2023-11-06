@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 182,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5177,
+  "EOS_Progressed": 5178,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -878,6 +878,11 @@
       "Time": "2023-11-06T05:04:43.4139899+00:00",
       "NumProgressed": 5177,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-06T10:05:28.3399551+00:00",
+      "NumProgressed": 5178,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -889,7 +894,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -905,7 +910,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -945,7 +950,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -969,7 +974,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -993,7 +998,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1017,7 +1022,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5074
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1065,7 +1070,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1097,7 +1102,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4038
+      "UsersEstimate": 4039
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1161,7 +1166,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1177,7 +1182,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5073
+      "UsersEstimate": 5074
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1280,15 +1285,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5177,
+      "Progressed": 5178,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:05:24.2023255+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:05:28.3399545+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:45.5111784+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:11.6271518+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:05:24.2023818+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:59:21.7576864+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:05:28.3400022+00:00"
 }

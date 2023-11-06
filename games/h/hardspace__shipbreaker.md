@@ -7,17 +7,17 @@ Number of Ratings: 36  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 73.00% | ~688 |
-| It’s Heating up! | 69.00% | ~650 |
-| Let’s patch things up | 65.00% | ~612 |
-| I can fix it! | 63.00% | ~593 |
-| Post No Bills | 55.00% | ~518 |
-| Truly Shocking! | 48.00% | ~452 |
+| It’s Heating up! | 69.00% | ~651 |
+| Let’s patch things up | 65.00% | ~613 |
+| I can fix it! | 63.00% | ~594 |
+| Post No Bills | 55.00% | ~519 |
+| Truly Shocking! | 48.00% | ~453 |
 | Critical Thinker | 36.00% | ~339 |
 | Always Finding Your Mark | 30.00% | ~283 |
 | Act I Complete | 29.00% | ~273 |
 | A drop in the Ocean | 29.00% | ~273 |
 | The Weight of the World | 29.00% | ~273 |
-| No Niños | 27.00% | ~254 |
+| No Niños | 27.00% | ~255 |
 | I ain’t afraid of no Ghost | 24.00% | ~226 |
 | Act II Complete | 22.00% | ~207 |
 | A successful procedure! | 19.00% | ~179 |
@@ -34,8 +34,8 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 942 (Ranked 254)  
-Completed: 0 (0.00%) (Ranked 344)  
+Progressed: 943 (Ranked 254)  
+Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-03 | 937 | 0 |
 | 2023-11-04 | 938 | 0 |
 | 2023-11-05 | 940 | 0 |
-| 2023-11-06 | 942 | 0 |
+| 2023-11-06 | 943 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

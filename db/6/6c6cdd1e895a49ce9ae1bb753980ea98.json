@@ -2,10 +2,10 @@
   "ID": "6c6cdd1e895a49ce9ae1bb753980ea98",
   "Name": "Forest Offroad Driving Simulator",
   "ProductSlug": "forest-offroad-driving-simulator-e8f5c1",
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-06T18:30:00+00:00",
     "PcReleaseDate": "2023-10-31T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-10T15:58:32.7441976+00:00",
   "LastUpdate_AppInfo": "2023-11-03T20:57:11.614058+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:58:24.6543896+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:06:38.9390675+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:58:22.7444394+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:06:59.2884925+00:00"
 }

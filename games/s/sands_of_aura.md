@@ -12,7 +12,7 @@
 | Leisis Bless You | 8.00% | ~5 |
 | Advanced Armaments | 8.00% | ~5 |
 | Rain Must Fall | 7.00% | ~4 |
-| The Guardian of Fire | 5.00% | ~3 |
+| The Guardian of Fire | 7.00% | ~4 |
 | Sovereignty of Irons | 5.00% | ~3 |
 | A Sandwyrm's Hoard | 5.00% | ~3 |
 | Bladesmith | 3.00% | ~2 |
@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 60 (Ranked 448)  
-Completed: 0 (0.00%) (Ranked 344)  
+Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

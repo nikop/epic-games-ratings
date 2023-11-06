@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.36,
+  "EOS_Completed_Percentage": 10.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -450,6 +450,11 @@
       "Time": "2023-11-05T16:08:15.4301775+00:00",
       "NumProgressed": 222,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-06T10:08:51.4226722+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 17,
@@ -477,7 +482,7 @@
       "Name": "Blow",
       "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "brown_nosing",
@@ -485,7 +490,7 @@
       "Name": "Brown nosing",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "cheat",
@@ -501,7 +506,7 @@
       "Name": "Delusions",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -555,9 +560,9 @@
       "ID": "sorry_kiddo",
       "SetID": "202dmm8",
       "Name": "Sorry, kiddo",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 214
     },
     {
       "ID": "the_truth",
@@ -579,9 +584,9 @@
       "ID": "toby_foolery",
       "SetID": "202dmm8",
       "Name": "Toby foolery",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 116
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -589,14 +594,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 23
     }
   ],
@@ -604,8 +609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:09:36.4732904+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:08:51.4226716+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.2705596+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:27.0413954+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:09:36.4733073+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:59:40.9433479+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:08:51.4226864+00:00"
 }

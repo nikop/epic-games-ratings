@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3829,
+  "EOS_Progressed": 3830,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7717,6 +7717,11 @@
       "Time": "2023-11-06T02:26:52.8071536+00:00",
       "NumProgressed": 3829,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-06T10:06:06.6152969+00:00",
+      "NumProgressed": 3830,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7864,7 +7869,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7872,7 +7877,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -8032,7 +8037,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -8048,7 +8053,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -8088,7 +8093,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -8096,7 +8101,7 @@
       "Name": "Taking it back",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -8136,7 +8141,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8295,13 +8300,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3780,
+      "Progressed": 3781,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3829,
+      "Progressed": 3830,
       "Completed": 11
     }
   ],
@@ -8309,8 +8314,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:05:55.4930164+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:06:06.6152963+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:58:02.0665429+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:05:55.4931576+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:57:53.8918304+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:06:06.6154241+00:00"
 }

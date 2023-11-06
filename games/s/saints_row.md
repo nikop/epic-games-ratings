@@ -1,28 +1,28 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.79 (Ranked 1,024)  
+Rating: 3.79 (Ranked 1,025)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,394 |
-| To The Nines | 42.00% | ~32,523 |
-| Optimized | 37.00% | ~28,651 |
+| First F#@!ing Day | 47.00% | ~36,395 |
+| To The Nines | 42.00% | ~32,524 |
+| Optimized | 37.00% | ~28,652 |
 | Performance Review | 36.00% | ~27,877 |
-| Making a Name | 35.00% | ~27,102 |
-| Tune Up | 34.00% | ~26,328 |
+| Making a Name | 35.00% | ~27,103 |
+| Tune Up | 34.00% | ~26,329 |
 | Landlord | 33.00% | ~25,554 |
-| Wet Work | 32.00% | ~24,779 |
+| Wet Work | 32.00% | ~24,780 |
 | The Side Job | 31.00% | ~24,005 |
 | Wrecking Ball | 28.00% | ~21,682 |
-| Food for Thought | 27.00% | ~20,907 |
-| Finders Keepers | 26.00% | ~20,133 |
-| A Young Empire | 26.00% | ~20,133 |
-| Work Ethic | 23.00% | ~17,810 |
+| Food for Thought | 27.00% | ~20,908 |
+| Finders Keepers | 26.00% | ~20,134 |
+| A Young Empire | 26.00% | ~20,134 |
+| Work Ethic | 23.00% | ~17,811 |
 | Picking Fights | 20.00% | ~15,487 |
 | Power Players | 19.00% | ~14,713 |
-| Quality Time | 18.00% | ~13,938 |
+| Quality Time | 18.00% | ~13,939 |
 | Showdown | 17.00% | ~13,164 |
 | Et tu? | 17.00% | ~13,164 |
 | Took It to The Limit | 16.00% | ~12,390 |
@@ -32,9 +32,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | The Spins | 10.00% | ~7,744 |
 | The Mechanic | 10.00% | ~7,744 |
 | Closet Space | 8.00% | ~6,195 |
-| We could go home, or… | 7.00% | ~5,420 |
-| Challenge Accepted | 7.00% | ~5,420 |
-| A Golden Age | 7.00% | ~5,420 |
+| We could go home, or… | 7.00% | ~5,421 |
+| Challenge Accepted | 7.00% | ~5,421 |
+| A Golden Age | 7.00% | ~5,421 |
 | Producer Credit | 7.00% | ~3,435 |
 | Chaos Tamer | 6.00% | ~4,646 |
 | Face Off | 6.00% | ~2,944 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~155 |
 | Fiesta Time | 0.20% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,435 (Ranked 96)  
-Completed: 51 (0.07%) (Ranked 285)  
+Progressed: 77,437 (Ranked 96)  
+Completed: 51 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,7 +260,7 @@ Completed: 51 (0.07%) (Ranked 285)
 | 2023-11-03 | 77,142 | 51 |
 | 2023-11-04 | 77,271 | 51 |
 | 2023-11-05 | 77,400 | 51 |
-| 2023-11-06 | 77,435 | 51 |
+| 2023-11-06 | 77,437 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,726 (Ranked 97)  

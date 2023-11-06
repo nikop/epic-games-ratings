@@ -2,10 +2,10 @@
   "ID": "b78cfb363f3e4ef9992a55da29cfbc70",
   "Name": "Bus Simulator Car Driving",
   "ProductSlug": "bus-simulator-car-driving-40dbef",
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-15T22:30:00+00:00",
     "PcReleaseDate": "2023-01-25T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-17T11:57:54.3020605+00:00",
   "LastUpdate_AppInfo": "2023-11-04T02:13:22.6648303+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:00:53.7925292+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:09:23.0511727+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:01:27.3321036+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:08:35.0625049+00:00"
 }

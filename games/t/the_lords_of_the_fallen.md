@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.22 (Ranked 889)  
+Rating: 4.22 (Ranked 890)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -70,7 +70,7 @@ Rating: 4.22 (Ranked 889)
 | A Trace of Venom | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,444 (Ranked 233)  
-Completed: 1 (0.07%) (Ranked 285)  
+Completed: 1 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

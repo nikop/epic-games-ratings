@@ -1,11 +1,11 @@
 # The Division 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-division-2)  
 [View Rawdata](../../db/t/the_division_2_standard_edition.json)  
-Rating: 4.48 (Ranked 619)  
+Rating: 4.48 (Ranked 620)  
 Number of Ratings: 6,675  (23.09.2022)  
 ## Awards
-Max (Character Customization): 8,451  (Ranked 44)  
-Sum: 28,466 (Ranked 49)  
+Max (Character Customization): 8,451  (Ranked 43)  
+Sum: 28,466 (Ranked 48)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -736,9 +736,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40144,
+  "EOS_Progressed": 40147,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21151,6 +21151,11 @@
       "Time": "2023-11-06T09:09:44.8509808+00:00",
       "NumProgressed": 40144,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T10:09:01.1044214+00:00",
+      "NumProgressed": 40147,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21178,7 +21183,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6824
+      "UsersEstimate": 6825
     },
     {
       "ID": "ach_antiquarian10",
@@ -21282,7 +21287,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14452
+      "UsersEstimate": 14453
     },
     {
       "ID": "ach_die10",
@@ -21354,7 +21359,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4818
     },
     {
       "ID": "ach_legacypupil",
@@ -21370,7 +21375,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5620
+      "UsersEstimate": 5621
     },
     {
       "ID": "ach_legacysalvager",
@@ -21522,7 +21527,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4818
     },
     {
       "ID": "ach_terror90",
@@ -21562,7 +21567,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4817
+      "UsersEstimate": 4818
     },
     {
       "ID": "ach_year1",
@@ -21593,15 +21598,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40144,
+      "Progressed": 40147,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:09:44.8509803+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:09:01.1044208+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:00.1981747+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:09:44.8511956+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:59:07.2606057+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:09:01.1045773+00:00"
 }

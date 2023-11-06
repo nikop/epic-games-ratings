@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 844)  
+Rating: 4.28 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,035 |
-| Copacetic Coordination | 16.00% | ~56,182 |
-| Fronting the Money | 15.00% | ~52,671 |
-| The Dawn of Automation | 14.00% | ~49,159 |
-| Extraordinary Logistics | 14.00% | ~49,159 |
-| Dirty Money | 13.00% | ~45,648 |
-| Family First | 13.00% | ~45,648 |
+| Corner Clout | 47.00% | ~165,038 |
+| Copacetic Coordination | 16.00% | ~56,183 |
+| Fronting the Money | 15.00% | ~52,672 |
+| The Dawn of Automation | 14.00% | ~49,160 |
+| Extraordinary Logistics | 14.00% | ~49,160 |
+| Dirty Money | 13.00% | ~45,649 |
+| Family First | 13.00% | ~45,649 |
 | Cleaning House | 12.00% | ~42,137 |
 | Room in the Back | 12.00% | ~42,137 |
-| Beating the Heat | 11.00% | ~38,625 |
-| Booze Baron | 11.00% | ~38,625 |
+| Beating the Heat | 11.00% | ~38,626 |
+| Booze Baron | 11.00% | ~38,626 |
 | Friends on the Force | 10.00% | ~35,114 |
 | Neighborhood Watch | 10.00% | ~35,114 |
-| Core Corps | 8.00% | ~28,091 |
-| Sizeable Stash | 8.00% | ~28,091 |
+| Core Corps | 8.00% | ~28,092 |
+| Sizeable Stash | 8.00% | ~28,092 |
 | Street Fighter | 7.00% | ~24,580 |
 | Friendly Gestures | 7.00% | ~24,580 |
 | People Person | 7.00% | ~24,580 |
-| Liquor Lord | 6.00% | ~21,068 |
-| Safety in Numbers | 6.00% | ~21,068 |
-| Moving Experiences | 6.00% | ~21,068 |
-| Wise Head | 6.00% | ~21,068 |
-| Show ‘em the Sugar | 6.00% | ~21,068 |
-| Killing Them Softly | 6.00% | ~21,068 |
+| Liquor Lord | 6.00% | ~21,069 |
+| Safety in Numbers | 6.00% | ~21,069 |
+| Moving Experiences | 6.00% | ~21,069 |
+| Wise Head | 6.00% | ~21,069 |
+| Show ‘em the Sugar | 6.00% | ~21,069 |
+| Killing Them Softly | 6.00% | ~21,069 |
 | Street Knowledge | 5.00% | ~17,557 |
 | Oh Captain | 5.00% | ~17,557 |
 | Branching Out | 5.00% | ~17,557 |
@@ -86,8 +86,8 @@ Rating: 4.28 (Ranked 844)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,138 (Ranked 47)  
-Completed: 7 (0.00%) (Ranked 344)  
+Progressed: 351,145 (Ranked 47)  
+Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 7 (0.00%) (Ranked 344)
 | 2023-11-03 | 350,717 | 7 |
 | 2023-11-04 | 350,901 | 7 |
 | 2023-11-05 | 351,094 | 7 |
-| 2023-11-06 | 351,138 | 7 |
+| 2023-11-06 | 351,145 | 7 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 447)  
 Sum: 186 (Ranked 405)  

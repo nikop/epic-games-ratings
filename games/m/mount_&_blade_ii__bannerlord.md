@@ -59,7 +59,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,584 (Ranked 103)  
-Completed: 0 (0.00%) (Ranked 344)  
+Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,9 +260,9 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-05 | 64,565 | 0 |
 | 2023-11-06 | 64,584 | 0 |
 ## Awards
-Max (Character Customization): 7,328  (Ranked 52)  
+Max (Character Customization): 7,328  (Ranked 51)  
 Sum: 15,143 (Ranked 67)  
-Diff (max vs sum): -15  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,328 |

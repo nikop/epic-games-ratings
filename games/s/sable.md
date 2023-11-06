@@ -64,7 +64,7 @@ Number of Ratings: 43  (23.09.2022)
 | Vivacious Vivarium | 2.00% | ~1,955 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97,733 (Ranked 87)  
-Completed: 990 (1.01%) (Ranked 155)  
+Completed: 990 (1.01%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

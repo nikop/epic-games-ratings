@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 776)  
+Rating: 4.36 (Ranked 778)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 101  (23.09.2022)
 | Spread | 41.00% | ~272 |
 | That was base | 40.00% | ~265 |
 | Safe Pair of Hands | 37.00% | ~245 |
-| Don't Let Mom Know You're A Druglord | 31.00% | ~206 |
+| Don't Let Mom Know You're A Druglord | 32.00% | ~212 |
 | Architect of Fortunes | 26.00% | ~172 |
 | Pampered Life | 24.00% | ~159 |
 | Bite the Blow | 23.00% | ~152 |
@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 663 (Ranked 272)  
-Completed: 2 (0.30%) (Ranked 224)  
+Completed: 2 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

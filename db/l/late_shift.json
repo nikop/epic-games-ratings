@@ -3,9 +3,9 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -1473,9 +1473,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     },
     {
       "ID": "OFFICE_CLERK",
@@ -1538,8 +1538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:04:23.6164909+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:04:14.3756536+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.789073+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:58:28.7951528+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:04:23.6165141+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:58:28.2668244+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:04:14.3756775+00:00"
 }

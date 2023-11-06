@@ -1,11 +1,11 @@
 # Evil Dead: The Game
 [Store](https://store.epicgames.com/en-US/p/evil-dead-the-game)  
 [View Rawdata](../../db/e/evil_dead__the_game.json)  
-Rating: 4.36 (Ranked 776)  
+Rating: 4.36 (Ranked 778)  
 Number of Ratings: 9,131  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 12,744  (Ranked 32)  
-Sum: 30,288 (Ranked 44)  
+Max (Great Boss Battles): 12,744  (Ranked 31)  
+Sum: 30,288 (Ranked 43)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |

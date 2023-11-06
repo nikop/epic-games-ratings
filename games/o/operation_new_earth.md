@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.28 (Ranked 1,033)  
+Rating: 3.28 (Ranked 1,034)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,8 +16,8 @@ Rating: 3.28 (Ranked 1,033)
 | Stocking Up | 10.00% | ~177 |
 | On Target | 10.00% | ~177 |
 | Infantry Reporting | 10.00% | ~177 |
+| Fighting for Survival | 9.00% | ~159 |
 | Keeping Busy | 9.00% | ~159 |
-| Fighting for Survival | 8.00% | ~142 |
 | Silver Competitor | 8.00% | ~142 |
 | Captain | 8.00% | ~142 |
 | Factory Expansion | 8.00% | ~142 |
@@ -45,7 +45,7 @@ Rating: 3.28 (Ranked 1,033)
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,771 (Ranked 221)  
-Completed: 1 (0.06%) (Ranked 290)  
+Completed: 1 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

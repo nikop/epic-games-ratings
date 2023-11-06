@@ -3,12 +3,12 @@
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 153,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8528,7 +8528,7 @@
   ],
   "EOS_Progressed": 64584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30016,8 +30016,8 @@
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-06T09:00:42.5803616+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:09:53.8903335+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:09:12.0659003+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:00:42.5803622+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:09:53.8905398+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:01:12.6434771+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:09:12.0660752+00:00"
 }

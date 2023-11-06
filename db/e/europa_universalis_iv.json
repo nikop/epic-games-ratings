@@ -3,12 +3,12 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 229,
-  "Ranking_Popularity": 55,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11685,9 +11685,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448299,
+  "EOS_Progressed": 448317,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5475,
+  "EOS_NewPlayers": 5469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34515,6 +34515,11 @@
       "Time": "2023-11-06T09:04:24.6936597+00:00",
       "NumProgressed": 448299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T10:04:15.8515273+00:00",
+      "NumProgressed": 448317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34652,9 +34657,9 @@
       "ID": "achievement_agressive_expander",
       "SetID": "67mdiil",
       "Name": "Aggressive Expander",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -34684,9 +34689,9 @@
       "ID": "achievement_all_that_is_thine_shall_be_mine",
       "SetID": "8p2n7he",
       "Name": "All That\u0027s Thine Shall Be Mine",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -35180,9 +35185,9 @@
       "ID": "achievement_double_the_love",
       "SetID": "67mdiil",
       "Name": "Double the Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -35548,9 +35553,9 @@
       "ID": "achievement_grand_navy",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Navy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -36388,9 +36393,9 @@
       "ID": "achievement_queen_of_conquest",
       "SetID": "8p2n7he",
       "Name": "Queen of Conquest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -36460,9 +36465,9 @@
       "ID": "achievement_respected",
       "SetID": "8p2n7he",
       "Name": "Respected",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -37060,9 +37065,9 @@
       "ID": "achievement_time_bandit",
       "SetID": "8p2n7he",
       "Name": "Time Bandit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_to_the_bone",
@@ -37429,21 +37434,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448299,
+      "Progressed": 448317,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448299,
+      "Progressed": 448317,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-06T09:03:23.3979055+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:04:24.6936591+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:04:15.8515268+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:03:23.3979065+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:04:24.6953039+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:02:57.7147167+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:04:15.8529131+00:00"
 }

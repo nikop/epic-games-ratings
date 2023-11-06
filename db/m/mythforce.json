@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4690,
+  "EOS_Progressed": 4691,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8770,6 +8770,11 @@
       "Time": "2023-11-06T06:09:59.5315111+00:00",
       "NumProgressed": 4690,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T10:09:38.3777902+00:00",
+      "NumProgressed": 4691,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8830,7 +8835,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -8965,15 +8970,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4690,
+      "Progressed": 4691,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:10:14.7551963+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:09:38.3777899+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:03:27.5532018+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:10:14.7552624+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:03:02.3654087+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:09:38.3778544+00:00"
 }

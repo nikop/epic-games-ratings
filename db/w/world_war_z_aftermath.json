@@ -3,12 +3,12 @@
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 483,
-  "Ranking_Popularity": 75,
-  "Ranking_PopularitySum": 47,
-  "Ranking_EOS_Progress": 725,
-  "Ranking_EOS_Completed": 344,
+  "Ranking_Popularity": 74,
+  "Ranking_PopularitySum": 46,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-21T13:00:00+00:00",
     "PcReleaseDate": "2021-09-21T13:00:00+00:00",
@@ -10374,8 +10374,8 @@
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
   "LastChanged": "2023-11-05T22:59:28.6933278+00:00",
-  "LastChanged_Achievements": "2023-11-06T09:05:32.849562+00:00",
+  "LastChanged_Achievements": "2023-11-06T10:05:38.7162586+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:02.3778187+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:59:21.8396563+00:00",
-  "LastUpdate_Achievements": "2023-11-06T09:05:32.8495654+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:59:34.2408784+00:00",
+  "LastUpdate_Achievements": "2023-11-06T10:05:38.7162621+00:00"
 }
