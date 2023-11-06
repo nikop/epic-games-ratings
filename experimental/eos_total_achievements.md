@@ -777,6 +777,7 @@
 | [Aya & Naya](../games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5 | 1,000 |
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
 | [Cyber Drift](../games/c/cyber_drift.md) | 5 | 1,000 |
+| [Dizzy Fight](../games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 5 | 1,000 |
 | [Jill of the Jungle: The Complete Trilogy](../games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5 | 1,000 |
 | [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
