@@ -9,7 +9,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 547 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,930 | 113 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 547 |
-| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,588 | 42 |
+| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,593 | 42 |
 | 10 | [Firework](games/f/firework.md) | 4.89 | 0 | 547 |
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 547 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 447 | 214 |
@@ -98,7 +98,7 @@
 | 95 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 613 | 190 |
 | 95 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 164 | 307 |
 | 95 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 547 |
-| 95 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,080 | 145 |
+| 95 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,087 | 145 |
 | 95 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 0 | 547 |
 | 95 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 796 | 169 |
 | 95 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,086 | 60 |
@@ -525,7 +525,7 @@
 | 521 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 515 |
 | 521 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,532 | 128 |
 | 521 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 547 |
-| 521 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,072 | 53 |
+| 521 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,125 | 53 |
 | 521 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 464 |
 | 521 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 547 |
 | 521 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 547 |
@@ -999,7 +999,7 @@
 | 996 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 547 |
 | 996 | [The Front](games/t/the_front.md) | 3.98 | 0 | 547 |
 | 999 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 547 |
-| 999 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,525 | 79 |
+| 999 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.97 | 4,544 | 78 |
 | 1,001 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 442 |
 | 1,001 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.95 | 522 | 203 |
 | 1,001 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.95 | 0 | 547 |

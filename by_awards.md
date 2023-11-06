@@ -41,7 +41,7 @@
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,884 | 4.58 | 445 |
 | 40 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,329 | 4.58 | 445 |
 | 41 | [Control](games/c/control.md) | 8,681 | 4.60 | 407 |
-| 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,588 | 4.89 | 10 |
+| 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,593 | 4.89 | 10 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,451 | 4.48 | 620 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,150 | 4.57 | 467 |
 | 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,023 | 4.85 | 43 |
@@ -52,7 +52,7 @@
 | 50 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,493 | 4.68 | 251 |
 | 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,333 | 4.74 | 153 |
 | 52 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,191 | 4.77 | 114 |
-| 53 | [Dead Island 2](games/d/dead_island_2.md) | 7,072 | 4.54 | 521 |
+| 53 | [Dead Island 2](games/d/dead_island_2.md) | 7,125 | 4.54 | 521 |
 | 54 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,844 | 4.69 | 229 |
 | 55 | [Sifu](games/s/sifu.md) | 6,764 | 4.82 | 63 |
 | 56 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 711 |
@@ -77,8 +77,8 @@
 | 75 | [MultiVersus](games/m/multiversus.md) | 4,749 | 4.56 | 483 |
 | 76 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,666 | 4.70 | 211 |
 | 77 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,596 | 4.70 | 211 |
+| 78 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,544 | 3.97 | 999 |
 | 78 | [SMITE](games/s/smite.md) | 4,544 | 4.43 | 688 |
-| 79 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,525 | 3.97 | 999 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 4,296 | 4.21 | 896 |
 | 81 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,289 | 4.57 | 467 |
 | 82 | [God of War](games/g/god_of_war.md) | 4,276 | 4.88 | 16 |
@@ -144,7 +144,7 @@
 | 142 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,105 | 4.76 | 123 |
 | 143 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,099 | 4.65 | 309 |
 | 144 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,094 | 4.61 | 382 |
-| 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,080 | 4.79 | 95 |
+| 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,087 | 4.79 | 95 |
 | 146 | [Saints Row](games/s/saints_row.md) | 1,075 | 3.79 | 1,025 |
 | 147 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,051 | 4.76 | 123 |
 | 148 | [Torchlight II](games/t/torchlight_ii.md) | 1,049 | 4.59 | 430 |
