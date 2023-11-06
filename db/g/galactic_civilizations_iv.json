@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7234,
+  "EOS_Progressed": 7235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8255,6 +8255,11 @@
       "Time": "2023-11-06T13:14:23.6197223+00:00",
       "NumProgressed": 7234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T15:05:07.4955119+00:00",
+      "NumProgressed": 7235,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8370,7 +8375,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5570
+      "UsersEstimate": 5571
     },
     {
       "ID": "First_Race_Met",
@@ -8378,7 +8383,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "First_Ship_Designed",
@@ -8402,7 +8407,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5570
+      "UsersEstimate": 5571
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8482,7 +8487,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "Play_1000_Hours",
@@ -8602,7 +8607,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "War_Without_Translator",
@@ -8754,7 +8759,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8818,7 +8823,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "Win_Quickly",
@@ -8841,15 +8846,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7234,
+      "Progressed": 7235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:05:12.231884+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:05:07.4955116+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:57:00.4935791+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:05:12.2319634+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:56:55.7592135+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:05:07.4956149+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.24 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,736 |
-| Don't I Know You...? | 77.00% | ~1,671 |
-| Jailbreak | 66.00% | ~1,432 |
+| Rigged And Ready | 80.00% | ~1,737 |
+| Don't I Know You...? | 77.00% | ~1,672 |
+| Jailbreak | 66.00% | ~1,433 |
 | HEADSHOT! | 38.00% | ~825 |
 | Suited and Booted | 38.00% | ~825 |
-| Sleeping With The Fishes | 36.00% | ~781 |
+| Sleeping With The Fishes | 36.00% | ~782 |
 | Overheated | 30.00% | ~651 |
 | High Performance | 30.00% | ~651 |
 | Powered Up | 28.00% | ~608 |
-| Studied The Blade | 25.00% | ~542 |
+| Studied The Blade | 25.00% | ~543 |
 | Home Invasion | 23.00% | ~499 |
-| Luminary | 22.00% | ~477 |
-| It's a Trap | 22.00% | ~477 |
+| Luminary | 22.00% | ~478 |
+| It's a Trap | 22.00% | ~478 |
 | True Survivor | 21.00% | ~456 |
 | Offensive Defense | 20.00% | ~434 |
 | Shocking | 20.00% | ~434 |
@@ -32,9 +32,9 @@ Rating: 4.24 (Ranked 878)
 | Where It All Began | 13.00% | ~282 |
 | Risk Tolerant | 13.00% | ~282 |
 | What A Catchy Song | 13.00% | ~282 |
-| Corrupted Beauty | 12.00% | ~260 |
-| Marked For Success | 12.00% | ~260 |
-| Sorry, Didn't See You There | 12.00% | ~260 |
+| Corrupted Beauty | 12.00% | ~261 |
+| Marked For Success | 12.00% | ~261 |
+| Sorry, Didn't See You There | 12.00% | ~261 |
 | Triplets | 10.00% | ~217 |
 | Denying Prophecy | 9.00% | ~195 |
 | Stimulating The Local Economy | 9.00% | ~195 |
@@ -46,10 +46,10 @@ Rating: 4.24 (Ranked 878)
 | Remote Surgery | 6.00% | ~130 |
 | Turbo Booster | 6.00% | ~130 |
 | Squid Pro Quo | 6.00% | ~130 |
-| Hello Darkness My Old Friend | 5.00% | ~108 |
-| Counter-Sniper | 5.00% | ~108 |
-| Shrimp Cocktail | 5.00% | ~108 |
-| Juiced Up | 5.00% | ~108 |
+| Hello Darkness My Old Friend | 5.00% | ~109 |
+| Counter-Sniper | 5.00% | ~109 |
+| Shrimp Cocktail | 5.00% | ~109 |
+| Juiced Up | 5.00% | ~109 |
 | Geronimo! | 4.00% | ~87 |
 | Homewrecker | 4.00% | ~87 |
 | Plank of Wood | 4.00% | ~87 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 878)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,170 (Ranked 212)  
+Progressed: 2,171 (Ranked 212)  
 Completed: 13 (0.60%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 13 (0.60%) (Ranked 180)
 | 2023-11-03 | 2,143 | 13 |
 | 2023-11-04 | 2,154 | 13 |
 | 2023-11-05 | 2,168 | 13 |
-| 2023-11-06 | 2,170 | 13 |
+| 2023-11-06 | 2,171 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

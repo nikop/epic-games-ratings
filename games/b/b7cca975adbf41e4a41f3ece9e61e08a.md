@@ -5,51 +5,51 @@ Rating: 4.81 (Ranked 78)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~6,588 |
-| I Challenge You To Save More Money! | 88.00% | ~6,234 |
-| I Love How Tough You Are | 74.00% | ~5,242 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~4,746 |
-| What I Want Is You | 61.00% | ~4,321 |
-| To Be Or Not To Be | 57.00% | ~4,038 |
-| Are You Alright? | 49.00% | ~3,471 |
-| Love Actually | 48.00% | ~3,400 |
-| Drama King | 42.00% | ~2,975 |
-| You're Really Something Else | 37.00% | ~2,621 |
-| ONE PUNCH | 35.00% | ~2,479 |
-| Go Clean up In Your Own Way | 35.00% | ~2,479 |
-| Happy Family | 34.00% | ~2,409 |
-| FIRST LOVE | 34.00% | ~2,409 |
-| Drama CP: Reel to Real | 34.00% | ~2,409 |
-| Worthless Speech | 34.00% | ~2,409 |
-| Absolutely Elegant | 33.00% | ~2,338 |
-| Still Single | 32.00% | ~2,267 |
-| Go Get Some Fries On The Pier | 29.00% | ~2,054 |
-| Days Of Innocence | 29.00% | ~2,054 |
-| David | 28.00% | ~1,984 |
-| All I Have Is Money | 25.00% | ~1,771 |
-| Lover In Dark Alley | 24.00% | ~1,700 |
-| A Slap In The Face! | 24.00% | ~1,700 |
-| That's So You | 24.00% | ~1,700 |
-| SALUTE | 23.00% | ~1,629 |
-| Let Me Be Your Toy Boy | 22.00% | ~1,558 |
-| Off We Sail Tonight | 20.00% | ~1,417 |
-| Love You Three Thousand | 15.00% | ~1,063 |
-| Can You Do This Or Not? | 15.00% | ~1,063 |
-| Doesn't Matter I'll Handle It | 13.00% | ~921 |
-| The Flash | 11.00% | ~779 |
-| New Yoga Pose Unlocked | 11.00% | ~779 |
-| My Dear Love! | 9.00% | ~638 |
-| Life Is A Rollercoaster | 8.00% | ~567 |
-| Boys Need To Protect Themselves | 8.00% | ~567 |
-| Counting Sheep? | 8.00% | ~567 |
-| This Ain't Right In Many Ways... | 8.00% | ~567 |
-| Stubborn Noob | 7.00% | ~496 |
+| Last Night...Did We... | 93.00% | ~6,610 |
+| I Challenge You To Save More Money! | 88.00% | ~6,254 |
+| I Love How Tough You Are | 74.00% | ~5,259 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~4,762 |
+| What I Want Is You | 61.00% | ~4,335 |
+| To Be Or Not To Be | 57.00% | ~4,051 |
+| Are You Alright? | 49.00% | ~3,482 |
+| Love Actually | 48.00% | ~3,411 |
+| Drama King | 42.00% | ~2,985 |
+| You're Really Something Else | 37.00% | ~2,630 |
+| ONE PUNCH | 35.00% | ~2,487 |
+| Go Clean up In Your Own Way | 35.00% | ~2,487 |
+| Happy Family | 34.00% | ~2,416 |
+| FIRST LOVE | 34.00% | ~2,416 |
+| Drama CP: Reel to Real | 34.00% | ~2,416 |
+| Worthless Speech | 34.00% | ~2,416 |
+| Absolutely Elegant | 33.00% | ~2,345 |
+| Still Single | 32.00% | ~2,274 |
+| Go Get Some Fries On The Pier | 30.00% | ~2,132 |
+| Days Of Innocence | 29.00% | ~2,061 |
+| David | 28.00% | ~1,990 |
+| All I Have Is Money | 25.00% | ~1,777 |
+| Lover In Dark Alley | 24.00% | ~1,706 |
+| A Slap In The Face! | 24.00% | ~1,706 |
+| That's So You | 24.00% | ~1,706 |
+| SALUTE | 23.00% | ~1,635 |
+| Let Me Be Your Toy Boy | 22.00% | ~1,564 |
+| Off We Sail Tonight | 20.00% | ~1,421 |
+| Love You Three Thousand | 15.00% | ~1,066 |
+| Can You Do This Or Not? | 15.00% | ~1,066 |
+| Doesn't Matter I'll Handle It | 13.00% | ~924 |
+| The Flash | 11.00% | ~782 |
+| New Yoga Pose Unlocked | 11.00% | ~782 |
+| My Dear Love! | 9.00% | ~640 |
+| Life Is A Rollercoaster | 8.00% | ~569 |
+| Boys Need To Protect Themselves | 8.00% | ~569 |
+| Counting Sheep? | 8.00% | ~569 |
+| This Ain't Right In Many Ways... | 8.00% | ~569 |
+| Stubborn Noob | 7.00% | ~497 |
 | Hurrah! | 2.00% | ~142 |
 | Tall; Grande; Venti | 2.00% | ~142 |
 | Limerence | 2.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,084 (Ranked 172)  
-Completed: 105 (1.48%) (Ranked 134)  
+Progressed: 7,107 (Ranked 171)  
+Completed: 106 (1.49%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,7 +78,7 @@ Completed: 105 (1.48%) (Ranked 134)
 | 2023-11-03 | 6,370 | 84 |
 | 2023-11-04 | 6,692 | 89 |
 | 2023-11-05 | 6,953 | 96 |
-| 2023-11-06 | 7,084 | 105 |
+| 2023-11-06 | 7,107 | 106 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -839,6 +839,11 @@
       "Time": "2023-11-05T15:09:19.0857063+00:00",
       "NumProgressed": 530,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T15:09:04.9839845+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -890,7 +895,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "TROP006",
@@ -1010,7 +1015,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "TROP021",
@@ -1034,7 +1039,7 @@
       "Name": "Detox diet",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "TROP024",
@@ -1050,7 +1055,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "TROP026",
@@ -1058,7 +1063,7 @@
       "Name": "Lullaby",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "TROP027",
@@ -1073,7 +1078,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 3
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:09:07.7298881+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:09:04.9839841+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:43.1871778+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:57:05.6434402+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:09:07.7299058+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:57:00.1783378+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:09:04.984009+00:00"
 }

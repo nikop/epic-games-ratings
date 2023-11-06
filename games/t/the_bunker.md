@@ -9,29 +9,29 @@
 | Mother | 78.00% | ~110 |
 | Failure | 76.00% | ~107 |
 | Replace Fuse | 66.00% | ~93 |
-| Alarm | 64.00% | ~90 |
-| Air Filtration | 61.00% | ~86 |
+| Alarm | 65.00% | ~92 |
+| Air Filtration | 62.00% | ~87 |
 | Broken | 60.00% | ~85 |
-| Radiation | 58.00% | ~82 |
+| Radiation | 59.00% | ~83 |
 | Descent | 57.00% | ~80 |
-| Awakenings | 56.00% | ~79 |
-| Cold Storage | 56.00% | ~79 |
+| Awakenings | 57.00% | ~80 |
+| Cold Storage | 57.00% | ~80 |
 | Sam | 56.00% | ~79 |
 | Commissioner | 52.00% | ~73 |
 | Doctor | 50.00% | ~70 |
 | Soldier | 50.00% | ~70 |
+| Engineer | 49.00% | ~69 |
 | Leave | 48.00% | ~68 |
 | Churchill | 48.00% | ~68 |
-| Engineer | 48.00% | ~68 |
-| Press Play | 37.00% | ~52 |
-| General | 28.00% | ~39 |
+| Press Play | 38.00% | ~54 |
+| General | 29.00% | ~41 |
 | Bookworm | 25.00% | ~35 |
 | Floppy Disk Finder | 15.00% | ~21 |
-| Stay | 13.00% | ~18 |
+| Stay | 14.00% | ~20 |
 | Nurse | 11.00% | ~16 |
 | No Page Unturned | 6.00% | ~8 |
+| Friends | 6.00% | ~8 |
 | The Missing Piece | 6.00% | ~8 |
-| Friends | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 141 (Ranked 385)  
 Completed: 5 (3.55%) (Ranked 84)  

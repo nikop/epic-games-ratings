@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6682,
+  "EOS_Progressed": 6683,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -5061,6 +5061,11 @@
       "Time": "2023-11-06T04:04:29.5423799+00:00",
       "NumProgressed": 6682,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-06T15:04:19.9072398+00:00",
+      "NumProgressed": 6683,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5097,7 +5102,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "achievement_01_05",
@@ -5113,7 +5118,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3942
+      "UsersEstimate": 3943
     },
     {
       "ID": "achievement_01_07",
@@ -5137,7 +5142,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "achievement_01_10",
@@ -5145,7 +5150,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "achievement_02_01",
@@ -5185,7 +5190,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "achievement_02_06",
@@ -5201,7 +5206,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "achievement_02_08",
@@ -5209,7 +5214,7 @@
       "Name": "Car Specialist",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "achievement_03_01",
@@ -5233,7 +5238,7 @@
       "Name": "Morocco - Check!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "achievement_03_04",
@@ -5353,7 +5358,7 @@
       "Name": "Nitro Saver",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3341
+      "UsersEstimate": 3342
     },
     {
       "ID": "achievement_04_08",
@@ -5376,7 +5381,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6682,
+      "Progressed": 6683,
       "Completed": 34
     }
   ],
@@ -5384,8 +5389,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:04:27.4895895+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:04:19.9072391+00:00",
   "LastUpdate_AppInfo": "2023-11-02T20:57:08.8119241+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:00:15.3522965+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:04:27.4896412+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:00:08.8243169+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:04:19.9072963+00:00"
 }

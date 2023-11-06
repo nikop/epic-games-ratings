@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8544,7 +8544,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64595,
+  "EOS_Progressed": 64596,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -29624,6 +29624,11 @@
       "Time": "2023-11-06T13:17:25.5422751+00:00",
       "NumProgressed": 64595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T15:08:42.2883231+00:00",
+      "NumProgressed": 64596,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29635,7 +29640,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "Apple of my eye",
@@ -29859,7 +29864,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21316
+      "UsersEstimate": 21317
     },
     {
       "ID": "Lawbringer",
@@ -30042,15 +30047,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64595,
+      "Progressed": 64596,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-06T14:00:18.3467435+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:08:44.4967157+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:08:42.2883227+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-06T14:00:18.3467441+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:08:44.4968409+00:00"
+  "LastUpdate_Ratings": "2023-11-06T15:00:11.7969778+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:08:42.288498+00:00"
 }

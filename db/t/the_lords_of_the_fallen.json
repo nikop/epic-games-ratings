@@ -5,9 +5,9 @@
   "Ranking_Rating": 891,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 386,
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -411,7 +411,7 @@
       "Count": 93
     }
   ],
-  "EOS_Progressed": 1448,
+  "EOS_Progressed": 1450,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -1806,6 +1806,11 @@
       "Time": "2023-11-06T14:06:22.0199603+00:00",
       "NumProgressed": 1448,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T15:06:15.9242781+00:00",
+      "NumProgressed": 1450,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -1840,9 +1845,9 @@
       "ID": "TLOTF_ACHIEVEMENT_004",
       "SetID": "87e61g",
       "Name": "Weapon Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_005",
@@ -1856,9 +1861,9 @@
       "ID": "TLOTF_ACHIEVEMENT_006",
       "SetID": "87e61g",
       "Name": "What Sights Contained Within",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_007",
@@ -1872,9 +1877,9 @@
       "ID": "TLOTF_ACHIEVEMENT_008",
       "SetID": "87e61g",
       "Name": "Ammunition Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_009",
@@ -1904,17 +1909,17 @@
       "ID": "TLOTF_ACHIEVEMENT_012",
       "SetID": "87e61g",
       "Name": "Throwable Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_013",
       "SetID": "87e61g",
       "Name": "Gesture Collector",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_014",
@@ -1968,17 +1973,17 @@
       "ID": "TLOTF_ACHIEVEMENT_020",
       "SetID": "87e61g",
       "Name": "Comrades",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_021",
       "SetID": "87e61g",
       "Name": "Shared Triumph",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_022",
@@ -1992,9 +1997,9 @@
       "ID": "TLOTF_ACHIEVEMENT_023",
       "SetID": "87e61g",
       "Name": "No Mercy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -2264,9 +2269,9 @@
       "ID": "TLOTF_ACHIEVEMENT_057",
       "SetID": "87e61g",
       "Name": "Thriving in Darkness",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -2321,7 +2326,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1448,
+      "Progressed": 1450,
       "Completed": 1
     }
   ],
@@ -2329,8 +2334,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-06T05:58:39.9545347+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:06:22.01996+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:06:15.9242778+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:22.2529507+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:58:14.2334728+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:06:22.0200123+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:58:10.0011132+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:06:15.9243313+00:00"
 }

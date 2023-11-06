@@ -6,48 +6,56 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Pile of Gold | 0.10% | ~448 |
-| A Protected Market | 0.10% | ~448 |
-| Aggressive Expander | 0.10% | ~448 |
-| All That's Thine Shall Be Mine | 0.10% | ~448 |
-| All Your Trade Are Belong to Us | 0.10% | ~448 |
-| Brothers in Arms | 0.10% | ~448 |
-| Cold War | 0.10% | ~448 |
-| Defender of the Faith | 0.10% | ~448 |
-| Double the Love | 0.10% | ~448 |
-| Down Under | 0.10% | ~448 |
-| Electable! | 0.10% | ~448 |
-| Factionalism | 0.10% | ~448 |
-| Full House | 0.10% | ~448 |
-| Gentle Persuasion | 0.10% | ~448 |
-| Georgia on my Mind | 0.10% | ~448 |
-| That's a Grand Army | 0.10% | ~448 |
-| That's a Grand Navy | 0.10% | ~448 |
-| Imperio español | 0.10% | ~448 |
-| In the Name of the Father | 0.10% | ~448 |
-| Industrial Powerhouse | 0.10% | ~448 |
-| Italian Ambition | 0.10% | ~448 |
-| It's all about luck | 0.10% | ~448 |
-| It's all about the money | 0.10% | ~448 |
-| Live Long and Prosper | 0.10% | ~448 |
-| Marshy March | 0.10% | ~448 |
-| My armies are invincible! | 0.10% | ~448 |
-| Not just Pizza | 0.10% | ~448 |
-| Not so sad a state... | 0.10% | ~448 |
-| Over a Thousand! | 0.10% | ~448 |
-| Queen of Conquest | 0.10% | ~448 |
-| Respected | 0.10% | ~448 |
-| Rise of the White Sheep | 0.10% | ~448 |
-| Seriously?! | 0.10% | ~448 |
-| Tear Down This Wall | 0.10% | ~448 |
-| That is mine! | 0.10% | ~448 |
-| The Five Colonies | 0.10% | ~448 |
-| The pen is mightier than the sword | 0.10% | ~448 |
-| The Princess is in this Castle | 0.10% | ~448 |
-| Time Bandit | 0.10% | ~448 |
-| True Catholic | 0.10% | ~448 |
-| Until death do us apart | 0.10% | ~448 |
-| Victorious! | 0.10% | ~448 |
+| A Pile of Gold | 0.10% | ~449 |
+| A Protected Market | 0.10% | ~449 |
+| Aggressive Expander | 0.10% | ~449 |
+| Albania or Iberia | 0.10% | ~449 |
+| All That's Thine Shall Be Mine | 0.10% | ~449 |
+| All Your Trade Are Belong to Us | 0.10% | ~449 |
+| Azur semé de lis or | 0.10% | ~449 |
+| Blockader | 0.10% | ~449 |
+| Brothers in Arms | 0.10% | ~449 |
+| Cold War | 0.10% | ~449 |
+| Combined Arms | 0.10% | ~449 |
+| Defender of the Faith | 0.10% | ~449 |
+| Double the Love | 0.10% | ~449 |
+| Down Under | 0.10% | ~449 |
+| Electable! | 0.10% | ~449 |
+| The Emperors new clothes | 0.10% | ~449 |
+| Factionalism | 0.10% | ~449 |
+| Full House | 0.10% | ~449 |
+| Gentle Persuasion | 0.10% | ~449 |
+| Georgia on my Mind | 0.10% | ~449 |
+| That's a Grand Army | 0.10% | ~449 |
+| That's a Grand Navy | 0.10% | ~449 |
+| Imperio español | 0.10% | ~449 |
+| In the Name of the Father | 0.10% | ~449 |
+| Industrial Powerhouse | 0.10% | ~449 |
+| Italian Ambition | 0.10% | ~449 |
+| It's all about luck | 0.10% | ~449 |
+| It's all about the money | 0.10% | ~449 |
+| Live Long and Prosper | 0.10% | ~449 |
+| Marshy March | 0.10% | ~449 |
+| My armies are invincible! | 0.10% | ~449 |
+| Not just Pizza | 0.10% | ~449 |
+| Not so sad a state... | 0.10% | ~449 |
+| Over a Thousand! | 0.10% | ~449 |
+| Queen of Conquest | 0.10% | ~449 |
+| Respected | 0.10% | ~449 |
+| Rise of the White Sheep | 0.10% | ~449 |
+| Royal Authority | 0.10% | ~449 |
+| Seriously?! | 0.10% | ~449 |
+| Tear Down This Wall | 0.10% | ~449 |
+| That is mine! | 0.10% | ~449 |
+| The Continuation of Diplomacy | 0.10% | ~449 |
+| The Five Colonies | 0.10% | ~449 |
+| The pen is mightier than the sword | 0.10% | ~449 |
+| The Princess is in this Castle | 0.10% | ~449 |
+| This is fine | 0.10% | ~449 |
+| Time Bandit | 0.10% | ~449 |
+| True Catholic | 0.10% | ~449 |
+| Until death do us apart | 0.10% | ~449 |
+| Victorious! | 0.10% | ~449 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
@@ -62,7 +70,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
-| Albania or Iberia | 0.00% | ~0 |
 | All belongs to Mother Russia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
@@ -78,7 +85,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
 | Avar Khaganate | 0.00% | ~0 |
-| Azur semé de lis or | 0.00% | ~0 |
 | Baa Baa Black Sheep | 0.00% | ~0 |
 | Back in Control | 0.00% | ~0 |
 | Back to the Piast | 0.00% | ~0 |
@@ -92,7 +98,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Big Blue Blob | 0.00% | ~0 |
 | Black Jack | 0.00% | ~0 |
 | Bleed Them Dry | 0.00% | ~0 |
-| Blockader | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -108,7 +113,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cities of Cibola | 0.00% | ~0 |
 | City of Cities | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
-| Combined Arms | 0.00% | ~0 |
 | Consulate of the Sea | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
@@ -128,7 +132,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
-| The Emperors new clothes | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
 | Even Better than Piet Heyn | 0.00% | ~0 |
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
@@ -260,7 +263,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Redecorating | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Relentless Push East | 0.00% | ~0 |
-| Royal Authority | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
 | Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
@@ -305,7 +307,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Burgundian Conquest | 0.00% | ~0 |
 | The Chrysanthemum Throne | 0.00% | ~0 |
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
-| The Continuation of Diplomacy | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Grand Armada | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
@@ -320,7 +321,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Three Mountains | 0.00% | ~0 |
 | The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
-| This is fine | 0.00% | ~0 |
 | This is My Faith | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
 | This navy can take it all | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,453 (Ranked 41)  
+Progressed: 448,511 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,17 +570,17 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,453 | 1 |
+| 2023-11-06 | 448,511 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
-Sum: 56,250 (Ranked 24)  
+Sum: 56,275 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,844 |
 | This game is Highly Recommended | 6,550 |
 | This game has Diverse Characters | 6,549 |
-| This game has Challenging Combat | 6,455 |
+| This game has Challenging Combat | 6,480 |
 | This game is Extremely Fun | 6,444 |
 | This game is Relaxing | 6,294 |
 | This game has Competitive Players | 6,128 |
@@ -883,4 +883,4 @@ Diff (max vs sum): 30
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
-| 2023-11-06 | 4.69 | - | 6,844 | 56,250 |
+| 2023-11-06 | 4.69 | - | 6,844 | 56,275 |

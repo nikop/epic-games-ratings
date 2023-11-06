@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -719,6 +719,11 @@
       "Time": "2023-11-06T13:17:30.6646082+00:00",
       "NumProgressed": 166,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T15:08:47.4246226+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -729,17 +734,17 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -753,9 +758,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -763,7 +768,7 @@
       "Name": "Murderer",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -771,7 +776,7 @@
       "Name": "Killer",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -795,7 +800,7 @@
       "Name": "Badlands is safe!",
       "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -809,9 +814,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -849,9 +854,9 @@
       "ID": "REACH_LEVEL_15",
       "SetID": "14g34pl",
       "Name": "Robust",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 110,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "REACH_LEVEL_5",
@@ -859,21 +864,21 @@
       "Name": "Strong",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:08:49.7787147+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:08:47.4246222+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:59:05.0745319+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:08:49.7787289+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:58:58.5907425+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:08:47.4246401+00:00"
 }

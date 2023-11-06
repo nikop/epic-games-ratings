@@ -28,11 +28,11 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.70% | ~1,098 |
 | Predator | 0.70% | ~1,098 |
 | Hunt Down | 0.60% | ~941 |
-| Artisan | 0.50% | ~784 |
-| Hush | 0.50% | ~784 |
-| Inevitable | 0.50% | ~784 |
-| All-Seeing | 0.50% | ~784 |
-| Breathsmith | 0.50% | ~784 |
+| Artisan | 0.50% | ~785 |
+| Hush | 0.50% | ~785 |
+| Inevitable | 0.50% | ~785 |
+| All-Seeing | 0.50% | ~785 |
+| Breathsmith | 0.50% | ~785 |
 | Dream | 0.50% | ~782 |
 | Breath | 0.40% | ~628 |
 | Unwrap the Gift | 0.40% | ~628 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,898 (Ranked 76)  
+Progressed: 156,903 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
 | 2023-11-05 | 156,812 | 1 |
-| 2023-11-06 | 156,898 | 1 |
+| 2023-11-06 | 156,903 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 426)  
 Sum: 350 (Ranked 348)  

@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 495,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 33,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.06,
   "EosHistory": [
@@ -352,8 +352,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:03:51.9499414+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:03:44.7367693+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:19.343077+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:59:06.6625844+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:03:51.9499569+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:59:00.7247742+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:03:44.736781+00:00"
 }

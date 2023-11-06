@@ -4007,9 +4007,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76060,
+  "EOS_Progressed": 76061,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21662,6 +21662,11 @@
       "Time": "2023-11-06T13:14:17.1753481+00:00",
       "NumProgressed": 76060,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-06T15:05:00.7834953+00:00",
+      "NumProgressed": 76061,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21793,7 +21798,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -21913,7 +21918,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14451
+      "UsersEstimate": 14452
     },
     {
       "ID": "FREEZE_3",
@@ -21921,7 +21926,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -22065,7 +22070,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25860
+      "UsersEstimate": 25861
     },
     {
       "ID": "MYSTERY_02",
@@ -22113,7 +22118,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "MYSTERY_08",
@@ -22160,13 +22165,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76060,
+      "Progressed": 76061,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46340,
+      "Progressed": 46341,
       "Completed": 2673
     }
   ],
@@ -22174,8 +22179,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-06T07:57:59.6333659+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:05:05.5318683+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:05:00.7834949+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:57:34.0760857+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:05:05.5319869+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:57:29.9623274+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:05:00.7836227+00:00"
 }

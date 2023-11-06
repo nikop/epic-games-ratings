@@ -5,25 +5,25 @@ Rating: 4.22 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Comrades | 0.50% | ~7 |
 | A Veil Lifted | 0.40% | ~6 |
+| Shared Triumph | 0.40% | ~6 |
+| No Mercy | 0.40% | ~6 |
+| Thriving in Darkness | 0.40% | ~6 |
 | Lost and Found | 0.30% | ~4 |
-| Comrades | 0.30% | ~4 |
-| Shared Triumph | 0.30% | ~4 |
-| No Mercy | 0.30% | ~4 |
 | Shades of Violence | 0.30% | ~4 |
-| Thriving in Darkness | 0.30% | ~4 |
 | The Past Shapes the Present | 0.30% | ~4 |
+| Weapon Collector | 0.20% | ~3 |
+| What Sights Contained Within | 0.20% | ~3 |
+| Ammunition Collector | 0.20% | ~3 |
+| Throwable Collector | 0.20% | ~3 |
+| Gesture Collector | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~1 |
-| Weapon Collector | 0.10% | ~1 |
 | Ironclad | 0.10% | ~1 |
-| What Sights Contained Within | 0.10% | ~1 |
 | Trinket Collector | 0.10% | ~1 |
-| Ammunition Collector | 0.10% | ~1 |
 | Inferno Adept | 0.10% | ~1 |
 | Radiant Adept | 0.10% | ~1 |
 | Umbral Adept | 0.10% | ~1 |
-| Throwable Collector | 0.10% | ~1 |
-| Gesture Collector | 0.10% | ~1 |
 | Salvation in Blood | 0.10% | ~1 |
 | Honed to Perfection | 0.10% | ~1 |
 | Rune Novice | 0.10% | ~1 |
@@ -69,7 +69,7 @@ Rating: 4.22 (Ranked 891)
 | A Rest Among the Dead | 0.10% | ~1 |
 | A Trace of Venom | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,448 (Ranked 233)  
+Progressed: 1,450 (Ranked 232)  
 Completed: 1 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.07%) (Ranked 286)
 | 2023-11-03 | 1,372 | 1 |
 | 2023-11-04 | 1,413 | 1 |
 | 2023-11-05 | 1,437 | 1 |
-| 2023-11-06 | 1,448 | 1 |
+| 2023-11-06 | 1,450 | 1 |
 ## Awards
 Max (Character Customization): 131  (Ranked 325)  
 Sum: 224 (Ranked 386)  

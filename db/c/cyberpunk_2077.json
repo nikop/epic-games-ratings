@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14768,10 +14768,10 @@
       "Count": 12494
     }
   ],
-  "EOS_Progressed": 895520,
-  "EOS_Completed": 2748,
-  "EOS_NewPlayers": 940,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 895533,
+  "EOS_Completed": 2749,
+  "EOS_NewPlayers": 953,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37408,6 +37408,11 @@
       "Time": "2023-11-06T14:06:11.9699204+00:00",
       "NumProgressed": 895520,
       "NumCompleted": 2748
+    },
+    {
+      "Time": "2023-11-06T15:06:05.7652826+00:00",
+      "NumProgressed": 895533,
+      "NumCompleted": 2749
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37748,7 +37753,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17910
+      "UsersEstimate": 17911
     },
     {
       "ID": "YipMan",
@@ -37955,21 +37960,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895520,
-      "Completed": 2748
+      "Progressed": 895533,
+      "Completed": 2749
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24143,
-      "Completed": 10193
+      "Progressed": 24156,
+      "Completed": 10194
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-06T13:09:10.5455978+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:06:11.96992+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:06:05.7652821+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:59:58.5870466+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:06:11.9700491+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:59:51.1083649+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:06:05.7654578+00:00"
 }

@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | You had one wish left | 9.00% | ~3 |
 | The beast in the Oval Office | 9.00% | ~3 |
+| Blood Red Island | 9.00% | ~3 |
 | Pulp! The Beyond | 9.00% | ~3 |
 | America had no Faith | 9.00% | ~3 |
 | Master trainee | 6.00% | ~2 |
 | Blessed antennas | 6.00% | ~2 |
-| Blood Red Island | 6.00% | ~2 |
 | You have three wishes left | 6.00% | ~2 |
 | The scholar | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 743,
+  "EOS_Progressed": 744,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2141,6 +2141,11 @@
       "Time": "2023-11-05T20:10:07.5128319+00:00",
       "NumProgressed": 743,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T15:08:40.3177335+00:00",
+      "NumProgressed": 744,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2184,7 +2189,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "Devoted",
@@ -2264,7 +2269,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "LiarLiar",
@@ -2407,7 +2412,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 743,
+      "Progressed": 744,
       "Completed": 1
     }
   ],
@@ -2415,8 +2420,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:08:42.4667664+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:08:40.317733+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:31.5200978+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:57:27.2237347+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:08:42.4667945+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:57:22.7908851+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:08:40.3177667+00:00"
 }

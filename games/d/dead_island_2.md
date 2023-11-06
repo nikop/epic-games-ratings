@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| One of Us | 1.00% | ~394 |
 | Whatever It Takes | 1.00% | ~394 |
 | Pork Chopped | 1.00% | ~394 |
-| One of Us | 0.90% | ~355 |
-| Hotel California | 0.40% | ~2,855 |
-| Welcome To Hell-A | 0.40% | ~2,855 |
+| Hotel California | 0.40% | ~2,856 |
+| Welcome To Hell-A | 0.40% | ~2,856 |
 | Dr. Reed, I Presume? | 0.30% | ~2,142 |
 | Git Gutte! | 0.30% | ~2,142 |
 | Anger Management | 0.30% | ~2,142 |
@@ -35,6 +35,7 @@ Rating: 4.54 (Ranked 521)
 | A Patton Emerges | 0.20% | ~1,428 |
 | Humanity Distilled | 0.20% | ~1,428 |
 | I Am the Resurrection | 0.20% | ~1,428 |
+| Down with the Sickness | 0.20% | ~1,428 |
 | Max Headroom | 0.20% | ~1,428 |
 | Our True Nature | 0.20% | ~1,428 |
 | Top That, Tisha! | 0.20% | ~79 |
@@ -47,7 +48,6 @@ Rating: 4.54 (Ranked 521)
 | Sole Survivor | 0.10% | ~714 |
 | Jumbo Keyring | 0.10% | ~714 |
 | Gore Horse | 0.10% | ~714 |
-| Down with the Sickness | 0.10% | ~714 |
 | Sharpest Tool in the Box | 0.10% | ~714 |
 | Survival Skills | 0.10% | ~714 |
 | Go, Bobcats! | 0.10% | ~714 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Lawn and Order | 0.10% | ~39 |
 | Wilhelm | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,853 (Ranked 21)  
-Completed: 2,347 (0.33%) (Ranked 218)  
+Progressed: 713,890 (Ranked 21)  
+Completed: 2,348 (0.33%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,7 +257,7 @@ Completed: 2,347 (0.33%) (Ranked 218)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,853 | 2,347 |
+| 2023-11-06 | 713,890 | 2,348 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 53)  
 Sum: 10,717 (Ranked 89)  

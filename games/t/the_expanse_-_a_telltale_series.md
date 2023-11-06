@@ -27,8 +27,8 @@ Rating: 4.55 (Ranked 500)
 | Keep Arjun in Check | 1.00% | ~7 |
 | Master Negotiator | 1.00% | ~7 |
 | Bottoms up! | 0.90% | ~132 |
+| Doctor Approved | 0.80% | ~118 |
 | Miraculous Maya | 0.80% | ~118 |
-| Doctor Approved | 0.70% | ~103 |
 | Data Logger | 0.50% | ~74 |
 | Data Master | 0.50% | ~74 |
 | No Belter Left Behind | 0.40% | ~59 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,705 (Ranked 146)  
+Progressed: 14,706 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
-| 2023-11-06 | 14,705 | 33 |
+| 2023-11-06 | 14,706 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
     {
       "Time": "2023-11-06T14:04:40.7335816+00:00",
       "NumProgressed": 72,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T15:04:33.1074312+00:00",
+      "NumProgressed": 90,
       "NumCompleted": 0
     }
   ],
@@ -152,7 +157,7 @@
       "ID": "Ql01station",
       "SetID": "80nhi4a",
       "Name": "Night Has Just Begun",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -232,7 +237,7 @@
       "ID": "SecretArcadeRoom",
       "SetID": "80nhi4a",
       "Name": "No stone unturned",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -256,7 +261,7 @@
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -272,7 +277,7 @@
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -289,14 +294,14 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:04:40.7335812+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:04:33.1074306+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:57:46.2798616+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:04:40.7335964+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:57:42.6546223+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:04:33.1074493+00:00"
 }

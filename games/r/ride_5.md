@@ -8,7 +8,7 @@
 | First Love | 43.00% | ~868 |
 | Clean Race | 41.00% | ~828 |
 | Hear That Roar! | 39.00% | ~787 |
-| Rivals to the End | 28.00% | ~565 |
+| Rivals to the End | 29.00% | ~586 |
 | Bitter Rivalry | 26.00% | ~525 |
 | We're Going to Need a Bigger Garage | 24.00% | ~485 |
 | Champagne Spray | 24.00% | ~485 |

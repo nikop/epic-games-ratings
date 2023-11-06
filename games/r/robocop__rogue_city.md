@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 4.00% | ~3 |
-| No stone unturned | 3.00% | ~2 |
-| Dead-On | 3.00% | ~2 |
-| "This Guy Is Really Good" | 3.00% | ~2 |
+| Night Has Just Begun | 3.00% | ~3 |
+| No stone unturned | 2.00% | ~2 |
+| Dead-On | 2.00% | ~2 |
+| "This Guy Is Really Good" | 2.00% | ~2 |
 | I'd Buy That For a Dollar! | 1.00% | ~1 |
 | Hard Boiled | 1.00% | ~1 |
 | Uphold the Law | 1.00% | ~1 |
@@ -32,7 +32,7 @@
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 434)  
+Progressed: 90 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,4 +41,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-13 | 3 | 0 |
 | 2023-10-23 | 4 | 0 |
 | 2023-11-02 | 5 | 0 |
-| 2023-11-06 | 72 | 0 |
+| 2023-11-06 | 90 | 0 |

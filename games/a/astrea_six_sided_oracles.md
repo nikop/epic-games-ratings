@@ -23,9 +23,9 @@
 | Star Killer | 22.00% | ~15 |
 | Aquarian Champion | 22.00% | ~15 |
 | Astral Adventurer | 21.00% | ~14 |
+| Astral Seeker | 19.00% | ~13 |
 | Heart Gate | 19.00% | ~13 |
 | Shard Spender | 19.00% | ~13 |
-| Astral Seeker | 18.00% | ~12 |
 | The Corruption Goddess | 18.00% | ~12 |
 | The Goddes Avatar | 18.00% | ~12 |
 | Unbeatable | 18.00% | ~12 |

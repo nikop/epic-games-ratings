@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,901 |
-| Worth it | 63.00% | ~39,497 |
-| Eagle Eye | 55.00% | ~34,481 |
-| Corpseman I | 40.00% | ~25,077 |
-| Blast fishing | 37.00% | ~23,196 |
+| Setting an example | 78.00% | ~48,902 |
+| Worth it | 63.00% | ~39,498 |
+| Eagle Eye | 55.00% | ~34,482 |
+| Corpseman I | 40.00% | ~25,078 |
+| Blast fishing | 37.00% | ~23,197 |
 | Not alone | 32.00% | ~20,062 |
-| Headhunter I | 26.00% | ~16,300 |
-| Manual Labour I | 25.00% | ~15,673 |
-| Developers, Developers, Developers | 24.00% | ~15,046 |
-| Basic Training | 24.00% | ~15,046 |
+| Headhunter I | 26.00% | ~16,301 |
+| Manual Labour I | 25.00% | ~15,674 |
+| Developers, Developers, Developers | 24.00% | ~15,047 |
+| Basic Training | 24.00% | ~15,047 |
 | Furchtlos und Treu | 13.00% | ~8,150 |
 | Gott Mit Uns | 12.00% | ~7,523 |
-| This We'll Defend! | 9.00% | ~5,642 |
-| Anker wirf! | 9.00% | ~5,642 |
-| Providentiea Memor | 9.00% | ~5,642 |
-| For King and Country | 9.00% | ~5,642 |
-| Battle hardened | 8.00% | ~5,015 |
+| This We'll Defend! | 9.00% | ~5,643 |
+| Anker wirf! | 9.00% | ~5,643 |
+| Providentiea Memor | 9.00% | ~5,643 |
+| For King and Country | 9.00% | ~5,643 |
+| Battle hardened | 8.00% | ~5,016 |
 | Semper Fidelis! | 7.00% | ~4,389 |
 | Honneur et Patrie | 7.00% | ~4,389 |
 | In Treue Fest | 5.00% | ~3,135 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,693 (Ranked 104)  
+Progressed: 62,695 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 4 (0.01%) (Ranked 321)
 | 2023-11-03 | 62,462 | 4 |
 | 2023-11-04 | 62,568 | 4 |
 | 2023-11-05 | 62,667 | 4 |
-| 2023-11-06 | 62,693 | 4 |
+| 2023-11-06 | 62,695 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 903 (Ranked 269)  

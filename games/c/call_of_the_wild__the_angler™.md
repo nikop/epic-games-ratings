@@ -14,17 +14,17 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 0.10% | ~6 |
 | More Fish in the Sea | 0.10% | ~6 |
 | Scaling up | 0.10% | ~6 |
+| Things that go Splash in the Night | 0.10% | ~6 |
 | More than a Tourist | 0.10% | ~6 |
+| Goldfish? | 0.10% | ~6 |
+| Going for Gold | 0.10% | ~6 |
 | School's Out for Summer | 0.10% | ~6 |
 | Diamond in the Rough | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
-| Things that go Splash in the Night | 0.00% | ~0 |
 | License to Gill | 0.00% | ~0 |
 | I'm the Captain Now | 0.00% | ~0 |
 | Hook, Line and Sinker | 0.00% | ~0 |
-| Goldfish? | 0.00% | ~0 |
-| Going for Gold | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
 | The Beetles | 0.00% | ~0 |
 | Lake Me up Before You Go Go | 0.00% | ~0 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | All Good Kings Must Come to an End | 0.00% | ~0 |
 | Three Square Meals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,396 (Ranked 177)  
+Progressed: 6,401 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 6,286 | 0 |
 | 2023-11-04 | 6,326 | 0 |
 | 2023-11-05 | 6,377 | 0 |
-| 2023-11-06 | 6,396 | 0 |
+| 2023-11-06 | 6,401 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 402)  

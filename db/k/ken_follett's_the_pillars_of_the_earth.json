@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16220,
+  "EOS_Progressed": 16221,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -13588,6 +13588,11 @@
       "Time": "2023-11-06T13:12:22.0454093+00:00",
       "NumProgressed": 16220,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-06T15:03:02.6189787+00:00",
+      "NumProgressed": 16221,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13663,7 +13668,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2758
     },
     {
       "ID": "tpote_achievement_18",
@@ -13759,7 +13764,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "tpote_achievement_29",
@@ -13775,7 +13780,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "tpote_achievement_30",
@@ -13926,15 +13931,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16220,
+      "Progressed": 16221,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:03:09.1045699+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:03:02.6189784+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:58:38.5490794+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:03:09.1046972+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:58:31.0985662+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:03:02.6190902+00:00"
 }

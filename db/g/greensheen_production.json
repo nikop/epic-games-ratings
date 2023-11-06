@@ -139,9 +139,9 @@
       "ID": "CompleteHospital",
       "SetID": "aph8hbk",
       "Name": "Hospitalised",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CompletePaleCity",
@@ -355,9 +355,9 @@
       "ID": "SpareDoc",
       "SetID": "aph8hbk",
       "Name": "First do no harm",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ThinmanHat",
@@ -393,8 +393,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-06T14:08:24.8790194+00:00",
+  "LastChanged_Achievements": "2023-11-06T15:08:17.1845802+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-06T13:59:40.1787012+00:00",
-  "LastUpdate_Achievements": "2023-11-06T14:08:24.8790415+00:00"
+  "LastUpdate_Ratings": "2023-11-06T14:59:32.8577355+00:00",
+  "LastUpdate_Achievements": "2023-11-06T15:08:17.1846077+00:00"
 }
