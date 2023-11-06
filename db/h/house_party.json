@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -371,9 +371,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6435,
+  "EOS_Progressed": 6437,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6091,6 +6091,11 @@
       "Time": "2023-11-05T18:08:15.1604089+00:00",
       "NumProgressed": 6435,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-06T01:49:40.6099446+00:00",
+      "NumProgressed": 6437,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6382,7 +6387,7 @@
       "Name": "Life Found a Way",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MoneyShot",
@@ -6653,21 +6658,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3474,
+      "Progressed": 3476,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6435,
+      "Progressed": 6437,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:08:35.2979749+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:49:40.6099444+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.1273071+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:57:57.3529163+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:08:35.2980825+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:44:13.1804425+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:49:40.6100837+00:00"
 }

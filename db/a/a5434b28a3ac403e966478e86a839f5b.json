@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1616,9 +1616,9 @@
       "ID": "ACH_eou7",
       "SetID": "51of0eo",
       "Name": "Destroy the Big Gun",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_eou8",
@@ -1671,8 +1671,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:04:12.4269469+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:50:46.1927562+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:42.0559682+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:59:02.6424565+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:04:12.4269669+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:45:18.2119313+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:50:46.1927731+00:00"
 }

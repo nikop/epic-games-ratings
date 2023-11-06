@@ -7,6 +7,7 @@ Rating: 4.55 (Ranked 500)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 5.00% | ~735 |
 | The Pit and the Pirates | 2.00% | ~294 |
+| Stogie for Fogey | 2.00% | ~294 |
 | Drug Gifter | 2.00% | ~294 |
 | Spore Taste | 2.00% | ~294 |
 | Martian Music | 2.00% | ~294 |
@@ -19,7 +20,6 @@ Rating: 4.55 (Ranked 500)
 | Safe Cracker | 2.00% | ~13 |
 | Zen Master | 2.00% | ~13 |
 | Data Archivist | 1.00% | ~147 |
-| Stogie for Fogey | 1.00% | ~147 |
 | Thorston Mayer | 1.00% | ~147 |
 | Heal Thy Medic | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,692 (Ranked 146)  
-Completed: 32 (0.22%) (Ranked 235)  
+Progressed: 14,695 (Ranked 146)  
+Completed: 33 (0.22%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -148,7 +148,7 @@ Completed: 32 (0.22%) (Ranked 235)
 | 2023-11-03 | 14,608 | 31 |
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
-| 2023-11-06 | 14,692 | 32 |
+| 2023-11-06 | 14,695 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

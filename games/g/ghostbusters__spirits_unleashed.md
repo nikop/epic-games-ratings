@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,121 |
-| Advancement | 5.00% | ~1,515 |
-| Meticulously Efficient | 5.00% | ~1,515 |
+| Stylish | 7.00% | ~2,122 |
+| Advancement | 5.00% | ~1,516 |
+| Meticulously Efficient | 5.00% | ~1,516 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,212 |
 | Discovery | 4.00% | ~1,212 |
 | Fully Upgraded | 4.00% | ~1,212 |
@@ -16,6 +16,7 @@ Rating: 4.50 (Ranked 583)
 | Teamwork | 4.00% | ~1,212 |
 | Clutch Capture | 3.00% | ~909 |
 | Cultured | 3.00% | ~909 |
+| Ghostbuster In Training | 3.00% | ~909 |
 | There you are! | 3.00% | ~909 |
 | Vaporous Expansion | 3.00% | ~909 |
 | Whoopsie | 3.00% | ~909 |
@@ -24,7 +25,6 @@ Rating: 4.50 (Ranked 583)
 | We have the best insurance | 2.00% | ~606 |
 | Daily Dose | 2.00% | ~606 |
 | Ectoplasmic Entity | 2.00% | ~606 |
-| Ghostbuster In Training | 2.00% | ~606 |
 | Icing on the Cake | 2.00% | ~606 |
 | Legions | 2.00% | ~606 |
 | Pesky Jerks | 2.00% | ~606 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 583)
 | Fragile Panes | 0.80% | ~242 |
 | Liability | 0.80% | ~242 |
 | Surprise! | 0.80% | ~242 |
-| Therapeutic | 0.50% | ~151 |
+| Therapeutic | 0.50% | ~152 |
 | Rift Seeker | 0.40% | ~121 |
 | Master Collector | 0.30% | ~91 |
 | Ghost Expert | 0.20% | ~61 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 583)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,299 (Ranked 122)  
+Progressed: 30,312 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,14 +257,14 @@ Completed: 65 (0.21%) (Ranked 237)
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
 | 2023-11-05 | 30,292 | 65 |
-| 2023-11-06 | 30,299 | 65 |
+| 2023-11-06 | 30,312 | 65 |
 ## Awards
-Max (Great for Beginners): 302  (Ranked 246)  
-Sum: 2,703 (Ranked 180)  
-Diff (max vs sum): 66  
+Max (Great for Beginners): 305  (Ranked 245)  
+Sum: 2,706 (Ranked 180)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 302 |
+| This game is Great for Beginners | 305 |
 | This game is Great for Quick Sessions | 297 |
 | This game has Diverse Characters | 277 |
 | This game has Amazing Storytelling | 273 |
@@ -482,3 +482,4 @@ Diff (max vs sum): 66
 | 2023-11-03 | 4.50 | 300 | 2,676 |
 | 2023-11-04 | 4.50 | 302 | 2,693 |
 | 2023-11-05 | 4.50 | 302 | 2,703 |
+| 2023-11-06 | 4.50 | 305 | 2,706 |

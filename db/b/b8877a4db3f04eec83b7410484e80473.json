@@ -4,8 +4,8 @@
   "ProductSlug": "railbreak-f87a0c",
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -28,9 +28,211 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-06T01:52:57.8819176+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ARCADE_HERO_ACH",
+      "SetID": "af7amn3",
+      "Name": "Arcade Hero",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARCADE_LEGEND_ACH",
+      "SetID": "af7amn3",
+      "Name": "Arcade Legend",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BEST_MECHANIC_EVER_ACH",
+      "SetID": "af7amn3",
+      "Name": "Best Mechanic Ever",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BETTER_FILL_UP_ACH",
+      "SetID": "af7amn3",
+      "Name": "Better Fill Up",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CITY_CENTER_ACH",
+      "SetID": "af7amn3",
+      "Name": "City Center",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CYPRESS_RIDGE_PARK_ACH",
+      "SetID": "af7amn3",
+      "Name": "Cypress Ridge Park",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DINNER_WITH_FRIENDS_ACH",
+      "SetID": "af7amn3",
+      "Name": "Dinner with Friends",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXPLOSIVE_TEMPER_ACH",
+      "SetID": "af7amn3",
+      "Name": "Explosive Temper",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEADSHOT_ACH",
+      "SetID": "af7amn3",
+      "Name": "Headshot",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAIN_STREET_ACH",
+      "SetID": "af7amn3",
+      "Name": "Main Street",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEDICAL_EXCELLENCE_ACH",
+      "SetID": "af7amn3",
+      "Name": "Medical Excellence",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRANDAS_GARAGE_ACH",
+      "SetID": "af7amn3",
+      "Name": "Miranda\u0027s Garage",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PARK_PICNIC_ACH",
+      "SetID": "af7amn3",
+      "Name": "Park Picnic",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHOPPING_SPREE_ACH",
+      "SetID": "af7amn3",
+      "Name": "Shopping Spree",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATION_OF_THE_DEAD_ACH",
+      "SetID": "af7amn3",
+      "Name": "Station of the Dead",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TAKE_IN_THE_TOWN_ACH",
+      "SetID": "af7amn3",
+      "Name": "Take in the Town",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_BARTENDER_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Bartender",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_CHEF_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Chef",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_JOURNALIST_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Journalist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_LAST_SHOT_BAR_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Last Shot Bar",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_MAYOR_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Mayor",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_MECHANIC_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Mechanic",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_SINGER_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Singer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_STUDENT_ACH",
+      "SetID": "af7amn3",
+      "Name": "The Student",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WEAK_KNEES_ACH",
+      "SetID": "af7amn3",
+      "Name": "Weak Knees",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "af7amn3",
@@ -40,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-05T21:07:03.3998078+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:06:22.8625671+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:52:57.8819168+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.7197128+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:57:34.3019645+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:06:22.862571+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:43:49.4801561+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:52:57.9143043+00:00"
 }

@@ -13,13 +13,13 @@
 | True G3M4R | 18.00% | ~82 |
 | The darkness | 18.00% | ~82 |
 | I did it | 16.00% | ~73 |
+| Peace walker | 16.00% | ~73 |
 | Cable guy | 16.00% | ~73 |
 | A good beginning | 16.00% | ~73 |
 | Half the way | 16.00% | ~73 |
 | One last step | 16.00% | ~73 |
-| Peace walker | 15.00% | ~68 |
+| In this together | 15.00% | ~68 |
 | Champollion | 15.00% | ~68 |
-| In this together | 14.00% | ~64 |
 | Alchemists Express | 14.00% | ~64 |
 | Open door | 13.00% | ~59 |
 | Feels like springtime | 13.00% | ~59 |

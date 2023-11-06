@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6625,6 +6625,11 @@
       "Time": "2023-11-05T15:03:15.0601333+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T01:49:58.1058986+00:00",
+      "NumProgressed": 1771,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6636,7 +6641,7 @@
       "Name": "Know The Enemy",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6660,7 +6665,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6756,7 +6761,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6780,7 +6785,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -6820,7 +6825,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6892,7 +6897,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6939,7 +6944,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1771,
       "Completed": 1
     }
   ],
@@ -6947,8 +6952,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:03:25.4703701+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:49:58.1058983+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:59:24.1406252+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:03:25.470452+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:45:36.2110222+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:49:58.1059607+00:00"
 }

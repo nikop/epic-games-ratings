@@ -5,19 +5,19 @@ Rating: 4.60 (Ranked 407)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,142 |
-| All thumbs | 92.00% | ~5,087 |
-| I will survive! | 92.00% | ~5,087 |
-| Home, sweet home | 91.00% | ~5,031 |
-| Survivalist | 90.00% | ~4,976 |
+| Prepper | 93.00% | ~5,143 |
+| All thumbs | 92.00% | ~5,088 |
+| I will survive! | 92.00% | ~5,088 |
+| Home, sweet home | 91.00% | ~5,032 |
+| Survivalist | 90.00% | ~4,977 |
 | One way ticket | 85.00% | ~4,700 |
-| Last man standing | 80.00% | ~4,423 |
-| Family guy | 77.00% | ~4,257 |
-| Out of the Bag | 76.00% | ~4,202 |
-| The Dark Side | 70.00% | ~3,870 |
-| Duck and cover! | 66.00% | ~3,649 |
+| Last man standing | 80.00% | ~4,424 |
+| Family guy | 77.00% | ~4,258 |
+| Out of the Bag | 75.00% | ~4,148 |
+| The Dark Side | 70.00% | ~3,871 |
+| Duck and cover! | 66.00% | ~3,650 |
 | Souper! | 65.00% | ~3,594 |
-| Pacifist | 59.00% | ~3,262 |
+| Pacifist | 59.00% | ~3,263 |
 | 2-1-6 | 58.00% | ~3,207 |
 | A gift | 54.00% | ~2,986 |
 | Girl Power | 48.00% | ~2,654 |
@@ -26,9 +26,9 @@ Rating: 4.60 (Ranked 407)
 | Unbreakable | 37.00% | ~2,046 |
 | Gotta get 'em all | 34.00% | ~1,880 |
 | This is the end | 34.00% | ~1,880 |
-| Atomic drill | 33.00% | ~1,825 |
+| Atomic drill | 32.00% | ~1,770 |
 | Disco Roach | 28.00% | ~1,548 |
-| Dawkins Residence | 22.00% | ~1,216 |
+| Dawkins Residence | 22.00% | ~1,217 |
 | New order | 18.00% | ~995 |
 | Rescue time! | 18.00% | ~995 |
 | New species | 17.00% | ~940 |
@@ -36,7 +36,7 @@ Rating: 4.60 (Ranked 407)
 | Enigma | 16.00% | ~885 |
 | Challenger | 13.00% | ~719 |
 | Men in Black | 13.00% | ~719 |
-| No stone unturned | 12.00% | ~663 |
+| No stone unturned | 12.00% | ~664 |
 | Unplugged | 8.00% | ~442 |
 | Holidays! | 7.00% | ~387 |
 | Mad Hatter | 7.00% | ~387 |
@@ -56,8 +56,8 @@ Rating: 4.60 (Ranked 407)
 | Cuckoo's nest | 1.00% | ~55 |
 | Raining Cats and Dogs | 1.00% | ~55 |
 | Konrad style! | 1.00% | ~55 |
-| Bughunter | 0.90% | ~50 |
 | Cat Lady | 0.90% | ~50 |
+| Bughunter | 0.80% | ~44 |
 | Naysayer | 0.70% | ~39 |
 | Pro gamer | 0.70% | ~39 |
 | Manhattan Project | 0.60% | ~33 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 407)
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,529 (Ranked 180)  
+Progressed: 5,530 (Ranked 180)  
 Completed: 1 (0.02%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 1 (0.02%) (Ranked 313)
 | 2023-11-03 | 5,516 | 1 |
 | 2023-11-04 | 5,520 | 1 |
 | 2023-11-05 | 5,528 | 1 |
-| 2023-11-06 | 5,529 | 1 |
+| 2023-11-06 | 5,530 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@ Number of Ratings: 177  (23.09.2022)
 | If at First You Don't Succeed... | 3.00% | ~193 |
 | The Brahdyssey | 2.00% | ~129 |
 | Drunk and Disorderly: Stephanie | 2.00% | ~129 |
-| Life Found a Way | 2.00% | ~69 |
+| Life Found a Way | 2.00% | ~70 |
 | Relentless | 2.00% | ~129 |
 | Amy | 1.00% | ~64 |
 | Drunk and Disorderly: Ashley | 1.00% | ~64 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,435 (Ranked 176)  
+Progressed: 6,437 (Ranked 176)  
 Completed: 3 (0.05%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 3 (0.05%) (Ranked 296)
 | 2023-11-03 | 6,429 | 3 |
 | 2023-11-04 | 6,431 | 3 |
 | 2023-11-05 | 6,435 | 3 |
+| 2023-11-06 | 6,437 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

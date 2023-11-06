@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6889,9 +6889,9 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138683,
+  "EOS_Progressed": 138684,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27259,6 +27259,11 @@
       "Time": "2023-11-06T00:03:19.9714952+00:00",
       "NumProgressed": 138683,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-06T01:49:52.5988133+00:00",
+      "NumProgressed": 138684,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27502,7 +27507,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "commonres02",
@@ -27534,7 +27539,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "craft02",
@@ -27742,7 +27747,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "gold02",
@@ -28046,7 +28051,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "sell02",
@@ -28165,15 +28170,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138683,
+      "Progressed": 138684,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-05T21:57:37.6445626+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:03:19.9714947+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:49:52.598813+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:57:35.1863671+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:03:19.9718103+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:43:50.3920976+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:49:52.5989994+00:00"
 }

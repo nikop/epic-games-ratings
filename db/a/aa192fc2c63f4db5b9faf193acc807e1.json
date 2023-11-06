@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 485,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Completed": 22,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 37,
-  "EOS_Completed": 5,
-  "EOS_NewPlayers": 19,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 13.51,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 18,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 16.22,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -209,6 +209,11 @@
       "Time": "2023-11-04T14:22:07.2883638+00:00",
       "NumProgressed": 37,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T01:55:38.7361924+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -219,17 +224,17 @@
       "ID": "creepytaleach1",
       "SetID": "bnif31p",
       "Name": "Follow to the brother",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "creepytaleach10",
       "SetID": "bnif31p",
       "Name": "Intuition",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "creepytaleach11",
@@ -243,17 +248,17 @@
       "ID": "creepytaleach12",
       "SetID": "bnif31p",
       "Name": "Sweet feeling",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytaleach2",
@@ -315,9 +320,9 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -325,13 +330,13 @@
       "ID": "bnif31p",
       "IsBase": true,
       "Progressed": 37,
-      "Completed": 5
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:09:13.3460241+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:55:38.7361921+00:00",
   "LastUpdate_AppInfo": "2023-11-01T02:57:17.7438301+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:58:45.7358155+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:09:13.3460367+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:45:00.848773+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:55:38.7361998+00:00"
 }

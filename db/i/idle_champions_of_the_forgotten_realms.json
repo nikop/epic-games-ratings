@@ -6,7 +6,7 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -7849,10 +7849,10 @@
       "Count": 3506
     }
   ],
-  "EOS_Progressed": 233778,
+  "EOS_Progressed": 233783,
   "EOS_Completed": 2432,
   "EOS_NewPlayers": 575,
-  "EOS_NewCompleters": 32,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -30154,6 +30154,11 @@
       "Time": "2023-11-06T00:03:35.7360129+00:00",
       "NumProgressed": 233778,
       "NumCompleted": 2432
+    },
+    {
+      "Time": "2023-11-06T01:50:09.0601927+00:00",
+      "NumProgressed": 233783,
+      "NumCompleted": 2432
     }
   ],
   "TotalAchievements": 532,
@@ -34395,9 +34400,9 @@
       "ID": "objective_completed_1548",
       "SetID": "415jc5c",
       "Name": "Tomb of Champions",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 1000
     },
     {
       "ID": "objective_completed_1552",
@@ -34420,21 +34425,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200052,
-      "Completed": 3887
+      "Progressed": 200057,
+      "Completed": 3888
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233778,
+      "Progressed": 233783,
       "Completed": 2432
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-05T18:59:51.953661+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:03:35.7360123+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:50:09.0601925+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-06T00:00:06.5404543+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:03:35.7389702+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:46:20.2453082+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:50:09.0625108+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -808,10 +808,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2186,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2023-11-06T01:44:10.1637434+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2187,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2186,
+  "NumberOfAwards": 2187,
   "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -861,7 +867,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 282
+      "Count": 283
     },
     {
       "Text": "This game is Great for Beginners",
@@ -876,9 +882,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 226526,
+  "EOS_Progressed": 226533,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22716,6 +22722,11 @@
       "Time": "2023-11-06T00:09:04.6865068+00:00",
       "NumProgressed": 226526,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T01:55:29.4852317+00:00",
+      "NumProgressed": 226533,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -22727,7 +22738,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43040
+      "UsersEstimate": 43041
     },
     {
       "ID": "ACH_BASE_10",
@@ -22735,7 +22746,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58897
+      "UsersEstimate": 58899
     },
     {
       "ID": "ACH_BASE_11",
@@ -22767,7 +22778,7 @@
       "Name": "Power Ranger",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20387
+      "UsersEstimate": 20388
     },
     {
       "ID": "ACH_BASE_16",
@@ -22783,7 +22794,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20387
+      "UsersEstimate": 20388
     },
     {
       "ID": "ACH_BASE_18",
@@ -22791,7 +22802,7 @@
       "Name": "Radium Ready",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20387
+      "UsersEstimate": 20388
     },
     {
       "ID": "ACH_BASE_19",
@@ -22975,7 +22986,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 27183
+      "UsersEstimate": 27184
     },
     {
       "ID": "ACH_BASE_8",
@@ -22991,23 +23002,23 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20387
+      "UsersEstimate": 20388
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226526,
+      "Progressed": 226533,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-11-04T19:57:12.744413+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:09:04.6865061+00:00",
+  "LastChanged": "2023-11-06T01:44:10.1637433+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:55:29.4852313+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.5149381+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:57:54.1212702+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:09:04.6866841+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:44:10.1637437+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:55:29.4853635+00:00"
 }

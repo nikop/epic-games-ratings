@@ -4,8 +4,8 @@
   "ProductSlug": "nevermore-294488",
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-24T16:00:00+00:00",
     "PcReleaseDate": "2023-12-24T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-05T06:57:09.5265401+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:59:41.744327+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:05:30.8852344+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:45:54.2713697+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:52:05.1802637+00:00"
 }

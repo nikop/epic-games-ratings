@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 308,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1986,9 +1986,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15168,
+  "EOS_Progressed": 15170,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15461,6 +15461,11 @@
       "Time": "2023-11-06T00:05:11.5913871+00:00",
       "NumProgressed": 15168,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T01:51:46.0329387+00:00",
+      "NumProgressed": 15170,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16846,9 +16851,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -18207,21 +18212,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15168,
+      "Progressed": 15170,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15168,
+      "Progressed": 15170,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-05T21:00:58.5537804+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:05:11.5913867+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:51:46.0329384+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-06T00:00:16.8511206+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:05:11.5925384+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:46:29.5486535+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:51:46.0338367+00:00"
 }

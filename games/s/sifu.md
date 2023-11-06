@@ -6,12 +6,13 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 0.70% | ~179 |
+| Diligence as a goal | 0.80% | ~204 |
 | The Old Grandmaster | 0.50% | ~3,581 |
 | The Assault | 0.50% | ~3,581 |
 | The Hateful Pole Fighter | 0.50% | ~3,581 |
 | Life is your teacher | 0.50% | ~3,581 |
 | State of constant learning | 0.50% | ~3,581 |
+| Qi Gong: Breath | 0.50% | ~3,581 |
 | Lightning Hands | 0.50% | ~3,581 |
 | Project Arena | 0.50% | ~128 |
 | Fight the way you practice | 0.50% | ~128 |
@@ -21,18 +22,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.40% | ~2,865 |
 | Stuntmaster | 0.40% | ~2,865 |
 | Street Fighting | 0.40% | ~2,865 |
-| Qi Gong: Breath | 0.40% | ~2,865 |
 | Qi Gong: Essence | 0.40% | ~2,865 |
 | Old Child | 0.40% | ~2,865 |
 | Path of the Prospect | 0.40% | ~2,865 |
 | Rumble in the Hangar | 0.40% | ~2,865 |
+| Take damage to save time | 0.40% | ~2,865 |
 | Martial Hub | 0.40% | ~102 |
 | Scareless | 0.30% | ~2,149 |
 | Dance of the Praying Mantis | 0.30% | ~2,149 |
 | Qi Gong: Mind | 0.30% | ~2,149 |
 | I know Kung-Fu | 0.30% | ~2,149 |
 | Kung-Fu Tussle | 0.30% | ~2,149 |
-| Take damage to save time | 0.30% | ~2,149 |
 | Bloody Sport | 0.30% | ~77 |
 | Muk Yan Master | 0.20% | ~1,432 |
 | Tiger on Fire | 0.20% | ~1,432 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,208 (Ranked 20)  
+Progressed: 716,209 (Ranked 20)  
 Completed: 12,933 (1.81%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 12,933 (1.81%) (Ranked 124)
 | 2023-11-03 | 716,149 | 12,930 |
 | 2023-11-04 | 716,177 | 12,931 |
 | 2023-11-05 | 716,208 | 12,933 |
+| 2023-11-06 | 716,209 | 12,933 |
 ## Awards
 Max (Great Boss Battles): 6,759  (Ranked 56)  
 Sum: 11,800 (Ranked 82)  

@@ -10,8 +10,8 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,273 |
 | The Hunt | 3.00% | ~4,705 |
 | Ravenous | 3.00% | ~4,705 |
-| Weeper | 2.00% | ~3,136 |
-| Devourer | 2.00% | ~3,136 |
+| Weeper | 2.00% | ~3,137 |
+| Devourer | 2.00% | ~3,137 |
 | Scion | 1.00% | ~1,564 |
 | Harmless | 1.00% | ~1,568 |
 | Jawcrab | 1.00% | ~1,568 |
@@ -20,7 +20,7 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 1.00% | ~1,568 |
 | Yank | 1.00% | ~1,568 |
 | Sharpened Vessel | 1.00% | ~1,568 |
-| Watcher | 0.90% | ~1,411 |
+| Watcher | 0.90% | ~1,412 |
 | Shapely | 0.80% | ~1,255 |
 | Glare | 0.80% | ~1,251 |
 | Assimilation | 0.70% | ~1,098 |
@@ -37,11 +37,11 @@ Number of Ratings: 46  (23.09.2022)
 | Breath | 0.40% | ~627 |
 | Unwrap the Gift | 0.40% | ~627 |
 | Passage | 0.40% | ~627 |
-| Bloodhunter | 0.30% | ~470 |
+| Bloodhunter | 0.30% | ~471 |
 | Zygote | 0.30% | ~469 |
-| Kinship | 0.30% | ~470 |
+| Kinship | 0.30% | ~471 |
 | Listen | 0.30% | ~469 |
-| Proportions | 0.30% | ~470 |
+| Proportions | 0.30% | ~471 |
 | Weakness | 0.20% | ~314 |
 | Kin | 0.20% | ~313 |
 | Intensify | 0.20% | ~313 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,820 (Ranked 76)  
+Progressed: 156,834 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
 | 2023-11-05 | 156,812 | 1 |
-| 2023-11-06 | 156,820 | 1 |
+| 2023-11-06 | 156,834 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 425)  
 Sum: 350 (Ranked 348)  

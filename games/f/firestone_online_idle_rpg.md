@@ -57,10 +57,10 @@ Rating: 4.10 (Ranked 955)
 | The Alchemist | 7.00% | ~148 |
 | Active Member | 6.00% | ~127 |
 | Ancient Knowledge | 6.00% | ~127 |
+| Background Story | 6.00% | ~127 |
 | Ebony Jungle Liberator | 6.00% | ~127 |
 | Legendary | 6.00% | ~127 |
 | Arena Challenger | 5.00% | ~106 |
-| Background Story | 5.00% | ~106 |
 | Gear Enchanting | 4.00% | ~85 |
 | Mythic Power | 4.00% | ~85 |
 | What lies behind the bush | 4.00% | ~85 |
@@ -82,7 +82,7 @@ Rating: 4.10 (Ranked 955)
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,113 (Ranked 213)  
-Completed: 2 (0.09%) (Ranked 273)  
+Completed: 2 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

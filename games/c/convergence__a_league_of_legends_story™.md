@@ -18,10 +18,10 @@ Rating: 4.62 (Ranked 364)
 | No, Thanks! | 21.00% | ~193 |
 | Breaking Down Barriers | 21.00% | ~193 |
 | The Wicked Twins | 21.00% | ~193 |
+| Fast Learner | 21.00% | ~193 |
 | Immaculate Aim | 21.00% | ~193 |
 | The Betrayer | 20.00% | ~183 |
 | Honest Mistake | 20.00% | ~183 |
-| Fast Learner | 20.00% | ~183 |
 | Like Clockwork | 19.00% | ~174 |
 | Golem Chaser | 19.00% | ~174 |
 | Check Your Pulse | 19.00% | ~174 |
@@ -47,7 +47,7 @@ Rating: 4.62 (Ranked 364)
 | Corin Goes Home | 8.00% | ~73 |
 | Sartorialist | 8.00% | ~73 |
 | Golem Hunter | 7.00% | ~64 |
-| Clovemary for Remembering | 5.00% | ~46 |
+| Clovemary for Remembering | 6.00% | ~55 |
 | Hexlock for Protection | 5.00% | ~46 |
 | Rungs Was Right | 5.00% | ~46 |
 | Wunderkind | 3.00% | ~28 |

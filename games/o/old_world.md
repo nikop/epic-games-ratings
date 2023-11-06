@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.90% | ~137 |
 | Hittite Iron | 0.90% | ~137 |
 | Hagia Sophia | 0.90% | ~137 |
+| Church of the Holy Sepulchre | 0.90% | ~137 |
 | Pantheon | 0.90% | ~137 |
 | Dualism | 0.90% | ~137 |
 | Gnosticism | 0.90% | ~137 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
 | Capable | 0.80% | ~121 |
-| Church of the Holy Sepulchre | 0.80% | ~121 |
 | Learn to Play 4 | 0.80% | ~121 |
 | Babylonia | 0.80% | ~121 |
 | Carthage | 0.80% | ~121 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,168 (Ranked 145)  
+Progressed: 15,170 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
-| 2023-11-06 | 15,168 | 5 |
+| 2023-11-06 | 15,170 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 271)  
 Sum: 1,868 (Ranked 212)  

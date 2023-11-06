@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 1.00% | ~391 |
-| Pork Chopped | 1.00% | ~391 |
-| One of Us | 0.90% | ~352 |
-| Welcome To Hell-A | 0.40% | ~2,854 |
+| Whatever It Takes | 1.00% | ~392 |
+| Pork Chopped | 1.00% | ~392 |
+| One of Us | 0.90% | ~353 |
+| Welcome To Hell-A | 0.40% | ~2,855 |
 | Git Gutte! | 0.30% | ~2,141 |
 | Anger Management | 0.30% | ~2,141 |
 | Bookworm | 0.30% | ~2,141 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,606 (Ranked 21)  
-Completed: 2,341 (0.33%) (Ranked 217)  
+Progressed: 713,637 (Ranked 21)  
+Completed: 2,342 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,10 +257,10 @@ Completed: 2,341 (0.33%) (Ranked 217)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,606 | 2,341 |
+| 2023-11-06 | 713,637 | 2,342 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
-Sum: 10,687 (Ranked 89)  
+Sum: 10,696 (Ranked 89)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): -35
 | This game has Amazing Storytelling | 440 |
 | This game is Highly Recommended | 418 |
 | This game is Extremely Fun | 411 |
-| This game has Amazing Characters | 386 |
+| This game has Amazing Characters | 395 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -475,3 +475,4 @@ Diff (max vs sum): -35
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
+| 2023-11-06 | 4.54 | 7,072 | 10,696 |

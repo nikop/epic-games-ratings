@@ -3,12 +3,12 @@
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 583,
-  "Ranking_Popularity": 246,
+  "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3013,18 +3013,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2703,
       "NumberOfAwardsMax": 302
+    },
+    {
+      "Time": "2023-11-06T01:44:40.2137893+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2706,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2703,
-  "NumberOfAwardsMax": 302,
+  "NumberOfAwards": 2706,
+  "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 302
+      "Count": 305
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3093,9 +3099,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30299,
+  "EOS_Progressed": 30312,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1833,
+  "EOS_NewPlayers": 1788,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18053,6 +18059,11 @@
       "Time": "2023-11-06T00:06:05.8393111+00:00",
       "NumProgressed": 30299,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-06T01:52:40.7206885+00:00",
+      "NumProgressed": 30312,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18064,7 +18075,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "Animated",
@@ -18176,7 +18187,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "Escape_Artist",
@@ -18206,9 +18217,9 @@
       "ID": "GB_In_Training",
       "SetID": "819popo",
       "Name": "Ghostbuster In Training",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 909
     },
     {
       "ID": "Ghost_Expert",
@@ -18368,7 +18379,7 @@
       "Name": "Stylish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     },
     {
       "ID": "Summoner",
@@ -18416,7 +18427,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "There_You_Are",
@@ -18471,16 +18482,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30299,
+      "Progressed": 30312,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-05T22:58:47.9341304+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:06:05.8393106+00:00",
+  "LastChanged": "2023-11-06T01:44:40.2137891+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:52:40.7206883+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:58:24.5948238+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:06:05.8394644+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:44:40.2137899+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:52:40.7208057+00:00"
 }

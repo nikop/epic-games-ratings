@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7491,9 +7491,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 716208,
+  "EOS_Progressed": 716209,
   "EOS_Completed": 12933,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -24986,6 +24986,11 @@
       "Time": "2023-11-05T23:07:54.024385+00:00",
       "NumProgressed": 716208,
       "NumCompleted": 12933
+    },
+    {
+      "Time": "2023-11-06T01:52:52.6889699+00:00",
+      "NumProgressed": 716209,
+      "NumCompleted": 12933
     }
   ],
   "TotalAchievements": 60,
@@ -25195,9 +25200,9 @@
       "ID": "26_ShrineSpirit",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Breath",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 3581
     },
     {
       "ID": "27_ShrineBody",
@@ -25307,9 +25312,9 @@
       "ID": "40_CustomTrophy_H4",
       "SetID": "adcm20g",
       "Name": "Take damage to save time",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2865
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -25339,9 +25344,9 @@
       "ID": "44_Arena_3Stamps",
       "SetID": "14c2oii",
       "Name": "Diligence as a goal",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 204
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -25476,21 +25481,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25509,
+      "Progressed": 25510,
       "Completed": 10734
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716208,
+      "Progressed": 716209,
       "Completed": 12933
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-05T12:00:30.9208728+00:00",
-  "LastChanged_Achievements": "2023-11-06T00:06:17.6356024+00:00",
+  "LastChanged_Achievements": "2023-11-06T01:52:52.6889696+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-06T00:00:40.42775+00:00",
-  "LastUpdate_Achievements": "2023-11-06T00:06:17.6357744+00:00"
+  "LastUpdate_Ratings": "2023-11-06T01:49:12.4994036+00:00",
+  "LastUpdate_Achievements": "2023-11-06T01:52:52.6890721+00:00"
 }
