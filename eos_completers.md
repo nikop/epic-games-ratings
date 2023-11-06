@@ -6,11 +6,11 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.83% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.81% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.17% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.08% |
 | 12 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 12 | [Overloop](games/o/overloop.md) | 25.00% |
 | 14 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -56,12 +56,12 @@
 | 54 | [Scorn](games/s/scorn.md) | 6.89% |
 | 55 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.67% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
-| 57 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.27% |
+| 57 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.26% |
 | 58 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 58 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.25% |
 | 60 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.83% |
+| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.82% |
 | 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.60% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -136,7 +136,7 @@
 | 134 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 135 | [Five Dates](games/f/five_dates.md) | 1.47% |
 | 136 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
-| 137 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.42% |
+| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.44% |
 | 138 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.38% |
 | 139 | [Iron Danger](games/i/iron_danger.md) | 1.37% |
 | 140 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
@@ -153,8 +153,8 @@
 | 151 | [Adios](games/a/adios.md) | 1.06% |
 | 151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 153 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
-| 154 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
+| 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
+| 155 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 156 | [Sable](games/s/sable.md) | 1.01% |
 | 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.00% |
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
@@ -166,8 +166,8 @@
 | 164 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
 | 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.87% |
 | 166 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
-| 167 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 168 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
+| 166 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.86% |
+| 168 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 169 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 170 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.80% |
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
