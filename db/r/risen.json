@@ -212,9 +212,9 @@
       "ID": "id_10",
       "SetID": "bk9jib6",
       "Name": "The merciful one",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "id_11",
@@ -348,9 +348,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "id_33",
@@ -621,8 +621,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:20:50.5980776+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:08:15.4594216+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:17.0231727+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:14:33.4296707+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:20:50.5981204+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:00:42.8694537+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:08:15.4594531+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91850,
+  "EOS_Progressed": 91854,
   "EOS_Completed": 414,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -22743,6 +22743,11 @@
       "Time": "2023-11-06T17:16:26.9076295+00:00",
       "NumProgressed": 91850,
       "NumCompleted": 414
+    },
+    {
+      "Time": "2023-11-06T18:04:11.1415544+00:00",
+      "NumProgressed": 91854,
+      "NumCompleted": 414
     }
   ],
   "TotalAchievements": 10,
@@ -22754,7 +22759,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "Drawings01",
@@ -22762,7 +22767,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "Drawings02",
@@ -22770,7 +22775,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "Drawings03",
@@ -22818,7 +22823,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32147
+      "UsersEstimate": 32149
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -22833,15 +22838,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 91850,
+      "Progressed": 91854,
       "Completed": 414
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:16:26.9076289+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:04:11.141554+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:32.5230717+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:05:25.3434768+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:16:26.9078133+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:58:39.1089998+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:04:11.1416731+00:00"
 }

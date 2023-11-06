@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6889,9 +6889,9 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138711,
+  "EOS_Progressed": 138713,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27339,6 +27339,11 @@
       "Time": "2023-11-06T17:15:56.1523745+00:00",
       "NumProgressed": 138711,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-06T18:03:36.2600927+00:00",
+      "NumProgressed": 138713,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27518,7 +27523,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "chest02",
@@ -28166,7 +28171,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5548
+      "UsersEstimate": 5549
     },
     {
       "ID": "twinenchant01",
@@ -28245,15 +28250,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138711,
+      "Progressed": 138713,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-05T21:57:37.6445626+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:15:56.1523739+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:03:36.2600924+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:00:38.5911476+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:15:56.1527443+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:57:42.3373226+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:03:36.260295+00:00"
 }

@@ -8,24 +8,24 @@
 | Trinity | 27.00% | ~40 |
 | The Collector | 24.00% | ~35 |
 | Find Allies | 23.00% | ~34 |
+| A Taste of Wrath | 22.00% | ~32 |
 | Adventurer | 22.00% | ~32 |
 | Fashion Victim | 22.00% | ~32 |
 | Scholar | 22.00% | ~32 |
 | I Found It | 22.00% | ~32 |
-| A Taste of Wrath | 21.00% | ~31 |
 | Shatter Them All | 21.00% | ~31 |
 | Powerful Allies | 20.00% | ~29 |
 | Geared Up | 18.00% | ~26 |
 | Tributes of Caladrias | 17.00% | ~25 |
 | Stone Collection | 17.00% | ~25 |
-| Essence Blow | 10.00% | ~15 |
-| Big Bazar | 8.00% | ~12 |
+| Essence Blow | 11.00% | ~16 |
+| Big Bazar | 9.00% | ~13 |
 | Airborne | 7.00% | ~10 |
+| Alchemist | 6.00% | ~9 |
 | Calm before the Storm | 5.00% | ~7 |
 | To Battle | 5.00% | ~7 |
 | Godslayer | 5.00% | ~7 |
 | The Mentor | 5.00% | ~7 |
-| Alchemist | 5.00% | ~7 |
 | Miner | 5.00% | ~7 |
 | Flawless Victory | 3.00% | ~4 |
 | A Queen's Tale | 3.00% | ~4 |
@@ -41,7 +41,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 383)  
+Progressed: 147 (Ranked 384)  
 Completed: 1 (0.68%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |

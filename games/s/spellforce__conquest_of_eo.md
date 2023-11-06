@@ -24,9 +24,9 @@
 | Break Free | 45.00% | ~5 |
 | Alchemist's Apprentice | 36.00% | ~4 |
 | Necromancer's Apprentice | 36.00% | ~4 |
+| Castle Meldec | 36.00% | ~4 |
 | Sevenkeeps Seat of Kings | 36.00% | ~4 |
 | Defeat Isgrimm | 27.00% | ~3 |
-| Castle Meldec | 27.00% | ~3 |
 | Friend of Connach | 27.00% | ~3 |
 | Friend of Windholme | 27.00% | ~3 |
 | Defeat Gor | 18.00% | ~2 |

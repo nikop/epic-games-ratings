@@ -5,26 +5,26 @@ Rating: 3.82 (Ranked 1,018)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~407,419 |
-| Handy | 41.00% | ~219,792 |
-| Cold Caller | 39.00% | ~209,070 |
-| A Bit On The Side | 27.00% | ~144,741 |
-| Backdoor | 25.00% | ~134,020 |
-| Rank Amateur | 21.00% | ~112,576 |
-| Three Way | 18.00% | ~96,494 |
+| Pro Creation | 76.00% | ~407,423 |
+| Handy | 41.00% | ~219,794 |
+| Cold Caller | 39.00% | ~209,072 |
+| A Bit On The Side | 27.00% | ~144,742 |
+| Backdoor | 25.00% | ~134,021 |
+| Rank Amateur | 21.00% | ~112,577 |
+| Three Way | 18.00% | ~96,495 |
 | Deadly Assassin | 15.00% | ~80,412 |
-| Gutshot | 14.00% | ~75,051 |
-| Risk It For A Biscuit | 14.00% | ~75,051 |
-| Showoff | 13.00% | ~69,690 |
+| Gutshot | 14.00% | ~75,052 |
+| Risk It For A Biscuit | 14.00% | ~75,052 |
+| Showoff | 13.00% | ~69,691 |
 | W.H.I.P. | 11.00% | ~58,969 |
 | Bet Bet Bet | 10.00% | ~53,608 |
 | Blindman's Bluff | 9.00% | ~48,247 |
 | Poker Joker | 9.00% | ~48,247 |
-| Never Give Up | 8.00% | ~42,886 |
-| The Bigger They Are | 8.00% | ~42,886 |
-| Total Knock Out | 8.00% | ~42,886 |
-| Dog Eat Dog | 7.00% | ~37,525 |
-| Quack Quack | 7.00% | ~37,525 |
+| Never Give Up | 8.00% | ~42,887 |
+| The Bigger They Are | 8.00% | ~42,887 |
+| Total Knock Out | 8.00% | ~42,887 |
+| Dog Eat Dog | 7.00% | ~37,526 |
+| Quack Quack | 7.00% | ~37,526 |
 | Give Your Regards To Broadway | 6.00% | ~32,165 |
 | Check Yourself | 4.00% | ~21,443 |
 | Moneymaker | 4.00% | ~21,443 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,018)
 | Rounder | 0.10% | ~536 |
 | Top Dog | 0.10% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,078 (Ranked 34)  
+Progressed: 536,083 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-03 | 535,445 | 2 |
 | 2023-11-04 | 535,680 | 2 |
 | 2023-11-05 | 535,949 | 2 |
-| 2023-11-06 | 536,078 | 2 |
+| 2023-11-06 | 536,083 | 2 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 411)  
 Sum: 171 (Ranked 412)  

@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 130,
@@ -630,9 +630,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_09",
@@ -694,9 +694,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_17",
@@ -734,9 +734,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_22",
@@ -806,9 +806,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_31",
@@ -869,8 +869,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:21:41.0111601+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:09:06.8944713+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:13:45.085026+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:21:41.0112059+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:00:14.7516911+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:09:06.8944922+00:00"
 }

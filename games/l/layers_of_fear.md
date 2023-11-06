@@ -14,7 +14,7 @@
 | Refuse to look | 34.00% | ~19 |
 | Sign of weakness | 32.00% | ~18 |
 | Finished it | 29.00% | ~16 |
-| Face your fears | 16.00% | ~9 |
+| Face your fears | 18.00% | ~10 |
 | First steps | 14.00% | ~8 |
 | Playtime | 14.00% | ~8 |
 | Tough conversation | 14.00% | ~8 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 454)  
+Progressed: 56 (Ranked 455)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

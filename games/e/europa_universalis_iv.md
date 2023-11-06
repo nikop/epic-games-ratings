@@ -22,11 +22,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cold War | 0.10% | ~449 |
 | Combined Arms | 0.10% | ~449 |
 | Defender of the Faith | 0.10% | ~449 |
+| Definitely the Sultan of Rum | 0.10% | ~449 |
 | Double the Love | 0.10% | ~449 |
 | Down Under | 0.10% | ~449 |
 | Electable! | 0.10% | ~449 |
 | The Emperors new clothes | 0.10% | ~449 |
 | Factionalism | 0.10% | ~449 |
+| Fine Financials | 0.10% | ~449 |
+| Four For Trade | 0.10% | ~449 |
+| From Humble Origins | 0.10% | ~449 |
 | Full House | 0.10% | ~449 |
 | Gentle Persuasion | 0.10% | ~449 |
 | Georgia on my Mind | 0.10% | ~449 |
@@ -36,6 +40,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.10% | ~449 |
 | In the Name of the Father | 0.10% | ~449 |
 | Industrial Powerhouse | 0.10% | ~449 |
+| Isn't this the way to India? | 0.10% | ~449 |
 | Italian Ambition | 0.10% | ~449 |
 | It's all about luck | 0.10% | ~449 |
 | It's all about the money | 0.10% | ~449 |
@@ -47,16 +52,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not just Pizza | 0.10% | ~449 |
 | Not so sad a state... | 0.10% | ~449 |
 | On the Rhodes Again | 0.10% | ~449 |
+| One Family to Rule them All | 0.10% | ~449 |
 | Over a Thousand! | 0.10% | ~449 |
 | Populists in Government | 0.10% | ~449 |
 | Queen of Conquest | 0.10% | ~449 |
 | Respected | 0.10% | ~449 |
 | Rise of the White Sheep | 0.10% | ~449 |
 | Royal Authority | 0.10% | ~449 |
+| Sakoku Law | 0.10% | ~449 |
 | Seriously?! | 0.10% | ~449 |
 | Shahanshah | 0.10% | ~449 |
 | Tear Down This Wall | 0.10% | ~449 |
 | That is mine! | 0.10% | ~449 |
+| The Chrysanthemum Throne | 0.10% | ~449 |
 | The Continuation of Diplomacy | 0.10% | ~449 |
 | The Five Colonies | 0.10% | ~449 |
 | The pen is mightier than the sword | 0.10% | ~449 |
@@ -67,9 +75,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.10% | ~449 |
 | Trophy Hunter | 0.10% | ~449 |
 | True Catholic | 0.10% | ~449 |
+| Truly Divine Ruler | 0.10% | ~449 |
 | Trustworthy | 0.10% | ~449 |
 | Until death do us apart | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
+| The Last Crusade | 0.10% | ~449 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
@@ -132,7 +142,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
-| Definitely the Sultan of Rum | 0.00% | ~0 |
 | Die Please Die | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
@@ -147,7 +156,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
-| Fine Financials | 0.00% | ~0 |
 | A Fine Goosestep | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
@@ -157,9 +165,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Forever Golden | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
 | Foul Mouthed | 0.00% | ~0 |
-| Four For Trade | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
-| From Humble Origins | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
@@ -189,7 +195,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
-| Isn't this the way to India? | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
@@ -243,7 +248,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
-| One Family to Rule them All | 0.00% | ~0 |
 | One King to Rule! | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | One Night in Paris | 0.00% | ~0 |
@@ -271,7 +275,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rozwi Empire | 0.00% | ~0 |
 | Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
-| Sakoku Law | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
@@ -309,7 +312,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
-| The Chrysanthemum Throne | 0.00% | ~0 |
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Grand Armada | 0.00% | ~0 |
@@ -335,7 +337,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
-| Truly Divine Ruler | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
 | Turning the Tide | 0.00% | ~0 |
@@ -366,11 +367,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | Mets Hayk | 0.00% | ~0 |
 | Restore the Pentarchy | 0.00% | ~0 |
-| The Last Crusade | 0.00% | ~0 |
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,608 (Ranked 41)  
+Progressed: 448,646 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,10 +570,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,608 | 1 |
+| 2023-11-06 | 448,646 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
-Sum: 56,275 (Ranked 24)  
+Sum: 56,317 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -581,10 +581,10 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,550 |
 | This game has Diverse Characters | 6,549 |
 | This game has Challenging Combat | 6,480 |
-| This game is Extremely Fun | 6,444 |
+| This game is Extremely Fun | 6,466 |
 | This game is Relaxing | 6,294 |
 | This game has Competitive Players | 6,128 |
-| This game has Amazing Storytelling | 5,706 |
+| This game has Amazing Storytelling | 5,726 |
 | This game has Amazing Characters | 5,280 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -883,4 +883,4 @@ Diff (max vs sum): 30
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
-| 2023-11-06 | 4.69 | - | 6,844 | 56,275 |
+| 2023-11-06 | 4.69 | - | 6,844 | 56,317 |

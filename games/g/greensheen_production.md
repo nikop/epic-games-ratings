@@ -39,7 +39,7 @@
 | No More Remains | 50.00% | ~7 |
 | Primetime Content Consumer | 14.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 550)  
+Progressed: 14 (Ranked 551)  
 Completed: 2 (14.29%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |

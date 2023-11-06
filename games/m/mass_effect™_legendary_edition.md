@@ -61,13 +61,13 @@
 | Revenge! | 31.00% | ~312 |
 | Heart of Darkness | 31.00% | ~312 |
 | Driven | 31.00% | ~312 |
+| Focused | 30.00% | ~302 |
 | Archivist | 30.00% | ~302 |
 | Friend or Foe | 30.00% | ~302 |
 | Cat's in the Cradle | 30.00% | ~302 |
 | Doppelganger | 30.00% | ~302 |
 | Treason | 30.00% | ~302 |
 | Bringer of War | 30.00% | ~302 |
-| Focused | 29.00% | ~292 |
 | Digital Exorcist | 29.00% | ~292 |
 | Mission Accomplished | 28.00% | ~282 |
 | Suicide Mission | 28.00% | ~282 |

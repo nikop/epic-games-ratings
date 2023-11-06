@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -1090,9 +1090,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "gagif7",
       "Name": "Lone Wolf",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1113,8 +1113,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:16:01.9097963+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:03:43.3245375+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.6180745+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:58:54.2351587+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:16:01.9098322+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:57:17.3272499+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:03:43.3245733+00:00"
 }

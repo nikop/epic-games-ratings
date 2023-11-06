@@ -2,9 +2,9 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
       "Time": "2023-11-06T17:15:57.2719269+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T18:03:37.4381294+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -58,9 +63,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchvAllMemories",
@@ -122,7 +127,7 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "AchvLava",
       "SetID": "1hj060c",
       "Name": "Volcanologist",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "AchvNoHoles",
       "SetID": "1hj060c",
       "Name": "No more mistakes",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "AchvReachBase",
       "SetID": "1hj060c",
       "Name": "The field base",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -234,15 +239,15 @@
       "ID": "AchvReachCamp",
       "SetID": "1hj060c",
       "Name": "The Camp",
-      "Percentage": 62,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -291,13 +296,13 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:15:57.2719263+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:03:37.438129+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.4081389+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:02:58.5284885+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:15:57.2719502+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:58:10.0854606+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:03:37.438147+00:00"
 }

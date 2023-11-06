@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -2845,9 +2845,9 @@
       "ID": "achievement_102",
       "SetID": "d252ncf",
       "Name": "Focused",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_103",
@@ -3841,8 +3841,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:17:06.1610192+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:04:55.6355783+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:15:07.9633092+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:17:06.1612714+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:02:41.3046941+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:04:55.6357383+00:00"
 }

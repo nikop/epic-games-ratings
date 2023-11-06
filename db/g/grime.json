@@ -1387,9 +1387,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156920,
+  "EOS_Progressed": 156929,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14612,6 +14612,11 @@
       "Time": "2023-11-06T17:20:38.5096915+00:00",
       "NumProgressed": 156920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T18:08:01.8823864+00:00",
+      "NumProgressed": 156929,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14647,7 +14652,7 @@
       "Name": "Assimilation",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -14695,7 +14700,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -14783,7 +14788,7 @@
       "Name": "Celebration",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -14823,7 +14828,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -14847,7 +14852,7 @@
       "Name": "Predator",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -14990,21 +14995,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156503,
+      "Progressed": 156512,
       "Completed": 1192
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156920,
+      "Progressed": 156929,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T21:00:16.5008825+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:20:38.509691+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:08:01.882386+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:13:35.5384049+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:20:38.5098963+00:00"
+  "LastUpdate_Ratings": "2023-11-06T18:00:10.4110177+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:08:01.882484+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -404,6 +404,11 @@
       "Time": "2023-11-04T14:20:24.8416576+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T18:03:39.7859655+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -453,7 +458,7 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -479,15 +484,15 @@
       "Name": "First Brew",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -557,7 +562,7 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -613,7 +618,7 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -621,7 +626,7 @@
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -655,7 +660,7 @@
       "Name": "Welcome to Coffee Talk",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -677,7 +682,7 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 52
     },
@@ -741,9 +746,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -765,7 +770,7 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -829,7 +834,7 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 46
     }
@@ -838,14 +843,14 @@
     {
       "ID": "8h8m55b",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:15:59.099903+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:03:39.785965+00:00",
   "LastUpdate_AppInfo": "2023-10-31T14:57:13.0012751+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:10:57.7356505+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:15:59.0999702+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:59:40.0721575+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:03:39.7860149+00:00"
 }

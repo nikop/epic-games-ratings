@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7235,
+  "EOS_Progressed": 7236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8260,6 +8260,11 @@
       "Time": "2023-11-06T15:05:07.4955119+00:00",
       "NumProgressed": 7235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T18:05:41.9106982+00:00",
+      "NumProgressed": 7236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8311,7 +8316,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "Control_All_Relics",
@@ -8375,7 +8380,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "First_Race_Met",
@@ -8383,7 +8388,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5209
+      "UsersEstimate": 5210
     },
     {
       "ID": "First_Ship_Designed",
@@ -8391,7 +8396,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1954
     },
     {
       "ID": "First_Stream_Travel",
@@ -8407,7 +8412,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8575,7 +8580,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8591,7 +8596,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8727,7 +8732,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "Win_As_Torian",
@@ -8846,15 +8851,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7235,
+      "Progressed": 7236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:18:27.1834243+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:05:41.9106979+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:57:56.3461577+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:18:27.1835842+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:57:03.677874+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:05:41.9108021+00:00"
 }

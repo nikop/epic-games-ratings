@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
     "PcReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 97786,
+  "EOS_Progressed": 97789,
   "EOS_Completed": 990,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -23292,6 +23292,11 @@
       "Time": "2023-11-06T17:21:01.2246738+00:00",
       "NumProgressed": 97786,
       "NumCompleted": 990
+    },
+    {
+      "Time": "2023-11-06T18:08:27.0394459+00:00",
+      "NumProgressed": 97789,
+      "NumCompleted": 990
     }
   ],
   "TotalAchievements": 56,
@@ -23327,7 +23332,7 @@
       "Name": "The Quick and the Curious",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "ach_004_complete_historical_reconnection",
@@ -23455,7 +23460,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -23511,7 +23516,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24446
+      "UsersEstimate": 24447
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -23527,7 +23532,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12712
+      "UsersEstimate": 12713
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -23591,7 +23596,7 @@
       "Name": "Bike Aficionado",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3911
+      "UsersEstimate": 3912
     },
     {
       "ID": "ach_037_collect_badges_1",
@@ -23607,7 +23612,7 @@
       "Name": "Badge Collector",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 11734
+      "UsersEstimate": 11735
     },
     {
       "ID": "ach_039_build_hoverbike",
@@ -23615,7 +23620,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33247
+      "UsersEstimate": 33248
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -23623,7 +23628,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24446
+      "UsersEstimate": 24447
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -23655,7 +23660,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17601
+      "UsersEstimate": 17602
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -23663,7 +23668,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 12712
+      "UsersEstimate": 12713
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -23703,7 +23708,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 21513
+      "UsersEstimate": 21514
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -23719,7 +23724,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12712
+      "UsersEstimate": 12713
     },
     {
       "ID": "ach_053_angler_mask",
@@ -23735,7 +23740,7 @@
       "Name": "Quite The Catch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11734
+      "UsersEstimate": 11735
     },
     {
       "ID": "ach_055_complete_vivarium",
@@ -23750,15 +23755,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 97786,
+      "Progressed": 97789,
       "Completed": 990
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-25T15:57:21.7620587+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:21:01.2246732+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:08:27.0394456+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.8893951+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:58:25.9552909+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:21:01.2249131+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:57:10.4714721+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:08:27.0395748+00:00"
 }

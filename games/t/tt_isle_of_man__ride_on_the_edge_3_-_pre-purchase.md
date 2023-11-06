@@ -11,8 +11,8 @@
 | Onwards and Upwards | 18.00% | ~28 |
 | Serial Winner | 13.00% | ~21 |
 | Start Your Engines | 11.00% | ~17 |
+| Lone Wolf | 11.00% | ~17 |
 | Highly Qualified | 10.00% | ~16 |
-| Lone Wolf | 10.00% | ~16 |
 | No Room for Improvement | 9.00% | ~14 |
 | Nerd | 7.00% | ~11 |
 | First and Foremost | 6.00% | ~9 |

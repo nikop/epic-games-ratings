@@ -2,9 +2,9 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 175,
-  "Ranking_PopularitySum": 247,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 129,
@@ -1432,7 +1432,7 @@
   ],
   "EOS_Progressed": 130542,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21502,8 +21502,8 @@
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-04T19:01:05.2014817+00:00",
-  "LastChanged_Achievements": "2023-11-06T17:18:48.5741376+00:00",
+  "LastChanged_Achievements": "2023-11-06T18:06:06.3365367+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-06T17:08:28.696811+00:00",
-  "LastUpdate_Achievements": "2023-11-06T17:18:48.5742851+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:59:16.3499121+00:00",
+  "LastUpdate_Achievements": "2023-11-06T18:06:06.3366485+00:00"
 }

@@ -1,24 +1,24 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.45 (Ranked 660)  
+Rating: 4.46 (Ranked 644)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,595 |
-| A new Journey | 74.00% | ~1,553 |
-| From X to Y | 73.00% | ~1,532 |
-| Departure | 73.00% | ~1,532 |
-| Way of Iron | 70.00% | ~1,469 |
-| Mystery Tour | 69.00% | ~1,448 |
-| We brake for nobody | 68.00% | ~1,427 |
-| Brainstorm | 66.00% | ~1,385 |
-| Travel Company | 66.00% | ~1,385 |
-| Mind the Gap | 65.00% | ~1,364 |
-| All around the World | 62.00% | ~1,301 |
-| Right through the middle | 58.00% | ~1,217 |
-| Facility Manager | 54.00% | ~1,133 |
-| Poor Devil | 54.00% | ~1,133 |
+| Country Bumpkin | 76.00% | ~1,596 |
+| A new Journey | 74.00% | ~1,554 |
+| From X to Y | 73.00% | ~1,533 |
+| Departure | 73.00% | ~1,533 |
+| Way of Iron | 70.00% | ~1,470 |
+| Mystery Tour | 69.00% | ~1,449 |
+| We brake for nobody | 68.00% | ~1,428 |
+| Brainstorm | 66.00% | ~1,386 |
+| Travel Company | 66.00% | ~1,386 |
+| Mind the Gap | 65.00% | ~1,365 |
+| All around the World | 62.00% | ~1,302 |
+| Right through the middle | 58.00% | ~1,218 |
+| Facility Manager | 54.00% | ~1,134 |
+| Poor Devil | 54.00% | ~1,134 |
 | Producer | 50.00% | ~1,050 |
 | Apprentice | 42.00% | ~882 |
 | Bridge Builder | 42.00% | ~882 |
@@ -61,7 +61,7 @@ Rating: 4.45 (Ranked 660)
 | United States | 0.60% | ~13 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,099 (Ranked 214)  
+Progressed: 2,100 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 2,084 | 0 |
 | 2023-11-04 | 2,090 | 0 |
 | 2023-11-05 | 2,099 | 0 |
+| 2023-11-06 | 2,100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -273,3 +274,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-16 | 4.43 | 0 | 0 |
 | 2023-10-20 | 4.44 | 0 | 0 |
 | 2023-10-26 | 4.45 | 0 | 0 |
+| 2023-11-06 | 4.46 | 0 | 0 |
