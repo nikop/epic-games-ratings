@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2885,
+  "EOS_Progressed": 2886,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3986,6 +3986,11 @@
       "Time": "2023-11-05T21:04:47.1153814+00:00",
       "NumProgressed": 2885,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-06T02:26:18.3491624+00:00",
+      "NumProgressed": 2886,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4061,7 +4066,7 @@
       "Name": "Starting as a duo",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -4085,7 +4090,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4100,7 +4105,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2885,
+      "Progressed": 2886,
       "Completed": 6
     }
   ],
@@ -4108,8 +4113,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:51:09.4484023+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:26:18.3491621+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:37.9613614+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:44:46.4612946+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:51:09.4484303+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:19:52.0838704+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:26:18.3491962+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1205,9 +1205,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -1277,9 +1277,9 @@
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 3",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "GSS_ACH_49_UPGRADE_STATION_03",
@@ -1564,8 +1564,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:54:42.9824361+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:29:53.2052808+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:45:47.0997631+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:54:42.9825252+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:20:59.2378865+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:29:53.2053589+00:00"
 }

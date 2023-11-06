@@ -6,11 +6,11 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 4.00% | ~17,927 |
-| Until death do us apart | 4.00% | ~17,927 |
-| Victorious! | 4.00% | ~17,927 |
-| That's a Grand Navy | 3.00% | ~13,445 |
-| That is mine! | 3.00% | ~13,445 |
+| That's a Grand Army | 4.00% | ~17,928 |
+| Until death do us apart | 4.00% | ~17,928 |
+| Victorious! | 4.00% | ~17,928 |
+| That's a Grand Navy | 3.00% | ~13,446 |
+| That is mine! | 3.00% | ~13,446 |
 | Brothers in Arms | 2.00% | ~8,964 |
 | Cold War | 2.00% | ~8,964 |
 | For the Glory | 2.00% | ~8,964 |
@@ -23,9 +23,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~4,482 |
 | Truly Divine Ruler | 1.00% | ~4,482 |
 | Blockader | 0.90% | ~4,034 |
-| Double the Love | 0.80% | ~3,585 |
-| Royal Authority | 0.80% | ~3,585 |
-| Total Control | 0.80% | ~3,585 |
+| Double the Love | 0.80% | ~3,586 |
+| Royal Authority | 0.80% | ~3,586 |
+| Total Control | 0.80% | ~3,586 |
 | My armies are invincible! | 0.70% | ~3,137 |
 | Agressive Expander | 0.60% | ~2,689 |
 | Combined Arms | 0.60% | ~2,689 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,179 (Ranked 41)  
+Progressed: 448,191 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -561,16 +561,16 @@ Completed: 1 (0.00%) (Ranked 344)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,179 | 1 |
+| 2023-11-06 | 448,191 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 55)  
-Sum: 56,214 (Ranked 24)  
+Sum: 56,229 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,844 |
+| This game is Highly Recommended | 6,550 |
 | This game has Diverse Characters | 6,549 |
-| This game is Highly Recommended | 6,535 |
 | This game has Challenging Combat | 6,455 |
 | This game is Extremely Fun | 6,444 |
 | This game is Relaxing | 6,294 |
@@ -874,3 +874,4 @@ Diff (max vs sum): 31
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
+| 2023-11-06 | 4.69 | - | 6,844 | 56,229 |

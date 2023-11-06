@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,637 (Ranked 21)  
-Completed: 2,342 (0.33%) (Ranked 217)  
+Progressed: 713,648 (Ranked 21)  
+Completed: 2,343 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,7 +257,7 @@ Completed: 2,342 (0.33%) (Ranked 217)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,637 | 2,342 |
+| 2023-11-06 | 713,648 | 2,343 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,696 (Ranked 89)  

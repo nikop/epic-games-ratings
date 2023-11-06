@@ -18,7 +18,7 @@ Number of Ratings: 892  (23.09.2022)
 | Financially Secure | 32.00% | ~75 |
 | Yakmel Whisperer | 32.00% | ~75 |
 | Happier-est Place on Earth | 31.00% | ~72 |
-| Mole Masher | 29.00% | ~68 |
+| Mole Masher | 30.00% | ~70 |
 | Diamonds are Forever | 29.00% | ~68 |
 | Call Me Fishmael | 28.00% | ~65 |
 | Knowledge is Power | 27.00% | ~63 |
@@ -27,18 +27,18 @@ Number of Ratings: 892  (23.09.2022)
 | I Do! | 27.00% | ~63 |
 | You Don't Win Friends With Salad | 27.00% | ~63 |
 | Finishing Touches | 24.00% | ~56 |
+| Officially Official | 24.00% | ~56 |
 | Got Served | 24.00% | ~56 |
 | Big Game Hunter | 23.00% | ~54 |
-| Officially Official | 23.00% | ~54 |
 | What Plants Crave | 22.00% | ~51 |
 | Unboxing | 21.00% | ~49 |
 | Jewel of the Eufaula | 20.00% | ~47 |
 | Chatterbox | 18.00% | ~42 |
+| First Love | 18.00% | ~42 |
 | One of the Cool Kids | 17.00% | ~40 |
-| First Love | 17.00% | ~40 |
 | Panda-kin | 16.00% | ~37 |
 | Who Ya Gonna Call...? | 15.00% | ~35 |
-| Newton | 13.00% | ~30 |
+| Newton | 14.00% | ~33 |
 | He Can Spin A Yarn... | 12.00% | ~28 |
 | Bridging the Gap | 10.00% | ~23 |
 | Martle's Dream | 10.00% | ~23 |

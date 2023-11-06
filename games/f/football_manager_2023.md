@@ -5,22 +5,22 @@ Rating: 4.76 (Ranked 122)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 68.00% | ~240,220 |
+| Motivational Speaker | 68.00% | ~240,221 |
 | The Player Whisperer | 67.00% | ~236,688 |
 | One of Us, One of Us! | 61.00% | ~215,492 |
-| First Victory | 54.00% | ~190,763 |
-| Clean Sheet | 53.00% | ~187,230 |
-| #DoneDeal | 53.00% | ~187,230 |
-| Off the Books | 51.00% | ~180,165 |
-| Super-Sub | 51.00% | ~180,165 |
-| Hat-trick | 45.00% | ~158,969 |
-| "I Would Love It If We Beat Them" | 42.00% | ~148,371 |
-| Planned Signing | 42.00% | ~148,371 |
+| First Victory | 54.00% | ~190,764 |
+| Clean Sheet | 53.00% | ~187,231 |
+| #DoneDeal | 53.00% | ~187,231 |
+| Off the Books | 51.00% | ~180,166 |
+| Super-Sub | 51.00% | ~180,166 |
+| Hat-trick | 45.00% | ~158,970 |
+| "I Would Love It If We Beat Them" | 42.00% | ~148,372 |
+| Planned Signing | 42.00% | ~148,372 |
 | Thumping | 38.00% | ~134,241 |
 | Scoring Streak | 38.00% | ~134,241 |
 | Wheeler Dealer | 38.00% | ~134,241 |
 | People Pleaser | 37.00% | ~130,708 |
-| Unbeatable! | 36.00% | ~127,175 |
+| Unbeatable! | 36.00% | ~127,176 |
 | One Of Our Own | 34.00% | ~120,110 |
 | Record Signing | 30.00% | ~105,980 |
 | They're a Natural | 29.00% | ~102,447 |
@@ -37,17 +37,17 @@ Rating: 4.76 (Ranked 122)
 | Tremendous Trio | 23.00% | ~81,251 |
 | Unstoppable Force | 23.00% | ~81,251 |
 | Record Sale | 23.00% | ~81,251 |
-| Drilling Down | 22.00% | ~77,718 |
-| Flavour Of The Month | 22.00% | ~77,718 |
-| Shots For Days | 22.00% | ~77,718 |
+| Drilling Down | 22.00% | ~77,719 |
+| Flavour Of The Month | 22.00% | ~77,719 |
+| Shots For Days | 22.00% | ~77,719 |
 | On a Roll | 21.00% | ~74,186 |
 | The Special One | 21.00% | ~74,186 |
 | What A Goal! | 20.00% | ~70,653 |
-| Goal Machine | 19.00% | ~67,120 |
+| Goal Machine | 19.00% | ~67,121 |
 | Splashing the Cash | 18.00% | ~63,588 |
 | Immovable Object | 18.00% | ~63,588 |
 | Cup Glory! | 18.00% | ~63,588 |
-| Irresistible Force | 16.00% | ~56,522 |
+| Irresistible Force | 16.00% | ~56,523 |
 | Do The Double | 15.00% | ~52,990 |
 | Cash to Burn | 15.00% | ~52,990 |
 | Window Shopping | 14.00% | ~49,457 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 122)
 | Draft Dominator | 0.10% | ~353 |
 | Draft Value | 0.10% | ~353 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 353,265 (Ranked 46)  
+Progressed: 353,266 (Ranked 46)  
 Completed: 26 (0.01%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 26 (0.01%) (Ranked 320)
 | 2023-11-03 | 352,166 | 26 |
 | 2023-11-04 | 352,721 | 26 |
 | 2023-11-05 | 353,235 | 26 |
-| 2023-11-06 | 353,265 | 26 |
+| 2023-11-06 | 353,266 | 26 |
 ## Awards
 Max (Diverse Characters): 1,092  (Ranked 144)  
 Sum: 7,703 (Ranked 109)  

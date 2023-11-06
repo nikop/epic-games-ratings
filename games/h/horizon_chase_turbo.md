@@ -6,13 +6,13 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~963,949 |
-| I Need a Bigger Garage | 63.00% | ~674,764 |
-| Pump my Ride | 47.00% | ~503,395 |
-| Ghostbuster | 34.00% | ~364,158 |
-| Call Roadside Assistance | 18.00% | ~192,790 |
-| That Was Close | 18.00% | ~192,790 |
-| Quickie | 11.00% | ~117,816 |
+| The First of Many | 90.00% | ~963,954 |
+| I Need a Bigger Garage | 63.00% | ~674,768 |
+| Pump my Ride | 47.00% | ~503,398 |
+| Ghostbuster | 34.00% | ~364,160 |
+| Call Roadside Assistance | 18.00% | ~192,791 |
+| That Was Close | 18.00% | ~192,791 |
+| Quickie | 11.00% | ~117,817 |
 | California Dreamer | 7.00% | ~74,974 |
 | Can't Touch This | 5.00% | ~53,553 |
 | Carménère Taster | 4.00% | ~42,842 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,711 |
 | Golden Passport | 1.00% | ~10,711 |
 | Brave and Bold | 1.00% | ~10,711 |
-| Crocodile Hunter | 0.90% | ~9,639 |
-| Old Master | 0.90% | ~9,639 |
+| Crocodile Hunter | 0.90% | ~9,640 |
+| Old Master | 0.90% | ~9,640 |
 | Volcano Surfer | 0.80% | ~8,568 |
 | Otaku | 0.80% | ~8,568 |
 | Survivor | 0.60% | ~6,426 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,071 |
 | Look Mom, No Hands! | 0.10% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,071,054 (Ranked 13)  
+Progressed: 1,071,060 (Ranked 13)  
 Completed: 479 (0.04%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 479 (0.04%) (Ranked 303)
 | 2023-11-03 | 1,069,896 | 478 |
 | 2023-11-04 | 1,070,456 | 478 |
 | 2023-11-05 | 1,071,032 | 479 |
-| 2023-11-06 | 1,071,054 | 479 |
+| 2023-11-06 | 1,071,060 | 479 |
 ## Awards
 Max (Great for Beginners): 165  (Ranked 306)  
 Sum: 1,365 (Ranked 235)  

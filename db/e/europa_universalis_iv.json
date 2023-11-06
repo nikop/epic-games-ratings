@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11593,10 +11593,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56214,
       "NumberOfAwardsMax": 6844
+    },
+    {
+      "Time": "2023-11-06T02:24:04.6889172+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56229,
+      "NumberOfAwardsMax": 6844
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56214,
+  "NumberOfAwards": 56229,
   "NumberOfAwardsMax": 6844,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11604,7 +11610,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6535
+      "Count": 6550
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11667,9 +11673,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448179,
+  "EOS_Progressed": 448191,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5453,
+  "EOS_NewPlayers": 5454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34457,6 +34463,11 @@
       "Time": "2023-11-06T01:50:05.6662214+00:00",
       "NumProgressed": 448179,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T02:25:10.6141398+00:00",
+      "NumProgressed": 448191,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 354,
@@ -35124,7 +35135,7 @@
       "Name": "Double the Love",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -35468,7 +35479,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17927
+      "UsersEstimate": 17928
     },
     {
       "ID": "achievement_grand_coalition",
@@ -35492,7 +35503,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13445
+      "UsersEstimate": 13446
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -36420,7 +36431,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -36748,7 +36759,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 13445
+      "UsersEstimate": 13446
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -37020,7 +37031,7 @@
       "Name": "Total Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 3585
+      "UsersEstimate": 3586
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -37132,7 +37143,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17927
+      "UsersEstimate": 17928
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -37164,7 +37175,7 @@
       "Name": "Victorious!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17927
+      "UsersEstimate": 17928
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -37299,21 +37310,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448179,
+      "Progressed": 448191,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448179,
+      "Progressed": 448191,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-05T22:02:05.7628847+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:50:05.6662211+00:00",
+  "LastChanged": "2023-11-06T02:24:04.688917+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:25:10.6141395+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:46:45.9925837+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:50:05.667317+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:24:04.6889176+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:25:10.6150879+00:00"
 }

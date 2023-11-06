@@ -7,22 +7,22 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,484 |
-| Man of politics | 34.00% | ~5,511 |
-| Friends of sorts | 33.00% | ~5,349 |
-| Yet another secret | 33.00% | ~5,349 |
-| Let there be darkness | 32.00% | ~5,187 |
+| Man of politics | 34.00% | ~5,512 |
+| Friends of sorts | 33.00% | ~5,350 |
+| Yet another secret | 33.00% | ~5,350 |
+| Let there be darkness | 32.00% | ~5,188 |
 | End of Book One | 30.00% | ~4,863 |
-| Garden of Eden | 24.00% | ~3,890 |
-| Full house | 24.00% | ~3,890 |
-| Wannabe knight | 23.00% | ~3,728 |
+| Garden of Eden | 24.00% | ~3,891 |
+| Full house | 24.00% | ~3,891 |
+| Wannabe knight | 23.00% | ~3,729 |
 | Help an old friend | 21.00% | ~3,404 |
 | Two of us | 20.00% | ~3,242 |
 | Negotiation skills | 18.00% | ~2,918 |
 | Workers' union | 18.00% | ~2,918 |
 | End of Book Two | 18.00% | ~2,918 |
 | Everything's in order | 17.00% | ~2,756 |
-| Twist of Fate | 14.00% | ~2,269 |
-| Jack was here! | 14.00% | ~2,269 |
+| Twist of Fate | 14.00% | ~2,270 |
+| Jack was here! | 14.00% | ~2,270 |
 | Exterminator | 13.00% | ~2,107 |
 | Whodunnit | 12.00% | ~1,945 |
 | Good midwife | 11.00% | ~1,783 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,297 |
 | Silentium est aureum | 7.00% | ~1,135 |
 | Rebel without a cause | 6.00% | ~973 |
-| Staring contest champion | 5.00% | ~810 |
-| Lone wolf | 5.00% | ~810 |
-| Vox Populi | 5.00% | ~810 |
+| Staring contest champion | 5.00% | ~811 |
+| Lone wolf | 5.00% | ~811 |
+| Vox Populi | 5.00% | ~811 |
 | Revenge | 4.00% | ~648 |
 | Self-defense | 4.00% | ~648 |
 | Countess Aliena | 4.00% | ~648 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~486 |
 | Boy of mystery | 2.00% | ~324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,210 (Ranked 144)  
+Progressed: 16,211 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 114 (0.70%) (Ranked 172)
 | 2023-11-03 | 16,148 | 114 |
 | 2023-11-04 | 16,174 | 114 |
 | 2023-11-05 | 16,209 | 114 |
-| 2023-11-06 | 16,210 | 114 |
+| 2023-11-06 | 16,211 | 114 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 310)  
 Sum: 198 (Ranked 398)  

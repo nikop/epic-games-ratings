@@ -8,11 +8,11 @@
 | Trinity | 28.00% | ~38 |
 | The Collector | 25.00% | ~34 |
 | Find Allies | 24.00% | ~32 |
+| Adventurer | 24.00% | ~32 |
 | Fashion Victim | 24.00% | ~32 |
-| Adventurer | 23.00% | ~31 |
 | Scholar | 23.00% | ~31 |
+| I Found It | 23.00% | ~31 |
 | A Taste of Wrath | 22.00% | ~30 |
-| I Found It | 22.00% | ~30 |
 | Powerful Allies | 21.00% | ~28 |
 | Shatter Them All | 21.00% | ~28 |
 | Geared Up | 19.00% | ~26 |

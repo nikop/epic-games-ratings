@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -7285,9 +7285,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 353265,
+  "EOS_Progressed": 353266,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 3207,
+  "EOS_NewPlayers": 3201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29640,6 +29640,11 @@
       "Time": "2023-11-06T01:55:48.60449+00:00",
       "NumProgressed": 353265,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-06T02:31:02.9783454+00:00",
+      "NumProgressed": 353266,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 100,
@@ -29667,7 +29672,7 @@
       "Name": "Unbeatable!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 127175
+      "UsersEstimate": 127176
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -29755,7 +29760,7 @@
       "Name": "\u0022I Would Love It If We Beat Them\u0022",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 148371
+      "UsersEstimate": 148372
     },
     {
       "ID": "achievement_beating_expectations",
@@ -29795,7 +29800,7 @@
       "Name": "Clean Sheet",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 187230
+      "UsersEstimate": 187231
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -29851,7 +29856,7 @@
       "Name": "Drilling Down",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 77718
+      "UsersEstimate": 77719
     },
     {
       "ID": "achievement_first_goal_network",
@@ -29947,7 +29952,7 @@
       "Name": "Irresistible Force",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 56522
+      "UsersEstimate": 56523
     },
     {
       "ID": "achievement_hattrick",
@@ -29955,7 +29960,7 @@
       "Name": "Hat-trick",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 158969
+      "UsersEstimate": 158970
     },
     {
       "ID": "achievement_head_to_head",
@@ -30003,7 +30008,7 @@
       "Name": "Flavour Of The Month",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 77718
+      "UsersEstimate": 77719
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -30035,7 +30040,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 240220
+      "UsersEstimate": 240221
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -30083,7 +30088,7 @@
       "Name": "Planned Signing",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 148371
+      "UsersEstimate": 148372
     },
     {
       "ID": "achievement_played_30_seasons",
@@ -30155,7 +30160,7 @@
       "Name": "Off the Books",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 180165
+      "UsersEstimate": 180166
     },
     {
       "ID": "achievement_shots_for_days",
@@ -30163,7 +30168,7 @@
       "Name": "Shots For Days",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 77718
+      "UsersEstimate": 77719
     },
     {
       "ID": "achievement_signed_a_player",
@@ -30171,7 +30176,7 @@
       "Name": "#DoneDeal",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 187230
+      "UsersEstimate": 187231
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -30195,7 +30200,7 @@
       "Name": "Super-Sub",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 180165
+      "UsersEstimate": 180166
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -30235,7 +30240,7 @@
       "Name": "Goal Machine",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 67120
+      "UsersEstimate": 67121
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -30339,7 +30344,7 @@
       "Name": "First Victory",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 190763
+      "UsersEstimate": 190764
     },
     {
       "ID": "achievement_won_international_championship",
@@ -30450,7 +30455,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 353265,
+      "Progressed": 353266,
       "Completed": 26
     }
   ],
@@ -30458,8 +30463,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2023-11-05T23:00:41.48206+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:55:48.6044898+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:31:02.9783452+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:18.1985873+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:45:53.0995721+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:55:48.6047438+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:21:05.8861574+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:31:02.9785276+00:00"
 }

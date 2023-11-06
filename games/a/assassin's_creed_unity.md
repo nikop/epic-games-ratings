@@ -1,15 +1,15 @@
 # Assassin's Creed Unity
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-unity)  
 [View Rawdata](../../db/a/assassin's_creed_unity.json)  
-Rating: 4.62 (Ranked 364)  
+Rating: 4.62 (Ranked 363)  
 Number of Ratings: 900  (23.09.2022)  
 ## Awards
-Max (Character Customization): 842  (Ranked 163)  
-Sum: 1,091 (Ranked 249)  
+Max (Character Customization): 845  (Ranked 163)  
+Sum: 1,094 (Ranked 249)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 842 |
+| This game has Inclusive Character Customization | 845 |
 | This game is Great for Beginners | 33 |
 | This game has Great Boss Battles | 32 |
 | This game is Highly Recommended | 30 |
@@ -259,3 +259,4 @@ Diff (max vs sum): -86
 | 2023-11-03 | 4.62 | - | 840 | 1,086 |
 | 2023-11-04 | 4.62 | - | 842 | 1,090 |
 | 2023-11-05 | 4.62 | - | 842 | 1,091 |
+| 2023-11-06 | 4.62 | - | 845 | 1,094 |

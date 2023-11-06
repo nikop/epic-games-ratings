@@ -712,9 +712,9 @@
       "ID": "BUY_LASER_BEAM_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Laser Beam",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 60,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -760,9 +760,9 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -847,8 +847,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:55:27.3478694+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:30:40.6069883+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:45:12.1984361+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:55:27.3478828+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:20:20.6749646+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:30:40.6070019+00:00"
 }

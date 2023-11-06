@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~962 |
-| Off to a good start | 68.00% | ~727 |
-| Do... or do not. There is no try | 51.00% | ~545 |
-| A good blaster at your side | 32.00% | ~342 |
+| New Recruit | 90.00% | ~965 |
+| Off to a good start | 68.00% | ~729 |
+| Do... or do not. There is no try | 51.00% | ~547 |
+| A good blaster at your side | 32.00% | ~343 |
 | I suggest a new strategy | 20.00% | ~214 |
-| Scrap collector | 19.00% | ~203 |
-| Great shot, kid! | 18.00% | ~192 |
+| Scrap collector | 19.00% | ~204 |
+| Great shot, kid! | 18.00% | ~193 |
 | All right, I'll give it a try | 17.00% | ~182 |
-| Shoot first | 16.00% | ~171 |
-| The power of the Force | 15.00% | ~160 |
-| Together we can rule the galaxy | 15.00% | ~160 |
+| Shoot first | 16.00% | ~172 |
+| The power of the Force | 15.00% | ~161 |
+| Together we can rule the galaxy | 15.00% | ~161 |
 | Collector | 14.00% | ~150 |
+| Survivor | 11.00% | ~118 |
 | Tell Jabba that I've got his money | 10.00% | ~107 |
 | Best star-pilot in the galaxy | 10.00% | ~107 |
-| Survivor | 10.00% | ~107 |
 | Never tell me the odds! | 9.00% | ~96 |
 | A cunning warrior | 9.00% | ~96 |
 | What's the cargo? | 8.00% | ~86 |
@@ -28,7 +28,7 @@
 | Distinguished | 6.00% | ~64 |
 | A tremor in the Force | 6.00% | ~64 |
 | Support the troops | 6.00% | ~64 |
-| Not bad for a little furball | 5.00% | ~53 |
+| Not bad for a little furball | 5.00% | ~54 |
 | On the ball | 4.00% | ~43 |
 | Safety ain't the point of a joyride | 4.00% | ~43 |
 | Patience you must have | 4.00% | ~43 |
@@ -56,8 +56,8 @@
 | When surrounded by war... | 1.00% | ~11 |
 | Stop that Droid | 1.00% | ~11 |
 | A New Hope | 0.80% | ~9 |
-| Walker defender | 0.70% | ~7 |
-| I’ll take that bet | 0.70% | ~7 |
+| Walker defender | 0.70% | ~8 |
+| I’ll take that bet | 0.70% | ~8 |
 | Stay on target | 0.40% | ~4 |
 | in a galaxy far, far away.... | 0.40% | ~4 |
 | Don't get cocky | 0.40% | ~4 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 246)  
+Progressed: 1,072 (Ranked 246)  
 Completed: 1 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 1 (0.09%) (Ranked 274)
 | 2023-11-03 | 1,025 | 1 |
 | 2023-11-04 | 1,048 | 1 |
 | 2023-11-05 | 1,069 | 1 |
+| 2023-11-06 | 1,072 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

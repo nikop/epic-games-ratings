@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -736,7 +736,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 351106,
+  "EOS_Progressed": 351108,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
@@ -23341,6 +23341,11 @@
       "Time": "2023-11-06T01:52:54.1128834+00:00",
       "NumProgressed": 351106,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-06T02:29:23.6501322+00:00",
+      "NumProgressed": 351108,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -23440,7 +23445,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28088
+      "UsersEstimate": 28089
     },
     {
       "ID": "ach013",
@@ -23488,7 +23493,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28088
+      "UsersEstimate": 28089
     },
     {
       "ID": "ach019",
@@ -23560,7 +23565,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165020
+      "UsersEstimate": 165021
     },
     {
       "ID": "ach028",
@@ -23688,7 +23693,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24577
+      "UsersEstimate": 24578
     },
     {
       "ID": "ach044",
@@ -23712,7 +23717,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24577
+      "UsersEstimate": 24578
     },
     {
       "ID": "ach047",
@@ -23960,7 +23965,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24577
+      "UsersEstimate": 24578
     },
     {
       "ID": "ach079",
@@ -23991,7 +23996,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 351106,
+      "Progressed": 351108,
       "Completed": 7
     }
   ],
@@ -23999,8 +24004,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-03T12:00:54.9425355+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:52:54.1128831+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:29:23.6501319+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.7953727+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:46:32.2860224+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:52:54.1130222+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:21:49.1286801+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:29:23.650279+00:00"
 }

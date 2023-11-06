@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113439,
+  "EOS_Progressed": 113440,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 700,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16942,6 +16942,11 @@
       "Time": "2023-11-06T01:54:55.913558+00:00",
       "NumProgressed": 113439,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-06T02:30:06.9176646+00:00",
+      "NumProgressed": 113440,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 49,
@@ -16961,7 +16966,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87348
+      "UsersEstimate": 87349
     },
     {
       "ID": "EAwards_10",
@@ -17025,7 +17030,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41972
+      "UsersEstimate": 41973
     },
     {
       "ID": "EAwards_18",
@@ -17097,7 +17102,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21553
+      "UsersEstimate": 21554
     },
     {
       "ID": "EAwards_26",
@@ -17137,7 +17142,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21553
+      "UsersEstimate": 21554
     },
     {
       "ID": "EAwards_30",
@@ -17344,7 +17349,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113439,
+      "Progressed": 113440,
       "Completed": 48
     }
   ],
@@ -17352,8 +17357,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:54:55.9135578+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:30:06.9176643+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:44:09.0641541+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:54:55.9136455+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:19:06.250582+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:30:06.9177825+00:00"
 }

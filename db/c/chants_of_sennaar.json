@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 456,
+  "EOS_Progressed": 458,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.92,
+  "EOS_Completed_Percentage": 5.9,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1960,6 +1960,11 @@
       "Time": "2023-11-05T23:03:41.879101+00:00",
       "NumProgressed": 456,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T02:24:55.2567671+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -1979,7 +1984,7 @@
       "Name": "In this together",
       "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "META_ALL_LINK",
@@ -2019,15 +2024,15 @@
       "Name": "Open door",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2035,7 +2040,7 @@
       "Name": "Feels like springtime",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2043,7 +2048,7 @@
       "Name": "A great audience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2051,15 +2056,15 @@
       "Name": "For its own good",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2091,7 +2096,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2107,7 +2112,7 @@
       "Name": "Champollion",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2115,7 +2120,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2153,9 +2158,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "PROGRESS_N5",
@@ -2170,14 +2175,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 456,
+      "Progressed": 458,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:49:51.8737625+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:24:55.2567669+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:43:32.2919454+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:49:51.8737812+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:18:27.9197237+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:24:55.2567958+00:00"
 }

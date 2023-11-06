@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -208,9 +208,9 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "fluff_hit_worker_priciple_square",
@@ -256,9 +256,9 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "story_conviction_lane",
@@ -329,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-06T01:55:45.1695682+00:00",
+  "LastChanged_Achievements": "2023-11-06T02:30:59.5585508+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:20.3478442+00:00",
-  "LastUpdate_Ratings": "2023-11-06T01:44:24.3369252+00:00",
-  "LastUpdate_Achievements": "2023-11-06T01:55:45.1695776+00:00"
+  "LastUpdate_Ratings": "2023-11-06T02:19:25.4043095+00:00",
+  "LastUpdate_Achievements": "2023-11-06T02:30:59.5585603+00:00"
 }
