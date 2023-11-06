@@ -6,56 +6,56 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 230.00% | ~536 |
-| Iron Chef | 196.00% | ~457 |
-| Greeno-B-Gone | 114.00% | ~266 |
-| Your Especially Earned Trajectory | 91.00% | ~212 |
-| Can We Keep It? | 56.00% | ~130 |
-| No Mountain Wide Enough | 55.00% | ~128 |
-| On that Grindset | 52.00% | ~121 |
-| My Time Mansion | 41.00% | ~96 |
-| Pack Mule | 38.00% | ~89 |
-| Financially Secure | 36.00% | ~84 |
-| Yakmel Whisperer | 36.00% | ~84 |
-| Diamonds are Forever | 35.00% | ~82 |
+| Adept Assembler | 234.00% | ~541 |
+| Iron Chef | 199.00% | ~460 |
+| Greeno-B-Gone | 116.00% | ~268 |
+| Your Especially Earned Trajectory | 92.00% | ~213 |
+| Can We Keep It? | 56.00% | ~129 |
+| No Mountain Wide Enough | 56.00% | ~129 |
+| On that Grindset | 53.00% | ~122 |
+| My Time Mansion | 42.00% | ~97 |
+| Pack Mule | 39.00% | ~90 |
+| Financially Secure | 37.00% | ~85 |
+| Yakmel Whisperer | 37.00% | ~85 |
+| Diamonds are Forever | 35.00% | ~81 |
 | Happier-est Place on Earth | 34.00% | ~79 |
-| Mole Masher | 33.00% | ~77 |
-| Knowledge is Power | 30.00% | ~70 |
-| Big Game Hunter | 30.00% | ~70 |
-| Better Late than Never | 30.00% | ~70 |
-| I Do! | 30.00% | ~70 |
-| Call Me Fishmael | 30.00% | ~70 |
-| Anti-Santa | 29.00% | ~68 |
-| Got Served | 29.00% | ~68 |
-| You Don't Win Friends With Salad | 29.00% | ~68 |
-| Unboxing | 29.00% | ~68 |
-| Finishing Touches | 27.00% | ~63 |
-| What Plants Crave | 27.00% | ~63 |
-| Officially Official | 27.00% | ~63 |
-| One of the Cool Kids | 24.00% | ~56 |
-| Chatterbox | 23.00% | ~54 |
+| Mole Masher | 33.00% | ~76 |
+| Knowledge is Power | 31.00% | ~72 |
+| Big Game Hunter | 31.00% | ~72 |
+| Better Late than Never | 31.00% | ~72 |
+| Call Me Fishmael | 31.00% | ~72 |
+| I Do! | 30.00% | ~69 |
+| You Don't Win Friends With Salad | 30.00% | ~69 |
+| Unboxing | 30.00% | ~69 |
+| Anti-Santa | 29.00% | ~67 |
+| Got Served | 29.00% | ~67 |
+| Finishing Touches | 28.00% | ~65 |
+| What Plants Crave | 27.00% | ~62 |
+| Officially Official | 27.00% | ~62 |
+| One of the Cool Kids | 24.00% | ~55 |
+| Chatterbox | 23.00% | ~53 |
 | Jewel of the Eufaula | 21.00% | ~49 |
 | First Love | 21.00% | ~49 |
-| Panda-kin | 18.00% | ~42 |
+| Panda-kin | 19.00% | ~44 |
 | Who Ya Gonna Call...? | 18.00% | ~42 |
-| Newton | 15.00% | ~35 |
-| Bridging the Gap | 14.00% | ~33 |
-| He Can Spin A Yarn... | 14.00% | ~33 |
-| Martle's Dream | 12.00% | ~28 |
+| Newton | 16.00% | ~37 |
+| Bridging the Gap | 15.00% | ~35 |
+| He Can Spin A Yarn... | 14.00% | ~32 |
+| Martle's Dream | 13.00% | ~30 |
+| Builder of the Month | 12.00% | ~28 |
 | Elementary, My Dear | 12.00% | ~28 |
 | Waste Not Want Not | 12.00% | ~28 |
-| Builder of the Month | 11.00% | ~26 |
-| Do Your Part | 11.00% | ~26 |
+| Do Your Part | 11.00% | ~25 |
 | Commissions, commissions...! | 10.00% | ~23 |
+| Cardistry | 10.00% | ~23 |
+| Pro Gamer | 10.00% | ~23 |
+| Santa In Training | 10.00% | ~23 |
 | Just What I Always Wanted! | 10.00% | ~23 |
+| Time Flies | 9.00% | ~21 |
 | Lifeline Pipeline | 9.00% | ~21 |
 | Got the Flow Back | 9.00% | ~21 |
-| Cardistry | 9.00% | ~21 |
-| Pro Gamer | 9.00% | ~21 |
-| Santa In Training | 9.00% | ~21 |
-| Jack of All Trades | 8.00% | ~19 |
-| Time Flies | 8.00% | ~19 |
-| Kind of a Big Deal | 8.00% | ~19 |
+| Jack of All Trades | 8.00% | ~18 |
+| Kind of a Big Deal | 8.00% | ~18 |
 | Sandrunning Speedster | 7.00% | ~16 |
 | It Belongs in a Museum! | 7.00% | ~16 |
 | It's High Noon... | 6.00% | ~14 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233 (Ranked 350)  
+Progressed: 231 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,12 +78,12 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 236 | 0 |
 | 2023-11-06 | 248 | 0 |
 ## Awards
-Max (Character Customization): 576  (Ranked 194)  
-Sum: 1,314 (Ranked 238)  
+Max (Character Customization): 579  (Ranked 194)  
+Sum: 1,317 (Ranked 238)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 576 |
+| This game has Inclusive Character Customization | 579 |
 | This game is Great for Beginners | 99 |
 | This game is Highly Recommended | 85 |
 | This game is Extremely Fun | 81 |
@@ -252,4 +252,4 @@ Diff (max vs sum): -44
 | 2023-11-03 | 4.68 | - | 576 | 1,255 |
 | 2023-11-04 | 4.68 | - | 576 | 1,257 |
 | 2023-11-05 | 4.68 | - | 576 | 1,259 |
-| 2023-11-06 | 4.68 | - | 576 | 1,314 |
+| 2023-11-06 | 4.68 | - | 579 | 1,317 |

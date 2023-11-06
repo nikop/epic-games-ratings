@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 52.00% | ~16 |
-| The Teleprobe | 23.00% | ~7 |
-| Volcanologist | 10.00% | ~3 |
-| The City | 10.00% | ~3 |
+| The Camp | 61.00% | ~20 |
+| The Teleprobe | 24.00% | ~8 |
+| The City | 18.00% | ~6 |
+| Krauta is alive | 12.00% | ~4 |
+| Volcanologist | 12.00% | ~4 |
+| I leave no man behind | 6.00% | ~2 |
 | The field base | 6.00% | ~2 |
 | The Alliance | 3.00% | ~1 |
-| Krauta is alive | 3.00% | ~1 |
-| I leave no man behind | 3.00% | ~1 |
 | No more mistakes | 3.00% | ~1 |
 | I remember everything! | 0.00% | ~0 |
 | On her own | 0.00% | ~0 |
@@ -34,10 +34,10 @@
 | The End | 0.00% | ~0 |
 | Beyond divisions | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 499)  
+Progressed: 33 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-03 | 2 | 0 |
-| 2023-11-06 | 31 | 0 |
+| 2023-11-06 | 33 | 0 |

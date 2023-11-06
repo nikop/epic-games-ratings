@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -1013,9 +1013,9 @@
       "ID": "Hitman",
       "SetID": "ek310c",
       "Name": "Short Circuit",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "Illustrator",
@@ -1141,9 +1141,9 @@
       "ID": "Unforeseen_Consequences",
       "SetID": "ek310c",
       "Name": "Unexpected Consequences",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
@@ -1158,8 +1158,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:12:42.7756811+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:04:15.6609172+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.9559002+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:11:30.5810153+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:12:42.7757031+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:03:13.2662563+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:04:15.6609413+00:00"
 }

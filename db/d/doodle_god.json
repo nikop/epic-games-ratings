@@ -3,8 +3,8 @@
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 396,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -314,6 +314,11 @@
       "Time": "2023-11-03T22:21:30.039+00:00",
       "NumProgressed": 248,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-06T21:03:28.3998305+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 22,
@@ -325,7 +330,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "605742",
@@ -339,9 +344,9 @@
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "605762",
@@ -357,7 +362,7 @@
       "Name": "Creator of Civilization",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "605782",
@@ -371,17 +376,17 @@
       "ID": "605792",
       "SetID": "4lpaifm",
       "Name": "Creator of Modernity",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "605802",
       "SetID": "4lpaifm",
       "Name": "Creator of Magic",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "605812",
@@ -419,9 +424,9 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "605862",
@@ -437,7 +442,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "605892",
@@ -500,7 +505,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 8
     }
   ],
@@ -508,8 +513,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:11:47.5381142+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:03:28.3998299+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.0268132+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:02:15.1386982+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:11:47.5381261+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:57:54.8538049+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:03:28.3998499+00:00"
 }

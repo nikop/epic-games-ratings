@@ -60,6 +60,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not just Pizza | 0.10% | ~449 |
 | Not so sad a state... | 0.10% | ~449 |
 | On the Rhodes Again | 0.10% | ~449 |
+| One Faith | 0.10% | ~449 |
 | One Family to Rule them All | 0.10% | ~449 |
 | Over a Thousand! | 0.10% | ~449 |
 | Populists in Government | 0.10% | ~449 |
@@ -70,6 +71,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sakoku Law | 0.10% | ~449 |
 | Seriously?! | 0.10% | ~449 |
 | Shahanshah | 0.10% | ~449 |
+| Subsidize my Love | 0.10% | ~449 |
 | Tear Down This Wall | 0.10% | ~449 |
 | That is mine! | 0.10% | ~449 |
 | That's a Silk Road | 0.10% | ~449 |
@@ -253,7 +255,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
-| One Faith | 0.00% | ~0 |
 | One King to Rule! | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | One Night in Paris | 0.00% | ~0 |
@@ -298,7 +299,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
 | Strait Talk | 0.00% | ~0 |
-| Subsidize my Love | 0.00% | ~0 |
 | The Sudanese Expedition | 0.00% | ~0 |
 | Sun Invasion | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,753 (Ranked 41)  
+Progressed: 448,792 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,753 | 1 |
+| 2023-11-06 | 448,792 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,376 (Ranked 24)  

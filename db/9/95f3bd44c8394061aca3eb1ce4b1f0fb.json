@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -605,8 +605,8 @@
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:15:31.4228033+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:06:43.745522+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.0909066+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:10:14.456268+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:15:31.4228122+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:01:00.0653206+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:06:43.7455317+00:00"
 }

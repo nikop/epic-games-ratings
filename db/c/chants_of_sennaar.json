@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 469,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.78,
+  "EOS_Completed_Percentage": 5.76,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2005,6 +2005,11 @@
       "Time": "2023-11-06T19:04:07.9743449+00:00",
       "NumProgressed": 467,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T21:03:54.4766065+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -2046,9 +2051,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "META_HALF_LINK",
@@ -2088,7 +2093,7 @@
       "Name": "A great audience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2096,7 +2101,7 @@
       "Name": "For its own good",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2120,7 +2125,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2160,7 +2165,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2184,7 +2189,7 @@
       "Name": "The great escape",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PROGRESS_N3",
@@ -2215,14 +2220,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 469,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:12:17.7548459+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:03:54.4766057+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:00:27.0094694+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:12:17.7548733+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:57:33.0908922+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:03:54.4766369+00:00"
 }

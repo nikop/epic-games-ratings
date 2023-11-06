@@ -2,12 +2,12 @@
   "ID": "fc8d1547232045f6a23257cfd04ef3e8",
   "Name": "RAYMAN\u00AE LEGENDS",
   "ProductSlug": "rayman-legends",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 86,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 359,
-  "Ranking_EOS_Progress": 727,
+  "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2019-11-29T11:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.8,
   "NumberOfRatings": 351,
   "RatingHistory": [
     {
@@ -994,6 +994,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 296,
       "NumberOfAwardsMax": 296
+    },
+    {
+      "Time": "2023-11-06T20:58:25.193209+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 296
     }
   ],
   "ReviewsDisabled": false,
@@ -1019,8 +1025,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
-  "LastChanged": "2023-11-05T21:58:12.779843+00:00",
+  "LastChanged": "2023-11-06T20:58:25.1932088+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.5107458+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:03:48.555616+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:15:00.136671+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:58:25.1932093+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:06:15.6519594+00:00"
 }

@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1773,
+  "EOS_Progressed": 1774,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6640,6 +6640,11 @@
       "Time": "2023-11-06T20:12:26.8475064+00:00",
       "NumProgressed": 1773,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T21:04:02.0698219+00:00",
+      "NumProgressed": 1774,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6755,7 +6760,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -6827,7 +6832,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6907,7 +6912,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6954,7 +6959,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1773,
+      "Progressed": 1774,
       "Completed": 1
     }
   ],
@@ -6962,8 +6967,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:12:26.8475059+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:04:02.0698207+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:09:22.2744135+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:12:26.8475665+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:00:13.0645679+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:04:02.0698928+00:00"
 }

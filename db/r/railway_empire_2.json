@@ -5794,9 +5794,9 @@
       "ID": "A25",
       "SetID": "9b7p7eo",
       "Name": "United States",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "A26",
@@ -6043,8 +6043,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:12:43.5063075+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:04:16.3747495+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:00:12.5709597+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:12:43.5063677+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:57:30.3839536+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:04:16.3748323+00:00"
 }

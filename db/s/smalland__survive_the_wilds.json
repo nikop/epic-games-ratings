@@ -2,12 +2,12 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 408,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20416,
+  "EOS_Progressed": 20417,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7712,6 +7712,11 @@
       "Time": "2023-11-06T20:17:35.4500588+00:00",
       "NumProgressed": 20416,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-06T21:09:02.4304288+00:00",
+      "NumProgressed": 20417,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -7739,7 +7744,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "FirstTame",
@@ -7787,7 +7792,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "PickupKey",
@@ -7803,7 +7808,7 @@
       "Name": "Metal Age",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "PickupSilk",
@@ -7819,14 +7824,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20416,
+      "Progressed": 20417,
       "Completed": 18
     }
   ],
@@ -7834,8 +7839,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-11-03T14:58:07.8620492+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:17:35.4500583+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:09:02.430428+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:09.5893986+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:05:23.6779663+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:17:35.4501035+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:58:48.7789788+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:09:02.4304932+00:00"
 }

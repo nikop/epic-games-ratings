@@ -10,14 +10,14 @@ Rating: 3.82 (Ranked 1,018)
 | Bosom Buddies | 31.00% | ~175 |
 | Beat the Heat | 24.00% | ~136 |
 | A Familiar Face | 16.00% | ~91 |
+| Unexpected Consequences | 14.00% | ~79 |
 | Mind the Gap | 13.00% | ~74 |
 | Does Not Compute | 13.00% | ~74 |
-| Unexpected Consequences | 13.00% | ~74 |
 | Identity Theft | 12.00% | ~68 |
 | F is for Feline | 12.00% | ~68 |
 | A Trip to Remember | 12.00% | ~68 |
 | U Mad Bro? | 11.00% | ~62 |
-| Short Circuit | 10.00% | ~57 |
+| Short Circuit | 11.00% | ~62 |
 | A Stealthy Outlook | 7.00% | ~40 |
 | Catch You Later | 7.00% | ~40 |
 | Between the Covers | 5.00% | ~28 |

@@ -2,9 +2,9 @@
   "ID": "51817fc62352469faf5aae0133642b45",
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
-  "Ranking_EOS_Progress": 727,
+  "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-26T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "LastUpdate_AppInfo": "2023-11-01T10:57:19.27083+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:09:23.3128958+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:16:51.4786963+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:00:14.1885523+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:08:23.8941398+00:00"
 }

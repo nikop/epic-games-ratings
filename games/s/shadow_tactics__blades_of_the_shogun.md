@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 273)  
+Rating: 4.67 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,911 |
 | High Five the Moon | 0.80% | ~1,698 |
 | The Cave | 0.80% | ~1,698 |
-| Merciful | 0.50% | ~1,061 |
-| Time Paradox | 0.50% | ~1,061 |
+| Merciful | 0.50% | ~1,062 |
+| Time Paradox | 0.50% | ~1,062 |
 | Five Shadows | 0.30% | ~637 |
 | Complete Mastery | 0.20% | ~425 |
 | Praise the Shogun | 0.20% | ~425 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~212 |
 | Release the Kraken | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,298 (Ranked 70)  
+Progressed: 212,302 (Ranked 70)  
 Completed: 96 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 96 (0.05%) (Ranked 297)
 | 2023-11-03 | 211,662 | 93 |
 | 2023-11-04 | 211,886 | 94 |
 | 2023-11-05 | 212,140 | 96 |
-| 2023-11-06 | 212,298 | 96 |
+| 2023-11-06 | 212,302 | 96 |
 ## Awards
 Max (Great for Beginners): 570  (Ranked 197)  
 Sum: 4,827 (Ranked 139)  

@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1847,9 +1847,9 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -2022,8 +2022,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:15:27.5352513+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:06:40.3538862+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.0858872+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:06:28.8598435+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:15:27.5352785+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:59:02.2255862+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:06:40.3539193+00:00"
 }

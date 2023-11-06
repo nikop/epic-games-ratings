@@ -58,7 +58,7 @@ Rating: 4.46 (Ranked 644)
 | Accurate | 4.00% | ~84 |
 | Three Cheers for Progress | 0.80% | ~17 |
 | European Union | 0.70% | ~15 |
-| United States | 0.60% | ~13 |
+| United States | 0.70% | ~15 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,100 (Ranked 215)  

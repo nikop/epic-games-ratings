@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -525,7 +525,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3222,
+  "EOS_Progressed": 3223,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
@@ -4335,6 +4335,11 @@
       "Time": "2023-11-06T20:13:07.0180103+00:00",
       "NumProgressed": 3222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T21:04:37.3675831+00:00",
+      "NumProgressed": 3223,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4355,7 +4360,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "achievement_11",
@@ -4475,7 +4480,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_6",
@@ -4514,7 +4519,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3222,
+      "Progressed": 3223,
       "Completed": 0
     }
   ],
@@ -4522,8 +4527,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-05T22:59:24.2798337+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:13:07.0180098+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:04:37.3675825+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:08:01.073483+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:13:07.0180397+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:59:30.8355036+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:04:37.3676221+00:00"
 }

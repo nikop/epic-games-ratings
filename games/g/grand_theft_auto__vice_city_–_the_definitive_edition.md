@@ -5,17 +5,17 @@ Rating: 4.53 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,016 |
-| Greasy Palms | 42.00% | ~4,580 |
-| South American Connection | 26.00% | ~2,835 |
+| Legal Counsel | 46.00% | ~5,017 |
+| Greasy Palms | 42.00% | ~4,581 |
+| South American Connection | 26.00% | ~2,836 |
 | Life of the Party | 21.00% | ~2,290 |
 | Tommy Two-Wheels | 16.00% | ~1,745 |
 | Big Heat from Little Havana | 15.00% | ~1,636 |
 | Chauffeur | 15.00% | ~1,636 |
-| Salutations My Little Friend | 11.00% | ~1,199 |
-| Iron-y | 10.00% | ~1,090 |
-| Gun for Hire | 9.00% | ~981 |
-| Mischief Managed | 9.00% | ~981 |
+| Salutations My Little Friend | 11.00% | ~1,200 |
+| Iron-y | 10.00% | ~1,091 |
+| Gun for Hire | 9.00% | ~982 |
+| Mischief Managed | 9.00% | ~982 |
 | Vice City Mogul | 7.00% | ~763 |
 | Bloodstained Hands | 7.00% | ~763 |
 | Catch Me if You Can | 6.00% | ~654 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 535)
 | Done it All | 1.00% | ~109 |
 | Kingpin | 0.60% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,904 (Ranked 154)  
+Progressed: 10,906 (Ranked 154)  
 Completed: 64 (0.59%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,14 +240,14 @@ Completed: 64 (0.59%) (Ranked 182)
 | 2023-11-03 | 10,803 | 64 |
 | 2023-11-04 | 10,835 | 64 |
 | 2023-11-05 | 10,882 | 64 |
-| 2023-11-06 | 10,904 | 64 |
+| 2023-11-06 | 10,906 | 64 |
 ## Awards
-Max (Great Boss Battles): 100  (Ranked 358)  
-Sum: 100 (Ranked 441)  
-Diff (max vs sum): -83  
+Max (Great Boss Battles): 101  (Ranked 357)  
+Sum: 101 (Ranked 441)  
+Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 100 |
+| This game has Great Boss Battles | 101 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -379,4 +379,4 @@ Diff (max vs sum): -83
 | 2023-10-29 | 4.53 | 99 | 99 |
 | 2023-11-04 | 4.53 | 100 | 100 |
 | 2023-11-05 | 4.54 | 100 | 100 |
-| 2023-11-06 | 4.53 | 100 | 100 |
+| 2023-11-06 | 4.53 | 101 | 101 |

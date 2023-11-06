@@ -793,9 +793,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3255,
+  "EOS_Progressed": 3256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4813,6 +4813,11 @@
       "Time": "2023-11-06T19:05:22.143302+00:00",
       "NumProgressed": 3255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T21:05:03.6877832+00:00",
+      "NumProgressed": 3256,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -4833,7 +4838,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "achievement_11",
@@ -4841,7 +4846,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "achievement_12",
@@ -4857,7 +4862,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "achievement_14",
@@ -4865,7 +4870,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "achievement_15",
@@ -4937,7 +4942,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "achievement_4",
@@ -4953,7 +4958,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "achievement_6",
@@ -4961,7 +4966,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "achievement_7",
@@ -4992,7 +4997,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3255,
+      "Progressed": 3256,
       "Completed": 0
     }
   ],
@@ -5000,8 +5005,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:13:37.5863315+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:05:03.6877826+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:12.3381259+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:09:33.1653603+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:13:37.5863568+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:00:21.7476213+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:05:03.6878243+00:00"
 }

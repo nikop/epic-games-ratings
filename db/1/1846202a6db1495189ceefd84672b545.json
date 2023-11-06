@@ -2,9 +2,9 @@
   "ID": "1846202a6db1495189ceefd84672b545",
   "Name": "The Future Project",
   "ProductSlug": "the-future-project-f19b52",
-  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Progress": 669,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-27T09:00:00+00:00",
@@ -304,8 +304,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-26T14:01:46.6937732+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:13:38.1544371+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:05:04.2393851+00:00",
   "LastUpdate_AppInfo": "2023-11-02T07:57:05.0286088+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:03:39.201266+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:13:38.1544589+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:58:22.2678302+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:05:04.2394093+00:00"
 }

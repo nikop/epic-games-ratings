@@ -2,12 +2,12 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 250,
-  "Ranking_EOS_Progress": 727,
+  "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2014-11-18T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 639,
   "RatingHistory": [
     {
@@ -2215,18 +2215,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1077,
       "NumberOfAwardsMax": 712
+    },
+    {
+      "Time": "2023-11-06T21:00:22.6826255+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1079,
+      "NumberOfAwardsMax": 714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1077,
-  "NumberOfAwardsMax": 712,
+  "NumberOfAwards": 1079,
+  "NumberOfAwardsMax": 714,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 712
+      "Count": 714
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2300,8 +2306,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-11-05T20:59:58.8550381+00:00",
+  "LastChanged": "2023-11-06T21:00:22.6826254+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:06.7035323+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:09:34.2955896+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:15:45.0715306+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:00:22.6826258+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:06:55.3733273+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -160,9 +160,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1450,
+  "EOS_Progressed": 1451,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1740,6 +1740,11 @@
       "Time": "2023-11-05T16:08:32.771876+00:00",
       "NumProgressed": 1450,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-06T21:09:10.6491349+00:00",
+      "NumProgressed": 1451,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1767,7 +1772,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1815,7 +1820,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1911,7 +1916,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1919,7 +1924,7 @@
       "Name": "How Romantic!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_maimedHero",
@@ -1927,7 +1932,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_mythwalker",
@@ -1943,7 +1948,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2023,7 +2028,7 @@
       "Name": "Daybreak",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2198,15 +2203,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1450,
+      "Progressed": 1451,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:17:44.2669844+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:09:10.6491342+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:27.3279297+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:01:41.4218889+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:17:44.2670254+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:57:47.6345055+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:09:10.6491951+00:00"
 }

@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3831,
+  "EOS_Progressed": 3832,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7727,6 +7727,11 @@
       "Time": "2023-11-06T19:06:33.2389473+00:00",
       "NumProgressed": 3831,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-06T21:06:11.1977597+00:00",
+      "NumProgressed": 3832,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7946,7 +7951,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7962,7 +7967,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -7986,7 +7991,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8130,7 +8135,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8305,13 +8310,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3782,
+      "Progressed": 3783,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3831,
+      "Progressed": 3832,
       "Completed": 11
     }
   ],
@@ -8319,8 +8324,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-06T20:14:55.0238924+00:00",
+  "LastChanged_Achievements": "2023-11-06T21:06:11.197759+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:02:02.2704562+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:14:55.0239973+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:57:52.5470587+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:06:11.1978776+00:00"
 }

@@ -8,14 +8,14 @@
 | No stone unturned | 1.00% | ~2 |
 | Dead-On | 1.00% | ~2 |
 | "This Guy Is Really Good" | 1.00% | ~2 |
-| I'd Buy That For a Dollar! | 0.60% | ~1 |
-| Hard Boiled | 0.60% | ~1 |
-| Uphold the Law | 0.60% | ~1 |
-| Nukem! | 0.60% | ~1 |
-| Strikeout! | 0.60% | ~1 |
-| There Can Only Be One | 0.60% | ~1 |
-| Zip This Up | 0.60% | ~1 |
-| SuperCop | 0.60% | ~1 |
+| I'd Buy That For a Dollar! | 0.50% | ~1 |
+| Hard Boiled | 0.50% | ~1 |
+| Uphold the Law | 0.50% | ~1 |
+| Nukem! | 0.50% | ~1 |
+| Strikeout! | 0.50% | ~1 |
+| There Can Only Be One | 0.50% | ~1 |
+| Zip This Up | 0.50% | ~1 |
+| SuperCop | 0.50% | ~1 |
 | May Be Used Against You | 0.00% | ~0 |
 | Officer of the month | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 370)  
+Progressed: 193 (Ranked 366)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,4 +41,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-13 | 3 | 0 |
 | 2023-10-23 | 4 | 0 |
 | 2023-11-02 | 5 | 0 |
-| 2023-11-06 | 181 | 0 |
+| 2023-11-06 | 193 | 0 |

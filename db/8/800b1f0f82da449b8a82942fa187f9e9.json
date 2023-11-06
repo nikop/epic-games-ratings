@@ -2,9 +2,9 @@
   "ID": "800b1f0f82da449b8a82942fa187f9e9",
   "Name": "Beaten Path",
   "ProductSlug": "beaten-path-14a286",
-  "Ranking_EOS_Progress": 727,
+  "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T20:57:05.5691077+00:00",
-  "LastUpdate_Ratings": "2023-11-06T20:09:35.6409579+00:00",
-  "LastUpdate_Achievements": "2023-11-06T20:11:58.7072238+00:00"
+  "LastUpdate_Ratings": "2023-11-06T21:00:23.780203+00:00",
+  "LastUpdate_Achievements": "2023-11-06T21:03:38.0285604+00:00"
 }

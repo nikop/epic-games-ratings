@@ -6,10 +6,10 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~228,370 |
-| I know the Rules | 35.00% | ~97,475 |
-| I Found it! | 11.00% | ~30,635 |
-| Contender | 10.00% | ~27,850 |
+| Ball Launched | 82.00% | ~228,380 |
+| I know the Rules | 35.00% | ~97,479 |
+| I Found it! | 11.00% | ~30,636 |
+| Contender | 10.00% | ~27,851 |
 | First but not Last | 4.00% | ~11,140 |
 | Ready Steady Score | 3.00% | ~8,355 |
 | Dress Code | 3.00% | ~8,355 |
@@ -19,15 +19,15 @@ Number of Ratings: 756  (23.09.2022)
 | Shiny Memento | 0.30% | ~836 |
 | Pinball Hoarder | 0.30% | ~836 |
 | Interior Designer | 0.30% | ~836 |
-| Table Mastered, part 10 | 0.10% | ~278 |
-| Medal Hunter | 0.10% | ~278 |
-| Medal Wizard | 0.10% | ~278 |
-| Virtual Pinball Museum | 0.10% | ~278 |
-| Challenge Accepted! | 0.10% | ~278 |
-| Relic Hunter | 0.10% | ~278 |
-| Show Them | 0.10% | ~278 |
-| Totally Furnished | 0.10% | ~278 |
-| Customizer | 0.10% | ~278 |
+| Table Mastered, part 10 | 0.10% | ~279 |
+| Medal Hunter | 0.10% | ~279 |
+| Medal Wizard | 0.10% | ~279 |
+| Virtual Pinball Museum | 0.10% | ~279 |
+| Challenge Accepted! | 0.10% | ~279 |
+| Relic Hunter | 0.10% | ~279 |
+| Show Them | 0.10% | ~279 |
+| Totally Furnished | 0.10% | ~279 |
+| Customizer | 0.10% | ~279 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278,500 (Ranked 53)  
+Progressed: 278,512 (Ranked 53)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 277,460 | 0 |
 | 2023-11-04 | 277,887 | 0 |
 | 2023-11-05 | 278,276 | 0 |
-| 2023-11-06 | 278,500 | 0 |
+| 2023-11-06 | 278,512 | 0 |
 ## Awards
 Max (Great for Beginners): 199  (Ranked 286)  
 Sum: 1,591 (Ranked 226)  
